@@ -8,4 +8,9 @@
     = javascript_pack_tag 'application'
     = stylesheet_pack_tag 'application'
   %body
-    = yield
+    = render 'application/navigation'
+    %main
+      = render 'application/header'
+      .contents
+        = yield
+      = render 'application/footer'

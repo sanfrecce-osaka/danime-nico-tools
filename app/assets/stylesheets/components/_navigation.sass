@@ -1,0 +1,29 @@
+nav
+  position: fixed
+  width: 84px
+  min-height: 100%
+  background-color: $main-color
+
+  ul
+    padding: 0
+
+    li
+      display: block
+      height: 70px
+      border-bottom: lightgray 1px solid
+      padding: 0
+      margin: 0
+
+      &:hover
+        background-color: lighten($main-color, 10%)
+
+      &.current-button
+        background-color: darken($main-color, 30%)
+
+      a
+        display: flex
+        height: 70px
+        cursor: pointer
+        justify-content: center
+        align-items: center
+        color: lighten($base-color, 40%)
