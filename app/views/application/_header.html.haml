@@ -1,4 +1,4 @@
-%header
+%header.d-flex.justify-content-start
   %h1 d-nico-tools
-  = text_field_tag :search, '', placeholder: '検索'
-  = select_tag :target, options_for_select(%w(全体 シリーズ 作品 各話).map { |option| [option, option] })
+  .search-field
+    = text_field_tag :animes, '', placeholder: '検索', class: 'form-control'

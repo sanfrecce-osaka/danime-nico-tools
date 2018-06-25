@@ -8,9 +8,26 @@ body
 
     .contents
       padding: 20px 30px
-      margin-top: 50px
+      margin-top: 46px
       min-height: 700px
       background-color: $base-color
 
   li
     list-style: none
+
+    &:focus
+      outline: none
+
+  a
+    color: $main-color
+
+    &:hover
+      color: $main-color
+
+    &:focus
+      outline: none
+
+  input[type="text"]
+    &:focus
+      border-color: #ced4da
+      box-shadow: none
