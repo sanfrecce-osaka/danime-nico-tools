@@ -1,0 +1,94 @@
+seasons_including_nonexistent_episodes:
+  -
+    id: 1
+    title: '鉄人28号ガオ！'
+    episodes:
+      -
+        id: 1
+        episode_no: ''
+        title: '【無料】金田正太郎危機一髪！'
+  -
+    id: 2
+    title: 'ソードアート・オンライン オルタナティブ ガンゲイル・オンライン'
+    episodes:
+      -
+        id: 1
+        episode_no: '#5.5'
+        title: 'ルフラン'
+  -
+    id: 3
+    title: '一人之下 羅天大ショウ篇（ラテンタイショウ篇）'
+    episodes:
+      -
+        id: 1
+        episode_no: '#0'
+        title: '一人之下 羅天大ショウ篇 放送直前スペシャル（１期総集編）'
+  -
+    id: 4
+    title: '立花館To Lieあんぐる'
+    episodes:
+      -
+        id: 1
+        episode_no: '第13話'
+        title: '特別番組『立花館To Lieあんぐる withエラバレシ』'
+seasons_including_different_title_episodes:
+  -
+    id: 1
+    title: '妖怪アパートの幽雅な日常'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '第15怪'
+          title: '新任教師登場！'
+        nico_branch:
+          episode_no: '第15怪'
+          title: '妖怪アパートの幽雅な日常'
+  -
+      id: 2
+      title: 'ねこねこ日本史 第２期'
+      episodes:
+        -
+          id: 1
+          head:
+            episode_no: '第47話・第48話'
+            title: 'まるっとまとめて、毛利元就！／祝！？ねこねこ日本、開国！'
+          nico_branch:
+            episode_no: '第47話・第48話'
+            title: 'まるっとまとめて、毛利元就！'
+  -
+        id: 3
+        title: 'ダメプリ ANIME CARAVAN'
+        episodes:
+          -
+            id: 1
+            head:
+              episode_no: '第1話'
+              title: 'ダメ王子×登場'
+            nico_branch:
+              episode_no: '第1話'
+              title: 'ダメ王子 × 登場'
+  -
+        id: 4
+        title: 'つうかあ'
+        episodes:
+          -
+            id: 1
+            head:
+              episode_no: '第5話'
+              title: '『Reverse Grid』'
+            nico_branch:
+              episode_no: '第5話'
+              title: '『ReverseGrid』'
+  -
+        id: 5
+        title: '少女終末旅行'
+        episodes:
+          -
+            id: 1
+            head:
+              episode_no: '第12話'
+              title: '「接続」「仲間」'
+            nico_branch:
+              episode_no: '第12話'
+              title: '少女終末旅行'

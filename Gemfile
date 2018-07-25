@@ -32,6 +32,7 @@ group :development, :test do
   gem 'pry-doc'
   gem 'pry-byebug'
   gem 'pry-stack_explorer'
+  gem 'selenium-webdriver'
 end
 
 group :development do
@@ -47,7 +48,6 @@ end
 
 group :test do
   gem 'capybara'
-  gem 'selenium-webdriver'
   gem 'launchy'
   gem 'shoulda-matchers'
 end
@@ -57,3 +57,4 @@ gem 'config'
 gem 'haml-rails'
 gem 'webpacker', github: 'rails/webpacker'
 gem 'devise'
+gem 'hashie'

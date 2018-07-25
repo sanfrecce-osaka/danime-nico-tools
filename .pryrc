@@ -28,5 +28,5 @@ if defined? Hirb
 end
 
 # For awesome_print
-require "awesome_print"
+require 'awesome_print'
 AwesomePrint.pry!

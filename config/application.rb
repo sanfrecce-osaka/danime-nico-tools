@@ -39,5 +39,7 @@ module DanimeNicoTools
                        request_specs: true
       g.fixture_replacement :factory_bot, dir: 'spec/factories'
     end
+
+    config.eager_load_paths << Rails.root.join('lib')
   end
 end
