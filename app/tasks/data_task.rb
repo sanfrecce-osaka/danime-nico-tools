@@ -39,7 +39,7 @@ class DataTask
 
     def update_on_air_seasons
       logger.debug('selecting seasons now...')
-      target_seasons = already_created_seasons.select(&:watchable).reject { |season| on_air_season?(season) }
+      target_seasons = already_created_seasons.select(&:watchable).select { |season| on_air_season?(season) }
       target_seasons.each { |target_season| create_season(target_season) }
     end
 
