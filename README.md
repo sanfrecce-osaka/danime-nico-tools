@@ -1,24 +1,31 @@
-# README
+# danime-nico-tools
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+danime-nico-toolsというサービスは、<br>
+現状のdアニメストア ニコニコ支店では見たいアニメを見つけにくく、コメントが全く無いまたは少ないアニメが多いという問題を解決したい<br>
+アニメをコメント付きで見たい人向けの、<br>
+dアニメストア ニコニコ支店用便利ツールです。<br>
+ユーザーはchrome拡張との連携で他動画のコメントの引用、及びアニメの検索ができ、<br>
+本家dアニメストア ニコニコ支店とは違って、<br>
+目当てのアニメを見つけやすい検索と公式チャンネル以外からもコメントを引用できる機能が備わっている事が特徴です。
 
-Things you may want to cover:
+## Requirement
 
-* Ruby version
+- Ruby 2.5.1
+- Rails 5.2.0
 
-* System dependencies
+## Setup
 
-* Configuration
+```bash
+$ brew install yarn
+$ bin/setup
+$ yarn install
+$ bin/rails s
+```
 
-* Database creation
+## Test
+```bash
+$ bin/rails spec
+```
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Licence
+MIT
