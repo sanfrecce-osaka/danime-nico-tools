@@ -27,10 +27,20 @@ namespace :data do
     execute_task(task.name, create_uncreated_seasons)
   end
 
-  desc 'update designated season data'
-  task designated_seasons: 'db/data' do |task|
-    update_designated_seasons = -> { DataTask.update_designated_seasons(ENV['season_title']) }
-    execute_task(task.name, update_designated_seasons)
+  namespace :designated_season do
+    desc 'create designated season data'
+    task create: 'db/data' do |task|
+      crate_designated_season = -> { DataTask.create_designated_season(ENV['season_title']) }
+      execute_task(task.name, crate_designated_season)
+    end
+  end
+
+  namespace :designated_seasons do
+    desc 'update designated season data'
+    task update: 'db/data' do |task|
+      update_designated_seasons = -> { DataTask.update_designated_seasons(ENV['season_title']) }
+      execute_task(task.name, update_designated_seasons)
+    end
   end
 
   desc 'update on-air season data'
