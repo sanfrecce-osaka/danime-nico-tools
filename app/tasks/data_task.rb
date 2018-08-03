@@ -29,11 +29,15 @@ class DataTask
       target_season_titles.each { |season_title| create_season(initialize_season(season_title)) }
     end
 
+    def create_designated_season(title)
+      logger.debug('selecting seasons now...')
+      create_season(initialize_season(title)) unless already_created_seasons.any? { |season| season.title == title }
+    end
+
     def update_designated_seasons(target_string)
       logger.debug('selecting seasons now...')
       target_seasons =
         already_created_seasons.select { |season| season.title =~ %r(#{Regexp.escape(target_string)}) }
-      target_seasons = [initialize_season(target_string)] unless target_seasons
       target_seasons.each { |target_season| create_season(target_season) }
     end
 

@@ -31,6 +31,15 @@ seasons_including_nonexistent_episodes:
         id: 1
         episode_no: '第13話'
         title: '特別番組『立花館To Lieあんぐる withエラバレシ』'
+  -
+    id: 5
+    title: 'orange'
+    episodes:
+      -
+        id: 1
+        episode_no: '13'
+        title: 'LAST　LETTER'
+
 seasons_including_different_title_episodes:
   -
     id: 1
@@ -92,3 +101,15 @@ seasons_including_different_title_episodes:
             nico_branch:
               episode_no: '第12話'
               title: '少女終末旅行'
+  -
+          id: 6
+          title: 'TVアニメ「ペルソナ５」'
+          episodes:
+            -
+              id: 1
+              head:
+                episode_no: '#17'
+                title: 'X Day'
+              nico_branch:
+                episode_no: '#17'
+                title: 'TVアニメ「ペルソナ５」'
