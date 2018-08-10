@@ -83,4 +83,4 @@ production:
   <<: *default
   database: danime-nico-tools_production
   username: danime-nico-tools
-  password: <%= Settings.database.password %>
+  password: <%= ENV['DANIME-NICO-TOOLS_DATABASE_PASSWORD'] %>
