@@ -15,7 +15,6 @@ class CreateEpisodes < ActiveRecord::Migration[5.2]
       t.timestamps null: false
     end
 
-    add_presence_constraint :episodes, :title
     add_presence_constraint :episodes, :description
     add_presence_constraint :episodes, :thumbnail_url
     add_presence_constraint :episodes, :content_id
