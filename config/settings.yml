@@ -102,14 +102,34 @@ seasons_including_different_title_episodes:
               episode_no: '第12話'
               title: '少女終末旅行'
   -
-          id: 6
-          title: 'TVアニメ「ペルソナ５」'
+        id: 6
+        title: 'ワンピース チョッパー登場・冬島編'
+        episodes:
+          -
+            id: 1
+            head:
+              episode_no: '第88話'
+              title: '動物<ゾオン>系悪魔の実！チョッパー七段変形'
+            nico_branch:
+              episode_no: '第88話'
+              title: '動物＜ゾオン＞系悪魔の実！チョッパー七段変形'
+  -
+          id: 7
+          title: '妖怪ウォッチ シャドウサイド'
           episodes:
             -
               id: 1
               head:
-                episode_no: '#17'
-                title: 'X Day'
+                episode_no: '第３話'
+                title: '略奪魔レッドヘッド'
               nico_branch:
-                episode_no: '#17'
-                title: 'TVアニメ「ペルソナ５」'
+                episode_no: '第３話'
+                title: '略奪魔 レッドヘッド'
+            -
+              id: 2
+              head:
+                episode_no: '第１４話'
+                title: '不動明王邪と天'
+              nico_branch:
+                episode_no: '第１４話'
+                title: '不動明王 邪と天'

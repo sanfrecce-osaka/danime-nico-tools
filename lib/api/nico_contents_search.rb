@@ -68,7 +68,24 @@ module Api
       end
 
       def find_episode(results, season, episode)
-        results.find { |result| full_to_half(result.title) =~ %r(#{target_title_for_regexp(season, episode)}$) }
+        found_result =
+          results
+            .find do |result|
+              full_to_half(result.title) =~ %r(#{target_title_for_regexp(season, episode)}$)
+            end
+        if found_result
+          found_result
+        else
+          error_message =
+            <<~ERROR
+              result not found
+              params: #{[season.title, episode.episode_no, episode.title, 'dアニメ'].select(&:present?).join('　')}"
+              target_title: #{results.present? ? full_to_half(results.first.title) : ''}
+              regexp: #{%r(#{target_title_for_regexp(season, episode)}$)}
+            ERROR
+          logger.error(error_message)
+          raise StandardError
+        end
       end
 
       def target_title_for_regexp(season, episode)
