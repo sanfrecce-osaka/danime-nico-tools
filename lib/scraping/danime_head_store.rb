@@ -51,6 +51,7 @@ module Scraping
       def fetch_season_thumbnail_url_and_move_to_season_page
         logger.debug('getting thumbnail url now...')
         return @season.watchable = false if result_is_zero?
+        sleep 1
         target_item =
           @driver
             .find_elements(:class, 'itemModuleIn')
@@ -100,6 +101,7 @@ module Scraping
         episodes =
           (1..slide_count).map do |loop_count|
             episode_wrapper.find_element(:class, 'btnEpisodeNext').click if loop_count != 1
+            sleep 1
             fetch_episodes_from_active_slide(episode_wrapper)
           end.flatten
         episodes.reject! { |episode| episode.nonexistent_episode?(@season) } if @season.has_nonexistent_episode?
@@ -193,6 +195,7 @@ module Scraping
         logger.debug('getting related season titles now...')
         @season.related_seasons = @season.delete(:related_season_links).map do |link|
           @driver.get(link)
+          sleep 1
           SeasonHash.new(title: @driver.find_element(:id, 'breadCrumb_d').text)
         end
       end
