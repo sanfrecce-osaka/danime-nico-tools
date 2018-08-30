@@ -14,6 +14,7 @@ class DataTask
     end
 
     def create_season_list
+      YAMLFile.write(DataTask::SEASON_LIST_PATH, []) unless File.exist?(DataTask::SEASON_LIST_PATH)
       season_list = Scraping::SeasonLineup.execute(YAMLFile.open(DataTask::SEASON_LIST_PATH))
       YAMLFile.write(DataTask::SEASON_LIST_PATH, season_list)
     end
