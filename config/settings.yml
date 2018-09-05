@@ -39,6 +39,14 @@ seasons_including_nonexistent_episodes:
         id: 1
         episode_no: '13'
         title: 'LAST　LETTER'
+  -
+    id: 6
+    title: '千銃士'
+    episodes:
+      -
+        id: 1
+        episode_no: '第9.5話'
+        title: '目指せ絶対高貴！ふたりはNoble ！'
 
 seasons_including_different_title_episodes:
   -
