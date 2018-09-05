@@ -133,3 +133,15 @@ seasons_including_different_title_episodes:
               nico_branch:
                 episode_no: '第１４話'
                 title: '不動明王 邪と天'
+  -
+            id: 8
+            title: 'TVアニメ「ペルソナ５」'
+            episodes:
+              -
+                id: 1
+                head:
+                  episode_no: '#21'
+                  title: 'You can call me "Noir"'
+                nico_branch:
+                  episode_no: '#21'
+                  title: 'You can call me ”Noir”'
