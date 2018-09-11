@@ -2,10 +2,9 @@
 
 source 'https://rubygems.org'
 
-git_source(:github) do |repo_name|
-  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?('/')
-  "https://github.com/#{repo_name}.git"
-end
+git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+
+ruby '2.5.1'
 
 gem 'rails'
 gem 'pg'
@@ -60,3 +59,4 @@ gem 'devise'
 gem 'hashie'
 gem 'rein'
 gem 'seed-fu', '~> 2.3'
+gem 'bootsnap', require: false
