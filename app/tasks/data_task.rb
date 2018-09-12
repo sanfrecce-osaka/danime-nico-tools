@@ -3,23 +3,26 @@
 class DataTask
   include HashieCreatable
 
-  OUTPUT_ROOT_DIR = './db'
-  SEASON_LIST_PATH = "#{OUTPUT_ROOT_DIR}/season_list.yml"
-  OUTPUT_SEASONS_DIR = "#{OUTPUT_ROOT_DIR}/data"
-  OUTPUT_SEASONS_PATH = "#{OUTPUT_SEASONS_DIR}/*.yml"
+  FIXTURES_DIR = "./db/fixtures"
+  LISTS_DIR = "#{FIXTURES_DIR}/lists"
+  SEASON_LIST_PATH = "#{LISTS_DIR}/season_list.yml"
+  SEASONS_DIR = "#{FIXTURES_DIR}/seasons"
+  SEASONS_PATH = "#{SEASONS_DIR}/*.yml"
 
   class << self
     def get_not_watchable_season_list
       puts already_created_seasons.reject(&:watchable).map(&:title)
     end
 
-    def create_season_list
-      YAMLFile.write(DataTask::SEASON_LIST_PATH, []) unless File.exist?(DataTask::SEASON_LIST_PATH)
-      season_list = Scraping::SeasonLineup.execute(YAMLFile.open(DataTask::SEASON_LIST_PATH))
-      YAMLFile.write(DataTask::SEASON_LIST_PATH, season_list)
+    def create_season_list(target_path = DataTask::SEASON_LIST_PATH)
+      initialize_dir(DataTask::LISTS_DIR)
+      initialize_yaml(target_path)
+      season_list = Scraping::SeasonLineup.execute(YAMLFile.open(target_path))
+      YAMLFile.write(target_path, season_list)
     end
 
     def create_uncreated_seasons
+      initialize_dir(DataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
       season_list = YAMLFile.open(DataTask::SEASON_LIST_PATH)
       already_created_season_titles = already_created_seasons.map(&:title)
@@ -36,6 +39,7 @@ class DataTask
     end
 
     def update_designated_seasons(target_string)
+      initialize_dir(DataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
       target_seasons =
         already_created_seasons.select { |season| season.title =~ %r(#{Regexp.escape(target_string)}) }
@@ -43,6 +47,7 @@ class DataTask
     end
 
     def update_on_air_seasons
+      initialize_dir(DataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
       target_seasons = already_created_seasons.select(&:watchable).select { |season| on_air_season?(season) }
       target_seasons.each { |target_season| create_season(target_season) }
@@ -51,7 +56,15 @@ class DataTask
     private
 
     def already_created_seasons
-      Dir.glob(DataTask::OUTPUT_SEASONS_PATH).map { |path| YAMLFile.open(path).merge(file_path: path) }
+      Dir.glob(DataTask::SEASONS_PATH).map { |path| YAMLFile.open(path).merge(file_path: path) }
+    end
+
+    def initialize_dir(target_path)
+      FileUtils.mkpath(target_path) unless Dir.exist?(target_path)
+    end
+
+    def initialize_yaml(target_path, value = [])
+      YAMLFile.write(target_path, value) unless File.exist?(target_path)
     end
 
     def initialize_season(title)
@@ -69,11 +82,11 @@ class DataTask
     end
 
     def new_season_path
-      "#{DataTask::OUTPUT_SEASONS_DIR}/season_#{next_season_no}.yml"
+      "#{DataTask::SEASONS_DIR}/season_#{next_season_no}.yml"
     end
 
     def next_season_no
-      format('%05d', Dir.glob(DataTask::OUTPUT_SEASONS_PATH).length + 1)
+      format('%05d', Dir.glob(DataTask::SEASONS_PATH).length + 1)
     end
 
     def on_air_season?(season)

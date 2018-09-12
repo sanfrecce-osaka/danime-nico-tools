@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-seasons = Dir.glob(DataTask::OUTPUT_SEASONS_PATH).map { |path| YAMLFile.open(path) }
+seasons = Dir.glob(DataTask::SEASONS_PATH).map { |path| YAMLFile.open(path) }
 
 seasons.each.with_index(1) do |season, season_id|
   Season.seed do |s|
