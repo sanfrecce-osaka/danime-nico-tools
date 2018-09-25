@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class DataTask
+class FixtureDataTask
   include HashieCreatable
 
   FIXTURES_DIR = "./db/fixtures"
@@ -14,17 +14,17 @@ class DataTask
       puts SeasonHash.already_created.reject(&:watchable).map(&:title)
     end
 
-    def create_season_list(target_path = DataTask::SEASON_LIST_PATH)
-      initialize_dir(DataTask::LISTS_DIR)
+    def create_season_list(target_path = FixtureDataTask::SEASON_LIST_PATH)
+      initialize_dir(FixtureDataTask::LISTS_DIR)
       initialize_yaml(target_path)
       season_list = Scraping::SeasonLineup.execute(YAMLFile.open(target_path))
       YAMLFile.write(target_path, season_list)
     end
 
     def create_uncreated_seasons
-      initialize_dir(DataTask::SEASONS_DIR)
+      initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
-      season_list = YAMLFile.open(DataTask::SEASON_LIST_PATH)
+      season_list = YAMLFile.open(FixtureDataTask::SEASON_LIST_PATH)
       already_created_season_titles = SeasonHash.already_created.map(&:title)
       target_season_titles =
         season_list
@@ -39,7 +39,7 @@ class DataTask
     end
 
     def update_designated_seasons(target_string)
-      initialize_dir(DataTask::SEASONS_DIR)
+      initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
       target_seasons =
         SeasonHash.already_created.select { |season| season.title =~ %r(#{Regexp.escape(target_string)}) }
@@ -47,7 +47,7 @@ class DataTask
     end
 
     def update_on_air_seasons
-      initialize_dir(DataTask::SEASONS_DIR)
+      initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
       target_seasons = SeasonHash.already_created.select(&:watchable).select(&:on_air?)
       target_seasons.each { |target_season| create_season(target_season) }
@@ -78,11 +78,11 @@ class DataTask
     end
 
     def new_season_path
-      "#{DataTask::SEASONS_DIR}/season_#{next_season_no}.yml"
+      "#{FixtureDataTask::SEASONS_DIR}/season_#{next_season_no}.yml"
     end
 
     def next_season_no
-      format('%05d', Dir.glob(DataTask::SEASONS_PATH).length + 1)
+      format('%05d', Dir.glob(FixtureDataTask::SEASONS_PATH).length + 1)
     end
   end
 end

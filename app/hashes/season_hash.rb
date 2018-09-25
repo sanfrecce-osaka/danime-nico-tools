@@ -3,7 +3,7 @@
 class SeasonHash < BaseHash
   class << self
     def already_created
-      Dir.glob(DataTask::SEASONS_PATH).map { |path| YAMLFile.open(path).merge(file_path: path) }
+      Dir.glob(FixtureDataTask::SEASONS_PATH).map { |path| YAMLFile.open(path).merge(file_path: path) }
     end
   end
 
