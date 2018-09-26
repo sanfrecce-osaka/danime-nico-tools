@@ -15,6 +15,12 @@ class DBDataTask
       target_seasons.each { |season| create_or_update_data(season.to_h) }
     end
 
+    def update_not_watchable_seasons
+      logger.debug('selecting seasons now...')
+      target_seasons = Season.where(watchable: false)
+      target_seasons.each { |season| create_or_update_data(season.to_h) }
+    end
+
     private
 
     def initialize_fixture_season(title)
@@ -38,7 +44,7 @@ class DBDataTask
       attributes.outline = fixture_season.outline  if fixture_season.key?(:outline)
       attributes.cast = fixture_season.cast  if fixture_season.key?(:cast)
       attributes.staff = fixture_season.staff  if fixture_season.key?(:staff)
-      attributes.produced_year = fixture_season.produced_year[%r(\d+)] if fixture_season.key?(:produced_year)
+      attributes.produced_year = fixture_season.produced_year.to_s[%r(\d+)] if fixture_season.key?(:produced_year)
       attributes.copyright = fixture_season.copyright if fixture_season.key?(:copyright)
       season.update!(attributes)
       season
