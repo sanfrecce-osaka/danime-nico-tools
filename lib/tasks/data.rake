@@ -12,10 +12,10 @@ namespace :data do
       execute_task(task.name, create_season_list)
     end
 
-    desc 'show list of not watchable seasons'
-    task not_watchable_season_list: :setup do |task|
-      get_not_watchable_season_list = -> { FixtureDataTask.get_not_watchable_season_list }
-      execute_task(task.name, get_not_watchable_season_list)
+    desc 'update not watchable season yaml data'
+    task not_watchable_seasons: :setup do |task|
+      update_not_watchable_seasons = -> { FixtureDataTask.update_not_watchable_seasons }
+      execute_task(task.name, update_not_watchable_seasons)
     end
 
     desc 'create uncreated season yaml data'
