@@ -4,7 +4,7 @@ module HashieCreatable
   extend ActiveSupport::Concern
   included { extend HashieCreatable }
 
-  def hashie(hash)
+  def hashie(hash = {})
     Hashie::Mash.new(hash)
   end
 end

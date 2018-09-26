@@ -53,5 +53,11 @@ namespace :data do
       create_uncreated_seasons = -> { DBDataTask.create_uncreated_seasons }
       execute_task(task.name, create_uncreated_seasons)
     end
+
+    desc 'update on-air season records'
+    task on_air_seasons: :setup do |task|
+      update_on_air_seasons = -> { DBDataTask.update_on_air_seasons }
+      execute_task(task.name, update_on_air_seasons)
+    end
   end
 end
