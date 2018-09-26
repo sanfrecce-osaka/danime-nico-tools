@@ -12,6 +12,7 @@ module TaskExecutable
       procs.each(&:call)
       finish_log(name)
     rescue => exception
+      logger.error(exception)
       fail_log(name)
       raise exception
     end
