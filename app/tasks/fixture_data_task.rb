@@ -10,8 +10,11 @@ class FixtureDataTask
   SEASONS_PATH = "#{SEASONS_DIR}/*.yml"
 
   class << self
-    def get_not_watchable_season_list
-      puts SeasonHash.already_created.reject(&:watchable).map(&:title)
+    def update_not_watchable_seasons
+      initialize_dir(FixtureDataTask::SEASONS_DIR)
+      logger.debug('selecting seasons now...')
+      target_seasons = SeasonHash.already_created.reject(&:watchable)
+      target_seasons.each { |target_season| create_season(target_season) }
     end
 
     def create_season_list(target_path = FixtureDataTask::SEASON_LIST_PATH)
