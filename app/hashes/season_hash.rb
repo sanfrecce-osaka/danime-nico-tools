@@ -27,11 +27,7 @@ class SeasonHash < BaseHash
   end
 
   def on_air?
-    next_episode_content_ids =
-      episodes
-        .map { |episode| episode.description.match(%r(次話→((so\d+)|[[:blank:]]|$))) }
-        .reject(&:nil?)
-        .map { |match_data| match_data[1] }
-    (next_episode_content_ids - episodes.map(&:content_id)).length > 0
+    return false unless watchable
+    %r(次話→) === episodes.last.description
   end
 end

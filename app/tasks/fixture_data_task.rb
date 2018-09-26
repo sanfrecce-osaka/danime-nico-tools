@@ -49,7 +49,7 @@ class FixtureDataTask
     def update_on_air_seasons
       initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
-      target_seasons = SeasonHash.already_created.select(&:watchable).select(&:on_air?)
+      target_seasons = SeasonHash.already_created.select(&:on_air?)
       target_seasons.each { |target_season| create_season(target_season) }
     end
 
