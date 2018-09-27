@@ -71,5 +71,11 @@ namespace :data do
       update_not_watchable_seasons = -> { DBDataTask.update_not_watchable_seasons }
       execute_task(task.name, update_not_watchable_seasons)
     end
+
+    desc 'update season records to not watchable'
+    task seasons_to_not_watchable: :setup do |task|
+      update_to_not_watchable = -> { DBDataTask.update_to_not_watchable }
+      execute_task(task.name, update_to_not_watchable)
+    end
   end
 end
