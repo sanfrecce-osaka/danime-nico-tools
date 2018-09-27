@@ -1,0 +1,180 @@
+--- !ruby/hash:SeasonHash
+title: 蒼き鋼のアルペジオ -アルス・ノヴァ-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/02/7/11027_1_6.png?1454931480000
+outline: 2039年、人類は温暖化に伴う急激な海面上昇により、地上での版図を大きく失った。それに呼応するかのように、霧を纏う謎の軍艦群｢霧の艦隊｣が世界各地の海洋に出現、搭載した超兵器で人類の艦を攻撃し始めた。人類は持ちうる戦力を投入し、最終決戦｢大海戦｣に臨むも、｢霧｣の圧倒的な武力の前に脆くも敗れ去った。全ての海域、運搬経路を｢霧の艦隊｣によって封鎖され、政治経済は崩壊、人類は疲弊の一歩をたどっていた―――
+  ｢大海戦｣から7年。士官候補生・千早群像の前に現れた、｢霧の艦隊｣の潜水艦｢イ401｣。敵であるはずの｢イ401｣、そのメンタルモデル｢イオナ｣との出会いは群像に、そして人類に何をもたらすのか・・・？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ゆかな
+  type: cast
+- !ruby/hash:TagHash
+  name: 興津和幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕上舞
+  type: cast
+- !ruby/hash:TagHash
+  name: 山村響
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：フライングドッグ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岸誠二
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：森田和明
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：サンジゲン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：甲田雅人
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 頭脳戦
+  type: other
+- !ruby/hash:TagHash
+  name: 上江洲誠
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: "｢航路を持つ者｣"
+  description: 21世紀中盤、温暖化に伴う海面上昇により、人類は地上での版図を大きく失った。その混乱に呼応するかのように世界各地に現れた｢霧の艦隊｣にすべての海域を封鎖され、人類は疲弊の一途をたどっていた  .F
+    N/ N/。士官候補生・千早群像の前に現れた｢霧の艦隊｣の潜水艦｢イ 401｣。敵であるはずの｢イ 401｣、そのメンタルモデル｢イオナ｣との出会いは彼に、そして人類に何をもたらすのか・・・？<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>次話→so32155078
+  length_seconds: 1459
+  content_id: so32155077
+  default_thread_id: 1508881286
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155077
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: "｢嵐の中へ｣"
+  description: イ401/イオナとの出会いから2年。イ401の艦長となった群像は、海洋技術総合学院の同級生たちをクルーに迎え、日本政府の依頼を受けて佐世保から横須賀に向かう。行手を遮るのは、台風11号の目に居座る霧の重巡洋艦タカオ。台風とともに移動するタカオは、スペック上あり得ないほど広大な索敵範囲を示し、確実に401のデコイを削る。追い込まれた群像は、タカオとの勝負を選択するが・・・！<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155077←前話｜次話→so32155079　第一話→so32155077
+  length_seconds: 1459
+  content_id: so32155078
+  default_thread_id: 1508880981
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155078
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: "｢要塞港、横須賀｣"
+  description: タカオを退け、横須賀に入港するイ401。日本政府が開発した対｢霧｣用の秘密兵器｢振動弾頭｣のサンプルを積み込むためだ。積込みと補給の間、イオナを伴い街へ出る群像。｢霧｣との戦いによる犠牲者の慰霊碑を訪れた2人は、陸軍の部隊に囲まれる。次期首相とも目される大物政治家・北良寛の差し金であった。イ401を政府に返還するよう求める北との息詰まる階段の最中、突如横須賀を砲弾が襲う！！<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155078←前話｜次話→so32155080　第一話→so32155077
+  length_seconds: 1460
+  content_id: so32155079
+  default_thread_id: 1508881250
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155079
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: "｢横須賀急襲｣"
+  description: 横須賀を襲った砲弾は、霧の大戦艦級・キリシマとハルナからのものであった。陸地への被害を防ぐため、急遽出港したイ401は、横須賀港を覆う防護壁の内部での決戦を挑む。2隻の大戦艦級による大火力の砲撃をかいくぐり、その裏をかく作戦を繰り出す401に、キリシマとハルナはイ401の｢変化｣を感じ取る。全砲門を開いて攻撃を仕掛ける2隻に、群像は｢裏の裏をかく｣最期の一手を繰り出す！<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155079←前話｜次話→so32155081　第一話→so32155077
+  length_seconds: 1460
+  content_id: so32155080
+  default_thread_id: 1508880999
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155080
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: "｢人ならざる者｣"
+  description: イ401に沈められたキリシマとハルナ。艦体を失い、メンタルモデルの身体だけになったハルナと、メンタルモデルすら失いユニオンコアだけになったキリシマは、不思議な少女・刑部蒔絵に拾われる。目覚めたハルナとキリシマは人間のフリをしながら様子を伺うが、蒔絵の父・刑部博士が人類の対｢霧｣最終兵器・振動弾頭を開発した人物であることを知り、その開発データを回収に向かうが・・・！？<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155080←前話｜次話→so32155107　第一話→so32155077
+  length_seconds: 1459
+  content_id: so32155081
+  default_thread_id: 1508881249
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155081
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: "｢ともだち｣"
+  description: 刑部博士から｢蒔絵の友だちになって欲しい｣と頼まれたハルナとキリシマ。デザインチャイルドとして生まれ｢振動弾頭｣を開発した蒔絵の寝顔に、言い知れぬ想いを抱く。そんな中、蒔絵が霧の手に落ちることを危ぶんだ上陰次官補の手の特殊部隊が刑部邸を襲う。蒔絵を守るため、特殊部隊に立ち向かうハルナ。しかしハルナが霧であることを知った蒔絵はその手を離れ、ふたりの想いはすれ違う。<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155081←前話｜次話→so32155108　第一話→so32155077
+  length_seconds: 1459
+  content_id: so32155107
+  default_thread_id: 1508882083
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155107
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: "｢硫黄島｣"
+  description: 刑部邸で救出した蒔絵・ハルナ・キリシマを載せ、イ401は大戦艦・ヒュウガのメンタルモデルが管理する秘密の母港・硫黄島へ向かう。だが、入港した彼らを待ち受けていたのは、重巡洋艦タカオだった!振動弾頭をアメリカに輸送するため、修理と補給にいそしむ一行は、メンタルモデル同士、あるいは人とメンタルモデルとのコミュニケーションを通して何かを学んでいくが・・・。<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155107←前話｜次話→so32155109　第一話→so32155077
+  length_seconds: 1459
+  content_id: so32155108
+  default_thread_id: 1508882224
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155108
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: "｢人形の家｣"
+  description: 硫黄島はコンゴウ率いる霧の東洋方面第一巡航艦隊に包囲された。｢君と話がしたい。｣群像は旗艦・コンゴウのメンタルモデルを硫黄島に招く。マヤを伴い上陸したコンゴウは、イオナやヒュウガ、自らの艦体から出奔したタカオ、ハルナたちの現在を垣間みる。｢全ての原因は千早群像にある。｣兵器である自分たちに起きつつある｢変化｣を受け入れられないコンゴウは、群像の抹殺とイ401の撃滅を決意する。<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155108←前話｜次話→so32155110　第一話→so32155077
+  length_seconds: 1460
+  content_id: so32155109
+  default_thread_id: 1508882183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155109
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: "｢決死の脱出行｣"
+  description: 硫黄島に降り注ぐ、ミサイルの雨。コンゴウ率いる霧の東洋方面艦隊による猛攻を、メンタルモデルたちが力を合わせて凌ぐ。ヒュウガはイオナへの愛のため。ハルナ、キリシマは蒔絵を守るため。そしてタカオもまた、群像への愛を覚え、イ401を逃がすため、闘いに参じる。メンタルモデルたちの協力を得て401は包囲網を突破するが、追いすがるコンゴウの手が401に伸びる！<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155109←前話｜次話→so32155111　第一話→so32155077
+  length_seconds: 1459
+  content_id: so32155110
+  default_thread_id: 1508882064
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155110
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: "｢その身を捧ぐ｣"
+  description: コンゴウの手を逃れ、タカオたちとの合流を目指すイ401を急襲した2発の侵食魚雷。イオナの姉妹、イ400とイ402からの攻撃であった。魚雷に仕込まれた特殊プログラムにより、船体の被害を回復できずに沈みゆく401。ヒュウガたちの捜索も空しく、2人きりの艦内で、弱っていく群像を見たイオナは・・・。ようやく401の救難信号を掴まえたタカオが目にしたものは・・・!!<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155110←前話｜次話→so32155129　第一話→so32155077
+  length_seconds: 1459
+  content_id: so32155111
+  default_thread_id: 1508882203
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155111
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: "｢姉妹｣"
+  description: タカオの献身により復活、装いも改めた401はアメリカを目指し、400・402がそれを追う。ハワイ沖で向かい合う姉妹たち。新しい艦体を得、5人のメンタルモデルを載せ、群像たち人間の戦略も併せ持つ401は、姉妹艦2隻を圧倒する。｢私はあなたたちを沈めたくない｣。イオナの言葉は空しく波間を漂う。一方、400と402に艦隊旗艦を解任され、拘束されていたコンゴウは・・・。<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155111←前話｜次話→so32155130　第一話→so32155077
+  length_seconds: 1459
+  content_id: so32155129
+  default_thread_id: 1508882975
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155129
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: "｢航路を拓く力｣"
+  description: 401の行く手を塞いだ霧のアメリカ太平洋方面艦隊を一撃で吹き飛ばしたのは、マヤを失い、感情を暴走させたコンゴウだった。かつてマヤだったものを取り込み、麾下の軽巡洋艦たちを取り込んだコンゴウは、自らも危ういほどの巨大なエネルギーを抱え401に襲いかかる。｢私が・・・行く。｣荒ぶるコンゴウに向かい、イオナはメンタルモデルの身ひとつで飛び込んでいく。<br><br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな<br><br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+    OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会<br><br>so32155129←前話　第一話→so32155077
+  length_seconds: 1460
+  content_id: so32155130
+  default_thread_id: 1508882973
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155130
+cast: "[キャスト]<br>千早群像:興津和幸／イオナ:渕上舞／タカオ:沼倉愛美／ハルナ:山村響／キリシマ:内山夕実／コンゴウ:ゆかな"
+staff: "[スタッフ]<br>監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン:森田和明／音楽:甲田雅人／音楽制作:フライングドッグ／OP主題歌:｢SAVIOR
+  OF SONG｣ナノ feat. MY FIRST STORY／ED主題歌:｢ブルー・フィールド｣Trident／アニメーション制作:サンジゲン／製作:｢蒼き鋼のアルペジオ｣製作委員会"
+produced_year: "[製作年]<br>2013年"
+copyright: "©Ark Performance／少年画報社・アルペジオパートナーズ"
+related_seasons: !ruby/array:Hashie::Array []

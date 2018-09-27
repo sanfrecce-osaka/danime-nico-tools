@@ -1,0 +1,47 @@
+--- !ruby/hash:SeasonHash
+title: 怪盗レーニャ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/44/7/10447_1_6.png?1427216400000
+outline: 怪盗レーニャは、普段はコンビニ｢ファミニャ｣の店員として働き、助手のチュー太郎と、店の地下のアジトでお宝奪取計画を練っている。ファミニャの隣にあるのが大江戸署。
+  エロ警部、妄想刑事、天然婦警の3バカトリオがレーニャ逮捕に執念を燃やすも、なにせバカなので振り回されっぱなし。 そんな彼らが織りなすナンセンスコメディーが｢怪盗レーニャ｣なのだ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 脚本：金巻兼一
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：岩見英明
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岩見英明
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：スティングレイ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：サムシング吉松
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: 水島精二
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第12話
+  title: "｢怪盗レ～ニャ参上やん!｣他"
+  description: 怪盗レーニャは、普段はコンビニ｢ファミニャ｣の店員として働き、助手のチュー太郎と、店の地下のアジトでお宝奪取計画を練っている。ファミニャの隣にあるのが大江戸署。
+    エロ警部、妄想刑事、天然婦警の3バカトリオがレーニャ逮捕に執念を燃やすも、なにせバカなので振り回されっぱなし。 そんな彼らが織りなすナンセンスコメディーが｢怪盗レーニャ｣なのだ。<br><br>レーニャ:(田中れいな・モーニング娘。)／チュー太郎・刑事:(岡野浩介)／警部:(陽季想)／婦警のっち:(能登有沙・音楽ガッタス)／宅配便のお兄さん:(若林直美)／扇風機:(三澤紗千香)<br><br>企画・原案:アップフロントスタイル／総監督・絵コンテ:サムシング吉松／監督・演出:岩見英明／脚本:金巻兼一／音響監督:水島精二／原画:Mr.A／制作:スティングレイ
+  length_seconds: 2470
+  content_id: so32012078
+  default_thread_id: 1506659264
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012078
+cast: "[キャスト]<br>レーニャ:(田中れいな・モーニング娘。)／チュー太郎・刑事:(岡野浩介)／警部:(陽季想)／婦警のっち:(能登有沙・音楽ガッタス)／宅配便のお兄さん:(若林直美)／扇風機:(三澤紗千香)"
+staff: "[スタッフ]<br>企画・原案:アップフロントスタイル／総監督・絵コンテ:サムシング吉松／監督・演出:岩見英明／脚本:金巻兼一／音響監督:水島精二／原画:Mr.A／制作:スティングレイ"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C)怪盗レーニャ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

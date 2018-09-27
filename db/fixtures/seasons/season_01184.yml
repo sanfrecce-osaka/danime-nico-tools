@@ -1,0 +1,237 @@
+--- !ruby/hash:SeasonHash
+title: "｢HAPPY☆LESSON｣ THE TV"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/11/7/10117_1_6.png?1427216400000
+outline: ハピレスTVシリーズ!!天涯孤独な主人公の事を心配した5人の美しい先生達が、なんと放課後はママに大変身!奇妙かつ危険な同居生活に、ドキドキ!はらはら!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 岸尾だいすけ
+  type: cast
+- !ruby/hash:TagHash
+  name: こやまきみこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村亜希子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中川亜紀子
+  type: cast
+- !ruby/hash:TagHash
+  name: 笹島かほる
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野るり
+  type: cast
+- !ruby/hash:TagHash
+  name: 島涼香
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：吉岡たかを
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤やすひさ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鈴木行
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ささきむつみ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：吉村清子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Softgarage
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：水上ろんど
+  type: staff
+- !ruby/hash:TagHash
+  name: HAPPY☆LESSONシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: メディアワークス
+  type: other
+- !ruby/hash:TagHash
+  name: 飯塚康一
+  type: other
+- !ruby/hash:TagHash
+  name: 大宮三郎
+  type: other
+- !ruby/hash:TagHash
+  name: 高野希義
+  type: other
+- !ruby/hash:TagHash
+  name: 岩川広司
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢ドキドキ☆ママティーチャー｣"
+  description: 天涯孤独の主人公チトセと突然同居することになった5人の先生は、学校でも評判の美人教師。それぞれとっても個性的で魅力的な5人がママとしてあれやこれや世話をやいてくれるからもう大変!<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>次話→so31893153
+  length_seconds: 1467
+  content_id: so31893152
+  default_thread_id: 1504917110
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893152
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢ルンルン☆お勉強しましょ!｣"
+  description: 学校の試験で全教科赤点という快挙を成し遂げたチトセ。そこで家では付きっ切りで勉強を教えようとする。そんなある日、任歳家の権利を狙う不動産屋二人組が現れて・・・。<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893152←前話｜次話→so31893154　第一話→so31893152
+  length_seconds: 1465
+  content_id: so31893153
+  default_thread_id: 1504917167
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893153
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢バイバイ☆さらば不幸神｣"
+  description: 不幸続きのチトセを救うためにママになったやよい。相変わらず不幸なチトセの姿を見てその使命を思い出し、不幸を祓うべくありとあらゆる方法(珍術?)でお祓いを行う。<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893153←前話｜次話→so31893155　第一話→so31893152
+  length_seconds: 1466
+  content_id: so31893154
+  default_thread_id: 1504917184
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893154
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢フラフラ☆お兄ちゃんはどっち?｣"
+  description: みなづきは、同居しているはづきが全国ツアー中の為、1人寂しく留守番。心配したチトセは、みなづきの家へ泊まりに行くことに。楽しい留守番を過ごすチトセとみなづきだったが、いつの間にかおかしな展開に?!<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893154←前話｜次話→so31893156　第一話→so31893152
+  length_seconds: 1466
+  content_id: so31893155
+  default_thread_id: 1504917112
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893155
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢ガンガン☆吹雪の一夜｣"
+  description: プライベートコテージを借り切って、家族みんなでスキーにお出かけ。スキーが滑れないチトセはさつきレクチャーを受ける。しかし、さつきのレクチャーは超スパルタ!二人は勢い余って立入禁止ゾーンに入ってしまう!<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893155←前話｜次話→so31893157　第一話→so31893152
+  length_seconds: 1467
+  content_id: so31893156
+  default_thread_id: 1504917142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893156
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "｢モジモジ☆世界征服!?｣"
+  description: 抽選で最新式クルーザーをプレゼントあれたきさらぎは夏休みに家族揃ってクルージングに出かける。しかし途中でクルーザーが故障。修理が終わるまで無人島でキャンプ生活をエンジョイするチトセ達だったが?!<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893156←前話｜次話→so31893158　第一話→so31893152
+  length_seconds: 1466
+  content_id: so31893157
+  default_thread_id: 1504917140
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893157
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "｢モエモエ☆みなちゃん頑張る!｣"
+  description: こよみ学園体育祭!ふみつきから、一番活躍した生徒はMVPを表彰されると聞いたみなづきは、チトセをMVPにしてあげようと意気込む。そして当日、チトセを影からサポートするがさつきときさらぎに見つかってしまい?!<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893157←前話｜次話→so31893159　第一話→so31893152
+  length_seconds: 1467
+  content_id: so31893158
+  default_thread_id: 1504917137
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893158
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "｢フワフワ☆うづきは天使?｣"
+  description: 楽しい日曜日、うづきはチトセをモデルに絵を描いていたが、ふみつきの登場で結局チトセと別行動になってしまう。そんな時、うづきのコスプレ衣装に付いている羽を見て、天使だと勘違いした少年(健太)が現れる。<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893158←前話｜次話→so31893160　第一話→so31893152
+  length_seconds: 1465
+  content_id: so31893159
+  default_thread_id: 1504917144
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893159
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "｢クタクタ☆クラブ活動｣"
+  description: ある日チトセはクラブ活動を始めたいというみなづきの相談に乗る。それを知ったママ先生達は、それぞれが顧問になっている部に二人を勧誘する。二人は一毎日交代で各部に体験入部するハメに…<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893159←前話｜次話→so31893161　第一話→so31893152
+  length_seconds: 1468
+  content_id: so31893160
+  default_thread_id: 1504917189
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893160
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "｢オロオロ☆はづき引退宣言｣"
+  description: はづきは霜月音楽堂でライブをやることを夢見て歌手を続けていた。その夢がついに叶い、ライブは大盛況で終わる。数日後、｢歌手をやめてきた｣と言うはづき。みんなは一緒の時間ができると喜ぶけど、チトセはどうしても納得ができなくて…<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893160←前話｜次話→so31893162　第一話→so31893152
+  length_seconds: 1465
+  content_id: so31893161
+  default_thread_id: 1504917169
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893161
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "｢クラクラ☆夢の大変身!｣"
+  description: 仁歳家の居間に、きさらぎが作った大がかりで怪しげなメカが設置されている。また自分が被害にあうのかと冷や汗ダラダラなチトセ。しかし今回の被験者はきさらぎ自身。みんなが固唾を飲んで見守る中、実験は開始されるが…<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893161←前話｜次話→so31893188　第一話→so31893152
+  length_seconds: 1468
+  content_id: so31893162
+  default_thread_id: 1504917162
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893162
+- !ruby/hash:EpisodeHash
+  episode_no: 特別編
+  title: "｢ホカホカ☆カンナと二人きり｣"
+  description: いつもママ達に邪魔され、チトセと接触出来ないカンナ。温泉旅行をエサに、何とかチトセと二人きりになろうとするが…。<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893162←前話｜次話→so31893189　第一話→so31893152
+  length_seconds: 1492
+  content_id: so31893188
+  default_thread_id: 1504917715
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893188
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "｢ラブラブ☆こよみ文化祭｣"
+  description: 待ちに待った文化祭。ママ先生達もそれぞれの顧問を務める部活動の催しの大活躍。そんな文化祭の目玉は、ママ先生達も参加するフィーリングカップル。チトセも嫌々ながら参加することに…<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893188←前話｜次話→so31893190　第一話→so31893152
+  length_seconds: 1467
+  content_id: so31893189
+  default_thread_id: 1504917711
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893189
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: "｢ウルウル☆秘密見ちゃった!?｣"
+  description: 文化祭の最中、偶然にも5人の先生達とチトセが同居していることを知ったふみつき。翌日、今度こそ秘密を暴こうといつものようにチトセの後ろをつけるふみつき。だが今回は同じくチトセを尾行するカンナの姿が…<br><br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+    他<br><br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage<br><br>so31893189←前話　第一話→so31893152
+  length_seconds: 1435
+  content_id: so31893190
+  default_thread_id: 1504917445
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893190
+cast: "[キャスト]<br>一文字むつき:浅野るり／二ノ舞きさらぎ:木村亜希子／三世院やよい:井上喜久子／四天王うづき:古山きみこ／五箇条さつき:笹島かほる／六祭みなづき:水樹奈々／七転ふみつき:島涼香／八桜はづき:園崎未恵／十隠カンナ:中川亜紀子／仁歳チトセ:岸尾大輔
+  他"
+staff: "[スタッフ]<br>原作:ささきむつみ/電撃G’s magazine(メディアワークス刊)／企画:高野希義,岩川広司／プロデューサー:大宮三郎／監督:鈴木行／脚本:吉岡たかを,吉村清子(“吉”は上部首“土”)／キャラクターデザイン:加藤やすひさ,水上ろんど／美術監督:片野坂悟一／音響監督:飯塚康一／アニメーション製作:Softgarage"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)2002 ささきむつみ/メディアワークス・Softgarage"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: HAPPY☆LESSON THE FINAL
+- !ruby/hash:SeasonHash
+  title: HAPPY☆LESSON ADVANCE
+- !ruby/hash:SeasonHash
+  title: HAPPY☆LESSON (OVA)

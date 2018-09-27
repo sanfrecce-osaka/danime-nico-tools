@@ -1,0 +1,162 @@
+--- !ruby/hash:SeasonHash
+title: EVIL OR LIVE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/79/5/21795_1_6.png?1506652406000
+outline: 現代社会において、思春期の少年少女たちにある「症状」が蔓延している。孤独感、反抗心、仲間外れ。そういった若者たちにとって、ネット世界が唯一の救いだった。いつしか、ネット世界に没頭していた彼らのその症状は、「ネット中毒」と名付けられた。そして、「若者を再び正しい道へ導く」という名目で、とある更生施設が誕生――。しかし、その施設に収容された重度のネット中毒患者の一人、「ヒビキ」を待ち受けていたのは更生教育ではなく、まさに"地獄"だった。苦境に陥ったヒビキは、はたして幾多の試練を乗り越え、地獄のような絶望から逃れることができるのか――！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 安済知佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 間宮康弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 植田慎一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 原島梢
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：絵梦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：董易
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：李暁楠
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: "「絶望のふちに立って」"
+  description: 重度のネット依存症の少年ヒビキは、母親の手によって強制的にエリート再教育学校に入学させられる。そこに現れたのは校長であるジンや、暴力もいとわない教官たちを束ねる総教官のシアン。教官にさんざん痛めつけられたヒビキは自殺を図ろうと学校の屋上に向かうが、謎の少年に引き留められ、ある取引を持ち掛けられる。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>次話→so32116780
+  length_seconds: 1420
+  content_id: so32075614
+  default_thread_id: 1507618180
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32075614
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: "「冷たさと優しさのはざまで」"
+  description: グラウンドにやってきたシンとヒビキの前で、風紀委員長のウードウがジュンという女子生徒を辱めようとしていた。それを止めに入った生徒会長のシオリ。中学の同級生だったシオリを助けようと割って入ったヒビキは逆にやられてしまうが、教官が現れたことでその場は収まる。携帯電話を手に入れようとするジュンとシオリに、シンは「ヒビキと関係を持てば携帯電話を渡す」と持ち掛けるが――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32075614←前話｜次話→so32200861　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32116780
+  default_thread_id: 1508288379
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32116780.68236
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: "「向こう見ずな正義」"
+  description: シンの犬になることを拒否したヒビキ。寮の自分の部屋に向かうと、管理人とルームメイト達からの熱烈な歓迎を受けた。しかし、ヒビキがシンと繋がっていないと分かった途端、彼らは手のひらを返したような態度になり、管理人であるビンの悪事も判明する。さらに、午後の授業が始まると、授業とは名ばかりの訓練、体罰の連続――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32116780←前話｜次話→so32200860　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32200861
+  default_thread_id: 1509568171
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32200861
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: "「いばらの道へ踏み込め」"
+  description: ヒビキはルームメイトをかばうため、総教官であるシアンに反抗する。そんなヒビキの前にシオリが現れ、ヒビキに謝るように言うのだった。ヒビキがシオリを振り払うと、彼女のポケットから携帯電話が出てきてしまう。学校のルールに則り、シオリとヒビキのクラス全員は連帯責任で罰を受けることになる。ヒビキは自らが招いた惨状を見てある決心をするのだった――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32200861←前話｜次話→so32245434　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32200860
+  default_thread_id: 1509568167
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32200860
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: "「それぞれの分岐点」"
+  description: 反省室に閉じ込められたウードウから、ジュンの携帯の在り処を聞き出したリョウ教官は、シンに接触する。一方、シオリにはアカネとホク姉妹が接近。また、次の手を打とうとするシンの指示を受けたヒビキだが、クラスの仲間に協力してもらえず――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32200860←前話｜次話→so32269210　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32245434
+  default_thread_id: 1510292133
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245434
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: "「さらなる闇の中へ」"
+  description: ウードウが隠し持っていた携帯電話を狙うアカネたちは、ウードウの手下を従えるヒビキを脅す。そこにシンが現れ、ヒビキと共に寮の男子トイレに逃げ込む。二人の後を追ってきたアカネ、ホクとシオリが、そこで逆に追い詰められた。ヒビキに対して、「裸の写真を撮れ」と迫るシン。そこで、ヒビキはーー。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32245434←前話｜次話→so32301682　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32269210
+  default_thread_id: 1510663727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32269210
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: "「どん底での決意」"
+  description: かつて麻薬捜査官だったシアンは、現場に踏み込む際、恐怖心にかられたのが原因でチームを全滅させた事があった。一人だけ生き残ったシアンは、殉職した相棒のカイの家族のもとへ行くが、崩壊した家族を目の当たりにする。一方、反省室に閉じ込められたヒビキ、彼の運命は――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32269210←前話｜次話→so32337221　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32301682
+  default_thread_id: 1511240901
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32301682.74493
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: "「萌芽」"
+  description: トイレ騒ぎの一件で、掃除を罰されてしまったアカネ、ホクとシオリ。掃除に飽きて、抜け出したら、アカネがメイたちに追いかけられる。そこにいたモクと共に追い詰められるが、反省室から出てきたヒビキが現れる。だが、そこにいるヒビキは、前と明らかに違っていた——<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32301682←前話｜次話→so32371834　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32337221
+  default_thread_id: 1511848080
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32337221.46360
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: "「イーブル降臨」"
+  description: ヒビキはホクたちとの対戦を申し出る。勝利を収めたヒビキの前にやってきたのは、6組教官のリョウ。リョウの計略でヨウと勝負することになったヒビキは、直立不動の競争を提案する。互いに引かず、引き分けとなったことに腹を立てたヨウが襲ってくるが――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32337221←前話｜次話→so32444393　第一話→so32075614
+  length_seconds: 1420
+  content_id: so32371834
+  default_thread_id: 1512436100
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32371834
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: "「隠したい秘密」"
+  description: ヨウを倒した自分に、シンが手を出してこないことを疑問に思うヒビキ。同じ頃、シオリもシンを見かけないことを疑問に思い、アカネとホクに尋ねる。一方、シンの兄の命令で学校にやってきた謎の男「ヒョウ」はシアンを痛めつけ、代わりに学生を管理すると宣言した――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32371834←前話｜次話→so32481413　第一話→so32075614
+  length_seconds: 1419
+  content_id: so32444393
+  default_thread_id: 1513658302
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32444393
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: "「絶望の氷壁」"
+  description: シオリは父と母を亡くした後、弟のシュウとともに「おじ」と名乗る親戚に引き取られたものの、シュウが遺伝性の病気で入院、虐待を受けていたシオリがおじにケガを負わせたため、学校に入れられたのだった。一方、４組を率いるヒビキの前に現れたヒョウは、学生の頂点に立たせることと引き換えに、携帯の商売を持ちかける――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32444393←前話｜次話→so32491893　第一話→so32075614
+  length_seconds: 1420
+  content_id: so32481413
+  default_thread_id: 1514250021
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32481413
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: "「イーブル オア ライブ」"
+  description: シンは父親に頼み、兄の出資した学校に来ていた。その目的は、母親を薬物で殺害した兄とヒョウへの復讐だった。学校ではヒョウの信頼を得たヒビキが生徒会長となり、暴力を排除し学生たちを味方につける。そんな中、学校にネットニュースを見て、記者が押し掛ける。ホク、モクと共にシオリを連れて学校を脱出したアカネが、ネットに学校の内情をアップしたのだ――。<br><br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢<br><br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL
+    OR LIVE製作委員会<br><br>so32481413←前話　第一話→so32075614
+  length_seconds: 1406
+  content_id: so32491893
+  default_thread_id: 1514435303
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32491893
+cast: "[キャスト]<br>黎響（ヒビキ）:植田慎一郎／孟進（シン）:内山昂輝／羅織（シオリ）:安済知佳／冼石（シアン）:間宮康弘／金倩倩（ジン）:原島梢"
+staff: "[スタッフ]<br>アニメーション制作:絵梦／監督:董易／作画監督:趙勲／原作:李暁楠／漫画編集:安彦高／製作:TENCENT/EVIL OR LIVE製作委員会"
+produced_year: "[製作年]<br>2017年"
+copyright: "©TENCENT/EVIL OR LIVE製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

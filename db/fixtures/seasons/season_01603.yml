@@ -1,0 +1,64 @@
+--- !ruby/hash:SeasonHash
+title: みんな集まれ！ファルコム学園
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/27/6/11276_1_6.png?1427216400000
+outline: "｢英雄伝説 空の軌跡｣のエステル、ヨシュアや｢イースシリーズ｣の主人公アドルなど、ファルコム作品のキャラクター達が何故か次々と召喚されてしまう異世界《ザナドゥ》。そこは善人が悪人に、変人が更に変人になってしまうという“理の歪んだ世界”だった……!家畜の姿になってしまった大魔導師ミッシェルことラッピィ校長と、性格が反転し、生真面目で善良な魔物となってしまった｢イースⅠ｣のラスボス、ダルク=ファクト先生は英雄たちを元に戻すべく、異世界に｢ファルコム学園｣を設立し、そこで英雄たちと学園生活を送る事になったのだが…!?"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 興津和幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 神田朱未
+  type: cast
+- !ruby/hash:TagHash
+  name: 進藤尚美
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：株式会社ダックスプロダクション
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：株式会社キャラアニ
+  type: staff
+- !ruby/hash:TagHash
+  name: みんな集まれ！ファルコム学園シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 山下憲一
+  type: other
+- !ruby/hash:TagHash
+  name: ぴっぷや
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第13話
+  title: 第1話『ファルコム学園開校』～第13話『伝説の男登場!』
+  description: 第1話『ファルコム学園開校』/第2話『ダルク・ファクト召喚』/第3話『ダルク先生誕生』/第4話『ダルク先生の初授業』/第5話『恐怖の抜き打ちテスト!?』/第6話特番『ダルクとティオが放送室で?』/第7話『ダームの塔を攻略せよ!』/第8話『アドル!アドル!アドル!』/第9話『ザナドゥのピッカード焼き』/第10話『ファルコム学園食堂開店!』/第11話『新任教師登場!』/第12話『みんな集まれ!ファルコム幼稚園』/第13話『伝説の男登場!』<br><br>キャスト:梶裕貴、興津和幸、神田朱未、斎賀みつき、水橋かおり、進藤尚美、ほか<br><br>原作:日本ファルコム株式会社(｢月刊FALCOM
+    MAGAZINE｣連載中)新久保だいすけ／制作:株式会社キャラアニ、株式会社ダックスプロダクション／脚本:山下憲一(｢宇宙兄弟｣、｢ドリランド｣他)／監 督:ぴっぷや(｢しばいぬ子さん｣、｢石田とあさくら｣他)／キャラデザ・作画監督:青葉みずき(｢フォトカノ｣、｢押忍！番町シリーズ｣他)
+  length_seconds: 1573
+  content_id: so32017746
+  default_thread_id: 1506732656
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32017746
+cast: "[キャスト]<br>キャスト:梶裕貴、興津和幸、神田朱未、斎賀みつき、水橋かおり、進藤尚美、ほか"
+staff: "[スタッフ]<br>原作:日本ファルコム株式会社(｢月刊FALCOM MAGAZINE｣連載中)新久保だいすけ／制作:株式会社キャラアニ、株式会社ダックスプロダクション／脚本:山下憲一(｢宇宙兄弟｣、｢ドリランド｣他)／監
+  督:ぴっぷや(｢しばいぬ子さん｣、｢石田とあさくら｣他)／キャラデザ・作画監督:青葉みずき(｢フォトカノ｣、｢押忍！番町シリーズ｣他)"
+produced_year: "[製作年]<br>2014年"
+copyright: "(C)Falcom/ファルコム学園生徒会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: みんな集まれ！ファルコム学園SC

@@ -1,0 +1,298 @@
+--- !ruby/hash:SeasonHash
+title: CLANNAD
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/34/0/20340_1_6.png?1440749644000
+outline: 人と人との｢絆｣をテーマに、ピュアな感動に満ちたストーリーで人気を博した同名の恋愛アドベンチャーゲーム｢CLANNAD(クラナド)｣。本作はその世界観を忠実に再現し、主人公・朋也と少女たち(渚、杏、椋、智代、風子、ことみ)との交流と成長を描いた物語である。アニメーション制作は｢AIR｣｢Kanon｣｢けいおん！｣などで圧倒的な支持を得ている京都アニメーションが担当。ヒロインたちの細やかな表情、暖かさを感じさせる風景の描写など、全てにおいてハイクオリティな作品に仕上がっている。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 広橋涼
+  type: cast
+- !ruby/hash:TagHash
+  name: 野中藍
+  type: cast
+- !ruby/hash:TagHash
+  name: 神田朱未
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：武本康弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：志茂文彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石原立也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Key
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山田尚子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石立太一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高雄統子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ビジュアルアーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：北之原孝將
+  type: staff
+- !ruby/hash:TagHash
+  name: CLANNADシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 両手に花？
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 桜舞い散る坂道で
+  description: 岡崎朋也は進学校に通う高校3年生。しかし遅刻ばかりで進学も諦めているため、校内で浮いた存在になっていた。そんなある日、朋也はある1人の少女と出会う。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>次話→so33801111
+  length_seconds: 1449
+  content_id: so33801112
+  default_thread_id: 1536024379
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801112
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 最初の一歩
+  description: 父親のよそよそしい態度に思わず家を飛び出した朋也。ふと声がして振り返ると、穏やかな表情で謎めいた言葉を語りかける渚の姿があった。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801112←前話｜次話→so33801110　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801111
+  default_thread_id: 1536024399
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801111
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 涙のあとにもう一度
+  description: 雨に濡れながらも朋也を待っていた渚が倒れてしまう。翌日朋也は渚の家を訪れる。秋生と早苗は心配ないと言うものの、朋也は責任を感じるのだった。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801111←前話｜次話→so33801109　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801110
+  default_thread_id: 1536024386
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801110
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 仲間をさがそう
+  description: 演劇部復活に向けて活動する渚と朋也。しかし学校内に貼った部員募集のポスターがはがされ、渚が生徒会に呼び出されてしまう。渚を励ます朋也だったが・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801110←前話｜次話→so33801108　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801109
+  default_thread_id: 1536024393
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801109
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 彫刻のある風景
+  description: 渚が1年生の時に美術を担当していた先生は風子の姉だった。だが、風子の話に疑問を持った朋也は渚と一緒に、風子の姉・公子の家を訪ねてみることにする。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801109←前話｜次話→so33801043　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801108
+  default_thread_id: 1536024370
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801108
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 姉と妹の創立者祭
+  description: 風子が渚の家に泊まるようになり、古河家は新たな笑いに包まれるようになった。学校では相変わらず生徒に彫刻を配って歩く風子。そんな風子を見た渚は・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801108←前話｜次話→so33801044　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801043
+  default_thread_id: 1536022689
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801043
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 星形の気持ち
+  description: 創立者祭にやってきた公子。やっと公子と風子とを会わせることができると喜ぶ渚だが、公子の口から語られたのは、あまりにも悲しい現実だった。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801043←前話｜次話→so33801045　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801044
+  default_thread_id: 1536022693
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801044
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 黄昏に消える風
+  description: 結婚式に向け、生徒にヒトデを配り続ける風子。しかし、それを受け取らない生徒の数が増えていた。それはまるで風子の存在に気づかないかのように・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801044←前話｜次話→so33801046　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801045
+  default_thread_id: 1536022744
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801045
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 夢の最後まで
+  description: 風子を連れて朋也と渚は夜の学校へ。ふいに風子は朋也と渚に｢お互いを下の名前で呼ぶべき｣と主張するが、照れる2人。そんな2人に風子は・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801045←前話｜次話→so33801047　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801046
+  default_thread_id: 1536022863
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801046
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 天才少女の挑戦
+  description: 演劇部復活の部員集めを再開する渚。しかしなかなか思うように進まない様子に、朋也は新入部員候補として“ある少女”を思い出す。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801046←前話｜次話→so33801048　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801047
+  default_thread_id: 1536022866
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801047
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 放課後の狂想曲
+  description: 仁科からバイオリンを借り、喜ぶことみ。たくさんの人にバイオリンの音色を聴いてほしいという彼女のため、杏は発表会を開くことにする。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801047←前話｜次話→so33801049　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801048
+  default_thread_id: 1536022695
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801048
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: かくされた世界
+  description: 発表会も終わりことみは教室で授業を受けるようになっていた。いつも図書室で1人きりだったことみの周りに、少しずつ人の輪ができていた。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801048←前話｜次話→so33801050　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801049
+  default_thread_id: 1536022757
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801049
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 思い出の庭を
+  description: ことみの家に見舞いに行った朋也は、その家に見覚えがあった。ことみの姿を見つけた朋也は、小さい時に彼女と出会っていたことに気づく。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801049←前話｜次話→so33801042　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801050
+  default_thread_id: 1536022749
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801050
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: Theory of Everything
+  description: 朋也はことみの家の荒れ果てた庭のそうじを始めた。渚たちも朋也を手伝いながら家の中のことみに呼びかけるが、返事はなかった。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801050←前話｜次話→so33801041　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801042
+  default_thread_id: 1536022753
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801042
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 困った問題
+  description: 演劇部の復活に必要な人数が揃い、あとは顧問が決まれば演劇部を復活させることができる。渚たちは幸村のもとを訪ねるが・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801042←前話｜次話→so33801033　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801041
+  default_thread_id: 1536022683
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801041
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 3 on 3
+  description: 留守中の春原の部屋を手際よく片付ける春原の妹・芽衣を見て感心する朋也と渚。そこへ何も知らない春原がやってきて・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801041←前話｜次話→so33801034　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801033
+  default_thread_id: 1536022699
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801033
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 不在の空間
+  description: 渚は演劇部の顧問の件で生徒会にある提案をしに行くが、生徒会はそれを認めなかった。さらに、生徒会との話を終えた渚が倒れてしまう。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801033←前話｜次話→so33801035　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801034
+  default_thread_id: 1536022623
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801034
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 逆転の秘策
+  description: 智代をかばって停学になってしまった朋也。責任を感じ、本当のことを話そうと迷っている智代に、朋也は演劇部のためにも絶対に生徒会長になってほしいと話す。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801034←前話｜次話→so33801036　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801035
+  default_thread_id: 1536022632
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801035
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 新しい生活
+  description: 学園祭に向けて演劇部が動き出す中、朋也は進路相談の家庭訪問を受けることになった。理由をつけて逃げ回る朋也だが、渚に見つかってしまう。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801035←前話｜次話→so33801037　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801036
+  default_thread_id: 1536022701
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801036
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 秘められた過去
+  description: 学園祭に向け、練習を始める渚。彼女がやりたいという演目は、とても悲しい冬の日の物語。世界にたった1人残された女の子の話だった・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801036←前話｜次話→so33801038　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801037
+  default_thread_id: 1536022755
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801037
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 学園祭にむけて
+  description: 学園祭が近づいてきた。秋生も渚のために演劇のビデオを借りてくる。しかしそれを見た渚の口から｢爆弾発言｣が飛び出し、朋也たちは愕然とする。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801037←前話｜次話→so33801039　第一話→so33801112
+  length_seconds: 1449
+  content_id: so33801038
+  default_thread_id: 1536022691
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801038
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 影二つ
+  description: 学園祭当日。最悪のタイミングで両親の過去を知ってしまった渚を、朋也は必死に励ます。しかし自分を責め続ける渚。舞台の本番が近づくが・・・。<br><br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子<br><br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部<br><br>(C)VisualArt’s/Key/光坂高校演劇部<br><br>so33801038←前話　第一話→so33801112
+  length_seconds: 1419
+  content_id: so33801039
+  default_thread_id: 1536022687
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801039
+cast: "[キャスト]<br>岡崎朋也:中村悠一／古河　渚:中原麻衣／藤林　杏:広橋　涼／藤林　椋:神田朱未／坂上智代:桑島法子／伊吹風子:野中　藍／一ノ瀬ことみ:能登麻美子"
+staff: "[スタッフ]<br>プロデューサー:高野阿弥子、中山佳久、中村伸一、太布尚弘、八田陽子／監督・ディレクター:石原立也、武本康弘、北之原孝將、荒谷朋恵、三好一郎、高雄統子、石立太一、米田光良、山田尚子／原作:Key
+  / ビジュアルアーツ／脚本:志茂文彦／オープニングテーマ:｢メグメル～cuckool　mix　2007～｣eufonius／エンディングテーマ:｢だんご大家族｣茶太、真理絵、くない瓜、Rio、Morrigan、藤枝あかね、たくまる／制作:光坂高校演劇部"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)VisualArt’s/Key/光坂高校演劇部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: CLANNAD　AFTER　STORY

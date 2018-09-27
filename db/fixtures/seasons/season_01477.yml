@@ -1,0 +1,382 @@
+--- !ruby/hash:SeasonHash
+title: 星の王子さま プチ★プランス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/86/3/10863_1_6.png?1427216400000
+outline: サン=テグジュペリ原作『星の王子さま』をアニメ化したのが本作品で、1978年度第3回文化庁こども向けテレビ用優秀映画賞受賞した良作です。ピュアとメルヘンに満ちた世界をお楽しみください。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 松野太紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 松尾佳子
+  type: cast
+- !ruby/hash:TagHash
+  name: 増岡弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：神田武幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1978年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ''
+  description: "｢この物語りを世界中の子供達に、また自分が子供だった頃を忘れがちな大人達に、そして上辺だけでなく物事の本当の美しさを見つめる勇気を持ったすべての人々に心からの友情を込めて贈ります。
+    サン・テクジュペリ｣<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>次話→so31991183"
+  length_seconds: 1497
+  content_id: so31991182
+  default_thread_id: 1506332511
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991182
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ''
+  description: 僕がはじめて地球に着いたところは、何もない砂漠の真ん中でした。そこで、僕が出会ったはじめての人間が飛行士だったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991182←前話｜次話→so31991184　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991183
+  default_thread_id: 1506332379
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991183
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ''
+  description: 砂漠で飛行士と別れた僕は、旅を続けるのですが、地球の美しさにただ目をみはるばかりでした。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991183←前話｜次話→so31991185　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991184
+  default_thread_id: 1506332294
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991184
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ''
+  description: 輝く朝日、緑の森、小鳥のさえずり。たくさんの命にあふれている美しい地球。そこで僕は、マリアという羊飼いのかわいい女の子と友だちになったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991184←前話｜次話→so31991186　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991185
+  default_thread_id: 1506331547
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991185
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ''
+  description: どこまでも広く真っ青な海。僕は地球に来て、はじめて海を見ました。そこで僕は灯台を守って暮らしているとても頑固なおじいさんとマイケルという素晴らしい少年と知り合いになったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991185←前話｜次話→so31991187　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991186
+  default_thread_id: 1506332326
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991186
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ''
+  description: ある街で僕は、ハンナという花売りの少女と出会いました。ハンナは僕が、B600 12番星からやってきたことを知ると、強引に自分の家に連れていくのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991186←前話｜次話→so31991188　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991187
+  default_thread_id: 1506332262
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991187
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ''
+  description: 僕は海辺の街で、アンリという少年に出会いました。アンリはとても絵が上手で、海に浮かんだお城の絵を僕に見せてくれます。その絵は去年の夏、本当にあったことだと言うのですが。。。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991187←前話｜次話→so31991189　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991188
+  default_thread_id: 1506331609
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991188
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ''
+  description: 僕は森の中で傷ついて倒れている犬と出会いました。その傷の手当てをしてあげようとすると、犬は唸り声をあげて警戒するのです。いったいどうしたというのでしょう。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991188←前話｜次話→so31991190　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991189
+  default_thread_id: 1506332547
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991189
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ''
+  description: 僕は旅の途中でカブトムシと友達になりました。そのカブトムシがきっかけで山の少年と知り合いになり、手紙を届けてくれと頼まれます。でも、その手紙には何も書いてなかったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991189←前話｜次話→so31991191　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991190
+  default_thread_id: 1506332256
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991190
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ''
+  description: 僕は美しい湖の村で、ジャルコという笛の上手な少年と出会いました。その笛の音は、とても素晴らしいのですが、ジャルコは一日中笛ばかり吹いているので、叱られてばかりいるのでした。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991190←前話｜次話→so31991192　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991191
+  default_thread_id: 1506332280
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991191
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ''
+  description: 一面に咲くタンポポの野原で、お父さんの帰りを待つ一人の少女に出会いました。タンポポの花の咲く頃には必ず帰るという約束だったのに、少女のお父さんは帰ってきません。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991191←前話｜次話→so31991193　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991192
+  default_thread_id: 1506331613
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991192
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ''
+  description: 森の中で僕が崖から落ちそうになっているところを助けてくれたのは、百人力の大男、ガムトンでした。僕たちはすっかり仲良しになり、街へ出かけていったのですが、そこでガムトンは失敗ばかり。ついに街から追い出されてしまうのでした。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991192←前話｜次話→so31991194　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991193
+  default_thread_id: 1506331625
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991193
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: ''
+  description: 僕は大きな牧場に住むアドニスという少年と友だちになりました。優しいお父さんと美しいお母さん。でも、なぜかアドニスはお母さんに辛くあたるのです。そんなある日、アドニスは馬に乗って飛び出してしまったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991193←前話｜次話→so31991195　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991194
+  default_thread_id: 1506332258
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991194
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: ''
+  description: 僕はにぎやかな港町にやってきました。いろんな船が浮かんでいる中で、僕はパリーナ号のボブ船長と友だちになりました。船長は船の中でバラの鉢植えを育てているのですが、なぜか誰にもさわらせようとしないのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991194←前話｜次話→so31991196　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991195
+  default_thread_id: 1506332401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991195
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: ''
+  description: 僕が荒野で出会った少年ピエトロは、この世で最も大切な美しい物を探しにいく途中でした。それは、七色に輝く虹の下にあるというのです。そこで、僕も一緒に行くことにしました。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991195←前話｜次話→so31991197　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991196
+  default_thread_id: 1506331549
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991196
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: ''
+  description: 大きな青い海、そして白いカモメの群れ。僕は傷ついて飛べなくなった一羽のカモメを見つけ、助けてやりました。でも、メリーのおじいさんは、このカモメはもう二度と飛ぶことはできないと言うのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991196←前話｜次話→so31991198　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991197
+  default_thread_id: 1506332561
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991197
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: ''
+  description: 僕は森の中で素晴らしいシカと出会いました。ところが、そのシカをジミーという少年も友達になろうとしていたのです。でも、そのシカは用心深くて、僕たちのところへは近寄ろうともしません。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991197←前話｜次話→so31991200　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991198
+  default_thread_id: 1506332665
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991198
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: ''
+  description: 冷たい木枯らしの吹く街かどで、僕は煙突掃除人のトムと出会いました。トムは、屋根裏の部屋で、鉢植えのスミレの花を大切に育てていました。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991198←前話｜次話→so31991201　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991200
+  default_thread_id: 1506332539
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991200
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ''
+  description: 僕は道で出会った少年クリフから、いきなり大きなカバンを預けられてしまいました。クリフにとって、大切な物が入っているというそのカバンの中には、ガラクタがたくさん詰まっていたのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991200←前話｜次話→so31991202　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991201
+  default_thread_id: 1506332689
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991201
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: ''
+  description: 僕は森の中で美しい流れ星を見ました。ひとつ、またひとつ、そこは流れ星の通り道だったのです。すると、その流れ星を捕まえようという不思議な少女があらわれたのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991201←前話｜次話→so31991203　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991202
+  default_thread_id: 1506332324
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991202
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: ''
+  description: 明日はいよいよ村の木馬レースの日。草原では少年たちが木馬に乗って練習しています。僕はジェルカという少年と友だちになりました。でも僕はその木馬をこわしてしまったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991202←前話｜次話→so31991204　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991203
+  default_thread_id: 1506331635
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991203
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: ''
+  description: 小さな港町で、僕はクロードと友だちになりました。その港の岬には難破船があって、そこはクロードの素晴らしい遊び場だったのです。ところが、いつのまにか難破船は沖にながされていたのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991203←前話｜次話→so31991205　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991204
+  default_thread_id: 1506332298
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991204
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: ''
+  description: クリスマスを控えてにぎわう街で、僕は奇妙な事件に巻き込まれてしまったのです。そこで出会ったお爺さん、僕を見たとたんにびっくり仰天｢シモーヌ、わしのシモーヌ｣とさけぶのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991204←前話｜次話→so31991206　第一話→so31991182
+  length_seconds: 1499
+  content_id: so31991205
+  default_thread_id: 1506332541
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991205
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: ''
+  description: ジリジリと太陽の照りつける砂漠の真ん中で、僕は一人のおじさんに出会いました。おじさんは一所懸命穴を掘っています。そして、砂漠の下には素晴らしい夢が隠されていると言うのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991205←前話｜次話→so31991207　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991206
+  default_thread_id: 1506332509
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991206
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: ''
+  description: 僕は大きな風船で大空に舞い上がったんです。高く高く、アルプスよりも高く。でも、途中で霧の中に迷い込んでしまって、方向が分からなくなってしまったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991206←前話｜次話→so31991208　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991207
+  default_thread_id: 1506332296
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991207
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: ''
+  description: 僕は高原で、七色に輝く小さな花を見つけました。とても綺麗な可愛い花なのです。でも、測量師のランド博士は、この花はここに咲いていてはいけない花だと言うのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991207←前話｜次話→so31991254　第一話→so31991182
+  length_seconds: 1499
+  content_id: so31991208
+  default_thread_id: 1506332260
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991208
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: ''
+  description: 真っ黒い煙を吐き、力強く走る蒸気機関車。鉄橋を渡り、トンネルをくぐり、山も野原もどんどん過ぎていきます。もう、時代遅れだと言われる蒸気機関車。でも、僕はとっても好きになりました。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991208←前話｜次話→so31991255　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991254
+  default_thread_id: 1506333151
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991254
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: ''
+  description: 怒っても笑っても、くしゃみをしても税金をとられてしまう、ヘンテコな国に僕は来てしまいました。そこで僕は、その国のお姫様の病気を治すため、ララバイ草という薬草を探しに行くことになったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991254←前話｜次話→so31991256　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991255
+  default_thread_id: 1506333149
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991255
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: ''
+  description: 吹雪の野原で倒れている僕を、大きなトナカイが助けてくれました。しかし、そのトナカイを村の掟のために、殺さなければならないと言うのです。その時突然、オーロラが輝きはじめたのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991255←前話｜次話→so31991661　第一話→so31991182
+  length_seconds: 1499
+  content_id: so31991256
+  default_thread_id: 1506333387
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991256
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: ''
+  description: ドリーム号は、なんでも機械が一人で動かしている、とても便利な船です。だから、船長さんはすることがありません。しかし、嵐になって電気が切れてしまうと、どこも動かなくなってしまったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991256←前話｜次話→so31991662　第一話→so31991182
+  length_seconds: 1497
+  content_id: so31991661
+  default_thread_id: 1506335699
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991661
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: ''
+  description: ドリーム号は、なんとか嵐から抜け出し、近くの小さな島に流れ着きました。そこは無人島で、家も着る物も、食べる物も、何から何まで僕たちが作らなければならなくなったのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991661←前話｜次話→so31991663　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991662
+  default_thread_id: 1506335703
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991662
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: ''
+  description: 僕、とっても怖い夢を見たんです。僕の小さな星が、宇宙嵐に巻き込まれて壊れてしまったんです。三つの火山も、小さな泉も、そして星のバラさんも。僕、心配でたまらないんです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991662←前話｜次話→so31991664　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991663
+  default_thread_id: 1506335697
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991663
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: ''
+  description: 僕たちは三機の飛行機で競争することになったんです。エンジンの音を轟かせ、教会の塔より高く、白いフワフワ雲を突き抜けて、どこまでも、どこまでも飛び続けたのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991663←前話｜次話→so31991728　第一話→so31991182
+  length_seconds: 1499
+  content_id: so31991664
+  default_thread_id: 1506335701
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991664
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: ''
+  description: 小さな村に、大きなダムが完成しました。明日のお昼に、村は湖の底になってしまうというのに、ウェルトンおじさん、ヤギのロンロン、アヒルのクックはそこを動こうとはしないのです。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991664←前話｜次話→so31991731　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991728
+  default_thread_id: 1506336212
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991728
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: ''
+  description: 小さな橋を挟んで、二つの村が戦争をはじめました。昨日まで、とっても仲良しだったのに。おじさんたちに聞いても、理由は分からないと言うのです。僕たちは、村長さんに聞いてみることにしました。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991728←前話｜次話→so31991794　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991731
+  default_thread_id: 1506335964
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991731
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: ''
+  description: 森の奥に悪魔がいるという噂を聞いて、僕たちは探検に出かけました。古いお城のような建物の中から、コーンコーンと不気味な音が聞こえてくるのです。僕たちは思いきってその中に足を踏み入れました。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991731←前話｜次話→so31991967　第一話→so31991182
+  length_seconds: 1499
+  content_id: so31991794
+  default_thread_id: 1506337105
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991794
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: ''
+  description: ある日、僕がのどかな美しい丘の上でひと休みしていた時のことです。突然、麓のほうから騒がしい音が聞こえてきたのです。見ると、大勢の兵隊と農民が戦いをはじめたのです。いったいどうしたというのでしょう。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991794←前話｜次話→so31991968　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991967
+  default_thread_id: 1506338142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991967
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: ''
+  description: ある日、僕は小さな村でとても楽しい旅芸人の一座に出会いました。旅芸人と言っても、ヴァイオリン弾きのおじいさんと一匹の熊とそれだけなのです。そして僕は、この一座と一緒に旅をすることになりました。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991967←前話｜次話→so31991969　第一話→so31991182
+  length_seconds: 1498
+  content_id: so31991968
+  default_thread_id: 1506338249
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991968
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: ''
+  description: ね、明日はこの地球に降りてきて、ちょうど1年目の記念日なんだ。僕の星は、去年僕が降りてきたところの、ちょうど真上にくるよ。星のバラさん、僕もうすぐ帰るからね。<br><br>出演(声):松野達也,増岡弘,松尾佳子<br><br>監督:神田武幸<br><br>so31991968←前話　第一話→so31991182
+  length_seconds: 1479
+  content_id: so31991969
+  default_thread_id: 1506338133
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991969
+cast: "[キャスト]<br>出演(声):松野達也,増岡弘,松尾佳子"
+staff: "[スタッフ]<br>監督:神田武幸"
+produced_year: "[製作年]<br>1978年"
+copyright: "©サン・テグジュペリ・ICHI"
+related_seasons: !ruby/array:Hashie::Array []

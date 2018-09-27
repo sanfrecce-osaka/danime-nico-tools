@@ -1,0 +1,48 @@
+--- !ruby/hash:SeasonHash
+title: とびだせ!土管くん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/3/10613_1_6.png?1427216400000
+outline: カーネギー家のパパとピーターの前に、突如現れた謎の土管型ロボット・土管くん。ひょんなことから家族の一員となった土管くんは、およそ思いつく限りのものに自由に変身し、土管の中からはあらゆるものが飛び出す超高性能ロボット。最新式のタッチパネルを操作して、どんな問題もズバリと解決?します!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：manzo
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1-8
+  title: GTR48/下着泥棒を捕まえろ!/老人とウニ/楽しい経済/学園の七不思議/競技離婚/鍋ストーリーは突然に/迷子の大人たち
+  description: ネットでメンバー募集をしたところ、ギターばかりが48人も! どうする?土管くん!/今夜はパパの知り合いの刑事・コロボンさんのお手伝い。はたして下着泥棒を逮捕できるのか!/回転寿司でウニの巨大軍艦巻きを待ち続けるサンチェス爺さん。いったい、どんな事情で?/売上ガタ落ちのスーパーの立て直しを依頼された土管くん、経営コンサルタントアプリをダウンロード!/熊手川学園の七不思議に挑むピーターたち。その七つ目の不思議とは…。/別れ方を競い合う｢協議離婚｣が大ブーム。いったいどんな風に競うのか!?/鍋奉行に鍋罪人、鍋商人…。父親が威厳を取り戻すために鍋奉行になった家庭で、推理もの時代劇が始まる!/デパートの迷子センターのお手伝いをすることになった土管くんたち。そこで人生の迷子と出会うのであった。<br><br>出演者:FROGMAN<br><br>監督・脚本:FROGMAN／音楽:manzo<br><br>次話→so32036615
+  length_seconds: 1447
+  content_id: so32036614
+  default_thread_id: 1507005692
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036614
+- !ruby/hash:EpisodeHash
+  episode_no: 9-15
+  title: 夜鳴きそばだよ全員集合!/ドロケーフェスティバル2012/ナシゴレン/バレーボール/イカロスのように/操縦するものたちへ/さらば土管くん
+  description: 夜鳴きそばに引き寄せられた受験生。そこは土管くんたちが｢IQ20万ラーメン｣を出す屋台で…。/なかなか泥棒役の最後のひとりが捕まらないドロケーフェスティバル。その最後のひとりとは!/通りがかりのひとのナシゴレンを台なしにしてしまったパパたち。えっ、ナシゴレンってなに?/なにが面白いのかさっぱりわからないバレーボールを始めた土管くんたち。そこで知り合ったコーチとは…。/｢空を自由に飛べたらいいのに｣土管くんのそんな願いのせいで、いつも以上にひどい目にあう操縦する人であった。/操縦する人とケンカ別れしてしまった土管くん。でも、操縦する人がいないと…。/｢とびだせ!土管くん｣もついに最終回。操縦する人の正体が明らかに。<br><br>出演者:FROGMAN<br><br>監督・脚本:FROGMAN／音楽:manzo<br><br>so32036614←前話　第一話→so32036614
+  length_seconds: 1311
+  content_id: so32036615
+  default_thread_id: 1507005689
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036615
+cast: "[キャスト]<br>出演者:FROGMAN"
+staff: "[スタッフ]<br>監督・脚本:FROGMAN／音楽:manzo"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)蛙男商会/DLE"
+related_seasons: !ruby/array:Hashie::Array []

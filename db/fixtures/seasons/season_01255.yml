@@ -1,0 +1,22 @@
+--- !ruby/hash:SeasonHash
+title: パンツァードラグーン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/8/11108_1_6.png?1427216400000
+outline: かつて世界を震撼させた旧世紀の塔が目覚め｢最終プログラム｣の発動と共に、遺跡と化した生物兵器工場でドラゴンが長い眠りから目覚めた…｡辺境の地に住む攻性生物ハンターのカイルと盲目の少女アリータの前に黒い飛竜“プロトドラゴン”が迫り少女を連れ去ってしまう｡青い飛竜“ドラグーン”の力を借り、カイルはアリータを助け出す冒険に出る!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: パンツァードラグーン
+  description: かつて世界を震撼させた旧世紀の塔が目覚め｢最終プログラム｣の発動と共に、遺跡と化した生物兵器工場でドラゴンが長い眠りから目覚めた…｡辺境の地に住む攻性生物ハンターのカイルと盲目の少女アリータの前に黒い飛竜“プロトドラゴン”が迫り少女を連れ去ってしまう｡青い飛竜“ドラグーン”の力を借り、カイルはアリータを助け出す冒険に出る!!
+  length_seconds: 1583
+  content_id: so32376663
+  default_thread_id: 1512525036
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32376663
+produced_year: "[製作年]<br>1996年"
+copyright: "（c）SEGA"
+related_seasons: !ruby/array:Hashie::Array []

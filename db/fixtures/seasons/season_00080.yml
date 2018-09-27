@@ -1,0 +1,194 @@
+--- !ruby/hash:SeasonHash
+title: アルカナ・ファミリア
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/51/4/10514_1_6.png?1427216400000
+outline: 地中海に浮かぶ孤島―レガーロ島。交易で栄えるこの島を守るため、自警組織｢アルカナ・ファミリア｣が立ち上がった。構成員は｢タロッコ｣と契約を交わし、｢アルカナ能力｣と呼ばれる不思議な力を各自が有している。そのファミリーのトップであるモンドの一人娘フェリチータは、母親似の美貌に、卓越したナイフ捌きなど武芸の才能も兼ね備えた少女。島の奥で隠されるように育った彼女だったが、16歳になり、ファミリーの一員として表舞台で新たな一歩を踏み出そうとしていた。そんな矢先、父モンドの誕生パーティーで彼は突然、引退を発表。そして後継者を選ぶため能力者同士の戦い｢アルカナ・デュエロ｣の開催を宣言する。そしてフェリチータはその勝者と結婚しなければならない、と……。自らの道を切り開くため、フェリチータもその戦いに臨み、勝利することを決意する。｢アルカナ・デュエロ｣まで2ヶ月―運命を決める戦いが、いま幕を開ける!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 遊佐浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 小杉十郎太
+  type: cast
+- !ruby/hash:TagHash
+  name: 代永翼
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：今千秋
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松浦麻衣
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 紅一点？
+  type: other
+- !ruby/hash:TagHash
+  name: 乙女ゲーム原作
+  type: other
+- !ruby/hash:TagHash
+  name: 赤星政尚
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: コンプレアンノ・ノッテ(誕生日の夜)
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>次話→so31875733
+  length_seconds: 1421
+  content_id: so31875731
+  default_thread_id: 1504671884
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875731
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 動物愛護警備隊長
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875731←前話｜次話→so31875753　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875733
+  default_thread_id: 1504671909
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875733
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ピッコリーノ
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875733←前話｜次話→so31875777　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875753
+  default_thread_id: 1504672343
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875753
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 仮面の告白
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875753←前話｜次話→so31875804　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875777
+  default_thread_id: 1504672642
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875777
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: おさななじみ
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875777←前話｜次話→so31875805　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875804
+  default_thread_id: 1504673201
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875804
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 船上決戦!
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875804←前話｜次話→so31875806　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875805
+  default_thread_id: 1504673505
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875805
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: それぞれの秘密
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875805←前話｜次話→so31875807　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875806
+  default_thread_id: 1504673503
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875806
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 闇の中の月
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875806←前話｜次話→so31875808　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875807
+  default_thread_id: 1504673552
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875807
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 運命の輪
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875807←前話｜次話→so31875809　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875808
+  default_thread_id: 1504673528
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875808
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: アルカナ・ファミリア
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875808←前話｜次話→so31875810　第一話→so31875731
+  length_seconds: 1419
+  content_id: so31875809
+  default_thread_id: 1504673219
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875809
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: アルカナ・トリアンゴロ
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875809←前話｜次話→so31875811　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875810
+  default_thread_id: 1504673532
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875810
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: アルカナ・デュエロ
+  description: フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+    ほか<br><br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+    政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF<br><br>so31875810←前話　第一話→so31875731
+  length_seconds: 1420
+  content_id: so31875811
+  default_thread_id: 1504673536
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875811
+cast: "[キャスト]<br>フェリチータ:能登麻美子／リベルタ:福山潤／ノヴァ:代永翼／デビト:吉野裕行／パーチェ:杉田智和／ルカ:中村悠一／ダンテ:小杉十郎太／ジョーリィ:遊佐浩二
+  ほか"
+staff: "[スタッフ]<br>原作:HuneX／キャラクター原案:さらちよみ／監督:今 千秋(こん ちあき)(監督/｢のだめカンタービレ｣シリーズ他)／シリーズ構成:赤星
+  政尚(あかほし まさなお)(シリーズ構成/｢とある魔術の禁書目録｣シリーズ他)／キャラクターデザイン:松浦 麻衣(まつうら まい)(キャラクターデザイン/｢裏切りは僕の名前を知っている｣)／アニメーション制作:J.C.STAFF"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C) 2012 HuneX／アルカナ・ファミリア製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

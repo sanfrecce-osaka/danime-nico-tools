@@ -1,0 +1,170 @@
+--- !ruby/hash:SeasonHash
+title: 衛宮さんちの今日のごはん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/9/21989_1_6.png?1522832437000
+outline: Fate×料理が織りなす美味しく優しい世界───そこは少し賑やかなどこにでもある食卓の光景。春も、夏も、秋も、冬も、衛宮さんちでは毎日美味しい料理がふるまわれる。さて今日は何を作ろうか
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 植田佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉山紀彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅川悠
+  type: cast
+- !ruby/hash:TagHash
+  name: 門脇舞以
+  type: cast
+- !ruby/hash:TagHash
+  name: 下屋則子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ufotable
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：椎名豪
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：内村瞳子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：三浦貴博
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：TAa
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐藤哲人
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: "「年越しそば」"
+  description: 今日は大晦日。大掃除を終えた士郎とセイバーは、夕飯の買い出しに出かける。家で留守番中の大河とイリヤは、こたつの中でのんびりと士郎が作ってくれるごはんを待っていた。今夜の衛宮家のごはんは…？<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計：大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>次話→so32700496
+  length_seconds: 803
+  content_id: so32665992
+  default_thread_id: 1517359693
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32665992
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: "「鮭ときのこのバターホイル焼き」"
+  description: 夕飯の買い出しに来た士郎。献立を考えながら商店街を歩いていると、魚屋で店番をしているランサーに出会う。士郎は鮭を使った料理を作ることを決めたが、何故かランサーが衛宮家に夕飯を食べにくることになり…<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>so32665992←前話｜次話→so32845447　第一話→so32665992
+  length_seconds: 750
+  content_id: so32700496
+  default_thread_id: 1517966895
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32700496
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: "「春のちらし寿司」"
+  description: 3月3日はひなまつり。イリヤを衛宮家に招待し、日本の文化を体験してもらうことに。凛と桜の手を借り、士郎がイリヤのためにふるまう"ひなまつりの料理"は…？<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>so32700496←前話｜次話→so33008291　第一話→so32665992
+  length_seconds: 720
+  content_id: so32845447
+  default_thread_id: 1520383632
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32845447
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: "「春野菜とベーコンのサンドイッチ」"
+  description: バイト先の酒屋・コペンハーゲンで配達の手伝いを頼まれた士郎。最後の配達先であった柳洞寺で僧侶の零観から頼まれ、山菜を使ったサンドイッチを作ることになるのだが、山門で見かけたアサシンのことが気になり…。<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so32845447←前話｜次話→so33172272　第一話→so32665992
+  length_seconds: 750
+  content_id: so33008291
+  default_thread_id: 1522979205
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33008291
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: "「たけのこグラタン」"
+  description: 士郎が作った朝食を完食し笑顔になるセイバー達を見て、ため息をつく桜。その姿はどこか思い悩んでいるようだった。士郎は一成からサンドイッチのお礼にたけのこを貰う。夕食にグラタンを作ろうとする桜に士郎はたけのこを入れようと提案する。<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33008291←前話｜次話→so33297630　第一話→so32665992
+  length_seconds: 749
+  content_id: so33172272
+  default_thread_id: 1525655841
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33172272
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: "「はじめてのハンバーグ」"
+  description: 今日は雨。士郎は幼き日の記憶をふと思い出す。雨が降っていたある日、士郎は料理番組で作っていたハンバーグを作ることを決めた。それはハンバーグが好物なある人のためで…。<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33172272←前話｜次話→so33479166　第一話→so32665992
+  length_seconds: 750
+  content_id: so33297630
+  default_thread_id: 1527837801
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33297630.38616
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: "「さらりと頂く冷やし茶漬け」"
+  description: 大河のはからいで、士郎とセイバーと凛はウォーターレジャーランド・わくわくざぶーんに行くことに。そこで遭遇したランサーとアーチャーに勝負を挑まれ、ビーチバレー対決が始まる。その後遊び疲れた彼女たちに、士郎が作る今日のごはんは…？<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33297630←前話｜次話→so33622984　第一話→so32665992
+  length_seconds: 750
+  content_id: so33479166
+  default_thread_id: 1530842043
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33479166
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: "「遠坂さんの五目炒飯」"
+  description: 士郎と桜は凛に家の片づけの手伝いを頼まれる。遠坂邸には、魔導装置や魔導書などがたくさん。三人で片づけをしているとちょうどお昼の時間に。今日のごはんは凛と桜が作ることになり―。<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33479166←前話｜次話→so33815809　第一話→so32665992
+  length_seconds: 750
+  content_id: so33622984
+  default_thread_id: 1533173705
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33622984
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: "「秋の味覚-キャスター和食修行編-」"
+  description: 士郎が商店街を歩いていると、突然後ろから腕を引っ張られる。振り返ると、そこにはキャスターがいた。 料理修行中のキャスターは、士郎にある料理の作り方を教えてほしいようで―。<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33622984←前話｜次話→　第一話→so32665992
+  length_seconds: 750
+  content_id: so33815809
+  default_thread_id: 1536283447
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33815809
+cast: "[キャスト]<br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂 凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀"
+staff: "[スタッフ]<br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable"
+produced_year: "[製作年]<br>2018年"
+copyright: "©TAa・KADOKAWA・TYPE-MOON / 「衛宮さんちの今日のごはん」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Fate/stay night
+- !ruby/hash:SeasonHash
+  title: TVアニメ「Fate/stay night [Unlimited Blade Works]」
+- !ruby/hash:SeasonHash
+  title: Fate/Zero
+- !ruby/hash:SeasonHash
+  title: Fate/kaleid liner プリズマ☆イリヤ
+- !ruby/hash:SeasonHash
+  title: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！
+- !ruby/hash:SeasonHash
+  title: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！
+- !ruby/hash:SeasonHash
+  title: Fate/kaleid liner プリズマ☆イリヤ ドライ!!

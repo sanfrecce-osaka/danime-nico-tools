@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: 夏目友人帳　いつかゆきのひに
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/43/2/11432_1_6.png?1446599004000
+outline: ある雪の日、夏目は小さな雪だるまのような妖しと出会う。その妖しはあたたかいものを探しているというが、夏目には何を探しているのかがわからない。モコモコと名付け、話を聞くと、夏目の家にはたくさんのそのあたたかいものがあるという。モコモコが触れたものは全て凍ってしまうため、寒い寒いと嫌がるニャンコ先生を尻目に、夏目はモコモコの探し物を一緒に探しにいくことにする。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤栄次
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ブレインズ・ベース
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大森貴弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：緑川ゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山田起生
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：出合小都美
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：髙田晃
+  type: staff
+- !ruby/hash:TagHash
+  name: 夏目友人帳シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 白泉社
+  type: other
+- !ruby/hash:TagHash
+  name: NAS
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 夏目友人帳　いつかゆきのひに
+  description: ある雪の日、夏目は小さな雪だるまのような妖しと出会う。その妖しはあたたかいものを探しているというが、夏目には何を探しているのかがわからない。モコモコと名付け、話を聞くと、夏目の家にはたくさんのそのあたたかいものがあるという。モコモコが触れたものは全て凍ってしまうため、寒い寒いと嫌がるニャンコ先生を尻目に、夏目はモコモコの探し物を一緒に探しにいくことにする。<br><br>夏目貴志:神谷浩史／ニャンコ先生・斑:井上和彦／藤原塔子:伊藤美紀／藤原滋:伊藤栄次
+    ほか<br><br>原作:緑川ゆき　「夏目友人帳」（白泉社「月刊ＬａＬａ」連載）／キャラクターデザイン・作画監督:髙田晃／妖怪デザイン・作画監督:山田起生／脚本:吉永亜矢／総監督:大森貴弘／監督:出合小都美／アニメーション制作:ブレインズ・ベース／制作:NAS／製作:「夏目友人帳」製作委員会
+  length_seconds: 1356
+  content_id: so31926008
+  default_thread_id: 1505423253
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31926008
+cast: "[キャスト]<br>夏目貴志:神谷浩史／ニャンコ先生・斑:井上和彦／藤原塔子:伊藤美紀／藤原滋:伊藤栄次 ほか"
+staff: "[スタッフ]<br>原作:緑川ゆき　「夏目友人帳」（白泉社「月刊ＬａＬａ」連載）／キャラクターデザイン・作画監督:髙田晃／妖怪デザイン・作画監督:山田起生／脚本:吉永亜矢／総監督:大森貴弘／監督:出合小都美／アニメーション制作:ブレインズ・ベース／制作:NAS／製作:「夏目友人帳」製作委員会"
+produced_year: "[製作年]<br>2014年"
+copyright: "©緑川ゆき・白泉社／「夏目友人帳」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳
+- !ruby/hash:SeasonHash
+  title: 続 夏目友人帳
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 参
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 肆
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 伍
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 伍　特別編１　一夜盃（ひとよさかずき）
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 陸
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳　ニャンコ先生とはじめてのおつかい
+- !ruby/hash:SeasonHash
+  title: SOUND THEATRE × 夏目友人帳 ～集い 音劇の章～
+- !ruby/hash:SeasonHash
+  title: SOUND THEATRE × 夏目友人帳 ～集い 音劇の章・再び～

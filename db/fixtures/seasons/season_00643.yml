@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: シークエンス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/46/2/10462_1_6.png?1427216400000
+outline: 原因不明の爆発事故で、それまでの記憶を失った高校生の俊明は、未来の世界で自分が｢歳蘭｣と呼ばれている夢を見るようになる。そんな折、俊明の通う学校に謎めいた転校生がやってきて……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 滝沢久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木勝美
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村大樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺俊幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高橋ナオヒト
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：荒川稔久
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：音無竜ノ介
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：みずき健
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+- !ruby/hash:TagHash
+  name: 田中英行
+  type: other
+- !ruby/hash:TagHash
+  name: 地蔵本拓嗣
+  type: other
+- !ruby/hash:TagHash
+  name: 田崎廣
+  type: other
+- !ruby/hash:TagHash
+  name: ユーメックス
+  type: other
+- !ruby/hash:TagHash
+  name: 藤田純二
+  type: other
+- !ruby/hash:TagHash
+  name: 高橋明彦
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: シークエンス
+  description: 原因不明の爆発事故で、それまでの記憶を失った高校生の俊明は、未来の世界で自分が｢歳蘭｣と呼ばれている夢を見るようになる。そんな折、俊明の通う学校に謎めいた転校生がやってきて……。<br><br>都築俊明:佐々木望／東野司:中村大樹／華羅:勝生真沙子／森尾めぐみ:天野由梨／母:滝沢久美子／担任:鈴木勝美／女子生徒A:三石琴乃<br><br>製作:藤田純二／プロデューサー:加藤博
+    田崎廣／原作:みずき健(新書館ウィングス・コミックス刊)／脚本:荒川稔久／監督:高橋ナオヒト／キャラクターデザイン・作画監督:音無竜ノ介／美術監督:地蔵本拓嗣／録音監督:田中英行／撮影監督:高橋明彦／音楽:渡辺俊幸／製作・著作:葦プロダクション・ユーメックス
+  length_seconds: 2514
+  content_id: so32151708
+  default_thread_id: 1508836678
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151708
+cast: "[キャスト]<br>都築俊明:佐々木望／東野司:中村大樹／華羅:勝生真沙子／森尾めぐみ:天野由梨／母:滝沢久美子／担任:鈴木勝美／女子生徒A:三石琴乃"
+staff: "[スタッフ]<br>製作:藤田純二／プロデューサー:加藤博 田崎廣／原作:みずき健(新書館ウィングス・コミックス刊)／脚本:荒川稔久／監督:高橋ナオヒト／キャラクターデザイン・作画監督:音無竜ノ介／美術監督:地蔵本拓嗣／録音監督:田中英行／撮影監督:高橋明彦／音楽:渡辺俊幸／製作・著作:葦プロダクション・ユーメックス"
+produced_year: "[製作年]<br>1992年"
+copyright: "(c) 1992 みずき健/新書館/葦プロ/ユーメックス"
+related_seasons: !ruby/array:Hashie::Array []

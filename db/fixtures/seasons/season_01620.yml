@@ -1,0 +1,128 @@
+--- !ruby/hash:SeasonHash
+title: メガネブ！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/02/4/11024_1_6.png?1427216400000
+outline: 相馬鏡(そうまあきら)は、とある田舎にあるヒマラヤ第三工業高校に通う、メガネをかけた男子高校生。誰よりもメガネを愛し、メガネをかけていることに誇りを持っている。そんな彼の大いなる野望のもとに設立した｢メガネ部｣に集まった(もしくは、集めさせられた)、鉢嶺拓磨(はちみねたくま)、三鍋友紀也(みなびゆきや)、鎌谷光希(かまたにみつき)、木全隼人(きまたはやと)とともに、汗を流し、笑い、泣き、時に爆発(!)してメガネに情熱を注ぐ―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: メガネ
+  type: other
+- !ruby/hash:TagHash
+  name: チーム男子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: メガネをただの視力矯正アイテム、またモテアイテムとしてではなく(略)している我がメガネ部
+  description: ヒマラヤ第三工業高校の屋上から轟く雄叫び。ざわめく全校生徒。立ちはだかるは5つの影。そう、それは、メガネ部だった。部長の相馬鏡は、全校生徒に問いかける。｢綺麗なおねーさんの裸が、みたいかー!!!｣。盛り上がる全校生徒。期待を一身に背負うメガネ部。そして鏡の背後から現れたものは…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>次話→so32040854
+  length_seconds: 1420
+  content_id: so32040840
+  default_thread_id: 1507059969
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040840
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: メガネをかけている漢に悪い漢はいない/なう最強フレーム
+  description: スケスケメガネ33号機の爆発でボロボロになった部室をせっせと掃除する隼人。すすけた部室の中で見つけたものは、メガネ部のアルバムであった。掃除をしている途中昔のアルバムを発見し、その懐かしさに読みふける隼人は、あることに気付くのであった…。/ある日の放課後、メガネ部の顧問・白銀穂貴は三鍋友紀也に呼び出され保健室へ赴くことに。そこで彼が見た光景は…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040840←前話｜次話→so32040855　第一話→so32040840
+  length_seconds: 1420
+  content_id: so32040854
+  default_thread_id: 1507061023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040854
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: スケスケメガネ、完成するといいね
+  description: スケスケメガネ35号機の開発に、勉学もそっちのけで忙しいメガネ部の5人。楽しい部活に早く取りかかるために、5人はある秘策を思いついた。それは、1時間を55分にする時計をつくり、校内のあらゆる時計をすり替えることだった。この時、彼らは楽しい部活の時間も短縮されることを知る由もなかったのだった…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040854←前話｜次話→so32040856　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040855
+  default_thread_id: 1507061025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040855
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: これが本物のメガネなんだよ!/メガネは心であり己自身
+  description: 鏡台をのぞき込むように、口角の位置やメガネの位置などをずらしながら何度も笑顔の練習をしている光希。とある笑顔を作りこんだとき、彼はまばゆい光につつまれる。口角を結ぶ直線と口角からメガネまでの線の比率をみると｢1:1.618｣。｢こ、これは……もしやっ！｣希望に満ち溢れる光希に…。／ある日の朝。さえずる鳥たち。鳴り響く目覚まし時計。転げ落ちる拓磨。曲がるテンプル。これは、鉢嶺兄弟のある日の話。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040855←前話｜次話→so32040857　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040856
+  default_thread_id: 1507061042
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040856
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: あってもダテメガネなんかに言うわけない/レンズあっての超音波洗浄機
+  description: 怖いものは何もない、と豪語するメガネ部部長の相馬鏡。ある日、白銀先生の野暮用につき合わされ、一人遅れて部活へと向かう道すがら、彼の前に立ちはだかるものは…？／今日も新作スケスケメガネの開発に勤しむメガネ部一同。5人乗り自転車に自家発電機をとりつけて、スケスケメガネ36号機に必要な電力を送るため、必死にペダルを漕ぎ続けるものの…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040856←前話｜次話→so32040876　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040857
+  default_thread_id: 1507061021
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040857
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: MR
+  description: 放課後。いつものように部室に集まるメガネ部の面々。そんな中、部長の鏡は、別段呼び出したわけでもないのに｢今日ここにお前らを呼んだのは他でもない｣と声を上げる。鏡が皆を呼び出した(？)理由は、｢MR抜き打ち検査｣を行うためだった…。動揺する友紀也、うろたえる拓磨。初めての経験に戸惑う1年生…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040857←前話｜次話→so32040877　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040876
+  default_thread_id: 1507061121
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040876
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 来たれ!メガネ者!お前のメガネが世界を変える
+  description: メガネ部創設以来の絶体絶命の危機が訪れる。｢メガネブは生徒会規定に定められた『部員が定数5名に満たない部は廃部』という条項に抵触しているため、本日中に部員を補充しなければ廃部とする…｣。新入部員の勧誘に乗り出すメガネ部員。そんな状況下でも、友紀也はスケスケメガネの開発に余念がない。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040876←前話｜次話→so32040891　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040877
+  default_thread_id: 1507061140
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040877
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: メガネがぴっかぴかなうちはそうはいきません
+  description: ある日のお昼時。ある者は学食へ向かい、ある者は自作のお弁当を広げ、またある者はシュークリームを買いに…。いつものランチタイムが始まると思っていたメガネ部の食卓に異変が起きていた。おメガネにかなうメニューに各自がありつけないという。そんな中、光希は廊下の窓にのぞく怪しい影を見つける…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040877←前話｜次話→so32040892　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040891
+  default_thread_id: 1507061855
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040891
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: メガネ者達にとっての革命
+  description: 2年生は沖縄に修学旅行へ。いつも以上にテンションが高い3人。留守を預かる1年生は、いつも以上にテンションが低い(とくに光希が)。そんな1年生を後目に、鏡、拓磨、友紀也2年生一同は、ダイビングに興じようとするも、メガネを外さねばならぬことから断念したが、友紀也がYpadで調べたあるものは、革命であり、悲劇の始まりだった…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040891←前話｜次話→so32040893　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040892
+  default_thread_id: 1507062221
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040892
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ルール的にはセーフだが、メガネ的にはアウト/メガネ部の奴らを見てると当時の俺達を思い出す
+  description: 鏡が怪しげなボードゲームを持ってきた。登校中に道ばたで拾ってきたもののようだ。ゲームの表には『眼鏡双六』の文字。サイコロを振った瞬間、死力(視力)を尽くすゲームの幕が開ける…。／繁華街の居酒屋で、白銀と針生がカウンターで酒を酌み交わしている。深酒により異常なまでにタチが悪くなった針生を見かねて、白銀が連れて行った場所は…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040892←前話｜次話→so32040894　第一話→so32040840
+  length_seconds: 1419
+  content_id: so32040893
+  default_thread_id: 1507061878
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040893
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: メガネ者ならメガネを愛して当たり前だ
+  description: 響き渡る放課後のチャイム音。生徒会会議室に集う各部活の部長たち。今年もヒマラヤ第三工業高校文化祭(ヒマフェス)の季節がやってきた。今年のヒマフェスにすべてを賭ける生徒会長の佐藤ウィリアムは胃痛に耐えながら、参集した各部長たちにある提案をする。配られたコピー用紙に書かれたものには…。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040893←前話｜次話→so32040895　第一話→so32040840
+  length_seconds: 1420
+  content_id: so32040894
+  default_thread_id: 1507061851
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040894
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: メガネブ!
+  description: 第32回ヒマラヤ第三工業高校文化祭の当日。どこまでも広がる青い空。装飾された校内。グラウンドにはビニールシートでくるまれロープでがんじがらめにされた巨大な山。それを眺めるご機嫌な佐藤。一方のメガネ部はメガネ者だけが参加できるレクリエーションの参加者を募っている。｢天高く、その先の未来を掴め!｣のテーマの下、それぞれの文化祭が始まるー。<br><br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平<br><br>so32040894←前話　第一話→so32040840
+  length_seconds: 1404
+  content_id: so32040895
+  default_thread_id: 1507062217
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040895
+cast: "[キャスト]<br>キャスト:赤羽根健治,宮田幸季,田丸篤志,諏訪部順一,木村良平"
+produced_year: "[製作年]<br>2013年"
+copyright: "(c)2013 メガネブ！プロジェクト／メガネブ！製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

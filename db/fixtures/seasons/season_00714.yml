@@ -1,0 +1,29 @@
+--- !ruby/hash:SeasonHash
+title: スプートニック
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/4/10434_1_6.png?1427216400000
+outline: スプ～トニックだ ワン・チュー・スリー!歌にあわせて宇宙に飛び立ったスプートニック1号2号3号。パカッと開くと乗っているのは、犬・ネズミ・パイロット。それを見守るお母さんお月様と優しい太陽お父さん。カプセル宇宙船で気ままな犬とネズミ。パイロットは無重力の狭いカプセルの中でトラブルばかり!宇宙旅行も楽じゃない?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 音楽：こぐま
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: スプートニック
+  description: スプ～トニックだ ワン・チュー・スリー!歌にあわせて宇宙に飛び立ったスプートニック1号2号3号。パカッと開くと乗っているのは、犬・ネズミ・パイロット。それを見守るお母さんお月様と優しい太陽お父さん。カプセル宇宙船で気ままな犬とネズミ。パイロットは無重力の狭いカプセルの中でトラブルばかり!宇宙旅行も楽じゃない?<br><br>アニメーション:HIDEHOMARE／音楽:こぐま
+  length_seconds: 182
+  content_id: so32151241
+  default_thread_id: 1508830268
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151241
+staff: "[スタッフ]<br>アニメーション:HIDEHOMARE／音楽:こぐま"
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)MXエンターテインメント・PRODUCTION REED 2011"
+related_seasons: !ruby/array:Hashie::Array []

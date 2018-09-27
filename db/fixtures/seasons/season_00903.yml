@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: 超獣機神ダンクーガ GOD BLESS DANCOUGA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/44/4/10444_1_6.png?1427216400000
+outline: ムゲ帝王との戦いを経て、獣戦機隊の面々にもとりあえずの日常が戻っていた。それぞれが自身の問題と向き合い悩む中、謎の組織バンディッツが破壊活動を開始。さらには巨大な敵グザートが出現し、迎撃に向かう忍たち。しかし敵は自爆してしまい、それが新たな戦いの幕を開けることとなった……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢尾一樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原茂
+  type: cast
+- !ruby/hash:TagHash
+  name: 石丸博也
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本百合子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：戸塚修
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：羽原信義
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：園田英樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：いんどり小屋
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：池毅
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大庭寿太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 超獣機神ダンクーガシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
+  type: other
+- !ruby/hash:TagHash
+  name: 松浦典良
+  type: other
+- !ruby/hash:TagHash
+  name: 勝又激
+  type: other
+- !ruby/hash:TagHash
+  name: 佐野浩敏
+  type: other
+- !ruby/hash:TagHash
+  name: 藤原正道
+  type: other
+- !ruby/hash:TagHash
+  name: さとうともひこ
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 超獣機神ダンクーガ GOD BLESS DANCOUGA
+  description: ムゲ帝王との戦いを経て、獣戦機隊の面々にもとりあえずの日常が戻っていた。それぞれが自身の問題と向き合い悩む中、謎の組織バンディッツが破壊活動を開始。さらには巨大な敵グザートが出現し、迎撃に向かう忍たち。しかし敵は自爆してしまい、それが新たな戦いの幕を開けることとなった……。<br><br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博
+    也<br><br>企画:藤原正道,佐藤俊彦／脚本:園田英樹／キャラクターデザイン:いんどり小屋,羽原信義／メカニックデザイン:平井寿(中村プロ),佐野浩敏,さとうともひこ／美術監督:勝又激／音響監督:松浦典良／音楽:池毅,戸塚修／監督:大庭寿太郎／制作:葦プロダクション(現：プロダクションREED)
+  length_seconds: 4778
+  content_id: so32151707
+  default_thread_id: 1508838661
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151707
+cast: "[キャスト]<br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博
+  也"
+staff: "[スタッフ]<br>企画:藤原正道,佐藤俊彦／脚本:園田英樹／キャラクターデザイン:いんどり小屋,羽原信義／メカニックデザイン:平井寿(中村プロ),佐野浩敏,さとうともひこ／美術監督:勝又激／音響監督:松浦典良／音楽:池毅,戸塚修／監督:大庭寿太郎／制作:葦プロダクション(現：プロダクションREED)"
+produced_year: "[製作年]<br>1987年"
+copyright: "(c) PRODUCTION REED 1987"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ(TV)
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ Song Special 獣戦機隊Songs
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ 白熱の終章

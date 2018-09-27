@@ -1,0 +1,33 @@
+--- !ruby/hash:SeasonHash
+title: 教えて!土管くん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/3/10583_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第6話
+  title: ロボット/化粧/消波ブロック/月/カレー/お彼岸
+  description: 出演者:FROGMAN<br><br>監督:FROGMAN
+  length_seconds: 366
+  content_id: so32036553
+  default_thread_id: 1507003327
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036553
+cast: "[キャスト]<br>出演者:FROGMAN"
+staff: "[スタッフ]<br>監督:FROGMAN"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: はなれ砦のヨナ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/17/8/10178_1_6.png?1427216400000
+outline: 辺境の地、頑強な砦に暮らす少女ヨナとその兄。不思議な力を持つヨナは、世界に心を閉ざし｢はなれ砦｣に兄と二人で生きてきた。日々、ヨナの力を求めるエージェントたちが、この砦を訪れたが、妹を守ろうとする兄により少女を連れ去ることなく消えていった。そんなある日、ヨナのもとに、一人の少年が現れる。初めて自分に心を開く少年との出会いに戸惑うヨナ。兄は妹を守るべく少年を抹殺しようとする。その兄に助言するのは謎のモンスター(?!)危険を顧みずヨナを連れ出そうとする少年。そのとき少女は、はかない想いの向こう、未来への階段を踏み出そうとする。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 竹内順子
+  type: cast
+- !ruby/hash:TagHash
+  name: KENN
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩崎征実
+  type: cast
+- !ruby/hash:TagHash
+  name: 三橋加奈子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：竹内謙吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：岡澤敏夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：竹内謙吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：ごえもん
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：竹内謙吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：竹内謙吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: はなれ砦のヨナ
+  description: 辺境の地、頑強な砦に暮らす少女ヨナとその兄。不思議な力を持つヨナは、世界に心を閉ざし｢はなれ砦｣に兄と二人で生きてきた。日々、ヨナの力を求めるエージェントたちが、この砦を訪れたが、妹を守ろうとする兄により少女を連れ去ることなく消えていった。そんなある日、ヨナのもとに、一人の少年が現れる。初めて自分に心を開く少年との出会いに戸惑うヨナ。兄は妹を守るべく少年を抹殺しようとする。その兄に助言するのは謎のモンスター(?!)危険を顧みずヨナを連れ出そうとする少年。そのとき少女は、はかない想いの向こう、未来への階段を踏み出そうとする。<br><br>ヨナ:三橋加奈子／ガルダ:KENN／スタン:岩崎征実／ピゴット:竹内順子<br><br>原作・監督・アニメーション制作:竹内謙吾／脚本:竹内謙吾,ごえもん／音楽:岡澤敏夫
+  length_seconds: 1998
+  content_id: so31911639
+  default_thread_id: 1505202273
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911639
+cast: "[キャスト]<br>ヨナ:三橋加奈子／ガルダ:KENN／スタン:岩崎征実／ピゴット:竹内順子"
+staff: "[スタッフ]<br>原作・監督・アニメーション制作:竹内謙吾／脚本:竹内謙吾,ごえもん／音楽:岡澤敏夫"
+produced_year: "[製作年]<br>2006年"
+copyright: "(c)Kengo Takeuchi / CoMixWave Films"
+related_seasons: !ruby/array:Hashie::Array []

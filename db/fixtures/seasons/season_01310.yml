@@ -1,0 +1,85 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/8/10488_1_6.png?1427216400000
+outline: 脱力系スローライフアニメ｢Peeping Life(ピーピング・ライフ)｣の第1弾。まちゃひこ、ゆきぴょんでお馴染みとなった｢おでかけバカップル｣をはじめ、オタクくんの代名詞となった｢おでん缶販売機｣などを収録。日々の忙しさと生きることに疲れたあなた。人生をムダことに費やそう!
+  そこに愛はあるはず…。とびきりゆるいお笑いと、はな歌まじりの感動をお届けいたします。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: サノシュンスケ
+  type: cast
+- !ruby/hash:TagHash
+  name: 森りょういち
+  type: cast
+- !ruby/hash:TagHash
+  name: 清野由佳理
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪谷光昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊佐山裕大
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：detune.
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#5"
+  title: お出かけバカップル/合コンでダダかぶり/新婚ちゃんいらっしゃい!/花見の場所取り/おでん缶販売機
+  description: 彼女が新しい服を買って彼氏とお出掛けしようとするのだが・・・。/会社の先輩と後輩が気合を入れて合コンに望んだのだが・・・。/新婚番組収録を明日に控えた新婚カップルなのだが・・・。/会社の先輩と後輩がお花見の場所取りをするのだが・・・。/オタクくんが｢おでん缶｣を買おうとするのだが・・・。<br><br>キャスト:サノシュンスケ、坪谷光昭、清野由佳理、牧田智子、伊佐山裕大、森
+    りょういち<br><br>監督・アニメーション:森りょういち／音楽:detune.<br><br>次話→so31875541
+  length_seconds: 1979
+  content_id: so31875540
+  default_thread_id: 1504669548
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875540
+- !ruby/hash:EpisodeHash
+  episode_no: "#6-#10"
+  title: リリックにのせて/CDデビュー決定!/マユミちゃんの年賀状/下着メーカー営業マン/観覧車の情事
+  description: 彼はリリックにのせて、彼女に告白するのだが・・・。/新人アイドルがマネージャーからCDデビューの報告を受けるのだが・・・。/会社の先輩が取引先の女性から届いた年賀状を後輩に見せるのだが・・・。/下着メーカーの上司と部下が営業後の密談のようだが・・・。/会社の部長と部下が何やら大事な相談事のようだが・・・。<br><br>キャスト:サノシュンスケ、坪谷光昭、清野由佳理、牧田智子、伊佐山裕大、森
+    りょういち<br><br>監督・アニメーション:森りょういち／音楽:detune.<br><br>so31875540←前話　第一話→so31875540
+  length_seconds: 2549
+  content_id: so31875541
+  default_thread_id: 1504670193
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875541
+cast: "[キャスト]<br>キャスト:サノシュンスケ、坪谷光昭、清野由佳理、牧田智子、伊佐山裕大、森 りょういち"
+staff: "[スタッフ]<br>監督・アニメーション:森りょういち／音楽:detune."
+produced_year: "[製作年]<br>2009年"
+copyright: "(c)FOREST Hunting One/ CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

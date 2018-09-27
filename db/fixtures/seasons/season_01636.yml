@@ -1,0 +1,100 @@
+--- !ruby/hash:SeasonHash
+title: 森田さんは無口。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/1/10631_1_6.png?1427216400000
+outline: 誰よりも優しすぎて…考えすぎて…無口になっちゃう女子高生・森田真由。母の教えにより、相手が話しているときに目をじ～っと見つめちゃう。あらぬ妄想をしてしまう男子学生からの人気絶大。聞き上手なので女子からの人気絶大。ただ…不器用。音痴。運動音痴。そんな女子高生と、幼馴染の活発で惚れっぽい美樹、THE今時の子千尋、くせっ毛で家庭問題有りの花、の仲良し4人組と、森田さんの事が気になる文武両道・学級委員長のりつき、森田さんの事が大スキなメガネ娘たちが巻き起こす!?ほんわか女子高生アニメーション。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤亜美菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 平賀三恵
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：セブン
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山下敏成
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：柿島伸次
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：林直孝
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：烏丸涼
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：佐野妙
+  type: staff
+- !ruby/hash:TagHash
+  name: 森田さんは無口シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+- !ruby/hash:TagHash
+  name: ドリームクリエイション
+  type: other
+- !ruby/hash:TagHash
+  name: まんがくらぶ
+  type: other
+- !ruby/hash:TagHash
+  name: まんがライフMOMO
+  type: other
+- !ruby/hash:TagHash
+  name: 野崎圭一
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: silence1-silence7
+  title: "｢森田さんは無口｣／｢美樹はおしゃべり｣／｢花ちゃんは人見知り｣／｢夏は暑くて当たり前｣／｢女子高生は甘いモノ好き｣／｢妄想は止まらない｣／｢理想はいろいろ｣"
+  description: 主人公の森田真由(CV.花澤香菜)はいつも親友でクラスメイトの村越美樹(CV.戸松遥)と一緒にいる。真由は無口なんだけど、美樹はおしゃべりな女の子。いったいどんな会話をしているのやら?／幼馴染で親友のクラスメイト村越美樹はいつもお喋り。真由はそんな美樹がうらやましく思うのだが・・・／クラスメイトの松坂花(CV.南條愛乃)は森田さんを怖がっている。あの目が怖いのだ。勇気を出して話をしてみると・・・／夏は暑いのだ!女子高生は暑さをしのぐために何をすべきか!!!／仲良し4人組は甘いものがダイスキなのだ。甘いものにつられて・・・／森田さんが無口なので、クラスの男子は森田さんで妄想する事が日課となっている。森田さんでそんな事妄想しちゃいけません。／女子高生の理想とは!?気になるところですね～。<br><br>森田真由役:花澤香菜／村越美紀役:戸松遥／三浦千尋役:早見沙織／松坂花役:南條愛乃／山本りつき役:平賀三恵／メガネ娘役:佐藤亜美菜
+    他<br><br>原作者:佐野 妙(竹書房｢まんがライフMOMO｣｢まんがくらぶ｣連載)／監督:林 直孝／脚本:烏丸 涼／キャラクターデザイン:山下敏成／音響監督:野崎圭一／音楽:柿島伸次／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／製作著作:竹書房<br><br>次話→so31880335
+  length_seconds: 1263
+  content_id: so31880334
+  default_thread_id: 1504728988
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880334
+- !ruby/hash:EpisodeHash
+  episode_no: silence8-silence13
+  title: "「夏祭りは浴衣で」／「プールは楽しい」／「山本さんはクール」／「たまには一人で」／｢ふたりはアツアツ｣／｢休日はみんなで｣"
+  description: 浴衣でお祭りに行く森田さんと美樹、千尋、花ちゃん。美樹の帯が緩くなり、着崩れを森田さんが直そうとするが、次に森田さんの着物が…／夏に気になるのがプールの授業。今日の2年3組はプールの授業。森田さんはどうやら自分のプロポーションが恥ずかしいらしい。普段見えない体型や、特技が!??／森田さんにムラムラ…いや、イライラしてしまう容姿端麗成績優秀な学級委員長山本りつき。そんなりつきが森田さんと会うと…／テスト間近の教室内はざわざわ。森田さんは頼られるタイプ。果たしてテストはどうなる??／森田家の両親はいつもラブラブ。しかし、父親がキャバクラ好きで、いつも母親に怒られる。しかし、いつの間にかまたラブラブ。そんな一家で森田さんはどのように過ごしているの??／みんなで休日待ち合わせして買い物?にいく森田さんと御一行。はてさて、学校以外の森田さんたちはどんな会話をするのでしょうか?森田さんは無口ですがw<br><br>森田真由役:花澤香菜／村越美紀役:戸松遥／三浦千尋役:早見沙織／松坂花役:南條愛乃／山本りつき役:平賀三恵／メガネ娘役:佐藤亜美菜
+    他<br><br>原作者:佐野 妙(竹書房｢まんがライフMOMO｣｢まんがくらぶ｣連載)／監督:林 直孝／脚本:烏丸 涼／キャラクターデザイン:山下敏成／音響監督:野崎圭一／音楽:柿島伸次／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／製作著作:竹書房<br><br>so31880334←前話　第一話→so31880334
+  length_seconds: 1082
+  content_id: so31880335
+  default_thread_id: 1504728778
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880335
+cast: "[キャスト]<br>森田真由役:花澤香菜／村越美紀役:戸松遥／三浦千尋役:早見沙織／松坂花役:南條愛乃／山本りつき役:平賀三恵／メガネ娘役:佐藤亜美菜
+  他"
+staff: "[スタッフ]<br>原作者:佐野 妙(竹書房｢まんがライフMOMO｣｢まんがくらぶ｣連載)／監督:林 直孝／脚本:烏丸 涼／キャラクターデザイン:山下敏成／音響監督:野崎圭一／音楽:柿島伸次／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／製作著作:竹書房"
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)2011佐野妙/竹書房"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 森田さんは無口。2
+- !ruby/hash:SeasonHash
+  title: 森田さんは無口

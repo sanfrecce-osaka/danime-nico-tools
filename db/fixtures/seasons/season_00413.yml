@@ -1,0 +1,240 @@
+--- !ruby/hash:SeasonHash
+title: クオリディア・コード
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/00/6/21006_1_6.png?1467595923000
+outline: 約30年前、突如として地球に襲来した第一種災害指定異来生物――通称アンノウンは、人類を蹂躙し世界を崩壊へと追いやった。圧倒的な力を誇るアンノウンに、人類は総力戦で対抗。辛くも勝利を収めるが、戦争が終わった現在も散発的な侵攻に苦しめられていた。終わらない脅威に対抗するため組織されたのが、3つの防衛拠点からなる南関東防衛機構である。東京、神奈川、千葉の各防衛都市には、固有能力＜世界＞を身につけた少年少女が所属。＜世界＞を駆使しながら、アンノウンと戦い続けていた。彼らは世界の命運を背負わされるだけではなく、ランキングと呼ばれる制度によって貢献度を競わされ、常に最前線で人類の領域を守っている。そんな極限状況の中で、何を見て、何を守ろうとするのか――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 平田広明
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川由依
+  type: cast
+- !ruby/hash:TagHash
+  name: 安済知佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 福原綾香
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：岩崎琢
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：橘公司
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：マーベラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：さがら総
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：渡航
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田畑壽之
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Speakeasy
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：かわむらけんいち
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：クオリディア・コード製作委員会
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: えびなやすのり
+  type: other
+- !ruby/hash:TagHash
+  name: 吉村智恵
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 残存世界のグロリア
+  description: 東京湾岸部の上空に出現した謎の異生物アンノウン。防衛を託されたのは、特殊能力＜世界＞で脅威に対抗する高校生、朱雀壱弥と宇多良カナリアだった。独断専行する朱雀に納得がいかない様子のカナリアだが、朱雀は圧倒的な力でアンノウンを追い詰めていく。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>次話→so31982169
+  length_seconds: 1419
+  content_id: so31982168
+  default_thread_id: 1506198180
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982168
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 紺碧のカリカチュア
+  description: 半壊したアクアラインにアンノウンが出現する――。修復作業を担当する生徒たちの間で、そんな噂が飛び交っていた。2チームに分かれて調査をすることになった各陣営の代表だが、朱雀は霞とほたるという、まったくウマの合わない2人と同じチームになってしまう。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982168←前話｜次話→so31982170　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982169
+  default_thread_id: 1506198062
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982169
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 森閑のアリア
+  description: 一部の生徒たちが安全な内地へ移送される。朱雀は哨戒任務から外れ、負傷によって内地行きが決定した鶉野のもとを訪れていた。朱雀にとって、内地送りにされる者は「無能」だというが……。一方、朱雀不在の哨戒班のもとに、新種のアンノウンが襲来する。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982169←前話｜次話→so31982171　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982170
+  default_thread_id: 1506198263
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982170
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 炭鉱のカナリア
+  description: 大型アンノウンとの戦闘でカナリアが負傷し、絶望的な状況に陥った朱雀。窮地を救ったのは、千葉、神奈川の両陣営だった。撤退後、朱雀は管理局から戦線崩壊の責任を追及される。しかし、自らアンノウンの後始末をしたいと懇願し、舞姫たちに協力を申し出るのだった。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982170←前話｜次話→so31982172　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982171
+  default_thread_id: 1506197996
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982171
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 小公女のレガリア
+  description: アンノウンの急襲によって受けた傷跡はあまりに深く、生徒たちはそれぞれショックを隠せずにいた。朱雀もまた自信と気力を失い、東京の新リーダーには舞姫が擁立される。「花を手向けたのなら、剣を取れ」舞姫は気丈な振る舞いで生徒たちを鼓舞するが……。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982171←前話｜次話→so31982215　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982172
+  default_thread_id: 1506198161
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982172
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 救世のメモリア
+  description: ほたるは侵入不可領域で新型アンノウンと交戦し、朱雀は千葉陣営に連れ出された海ほたるで自暴自棄な戦いを繰り広げていた。時を同じくして、東京上空にかつてない数のアンノウンが出現。降りかかる厄災を前に、舞姫は人類の希望を一手に引き受ける。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982172←前話｜次話→so31982216　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982215
+  default_thread_id: 1506199716
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982215
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 救済のパラノイア
+  description: もう待たせたりはしない――。かつて舞姫と交わした約束を果たすべく、ほたるは突き動かされるように東京を目指す。一方、無数に押し寄せるアンノウンを前に、徐々に疲弊していく舞姫。そこへアンノウンの群れを統率していると思しき特異な個体が出現する。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982215←前話｜次話→so31982277　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982216
+  default_thread_id: 1506199735
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982216
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 反転のクオリア
+  description: 東京・神奈川陣営が壊滅的な打撃を受けたことで、防衛機構そのもののあり方が問われる。霞は湾岸部の放棄と戦線の縮小を提言するが、復讐を誓う朱雀には受け入れられない。さらに明日葉には内地への転属話も持ち上がる。複雑な状況に立たされた霞は、一体何を思うのか？<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982216←前話｜次話→so31982278　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982277
+  default_thread_id: 1506201106
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982277
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 反獄のイデア
+  description: この世界の有りように疑惑の目を向け始めた霞は、明日葉に都市防衛を託し、独自に調査を開始する。一方、三都市防衛の要となった明日葉は、朱雀の協力を仰ぐため無気力な彼を奮い立たせようとするが……。突如、アンノウン襲来の警報が鳴り響く。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982277←前話｜次話→so31982279　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982278
+  default_thread_id: 1506201058
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982278
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 福音のフォークロア
+  description: 変わり果てた現実を前に、状況の掴めない朱雀はただただ呆然とするだけだった。明日葉もまたこの世界は一体どうなっているのかと、ひたすら困惑するばかり。そんな明日葉の前に現れたのは、霞と明日葉の母親を名乗る人物。彼女が語るこの世界の真実とは――。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982278←前話｜次話→so31982280　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982279
+  default_thread_id: 1506201143
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982279
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 双極のファミリア
+  description: アンノウンの世界とこちらの世界を繋ぐゲートを奪取するため、人類はアンノウンの拠点に総攻撃を仕掛ける。しかし生徒たちの中には、戦う覚悟を決める者がいる一方で、この戦いに複雑な思いを抱く者もいた。果たして、朱雀はどのような決断を下すのか……？<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982279←前話｜次話→so31982281　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982280
+  default_thread_id: 1506201104
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982280
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 燦然世界のクオリディア
+  description: ゲートを破壊するため乗り込んだ朱雀たちの前に、思いも寄らない人物が立ちはだかる。同じ人間でありながら、守るべき世界も、救うべきヒトも異にする人物。その覚悟は本物であり、朱雀たちもまた覚悟を問われることに。世界を巡る戦いが、ここに決着する。<br><br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木
+    碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮 天／朝凪求得:平田広明／夕浪愛離:能登麻美子<br><br>原作:Speakeasy
+    / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+    琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+    / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会<br><br>so31982280←前話　第一話→so31982168
+  length_seconds: 1419
+  content_id: so31982281
+  default_thread_id: 1506201151
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982281
+cast: "[キャスト]<br>朱雀壱弥:斉藤壮馬／宇多良カナリア:石川由依／天河舞姫:悠木 碧／凛堂ほたる:福原綾香／千種 霞:内田雄馬／千種明日葉:安済知佳／八重垣青生:雨宮
+  天／朝凪求得:平田広明／夕浪愛離:能登麻美子"
+staff: "[スタッフ]<br>原作:Speakeasy / マーベラス／監督:かわむらけんいち／脚本:Speakeasy(さがら総×橘公司×渡 航)／キャラクター原案:松竜／キャラクターデザイン:田畑壽之／音楽:岩崎
+  琢／美術監督・美術設定:加藤靖忠／色彩設計:吉村智恵／撮影監督:佐久間悠也／音響監督:えびなやすのり／オープニングテーマ:LiSA／エンディングテーマ:ClariS
+  / GARNiDELiA／制作:A-1 Pictures／製作:クオリディア・コード製作委員会"
+produced_year: "[製作年]<br>2016年"
+copyright: "©Speakeasy・マーベラス／クオリディア製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

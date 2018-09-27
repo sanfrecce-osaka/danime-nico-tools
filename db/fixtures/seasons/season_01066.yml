@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: 茄子 アンダルシアの夏
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/35/8/10358_1_6.png?1427216400000
+outline: 主人公ぺぺはひたすら走っていた。照りつける熱い陽射しの中を、南スペインの乾いた道を。“ブエルタ・ア・エスパーニャ” 。“ツール・ド・フランス”と並ぶ｢世界三大自転車レース｣の一つ。勝利に恵まれず、レースの真っ只中、解雇を言い渡される。やがて生まれ育ったアンダルシアの村にさしかかる。そこでは、兄アンヘルと、かつての恋人カルメンの結婚式が行われていた。幼い頃、兄と取り合った1台の自転車。そして奪い合った恋人…忘れたい恋、忘れたい戦い、忘れたい土地から、遠くへ行きたい。ゴールへ近づくぺぺの心に様々な思いがよぎる。突然、ネグロという黒いネコが道に飛び出した。予想を裏切り、レースは思わぬ方向へ進んだ。果たしてぺぺに輝きの瞬間は訪れるのだろうか。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大泉洋
+  type: cast
+- !ruby/hash:TagHash
+  name: 小池栄子
+  type: cast
+- !ruby/hash:TagHash
+  name: 筧利夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：本多俊之
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高坂希太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：黒田硫黄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：VAP
+  type: staff
+- !ruby/hash:TagHash
+  name: 茄子アンダルシアの夏シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 丸山正雄
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 劇場版
+  title: 茄子 アンダルシアの夏
+  description: 主人公ぺぺはひたすら走っていた。照りつける熱い陽射しの中を、南スペインの乾いた道を。 “ブエルタ・ア・エスパーニャ”。“ツール・ド・フランス”と並ぶ｢世界三大自転車レース｣の一つ。勝利に恵まれず、レースの真っ只中、解雇を言い渡される。やがて生まれ育ったアンダルシアの村にさしかかる。そこでは、兄アンヘルと、かつての恋人カルメンの結婚式が行われていた。幼い頃、兄と取り合った1台の自転車。そして奪い合った恋人…忘れたい恋、忘れたい戦い、忘れたい土地から、遠くへ行きたい。ゴールへ近づくぺぺの心に様々な思いがよぎる。突然、ネグロという黒いネコが道に飛び出した。予想を裏切り、レースは思わぬ方向へ進んだ。果たしてぺぺに輝きの瞬間は訪れるのだろうか。<br><br>ペペ:大泉洋『水曜どうでしょう』(レギュラー出演)｢千と千尋の神隠し｣｢猫の恩返し｣(声優)／カルメン:小池栄子｢恋愛寫眞｣｢2LDK｣『こころ』／アンヘル:筧利夫｢踊る大捜査線
+    THE MOVIE2｣｢命｣『Dr.コトー診療所』<br><br>監督:高坂希太郎｢千と千尋の神隠し｣｢もののけ姫｣／作画監督・原作:黒田硫黄(講談社アフタヌーンKC｢茄子｣より)／製作:丸山正雄
+    ｢メトロポリス｣｢バンパイアハンターD｣｢アレクサンダー戦記｣／テーマソング:忌野清志郎／音楽:本多俊之(サウンドラック：VAP)
+  length_seconds: 2766
+  content_id: so32117051
+  default_thread_id: 1508295423
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32117051
+cast: "[キャスト]<br>ペペ:大泉洋『水曜どうでしょう』(レギュラー出演)｢千と千尋の神隠し｣｢猫の恩返し｣(声優)／カルメン:小池栄子｢恋愛寫眞｣｢2LDK｣『こころ』／アンヘル:筧利夫｢踊る大捜査線
+  THE MOVIE2｣｢命｣『Dr.コトー診療所』"
+staff: "[スタッフ]<br>監督:高坂希太郎｢千と千尋の神隠し｣｢もののけ姫｣／作画監督・原作:黒田硫黄(講談社アフタヌーンKC｢茄子｣より)／製作:丸山正雄
+  ｢メトロポリス｣｢バンパイアハンターD｣｢アレクサンダー戦記｣／テーマソング:忌野清志郎／音楽:本多俊之(サウンドラック：VAP)"
+produced_year: "[製作年]<br>2003年"
+copyright: "(c)2003｢茄子 アンダルシアの夏｣製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 茄子 スーツケースの渡り鳥

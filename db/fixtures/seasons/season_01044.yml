@@ -1,0 +1,230 @@
+--- !ruby/hash:SeasonHash
+title: トリニティ・ブラッド
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/0/10620_1_6.png?1427216400000
+outline: アルマゲドンで文明が滅んだ遠未来。異種知性体 吸血鬼(ヴァンパイア)と人間の闘争が続く中、ローマに本拠地を置く汎用国家機関 教皇庁(ヴァチカン)は、人間を守護するため各地に派遣執行官を派遣する。その一人アベル・ナイトロードは一見、人あたりがよく頼りなげな男だが、その正体は吸血鬼の血を吸う吸血鬼だった!アベルと出会った少女エステルの運命は、人間と吸血鬼の存亡を賭けた戦いの中で大きく変わっていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: FLIGHT NIGHT
+  description: ローマに向って航行中の豪華飛行客船トリスタン号が、吸血鬼によってハイジャックされた。教皇庁に捕らわれている吸血鬼を全員解放せねば、乗客もろともトリスタン号をヴァチカンに墜落させるという要求が出される。たまたま乗客として乗り込んでいた教皇庁の神父
+    アベル・ナイトロードは、客室添乗員のジェシカと協力して、ハイジャックを阻止しようとする。<br><br>次話→so31880284
+  length_seconds: 1425
+  content_id: so31880283
+  default_thread_id: 1504727878
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880283
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: WITCH HUNT
+  description: 吸血鬼テロ組織“悪の華”のアジトに踏み込んだアベルとトレス。彼らが見たのは、吸血鬼達の惨殺死体だった。なぜか仲間同士で殺しあったらしい形跡が残る惨劇の場で、唯一の生存者である少女エリスを保護したアベル。エリスの特殊能力を利用しようとする吸血鬼から彼女を護ろうとするアベルだが、仲間のトレスは彼女を危険因子として排除しようとする・・・。<br><br>so31880283←前話｜次話→so31880285　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880284
+  default_thread_id: 1504727857
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880284
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: THE STAR OF SORROW I．CITY OF BLOOD
+  description: 吸血鬼ハンガリア侯爵ジュラが、恐怖で市民を支配する地“イシュトバーン”。かつては平和の為にロストテクノロジーを復活させようとしたジュラだが、今はそのロストテクノロジーを使いヴァチカンに復讐をしようとする。ヴァチカンより任務を受けこの地に降り立つアベルは、殺されたシスターの復讐に手を汚すシスターエステルと仲間のディートリッヒに出会う。<br><br>so31880284←前話｜次話→so31880286　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880285
+  default_thread_id: 1504727888
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880285
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: THE STAR OF SORROW II．HUNTERS' BANQUET
+  description: ロストテクノロジー『星』を使いヴァチカンに宣戦布告をするジュラだったが、それは帝国とヴァチカンを戦争させようとするローゼンクロイツが仕組んだ策略だった。ローゼンクロイツの陰謀を阻止しようとするアベル。だが『星』の暴走を止める手段は無く、ついにその照準はローマに向けられた!<br><br>so31880285←前話｜次話→so31880287　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880286
+  default_thread_id: 1504727859
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880286
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: YESTERDAY,TODAY AND TOMORROW
+  description: イシュトバーンの事件後、エステルは国務聖省に入省すべくローマにやってきた。｢人類とヴァンパイアが共存できる世界を作りたい｣という夢を抱く彼女を、カテリーナやほかの派遣執行官達は暖かく迎えてくれる。ノエルに案内されて国務聖省を見て回るエステルだが途中はぐれてしまうが、教皇庁の奥庭で、泣いているひとりの少年と出会う。<br><br>so31880286←前話｜次話→so31880288　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880287
+  default_thread_id: 1504727861
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880287
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: SWORD DANCER
+  description: 吸血鬼集団カウントフォーが裏で治めるアムステルダムの教会で、聖職者暗殺事件が起きる。自身の領地で起きた事件で他のカウントフォーのメンバーから疑われたカレルは、唯一の生き残りであり目撃者でもあるシスターアグネスを捕らえようとする。また、同時に事件の真相を探る為にヴァチカンより｢ソードダンサー｣ユーグが派遣されたが・・<br><br>so31880287←前話｜次話→so31880299　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880288
+  default_thread_id: 1504728265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880288
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: NEVER LAND
+  description: アルビオン近海域にて“妖精”による船舶襲撃事件が起きた。犯行現場から回収された遺骸を調査の結果、後天的に創られた吸血鬼である事が判明された。事件の解明の為に、アベルと｢ダンディライオン｣レオンは子供しかいない島｢ネバーランド｣へと向かう。<br><br>so31880288←前話｜次話→so31880300　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880299
+  default_thread_id: 1504728665
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880299
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: SILENT NOISE
+  description: マッドサイエンティスト、バレー教授の逮捕に向かうアベルと同僚のノエル。だが、ここぞとばかりに観光を楽しもうとするノエルにアベルも一瞬至福の時が訪れる。しかしそれをあざ笑うようにローゼンクロイツの悪魔の兵器が街を襲う。<br><br>so31880299←前話｜次話→so31880301　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880300
+  default_thread_id: 1504728767
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880300
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: OVERCOUNT I．THE BELFRY OF DOWNFALL
+  description: ヴァチカンを破壊するというローゼンクロイツの不気味な犯行予告。一方ノエル殉職を受けて茫然自失になるアベル。犯行時刻が近づく中、5年ぶりにローマに戻ってきたデステ司教から、教皇に鐘楼が贈呈されるのであったが・・・<br><br>so31880300←前話｜次話→so31880302　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880301
+  default_thread_id: 1504728758
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880301
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: OVERCOUNT II．LUCIFER'S CHOICE
+  description: 謹慎されてしまったカテリーナと派遣執行官たち。監禁、通信途絶の中、エステルは抜け殻となったアベルを説得する。一方、ノエルが命をかけて残した最後の情報には、悪魔の兵器サイレントノイズの全貌が記されていた。ローゼンクロイツの陰謀を阻止する為動き出す派遣執行官たち、そしてアベルはついに立ち上がる。<br><br>so31880301←前話｜次話→so31880303　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880302
+  default_thread_id: 1504728659
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880302
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: FROM THE EMPIRE
+  description: ヴェニスに逃げてきた帝国最大殺戮者ザブクレ伯エンドレ、彼を逮捕し帝国に連れ戻すために送られたアスタローシェ・アスランとその捜査に協力するようにと派遣されたアベル。古美術鑑定人一家殺害現場を手掛かりにエンドレの居場所と目的を突き止めていくのだが、アストには捜査以外の別の感情もあった。<br><br>so31880302←前話｜次話→so31880304　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880303
+  default_thread_id: 1504728738
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880303
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: THE IBLIS I．EVENING VISITORS
+  description: 聖下に成り代わり、ローマ事件で不安に陥れた世俗諸侯を鎮める為、自由都市カルタゴに訪問中のカテリーナ。しかし、滞在している大使館で謎の火災事件が発生するがその最中、カテリーナの前に帝国からの聖旨を伝えに来た吸血鬼イオンが現れた。<br><br>so31880303←前話｜次話→so31880305　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880304
+  default_thread_id: 1504728637
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880304
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: THE IBLIS II．BETRAYAL BLAZE
+  description: カテリーナとの密会の際、銀の弾丸によりけがを負ってしまったイオン。さらに親友のラドゥの裏切りにより命を狙われてしまう。異端審問局に追われるイオンをカテリーナにあわせようとするアベルは、異端審問局局長のペテロを人質に取るのであったが・・・<br><br>so31880304←前話｜次話→so31880306　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880305
+  default_thread_id: 1504728707
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880305
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: THE IBLIS III．A MARK OF SINNER
+  description: ローゼンクロイツオルデンのディートリッヒの手により、突如暴走し発砲を始める異端審問局の戦艦。そして、その混乱に満ちた状況の中、カテリーナ達をアオトイエーガーが襲う。一方、事を静めようと一人立ち向かうブラザーペテロにイオンはこの混乱に乗じてカテリーナの元に向う事を提案する。<br><br>so31880305←前話｜次話→so31880307　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880306
+  default_thread_id: 1504728681
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880306
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: THE NIGHT LORDS I．THE RETURN OF ENVOY
+  description: 前回の一件後、イオンに帝国への使者として選ばれたアベルとエステルの二人は、イオンと帝国入りする。しかし公邸はアオトイエーガー達に襲撃され、しかもイオンは反逆罪の疑いをかけられる。<br><br>so31880306←前話｜次話→so31880308　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880307
+  default_thread_id: 1504728685
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880307
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: THE NIGHT LORDS II．TWILIGHT OF THE CAPITAL
+  description: 真相を突き止める為、イオンとエステルは街で会ったお茶売り娘セスに、ミマールの店に案内してもらうのだが、そこでエステル達は敵の待ち伏せにあう。そして、倒したはずのアオトイエーガーに一瞬の油断をつかれたイオンをかばいエステルは重傷を負ってしまう。<br><br>so31880307←前話｜次話→so31880309　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880308
+  default_thread_id: 1504728635
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880308
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: THE NIGHT LORDS III．THE ISLAND OF HER DARLING CHILDREN
+  description: 死んだはずのラドゥがイオンの前に現われた。彼の口から語られたのは、皇帝暗殺計画。その不可解な情報によりイオンはエステルへの疑念を植えつけられる。一方、アベル達は暗殺計画阻止する為に愛児達の島に行く。アベルとアスト、エステルとイオンそれぞれの感情がうまく伝わらない中、皇帝暗殺がついに実行されようとしていた!<br><br>so31880308←前話｜次話→so31880310　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880309
+  default_thread_id: 1504728780
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880309
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: THE NIGHT LORDS IV．THE PALACE OF JADE
+  description: ラドゥの挑発にのり拘束されてしまうイオンとエステル。アベルとアストの行動も空回りに終わり、ついに皇帝のいる廟邸が大爆発されてしまう。皇帝崩御の報が流れる中、ラドゥの策略にはまりイオン達は囚われの身に。自らの身体から長生種の血が流れ落ちる中で、自我を失い、エステルを襲ってしまう事を恐れたイオンは、エステルに自分を殺せという。<br><br>so31880309←前話｜次話→so31880311　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880310
+  default_thread_id: 1504728725
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880310
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: THE NIGHT LORDS V．A START OF PILGRIMAGE
+  description: ラドゥとその背後に潜む薔薇十字騎士団&lt;ローゼンクロイツオルデン&gt;の目的を阻止する為にアベルは地下のコントロールルームに向かう。そこでついに登場した皇帝ヴラディカ。そこでアベルたちが目の当たりにしたものは……!?<br><br>so31880310←前話｜次話→so31880312　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880311
+  default_thread_id: 1504728667
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880311
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: THE THRONE OF ROSES I．KINGDOM OF THE NORTH
+  description: 帝国からヴァチカンに和平交渉の勅使が来る中、バッキンガム宮殿でアルビオン前女王の葬儀が行われる。ヴァチカンの代表として葬儀に参列する教皇アレッサンドロ18世とエステルは、王都の地下施設ゲットーに案内されるが、そこでヴァンパイア達の反乱に巻き込まれる。二人を救出に向うアベル達だが……<br><br>so31880311←前話｜次話→so31880313　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880312
+  default_thread_id: 1504728702
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880312
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: THE THRONE OF ROSES II．THE REFUGE
+  description: ゲットーを占拠したヴァンパイアから声明文が届いた。国際的非難を浴びる事を恐れたアルビオン当局は、自分達だけでこの事態を収拾しようとする。その頃ゲットー内を必死に逃げているアレッサンドロとエステルは、市街地でメトセラの子供たちと出会う。<br><br>so31880312←前話｜次話→so31880314　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880313
+  default_thread_id: 1504728769
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880313
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: THE THRONE OF ROSES III．LORD OF ABYSS
+  description: アベルは突如ゲットーに現れたカインに倒されてしまう。一方反乱を主張するヴァネッサに捕まり、一緒に行動していたアレクは、このゲットーの意味や、ここに閉じ込められて行き場の無かったヴァンパイア達の苦しみを理解し始める……。<br><br>so31880313←前話｜次話→so31880316　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880314
+  default_thread_id: 1504728700
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880314
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: THE CROWN OF THORNS I．CITY IN THE MIST
+  description: 丘の上の教会、イエスが見下ろす祭壇の下に安置された黒い柩。アベルが眠るその柩の前で泣き崩れるエステルの脳裏に、自分のせいでカインに胸を貫かれたアベルの姿が蘇る、自分を責め続けるエステルだったが、彼女にはアルビオンに対する義務があった。<br><br>so31880314←前話｜次話→so31880317　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880316
+  default_thread_id: 1504728705
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880316
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: THE CROWN OF THORNS II．THE LOAD OF OATH
+  description: ロンディニウム上空の飛空艇から放たれるエクスカリバー・システムの光。テムズ川の上から河畔の市街を覆うように広がって行くこの破壊の光は、世界を更新する炎なのか。人類の存亡をかけた最後の戦いがアベルの眠る教会でいま、始まろうとしていた!<br><br>so31880316←前話　第一話→so31880283
+  length_seconds: 1425
+  content_id: so31880317
+  default_thread_id: 1504728732
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880317
+produced_year: "[製作年]<br>2005年"
+copyright: "(C) 2000 2005 吉田直・THORES柴本/角川書店 (C) 2005 トリニティ・ブラッド製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

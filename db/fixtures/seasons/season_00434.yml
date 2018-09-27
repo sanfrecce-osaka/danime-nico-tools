@@ -1,0 +1,169 @@
+--- !ruby/hash:SeasonHash
+title: グリーングリーン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/95/9/10959_1_6.png?1427216400000
+outline: 舞台となる鐘ノ音学園は大自然に囲まれた山奥の男子高校。華のない学生生活を送っていた主人公“祐介”や3バカトリオの前に、突如現れる色とりどりの女子高生たち。祐介をめぐる運命の恋を始め、恋愛模様にお色気シーンも織り交ぜつつ、ドタバタなラブコメディが爆裂!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 満仲由紀子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中山さら
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤巻恵理子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：光宗信吉
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ムトウユージ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中原清隆
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオマトリックス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: たなかかずや
+  type: other
+- !ruby/hash:TagHash
+  name: 冨岡淳広
+  type: other
+- !ruby/hash:TagHash
+  name: 武藤正敏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 山奥でどっきどき
+  description: 山奥の全寮制高校“鐘ノ音学園”で男だらけの生活を送っていた祐介とバッチグー等3バカトリオ。異性とは無縁の彼らの高校に、ひと夏だけ女子高生が編入にやって来るという。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>次話→so31969775
+  length_seconds: 1435
+  content_id: so31969774
+  default_thread_id: 1506023682
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969774
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 露天風呂ですってんころりん
+  description: 始まったばかりの共学生活だが、バッチグー等3バカのセクハラまがいの歓迎に、女子たちの我慢は早くも限界に。しかし、みどりだけは1人ごきげんで、祐介をべったり追い回していた。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969774←前話｜次話→so31969776　第一話→so31969774
+  length_seconds: 1435
+  content_id: so31969775
+  default_thread_id: 1506023532
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969775
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 森の中でどっこいしょ
+  description: 相も変わらず下品なことを繰り返す3バカにしびれを切らした双葉は、学園を出て行くことを決意する。強気で飛び出した双葉も途中で道に迷い、夜の森で不安に襲われていた。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969775←前話｜次話→so31969777　第一話→so31969774
+  length_seconds: 1434
+  content_id: so31969776
+  default_thread_id: 1506023554
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969776
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 女子寮でてんてこまい
+  description: 編入開始以来、一向に女子と仲良くなれない3バカは、女子寮への侵入を決行することに。祐介も加わり、夜陰に紛れて侵入作戦を開始する4人組。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969776←前話｜次話→so31969778　第一話→so31969774
+  length_seconds: 1434
+  content_id: so31969777
+  default_thread_id: 1506023543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969777
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 保健室でばったんきゅー
+  description: 女子寮潜入事件で、完全に女子から見放されてしまった3バカ。早苗の部屋に入り込んだ天神は、汚名返上のために早苗に話しかけようと近づくが、早苗は怯えるばかり。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969777←前話｜次話→so31969779　第一話→so31969774
+  length_seconds: 1434
+  content_id: so31969778
+  default_thread_id: 1506023512
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969778
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 体育倉庫であっちっち
+  description: 一向に歩み寄りを見せない男子と女子。千種の提案で祐介とみどりがレクリエーション委員に任命され、男女の仲を深めるイベントを企画することに。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969778←前話｜次話→so31969780　第一話→so31969774
+  length_seconds: 1434
+  content_id: so31969779
+  default_thread_id: 1506023507
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969779
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: プールサイドでびっしょびしょ
+  description: 双葉狙いの一番星はバイブルであるマニュアル本を参考にして熱烈なアタックを繰り返す。ところがやることなすこと全て裏目に出てしまい、双葉の逆鱗に触れる有様。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969779←前話｜次話→so31969781　第一話→so31969774
+  length_seconds: 1435
+  content_id: so31969780
+  default_thread_id: 1506023541
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969780
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 朝風呂ですったもんだ
+  description: いつもみどりの行動を監視している麗華。一見抜け目なさそうな彼女も、お風呂では無防備になるらしい。男子の前では言えないような過激トークも飛び出して???<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969780←前話｜次話→so31969782　第一話→so31969774
+  length_seconds: 1435
+  content_id: so31969781
+  default_thread_id: 1506023662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969781
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 肝試しですたこらさっさ
+  description: 学園行事として肝試し大会が行なわれることになった。3バカは女子と2人きりになれるチャンスを生かそうと良からぬ作戦を開始。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969781←前話｜次話→so31969783　第一話→so31969774
+  length_seconds: 1434
+  content_id: so31969782
+  default_thread_id: 1506023487
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969782
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 図書室でどったんばったん
+  description: 期末テストでいい点を取れば好きな人と何でもやり放題! 妙な噂に鐘ノ音の男子たちは沸いていた。3バカは噂を信じて妄想爆発。山にこもってテスト勉強を開始した。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969782←前話｜次話→so31969793　第一話→so31969774
+  length_seconds: 1434
+  content_id: so31969783
+  default_thread_id: 1506023539
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969783
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 運命にふにゃふにゃ
+  description: 遂にみどりと結ばれた祐介。麗華は2人が決して結ばれない運命にあることを祐介に説明するが、傍らのみどりは運命を変えてみせるの一点張り。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969783←前話｜次話→so31969794　第一話→so31969774
+  length_seconds: 1434
+  content_id: so31969793
+  default_thread_id: 1506024194
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969793
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 鐘ノ音にサヨウナラ
+  description: 試験編入終了が間近に迫った鐘ノ音学園・・・。運命に翻弄される祐介とみどり・・・。そんな2人を見つめる双葉、3バカトリオ、そして監視者としての麗華・・・。みどりの意志は運命にはかなわないのか・・・。<br><br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子<br><br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+    OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA<br><br>so31969793←前話　第一話→so31969774
+  length_seconds: 1435
+  content_id: so31969794
+  default_thread_id: 1506024227
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31969794
+cast: "[キャスト]<br>千歳みどり:中山さら／朽木双葉:藤巻恵理子／朽木若葉:満仲由紀子"
+staff: "[スタッフ]<br>原作:GROOVER(18禁PCゲーム)／監督:ムトウユージ／シリーズ構成:冨岡淳広／キャラクター原案:片倉真二／キャラデザイン/総作画監督:中原清隆／色彩設計:田中直人／美術監督:武藤正敏／撮影監督:松田成志／音響監督:たなかかずや／音楽:光宗信吉／アニメーション制作:スタジオマトリックス／製作:鐘ノ音理事会／
+  OPテーマ｢Guri Guri｣:佐藤裕美／EDテーマ｢青空｣:YURIA"
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)鐘ノ音理事会/StarLink"
+related_seasons: !ruby/array:Hashie::Array []

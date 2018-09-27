@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: OVA　Wind ―a breath of heart―
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/08/5/11085_1_6.png?1427216400000
+outline: minori原案の大ヒットゲーム『Wind-a breath of heart-』がついにアニメ化!!その透明感あふれる世界がOVAで美しく、繊細に描かれる!!　どことなく懐かしさと不思議さの漂う街、風音市。そこは丘野真・ひなた兄妹の生まれ故郷である。そこで出会う友達、幼なじみの女の子、そして…。それぞれの思いを胸に、ちょっと不思議な世界を舞台にしたファンタジックな物語が始まります。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: あおきさやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀川仁
+  type: cast
+- !ruby/hash:TagHash
+  name: 児玉さとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡田純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 笠井律子
+  type: cast
+- !ruby/hash:TagHash
+  name: 倖月美和
+  type: cast
+- !ruby/hash:TagHash
+  name: 平井理子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：冨永恒雄
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西野理恵
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：minori
+  type: staff
+- !ruby/hash:TagHash
+  name: Windシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Volume.1
+  title: "「再会」"
+  description: "｢決して母さんを捜しちゃだめ｣それだけ告げて母が突然姿を消した。丘野真とひなたの兄妹は、母の手がかりを求めて、幼い頃育った“風音市”に戻ってきた。幼なじみの橘勤や紫光院霞は、真たちを暖かく迎えてくれる。だが夜になると風音市はその装いを一変させた。街からは人の気配が消え、無人の路面電車以外に動くものは何もない…。真はそんな夜の街で一人の不思議な少女と出会うのだった。やがて春休みも終わり、真は勤たちと同じ風音学園に編入された。その日の放課後、真はどこからか聞こえてきたハーモニカのメロディに思わず足を止める。記憶の中に蘇ってきたのは、幼い頃にある少女と交わした一つの“約束”。真はハーモニカの音色を探して思わず駆け出していた…。<br><br>丘野真:菅沼久義／鳴風みなも:倖月美和／丘野ひなた:笠井律子／藤宮望:岡田純子／藤宮わかば:あおきさやか／月代彩:平井理子／紫光院霞:児玉さとみ／橘勤:陶山章央／鳴風秋人:堀川仁<br><br>原案:minori／監督:冨永恒雄／脚本:渡辺麻実／演出:羽生尚靖／キャラデザイン:西野理恵／作画監督:青木真理子／美術監督:中原英統／色彩設計:西
+    香代子<br><br>次話→so32230687"
+  length_seconds: 1646
+  content_id: so32230686
+  default_thread_id: 1510020798
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230686
+- !ruby/hash:EpisodeHash
+  episode_no: Volume.2
+  title: "「予感」"
+  description: 幼なじみの鳴風みなもと再会した真は、霞や勤たちも一緒になって、喫茶店でお茶をしたり放課後の教室でとりとめのない話をしたり、“ふつう”の日々を楽しく過ごしていた。ただひとつ普通でないことは、この街から感じられる視線の存在と一人の少女。そんなある日、みなもの家を訪れた真は、みなもの父・秋人の｢街に人が操られている｣という言葉に自分の感じていたものが間違いでないことを確信する…。<br><br>丘野真:菅沼久義／鳴風みなも:倖月美和／丘野ひなた:笠井律子／藤宮望:岡田純子／藤宮わかば:あおきさやか／月代彩:平井理子／紫光院霞:児玉さとみ／橘勤:陶山章央／鳴風秋人:堀川仁<br><br>原案:minori／監督:冨永恒雄／脚本:渡辺麻実／演出:羽生尚靖／キャラデザイン:西野理恵／作画監督:青木真理子／美術監督:中原英統／色彩設計:西
+    香代子<br><br>so32230686←前話｜次話→so32230896　第一話→so32230686
+  length_seconds: 1683
+  content_id: so32230687
+  default_thread_id: 1510020828
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230687
+- !ruby/hash:EpisodeHash
+  episode_no: Volume.3
+  title: "「希望」"
+  description: "｢君は希望なんだ…｣という言葉を残して消えた秋人。事の真相を確認するため、嵐が吹き荒れる中、真はみなもの家へと向かう。その頃、みなもは秋人の書斎で見つけた一枚の写真を手掛かりに、“九月堂”にいた謎の少女を訪ねていた。少女はただならぬ雰囲気でみなもに襲いかかろうとするが、駆けつけた真に間一髪で阻止される。少女は｢もう…いい……｣という言葉を残し、九月堂ごと消えてしまう…。紫光院と勤の協力で、真の父・真吾と少女、そして風音市の関係を知った真たちは、全ての謎を解き明かすため、風音神社へと向かうのだった。少女の口から語られる｢街｣の真実とは!?
+    そして真とみなも少女の運命は!?<br><br>丘野真:菅沼久義／鳴風みなも:倖月美和／丘野ひなた:笠井律子／藤宮望:岡田純子／藤宮わかば:あおきさやか／月代彩:平井理子／紫光院霞:児玉さとみ／橘勤:陶山章央／鳴風秋人:堀川仁<br><br>原案:minori／監督:冨永恒雄／脚本:渡辺麻実／演出:羽生尚靖／キャラデザイン:西野理恵／作画監督:青木真理子／美術監督:中原英統／色彩設計:西
+    香代子<br><br>so32230687←前話　第一話→so32230686"
+  length_seconds: 1907
+  content_id: so32230896
+  default_thread_id: 1510025386
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230896
+cast: "[キャスト]<br>丘野真:菅沼久義／鳴風みなも:倖月美和／丘野ひなた:笠井律子／藤宮望:岡田純子／藤宮わかば:あおきさやか／月代彩:平井理子／紫光院霞:児玉さとみ／橘勤:陶山章央／鳴風秋人:堀川仁"
+staff: "[スタッフ]<br>原案:minori／監督:冨永恒雄／脚本:渡辺麻実／演出:羽生尚靖／キャラデザイン:西野理恵／作画監督:青木真理子／美術監督:中原英統／色彩設計:西
+  香代子"
+produced_year: "[製作年]<br>2004年"
+copyright: "©2004 minori/Softgarage"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Wind -a breath of heart-

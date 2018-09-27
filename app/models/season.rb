@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class Season < ApplicationRecord
-  has_many :episodes
+  has_many :episodes, dependent: :destroy
 
   validates :title, presence: true
   validates :watchable, inclusion: { in: [true, false] }

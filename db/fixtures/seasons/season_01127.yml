@@ -1,0 +1,85 @@
+--- !ruby/hash:SeasonHash
+title: 猫ラーメン(ショートアニメ)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/4/10484_1_6.png?1427216400000
+outline: ある日､サラリーマンの田中さんが新規開店のラーメン屋を発見!!そこで食事をしようと扉を開けた時､目の前に現れたのは､鉢巻をし､エプロンを着た猫だった!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中川里江
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田敦史
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森井ケンシロウ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：春日森春木
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：そにしけんじ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：カギ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：山崎頼子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：春日森春木
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：小原藍
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：森井ケンシロウ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：池ヶ谷愛
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：カギ
+  type: staff
+- !ruby/hash:TagHash
+  name: 猫ラーメンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: マッグガーデン
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#7"
+  title: 其の壱/其の弐/其の参/其の四/其の伍/其の六/其の七
+  description: "#1猫の大将がなんとラーメンを作る!!#2猫になったつもりで、猫語の音声でお楽しみいただけます。いよいよ2号店出店!?#3猫ラーメンにバイトのしげちゃん登場!!#4またまた新たにバイトのとくさん登場!!時給はなんと!?牛乳?#5田中くんの彼女!?が登場!?#6ラーメン屋を始める前の大将の職業はすし屋だった。#7大将が新しいメニューを考えました。<br><br>猫の大将:中川
+    里江／田中さん:山田 敦史<br><br>原作:そにしけんじ(｢ブレイドコミックス｣/マッグガーデン刊)／監督・アニメーション制作:春日森 春木/小原 藍/池ヶ谷
+    愛/山崎 頼子/カギ/森井 ケンシロウ 他／OPソング:｢キミは大将!｣(作詞・作曲・歌たなかかつみ)／アニメーションプロデュース:株式会社シンク／音響制作:株式会社マルチックアイ／製作:猫ラーメン本舗／発売元:株式会社フロンティアワークス／販売協力:ジェネオンエンタテインメント株式会社<br><br>次話→so32230675"
+  length_seconds: 1063
+  content_id: so32230674
+  default_thread_id: 1510020019
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230674
+- !ruby/hash:EpisodeHash
+  episode_no: "#8-#13"
+  title: 其の八/其の九/其の拾/其の拾壱/其の拾弐/其の拾参
+  description: "#8店主のまかないラーメンはじめました。#9大将のお父さん【ウィリアム・トーマス・ジェファーソン2世】登場#10店内で貸しスペース事業を始めた大将。さて、どうなることやら。#11フランス料理一流シェフ“ピエール”登場#12下町の名店として大将のお店を紹介。#13大将の知られざる過去が暴かれる!!<br><br>猫の大将:中川
+    里江／田中さん:山田 敦史<br><br>原作:そにしけんじ(｢ブレイドコミックス｣/マッグガーデン刊)／監督・アニメーション制作:春日森 春木/小原 藍/池ヶ谷
+    愛/山崎 頼子/カギ/森井 ケンシロウ 他／OPソング:｢キミは大将!｣(作詞・作曲・歌たなかかつみ)／アニメーションプロデュース:株式会社シンク／音響制作:株式会社マルチックアイ／製作:猫ラーメン本舗／発売元:株式会社フロンティアワークス／販売協力:ジェネオンエンタテインメント株式会社<br><br>so32230674←前話　第一話→so32230674"
+  length_seconds: 917
+  content_id: so32230675
+  default_thread_id: 1510020017
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230675
+cast: "[キャスト]<br>猫の大将:中川 里江／田中さん:山田 敦史"
+staff: "[スタッフ]<br>原作:そにしけんじ(｢ブレイドコミックス｣/マッグガーデン刊)／監督・アニメーション制作:春日森 春木/小原 藍/池ヶ谷 愛/山崎
+  頼子/カギ/森井 ケンシロウ 他／OPソング:｢キミは大将!｣(作詞・作曲・歌たなかかつみ)／アニメーションプロデュース:株式会社シンク／音響制作:株式会社マルチックアイ／製作:猫ラーメン本舗／発売元:株式会社フロンティアワークス／販売協力:ジェネオンエンタテインメント株式会社"
+produced_year: "[製作年]<br>2006年"
+copyright: "©そにしけんじ/マッグガーデン・猫ラーメン本舗"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 猫ラーメン～俺の醤油味～（ショートアニメ）

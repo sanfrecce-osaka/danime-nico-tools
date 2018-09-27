@@ -1,0 +1,300 @@
+--- !ruby/hash:SeasonHash
+title: 機巧奇傳ヒヲウ戦記
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/2/11072_1_6.png?1427216400000
+outline: 時は幕末、三河の国の蓬莱村にからくり技術を使う“機の民”がいた。一族の少年ヒヲウは、好奇心旺盛な８歳の少年。ある日彼は、からくりの使い方で長老に叱られ、家を飛び出してしまう。村の神社にやってきたヒヲウは、ご神体で巨大からくりロボットの炎（ほむら）を見つける。丁度その頃、蓬莱村は風陣と呼ばれる忍者集団の襲撃に見舞われ、機の民を滅ぼそうとする風陣の手によって蓬莱村は焼き払われ、村の大人達は皆連れ去られてしまった。炎（ほむら）を動かすことに成功したヒヲウたちは、村を脱出するが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢島晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 南央美
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛河里花子
+  type: cast
+- !ruby/hash:TagHash
+  name: 高田裕司
+  type: cast
+- !ruby/hash:TagHash
+  name: 鉄炮塚葉子
+  type: cast
+- !ruby/hash:TagHash
+  name: 武藤志織
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ボンズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：アミノテツロー
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：逢坂浩司
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：神宮寺一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 石垣純哉
+  type: other
+- !ruby/hash:TagHash
+  name: 逢坂浩司
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 走れ!!炎
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>次話→so32155384
+  length_seconds: 1471
+  content_id: so32155383
+  default_thread_id: 1508889815
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155383
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 見よ!!これが機巧だっ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155383←前話｜次話→so32155385　第一話→so32155383
+  length_seconds: 1471
+  content_id: so32155384
+  default_thread_id: 1508889823
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155384
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 敵討ち!?幕末英雄登場
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155384←前話｜次話→so32155386　第一話→so32155383
+  length_seconds: 1471
+  content_id: so32155385
+  default_thread_id: 1508889818
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155385
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 勝つか負けるか！アラシ対ヒヲウ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155385←前話｜次話→so32155387　第一話→so32155383
+  length_seconds: 1471
+  content_id: so32155386
+  default_thread_id: 1508889840
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155386
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: さいなら？テツとこけし
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155386←前話｜次話→so32155388　第一話→so32155383
+  length_seconds: 1472
+  content_id: so32155387
+  default_thread_id: 1508889921
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155387
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 目指せ！山の彼方へ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155387←前話｜次話→so32155399　第一話→so32155383
+  length_seconds: 1472
+  content_id: so32155388
+  default_thread_id: 1508889820
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155388
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 守れ！秘密の華と雪
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155388←前話｜次話→so32155400　第一話→so32155383
+  length_seconds: 1471
+  content_id: so32155399
+  default_thread_id: 1508890524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155399
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 裏切り？雪山に消えたマチ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155399←前話｜次話→so32155401　第一話→so32155383
+  length_seconds: 1471
+  content_id: so32155400
+  default_thread_id: 1508890547
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155400
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: 激闘！父ちゃんはどこだ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155400←前話｜次話→so32155402　第一話→so32155383
+  length_seconds: 1472
+  content_id: so32155401
+  default_thread_id: 1508890478
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155401
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: 唐人だ！雪の宿は大騒ぎ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155401←前話｜次話→so32155403　第一話→so32155383
+  length_seconds: 1471
+  content_id: so32155402
+  default_thread_id: 1508890545
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155402
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: なぜ？機巧嫌いの男
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155402←前話｜次話→so32155404　第一話→so32155383
+  length_seconds: 1472
+  content_id: so32155403
+  default_thread_id: 1508890476
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155403
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二話
+  title: 天誅！正しいのは誰だ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155403←前話｜次話→so32155405　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155404
+  default_thread_id: 1508890480
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155404
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三話
+  title: ちぇすと！魔界京都に刃が光る
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155404←前話｜次話→so32155406　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155405
+  default_thread_id: 1508890530
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155405
+- !ruby/hash:EpisodeHash
+  episode_no: 第十四話
+  title: でかい！魔界に眠る天狗剣
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155405←前話｜次話→so32155407　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155406
+  default_thread_id: 1508890482
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155406
+- !ruby/hash:EpisodeHash
+  episode_no: 第十五話
+  title: 泣くな！ハナ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155406←前話｜次話→so32155423　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155407
+  default_thread_id: 1508890527
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155407
+- !ruby/hash:EpisodeHash
+  episode_no: 第十六話
+  title: 渡れ！激流を越えて
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155407←前話｜次話→so32155424　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155423
+  default_thread_id: 1508891044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155423
+- !ruby/hash:EpisodeHash
+  episode_no: 第十七話
+  title: 会えた！悲しみの始まり
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155423←前話｜次話→so32155425　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155424
+  default_thread_id: 1508891185
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155424
+- !ruby/hash:EpisodeHash
+  episode_no: 第十八話
+  title: 嘘！父の見た夢
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155424←前話｜次話→so32155426　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155425
+  default_thread_id: 1508891023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155425
+- !ruby/hash:EpisodeHash
+  episode_no: 第十九話
+  title: 危うしヒヲウ！カラクリの三剣城
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155425←前話｜次話→so32155427　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155426
+  default_thread_id: 1508891206
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155426
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十話
+  title: 父よ！旅立ちの時
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155426←前話｜次話→so32155445　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155427
+  default_thread_id: 1508891001
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155427
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十一話
+  title: 風雲！馬関海峡
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155427←前話｜次話→so32155446　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155445
+  default_thread_id: 1508891685
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155445
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十二話
+  title: 行くな華！子どもたちの戦場
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155445←前話｜次話→so32155447　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155446
+  default_thread_id: 1508891622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155446
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十三話
+  title: 聞こえるか？炎の声が
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155446←前話｜次話→so32155448　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155447
+  default_thread_id: 1508891603
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155447
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十四話
+  title: 燃えよ！父ちゃんの機巧
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155447←前話｜次話→so32155449　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155448
+  default_thread_id: 1508891704
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155448
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十五話
+  title: 舞え！俺たちの祭
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155448←前話｜次話→so32155450　第一話→so32155383
+  length_seconds: 1473
+  content_id: so32155449
+  default_thread_id: 1508891643
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155449
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十六話
+  title: さらば龍馬！やがて東京と呼ばれる町へ
+  description: ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他<br><br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES<br><br>so32155449←前話　第一話→so32155383
+  length_seconds: 1446
+  content_id: so32155450
+  default_thread_id: 1508891664
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155450
+cast: "[キャスト]<br>ヒヲウ:桑島法子／シシ:愛河里花子／マチ:水橋かおり／サイ:飛田展男／マユ:矢島晶子／テツ:鉄炮塚葉子／アラシ:三木眞一郎／アカ:高田祐司／華:武藤志織／雪:南央美／他"
+staff: "[スタッフ]<br>原作:BONES・會川昇／監督:アミノテツロー／キャラクターデザイン:逢坂浩司・神宮寺一／からくりデザイン:石垣純哉／時代考証:岩下哲典／総作画監督:逢坂浩司／アニメーション制作:BONES"
+produced_year: "[製作年]<br>2000年"
+copyright: "(C)BONES・會川昇　(C)ヒヲウ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

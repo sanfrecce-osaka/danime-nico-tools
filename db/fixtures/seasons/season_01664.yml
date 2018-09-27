@@ -1,0 +1,56 @@
+--- !ruby/hash:SeasonHash
+title: ゆるめいつ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/07/8/20078_1_6.png?1427216400000
+outline: 大学受験のために上京してきた浪人生・相田ゆるめ（桃井はるこ）。大都会を期待し、着いたその街は、無人野菜販売所がある東京のド田舎・・・。さらに“ゆるめ”を待っていたのは、ベテラン浪人生であるアパートの住人達。とぼけながらキレのあるボケをかます不思議ちゃん田中くみ（松来未祐）、ツッコミ役だけど時々おバカになるお姉さん肌の川野サエ（桑谷夏子）、小さい頃からおじさん顔のイジラレキャラ松吉（日野聡）。そんな四人が幸か不幸か意気投合。一緒にゴロゴロしたり、鬼ごっこしたり。……勉強は、多分していません。浪人生という切羽詰る状況なのに、「えっ浪人生でしたっけ～？？」っと言いたくなるくらいの“ゆる～さと、まったり～さ”で人生の辛さを忘れさせてくれる！？果して四人はいつ大学に進学することができるのであろうか（笑）
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 桃井はるこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：saxyun
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：月見里智弘
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆるめいつ シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#12"
+  title: ''
+  description: 大学受験のために上京してきた浪人生・相田ゆるめ（桃井はるこ）。大都会を期待し、着いたその街は、無人野菜販売所がある東京のド田舎・・・。さらに“ゆるめ”を待っていたのは、ベテラン浪人生であるアパートの住人達。とぼけながらキレのあるボケをかます不思議ちゃん田中くみ（松来未祐）、ツッコミ役だけど時々おバカになるお姉さん肌の川野サエ（桑谷夏子）、小さい頃からおじさん顔のイジラレキャラ松吉（日野聡）。そんな四人が幸か不幸か意気投合。一緒にゴロゴロしたり、鬼ごっこしたり。……勉強は、多分していません。浪人生という切羽詰る状況なのに、「えっ浪人生でしたっけ～？？」っと言いたくなるくらいの“ゆる～さと、まったり～さ”で人生の辛さを忘れさせてくれる！？果して四人はいつ大学に進学することができるのであろうか（笑）<br><br>桃井はるこ:ゆるめ役（『瀬戸の花嫁』『ナースウィッチ小麦ちゃんマジカルて』）／松来未祐:くみ役（『ひだまりスケッチ』
+    『さよなら絶望先生』）／桑谷夏子:サエ役（『涼宮ハルヒの憂鬱』『ローゼンメイデン』）／日野聡:松吉役（『NARUTO』 『ゼロの使い魔』）<br><br>原作:saxyun（「まんがくらぶ」連載-竹書房刊）／監督:月見里智弘／主題歌:桃井はるこ／制作プロダクション:indeprox／製作:竹書房
+  length_seconds: 2026
+  content_id: so31946101
+  default_thread_id: 1505672539
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946101
+cast: "[キャスト]<br>桃井はるこ:ゆるめ役（『瀬戸の花嫁』『ナースウィッチ小麦ちゃんマジカルて』）／松来未祐:くみ役（『ひだまりスケッチ』 『さよなら絶望先生』）／桑谷夏子:サエ役（『涼宮ハルヒの憂鬱』『ローゼンメイデン』）／日野聡:松吉役（『NARUTO』
+  『ゼロの使い魔』）"
+staff: "[スタッフ]<br>原作:saxyun（「まんがくらぶ」連載-竹書房刊）／監督:月見里智弘／主題歌:桃井はるこ／制作プロダクション:indeprox／製作:竹書房"
+produced_year: "[製作年]<br>2009年"
+copyright: "（C）2009saxyun／竹書房"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ は？
+- !ruby/hash:SeasonHash
+  title: ＴＶアニメ版 ゆるめいつ ３でぃ PLUS
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ 3でぃ

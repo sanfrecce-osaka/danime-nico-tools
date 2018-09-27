@@ -1,0 +1,69 @@
+--- !ruby/hash:SeasonHash
+title: 妖精姫レーン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/9/11149_1_6.png?1427216400000
+outline: ハイテンションなキャラクターたちが他人の言っている事なんてお構いなしに暴走・暴走・また暴走! やがてとんでもないカタストロフが!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀川りょう
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: こうろぎさとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：大地丙太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：山本はるきち
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：DANGUN PICTURES
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：舛館俊秀
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ''
+  description: 多くの謎がある(らしい)倉鎌市で、宝を捜しまくる宝田ゴウ!が、遺跡荒しと罵倒され、常に絶体絶命の危機ばかり。今日も地上30階のビルから転落!ギリギリの状態に、全裸の妖精・レーンが出現する。｢妖精だぁぁぁ!オレを夢と冒険へ導いてくれよなぁ!｣何の疑問もなく、ゴウは運命の出会いと信じて事態を理解(早トチリ)した!
+    二人はやがて秘宝へと・・・なんて、スンナリいくのを誰が期待する!?<br><br>レーン:高橋美紀／リーン:久川綾／ゴウ:山寺宏一／真理:こうろぎさとみ／全集院タクマ:堀川
+    亮　他<br><br>監督:大地丙太郎／脚本:やまざき大志／キャラクターデザイン・作画監督:舛館俊秀／デザインワークス:山崎健志／音響監督:田中一也／音楽:山本はるきち／アニメーション制作:DANGUN
+    PICTURES／製作:Softgarage<br><br>次話→so32230834
+  length_seconds: 1724
+  content_id: so32230869
+  default_thread_id: 1510024616
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230869
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ''
+  description: レーンの出現に、ますます宝探し熱が上がるトレジャー・ハンター・バカ、宝田ゴウ。幼なじみの夢乃館真理は、ゴウが誕生日にすら気づかないことにイラついていた。一方、真理を慕う天才高校生科学者、全集院タクマは、彼女の誕生日に合わせて、魚も泳ぐ新型アトラクション“大展望温泉風呂”を完成させていた。しかも、そこから見える景色一面に、花で綴るHAPPY・BIRTHDAYのラブレター。
+    しかし、すんなり行くはずもない。。<br><br>レーン:高橋美紀／リーン:久川綾／ゴウ:山寺宏一／真理:こうろぎさとみ／全集院タクマ:堀川 亮　他<br><br>監督:大地丙太郎／脚本:やまざき大志／キャラクターデザイン・作画監督:舛館俊秀／デザインワークス:山崎健志／音響監督:田中一也／音楽:山本はるきち／アニメーション制作:DANGUN
+    PICTURES／製作:Softgarage<br><br>so32230869←前話　第一話→so32230869
+  length_seconds: 1556
+  content_id: so32230834
+  default_thread_id: 1510023934
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230834
+cast: "[キャスト]<br>レーン:高橋美紀／リーン:久川綾／ゴウ:山寺宏一／真理:こうろぎさとみ／全集院タクマ:堀川 亮　他"
+staff: "[スタッフ]<br>監督:大地丙太郎／脚本:やまざき大志／キャラクターデザイン・作画監督:舛館俊秀／デザインワークス:山崎健志／音響監督:田中一也／音楽:山本はるきち／アニメーション制作:DANGUN
+  PICTURES／製作:Softgarage"
+produced_year: "[製作年]<br>1995年"
+copyright: "©Softgarege"
+related_seasons: !ruby/array:Hashie::Array []

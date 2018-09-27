@@ -1,0 +1,245 @@
+--- !ruby/hash:SeasonHash
+title: みんなだいすきそらジロー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/87/4/21874_1_6.png?1510545679000
+outline: 大人気お天気キャラクターのそらジローがついにアニメ化！「news every.」「Ｏｈａ！４」にて絶賛放送中！「天気」「知育」「防災」「ＥＣＯ」をテーマにそらジロー、くもジロー、ぽつリンが体感し、天気の秘密、身近で大切な生活習慣を学ぶ世界のストーリー
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 木原実
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ1
+  title: ''
+  description: "「てんきはおもしろい」「たべるまえにはてをあらおう」「いろがいろいろ」「いろんないろをたべよう」「たのしいにほんご　かいぶん」「たのしいにほんご　くも」「いきものをたいせつに」「これはいったいなんてもじ？」「ちからをあわせよう」「このカゲな～んだ？」<br><br>声の出演:木原実／TARAKO<br><br>次話→so32296736"
+  length_seconds: 1140
+  content_id: so32296735
+  default_thread_id: 1511142831
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296735
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ2
+  title: ''
+  description: "「あめもたいせつ」「じかんをまもろう」「あいうえおさくぶん」「おかたづけをしよう」「よぞらをみてみよう」「はたらくくるま」「じょうずにわけられるかな」「いろいろなあじをたのしもう」「そとからかえったら…うがい・てあらい」「ゆきだるまをつくろう」<br><br>声の出演:木原実／TARAKO<br><br>so32296735←前話｜次話→so32296737　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296736
+  default_thread_id: 1511142801
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296736
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ3
+  title: ''
+  description: "「ふゆしょうぐんがやってきた」「Xmasスペシャル」「あいさつをしよう」「ちょうどいいおんどにしよう」「こおりをみつけてみよう」「ぐらっとゆれたらどうする？」「いろいろなくも」「にじはふしぎ」「よるにかがやくおつきさま」「これはいったいなんてもじ？（その２）」<br><br>声の出演:木原実／TARAKO<br><br>so32296736←前話｜次話→so32296738　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296737
+  default_thread_id: 1511142815
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296737
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ4
+  title: ''
+  description: "「このおしごとな～んだ？」「あしあといろいろ」「どうろをわたるおやくそく」「ペットボトルはリサイクル」「マスクでふせごう」「たからさがしにしゅっぱつだ」「はるをみつけにいこう」「つなみにげろ」「おてんきことば」「さんかんしおん」<br><br>声の出演:木原実／TARAKO<br><br>so32296737←前話｜次話→so32296739　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296738
+  default_thread_id: 1511142632
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296738
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ5
+  title: ''
+  description: "「しゅんぶんのひ」「このおしごとな～んだ？その2」「あなあきことば」「このスポーツな～んだ」「まちがいさがし」「かいとうキハーラのおさらい」「このスポーツな～んだ（その2）」「こうさくはおもしろい」「かんじはおもしろい」「ぎょうじをあててみよう」<br><br>声の出演:木原実／TARAKO<br><br>so32296738←前話｜次話→so32296740　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296739
+  default_thread_id: 1511142617
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296739
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ6
+  title: ''
+  description: "「ごめんなさいがいえるかな」「およげこいのぼり」「すっぱいをあじわおう」「つゆってなあに？」「まちがいさがし（その２）」「うちゅうのふしぎ」「もじをいれかえよう」「このスポーツな～んだ（その３）」「あいうえおさくぶん（くもジロー編）」「ドレミファそらジロー」<br><br>声の出演:木原実／TARAKO<br><br>so32296739←前話｜次話→so32296768　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296740
+  default_thread_id: 1511142687
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296740
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ7
+  title: ''
+  description: "「かさをつかうときのちゅういてん」「このやさいな～んだ」「あさがおをそだてよう」「さがしてみようひじょうぐち」「つきのもようはどうみえる？」「ふみきりをわたるときのおやくそく」「はのみがきかた」「プールにはいるおやくそく」「たんざくにねがいをかこう」「ねっちゅうしょうにきをつけよう」<br><br>声の出演:木原実／TARAKO<br><br>so32296740←前話｜次話→so32296688　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296768
+  default_thread_id: 1511143223
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296768
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ8
+  title: ''
+  description: "「はやくちことばにちょうせん」「ジュースがアイスにだいへんしん」「さかさまのせかい」「えんぴつすごい」「はなびをするときのおやくそく」「ちょうどいいおんどにしよう（なつ編）」「ようかいだいしゅうごう」「すずしくなるほうほう」「あさがおでおえかき」「アリさん、どこいくの？」<br><br>声の出演:木原実／TARAKO<br><br>so32296768←前話｜次話→so32296687　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296688
+  default_thread_id: 1511140976
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296688
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ9
+  title: ''
+  description: "「ふうすいがいたいさく」「はんたいことばであそぼう」「トマトはどうそだつ？」「とけいのはりはいまなんじ？」「たいようとかげ」「じょうずにもてるかな？」「だじゃれであそぼう」「やさいスタンプであそぼう」「はなみずのひみつ」｢カッテージチーズをつくろう｣<br><br>声の出演:木原実／TARAKO<br><br>so32296688←前話｜次話→so32296674　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296687
+  default_thread_id: 1511140961
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296687
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ10
+  title: ''
+  description: "「あきをみつけにいこう」「おはしのマナー」「あきといえば…？」「おたくはいけん　ハチ」「あきやさいをたべよう」「どっちがおもい？」「あきになくむし」「あさのじゅんび」「しんかいへしゅっぱつだ」「きれいにたたもう」<br><br>声の出演:木原実／TARAKO<br><br>so32296687←前話｜次話→so32296673　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296674
+  default_thread_id: 1511140998
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296674
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ11
+  title: ''
+  description: "「おおきくなったらなにになる？」「このがっきな～んだ？」「おちばでおめんをつくろう」「いとでんわをつくろう」「とうみんってなあに？」「おちばもたのしい」「おとあそび」「おしごとクイズ」「クッキーをつくろう」「じゅうにし（十二支）をおぼえよう」<br><br>声の出演:木原実／TARAKO<br><br>so32296674←前話｜次話→so32296672　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296673
+  default_thread_id: 1511141086
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296673
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ12
+  title: ''
+  description: "「Ｘｍａｓスペシャル」「おとあそび（その２）」「おしょうがつにあそぼう」「いろんなおもちをたべてみよう」「えいごであいさつ」「じょうずにわけよう」「こたつむりになっちゃった!?」「かずをかぞえよう」「かんきをわすれずに」「たのしいせつぶん」<br><br>声の出演:木原実／TARAKO<br><br>so32296673←前話｜次話→so32296671　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296672
+  default_thread_id: 1511141016
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296672
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ13
+  title: ''
+  description: "「あられとひょうはどうちがう？」「こおりでアート」「スケートをしよう」「けつろにおえかき」「まるさんかくしかく」「かずでおえかき」「かえることば」「からだのなかへしゅっぱつだ！」「ぼうさいぶくろをてんけんしよう」「ていでんになったときは？」<br><br>声の出演:木原実／TARAKO<br><br>so32296672←前話｜次話→so32296670　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296671
+  default_thread_id: 1511141020
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296671
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ14
+  title: ''
+  description: "「せいでんきビリビリ」「はやくちことばにちょうせん②」「えいごかな？にほんごかな？」「きせつをかんじよう」「スタートのきせつ」「かいきげっしょくをみよう」「どうろひょうしきをかくにんしよう」「みずはどこからくるのかな？」「花粉症対策（かふんしょうたいさく）をしよう」「一文字（いちもじ）たすと…？」<br><br>声の出演:木原実／TARAKO<br><br>so32296671←前話｜次話→so32296669　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296670
+  default_thread_id: 1511141053
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296670
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ15
+  title: ''
+  description: "「たんぽぽさいた」「やまびこおもしろい」「こどもの日クイズ」「なまえをかこう」「えのぐをまぜるとどうなる？」「よふかしはやめよう」「えいごでかぞえよう」「ホタルをみにいこう」「ころもがえのきせつ」「おかねをかぞえよう」<br><br>声の出演:木原実／TARAKO<br><br>so32296670←前話｜次話→so32296668　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296669
+  default_thread_id: 1511141055
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296669
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ16
+  title: ''
+  description: "「ひみつのはこ」「つゆをみつけよう」「あめでもあそべるよ」「かえるのかんさつ」「カビたいさく」「あしたはれるかな」「えいごであいさつ（その２）」「いかのおすし」「さかさマシーン」「おうちでさかなつり」<br><br>声の出演:木原実／TARAKO<br><br>so32296669←前話｜次話→so32296667　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296668
+  default_thread_id: 1511141083
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296668
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ17
+  title: ''
+  description: "「こそあどことば」であそぼう」「ねっちゅうしょうたいさく」「ねっちゅうしょうにきをつけよう」「うみであそぼう」「セミのきせつ」「むかしのせいかつ」「かさいろいろ」「カミナリがなったら」「たまごりょうりいろいろ」「あなあきことば」<br><br>声の出演:木原実／TARAKO<br><br>so32296668←前話｜次話→so32296666　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296667
+  default_thread_id: 1511141019
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296667
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ18
+  title: ''
+  description: "「じしんにそなえよう」「アルファベットわかるかな？」「たいふうにきをつけよう」「３つのあんごう」「えいごでよんでみよう」「つきみだんごをつくろう」「おこめができるまで」「しゅうかくのあき」「３つの「Ｒ」をまなぼう」「もったいないをみつけよう」<br><br>声の出演:木原実／TARAKO<br><br>so32296667←前話｜次話→so32296675　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296666
+  default_thread_id: 1511141241
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296666
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ19
+  title: ''
+  description: "「くぎりことばであそぼう」「まとめてよぶと…？」「むかしのあそび」「ハロウィーンをたのしもう」「そらジローたいそう「ねおき」編」「オリンピックのじゅんび」「もみじがりをしよう」「そらジローたいそう（紅葉編）」「そらジローたいそう（宇宙編）」「ひなんばしょをかくにんしよう」<br><br>声の出演:木原実／TARAKO<br><br>so32296666←前話｜次話→so32296676　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296675
+  default_thread_id: 1511141051
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296675
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ20
+  title: ''
+  description: "「パナシはやめよう」「じゅんばんあてクイズ」「きをつけよう、たこあしはいせん」「50ねんごのおてんき」「てをあらおう」「うがいをしよう」「ねんがじょうをかこう」「おおそうじをしよう」「Xmasスペシャル」「おしょうがつクイズ」<br><br>声の出演:木原実／TARAKO<br><br>so32296675←前話｜次話→so32296686　第一話→so32296735"
+  length_seconds: 1204
+  content_id: so32296676
+  default_thread_id: 1511141089
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296676
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ21
+  title: ''
+  description: "「えいごで１２かげつ」「えいごでおてんき」「かしつはたいせつ」「ゆたんぽあったかい」「ゆきがつもったら」「せつぶんクイズ」「ゆきのけっしょう」「てづくりチョコレート」「きゅうきゅうばこをてんけんしよう」「かがみもじ」<br><br>声の出演:木原実／TARAKO<br><br>so32296676←前話｜次話→so32296685　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296686
+  default_thread_id: 1511141087
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296686
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ22
+  title: ''
+  description: "「おうちでボウリング」「マラソンをたのしもう」「ひのようじん」「たのしいひなまつり」「ぼうさいぶくろをかくにんしよう」「ゆだんたいてき」「かふんをブロック」「よるにおでかけするときは」「ほっかいどうしんかんせん」「きんきゅうダイヤル」<br><br>声の出演:木原実／TARAKO<br><br>so32296686←前話｜次話→so32296684　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296685
+  default_thread_id: 1511141022
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296685
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ23
+  title: ''
+  description: "「えいごでさくらは？」「でんきはどこから？」「はるのむしたち」「あんごうたしざん」「ながらあるきはキケン」「むかしのどうぐ」「みどりのカーテンをそだてよう」「とんとんずもうであそぼう」「せかいのこんにちは」「ぎゅうにゅうだいへんしん」<br><br>声の出演:木原実／TARAKO<br><br>so32296685←前話｜次話→so32296683　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296684
+  default_thread_id: 1511141100
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296684
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ24
+  title: ''
+  description: "「しょくちゅうどくにきをつけよう」「あたらしいレインコート」「しょうぎくずしであそぼう」「かぞえかたいろいろ」「きゃんぷにいったら」「オリンピックをおうえんしよう！」「オリンピッククイズ」「きゅうなおおあめにきをつけよう」「ねっちゅうしょうになったときは」「スズメバチにちゅうい」<br><br>声の出演:木原実／TARAKO<br><br>so32296684←前話｜次話→so32296682　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296683
+  default_thread_id: 1511141057
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296683
+- !ruby/hash:EpisodeHash
+  episode_no: そらジローまとめ25
+  title: ''
+  description: "「バリアフリーってなんだろう」「あきのくも」「あきをかんじよう」「イニシャルはなに？」「あるなしクイズ」「くるくるイラスト」「３ヒントクイズ」「こうしゅうでんわのつかいかた」「パーソナルカードをかこう」「ひなんくんれんをしよう」<br><br>声の出演:木原実／TARAKO<br><br>so32296683←前話　第一話→so32296735"
+  length_seconds: 1100
+  content_id: so32296682
+  default_thread_id: 1511141098
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296682
+cast: "[キャスト]<br>声の出演:木原実／TARAKO"
+produced_year: "[製作年]<br>2013年"
+copyright: "©NTV"
+related_seasons: !ruby/array:Hashie::Array []

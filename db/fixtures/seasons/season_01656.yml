@@ -1,0 +1,193 @@
+--- !ruby/hash:SeasonHash
+title: 結城友奈は勇者である
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/2/11512_1_6.png?1440384972000
+outline: 結城友奈（ゆうきゆうな）は朝起きて、支度して、学校へ行き、授業を受けて、部活して、友達と遊んで…。そんな普通の日常を過ごしている中学２年生。あえて特殊な点をあげるなら、彼女の所属する部活は「勇者部」。その活動内容とは？不思議な存在、バーテックスとは？神世紀３００年、少女たちの物語―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒沢ともよ
+  type: cast
+- !ruby/hash:TagHash
+  name: 長妻樹里
+  type: cast
+- !ruby/hash:TagHash
+  name: 照井春佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：岸誠二
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Studio五組
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：タカヒロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：岡部啓一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Project 2H
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：BUNBUN
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：酒井孝裕
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 頑張る女の子たち
+  type: other
+- !ruby/hash:TagHash
+  name: 上江洲誠
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 乙女の真心
+  description: 讃州中学2年生の結城友奈は、｢勇者部｣に所属する13歳の女の子。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>次話→so32422705
+  length_seconds: 1467
+  content_id: so32422678
+  default_thread_id: 1513301714
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422678
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ろうたけたる思い
+  description: 普通の日常を送る結城友奈は、とある事情から勇者に変身することになる。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422678←前話｜次話→so32422730　第一話→so32422678
+  length_seconds: 1467
+  content_id: so32422705
+  default_thread_id: 1513302203
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422705
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 風格ある振る舞い
+  description: 勇者に選ばれてから1ヶ月が経過し、友奈たちは忙しい日々を送っていた。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422705←前話｜次話→so32422740　第一話→so32422678
+  length_seconds: 1467
+  content_id: so32422730
+  default_thread_id: 1513302982
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422730
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 輝く心
+  description: 勇者部の一員、犬吠埼樹のクラスでは音楽の授業での歌唱テストが近づいていた。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422730←前話｜次話→so32422739　第一話→so32422678
+  length_seconds: 1467
+  content_id: so32422740
+  default_thread_id: 1513303138
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422740
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 困難に打ち勝つ
+  description: ますます激しさを増すバーテックスの侵攻。より結束を強めた友奈たちはそれを迎え撃つ。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422740←前話｜次話→so32422738　第一話→so32422678
+  length_seconds: 1467
+  content_id: so32422739
+  default_thread_id: 1513303140
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422739
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 明日に期待して
+  description: 友奈たちは、明日も頑張ろうと思った。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422739←前話｜次話→so32422737　第一話→so32422678
+  length_seconds: 1467
+  content_id: so32422738
+  default_thread_id: 1513303074
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422738
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 牧歌的な喜び
+  description: 大赦の手配により、友奈たち勇者部一同は海へ。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422738←前話｜次話→so32422736　第一話→so32422678
+  length_seconds: 1452
+  content_id: so32422737
+  default_thread_id: 1513303169
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422737
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 神の祝福
+  description: 勇者部の慌ただしい日々は続いている。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422737←前話｜次話→so32422735　第一話→so32422678
+  length_seconds: 1452
+  content_id: so32422736
+  default_thread_id: 1513303171
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422736
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 心の痛みを判る人
+  description: 勇者部のあるメンバーへ、連絡が届く。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422736←前話｜次話→so32422734　第一話→so32422678
+  length_seconds: 1452
+  content_id: so32422735
+  default_thread_id: 1513303110
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422735
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 愛情の絆
+  description: 勇者部にびっくりする事がおこる。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422735←前話｜次話→so32422733　第一話→so32422678
+  length_seconds: 1452
+  content_id: so32422734
+  default_thread_id: 1513303118
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422734
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 情熱
+  description: 勇者部の、それぞれの想いが交わっていく。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422734←前話｜次話→so32422732　第一話→so32422678
+  length_seconds: 1452
+  content_id: so32422733
+  default_thread_id: 1513302861
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422733
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 貴方に微笑む
+  description: 結城友奈は勇者である。<br><br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里<br><br>原作:Project
+    2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+    Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)<br><br>so32422733←前話　第一話→so32422678
+  length_seconds: 1452
+  content_id: so32422732
+  default_thread_id: 1513303112
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32422732
+cast: "[キャスト]<br>結城友奈:照井春佳／東郷美森:三森すずこ／犬吠埼風:内山夕実／犬吠埼樹:黒沢ともよ／三好夏凜:長妻樹里"
+staff: "[スタッフ]<br>原作:Project 2H／企画原案:タカヒロ（みなとそふと）／監督:岸誠二／シリーズ構成:上江洲誠／キャラクターデザイン原案:BUNBUN／アニメーションキャラクターデザイン＆総作画監督:酒井孝裕／コンセプトアート:D.K＆JWWORKS／音楽:岡部啓一・MONACA／アニメーション制作:Studio五組／オープニングテーマ:「ホシトハナ」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲・編曲：岡部啓一（MONACA）／エンディングテーマ:「Aurora
+  Days」歌：讃州中学勇者部（照井春佳、三森すずこ、内山夕実、黒沢ともよ、長妻樹里）作詞：中村彼方　作曲：光増ハジメ(FirstCall)　編曲：EFFY(FirstCall)"
+produced_year: "[製作年]<br>2014年"
+copyright: "（C）2014 Project 2H"
+related_seasons: !ruby/array:Hashie::Array []

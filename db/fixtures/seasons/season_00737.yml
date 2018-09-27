@@ -1,0 +1,80 @@
+--- !ruby/hash:SeasonHash
+title: スーパーミルクちゃん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/44/4/11444_1_6.png?1427216400000
+outline: ちっちゃくてキュートだけどブラックでゆるいミルクちゃんが大統領からの指令を受けて、さまざまな事件を解決するシュールアニメーション!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 柚木涼香
+  type: cast
+- !ruby/hash:TagHash
+  name: 長島雄一
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村春香
+  type: cast
+- !ruby/hash:TagHash
+  name: ブラッド・ピュット
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：東京キッズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：田中秀幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：椎名基樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：GENCO
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：SUPLEX
+  type: staff
+- !ruby/hash:TagHash
+  name: スーパーミルクちゃんシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1998年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第5話
+  title: ミルクちゃん登場の巻／トカレフの、ようなものの巻／エコロジーだよ！ミルクちゃんの巻／アニマル奇想天外の巻／ミルクの炎のチャレンジャーの巻
+  description: 第1話：謎の女の子ミルクちゃん登場！ こんな感じでゆるーくやっていきます。／第2話：ミルクちゃん初出動！ こんな感じで事件を解決（？）していきます。／第3話：ミルクちゃん初捕獲！
+    こんな感じで適当にやっていきます。／第4話：ミルクちゃん大暴走！ こんな感じでやりたいほうだいです。／第5話：ミルクちゃんちんぷんかんぷん!? こんな感じですっかり忘れちゃってます。<br><br>ミルクチャン:中村春香／テツコ:永椎あゆ美／大統領:長島雄一／ハナ毛:ブラッド・ピュット<br><br>企画:佐谷秀美／監督・原案・デザイン:田中秀幸／脚本:椎名基樹／アニメーション制作:東京キッズ／制作:SUPLEX,GENCO<br><br>次話→so32041490
+  length_seconds: 1140
+  content_id: so32041489
+  default_thread_id: 1507078401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041489
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話～第10話
+  title: ミルクのなんでも鑑定隊の巻／ミルクの少年ナイフの巻／盗まれた闘魂の巻／トムヤムクン・イリュージョンの巻／ねずみは二度死ぬの巻
+  description: 第6話：ミルクちゃんご乱心！ こんな感じで解決したことになっちゃってます。／第7話：ミルクちゃんご立腹！ こんな感じで逆切れしちゃいます。／第8話：ミルクちゃん初防衛!?
+    こんな感じで任務完了しちゃってます。／第9話：ミルクちゃん大失敗！ こんな感じでとぼけちゃってます。／第10話：ミルクちゃん大満足！ こんな感じで指令はそっちのけです。<br><br>ミルクチャン:中村春香／テツコ:永椎あゆ美／大統領:長島雄一／ハナ毛:ブラッド・ピュット<br><br>企画:佐谷秀美／監督・原案・デザイン:田中秀幸／脚本:椎名基樹／アニメーション制作:東京キッズ／制作:SUPLEX,GENCO<br><br>so32041489←前話｜次話→so32041491　第一話→so32041489
+  length_seconds: 1332
+  content_id: so32041490
+  default_thread_id: 1507078640
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041490
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話～第14話
+  title: 時をかける大統領の巻／テツコのブッとび初デートの巻／天に代わっておやじがりの巻／さよならミルクちゃんの巻
+  description: 第11話：ミルクちゃんタイムトリップ！ こんな感じで大統領もさんざんです。／第12話：ミルクちゃんスシ食いいっかぁ！ そんなこんなで今日はテツコがいないのでもうやってられません。／第13話：ミルクちゃん大変装！
+    こんな感じでおやじになっちゃいます。／第14話：ミルクちゃん大迷惑！ こんな感じで大統領の相手をしてあげてます。<br><br>ミルクチャン:中村春香／テツコ:永椎あゆ美／大統領:長島雄一／ハナ毛:ブラッド・ピュット<br><br>企画:佐谷秀美／監督・原案・デザイン:田中秀幸／脚本:椎名基樹／アニメーション制作:東京キッズ／制作:SUPLEX,GENCO<br><br>so32041490←前話　第一話→so32041489
+  length_seconds: 1064
+  content_id: so32041491
+  default_thread_id: 1507078399
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041491
+cast: "[キャスト]<br>ミルクチャン:中村春香／テツコ:永椎あゆ美／大統領:長島雄一／ハナ毛:ブラッド・ピュット"
+staff: "[スタッフ]<br>企画:佐谷秀美／監督・原案・デザイン:田中秀幸／脚本:椎名基樹／アニメーション制作:東京キッズ／制作:SUPLEX,GENCO"
+produced_year: "[製作年]<br>1998年"
+copyright: "(C)1998 フレイムグラフィックス・SUPLEX・GENCO・フジテレビジョン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: OH!スーパーミルクチャン

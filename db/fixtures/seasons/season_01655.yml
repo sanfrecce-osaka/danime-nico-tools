@@ -1,0 +1,55 @@
+--- !ruby/hash:SeasonHash
+title: やんやんマチコ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/86/7/21867_1_6.png?1511224238000
+outline: "「やんやんマチコ」は、京都弁を話すキュピーンなヒツジの女の子「マチコ」が主人公の、かわいい人気アニメです。マイペースにほっこり暮らすマチコの、シャンゼリゼ商店街での毎日を描きます。『ウサビッチ』を世に送り出したCGプロダクション、カナバングラフィックスが長年温めてきたアニメーション作品です。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山力也
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田剛
+  type: cast
+- !ruby/hash:TagHash
+  name: 大倉孝二
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐津川愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：上野大典
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ニシムラトモコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第11話
+  title: ボーボーやん？／モコモコやん？／ゲッチューやん？／ヒラヒラやん？／キラキラやん？／新メニューやん？／ユラユラやん？／ポトポトやん？／アミアミやん？／フレーフレーやん？／ハートのマカロンやん？
+  description: ボーボーなマチコはエステで脱毛してツルツルになってみたい。そこでマチコが思いついた方法は･･･。／マチコはモコモコのブランドバッグが欲しいがとても高い。商店街でバッグを見つけたマチコは･･･。／引っ越し先を探しているアグリがマチコの部屋にやって来る。大家のマモルは家賃アップを狙っているが･･･。／お散歩好きなマチコはお気に入りの髪飾りをつけてでかけようとする。しかし、髪飾りが見当たらない。そこにチョウチョが舞い込んでくるが･･･。／夜空を見上げて☆を眺めているマチコ。流れ星を待っていると急に土砂降りの雨が降ってくる。そこにアグリが拾い物を持ってやってくる。／マカロンを売っているマチコ。新メニューを作りたいマチコだがそこに社長令嬢のお嬢様、モモコがやってきて・・・。／海の旅にでかけているセーラから絵葉書をもらったマチコ。自分も行ってみたいと思うマチコはあるものを思い出す。／外は雨。テレビでオーケストラの演奏に聴き入っていたマチコとアグリだが、いつの間にか雨漏りが。二人は修理しようと試みるが...。／今日はクリスマス。マチコは編み物を始めたのだが、毛糸玉は街を転がって行ってしまう…／マチコとアグリが部屋で恋愛映画を観ていると、ドアをノックする音が。アグリが扉を開けると、セーラが号泣しながら飛び込んで来て…。／他<br><br>マチコ:藤田　陽子／アグリ:佐藤　真弓／マモル:大倉　孝二／セーラ:安元
+    洋貴／モモコ:佐津川　愛美／ジョージ:小山　力也／ソリーヌ:前田　剛<br><br>原作:ニシムラ　トモコ／制作:有限会社カナバングラフィックス／音楽/音響製作:上野　大典（ソノフォニック株式会社）
+  length_seconds: 1661
+  content_id: so32301683
+  default_thread_id: 1511240922
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32301683
+cast: "[キャスト]<br>マチコ:藤田　陽子／アグリ:佐藤　真弓／マモル:大倉　孝二／セーラ:安元 洋貴／モモコ:佐津川　愛美／ジョージ:小山　力也／ソリーヌ:前田　剛"
+staff: "[スタッフ]<br>原作:ニシムラ　トモコ／制作:有限会社カナバングラフィックス／音楽/音響製作:上野　大典（ソノフォニック株式会社）"
+produced_year: "[製作年]<br>2009年"
+copyright: "©T.Nishimura/KANABAN GRAPHICS. All Rights Reserved."
+related_seasons: !ruby/array:Hashie::Array []

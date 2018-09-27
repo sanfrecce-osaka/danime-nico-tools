@@ -1,0 +1,85 @@
+--- !ruby/hash:SeasonHash
+title: 夏目友人帳 伍　特別編１　一夜盃（ひとよさかずき）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/55/3/21553_1_6.png?1490259602000
+outline: 小さい頃から妖怪を見ることができた少年・夏目貴志。祖母レイコが遺した遺産｢友人帳｣を継いで以来、彼は自称用心棒・ニャンコ先生と共に、そこに名を縛られた妖怪たちに名を返す日々を送る。さまざまな妖や人と繋がり、絆を深めていく中、増えてしまった大切なものたち。守るために秘密を持つことに惑いながら、夏目は少しずつ、勇気を出して、次の関係へと踏み出していく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江一眞
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤栄次
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏目友人帳シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 特別編1
+  title: 一夜盃（ひとよさかずき）
+  description: 妖力を強くする湧き水をめぐり、一本角の妖怪に襲われていた夫婦妖怪ヒヅチとハツナを救った夏目。レイコを知るこの夫婦妖怪は旅をしながら盃を作っているという。夫婦が作る盃は、注いだ飲み物が極上になることで評判だったが、一晩で消えてしまうことから『一夜盃』と呼ばれていた。次の日、一夜盃で酒を飲みたいニャンコ先生と共に、夏目は夫婦のもとを訪れる。<br><br>夏目貴志:神谷浩史／ニャンコ先生
+    / 斑:井上和彦／夏目レイコ:小林沙苗／名取周一:石田 彰／田沼要:堀江一眞／西村悟:木村良平／北本篤史:菅沼久義／笹田純:沢城みゆき／多軌透:佐藤利奈／藤原塔子:伊藤美紀／藤原滋:伊藤栄次／的場静司:諏訪部順一　ほか<br><br>原作:緑川ゆき
+    / 月刊 LaLa(白泉社)連載／総監督:大森貴弘／監督:出合小都美／シリーズ構成:村井さだゆき／キャラクターデザイン:髙田晃／妖怪デザイン:山田起生／美術:渋谷幸弘／色彩設定:宮脇裕美／撮影:田村仁／編集:関一彦／音楽:吉森信／アニメーション制作:朱夏／制作:NAS／製作:｢夏目友人帳｣製作委員会
+  length_seconds: 1415
+  content_id: so32005989
+  default_thread_id: 1506564233
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005989
+cast: "[キャスト]<br>夏目貴志:神谷浩史／ニャンコ先生 / 斑:井上和彦／夏目レイコ:小林沙苗／名取周一:石田 彰／田沼要:堀江一眞／西村悟:木村良平／北本篤史:菅沼久義／笹田純:沢城みゆき／多軌透:佐藤利奈／藤原塔子:伊藤美紀／藤原滋:伊藤栄次／的場静司:諏訪部順一　ほか"
+staff: "[スタッフ]<br>原作:緑川ゆき / 月刊 LaLa(白泉社)連載／総監督:大森貴弘／監督:出合小都美／シリーズ構成:村井さだゆき／キャラクターデザイン:髙田晃／妖怪デザイン:山田起生／美術:渋谷幸弘／色彩設定:宮脇裕美／撮影:田村仁／編集:関一彦／音楽:吉森信／アニメーション制作:朱夏／制作:NAS／製作:｢夏目友人帳｣製作委員会"
+produced_year: "[製作年]<br>2016年"
+copyright: "©緑川ゆき・白泉社／「夏目友人帳」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳
+- !ruby/hash:SeasonHash
+  title: 続 夏目友人帳
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 参
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 肆
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 伍
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 陸
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳　いつかゆきのひに
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳　ニャンコ先生とはじめてのおつかい
+- !ruby/hash:SeasonHash
+  title: SOUND THEATRE × 夏目友人帳 ～集い 音劇の章～
+- !ruby/hash:SeasonHash
+  title: SOUND THEATRE × 夏目友人帳 ～集い 音劇の章・再び～

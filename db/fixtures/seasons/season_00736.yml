@@ -1,0 +1,237 @@
+--- !ruby/hash:SeasonHash
+title: スーパーヅガン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/2/10622_1_6.png?1427216400000
+outline: 漫画雑誌『近代麻雀オリジナル』で連載された、片山まさゆき（『ぎゅわんぶらあ自己中心派』などで有名）の麻雀漫画。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 青野武
+  type: cast
+- !ruby/hash:TagHash
+  name: 龍田直樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 難波圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：西村純二
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：片山まさゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：キティ・フィルム
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ツカンポ野郎に 春が来た／縁切りヅガン
+  description: "#1:毎日麻雀の借金取りに追われる豊臣。そんなある日高校時代の友人明菜に出会う…。#2:明菜との出会いから脱麻雀を決意する豊臣。織田たちに縁切り麻雀を挑むが<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>次話→so32154416"
+  length_seconds: 1401
+  content_id: so32154415
+  default_thread_id: 1508864013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154415
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ハッピー バースデー ヅガン／ふられて ヅガン
+  description: "#3:明菜の誕生日にケーキを買いに行く豊臣。ところが織田たちにつかまり借金の返済を迫られる…。#4:豊臣の脱麻雀を願う明菜。しかしまたもや織田たちにつかまり明菜は愛想をつかす…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154415←前話｜次話→so32154417　第一話→so32154415"
+  length_seconds: 1401
+  content_id: so32154416
+  default_thread_id: 1508864039
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154416
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 恐怖の豊臣マシーン／スノーサイド ヅガン
+  description: "#5:明菜の紹介で東大式麻雀名人のイデに麻雀を教えてもらう豊臣。ところがそこに恐ろしい副作用が…。#6:明菜と2人でスキーに来た豊臣…。が、そこにいつもの麻雀メンバーが…。見かねた明菜が豊臣と交代し…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154416←前話｜次話→so32154418　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154417
+  default_thread_id: 1508864035
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154417
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: カッパギ ヅガン／明菜ふたたび
+  description: "#7:いつものツカンポ豊臣に突然かっぱぎ警報発令…。さてその結末は?#8:あいもかわらず負けがこんでいる豊臣。そこへデートの誘いにきた明菜が加わって…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154417←前話｜次話→so32154419　第一話→so32154415"
+  length_seconds: 1401
+  content_id: so32154418
+  default_thread_id: 1508864015
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154418
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 君は完璧さ
+  description: "#9:ホテルリゾートを楽しむいつもの面々。しかし明菜の強運の前に織田、徳川、明智の仲に暗雲が…。#10:ホテルリゾートの続き。あいかわらずつきまくる明菜だが、天性のツカンポ豊臣の前に…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154418←前話｜次話→so32154460　第一話→so32154415"
+  length_seconds: 1401
+  content_id: so32154419
+  default_thread_id: 1508864017
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154419
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 大阪からの物体X／湯あたりヅガン
+  description: "#11:豊臣が雀荘で負かした謎の男。豊臣を師匠とあがめ、ころがり込んでくるのだが…。#12:麻雀の疲れを癒す為、露天風呂めざしてはるばる温泉街までやってきた面々。でも夜はやっぱり…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154419←前話｜次話→so32154461　第一話→so32154415"
+  length_seconds: 1401
+  content_id: so32154460
+  default_thread_id: 1508864873
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154460
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ベイビー雀士・ポン太／井の中の雀ピューター
+  description: "#13:豊臣のもとに突然届けられた赤ん坊。実は麻雀の天才ベイビーだった…。#14:雀ピューターの天才少年。人間相手にデビューしようと豊臣たちに勝負を挑むのだが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154460←前話｜次話→so32154462　第一話→so32154415"
+  length_seconds: 1401
+  content_id: so32154461
+  default_thread_id: 1508864636
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154461
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 泣かせるツモジャン
+  description: "#15:明智、徳川の2人がデート代欲しさに豊臣のもとにやって来た。そしてその後、織田と明菜が2人で現れて…。#16:明菜と親しげにする織田にだけは絶対にアガらせたくない豊臣。起死回生の策はあるのか…?<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154461←前話｜次話→so32154463　第一話→so32154415"
+  length_seconds: 1401
+  content_id: so32154462
+  default_thread_id: 1508864643
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154462
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 旅打ちヅガン
+  description: "#17:明菜に裏切られた(?)豊臣。皆を見返す雀士になろうと旅にでるのだが…。#18:旅先の雀荘でピンチに立たされる豊臣。しかし同じ頃、豊臣の後を追う明菜の姿があった…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154462←前話｜次話→so32154464　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154463
+  default_thread_id: 1508864871
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154463
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 無敵のムカフーン打法／豊臣の逆襲
+  description: "#19:無敵のムカフーン打法を用いる老人オザワ竹書坊はその技を豊臣に伝授する…。#20:無敵のムカフーン打法をマスターした豊臣、織田たちへ勝負を挑むのだが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154463←前話｜次話→so32154465　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154464
+  default_thread_id: 1508864634
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154464
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: しびれてナンボ／サンタの待ちがやって来た
+  description: "#21:豊臣とサイコロ勝負でいい気になったけんじんは鉄砲で雀荘へ行くのだが…。#22:とあるクリスマス・イヴ、30年間無あがりのサンタと豊臣との勝負が行われるのだが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154464←前話｜次話→so32154496　第一話→so32154415"
+  length_seconds: 1401
+  content_id: so32154465
+  default_thread_id: 1508864632
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154465
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: あけましてツカンポ／ツカンポ昔話
+  description: "#23:大晦日の夜、エレクトーン占いのウララが豊臣を呼び止めそのツキを占う…。#24:麻雀の途中で気が遠くなった豊臣。気がつくと浦島太郎の格好で馬場ガメを助けるのだが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154465←前話｜次話→so32154530　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154496
+  default_thread_id: 1508865341
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154496
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: アクマで悪魔／カゼにツカンコ
+  description: "#25:黒魔法の本を買った豊臣。豊臣がツキまくるたびにまわりの人に不幸がふりそそぐ…。#26:明菜が風邪で倒れた。明菜にメロンを食べさせようと豊臣は麻雀を打つのだが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154496←前話｜次話→so32154531　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154530
+  default_thread_id: 1508866063
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154530
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: プールサイドの ツカンポ野郎／復活!オザワ竹書坊
+  description: "#27:リゾートホテルに来た豊臣たち。そこで豊臣が見たものは…!?#28:あいも変わらず負けがこんでいる豊臣。そこへあのオザワ竹書坊が乱入して…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154530←前話｜次話→so32154532　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154531
+  default_thread_id: 1508865871
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154531
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 怪談ヅガンどうろう／私はあがりたい
+  description: "#29:麻雀怪談百物語をする豊臣たちに、すっかり負けペースの豊臣はこのままでは精気まで吸い取られそうだが…。#30:道に迷い怪しげな洋館に立ち寄る豊臣たち。そこには麻雀で1度もあがったことのない幽霊がすみついていた…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154531←前話｜次話→so32154533　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154532
+  default_thread_id: 1508866061
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154532
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 前向き ヅガン／ツカンポリーチは 一点読まれ
+  description: "#31:ベタ降りする豊臣にけんじんは｢前向きに行け｣と忠告。その通りにする豊臣だが…。#32:ある日雀荘に一点読みの雀ゴロが現れ、豊臣、明菜たちが彼と対戦するのだが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154532←前話｜次話→so32154534　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154533
+  default_thread_id: 1508865917
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154533
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: バレンタインは ツカンポの香り／明菜トライアングル
+  description: "#33:チョコさえもらえなかったけんじんは、街で妙に気があう麻美と出会うのだが…。#34:明菜にプロポーズする男が現れ、豊臣と麻雀で勝負をすることになるのだが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154533←前話｜次話→so32154535　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154534
+  default_thread_id: 1508866065
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154534
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: ようこそ壱番館へ／麻雀ルール教えます
+  description: "#35:留年をしてもあい変わらず雀荘でアルバイトをする豊臣だが…。#36:豊臣の働く雀荘へとやって来た徳川たち。店員としての意地からか、初トップをとれそうな豊臣だが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154534←前話｜次話→so32154536　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154535
+  default_thread_id: 1508865873
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154535
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 南極ヅガン／成金ヅガン
+  description: "#37:南極の雀荘基地。悪天候に閉じ込められた豊臣ら5人。そしてヘリの救出は4人までだった…。#38:自分の今までのつかなさを出版し、たちまち成金となってしまった豊臣だが…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154535←前話｜次話→so32154537　第一話→so32154415"
+  length_seconds: 1403
+  content_id: so32154536
+  default_thread_id: 1508865896
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154536
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 不敗!幻の雀鬼／栄光は誰がために…
+  description: "#39:壱番館杯争奪大麻雀大会に幻の雀士と呼ばれる桜田門外が現れる…。#40:壱番館杯争奪のつづき。決勝は明菜の卓に門外、イデ名人、金子プロが加わって…。<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154536←前話｜次話→so32154538　第一話→so32154415"
+  length_seconds: 1403
+  content_id: so32154537
+  default_thread_id: 1508865891
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154537
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: ツカンコよ永遠に…
+  description: "#41:アメリカに留学する明菜を追いかける為、徳川たちと最後の大勝負をする豊臣だが…。#42:勝てば明菜とアメリカへ…。豊臣最後の賭け…感動の最終回!<br><br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他<br><br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム<br><br>so32154537←前話　第一話→so32154415"
+  length_seconds: 1402
+  content_id: so32154538
+  default_thread_id: 1508865920
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32154538
+cast: "[キャスト]<br>豊臣:山口勝平／明菜:大坪純子／織田:山寺宏一／明智:難波圭一／徳川:龍田直樹／ナレーション:青野　武、他"
+staff: "[スタッフ]<br>原作:片山まさゆき(竹書房／近代麻雀コミックス)／製作:伊地智　啓／監督:西村　純二／制作:フジテレビ／キティ・フィルム"
+produced_year: "[製作年]<br>1992年"
+copyright: "(C)片山まさゆき/竹書房・キティフィルム・フジテレビ"
+related_seasons: !ruby/array:Hashie::Array []

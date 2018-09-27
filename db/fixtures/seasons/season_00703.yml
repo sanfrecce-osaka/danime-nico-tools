@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版Strait Jacket
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/1/21891_1_6.png?1510545616000
+outline: ストレイト・ジャケット―　それは、罪を負いし者の纏う“拘束衣”舞台は科学と魔法の同居する世界。魔法を使いすぎた人間は魔族化する危険と隣り合わせだった。ある日、魔族による連続テロ事件が発生する。正規の魔法士では対処しきれず、法の下に属さない謎の“戦術魔法士”レイオット・スタインバーグに依頼が来る。レイオットはその圧倒的な力で魔族を退治。だが、全ては彼の過去へと繋がる壮大な戦いの始まりにすぎなかった…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井麻美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井康嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 真堂圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野まゆみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 笹沼尭羅
+  type: cast
+- !ruby/hash:TagHash
+  name: 小橋達也
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：feel.
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：榊一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ウシロシンジ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：湯本佳典
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：難波日登志
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 劇場版Strait Jacket
+  description: ストレイト・ジャケット―　それは、罪を負いし者の纏う“拘束衣”舞台は科学と魔法の同居する世界。魔法を使いすぎた人間は魔族化する危険と隣り合わせだった。ある日、魔族による連続テロ事件が発生する。正規の魔法士では対処しきれず、法の下に属さない謎の“戦術魔法士”レイオット・スタインバーグに依頼が来る。レイオットはその圧倒的な力で魔族を退治。だが、全ては彼の過去へと繋がる壮大な戦いの始まりにすぎなかった…。<br><br>レイオット・スタインバーグ:三木眞一郎／カペルテータ・フェルナンデス:真堂　圭／ネリン・シモンズ:前田　愛／ジャック・ローランド:小橋達也／フィリシス・ムーグ:浅野まゆみ／ブライアン・メノ・モデラート:石井康嗣／アイザック・ハモンド:笹沼　晃／レイチェル・ハモンド:今井麻美<br><br>原作・シリーズ構成:榊　一郎／監督:ウシロ　シンジ／キャラクターデザイン:湯本佳典／メカデザイン:福島秀機／プロップデザイン:中原れい／魔族デザイン:もりやまゆうじ／色彩設定:岩井田　洋／美術監督:鈴木隆文／撮影監督:口羽　毅／３ＤＣＧデザイナー:サトウユーゾー／編集:瀬山武司／音響監督:榎本崇宏／音楽:柳川　剛／アニメーション制作:feel.<br><br>次話→so32305965
+  length_seconds: 1412
+  content_id: so32305966
+  default_thread_id: 1511321122
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32305966
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 劇場版Strait Jacket
+  description: ストレイト・ジャケット―　それは、罪を負いし者の纏う“拘束衣”舞台は科学と魔法の同居する世界。魔法を使いすぎた人間は魔族化する危険と隣り合わせだった。ある日、魔族による連続テロ事件が発生する。正規の魔法士では対処しきれず、法の下に属さない謎の“戦術魔法士”レイオット・スタインバーグに依頼が来る。レイオットはその圧倒的な力で魔族を退治。だが、全ては彼の過去へと繋がる壮大な戦いの始まりにすぎなかった…。<br><br>レイオット・スタインバーグ:三木眞一郎／カペルテータ・フェルナンデス:真堂　圭／ネリン・シモンズ:前田　愛／ジャック・ローランド:小橋達也／フィリシス・ムーグ:浅野まゆみ／ブライアン・メノ・モデラート:石井康嗣／アイザック・ハモンド:笹沼　晃／レイチェル・ハモンド:今井麻美<br><br>原作・シリーズ構成:榊　一郎／監督:ウシロ　シンジ／キャラクターデザイン:湯本佳典／メカデザイン:福島秀機／プロップデザイン:中原れい／魔族デザイン:もりやまゆうじ／色彩設定:岩井田　洋／美術監督:鈴木隆文／撮影監督:口羽　毅／３ＤＣＧデザイナー:サトウユーゾー／編集:瀬山武司／音響監督:榎本崇宏／音楽:柳川　剛／アニメーション制作:feel.<br><br>so32305966←前話｜次話→so32305979　第一話→so32305966
+  length_seconds: 1523
+  content_id: so32305965
+  default_thread_id: 1511320886
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32305965
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: 劇場版Strait Jacket
+  description: ストレイト・ジャケット―　それは、罪を負いし者の纏う“拘束衣”舞台は科学と魔法の同居する世界。魔法を使いすぎた人間は魔族化する危険と隣り合わせだった。ある日、魔族による連続テロ事件が発生する。正規の魔法士では対処しきれず、法の下に属さない謎の“戦術魔法士”レイオット・スタインバーグに依頼が来る。レイオットはその圧倒的な力で魔族を退治。だが、全ては彼の過去へと繋がる壮大な戦いの始まりにすぎなかった…。<br><br>レイオット・スタインバーグ:三木眞一郎／カペルテータ・フェルナンデス:真堂　圭／ネリン・シモンズ:前田　愛／ジャック・ローランド:小橋達也／フィリシス・ムーグ:浅野まゆみ／ブライアン・メノ・モデラート:石井康嗣／アイザック・ハモンド:笹沼　晃／レイチェル・ハモンド:今井麻美<br><br>原作・シリーズ構成:榊　一郎／監督:ウシロ　シンジ／キャラクターデザイン:湯本佳典／メカデザイン:福島秀機／プロップデザイン:中原れい／魔族デザイン:もりやまゆうじ／色彩設定:岩井田　洋／美術監督:鈴木隆文／撮影監督:口羽　毅／３ＤＣＧデザイナー:サトウユーゾー／編集:瀬山武司／音響監督:榎本崇宏／音楽:柳川　剛／アニメーション制作:feel.<br><br>so32305965←前話　第一話→so32305966
+  length_seconds: 1636
+  content_id: so32305979
+  default_thread_id: 1511320918
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32305979
+cast: "[キャスト]<br>レイオット・スタインバーグ:三木眞一郎／カペルテータ・フェルナンデス:真堂　圭／ネリン・シモンズ:前田　愛／ジャック・ローランド:小橋達也／フィリシス・ムーグ:浅野まゆみ／ブライアン・メノ・モデラート:石井康嗣／アイザック・ハモンド:笹沼　晃／レイチェル・ハモンド:今井麻美"
+staff: "[スタッフ]<br>原作・シリーズ構成:榊　一郎／監督:ウシロ　シンジ／キャラクターデザイン:湯本佳典／メカデザイン:福島秀機／プロップデザイン:中原れい／魔族デザイン:もりやまゆうじ／色彩設定:岩井田　洋／美術監督:鈴木隆文／撮影監督:口羽　毅／３ＤＣＧデザイナー:サトウユーゾー／編集:瀬山武司／音響監督:榎本崇宏／音楽:柳川　剛／アニメーション制作:feel."
+produced_year: "[製作年]<br>2007年"
+copyright: "©Ichiro Sakaki/TOE/Endeleizo 2007"
+related_seasons: !ruby/array:Hashie::Array []

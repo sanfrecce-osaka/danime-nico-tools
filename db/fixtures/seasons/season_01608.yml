@@ -1,0 +1,327 @@
+--- !ruby/hash:SeasonHash
+title: 蟲師
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/16/4/11164_1_6.png?1427216400000
+outline: "「蟲」それは動物でも植物でもない、生命の原生体。本来棲む世を隔てたヒトと蟲とが重なる時、人智を超えた妖しき現象がうまれ、ヒトは初めてその存在を知る。すべての生命は、他をおびやかすために在るのではない。ただ、それぞれが在るように在るだけ―。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: うえだゆうじ
+  type: cast
+- !ruby/hash:TagHash
+  name: 中野裕斗
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：アートランド
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：馬越嘉彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：山田由香
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：伊丹あき
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長濱博史
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：桑畑絹子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：漆原友紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 蟲師シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+- !ruby/hash:TagHash
+  name: たなかかずや
+  type: other
+- !ruby/hash:TagHash
+  name: 脇威志
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 緑の座
+  description: 人里離れた山奥に住む、神の筆で描いたものをすべて具象化させてしまう能力を備えたそんな少年がいる。その少年の元に、蟲師・ギンコが訪れる。少年の家で会った少女はいったい何者なのか？<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>次話→so32835642
+  length_seconds: 1417
+  content_id: so32835602
+  default_thread_id: 1520213510
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835602
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 瞼の光
+  description: 瞼を閉じた時に見える、闇の中の光。そして、ふたつめの瞼を閉じた時、上の方から本当の闇が降りてくる。ふたつめの瞼に棲む蟲が光を奪うと、そこには本当の闇と光の河が流れる。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835602←前話｜次話→so32835683　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835642
+  default_thread_id: 1520214745
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835642
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 柔らかい角
+  description: 村人達が次々と失聴する。雪深き静かな山村。その静寂には、音を喰い尽くす蟲が関係していた・・・。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835642←前話｜次話→so32835704　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835683
+  default_thread_id: 1520214923
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835683
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 枕小路
+  description: 予知夢を見させる蟲にとりつかれた男。人生さえも翻弄されて疲れ果てた男に、さらに数奇な運命が待っていた。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835683←前話｜次話→so32835654　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835704
+  default_thread_id: 1520215617
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835704
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 旅をする沼
+  description: 山中を移動する「生き沼」と共に生きることを望んだ少女。ヒトではいられなくなると悟りつつ、少女は身を委ねた。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835704←前話｜次話→so32835653　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835654
+  default_thread_id: 1520214751
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835654
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 露を吸う群
+  description: 潮に阻まれた孤島で、死と再生を繰り返す少女。生神として崇められる少女がみていたものはー<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835654←前話｜次話→so32835652　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835653
+  default_thread_id: 1520214780
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835653
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 雨がくる虹がたつ
+  description: 雨後の空にかかる、妖しくも美しい光の束。それを追い続けることを己の人生とした、数奇な男がいた。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835653←前話｜次話→so32835651　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835652
+  default_thread_id: 1520214441
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835652
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 海境より
+  description: 海原で妖しきモノに妻を隠された男。断ち切れぬ想いから、男は浜で妻を待ち続ける。二年半の歳月を経てなお、再会を信じて―。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835652←前話｜次話→so32835650　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835651
+  default_thread_id: 1520214714
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835651
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 重い実
+  description: 天災のたび豊作となる村では、秋に誰かの口の中に「瑞歯」が生えてくる。その歯は秋の終わりに抜け落ちて、その人は死ぬ…。先祖の呪いと恐れられる現象には、かの地の祭主が封じた過去があった。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835651←前話｜次話→so32835649　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835650
+  default_thread_id: 1520214784
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835650
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 硯に棲む白
+  description: 磨った者が次々と奇病に冒される不吉な硯。蟲の化石から作られたという硯の謎を解くべく職工を訪ねたギンコは、さらに数奇な背景を知る。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835650←前話｜次話→so32835648　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835649
+  default_thread_id: 1520214710
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835649
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: やまねむる
+  description: 霊峰の山腹に開いた穴――。その奇妙な現象に足を山中へと踏み入れたギンコは、老いた蟲師と出会う。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835649←前話｜次話→so32835647　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835648
+  default_thread_id: 1520214782
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835648
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 眇の魚
+  description: 沼のほとりに棲む隻眼の少女と偶然に出会った少年。いつしか女を慕うようになった少年は、沼の魚もまた隻眼であることに気づく。この沼には何が―。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835648←前話｜次話→so32835646　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835647
+  default_thread_id: 1520214747
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835647
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 一夜橋
+  description: その深き谷へ落ちた者は、ヒトとは呼べぬモノになり戻ってくるという。“谷戻り”と呼ばれる伝承には、生物の体に宿る“蟲”が影響していた。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835647←前話｜次話→so32835645　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835646
+  default_thread_id: 1520214749
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835646
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 籠のなか
+  description: 己の意思で歩みつつも、何故か同じ地へと戻ってしまう男。その不思議な現象の陰には、男の妻―ヒトではないモノの姿が在った。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835646←前話｜次話→so32835603　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835645
+  default_thread_id: 1520214778
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835645
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 春と嘯く
+  description: 凍てつく雪山に芽吹いた緑。眩惑と恵みをもたらす "蟲" の生命活動に引き寄せられしヒトは、杭い難き眠りの淵へと誘われていく―。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835645←前話｜次話→so32835604　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835603
+  default_thread_id: 1520213531
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835603
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 暁の蛇
+  description: ギンコは旅の途中、徐々に物事を忘れ、眠らなくなったさよと、その息子カジに会う。さよは記憶を食べる "影魂" という蟲に寄生されていた。記憶を全て失くさないため、行方不明の夫を探す旅に出る母子だが、夫は別の村で新しい家族を作っていた。やがてさよの記憶はほとんどなくなってしまう。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835603←前話｜次話→so32835605　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835604
+  default_thread_id: 1520213540
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835604
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 虚繭取り
+  description: 現世には数知れぬ洞が―“虚穴”が開いている。足を踏み入れし者は回帰を願いつつも記憶を失くし、心を喪くし、彷徨うばかり―。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835604←前話｜次話→so32835606　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835605
+  default_thread_id: 1520213505
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835605
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 山抱く衣
+  description: 姿を消した天才絵師。彼が衣に描いた山の絵から、ゆらゆらと飯炊きの煙が上がる。それは、名声と引き換えに失った、故郷の面影だった。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835605←前話｜次話→so32835607　第一話→so32835602
+  length_seconds: 1415
+  content_id: so32835606
+  default_thread_id: 1520213545
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835606
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 天辺の糸
+  description: 空から下りてきた糸を掴むと、少女は宙へと舞い上がり空の高みで消えた。そして再び地上に現れた時、常人には姿の見えぬ、人から離れたモノとなっていた。少女に思いを寄せる男は、彼女を人の側に留めようとするが――<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835606←前話｜次話→so32835608　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835607
+  default_thread_id: 1520213542
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835607
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 筆の海
+  description: 細き身に禁種の蟲を封じた少女。己の生があるうちに蟲を眠らせるため――少女は紙を滲ませる。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835607←前話｜次話→so32835609　第一話→so32835602
+  length_seconds: 1418
+  content_id: so32835608
+  default_thread_id: 1520213523
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835608
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 綿胞子
+  description: 奇病に冒された子を、母は案ずる。たとえそれが、ヒトとはかけ離れた姿で生まれたモノであっても――。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835608←前話｜次話→so32835610　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835609
+  default_thread_id: 1520213512
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835609
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 沖つ宮
+  description: 失われし命を甦らせる、奇妙な慣わしを持つ島。かの地では、逝く者も残される者も再会を信じ、暗き海淵に身を委ねる。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835609←前話｜次話→so32835611　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835610
+  default_thread_id: 1520213181
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835610
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 錆の鳴く聲
+  description: 発する声がヒトすらをも錆びさせる――己に起因する奇怪な事象に、口を閉ざした少女。調査を始めた蟲師・ギンコは、そこに蟲の介在を見る。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835610←前話｜次話→so32835644　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835611
+  default_thread_id: 1520213491
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835611
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 篝野行
+  description: 山に火をつけろ。草の群れを焼き払え。災いの根を絶たねばならぬ。――野山を侵蝕した異形のモノを人々は憎み、畏れた。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835611←前話｜次話→so32835643　第一話→so32835602
+  length_seconds: 1415
+  content_id: so32835644
+  default_thread_id: 1520214709
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835644
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 眼福眼禍
+  description: 稀（まれ）なる花の力により、光を得た盲目の少女。その眼は誰よりも遠くを見渡す。視えるはずのない彼方まで――。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835644←前話｜次話→so32835712　第一話→so32835602
+  length_seconds: 1417
+  content_id: so32835643
+  default_thread_id: 1520214712
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835643
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 草を踏む音
+  description: 地から地へと流れ続ける者達が在った。彼らに道を告げるのは”光脈筋”――生命の素が流れる光の河。彼らは、ヒト知れぬモノを知っている。<br><br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加<br><br>原作:漆原友紀（講談社
+    アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇 威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会<br><br>so32835643←前話　第一話→so32835602
+  length_seconds: 1409
+  content_id: so32835712
+  default_thread_id: 1520215488
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835712
+cast: "[キャスト]<br>ギンコ:中野裕斗／化野:うえだゆうじ／声:土井美加"
+staff: "[スタッフ]<br>原作:漆原友紀（講談社 アフタヌーンKC刊）／監督:長濱博史／キャラクターデザイン・総作画監督:馬越嘉彦／脚本:伊丹あき／桑畑絹子／山田由香／音楽:増田俊郎／美術監督:脇
+  威志／音響監督:たなかかずや／アニメーション制作:アートランド／製作:『蟲師』製作委員会"
+produced_year: "[製作年]<br>2005年"
+copyright: "©漆原友紀/講談社・「蟲師」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

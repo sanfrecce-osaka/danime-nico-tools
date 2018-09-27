@@ -1,0 +1,106 @@
+--- !ruby/hash:SeasonHash
+title: OVA「スクールランブル一学期補習」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/06/8/11068_1_6.png?1427216400000
+outline: テレビシリーズのB面だったりそうでなかったり、テレビでは流せなかったあの話や、温泉のオリジナルエピソード、異色の番外編などてんこもり！　さあもう一度ぐるぐるまわっちゃおう！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小清水亜美
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水香里
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋広樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西大樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：高松信司
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺はじめ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大森俊之
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：小林尽
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：ときたひろこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：金﨑貴臣
+  type: staff
+- !ruby/hash:TagHash
+  name: スクールランブルシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 少年マガジン
+  type: other
+- !ruby/hash:TagHash
+  name: たなかかずや
+  type: other
+- !ruby/hash:TagHash
+  name: キングレコード
+  type: other
+- !ruby/hash:TagHash
+  name: 創通
+  type: other
+- !ruby/hash:TagHash
+  name: マーベラスエンターテイメント
+  type: other
+- !ruby/hash:TagHash
+  name: 野田康行
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "♭1"
+  title: "「また新学期でドキドキ！　そばにいたくてジタバタ！　ハダカの君にドキューン！」"
+  description: 茶道部夏合宿の帰り、天満たちは温泉に立ち寄った。皆、温泉でくつろいでいると…。<br><br>塚本天満:小清水亜美／烏丸大路:小西大樹／播磨拳児:高橋広樹／塚本八雲:能登麻美子／沢近愛理:堀江由衣／周防美琴:生天目仁美／高野　晶:清水香里　　　他<br><br>原作:小林尽（講談社「週刊少年マガジン」掲載）／監督:高松信司／シリーズ構成・脚本:ときたひろこ／キャラクターデザイン・総作画監督:渡辺はじめ／絵コンテ・演出:金﨑
+    貴臣／作画監督:野田康行／美術監督:秋葉みのる／色彩設計:酒井美晴／撮影監督:鎌田克明／音楽:大森俊之／音響監督:たなかかずや／製作:マーベラスエンターテイメント・キングレコード・創通<br><br>次話→so32808601
+  length_seconds: 1567
+  content_id: so32808602
+  default_thread_id: 1519795477
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808602
+- !ruby/hash:EpisodeHash
+  episode_no: "♭2"
+  title: "「スマイルください！　マンモスたべたい！　恋してもいいですか？」"
+  description: 時は一万年以上前、原始時代のこと…。土器はあったのか、石器はあったのかはっきりしない時代…。<br><br>塚本天満:小清水亜美／烏丸大路:小西大樹／播磨拳児:高橋広樹／塚本八雲:能登麻美子／沢近愛理:堀江由衣／周防美琴:生天目仁美／高野　晶:清水香里　　　他<br><br>原作:小林尽（講談社「週刊少年マガジン」掲載）／監督:高松信司／シリーズ構成・脚本:ときたひろこ／キャラクターデザイン・総作画監督:渡辺はじめ／絵コンテ・演出:金﨑
+    貴臣／作画監督:野田康行／美術監督:秋葉みのる／色彩設計:酒井美晴／撮影監督:鎌田克明／音楽:大森俊之／音響監督:たなかかずや／製作:マーベラスエンターテイメント・キングレコード・創通<br><br>so32808602←前話　第一話→so32808602
+  length_seconds: 1540
+  content_id: so32808601
+  default_thread_id: 1519795503
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808601
+cast: "[キャスト]<br>塚本天満:小清水亜美／烏丸大路:小西大樹／播磨拳児:高橋広樹／塚本八雲:能登麻美子／沢近愛理:堀江由衣／周防美琴:生天目仁美／高野　晶:清水香里　　　他"
+staff: "[スタッフ]<br>原作:小林尽（講談社「週刊少年マガジン」掲載）／監督:高松信司／シリーズ構成・脚本:ときたひろこ／キャラクターデザイン・総作画監督:渡辺はじめ／絵コンテ・演出:金﨑
+  貴臣／作画監督:野田康行／美術監督:秋葉みのる／色彩設計:酒井美晴／撮影監督:鎌田克明／音楽:大森俊之／音響監督:たなかかずや／製作:マーベラスエンターテイメント・キングレコード・創通"
+produced_year: "[製作年]<br>2005年"
+copyright: "(C) 小林尽／講談社・マーベラスエンターテイメント・キングレコード・創通"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: スクールランブル二学期
+- !ruby/hash:SeasonHash
+  title: スクールランブル

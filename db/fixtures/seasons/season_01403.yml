@@ -1,0 +1,97 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版“文学少女”
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/6/10096_1_6.png?1427216400000
+outline: 文芸部に所属する井上心葉の望みは、何事もない平和な毎日。“文学少女”を名乗る物語を食べる風変わりな先輩、天野遠子に振り回されながらも穏やかな毎日を過ごしていた。幼なじみの少女・美羽と偶然、再会するまでは・・・・・・。謎めいた美羽の言動に翻弄される心葉。彼女が投げかけた｢カムパネルラの望み｣とは何なのか?過去の闇にとらわれた少女。過去の闇に立ち向かおうとする少年。進むべき道に迷い、立ちすくみ傷つけあうふたりに、“文学少女”遠子が優しく温かく語り始める。二人を待つ｢本当の幸い｣とは何かを----。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 下田麻美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：山田由香
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：多田俊介
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松本圭太
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：伊藤真澄
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：野村美月
+  type: staff
+- !ruby/hash:TagHash
+  name: "“文学少女”シリーズ"
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: エンターブレイン
+  type: other
+- !ruby/hash:TagHash
+  name: ファミ通文庫
+  type: other
+- !ruby/hash:TagHash
+  name: "“文学少女”製作委員会"
+  type: other
+- !ruby/hash:TagHash
+  name: 竹岡美穂
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 劇場版“文学少女”
+  description: 文芸部に所属する井上心葉の望みは、何事もない平和な毎日“文学少女”を名乗る物語を食べる風変わりな先輩、天野遠子に振り回されながらも穏やかな毎日を過ごしていた。幼なじみの少女・美羽と偶然、再会するまでは・・・・・・。謎めいた美羽の言動に翻弄される心葉。彼女が投げかけた｢カムパネルラの望み｣とは何なのか?過去の闇にとらわれた少女。過去の闇に立ち向かおうとする少年。進むべき道に迷い、立ちすくみ傷つけあうふたりに“文学少女”遠子が優しく温かく語り始める。二人を待つ｢本当の幸い｣とは何かを----。<br><br>天野遠子:花澤香菜／井上心葉:入野自由／琴吹ななせ:水樹奈々／櫻井流人:宮野真守／芥川一詩:小野大輔／竹田千愛:豊崎愛生／森ちゃん:下田麻美／朝倉美羽:平野
+    綾<br><br>原作:野村美月『“文学少女”』シリーズ(ファミ通文庫；エンターブレイン刊)／キャラクター原案:竹岡美穂／監督:多田俊介／シリーズ構成・脚本:山田由香／キャラクターデザイン:松本圭太／音楽:伊藤真澄／アニメーション制作:Production
+    I.G／製作:“文学少女”製作委員会
+  length_seconds: 6054
+  content_id: so32011656
+  default_thread_id: 1506654813
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011656
+cast: "[キャスト]<br>天野遠子:花澤香菜／井上心葉:入野自由／琴吹ななせ:水樹奈々／櫻井流人:宮野真守／芥川一詩:小野大輔／竹田千愛:豊崎愛生／森ちゃん:下田麻美／朝倉美羽:平野
+  綾"
+staff: "[スタッフ]<br>原作:野村美月『“文学少女”』シリーズ(ファミ通文庫；エンターブレイン刊)／キャラクター原案:竹岡美穂／監督:多田俊介／シリーズ構成・脚本:山田由香／キャラクターデザイン:松本圭太／音楽:伊藤真澄／アニメーション制作:Production
+  I.G／製作:“文学少女”製作委員会"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C) 2010 Mizuki Nomura/PUBLISHED BY ENTERBRAIN, INC./“文学少女”製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "“文学少女”メモワールIII 恋する乙女の狂想曲(ラプソディ)-"
+- !ruby/hash:SeasonHash
+  title: "“文学少女”メモワールII ソラ舞う天使の鎮魂曲(レクイエム)-"
+- !ruby/hash:SeasonHash
+  title: "“文学少女” メモワールI 夢見る少女の前奏曲(プレリュード)-"

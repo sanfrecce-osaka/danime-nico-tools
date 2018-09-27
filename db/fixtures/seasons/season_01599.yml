@@ -1,0 +1,107 @@
+--- !ruby/hash:SeasonHash
+title: Fairy Princess Minky Momo 夢の中の輪舞
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/8/10428_1_6.png?1427216400000
+outline: 人間に夢見る心を取り戻させるため、人間界にやって来た夢の国フェナリナーサの王女モモ。ある日、彼女の両親が乗った飛行機が行方不明になった。飛行機が不時着した島には“謎の超エネルギー”が発生していて、それを狙う世界中のスパイが続々と集合してくる。その島には大変な秘密があった。ひとたび足を踏み入れた大人は、皆、子供になってしまうのだ!
+  モモは両親を救うため、島に向かうが……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山茉美
+  type: cast
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 納谷六朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 三田ゆう子
+  type: cast
+- !ruby/hash:TagHash
+  name: 難波圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 増岡弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 峰あつ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 塚田恵美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村正
+  type: cast
+- !ruby/hash:TagHash
+  name: 星野桜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：湯山邦彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：芦田豊雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺敬之
+  type: staff
+- !ruby/hash:TagHash
+  name: 魔法のプリンセスミンキーモモシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 関一彦
+  type: other
+- !ruby/hash:TagHash
+  name: 新井寅雄
+  type: other
+- !ruby/hash:TagHash
+  name: 大野実
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1985年
+  type: other
+- !ruby/hash:TagHash
+  name: 首藤剛志
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: OVA
+  title: Fairy Princess Minky Momo 夢の中の輪舞
+  description: ミンキーモモ:小山茉美／パパ:納谷六朗／ママ:土井美加／王様:増岡弘／王妃様:塚田恵美子／シンドブック:田ノ中勇／モチャー:星野桜子／ピピル:三田ゆう子／ボーマン船長:飯塚昭三／司会者:千葉繁／ガナール:峰あつ子／ギブミー:鈴置洋考／ペーター:難波圭一／ナレーター:中村正<br><br>製作:佐藤俊彦／企画:葦プロダクション／構成:首藤剛志／監督:湯山邦彦／キャラクターデザイン:芦田豊雄／メカニックデザイン:さとうともひこ／作画監督:渡辺ひろし／美術監督:新井寅雄／色彩設定:千葉賢二／音響監督:藤山房延／撮影監督:鳥越一志／編集:正木直幸,関一彦／音楽:渡辺敬之／ゼネラルプロデューサー:内間稔／プロデューサー:大野実,加藤博
+  length_seconds: 5218
+  content_id: so32202397
+  default_thread_id: 1509606135
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202397
+cast: "[キャスト]<br>ミンキーモモ:小山茉美／パパ:納谷六朗／ママ:土井美加／王様:増岡弘／王妃様:塚田恵美子／シンドブック:田ノ中勇／モチャー:星野桜子／ピピル:三田ゆう子／ボーマン船長:飯塚昭三／司会者:千葉繁／ガナール:峰あつ子／ギブミー:鈴置洋考／ペーター:難波圭一／ナレーター:中村正"
+staff: "[スタッフ]<br>製作:佐藤俊彦／企画:葦プロダクション／構成:首藤剛志／監督:湯山邦彦／キャラクターデザイン:芦田豊雄／メカニックデザイン:さとうともひこ／作画監督:渡辺ひろし／美術監督:新井寅雄／色彩設定:千葉賢二／音響監督:藤山房延／撮影監督:鳥越一志／編集:正木直幸,関一彦／音楽:渡辺敬之／ゼネラルプロデューサー:内間稔／プロデューサー:大野実,加藤博"
+produced_year: "[製作年]<br>1985年"
+copyright: "(C)PRODUCTION REED 1985"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ
+- !ruby/hash:SeasonHash
+  title: ミンキーモモ SONG スペシャル 瞳の星座
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ ‐夢を抱きしめて‐
+- !ruby/hash:SeasonHash
+  title: MINKY MOMO in 夢にかける橋
+- !ruby/hash:SeasonHash
+  title: MINKY MOMO in 旅立ちの駅

@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: ゆるめいつ 3でぃ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/9/10629_1_6.png?1427216400000
+outline: 大学受験のために上京してきた浪人生・相田ゆるめ。ゆるめの下宿先は、ベテラン浪人生しか住んでいないアパートだった。しかも、そのアパートからは合格者が出たことがないという。ゆるめにどんな生活が待ち受けているのか!??疲れた現代人に贈る、ゆるく生きることに勇気をくれる衝撃のギャグアニメ!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 桃井はるこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：片山修志
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：C2C
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：saxyun
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：月見里智弘
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小田武士
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：夕澄慶英
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：夕澄慶英
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：夕澄慶英
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆるめいつ シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+- !ruby/hash:TagHash
+  name: まんがくらぶ
+  type: other
+- !ruby/hash:TagHash
+  name: 山田稔
+  type: other
+- !ruby/hash:TagHash
+  name: indigo line
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1話-7話
+  title: ゆるめ上京する/イメージ・チキンレース/本当のウソ/フィーチャリング松吉/雨天決行七夕大会/スイカ割れ/アイス危機一髪
+  description: ゆるめが東京に期待して上京したところ、そこはイメージと違う東京だった。/春なので、イメチェンしよう。その思い付きがなんだかおかしな方向に…/年に一度の嘘をついても許される日、エイプリルフール。どこから嘘で、どこからホント?/メソンドウィッシュの黒一点・松吉(本名不明)。その生態に迫ったり迫らなかったり…?/短冊に願い事を書いて星に祈る、七夕。浪人生たちの願い事はもちろん…もちろん?/4人が全力でヤツに挑む!海に行かないけどやっちゃいます、スイカ割り。/おいしいアイス、みんな大好きアイス。最後の一つになったらさぁどうする?<br><br>相田ゆるめ役:桃井はるこ／川野サエ役:桑谷夏子／田中くみ役:松来未祐／松吉役:日野聡<br><br>原作:saxyun｢ゆるめいつ｣竹書房刊(まんがくらぶ連載)／総監督:月見里智弘／監督・脚本・演出:夕澄慶英／キャラクターデザイン・作画監督:小田武士／音響監督:山田
+    稔／音楽:片山修志 主題歌：『とびだせ!3D』 作詞&amp;作曲：桃井はるこ 編曲：Haraddy／主題歌制作:ドワンゴ・ミュージックエンタテインメント､ライト・ゲージ／制作プロダクション:Indigo
+    line／アニメーション制作:C2C／音響制作:ダックスプロダクション／製作著作:竹書房<br><br>次話→so31880332
+  length_seconds: 1267
+  content_id: so31880322
+  default_thread_id: 1504728633
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880322
+- !ruby/hash:EpisodeHash
+  episode_no: 8話-13話
+  title: 二択気象庁/天板パズル/年末年始の過ごし方/開かずの扉/つもり花見/パターン妹
+  description: 暑いようで暑くない、実は寒い?メゾンドウィッシュ、季節の変わり目なう。/冬の極楽、一度入ると抜け出せない…それがコタツです。/きたる新年に向けて、準備をしましょう。充実した年末を過ごす4人です。/あけましておめでとうございます。年が明けて、4人の何かが変わる…の?/桜満開春らんまん。天気もよくて絶好のお花見日和。で、どうする?/ゆるすぎる毎日に、新しい風が吹く?メゾンドウィシュに妹がやってきます。<br><br>相田ゆるめ役:桃井はるこ／川野サエ役:桑谷夏子／田中くみ役:松来未祐／松吉役:日野聡<br><br>原作:saxyun｢ゆるめいつ｣竹書房刊(まんがくらぶ連載)／総監督:月見里智弘／監督・脚本・演出:夕澄慶英／キャラクターデザイン・作画監督:小田武士／音響監督:山田
+    稔／音楽:片山修志 主題歌：『とびだせ!3D』 作詞&amp;作曲：桃井はるこ 編曲：Haraddy／主題歌制作:ドワンゴ・ミュージックエンタテインメント､ライト・ゲージ／制作プロダクション:Indigo
+    line／アニメーション制作:C2C／音響制作:ダックスプロダクション／製作著作:竹書房<br><br>so31880322←前話　第一話→so31880322
+  length_seconds: 1086
+  content_id: so31880332
+  default_thread_id: 1504728858
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880332
+cast: "[キャスト]<br>相田ゆるめ役:桃井はるこ／川野サエ役:桑谷夏子／田中くみ役:松来未祐／松吉役:日野聡"
+staff: "[スタッフ]<br>原作:saxyun｢ゆるめいつ｣竹書房刊(まんがくらぶ連載)／総監督:月見里智弘／監督・脚本・演出:夕澄慶英／キャラクターデザイン・作画監督:小田武士／音響監督:山田
+  稔／音楽:片山修志 主題歌：『とびだせ!3D』 作詞&作曲：桃井はるこ 編曲：Haraddy／主題歌制作:ドワンゴ・ミュージックエンタテインメント､ライト・ゲージ／制作プロダクション:Indigo
+  line／アニメーション制作:C2C／音響制作:ダックスプロダクション／製作著作:竹書房"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)2012saxyun/竹書房"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ は？
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ
+- !ruby/hash:SeasonHash
+  title: ＴＶアニメ版 ゆるめいつ ３でぃ PLUS

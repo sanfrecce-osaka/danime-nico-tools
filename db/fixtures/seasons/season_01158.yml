@@ -1,0 +1,85 @@
+--- !ruby/hash:SeasonHash
+title: 這いよる!ニャルアニ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/50/0/10500_1_6.png?1427216400000
+outline: "「這いよれ！ニャル子さん」のアニメ化第１作。クトゥルー神話に登場する無貌の神の名を持つニャルラトホテプ星人のニャル子が、八坂真尋の元に突然やってきた。真尋に一目惚れした彼女は何かと理由をつけ、あろうことか八坂家に居座ってしまう。そして真尋は宇宙規模なのにしょうもない事件に毎度巻き込まれる羽目に…。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：DLE
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：タバック
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：逢空万太
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：谷東
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：逢空万太
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオごんぐ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：ソフトバンク クリエイティブ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: はたしょう二
+  type: other
+- !ruby/hash:TagHash
+  name: GA文庫
+  type: other
+- !ruby/hash:TagHash
+  name: サウンドチーム・ドンファン
+  type: other
+- !ruby/hash:TagHash
+  name: ソフトバンク クリエイティブ
+  type: other
+- !ruby/hash:TagHash
+  name: 狐印
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第9話
+  title: 這いよる!ニャルアニ
+  description: "「這いよれ！ニャル子さん」のアニメ化第１作。クトゥルー神話に登場する無貌の神の名を持つニャルラトホテプ星人のニャル子が、八坂真尋の元に突然やってきた。真尋に一目惚れした彼女は何かと理由をつけ、あろうことか八坂家に居座ってしまう。そして真尋は宇宙規模なのにしょうもない事件に毎度巻き込まれる羽目に…。<br><br>ニャル子:阿澄
+    佳奈／真尋:喜多村 英梨／クー子:松来 未祐<br><br>原作・脚本:逢空 万太(｢這いよれ!ニャル子さん｣ソフトバンク クリエイティブ／GA文庫 刊)／キャラクター原案:狐印／企画:ソフトバンク
+    クリエイティブ,DLE／Flashアニメーション:鈴木 隆輔／音響監督:はた しょう二(サウンドチーム・ドンファン)／スタジオ:スタジオごんぐ,タバック／エンディングテーマ:｢好き、好き、大好き｡｣歌：阿澄
+    佳奈 作詞／作曲：すどう ゆうき／監督:谷 東／アニメーション制作:DLE／製作:ソフトバンク クリエイティブ"
+  length_seconds: 1115
+  content_id: so31875670
+  default_thread_id: 1504692265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875670
+cast: "[キャスト]<br>ニャル子:阿澄 佳奈／真尋:喜多村 英梨／クー子:松来 未祐"
+staff: "[スタッフ]<br>原作・脚本:逢空 万太(｢這いよれ!ニャル子さん｣ソフトバンク クリエイティブ／GA文庫 刊)／キャラクター原案:狐印／企画:ソフトバンク
+  クリエイティブ,DLE／Flashアニメーション:鈴木 隆輔／音響監督:はた しょう二(サウンドチーム・ドンファン)／スタジオ:スタジオごんぐ,タバック／エンディングテーマ:｢好き、好き、大好き｡｣歌：阿澄
+  佳奈 作詞／作曲：すどう ゆうき／監督:谷 東／アニメーション制作:DLE／製作:ソフトバンク クリエイティブ"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C)逢空万太・ソフトバンク クリエイティブ/地球ルルイエランドプロジェクト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 這いよれ！ ニャル子さんF
+- !ruby/hash:SeasonHash
+  title: 這いよれ！ニャル子さんＷ
+- !ruby/hash:SeasonHash
+  title: 這いよれ！ニャル子さん
+- !ruby/hash:SeasonHash
+  title: 這いよる!ニャルアニ リメンバー・マイ・ラブ(クラフト先生)

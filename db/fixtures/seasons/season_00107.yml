@@ -1,0 +1,56 @@
+--- !ruby/hash:SeasonHash
+title: いっぽう日本昔ばなし
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/02/3/21023_1_6.png?1468220412000
+outline: むかしむかしの日本のお話。桃太郎は鬼退治へ行き、ウサギはタヌキに敵討ち、華やかな英雄譚から涙止まらぬ悲劇まで、その物語は現代まで語り継がれ愛されています。これは、そんな物語のいっぽうで繰り広げられた、地味で醜悪でどうでもいい物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：谷口崇
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ep01～ep03
+  title: 桃太郎／浦島太郎／かぐや姫
+  description: ep01：桃から生まれた桃太郎は、犬、サル、キジをお伴に従え、鬼退治に向かいました。いっぽうその頃、家に残されたおじいさんとおばあさんは…／ep02：地上に戻り玉手箱を開けた浦島太郎は、煙を浴びて、おじいさんになってしまいました。いっぽうその頃、浦島太郎に助けられた亀は…／ep03：かぐや姫が、天の羽衣をまとい月へと帰っていくのを、おじいさんとおばあさんは、いつまでも見送っていました。いっぽうその頃、かぐや姫に求婚していた貴公子たちは…<br><br>監督:谷口崇／原作:谷口崇<br><br>次話→so32024696
+  length_seconds: 543
+  content_id: so32024695
+  default_thread_id: 1506820066
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32024695
+- !ruby/hash:EpisodeHash
+  episode_no: ep04～ep06
+  title: 耳なし芳一／わらしべ長者／鶴の恩返し
+  description: ep04：魔除けのお経を耳だけ書き忘れられた芳一は、平家の怨霊から、耳を引きちぎられてしまいました。いっぽうその頃、芳一の体にお経を書いた和尚さんは…／ep05：男は、藁しべからミカン、反物、馬、ついには屋敷と交換し、裕福な暮らしを手に入れました。いっぽうその頃、屋敷を馬と交換した長者は…／ep06：おじいさんに姿を見られてしまったツウは、鶴の姿に戻り、おじいさんの元から飛び去ってしまいました。いっぽうその頃、反物が出来るのを楽しみにしているおばあさんは…<br><br>監督:谷口崇／原作:谷口崇<br><br>so32024695←前話｜次話→so32024697　第一話→so32024695
+  length_seconds: 615
+  content_id: so32024696
+  default_thread_id: 1506820043
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32024696
+- !ruby/hash:EpisodeHash
+  episode_no: ep07～ep09
+  title: カチカチ山／さるかに合戦／おむすびころりん
+  description: ep07：おばあさんの仇を取るため、ウサギさんは、タヌキさんの薪に火を放ちました。いっぽうその頃、ウサギさんの帰りを待っているおじいさんは…／ep08：カニさんの敵討ちのため、蜂、栗、牛の糞、臼は、力を合わせてサルをこらしめる作戦会議を開きました。いっぽうその頃、その様子を遠くから見ていた牛は…／ep09：おじいさんは、おむすびのお礼として小さいほうのつづらをもらい、ねずみたちに見送られて家へ帰りました。いっぽうその頃、穴に戻ったねずみの青年は…<br><br>監督:谷口崇／原作:谷口崇<br><br>so32024696←前話｜次話→so32024698　第一話→so32024695
+  length_seconds: 576
+  content_id: so32024697
+  default_thread_id: 1506820072
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32024697
+- !ruby/hash:EpisodeHash
+  episode_no: ep10～ep12
+  title: 笠地蔵／金太郎／一寸法師
+  description: ep10：おじいさんとおばあさんは、お地蔵様から笠のお礼にもらった贈り物で、無事、新年を迎えることができました。いっぽうその頃、お地蔵様が元々いた場所に戻ってくると…／ep11：金太郎は、力自慢の大きな熊と相撲をとりました。いっぽうその頃、それを見ていた動物たちは…／ep12：お腹の中を針で刺して鬼を倒した一寸法師は、鬼が落とした打出の小槌で大きくなり、長者の娘と結婚しました。いっぽうその頃、一寸法師にお腹の中を刺された鬼は…<br><br>監督:谷口崇／原作:谷口崇<br><br>so32024697←前話　第一話→so32024695
+  length_seconds: 511
+  content_id: so32024698
+  default_thread_id: 1506820032
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32024698
+staff: "[スタッフ]<br>監督:谷口崇／原作:谷口崇"
+produced_year: "[製作年]<br>2016年"
+copyright: "©谷口 崇/エイベックス・ピクチャーズ"
+related_seasons: !ruby/array:Hashie::Array []

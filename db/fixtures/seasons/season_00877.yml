@@ -1,0 +1,188 @@
+--- !ruby/hash:SeasonHash
+title: Dance with Devils
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/36/6/20366_1_6.png?1444290900000
+outline: どこか懐かしい姿をした街・四皇町。そこに暮らす立華リツカは、四皇學園に通う高校二年生の少女。イギリスに留学中の兄・リンドからの、時々の連絡を楽しみにしつつ、母とふたりの穏やかな日常を送っていた。ある日彼女は、學園の生徒の憧れである、生徒会長・鉤貫レムからの呼び出しを受け、生徒会の面々の集まる『第三図書館』で、彼らと不思議な出会いを果たす。アクマ、ヴァンパイア、エクソシスト。『禁断のグリモワール』を巡り、あらゆる思惑が彼女を中心に動き始める――。ヒトか、アクマか？これは、魔に魅入られ、魔に愛されたひとりの少女の物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤隆
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村昴
+  type: cast
+- !ruby/hash:TagHash
+  name: 茜屋日海夏
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ブレインズ・ベース
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Elements Garden
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高品有桂
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：グリモワール編纂室
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉村愛
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一幕
+  title: 倒錯と禁断のカドリール
+  description: 平凡な高校生・立華リツカは、穏やかな學園生活を送っていた。ある日、生徒会長から第三図書室へ呼び出されたリツカは、そこでレム、ウリエ、メィジ、シキと出会う。怪しげな雰囲気の生徒会メンバーから身に覚えのない校則違反を責められ憤るリツカ。その時リツカのペンダントが突然発光し、それを見た4人は驚き怯む。その日リツカが帰宅すると、家は荒らされ母・マリアが見知らぬ男たちにとらえられているのだった……。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>次話→so31961141
+  length_seconds: 1420
+  content_id: so31961140
+  default_thread_id: 1505902358
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961140
+- !ruby/hash:EpisodeHash
+  episode_no: 第二幕
+  title: 迷いと秘密のジルバ
+  description: 謎の男達に襲われているところをレムに救われたリツカは、翌朝レムと一緒に登校し學園じゅうの注目を集める。その日の昼休み、再び生徒会長・レムからの呼び出しを受け第三図書館を訪れたリツカは、レムから、母・マリアの手掛かりが長野にあると聞かされる。長野にはリツカの祖父の家があることを聞き、レムとリツカはそこへと向かうのだが……。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961140←前話｜次話→so31961422　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961141
+  default_thread_id: 1505902168
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961141
+- !ruby/hash:EpisodeHash
+  episode_no: 第三幕
+  title: 情熱と誘惑のタンゴ
+  description: イギリスより帰国した兄・リンド。約1年ぶりの再会ではあるが、昔のまま優しいリンドの様子に一瞬でも日常を取り戻したかと思われたリツカ。だが、リンドはリツカに「レムには近付くな」と命じ、學園に行くことも禁じてしまう。そんなリツカの元に、突如生徒会副会長のウリエがやってくる。ウリエは、レムが母・マリアのことでわかったことがあるらしいと言うが……。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961141←前話｜次話→so31961424　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961422
+  default_thread_id: 1505905177
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961422
+- !ruby/hash:EpisodeHash
+  episode_no: 第四幕
+  title: 孤独と哀愁のボレロ
+  description: 幼い頃からリツカを護ってきたリンド。リツカを護る為エクソシストとなったリンドは、リツカを護る為ならば手段は選ばないことを密かに心に決めている。リンドはリツカに、祖父の研究が魔を呼び寄せたこと、そしてレム、ウリエ、メィジ、シキの正体がアクマであることを告げる。信じたくないリツカは自身で確かめる為、家を抜け出し、學園にいるレムを訪ねるのだった。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961422←前話｜次話→so31961425　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961424
+  default_thread_id: 1505905200
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961424
+- !ruby/hash:EpisodeHash
+  episode_no: 第五幕
+  title: 独尊と衝迫のブレーキン(breakin’)
+  description: リツカを護る為、四皇學園に転入したリンドはたちまち人気者に。しかし、リツカは授業中突如メィジに連れさられてしまう。メィジが本物のアクマと知り怯えるリツカに、メィジは禁断のグリモワールの在処を問いただすが、リツカからは中々答えが得られない。メィジはリツカを自分のモノにする為、自身の力を見せつけ、リツカを惚れさせようとするのだが……。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961424←前話｜次話→so31961426　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961425
+  default_thread_id: 1505905181
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961425
+- !ruby/hash:EpisodeHash
+  episode_no: 第六幕
+  title: 追想と迷宮のファランドール
+  description: 禁断のグリモワールの手掛かりを掴めず苛立つ生徒会のアクマたち。レムたちから1人疎外され、学園の中庭で手が傷だらけになることもお構いなしに、バラの花を引きちぎるシキを見かけたリツカは、シキの怪我を心配する。そんなリツカを行方不明の母・マリアの元へ案内するというシキの言葉に、半信半疑ながら、リツカとアズナは學園近くの美術館へと向かうのだった。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961425←前話｜次話→so31961427　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961426
+  default_thread_id: 1505905365
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961426
+- !ruby/hash:EpisodeHash
+  episode_no: 第七幕
+  title: 幻想と純真のパ・ド・ドゥ
+  description: 一向に禁断のグリモワールを持ち帰らない息子に苛立つレムの父親。そんなレムを横目に、ウリエ、メィジ、シキはチャンスとばかりに、それぞれが勝手に、リツカを手に入れようと動く。一方、學園祭の準備の為、リツカとアズナはホームセンターへと買い出しに来た。アズナに一人で行動しないと約束をするリツカだが、レムの家にいたローエンを見かけ1人追いかけていってしまう。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961426←前話｜次話→so31961428　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961427
+  default_thread_id: 1505905344
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961427
+- !ruby/hash:EpisodeHash
+  episode_no: 第八幕
+  title: 仮初のワルツ
+  description: いよいよ迎える四皇學園の學園祭当日。リンドとアズナに護られながらも、初めての學園祭に心踊るリツカ。學園では、名物である夜のダンスパーティーで、誰と踊るかの話題で、持ちきりだった。リツカは、ウリエ、メィジ、シキから、パートナーにならないかと誘いを受ける。そんな中、リツカは彼らから、レムがウィーンで禁断のグリモワールを見つけたと言う話を耳にする。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961427←前話｜次話→so31961429　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961428
+  default_thread_id: 1505905179
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961428
+- !ruby/hash:EpisodeHash
+  episode_no: 第九幕
+  title: 秘め事と裏腹のウォークライ
+  description: 目の前でアズナを失い、リツカの感情が強く揺れ、聖なるルクスの指輪で隠していたリツカに眠るグリモワールの匂いが、リツカからあふれ出してしまう。そう、リツカ自身が禁断のグリモワールだったのだ。リツカは、リンドに連れられエクソシスト協会に保護される。ずっと側にいると約束するリンドだが、未だリツカに話せない秘密があった。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961428←前話｜次話→so31961646　第一話→so31961140
+  length_seconds: 1419
+  content_id: so31961429
+  default_thread_id: 1505904968
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961429
+- !ruby/hash:EpisodeHash
+  episode_no: 第十幕
+  title: 欲望と偽りのタランテラ
+  description: レムとの戦闘で酷く傷ついたリンドの治療のため、學園の保健室へやってきたリツカ。看病をする中で、幼いころから、リンドがいつも自分を守っていてくれたことを思い出す。一方、リツカを欲しいというウリエ、メィジ、シキに対し、いつまでも自分の気持ちに素直になれないレム。そんな中、リツカの元に母・マリアを守っていると言うヴァンパイアが現れる。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961429←前話｜次話→so31961700　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961646
+  default_thread_id: 1505907505
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961646
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一幕
+  title: 漆黒と紅蓮のサンバ
+  description: ジェキに連れられ、ヴァンパイアの王・ネスタの元へやってきたリツカ。そこでリツカは、兄・リンドの秘密を知ることとなる。ネスタは、禁断のグリモワールの力を取り出すためには、615年に一度の満月の夜、リツカが17歳の誕生日を迎える瞬間にリツカの血を手に入れる必要があるという。アズナの想いを胸にリツカは一人グリモワールを取り出す儀式へと臨む。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961646←前話｜次話→so31961701　第一話→so31961140
+  length_seconds: 1420
+  content_id: so31961700
+  default_thread_id: 1505908555
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961700
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二幕
+  title: 終わりと始まりのオーパンバル
+  description: リツカを護るために、ネスタの城にやってきたレム、リンド、ウリエ、メィジ、シキ、ローエン。満月を迎え、リツカがネスタに襲われる寸前、彼らはリツカを奪い返す。ヴァンパイアたちを次々に葬り去り、ついには、ネスタの腹心の部下であるジェキをも退ける。しかしネスタは、リンドに自分が実の父親であることを告げ、家族3人で暮らそうと語りかける…。<br><br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野
+    渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔<br><br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+    Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会<br><br>so31961700←前話　第一話→so31961140
+  length_seconds: 1405
+  content_id: so31961701
+  default_thread_id: 1505908553
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31961701
+cast: "[キャスト]<br>立華リツカ:茜屋日海夏／鉤貫レム:斉藤壮馬／立華リンド:羽多野 渉／楚神ウリエ:近藤 隆／南那城メィジ:木村 昴／棗坂シキ:平川大輔"
+staff: "[スタッフ]<br>原案:岩崎大介（Rejet）／原作:グリモワール編纂室／監督:吉村 愛／シリーズ構成:金春智子／キャラクター原案:前田浩孝（Rejet）／キャラクターデザイン:高品有桂／音楽プロデューサー:藤田淳平／音楽:Elements
+  Garden／音楽制作:DIVEIIentertainment／アニメーション制作:ブレインズ・ベース／製作:Dance with Devils製作委員会"
+produced_year: "[製作年]<br>2015年"
+copyright: "©グリモワール編纂室／Dance with Devils製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ミュージカル「Dance with Devils～Fermata（フェルマータ）～」
+- !ruby/hash:SeasonHash
+  title: 劇場版「Dance with Devils-Fortuna-」

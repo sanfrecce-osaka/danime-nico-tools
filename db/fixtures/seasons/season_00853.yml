@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: たまゆら～卒業写真～第4部　朝－あした－
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/06/1/21061_1_6.png?1470110447000
+outline: 沢渡楓は少し内気で写真が大好きな女の子。父親の遺したカメラで楓が撮る写真は、見る人を幸せな気持ちにして、心と心をつないでいきます。高校入学を機に、瀬戸内海にある父親との思い出の町・竹原へと引っ越してきた楓は、幼なじみの塙かおると再会。岡崎のりえ、桜田麻音という新しい親友もできました。4人は高校1年、2年と一緒の時間を過ごしながら、さまざまな経験や出会いを重ねて、それぞれに一歩一歩、成長してきたのでした。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 儀武ゆう子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：佐藤順一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：吉田玲子
+  type: staff
+- !ruby/hash:TagHash
+  name: たまゆらシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: たまゆら～卒業写真～第4部　朝－あした－
+  description: 瀬戸内の町・竹原で、あたたかな人たちに見守られながら成長していく少女たちの姿を描いてきたオリジナルアニメ『たまゆら』。本作は、沢渡楓と親友たちが過ごす高校3年生の1年間を全4部作で描いてきた完結編『たまゆら～卒業写真～』の最終章。高校を卒業して別々の学校に通うことになっても、大好きな町・竹原で、大切な友達と過ごす時間は変わらないと思っていた楓。しかし、かおるに言われた言葉で、自分の本当の思いに気づき……。4人での新たな想い出も積み重ねながら、卒業のときが近づいてくる。<br><br>沢渡楓:竹達彩奈／塙かおる:阿澄佳奈／岡崎のりえ:井口裕香／桜田麻音:儀武ゆう子／進藤巧美:内田彩<br><br>監督:佐藤順一／脚本:吉田玲子<br><br>次話→so31982683
+  length_seconds: 1742
+  content_id: so31982682
+  default_thread_id: 1506216049
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982682
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: たまゆら～卒業写真～第4部　朝－あした－
+  description: 瀬戸内の町・竹原で、あたたかな人たちに見守られながら成長していく少女たちの姿を描いてきたオリジナルアニメ『たまゆら』。本作は、沢渡楓と親友たちが過ごす高校3年生の1年間を全4部作で描いてきた完結編『たまゆら～卒業写真～』の最終章。高校を卒業して別々の学校に通うことになっても、大好きな町・竹原で、大切な友達と過ごす時間は変わらないと思っていた楓。しかし、かおるに言われた言葉で、自分の本当の思いに気づき……。4人での新たな想い出も積み重ねながら、卒業のときが近づいてくる。<br><br>沢渡楓:竹達彩奈／塙かおる:阿澄佳奈／岡崎のりえ:井口裕香／桜田麻音:儀武ゆう子／進藤巧美:内田彩<br><br>監督:佐藤順一／脚本:吉田玲子<br><br>so31982682←前話　第一話→so31982682
+  length_seconds: 1707
+  content_id: so31982683
+  default_thread_id: 1506216047
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982683
+cast: "[キャスト]<br>沢渡楓:竹達彩奈／塙かおる:阿澄佳奈／岡崎のりえ:井口裕香／桜田麻音:儀武ゆう子／進藤巧美:内田彩"
+staff: "[スタッフ]<br>監督:佐藤順一／脚本:吉田玲子"
+produced_year: "[製作年]<br>2016年"
+copyright: "©2015佐藤順一・ＴＹＡ／たまゆら～卒業写真～製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: たまゆら
+- !ruby/hash:SeasonHash
+  title: たまゆら ～hitotose～
+- !ruby/hash:SeasonHash
+  title: たまゆら ～もあぐれっしぶ～
+- !ruby/hash:SeasonHash
+  title: たまゆら～卒業写真～第1部　芽－きざし－
+- !ruby/hash:SeasonHash
+  title: たまゆら～卒業写真～第2部　響－ひびき－
+- !ruby/hash:SeasonHash
+  title: たまゆら～卒業写真～第3部　憧－あこがれ－

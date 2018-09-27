@@ -1,0 +1,61 @@
+--- !ruby/hash:SeasonHash
+title: けものとチャット
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/08/1/20081_1_6.png?1427216400000
+outline: 主人公である女子高生・毛野本茶々（けのもとちゃちゃ）はネコとしゃべれる。そんなネコ好きにはうらやましい能力を持っているのだが、ネコのナマナマしいリアルな会話内容から、茶々はその能力を面倒くさいと思う。そんな茶々を囲む、猫好きの親友・東深冬（あずまみと）ちゃんと、猫マニアだけれども生徒会長という立場から、猫好きを公言できない、会長（かいちょう）、そして、個性溢れる“キモカワ”ネコたちが織り成す、小生意気なネコたちの気まぐれたっぷりの学園物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 植田佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢作紗友里
+  type: cast
+- !ruby/hash:TagHash
+  name: ゴチさん
+  type: cast
+- !ruby/hash:TagHash
+  name: みずしな孝之
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤志郎一座
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：うもとゆーじ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：みずしな孝之
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：竹書房
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#10"
+  title: ''
+  description: 主人公である女子高生・毛野本茶々（けのもとちゃちゃ）はネコとしゃべれる。そんなネコ好きにはうらやましい能力を持っているのだが、ネコのナマナマしいリアルな会話内容から、茶々はその能力を面倒くさいと思う。そんな茶々を囲む、猫好きの親友・東深冬（あずまみと）ちゃんと、猫マニアだけれども生徒会長という立場から、猫好きを公言できない、会長（かいちょう）、そして、個性溢れる“キモカワ”ネコたちが織り成す、小生意気なネコたちの気まぐれたっぷりの学園物語。<br><br>茶々役:坂本真綾（『エヴァンゲリオン
+    破』真希波・マリ・イラストリアス 役）／会長 役:植田佳奈（『咲-Saki-』宮永咲 役）／深冬 役:矢作紗友里（しゅごキャラ！『真城りま』）／その他:ゴチさん、フジイ（みずしな孝之
+    著作｢いい電子｣登場人物）、うわの空・藤志郎一座、劇団員（みずしな孝之所属の劇団 ）<br><br>原作:みずしな孝之（「まんがくらぶオリジナル」連載/竹書房刊）／監督:うもとゆーじ（「リトル・チャロ」）／主題歌:ネコクジョー／制作プロダクション:indeprox／制作・著作:竹書房／製作:伊藤明博／企画:松本卓也、坂本享哉／プロデューサー:服部健太郎、木村淳／企画協力:関口華子／パッケージデザイン:大木和徳（ボラーレ）
+  length_seconds: 1703
+  content_id: so31946135
+  default_thread_id: 1505673515
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946135
+cast: "[キャスト]<br>茶々役:坂本真綾（『エヴァンゲリオン 破』真希波・マリ・イラストリアス 役）／会長 役:植田佳奈（『咲-Saki-』宮永咲 役）／深冬
+  役:矢作紗友里（しゅごキャラ！『真城りま』）／その他:ゴチさん、フジイ（みずしな孝之 著作｢いい電子｣登場人物）、うわの空・藤志郎一座、劇団員（みずしな孝之所属の劇団
+  ）"
+staff: "[スタッフ]<br>原作:みずしな孝之（「まんがくらぶオリジナル」連載/竹書房刊）／監督:うもとゆーじ（「リトル・チャロ」）／主題歌:ネコクジョー／制作プロダクション:indeprox／制作・著作:竹書房／製作:伊藤明博／企画:松本卓也、坂本享哉／プロデューサー:服部健太郎、木村淳／企画協力:関口華子／パッケージデザイン:大木和徳（ボラーレ）"
+produced_year: "[製作年]<br>2009年"
+copyright: "（C）2009みずしな孝之／竹書房"
+related_seasons: !ruby/array:Hashie::Array []

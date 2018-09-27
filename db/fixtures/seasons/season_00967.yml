@@ -1,0 +1,96 @@
+--- !ruby/hash:SeasonHash
+title: デジモンテイマーズ 冒険者たちの戦い
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/62/4/20624_1_6.png?1454662053000
+outline: 夏休みに沖縄の従兄弟の家に遊びに行ったタカト。最初は乗り気じゃなかったが、豊かな自然に触れるうちに、次第に打ち解けていく。しかし、そんな平和な夏休みに不気味な影が…。東京のルキの前に凶悪デジモンたちが現れ、沖縄にもサメ型デジモンが出現する。そのサメ型デジモンに追われていた少女・美波を助けたことで、タカトは大人気のデジタルペット・Vペットを巡る陰謀に巻き込まれていく…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小杉十郎太
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 津村まこと
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口眞弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 永野愛
+  type: cast
+- !ruby/hash:TagHash
+  name: サエキトモ
+  type: cast
+- !ruby/hash:TagHash
+  name: 多田葵
+  type: cast
+- !ruby/hash:TagHash
+  name: 津久井教生
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：有澤孝紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：本郷あきよし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：今沢哲男
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：和田光司
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: デジモンテイマーズ 冒険者たちの戦い
+  description: 夏休みに沖縄の従兄弟の家に遊びに行ったタカト。最初は乗り気じゃなかったが、豊かな自然に触れるうちに、次第に打ち解けていく。しかし、そんな平和な夏休みに不気味な影が…。東京のルキの前に凶悪デジモンたちが現れ、沖縄にもサメ型デジモンが出現する。そのサメ型デジモンに追われていた少女・美波を助けたことで、タカトは大人気のデジタルペット・Vペットを巡る陰謀に巻き込まれていく…。<br><br>松田タカト:津村まこと／李シウチョン:永野愛／ギルモン:野沢雅子／浦添カイ:サエキトモ／上原ミナミ:三石琴乃／シーサモン:津久井教生／メンフィスモン:小杉十郎太／テリアモン:多田葵／李ジェンリャ:山口眞弓／レナモン:今井由香／牧野ルキ:折笠富美子／クルモン:金田朋子<br><br>原案:本郷あきよし／監督:今沢哲男／脚本:小林靖子／音楽:有澤孝紀／主題歌:｢The
+    Biggest Dreamer｣和田光司
+  length_seconds: 3041
+  content_id: so32637720
+  default_thread_id: 1516870786
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32637720
+cast: "[キャスト]<br>松田タカト:津村まこと／李シウチョン:永野愛／ギルモン:野沢雅子／浦添カイ:サエキトモ／上原ミナミ:三石琴乃／シーサモン:津久井教生／メンフィスモン:小杉十郎太／テリアモン:多田葵／李ジェンリャ:山口眞弓／レナモン:今井由香／牧野ルキ:折笠富美子／クルモン:金田朋子"
+staff: "[スタッフ]<br>原案:本郷あきよし／監督:今沢哲男／脚本:小林靖子／音楽:有澤孝紀／主題歌:｢The Biggest Dreamer｣和田光司"
+produced_year: "[製作年]<br>2001年"
+copyright: "©本郷あきよし・東映アニメーション　©東映・東映アニメーション・バンダイ・集英社・読売広告社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02
+- !ruby/hash:SeasonHash
+  title: 劇場版 デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー　ぼくらのウォーゲーム
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 前編 デジモンハリケーン上陸！！ 後編 超絶進化！！黄金のデジメンタル
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 ディアボロモンの逆襲
+- !ruby/hash:SeasonHash
+  title: デジモンテイマーズ 暴走デジモン特急
+- !ruby/hash:SeasonHash
+  title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
+- !ruby/hash:SeasonHash
+  title: デジモンユニバース アプリモンスターズ
+- !ruby/hash:SeasonHash
+  title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～

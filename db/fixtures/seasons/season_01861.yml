@@ -1,0 +1,53 @@
+--- !ruby/hash:SeasonHash
+title: 火の鳥 羽衣編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/7/10927_1_6.png?1427216400000
+outline: 生きるために山賊になったズク。山中で出会った不思議な少女に松の浜辺に行くよういわれる。浜辺には、光る羽衣を巻いた女性｢トキ｣が倒れていた。出会いを経て、ズクとトキは一緒に暮らし始め、やがてふたりの間には｢イチ｣という子どもが生まれる…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 田中敦子
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎藤恵理
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林哲夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: 火の鳥シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 柴田正人
+  type: other
+- !ruby/hash:TagHash
+  name: 桑原智
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 火の鳥 羽衣編
+  description: 生きるために山賊になったズク。山中で出会った不思議な少女に松の浜辺に行くよういわれる。浜辺には、光る羽衣を巻いた女性｢トキ｣が倒れていた。出会いを経て、ズクとトキは一緒に暮らし始め、やがてふたりの間には｢イチ｣という子どもが生まれる…<br><br>ズク:小林哲夫／トキ:斎藤恵理／火の鳥:田中敦子<br><br>監督、キャラクターデザイン、作画監督:西田正義／コンテ:桑原智／美術監督:柴田正人／色彩設計:油谷ゆみ<br><br>(C)手塚プロダクション
+  length_seconds: 1274
+  content_id: so33462646
+  default_thread_id: 1530579340
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33462646
+cast: "[キャスト]<br>ズク:小林哲夫／トキ:斎藤恵理／火の鳥:田中敦子"
+staff: "[スタッフ]<br>監督、キャラクターデザイン、作画監督:西田正義／コンテ:桑原智／美術監督:柴田正人／色彩設計:油谷ゆみ"
+produced_year: "[製作年]<br>2004年"
+copyright: "(C)手塚プロダクション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 火の鳥

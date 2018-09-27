@@ -1,0 +1,58 @@
+--- !ruby/hash:SeasonHash
+title: 星を追う子ども
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/04/0/21040_1_6.png?1468891908000
+outline: ある日、父の形見の鉱石ラジオから聴こえてきた不思議な唄。その唄を忘れられない少女アスナは、地下世界アガルタから来たという少年シュンに出会う。2人は心を通わせるも、少年は突然姿を消してしまう。「もう一度あの人に会いたい」そう願うアスナの前にシュンと瓜二つの少年シンと、妻との再会を切望しアガルタを探す教師モリサキが現れる。そこに開かれるアガルタへの扉。3人はそれぞれの想いを胸に、伝説の地へ旅に出る―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：天門
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西村貴世
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 丹治匠
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 星を追う子ども
+  description: ある日、父の形見の鉱石ラジオから聴こえてきた不思議な唄。その唄を忘れられない少女アスナは、地下世界アガルタから来たという少年シュンに出会う。2人は心を通わせるも、少年は突然姿を消してしまう。「もう一度あの人に会いたい」そう願うアスナの前にシュンと瓜二つの少年シンと、妻との再会を切望しアガルタを探す教師モリサキが現れる。そこに開かれるアガルタへの扉。3人はそれぞれの想いを胸に、伝説の地へ旅に出る―。<br><br>渡瀬明日菜:金元寿子／シュン/シン:入野自由／森崎
+    竜司:井上和彦<br><br>原作・脚本・監督:新海誠／作画監督・キャラクターデザイン:西村貴世／美術監督:丹治匠／音楽:天門
+  length_seconds: 6957
+  content_id: so31982548
+  default_thread_id: 1506212464
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982548
+cast: "[キャスト]<br>渡瀬明日菜:金元寿子／シュン/シン:入野自由／森崎 竜司:井上和彦"
+staff: "[スタッフ]<br>原作・脚本・監督:新海誠／作画監督・キャラクターデザイン:西村貴世／美術監督:丹治匠／音楽:天門"
+produced_year: "[製作年]<br>2011年"
+copyright: "© Makoto Shinkai / CMMMY"
+related_seasons: !ruby/array:Hashie::Array []

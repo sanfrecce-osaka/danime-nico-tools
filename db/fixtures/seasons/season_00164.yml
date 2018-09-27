@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: 毎度！浦安鉄筋家族
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/07/4/20074_1_6.png?1427216400000
+outline: ご存知、日本一のおバカ家族が大暴れ!!　装い新たに、ますます元気に大爆笑だぁぁぁぁぁ!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 一条和矢
+  type: cast
+- !ruby/hash:TagHash
+  name: 橘田いずみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 東條加那子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大地丙太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：浜岡賢次
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 秋田書店
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1発目～8発目
+  title: 1発目「アドベンチャーファミリー／行徳を超えて」～8発目「真・野良ミャオ」
+  description: 1キンポ「アドベンチャーファミリー／行徳を超えて」歓喜！鉄筋家族、温泉に行く？！/2キンポ「浦安マイヤーズ」惨劇！浦安のハロウィンに何が！？/3キンポ「辛辣！イカ男」美味！イカを喰う！ひらすらに！/4キンポ「マルキーフィギュア」衝撃！花丸木が人形に？！/5キンポ「彼はお休み」残暑！夏休みもあとわずか！/6キンポ「どーもすいません」人類最強！花園垣(9歳)がやってきた！/7キンポ「便乗してもいいですか？」参観日！垣の母さんがやってきた！/8キンポ「真・野良ミャオ」迷路！春巻が迷った！<br><br>大沢木小鉄:三森すずこ／大沢木大鉄:一条和矢／大沢木順子:東條加那子／大沢木　桜:橘田いずみ<br><br>原作:浜岡賢次（秋田書店：週刊少年チャンピオン連載中）／監督:大地丙太郎／音響制作:ダックスプロダクション／アニメーション制作:スタジオディーン／製作:はなくそ一発<br><br>次話→so32367417
+  length_seconds: 967
+  content_id: so32367416
+  default_thread_id: 1512353779
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367416
+- !ruby/hash:EpisodeHash
+  episode_no: 9発目～16発目
+  title: 9発目「甘い爪」～16発目「遠い空のムタへ」
+  description: 9キンポ「甘い爪」給食！3年1組は自分で盛るシステムになったよ！/10キンポ「てる」あかね！自転車に乗れるのか！？/11キンポ「素晴らしき哉、日本人！」春巻がイイ気持ちでいたら…/12キンポ「大王イカ物語」チャリを止めた順子。その時！？/13キンポ「イトーストーリー３」青田くん人形～かわいいね/14キンポ「ボーズ探偵」ボクの名前は江戸五郎！少年探偵なんだ！/15キンポ「オスメント」山田真夜～享年29歳……/16キンポ「遠い空のムタへ」順子が使っていない古いトースターでパンを焼こうとしたら……<br><br>大沢木小鉄:三森すずこ／大沢木大鉄:一条和矢／大沢木順子:東條加那子／大沢木　桜:橘田いずみ<br><br>原作:浜岡賢次（秋田書店：週刊少年チャンピオン連載中）／監督:大地丙太郎／音響制作:ダックスプロダクション／アニメーション制作:スタジオディーン／製作:はなくそ一発<br><br>so32367416←前話｜次話→so32367326　第一話→so32367416
+  length_seconds: 967
+  content_id: so32367417
+  default_thread_id: 1512353781
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367417
+- !ruby/hash:EpisodeHash
+  episode_no: 17発目～24発目
+  title: 17発目「ポセイドン」～24発目「賛成の反対」
+  description: 17キンポ「ポセイドン」激怒神社神主、ポセイドン笠原の平穏な日常にしのびよる危機！/18キンポ「ヒカデン」粘土工作の時間、小鉄は粘土を持ってなぜか理科室へ/19キンポ「ノド輪」大鉄のタクシーは力士を乗せて両国へ向かおうとするが……/20キンポ「食用ブリーフ」一年中、海水パンツの小鉄に、順子は注意するが…/21キンポ「傘ネタ、カーサ渡し」降り出した雨が、傘を取りに返り損ねた和江、民子、静江に……/22キンポ「トッカータと大鉄」順子は、大鉄に返品するキャビネットを玄関に運ぶのを手伝ってもらおうとするが……/23キンポ「となりは花子さん」久しぶりの席替で、花子はデブのフグ夫の隣になったことで、その体に変化が！？/24キンポ「賛成の反対」大鉄に何が起きたのか！？<br><br>大沢木小鉄:三森すずこ／大沢木大鉄:一条和矢／大沢木順子:東條加那子／大沢木　桜:橘田いずみ<br><br>原作:浜岡賢次（秋田書店：週刊少年チャンピオン連載中）／監督:大地丙太郎／音響制作:ダックスプロダクション／アニメーション制作:スタジオディーン／製作:はなくそ一発<br><br>so32367417←前話　第一話→so32367416
+  length_seconds: 967
+  content_id: so32367326
+  default_thread_id: 1512351675
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367326
+cast: "[キャスト]<br>大沢木小鉄:三森すずこ／大沢木大鉄:一条和矢／大沢木順子:東條加那子／大沢木　桜:橘田いずみ"
+staff: "[スタッフ]<br>原作:浜岡賢次（秋田書店：週刊少年チャンピオン連載中）／監督:大地丙太郎／音響制作:ダックスプロダクション／アニメーション制作:スタジオディーン／製作:はなくそ一発"
+produced_year: "[製作年]<br>2014年"
+copyright: "©浜岡賢次(週刊少年チャンピオン）/毎度！ 浦安鉄筋家族製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,203 @@
+--- !ruby/hash:SeasonHash
+title: Charlotte
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/22/3/20223_1_6.png?1436315826000
+outline: 思春期の少年少女のごく一部に発症する特殊能力。人知れず能力を駆使し、順風満帆な学園生活を送る乙坂有宇。そんな彼の目の前に突如現れる少女、友利奈緒。彼女との出会いにより、暴かれる特殊能力者の宿命。それは麻枝
+  准が描く青春を駆け巡る能力者たちの物語―――。TVアニメ『Angel Beats!』放送開始から5年。麻枝 准が原作・脚本を手掛ける、完全新作オリジナルアニメーションが遂に始動。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 水島大宙
+  type: cast
+- !ruby/hash:TagHash
+  name: 麻倉もも
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：P.A.WORKS
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：関口可奈味
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：麻枝准
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：麻枝准
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：浅井義之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ANANT-GARDE EYES
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：光収容
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 我他人を思う
+  description: 思春期の少年少女のごく一部に発症する特殊能力。「任意の対象の体を5秒間のみ乗っ取る」という特殊能力を駆使し、優等生としての学生生活を送っていた乙坂有宇はその能力を駆使し、名門高校に見事合格する。進学先の高校でも順風満帆な生活を送ろうとしていた矢先、有宇の目の前に友利奈緒という少女が現れ…。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>次話→so32219365
+  length_seconds: 1440
+  content_id: so32219364
+  default_thread_id: 1509850528
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219364
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 絶望の旋律
+  description: 不本意ながらも生徒会と行動を共にし、特殊能力者の確保に奔走する有宇。そんな中、危険な目に合いながらも生徒会の責務を果たそうとする友利の過去が明らかとなる。それは、特殊能力を持つ者の過酷な運命だった。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219364←前話｜次話→so32219406　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219365
+  default_thread_id: 1509850530
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219365
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 恋と炎
+  description: 生徒会として活動を続ける有宇たちに舞い込んできた新たな能力者の情報。｢口寄せ｣と｢発火｣という2つの能力を操る能力者を探し求めて有宇たちが出会ったのは、ある一人のアイドルだった。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219365←前話｜次話→so32219407　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219406
+  default_thread_id: 1509851006
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219406
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 刹那の本気
+  description: 柚咲が星ノ海学園に転入して来た日に熊耳が生徒会に伝えた能力者の情報は、友利があらかじめマークしていた高校野球の投手と合致するものであった。能力は「念動力」。能力を駆使し、魔球とも言えるピッチングをする投手にその使用を止めさせる為、星ノ海学園生徒会は野球で勝負を挑む。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219406←前話｜次話→so32219408　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219407
+  default_thread_id: 1509851183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219407
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: いつか聴いた音
+  description: 熊耳から伝えられた情報を手掛かりに能力者がいるであろう山の中に張り込みを続ける生徒会メンバー達。バーベキューや釣りなどをして過ごす中、有宇は友利の音楽プレーヤーでZHIEND(ジエンド)の音楽に触れる。そして、張り込みを続ける彼らの前に現れたのは・・・。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219407←前話｜次話→so32219409　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219408
+  default_thread_id: 1509851186
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219408
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 気づかなかった幸せ
+  description: 熊耳が伝える新たな能力者の居場所は、歩未が風邪で休む自宅のマンションだった。お見舞いの為、乙坂家にやってきた友利と有宇に歩未は怖い夢を見たと話す。夢の内容が、歩未の能力を知る手掛かりになると考えた友利は有宇に歩未から夢の内容を聞き出すよう伝えるが・・・。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219408←前話｜次話→so32219449　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219409
+  default_thread_id: 1509851027
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219409
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 逃避行の果てに
+  description: 妹・歩未を失った事実に打ちのめされる有宇は家に一人閉じこもり、外界との接触を遮断する。心配し様子を見に来た生徒会メンバーとの面会も拒み、荒んだ生活を送る有宇の前に現れたのは・・・。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219409←前話｜次話→so32219450　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219449
+  default_thread_id: 1509851619
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219449
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 邂逅
+  description: 歩未の死を受け入れつつある有宇は久々に学校に登校し、以前と変わらぬ学校生活に安堵を覚える。そんな中、友利と2人でZHIENDのライブに行くことになった有宇はその日の下校中、白杖を持った外国人風の女性に出会う。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219449←前話｜次話→so32219451　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219450
+  default_thread_id: 1509851721
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219450
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: ここにない世界
+  description: 友利と2人でZHIENDのライブに行くことになった有宇。ライブが始まり会場はヒートアップする中、有宇は心に不思議なひっかかりを覚えていたのだが…。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219450←前話｜次話→so32219500　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219451
+  default_thread_id: 1509851601
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219451
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: 略奪
+  description: 有宇の兄であり、タイムリープの能力を持つ隼翼はその能力を繰り返して使う内に、視力を失い能力が使えなくなってしまっていた。そんな兄に代わり、有宇が歩未を救うために動き出す。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219451←前話｜次話→so32219501　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219500
+  default_thread_id: 1509852326
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219500
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: シャーロット
+  description: 無事、歩未を救い出した乙坂有宇の前に現れる熊耳と目時。彼らに連れられ訪れた研究施設内で、特殊能力発生の原因を知ることになる。そして熊耳は新たな能力者の情報を得て、星ノ海学園に向かうが…。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219500←前話｜次話→so32219532　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219501
+  default_thread_id: 1509852346
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219501
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二話
+  title: 約束
+  description: 怪我をし入院している有宇のお見舞いに訪れる生徒会の仲間達や歩未。その中には、友利の姿もあった。友利との会話の中で、有宇はひとつの決断を下す。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219501←前話｜次話→so32219533　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219532
+  default_thread_id: 1509852833
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219532
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三話
+  title: これからの記録
+  description: 有宇が下した決断。それは地球上のすべての特殊能力者の能力を奪うこと。それは、すべての能力者を救う選択。しかしそれは同時に有宇に大きな代償を支払わせる選択であった。<br><br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも<br><br>原作・脚本:麻枝
+    准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光 登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋
+    歩／音楽:ANANT-GARDE EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS<br><br>so32219532←前話　第一話→so32219364
+  length_seconds: 1440
+  content_id: so32219533
+  default_thread_id: 1509852807
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219533
+cast: "[キャスト]<br>乙坂有宇:内山昂輝／友利奈緒:佐倉綾音／高城丈士朗:水島大宙／西森柚咲・美砂:内田真礼／乙坂歩未:麻倉もも"
+staff: "[スタッフ]<br>原作・脚本:麻枝 准　（「Angel Beats!」）／キャラクター原案:Na-Ga／監督:浅井義之／キャラクターデザイン:関口可奈味／総作画監督:杉光
+  登・関口可奈味／アクション作画監督:宮下雄次／美術監督:東地和生／色彩設計:菅原美佳／撮影監督:佐藤勝史／3D監督:小川耕平／特殊効果:村上正博／編集:高橋 歩／音楽:ANANT-GARDE
+  EYES・麻枝 准・光収容／音楽制作:VisualArt’s・1st PLACE／音響監督:飯田里樹／アニメーション制作:P.A.WORKS"
+produced_year: "[製作年]<br>2015年"
+copyright: "©VisualArt's/Key/Charlotte Project"
+related_seasons: !ruby/array:Hashie::Array []

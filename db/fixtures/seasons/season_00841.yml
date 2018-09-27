@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: タトゥーンマスター
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/21/6/11216_1_6.png?1427216400000
+outline: 喧嘩は強いが女は嫌い、特技と言ったら家事全般・・・。そんな硬派野郎(笑)日比野火々雄へ、紋様族の族長ニマの刃が光る！｢これであたしたちは夫婦だよ、ヒビオ！｣押し掛け女房気取りでなつくニマ、ウザいヒビオ。だが、そんなラブコメにたちまち波乱の渦が続出！戦国時代の武弓術を操る委員長、藤松の横恋慕！兄を亡き者にされた恨みと迫るハイドラの理不尽！そして、掟を破った姉を追い詰めるニケの正義!バトルの果てに待つのは・・・、やっぱりあま～いラブコメなのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: こおろぎさとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川登志夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 青野武
+  type: cast
+- !ruby/hash:TagHash
+  name: 國府田マリ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田祐司
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野文
+  type: cast
+- !ruby/hash:TagHash
+  name: 嶋方淳子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：山本はるきち
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：広川和之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：荒木英樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：矢也晶久
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: THE　FIRST　GATE
+  description: ケンカは強いが女は嫌い、特技といったら家事全般といいう一風変わった硬派野郎、日比野火々雄。そこに突然、きわどい民族衣装をまとった美少女ニマが現れ、紋様法術でヒビオにバッテン印を刻んだ！なつくニマに、イヤがるヒビオ。端から見るといちゃついているようにしか見えない二人の様子に、ヒビオに秘めたる気持ちをこめてきた委員長の藤松が立ち上がった・・・！<br><br>ニマ:國府田マリ子／ヒビオ:上田祐司／藤松:こおろぎさとみ／ニケ:嶋方淳子／ハイドラ:三木眞一郎／ヒビオの父:千葉
+    繁／ヒビオの母:平野 文／アーノルド教授:古川登志夫／藤松の祖父:青野 武<br><br>原作:矢也晶久／掲載:｢ウルトラジャンプ｣／発行:集英社／監督:広川和之／脚本:黒田洋介／キャラクターデザイン:荒木英樹／音楽:山本はるきち／音響監督:千葉
+    繁／アニメーション制作:A.I.C.<br><br>次話→so32230782
+  length_seconds: 1726
+  content_id: so32230781
+  default_thread_id: 1510022741
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230781
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: THE　SECOND　GATE
+  description: 紋様族の族長ニマが押しかけ女房を決め込んでから、どうも調子が狂いっぱなしのヒビオ。そこへ紋様を持つ少年ハイドラが現れた。紋様族の調査に行って殺された兄の恨みと迫るハイドラは、割って入ったヒビオを付け狙う。一方、紋様族のニケがニマを抹殺に来ていた・・・！<br><br>ニマ:國府田マリ子／ヒビオ:上田祐司／藤松:こおろぎさとみ／ニケ:嶋方淳子／ハイドラ:三木眞一郎／ヒビオの父:千葉
+    繁／ヒビオの母:平野 文／アーノルド教授:古川登志夫／藤松の祖父:青野 武<br><br>原作:矢也晶久／掲載:｢ウルトラジャンプ｣／発行:集英社／監督:広川和之／脚本:黒田洋介／キャラクターデザイン:荒木英樹／音楽:山本はるきち／音響監督:千葉
+    繁／アニメーション制作:A.I.C.<br><br>so32230781←前話　第一話→so32230781
+  length_seconds: 1746
+  content_id: so32230782
+  default_thread_id: 1510023053
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230782
+cast: "[キャスト]<br>ニマ:國府田マリ子／ヒビオ:上田祐司／藤松:こおろぎさとみ／ニケ:嶋方淳子／ハイドラ:三木眞一郎／ヒビオの父:千葉 繁／ヒビオの母:平野
+  文／アーノルド教授:古川登志夫／藤松の祖父:青野 武"
+staff: "[スタッフ]<br>原作:矢也晶久／掲載:｢ウルトラジャンプ｣／発行:集英社／監督:広川和之／脚本:黒田洋介／キャラクターデザイン:荒木英樹／音楽:山本はるきち／音響監督:千葉
+  繁／アニメーション制作:A.I.C."
+produced_year: "[製作年]<br>1996年"
+copyright: "©矢也晶久・集英社/Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

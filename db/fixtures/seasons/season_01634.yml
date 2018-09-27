@@ -1,0 +1,134 @@
+--- !ruby/hash:SeasonHash
+title: "<物語>シリーズ セカンドシーズン（第27話～第31話） 花物語"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/4/20414_1_6.png?1444363936000
+outline: 蜂の怪異が去り、不死鳥の怪異は難を逃れた夏休みが終わり――新学期をむかえた阿良々木暦と少女たちのまわりには、ふたたび怪異、あるいは、それ以上の脅威が忍び寄っていた。羽川翼、八九寺真宵、神原駿河、千石撫子、忍野忍、そして戦場ヶ原ひたぎ。彼女たちの独白と告白――　そして別れ。新たな6つの<物語>が、いま始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 根谷美智子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新房昭之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：西尾維新
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：VOFAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：羽岡佳
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：板村智幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 物語シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: "『するがデビル 其ノ壹』"
+  description: 3年生に進級した神原駿河は忍野扇から、「願いを叶えてくれる悪魔様」の噂を聞かされる。悪魔様の正体を知るべく、会いに向かった駿河の前に現れたのは―――。<br><br>神原駿河:沢城みゆき／沼地蠟花:阿澄佳奈／神原遠江:根谷美智子<br><br>原作:西尾維新『花物語』
+    (講談社BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:飯島寿治・内藤
+    健／カラ-デザイン:滝沢いづみ／色彩設計:日比野仁・渡辺康子／ビジュアルエフェクト:酒井 基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡
+    佳／アニメーション制作:シャフト<br><br>次話→so32705030
+  length_seconds: 1540
+  content_id: so32705029
+  default_thread_id: 1518052196
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32705029
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: "『するがデビル 其ノ貳』"
+  description: 朝起きると、駿河の左腕は猿の手から人間の腕に戻っていた。困惑しながらも、喜びを感じている駿河の前に、詐欺師・貝木泥舟が現れる。<br><br>神原駿河:沢城みゆき／沼地蠟花:阿澄佳奈／神原遠江:根谷美智子<br><br>原作:西尾維新『花物語』
+    (講談社BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:飯島寿治・内藤
+    健／カラ-デザイン:滝沢いづみ／色彩設計:日比野仁・渡辺康子／ビジュアルエフェクト:酒井 基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡
+    佳／アニメーション制作:シャフト<br><br>so32705029←前話｜次話→so32705031　第一話→so32705029
+  length_seconds: 1262
+  content_id: so32705030
+  default_thread_id: 1518051976
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32705030
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: "『するがデビル 其ノ參』"
+  description: 貝木からの情報で、再び沼地と会うことを決意した駿河。しかし、逆に蠟花の方が駿河の前に再び現れる。その時、彼女の左腕はかつての駿河のように包帯に巻かれていた。<br><br>神原駿河:沢城みゆき／沼地蠟花:阿澄佳奈／神原遠江:根谷美智子<br><br>原作:西尾維新『花物語』
+    (講談社BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:飯島寿治・内藤
+    健／カラ-デザイン:滝沢いづみ／色彩設計:日比野仁・渡辺康子／ビジュアルエフェクト:酒井 基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡
+    佳／アニメーション制作:シャフト<br><br>so32705030←前話｜次話→so32705032　第一話→so32705029
+  length_seconds: 1270
+  content_id: so32705031
+  default_thread_id: 1518051978
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32705031
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: "『するがデビル 其ノ肆』"
+  description: 不幸の蒐集家となった経緯を話す蠟花。さらに彼女は『悪魔』の蒐集を始めた経緯も駿河に語り始める。話が終わり別れる二人だが、その後、火憐から駿河に蠟花の新たな情報がもたらされ……。<br><br>神原駿河:沢城みゆき／沼地蠟花:阿澄佳奈／神原遠江:根谷美智子<br><br>原作:西尾維新『花物語』
+    (講談社BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:飯島寿治・内藤
+    健／カラ-デザイン:滝沢いづみ／色彩設計:日比野仁・渡辺康子／ビジュアルエフェクト:酒井 基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡
+    佳／アニメーション制作:シャフト<br><br>so32705031←前話｜次話→so32705033　第一話→so32705029
+  length_seconds: 1338
+  content_id: so32705032
+  default_thread_id: 1518052169
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32705032
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: "『するがデビル 其ノ伍』"
+  description: 体育館で相見える駿河と蠟花。『不幸の蒐集』と『悪魔の蒐集』を止めるべく、ある条件のもと駿河は蠟花にバスケットボールの試合を挑む。<br><br>神原駿河:沢城みゆき／沼地蠟花:阿澄佳奈／神原遠江:根谷美智子<br><br>原作:西尾維新『花物語』
+    (講談社BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:飯島寿治・内藤
+    健／カラ-デザイン:滝沢いづみ／色彩設計:日比野仁・渡辺康子／ビジュアルエフェクト:酒井 基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡
+    佳／アニメーション制作:シャフト<br><br>so32705032←前話　第一話→so32705029
+  length_seconds: 1540
+  content_id: so32705033
+  default_thread_id: 1518052175
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32705033
+cast: "[キャスト]<br>神原駿河:沢城みゆき／沼地蠟花:阿澄佳奈／神原遠江:根谷美智子"
+staff: "[スタッフ]<br>原作:西尾維新『花物語』 (講談社BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:飯島寿治・内藤
+  健／カラ-デザイン:滝沢いづみ／色彩設計:日比野仁・渡辺康子／ビジュアルエフェクト:酒井 基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡
+  佳／アニメーション制作:シャフト"
+produced_year: "[製作年]<br>2014年"
+copyright: "©西尾維新／講談社・アニプレックス・シャフト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 化物語
+- !ruby/hash:SeasonHash
+  title: 偽物語
+- !ruby/hash:SeasonHash
+  title: 猫物語(黒)
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第1話～第5話） 猫物語(白)"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第7話～第10話） 傾物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第12話～第15話） 囮物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第17話～第20話） 鬼物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第21話～第26話） 恋物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第6話・第11話・第16話） 総集編"

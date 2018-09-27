@@ -1,0 +1,69 @@
+--- !ruby/hash:SeasonHash
+title: てーきゅう 3期
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/25/8/11258_1_6.png?1427216400000
+outline: 亀井戸高校テニス部の普通じゃない女の子4人の抱腹絶倒の日常を描く。アホな先輩たちに振り回されるうちにツッコミっぽい立場になった後輩の「押本ユリ」、テニス部なのにテニスがほとんどできないボケマシーン2年生の「新庄かなえ」、予想不可能な関西風ド変態2年生「板東まりも」、何でもお金で解決しちゃう謎多き天然お嬢様2年生「高宮なすの」。遂に3期突入で、もはや手がつけられなくなったアホ4人のテニスをほとんどしない学園生活。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡部優衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳴海杏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：板垣伸
+  type: staff
+- !ruby/hash:TagHash
+  name: てーきゅうシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第25面～第36面
+  title: 第25面「先輩とワールド・イズ・ノット・イナフ」～第36面「先輩とコーチ・カーター」（最終回）
+  description: 第25面「先輩とワールド・イズ・ノット・イナフ」なすの先輩がみんなをスキーに連れて行ってくれました。スキー初心者の4人が迷い込んだコースとは！？/第26面「先輩とスタンド・バイ・ミー」大雨が降ったので、みんなでかなえの家に避難。帰宅途中、かなえは雷を浴びて超強力な大技「かなかな波」を撃ってしまう…。/第27面「先輩とマッドマックス」見た目恐ろしいチンピラたちに襲われていた「なすの」のピンチを救ったのは、「陽太」と名乗る男子高校生だった。しかし、そこにさらなる刺客が現れて！/第28面「先輩とシザーハンズ」髪が長くなったなすのと、髪を切り過ぎたかなえの提案で美容室に一緒に付いていくことになったユリが見た先輩たちのＮＥＷヘアースタイルとは！？/第29面「先輩とハングオーバー！」新年を迎え、みんなで初詣に。甘酒を飲み、酔っぱらった（？）ユリがボケキャラとなって大暴走！/第30面「先輩と８マイル」なすののケーキ屋が負債が3億円！？再建の為に4人は新メニューの開発に乗り出すが…/第31面「先輩とヴェニスの商人」ユリが中3の頃のお話。念願の亀井戸高校に入学したユリはテニス部に入ろうとするが…/第32面「先輩と羅生門」かなえのガットが切れてしまったのでみんなでテニス用品店に。店にはとんでもない珍ガットばかり。果たして、かなえが選んだガットは？/ほか<br><br>出演:渡部優衣、三森すずこ、鳴海杏子、花澤香菜、逢坂良太、喜多村英梨<br><br>脚本・絵コンテ・演出・作画監督:板垣伸
+  length_seconds: 1428
+  content_id: so31938940
+  default_thread_id: 1505591910
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938940
+cast: "[キャスト]<br>出演:渡部優衣、三森すずこ、鳴海杏子、花澤香菜、逢坂良太、喜多村英梨"
+staff: "[スタッフ]<br>脚本・絵コンテ・演出・作画監督:板垣伸"
+produced_year: "[製作年]<br>2013年"
+copyright: "©ルーツ / Piyo / アース・スター エンターテイメント / 亀井戸高校テニス部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: てーきゅう
+- !ruby/hash:SeasonHash
+  title: てーきゅう 2期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 4期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 5期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 6期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 7期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 8期
+- !ruby/hash:SeasonHash
+  title: 高宮なすのです！～てーきゅうスピンオフ～
+- !ruby/hash:SeasonHash
+  title: てーきゅう 9期

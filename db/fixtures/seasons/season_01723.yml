@@ -1,0 +1,136 @@
+--- !ruby/hash:SeasonHash
+title: NG騎士ラムネ&40総集編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/4/10204_1_6.png?1427216400000
+outline: ある日,ファミコンフリークの小学校4年生・馬場ラムネは,学校帰りに買ったゲームをクリアすると,テレビから少女-実はアララ王国のミルク姫-が現れ｢選ばれし勇者ラムネス｣としてハラハラワールドへ連れて行かれる。ハラハラワールドでラムネを待っていたのは,世界征服を企む大魔術師ドン・ハルマゲ達だった。妖神ゴブーリキを復活させようとするドン・ハルマゲの野望を食い止めるため,守護騎士・キングスカッシャーを呼び出し立ち向ってゆく。ダ・サイダーや仲間と共に8体の守護騎士を復活させ,やっとの思いで見事ゴブーリキを倒したのだが……実はゴブーリキは生きていた!ハラハラワールドを救う為,今度は七色の石板を8枚集めなければならなかった。ドキドキスペースへと場所を移し,妖神ゴブーリキとの最終決戦へ向け,更なる冒険へと旅立ってゆく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 草尾毅
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本保典
+  type: cast
+- !ruby/hash:TagHash
+  name: 松井菜桜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 梁田清之
+  type: cast
+- !ruby/hash:TagHash
+  name: 肝付兼太
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢尾一樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原茂
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅津秀行
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：ねぎしひろし
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：りゅうてつし
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：松井忠重
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：斉藤卓也
+  type: staff
+- !ruby/hash:TagHash
+  name: NG騎士ラムネ&40シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: テレビ東京
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 田中英行
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1991年
+  type: other
+- !ruby/hash:TagHash
+  name: 福田岳志
+  type: other
+- !ruby/hash:TagHash
+  name: 古橋宏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '1'
+  title: ハラハラワールド大冒険
+  description: 全ての守護騎士が集まるまでのストーリー<br><br>ラムネ:草尾毅／ミルク:横山智佐／ココア:玉川紗己子／タマQ:神代知衣／ダ・サイダー:矢尾一樹／レスカ:松井菜桜子／ヘビメタコ:Tarako／ドン・ハルマゲ:飯塚昭三／ヨッコーラ三世:肝付兼太／セイローム:飛田展男／シルコーン:菅原淳一／キリマン:ならはしみき／ブルマン:真柴摩利／ブレンドン:梁田清之／アッサーム:梅津秀行／ゼンザイン:中原茂／クィーンサイダロン:松本保典<br><br>企画:佐藤俊彦／構成:ぶらざあのっぽ／監督:ねぎしひろし／キャラクター原案:伊東岳彦／キャラクターデザイン:斉藤卓也／メカニックデザイン:中原れい／美術監督:長房紳一,内山誠／色彩設定:中野倫明／音響監督:田中英行／撮影監督:福田岳志／編集:古橋宏／音楽:松井忠重,りゅうてつし／プロデューサー:清水睦夫(テレビ東京),山崎立志(Asatsu),加藤博(葦プロ)／製作:テレビ東京,Asatsu,葦プロダクション<br><br>次話→so32145982
+  length_seconds: 2531
+  content_id: so32145981
+  default_thread_id: 1508748282
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145981
+- !ruby/hash:EpisodeHash
+  episode_no: '2'
+  title: ホイホイ城大崩壊
+  description: ラムネッカからホイホイ城でゴブーリキを倒すまでまでのストーリー<br><br>ラムネ:草尾毅／ミルク:横山智佐／ココア:玉川紗己子／タマQ:神代知衣／ダ・サイダー:矢尾一樹／レスカ:松井菜桜子／ヘビメタコ:Tarako／ドン・ハルマゲ:飯塚昭三／ヨッコーラ三世:肝付兼太／セイローム:飛田展男／シルコーン:菅原淳一／キリマン:ならはしみき／ブルマン:真柴摩利／ブレンドン:梁田清之／アッサーム:梅津秀行／ゼンザイン:中原茂／クィーンサイダロン:松本保典<br><br>企画:佐藤俊彦／構成:ぶらざあのっぽ／監督:ねぎしひろし／キャラクター原案:伊東岳彦／キャラクターデザイン:斉藤卓也／メカニックデザイン:中原れい／美術監督:長房紳一,内山誠／色彩設定:中野倫明／音響監督:田中英行／撮影監督:福田岳志／編集:古橋宏／音楽:松井忠重,りゅうてつし／プロデューサー:清水睦夫(テレビ東京),山崎立志(Asatsu),加藤博(葦プロ)／製作:テレビ東京,Asatsu,葦プロダクション<br><br>so32145981←前話｜次話→so32145983　第一話→so32145981
+  length_seconds: 2555
+  content_id: so32145982
+  default_thread_id: 1508748186
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145982
+- !ruby/hash:EpisodeHash
+  episode_no: '3'
+  title: ドキドキスペース大熱戦
+  description: ドキドキスペースでの石版集めまでのストーリー<br><br>ラムネ:草尾毅／ミルク:横山智佐／ココア:玉川紗己子／タマQ:神代知衣／ダ・サイダー:矢尾一樹／レスカ:松井菜桜子／ヘビメタコ:Tarako／ドン・ハルマゲ:飯塚昭三／ヨッコーラ三世:肝付兼太／セイローム:飛田展男／シルコーン:菅原淳一／キリマン:ならはしみき／ブルマン:真柴摩利／ブレンドン:梁田清之／アッサーム:梅津秀行／ゼンザイン:中原茂／クィーンサイダロン:松本保典<br><br>企画:佐藤俊彦／構成:ぶらざあのっぽ／監督:ねぎしひろし／キャラクター原案:伊東岳彦／キャラクターデザイン:斉藤卓也／メカニックデザイン:中原れい／美術監督:長房紳一,内山誠／色彩設定:中野倫明／音響監督:田中英行／撮影監督:福田岳志／編集:古橋宏／音楽:松井忠重,りゅうてつし／プロデューサー:清水睦夫(テレビ東京),山崎立志(Asatsu),加藤博(葦プロ)／製作:テレビ東京,Asatsu,葦プロダクション<br><br>so32145982←前話｜次話→so32145984　第一話→so32145981
+  length_seconds: 2537
+  content_id: so32145983
+  default_thread_id: 1508748182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145983
+- !ruby/hash:EpisodeHash
+  episode_no: '4'
+  title: バイバイ熱血大決戦
+  description: 37,38話の最終決戦までのストーリー<br><br>ラムネ:草尾毅／ミルク:横山智佐／ココア:玉川紗己子／タマQ:神代知衣／ダ・サイダー:矢尾一樹／レスカ:松井菜桜子／ヘビメタコ:Tarako／ドン・ハルマゲ:飯塚昭三／ヨッコーラ三世:肝付兼太／セイローム:飛田展男／シルコーン:菅原淳一／キリマン:ならはしみき／ブルマン:真柴摩利／ブレンドン:梁田清之／アッサーム:梅津秀行／ゼンザイン:中原茂／クィーンサイダロン:松本保典<br><br>企画:佐藤俊彦／構成:ぶらざあのっぽ／監督:ねぎしひろし／キャラクター原案:伊東岳彦／キャラクターデザイン:斉藤卓也／メカニックデザイン:中原れい／美術監督:長房紳一,内山誠／色彩設定:中野倫明／音響監督:田中英行／撮影監督:福田岳志／編集:古橋宏／音楽:松井忠重,りゅうてつし／プロデューサー:清水睦夫(テレビ東京),山崎立志(Asatsu),加藤博(葦プロ)／製作:テレビ東京,Asatsu,葦プロダクション<br><br>so32145983←前話　第一話→so32145981
+  length_seconds: 2518
+  content_id: so32145984
+  default_thread_id: 1508748184
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145984
+cast: "[キャスト]<br>ラムネ:草尾毅／ミルク:横山智佐／ココア:玉川紗己子／タマQ:神代知衣／ダ・サイダー:矢尾一樹／レスカ:松井菜桜子／ヘビメタコ:Tarako／ドン・ハルマゲ:飯塚昭三／ヨッコーラ三世:肝付兼太／セイローム:飛田展男／シルコーン:菅原淳一／キリマン:ならはしみき／ブルマン:真柴摩利／ブレンドン:梁田清之／アッサーム:梅津秀行／ゼンザイン:中原茂／クィーンサイダロン:松本保典"
+staff: "[スタッフ]<br>企画:佐藤俊彦／構成:ぶらざあのっぽ／監督:ねぎしひろし／キャラクター原案:伊東岳彦／キャラクターデザイン:斉藤卓也／メカニックデザイン:中原れい／美術監督:長房紳一,内山誠／色彩設定:中野倫明／音響監督:田中英行／撮影監督:福田岳志／編集:古橋宏／音楽:松井忠重,りゅうてつし／プロデューサー:清水睦夫(テレビ東京),山崎立志(Asatsu),加藤博(葦プロ)／製作:テレビ東京,Asatsu,葦プロダクション"
+produced_year: "[製作年]<br>1991年"
+copyright: "(c) PRODUCTION REED 1991"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: NG騎士ラムネ&40
+- !ruby/hash:SeasonHash
+  title: VS騎士ラムネ&40 炎
+- !ruby/hash:SeasonHash
+  title: VS騎士ラムネ&40FRESH
+- !ruby/hash:SeasonHash
+  title: NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦
+- !ruby/hash:SeasonHash
+  title: NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦

@@ -1,0 +1,147 @@
+--- !ruby/hash:SeasonHash
+title: バブルガムクライシス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/6/11326_1_6.png?1427216400000
+outline: 超集合企業体ゲノムに父を殺されたシリアは、戦闘用亜人“ブーマ”から人々を救うため“ナイトセイバーズ”を結成した。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀内賢雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 榊原良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川登志夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 富沢美智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田秀一
+  type: cast
+- !ruby/hash:TagHash
+  name: 大森絹子
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大張正己
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：秋山勝仁
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：林宏樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：園田健一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：合田治章
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：柿沼秀樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：吉田英俊
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：荒牧伸志
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：秋山勝仁
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: PART.1
+  title: TINSEL CITY
+  description: USSDに依頼された内容は、誘拐犯フレデリックと誘拐された少女、シンシアの保護だった。プリスの活躍によってシンシアの救出に成功するものの、誘拐犯はフュージョン(物質融合)機能を極限まで進化させたブーマだった。窮地に陥ったプリスを他のメンバーたちが救い、依頼は成功したかのように思えたが……。<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>次話→so32041254
+  length_seconds: 2791
+  content_id: so32041253
+  default_thread_id: 1507072615
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041253
+- !ruby/hash:EpisodeHash
+  episode_no: PART.2
+  title: BORN TO KILL
+  description: 謎の爆発事故が発生したゲノムビルで、プリスとリンナはメイスンに詰めよっていたリンナの友人のアイリンと出会った。その爆発事故で自分の婚約者を失ったアイリンは、婚約者とゲノムの関係を調べ、マスコミに暴露すると言う。だが、そんな彼女にメイスンの手下である女ブーマの鋭い爪が襲いかかった……!<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>so32041253←前話｜次話→so32041255　第一話→so32041253
+  length_seconds: 1693
+  content_id: so32041254
+  default_thread_id: 1507071713
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041254
+- !ruby/hash:EpisodeHash
+  episode_no: PART.3
+  title: BLOW UP
+  description: ショウという少年と仲良くなったプリスは誕生パーティに招待され、楽しい一時を過ごしていた。そんな中で、ゲノム社により強制的に立ち退きされようとしていたショウの住むアパートは、メイスンの指示により巨大工作機械で破壊されてしまう。そして、その瓦礫の下敷きになったショウの母親。怒りに燃えるプリスは……。<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>so32041254←前話｜次話→so32041256　第一話→so32041253
+  length_seconds: 1589
+  content_id: so32041255
+  default_thread_id: 1507071598
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041255
+- !ruby/hash:EpisodeHash
+  episode_no: PART.4
+  title: REVENGE ROAD
+  description: アウトライダーたちを蹴散らして消える悪魔の怪物マシン“グリフォン”。プリスもグリフォンに襲われ怪我を負ってしまった。病院に向かったプリスは、そこでライダーたちに襲われて入院していたナオミと出会う。そして、なじみのレーヴィン博士の依頼により、グリフォンを止めるべく出動するナイトセイバーズだが……。<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>so32041255←前話｜次話→so32041257　第一話→so32041253
+  length_seconds: 2290
+  content_id: so32041256
+  default_thread_id: 1507071931
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041256
+- !ruby/hash:EpisodeHash
+  episode_no: PART.5
+  title: MOONLIGHT RAMBLER
+  description: 宇宙ステーション“ジェナロス”から脱出したセクサロイドのシルヴィとアンリは、プリスと出会った。そして、自由を味わい、束の間の平和に酔うシルヴィだが、アンリの血液を補充するため、空挺戦闘ポッドのD-Dを使って人を襲わなくてはならなかった。皮肉にも、ナイトセイバーズはそのD-Dの捕獲を依頼されて……。<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>so32041256←前話｜次話→so32041258　第一話→so32041253
+  length_seconds: 2603
+  content_id: so32041257
+  default_thread_id: 1507072609
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041257
+- !ruby/hash:EpisodeHash
+  episode_no: PART.6
+  title: RED EYE’S
+  description: ニセナイトセイバーズが新型ブーマを強奪。それはラルゴがセイバーズに叩きつけた挑戦状だった。ネネやリンナが憤慨する中、シルヴィを失った悲しみから立ち直れないでいたプリスは、アンリの後をつけてゲノムタワーへと向かう。だが、そんなプリスにアンリは、シルヴィの仇だと憎しみの刃を突きたてた……。<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>so32041257←前話｜次話→so32041259　第一話→so32041253
+  length_seconds: 2977
+  content_id: so32041258
+  default_thread_id: 1507072970
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041258
+- !ruby/hash:EpisodeHash
+  episode_no: PART.7
+  title: DOUBLE VISION
+  description: 人気ロックシンガーのヴィジョン(レイカ)がコンサートのために来日。だが、実は彼女は妹の敵討ちのために来日したのだった。そして、ブーマの開発責任者を誘拐して、会長のクインシーを誘き出すレイカ。だが、彼はアンドロイドだった。そこへ現れたナイトセイバーズは、ヴィジョンと護衛のブーマを撃退するが……。<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>so32041258←前話｜次話→so32041260　第一話→so32041253
+  length_seconds: 2925
+  content_id: so32041259
+  default_thread_id: 1507072617
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041259
+- !ruby/hash:EpisodeHash
+  episode_no: PART.8
+  title: SCOOP CHASE
+  description: 署長である叔父に頼み、ADポリスの見学にきたリサ。その目的はナイトセイバーズの正体をスクープすること。そんなリサが、ハードスーツのバイザー越しにネネの素顔をスクープした。だがその時、ナイトセイバーズに挑戦するため、新型ブーマを従えたマッドサイエンティストのミリアムがADポリスを占拠してしまい……!<br><br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一<br><br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC<br><br>so32041259←前話　第一話→so32041253
+  length_seconds: 3012
+  content_id: so32041260
+  default_thread_id: 1507072972
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041260
+cast: "[キャスト]<br>プリス:大森絹子／シリア:榊原良子／リンナ:富沢美智恵／ネネ:平松晶子／レオン:古川登志夫／デーリー:堀内賢雄／マッキー:佐々木望／レーヴィン:緒方賢一／メイスン:池田秀一"
+staff: "[スタッフ]<br>監督:秋山勝仁、林宏樹、大張正己、合田治章／脚本:秋山勝仁、荒牧伸志、柿沼秀樹、松崎健一、有井絵夢、鈴木敏充、吉田英俊／キャラクターデザイン:園田健一／メカニックデザイン:園田健一、荒牧伸志、柿沼秀樹／制作:アートミック、AIC"
+produced_year: "[製作年]<br>1987年"
+copyright: "(C)AIC・EMIミュージック・ジャパン"
+related_seasons: !ruby/array:Hashie::Array []

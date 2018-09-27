@@ -1,0 +1,180 @@
+--- !ruby/hash:SeasonHash
+title: プリンセス・プリンセス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/02/1/20021_1_6.png?1427216400000
+outline: 時期はずれの転校生・河野亨は、その美形さゆえに本人が気づかないうちに「姫」候補にされてしまう。初めは拒絶していた亨だが、姫役の生徒には金銭面をはじめ様々な特典があると聞き、「姫」を引き受ける。既に2名の「姫」たちもいて、その3人を中心に、強烈な個性の脇役たち（しかも全員が美形!）が繰り広げるちょっとオカシナ学園生活がはじまる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 朴璐美
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝杏里
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮下栄治
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：つだみきよe
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：新書館
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 男子校のプリンセス
+  description: 男子高校へ転入してきた河野亨は男ばかりの校内にむさ苦しさを感じるが、なぜかクラスメイトから歓迎ムードを受ける。クラス委員の坂本の案内で校内を見回る亨だが、生徒の坂本に対する態度や校内の雰囲気にさらに戸惑ってしまう。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>次話→so32226446
+  length_seconds: 1390
+  content_id: so32226715
+  default_thread_id: 1509957081
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226715
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 姫誕生
+  description: 裕史郎、実琴とともに生徒会室に呼ばれた亨は、姫制度について説明を受け、会長の有定から正式に姫の要請を受ける。断るつもりでいた亨だが、姫になると様々な特典があるときき、姫を引き受けることに。こうして３人になった姫のお披露目会が開かれることになった。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226715←前話｜次話→so32226458　第一話→so32226715
+  length_seconds: 1389
+  content_id: so32226446
+  default_thread_id: 1509954843
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226446
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 初仕事、姫様応援団
+  description: 間近に迫った地区予選大会にむけ、毎日各部を応援することになった姫達。亨にとっては姫初仕事。だが、予選を突破されてしまうと校外でも姫姿で応援をしなくてはならず、張り切る生徒達を前に複雑な気持ちになる。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226446←前話｜次話→so32226459　第一話→so32226715
+  length_seconds: 1390
+  content_id: so32226458
+  default_thread_id: 1509954881
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226458
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 裕史郎の過去
+  description: 一学期終業式。彼女がいる実琴は亨と裕史郎に散々いじられながらも、終業式当日に実家へと帰っていった。寮に残った亨と裕史郎は勉強をしようとするが、寮では昼間冷房が止められてしまい勉強どころではない。そんな中、裕史郎のもとに実家から電話が入る。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226458←前話｜次話→so32226460　第一話→so32226715
+  length_seconds: 1389
+  content_id: so32226459
+  default_thread_id: 1509954847
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226459
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 狙われた姫
+  description: 夏休みのある日。各部を応援していた姫３人は化粧を直すため家庭科室にむかう。すると家庭科室の床に散らばる無数の薔薇。気味の悪い光景に、単なるプレゼントではない何かを感じる３人だったが…<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226459←前話｜次話→so32226461　第一話→so32226715
+  length_seconds: 1390
+  content_id: so32226460
+  default_thread_id: 1509954815
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226460
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 坂本家のヒミツ
+  description: 夏の大会の応援が終わり、亨たち姫にもようやく自由な夏休みが訪れることになった。実琴は有定会長への終了報告もそこそこに彼女のもとへ。残された亨と裕史郎は生徒会の仕事で学校によばれていた秋良に会う。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226460←前話｜次話→so32226462　第一話→so32226715
+  length_seconds: 1390
+  content_id: so32226461
+  default_thread_id: 1509954754
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226461
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 汗と涙の合唱コンクール
+  description: 夏休みが終わり、２学期が始まった。徹夜で宿題をしていた実琴はいつにもまして生徒達にいじられ、亨と裕史郎は新学期早々、救いを求める生徒達に姫スマイルでこたえていた。放課後、行事が多い２学期のスケジュール打ち合わせのため、生徒会に呼び出された姫３人。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226461←前話｜次話→so32226463　第一話→so32226715
+  length_seconds: 1390
+  content_id: so32226462
+  default_thread_id: 1509954845
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226462
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 姫存続の危機！？
+  description: さやかとの一件が頭から離れない亨。亨が心配な裕史郎と実琴は秋良に相談をする。そんな中、藤森学園に一人の男がやってくる。それは父親のあとを引き継いで藤森学園の新しい理事となった、竜崎だった。有定会長に迎えられた竜崎は、校内で姫姿の亨たちをみて唖然とする。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226462←前話｜次話→so32226464　第一話→so32226715
+  length_seconds: 1390
+  content_id: so32226463
+  default_thread_id: 1509954852
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226463
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 学園祭開始！
+  description: 学園祭が近づき、自分達のステージの稽古に励む姫３人。稽古を見守る秋良は有定会長から自分の兄が学園祭に参加することを知らされる。一方彼女が遊びにくる予定の実琴は、その時間だけ姫の格好をしなくてもいいと許可をもらう。いよいよ学園祭初日。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226463←前話｜次話→so32226465　第一話→so32226715
+  length_seconds: 1390
+  content_id: so32226464
+  default_thread_id: 1509954813
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226464
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 恋人たちの時間
+  description: 学園祭２日目。一般開放日であるこの日も、亨たち姫は仕事に追われていた。そんな中、彼女が来る予定の実琴は一人そわそわと落ち着きがない。早く姫の衣装を脱ぎたい実琴だったが、姫はあちらこちらでひっぱりだこ。やっと仕事を抜けて彼女との待ち合わせ場所へ。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226464←前話｜次話→so32226457　第一話→so32226715
+  length_seconds: 1390
+  content_id: so32226465
+  default_thread_id: 1509954794
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226465
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 秘められた過去
+  description: 学園祭も終わったある日、裕史郎のもとに差出人のない一通の手紙が届く。何気なく手紙をあける裕史郎。すると手紙の中に光るカミソリが・・・。その様子を見ていた実琴はみんなに相談したほうがいいと心配するが、裕史郎はこのことは亨に言うなとだけ答える。<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226465←前話｜次話→so32226456　第一話→so32226715
+  length_seconds: 1389
+  content_id: so32226457
+  default_thread_id: 1509954893
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226457
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話　(最終話)
+  title: 姫の選ぶ道
+  description: 逃げ出したさやかを追いかける亨達。必死で逃げるさやかはどんどん山の中へ入っていく。視界が開け、目の前に崖が見える。逃げ場のなくなったさやかだが、亨たちが近づこうとするとここから飛び降りると叫ぶ。亨への思いをぶつけるさやかに裕史郎は・・・<br><br>声の出演:福山
+    潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児<br><br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎<br><br>so32226457←前話　第一話→so32226715
+  length_seconds: 1385
+  content_id: so32226456
+  default_thread_id: 1509954824
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226456
+cast: "[キャスト]<br>声の出演:福山 潤、朴璐美、柿原徹也、保志総一朗、神谷浩史、鳥海浩輔、寺島拓篤、宮下栄治、勝 杏里、野島健児"
+staff: "[スタッフ]<br>原作:つだみきよ(新書館月刊ウィングス刊)／監督:元永慶太郎"
+produced_year: "[製作年]<br>2006年"
+copyright: "(C)つだみきよ・新書館/姫後援会"
+related_seasons: !ruby/array:Hashie::Array []

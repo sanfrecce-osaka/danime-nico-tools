@@ -1,0 +1,76 @@
+--- !ruby/hash:SeasonHash
+title: 夏色の砂時計
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/1/11071_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋広樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 倉田雅世
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛河里花子
+  type: cast
+- !ruby/hash:TagHash
+  name: 荻原秀樹
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ピクチャーマジック
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：新田靖成
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：陸演隊
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岡尾貴洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：PrincessSoft
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "『砂に埋れた真実』"
+  description: 夏休み目前の終業式、牧村耕太郎は片思い中の芹沢香穂に告白しようと決意した。しかし次の朝目覚めると、不思議なことに９月１日を迎えている。さらに追い打ちをかけるように、始業式で香穂が交通事故死したことが伝えられた。これは、夢？？突如襲ってくるめまいと共に、断片的に夏休みの日々を過ごしていく耕太郎。そこで自分が、香穂と恋人同士になれたことを知った。「香穂ちゃんが死んでしまう…どうすればいいのだろう」すると未来からタイムパトローラー・リージェンが現れて…<br><br>芹沢香穂:水樹奈々／瀬能あい:倉田雅世／柳原朋美:井上喜久子／川村真魚:愛河里花子／リージェン:折笠富美子／牧村耕太郎:荻原秀樹／時枝剛士:高橋広樹  他<br><br>原　作:PrincessSoft『夏色の砂時計』／監　督:岡尾　貴洋／脚　本:静谷　伊佐夫／絵コンテ・演出:井草かおる・岡尾　貴洋／キャラクターデザイン:新田　靖成／作画監督:村井　孝司／美術監督:宮前　光春／撮影監督:所　俊克／色彩設計:のぼりはるこ／音響監督:飯塚　康一／アニメーション制作:ピクチャーマジック
+    陸演隊／制作協力:フロントライン／製作:ケイエスエス・JCM<br><br>次話→so32230685
+  length_seconds: 1805
+  content_id: so32230684
+  default_thread_id: 1510020993
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230684
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "『その永遠の1秒に』"
+  description: 香穂を助けるために、デイドロップを繰り返し奮闘する耕太郎。だが、なかなか悲しい未来を変えることができない。限られた時間だと知りながら過ごす、香穂との夏休み。カフェ、映画館、夏祭り…そして、キス。もっと一緒にいたいーーふたりの気持ちの前に立ちふさがったのが香穂の父親の「二度と娘に近づくな！」という厳しい一言。しかし運命の日・８月３１日は、刻々と迫ってくる…<br><br>芹沢香穂:水樹奈々／瀬能あい:倉田雅世／柳原朋美:井上喜久子／川村真魚:愛河里花子／リージェン:折笠富美子／牧村耕太郎:荻原秀樹／時枝剛士:高橋広樹  他<br><br>原　作:PrincessSoft『夏色の砂時計』／監　督:岡尾　貴洋／脚　本:静谷　伊佐夫／絵コンテ・演出:井草かおる・岡尾　貴洋／キャラクターデザイン:新田　靖成／作画監督:村井　孝司／美術監督:宮前　光春／撮影監督:所　俊克／色彩設計:のぼりはるこ／音響監督:飯塚　康一／アニメーション制作:ピクチャーマジック
+    陸演隊／制作協力:フロントライン／製作:ケイエスエス・JCM<br><br>so32230684←前話　第一話→so32230684
+  length_seconds: 1870
+  content_id: so32230685
+  default_thread_id: 1510020995
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230685
+cast: "[キャスト]<br>芹沢香穂:水樹奈々／瀬能あい:倉田雅世／柳原朋美:井上喜久子／川村真魚:愛河里花子／リージェン:折笠富美子／牧村耕太郎:荻原秀樹／時枝剛士:高橋広樹
+  他"
+staff: "[スタッフ]<br>原　作:PrincessSoft『夏色の砂時計』／監　督:岡尾　貴洋／脚　本:静谷　伊佐夫／絵コンテ・演出:井草かおる・岡尾　貴洋／キャラクターデザイン:新田　靖成／作画監督:村井　孝司／美術監督:宮前　光春／撮影監督:所　俊克／色彩設計:のぼりはるこ／音響監督:飯塚　康一／アニメーション制作:ピクチャーマジック
+  陸演隊／制作協力:フロントライン／製作:ケイエスエス・JCM"
+produced_year: "[製作年]<br>2004年"
+copyright: "©PrincessSoft／Softgarage・PictureMagic"
+related_seasons: !ruby/array:Hashie::Array []

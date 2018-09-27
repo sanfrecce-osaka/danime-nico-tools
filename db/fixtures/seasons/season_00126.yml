@@ -1,0 +1,171 @@
+--- !ruby/hash:SeasonHash
+title: EAT-MAN
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/06/0/11060_1_6.png?1427216400000
+outline: ネジ喰う男、世界一の冒険屋！月刊「電撃コミック ガオ！」吉富昭仁の人気マンガを原作に、1997年にアニメ化された全編オリジナルストーリーTVシリーズ。ネジや金属片を食し、敵に立ち向かう時には右手から食した武器を出現させて戦う自称“冒険屋”ボルト・フランク。世界中を旅しながら、受けた依頼は必ず遂行する。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：真下耕一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：冨岡淳広
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：松井亜弥
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：村田俊治
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：真下耕一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：面出明美
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉富昭仁
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：ビースタック
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1997年
+  type: other
+- !ruby/hash:TagHash
+  name: 闘う男たち
+  type: other
+- !ruby/hash:TagHash
+  name: メディアワークス
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ガラスの壁
+  description: 保護か支配か不可解なガラスの壁が林立する国境付近の街ダルジャン。マフィアの範に命を狙われるマークは女冒険屋キュレネを雇う。商談の折、場末の酒場で出会うはボルト・クランク、金属片を食する男はこともなげに自らを「冒険屋」と名乗るが…、その右腕がもたらす結末は「冒険」それとも…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>次話→so32155250
+  length_seconds: 1389
+  content_id: so32155249
+  default_thread_id: 1508886460
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155249
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 滅びゆく者
+  description: 最先端遺伝子工学の研究所を擁した島、と言っても今は昔、特殊生物の生成で隆盛を極めた研究も途絶して島全体は廃墟と化している。絶滅した生物の兵器転用を狙って赴く軍部だが、招かれた女性研究者アレサ博士には別の目論見が…。同行するボルト・クランクの「冒険」が明かす生物とは…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155249←前話｜次話→so32155251　第一話→so32155249
+  length_seconds: 1418
+  content_id: so32155250
+  default_thread_id: 1508886462
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155250
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 約束の部屋
+  description: 王都ルビルス、歴史に名を残す交易都市。その栄華の跡を継ぐ唯一の場所プロミーズホテル、そこでは1枚の肖像画が魔力を擁すとされ、数々の冒険屋を挫折させている。肖像画強奪を目論む男、レーモン・デュソリエはボルト・クランクを送り出す。ホテルでは美貌の女主人、アニーナが出迎える…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155250←前話｜次話→so32155252　第一話→so32155249
+  length_seconds: 1419
+  content_id: so32155251
+  default_thread_id: 1508886458
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155251
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 同業のよしみ
+  description: クローツァリア国。独裁者ゾルミン暗殺を狙う反政府ゲリラのリーダー、ロード・レックス。送り込んだ冒険屋マクガイヤ・ストウが音信不通を経て招かれたのはボルト・クランク。同業者ストウとの因縁もあって断りかける依頼だが、村娘ジャスティンを餌にやむなく始まる特殊作戦、その結末は…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155251←前話｜次話→so32155253　第一話→so32155249
+  length_seconds: 1419
+  content_id: so32155252
+  default_thread_id: 1508886622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155252
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 雨、そのあと
+  description: 名も知らぬ街、雨の夜、場末のストリップ小屋の軒に身を潜める影。踊り子ドナは影に呼びかける。雨宿りの男、名前はボルト・クランク。招かれたドナの部屋には壊れたラジオ、その心には壊れようもない夢…「いつの日か大劇場のダンサーに」。夢見る踊り子ドナを襲う幸運と悲運、ボルトがしたことは…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155252←前話｜次話→so32155254　第一話→so32155249
+  length_seconds: 1417
+  content_id: so32155253
+  default_thread_id: 1508886286
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155253
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 遺伝子の窓
+  description: "「父の遺品を探してほしいの」…依頼は不意に訪れる。女の名はリリ・スワンソン、その腕前は同行するボルトの眼にも歴然。だが彼女は指名手配中の身。追手を逃れ2人が辿り着いたのは巨大なゴミ廃棄場、その奥に眠るはプロホノフ研究所。ついに“父の遺品”が、そしてリリの中に眠る遺伝子が試されるが…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155253←前話｜次話→so32155255　第一話→so32155249"
+  length_seconds: 1417
+  content_id: so32155254
+  default_thread_id: 1508886269
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155254
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 誘惑の墓場
+  description: モルグールの村、女司祭シリル・ドゥに招かれるボルト・クランク。美神ヴィシュヌの教え“変化”を尊ぶ信仰「奇跡の国」を率いるシリルは厳格な戒律で信徒を支配しつつも、ボルトの右腕の前に揺れる心を隠せない。そして神殿への新たなる訪問者デサルヴォ、教えのままに殺人を重ねた男の贖罪、その時ボルトは…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155254←前話｜次話→so32155256　第一話→so32155249
+  length_seconds: 1417
+  content_id: so32155255
+  default_thread_id: 1508886267
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155255
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 氷柱の沈黙
+  description: 軍事国家ザガード。死刑囚タチアナの態度に不審を抱く所長グリフェルドの依頼で刑務所へ潜入するボルト・クランク。タチアナは敵国エスタンジアに部下の命と国家機密を売った罪を問われながらも、ただ沈黙するのみ。彼女の眼前にボルトが示した1枚の認識票がもたらす波紋、真実は果たしてどこにあるのか…?<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155255←前話｜次話→so32155276　第一話→so32155249
+  length_seconds: 1417
+  content_id: so32155256
+  default_thread_id: 1508886464
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155256
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 孤高の空
+  description: 解体屋ルーカスがボルト・クランクに持ちかけた依頼、それは数日で彼と恋人シェリーの住むローリスの町に墜落するという漂流飛行船解体のサポートだった。町への墜落を阻止すべく命懸けの大仕事に臨むルーカスとその背中を微笑で見送るシェリー。迫りくるタイムリミットを目前にしたボルトの秘策とは…？<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155256←前話｜次話→so32155277　第一話→so32155249
+  length_seconds: 1418
+  content_id: so32155276
+  default_thread_id: 1508887043
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155276
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 夢のかけら
+  description: 戦時下のイブローニュ国。マルディ・ガーツ中佐は前線基地から総督のもとへと赴くため、身辺警護にボルト・クランクを雇う。だが目的地の叙勲パーティー会場で彼女が目の当たりにしたのは軍の醜態、そこへ敵国アルコリクの奇襲が。砲撃のさなか、猜疑心にさいなまれたガーツの部下の凶弾が炸裂、そして…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155276←前話｜次話→so32155278　第一話→so32155249
+  length_seconds: 1418
+  content_id: so32155277
+  default_thread_id: 1508887041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155277
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 楽園
+  description: 美しい孤島の療養所、ベッドの上で目覚めたボルト・クランクの体には新たな変化が。ボルトの傍らで治療を施す女医ジェシカ、安らかな日々の中で2人の心が寄り添う時、突如呪われた「死神」。何処かへボルトを連れ去ろうとするその真意とは？
+    悲痛に叫ぶジェシカ、そしてボルトの行き着く先は…？<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155277←前話｜次話→so32155301　第一話→so32155249
+  length_seconds: 1418
+  content_id: so32155278
+  default_thread_id: 1508886930
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155278
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 無限の翌日
+  description: ボルトを蘇生させた女造船屋ラティシアの夢は、壊れてなお墜落しない飛行船ラヴィオンの秘密と、それを超える船の建造だった。調査のためラヴィオンを落とすという依頼をいったんは断るボルトだったが、それでも単身謎に挑もうとするラティシアに同行することに。永遠を飛ぶ船の深奥で彼らを待つものとは…。<br><br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他<br><br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック<br><br>so32155278←前話　第一話→so32155249
+  length_seconds: 1392
+  content_id: so32155301
+  default_thread_id: 1508887524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155301
+cast: "[キャスト]<br>ボルト・クランク:江原正士／キュレネ・ガルポ:久川綾／他"
+staff: "[スタッフ]<br>原作:吉富昭仁（メディアワークス刊）／監督・シリーズ構成:真下耕一／脚本:真下耕一・面出明美・松井亜弥・冨岡淳広／キャラクターデザイン:村田俊治／メカニックデザイン:伊藤浩二／アニメーション制作:スタジオディーン／企画・制作:ビースタック"
+produced_year: "[製作年]<br>1997年"
+copyright: "(C)吉富昭仁／アスキー・メディアワークス／バンダイビジュアル"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: EAT-MAN’98

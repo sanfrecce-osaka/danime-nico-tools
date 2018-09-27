@@ -1,0 +1,43 @@
+--- !ruby/hash:SeasonHash
+title: シコロボ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/2/10602_1_6.png?1427216400000
+outline: ハンガリー生まれのダラダラスモウファイト、ついに日本上陸だ!ルールや勝負を超えた独特な世界。ズッコケ・だらだら・またズッコケて、どーでもいいのに目が離せない笑いの遺伝子に直撃の新感覚映像。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 演出：ヨモギダ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ピーター・シュルツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#20"
+  title: シコロボ大地に立つ!/シコロボ破壊命令/敵の××を叩け!/…他
+  description: "【全39話を全2話に構成して配信しております。】シコロボ大地に立つ!／シコロボ破壊命令／敵の××を叩け!／土俵脱出作戦／大気圏突入中／四股太郎出撃す／戦場は土俵／翔べ!シコロボ／四股太郎散る／シコロボ、恋のあと／四股次郎の脅威／再会、ママンよ・・・・・・／時間よ、まったなし!／潜水土管の島／シコロボ脱走／灼熱のシコロボ／シコロボ特攻!
+    ／死闘! シコロボ／シコロボ包囲網を破れ! ／シコロボ救出作戦<br><br>原作:ピーター・シュルツ／ 演出:ヨモギダ<br><br>次話→so32036561"
+  length_seconds: 691
+  content_id: so32036560
+  default_thread_id: 1507003818
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036560
+- !ruby/hash:EpisodeHash
+  episode_no: "#21-#39"
+  title: 迫撃!シコロボ/シコロボ強襲/女シコロボ潜入!/…他
+  description: "【全39話を全2話に構成して配信しております。】迫撃!シコロボ／シコロボ強襲／女シコロボ潜入! ／小さなシコロボ／シコロボ散る! ／復活のシコロボ／旅立ち／シコロボの脱走／シコロボの裏側／父とシコロボと・・・／シコロボ・シティ／シコロボの鼓動／シコロボの眼／シコロボが落ちる日／シコロボの亡霊／シコロボの帰還／シコロボ・ラブ／永遠のシコロボ／天から来るシコロボ<br><br>原作:ピーター・シュルツ／
+    演出:ヨモギダ<br><br>so32036560←前話　第一話→so32036560"
+  length_seconds: 448
+  content_id: so32036561
+  default_thread_id: 1507003509
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036561
+staff: "[スタッフ]<br>原作:ピーター・シュルツ／ 演出:ヨモギダ"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,211 @@
+--- !ruby/hash:SeasonHash
+title: こみっくパーティー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/1/10031_1_6.png?1427216400000
+outline: "｢こみパとは!!｣職業作家として商業誌にデビューするのが目的ではなく。同人誌を制作し、“こみっくパーティー(略してこみパ)”という同人誌即売会で同人誌キングを目指すのだ!"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: こおろぎさとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: こやまきみこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 茂呂田かおる
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠近孝一
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川静
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田美穂
+  type: cast
+- !ruby/hash:TagHash
+  name: むたあきこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 茶山莉子
+  type: cast
+- !ruby/hash:TagHash
+  name: 百々麻子
+  type: cast
+- !ruby/hash:TagHash
+  name: 馬場澄江
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：OLM
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：横手美智子
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：山口宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：須藤典彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：藤田伸三
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田口広一
+  type: staff
+- !ruby/hash:TagHash
+  name: こみっくパーティシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: ケイエスエス
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢運命の初体験!?｣"
+  description: 悪友大志に誘われ、はじめて即売会に行く和樹。そして、同人誌作りの話を持ちかけられた。<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>次話→so31891509
+  length_seconds: 1465
+  content_id: so31891507
+  default_thread_id: 1504890001
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891507
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢想いをこめて｣"
+  description: 同人誌の原稿にとりかかる和樹。が、はじめての事に何を描いていいのかわからない。ただ時間だけが過ぎていく。<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891507←前話｜次話→so31891510　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891509
+  default_thread_id: 1504889978
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891509
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢売る人買う人即売会｣"
+  description: はじめて即売会に参加する和樹。何をどうして良いのかわからない中、机を共有する隣のサークルの長谷部彩と知り合う。<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891509←前話｜次話→so31891543　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891510
+  default_thread_id: 1504889983
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891510
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢お金がすごく無い!｣"
+  description: 即売会で金を使い果たした和樹。大使の薦めで行ったバイト先はコスプレ喫茶だった。そこでコスプレイヤー芳賀玲子と出会う。<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891510←前話｜次話→so31891544　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891543
+  default_thread_id: 1504891013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891543
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢それが問題だ｣"
+  description: 同人誌に夢中になるあまり、学業にも影響の出始めた和樹。心配した瑞希は、同人誌の先輩とも言うべき牧村南に相談する。<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891543←前話｜次話→so31891545　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891544
+  default_thread_id: 1504890915
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891544
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "｢目指せ、こみっくパーティー!｣"
+  description: 瑞希とデートに出かけた和樹。だが、目に付くモノすべてが次回作のヒントにしか映らない。和樹は正しい道を歩いているのか……?<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891544←前話｜次話→so31891546　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891545
+  default_thread_id: 1504891011
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891545
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "｢希望の祭典!｣"
+  description: ついに和樹は最大の即売会“こみっくパーティー”に参加した。自信満々の和樹だったが、本の売れ行きは……?<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891545←前話｜次話→so31891547　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891546
+  default_thread_id: 1504890908
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891546
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "｢渚にて…｣"
+  description: 瑞希に誘われ、和樹は海へ。が、傷心の和樹は気遣ってくれる瑞希みまであたりちらす。二人の関係は……?<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891546←前話｜次話→so31891548　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891547
+  default_thread_id: 1504891075
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891547
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "｢すてきれない夢｣"
+  description: 落ち込んだままの和樹。見かねた由宇は、こじんまりと開かれている即売会に彼を誘う。何かを見つけられることを期待して。<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891547←前話｜次話→so31891549　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891548
+  default_thread_id: 1504891041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891548
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "｢二人の距離｣"
+  description: 文化祭が近づいた。喫茶店の模擬店の準備で、看板を担当したのは和樹と瑞希の二人だった。亀裂を埋めることは出来るのか?<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891548←前話｜次話→so31891550　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891549
+  default_thread_id: 1504890961
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891549
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "｢見えない明日｣"
+  description: 謎のファンだった女性と出会う和樹。自分の将来への漠然した不安が、彼女との会話で氷解していく。光が……見えた?<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891549←前話｜次話→so31891551　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891550
+  default_thread_id: 1504890960
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891550
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "｢ブラザー2、再び｣"
+  description: 和樹は再び立ち上がった。冬の“こみっくパーティー”への参加を決意する。が、肝心の参加申込書が見あたらない……!?<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891550←前話｜次話→so31891552　第一話→so31891507
+  length_seconds: 1465
+  content_id: so31891551
+  default_thread_id: 1504890957
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891551
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: "｢ぼくたちのパーティー｣"
+  description: クリスマスイブ、冬こみ前日。大ピンチの和樹を仲間立ちが結集して手伝ってくれた。そして、瑞希は……!!<br><br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+    他<br><br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス<br><br>so31891551←前話　第一話→so31891507
+  length_seconds: 1436
+  content_id: so31891552
+  default_thread_id: 1504891057
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891552
+cast: "[キャスト]<br>千堂和樹:菊池正美／高瀬瑞希:茶山莉子／猪名川由宇:茂呂田かおる／大庭詠美:石川静／塚本千紗:馬場澄江／牧村南:山田美穂／長谷部彩:そのざきみえ／芳賀玲子:むたあきこ／九品仏大志:遠近孝一／桜井あさひ:こおろぎさとみ／立川郁美:古山きみこ／美穂:菊地由美／編集長:百々麻子
+  他"
+staff: "[スタッフ]<br>原作:アクアプラス／監督:須藤典彦／シリーズ構成・脚本:山口宏／脚本:横手美智子・藤田伸三／総作画監督・キャラクターデザイン:田口広一／美術:小林プロダクション／アニメーション制作:O.L.M.／製作:ケイエスエス"
+produced_year: "[製作年]<br>1999年"
+copyright: "(C)2001 AQUAPLUS/ケイエスエス"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: こみっくパーティRevolution

@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: Genius Party Beyond
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/02/5/22025_1_6.png?1519614047000
+outline: "『鉄コン筋クリート』『マインド・ゲーム』『THE ANIMATRIX』など、斬新な話題作を次々と放ってきたビジュアルクリエイティヴ集団・STUDIO４℃。
+  彼らによる意欲的プロジェクトが、この『Genius Party』である。 「制約＝ゼロ」というコンセプトのもと、才能溢れる多彩な監督たちが短編アニメーションを競作。第１弾では、７人の作家陣が無限のクリエイティヴィティを軽やかに披露した。そして1年後、待望の第２弾がそのヴェールを脱いだ。題して『Genius
+  Party Beyond』。 前作で示された広大なアニメーションの表現領域から、さらに彼方（Beyond）へと突き抜ける鮮烈な傑作群がここに集結した。 それらはまさに、アニメーションの歴史に新たなマイルストーンを打ち立てる珠玉のフィルムたち。その衝撃を目撃できる至福に震えてほしい。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 一条和矢
+  type: cast
+- !ruby/hash:TagHash
+  name: 水原薫
+  type: cast
+- !ruby/hash:TagHash
+  name: 江戸家小猫
+  type: cast
+- !ruby/hash:TagHash
+  name: 高田聖子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林顕作
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中澤一登
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：前田真宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中澤一登
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：前田真宏
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大平晋也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大平晋也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：田中達之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田中達之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：森本晃司
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：森本晃司
+  type: staff
+- !ruby/hash:TagHash
+  name: Genius Partyシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: Genius Party Beyond
+  description: "#1「GALA」神々の暮らす地に突如として現れた巨大な物体。その内に秘められた生命の鼓動に感応した者たちは、目覚めを促すために盛大な宴を催す。祝祭の歓びを高らかに謳う神話的な物語。／#2「MOONDRIVE」月面都市に悪名を轟かせる4人の無法者、ジーコ、ユキ、ミッチー、ペケペケ。お宝の噂を聞きつけた彼らは、ある時計屋から１枚の古ぼけた地図を手に入れる。それは伝説の宝の地図を探すための地図だった。／#3「わんわ」
+    お母さんへの「ありがとう」の気持ちをこめて…。小さな男の子の夢冒険へ出発進行！！／#4「陶人キット」巨大な工場に飲み込まれたかのような集合住宅。その一室に暮らすひとりの若い女。彼女は奇妙な機械を使って、人形に“陶虫”と呼ばれる謎の生き物を埋め込み、命を与えていた。ある日、通報を受けた管理局の捜査官・島田とグラスヘッドたちが部屋に踏み込んできた。／#5「次元爆弾」蛹を被った少年シンは、ある時、クウという少女に出会った。他の誰にも似ていない、自由奔放な彼女との日々は、シンの心を変えていった。あてどなく暴走し、浮遊する魂と体。温かくて冷たい、楽しくて悲しい、天使のようで悪魔のような彼女は、今どこにいるのだろう。少年は蛹の殻を突き破り、前に進むことができるのだろうか。<br><br>#1｢GALA｣高乃麗:江戸家小猫／#2
+    ｢MOONDRIVE｣ 古田新太:高田聖子／#3｢わんわ｣ 鈴木晶子:一条和矢／#4｢陶人キット｣ 佐野史郎:水原薫／#5 ｢次元爆弾｣ 菅野よう子:小林顕作<br><br>DIRECTORS:#1「GALA」監督・絵コンテ・キャラクターデザイン・原画：前田真宏　#2「MOONDRIVE」監督・絵コンテ・キャラクターデザイン・作画監督・原画：中澤一登　#3「わんわ」監督・絵コンテ・キャラクターデザイン・作画監督・原画：大平晋也　#4「陶人キット」監督・絵コンテ・キャラクターデザイン・作画監督・原画・美術監督：田中達之　#5「次元爆弾」監督・絵コンテ・キャラクターデザイン・作画監督・原画：森本晃司"
+  length_seconds: 4858
+  content_id: so32814195
+  default_thread_id: 1519890309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32814195.80158
+cast: "[キャスト]<br>#1｢GALA｣高乃麗:江戸家小猫／#2 ｢MOONDRIVE｣ 古田新太:高田聖子／#3｢わんわ｣ 鈴木晶子:一条和矢／#4｢陶人キット｣
+  佐野史郎:水原薫／#5 ｢次元爆弾｣ 菅野よう子:小林顕作"
+staff: "[スタッフ]<br>DIRECTORS:#1「GALA」監督・絵コンテ・キャラクターデザイン・原画：前田真宏　#2「MOONDRIVE」監督・絵コンテ・キャラクターデザイン・作画監督・原画：中澤一登　#3「わんわ」監督・絵コンテ・キャラクターデザイン・作画監督・原画：大平晋也　#4「陶人キット」監督・絵コンテ・キャラクターデザイン・作画監督・原画・美術監督：田中達之　#5「次元爆弾」監督・絵コンテ・キャラクターデザイン・作画監督・原画：森本晃司"
+produced_year: "[製作年]<br>2008年"
+copyright: "©Genius Party Beyond"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Genius Party

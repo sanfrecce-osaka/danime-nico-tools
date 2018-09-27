@@ -1,0 +1,237 @@
+--- !ruby/hash:SeasonHash
+title: TVアニメーション　下級生
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/3/10033_1_6.png?1427216400000
+outline: 1996年にPC-98版で登場し、のちにセガサターン版、98年Windows版が発売された、エルフの大ヒット恋愛SLG『下級生』が原作。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠近孝一
+  type: cast
+- !ruby/hash:TagHash
+  name: 茶山莉子
+  type: cast
+- !ruby/hash:TagHash
+  name: 柳原みわ
+  type: cast
+- !ruby/hash:TagHash
+  name: 星野千寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 雪絵れな
+  type: cast
+- !ruby/hash:TagHash
+  name: 永瀬いくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶村ひろこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 三五美奈子
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺真由美
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：蛭田昌人
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鹿島典夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 下級生シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: 小林七郎
+  type: other
+- !ruby/hash:TagHash
+  name: Dr.POCHI
+  type: other
+- !ruby/hash:TagHash
+  name: 門井亜矢
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1章
+  title: "｢春風のいたずら｣"
+  description: 春4月―新学期を迎え、3年生になった山口剛は、いつものように遅刻ぎりぎりで慌てて学校へと向かっていた途中、木から降りられなくなってしまった子猫を助けようとしている女の子、南里愛と出会う。実は愛にとって剛は、以前からあこがれていた先輩だった・・・。運命的な出会いをした二人の恋の行方は…？<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>次話→so31891568
+  length_seconds: 1567
+  content_id: so31891567
+  default_thread_id: 1504891216
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891567
+- !ruby/hash:EpisodeHash
+  episode_no: 第2章
+  title: "｢桜色のときめき｣"
+  description: 剛への好意をなかなか態度に表せないでいる愛。彼女の親友、飯島美雪はそんな彼女を見るに見かねて、剛とのデートをセッティングする。しかしデートの当日、剛は神山みこの神社の大掃除を手伝うことになってしまう…。一方、世界一公園で一人待つ愛だったが、約束の時間になっても剛は現れず…。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891567←前話｜次話→so31891569　第一話→so31891567
+  length_seconds: 1577
+  content_id: so31891568
+  default_thread_id: 1504891267
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891568
+- !ruby/hash:EpisodeHash
+  episode_no: 第3章
+  title: "｢夢見る若葉｣"
+  description: 美雪は剛から持ちかけられたデートの話に戸惑っていた。それは美雪を想う匿名の誰かと、剛と愛のWデートの企画だった。悩んだ末、美雪は思い切ってOKの返事をした。さて日曜日、待ち合わせにいたのは剛と、美雪に一目惚れしてしまった喫茶店のマスターだった！美雪の相手はおじさま・・・！このデート、どうなる？<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891568←前話｜次話→so31891570　第一話→so31891567
+  length_seconds: 1570
+  content_id: so31891569
+  default_thread_id: 1504891280
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891569
+- !ruby/hash:EpisodeHash
+  episode_no: 第4章
+  title: "｢雨雲の向こう側｣"
+  description: 剛は美術部部長のクラスメイト・加納涼子から、絵のモデルの依頼を受ける。快くOKする剛を自室に招いた涼子は、開口一番｢……全部、脱いで｣。驚く剛だが断ることは出来ない。全裸の剛を涼子は黙々とデッサンするのだった。次の日、美術室で剛はもう一度モデルになったが、そのやりとりが、剛の涼子のHな写真となって校内中に貼り出されてしまった！<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891569←前話｜次話→so31891571　第一話→so31891567
+  length_seconds: 1555
+  content_id: so31891570
+  default_thread_id: 1504890985
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891570
+- !ruby/hash:EpisodeHash
+  episode_no: 第5章
+  title: "｢潮風のめぐりあい｣"
+  description: 待望の夏休みに、剛は海の家でバイトを始めた。偶然にも愛と美雪が来ていたが、剛は忙しくてなかなか遊べない。そのうち、美雪が些細なことで見知らぬ男たちと言い合いになってしまった。剛が美雪をかばい事なきをえたものの、バイトをおっぽりだした剛はクビ。肩を落として海辺を歩く剛は、大きな瞳が印象的な美少女と出逢う。剛は一目で彼女に心奪われてしまった。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891570←前話｜次話→so31891572　第一話→so31891567
+  length_seconds: 1575
+  content_id: so31891571
+  default_thread_id: 1504891257
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891571
+- !ruby/hash:EpisodeHash
+  episode_no: 第6章
+  title: "｢かすみ草に感謝を込めて｣"
+  description: 真由美から花屋のバイトを紹介され、店を訪ねた剛は海で出遭った美少女―持田真歩子と再会する。真面目に仕事をする剛の姿や、優しい一面に触れて、真歩子も剛を意識するようになる。そんなある日、心沈む真歩子は、めしべが未処理の花をうっかり売ってしまう。クレームに来た客に、真歩子をかばって剛に必死に謝った。意気消沈する真歩子を元気づけようと剛は・・・。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891571←前話｜次話→so31891573　第一話→so31891567
+  length_seconds: 1563
+  content_id: so31891572
+  default_thread_id: 1504891243
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891572
+- !ruby/hash:EpisodeHash
+  episode_no: 第7章
+  title: "｢去りゆく夏・・・｣"
+  description: 真歩子との距離を一気に縮めた剛は、彼女を誘い夜の公園に出かけた。｢私のこと捕まえられたら何でも言うこと聞きますよ｣という真歩子の挑発に、剛は優しくキスで答えるのだった・・・。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891572←前話｜次話→so31891575　第一話→so31891567
+  length_seconds: 1566
+  content_id: so31891573
+  default_thread_id: 1504891174
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891573
+- !ruby/hash:EpisodeHash
+  episode_no: 第8章
+  title: "｢わがままな秋桜｣"
+  description: 2学期が始まり、席替えで剛の隣になったのが、朝、車で泥をはねつけた麗子だった。まったく謝る様子がなく、お金で解決しようとする麗子の態度に、剛の怒りが爆発！そんな剛にとまどいながらも麗子は恋の始まりを予感していた。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891573←前話｜次話→so31891576　第一話→so31891567
+  length_seconds: 1564
+  content_id: so31891575
+  default_thread_id: 1504891214
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891575
+- !ruby/hash:EpisodeHash
+  episode_no: 第9章
+  title: "｢すれ違う落ち葉たち・・・｣"
+  description: 楽しい文化祭の季節がやってきた。クラスで喫茶店を出店することになり、いやいやながらも頑張る剛。忙しい中でお互いすれ違い会うことが出来ない剛と愛の二人。そんな二人を見守る美雪の気持ちに何かが・・・<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891575←前話｜次話→so31891605　第一話→so31891567
+  length_seconds: 1539
+  content_id: so31891576
+  default_thread_id: 1504891166
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891576
+- !ruby/hash:EpisodeHash
+  episode_no: 第10章
+  title: "｢冬の予感・・・｣"
+  description: 人恋しい冬。陸上部の練習中、剛に声を掛けられ怪我をしてしまう美雪。剛に優しくてされればされるほど、美雪の中にはどうしようもなき気持ちが芽生えてくるのだった。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891576←前話｜次話→so31891606　第一話→so31891567
+  length_seconds: 1565
+  content_id: so31891605
+  default_thread_id: 1504891291
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891605
+- !ruby/hash:EpisodeHash
+  episode_no: 第11章
+  title: "｢雪降る夜に・・・｣"
+  description: 愛は勇気を振り絞って、クリスマスの日に剛をデートに誘った。美雪の気持ちに気づき、不安に感じる愛は、デート当日不器用ながらも精一杯自分の気持ちを剛にぶつける。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891605←前話｜次話→so31891647　第一話→so31891567
+  length_seconds: 1562
+  content_id: so31891606
+  default_thread_id: 1504891184
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891606
+- !ruby/hash:EpisodeHash
+  episode_no: 第12章
+  title: "｢揺れる冬木立｣"
+  description: 風邪を引いてしまった美雪は、見舞いに来た愛と顔を合わせようともしない。自分でもどうしようもない思いを断ち切るために、剛を買い物に誘う美雪。楽しい恋人気分を味わう二人だが、それはほんのひとときでしかなかった。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891606←前話｜次話→so31891648　第一話→so31891567
+  length_seconds: 1526
+  content_id: so31891647
+  default_thread_id: 1504892214
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891647
+- !ruby/hash:EpisodeHash
+  episode_no: 第13章
+  title: "｢春風・・・再び｣"
+  description: 愛と剛はすれ違いが続き、刻々と時間だけが過ぎていく。美雪の言葉に後押しされ、剛は愛を探しに飛び出していく。自分のことを信じ、ずっと寒い外で待ち続ける愛の姿を見つけた剛は・・・。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891647←前話｜次話→so31891649　第一話→so31891567
+  length_seconds: 1554
+  content_id: so31891648
+  default_thread_id: 1504892140
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891648
+- !ruby/hash:EpisodeHash
+  episode_no: 番外編
+  title: "｢はじめまして ティナ！｣"
+  description: 転校生がやってきた。その名はティナ。彼女は、普通の女の子と少し違っていた。それは、普段着が水着で、空を飛べてしまうのであった。剛の事が気に入った彼女は、積極的につきまとうが、剛は普通の女の子がいいと冷たい対応。どうにか、普通の服を着て空を飛ばないことを条件にデートをするが・・・。<br><br>山口
+    剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬 いくみ／橘 真由美:星野
+    千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか<br><br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺
+    真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI<br><br>so31891648←前話　第一話→so31891567
+  length_seconds: 1581
+  content_id: so31891649
+  default_thread_id: 1504892175
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891649
+cast: "[キャスト]<br>山口 剛:遠近 孝一／南里 愛:三五 美奈子／飯島 美雪:そのざきみえ／神山 みこ:柳原 みわ／結城 瑞穂:茶山 莉子／新藤 麗子:永瀬
+  いくみ／橘 真由美:星野 千寿子／三月 静香:雪絵 れな／山下 美夏:梶村 ひろこ ほか"
+staff: "[スタッフ]<br>原作:蛭田 昌人(エルフ)／監督:鹿島 典夫／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺 真由美／美術監督:小林 七郎／スーパーバイザー:Dr.POCHI"
+produced_year: "[製作年]<br>1999年"
+copyright: "(C)1999　エルフ/ピンクパイナップル"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 下級生2　～瞳の中の少女たち～

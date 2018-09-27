@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: トランスフォーマー ザ・リバース
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/47/4/10474_1_6.png?1427216400000
+outline: セイバートロン星に保管されたプラズマ・エネルギー・チェンバーを巡り争うサイバトロンとデストロンやがて、その戦いは惑星ネビュロンに舞台を移す。折りしもそこでは住民達と悪の組織ハイプが戦っていた。新戦士ヘッドマスターやターゲットマスターを加え、サイバトロンとデストロンの戦いの物語が再び始まった・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: トランスフォーマーシリーズ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '1'
+  title: ヘッドマスター誕生
+  description: 日本語版演出:田島壮三<br><br>次話→so31875538
+  length_seconds: 1301
+  content_id: so31875537
+  default_thread_id: 1504668748
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875537
+- !ruby/hash:EpisodeHash
+  episode_no: '2'
+  title: デストロンの反撃
+  description: 日本語版演出:田島壮三<br><br>so31875537←前話｜次話→so31875539　第一話→so31875537
+  length_seconds: 1270
+  content_id: so31875538
+  default_thread_id: 1504668746
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875538
+- !ruby/hash:EpisodeHash
+  episode_no: '3'
+  title: 銀河最大の危機
+  description: 日本語版演出:田島壮三<br><br>so31875538←前話　第一話→so31875537
+  length_seconds: 1279
+  content_id: so31875539
+  default_thread_id: 1504668930
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875539
+staff: "[スタッフ]<br>日本語版演出:田島壮三"
+produced_year: "[製作年]<br>1987年"
+copyright: "（C）TOMY"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超生命体トランスフォーマー ビーストウォーズ・リターンズ
+- !ruby/hash:SeasonHash
+  title: キュートランスフォーマー　帰ってきたコンボイの謎
+- !ruby/hash:SeasonHash
+  title: 戦え!超ロボット生命体 トランスフォーマー
+- !ruby/hash:SeasonHash
+  title: 戦え!超ロボット生命体 トランスフォーマー 2010
+- !ruby/hash:SeasonHash
+  title: トランスフォーマー アニメイテッド
+- !ruby/hash:SeasonHash
+  title: 超ロボット生命体 トランスフォーマー プライム
+- !ruby/hash:SeasonHash
+  title: ビーストウォーズ　超生命体トランスフォーマー
+- !ruby/hash:SeasonHash
+  title: ビーストウォーズメタルス　超生命体トランスフォーマー
+- !ruby/hash:SeasonHash
+  title: トランスフォーマー ザ☆ヘッドマスターズ
+- !ruby/hash:SeasonHash
+  title: トランスフォーマー 超神マスターフォース
+- !ruby/hash:SeasonHash
+  title: 戦え！超ロボット生命体　トランスフォーマーＶ

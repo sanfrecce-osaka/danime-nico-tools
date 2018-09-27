@@ -1,0 +1,186 @@
+--- !ruby/hash:SeasonHash
+title: 魔王ダンテ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/1/10281_1_6.png?1427216400000
+outline: 二千年の封印を解かれたダンテが、宇津木涼に憑依するところからこの物語は始まる。自分の姿が、魔王ダンテに変貌するたびに加速していく涼の苦悩は、善か、それとも悪か?涼は、魔王に選ばれた｢人類｣。宇津木家の長男となった彼の秘密が、次第に明かされる…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉進歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 石丸博也
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山武宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：上原正三
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 悪夢
+  description: '日ごとの悪夢が宇津木涼をむしばむ。そんな彼を心配するいたいけな妹、沙織と家族。気分転換のバイク・ツーリング中にガードレールに衝突!!
+    一方平穏な街で、怪奇事件が次々と起こっていた…!!<br><br>宇津木 涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介:
+    小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション: 石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>次話→so31928309'
+  length_seconds: 1475
+  content_id: so31928308
+  default_thread_id: 1505467235
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928308
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 儀式
+  description: '悪魔崇拝者グループ、サタニスト!! 彼等はより協力な悪魔を甦らせるべく数千年の時を経て、黒ミサを決行。この黒ミサにうってつけの生贄こそ涼の妹、沙織であった…。<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928308←前話｜次話→so31928310　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928309
+  default_thread_id: 1505467051
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928309
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 復活
+  description: '世界の存亡を賭け、ダンテ復活を阻止しようとする神の結社｢Z｣。しかし、サタニストによるダンテ復活の計画は着々と進行していた…!!<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928309←前話｜次話→so31928311　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928310
+  default_thread_id: 1505467233
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928310
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 狂乱
+  description: '天からの声により、ダンテ復活を伝えられた神の結社は遂に悪魔との最終戦争が始まることを予期する…!!<br><br>宇津木 涼: 千葉進歩／宇津木沙織:
+    小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション: 石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928310←前話｜次話→so31928312　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928311
+  default_thread_id: 1505467035
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928311
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 宿命
+  description: '自衛隊の猛攻撃を受ける涼=ダンテ。だが、不死身の肉体は一切攻撃を受けつけない。死ねない絶望は怒りへと変わり、名古屋を焦土と化す…。<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928311←前話｜次話→so31928313　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928312
+  default_thread_id: 1505467010
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928312
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 予兆
+  description: '魔王ダンテの復活に対し｢神｣は、神の結社に悪魔四天王の存在を告げる。｢悪魔を倒すのは悪魔にやらせるのだ。｣と…。<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928312←前話｜次話→so31928503　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928313
+  default_thread_id: 1505466988
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928313
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 邂逅
+  description: '自分自身が悪魔であることを受け入れられずにいる涼。一方、神の結社が放った人工悪魔の残虐な殺人を食い止めるため、悪魔の力を奪う…。<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928313←前話｜次話→so31928504　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928503
+  default_thread_id: 1505468873
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928503
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 不信
+  description: '悪魔四天王と人工悪魔を使い、市民を虐殺する神の結社。悪魔の恐ろしさを大衆に植えつけられ、悪魔狩りの予兆が生まれる…。<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928503←前話｜次話→so31928505　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928504
+  default_thread_id: 1505468714
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928504
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: 魔宮
+  description: '悪魔四天王ラミアは、若い男女を次々とラミアの迷宮へ誘拐した。その罠に沙織がはまってしまう…!!<br><br>宇津木 涼: 千葉進歩／宇津木沙織:
+    小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション: 石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928504←前話｜次話→so31928506　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928505
+  default_thread_id: 1505468871
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928505
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: 神略
+  description: '涼は冴子と再び会い、過去の地球へと時空を超えた旅に出る。過去、平和に暮らしていた人間たちは、突然エネルギー生命体に侵略される…!!<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928505←前話｜次話→so31928507　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928506
+  default_thread_id: 1505468663
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928506
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: 沙織
+  description: '過去の記憶を取り戻した涼=ダンテは、悪魔として神と戦う決意を固め、家族の元を去る。しかし涼の動きを既に神は察知していた…!!<br><br>宇津木
+    涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928506←前話｜次話→so31928508　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928507
+  default_thread_id: 1505468882
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928507
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二話
+  title: 窮地
+  description: '神との戦いが迫る中、メドッサは大魔王サタンの封印から解き放つべく、魔界に侵入する…!!<br><br>宇津木 涼: 千葉進歩／宇津木沙織:
+    小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション: 石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928507←前話｜次話→so31928509　第一話→so31928308'
+  length_seconds: 1475
+  content_id: so31928508
+  default_thread_id: 1505468879
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928508
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三話
+  title: 終焉
+  description: '滅びた聖獣の骸から、神の戦士イヴが出現した。しかしイヴの正体は悪魔と戦う戦士として選ばれた沙織だった…。<br><br>宇津木 涼:
+    千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介: 櫻井孝宏／ナレーション:
+    石丸博也<br><br>原作:永井　豪／脚本:上原正三<br><br>so31928508←前話　第一話→so31928308'
+  length_seconds: 1454
+  content_id: so31928509
+  default_thread_id: 1505468900
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928509
+cast: "[キャスト]<br>宇津木 涼: 千葉進歩／宇津木沙織: 小林沙苗／古代冴子(メドッサ): 石塚理恵／宇津木康介: 小山武宏／宇津木民子: 五十嵐 麗／大柴壮介:
+  櫻井孝宏／ナレーション: 石丸博也"
+staff: "[スタッフ]<br>原作:永井　豪／脚本:上原正三"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)2002 永井豪/ダイナミック企画・魔王ダンテ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,49 @@
+--- !ruby/hash:SeasonHash
+title: 言の葉の庭
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/41/8/11418_1_6.png?1427216400000
+outline: 靴職人を目指す高校生・タカオは、雨の朝は決まって学校をさぼり、公園の日本庭園で靴のスケッチを描いていた。ある日、タカオは、ひとり缶ビールを飲む謎めいた年上の女性・ユキノと出会う。ふたりは約束もないまま雨の日だけの逢瀬を重ねるようになり、次第に心を通わせていく。居場所を見失ってしまったというユキノに、彼女がもっと歩きたくなるような靴を作りたいと願うタカオ。六月の空のように物憂げに揺れ動く、互いの思いをよそに梅雨は明けようとしていた。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：土屋堅一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 言の葉の庭
+  description: 靴職人を目指す高校生・タカオは、雨の朝は決まって学校をさぼり、公園の日本庭園で靴のスケッチを描いていた。ある日、タカオは、ひとり缶ビールを飲む謎めいた年上の女性・ユキノと出会う。ふたりは約束もないまま雨の日だけの逢瀬を重ねるようになり、次第に心を通わせていく。居場所を見失ってしまったというユキノに、彼女がもっと歩きたくなるような靴を作りたいと願うタカオ。六月の空のように物憂げに揺れ動く、互いの思いをよそに梅雨は明けようとしていた。<br><br>出演:入野
+    自由、花澤 香菜 他<br><br>原作・脚本・監督:新海誠／作画監督・キャラクターデザイン:土屋 堅一／美術監督:滝口 比呂志／音楽:KASHIWA Daisuke
+  length_seconds: 2764
+  content_id: so31971926
+  default_thread_id: 1506069310
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971926
+cast: "[キャスト]<br>出演:入野 自由、花澤 香菜 他"
+staff: "[スタッフ]<br>原作・脚本・監督:新海誠／作画監督・キャラクターデザイン:土屋 堅一／美術監督:滝口 比呂志／音楽:KASHIWA Daisuke"
+produced_year: "[製作年]<br>2013年"
+copyright: "©Makoto Shinkai/ CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array []

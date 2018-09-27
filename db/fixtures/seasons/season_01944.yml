@@ -1,0 +1,344 @@
+--- !ruby/hash:SeasonHash
+title: Kanon
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/0/20330_1_6.png?1440558182000
+outline: 伝説のゲーム｢Kanon｣を京都アニメーションが完全アニメ化！｢AIR｣や｢けいおん！｣などを手がけ、ハイクオリティな映像が定評ある京都アニメーション。地上波放送後もその勢いは収まらず、DVDや関連グッズが多数発売されている。舞台は静かに雪の降り積もる北の街。高校生の相沢祐一は両親の仕事の事情によりここで暮らすことになった。かつて何度か訪れていたはずの街なのだが、何故か祐一にはその頃の記憶がほとんど無かった。ここで出会った5人の少女たちとの交流を通じて、徐々に明らかになってゆく過去。なぜ祐一は記憶を無くしてしまったのか？なぜ祐一はこの少女たちと出会ったのか？全てがわかった時、祐一は｢奇跡｣を見ることになる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆口裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚雅弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 國府田マリ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤朱
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：武本康弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：志茂文彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Key
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石立太一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高雄統子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ビジュアルアーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：坂本一也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：北之原孝將
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 白銀の序曲～overture～
+  description: 相沢祐一は両親の都合で北の街にある叔母・水瀬秋子の家に居候することになり、7年ぶりに従姉妹の水瀬名雪と再会した。そして偶然、月宮あゆという少女と出会う。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>次話→so33801295
+  length_seconds: 1449
+  content_id: so33801244
+  default_thread_id: 1536026303
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801244
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 雪の中の入祭唱～introit～
+  description: 名雪の通う学校に転入した祐一は、偶然にも名雪と同じクラスになる。そして祐一は下校途中またしてもあゆと出会い、一緒に逃亡することに。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801244←前話｜次話→so33801361　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801295
+  default_thread_id: 1536026773
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801295
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 記憶のない組曲～partita～
+  description: いきなり見知らぬ少女に殴りかかられた祐一。少女はそのままその場に倒れこんでしまう。祐一はひとまず彼女を水瀬家に連れて帰る。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801295←前話｜次話→so33801376　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801361
+  default_thread_id: 1536028034
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801361
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 休日の奇想曲～caprice～
+  description: 自分の名前を思い出した少女・真琴は、そのまま水瀬家に居候することになった。真琴は祐一に様々なイタズラをしかけてくるが・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801361←前話｜次話→so33801375　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801376
+  default_thread_id: 1536028145
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801376
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 魔物たちの小夜曲～serenade～
+  description: 祐一は夜の学校で、月明かりに照らされながら剣を持ってたたずむ少女・舞と出会った。そして、祐一の背後で突如激しい物音が響き渡る。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801376←前話｜次話→so33801374　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801375
+  default_thread_id: 1536028038
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801375
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 謎だらけの嬉遊曲～divertimento～
+  description: 祐一が目を覚ますとなぜか水瀬家で朝ごはんを食べているあゆの姿が。あゆは秋子からもらった映画のチケットを差し出し、祐一を誘う。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801375←前話｜次話→so33801373　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801374
+  default_thread_id: 1536028154
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801374
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 家出と仔猫の遁走曲～fuga～
+  description: 祐一にイタズラを仕掛けようとした真琴だが、祐一に気づかれてしまいしどろもどろに。翌日、アルバイト初日の真琴は秋子から特製ジャムをすすめられ…。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801374←前話｜次話→so33801372　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801373
+  default_thread_id: 1536028036
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801373
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 追憶の幻想曲～fantasia～
+  description: いなくなった真琴を探し回っていた祐一は、ものみの丘で寝ていた真琴と猫を見つけ家に連れて帰った。目を覚まして驚く真琴に優しく接する名雪と秋子は・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801373←前話｜次話→so33801371　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801372
+  default_thread_id: 1536028271
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801372
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 子狐の子守歌～berceuse～
+  description: 祐一は体調が悪化している真琴の様子が気にかかり、もう一度美汐に話を聞きに行く。そこで美汐から悲しい事実を告げられる。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801372←前話｜次話→so33801370　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801371
+  default_thread_id: 1536028143
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801371
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 丘の上の鎮魂歌～requiem～
+  description: 祐一から真琴の正体を聞かされた名雪と秋子。少しでも真琴のそばにいるため、祐一は学校を休むことにする。そんな祐一に真琴は・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801371←前話｜次話→so33801369　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801370
+  default_thread_id: 1536028272
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801370
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 光と影の間奏曲～intermezzo～
+  description: 再び賑やかさを取り戻した水瀬家。一方、校舎の窓ガラスが割れたことで嫌疑をかけられ職員室に呼び出された舞。なんとか舞のイメージアップを図ろうとする祐一だが・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801370←前話｜次話→so33801367　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801369
+  default_thread_id: 1536028263
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801369
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 異形の円舞曲～waltz～
+  description: 生徒会主催の舞踏会当日、祐一は学校に忍び込んでいた栞と会う。舞踏会が始まり、会場は華やかな雰囲気に包まれるが、思いもよらない出来事が・・・!<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801369←前話｜次話→so33801366　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801367
+  default_thread_id: 1536028023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801367
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: あぶなげな三重奏～trio～
+  description: 舞踏会の最中に突然あらわれた魔物に襲われた佐祐理。魔物を倒すために戦う舞だが、周りからは奇異の目で見られてしまう。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801367←前話｜次話→so33801365　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801366
+  default_thread_id: 1536028152
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801366
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: ひびわれた協奏曲～concerto～
+  description: 舞とともに魔物と戦いはじめた祐一。舞の誕生日前日、いつものように夜の校舎で戦う2人だが、舞の言葉に祐一は愕然とする。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801366←前話｜次話→so33801364　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801365
+  default_thread_id: 1536028032
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801365
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: かくれんぼの小奏鳴曲～sonatine～
+  description: 魔物との最終決着をつけるべく、学校で戦う舞と祐一。一段と激しさを増す戦いの中、蝕まれていく体で果敢に魔物を倒していく舞だが・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801365←前話｜次話→so33801363　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801364
+  default_thread_id: 1536028147
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801364
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 真夜中の聖譚曲～oratorio～
+  description: 佐祐理と舞を見舞うため、祐一はあゆを連れて病院を訪れる。元気そうな2人に安心する祐一に舞は不思議な言葉をかける。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801364←前話｜次話→so33801362　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801363
+  default_thread_id: 1536028265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801363
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 姉と妹の無言歌～lieder ohne worte～
+  description: 香里から聞かされた事実に驚く祐一。帰宅してからもそのことが頭から離れない様子の祐一をあゆは気遣う。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801363←前話｜次話→so33801296　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801362
+  default_thread_id: 1536028150
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801362
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 消え去りゆく緩徐楽章～adagio～
+  description: 学校に登校するようになった栞。栞の誕生日が近づき、祐一は栞の誕生パーティを企画する。驚きながらも喜ぶ栞だが・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801362←前話｜次話→so33801265　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801296
+  default_thread_id: 1536026766
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801296
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ふれあいの練習曲～etude～
+  description: 名雪が出場する駅伝大会当日。祐一は、あゆ、秋子、北川とともに応援に行く。トップに差をつけられながら、アンカーの名雪のもとにタスキが渡され・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801296←前話｜次話→so33801264　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801265
+  default_thread_id: 1536026302
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801265
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 別れの夜想曲～nocturn～
+  description: あゆと祐一の想いが通じた。学校が終わると待ち合わせをして、あゆの落し物を探す2人。探し物は見つからなかったが、あゆは今とても幸せだと話す。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801265←前話｜次話→so33801263　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801264
+  default_thread_id: 1536026404
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801264
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 君のいない輪舞曲～ronde～
+  description: あゆが姿を消して一夜が明けた。誰もあゆの連絡先を知らず、あゆが通っているという学校も存在しないようだ。落ち込む祐一に、名雪は・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801264←前話｜次話→so33801245　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801263
+  default_thread_id: 1536026291
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801263
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 追想の交響楽～symphony～
+  description: 突然入った秋子の事故の知らせに病院へ向かう祐一と名雪。病院で一夜を過ごしたあと、こうなったのは自分のせいだと名雪は自分を責め、部屋にこもってしまう。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801263←前話｜次話→so33801246　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801245
+  default_thread_id: 1536026304
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801245
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 茜色の終曲～finale～
+  description: 全てを思い出した祐一はあゆの名を呼びながら雪の中を彷徨うが、道に迷ってしまう。力尽き意識が遠のく祐一のそばへ、1つの影が近づく・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801245←前話｜次話→so33801247　第一話→so33801244
+  length_seconds: 1449
+  content_id: so33801246
+  default_thread_id: 1536026296
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801246
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 夢の果ての追復曲～kanon～
+  description: 季節が移りゆく。街に降り積もった雪も融け始めている。今までと同じ1日の始まり。それぞれの痛みを乗り越えた少女達は、祐一に笑顔を見せる・・・。<br><br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+    潤 :関　智一<br><br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+    / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋<br><br>(C)VisualArt’s/Key/百花屋<br><br>so33801246←前話　第一話→so33801244
+  length_seconds: 1420
+  content_id: so33801247
+  default_thread_id: 1536026292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801247
+cast: "[キャスト]<br>相沢祐一:杉田智和／月宮あゆ:堀江由衣／水瀬名雪:國府田マリ子／川澄舞:田村ゆかり／美坂栞:佐藤朱／沢渡真琴:飯塚雅弓／水瀬秋子:皆口裕子／美坂香里:川澄綾子／倉田佐祐理:川上とも子／北川
+  潤 :関　智一"
+staff: "[スタッフ]<br>プロデューサー:中山佳久、中村伸一／監督・ディレクター:坂本一也、石立太一、北之原孝將、吉岡忍、山本寛、武本康弘、高雄統子／原作:Key
+  / ビジュアルアーツ／脚本:志茂文彦／主題歌:｢Last　regrets｣彩菜／制作:百花屋"
+produced_year: "[製作年]<br>2006年"
+copyright: "(C)VisualArt’s/Key/百花屋"
+related_seasons: !ruby/array:Hashie::Array []

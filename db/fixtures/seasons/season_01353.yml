@@ -1,0 +1,210 @@
+--- !ruby/hash:SeasonHash
+title: ふたごのモンチッチ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/7/10487_1_6.png?1427216400000
+outline: ある時は釣りのチャンピオン、またある時は冒険家、頼りになるけどちょっとあわてんぼうのモンチッチくん。甘ったれでなき虫、だけどお兄ちゃんが大好きなかわいい妹モンチッチちゃん。そんなおませでやんちゃな双子のモンチッチが元気いっぱいかけまわる!毎日が冒険のちょっと不思議な物語。たくさんのお話が子供たちの胸に、わくわくする気持ち、夢見る心を届けます。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 潘恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石冬美
+  type: cast
+- !ruby/hash:TagHash
+  name: はせさん治
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：秦泉寺博
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1980年
+  type: other
+- !ruby/hash:TagHash
+  name: 酒井あきよし
+  type: other
+- !ruby/hash:TagHash
+  name: 勝又激
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#7"
+  title: アイスマンが現れたのです/お風呂が大きらいなのです/おフトンの世界地図なのです/かいじゅうパンがふくれたぞなのです/お留守番にご用心なのです/今日は大そうじなのです/宇宙の芸術家です
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>次話→so32151710
+  length_seconds: 1387
+  content_id: so32151709
+  default_thread_id: 1508836169
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151709
+- !ruby/hash:EpisodeHash
+  episode_no: "#8-#14"
+  title: UFOが現われたです/宇宙のかいじゅうです/マイホームづくりも楽じゃないです/白鳥座がとんだです/天の川で魚つりです/キャプテンモンチッチです/海のお城のお姫さまです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32151709←前話｜次話→so32151756　第一話→so32151709
+  length_seconds: 1397
+  content_id: so32151710
+  default_thread_id: 1508836051
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151710
+- !ruby/hash:EpisodeHash
+  episode_no: "#15-#21"
+  title: クジラ退治は大変なのです/人魚姫になったです/居眠り灯台守です/海底助けてマイルです/風さんと凧上げなのです/空を飛べたらなのです/狼おじさんをやっつけろなのです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32151710←前話｜次話→so32151757　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32151756
+  default_thread_id: 1508836529
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151756
+- !ruby/hash:EpisodeHash
+  episode_no: "#22-#28"
+  title: お弁当泥棒を追えなのです/赤ちゃん鳥が生まれたです/モンチッチ君は王子さまなのです/雨だれ君こんにちわです/カサの国です/おっこちた雷君です/金魚の恩返しです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32151756←前話｜次話→so32151758　第一話→so32151709
+  length_seconds: 1402
+  content_id: so32151757
+  default_thread_id: 1508836531
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151757
+- !ruby/hash:EpisodeHash
+  episode_no: "#29-#35"
+  title: カエルの国のお祭りです/お兄ちゃんのおむかえです/かくれんぼは眠いのです/願いごとがかなったらなのです/いじわるおばあさんです/二人のブランコなのです/たき火とみの虫さんです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32151757←前話｜次話→so32151759　第一話→so32151709
+  length_seconds: 1412
+  content_id: so32151758
+  default_thread_id: 1508836649
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151758
+- !ruby/hash:EpisodeHash
+  episode_no: "#36-#42"
+  title: バトミントンなのです/吊り橋は恐いのです/魔法使いにご用心です/キャンプファイヤーです/ロッククライミングです/川下りも楽じゃないです/赤ちゃん牛が生れたです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32151758←前話｜次話→so32151880　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32151759
+  default_thread_id: 1508836647
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151759
+- !ruby/hash:EpisodeHash
+  episode_no: "#43-#49"
+  title: 雪男を捜してです/アリの国です/ジャングル探検です/南極横断です/地底王国を探してです/アマゾン探検です/水上スキーは大スキーです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32151759←前話｜次話→so32152074　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32151880
+  default_thread_id: 1508838383
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151880
+- !ruby/hash:EpisodeHash
+  episode_no: "#50-#56"
+  title: ボート遊びはコリゴリです/島の王様は誰ですか/アヒルの恩返しです/ハイ・チーズです/ミッシーが出たです/眠りの森の美女です/白鳥の湖なのです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32151880←前話｜次話→so32152134　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32152074
+  default_thread_id: 1508840172
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152074
+- !ruby/hash:EpisodeHash
+  episode_no: "#57-#63"
+  title: シンデレラなのです/美女と野獣です/白雪姫になったのです/ロビンフッドさまです/狼男をやっつけろです/植物に食べられたのです/怪物フランケンシュタインです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152074←前話｜次話→so32152222　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32152134
+  default_thread_id: 1508840787
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152134
+- !ruby/hash:EpisodeHash
+  episode_no: "#64-#70"
+  title: ドラキュラ退治です/ピラミッドのミイラ男です/巨人と魔法のランプです/お洋服が買いたいのです/買い物に行くのです/北風と長いマフラーです/風邪ひきハト時計です
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152134←前話｜次話→so32152280　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32152222
+  default_thread_id: 1508842045
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152222
+- !ruby/hash:EpisodeHash
+  episode_no: "#71-#77"
+  title: 世界一の花束です/楽しいおもちゃ屋さんです/冬将軍がやって来たのです/サンタおじさんありがとうです/ジャンプ台は恐ろしいのです/スキーで競争です/雪ダルマさんごめんです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152222←前話｜次話→so32152373　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32152280
+  default_thread_id: 1508842538
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152280
+- !ruby/hash:EpisodeHash
+  episode_no: "#78-#84"
+  title: 罠にはまった狼おじさん/不思議な帽子です/モンチッチちゃんのお化粧です/お子様ランチを取りっこです/すれ違いの待ち合わせです/特大アイスクリームです/赤い靴でドッキリです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152280←前話｜次話→so32152440　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32152373
+  default_thread_id: 1508843724
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152373
+- !ruby/hash:EpisodeHash
+  episode_no: "#85-#92"
+  title: 鉄棒も大変です/楽しいジョギングです/バレーボールの大特訓です/ゴルフ必勝法です/カメさんのローラースケートです/パン食い競争です/失敗も仲良しのもとです/忘れ物にご用心です
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152373←前話｜次話→so32152557　第一話→so32151709
+  length_seconds: 1625
+  content_id: so32152440
+  default_thread_id: 1508844631
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152440
+- !ruby/hash:EpisodeHash
+  episode_no: "#93-#100"
+  title: ハチさんのお引越しです/花びらを浮かべたらです/ピカピカの窓拭きです/おかしな泥棒です/特急電車で旅行です/ラッシュアワーは押しくらまんじゅうです/タクシーの運転手なのです/パイロットになるのです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152440←前話｜次話→so32152687　第一話→so32151709
+  length_seconds: 1625
+  content_id: so32152557
+  default_thread_id: 1508845824
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152557
+- !ruby/hash:EpisodeHash
+  episode_no: "#101-#108"
+  title: バスはノンストップです/サイクリング ヤッホーです/お花をひとり占めです/お行儀わるいのだーれです/狙われた金魚さんです/虫歯菌に狙われたです/コオロギさんの合唱です/雨あがりのデートです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152557←前話｜次話→so32152793　第一話→so32151709
+  length_seconds: 1625
+  content_id: so32152687
+  default_thread_id: 1508847025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152687
+- !ruby/hash:EpisodeHash
+  episode_no: "#109-#116"
+  title: 消えたおやつです/徹夜は眠いのです/絵を飾るのは難しいのです/美人モデルなのです/柿は甘いかすっぱいかです/ミシンで大奮闘です/ピアノのおけいこです/イビキの合奏なのです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152687←前話｜次話→so32152936　第一話→so32151709
+  length_seconds: 1625
+  content_id: so32152793
+  default_thread_id: 1508847998
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152793
+- !ruby/hash:EpisodeHash
+  episode_no: "#117-#123"
+  title: 雨の日の遠足です/大きすぎたセーターです/プレゼントも仲良しです/帰ってきたハトさんです/空中飛行機なのです/木馬さんの首飾りです/小さな勇気です
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152793←前話｜次話→so32153004　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32152936
+  default_thread_id: 1508849268
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32152936
+- !ruby/hash:EpisodeHash
+  episode_no: "#124-#130"
+  title: 止まった観覧車です/ゴーカートのレースです/お母さんは大変なのです/マジックショーなのです/空中ブランコなのです/日曜大工さんなのです/カニさんありがとうです
+  description: モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治<br><br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション<br><br>so32152936←前話　第一話→so32151709
+  length_seconds: 1422
+  content_id: so32153004
+  default_thread_id: 1508849725
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32153004
+cast: "[キャスト]<br>モンチッチくん:白石冬美／モンチッチちゃん:潘恵子／ナレーター:はせさん治"
+staff: "[スタッフ]<br>企画:佐藤俊彦／構成:酒井あきよし／監督:秦泉寺博／総作画監督:田中保／美術監督:勝又激／プロデューサー:加藤博／製作:葦プロダクション"
+produced_year: "[製作年]<br>1980年"
+copyright: "(C)セキグチ/葦プロダクション"
+related_seasons: !ruby/array:Hashie::Array []

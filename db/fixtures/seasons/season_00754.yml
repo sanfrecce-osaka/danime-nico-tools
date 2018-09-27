@@ -1,0 +1,177 @@
+--- !ruby/hash:SeasonHash
+title: セイレン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/38/1/21381_1_6.png?1482386414000
+outline: 高校２年生の夏。「嘉味田正一」は進路希望表の内容で担任に呼び出されたことをきっかけに、大人になることへの不安を覚えはじめる。そんな彼が様々な女の子と出会い・・・・・・そしてどんな将来を目指していくのか。未来に向かって駆け出す等身大の高校生と清廉（セイレン）可憐なヒロインたちの恋愛物語が、今始まる！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 三上枝織
+  type: cast
+- !ruby/hash:TagHash
+  name: 井澤詩織
+  type: cast
+- !ruby/hash:TagHash
+  name: 田丸篤志
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村珠莉
+  type: cast
+- !ruby/hash:TagHash
+  name: 下地紫野
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅利遼太
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒木ほの香
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Studio五組
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小林智樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：信澤宣明
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：AXsiZ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：細田直人
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：高山箕犀
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 本山哲
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ケツダン
+  description: 希望進路表に書いた内容で嘉味田正一は担任の鬼型先生に呼び出される。その面談をきっかけに将来について真剣に考えるようになり始め、まずは期末テストにむけて親友の七咲郁夫と勉強を始める。そんな折り、クラスのアイドル常木耀が郁夫に勉強を教えてほしいとお願いしてくる。<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>次話→so32571677
+  length_seconds: 1449
+  content_id: so32571676
+  default_thread_id: 1515722803
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571676
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ヤマオク
+  description: 夏期講習合宿に来た正一の部屋に突然の訪問者が現れる。それにより、正一の合宿生活は、全く想像も出来ない方向に向かうのだった。<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571676←前話｜次話→so32571679　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571677
+  default_thread_id: 1515722804
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571677
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: オトコユ
+  description: ひょんなことから正一は男湯で女の子のセクシービキニ姿を見ることになる。そんな中、教師が男湯に入ってきて・・・。<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571677←前話｜次話→so32571754　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571679
+  default_thread_id: 1515722800
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571679
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ホシゾラ
+  description: 夏期講習以降、なにかともやもやする正一。そんなときに、ある人物から校舎裏へ呼び出される・・・。<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571679←前話｜次話→so32571580　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571754
+  default_thread_id: 1515724055
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571754
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: コウカン
+  description: 正一が郁夫と荒木先輩とゲームをしている所に、３年の宮前透が現れる。なにやら彼女はシカのゲームに興味があるようで…<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571754←前話｜次話→so32571579　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571580
+  default_thread_id: 1515719567
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571580
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: タイセン
+  description: 正一達のゲームサークルに新メンバーも加入し、毎日楽しく遊んでいた。そんなある日のこと…<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571580←前話｜次話→so32571578　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571579
+  default_thread_id: 1515719686
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571579
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ブラコン
+  description: 仲が良かった正一達のゲームサークルだが、最近は集まりが悪くなってきてしまい…<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571579←前話｜次話→so32571577　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571578
+  default_thread_id: 1515719727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571578
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: モフモフ
+  description: コミマに参加することになった正一たちだが、初参加なこともあり四苦八苦するのだった…<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571578←前話｜次話→so32571576　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571577
+  default_thread_id: 1515719619
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571577
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: カテイブ
+  description: 夏休みの話題でにぎわう教室内。そこに正一の幼馴染である今日子が突然入ってくる。<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571577←前話｜次話→so32571575　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571576
+  default_thread_id: 1515719706
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571576
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: オサガリ
+  description: 白い息を吐きながら登校する正一と十萌。正一は、その途中にあるパンケーキ屋の店頭で、イヴ限定メニューのポスターを見つけるのだった。<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571576←前話｜次話→so32571574　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571575
+  default_thread_id: 1515719747
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571575
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: カクセイ
+  description: 正一から貰ったコートを着た今日子が、横断歩道を渡っているが、そこに信号無視の車が侵入してくる。それに今日子は気が付かず…<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571575←前話｜次話→so32571559　第一話→so32571676
+  length_seconds: 1449
+  content_id: so32571574
+  default_thread_id: 1515719591
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571574
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ハツコイ
+  description: 今日子が母親に今日も帰りが遅くなることを告げると、帰りが連日遅くなっていることもあり、母親に心配されてしまうのだった。<br><br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太<br><br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ<br><br>so32571574←前話　第一話→so32571676
+  length_seconds: 1419
+  content_id: so32571559
+  default_thread_id: 1515719665
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571559
+cast: "[キャスト]<br>嘉味田正一:田丸篤志／常木耀:佐倉綾音／桃乃今日子:木村珠莉／桧山水羽:井澤詩織／上崎真詩:三上枝織／三条るいせ:黒木ほの香／宮前透:下地紫野／七咲郁夫:浅利遼太"
+staff: "[スタッフ]<br>原作:高山箕犀／監督:小林智樹／シリーズ構成・キャラクター原案:高山箕犀／キャラクターデザイン:細田直人／音響監督:本山哲／音響制作:ダックスプロダクション／音楽:信澤宣明／音楽制作:ポニーキャニオン／アニメーション制作:Studio五組/AXsiZ"
+produced_year: "[製作年]<br>2017年"
+copyright: "©高山箕犀/セイレン製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

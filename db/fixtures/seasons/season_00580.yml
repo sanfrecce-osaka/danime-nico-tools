@@ -1,0 +1,330 @@
+--- !ruby/hash:SeasonHash
+title: 七人のナナ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/8/11428_1_6.png?1427216400000
+outline: ナナは、《あこがれの彼》のためにバレンタインのプレゼントを作っている最中、オジイチャンの珍発明により7人に分裂。オリジナル・ナナのさまざまな特徴を誇張したような超個性的な分身が6人も現れてしまい、あげく7人まとめて受験を邪魔するへんてこな敵と戦う《ナナレンジャー》にされてしまったからもうたいへん！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 麦人
+  type: cast
+- !ruby/hash:TagHash
+  name: くまいもとこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 福井裕佳梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 葉月絵理乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 秋田まどか
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 桃森すもも
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GENCO
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: ADK
+  type: other
+- !ruby/hash:TagHash
+  name: 今川泰宏
+  type: other
+- !ruby/hash:TagHash
+  name: 西田亜沙子
+  type: other
+- !ruby/hash:TagHash
+  name: 平野義久
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1問
+  title: ナナ×7=ナナ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>次話→so32041368
+  length_seconds: 1416
+  content_id: so32041367
+  default_thread_id: 1507075232
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041367
+- !ruby/hash:EpisodeHash
+  episode_no: 第2問
+  title: 大混乱！七人そろって学校へ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041367←前話｜次話→so32041369　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041368
+  default_thread_id: 1507074920
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041368
+- !ruby/hash:EpisodeHash
+  episode_no: 第3問
+  title: 七人みんなで一人のナナ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041368←前話｜次話→so32041370　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041369
+  default_thread_id: 1507075072
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041369
+- !ruby/hash:EpisodeHash
+  episode_no: 第4問
+  title: 誕生！受験戦隊ナナレンジャー？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041369←前話｜次話→so32041371　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041370
+  default_thread_id: 1507074898
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041370
+- !ruby/hash:EpisodeHash
+  episode_no: 第5問
+  title: 決定！神近君の志望校？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041370←前話｜次話→so32041372　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041371
+  default_thread_id: 1507074924
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041371
+- !ruby/hash:EpisodeHash
+  episode_no: 第6問
+  title: 受験番号623！深夜ラジオで大騒動？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041371←前話｜次話→so32041373　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041372
+  default_thread_id: 1507074862
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041372
+- !ruby/hash:EpisodeHash
+  episode_no: 第7問
+  title: 夜食モグモグ！料理勝負も受験のために？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041372←前話｜次話→so32041374　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041373
+  default_thread_id: 1507074880
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041373
+- !ruby/hash:EpisodeHash
+  episode_no: 第8問
+  title: 英語で告白！家庭教師をやっつけろ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041373←前話｜次話→so32041393　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041374
+  default_thread_id: 1507075087
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041374
+- !ruby/hash:EpisodeHash
+  episode_no: 第9問
+  title: 甘い誘惑！恋と秘密とカンニング？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041374←前話｜次話→so32041412　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041393
+  default_thread_id: 1507075400
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041393
+- !ruby/hash:EpisodeHash
+  episode_no: 第10問
+  title: 恐怖の赤点！期末テストを突破せよ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041393←前話｜次話→so32041413　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041412
+  default_thread_id: 1507076182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041412
+- !ruby/hash:EpisodeHash
+  episode_no: 第11問
+  title: 二兎を追うモノは二兎を得よ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041412←前話｜次話→so32041426　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041413
+  default_thread_id: 1507076003
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041413
+- !ruby/hash:EpisodeHash
+  episode_no: 第12問
+  title: 真夏の集中合宿！ドキドキ恋の肝試し？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041413←前話｜次話→so32041427　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041426
+  default_thread_id: 1507076821
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041426
+- !ruby/hash:EpisodeHash
+  episode_no: 第13問
+  title: 恋する英会話！神近君とお空の上でランデブー？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041426←前話｜次話→so32041428　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041427
+  default_thread_id: 1507076817
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041427
+- !ruby/hash:EpisodeHash
+  episode_no: 第14問
+  title: ホームステイで受験勉強！サンフランシスコは大騒ぎ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041427←前話｜次話→so32041429　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041428
+  default_thread_id: 1507076794
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041428
+- !ruby/hash:EpisodeHash
+  episode_no: 第15問
+  title: それぞれの受験！未来は我が手か誰の手に？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041428←前話｜次話→so32041430　第一話→so32041367
+  length_seconds: 1415
+  content_id: so32041429
+  default_thread_id: 1507076699
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041429
+- !ruby/hash:EpisodeHash
+  episode_no: 第16問
+  title: 恋散る文化祭！涙も枯れる大舞台？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041429←前話｜次話→so32041431　第一話→so32041367
+  length_seconds: 1415
+  content_id: so32041430
+  default_thread_id: 1507076796
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041430
+- !ruby/hash:EpisodeHash
+  episode_no: 第17問
+  title: ナナが消える日、出てくる日？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041430←前話｜次話→so32041432　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041431
+  default_thread_id: 1507076792
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041431
+- !ruby/hash:EpisodeHash
+  episode_no: 第18問
+  title: 雪降る告白？ナナとみんなのHappy X’mas！
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041431←前話｜次話→so32041433　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041432
+  default_thread_id: 1507076662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041432
+- !ruby/hash:EpisodeHash
+  episode_no: 第19問
+  title: 家族そろって大みそか！パパ・ママ帰国で大ピンチ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041432←前話｜次話→so32041434　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041433
+  default_thread_id: 1507077082
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041433
+- !ruby/hash:EpisodeHash
+  episode_no: 補習問題（TV未放映）
+  title: お正月だよ！7×7=49人のナナ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041433←前話｜次話→so32041435　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041434
+  default_thread_id: 1507076680
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041434
+- !ruby/hash:EpisodeHash
+  episode_no: 第20問
+  title: 絶対合格！おまじないで大迷走？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041434←前話｜次話→so32041451　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041435
+  default_thread_id: 1507076823
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041435
+- !ruby/hash:EpisodeHash
+  episode_no: 第21問
+  title: 消えたシャーペン！驚き桃の木8人目のナナ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041435←前話｜次話→so32041452　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041451
+  default_thread_id: 1507077384
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041451
+- !ruby/hash:EpisodeHash
+  episode_no: 第22問
+  title: 対決！ナナと神近君！面接試験で推薦合格？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041451←前話｜次話→so32041453　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041452
+  default_thread_id: 1507077279
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041452
+- !ruby/hash:EpisodeHash
+  episode_no: 第23問
+  title: 推薦取り消し！！私の恋と受験はどうなるの？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041452←前話｜次話→so32041467　第一話→so32041367
+  length_seconds: 1416
+  content_id: so32041453
+  default_thread_id: 1507077297
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041453
+- !ruby/hash:EpisodeHash
+  episode_no: 第24問
+  title: 受験前日！！最後の対決[たたかい]ナナVSナナ？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041453←前話｜次話→so32041468　第一話→so32041367
+  length_seconds: 1476
+  content_id: so32041467
+  default_thread_id: 1507077882
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041467
+- !ruby/hash:EpisodeHash
+  episode_no: 第25問
+  title: 合格発表！！心の丘に花の咲く？
+  description: 鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ<br><br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+    TOKYO,ADK,GENCO<br><br>so32041467←前話　第一話→so32041367
+  length_seconds: 1446
+  content_id: so32041468
+  default_thread_id: 1507077862
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041468
+cast: "[キャスト]<br>鈴木ナナ:水樹奈々／ナナっぺ:桃森すもも／ナナさま:中原麻衣／ナナぽん:名塚佳織／ナナりん:福井裕佳梨／ナナっこ:秋田まどか／ナナっち:浅木舞／小野寺瞳:松来未祐／鈴木六造:麦人／神近優一:石田彰／木枯:葉月絵理乃／林場:小林恵美／森沼:くまいもとこ"
+staff: "[スタッフ]<br>原作・シリーズ構成・監督:今川泰宏／企画・プロデュース:GENCO／キャラクター原案:吉崎観音／キャラクターデザイン:西田亜沙子／脚本:今川泰宏ほか／音楽:平野義久／アニメーション制作:A.C.G.T／製作:TV
+  TOKYO,ADK,GENCO"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)今川泰宏・吉崎観音・GENCO／Project7／テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,347 @@
+--- !ruby/hash:SeasonHash
+title: キャプテン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/94/3/10943_1_6.png?1427216400000
+outline: 野球の名門青葉学院中等部。そこから墨谷二中に転校して来た谷口タカオは、同校・弱小野球部に入部する。チームメート達は否が応でも谷口に期待を寄せるが、谷口は青葉では2軍の補欠だった事を言い出せない。しかし、谷口は陰の努力で次第に実力をつけていく。そして次期キャプテンに指名された。当惑する谷口だが、持ち前の責任感とファイトでチームの実力を懸命に底上げしていく。やがて墨谷二中の野球部は、青葉と互角に戦えるチームへと成長。谷口の卒業後も、彼が燃やした情熱は、情に弱い丸井、天才肌のイガラシら後輩たちに受け継がれていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中尾隆聖
+  type: cast
+- !ruby/hash:TagHash
+  name: 森山周一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 麻生美代子
+  type: cast
+- !ruby/hash:TagHash
+  name: 熊谷誠二
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨森雅司
+  type: cast
+- !ruby/hash:TagHash
+  name: 和栗正明
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村陽司
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：清水恵蔵
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：出崎哲
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：木森敏之
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ちばあきお
+  type: staff
+- !ruby/hash:TagHash
+  name: キャプテンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1983年
+  type: other
+- !ruby/hash:TagHash
+  name: 青春！野球アニメ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢キャプテン誕生｣"
+  description: 青葉学院から転校した谷口は野球部に入った。青葉では2軍の補欠だった彼に墨谷ナインは大きな期待を抱いてしまう！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>次話→so32155013
+  length_seconds: 1466
+  content_id: so32155012
+  default_thread_id: 1508879083
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155012
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢いよいよ初試合｣"
+  description: 谷口が新キャプテンを勤める墨谷二中野球部も新学期を迎え、新たな部員が入部してきた。初練習でノックを始める谷口だが…<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155012←前話｜次話→so32155014　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155013
+  default_thread_id: 1508878971
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155013
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢強敵！金成中｣"
+  description: 地区大会2戦目を前に谷口は1年生イガラシの起用を考えていた。ナインから猛反発を受けながらも、谷口が取った行動とは！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155013←前話｜次話→so32155015　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155014
+  default_thread_id: 1508878999
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155014
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢結束｣"
+  description: 決勝に進んだ墨谷ナインだが、余りにも過酷な特訓に反発し、抗議のため谷口の自宅に向かう。そこでナインが見たものは！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155014←前話｜次話→so32155016　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155015
+  default_thread_id: 1508878953
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155015
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢対決！青葉学院｣"
+  description: とうとう青葉学院との決勝戦を迎えた墨谷二中！しかし青葉は決勝のスターティングメンバーに2軍を用意していた…<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155015←前話｜次話→so32155017　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155016
+  default_thread_id: 1508878997
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155016
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "｢ピンチ！墨谷ナイン｣"
+  description: エース佐野を想定し特訓をしていた墨谷は名門青葉を相手に互角のまま大詰めを迎える!その時青葉の監督が振るった采配とは！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155016←前話｜次話→so32155018　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155017
+  default_thread_id: 1508879131
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155017
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "｢勝利はいずれに｣"
+  description: ピッチャー強襲で負傷した松下に代わりマウンドに立つ谷口。1アウトを取るが、不慣れなポジションに戸惑う。そこにイガラシが…<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155017←前話｜次話→so32155019　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155018
+  default_thread_id: 1508879105
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155018
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "｢再試合決定！｣"
+  description: 墨谷ナインに青葉学院との再試合が報じられた！練習の再開を訴える谷口キャプテンだが部員たちにはなかなか熱が入らない！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155018←前話｜次話→so32155020　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155019
+  default_thread_id: 1508878951
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155019
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "｢キャプテンに続け!!｣"
+  description: 再試合で先発予定のイガラシが、スタミナに対する不安を打ち明けた。意気消沈するナインを尻目に谷口は投球練習を開始する！<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155019←前話｜次話→so32155021　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155020
+  default_thread_id: 1508879128
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155020
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "｢谷口キャプテン登板｣"
+  description: 事実上の日本一が決まる大一番にナインは平常心を失い、前半から点を奪われてしまった！そんななか谷口は投球練習へと向かう！<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155020←前話｜次話→so32155022　第一話→so32155012
+  length_seconds: 1465
+  content_id: so32155021
+  default_thread_id: 1508879133
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155021
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "｢死闘!!9回の攻防｣"
+  description: 谷口の奮闘に感化された墨谷ナインは9回表の攻撃で見事逆転に成功する！満身創痍の墨谷に対し青葉が立てた非情の作戦とは！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155021←前話｜次話→so32155023　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155022
+  default_thread_id: 1508878973
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155022
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "｢新キャプテンは誰に？｣"
+  description: 死闘の末日本一に輝いた谷口には最後の大仕事が残っていた。墨谷二中野球部次期キャプテンの座を谷口は誰に譲るのか！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155022←前話｜次話→so32155049　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155023
+  default_thread_id: 1508879003
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155023
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: "｢丸井キャプテン奮戦！｣"
+  description: 新キャプテンとなった丸井はイガラシの提案で、新入部員から即戦力となるレギュラー候補をテストしてみることに決めたが…<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155023←前話｜次話→so32155050　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155049
+  default_thread_id: 1508880514
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155049
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: "｢先制2点を守れ!!｣"
+  description: 春の選抜に出場した墨谷二中は初戦となる港南相手に初回から2点を先制した！しかし港南はそれ以降の得点を許さなかった!!<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155049←前話｜次話→so32155051　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155050
+  default_thread_id: 1508880537
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155050
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: "｢再起を賭けた合宿｣"
+  description: 敗退の責任を近藤に押し付けた丸井は部員から非難を浴びていた。しかし丸井は36校を相手に練習試合の交渉をしていたのだった。<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155050←前話｜次話→so32155052　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155051
+  default_thread_id: 1508880539
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155051
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: "｢連続36試合！｣"
+  description: 連続36試合の強行スケジュールが始まった！しかし、合宿の成果を十分に発揮した墨谷二中は、次々と強豪チームを破っていく！<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155051←前話｜次話→so32155053　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155052
+  default_thread_id: 1508880512
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155052
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: "｢墨谷快進撃｣"
+  description: 全国大会に向けいよいよ地区予選が始まった！イガラシは初戦の江東中に対して手の内を見せない野球で試合をすることを提案する！<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155052←前話｜次話→so32155068　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155053
+  default_thread_id: 1508880622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155053
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: "｢宿敵青葉学院｣"
+  description: 青葉との決勝を前に丸井はナインの緊張をほぐすように心がける。近藤のおかげでリラックスして試合に臨むが初回2点を奪われ…<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155053←前話｜次話→so32155069　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155068
+  default_thread_id: 1508881313
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155068
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: "｢死闘！18回｣"
+  description: 9回裏、近藤はすでに限界を超えていた。代わったイガラシも風前の灯！青葉学院エース佐野も倒れ試合は延長へと突入！<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155068←前話｜次話→so32155070　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155069
+  default_thread_id: 1508881281
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155069
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: "｢新キャプテンの初仕事｣"
+  description: イガラシを新キャプテンに迎えた墨谷二中。卒業してしまった5人の穴を埋めるべく今年も新入生からレギュラー候補を選抜する！<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155069←前話｜次話→so32155071　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155070
+  default_thread_id: 1508881334
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155070
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: "｢イガラシの特訓｣"
+  description: 選抜大会優勝を目標にイガラシは昼休みさえも練習に当てた過酷な練習メニューを部員に掲げた。だが1年の松尾の母から抗議が…<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155070←前話｜次話→so32155072　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155071
+  default_thread_id: 1508881311
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155071
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: "｢めざせ！選抜大会｣"
+  description: 過酷な特訓が問題となり学校には抗議の電話が殺到！そんな時、松尾が練習中に骨折してしまう!特訓は中止！？<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155071←前話｜次話→so32155073　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155072
+  default_thread_id: 1508881337
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155072
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: "｢思わぬ伏兵｣"
+  description: 夏の大会へ向け練習を再開したイガラシだが、OB丸井からイガラシの元同級生井口の江田川中が力を付けていることを知らされる…<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155072←前話｜次話→so32155074　第一話→so32155012
+  length_seconds: 1465
+  content_id: so32155073
+  default_thread_id: 1508881283
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155073
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: "｢丸井先輩の助言｣"
+  description: 地区予選3連勝と絶好調の墨谷は自信過剰となっていた。イガラシから相談を受けた丸井は自分の高校との対戦を提案する!!<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155073←前話｜次話→so32155075　第一話→so32155012
+  length_seconds: 1467
+  content_id: so32155074
+  default_thread_id: 1508881340
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155074
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: "｢エース井口対イガラシ｣"
+  description: 決勝に進出した墨谷二中！相手は評判通り青葉を破った江田川中だった！エース井口の多彩な球種が墨谷ナインを悩ます!!<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155074←前話｜次話→so32155076　第一話→so32155012
+  length_seconds: 1466
+  content_id: so32155075
+  default_thread_id: 1508881309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155075
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話(最終回)
+  title: "｢激突！9回裏｣"
+  description: ようやく2点を先制した墨谷！江田川は守備の甘い近藤を狙い逆転を図る！谷口と丸井・2人の前キャプテンが見守る中イガラシは！<br><br>谷口タカオ:和栗
+    正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山 周一郎<br><br>原作:ちば
+    あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之<br><br>so32155075←前話　第一話→so32155012
+  length_seconds: 1449
+  content_id: so32155076
+  default_thread_id: 1508881246
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155076
+cast: "[キャスト]<br>谷口タカオ:和栗 正明／丸井:熊谷 誠二／イガラシ:木村 陽司／近藤:中尾 隆聖／谷口の父:雨森 雅司／谷口の母:麻生 美代子／青葉野球部監督:森山
+  周一郎"
+staff: "[スタッフ]<br>原作:ちば あきお／監督:出崎 哲／キャラクターデザイン:清水 恵蔵／総作画監督:国保 誠、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森
+  敏之"
+produced_year: "[製作年]<br>1983年"
+copyright: "（Ｃ）ちばあきお・エイケン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: キャプテン(キャプテン 劇場版)

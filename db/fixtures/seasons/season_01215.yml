@@ -1,0 +1,117 @@
+--- !ruby/hash:SeasonHash
+title: バカとテストと召喚獣 ～祭～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/9/10099_1_6.png?1427216400000
+outline: ここ文月学園では、まもなく清涼祭と呼ばれる学園祭が開催される。この学園は試験召喚戦争など特殊なシステムを採用している事もあって、毎年多くの来場者で賑わいを見せ、生徒たちもそれに応えるべく奮起して、準備に励むのであった。その頃、2年Fクラスでは--
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮田幸季
+  type: cast
+- !ruby/hash:TagHash
+  name: 原田ひとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 磯村知美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：SILVER LINK.
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大沼心
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大島美和
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：高山カツヒコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：井上堅二
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：虹音
+  type: staff
+- !ruby/hash:TagHash
+  name: バカとテストと召喚獣シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 亀山俊樹
+  type: other
+- !ruby/hash:TagHash
+  name: オムニバスプロモーション
+  type: other
+- !ruby/hash:TagHash
+  name: エンターブレイン
+  type: other
+- !ruby/hash:TagHash
+  name: 旭プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 中西康祐
+  type: other
+- !ruby/hash:TagHash
+  name: ファミ通文庫
+  type: other
+- !ruby/hash:TagHash
+  name: 木幡美雪
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1日目
+  title: "「僕とメイドと新たなる旅立ち」"
+  description: 吉井明久:下野 紘／姫路瑞希:原田ひとみ／島田美波:水橋かおり／坂本雄二:鈴木達央／木下秀吉:加藤英美里／土屋康太:宮田幸季／霧島翔子:磯村知美<br><br>原作:井上堅二(｢バカとテストと召喚獣｣シリーズ
+    ファミ通文庫／エンターブレイン刊)／監督:大沼 心／シリーズ構成・脚本:高山カツヒコ／キャラクター原案:葉賀ユイ／キャラクターデザイン・総作画監督:大島美和／色彩設計:木幡美雪／美術監督:東
+    厚治／美術:ST.ちゅーりっぷ／撮影監督:中西康祐／撮影:旭プロダクション／編集:たぐまじゅん／音響監督:亀山俊樹／音響制作:オムニバスプロモーション／音楽:虹音／音楽制作:Lantis／オープニングテーマ:『恋愛向上committee』：歌：麻生夏子(作詞：こだまさおり
+    作曲・編曲：前山田健一)／エンディングテーマ:『月曜はキライ』：歌：milktub(作詞：bamboo 作曲：一番星☆光 編曲：宮崎京一)／アニメーション制作:SILVER
+    LINK.／製作:バカとテストと召喚獣2製作委員会<br><br>次話→so32011676
+  length_seconds: 1742
+  content_id: so32011675
+  default_thread_id: 1506652560
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011675
+- !ruby/hash:EpisodeHash
+  episode_no: 2日目
+  title: "「バカと花火と召喚大会」"
+  description: 吉井明久:下野 紘／姫路瑞希:原田ひとみ／島田美波:水橋かおり／坂本雄二:鈴木達央／木下秀吉:加藤英美里／土屋康太:宮田幸季／霧島翔子:磯村知美<br><br>原作:井上堅二(｢バカとテストと召喚獣｣シリーズ
+    ファミ通文庫／エンターブレイン刊)／監督:大沼 心／シリーズ構成・脚本:高山カツヒコ／キャラクター原案:葉賀ユイ／キャラクターデザイン・総作画監督:大島美和／色彩設計:木幡美雪／美術監督:東
+    厚治／美術:ST.ちゅーりっぷ／撮影監督:中西康祐／撮影:旭プロダクション／編集:たぐまじゅん／音響監督:亀山俊樹／音響制作:オムニバスプロモーション／音楽:虹音／音楽制作:Lantis／オープニングテーマ:『恋愛向上committee』：歌：麻生夏子(作詞：こだまさおり
+    作曲・編曲：前山田健一)／エンディングテーマ:『月曜はキライ』：歌：milktub(作詞：bamboo 作曲：一番星☆光 編曲：宮崎京一)／アニメーション制作:SILVER
+    LINK.／製作:バカとテストと召喚獣2製作委員会<br><br>so32011675←前話　第一話→so32011675
+  length_seconds: 1729
+  content_id: so32011676
+  default_thread_id: 1506652562
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011676
+cast: "[キャスト]<br>吉井明久:下野 紘／姫路瑞希:原田ひとみ／島田美波:水橋かおり／坂本雄二:鈴木達央／木下秀吉:加藤英美里／土屋康太:宮田幸季／霧島翔子:磯村知美"
+staff: "[スタッフ]<br>原作:井上堅二(｢バカとテストと召喚獣｣シリーズ ファミ通文庫／エンターブレイン刊)／監督:大沼 心／シリーズ構成・脚本:高山カツヒコ／キャラクター原案:葉賀ユイ／キャラクターデザイン・総作画監督:大島美和／色彩設計:木幡美雪／美術監督:東
+  厚治／美術:ST.ちゅーりっぷ／撮影監督:中西康祐／撮影:旭プロダクション／編集:たぐまじゅん／音響監督:亀山俊樹／音響制作:オムニバスプロモーション／音楽:虹音／音楽制作:Lantis／オープニングテーマ:『恋愛向上committee』：歌：麻生夏子(作詞：こだまさおり
+  作曲・編曲：前山田健一)／エンディングテーマ:『月曜はキライ』：歌：milktub(作詞：bamboo 作曲：一番星☆光 編曲：宮崎京一)／アニメーション制作:SILVER
+  LINK.／製作:バカとテストと召喚獣2製作委員会"
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)2011 Kenji Inoue/PUBLISHED BY ENTERBRAIN, INC./バカとテストと召喚獣2製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: バカとテストと召喚獣にっ!
+- !ruby/hash:SeasonHash
+  title: バカとテストと召喚獣

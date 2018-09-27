@@ -1,0 +1,160 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 ～轟華絢爛～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/4/11094_1_6.png?1427216400000
+outline: 帝国華撃団・花組の活躍を描く、ファン待望のオリジナルシリーズ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 富沢美智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕崎ゆり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 高乃麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 西原久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：川崎ヒロユキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：広井王子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：RADIX
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松原秀典
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：藤島康介
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：工藤進
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：齋藤裕二
+  type: staff
+- !ruby/hash:TagHash
+  name: サクラ大戦シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: あかほりさとる
+  type: other
+- !ruby/hash:TagHash
+  name: 西井正典
+  type: other
+- !ruby/hash:TagHash
+  name: イマジン
+  type: other
+- !ruby/hash:TagHash
+  name: レッドカンパニー
+  type: other
+- !ruby/hash:TagHash
+  name: 吉野真一
+  type: other
+- !ruby/hash:TagHash
+  name: 黒田和也
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 紐育の怒れる刺客
+  description: 太正十二年。六月公演の打上げで隠し芸大会が始まる。華麗なさくらの剣技をみて、マリアは難易度の高い銃技「乾杯」に挑戦するも失敗してしまう。が、さくらだけはマリアの手の震えに気づいた。同刻、過去の因縁からマリアへの復讐を企てるバレンチーノフが、東京港に到着した…。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／ソレッタ・織姫:岡本麻弥／レニ・ミルヒシュトラーセ:伊倉一恵／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／音楽製作:齋藤裕二（イマジン）／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／OVAキャラクター設定:黒田和也・吉野真一／監督:工藤進／作画監督:吉野真一／メカ作画監督:西井正典／企画・監修:レッドカンパニー／アニメーション制作:ラディクス　他<br><br>次話→so32367971
+  length_seconds: 1705
+  content_id: so32367970
+  default_thread_id: 1512367592
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367970
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 水のある都市
+  description: 太正十四年・晩夏。秋公演「青い鳥」の稽古の合間に休息を満喫する花組一同。しかしこれまで主役の重圧に耐えていたアイリスだが、自分の犯したミスをレニに押しつけてしまう。そして翌朝、置き手紙だけを残してアイリスが家出をしてしまった…。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／ソレッタ・織姫:岡本麻弥／レニ・ミルヒシュトラーセ:伊倉一恵／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／音楽製作:齋藤裕二（イマジン）／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／OVAキャラクター設定:黒田和也・吉野真一／監督:工藤進／作画監督:吉野真一／メカ作画監督:西井正典／企画・監修:レッドカンパニー／アニメーション制作:ラディクス　他<br><br>so32367970←前話｜次話→so32367972　第一話→so32367970
+  length_seconds: 1814
+  content_id: so32367971
+  default_thread_id: 1512367816
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367971
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: キネマの驚天動地
+  description: 太正十四年。花組は、初出演映画「紅蜥蜴」の撮影現場で奇妙な噂を耳にする。その噂とは大女優・玉梓つわ子の幽霊話。つわ子は美しい容姿の持ち主だが、悪声が仇となり次第に人気も落ち、それを苦に13スタジオで自殺。以来、そこにはつわ子の霊が出るという。奇しくも「紅蜥蜴」最後の撮影は13スタジオだった…。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／ソレッタ・織姫:岡本麻弥／レニ・ミルヒシュトラーセ:伊倉一恵／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／音楽製作:齋藤裕二（イマジン）／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／OVAキャラクター設定:黒田和也・吉野真一／監督:工藤進／作画監督:吉野真一／メカ作画監督:西井正典／企画・監修:レッドカンパニー／アニメーション制作:ラディクス　他<br><br>so32367971←前話｜次話→so32367973　第一話→so32367970
+  length_seconds: 1772
+  content_id: so32367972
+  default_thread_id: 1512367838
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367972
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 人情紙芝居・少年レッドよ永遠に
+  description: 太正十四年・初夏。織姫の父・緒方の作品が帝國美術展で金賞を受賞。早速お祝いに向かう花組一同だったが、そんな一同の前に紙芝居「少年レッド」の作者・千葉助が現れる。千葉助と緒方に頼まれ「少年レッド」の本の表紙モデルを引き受けた紅蘭。だったが…。子どもたちのヒーロー・少年レッドの活躍やいかに！<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／ソレッタ・織姫:岡本麻弥／レニ・ミルヒシュトラーセ:伊倉一恵／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／音楽製作:齋藤裕二（イマジン）／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／OVAキャラクター設定:黒田和也・吉野真一／監督:工藤進／作画監督:吉野真一／メカ作画監督:西井正典／企画・監修:レッドカンパニー／アニメーション制作:ラディクス　他<br><br>so32367972←前話｜次話→so32367974　第一話→so32367970
+  length_seconds: 1808
+  content_id: so32367973
+  default_thread_id: 1512368020
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367973
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 父と娘と
+  description: 太正十四年・秋。さくらは真宮寺家で行われる結婚式に出席することに。だが、偶然さくらの結婚話を聞いてしまった椿は、さくらが結婚するのだと勘違い。早速、由里とかすみに報告するや、その話は一気に花組へ広まって…。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／ソレッタ・織姫:岡本麻弥／レニ・ミルヒシュトラーセ:伊倉一恵／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／音楽製作:齋藤裕二（イマジン）／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／OVAキャラクター設定:黒田和也・吉野真一／監督:工藤進／作画監督:吉野真一／メカ作画監督:西井正典／企画・監修:レッドカンパニー／アニメーション制作:ラディクス　他<br><br>so32367973←前話｜次話→so32367975　第一話→so32367970
+  length_seconds: 1808
+  content_id: so32367974
+  default_thread_id: 1512367875
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367974
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 女たちの新時代
+  description: 帝都に残された花組の面々は、さくらの不在を気に掛けそれぞれの時を過ごしていた。そんな時、さくらの残した試し書きを三人娘が持ってくる。書いてある文字は「花嫁」「結婚」「嫌」「許嫁」の四文字。『嫌』『嫌』ながら『結婚』するのだと解釈したすみれの言葉に、一同はさくらを助け出すために帝劇をあとにする！？<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／ソレッタ・織姫:岡本麻弥／レニ・ミルヒシュトラーセ:伊倉一恵／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／音楽製作:齋藤裕二（イマジン）／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／OVAキャラクター設定:黒田和也・吉野真一／監督:工藤進／作画監督:吉野真一／メカ作画監督:西井正典／企画・監修:レッドカンパニー／アニメーション制作:ラディクス　他<br><br>so32367974←前話　第一話→so32367970
+  length_seconds: 2239
+  content_id: so32367975
+  default_thread_id: 1512368055
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367975
+cast: "[キャスト]<br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／ソレッタ・織姫:岡本麻弥／レニ・ミルヒシュトラーセ:伊倉一恵／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他"
+staff: "[スタッフ]<br>原作:広井王子／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／音楽製作:齋藤裕二（イマジン）／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／OVAキャラクター設定:黒田和也・吉野真一／監督:工藤進／作画監督:吉野真一／メカ作画監督:西井正典／企画・監修:レッドカンパニー／アニメーション制作:ラディクス　他"
+produced_year: "[製作年]<br>1999年"
+copyright: "(C)1999 SEGA/BANDAI VISUAL/MARINE ENTERTAINMENT (C)RED 1999"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育

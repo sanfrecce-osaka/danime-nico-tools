@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: おしゃべりなちゅどんズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/6/10586_1_6.png?1427216400000
+outline: あらゆる植物の悩みを解決する、おしゃべりなちゅどんズ。今日も宇宙のどこかからSOS信号が届いたぞ!キャプテンツリーのミッションを受けたら、行け!なちゅどんズ!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 上野アサ
+  type: cast
+- !ruby/hash:TagHash
+  name: べんぴねこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：べんぴねこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ホンゴウジュン
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：べんぴねこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第9話
+  title: コスモス/ヒヤシンス/縁側のキンカン/部屋とサボテンのわたし/アンスリウムの鼻/誕生日シクラメン/メタボリック幸福の木/とどけアンズの想い/バラ色の明日
+  description: 出演者:亜沙,べんぴねこ<br><br>監督・プロデューサー:べんぴねこ,ホンゴウジュン／原作:WiZ,べんぴねこ<br><br>次話→so32036556
+  length_seconds: 1099
+  content_id: so32036555
+  default_thread_id: 1507003937
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036555
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話～第18話
+  title: 監獄のスミレ～望郷篇/ゴールドクレストと夫婦仲/メリーひまわりどどんどん/ハエトリ草/オッサンとお松の春/囚われのハイビスカス/アロエと浪花節/カキの驚き/トウモロコシのバラード
+  description: 出演者:亜沙,べんぴねこ<br><br>監督・プロデューサー:べんぴねこ,ホンゴウジュン／原作:WiZ,べんぴねこ<br><br>so32036555←前話｜次話→so32036557　第一話→so32036555
+  length_seconds: 1096
+  content_id: so32036556
+  default_thread_id: 1507004057
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036556
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話～第26話
+  title: 明日に咲くプリムラ/枝分かれの兄弟/パンプキン・セレナーデ/盆栽マンボ/さよならタンポポ/唐獅子葉牡丹/遅れてきた桜/お花見
+  description: 出演者:亜沙,べんぴねこ<br><br>監督・プロデューサー:べんぴねこ,ホンゴウジュン／原作:WiZ,べんぴねこ<br><br>so32036556←前話　第一話→so32036555
+  length_seconds: 968
+  content_id: so32036557
+  default_thread_id: 1507003837
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036557
+cast: "[キャスト]<br>出演者:亜沙,べんぴねこ"
+staff: "[スタッフ]<br>監督・プロデューサー:べんぴねこ,ホンゴウジュン／原作:WiZ,べんぴねこ"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

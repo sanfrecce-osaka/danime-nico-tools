@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: 魔法遊戯 （3D版）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/6/10386_1_6.png?1427216400000
+outline: 3Dアニメで制作された｢魔法遊戯｣シリーズの作品。故郷の魔女ッ娘候補になったバドドゥは、魔法城に向かう途中の町で投獄されてしまった。町長のコフィーは、自分の町から魔女ッ娘を出すべくライバルを排除しようとしたのだ。牢獄の中でパドドゥは、かつてプリルンと女王を争った｢破壊の魔女｣ノノノンと出会うが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 立木文彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆口裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳永愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 永田亮子
+  type: cast
+- !ruby/hash:TagHash
+  name: サエキトモ
+  type: cast
+- !ruby/hash:TagHash
+  name: 一城みゆ希
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤奈々絵
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：倉田英之
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：林宏樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：あずまきよひこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 魔法遊戯シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 亀山俊樹
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: オムニバスプロモーション
+  type: other
+- !ruby/hash:TagHash
+  name: 草薙
+  type: other
+- !ruby/hash:TagHash
+  name: 大月俊倫
+  type: other
+- !ruby/hash:TagHash
+  name: 三浦亨
+  type: other
+- !ruby/hash:TagHash
+  name: IMAGICA
+  type: other
+- !ruby/hash:TagHash
+  name: 須江信人
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: OVA
+  title: 魔法遊戯 (3D版)
+  description: 3Dアニメで制作された｢魔法遊戯｣シリーズの作品。故郷の魔女ッ娘候補になったバドドゥは、魔法城に向かう途中の町で投獄されてしまった。町長のコフィーは、自分の町から魔女ッ娘を出すべくライバルを排除しようとしたのだ。牢獄の中でパドドゥは、かつてプリルンと女王を争った｢破壊の魔女｣ノノノンと出会うが…。<br><br>パドドゥ:徳永
+    愛／魚吉:立木文彦／ノノノン:サエキトモ／プリルン:皆口裕子／コフィー:一城みゆ希／ケチャップ:永田亮子／マスタード:加藤奈々絵<br><br>企画:大月俊倫,笹路民親,三浦
+    亨／プロデューサー:島村達夫,福井政文,森山 敦／脚本:倉田英之／キャラクターデザイン:あずまきよひこ／3Dアニメーションディレクター:井口光隆／美術設定:須江信人(草薙),吉田理恵／コンポジットディレクター:青木
+    武／編集:山森重之(Jay Film)／音響監督:亀山俊樹／音響効果:伊藤道広(サウンドリング)／調整:大坪恵美／音響制作:オムニバスプロモーション／監督:林
+    宏樹／アニメーション制作プロデューサー:吉田 悟／アニメーション制作:AIC／製作:Magicaland魔法組合／製作:IMAGICA,KING RECORDS
+  length_seconds: 1716
+  content_id: so31932809
+  default_thread_id: 1505521602
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932809
+cast: "[キャスト]<br>パドドゥ:徳永 愛／魚吉:立木文彦／ノノノン:サエキトモ／プリルン:皆口裕子／コフィー:一城みゆ希／ケチャップ:永田亮子／マスタード:加藤奈々絵"
+staff: "[スタッフ]<br>企画:大月俊倫,笹路民親,三浦 亨／プロデューサー:島村達夫,福井政文,森山 敦／脚本:倉田英之／キャラクターデザイン:あずまきよひこ／3Dアニメーションディレクター:井口光隆／美術設定:須江信人(草薙),吉田理恵／コンポジットディレクター:青木
+  武／編集:山森重之(Jay Film)／音響監督:亀山俊樹／音響効果:伊藤道広(サウンドリング)／調整:大坪恵美／音響制作:オムニバスプロモーション／監督:林
+  宏樹／アニメーション制作プロデューサー:吉田 悟／アニメーション制作:AIC／製作:Magicaland魔法組合／製作:IMAGICA,KING RECORDS"
+produced_year: "[製作年]<br>2001年"
+copyright: "(C)AIC/マジカランド魔法組合"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 魔法遊戯 飛び出す!!ハナマル大冒険

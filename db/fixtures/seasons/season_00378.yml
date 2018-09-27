@@ -1,0 +1,57 @@
+--- !ruby/hash:SeasonHash
+title: きょ～ふ！ゾンビ猫
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/94/1/20941_1_6.png?1463988614000
+outline: お墓からある日突然よみがえったゾンビ猫が町を徘徊する…。本当ならちょっと怖いお話もカナヘイの手にかかればホッコリする癒しエピソードに早変わり。ゾンビなのになぜか町の人に愛されてしまうゾンビ猫の数々のショートストーリーをお楽しみください。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 平山笑美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：カナヘイ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ナミキヒロシ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：安達元一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: スペルバウンド
+  type: other
+- !ruby/hash:TagHash
+  name: 鹿志村聡
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第26話
+  title: 人間ゾンビ！ゾンビ猫／振り返る！ゾンビ猫／こたつに入る！ゾンビ猫／幸運のゾンビ猫！／ダンスもできる！ゾンビ猫／やるときはやる！ゾンビ猫／練習する！ゾンビ猫／迷信になりたい！？ゾンビ猫／墓地に入る！ゾンビ猫／トイレでピンチ！？ゾンビ猫／SNSで拡散！？ゾンビ猫／興味津々！ゾンビ猫　ほか
+  description: お墓からある日突然よみがえったゾンビ猫が町を徘徊する…。本当ならちょっと怖いお話もカナヘイの手にかかればホッコリする癒しエピソードに早変わり。ゾンビなのになぜか町の人に愛されてしまうゾンビ猫の数々のショートストーリーをお楽しみください。<br><br>ゾンビ猫:平山笑美<br><br>原案・キャラクターデザイン:カナヘイ／アニメーション制作:勝鬨スタジオ／監督名:ナミキヒロシ／脚本家名:安達元一／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>次話→so32050826
+  length_seconds: 1579
+  content_id: so32050825
+  default_thread_id: 1507224944
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32050825
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話～第52話
+  title: 一流のゾンビ？ゾンビ犬／ダンボールとゾンビ猫／ここ掘れワンワン？ゾンビ猫／誰も知らない、ゾンビ犬／電車への挑戦！ゾンビ猫／穴が大好き！ゾンビ犬／それはどっちだ！ゾンビ猫／おびえるゾンビ猫／ジェラシーなのか？ゾンビ猫／リアルきょーふ！ゾンビ猫／お部屋探し！ゾンビ猫／やっぱり上手なゾンビ猫　ほか
+  description: お墓からある日突然よみがえったゾンビ猫が町を徘徊する…。本当ならちょっと怖いお話もカナヘイの手にかかればホッコリする癒しエピソードに早変わり。ゾンビなのになぜか町の人に愛されてしまうゾンビ猫の数々のショートストーリーをお楽しみください。<br><br>ゾンビ猫:平山笑美<br><br>原案・キャラクターデザイン:カナヘイ／アニメーション制作:勝鬨スタジオ／監督名:ナミキヒロシ／脚本家名:安達元一／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>so32050825←前話　第一話→so32050825
+  length_seconds: 1580
+  content_id: so32050826
+  default_thread_id: 1507224921
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32050826
+cast: "[キャスト]<br>ゾンビ猫:平山笑美"
+staff: "[スタッフ]<br>原案・キャラクターデザイン:カナヘイ／アニメーション制作:勝鬨スタジオ／監督名:ナミキヒロシ／脚本家名:安達元一／音響制作:スペルバウンド／音響監督:鹿志村聡"
+produced_year: "[製作年]<br>2015年"
+copyright: "© kanahei / TXCOM / ZNP"
+related_seasons: !ruby/array:Hashie::Array []

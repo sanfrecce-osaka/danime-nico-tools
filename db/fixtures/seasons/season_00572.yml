@@ -1,0 +1,127 @@
+--- !ruby/hash:SeasonHash
+title: THE八犬伝
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/3/11323_1_6.png?1427216400000
+outline: 里見義実の娘である伏姫は、妖女玉梓の怨霊から里見家を救うため自らの命と引き換えに八人の剣士を生み出した。過酷な運命に翻弄されながらも八つの珠に導かれ、八犬士たちは集結していくのだが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 肝付兼太
+  type: cast
+- !ruby/hash:TagHash
+  name: 本多知恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村朋紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：会川昇
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山形厚史
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：くどう隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：安濃高志
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1990年
+  type: other
+- !ruby/hash:TagHash
+  name: 脇威志
+  type: other
+- !ruby/hash:TagHash
+  name: なかむらたかし
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 万華鏡
+  description: 落城寸前に追い詰められた安房の国主は、飼い犬の八房に｢景連の首を取れば伏姫を嫁にやろう｣と戯言のつもりで口約束をする。しかし八房は見事に景連の首をとり、約束どおり伏姫と共に姿を消してしまう。伏姫の許婚の大輔が姫を奪回すべく、八房を狙い撃った銃弾は姫にも…。死の瞬間、八つの霊玉が空に飛散した…。<br><br>伏姫:伊藤美紀／犬塚信乃:関俊彦／犬山道節:山寺宏一／犬川荘介:山口勝平／犬江親兵衛:日高のり子／犬田小文吾:玄田哲章／犬飼現八:西村智博／濱路:本多知恵子／語り:肝付兼太<br><br>監督:安濃高志／キャラクターデザイン:山形厚史／脚本・構成:会川昇／作画監督:大平晋也、橋本晋治、なかむらたかし、他／美術:南郷洋一、脇
+    威志、他／音楽:くどう隆／制作:AIC<br><br>次話→so32041203
+  length_seconds: 1820
+  content_id: so32041188
+  default_thread_id: 1507069888
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041188
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 闇神楽
+  description: 犬塚信乃は、父の番作から村雨と呼ばれる名刀を譲り受けた。｢足利家に献上することが犬塚家の悲願である｣と。だが村雨を狙う者の策略により、番作は自害を遂げ、愛犬の与四郎は重傷を負った。楽にしてやろうと信乃が与四郎に介錯を施すと、傷口から｢孝｣の文字が浮かぶ不思議な珠が飛び出し、信乃の腕に痣を残した…。<br><br>伏姫:伊藤美紀／犬塚信乃:関俊彦／犬山道節:山寺宏一／犬川荘介:山口勝平／犬江親兵衛:日高のり子／犬田小文吾:玄田哲章／犬飼現八:西村智博／濱路:本多知恵子／語り:肝付兼太<br><br>監督:安濃高志／キャラクターデザイン:山形厚史／脚本・構成:会川昇／作画監督:大平晋也、橋本晋治、なかむらたかし、他／美術:南郷洋一、脇
+    威志、他／音楽:くどう隆／制作:AIC<br><br>so32041188←前話｜次話→so32041204　第一話→so32041188
+  length_seconds: 1814
+  content_id: so32041203
+  default_thread_id: 1507070880
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041203
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 婆娑羅舞
+  description: 信乃が村雨を献上すべく旅立った後、濱路の養父母は勝手に陣代への輿入れを進めた。絶望した濱路は自害を図るが寸前に網乾に阻まれ、そのまま連れ去られてしまう。濱路を救うべく現れたのは生き別れの兄、犬山道節であった。その頃信乃は犬川荘助の襲撃を受けるが同じ痣と珠を持つことを知り密かに義兄弟の契りを結ぶ…。<br><br>伏姫:伊藤美紀／犬塚信乃:関俊彦／犬山道節:山寺宏一／犬川荘介:山口勝平／犬江親兵衛:日高のり子／犬田小文吾:玄田哲章／犬飼現八:西村智博／濱路:本多知恵子／語り:肝付兼太<br><br>監督:安濃高志／キャラクターデザイン:山形厚史／脚本・構成:会川昇／作画監督:大平晋也、橋本晋治、なかむらたかし、他／美術:南郷洋一、脇
+    威志、他／音楽:くどう隆／制作:AIC<br><br>so32041203←前話｜次話→so32041205　第一話→so32041188
+  length_seconds: 1766
+  content_id: so32041204
+  default_thread_id: 1507070892
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041204
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 芳琉閣
+  description: 古河城下まで辿り着いた信乃は、足利成氏への謁見を許される。ようやく村雨の献上が実現するが、刀は網乾にすりかえられた偽物であった。すぐさま弁明を申し出るが聞き届けられず、刺客とみなされ追われる身に…。信乃を討つために差し向けられたのは、君命に背いたため投獄されていた元獄舎番、犬飼現八であった…!<br><br>伏姫:伊藤美紀／犬塚信乃:関俊彦／犬山道節:山寺宏一／犬川荘介:山口勝平／犬江親兵衛:日高のり子／犬田小文吾:玄田哲章／犬飼現八:西村智博／濱路:本多知恵子／語り:肝付兼太<br><br>監督:安濃高志／キャラクターデザイン:山形厚史／脚本・構成:会川昇／作画監督:大平晋也、橋本晋治、なかむらたかし、他／美術:南郷洋一、脇
+    威志、他／音楽:くどう隆／制作:AIC<br><br>so32041204←前話｜次話→so32041206　第一話→so32041188
+  length_seconds: 1840
+  content_id: so32041205
+  default_thread_id: 1507070925
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041205
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 夜叉囃子
+  description: 古河城での対峙で川へと落下した信乃と現八は、犬田小文吾に助けられる。現八とは幼なじみであった小文吾は二人をかくまうが、妹ぬいの夫である房八は、罪人として追手がかかっていることを知り、手柄を得るため二人を捕らえようした…。しかし誤って妻を殺めてしまい、房八もまた逆上した小文吾に切られてしまう…。<br><br>伏姫:伊藤美紀／犬塚信乃:関俊彦／犬山道節:山寺宏一／犬川荘介:山口勝平／犬江親兵衛:日高のり子／犬田小文吾:玄田哲章／犬飼現八:西村智博／濱路:本多知恵子／語り:肝付兼太<br><br>監督:安濃高志／キャラクターデザイン:山形厚史／脚本・構成:会川昇／作画監督:大平晋也、橋本晋治、なかむらたかし、他／美術:南郷洋一、脇
+    威志、他／音楽:くどう隆／制作:AIC<br><br>so32041205←前話｜次話→so32041207　第一話→so32041188
+  length_seconds: 1836
+  content_id: so32041206
+  default_thread_id: 1507070886
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041206
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 鬼哭蝉
+  description: 三犬士はぬいの息子大八を連れ、大塚村へと向かった。その頃大塚村では、荘助が養夫婦殺害の疑いをかけられ、処刑されようとしていた。寸でのところで荘助の救出に成功したのだが、彼らの前に稲光とともに火の玉の浮かぶ平原が現れ、そこには網乾の姿が…。八犬士の存在と不吉な言葉を残し消えていった…。<br><br>伏姫:伊藤美紀／犬塚信乃:関俊彦／犬山道節:山寺宏一／犬川荘介:山口勝平／犬江親兵衛:日高のり子／犬田小文吾:玄田哲章／犬飼現八:西村智博／濱路:本多知恵子／語り:肝付兼太<br><br>監督:安濃高志／キャラクターデザイン:山形厚史／脚本・構成:会川昇／作画監督:大平晋也、橋本晋治、なかむらたかし、他／美術:南郷洋一、脇
+    威志、他／音楽:くどう隆／制作:AIC<br><br>so32041206←前話　第一話→so32041188
+  length_seconds: 1690
+  content_id: so32041207
+  default_thread_id: 1507070916
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041207
+cast: "[キャスト]<br>伏姫:伊藤美紀／犬塚信乃:関俊彦／犬山道節:山寺宏一／犬川荘介:山口勝平／犬江親兵衛:日高のり子／犬田小文吾:玄田哲章／犬飼現八:西村智博／濱路:本多知恵子／語り:肝付兼太"
+staff: "[スタッフ]<br>監督:安濃高志／キャラクターデザイン:山形厚史／脚本・構成:会川昇／作画監督:大平晋也、橋本晋治、なかむらたかし、他／美術:南郷洋一、脇
+  威志、他／音楽:くどう隆／制作:AIC"
+produced_year: "[製作年]<br>1990年"
+copyright: "(C)AIC"
+related_seasons: !ruby/array:Hashie::Array []

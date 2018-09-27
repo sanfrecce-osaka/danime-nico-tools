@@ -1,0 +1,168 @@
+--- !ruby/hash:SeasonHash
+title: 侵略!?イカ娘
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/40/0/10400_1_6.png?1427216400000
+outline: TVアニメの第2シリーズ。海洋汚染を続けてきた人類を侵略するために深海からやってきたイカ娘。だが、“海の家れもん”すら制圧下におけず、そこで働かされるはめに。そこで相沢一家と暮らすようになり、いろんな人とのほのぼのした交流もある楽しい毎日。果たしてイカ娘が地上侵略を達成する日はくるのだろうか…?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤村歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷美貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：水島努
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本靖貴
+  type: staff
+- !ruby/hash:TagHash
+  name: 侵略!イカ娘シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 水島努
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢侵略しなイカ!?｣｢恋敵じゃなイカ!?｣｢クラゲじゃなイカ!?｣"
+  description: "｢侵略しなイカ!?｣ある日イカ娘がいつものようにゲームをしていると栄子から｢生ぬるい侵略者｣と指摘を受ける。そのことでふと地上侵略することを思い出したイカ娘は早速再侵略計画を実行しようとする。だが、周りの人の行動に危険を感じてしまい・・・!?<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>次話→so32012049"
+  length_seconds: 1435
+  content_id: so32012048
+  default_thread_id: 1506658255
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012048
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢小学校に行かなイカ!?｣｢コスプレじゃなイカ!?｣｢軽くなイカ!?｣"
+  description: "｢小学校に行かなイカ!?｣たけるの小学校の登校日に一緒についていくイカ娘。相変わらず子供には大人気で担当の教師もへそを曲げてしまうほど。そこで小学生を侵略すべく、たけるのクラスの子を率いて他のクラスの子達とサッカー対決をすることに。だが触手がうまく使えず・・・。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012048←前話｜次話→so32012068　第一話→so32012048"
+  length_seconds: 1435
+  content_id: so32012049
+  default_thread_id: 1506658271
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012049
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢散歩しなイカ!?｣｢体操しなイカ!?｣｢助けなイカ!?｣"
+  description: "｢散歩しなイカ!?｣今日はイカ娘が家にやってくると、うきうきしている早苗をみて面白くないアレックスはイカ娘が来た途端、足に噛み付いてしまう。そんなやり取りを見て、イカ娘にアレックスと散歩に行くことをすすめる栄子だった。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012049←前話｜次話→so32012069　第一話→so32012048"
+  length_seconds: 1435
+  content_id: so32012068
+  default_thread_id: 1506659204
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012068
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢Englishじゃなイカ!?｣｢止めなイカ!?｣｢流れなイカ!?｣"
+  description: "｢止めなイカ!?｣栄子の部屋でくつろぐイカ娘をふざけて脇をくすぐったことから、イカ娘は面白がっていろんな人に試してみる。忙しく働く千鶴にターゲットを絞ったイカ娘だったが、いつものごとく千鶴に反撃を食らってしまう。するとしゃっくりが止まらなくなって・・・!!<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012068←前話｜次話→so32012070　第一話→so32012048"
+  length_seconds: 1435
+  content_id: so32012069
+  default_thread_id: 1506658609
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012069
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢ラジコンじゃなイカ!?｣｢七夕じゃなイカ!?｣｢ひとり遊びしなイカ!?｣"
+  description: "｢七夕じゃなイカ!?｣七夕の準備をしている海の家れもん。短冊に願いを書くことを初めて知るイカ娘は、おもむろに書き始めようとするが、願い事が多すぎて一つに絞れず悩み始める。わがまますぎると栄子に怒られるが清美の描いた短冊を見ると・・・。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012069←前話｜次話→so32012071　第一話→so32012048"
+  length_seconds: 1435
+  content_id: so32012070
+  default_thread_id: 1506659200
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012070
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "｢ジョギングしなイカ!?｣｢SPじゃなイカ!?｣｢冒険しなイカ!?｣"
+  description: "｢ジョギングしなイカ!?｣相沢一家とイカ娘で朝ジョギングをしていると、悟郎と出会う。途中で栄子、イカ娘、たけるともわかれて千鶴と二人っきりになった悟郎はチャンスとばかりに告白しようとするが・・・。そのころイカ娘ら3人は近くのお寺行入り、そこにある大仏を発見、イカ娘はその大きさにびっくりして｢強敵｣と判断する。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012070←前話｜次話→so32012072　第一話→so32012048"
+  length_seconds: 1434
+  content_id: so32012071
+  default_thread_id: 1506659266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012071
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "｢もてなさなイカ!?｣｢記憶喪失じゃなイカ!?｣｢入部しなイカ!?｣"
+  description: "｢もてなさなイカ!?｣ある日突然、れもんに南風の店長がやってきて｢うちに遊びにこないか｣と誘われる。以外な言葉に唖然とする一同だがとりあえず店長のうちへ。栄子は閑静なその家を感心しつつも庭を通るとなにやら見たことのあるものを発見する。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012071←前話｜次話→so32012073　第一話→so32012048"
+  length_seconds: 1435
+  content_id: so32012072
+  default_thread_id: 1506659223
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012072
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "｢留守番しなイカ!?｣｢断たなイカ!?｣｢熱中症じゃなイカ!?｣"
+  description: "｢留守番しなイカ!?｣最近相沢家付近では空き巣が多く物騒だということで、イカ娘が留守番として家に残ることになった。一人さびしさを感じつつ遊んでいると階下から物音が。階段を降りてきたイカ娘は忍び込んできた泥棒と鉢合わせしてしまう。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012072←前話｜次話→so32012074　第一話→so32012048"
+  length_seconds: 1434
+  content_id: so32012073
+  default_thread_id: 1506659159
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012073
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "｢ままごとしなイカ!?｣｢予定じゃなイカ!?｣｢遊園地に行かなイカ!?｣"
+  description: "｢ままごとしなイカ!?｣公園でイカ娘が歩いていると突然女の子から声をかけられた。りさと名乗るその子はイカ娘を巻き込んでいきなりままごとを始めだす。そこへ栄子も偶然やってきて何故かイカ娘と栄子が夫婦役のままごとへ発展。その時タイミングよく早苗が現れる。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012073←前話｜次話→so32012075　第一話→so32012048"
+  length_seconds: 1434
+  content_id: so32012074
+  default_thread_id: 1506659198
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012074
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "｢焼かなイカ!?｣｢譲らなイカ!?｣｢寒くなイカ!?｣"
+  description: "｢焼かなイカ!?｣夕食に焼肉をしている相澤一家。イカ娘は得意の触手全てに箸を持って肉を狙い、栄子が焼いている肉も奪って片っ端から食べていく。一方ものすごい量を食べる千鶴はあまりの早業で箸さばきも、千鶴が口を動かしている様子もまったく見えない。二人に勝ち目がないと悟った栄子はある手段を考える。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012074←前話｜次話→so32012076　第一話→so32012048"
+  length_seconds: 1435
+  content_id: so32012075
+  default_thread_id: 1506659202
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012075
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "｢催眠術じゃなイカ!?｣｢組まなイカ!?｣｢ふたりきりじゃなイカ!?｣"
+  description: "｢催眠術じゃなイカ!?｣早苗はイカ娘に催眠術をかけて自分を好きになってもらおうと考える。手始めにアレックスやれもんのみんなの前に、糸で吊り下げた五円玉を見せ術をかけるが、全く効いていない。みんなはかわいそうになって術がかかったふりをし始める。事情を知らないイカ娘が裏から戻ってくるとなぜかみんなが動物の真似をしていて・・・!?<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012075←前話｜次話→so32012077　第一話→so32012048"
+  length_seconds: 1434
+  content_id: so32012076
+  default_thread_id: 1506659268
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012076
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "｢訓練しなイカ!?｣｢祭りじゃなイカ!?｣｢やっぱり祭りじゃなイカ!?｣"
+  description: "｢訓練しなイカ!?｣お昼時の海の家れもんはお客で一杯で、千鶴も栄子も忙しく働いている。突然テーブルの上に仁王立ちするイカ娘。｢この海の家を侵略しにきたでゲソ!｣といいながら悟郎や早苗を攻撃するが、調子に乗ってきたところで栄子にいさめられる。実は侵略者に備える訓練だったのだが・・・。<br><br>イカ娘:金元寿子／
+    栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴<br><br>総監督:水島努／監督:山本靖貴<br><br>so32012076←前話　第一話→so32012048"
+  length_seconds: 1419
+  content_id: so32012077
+  default_thread_id: 1506659165
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012077
+cast: "[キャスト]<br>イカ娘:金元寿子／ 栄子:藤村 歩／千鶴:田中理恵／たける:大谷美貴"
+staff: "[スタッフ]<br>総監督:水島努／監督:山本靖貴"
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)安部真弘(週刊少年チャンピオン)/海の家れもん2号店"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "｢侵略!!イカ娘｣オリジナルアニメーション2013SUMMER"
+- !ruby/hash:SeasonHash
+  title: "｢侵略!!イカ娘｣オリジナルアニメーション2012SUMMER"
+- !ruby/hash:SeasonHash
+  title: 侵略!イカ娘

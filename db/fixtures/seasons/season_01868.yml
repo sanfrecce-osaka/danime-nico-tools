@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: ブラック・ジャック 空からきた子ども
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/44/9/11449_1_6.png?1427216400000
+outline: ブラック・ジャックの元に、最新鋭戦闘機｢レポール｣に乗ってベラド共和国の軍人ガガノフがやって来た。銃を向けながら高圧的な態度で息子アンドレイの治療をブラック・ジャックに依頼するガガノフ。アンドレイの体は、心室中隔欠損症に伴うアイゼンメンゲル症候群によって手の施し様がない状態に陥っていた。一度は治療を断るブラック・ジャックだが、目の前でアンドレイが倒れる姿を見て、医者としての本能が動き出す…。軍人として生きてきたガガノフ、そして妻ミゲルと息子のアンドレイ、三人の親子の絆が、苦悩するブラック・ジャックに希望を与える…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 水谷優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏樹リオ
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：手塚治虫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：瀬谷新二
+  type: staff
+- !ruby/hash:TagHash
+  name: ブラック・ジャックシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 岡田和夫
+  type: other
+- !ruby/hash:TagHash
+  name: 久保田稔
+  type: other
+- !ruby/hash:TagHash
+  name: 吉村昌輝
+  type: other
+- !ruby/hash:TagHash
+  name: 高橋賢太郎
+  type: other
+- !ruby/hash:TagHash
+  name: 大石光明
+  type: other
+- !ruby/hash:TagHash
+  name: 古徳稔
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ブラック・ジャック 空からきた子ども
+  description: ブラック・ジャックの元に、最新鋭戦闘機｢レポール｣に乗ってベラド共和国の軍人ガガノフがやって来た。銃を向けながら高圧的な態度で息子アンドレイの治療をブラック・ジャックに依頼するガガノフ。アンドレイの体は、心室中隔欠損症に伴うアイゼンメンゲル症候群によって手の施し様がない状態に陥っていた。一度は治療を断るブラック・ジャックだが、目の前でアンドレイが倒れる姿を見て、医者としての本能が動き出す…。軍人として生きてきたガガノフ、そして妻ミゲルと息子のアンドレイ、三人の親子の絆が、苦悩するブラック・ジャックに希望を与える…。<br><br>ブラック・ジャック:大塚明夫／ピノコ:水谷優子／ガガノフ:池田勝／ミゲル:夏樹リオ／アンドレイ:渡辺優子<br><br>原作:手塚治虫／監督、作画監督:瀬谷新二／プロデューサー:久保田稔、大石光明／企画:古徳稔／美術監督:岡田和夫／作監補佐:吉村昌輝／テクニカルディレクター:高橋賢太郎／撮影監督:荒川浩介／3Dディレクター:那須信司／医学監修:竹下俊隆<br><br>(C)手塚プロダクション・秋田書店
+  length_seconds: 1324
+  content_id: so33467735
+  default_thread_id: 1530667827
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33467735
+cast: "[キャスト]<br>ブラック・ジャック:大塚明夫／ピノコ:水谷優子／ガガノフ:池田勝／ミゲル:夏樹リオ／アンドレイ:渡辺優子"
+staff: "[スタッフ]<br>原作:手塚治虫／監督、作画監督:瀬谷新二／プロデューサー:久保田稔、大石光明／企画:古徳稔／美術監督:岡田和夫／作監補佐:吉村昌輝／テクニカルディレクター:高橋賢太郎／撮影監督:荒川浩介／3Dディレクター:那須信司／医学監修:竹下俊隆"
+produced_year: "[製作年]<br>2000年"
+copyright: "(C)手塚プロダクション・秋田書店"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック スペシャル～命をめぐる4つの奇跡～
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック 劇場版
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック ふたりの黒い医者
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック21
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック ＜オリジナルアニメ＞
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック＜Flashアニメ＞
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック＜OVA＞
+- !ruby/hash:SeasonHash
+  title: ヤング ブラック･ジャック

@@ -1,0 +1,62 @@
+--- !ruby/hash:SeasonHash
+title: Midnight Crazy Trail
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/35/0/22350_1_6.png?1533693639000
+outline: 真夜中の“ゴミ捨て屋” 稼業に励むシャウト＆クランチのコンビ。そんなある日、魔女として立派な花嫁になるために、人間界で１年間修業すべくロンドンの街に降り立った16
+  歳の少女マキナがふたりを探しあて、“魔法の書”を捨てさせようと懇願。実は彼女、魔女をやめて普通の女の子になりたがっているのだが、そのためには魔法の媒介となる魔法の書が邪魔なのだ。しかし実際のところ、この本、簡単に捨てられるシロモノではなく……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 増田俊樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 洲崎綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田健一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田昌代
+  type: cast
+- !ruby/hash:TagHash
+  name: 蜂須賀智隆
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：諸橋邦行
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉田健
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：御船麻砥
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：遊佐かずしげ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: Midnight Crazy Trail
+  description: 真夜中の“ゴミ捨て屋” 稼業に励むシャウト＆クランチのコンビ。そんなある日、魔女として立派な花嫁になるために、人間界で１年間修業すべくロンドンの街に降り立った16
+    歳の少女マキナがふたりを探しあて、“魔法の書”を捨てさせようと懇願。実は彼女、魔女をやめて普通の女の子になりたがっているのだが、そのためには魔法の媒介となる魔法の書が邪魔なのだ。しかし実際のところ、この本、簡単に捨てられるシロモノではなく……。<br><br>キャスト:上坂すみれ／増田俊樹／松田健一郎／洲崎綾／藤田昌代／蜂須賀智隆<br><br>企画・原案・プロデューサー:吉田健／脚本:水野宗徳／コンテ:ワタナベシンイチ／コンセプトアート:緒賀岳志／キャラクターデザイン:御船麻砥／色彩設計:辻田邦夫／美術監督:宮本実生／CG監督:竹富大悟／リード3DCGアニメーター:牧野達也／3DCGアニメーター:高橋
+    尚子、Lai Pang Ni(賴邦妮)、Mandy Lam(林文薏)、加賀田哲朗、形部秀、小城英貴／撮影監督:神田智隆／音楽:諸橋邦行／音響監督:小泉紀介／制作進行:堀合美音／監督:遊佐かずしげ<br><br>©PICONA
+    , Inc. / all rights reserved
+  length_seconds: 1436
+  content_id: so33660174
+  default_thread_id: 1533778444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33660174
+cast: "[キャスト]<br>キャスト:上坂すみれ／増田俊樹／松田健一郎／洲崎綾／藤田昌代／蜂須賀智隆"
+staff: "[スタッフ]<br>企画・原案・プロデューサー:吉田健／脚本:水野宗徳／コンテ:ワタナベシンイチ／コンセプトアート:緒賀岳志／キャラクターデザイン:御船麻砥／色彩設計:辻田邦夫／美術監督:宮本実生／CG監督:竹富大悟／リード3DCGアニメーター:牧野達也／3DCGアニメーター:高橋
+  尚子、Lai Pang Ni(賴邦妮)、Mandy Lam(林文薏)、加賀田哲朗、形部秀、小城英貴／撮影監督:神田智隆／音楽:諸橋邦行／音響監督:小泉紀介／制作進行:堀合美音／監督:遊佐かずしげ"
+produced_year: "[製作年]<br>2018年"
+copyright: "©PICONA , Inc. / all rights reserved"
+related_seasons: !ruby/array:Hashie::Array []

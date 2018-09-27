@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: BURN-UP W　バーンナップ ダブル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/4/11044_1_6.png?1427216400000
+outline: 未来都市TOKYO CITY。科学の発展に比例して凶悪犯罪やテロが増加の一途を辿る。これに対抗するため警察は特殊SWATチーム「WARRIOR」を組織した。そんな折、マキ、利緒、真弥、リリカ、ナンベル、ユウジのWARRIORのメンバーに指令が。謎のテロ組織ファルコン・クロウが国際平和フォーラムが催されているホテルキングダムを襲う！各国の要人を人質にする敵が要求してきた内容とは…！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 丹下桜
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田由美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ねぎしひろし
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：千葉克彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山下敏成
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：植竹須美男
+  type: staff
+- !ruby/hash:TagHash
+  name: BURN-UPシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+- !ruby/hash:TagHash
+  name: ビースタック
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: FILE 1
+  title: スキンダイブ
+  description: 高層ホテルが何者かに乗っ取られてしまった事件に対して緊急体勢で臨む警察。だが、犯人グループの要求は余りと言えば余りな内容だった。それが愉快犯ではないかと探るWARRIOR。そして、ある者がホテルの客たちに謎の“ドラッグ”を披露していた中、WARRIORは人質解放に向けて非常手段を決意するが…。<br><br>利緒:今井由香／真弥:岡本麻弥／リリカ:丹下
+    桜／ユウジ:置鮎龍太郎／マキ:柴田由美子／ナンベル:天野由梨／他<br><br>監督:ねぎしひろし／脚本:千葉克彦・植竹須美男／キャラクターデザイン・作画監督:山下敏成／制作:AIC／製作:ビースタック<br><br>次話→so32155174
+  length_seconds: 1533
+  content_id: so32155160
+  default_thread_id: 1508883817
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155160
+- !ruby/hash:EpisodeHash
+  episode_no: FILE 2
+  title: 電脳アイドルを捜せ
+  description: コンピューターネットのカリマス的アイドルである麻理亜ちゃんが失踪！ 捜索願いまで出る始末で、もはや立派な社会問題となっていた。その問題にポリスもアタマを抱える折りも折り、凶悪ロボット犯罪が連続発生する。ついにWARRIORが出動する中、一見無関係に思える2つの事態にはあの不穏な人影が絡んでいた…。<br><br>利緒:今井由香／真弥:岡本麻弥／リリカ:丹下
+    桜／ユウジ:置鮎龍太郎／マキ:柴田由美子／ナンベル:天野由梨／他<br><br>監督:ねぎしひろし／脚本:千葉克彦・植竹須美男／キャラクターデザイン・作画監督:山下敏成／制作:AIC／製作:ビースタック<br><br>so32155160←前話｜次話→so32155175　第一話→so32155160
+  length_seconds: 1714
+  content_id: so32155174
+  default_thread_id: 1508884414
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155174
+- !ruby/hash:EpisodeHash
+  episode_no: FILE 3
+  title: ポリスタウン強襲!!ACT.1
+  description: 電脳密売組織から押収した物品の中にあった装着具と思しき不可解な物体を解析するポリスタウンの調査員たち。一方、その不可解な物体を利用してビッグビジネスをもくろんでいた電脳密売組織のチーフは、ポリスたちにその物体の正体を暴かれないようにするため、組織によるポリスタウンへの報復戦を開始して…。<br><br>利緒:今井由香／真弥:岡本麻弥／リリカ:丹下
+    桜／ユウジ:置鮎龍太郎／マキ:柴田由美子／ナンベル:天野由梨／他<br><br>監督:ねぎしひろし／脚本:千葉克彦・植竹須美男／キャラクターデザイン・作画監督:山下敏成／制作:AIC／製作:ビースタック<br><br>so32155174←前話｜次話→so32155192　第一話→so32155160
+  length_seconds: 1714
+  content_id: so32155175
+  default_thread_id: 1508884412
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155175
+- !ruby/hash:EpisodeHash
+  episode_no: FILE 4
+  title: ポリスタウン強襲!!ACT.2
+  description: 暴走する警官により、親友の千里を失ってしまった利緒。そんな中、チーフの送り込んだ電脳密売組織のテロリストたちがポリスタウンへと乱入してきた。科学開発室に集合するWARRIORに残された道は徹底抗戦か撤退か？
+    親友を失った利緒をはじめ、科学開発室に集合したWARRIORは全面戦争を選択する！<br><br>利緒:今井由香／真弥:岡本麻弥／リリカ:丹下 桜／ユウジ:置鮎龍太郎／マキ:柴田由美子／ナンベル:天野由梨／他<br><br>監督:ねぎしひろし／脚本:千葉克彦・植竹須美男／キャラクターデザイン・作画監督:山下敏成／制作:AIC／製作:ビースタック<br><br>so32155175←前話　第一話→so32155160
+  length_seconds: 1501
+  content_id: so32155192
+  default_thread_id: 1508884410
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155192
+cast: "[キャスト]<br>利緒:今井由香／真弥:岡本麻弥／リリカ:丹下 桜／ユウジ:置鮎龍太郎／マキ:柴田由美子／ナンベル:天野由梨／他"
+staff: "[スタッフ]<br>監督:ねぎしひろし／脚本:千葉克彦・植竹須美男／キャラクターデザイン・作画監督:山下敏成／制作:AIC／製作:ビースタック"
+produced_year: "[製作年]<br>1996年"
+copyright: "(C)AIC/BSK"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BURN-UP EXCESS バーンナップ エクセス
+- !ruby/hash:SeasonHash
+  title: BURN-UP　バーンナップ
+- !ruby/hash:SeasonHash
+  title: BURN-UP SCRAMBLE

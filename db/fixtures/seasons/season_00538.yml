@@ -1,0 +1,620 @@
+--- !ruby/hash:SeasonHash
+title: サイボーグクロちゃん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/60/7/20607_1_6.png?1454049904000
+outline: 雑種の黒猫｢クロ｣は生意気な暴れん坊だが、飼い主の老夫婦への恩返しを忘れない、忠義な猫でもあった。しかし悪の科学者ドクター剛がクロを使って世界征服をしようとたくらみ、勝手にサイボーグにしてしまう。それから次々と一癖も二癖もあるキャラクターがでてきて、クロをトラブルに巻き込んだり、逆に巻き込まれたりしていく。そんな毎日をうんざりしたり楽しんだりしながら、サイボーグクロちゃんは今日も暴れ回る。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：高本宣弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：横内なおき
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 最強のニャンコ誕生！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>次話→so32160490
+  length_seconds: 1463
+  content_id: so32160489
+  default_thread_id: 1508954676
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160489
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ニャンニャンアーミー
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160489←前話｜次話→so32160491　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160490
+  default_thread_id: 1508954678
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160490
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 地獄のハイウェイ
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160490←前話｜次話→so32160534　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160491
+  default_thread_id: 1508954674
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160491
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 空とぶ親子ロボ出現！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160491←前話｜次話→so32160535　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160534
+  default_thread_id: 1508955870
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160534
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ミーくんの初恋
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160534←前話｜次話→so32160555　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160535
+  default_thread_id: 1508955869
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160535
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ミーくん誘拐事件
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160535←前話｜次話→so32160556　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160555
+  default_thread_id: 1508956788
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160555
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 史上最大のオニゴッコ
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160555←前話｜次話→so32160557　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160556
+  default_thread_id: 1508956771
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160556
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: クロ　ミーアイドル勝負
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160556←前話｜次話→so32160558　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160557
+  default_thread_id: 1508956808
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160557
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 学校の裏伝説
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160557←前話｜次話→so32160559　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160558
+  default_thread_id: 1508956798
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160558
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 裏山の一ツ目地底人
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160558←前話｜次話→so32161820　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160559
+  default_thread_id: 1508956795
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160559
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 天才少年コタロー登場
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160559←前話｜次話→so32160561　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32161820
+  default_thread_id: 1508992180
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32161820
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: デビルミーあらわる
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32161820←前話｜次話→so32160562　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160561
+  default_thread_id: 1508956766
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160561
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 檻の中の戦い
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160561←前話｜次話→so32161821　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160562
+  default_thread_id: 1508956769
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160562
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 剛とコタローの大実験
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160562←前話｜次話→so32160584　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32161821
+  default_thread_id: 1508992182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32161821
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: マタタビ参上！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32161821←前話｜次話→so32160585　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160584
+  default_thread_id: 1508957307
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160584
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: クロちゃんの家出
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160584←前話｜次話→so32160594　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160585
+  default_thread_id: 1508957309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160585
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 雪の中の大決闘！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160585←前話｜次話→so32160595　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160594
+  default_thread_id: 1508958412
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160594
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 美少女消防士！めぐみ
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160594←前話｜次話→so32160596　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160595
+  default_thread_id: 1508958457
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160595
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 爆走！バトルボーグ
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160595←前話｜次話→so32160597　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160596
+  default_thread_id: 1508958459
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160596
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: クロ、パパになる！？
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160596←前話｜次話→so32160598　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160597
+  default_thread_id: 1508958408
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160597
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: ハチャメチャ大争奪戦
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160597←前話｜次話→so32160617　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160598
+  default_thread_id: 1508958410
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160598
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 鈴木の初デート
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160598←前話｜次話→so32160618　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160617
+  default_thread_id: 1508958441
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160617
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: ヘビビンガーあらわる
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160617←前話｜次話→so32160619　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160618
+  default_thread_id: 1508958454
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160618
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: コタローを救え！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160618←前話｜次話→so32160639　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160619
+  default_thread_id: 1508958401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160619
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: コタローの父かえる
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160619←前話｜次話→so32160640　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160639
+  default_thread_id: 1508958809
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160639
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 世界征服計画開始？！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160639←前話｜次話→so32160654　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160640
+  default_thread_id: 1508958807
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160640
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 異世界・事のはじまり
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160640←前話｜次話→so32160655　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160654
+  default_thread_id: 1508959216
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160654
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 砂漠に浮かぶ都市
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160654←前話｜次話→so32160656　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160655
+  default_thread_id: 1508959218
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160655
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 異世界・崩壊のあと
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160655←前話｜次話→so32160657　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160656
+  default_thread_id: 1508959040
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160656
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 終末から新世界へ
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160656←前話｜次話→so32160658　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160657
+  default_thread_id: 1508959190
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160657
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: ミーくん誕生のヒミツ
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160657←前話｜次話→so32160659　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160658
+  default_thread_id: 1508959167
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160658
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: ハネムーン大戦争！？
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160658←前話｜次話→so32160660　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160659
+  default_thread_id: 1508959169
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160659
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: 学校でオバケ退治
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160659←前話｜次話→so32160675　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160660
+  default_thread_id: 1508959192
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160660
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 宝クジ大バトルレース
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160660←前話｜次話→so32160676　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160675
+  default_thread_id: 1508960488
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160675
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: マタタビの大修行？！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160675←前話｜次話→so32160699　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160676
+  default_thread_id: 1508960486
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160676
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: チビネコたちを守れ！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160676←前話｜次話→so32160700　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160699
+  default_thread_id: 1508961354
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160699
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: ノンストップバス旅行
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160699←前話｜次話→so32160701　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160700
+  default_thread_id: 1508961383
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160700
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 白い怪物との大バトル
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160700←前話｜次話→so32160702　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160701
+  default_thread_id: 1508961323
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160701
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: ミーくん２号登場！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160701←前話｜次話→so32160703　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160702
+  default_thread_id: 1508961405
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160702
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: ナナちゃんがんばる！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160702←前話｜次話→so32160704　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160703
+  default_thread_id: 1508961877
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160703
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: 復活！デビル再登場！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160703←前話｜次話→so32160705　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160704
+  default_thread_id: 1508961380
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160704
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 決戦！クロ対デビル
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160704←前話｜次話→so32160706　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160705
+  default_thread_id: 1508961270
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160705
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: クロの家にお引っ越し
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160705←前話｜次話→so32160707　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160706
+  default_thread_id: 1508961353
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160706
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: コタローいなくなる？
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160706←前話｜次話→so32160708　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160707
+  default_thread_id: 1508961325
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160707
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: 恐怖の大ウイルス！！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160707←前話｜次話→so32160709　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160708
+  default_thread_id: 1508961294
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160708
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: マタタビとの出会い
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160708←前話｜次話→so32160710　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160709
+  default_thread_id: 1508961268
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160709
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: カラスとの戦い！！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160709←前話｜次話→so32160711　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160710
+  default_thread_id: 1508961296
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160710
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: キッド最後の戦い！！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160710←前話｜次話→so32160712　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160711
+  default_thread_id: 1508961881
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160711
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: ニャンニャンランド
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160711←前話｜次話→so32160713　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160712
+  default_thread_id: 1508961403
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160712
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: 真・暴走クロちゃん！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160712←前話｜次話→so32160728　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160713
+  default_thread_id: 1508961378
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160713
+- !ruby/hash:EpisodeHash
+  episode_no: 第51話
+  title: クロ・ミーゲーム対決
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160713←前話｜次話→so32160729　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160728
+  default_thread_id: 1508961874
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160728
+- !ruby/hash:EpisodeHash
+  episode_no: 第52話
+  title: 転校生は超能力者？！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160728←前話｜次話→so32160755　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160729
+  default_thread_id: 1508961879
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160729
+- !ruby/hash:EpisodeHash
+  episode_no: 第53話
+  title: 宇宙からのメッセージ
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160729←前話｜次話→so32160756　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160755
+  default_thread_id: 1508962889
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160755
+- !ruby/hash:EpisodeHash
+  episode_no: 第54話
+  title: 攻撃ヤーヤーヤー星人
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160755←前話｜次話→so32160769　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160756
+  default_thread_id: 1508962887
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160756
+- !ruby/hash:EpisodeHash
+  episode_no: 第55話
+  title: 地球最後の日来たる！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160756←前話｜次話→so32160770　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160769
+  default_thread_id: 1508963466
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160769
+- !ruby/hash:EpisodeHash
+  episode_no: 第56話
+  title: 恐怖のベイビー誕生！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160769←前話｜次話→so32160771　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160770
+  default_thread_id: 1508963468
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160770
+- !ruby/hash:EpisodeHash
+  episode_no: 第57話
+  title: クロとナナのけんか
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160770←前話｜次話→so32160772　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160771
+  default_thread_id: 1508963437
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160771
+- !ruby/hash:EpisodeHash
+  episode_no: 第58話
+  title: また来たヤーヤーヤー
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160771←前話｜次話→so32160773　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160772
+  default_thread_id: 1508963441
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160772
+- !ruby/hash:EpisodeHash
+  episode_no: 第59話
+  title: ナナお姫様になる？！
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160772←前話｜次話→so32160774　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160773
+  default_thread_id: 1508963439
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160773
+- !ruby/hash:EpisodeHash
+  episode_no: 第60話
+  title: マタタビからの挑戦状
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160773←前話｜次話→so32160775　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160774
+  default_thread_id: 1508963470
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160774
+- !ruby/hash:EpisodeHash
+  episode_no: 第61話
+  title: 筋肉美女大バトル！？
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160774←前話｜次話→so32160776　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160775
+  default_thread_id: 1508963464
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160775
+- !ruby/hash:EpisodeHash
+  episode_no: 第62話
+  title: 鈴木のプレゼント作戦
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160775←前話｜次話→so32160791　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160776
+  default_thread_id: 1508963662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160776
+- !ruby/hash:EpisodeHash
+  episode_no: 第63話
+  title: スクラップキング登場
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160776←前話｜次話→so32160792　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160791
+  default_thread_id: 1508964237
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160791
+- !ruby/hash:EpisodeHash
+  episode_no: 第64話
+  title: 宇宙からの宅配使
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160791←前話｜次話→so32160793　第一話→so32160489
+  length_seconds: 1463
+  content_id: so32160792
+  default_thread_id: 1508964212
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160792
+- !ruby/hash:EpisodeHash
+  episode_no: 第65話
+  title: コタローのクリスマス
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160792←前話｜次話→so32160794　第一話→so32160489
+  length_seconds: 1462
+  content_id: so32160793
+  default_thread_id: 1508964239
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160793
+- !ruby/hash:EpisodeHash
+  episode_no: 第66話
+  title: 買い物デート大決闘！(最終回)
+  description: 原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&amp;ベーシック<br><br>so32160793←前話　第一話→so32160489
+  length_seconds: 1433
+  content_id: so32160794
+  default_thread_id: 1508964210
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160794
+staff: "[スタッフ]<br>原作:横内なおき(講談社｢コミックボンボン｣連載)／監督:高本宣弘／シリーズ構成:山本 優／製作:テレビ愛知・パブリック&ベーシック"
+produced_year: "[製作年]<br>1999年"
+copyright: "（C）横内なおき／講談社・ＴＶＡ"
+related_seasons: !ruby/array:Hashie::Array []

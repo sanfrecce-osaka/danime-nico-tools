@@ -1,0 +1,1574 @@
+--- !ruby/hash:SeasonHash
+title: クッキングパパ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/3/11473_1_6.png?1427216400000
+outline: 荒岩家の台所を仕切る荒岩一味（あらいわかずみ）は、金丸産業に勤め上司・部下からも信頼されるサラリーマン。妻・虹子、長男・まこと、そして後に誕生する長女・みゆきを交えた家族4人を中心に、サラリーマンとして、父として、そして夫として、それぞれの立場で出会った人々が一味の持つプロ顔負けの料理を食べ心を通わせてゆく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 高山みなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：佐橋俊彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：角田利隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：雪室俊一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：敷島博英
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：うえやまとち
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ガハッ！ボクの父ちゃんアゴデカ主任
+  description: さなえちゃんが突然東京へ引越しすることに。まことの気持ちはさなえちゃんに届くか？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>次話→so32202702
+  length_seconds: 1422
+  content_id: so32202701
+  default_thread_id: 1509609354
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202701
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: きくぅ！！うちのばあちゃんスーパーパワー
+  description: 過労で母ちゃんが倒れちゃった。父ちゃんの鉄分ミネラル満点鉄火丼で元気になって！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202701←前話｜次話→so32202737　第一話→so32202701
+  length_seconds: 1458
+  content_id: so32202702
+  default_thread_id: 1509609389
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202702
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: パンパカパーン！田中兄ちゃん結婚宣言
+  description: 喫茶チグサのあきちゃんにふられた田中兄ちゃん。落ち込んでないで、ホラ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202702←前話｜次話→so32202780　第一話→so32202701
+  length_seconds: 1390
+  content_id: so32202737
+  default_thread_id: 1509609406
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202737
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ジャーン！新入社員はお母様といっしょに！
+  description: 魚も肉もお酒もダメな梅田クン。父ちゃんのサバのホイル焼きなら、食べられるよ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202737←前話｜次話→so32202781　第一話→
+  length_seconds: 1391
+  content_id: so32202780
+  default_thread_id: 1509610652
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202780
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ソワソワ授業参観日／ダハーッ！初ガツオ
+  description: まことが父ちゃんと釣りに出た。え～！カツオを釣ったの？今夜はカツオでパーティーだ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202780←前話｜次話→so32202782　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202781
+  default_thread_id: 1509610319
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202781
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: いらっしゃい！味知お姉ちゃん
+  description: 味知お姉ちゃんのリクエスト。それは20年前の思い出のぶっ飛び卵焼き。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202781←前話｜次話→so32202783　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202782
+  default_thread_id: 1509610302
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202782
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: キラキラサラサラ田舎大好き！
+  description: まささんの奥さんからもらったキャベツと、ばあちゃんのコンビーフを使ってドボン鍋を作ろう。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202782←前話｜次話→so32202784　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202783
+  default_thread_id: 1509610328
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202783
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: エーッ！みつぐ君が家出した！
+  description: 魚が食べにくくて嫌いと言うみつぐ君のために、父ちゃんが魚のすり身を練りこんだソーメンを作ったぞ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202783←前話｜次話→so32202785　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202784
+  default_thread_id: 1509610274
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202784
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: パパこっち向いて！ひとりぼっちの純子ちゃん
+  description: お母さんが入院した純子ちゃん｡一人ぼっちで留守番の純子ちゃんのために父ちゃんがー肌脱ぐ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202784←前話｜次話→so32202786　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202785
+  default_thread_id: 1509610324
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202785
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ウキウキ遠足！あした天気になぁ～れ
+  description: 父ちゃんが朝寝坊！母ちゃんとまことのお弁当はどうするの？時間がなくても父ちゃんのアイデアなら大丈夫。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202785←前話｜次話→so32202787　第一話→so32202701
+  length_seconds: 1390
+  content_id: so32202786
+  default_thread_id: 1509610298
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202786
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: チャオ！陽気なお客さまはイタリア人！！
+  description: イタリアから来たティート・チョッタが夢ちゃんに一目ぼれ。本場の昧のスパゲティでハートをゲット？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202786←前話｜次話→so32202788　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202787
+  default_thread_id: 1509610300
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202787
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ガンバレ母ちゃん！イシダイ釣りに挑戦だ！
+  description: 釣りの取材で母ちゃんが見事なイシダイを釣り上げた。父ちゃんの料理で豪華に夕食だ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202787←前話｜次話→so32202789　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202788
+  default_thread_id: 1509610333
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202788
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: うまか一っ！父ちゃんはヒミツ料理人！！
+  description: 絶品手造りギョーザ｡父ちゃんにまかせな。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202788←前話｜次話→so32202816　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202789
+  default_thread_id: 1509610307
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202789
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 食べても食べても太らない
+  description: 東山常務の奥さんがダイエットに苦戦中。父ちゃんの低カロリー料理で食べてもダイエット！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202789←前話｜次話→so32202817　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202816
+  default_thread_id: 1509610948
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202816
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: ドキドキ１人でクッキング
+  description: 東京支社へ出張した父ちゃん。支社へのお土産は荒岩流ラーメンだ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202816←前話｜次話→so32202818　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202817
+  default_thread_id: 1509610633
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202817
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: ドーンと花火だ焼き鳥最高
+  description: 金丸産業のビルの屋上は絶好の花火見物スポット。残業の疲れを焼き鳥で吹っ飛ばそう。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202817←前話｜次話→so32202819　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202818
+  default_thread_id: 1509610950
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202818
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 味知姉ちゃんの新しい恋人
+  description: 味知姉ちゃんの新しい恋人の根子田さん。でもちょっと頼りないんだよなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202818←前話｜次話→so32202858　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202819
+  default_thread_id: 1509610654
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202819
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 夏だ海だ水着のプレゼント
+  description: 梅田くんの恋人のゆみちゃん。肉ジャガを作ったけど大失敗｡父ちゃん助けて！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202819←前話｜次話→so32202859　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202858
+  default_thread_id: 1509611969
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202858
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 感激さなえちゃんと盆踊り
+  description: さなえちゃんが東京から福岡に遊びに来る！まことはさなえちゃんに会えて大感激。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202858←前話｜次話→so32202860　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202859
+  default_thread_id: 1509611975
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202859
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: アツアツ結婚式へ御招待！
+  description: 梅田くんとゆみちゃんが結婚！ウェディングケーキはもちろん父ちゃん特製だ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202859←前話｜次話→so32202861　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202860
+  default_thread_id: 1509611973
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202860
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: ドッキリ父ちゃん危機一髪
+  description: 父ちゃんが交通事故！父ちゃん大丈夫？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202860←前話｜次話→so32202862　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202861
+  default_thread_id: 1509611943
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202861
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: お兄ちゃんはつらいね！
+  description: 母ちゃんに赤ちゃんができた！まこともお兄ちゃん？でもなあ……<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202861←前話｜次話→so32202903　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202862
+  default_thread_id: 1509611941
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202862
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: ボクの妹みゆき誕生！
+  description: 母ちゃんがみゆきを出産！退院祝いはもちろん、父ちゃんの手料理だよね。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202862←前話｜次話→so32202904　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202903
+  default_thread_id: 1509611940
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202903
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: ふたりっきりでお留守番！
+  description: 会社のみんながみゆきの出産祝いに来てくれた。みんなありがとう。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202903←前話｜次話→so32202905　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202904
+  default_thread_id: 1509611977
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202904
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: みゆきはゴキゲンななめ？
+  description: みんなでキャンプにお出かけ！まこととみつぐくんでスペアリブカレーに挑戦！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202904←前話｜次話→so32202940　第一話→so32202701
+  length_seconds: 1361
+  content_id: so32202905
+  default_thread_id: 1509611937
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202905
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: まことの相撲大会とカツ代ばあちゃん大恋愛
+  description: まことがすもう大会の選手に選ばれた！一方、カツ代ばあちゃんが行方不明に！？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202905←前話｜次話→so32202941　第一話→so32202701
+  length_seconds: 2652
+  content_id: so32202940
+  default_thread_id: 1509613728
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202940
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: もやしっ子熱血シュート！
+  description: 父親がもやしを作っているとおる君、あだ名は｢もやし｣｡でも､もやしってすごいんだぞ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202940←前話｜次話→so32202942　第一話→so32202701
+  length_seconds: 1390
+  content_id: so32202941
+  default_thread_id: 1509612748
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202941
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: みんなでみゆきをお出迎え
+  description: 母ちゃんが仕事に復帰する。今日は父ちゃんがまことの大好物を作るぞ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202941←前話｜次話→so32202943　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202942
+  default_thread_id: 1509612505
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202942
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: おじいちゃんからの贈り物
+  description: ばあちゃんが腰を痛めて入院しちゃった。まことと父ちゃんがおそうざいのフルコースを作る。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202942←前話｜次話→so32202944　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202943
+  default_thread_id: 1509612405
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202943
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: なぞの料理人 デーモン岩！
+  description: えっ！父ちゃんが料理番組に出演する？父ちゃんいいの？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202943←前話｜次話→so32202945　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202944
+  default_thread_id: 1509612648
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202944
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: みつぐ君のデート大作戦
+  description: みつぐくんとまことが大喧嘩。旱く仲直りしようよ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202944←前話｜次話→so32202946　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202945
+  default_thread_id: 1509612646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202945
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 味知お姉ちゃんの結婚式
+  description: 根子田さんと味知姉ちゃんの結婚式！モチロン、父ちゃんのプレゼントは思い出料理！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202945←前話｜次話→so32202947　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202946
+  default_thread_id: 1509612386
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202946
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: 心ほかほか愛情シュウマイ
+  description: せっかくの家族旅行がキャンセルに。消沈のエツちゃんにほかほかシュウマイ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202946←前話｜次話→so32202948　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202947
+  default_thread_id: 1509612650
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202947
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 二人のおじいちゃん！？
+  description: おじいちゃんは何者？まことの助けたおじいちゃんが荒岩家に居候？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202947←前話｜次話→so32202994　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202948
+  default_thread_id: 1509612768
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202948
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: かえってきたデーモン岩！
+  description: 料理番組の公開収録にデーモン岩が出演！会社のみんなにバレちゃうよ？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202948←前話｜次話→so32202995　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32202994
+  default_thread_id: 1509613721
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202994
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 大騒ぎ！みゆき会社に行く
+  description: 会社のトラブルで荒岩チーム緊急招集！アレ？みゆきも一緒？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202994←前話｜次話→so32202997　第一話→so32202701
+  length_seconds: 1361
+  content_id: so32202995
+  default_thread_id: 1509613724
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202995
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: みゆきのサンタは押入れから
+  description: 煙突の無い家にはサンタクロースが押入れからやってくるんだって？じゃあ、みゆき待ってる！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202995←前話｜次話→so32202998　第一話→so32202701
+  length_seconds: 1272
+  content_id: so32202997
+  default_thread_id: 1509613726
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202997
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 誕生日なんて大キライ！
+  description: クリスマスイブが誕生日のみつぐ君、プレゼントもケーキも一個だけってすっごく損してる？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202997←前話｜次話→so32202999　第一話→so32202701
+  length_seconds: 1261
+  content_id: so32202998
+  default_thread_id: 1509613049
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202998
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: ピンチ！さなえの恋人宣言
+  description: 東京から福岡に遊びに来たさなえちゃん、まことがポークソテーをごちそうするぞ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202998←前話｜次話→so32203100　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32202999
+  default_thread_id: 1509613052
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202999
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: おめでとう！みゆき一歳！
+  description: みゆきの一歳の誕生日！かあちゃんから手作りの積み木をプレゼント！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32202999←前話｜次話→so32203101　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32203100
+  default_thread_id: 1509614474
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203100
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: 田中兄ちゃんと忠犬ベイ
+  description: ばあちゃんの家で犬を飼うことになったぞ。命名はベイ（by田中兄ちゃん）<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203100←前話｜次話→so32203102　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32203101
+  default_thread_id: 1509614481
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203101
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 駄菓子屋さんへ全員集合！
+  description: 厳しいお母さんをもつしゅんじ君、駄菓子屋でお菓子を買えないなんてかわいそうだなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203101←前話｜次話→so32203103　第一話→so32202701
+  length_seconds: 1376
+  content_id: so32203102
+  default_thread_id: 1509614446
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203102
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: みんなのバレンタインデー
+  description: さなえちゃんからバレンタインチョコを貰って大感激！一方、みつぐ君はエッちゃんから貰えるかドキドキ・・・<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203102←前話｜次話→so32203104　第一話→so32202701
+  length_seconds: 1376
+  content_id: so32203103
+  default_thread_id: 1509614479
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203103
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 父ちゃんがカゼで倒れた日
+  description: 父ちゃんがカゼを引いて倒れた！僕の作ったホウレン草シチューで元気になって！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203103←前話｜次話→so32203105　第一話→so32202701
+  length_seconds: 1376
+  content_id: so32203104
+  default_thread_id: 1509614453
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203104
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: おばあちゃんのひな人形
+  description: みつぐ君の家でひな祭りパーティー、みゆきにもおひなさまがあれば喜ぶだろうなあ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203104←前話｜次話→so32203106　第一話→so32202701
+  length_seconds: 1376
+  content_id: so32203105
+  default_thread_id: 1509614471
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203105
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: デーモン岩！北海道へ！
+  description: デーモン岩の正体がバレちゃった！内緒にしてくれるって言うけど、どうしよう？！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203105←前話｜次話→so32203107　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32203106
+  default_thread_id: 1509614448
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203106
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: ぼくたちの夕食大作戦！
+  description: ひろし君は9人兄弟、お姉ちゃんがお母さん代わり。お姉ちゃんは大変だなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203106←前話｜次話→so32203108　第一話→so32202701
+  length_seconds: 1391
+  content_id: so32203107
+  default_thread_id: 1509614303
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203107
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: 菜の花のプレゼント
+  description: 父ちゃんと母ちゃんの思い出の場所は菜の花畑。菜の花のポカポカ鍋で体も心もポッカポカ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203107←前話｜次話→so32203109　第一話→so32202701
+  length_seconds: 1392
+  content_id: so32203108
+  default_thread_id: 1509614451
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203108
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: 奥さまはごきげんななめ
+  description: 梅田君の浮気疑惑！傷心のユミちゃんが家出しちゃった。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203108←前話｜次話→so32203110　第一話→so32202701
+  length_seconds: 1376
+  content_id: so32203109
+  default_thread_id: 1509614187
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203109
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: 春だ！勝負だ！マラソン大会
+  description: まことの恋のライバル出現！？東京からの転校生はスポーツ万能の秀才児。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203109←前話｜次話→so32206900　第一話→so32202701
+  length_seconds: 2353
+  content_id: so32203110
+  default_thread_id: 1509615220
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32203110
+- !ruby/hash:EpisodeHash
+  episode_no: 第51話
+  title: みゆきとベイの大冒険！
+  description: 大変だ！ベイが行方不明！？アレレ？みゆきもどっかいっちゃった。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32203110←前話｜次話→so32206901　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32206900
+  default_thread_id: 1509665121
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206900
+- !ruby/hash:EpisodeHash
+  episode_no: 第52話
+  title: 対決！危うしデーモン岩
+  description: お料理対決！ユミちゃんの「うにぎり」対デーモン岩の「おにぎらず」<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206900←前話｜次話→so32206902　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206901
+  default_thread_id: 1509665242
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206901
+- !ruby/hash:EpisodeHash
+  episode_no: 第53話
+  title: めざせ水泳大会で新記録
+  description: スイミングスクールで記録会。火花を散らすまことと近藤君。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206901←前話｜次話→so32206903　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206902
+  default_thread_id: 1509665504
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206902
+- !ruby/hash:EpisodeHash
+  episode_no: 第54話
+  title: 大魔人コロッケ大王だぞ
+  description: コロッケバトルだぁ！頑固職人のとくさんを大魔神コロッケ大王が襲う？！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206902←前話｜次話→so32206904　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206903
+  default_thread_id: 1509665529
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206903
+- !ruby/hash:EpisodeHash
+  episode_no: 第55話
+  title: みつぐ君が転校する！？
+  description: みつぐ君が転校！？エツ！？田中兄ちゃんも？寂しくなるなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206903←前話｜次話→so32206905　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206904
+  default_thread_id: 1509665511
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206904
+- !ruby/hash:EpisodeHash
+  episode_no: 第56話
+  title: 父ちゃんのお料理教室！
+  description: 父ちゃんのお料理教室開催！！まことの学校で卵料理を教わるぞ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206904←前話｜次話→so32206906　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206905
+  default_thread_id: 1509665525
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206905
+- !ruby/hash:EpisodeHash
+  episode_no: 第57話
+  title: チームワークで逆転勝利
+  description: サッカーの地区予選は補欠！レギュラーを降ろされたまことは？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206905←前話｜次話→so32206907　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206906
+  default_thread_id: 1509665507
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206906
+- !ruby/hash:EpisodeHash
+  episode_no: 第58話
+  title: はじめての兄妹ゲンカ！
+  description: まことの班の課題研究完成も間近。エッ、みゆきのイタズラでやり直しだよ！！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206906←前話｜次話→so32206923　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206907
+  default_thread_id: 1509665509
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206907
+- !ruby/hash:EpisodeHash
+  episode_no: 第59話
+  title: ワクワク夜釣りに行こう
+  description: メガネさんのお誘いで皆せマゴチの夜釣りへ！ワクワクするなあ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206907←前話｜次話→so32206924　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206923
+  default_thread_id: 1509665862
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206923
+- !ruby/hash:EpisodeHash
+  episode_no: 第60話
+  title: ゲーム大好き熱中宣言！
+  description: ゲームオタクの正太兄さん、栄養失調でひきこもり気味。たまには釣りに出かけてみない？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206923←前話｜次話→so32206925　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206924
+  default_thread_id: 1509666438
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206924
+- !ruby/hash:EpisodeHash
+  episode_no: 第61話
+  title: みんなで星に願いを！
+  description: 竹やぶに七夕の竹を取りにいったんだけど、おっかないおじさんが追っかけてきたー！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206924←前話｜次話→so32206926　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206925
+  default_thread_id: 1509665870
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206925
+- !ruby/hash:EpisodeHash
+  episode_no: 第62話
+  title: さよならのホタル狩り
+  description: メガネさんが会社を辞めて奥さんの実家の手伝いをするんだって。メガネさん頑張って！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206925←前話｜次話→so32206927　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206926
+  default_thread_id: 1509666414
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206926
+- !ruby/hash:EpisodeHash
+  episode_no: 第63話
+  title: みゆきのボーイフレンド
+  description: 大介君の家はパン屋さん。毎日おやつがパンで飽き飽きしてるんだって。父ちゃん何とかしてあげて！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206926←前話｜次話→so32206928　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206927
+  default_thread_id: 1509666410
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206927
+- !ruby/hash:EpisodeHash
+  episode_no: 第64話
+  title: がんこ者がいっぱい！
+  description: ひまわり堂の伝一さんと、まげもの屋の田島さんが大喧嘩。でも父ちゃんの｢だぶ｣で仲直りだね！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206927←前話｜次話→so32206929　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206928
+  default_thread_id: 1509666412
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206928
+- !ruby/hash:EpisodeHash
+  episode_no: 第65話
+  title: 母ちゃんパワー全開！？
+  description: 母ちゃんのメガネが壊れた！メガネが無いほうがみんな素敵って言うけど目が見えなくてドジばっかり、大丈夫？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206928←前話｜次話→so32206930　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32206929
+  default_thread_id: 1509665868
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206929
+- !ruby/hash:EpisodeHash
+  episode_no: 第66話
+  title: 夏の河原で大パーティー
+  description: 皆で河原に遊びに行くことに。でもヒロシ君が来ると聞いてさなえちゃんの表情が曇ったんだ。何かあったのかなぁ？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206929←前話｜次話→so32206931　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206930
+  default_thread_id: 1509666408
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206930
+- !ruby/hash:EpisodeHash
+  episode_no: 第67話
+  title: みんなそろって大掃除！
+  description: 今日はアパートの庭の大掃除。でも隣の大学生が出てこないって森山さんが怒っちゃった！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206930←前話｜次話→so32206932　第一話→so32202701
+  length_seconds: 1345
+  content_id: so32206931
+  default_thread_id: 1509665866
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206931
+- !ruby/hash:EpisodeHash
+  episode_no: 第68話
+  title: こわくて楽しい台風の夜
+  description: 夏休みももう終わりなのに、みつぐ君は宿題をやってないんだって。台風なのに宿題をしに泊りにきたんだ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206931←前話｜次話→so32206956　第一話→so32202701
+  length_seconds: 1345
+  content_id: so32206932
+  default_thread_id: 1509666433
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206932
+- !ruby/hash:EpisodeHash
+  episode_no: 第69話
+  title: エッ田中兄ちゃんが入院
+  description: 田中兄ちゃんがハワイ旅行寸前に盲腸で入院しちゃった！心配だなぁ<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206932←前話｜次話→so32206976　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206956
+  default_thread_id: 1509666440
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206956
+- !ruby/hash:EpisodeHash
+  episode_no: 第70話
+  title: みつぐ君のお料理教室
+  description: みつぐ君のお母さんが風邪で倒れた。エッ！？みつぐ君が夕飯を作るって？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206956←前話｜次話→so32206977　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206976
+  default_thread_id: 1509667005
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206976
+- !ruby/hash:EpisodeHash
+  episode_no: 第71話
+  title: 母ちゃんの大ピンチ！？
+  description: 誠と父ちゃんの留守に東山常務が母ちゃんの手料理を食べたいと訪ねてきた。どうする？母ちゃん！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206976←前話｜次話→so32206978　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206977
+  default_thread_id: 1509667036
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206977
+- !ruby/hash:EpisodeHash
+  episode_no: 第72話
+  title: お引っ越しは大変！
+  description: 田中兄ちゃんが僕のアパートに引越して来るっていうからびっくり！でも、誰が引っ越して行くんだろう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206977←前話｜次話→so32206979　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32206978
+  default_thread_id: 1509667009
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206978
+- !ruby/hash:EpisodeHash
+  episode_no: 第73話
+  title: フレーフレー荒岩一家！ 秋の大運動会 めざせ逆転大優勝！！
+  description: 昧知姉ちゃんが里帰り出産で帰って来た！ちょうど父ちゃんの会社で運動会があるので皆で参加したんだけど・・・ 途中で味知姉ちゃんがおなかが痛いって言い出したんだ。赤ちゃんが産まれる！？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206978←前話｜次話→so32206980　第一話→so32202701
+  length_seconds: 2533
+  content_id: so32206979
+  default_thread_id: 1509668025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206979
+- !ruby/hash:EpisodeHash
+  episode_no: 第74話
+  title: みゆきの金魚とお散歩
+  description: さつまいもを作っている夢子姉ちゃんのお父さんが突然会社に挨拶にやってきた！何か様子がおかしいぞ？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206979←前話｜次話→so32206981　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206980
+  default_thread_id: 1509667007
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206980
+- !ruby/hash:EpisodeHash
+  episode_no: 第75話
+  title: 卵の思い出ものがたり
+  description: みゆきがタマゴじいさんから卵を貰ったんだ。それを卵かけご飯にして食べたらとっても美味しかったんだ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206980←前話｜次話→so32206999　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206981
+  default_thread_id: 1509667034
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206981
+- !ruby/hash:EpisodeHash
+  episode_no: 第76話
+  title: 初体験！お見合いの味！
+  description: 田中兄ちゃんがお見合いをするんだって、柏手は凄い美人！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206981←前話｜次話→so32207000　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32206999
+  default_thread_id: 1509667634
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32206999
+- !ruby/hash:EpisodeHash
+  episode_no: 第77話
+  title: お騒がせの田中兄弟（プラザーズ）！
+  description: 調子のいい高校生に出会ったんだ。どこかで見たことあるなぁと思ったら田中兄ちゃんの弟だった。良く似てるよ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32206999←前話｜次話→so32207001　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207000
+  default_thread_id: 1509667599
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207000
+- !ruby/hash:EpisodeHash
+  episode_no: 第78話
+  title: 秋の日は夫婦でデート
+  description: 父ちゃんと母ちゃんがパーティーにおでかけ。みゆきと二人で留守番してたらみつぐ君が遊びに来た！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207000←前話｜次話→so32207003　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32207001
+  default_thread_id: 1509667616
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207001
+- !ruby/hash:EpisodeHash
+  episode_no: 第79話
+  title: ジャーン！恐怖の冷蔵庫
+  description: 父ちゃんの友達のお嬢さんのももこちゃん、冷蔵庫が怖いんだって、なんでだろう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207001←前話｜次話→so32207005　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207003
+  default_thread_id: 1509668062
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207003
+- !ruby/hash:EpisodeHash
+  episode_no: 第80話
+  title: ボクのツイてない一日？
+  description: みつぐ君とひろし君で釣りに出かけたけど、僕だけ全然魚がかからない。なんでー！？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207003←前話｜次話→so32207006　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207005
+  default_thread_id: 1509667655
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207005
+- !ruby/hash:EpisodeHash
+  episode_no: 第81話
+  title: 初雪ふんわり山の宿
+  description: みゆきがニワトリを拾ってきた、でもアパートじゃ飼えないし、どうしよう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207005←前話｜次話→so32207031　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207006
+  default_thread_id: 1509667581
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207006
+- !ruby/hash:EpisodeHash
+  episode_no: 第82話
+  title: 真夜中の誕生パーティー
+  description: 今日は母ちゃんの誕生日！でも母ちゃんが仕事からなかなか帰ってこないんだ。何かあったのかなぁ？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207006←前話｜次話→so32207032　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207031
+  default_thread_id: 1509668667
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207031
+- !ruby/hash:EpisodeHash
+  episode_no: 第83話
+  title: みつぐ君の勉強引退宣言
+  description: みつぐ君がまた家出してきた。お母さんに勉強しろ勉強しろってうんざりなんだって。わかる気はするけど・・・<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207031←前話｜次話→so32207033　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32207032
+  default_thread_id: 1509668044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207032
+- !ruby/hash:EpisodeHash
+  episode_no: 第84話
+  title: 大きな夢！おじいちゃんのクリスマスツリー！！
+  description: おじいちゃんが大きなもみの木を買ったんだ、でもクリスマスイブは皆パーティーでおじいちゃんの家に行けそうもないんだ。おばあちゃんには邪魔な植木なんて言われてるし、おじいちゃん可哀想！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207032←前話｜次話→so32207034　第一話→so32202701
+  length_seconds: 2532
+  content_id: so32207033
+  default_thread_id: 1509669335
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207033
+- !ruby/hash:EpisodeHash
+  episode_no: 第85話
+  title: おめでとうおバァちゃん
+  description: お正月。東京から昧知姉ちゃん一家もやってきた。おばあちゃんの家でお祝いだ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207033←前話｜次話→so32207061　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207034
+  default_thread_id: 1509668081
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207034
+- !ruby/hash:EpisodeHash
+  episode_no: 第86話
+  title: 空ちゃんは人気者！
+  description: 根子田さんと味知姉ちゃんが鹿児島へ仕事に。空悟ちゃんを預かっておばあちゃんは嬉しそうだけど・・・<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207034←前話｜次話→so32207062　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207061
+  default_thread_id: 1509669227
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207061
+- !ruby/hash:EpisodeHash
+  episode_no: 第87話
+  title: スキー場に全員集合！？
+  description: みんなで大山へスキーに行くことに。え～！母ちゃん仕事で来れないの？みゆきも泣き出すし困ったなあ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207061←前話｜次話→so32207064　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207062
+  default_thread_id: 1509668854
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207062
+- !ruby/hash:EpisodeHash
+  episode_no: 第88話
+  title: 無敵のアイドル登場！？
+  description: 父ちゃんの会社に新入社員の種子島さんが入ってきた！東都大学を首席で卒業なんだって。凄いなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207062←前話｜次話→so32207065　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207064
+  default_thread_id: 1509668850
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207064
+- !ruby/hash:EpisodeHash
+  episode_no: 第89話
+  title: あこがれの女（ひと）は柔道初段
+  description: ミスからしめんたいコンテストに種子島さんが出場！みんなで応援に行こう！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207064←前話｜次話→so32207066　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207065
+  default_thread_id: 1509669232
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207065
+- !ruby/hash:EpisodeHash
+  episode_no: 第90話
+  title: 謎の手作り弁当？
+  description: 今日は学校で月に一度のお弁当の日、エッちゃんが凄いお弁当を作ってきた。自分で作ったって言うけど？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207065←前話｜次話→so32207067　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207066
+  default_thread_id: 1509668853
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207066
+- !ruby/hash:EpisodeHash
+  episode_no: 第91話
+  title: 冷たくて熱い贈り物
+  description: 母ちゃんが出張の日、まことが熱を出した。みゆきを迎えに行かないといけないのに、どうしよう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207066←前話｜次話→so32207068　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207067
+  default_thread_id: 1509669234
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207067
+- !ruby/hash:EpisodeHash
+  episode_no: 第92話
+  title: 田中兄ちゃんのマリア
+  description: 田中兄ちゃんが派手な格好で出社してきた。また好きな人が出来たみたい。懲りないなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207067←前話｜次話→so32207086　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207068
+  default_thread_id: 1509669236
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207068
+- !ruby/hash:EpisodeHash
+  episode_no: 第93話
+  title: 春をはこぶポッポちゃん
+  description: みゆきがキジバトを保育園の帰りに見つけて看病したんだ。母ちゃんキジバトに凄く詳しいね。で、この外人さん誰？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207068←前話｜次話→so32207087　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207086
+  default_thread_id: 1509669700
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207086
+- !ruby/hash:EpisodeHash
+  episode_no: 第94話
+  title: パパが作ったパパレード
+  description: 目が覚めたらメガネさんが家にいた。なんか様子がおかしい？　父ちゃん出番だよ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207086←前話｜次話→so32207088　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207087
+  default_thread_id: 1509669372
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207087
+- !ruby/hash:EpisodeHash
+  episode_no: 第95話
+  title: 祝！未来の名コック誕生
+  description: アパートの上階に住んでいる上田兄弟が兄弟喧嘩を始めちゃった。大丈夫かなぁ？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207087←前話｜次話→so32207089　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207088
+  default_thread_id: 1509669389
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207088
+- !ruby/hash:EpisodeHash
+  episode_no: 第96話
+  title: 北国からのがんこ便
+  description: 盛岡に引越したひまわり堂のおじいちゃんが突然、博多にやってきた。どうしたんだろう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207088←前話｜次話→so32207090　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207089
+  default_thread_id: 1509669698
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207089
+- !ruby/hash:EpisodeHash
+  episode_no: 第97話
+  title: 春は突然お引っ越し！
+  description: まことの家が夜逃げ！？いやいや、アパートの近くの一戸建てに引っ越すんだって。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207089←前話｜次話→so32207091　第一話→so32202701
+  length_seconds: 1231
+  content_id: so32207090
+  default_thread_id: 1509669694
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207090
+- !ruby/hash:EpisodeHash
+  episode_no: 第98話
+  title: 夫婦ゲンカがやって来た
+  description: 味知姉ちゃんが突然荒岩家にやってきた。なんか様子がおかしいぞ？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207090←前話｜次話→so32207093　第一話→so32202701
+  length_seconds: 1286
+  content_id: so32207091
+  default_thread_id: 1509669353
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207091
+- !ruby/hash:EpisodeHash
+  episode_no: 第99話
+  title: 田中兄ちゃんのSOS！
+  description: 田中兄ちゃんがまたお金を借りに来た。パチスロで負けてなくなったんだって、どうしようもないなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207091←前話｜次話→so32207094　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207093
+  default_thread_id: 1509669696
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207093
+- !ruby/hash:EpisodeHash
+  episode_no: 第100話
+  title: 父ちゃんの大ピンチ！
+  description: 馴染みの洋食屋「コックロール」10周年でオムレツ食べ放題！超満員で卵が無くなりそう。父ちゃん出番だ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207093←前話｜次話→so32207122　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207094
+  default_thread_id: 1509669713
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207094
+- !ruby/hash:EpisodeHash
+  episode_no: 第101話
+  title: 政さんのひとめぼれ騒動
+  description: 政さんが野菜をもって父ちゃんの会社にやってきた。竹とんぼの作り方を教えてもらう約束をしてたんだけど…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207094←前話｜次話→so32207123　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207122
+  default_thread_id: 1509669986
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207122
+- !ruby/hash:EpisodeHash
+  episode_no: 第102話
+  title: コッペパンは青春の味！
+  description: 田中兄ちゃんの友達の花田さんが突然会社にやってきた。とっても不思議な雰囲気の人なんだ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207122←前話｜次話→so32207124　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207123
+  default_thread_id: 1509670594
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207123
+- !ruby/hash:EpisodeHash
+  episode_no: 第103話
+  title: ボクと父ちゃんの星空
+  description: 対馬に父ちゃんと鯛釣りキャンプに行くんだ。でも、鯛なんて釣ったことないからちょっと心配…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207123←前話｜次話→so32207125　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207124
+  default_thread_id: 1509670596
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207124
+- !ruby/hash:EpisodeHash
+  episode_no: 第104話
+  title: 夢子姉ちゃんのお見合い
+  description: 夢子姉ちゃんが実家のある鹿児島でお見合いするんだって！うまくいくといいなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207124←前話｜次話→so32207126　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207125
+  default_thread_id: 1509669984
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207125
+- !ruby/hash:EpisodeHash
+  episode_no: 第105話
+  title: 思い出の味を探せ！
+  description: 母ちゃんが子供の時におじいちゃんに飲ませてもらった不思議なジュースってどんな味なんだろう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207125←前話｜次話→so32207127　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207126
+  default_thread_id: 1509670585
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207126
+- !ruby/hash:EpisodeHash
+  episode_no: 第106話
+  title: お爺ちゃんとハンバーグ
+  description: まげもの屋の田島さん、子供をジロジロ見てるんだ。みつぐ君は誘拐する気じゃないかって言うけど…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207126←前話｜次話→so32207160　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207127
+  default_thread_id: 1509670001
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207127
+- !ruby/hash:EpisodeHash
+  episode_no: 第107話
+  title: 天下無敵のお嬢様主婦？
+  description: 女子プロレスの選手に挑戦コーナーにユミさんが出るんだって。エツ？種子島さんも？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207127←前話｜次話→so32207183　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207160
+  default_thread_id: 1509670556
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207160
+- !ruby/hash:EpisodeHash
+  episode_no: 第108話
+  title: 空ちゃんタコヤキ子守唄
+  description: 突然、根子田さんが空ちゃんを連れてやってきた！子守を引き受けたのはいいけど手に負えないんだって。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207160←前話｜次話→so32207184　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32207183
+  default_thread_id: 1509671652
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207183
+- !ruby/hash:EpisodeHash
+  episode_no: 第109話
+  title: 奥様はカネカリギャル？
+  description: ユミさんが突然父ちゃんを訪ねて来たんだ。理由を聞いたら、お金を貸して欲しいって。どうしたんだろ？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207183←前話｜次話→so32207185　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32207184
+  default_thread_id: 1509671626
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207184
+- !ruby/hash:EpisodeHash
+  episode_no: 第110話
+  title: えっちゃんはお料理ママ
+  description: えっちゃんを遊びに誘ったら夕飯の準備で忙しいって断られたんだ。みつぐクンは嫌われたと落ち込んで…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207184←前話｜次話→so32207186　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207185
+  default_thread_id: 1509671622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207185
+- !ruby/hash:EpisodeHash
+  episode_no: 第111話
+  title: UFOからの贈り物
+  description: 母ちゃんがみゆきに宇宙人チヤケップの話をしたんだ。そしたら博多上空にUFOが現れた！もしかしてチヤケップ！？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207185←前話｜次話→so32207187　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32207186
+  default_thread_id: 1509671624
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207186
+- !ruby/hash:EpisodeHash
+  episode_no: 第112話
+  title: 夢を運ぶオンボロバイク
+  description: ある日、起きたら庭に花田さんがテントを張って寝てたんだ。その自由奔放さにみつぐクンが影響されちゃった。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207186←前話｜次話→so32207188　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207187
+  default_thread_id: 1509671646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207187
+- !ruby/hash:EpisodeHash
+  episode_no: 第113話
+  title: みゆきと豆の木
+  description: みゆきが母ちゃんからジャックと豆の木の話を聞いて、枝豆を育て始めたんだ。でも田中兄ちゃんが…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207187←前話｜次話→so32207189　第一話→so32202701
+  length_seconds: 1344
+  content_id: so32207188
+  default_thread_id: 1509671259
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207188
+- !ruby/hash:EpisodeHash
+  episode_no: 第114話
+  title: とうふ修業はきびしいぞ
+  description: みつぐクンが豆腐屋さんになるんだって言い出したんだ。ホント、影響されやすいんだから。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207188←前話｜次話→so32207190　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207189
+  default_thread_id: 1509671650
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207189
+- !ruby/hash:EpisodeHash
+  episode_no: 第115話
+  title: みつぐ君の名コック宣言
+  description: えっちゃんに食事に誘われたけど、そうめんでみつぐクンはガックリ。自分ならもっと凄いものを作れるって言うんだ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207189←前話｜次話→so32207191　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207190
+  default_thread_id: 1509671278
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207190
+- !ruby/hash:EpisodeHash
+  episode_no: 第116話
+  title: ごめんね！父ちゃん！！
+  description: 父ちゃんに1人では絶対に釣りに行くな！って言われたのに約束を破っちゃった。父ちゃんごめんなさい！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207190←前話｜次話→so32207192　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207191
+  default_thread_id: 1509671241
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207191
+- !ruby/hash:EpisodeHash
+  episode_no: 第117話
+  title: みゆきの空飛ぶイチジク
+  description: おばあちゃんの家にイチジクを取りにいったら誰かに盗まれていた。一体、誰がこんなことをしたの？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207191←前話｜次話→so32207193　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207192
+  default_thread_id: 1509671636
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207192
+- !ruby/hash:EpisodeHash
+  episode_no: 第118話
+  title: 母ちゃんの料理は度胸！
+  description: 時間がたって固くなったお寿司。勿体無いけど捨てようと思ったその時！母ちゃんが何か思いついたみたい。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207192←前話｜次話→so32207218　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207193
+  default_thread_id: 1509671299
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207193
+- !ruby/hash:EpisodeHash
+  episode_no: 第119話
+  title: みつぐは不幸な星の下
+  description: みつぐクンがどこへ遊びに行っても急に雨が降ったりと不幸な星の下に生まれたなんて言うんだ。そんなことないと思うけど…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207193←前話｜次話→so32207219　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207218
+  default_thread_id: 1509672145
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207218
+- !ruby/hash:EpisodeHash
+  episode_no: 第120話
+  title: 田中流！カツ丼の食べ方
+  description: 学校で早弁したのがバレちゃった。でも、父ちゃん全然怒らないんだ。逆に不安になっちゃうよ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207218←前話｜次話→so32207220　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207219
+  default_thread_id: 1509672149
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207219
+- !ruby/hash:EpisodeHash
+  episode_no: 第121話
+  title: ソーセージ大騒動！！
+  description: みつぐクンとおさむクンがお金のことで大喧嘩！父ちゃんのソーセージで仲直りしようよ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207219←前話｜次話→so32207221　第一話→so32202701
+  length_seconds: 1181
+  content_id: so32207220
+  default_thread_id: 1509671614
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207220
+- !ruby/hash:EpisodeHash
+  episode_no: 第122話
+  title: 激走！124キロ熊本へ
+  description: 熊本のみつぐクンのおじいちゃんの家まで自転車で行くことになったんだ。しっかり計画を立てたけど…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207220←前話｜次話→so32207222　第一話→so32202701
+  length_seconds: 1291
+  content_id: so32207221
+  default_thread_id: 1509671779
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207221
+- !ruby/hash:EpisodeHash
+  episode_no: 第123話
+  title: ハゼより愛をこめて・・
+  description: 知らないおばさんにおじいさんの写真を見せられて、見かlナたら連絡をくれって言われたんだ。一体なんだろう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207221←前話｜次話→so32207252　第一話→so32202701
+  length_seconds: 1358
+  content_id: so32207222
+  default_thread_id: 1509672147
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207222
+- !ruby/hash:EpisodeHash
+  episode_no: 第124話
+  title: ああ！憧れのマツタケ
+  description: 母ちゃんがマツタケを食べたいって言うけど予算オーバーで断念。なんとかしてあげたいなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207222←前話｜次話→so32207253　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207252
+  default_thread_id: 1509672401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207252
+- !ruby/hash:EpisodeHash
+  episode_no: 第125話
+  title: うれし楽し！学園祭
+  description: 上田さんが大学の学園祭でお好み焼き屋をやるんだって！楽しみだなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207252←前話｜次話→so32207254　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207253
+  default_thread_id: 1509673008
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207253
+- !ruby/hash:EpisodeHash
+  episode_no: 第126話
+  title: ヨーイ！どんぶり！！
+  description: まことの家でサッカーの合宿！父ちゃんの料理を期待してたけど留守。自分たちで料理を作るぞ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207253←前話｜次話→so32207255　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32207254
+  default_thread_id: 1509672383
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207254
+- !ruby/hash:EpisodeHash
+  episode_no: 第127話
+  title: 母ちゃんのスマッシュ！
+  description: 父ちゃんの会社でテニス大会があるんだ。優勝すれば高級レストランにご招待だって！みんな、がんばって！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207254←前話｜次話→so32207283　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207255
+  default_thread_id: 1509673031
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207255
+- !ruby/hash:EpisodeHash
+  episode_no: 第128話
+  title: 初恋はラムネ色・・・
+  description: 20年前父ちゃんがお世話になったのぶさんがやってきた。実は思い出のお好み焼きとラムネを食べにきたんだって。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207255←前話｜次話→so32207284　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207283
+  default_thread_id: 1509673013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207283
+- !ruby/hash:EpisodeHash
+  episode_no: 第129話
+  title: 田中兄ちゃんの婚約！？
+  description: 田中兄ちゃんが美奈子さんって人と婚約したんだって！今度こそ本気みたいだけど？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207283←前話｜次話→so32207285　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207284
+  default_thread_id: 1509673006
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207284
+- !ruby/hash:EpisodeHash
+  episode_no: 第130話
+  title: タコ焼きはいらんかね？
+  description: 大阪支社の村上さん、とってもタコに似てるんだ。でも、みゆき、似てるからって足は8本もないよ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207284←前話｜次話→so32207309　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207285
+  default_thread_id: 1509673011
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207285
+- !ruby/hash:EpisodeHash
+  episode_no: 第131話
+  title: みつぐ君、屋台に行く！
+  description: お母さんに屋台は大人が行く場所だからタメだと言われてるみつくクン。行きたくてしょうがないみたい。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207285←前話｜次話→so32207310　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32207309
+  default_thread_id: 1509674016
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207309
+- !ruby/hash:EpisodeHash
+  episode_no: 第132話
+  title: サンタの落としもの？ / 父ちゃんの聖・ずる休み？
+  description: みゆきが大きな白い袋を拾ったんだ。サンタさんが落としたって言うんだけど…、他<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207309←前話｜次話→so32207311　第一話→so32202701
+  length_seconds: 1141
+  content_id: so32207310
+  default_thread_id: 1509673516
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207310
+- !ruby/hash:EpisodeHash
+  episode_no: 第133話
+  title: 母ちゃんのスイートメモリー / イブの素敵なプレゼント
+  description: 母ちゃんへのクリスマスプレゼントに父ちゃんが思い出のケーキ「オペラ」を作るぞ！、他<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207310←前話｜次話→so32207313　第一話→so32202701
+  length_seconds: 1246
+  content_id: so32207311
+  default_thread_id: 1509673535
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207311
+- !ruby/hash:EpisodeHash
+  episode_no: 第134話
+  title: 待ちくたびれた年賀状
+  description: さなえちゃんに年賀状を出したのに返事がなかなか返ってこない。もしかして、嫌われちゃったの～～！？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207311←前話｜次話→so32207315　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207313
+  default_thread_id: 1509674018
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207313
+- !ruby/hash:EpisodeHash
+  episode_no: 第135話
+  title: ヒヤヒヤ！餅もち歓迎会
+  description: さなえちゃんが福岡に掃ってきた！！父ちゃんのアイデアで餅つきをして歓迎会をすることになったんだ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207313←前話｜次話→so32207316　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207315
+  default_thread_id: 1509673915
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207315
+- !ruby/hash:EpisodeHash
+  episode_no: 第136話
+  title: カキとカキのお話！？
+  description: みつぐタンは牡蠣が大嫌いなんだって。同じカキでも柿なら喜んで食べるって言うけど…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207315←前話｜次話→so32207317　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207316
+  default_thread_id: 1509673898
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207316
+- !ruby/hash:EpisodeHash
+  episode_no: 第137話
+  title: 夢子お姉さんの大ピンチ
+  description: 最近、空き巣がよく出るらしいんだ。エツ！夢子お姉さんの家にも！？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207316←前話｜次話→so32207318　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207317
+  default_thread_id: 1509673894
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207317
+- !ruby/hash:EpisodeHash
+  episode_no: 第138話
+  title: 男涙の田中兄ちゃん
+  description: 田中兄ちゃんの様子が変なんだ。仕事をさぼったり、突然、父ちゃんに料理を教わりに来たり、何があったんだろう？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207317←前話｜次話→so32207319　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207318
+  default_thread_id: 1509673896
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207318
+- !ruby/hash:EpisodeHash
+  episode_no: 第139話
+  title: 謎なぞチョコレート！？
+  description: 父ちゃんの発案でチョコレート友の会を結成したんだ。貰ったバレンタインチョコでケーキを作るって言うんだけど…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207318←前話｜次話→so32207320　第一話→so32202701
+  length_seconds: 1359
+  content_id: so32207319
+  default_thread_id: 1509674013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207319
+- !ruby/hash:EpisodeHash
+  episode_no: 第140話
+  title: ドラム息子の青春なべ
+  description: 魚屋さんの息子のシンゴさん、ドラ息子ならぬドラム息子。みつぐクンがまた、影響受けちゃったんだ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207319←前話｜次話→so32207321　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207320
+  default_thread_id: 1509673891
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207320
+- !ruby/hash:EpisodeHash
+  episode_no: 第141話
+  title: 決闘！博多の夜はふけて
+  description: 夢子姉さんの弟の達也さん、田中兄ちゃんを夢子姉さんの彼氏だと勘違い？<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207320←前話｜次話→so32207322　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207321
+  default_thread_id: 1509673917
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207321
+- !ruby/hash:EpisodeHash
+  episode_no: 第142話
+  title: 田中兄ちゃんのプロポーズ
+  description: 田中兄ちゃんが夜中に訪ねて来て、夢子姉さんに本気でアタックすると宣言！頑張れ！！田中兄ちゃん！！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207321←前話｜次話→so32207364　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207322
+  default_thread_id: 1509673919
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207322
+- !ruby/hash:EpisodeHash
+  episode_no: 第143話
+  title: ホワイトデーの天使
+  description: バレンタインデーに特別な思いを持っている萩原のおばあちゃん。まこととみつぐクンで特別なお返しをする。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207322←前話｜次話→so32207365　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207364
+  default_thread_id: 1509674542
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207364
+- !ruby/hash:EpisodeHash
+  episode_no: 第144話
+  title: その結婚ちょっと待った
+  description: 田中兄ちゃんと夢子姉さんが結婚することに。でも親戚に反対されて大喧嘩したんだ。心配だなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207364←前話｜次話→so32207366　第一話→so32202701
+  length_seconds: 1360
+  content_id: so32207365
+  default_thread_id: 1509674247
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207365
+- !ruby/hash:EpisodeHash
+  episode_no: 第145話
+  title: おめでとうのドラケーキ
+  description: 父ちゃんと母ちゃんの仲人で田中兄ちゃんの結婚式。実はアガリ症の父ちゃん、大丈夫かなぁ…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207365←前話｜次話→so32207367　第一話→so32202701
+  length_seconds: 1345
+  content_id: so32207366
+  default_thread_id: 1509674127
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207366
+- !ruby/hash:EpisodeHash
+  episode_no: 第146話
+  title: 落第先生がやって来た！
+  description: まことの学校の担任が新しくなった。畑と言う男の先生でとっても頼りになるんだ！<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207366←前話｜次話→so32207391　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32207367
+  default_thread_id: 1509674243
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207367
+- !ruby/hash:EpisodeHash
+  episode_no: 第147話
+  title: アツアツ！新婚家庭訪問
+  description: おっちょこちょいの畑先生。彼女が出来ればしっかりするんじゃないかってみつぐクンが言うんだ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207367←前話｜次話→so32207392　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32207391
+  default_thread_id: 1509674848
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207391
+- !ruby/hash:EpisodeHash
+  episode_no: 第148話
+  title: 新入社員はキレイ好き！
+  description: 畑先生の友達の工藤さん。凄くのんびりした人なんだ。実は父ちゃんの会社の新入社員なんだって、大丈夫かなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207391←前話｜次話→so32207426　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32207392
+  default_thread_id: 1509674720
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207392
+- !ruby/hash:EpisodeHash
+  episode_no: 第149話
+  title: 兄ちゃんのコーンスープ / 工藤さんのほのぼの名刺
+  description: コーンスープが大好きな妹、千絵ちゃんのためにみつぐクンが腕を振るうぞ。、他<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207392←前話｜次話→so32207427　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32207426
+  default_thread_id: 1509675299
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207426
+- !ruby/hash:EpisodeHash
+  episode_no: 第150話
+  title: ドキドキ恋のケーキ授業
+  description: エツちゃんと喧嘩したみつぐクン。ケーキ屋さんのお姉さんに一日惚れしちゃったんだ。困ったなぁ。<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207426←前話｜次話→so32207428　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32207427
+  default_thread_id: 1509675281
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207427
+- !ruby/hash:EpisodeHash
+  episode_no: 第151話
+  title: おばあちゃんカッコいー / 夢子お姉さんの重大発表
+  description: さなえちゃんとおばあちゃん達で釣りに行ったんだ。でも、マナーの悪い人たちが居て…、他<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207427←前話｜次話→so32207429　第一話→so32202701
+  length_seconds: 1330
+  content_id: so32207428
+  default_thread_id: 1509675510
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207428
+- !ruby/hash:EpisodeHash
+  episode_no: 第152話
+  title: おめでとうがいっぱい
+  description: おじいちゃんとおばあちゃんの結婚式をやることになったんだ。でも、なぜかおばあちゃんが大反対…<br><br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか<br><br>原作:うえやまとち（講談社
+    週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦<br><br>so32207428←前話　第一話→so32202701
+  length_seconds: 1299
+  content_id: so32207429
+  default_thread_id: 1509675453
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32207429
+cast: "[キャスト]<br>荒岩一味:玄田哲章／荒岩虹子:勝生真沙子／荒岩誠:高山みなみ／木村夢子:冬馬由美／田中一:飛田展男／さなえ:かないみか"
+staff: "[スタッフ]<br>原作:うえやまとち（講談社 週刊モーニング掲載）／監督:角田利隆／キャラクターデザイン:敷島博英／脚本:雪室俊一／音楽:佐橋俊彦"
+produced_year: "[製作年]<br>1992年"
+copyright: "©うえやまとち／講談社・エイケン"
+related_seasons: !ruby/array:Hashie::Array []

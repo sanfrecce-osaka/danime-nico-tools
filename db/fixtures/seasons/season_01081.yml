@@ -1,0 +1,138 @@
+--- !ruby/hash:SeasonHash
+title: 夏雪ランデブー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/21/0/11210_1_6.png?1427216400000
+outline: 目つきは悪いが純情一途な花屋のバイト青年・葉月（はづき）亮介。彼がひそかに想いをよせるのは、店長の島尾六花（ろっか）。一目惚れした六花の花屋に通い詰め、バイト募集を機にそこで働くことに。念願叶ったものの、８つ年上の彼女は恋愛を諦めている様子。目の前にいるのに何もできない自分に歯がゆさが募るばかり。ある日、とある用事で花屋の２階の彼女の自宅に呼ばれて行くと、そこにはなんと上半身裸の男。予期せぬ事態に半ば憤り、半ば呆れる葉月だったが、意外な事実が明らかに。その男は六花の同棲相手ではなく、すでに亡くなった彼女の旦那の幽霊（島尾篤）だという。六花には見えないらしい島尾（幽霊）は何かと葉月の恋路の邪魔をし、葉月もそれに屈せず押しの一点張りで頑張るがなかなか埒が明かない。そんな中、島尾（幽霊）が切り出した予想外の提案とは・・・
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：動画工房
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：松尾衡
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：河内遙
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 祥伝社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ''
+  description: 葉月亮介は、花屋の店主・島尾六花に一目ぼれ。週２で花を買うだけの片思い生活から、運良く彼女の花屋のアルバイト店員となる。が、六花は恋愛を諦めている様子で、葉月は思いを伝えられずにいた。そんなある日、六花の部屋に行くと、そこには裸の男が。なんとその男は、六花の死に別れた夫・島尾篤の幽霊だった。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>次話→so32084641
+  length_seconds: 1380
+  content_id: so32084623
+  default_thread_id: 1507749040
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084623
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ''
+  description: 葉月が六花に近づこうとすると、島尾（幽霊）が現れ邪魔をする毎日。ある晩、葉月が六花を食事に誘うと、思いがけずいいムードに。葉月に戸惑いながらも惹かれ始めている六花に、島尾（幽霊）は複雑な思いを抱く。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084623←前話｜次話→so32084642　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084641
+  default_thread_id: 1507749038
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084641
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ''
+  description: 風邪で倒れた六花を介抱する葉月を見た島尾（幽霊）は嫉妬と無力感から、葉月に少しの間体を貸してほしいと提案。葉月は一蹴するが、島尾の姉ミホから見せられた在りし日の島尾と六花の仲睦まじい写真に心が揺れる。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084641←前話｜次話→so32084643　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084642
+  default_thread_id: 1507749069
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084642
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ''
+  description: 葉月は島尾と六花の思い出の場所に六花を誘う。葉月は六花にかつての笑顔を取り戻してもらいたい一心で、押しの一手でアプローチをするが、六花は島尾との思い出が去来し涙を見せる。そんな彼女を見て、自分の力では埒が明かないと痛感した葉月はある決意をする。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084642←前話｜次話→so32084667　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084643
+  default_thread_id: 1507749077
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084643
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ''
+  description: 島尾に体を貸した葉月は、生前の島尾が描きかけた絵本の世界で目覚め、そこで若い頃の六花に似た女の子と出会う。一方、島尾（幽霊）は葉月として六花と対面。久しぶりに六花と会話し、彼女に触れられることを喜ぶ。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084643←前話｜次話→so32084704　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084667
+  default_thread_id: 1507749082
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084667
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ''
+  description: 葉月の姿の島尾は自分を夕食に招いた六花と一線を越えようとするが、六花は踏み切れず、彼の「死んだ旦那を言い訳に使うのはやめてほしい」の言葉に動揺する。一方、本物の葉月は絵本の世界から脱出したいともがく。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084667←前話｜次話→so32084705　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084704
+  default_thread_id: 1507750205
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084704
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ''
+  description: 葉月が好きだと告白した六花。葉月に体を借りている島尾は、やりきれない思いを抱きながら六花を海へ誘う。翌朝、先に発った葉月（中身＝島尾）が残したメモに、六花は島尾の影を感じ心が乱れる。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084704←前話｜次話→so32084706　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084705
+  default_thread_id: 1507750188
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084705
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ''
+  description: 店に戻った六花は、店内に残された生前の島尾を思わせるフラワーアレンジメントや領収証の筆跡に混乱し、さらに島尾の持ち物が消えていることに気づく。一方、絵本の世界で出口を探す葉月は、六花の願いが島尾と暮らすことだったらどうするべきかと悩む。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084705←前話｜次話→so32084707　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084706
+  default_thread_id: 1507750186
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084706
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ''
+  description: 島尾は、葉月に体を借りたまま店から持ち出した植木鉢を抱え、生前に六花と最後に訪れた高尾山へ。彼を追いかけて山を登る六花は、植木鉢の中身を土に埋める葉月を目撃する。一方、絵本の世界に閉じ込められた葉月に異変が起こる。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084706←前話｜次話→so32084708　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084707
+  default_thread_id: 1507750167
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084707
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ''
+  description: 本格的に絵本の世界に閉じ込められた葉月は、気がつくと実体のない幽霊化した姿で現世に戻っていた。彼は、そこで葉月（中身＝島尾）を「島尾くん」と呼び、楽しそうにふるまう六花を見てショックを受ける。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084707←前話｜次話→so32084709　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084708
+  default_thread_id: 1507750041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084708
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ''
+  description: 島尾に葉月への心変わりを告げたことを後悔する六花。島尾の骨を手元に置き、彼をこの世につなぎとめた責任を感じた六花は、自分もおそろいの骨になると告げる。ショックを受ける葉月の目前で、六花は島尾に鋏を渡す。<br><br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）<br><br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）<br><br>so32084708←前話　第一話→so32084623
+  length_seconds: 1380
+  content_id: so32084709
+  default_thread_id: 1507750169
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084709
+cast: "[キャスト]<br>葉月亮介:（ＣＶ：中村悠一）／島尾六花:（ＣＶ：大原さやか）"
+staff: "[スタッフ]<br>監督:松尾衡／シナリオ（シリーズ構成）:松尾衡／スタジオ:動画工房／原作:河内遙「夏雪ランデブー」（祥伝社・フィールコミック）"
+produced_year: "[製作年]<br>2012年"
+copyright: "©2012 河内遙／祥伝社／アニメ「夏雪ランデブー」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

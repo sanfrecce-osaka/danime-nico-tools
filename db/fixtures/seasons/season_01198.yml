@@ -1,0 +1,166 @@
+--- !ruby/hash:SeasonHash
+title: ハナヤマタ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/36/9/11369_1_6.png?1453960134000
+outline: 容姿も普通、頭も普通、美術や体育・・・何だって普通。そんなフツウだらけのぱっとしない14歳、関谷なる。おとぎばなしにでてくるような“ヒロイン”に憧れて、いつかこんな世界から連れ去ってくれる誰かを待っていただけれど、中学2年生になった今も、あいかわらずフツウの毎日。そんなある日、なるは月光の下に和装で舞う金髪の少女に出逢う。｢私と一緒に、よさこいしませんか？｣突然の出来事に戸惑うなるだけど、異国の少女ハナに導かれ、次第に『よさこい』という非日常の世界へと踏み出していく。まだ子供だけれど、ちょっぴり大人。花々しい少女たちの物語が今、幕を開ける――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中美海
+  type: cast
+- !ruby/hash:TagHash
+  name: 奥野香耶
+  type: cast
+- !ruby/hash:TagHash
+  name: 芳文社
+  type: other
+- !ruby/hash:TagHash
+  name: 女の子たちの日常
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1組目
+  title: シャル・ウィ・ダンス?
+  description: なんだって普通の中学2年生・関谷なるは、ある夜月光の下に和装で舞う金髪の少女ハナに出逢う。それはなるが『よさこい』という非日常の世界に触れた瞬間だった。なるは戸惑いながらも、｢私も輝きたい｣と新たな第一歩を踏み出す。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>次話→so32808756
+  length_seconds: 1430
+  content_id: so32808724
+  default_thread_id: 1519797311
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808724
+- !ruby/hash:EpisodeHash
+  episode_no: 2組目
+  title: ジェラシー・ローズ
+  description: なるとハナは学校の皆がどうしたらよさこいに興味を持ってくれるか話し合いをする。急接近する二人の仲がおもしろくないなるの同級生ヤヤ。ちょっとしたすれ違いをきっかけに喧嘩を始めてしまうなるとヤヤだったが…。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808724←前話｜次話→so32808755　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808756
+  default_thread_id: 1519797872
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808756
+- !ruby/hash:EpisodeHash
+  episode_no: 3組目
+  title: ガールズ・スタイル
+  description: よさこいショップ｢勝｣を訪れたなるとハナは、夏に開催される｢花彩よさこい祭｣のことを知る。よさこい部で出場しようと意気込むハナ。しかし部を結成するには最低でも4人が必要だという。部員集めのパフォーマンスを学校で繰り広げるハナに、ヤヤは｢なんでそんなに楽しそうなのか｣と尋ねる。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808756←前話｜次話→so32808754　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808755
+  default_thread_id: 1519797821
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808755
+- !ruby/hash:EpisodeHash
+  episode_no: 4組目
+  title: プリンセス・プリンセス
+  description: 生徒会長・マチに屋上の使用禁止を言い渡されたなる達。しかしなるの幼馴染で生徒会副会長のタミは、他の活動場所が見つかるまでの間は取り計らうと約束する。大和撫子然としたタミに、よさこいを一緒にしようと誘うハナ。タミは｢自分のしたいこと｣と｢西御門家の娘であること｣の間に悩むが…。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808755←前話｜次話→so32808753　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808754
+  default_thread_id: 1519797844
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808754
+- !ruby/hash:EpisodeHash
+  episode_no: 5組目
+  title: ファースト・ステップ
+  description: タミとヤヤの加入で、ついに部員が4人揃ったよさこい部。夏に開催される｢花彩よさこい祭｣のステージで踊ることを目標に活動をスタートする。しかしまだ本物のよさこいに触れたことのないなる達は、タミの提案で｢湘南よさこい祭り｣に行くことに。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808754←前話｜次話→so32808844　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808753
+  default_thread_id: 1519798005
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808753
+- !ruby/hash:EpisodeHash
+  episode_no: 6組目
+  title: トライ・トライ・トライ
+  description: 花彩よさこい祭に向けて準備を進めるなる達。シンボルマークに、衣装に、振付、音楽…。そんな中、ハナが見つけてきたのはデパートでのステージイベント。よさこい部での出場を計画するも、課外活動の許可を出すには2つの条件をクリアするようにとサリー先生に言われてしまい…！？<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808753←前話｜次話→so32808641　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808844
+  default_thread_id: 1519799003
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808844
+- !ruby/hash:EpisodeHash
+  episode_no: 7組目
+  title: ガール・アイデンティティー
+  description: デパートのステージイベントも近づく中、なんだか元気のないヤヤ。どうやら先日のバンドオーディションが関係しているようで…？理由を話そうとしないヤヤを気遣い、力になろうとするなる達だけど、そんななる達にヤヤは思わず感情をぶつけてしまう。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808844←前話｜次話→so32808599　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808641
+  default_thread_id: 1519796192
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808641
+- !ruby/hash:EpisodeHash
+  episode_no: 8組目
+  title: ミッション・イベント
+  description: ヤヤの正式加入で名実ともに4人揃ったよさこい部。デパートのイベントに向けて振付や音楽の準備が進むが、よりによってイベント当日、音楽が収録されたCDを忘れてきてしまう。｢妹に頼む｣と言うサリー先生が呼んだのはなんと生徒会長のマチだった。そして初めてのステージに臨む4人だったが…。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808641←前話｜次話→so32808560　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808599
+  default_thread_id: 1519795501
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808599
+- !ruby/hash:EpisodeHash
+  episode_no: 9組目
+  title: シスター・コンプレックス
+  description: デパートでの失敗を乗り越え、花彩よさこい祭でこそ踊りを成功させようと決意を新たにしたよさこい部。そんな折、マチが｢よさこい部はまだ正式に認められていない｣という衝撃の事実を告げる。代理教員であるサリーは部の顧問になれないからだという。それでもサリーに顧問でいて欲しい4人と、そこに絡む、マチとサリーの深い確執とは…。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808599←前話｜次話→so32808520　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808560
+  default_thread_id: 1519795227
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808560
+- !ruby/hash:EpisodeHash
+  episode_no: 10組目
+  title: オンセン・ガッシュク
+  description: マチの入部で5人になった由比浜学園中学よさこい部は、花彩よさこい祭に備えて箱根で温泉合宿をすることに。はしゃぐハナ達とは対照的に、入部からまだ日の浅いマチは、遅れを取り戻そうとハードな練習を強要してしまい…？よさこい部の合宿は楽しいだけでは終わらない！？<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808560←前話｜次話→so32808482　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808520
+  default_thread_id: 1519794319
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808520
+- !ruby/hash:EpisodeHash
+  episode_no: 11組目
+  title: スマイル・イズ・フラワー
+  description: 花彩よさこい祭まで、いよいよあと3週間！よさこい部の練習にも力が入る一方、ハナがなんだか浮かぬ顔。何か心配事があるのではないかと気遣うなる達。そして花彩よさこい祭で踊る音楽に歌入れを行ったその夜、ハナがなるのもとを訪れる。泣きじゃくる彼女が告げたその言葉とは…。<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808520←前話｜次話→so32808441　第一話→so32808724
+  length_seconds: 1430
+  content_id: so32808482
+  default_thread_id: 1519794025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808482
+- !ruby/hash:EpisodeHash
+  episode_no: 12組目
+  title: ハナヤマタ
+  description: ついに迎えた花彩よさこい祭当日。ハナがいなくなってしまったことで少し落ち込んでいたよさこい部を盛り立てたのはなるだった。ハナと初めて出会ったその場所で、なるは決意の表情で鳴子を鳴らす。そしてハナもまた、みんなと踊りたいという気持ちを胸に街を駆ける。少女たちのひと夏の思いが結ぶ時。かわいく元気にハナヤマタ！<br><br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美<br><br>原作:浜弓場
+    双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+    II entertainment／アニメーション制作:MADHOUSE<br><br>so32808482←前話　第一話→so32808724
+  length_seconds: 1415
+  content_id: so32808441
+  default_thread_id: 1519792988
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808441
+cast: "[キャスト]<br>関谷なる:上田麗奈／ハナ・N・フォンテーンスタンド:田中美海／笹目ヤヤ:奥野香耶／西御門多美:大坪由佳／常盤真智:沼倉愛美"
+staff: "[スタッフ]<br>原作:浜弓場 双(芳文社｢まんがタイムきららフォワード｣連載)／監督:いしづかあつこ／シリーズ構成・脚本:吉田玲子／キャラクターデザイン・総作画監督:渡辺敦子／音楽:MONACA／音楽制作:DIVE
+  II entertainment／アニメーション制作:MADHOUSE"
+produced_year: "[製作年]<br>2014年"
+copyright: "©浜弓場 双・芳文社／ハナヤマタ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

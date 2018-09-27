@@ -1,0 +1,48 @@
+--- !ruby/hash:SeasonHash
+title: ばなにゃ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/00/7/21007_1_6.png?1467941411000
+outline: バナナにひそむ不思議な生物ばなにゃ。普段は本物のバナナにまぎれて暮らしていて、人がいないときにこっそり遊んだり、いたずらしたり...。謎に包まれたばなにゃを長年追っている研究者が、とにかくゆるい感じでばなにゃを観察していく。猫でもバナナでもないばなにゃたちのかわいい生態に今、迫る！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 蛭子能収
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ギャザリング
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：クーリア
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：矢立きょう
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：ばなにゃぱーとにゃ～ず
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第13話
+  title: ばなにゃ
+  description: ばなにゃ、くろばなにゃ、けながばなにゃ、おやじばなにゃ、みけばなにゃ:梶裕貴／ばなにゃ子、とらばなにゃ、さばとらばなにゃ、ベビーばなにゃ、たばなにゃ、ねずみ:村瀬歩／ナレーション:蛭子能収<br><br>原作:クーリア／監督:矢立きょう／脚本・絵コンテ・演出:矢立きょう、たかたまさひろ、三田潤／作画監督:三田潤／撮影監督:横枕一／音響監督:阿部信行／アニメ―ション制作:ギャザリング／制作協力:トムス・エンタテインメント／製作:ばなにゃぱーとにゃ～ず
+  length_seconds: 2354
+  content_id: so31982282
+  default_thread_id: 1506201110
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982282
+cast: "[キャスト]<br>ばなにゃ、くろばなにゃ、けながばなにゃ、おやじばなにゃ、みけばなにゃ:梶裕貴／ばなにゃ子、とらばなにゃ、さばとらばなにゃ、ベビーばなにゃ、たばなにゃ、ねずみ:村瀬歩／ナレーション:蛭子能収"
+staff: "[スタッフ]<br>原作:クーリア／監督:矢立きょう／脚本・絵コンテ・演出:矢立きょう、たかたまさひろ、三田潤／作画監督:三田潤／撮影監督:横枕一／音響監督:阿部信行／アニメ―ション制作:ギャザリング／制作協力:トムス・エンタテインメント／製作:ばなにゃぱーとにゃ～ず"
+produced_year: "[製作年]<br>2016年"
+copyright: "©ばなにゃぱーとにゃ～ず"
+related_seasons: !ruby/array:Hashie::Array []

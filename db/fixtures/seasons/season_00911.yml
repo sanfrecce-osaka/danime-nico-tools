@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: ちるらん にぶんの壱
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/35/8/21358_1_6.png?1482715843000
+outline: "「ちるらん 新撰組鎮魂歌」の著者本人が描くスピンオフ作品　月刊コミックゼノンで連載中の人気漫画『ちるらん 新撰組鎮魂歌』に登場する新撰組の隊士たちをデフォルメ化し、彼らの日常を描いた作品。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅原裕一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 代永翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 蒼井翔太
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川慎
+  type: cast
+- !ruby/hash:TagHash
+  name: 落合福嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：橋本エイジ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：梅村真也
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 木村佳史子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1刀～第4刀
+  title: 異名(あだな)／男気(モテキ)／睡眠(グッドナイト)／恋文(ファンレター)
+  description: 第1刀：新撰組隊士の名は。／第2刀：新撰組隊士の色男は誰。／第3刀：新撰組隊士の寝床。／第4刀：新撰組隊士のお手紙。<br><br>土方歳三:鈴木達央／永倉新八:梅原裕一郎／沖田総司:代永翼／斎藤一:木村良平／原田左之助:蒼井翔太／近藤勇:高木渉／芹沢鴨:小西克幸／山南敬助:森久保祥太郎／藤堂平助:古川慎／島田魁:落合福嗣<br><br>原作:「ちるらん
+    にぶんの壱」　漫画：橋本エイジ 原作：梅村真也／監督:室井ふみえ／キャラクターデザイン:村田睦明／美術監督:市原美恵子／色彩設定:村上智美／撮影監督:神田智隆／編集:木村佳史子／アニメーション制作:ランドック・スタジオ<br><br>次話→so32123280
+  length_seconds: 483
+  content_id: so32123279
+  default_thread_id: 1508400500
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32123279
+- !ruby/hash:EpisodeHash
+  episode_no: 第5刀～第8刀
+  title: 恐怖(ホラー)／愛用(トレードマーク)／見廻(ブリザード)／酒(パーティー)
+  description: 第5刀：新撰組隊士の厠事情。／第6刀：新撰組隊士のこだわり。／第7刀：新撰組隊士の夜のお仕事。／第8刀：新撰組隊士の宴会。<br><br>土方歳三:鈴木達央／永倉新八:梅原裕一郎／沖田総司:代永翼／斎藤一:木村良平／原田左之助:蒼井翔太／近藤勇:高木渉／芹沢鴨:小西克幸／山南敬助:森久保祥太郎／藤堂平助:古川慎／島田魁:落合福嗣<br><br>原作:「ちるらん
+    にぶんの壱」　漫画：橋本エイジ 原作：梅村真也／監督:室井ふみえ／キャラクターデザイン:村田睦明／美術監督:市原美恵子／色彩設定:村上智美／撮影監督:神田智隆／編集:木村佳史子／アニメーション制作:ランドック・スタジオ<br><br>so32123279←前話｜次話→so32123281　第一話→so32123279
+  length_seconds: 483
+  content_id: so32123280
+  default_thread_id: 1508400469
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32123280
+- !ruby/hash:EpisodeHash
+  episode_no: 第9刀～第12刀
+  title: 変装(コスプレ)／食事(ランチタイム)／日常(ルーチーン)／休憩（シエスタ)
+  description: 第9刀：新撰組隊士の密偵大作戦。／第10刀：新撰組隊士の大食い選手権。／第11刀：新撰組隊士のおやつ争奪戦。／第12刀：新撰組隊士の休憩。<br><br>土方歳三:鈴木達央／永倉新八:梅原裕一郎／沖田総司:代永翼／斎藤一:木村良平／原田左之助:蒼井翔太／近藤勇:高木渉／芹沢鴨:小西克幸／山南敬助:森久保祥太郎／藤堂平助:古川慎／島田魁:落合福嗣<br><br>原作:「ちるらん
+    にぶんの壱」　漫画：橋本エイジ 原作：梅村真也／監督:室井ふみえ／キャラクターデザイン:村田睦明／美術監督:市原美恵子／色彩設定:村上智美／撮影監督:神田智隆／編集:木村佳史子／アニメーション制作:ランドック・スタジオ<br><br>so32123280←前話　第一話→so32123279
+  length_seconds: 483
+  content_id: so32123281
+  default_thread_id: 1508400494
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32123281
+cast: "[キャスト]<br>土方歳三:鈴木達央／永倉新八:梅原裕一郎／沖田総司:代永翼／斎藤一:木村良平／原田左之助:蒼井翔太／近藤勇:高木渉／芹沢鴨:小西克幸／山南敬助:森久保祥太郎／藤堂平助:古川慎／島田魁:落合福嗣"
+staff: "[スタッフ]<br>原作:「ちるらん にぶんの壱」　漫画：橋本エイジ 原作：梅村真也／監督:室井ふみえ／キャラクターデザイン:村田睦明／美術監督:市原美恵子／色彩設定:村上智美／撮影監督:神田智隆／編集:木村佳史子／アニメーション制作:ランドック・スタジオ"
+produced_year: "[製作年]<br>2017年"
+copyright: "©橋本エイジ・梅村真也/ NSP 2016，©アニメ「ちるらん にぶんの壱」製作委員会2017"
+related_seasons: !ruby/array:Hashie::Array []

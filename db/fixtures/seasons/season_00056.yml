@@ -1,0 +1,132 @@
+--- !ruby/hash:SeasonHash
+title: Another
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/64/6/10646_1_6.png?1427216400000
+outline: 死者は、誰――? その学校のそのクラスには、誰にも話してはならない“秘密”がある――1998年、春｡ 夜見山北中学に転校してきた 榊原恒一(15歳)は、何かに怯えているようなクラスの雰囲気に違和感を覚える｡不思議な存在感を放つ美少女、見崎鳴に惹かれ、接触を試みる恒一だが、いっそう謎は深まるばかり｡そんな中、予想もしなかった惨事が!・・・・・・この“世界”ではいったい、何が起こっているのか・・・?
+  “新本格ミステリ”ムーブメントの旗手・綾辻行人がおくる、いまだかつてない学園ミステリ&ホラー｢Another｣驚天動地の学園本格ミステリホラーがついにTVアニメ化!キャラクター原案は｢涼宮ハルヒの憂鬱｣などの大ヒット作品を手掛ける【いとう
+  のいぢ】が担当!監督:水島努、キャラクターデザイン:石井百合子、そして…アニメ制作:P.A.WORKS大ヒットを連発しているスタッフ&スタジオが、超豪華チームを結成し、ホラーアニメの決定版に挑む｡
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: Anotherシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: カドカワコミックス・エース
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: Rough sketch <素描>
+  description: 父の仕事の都合で、夜見山市の祖父母宅へ引っ越してきた榊原恒一。こちらへ来て早々、気胸を患い入院した恒一は、1か月遅れで夜見山北中学校3年3組に転入した。教室で目に止まったのは、眼帯をした美少女・見崎鳴。偶然にも病院で彼女と出会っていた恒一は、その不思議な存在感が気にかかる。だが、親しく接してくれるクラスメイトの中に、彼女について触れる者は誰もいなかった……。<br><br>次話→so31881275
+  length_seconds: 1479
+  content_id: so31881274
+  default_thread_id: 1504756292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881274
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: Blueprint <思惑>
+  description: 鳴が気になる恒一は、姿を見かけては自分から声をかけていた。だが、恒一の質問に鳴が答えることはなく、ただ｢気をつけたほうがいいよ｣と、忠告ともとれる言葉を口にするだけだった。クラスメイトの勅使河原や望月は、そんな恒一の様子に戸惑いを隠せない。それでも鳴のことを知ろうとする恒一は、放課後に彼女のあとを追いかける。夕暮れの住宅街で、たどり着いた先にあったのは……。<br><br>so31881274←前話｜次話→so31881276　第一話→so31881274
+  length_seconds: 1480
+  content_id: so31881275
+  default_thread_id: 1504756359
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881275
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: Bone work <骨組>
+  description: 古びた人形だらけの工房で、鳴と出会った恒一。鳴は恒一に26年前の3年3組に起きた、ある出来事を語る。それは、一人の生徒の死にまつわる不思議な話だった。恒一は勅使河原や桜木たちにもその話について尋ねるが、誰もが困ったような表情を見せ、口を固く閉ざしてしまう。そんな時、恒一は亡くなった母親が｢26年前の3年3組｣の一員だったことを叔母の怜子から聞かされる……。<br><br>so31881275←前話｜次話→so31881277　第一話→so31881274
+  length_seconds: 1480
+  content_id: so31881276
+  default_thread_id: 1504755751
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881276
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: Put flesh <輪郭>
+  description: ある生徒の突然の、理不尽な事故死により｢3組の呪い｣の噂は一気に信憑性を増した。恒一は鳴という不思議な存在と26年前の話が、一連の出来事と繋がっているように思えてならなかった。工房で再び出会った鳴は、そんな学校の変化に気づいていたが、相変わらず恒一に詳しいことを話そうとはしない。3年3組には怯えたような空気が満ち、対策係の赤沢も頭を悩ませるが……。<br><br>so31881276←前話｜次話→so31881278　第一話→so31881274
+  length_seconds: 1479
+  content_id: so31881277
+  default_thread_id: 1504756301
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881277
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: Build limbs <拡散>
+  description: 恒一が親しくしていた看護師の水野に起きた悲惨な事故。それ以来、3年3組の緊張感はさらに高まり、恒一が知らぬ間に赤沢が女子の新しいクラス委員長に決まっていた。自分がいない場でクラスメイトたちが何かを話し合っている。それを知っても理由を教えてもらえるわけもなく、恒一は途方に暮れる。クラスの方針にあまり賛成できずにいた高林は、そんな恒一の疑問に答えようとするが……。<br><br>so31881277←前話｜次話→so31881279　第一話→so31881274
+  length_seconds: 1479
+  content_id: so31881278
+  default_thread_id: 1504756394
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881278
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: Face to face <二人>
+  description: 26年前から続く“災厄”から逃れるため、代々の3年3組では、ある“おまじない”が行われていた。転校してきてから恒一がクラスの雰囲気に感じていた違和感も、すべてそれが理由だった。その“おまじない”に理不尽さを感じながらも、恒一は現状を受け入れ、鳴と行動を共にするようになる。そして、これまで夜見山北中学校で起きてきたことを、図書室で自分なりに調べ始めるが……。<br><br>so31881278←前話｜次話→so31881280　第一話→so31881274
+  length_seconds: 1480
+  content_id: so31881279
+  default_thread_id: 1504755836
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881279
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: Sphere joint <変調>
+  description: 3年3組の教室におびただしい血が流れ、すでに始まってしまった“災厄”は止められないのだと誰もが悟った。“おまじない”は取りやめになり、赤沢たちは｢“災厄”をもたらす“死者”は誰なのか…?｣という疑問を抱く。そんな時、恒一は15年前の“災厄”だけが途中で止まっていたことを知る。司書の千曳によると、その年の夏休みにはクラス合宿が行われ、夜見山神社をお参りしたらしいが……。<br><br>so31881279←前話｜次話→so31881281　第一話→so31881274
+  length_seconds: 1479
+  content_id: so31881280
+  default_thread_id: 1504756509
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881280
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: Hair stand <紺碧>
+  description: 災厄が止まった手がかりを知る松永は、怜子と同じく15年前の3年3組の生徒だった。恒一は赤沢や勅使河原たちと共に、怜子の車で彼が働いている隣町のリゾートホテルへ向かう。留守だった松永を待つ間、一行はせっかくだからと海で遊ぶことに。そこで偶然にも、家族と別荘へ来ていた鳴と出会う。夜見山市を出て、緊張感から解放された恒一たちは、束の間の楽しい時間を過ごすが……。<br><br>so31881280←前話｜次話→so31881282　第一話→so31881274
+  length_seconds: 1479
+  content_id: so31881281
+  default_thread_id: 1504755779
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881281
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: Body paint <連鎖>
+  description: 夜見山市の外で起きた思いがけない事故に、周囲の不安は一層募る。事故の直後、松永が何かを思い出したかのようにつぶやいた｢教室｣という言葉を手がかりに、恒一は15年前の3年3組があった旧校舎を調べることにする。これ以上、犠牲者を増やさないことを考え、協力を求めるのは勅使河原と望月だけにした。そこへ3人の行動に気づいた鳴も加わり、旧校舎の探検が始まるが……。<br><br>so31881281←前話｜次話→so31881283　第一話→so31881274
+  length_seconds: 1480
+  content_id: so31881282
+  default_thread_id: 1504755796
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881282
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: Glass eye <漆黒>
+  description: 恒一たちは旧校舎で松永が残したテープを見つけたが、犠牲者はさらに増えてしまった。成す術がないままクラス合宿が始まり、3年3組の生徒たちは副担任の三神と千曳に引率され、宿泊先となる咲谷記念館へやってくる。落ち着いたところで恒一、鳴、勅使河原は望月の部屋に集まり、松永のテープに録音された核心部分を聞く。そこには“災厄”を止めることができた、ある方法が語られていた……。<br><br>so31881282←前話｜次話→so31881284　第一話→so31881274
+  length_seconds: 1480
+  content_id: so31881283
+  default_thread_id: 1504756299
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881283
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: Makeup <惨劇>
+  description: 鳴を“死者”と疑い、憎しみの目を向ける杉浦と、階下に転落していった風見。恒一たちは二人の姿を見失ってしまう。その上、合宿所食堂で火の手が上がり、望月が保管していたテープが奪われた。窮地に陥った勅使河原たちは危機を報せに館内を周りはじめる。一方で赤沢は、再会した杉浦の奇妙な変化に苦渋の表情を浮かべる。それぞれの疑心暗鬼が渦巻く合宿所で、呪われた一夜が幕を開ける……!<br><br>so31881283←前話｜次話→so31881301　第一話→so31881274
+  length_seconds: 1480
+  content_id: so31881284
+  default_thread_id: 1504755624
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881284
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: Stand by oneself <死者>
+  description: 鳴を“死者”だと疑い、憎しみの目で追い込んでいく赤沢。恒一は鳴をかばおうとするが、二人の姿を見失ってしまう。すでに合宿所はあちこちから火の手が上がり、収拾がつかない事態になっていた。窮地に陥った勅使河原と望月は駆けつけた千曳に助けられるが、恒一は行く先々で見つけた犠牲者を救えず、苦渋の表情を浮かべる。そして、なおも鳴に襲いかかる赤沢を必死で止めようとするが……!?<br><br>so31881284←前話　第一話→so31881274
+  length_seconds: 1470
+  content_id: so31881301
+  default_thread_id: 1504756431
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881301
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)2012 綾辻行人・角川書店/｢Another｣製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

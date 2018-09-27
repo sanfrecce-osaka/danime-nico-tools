@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: だんちがい
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/17/1/20171_1_6.png?1436406042000
+outline: とある団地で暮らす仲野晴輝(高1)には姉が一人、妹が3人いる。才色兼備でまじめだけど、弟・晴輝と二人きりのときだけ『隙』を見せる長女の夢月(高2)。兄・晴輝のことが気になるけど、いつも素直になれない次女の弥生(中3)。晴輝にかまってほしいのか、イタズラばかりする三女・羽月(小3)。漫画・アニメが好きで、趣味の近い晴輝とはオタク仲間の四女・咲月(小3)。そんな4女1男の『自然にそこにある』団地暮らし――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳井青空
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿部敦
+  type: cast
+- !ruby/hash:TagHash
+  name: 明坂聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀野紗也加
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Creators in Pack
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村寛
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤依織子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：shusei
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：米田和佐
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 一迅社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 一号棟～四号棟
+  title: 夢野団地／双子の宿題／夢月の素顔／カレーライス
+  description: 仲野夢月:明坂聡美／仲野弥生:小松未可子／仲野羽月:徳井青空／仲野咲月:堀野紗也加／仲野晴輝:阿部敦<br><br>原作:｢だんちがい｣(原作者：米田和佐・一迅社｢まんは4コマぱれっと｣連載中)／監督:木村寛／キャラクターデザイン:伊藤依織子／音響監督:大室正勝／音楽:shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+    in Pack／音響制作:ダックスプロダクション／製作:夢野団地自治会<br><br>次話→so31946917
+  length_seconds: 843
+  content_id: so31946916
+  default_thread_id: 1505690888
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946916
+- !ruby/hash:EpisodeHash
+  episode_no: 五号棟～八号棟
+  title: 咲月のアニメ時計／姉妹のかけ算／団地でプール開き!?／姉妹ですね
+  description: 仲野夢月:明坂聡美／仲野弥生:小松未可子／仲野羽月:徳井青空／仲野咲月:堀野紗也加／仲野晴輝:阿部敦<br><br>原作:｢だんちがい｣(原作者：米田和佐・一迅社｢まんは4コマぱれっと｣連載中)／監督:木村寛／キャラクターデザイン:伊藤依織子／音響監督:大室正勝／音楽:shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+    in Pack／音響制作:ダックスプロダクション／製作:夢野団地自治会<br><br>so31946916←前話｜次話→so31946918　第一話→so31946916
+  length_seconds: 843
+  content_id: so31946917
+  default_thread_id: 1505690240
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946917
+- !ruby/hash:EpisodeHash
+  episode_no: 九号棟～十二号棟
+  title: いたずら大好き！？／夢月のお・ね・が・い！？／弥生の看病！？／晴輝と姉妹達の絆
+  description: 仲野夢月:明坂聡美／仲野弥生:小松未可子／仲野羽月:徳井青空／仲野咲月:堀野紗也加／仲野晴輝:阿部敦<br><br>原作:｢だんちがい｣(原作者：米田和佐・一迅社｢まんは4コマぱれっと｣連載中)／監督:木村寛／キャラクターデザイン:伊藤依織子／音響監督:大室正勝／音楽:shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+    in Pack／音響制作:ダックスプロダクション／製作:夢野団地自治会<br><br>so31946917←前話　第一話→so31946916
+  length_seconds: 843
+  content_id: so31946918
+  default_thread_id: 1505690824
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946918
+cast: "[キャスト]<br>仲野夢月:明坂聡美／仲野弥生:小松未可子／仲野羽月:徳井青空／仲野咲月:堀野紗也加／仲野晴輝:阿部敦"
+staff: "[スタッフ]<br>原作:｢だんちがい｣(原作者：米田和佐・一迅社｢まんは4コマぱれっと｣連載中)／監督:木村寛／キャラクターデザイン:伊藤依織子／音響監督:大室正勝／音楽:shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+  in Pack／音響制作:ダックスプロダクション／製作:夢野団地自治会"
+produced_year: "[製作年]<br>2015年"
+copyright: "©米田和佐/一迅社・夢野団地自治会2015"
+related_seasons: !ruby/array:Hashie::Array []

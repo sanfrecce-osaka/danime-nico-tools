@@ -1,0 +1,74 @@
+--- !ruby/hash:SeasonHash
+title: 茄子 スーツケースの渡り鳥
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/22/3/11223_1_6.png?1433983440000
+outline: 宇都宮で開催されるプロレース、ジャパンカップサイクリングロードレースに参戦するため日本にやって来た、チーム“パオパオ・ビール”のぺぺとチョッチたち。チョッチは、同郷の先輩で国民的英雄マルコの自殺により、レーサーとしての生活に疑問を感じ引退を考えていた。深い悲しみを胸に秘めながら、決戦の火蓋は切って落とされた。宿敵チーム“ゴルチンコ”との熱い闘いの行方は・・・？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木誠二
+  type: cast
+- !ruby/hash:TagHash
+  name: 大泉洋
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤祐四
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高坂希太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：黒田硫黄
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高坂希太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：高坂希太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 茄子アンダルシアの夏シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 茄子 スーツケースの渡り鳥
+  description: 宇都宮で開催されるプロレース、ジャパンカップサイクリングロードレースに参戦するため日本にやって来た、チーム“パオパオ・ビール”のぺぺとチョッチたち。チョッチは、同郷の先輩で国民的英雄マルコの自殺により、レーサーとしての生活に疑問を感じ引退を考えていた。深い悲しみを胸に秘めながら、決戦の火蓋は切って落とされた。宿敵チーム“ゴルチンコ”との熱い闘いの行方は・・・？<br><br>ぺぺ:大泉洋『ブレイブ・ストーリー』『千と千尋の神隠し』／チョッチ:山寺宏一『シュレック３』／豊城ひかる:坂本真綾「DEATH
+    NOTE」『GOHST IN THE SHELL/攻殻機動隊』／ギルモア:佐藤祐四／マルコ・ロンダニーニ:大塚明夫／ザンコーニ:佐々木誠二<br><br>原作:黒田硫黄（「茄子」講談社刊）／監督・脚本・キャラクターデザイン:高坂希太郎『茄子
+    アンダルシアの夏』／アニメーション制作:マッドハウス／エンディング曲:「自転車ショー歌」（歌唱：忌野清志郎）
+  length_seconds: 3248
+  content_id: so32117674
+  default_thread_id: 1508308904
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32117674
+cast: "[キャスト]<br>ぺぺ:大泉洋『ブレイブ・ストーリー』『千と千尋の神隠し』／チョッチ:山寺宏一『シュレック３』／豊城ひかる:坂本真綾「DEATH NOTE」『GOHST
+  IN THE SHELL/攻殻機動隊』／ギルモア:佐藤祐四／マルコ・ロンダニーニ:大塚明夫／ザンコーニ:佐々木誠二"
+staff: "[スタッフ]<br>原作:黒田硫黄（「茄子」講談社刊）／監督・脚本・キャラクターデザイン:高坂希太郎『茄子 アンダルシアの夏』／アニメーション制作:マッドハウス／エンディング曲:「自転車ショー歌」（歌唱：忌野清志郎）"
+produced_year: "[製作年]<br>2007年"
+copyright: "（C) 2007 黒田硫黄・講談社/「茄子 スーツケースの渡り鳥」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 茄子 アンダルシアの夏

@@ -1,0 +1,79 @@
+--- !ruby/hash:SeasonHash
+title: ARIA The AVVENIRE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/37/5/22375_1_6.png?1534404622000
+outline: capitolo1 その 逢いたかったあなたに・・・／先輩の灯里に同乗してもらい、今日もゴンドラの練習に励むアイ。そのさなか、灯里は運河を行き交うゴンドラの中に藍華とアリスの姿を見つけます。プリマ・ウンディーネになってからというもの、忙しくてなかなか会うことができないでいた３人。ほんの短い時間とはいえそれが叶った“みらくる”に、灯里は過去のある出来事を思い出し、アイに語り始めます。それは、現役時代に多忙を極めていたアリシアの誕生日にまつわる話で……。／capitolo2
+  その 暖かなさよならは・・・／ある日のこと、アイは興奮気味に灯里に話し始めました。練習中にとっても“みらくる“な体験をしたというのです。見慣れぬ路地の奥で目撃したケット・シーの影…そして、ゴンドラを降りてその影を追った先で出会ったのは、姫屋支店とオレンジぷらねっとで修業中の二人のシングル・ウンディーネだったのでした。嬉しそうに語るアイの姿を見ながら、灯里はケット・シーとの最後の出逢いに想いをはせるのでした。／capitolo3
+  その 遙かなる未来へ・・・／今、再びの未来をご一緒しましょう。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 斎藤千和
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 広橋涼
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 葉月絵理乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上ともこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：佐藤順一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：天野こずえ
+  type: staff
+- !ruby/hash:TagHash
+  name: ARIAシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ARIA The AVVENIRE
+  description: capitolo1 その 逢いたかったあなたに・・・／先輩の灯里に同乗してもらい、今日もゴンドラの練習に励むアイ。そのさなか、灯里は運河を行き交うゴンドラの中に藍華とアリスの姿を見つけます。プリマ・ウンディーネになってからというもの、忙しくてなかなか会うことができないでいた３人。ほんの短い時間とはいえそれが叶った“みらくる”に、灯里は過去のある出来事を思い出し、アイに語り始めます。それは、現役時代に多忙を極めていたアリシアの誕生日にまつわる話で……。／capitolo2
+    その 暖かなさよならは・・・／ある日のこと、アイは興奮気味に灯里に話し始めました。練習中にとっても“みらくる“な体験をしたというのです。見慣れぬ路地の奥で目撃したケット・シーの影…そして、ゴンドラを降りてその影を追った先で出会ったのは、姫屋支店とオレンジぷらねっとで修業中の二人のシングル・ウンディーネだったのでした。嬉しそうに語るアイの姿を見ながら、灯里はケット・シーとの最後の出逢いに想いをはせるのでした。／capitolo3
+    その 遙かなる未来へ・・・／今、再びの未来をご一緒しましょう。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／アリア社長:西村ちなみ／晃:皆川純子／アテナ:川上ともこ／アイ:水橋かおり／あずさ:中原麻衣／アーニャ:茅野愛衣<br><br>監督名:佐藤順一／脚本家名:吉田玲子／原作者名:天野こずえ<br><br>©2015天野こずえ
+    / マッグガーデン ・ ARIAカンパニー
+  length_seconds: 3617
+  content_id: so33730420
+  default_thread_id: 1534902185
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33730420
+cast: "[キャスト]<br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／アリア社長:西村ちなみ／晃:皆川純子／アテナ:川上ともこ／アイ:水橋かおり／あずさ:中原麻衣／アーニャ:茅野愛衣"
+staff: "[スタッフ]<br>監督名:佐藤順一／脚本家名:吉田玲子／原作者名:天野こずえ"
+produced_year: "[製作年]<br>2015年"
+copyright: "©2015天野こずえ / マッグガーデン ・ ARIAカンパニー"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ARIA The ANIMATION
+- !ruby/hash:SeasonHash
+  title: ARIA The NATURAL
+- !ruby/hash:SeasonHash
+  title: ARIA The OVA～ARIETTA～
+- !ruby/hash:SeasonHash
+  title: ARIA The ORIGINATION

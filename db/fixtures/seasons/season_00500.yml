@@ -1,0 +1,35 @@
+--- !ruby/hash:SeasonHash
+title: この男子、人魚ひろいました。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/91/3/10913_1_6.png?1427216400000
+outline: 心にどこか寂しさを抱えている高校生の川内洲(かわうちしま)。祖父を亡くした日に、海辺で一人泣いているところ、足を滑らせ溺れてしまう。洲は美しい青年に助けられるが、なんと彼は人魚だった？！イサキと名付け、一緒に暮らし始める二人。人魚との生活に戸惑いつつも少しずつ心を開いていく洲。そんな洲をやさしく包み込むイサキ。次第に洲が寂しさを忘れ充実した生活を送れるようになった頃、洲とイサキにある変化が…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：山本蒼美
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: この男子、人魚ひろいました。
+  description: 心にどこか寂しさを抱えている高校生の川内洲(かわうちしま)。祖父を亡くした日に、海辺で一人泣いているところ、足を滑らせ溺れてしまう。洲は美しい青年に助けられるが、なんと彼は人魚だった？！イサキと名付け、一緒に暮らし始める二人。人魚との生活に戸惑いつつも少しずつ心を開いていく洲。そんな洲をやさしく包み込むイサキ。次第に洲が寂しさを忘れ充実した生活を送れるようになった頃、洲とイサキにある変化が…。<br><br>梶
+    裕貴:　(川内 洲)／緑川 光:　(イサキ)<br><br>監督:山本 蒼美
+  length_seconds: 1747
+  content_id: so31887032
+  default_thread_id: 1504832933
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31887032
+cast: "[キャスト]<br>梶 裕貴:　(川内 洲)／緑川 光:　(イサキ)"
+staff: "[スタッフ]<br>監督:山本 蒼美"
+produced_year: "[製作年]<br>2012年"
+copyright: "© Soubi Yamamoto / BE / CWF"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: この男子、魔法がお仕事です。
+- !ruby/hash:SeasonHash
+  title: この男子、宇宙人と戦えます。～僕らのセカイのまもり方～

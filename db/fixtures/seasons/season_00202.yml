@@ -1,0 +1,46 @@
+--- !ruby/hash:SeasonHash
+title: 大きい１年生と小さな２年生
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/01/1/22011_1_6.png?1519194625000
+outline: １年生のまさやは体が大きいのに泣き虫で、通学路の暗い坂道が怖くて１人で歩けません。そんなまさやと手をつないで歩いてくれるあきよは、背は小さいけれどしっかり者の２年生。あきよのようにしっかりしたい、とあこがれているまさやですが、ある日、あきよが涙をながす事件が起きてしまいます。まさやはあきよを元気づけるため、あきよが大好きなホタルブクロの花を探しに、はるか遠くの一本杉の森へと歩いて行くのでした。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 矢島晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
+  name: 久野美咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：片山修志
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡辺歩
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：古田足日
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 大きい1年生と小さな2年生
+  description: １年生のまさやは体が大きいのに泣き虫で、通学路の暗い坂道が怖くて１人で歩けません。そんなまさやと手をつないで歩いてくれるあきよは、背は小さいけれどしっかり者の２年生。あきよのようにしっかりしたい、とあこがれているまさやですが、ある日、あきよが涙をながす事件が起きてしまいます。まさやはあきよを元気づけるため、あきよが大好きなホタルブクロの花を探しに、はるか遠くの一本杉の森へと歩いて行くのでした。<br><br>まさや:田村睦心／あきよ:矢島晶子／まりこ:久野美咲<br><br>原作:古田足日「大きい１年生と小さな２年生」（偕成社刊）／監督:渡辺
+    歩／音楽:片山修志（Team-MAX）／制作:A-1 Pictures
+  length_seconds: 1500
+  content_id: so32809536
+  default_thread_id: 1519809513
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32809536
+cast: "[キャスト]<br>まさや:田村睦心／あきよ:矢島晶子／まりこ:久野美咲"
+staff: "[スタッフ]<br>原作:古田足日「大きい１年生と小さな２年生」（偕成社刊）／監督:渡辺 歩／音楽:片山修志（Team-MAX）／制作:A-1 Pictures"
+produced_year: "[製作年]<br>2014年"
+copyright: "©古田足日・偕成社／A-1 Pictures／文化庁 アニメミライ2014"
+related_seasons: !ruby/array:Hashie::Array []

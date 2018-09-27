@@ -1,0 +1,438 @@
+--- !ruby/hash:SeasonHash
+title: 宇宙戦士 バルディオス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/13/7/10137_1_6.png?1427216400000
+outline: 放射能汚染により、絶滅の危機に瀕したS-1星。レーガン博士は惑星の汚染を消し去る計画を提唱するが、軍部を牛耳るガットラーは、居住可能な惑星を侵略し移民してしまおうとクーデターを起こす。ガットラーは皇帝を暗殺し権力を掌握、次にレーガン博士を襲う。レーガンの息子であるマリンは、皇帝殺しの濡れ衣を着せらながらも、亜空間戦闘機パルサバーンでガットラーに戦いを挑むが、船団のワープに巻き込まれ、西暦2100年の地球へと飛ばされてしまう。その地球は、まさにガットラーの理想とする惑星……侵略の魔の手より地球を守るため、パルサバーン、バルディプライズ、キャタレンジャーの3機を合体させバルディオスとなり戦いを挑む。マリンはなぜ地球の為に戦うか!?
+  それは、父を殺したガットラーへの復讐心だけでなく、地球が幼い頃より憧れていた美しい自然の残っている惑星だったからである。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 青野武
+  type: cast
+- !ruby/hash:TagHash
+  name: 石森達幸
+  type: cast
+- !ruby/hash:TagHash
+  name: よこざわけい子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木清信
+  type: cast
+- !ruby/hash:TagHash
+  name: 神保なおみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 加川三起
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：羽田健太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：上條修
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：広川和之
+  type: staff
+- !ruby/hash:TagHash
+  name: 宇宙戦士バルディオスシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1980年
+  type: other
+- !ruby/hash:TagHash
+  name: 酒井あきよし
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 孤独の追跡者
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>次話→so32145474
+  length_seconds: 1483
+  content_id: so32145473
+  default_thread_id: 1508740346
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145473
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: パルサバーンの秘密
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145473←前話｜次話→so32145475　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145474
+  default_thread_id: 1508740363
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145474
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: スパイの烙印
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145474←前話｜次話→so32145476　第一話→so32145473
+  length_seconds: 1481
+  content_id: so32145475
+  default_thread_id: 1508740314
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145475
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 亜空間突入の日
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145475←前話｜次話→so32145477　第一話→so32145473
+  length_seconds: 1480
+  content_id: so32145476
+  default_thread_id: 1508740340
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145476
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 甦える復讐者
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145476←前話｜次話→so32145478　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145477
+  default_thread_id: 1508740344
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145477
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 灼熱の決死圏
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145477←前話｜次話→so32145479　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145478
+  default_thread_id: 1508740312
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145478
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 愛の墓標
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145478←前話｜次話→so32145505　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145479
+  default_thread_id: 1508740308
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145479
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ヒマラー山脈の決闘
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145479←前話｜次話→so32145506　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145505
+  default_thread_id: 1508740879
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145505
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: めぐり逢い、そして…
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145505←前話｜次話→so32145507　第一話→so32145473
+  length_seconds: 1481
+  content_id: so32145506
+  default_thread_id: 1508740491
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145506
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 我が友 亜空間に散る
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145506←前話｜次話→so32145508　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145507
+  default_thread_id: 1508740828
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145507
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 情無用の戒律
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145507←前話｜次話→so32145542　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145508
+  default_thread_id: 1508740647
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217239
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 世界連盟から来た男
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145508←前話｜次話→so32145543　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145542
+  default_thread_id: 1508741145
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217252
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 想い出のリトルジャパン
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145542←前話｜次話→so32145545　第一話→so32145473
+  length_seconds: 1484
+  content_id: so32145543
+  default_thread_id: 1508741166
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217266
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: さらば愛しの妹よ
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145543←前話｜次話→so32145546　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145545
+  default_thread_id: 1508741620
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217274
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: いつわりの平和会議
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145545←前話｜次話→so32145547　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145546
+  default_thread_id: 1508741625
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217280
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 悪夢からの脱出
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145546←前話｜次話→so32145548　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145547
+  default_thread_id: 1508741618
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217288
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 裏切りと暗殺の旅路（前編）
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145547←前話｜次話→so32145581　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145548
+  default_thread_id: 1508741126
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217301
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 裏切りと暗殺の旅路（後編）
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145548←前話｜次話→so32145619　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145581
+  default_thread_id: 1508741787
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217311
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 亜空間に架ける橋
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145581←前話｜次話→so32145620　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145619
+  default_thread_id: 1508742409
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217328
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 甦った悪魔（前編）
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145619←前話｜次話→so32145621　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145620
+  default_thread_id: 1508742519
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217348
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 甦った悪魔（後編）
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145620←前話｜次話→so32145622　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145621
+  default_thread_id: 1508742390
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217361
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 特攻メカ・ブロリラーの挑戦
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145621←前話｜次話→so32145623　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145622
+  default_thread_id: 1508742784
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217374
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: マリン、日本を救え!
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145622←前話｜次話→so32145624　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145623
+  default_thread_id: 1508742414
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217387
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: バルディオスパワーアップ
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145623←前話｜次話→so32145625　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145624
+  default_thread_id: 1508742380
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217399
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: ガットラー暗殺計画
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145624←前話｜次話→so32145626　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145625
+  default_thread_id: 1508742404
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217411
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 謎の宇宙生命体
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145625←前話｜次話→so32145627　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145626
+  default_thread_id: 1508742786
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217433
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 私が信じたスパイ
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145626←前話｜次話→so32145628　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145627
+  default_thread_id: 1508742428
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217445
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 決死のランデブー飛行
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145627←前話｜次話→so32145630　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145628
+  default_thread_id: 1508742522
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217457
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 地球氷河期作戦
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145628←前話｜次話→so32145631　第一話→so32145473
+  length_seconds: 1483
+  content_id: so32145630
+  default_thread_id: 1508742780
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217467
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 地球不毛の日
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145630←前話｜次話→so32145632　第一話→so32145473
+  length_seconds: 1423
+  content_id: so32145631
+  default_thread_id: 1508742782
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221239
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 失われた惑星
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145631←前話｜次話→so32145666　第一話→so32145473
+  length_seconds: 1482
+  content_id: so32145632
+  default_thread_id: 1508742800
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145632
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 破滅への序曲（前編）
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145632←前話｜次話→so32145668　第一話→so32145473
+  length_seconds: 1417
+  content_id: so32145666
+  default_thread_id: 1508743045
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145666
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: 破滅への序曲（後編）
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145666←前話｜次話→so32145669　第一話→so32145473
+  length_seconds: 1481
+  content_id: so32145668
+  default_thread_id: 1508743675
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145668
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 地球の長い午後
+  description: マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸<br><br>企画:佐藤俊彦
+    ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎 ／製作:PRODUCTION
+    REED<br><br>so32145668←前話　第一話→so32145473
+  length_seconds: 1423
+  content_id: so32145669
+  default_thread_id: 1508743704
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217482
+cast: "[キャスト]<br>マリン・レイガン:塩沢兼人 ／ジャック・オリバー:鈴木清信／北斗雷太:玄田哲章／ジェミー星野:横沢啓子／月影剛士:石森達幸／エラ・クインシュタイン:加川三起／ローザ・アフロディア:神保なおみ／ゼオ・ガットラー:青野武／ナレーター:石森達幸"
+staff: "[スタッフ]<br>企画:佐藤俊彦 ／監督:広川和之 ／シリーズ構成:酒井あきよし／キャラクターデザイン:上條修 ／メカニックデザイン:佐藤元 ／音楽:羽田健太郎
+  ／製作:PRODUCTION REED"
+produced_year: "[製作年]<br>1980年"
+copyright: "(C)PRODUCTION REED 1980"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 宇宙戦士バルディオス(劇場版)

@@ -1,0 +1,106 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life-WE ARE THE HERO-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/54/2/11542_1_6.png?1427216400000
+outline: 中間テストの勉強のためにコータの家に集まったショータとコータ。ふとテレビをつけると、「怪獣出現」の臨時ニュースが流れていた。驚く二人の近くで爆発音が響き、外に飛び出る。怪獣出現という絶望的な状況に焦りながらも、「こんな時は必ずヒーローが助けに来る」、そう言って二人はヒーローの登場を切に願うのであった。しかし、肝心のヒーローたちはいつも通りの日常を過ごしていた・・・
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: サノシュンスケ
+  type: cast
+- !ruby/hash:TagHash
+  name: 清野由佳理
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪谷光昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 三嶋浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: MEGWIN
+  type: cast
+- !ruby/hash:TagHash
+  name: 小熊美香
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：yuma yamaguchi
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: サウンドチーム・ドンファン
+  type: other
+- !ruby/hash:TagHash
+  name: 山田陽
+  type: other
+- !ruby/hash:TagHash
+  name: 鮫島瑞季
+  type: other
+- !ruby/hash:TagHash
+  name: 星邑タツヤ
+  type: other
+- !ruby/hash:TagHash
+  name: 八巻大樹
+  type: other
+- !ruby/hash:TagHash
+  name: 櫛来禎
+  type: other
+- !ruby/hash:TagHash
+  name: 中村弘毅
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: Peeping Life-WE ARE THE HERO-
+  description: 中間テストの勉強のためにコータの家に集まったショータとコータ。ふとテレビをつけると、「怪獣出現」の臨時ニュースが流れていた。驚く二人の近くで爆発音が響き、外に飛び出る。怪獣出現という絶望的な状況に焦りながらも、「こんな時は必ずヒーローが助けに来る」、そう言って二人はヒーローの登場を切に願うのであった。しかし、肝心のヒーローたちはいつも通りの日常を過ごしていた・・・<br><br>出演:サノシュンスケ,清野由佳理,藤井智子,三嶋浩二,松本剛,坪谷光昭,MEGWIN,小熊美香（日本テレビアナウンサー）,八奈見乗児<br><br>監督:森りょういち／アニメーション:株式会社FOREST
+    Hunting One：星邑タツヤ、中村弘毅、櫛来禎、山成友恵、豊島早希、荒牧拓樹／背景美術:CoMix Wave Films：渡邉丞、宇佐美レオナルド健、池田真依子／マネージャー:鮫島
+    瑞季／音楽:yuma yamaguchi／テーマ曲:「さとりのしょ」detune.／音響演出:サウンドチーム・ドンファン：山田陽、八巻大樹
+  length_seconds: 3550
+  content_id: so32156371
+  default_thread_id: 1508909098
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32156371
+cast: "[キャスト]<br>出演:サノシュンスケ,清野由佳理,藤井智子,三嶋浩二,松本剛,坪谷光昭,MEGWIN,小熊美香（日本テレビアナウンサー）,八奈見乗児"
+staff: "[スタッフ]<br>監督:森りょういち／アニメーション:株式会社FOREST Hunting One：星邑タツヤ、中村弘毅、櫛来禎、山成友恵、豊島早希、荒牧拓樹／背景美術:CoMix
+  Wave Films：渡邉丞、宇佐美レオナルド健、池田真依子／マネージャー:鮫島 瑞季／音楽:yuma yamaguchi／テーマ曲:「さとりのしょ」detune.／音響演出:サウンドチーム・ドンファン：山田陽、八巻大樹"
+produced_year: "[製作年]<br>2014年"
+copyright: "（C）手塚プロダクション/タツノコプロ/FOREST Hunting One/CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

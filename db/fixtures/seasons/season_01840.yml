@@ -1,0 +1,136 @@
+--- !ruby/hash:SeasonHash
+title: 攻殻機動隊 ARISE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/22/9/22229_1_6.png?1529476215000
+outline: A.D.2027。公安捜査の権謀術数に限界を覚える荒巻の前に現れた女、陸軍『501機関』所属・草薙素子三佐。最高度のフィジカルと電脳戦スキルを備える一方、向こうみずで世慣れぬ未熟さをあわせ持つ草薙は、荒巻と不即不離の関係をたもちつつ、次々と犯罪へと対処する。だがそれは、501機関との関係を問い直すことでもあった。困難な事件に立ち向かう中、個性的な人的資源と気脈を通じる草薙。荒巻といつしか共有していた目的である『犯罪に対し常に攻性の精鋭実力部隊』創設へ向け、草薙は彼らを糾合してゆくこととなる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 中井和哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田燿司
+  type: cast
+- !ruby/hash:TagHash
+  name: 星野貴紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野まゆみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 新垣樽助
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田健一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 間宮康弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 中國卓郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 塾一久
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：士郎正宗
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：黄瀬和哉
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：コーネリアス
+  type: staff
+- !ruby/hash:TagHash
+  name: 攻殻機動隊ARISEシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: border：1
+  title: Ghost Pain
+  description: ２０２７年、第四次非核大戦終戦から一年、戦禍の爪痕癒えぬニューポートシティで自走地雷を使った爆殺事件と、兵器売買における収賄容疑の掛った軍人が銃殺される事件があった。雨烟る中、その軍人の電脳を求め墓地を暴く公安の荒巻大輔。そしてその背中に冷たい銃口を向けたのは、殺された上官の容疑を晴らそうと動く陸軍義体化部隊『５０１機関』に所属する超ウィザード級ハッカーにして全身義体のサイボーグ、草薙素子だった。だがこの事件を追いかけているのは草薙だけではなかった。彼女を爆殺事件の犯人と疑い付け狙う『眠らない眼』を持つ男、バトー。銃殺事件と娼婦殺人事件の共通項を捜査する新浜県警の刑事トグサ。そして『５０１機関』のクルツ中佐とサイボーグエージェントたちが草薙の動向を注視していた。彼らが追い求めるものは、目の前の「事実」と失われた「真実」とが交錯する電脳社会の混沌に身を潜める。自身の未来と掲げた理想のために草薙の本能が今、起動(アライズ)する。<br><br>草薙素子:坂本真綾／荒巻大輔:塾
+    一久／バトー:松田健一郎／トグサ:新垣樽助／イシカワ:壇 臣幸／サイトー:中國卓郎／パズ:上田燿司／ボーマ:中井和哉／ロジコマ:沢城みゆき／クルツ:浅野まゆみ／ライゾー:星野貴紀／イバチ:間宮康弘／ツムギ:野島健児／マムロ:宮内敦士<br><br>原作:士郎正宗／総監督・キャラクターデザイン:黄瀬和哉／シリーズ構成・脚本:冲方
+    丁／音楽:コーネリアス／メカニックデザイン:柳瀬敬之／3DCGI:オレンジ／3DCG監督:井野元英二／美術:Bamboo／美術監督:竹田悠介、益城貴昌／美術設定:加藤
+    浩(ととにゃん)／プロップ・美術設定:荒川直樹／撮影監督:田中宏侍／音響監督:岩浪美和／編集:植松淳一／アニメーション制作:Production I.G<br><br>©士郎正宗・Production
+    I.G／講談社・「攻殻機動隊ARISE」製作委員会<br><br>次話→so33424792
+  length_seconds: 3497
+  content_id: so33425129
+  default_thread_id: 1529988941
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425129
+- !ruby/hash:EpisodeHash
+  episode_no: border：2
+  title: Ghost Whispers
+  description: 501機関から独立を果たし軍内部での自由を得た草薙素子。そんな中、何者かによるロジコマへのハッキングが発生する。荒巻の要請で調査のためにロジコマをラボまで移送する草薙だったが、突然、武装集団の襲撃に遭う。そこには「眠らない眼」を持つ元レンジャーのバトーとボーマ、元陸軍情報部のイシカワの姿があった。彼らは混成78部隊の元上官ソガ・カズヤ大佐の無実を証明するために特殊軍事モジュールで電子的作戦を進めていた。だがそれに干渉できる並列解除コードの複製がロジコマに隠されたことを掴みロジコマの破壊を狙う。草薙はヴィヴィーとともに陸軍警察のパズ、海兵隊のエーススナイパーのサイトーをスカウトし反撃に出る。<br><br>草薙素子:坂本真綾／荒巻大輔:塾
+    一久／バトー:松田健一郎／トグサ:新垣樽助／イシカワ:壇 臣幸／サイトー:中國卓郎／パズ:上田燿司／ボーマ:中井和哉／ロジコマ:沢城みゆき／クルツ:浅野まゆみ／ライゾー:星野貴紀／イバチ:間宮康弘／ツムギ:野島健児／マムロ:宮内敦士<br><br>原作:士郎正宗／総監督・キャラクターデザイン:黄瀬和哉／シリーズ構成・脚本:冲方
+    丁／音楽:コーネリアス／メカニックデザイン:柳瀬敬之／3DCGI:オレンジ／3DCG監督:井野元英二／美術:Bamboo／美術監督:竹田悠介、益城貴昌／美術設定:加藤
+    浩(ととにゃん)／プロップ・美術設定:荒川直樹／撮影監督:田中宏侍／音響監督:岩浪美和／編集:植松淳一／アニメーション制作:Production I.G<br><br>©士郎正宗・Production
+    I.G／講談社・「攻殻機動隊ARISE」製作委員会<br><br>so33425129←前話｜次話→so33424791　第一話→so33425129
+  length_seconds: 3376
+  content_id: so33424792
+  default_thread_id: 1529983358
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424792
+- !ruby/hash:EpisodeHash
+  episode_no: border：3
+  title: Ghost Tears
+  description: 恋人の義体技師ホセと逢瀬を交わす草薙素子の元に仲間となったバトーから西ノ内のビルで起きた爆弾テロの急報が届く。現場に急行し制圧するとテロリストたちはファイア・スターターと噂される超ウィザード級ハッカーにより偽の記憶が植え付けられ、主犯のカルディス人の胸にはかつてクザン共和国で起きたカルディス人独立戦争の英雄“スクラサス”のシンボルマークであるティアドロップ・ダガーの刺青が刻まれていた…。同じ頃、山の手のダムで起きた爆発で刑事が殺されていた。その所持品には“人魚の脚（MERMAID’S
+    LEGS）”という店名の名刺と、“エアリアル”というタグのついた義体の脚部が遺されていたが…。<br><br>草薙素子:坂本真綾／荒巻大輔:塾 一久／バトー:松田健一郎／トグサ:新垣樽助／イシカワ:壇
+    臣幸／サイトー:中國卓郎／パズ:上田燿司／ボーマ:中井和哉／ロジコマ:沢城みゆき／クルツ:浅野まゆみ／ライゾー:星野貴紀／イバチ:間宮康弘／ツムギ:野島健児／マムロ:宮内敦士<br><br>原作:士郎正宗／総監督・キャラクターデザイン:黄瀬和哉／シリーズ構成・脚本:冲方
+    丁／音楽:コーネリアス／メカニックデザイン:柳瀬敬之／3DCGI:オレンジ／3DCG監督:井野元英二／美術:Bamboo／美術監督:竹田悠介、益城貴昌／美術設定:加藤
+    浩(ととにゃん)／プロップ・美術設定:荒川直樹／撮影監督:田中宏侍／音響監督:岩浪美和／編集:植松淳一／アニメーション制作:Production I.G<br><br>©士郎正宗・Production
+    I.G／講談社・「攻殻機動隊ARISE」製作委員会<br><br>so33424792←前話｜次話→so33424790　第一話→so33425129
+  length_seconds: 3496
+  content_id: so33424791
+  default_thread_id: 1529983538
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424791
+- !ruby/hash:EpisodeHash
+  episode_no: border：4
+  title: Ghost Stands Alone
+  description: 戦後復興の兆しある2028年冬のニューポートシティ…。国外カルテルの利権を巡る水の価格協定への抗議デモを見守る、草薙素子少佐率いる独立攻性部隊の姿があった。その目の前で警備の機動隊による無差別発砲事件が突如発生。それら前代未聞の同時ゴーストハックは電脳ウィルス“ファイア・スターター”が引き金となったものだった。草薙は感染源であるサイードを特定、事件鎮圧のために銃撃する。その最中、草薙の電脳に“枝”をつけた何者かがいた。バトーたちが対象人物の元へと急行すると、そこには全身義体の少女ツダ・エマの姿があった…。<br><br>草薙素子:坂本真綾／荒巻大輔:塾
+    一久／バトー:松田健一郎／トグサ:新垣樽助／イシカワ:壇 臣幸／サイトー:中國卓郎／パズ:上田燿司／ボーマ:中井和哉／ロジコマ:沢城みゆき／クルツ:浅野まゆみ／ライゾー:星野貴紀／イバチ:間宮康弘／ツムギ:野島健児／マムロ:宮内敦士<br><br>原作:士郎正宗／総監督・キャラクターデザイン:黄瀬和哉／シリーズ構成・脚本:冲方
+    丁／音楽:コーネリアス／メカニックデザイン:柳瀬敬之／3DCGI:オレンジ／3DCG監督:井野元英二／美術:Bamboo／美術監督:竹田悠介、益城貴昌／美術設定:加藤
+    浩(ととにゃん)／プロップ・美術設定:荒川直樹／撮影監督:田中宏侍／音響監督:岩浪美和／編集:植松淳一／アニメーション制作:Production I.G<br><br>©士郎正宗・Production
+    I.G／講談社・「攻殻機動隊ARISE」製作委員会<br><br>so33424791←前話　第一話→so33425129
+  length_seconds: 3526
+  content_id: so33424790
+  default_thread_id: 1529983117
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424790
+cast: "[キャスト]<br>草薙素子:坂本真綾／荒巻大輔:塾 一久／バトー:松田健一郎／トグサ:新垣樽助／イシカワ:壇 臣幸／サイトー:中國卓郎／パズ:上田燿司／ボーマ:中井和哉／ロジコマ:沢城みゆき／クルツ:浅野まゆみ／ライゾー:星野貴紀／イバチ:間宮康弘／ツムギ:野島健児／マムロ:宮内敦士"
+staff: "[スタッフ]<br>原作:士郎正宗／総監督・キャラクターデザイン:黄瀬和哉／シリーズ構成・脚本:冲方 丁／音楽:コーネリアス／メカニックデザイン:柳瀬敬之／3DCGI:オレンジ／3DCG監督:井野元英二／美術:Bamboo／美術監督:竹田悠介、益城貴昌／美術設定:加藤
+  浩(ととにゃん)／プロップ・美術設定:荒川直樹／撮影監督:田中宏侍／音響監督:岩浪美和／編集:植松淳一／アニメーション制作:Production I.G"
+produced_year: "[製作年]<br>2013年"
+copyright: "©士郎正宗・Production I.G／講談社・「攻殻機動隊ARISE」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 STAND ALONE COMPLEX
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 S.A.C. 2nd GIG
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 新劇場版
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 STAND ALONE COMPLEX Solid State Society
+- !ruby/hash:SeasonHash
+  title: GHOST IN THE SHELL/攻殻機動隊

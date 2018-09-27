@@ -1,0 +1,71 @@
+--- !ruby/hash:SeasonHash
+title: A-Ko The VS ＜ヴァーサス＞「GRAY SIDE」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/28/5/20285_1_6.png?1438657508000
+outline: "『プロジェクトA子』シリーズの外伝として制作されたOVA作品。遥か宇宙の彼方にある砂の惑星にて、一角獣ハンターを生業とするA子とB子。2人はひょんなことから財閥令嬢のC子と知り合うが、犯罪組織の手先によって彼女は拉致されてしまう。対潜クルーザーに乗り込み後を追うA子たちだったが、想定外の事態で仲間割れすることに？本編との共通点はメインキャラクターのみで、まるで趣の異なるシリアスなSF冒険活劇に仕上がっている。『GRAY
+  SIDE』、『BLUE SIDE』の2作品にて完結。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 篠原恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 富沢美智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：本橋秀之
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：西島克彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：西島克彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：池上誉優
+  type: staff
+- !ruby/hash:TagHash
+  name: プロジェクトA子シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1990年
+  type: other
+- !ruby/hash:TagHash
+  name: 宮前光春
+  type: other
+- !ruby/hash:TagHash
+  name: 本橋秀之
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: A-Ko The VS ＜ヴァーサス＞「GRAY SIDE」
+  description: 惑星マリネ随一といわれる寿財閥。その会長は、晩年に授かった令嬢・C-KOを大変可愛がっており、彼女の10歳のバースデーパーティを新造宇宙艦・プリンセス寿号の処女航海に合わせて、その艦内で大々的に執り行った。だが、その最中、男女の二人組、グラッシュ＆ライザによってC-KOは連れ去られ、護衛艦との交戦によってグラッシュたちの宇宙艇も辺境惑星に不時着してしまう。不時着の際、宇宙艇から放り出されたC-KOは、一角獣ハンター・A-KO＆B-KOの二人と出会った。しかし、すぐに追って現れたライザがC-KOを連れ去る。寿財閥からの礼金と女の意地を懸けて、A-KO＆B-KOはC-KO奪回に立ち上がる！！<br><br>A-KO:伊藤美紀／B-KO:篠原恵美／C-KO:富沢美智恵<br><br>監督:西島克彦／演出:池上誉優／絵コンテ:西島克彦／脚本:西島克彦／キャラクターデザイン:本橋秀之／作画監督:本橋秀之／美術監督:宮前光春／音楽:川井憲次
+  length_seconds: 3005
+  content_id: so32240231
+  default_thread_id: 1510201359
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32240231
+cast: "[キャスト]<br>A-KO:伊藤美紀／B-KO:篠原恵美／C-KO:富沢美智恵"
+staff: "[スタッフ]<br>監督:西島克彦／演出:池上誉優／絵コンテ:西島克彦／脚本:西島克彦／キャラクターデザイン:本橋秀之／作画監督:本橋秀之／美術監督:宮前光春／音楽:川井憲次"
+produced_year: "[製作年]<br>1990年"
+copyright: "(c) ファイナル―西島―もりやま/創映新社・ポニーキャニオン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子2 大徳寺財閥の陰謀
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子3 シンデレララプソディ
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子 完結編
+- !ruby/hash:SeasonHash
+  title: A-Ko The VS ＜ヴァーサス＞「BLUE SIDE」

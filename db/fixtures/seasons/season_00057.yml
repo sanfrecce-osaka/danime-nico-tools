@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: あにトレ！EX
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/0/20380_1_6.png?1444265490000
+outline: 腕立て・腹筋・背筋・ダンス・ヨガ・ストレッチ・体幹トレーニング・太極拳など、各回バラエティ豊かな種目がズラリ！アイドルを目指す5人の可愛いキャラクター達があなたと一緒にエクササイズして、気になるその体脂肪率を1クールで1000％下げちゃいます…！？最近使っていない筋肉はないですか？アニメで一緒に楽しく運動して、気持ちいい汗を流しちゃおう！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 長縄まりあ
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 和氣あず未
+  type: cast
+- !ruby/hash:TagHash
+  name: 高尾奏音
+  type: cast
+- !ruby/hash:TagHash
+  name: 小牧未侑
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小野田将人
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：濁川敦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山本周平
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：FMF
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：石橋大助
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ライジングフォース
+  type: staff
+- !ruby/hash:TagHash
+  name: あにトレ！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: EX1～EX3
+  title: 腕立て腹筋！ばっちこーい！！／もっと腕立て！バストアップなんだから！！／背筋スクワット！目指せ大和撫子ですわ！！
+  description: EX1：大好きなソフトクリームを罪悪感なく食べたい…そんな思いを胸に、あさみはトレーニングをスタートさせる！【種目】プッシュアップ(腕立て基本)・クランチ(腿上げ腹筋)／EX2：カワイイ水着を着るために、女の子は陰で努力をしているのです。スタイルアップ&amp;バストアップ…えりがチャレンジする一石二鳥の【腕立て】トレーニングとは？【種目】ヒンズープッシュアップ(腕立て応用)・リバースプッシュアップ(イス使用)／EX3：静乃が手作り料理でおもてなし。その前にいい汗かけば、おいしさもアップするかも！？キング・オブ・エクササイズ【スクワット】で、めざせこぶりヒップ！【種目】スクワット(基本)・バックエクステンション(背筋基本)<br><br>星あさみ:伊藤美来／樋口えり:和氣あず未／早乙女静乃:小牧未侑／橘紫苑:長縄まりあ／平岡優:高尾奏音<br><br>監督:濁川
+    敦／キャラクターデザイン／作画監督:山本 周平／キャラクター原案:小野田 将人／シリーズ構成／脚本:石橋 大助／美術設定:柴田 聡／色彩設計:中川 昭洋／音楽制作:FMF／アニメーション制作:ライジングフォース<br><br>次話→so31963687
+  length_seconds: 722
+  content_id: so31963686
+  default_thread_id: 1505925093
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31963686
+- !ruby/hash:EpisodeHash
+  episode_no: EX4～EX7
+  title: 邪神降臨舞踏(ヨガ)！闇よ、我を導き給へ！！／レッツ・ダンシング！汗をかいてキラリキラ！！／キック＆ツイスト！いっぱい頑張るですぅ！！／ハードに腕立てスクワット！負けないもん！！
+  description: EX4：今回のエクササイズは、邪に満ちし闇の舞い…ふむ、『ヨガ』とも言うな。光り溢れるこの世界を、共に闇へと導かん！【種目】ヨガ(弓のポーズとらくだのポーズ)／EX5：今回は『ばいたる☆エクササイズ』でレッツ・ダンシング！みんなも一緒に踊ろうね！／EX6：最近眠りが浅いともじもじしている優。心身共にリラックスしてぐっすり快眠をするために【バックキック】【リバーストランクツイフト】で筋トレをすることに！／EX7：あさみの部屋に遊びに来たえり。｢あさみっちには負けないんだから！｣と燃えるえりに｢ライバルだって思ってくれてる？嬉しい…｣とまんざらでもないあさみ。今回は【クラッピングプッシュアップ】と【ヒンズースクワット】で気になるアノ部分を鍛えます！<br><br>星あさみ:伊藤美来／樋口えり:和氣あず未／早乙女静乃:小牧未侑／橘紫苑:長縄まりあ／平岡優:高尾奏音<br><br>監督:濁川
+    敦／キャラクターデザイン／作画監督:山本 周平／キャラクター原案:小野田 将人／シリーズ構成／脚本:石橋 大助／美術設定:柴田 聡／色彩設計:中川 昭洋／音楽制作:FMF／アニメーション制作:ライジングフォース<br><br>so31963686←前話｜次話→so31963689　第一話→so31963686
+  length_seconds: 963
+  content_id: so31963687
+  default_thread_id: 1505925495
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31963687
+- !ruby/hash:EpisodeHash
+  episode_no: EX8～EX12
+  title: モア・ダンシング！笑顔で美デトックス！！／伸び伸びストレッチ！魅惑のプールサイド！！／Let’s Go スポーツジム！楽しくエクササイズ！！
+  description: EX8：暗黒の邪心を讃える舞(ばいたる☆エクササイズ)を踊るため、アサミール(あさみ)とユウメルアール(優)と共に、紫苑は禁断の領域へと歩を進めてゆく…！／EX9：今回は早乙女家にある豪華な屋内プールで水着ストレッチ。健康的な美しさを保つために、ヒザや肩、肩甲骨をのびのびしちゃいます！／EX10：今日はフィットネスクラブでトレーニング！なかなか敷居が高そうだけど…いろんなマシンがあって好きなメニューを選べちゃうのが魅力的♪さあ､あなたもちょっぴり勇気を出してみて♪　ほか<br><br>星あさみ:伊藤美来／樋口えり:和氣あず未／早乙女静乃:小牧未侑／橘紫苑:長縄まりあ／平岡優:高尾奏音<br><br>監督:濁川
+    敦／キャラクターデザイン／作画監督:山本 周平／キャラクター原案:小野田 将人／シリーズ構成／脚本:石橋 大助／美術設定:柴田 聡／色彩設計:中川 昭洋／音楽制作:FMF／アニメーション制作:ライジングフォース<br><br>so31963687←前話　第一話→so31963686
+  length_seconds: 1204
+  content_id: so31963689
+  default_thread_id: 1505925761
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31963689
+cast: "[キャスト]<br>星あさみ:伊藤美来／樋口えり:和氣あず未／早乙女静乃:小牧未侑／橘紫苑:長縄まりあ／平岡優:高尾奏音"
+staff: "[スタッフ]<br>監督:濁川 敦／キャラクターデザイン／作画監督:山本 周平／キャラクター原案:小野田 将人／シリーズ構成／脚本:石橋 大助／美術設定:柴田
+  聡／色彩設計:中川 昭洋／音楽制作:FMF／アニメーション制作:ライジングフォース"
+produced_year: "[製作年]<br>2015年"
+copyright: "(C)6pack/あにトレ！EX製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: あにトレ！XX～ひとつ屋根の下で～

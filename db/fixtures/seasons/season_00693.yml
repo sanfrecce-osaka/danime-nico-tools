@@ -1,0 +1,196 @@
+--- !ruby/hash:SeasonHash
+title: ステラのまほう
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/14/6/21146_1_6.png?1475555413000
+outline: 高校の入学式の日、同人ゲームを作る部活｢SNS部｣と出会った本田珠輝。やりたいことを見つけたと思って入部したものの、絵もプログラムもシナリオも音楽も、一から自分たちで作るのって大変！先輩や幼なじみと一緒に、完成を目指して頑張ります！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
+  name: 村川梨衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 長縄まりあ
+  type: cast
+- !ruby/hash:TagHash
+  name: 前川涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：SILVER LINK.
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：フライングドッグ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：志茂文彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：古川英樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川面真也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：くろば・U
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 亀山俊樹
+  type: other
+- !ruby/hash:TagHash
+  name: 芳文社
+  type: other
+- !ruby/hash:TagHash
+  name: 坪根健太郎
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤敦
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: スタート地点
+  description: 高校の入学式の日、夢中になれることを探して部活PRの展示を見て回る新1年生の珠輝。幼なじみのクラスメイト・裕美音はイラスト部に入部して楽しそうだけれど、珠輝は何をしたいかわからなくて……。<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>次話→so31984611
+  length_seconds: 1415
+  content_id: so31984610
+  default_thread_id: 1506242535
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984610
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: たのしい創作
+  description: 通学途中に椎奈、あやめ、歌夜の3人と出会った珠輝は、歌夜から早速｢下の名前で呼んでいいよ｣と言われて照れる。不安でいっぱいではあるものの、SNS部での楽しい毎日がスタート！でも恥ずかしくて自分の絵を椎奈たちに見せられない。そんな珠輝が頼ったのは幼なじみの裕美音で……。<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984610←前話｜次話→so31984612　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984611
+  default_thread_id: 1506242503
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984611
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 伝導アイテム
+  description: 締め切りを過ぎても完成しないあやめのプロット。椎奈はゴールデンウィークに合宿しようと提案する。合宿場所は珠輝の家に決定！<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984611←前話｜次話→so31984613　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984612
+  default_thread_id: 1506238590
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984612
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: スキルアップ
+  description: あやめに言われてキャラクターの表情を描いてみる珠輝。生き生きした表情を描けていない気がして悩んでいる珠輝に、クラスメイトのマリカと夏が話しかけてくる。<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984612←前話｜次話→so31984614　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984613
+  default_thread_id: 1506242498
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984613
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: カウントダウン
+  description: ある6月上旬の日曜日、珠輝は風邪をひいて寝込んでしまう。お見舞いにきてくれた椎奈とあやめが、薬局へ風邪薬を買いに行ったおばあちゃんの代わりに珠輝の側についていてくれることに。<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984613←前話｜次話→so31984615　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984614
+  default_thread_id: 1506242538
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984614
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: そくばいかい
+  description: "『同人円盤オンリー』の当日。会場に着くと既に入場待機列が！即売会のことをよくわからないまま来てしまった珠輝だけでなく、椎奈とあやめも緊張でいっぱいになる。修羅場で作り上げたゲームは、果たして誰かの手に取って貰えるのか……？！<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984614←前話｜次話→so31984616　第一話→so31984610"
+  length_seconds: 1415
+  content_id: so31984615
+  default_thread_id: 1506242500
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984615
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: はじめての思い出
+  description: ある日の授業前の時間、珠輝は廊下で会った歌夜から作詞に協力してほしいと頼まれる。歌夜がドロドロした恋愛をしていると信じたまま、ＤＴＭ研の部室で歌夜と二人きりになった珠輝は……。<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984615←前話｜次話→so31984617　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984616
+  default_thread_id: 1506242533
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984616
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: デバッグなめたらダメだよ？
+  description: 夕暮れの河川敷で知らない少女に腕を掴まれた珠輝。彼女は追い込みの時に部室へ来たらしいが、珠輝はあまりよく覚えていない。イラスト部員だという彼女はなんと、珠輝に絵描き同士の決闘を申し込む。<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984616←前話｜次話→so31984618　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984617
+  default_thread_id: 1506242562
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984617
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: スキルアップその2
+  description: 自販機で飲み物を買い通学路の野良猫にあいさつ。いつもの朝を過ごしていた椎奈は突然、珠輝に抱きつかれる。泣いている珠輝に理由を聞いてみると、水葉の絵のうまさにショックを受けて悪夢を見てしまったという。<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984617←前話｜次話→so31984619　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984618
+  default_thread_id: 1506242520
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984618
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 精密機械
+  description: 7月に入りみんな夏服に衣替え。ある朝、元気いっぱい上機嫌の珠輝はテルさんと再会して、彼女がSNS部を作った｢照先輩｣だと知る。照先輩はこれから学校に忍び込むと言いだし、珠輝の髪のリボンをほどいて持って行ってしまう！<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984618←前話｜次話→so31984621　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984619
+  default_thread_id: 1506242492
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984619
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: お困りですかお嬢さん
+  description: 夏コミで出す新作『星屑のインテンツィオーネ』のために、椎奈の家に泊りこんで作業をする珠輝、椎奈、あやめ、水葉。深夜にも関わらず突然インターホンが鳴る。椎奈が扉を開けると、そこには珠輝のクラスメイトである飯野夏がいた。夏は妹を迎えに来たと言うが……？<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984619←前話｜次話→so31984622　第一話→so31984610
+  length_seconds: 1415
+  content_id: so31984621
+  default_thread_id: 1506242566
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984621
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: もう一度スタート地点
+  description: 夏休みもSNS部は同人ゲーム作りにフル活動｡そしていよいよ夏コミ当日、新作『星屑のインテンツィオーネ』を売るため会場へ！<br><br>本田
+    珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子<br><br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+    LINK<br><br>so31984621←前話　第一話→so31984610
+  length_seconds: 1399
+  content_id: so31984622
+  default_thread_id: 1506238013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31984622
+cast: "[キャスト]<br>本田 珠輝:長縄まりあ／村上 椎奈:村川梨衣／関 あやめ:小澤亜李／藤川 歌夜:悠木 碧／布田 裕美音:前川涼子"
+staff: "[スタッフ]<br>原作:くろば・U｢ステラのまほう｣(芳文社刊)／監督:川面真也／シリーズ構成:志茂文彦／キャラクターデザイン:古川英樹／プロップデザイン:原口渉／美術監督:谷川広倫(アトリエブーカ)／色彩設計:重冨英里／撮影監督:佐藤敦(シャムロック)／編集:坪根健太郎(REAL-T)／音響監督:亀山俊樹／音楽(BGM):倖山リオ・桑原まこ・kidlit／音楽制作:フライングドッグ／アニメーション制作:SILVER
+  LINK"
+produced_year: "[製作年]<br>2016年"
+copyright: "©くろば・U・芳文社／ステラのまほう製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

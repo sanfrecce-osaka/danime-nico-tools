@@ -1,0 +1,150 @@
+--- !ruby/hash:SeasonHash
+title: D4プリンセス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/67/8/10678_1_6.png?1427216400000
+outline: ドリルやはさみなどさまざまな道具の能力を具現した鎧をまとうことのできる能力を持つ者｢パンツァー｣が格闘技を繰り広げる世界。螺旋皇国の第3皇女・どりすは、ドリルのパンツァー能力を持つ。世間知らずの箱入り娘に育てられてきたが、ついにパンツァーになることを許され、東方帝都にある帝都学園に留学する。ある日、偶然入り込んだ競技場で見かけた同じドリルのパンツァー・我王ねじると戦うことに・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 倉田雅世
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西寛子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：井出安軌
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：井出安軌
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：越智信次
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：原田将太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第2話
+  title: 登場、瑠璃堂どりす！／華麗に変身！　いけてる？あたし
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>次話→so31966233
+  length_seconds: 1113
+  content_id: so31966232
+  default_thread_id: 1505982748
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966232
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話～第4話
+  title: 砕けた自信　あたし泣いちゃう／朝からヘトヘト　御姉様ひどいよ
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966232←前話｜次話→so31966269　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966233
+  default_thread_id: 1505982588
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966233
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第6話
+  title: 味体験？　誰かあたしを救って／救いのヒーロー　その名は駄犬チロ！
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966233←前話｜次話→so31966270　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966269
+  default_thread_id: 1505987246
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966269
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話～第8話
+  title: 東方帝都学園24時　瑠璃堂どりす／中央闘技場で動悸　あなた誰？
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966269←前話｜次話→so31966312　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966270
+  default_thread_id: 1505987172
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966270
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話～第10話
+  title: ファーストバトル！　緊張するっス／歪む日常　みんな怖いよ
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966270←前話｜次話→so31966313　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966312
+  default_thread_id: 1505987204
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966312
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話～第12話
+  title: バトル前からボロボロ　でも負けないモン／リベンジバトル　見せるわ特訓の成果！
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966312←前話｜次話→so31966314　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966313
+  default_thread_id: 1505987258
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966313
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話～第14話
+  title: 新たなる珍特訓　今度は何？／スカートめくれまくり？　二人目は風使い
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966313←前話｜次話→so31966315　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966314
+  default_thread_id: 1505987158
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966314
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話～第16話
+  title: 竜巻地獄！　驚異のＴ(トルネード)・モーター／DはDを呼ぶ　止められない決意
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966314←前話｜次話→so31966316　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966315
+  default_thread_id: 1505987185
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966315
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話～第18話
+  title: 御姉様がこだわる　もうひとつの私／無謀なる戦い？　血が示す可能性
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966315←前話｜次話→so31966317　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966316
+  default_thread_id: 1505987256
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966316
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話～第20話
+  title: 軋みあうドリル　そこに或るもの／ワレモノ注意！　硝子のプリンセスハート
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966316←前話｜次話→so31966318　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966317
+  default_thread_id: 1505987178
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966317
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話～第22話
+  title: 皇女只今家出中につき／暮れゆく紅　癒される赤
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966317←前話｜次話→so31966320　第一話→so31966232
+  length_seconds: 1113
+  content_id: so31966318
+  default_thread_id: 1505987183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966318
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話～第24話
+  title: 照らせない心　届かない陽射し／だってあたしはプリンセス
+  description: 瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子<br><br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次<br><br>so31966318←前話　第一話→so31966232
+  length_seconds: 1100
+  content_id: so31966320
+  default_thread_id: 1505987270
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966320
+cast: "[キャスト]<br>瑠璃堂どりす:倉田雅世／瑠璃堂どりあ:井上喜久子／我王ねじる:小西寛子"
+staff: "[スタッフ]<br>原作:原田将太郎／監督・脚本:井出安軌／キャラクターデザイン:越智信次"
+produced_year: "[製作年]<br>1999年"
+copyright: "（C）原田将太郎・メディアワークス・ポニーキャニオン"
+related_seasons: !ruby/array:Hashie::Array []

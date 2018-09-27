@@ -1,0 +1,358 @@
+--- !ruby/hash:SeasonHash
+title: スレイヤーズNEXT
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/27/7/10277_1_6.png?1427216400000
+outline: 赤の龍神スィーフィードと赤眼の魔王・シャブラニグドゥが覇権を争う、剣と魔法のファンタジーワールド。その世界を縦横無尽に暴れ回る、リナ=インバース。千年前の降魔戦争以来、なりを潜めていたシャブラニグドゥの配下の魔族たちが動き出し、何故かリナの行く手に絡んでくる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本保典
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木真仁
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 柊美冬
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：神坂一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：高山治郎
+  type: staff
+- !ruby/hash:TagHash
+  name: スレイヤーズシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: いきなりピンチ! 魔人ゾアメルグスターの恐怖!
+  description: 'サイラーグでの、コピーレゾとの戦いから数ヵ月。ゾアナ王国の王宮では、隣国セイルーンの王女、アメリアが、かつての仲間ゼルガディスに人質に取られていた。そのピンチを救うのは、もちろんリナとガウリイのコンビ。再びリナ=インバースの大暴れの活躍譚の始まりだ!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>次話→so31920384'
+  length_seconds: 1354
+  content_id: so31920385
+  default_thread_id: 1505325298
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920385
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ふざけた神官! その名はゼロス!
+  description: 'ゼルガディスとアメリアの2人と共に、リナたちは伝説の魔道書クレアバイブル探しの旅に出る。そんな一行の前に、ゼロスと名乗る謎の神官が現れ、盗賊に奪われたクレアバイブルの写本を取り返して欲しいと依頼してきた。奪還には成功したがゼロスがせっかく手に入れた写本を焼却してしまうのだ…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920385←前話｜次話→so31920316　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920384
+  default_thread_id: 1505325262
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920384
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 素敵な商売! 用心棒も楽じゃない!
+  description: '些細なことで喧嘩をしたリナたちは、魔道士協会の会長職を争う、タリムとデイミアに用心棒として、それぞれが雇われることになった。互いに果てることない嫌がらせをはじめたリナたち、ゼルガディスたちは、ついに直接の決闘をする事になるだが…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920384←前話｜次話→so31920315　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920316
+  default_thread_id: 1505323555
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920316
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: いにしえの契約! 不死を求める者!
+  description: '前魔道士協会会長の屋敷に乗り込んだリナたち一行を待ち受けていたのは、不死の研究を続けるハルシフォムと、魔族セイグラムだった。ハルシフォムの狙いは、かつて自分を追放したタリムたちへの復讐。そして、もう一つが不死の研究をするために、リナたちの豊富な生命エネルギーを得ることだった!?<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920316←前話｜次話→so31920313　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920315
+  default_thread_id: 1505323526
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920315
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 残されし愛ゆえに!
+  description: 'ハルシフォムの不死を破るために契約の石を探すリナに、セイグラムは魔族の仲間になれば、命を助けると言う。そんな申し出をリナが受けるはずもなく、必死にセイグラムの前から逃げ出した。そして恋人のルビアを甦らせるために、不死の研究をしていたハルシフォムがついに復活の儀式を始めようとする!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920315←前話｜次話→so31920246　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920313
+  default_thread_id: 1505323550
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920313
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 逃がさない! 執念のマルチナふたたび!
+  description: '再び旅に出たリナたち一行をゾアナ王国の魔女マルチナが狙っていた。リナのトレードマークのバンダナを手に入れ怪しげな呪いを掛ける。そんなこととは知らぬリナは、いつものよに暴れまわるのだが、呪いのせいで他人に与えたダメージが自分にも戻ってきてしまうようになっていた!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920313←前話｜次話→so31920304　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920246
+  default_thread_id: 1505322234
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920246
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: びっくり料理! 幻のドラゴンを追え!
+  description: 'セイルーンをめざして旅を続けるリナたち一行は、ドラゴン料理の看板を見つけ目を輝かせる。だが、出された料理はとんでもなく不味い。聞けば新鮮な材料が手に入らないためだという。新鮮なドラゴンを手に入れるため、ドラゴン料理人アシュフォードと共に船を漕ぎ出すリナたちだが…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920246←前話｜次話→so31920305　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920304
+  default_thread_id: 1505323469
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920304
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 永遠なれ! フィルさんが死んだ日?
+  description: 'セイルーンにたどり着いたリナたちを待っていたのは、アメリアの父であるセイルーンの第一王位継承者フィルの訃報であった。フィルの死が暗殺によるものだと知り、アメリアは真相究明に乗り出す。フィルの暗殺の現場に乗り込んだリナたち。そこで待っていたのは魔族の攻撃だった!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920304←前話｜次話→so31920306　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920305
+  default_thread_id: 1505323548
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920305
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 秘められし野望! 衝撃の告白?
+  description: 'セイルーンは魔族に狙われていた。しかも、この一件はフィルの弟であるクリストファが関係しているらしい。そんな事情を知ったリナたちに魔族が襲いかかってくる。強力な魔族の攻撃を、リナたちはセイルーンの聖なる結界を増幅し撃退しようとするが…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920305←前話｜次話→so31920307　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920306
+  default_thread_id: 1505323762
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920306
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: クセ者ぞろいの珍道中?! 魔力を取り戻せ!
+  description: '失った魔力を取り戻すために、リナは山奥に住む魔法医を訪れることにした。ところがゼロスとマルチナも同行する事になってしまう。リナの魔力が失われていることを知り、マルチナはあの手この手で嫌がらせを仕掛けてくる。せっかくの魔法医もリナの魔力を復活させることができきない上、魔族が現れ…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920306←前話｜次話→so31920308　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920307
+  default_thread_id: 1505323524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920307
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 迫り来る闇の声! 切り裂けラグナ・ブレード!
+  description: 'セイルーンの王宮は魔族カンヅェルの襲撃を受けていた。ガウリイたちも必死に抵抗を試みるが、魔力で異空間に引き込まれてしまう。セイルーンへ戻ったリナは異空間にいるガウリイたちを救うためタリスマンで魔力を一瞬だけ増幅し、今まで使えなかった呪文ラグナ・ブレードで異空間を切り裂くが…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920307←前話｜次話→so31920309　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920308
+  default_thread_id: 1505323497
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920308
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ドンデン返し? 意外なる真実!
+  description: 'フィルをさらわれ、意気消沈するリナたち。そんな時、事件の首謀者だと思われていたクリストファが王位継承を放棄すると宣言。では事件の首謀者は誰なのか?
+    真相を突き止めるためリナたちは息子のアルフレッドの屋敷へと向かう。そこで彼は自分が王位につくためだと告白するが…。<br><br>リナ=インバース: 林原めぐみ／ガウリイ:
+    松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920308←前話｜次話→so31920310　第一話→so31920385'
+  length_seconds: 1354
+  content_id: so31920309
+  default_thread_id: 1505323495
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920309
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 墜落寸前! 野望のついえる時!
+  description: '最後の敵カンヅェルに挑んでいくリナだが、浮揚呪文を使えないため空中庭園から放り出されてしまう。 それでもマゼンダを倒し魔力を復活させふたたび戦いを挑むリナ。だがカンヅェルはセイルーンをも破壊する罠を仕掛けていた!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920309←前話｜次話→so31920311　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920310
+  default_thread_id: 1505323471
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920310
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 禁断のダンス? 最強呪文はどこだ!
+  description: '魔族の暗躍の裏には、魔竜王ガーヴがいることを知ったリナたちは、抵抗する手段を求め再びクレアバイブルを探す旅に出る。激闘の末に、呪文書と思われしきモノを手に入れるリナたちだったが、それには踊りと歌、そして衣装がセットになった｢乙女の祈り｣と呼ばれる神に捧げる踊りの手引書だった!?<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920310←前話｜次話→so31920312　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920311
+  default_thread_id: 1505323533
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920311
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 大激突? 戦いのアルテメ塔!
+  description: 'アルテメ塔と呼ばれる、人間を人形に変えてしまう塔の中に本物のクレアバイブルがあると聞いたリナたちは、人間だとばれないように、思い思いの着ぐるみを着て乗り込んでいく。そこで待ち受けていたのはジョーと名乗る魔族だった。彼の操る人形たちとのバトルをくぐり抜け、リナは最上階へと突入する!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920311←前話｜次話→so31920383　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920312
+  default_thread_id: 1505323641
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920312
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 恨みの魔球! 根性の豪速球!
+  description: 'とある町へとやってきたリナたちは、ブラスケッツという、魔力テニス大会の優勝者に与えられるトロフィーが、クレアバイブルであるという情報を入手する。大会の勝利を得るため、リナはルードというコーチに特訓を受け、その甲斐あって、なんとなく大会を勝ち上がっていくが…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920312←前話｜次話→so31920382　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920383
+  default_thread_id: 1505325401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920383
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: うわさの彼女はゼルガディス?
+  description: '女だけが住む国にやってきたリナたち。そのため、ガウリイたちは女装をさせられる。イヤイヤ女装して忍び込んだゼルガディスは、偶然に出会ったミワンという少女の境遇に同情し、思いを寄せていく。そんなとき、リナたちを追って来た魔族に、ミワンを人質に取られてしまうのだ。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920383←前話｜次話→so31920483　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920382
+  default_thread_id: 1505325381
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920382
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 砂の神殿! ギガスレイブの秘密!
+  description: 'やっとクレアバイブルの完全な写本があるという神殿に着いたが、無限に連なる石版の中で求める情報が記されている場所まで3日もかかるという。かくして旅立った一行だったが、リナはその夜一つの夢を見る。それは禁断の呪文、ギガスレイブが暴走した世界の光景だった!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920382←前話｜次話→so31920482　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920483
+  default_thread_id: 1505327792
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920483
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ついに発覚っ? ゼロスの正体!
+  description: 'かつて、リナを自分の仲間に引き込もうとした魔竜王ガーヴは、一転して今度はリナの命を狙ってくる。未だクレアバイブルから、情報を引き出していないリナたちは、ガーヴに対抗するすべはない。しかし水竜王の残留思念であったアクアが、最後の力でリナたちを逃げ延びさせる。そしてゼロスは…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920483←前話｜次話→so31920418　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920482
+  default_thread_id: 1505327788
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920482
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: いくっきゃないっ! ドラゴンの谷を目指せ!
+  description: '魔族に抵抗する手段を求めて旅をするリナたちは、一人の少年の案内で竜族の長老ゴールデンドラゴンのミルガズィアと出会う。ゼロスの願いを聞き入れたミルガズィアは、リナ一人という条件で、クレアバイブルの元へと案内するという。そこへガーヴ配下の魔族が、突然襲いかかってくる!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920482←前話｜次話→so31920507　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920418
+  default_thread_id: 1505326049
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920418
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 千年の真実! 裏切りの魔竜王!
+  description: '魔族を振り切り、リナたちはクレアバイブルが眠る洞窟へ突入する。その奥深く、超空間への扉をくぐったリナは、ついにクレアバイブルを目の当たりにする。それは降魔戦争によって滅ぼされた水竜王の記憶だったのだ。クレアバイブルと精神を通わせたリナ。だが、そこに再び魔竜王ガーヴが姿を現す!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920418←前話｜次話→so31920554　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920507
+  default_thread_id: 1505328148
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920507
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 奪われた光の剣! 魔竜王最後の時!
+  description: 'ガーヴに追いつめられていくリナたち。ラグナ・ブレードを持ってしても打ち倒すことは出来ず、リナたちは完全に追い込まれてしまう。だがその時、リナたちを案内した少年が現れガーヴを攻撃する。彼の正体は、全ての事件の黒幕、冥王フィブリゾだったのだ。はたしてフィブリゾの目的とは!?<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920507←前話｜次話→so31920555　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920554
+  default_thread_id: 1505329417
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920554
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 脅威の魔剣士! 再会の旅路!
+  description: '冥王フィブリゾにガウリイをさらわれ意気消沈するリナたちは、以前の戦いで消滅したはずの街サイラーグに向かう。その道中、なぜかガウリイの愛剣｢光の剣｣を持つ仮面の剣士に襲われる。剣の力と恐るべき技量で襲いかかる剣士に、リナたちは苦戦を強いられるなか、ザングルスという剣士が現れる。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920554←前話｜次話→so31920586　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920555
+  default_thread_id: 1505329400
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920555
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 邪悪なる罠! 幻の死霊都市!
+  description: 'ガウリイを操り、一行を襲わせた冥王フィブリゾは、再度リナをサイラーグへと誘う。その言葉通り、サイラーグへとたどり着いたリナたちは、完全に復活した街と、そこに住む人々の姿を見る。だが、それはフィブリゾによってかりそめの命を与えられた、生ける死人の街だったのだ!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920555←前話｜次話→so31920587　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920586
+  default_thread_id: 1505330844
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920586
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 死せる者の魂! リナ最後の決断!
+  description: 'フィブリゾの目的は、リナの使う呪文、ギガスレイブの暴走。その力の源、金色の魔王の力で、この世に破滅をもたらすことだった。リナはギガスレイブ抜きでフィブリゾを倒そうとするが、強大な力の前についに万策つきてしまう。さらにガウリイが殺されようとした時、リナはギガスレイブを使うことを決意する!!<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920586←前話｜次話→so31920588　第一話→so31920385'
+  length_seconds: 1355
+  content_id: so31920587
+  default_thread_id: 1505330618
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920587
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: Go To NEXT! そしてまた…
+  description: '冥王フィブリゾの思惑通り、ギガスレイブが暴走する!! だがそのとき、この世界に召還された金色の魔王がガウリイたちの命を救う!! リナの捨て身の願いに、金色の魔王は応えたのだ。だが今度はリナが金色の魔王に取り込まれ、混沌に飲み込まれようとする。ガウリイは後を追い、混沌のなかに飛び込んでいく…。<br><br>リナ=インバース:
+    林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ: 柊 美冬／シルフィール: 冬馬由美<br><br>原作者:神坂　一／脚本:高山治郎
+    ほか<br><br>so31920587←前話　第一話→so31920385'
+  length_seconds: 1341
+  content_id: so31920588
+  default_thread_id: 1505330748
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920588
+cast: "[キャスト]<br>リナ=インバース: 林原めぐみ／ガウリイ: 松本保典／ゼルガディス: 緑川 光／アメリア: 鈴木真仁／ゼロス: 石田 彰／マルチナ:
+  柊 美冬／シルフィール: 冬馬由美"
+staff: "[スタッフ]<br>原作者:神坂　一／脚本:高山治郎 ほか"
+produced_year: "[製作年]<br>1996年"
+copyright: "(C)神坂一・あらいずみるい/富士見書房・テレビ東京・テレビ東京メディアネット"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: スレイヤーズすぺしゃる
+- !ruby/hash:SeasonHash
+  title: スレイヤーズ(完全無欠版)
+- !ruby/hash:SeasonHash
+  title: スレイヤーズRETURN（劇場版）
+- !ruby/hash:SeasonHash
+  title: スレイヤーズぐれえと
+- !ruby/hash:SeasonHash
+  title: スレイヤーズえくせれんと
+- !ruby/hash:SeasonHash
+  title: スレイヤーズごぅじゃす
+- !ruby/hash:SeasonHash
+  title: スレイヤーズぷれみあむ（劇場版）
+- !ruby/hash:SeasonHash
+  title: スレイヤーズ
+- !ruby/hash:SeasonHash
+  title: スレイヤーズＴＲＹ
+- !ruby/hash:SeasonHash
+  title: スレイヤーズREVOLUTION
+- !ruby/hash:SeasonHash
+  title: スレイヤーズEVOLUTION-R

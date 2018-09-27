@@ -1,0 +1,188 @@
+--- !ruby/hash:SeasonHash
+title: この青空に約束を―～ようこそつぐみ寮へ～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/15/5/10155_1_6.png?1427216400000
+outline: 本州から少し南にある離島。坂の多い島のふもとからずっと続く石段を登りきると、下の町や海まで一望できる高台になっておりその高台の上に主人公・星野航(ほしの・わたる)たちの通う学園がある。しかし島の産業の大部分を占めていた大企業の工場が来年撤退することになり、学生の数は次第に減少していた。島にあるもう一つの高台の上に学園の旧校舎を改装した寮がある。寮生の減少にともない現在は主人公とヒロインたちのみが住んでいるその寮は、島の住人からは主人公のハーレムだと噂されている。そんな寮になぜかこの時期にやってきた転校生も巻き込み、時には反発したりしながらもドタバタと楽しい毎日を過ごしていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: こおろぎさとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 川田紳司
+  type: cast
+- !ruby/hash:TagHash
+  name: ひと美
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 森沢芙美
+  type: cast
+- !ruby/hash:TagHash
+  name: MARIO
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 沢城凛奈(前編)
+  description: 大海原にぽつんと浮かぶ離島｢南栄生島｣にある高見塚学園に通う星野航は、学園の寮“つぐみ寮”唯一の男子寮生として生活していた。ある日の朝、同じ寮生で同級生の羽山海己が航を起こしに部屋に行くと、そこには下着姿の美少女が寝ていたのだが・・・。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>次話→so31910901
+  length_seconds: 1494
+  content_id: so31910900
+  default_thread_id: 1505188906
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910900
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 沢城凛奈(後編)
+  description: 高見塚学園に転入してきた沢城凛奈は、つぐみ寮の寮生たちと心を通わせようとしなかった。それを見た同じ寮生の星野航はなんとか凛奈を自分たちの仲間に引きずり込もうとするが、凛奈はことごとく拒否をする。そんな時、航はマラソン大会である条件を提案し、凛奈と勝負をすることに・・・。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910900←前話｜次話→so31910902　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910901
+  default_thread_id: 1505188940
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910901
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 六条宮穂(前編)
+  description: つぐみ寮の大家、六条宮穂は高見塚学園の理事長でもあった六条紀一郎の孫娘。宮穂は文化祭の自由研究で、自分の祖父である紀一郎の南栄生島での足跡をまとめようと、航を連れて島を巡る。ある日、宮穂は航と共に南栄生島の近くにある無人島の泪島に渡るが、そこには・・・。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910901←前話｜次話→so31910903　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910902
+  default_thread_id: 1505188961
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910902
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 六条宮穂(後編)
+  description: 宮穂は文化祭の自由研究として六条紀一郎の足跡を一人でまとめ上げる。文化祭当日、航の祖父や祖母も宮穂の研究発表に顔を出したりと盛況を見せる。文化祭も終わり、後片付けをしている宮穂の元に航がやってくるが、成し遂げたと喜ぶ宮穂に航は厳しい言葉をなげかける。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910902←前話｜次話→so31910904　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910903
+  default_thread_id: 1505188648
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910903
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 藤村静(前編)
+  description: 航が補習をさぼり土手で寝転んでいると、うつろな目をした一人の少女と出会う。航が声を掛けると少女はさとうきび畑の中に逃げ込んでいってしまう。航の手元には少女の落としていった麦藁帽子が…。名前は藤村静。再び静と出合った航は、彼女の境遇を知ることになるが…。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910903←前話｜次話→so31910905　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910904
+  default_thread_id: 1505188651
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910904
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 藤村静(後編)
+  description: つぐみ寮の生活にも慣れてきた静だったが、テストの成績が悪く追試を受けなければならない事に。だが、追試を嫌がり逃げる静。この追試には沙衣里の進退がかかっているのだが…。そして、航はこのまま静をつぐみ寮で生活させていていいのかを悩み始める。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910904←前話｜次話→so31910906　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910905
+  default_thread_id: 1505188900
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910905
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 羽山海己(前編)
+  description: 航は一誠に呼ばれ学校や寮での生活について色々話をされていた。時を同じくして海己も父・克彦と話をしていた。そして、二人はお互いに寮での生活について、一緒に生活していることを隠しているのであった。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910905←前話｜次話→so31910907　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910906
+  default_thread_id: 1505188902
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910906
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 羽山海己(後編)
+  description: 一誠に寮での生活の事がばれてしまった航。一誠に寮を出ろといわれるが、断固としてそれを拒否する。そして、海己も父・克彦に航との関係を話そうとするのだが、勇気が出せず話をはぐらかしてしまう。果たして航と海己の関係はどうなるのか・・・。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910906←前話｜次話→so31910908　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910907
+  default_thread_id: 1505188938
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910907
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 桐島沙衣里(前編)
+  description: 高見塚学園の校長・教頭がつぐみ寮の廃寮にやっきになっている最中、つぐみ寮の周りをなにやら調べている人物を目撃する。航と沙衣里はなんとかつぐみ寮を廃寮にしたい校長と教頭の差し金だと思い、二人だけでいろいろと調べ始める。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910907←前話｜次話→so31910909　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910908
+  default_thread_id: 1505188904
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910908
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 桐島沙衣里(後編)
+  description: 高見塚学園の校長・教頭の陰謀を探っていた航と沙衣里。だが、航が女性とホテルの前で抱き合っていた事を教頭に問い詰められ、航の退学処分を決める緊急職員会議を行う事になる。航とつぐみ寮の運命は・・・。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910908←前話｜次話→so31910965　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910909
+  default_thread_id: 1505188925
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910909
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 浅倉奈緒子(前編)
+  description: 奈緒子と航が出会ったのは航がまだ中学生の頃。航は奈緒子が島一番の美人とのうわさを聞いて、熱烈アピールを繰り返していた。しつこくデートに誘う航を無視していた奈緒子だったが、航のある一言がきっかけでデートをする事に・・・。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910909←前話｜次話→so31910966　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910965
+  default_thread_id: 1505189853
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910965
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 浅倉奈緒子(後編)
+  description: 航と奈緒子の前に昔奈緒子が好きだった相手、辻崎が現れる。辻崎は元つぐみ寮の寮生で現在は八橋大の大学生だが、南栄生島に天体観測に来たのだという。辻崎を慕う奈緒子を見た航は・・・。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910965←前話｜次話→so31910967　第一話→so31910900
+  length_seconds: 1494
+  content_id: so31910966
+  default_thread_id: 1505190096
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910966
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 約束の日
+  description: 3月21日午後3時。高見塚学園つぐみ寮に1人の教師と6人の生徒が集まる。ただ別れを惜しむそのためだけに・・・。この青空の下でかわした約束をただ果たす、そのためだけに・・・。つぐみ寮最後の1年の最後の7人の物語を俺達は決して忘れない。<br><br>星野
+    航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村 静:ひと美／桐島 沙衣里:MARIO／三田村
+    茜:名塚 佳織／三田村 隆史:川田 紳司<br><br>so31910966←前話　第一話→so31910900
+  length_seconds: 1495
+  content_id: so31910967
+  default_thread_id: 1505190092
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910967
+cast: "[キャスト]<br>星野 航:中村 悠一／沢城 凛奈:こおろぎ さとみ／羽山 海己:森沢 芙美／浅倉 奈緒子:折笠 愛／六条 宮穂:中田 順子／藤村
+  静:ひと美／桐島 沙衣里:MARIO／三田村 茜:名塚 佳織／三田村 隆史:川田 紳司"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)TGL/Alchemist・つぐみ寮寮生会 2007"
+related_seasons: !ruby/array:Hashie::Array []

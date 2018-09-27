@@ -1,0 +1,107 @@
+--- !ruby/hash:SeasonHash
+title: 無責任艦長タイラー特別編　ひとりぼっちの戦争
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/6/21416_1_6.png?1483583583000
+outline: ラアルゴン帝国が開発した新兵器で、緊張が走る惑星連合宇宙軍。陰謀、疑惑、そして信頼…、戦争によって試されていく様々な絆の鍵を握るのは、もちろん我らが”無責任男”！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 麦人
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村知道
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 成田剣
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田和宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：真下耕一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉岡平
+  type: staff
+- !ruby/hash:TagHash
+  name: 無責任艦長タイラーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+- !ruby/hash:TagHash
+  name: ザック・プロモーション
+  type: other
+- !ruby/hash:TagHash
+  name: 増尾昭一
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: ''
+  description: バリアも装甲も透過し艦内部で爆発する、ラアルゴン帝国の開発した新兵器・質量変換爆弾。戦局が変化しかねない緊急事態に、ミフネ中将からタイラーに”極秘任務”が下った。しかし、駆逐艦「そよかぜ」艦内ではまたもや不協和音が…。<br><br>ジャスティ・ウエキ・タイラー:辻谷耕史／マコト・ヤマモト:速水
+    奨／ユリコ・スター:天野由梨／キョンファ・キム:三石琴乃／ハロルド・カトリ:成田 剣／ヒデザブロー・キタグチ:八奈見乗児／ハルミ:岡本麻弥:／コジロー・サカイ:岩田光央／ユミ・ハナー:かないみか／エミ・ハナー:かないみか／K・B・アンドレセン:柴本浩行／M・クライバーン:中田和宏／セッシュウ・ミフネ:麦人／ススム・フジ:西村知道／アザリン・ド・エル・クラン・ライクン:笠原弘子／ル・バラバ・ドム:関
+    俊彦／シア・ハス:三田ゆう子／ワング:塚田正昭<br><br>原作:吉岡 平（富士見ファンタジア文庫刊）／監督・脚本・絵コンテ:真下耕一／演出:澤井幸次／キャラクター・デザイン:平田智浩／メカニック・デザイン:伊藤浩二、増尾昭一／作画監督:平田智浩／美術:スタジオ美峰／音楽:川井憲次／音響監督:松川
+    陸／音響制作:ザック・プロモーション／アニメーション制作:童夢／企画・製作:タイラープロジェクト<br><br>次話→so32161709
+  length_seconds: 2679
+  content_id: so32161708
+  default_thread_id: 1508990806
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32161708
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: ''
+  description: 味方の敵前逃亡（？）で、再びラアルゴン帝国の捕虜となってしまったタイラーと「そよかぜ」クルー。絶体絶命のクルーたち、運命の鍵を握るのは、タイラーと皇帝アザリン？そして、ひとりタイラーが託された”極秘任務”とは一体！？<br><br>ジャスティ・ウエキ・タイラー:辻谷耕史／マコト・ヤマモト:速水
+    奨／ユリコ・スター:天野由梨／キョンファ・キム:三石琴乃／ハロルド・カトリ:成田 剣／ヒデザブロー・キタグチ:八奈見乗児／ハルミ:岡本麻弥:／コジロー・サカイ:岩田光央／ユミ・ハナー:かないみか／エミ・ハナー:かないみか／K・B・アンドレセン:柴本浩行／M・クライバーン:中田和宏／セッシュウ・ミフネ:麦人／ススム・フジ:西村知道／アザリン・ド・エル・クラン・ライクン:笠原弘子／ル・バラバ・ドム:関
+    俊彦／シア・ハス:三田ゆう子／ワング:塚田正昭<br><br>原作:吉岡 平（富士見ファンタジア文庫刊）／監督・脚本・絵コンテ:真下耕一／演出:澤井幸次／キャラクター・デザイン:平田智浩／メカニック・デザイン:伊藤浩二、増尾昭一／作画監督:平田智浩／美術:スタジオ美峰／音楽:川井憲次／音響監督:松川
+    陸／音響制作:ザック・プロモーション／アニメーション制作:童夢／企画・製作:タイラープロジェクト<br><br>so32161708←前話　第一話→so32161708
+  length_seconds: 2837
+  content_id: so32161709
+  default_thread_id: 1508990930
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32161709
+cast: "[キャスト]<br>ジャスティ・ウエキ・タイラー:辻谷耕史／マコト・ヤマモト:速水 奨／ユリコ・スター:天野由梨／キョンファ・キム:三石琴乃／ハロルド・カトリ:成田
+  剣／ヒデザブロー・キタグチ:八奈見乗児／ハルミ:岡本麻弥:／コジロー・サカイ:岩田光央／ユミ・ハナー:かないみか／エミ・ハナー:かないみか／K・B・アンドレセン:柴本浩行／M・クライバーン:中田和宏／セッシュウ・ミフネ:麦人／ススム・フジ:西村知道／アザリン・ド・エル・クラン・ライクン:笠原弘子／ル・バラバ・ドム:関
+  俊彦／シア・ハス:三田ゆう子／ワング:塚田正昭"
+staff: "[スタッフ]<br>原作:吉岡 平（富士見ファンタジア文庫刊）／監督・脚本・絵コンテ:真下耕一／演出:澤井幸次／キャラクター・デザイン:平田智浩／メカニック・デザイン:伊藤浩二、増尾昭一／作画監督:平田智浩／美術:スタジオ美峰／音楽:川井憲次／音響監督:松川
+  陸／音響制作:ザック・プロモーション／アニメーション制作:童夢／企画・製作:タイラープロジェクト"
+produced_year: "[製作年]<br>1994年"
+copyright: "©吉岡平／角川書店・タイラープロジェクト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 無責任ギャラクシー☆タイラー
+- !ruby/hash:SeasonHash
+  title: 無責任艦長タイラー 地上より永遠に
+- !ruby/hash:SeasonHash
+  title: OVA　無責任艦長タイラー
+- !ruby/hash:SeasonHash
+  title: 無責任艦長タイラー

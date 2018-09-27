@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: エレキング　the Animation
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/0/11290_1_6.png?1427216400000
+outline: 錠単位もオッケーな無店舗薬売りの“おいさん”、全身着ぐるみ姿で人生を説く“猫氏”、おむつの似合うクール・ガイ“赤さん”、永遠の詰め襟野郎“41歳学生”...more！
+  大橋ツヨシの描く不思議ワールドで、個性溢れるキャラクターが繰り広げる笑いの数々…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 高木渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 屋良有作
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛河里花子
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲葉実
+  type: cast
+- !ruby/hash:TagHash
+  name: 片岡富枝
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：吉田健次郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：定成クンゴ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：大橋ツヨシ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：瑞鷹
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 浦上靖夫
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: 出会いは突然にの巻／太郎が50mの穴に／肉まんのあらそいの巻／おばちゃん耳元で…の巻／おじいさんが百キロ／赤さんのバイト探しの巻／ランチタイムで…の巻／遺伝子組み換え…／ダンナの星座？の巻／ゆらし屋さんの本領の巻／ピザピザピザ／中華定食あきれす軒の巻
+  description: おいさん:八奈見乗児／41歳学生:屋良有作／赤さん:高木渉／眠れぬお母さん:片岡富枝／眠れるお父さん:稲葉実／出題君:愛河里花子、ほか<br><br>原作:「エレキング」大橋ツヨシ（講談社
+    「ワイドKCモーニング」）／制作:瑞鷹／構成・演出:吉田健次郎／CG監督:村井昌平／音響監督:浦上靖夫／音響制作:AUDIO PLANNING U／音響監督:浦上靖夫／音楽:定成クンゴ／音響効果:庄司雅弘（フィズサウンドクリエイション）／製作:「エレキング」Partners<br><br>次話→so32041023
+  length_seconds: 1204
+  content_id: so32041022
+  default_thread_id: 1507065653
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041022
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第8話
+  title: ホットミルクでの巻／玉子とじうどん／昼間のおばちゃんの巻／木の上のボールの巻／Bさん夫婦に子供が／眠れぬ公園の美女!?の巻／いい湯だな！の巻／お年玉を300万／猫のほうとサンマの巻／ゆらし屋さんとハチの巣の巻／手を上げろ／肉ひげがかゆいのっ！の巻
+  description: おいさん:八奈見乗児／41歳学生:屋良有作／赤さん:高木渉／眠れぬお母さん:片岡富枝／眠れるお父さん:稲葉実／出題君:愛河里花子、ほか<br><br>原作:「エレキング」大橋ツヨシ（講談社
+    「ワイドKCモーニング」）／制作:瑞鷹／構成・演出:吉田健次郎／CG監督:村井昌平／音響監督:浦上靖夫／音響制作:AUDIO PLANNING U／音響監督:浦上靖夫／音楽:定成クンゴ／音響効果:庄司雅弘（フィズサウンドクリエイション）／製作:「エレキング」Partners<br><br>so32041022←前話｜次話→so32041024　第一話→so32041022
+  length_seconds: 1204
+  content_id: so32041023
+  default_thread_id: 1507065622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041023
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話～第13話
+  title: 今日のクッキング!?の巻／A君はナスを持って／猫氏vs.蚊 の巻／ただいま自主トレ中の巻／A君がB君をつれて／いらっしゃい…ませ!?の巻／視力検査に行こう！の巻／一郎は二郎のことを／監督だって視力検査の巻／そっとしておいて…の巻／太郎さんがお酒を…／深夜の玉子ごはんの巻／消えた薬箱（前編）の巻／ほか
+  description: おいさん:八奈見乗児／41歳学生:屋良有作／赤さん:高木渉／眠れぬお母さん:片岡富枝／眠れるお父さん:稲葉実／出題君:愛河里花子、ほか<br><br>原作:「エレキング」大橋ツヨシ（講談社
+    「ワイドKCモーニング」）／制作:瑞鷹／構成・演出:吉田健次郎／CG監督:村井昌平／音響監督:浦上靖夫／音響制作:AUDIO PLANNING U／音響監督:浦上靖夫／音楽:定成クンゴ／音響効果:庄司雅弘（フィズサウンドクリエイション）／製作:「エレキング」Partners<br><br>so32041023←前話　第一話→so32041022
+  length_seconds: 1505
+  content_id: so32041024
+  default_thread_id: 1507065633
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041024
+cast: "[キャスト]<br>おいさん:八奈見乗児／41歳学生:屋良有作／赤さん:高木渉／眠れぬお母さん:片岡富枝／眠れるお父さん:稲葉実／出題君:愛河里花子、ほか"
+staff: "[スタッフ]<br>原作:「エレキング」大橋ツヨシ（講談社 「ワイドKCモーニング」）／制作:瑞鷹／構成・演出:吉田健次郎／CG監督:村井昌平／音響監督:浦上靖夫／音響制作:AUDIO
+  PLANNING U／音響監督:浦上靖夫／音楽:定成クンゴ／音響効果:庄司雅弘（フィズサウンドクリエイション）／製作:「エレキング」Partners"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)大橋ツヨシ・講談社／「エレキング」Partners"
+related_seasons: !ruby/array:Hashie::Array []

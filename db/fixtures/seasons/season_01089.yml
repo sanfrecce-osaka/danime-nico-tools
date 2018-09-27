@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: なめこ家の一族
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/02/3/20023_1_6.png?1427216400000
+outline: 主人公「なめこ」を中心に、なめこ達が家族を演じるホームドラマです。 クスっとしたり驚いたり、たまにほろっとする家族の“日常”を描いていきます。 家族をテーマにしたわかりやすい内容で、「んふんふ」だけの全編セリフのないセミ・サイレントで構成され、なめこ達の動き、表情そして音楽などで｢なめこ一家｣の日常を表現しており、大人から子供まで楽しめるアニメです。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：高松明子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：読広エンタテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：drop
+  type: staff
+- !ruby/hash:TagHash
+  name: なめこシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1巻
+  title: なめこ家の一族　～なめこ家よこんにちは～
+  description: 'あの「なめこ」がオリジナルビデオアニメで登場！主人公「なめこ」を中心に、クスッとしたり驚いたり、たまにほろっとする家族の“日常”をなめこ達が演じるホームドラマです。なめこ家はいつも大騒ぎ！さて、今日はどんなことが起きるのやら・・・？<br><br>【原作】:おさわり探偵
+    なめこ栽培キット／【監督】:高松明子／ 【アニメーションディレクター】: 小竹 歩／【アニメーション制作】:読広エンタテインメント/drop／【プロデューサー】:安藤
+    盛治  塩谷 尚史  渡辺 和哉  遠藤 輪香子  古宇田 英之<br><br>次話→so32212351'
+  length_seconds: 1336
+  content_id: so32212350
+  default_thread_id: 1509736886
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32212350
+- !ruby/hash:EpisodeHash
+  episode_no: 2巻
+  title: なめこ家の一族　～なめこたちの予感～
+  description: "「なめこ」のオリジナルアニメ第２弾！今回はおなじみのなめこ家以外に、なめこのいとこ家族が登場します。ほかにも、みんなでお出かけをしたり、ばあちゃんの昔話を聞いたり、なめこ家はいつも大騒ぎ！さて、今日は、どんなことが起きるのやら・・・？<br><br>【原作】:おさわり探偵
+    なめこ栽培キット／【監督】:高松明子／ 【アニメーションディレクター】: 小竹 歩／【アニメーション制作】:読広エンタテインメント/drop／【プロデューサー】:安藤
+    盛治  塩谷 尚史  渡辺 和哉  遠藤 輪香子  古宇田 英之<br><br>so32212350←前話｜次話→so32212352　第一話→so32212350"
+  length_seconds: 1333
+  content_id: so32212351
+  default_thread_id: 1509737249
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32212351
+- !ruby/hash:EpisodeHash
+  episode_no: 3巻
+  title: なめこ家の一族　～素晴らしき哉、なめこ！～
+  description: "「なめこ」のオリジナルアニメ第３弾！今回はおなじみのなめこ家はもちろん、なめこ達の町にあるよろず屋さんや、発明家のおじさんが登場します。さらに、なめこと母さんが他の町にお出かけしたり、兄ちゃんが頑張ったり、なめこ家はまたまた大騒ぎ！さて、今日は、どんなことが起きるのやら・・・？<br><br>【原作】:おさわり探偵
+    なめこ栽培キット／【監督】:高松明子／ 【アニメーションディレクター】: 小竹 歩／【アニメーション制作】:読広エンタテインメント/drop／【プロデューサー】:安藤
+    盛治  塩谷 尚史  渡辺 和哉  遠藤 輪香子  古宇田 英之<br><br>so32212351←前話　第一話→so32212350"
+  length_seconds: 1648
+  content_id: so32212352
+  default_thread_id: 1509737392
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32212352
+staff: "[スタッフ]<br>【原作】:おさわり探偵 なめこ栽培キット／【監督】:高松明子／ 【アニメーションディレクター】: 小竹 歩／【アニメーション制作】:読広エンタテインメント/drop／【プロデューサー】:安藤
+  盛治 塩谷 尚史 渡辺 和哉 遠藤 輪香子 古宇田 英之"
+produced_year: "[製作年]<br>2013年"
+copyright: "© Beeworks/SUCCESS・なめこ家一同"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: なめこ～せかいのともだち～

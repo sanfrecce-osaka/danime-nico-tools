@@ -1,0 +1,127 @@
+--- !ruby/hash:SeasonHash
+title: 無責任艦長タイラー 地上より永遠に
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/5/21415_1_6.png?1487055618000
+outline: 安全な筈の辺境宙域に突如流星群が出現し、輸送船が爆発。事故なのか、それとも何者かによって仕組まれた破壊工作なのか。地上勤務となったタイラーたちはどう動く！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 麦人
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村知道
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 成田剣
+  type: cast
+- !ruby/hash:TagHash
+  name: 大木民夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺俊幸
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：河南正昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉岡平
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉永尚之
+  type: staff
+- !ruby/hash:TagHash
+  name: 無責任艦長タイラーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+- !ruby/hash:TagHash
+  name: 富士見ファンタジア文庫
+  type: other
+- !ruby/hash:TagHash
+  name: オムニバスプロモーション
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤浩
+  type: other
+- !ruby/hash:TagHash
+  name: 森田清次
+  type: other
+- !ruby/hash:TagHash
+  name: 美峰
+  type: other
+- !ruby/hash:TagHash
+  name: 横山広行
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: ''
+  description: ラアルゴン帝国と休戦状態の中、それぞれ地上勤務をこなす『そよかぜ』のクルーたち。一方、安全な筈の辺境宙域で流星群による輸送船爆発。続いて海軍基地の謎の炎上。事故なのか、それとも何者かによって仕組まれた破壊工作なのか。そして、ユリコも事故の捜査に乗り出すが…。<br><br>ジャスティ・ウエキ・タイラー:辻谷耕史／ユリコ・スター:天野由梨／マコト・ヤマモト:速水
+    奨／アザリン・ド・エル・クラン・ライクン:笠原弘子／ル・バラバ・ドム:関 俊彦／セッシュウ・ミフネ:麦人／ススム・フジ:西村知道／ロナワー:大木民夫／ワング:塚田正昭／シア・ハス:三田ゆう子／ヒデザブロー・キタグチ:八奈見乗児／ハルミ:岡本麻弥／キョンファ・キム:三石琴乃／ハロルド・カトリ:成田
+    剣／コジロー・サカイ:岩田光央／ユミ・ハナー:かないみか／エミ・ハナー:かないみか／K・B・アンドレセン:柴本浩行／M・クライバーン:中田和宏<br><br>原作:吉岡
+    平（富士見ファンタジア文庫刊）／脚本:木村直人、吉永尚之／監督・絵コンテ:吉永尚之／演出:横山広行、山内富夫／キャラクターデザイン原案:平田智浩／キャラクターデザイン・総作画監督:河南正昭／メカニックデザイン:重田
+    智／作画監督:河南正昭／美術設定:平沢晃弘／美術監督:加藤 浩／美術:美峰／撮影:吉田光伸／編集:森田清次／音楽:渡辺俊幸／音響監督:斯波重治／音響制作:オムニバスプロモーション／アニメーション制作:スタジオディーン／製作:タイラープロジェクト<br><br>次話→so32161707
+  length_seconds: 2624
+  content_id: so32161706
+  default_thread_id: 1508990808
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32161706
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: ''
+  description: 惑星連合宇宙軍が取り組む戦力再配備計画はいよいよ大詰めを迎えた。ミフネら辺境方面軍は輸送船爆破事故を決め手に新型巡洋艦の配備を獲得する。一方ユリコはヤマモトの証言と資料を元に事故の真相を探る。『そよかぜ』の解体、R号計画、「ヤマモト」の見た赤い光とは、そしてタイラーが導き出した答えとは！？<br><br>ジャスティ・ウエキ・タイラー:辻谷耕史／ユリコ・スター:天野由梨／マコト・ヤマモト:速水
+    奨／アザリン・ド・エル・クラン・ライクン:笠原弘子／ル・バラバ・ドム:関 俊彦／セッシュウ・ミフネ:麦人／ススム・フジ:西村知道／ロナワー:大木民夫／ワング:塚田正昭／シア・ハス:三田ゆう子／ヒデザブロー・キタグチ:八奈見乗児／ハルミ:岡本麻弥／キョンファ・キム:三石琴乃／ハロルド・カトリ:成田
+    剣／コジロー・サカイ:岩田光央／ユミ・ハナー:かないみか／エミ・ハナー:かないみか／K・B・アンドレセン:柴本浩行／M・クライバーン:中田和宏<br><br>原作:吉岡
+    平（富士見ファンタジア文庫刊）／脚本:木村直人、吉永尚之／監督・絵コンテ:吉永尚之／演出:横山広行、山内富夫／キャラクターデザイン原案:平田智浩／キャラクターデザイン・総作画監督:河南正昭／メカニックデザイン:重田
+    智／作画監督:河南正昭／美術設定:平沢晃弘／美術監督:加藤 浩／美術:美峰／撮影:吉田光伸／編集:森田清次／音楽:渡辺俊幸／音響監督:斯波重治／音響制作:オムニバスプロモーション／アニメーション制作:スタジオディーン／製作:タイラープロジェクト<br><br>so32161706←前話　第一話→so32161706
+  length_seconds: 2991
+  content_id: so32161707
+  default_thread_id: 1508991004
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32161707
+cast: "[キャスト]<br>ジャスティ・ウエキ・タイラー:辻谷耕史／ユリコ・スター:天野由梨／マコト・ヤマモト:速水 奨／アザリン・ド・エル・クラン・ライクン:笠原弘子／ル・バラバ・ドム:関
+  俊彦／セッシュウ・ミフネ:麦人／ススム・フジ:西村知道／ロナワー:大木民夫／ワング:塚田正昭／シア・ハス:三田ゆう子／ヒデザブロー・キタグチ:八奈見乗児／ハルミ:岡本麻弥／キョンファ・キム:三石琴乃／ハロルド・カトリ:成田
+  剣／コジロー・サカイ:岩田光央／ユミ・ハナー:かないみか／エミ・ハナー:かないみか／K・B・アンドレセン:柴本浩行／M・クライバーン:中田和宏"
+staff: "[スタッフ]<br>原作:吉岡 平（富士見ファンタジア文庫刊）／脚本:木村直人、吉永尚之／監督・絵コンテ:吉永尚之／演出:横山広行、山内富夫／キャラクターデザイン原案:平田智浩／キャラクターデザイン・総作画監督:河南正昭／メカニックデザイン:重田
+  智／作画監督:河南正昭／美術設定:平沢晃弘／美術監督:加藤 浩／美術:美峰／撮影:吉田光伸／編集:森田清次／音楽:渡辺俊幸／音響監督:斯波重治／音響制作:オムニバスプロモーション／アニメーション制作:スタジオディーン／製作:タイラープロジェクト"
+produced_year: "[製作年]<br>1996年"
+copyright: "©吉岡平／角川書店・タイラープロジェクト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 無責任ギャラクシー☆タイラー
+- !ruby/hash:SeasonHash
+  title: OVA　無責任艦長タイラー
+- !ruby/hash:SeasonHash
+  title: 無責任艦長タイラー特別編　ひとりぼっちの戦争
+- !ruby/hash:SeasonHash
+  title: 無責任艦長タイラー

@@ -1,0 +1,73 @@
+--- !ruby/hash:SeasonHash
+title: ワールドフールニュース
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/41/9/11419_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ワールドフールニュースシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.01／Episode.02
+  title: 新キャスターの憂鬱!?／本番スタート!?
+  description: 異動を命じられ、新しくニュースキャスターを任された高橋。その番組はちょっと変わった情報番組だった…。地方テレビ局のなんでもない日常を描く、ユーモラスコメディ!!／ついに第1回目のOAがスタート!キャスターデビューを果たした高橋。そのニュースは…。テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!<br><br>次話→so31940043
+  length_seconds: 1190
+  content_id: so31940042
+  default_thread_id: 1505610841
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940042
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.03／Episode.04
+  title: 下平さんの休日!?／草津温泉湯けむり事件!?
+  description: 変わり者が多い｢ワールドフールニュース｣スタッフ、その中でもパートナーの下平加奈江は特に不思議な存在。高橋は休日の下平に偶然出会う・・・。テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!／主人公の高橋は番組の企画で草津温泉にロケに出た。スタッフの中でも一番まともだと信頼していた本庄と共に、事件に出くわす⁉
+    地方テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!<br><br>so31940042←前話｜次話→so31940045　第一話→so31940042
+  length_seconds: 1190
+  content_id: so31940043
+  default_thread_id: 1505610843
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940043
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.05／Episode.06
+  title: トロッコ列車で行こう!?／恋に落ちた薄井さん!?
+  description: OA終了後、スタッフでニュースのネタを雑談。ここでもスタッフの個性が際立つ!地方テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!／番組のロケで、遊園地｢るなぱあく｣行くことに。つまらなそうにしている薄井に、初恋の人との再会!二人の仲はどうなるか⁉地方テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!<br><br>so31940043←前話｜次話→so31940046　第一話→so31940042
+  length_seconds: 1190
+  content_id: so31940045
+  default_thread_id: 1505610815
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940045
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.07／Episode.08
+  title: 一人きりの休日!?／JOYnt!がやってきた!?前編
+  description: ある休日。イタリアンレストランで、異動後のこれまでを一人振り返る高橋であった。地方テレビ局のちょっと変わった日常を描くユーモラスコメディ‼／いつものWFNスタッフにピリピリしムードが漂う。そんな中人気番組｢JOYnt!｣の取材陣がやってくる。地方テレビ局のちょっと変わった日常を描くユーモラスコメディ‼<br><br>so31940045←前話｜次話→so31940047　第一話→so31940042
+  length_seconds: 1190
+  content_id: so31940046
+  default_thread_id: 1505610817
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940046
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.09／Episode.10
+  title: JOYnt!がやってきた!?後編／恐竜の里へようこそ!?
+  description: 人気番組｢JOYnt!｣の取材を受けるワールドフールニューススタッフ。JOYと小原春香の切り込みにタジタジ。結末はいかに・・・。地方テレビ局のちょっと変わった日常を描くユーモラスコメディ‼／いつものようにOAがスタート!変わったニュースに、変わったコメンテーターたちが、ニュースを斬る!地方テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!<br><br>so31940046←前話｜次話→so31940049　第一話→so31940042
+  length_seconds: 1190
+  content_id: so31940047
+  default_thread_id: 1505610849
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940047
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.11／Episode.12
+  title: 再会、気になる同級生!?／変わり者でいこう!?
+  description: OA終了後、大学時代の同級生、竹内に遭遇した高橋。まぶしいばかりの竹内に、今のままでいいのか疑問を抱く高橋だった・・・。地方テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!／思い悩む高橋。輝いて見えた竹内の苦労を知る。そして、他のスタッフたちの思いも知る。その時、高橋は・・・。地方テレビ局のちょっと変わった日常を描く、ユーモラスコメディ!!<br><br>so31940047←前話　第一話→so31940042
+  length_seconds: 1190
+  content_id: so31940049
+  default_thread_id: 1505610819
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940049
+produced_year: "[製作年]<br>2013年"
+copyright: "©マシモユウ/群馬テレビ/ コミックス・ウェーブ・フィルム"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ワールドフールニュース PART II

@@ -1,0 +1,288 @@
+--- !ruby/hash:SeasonHash
+title: NOIR
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/1/10191_1_6.png?1427216400000
+outline: すべての過去を失った少女・夕叢霧香と、ヨーロッパの暗黒街を舞台に｢裏の仕事｣に生きる仕事人・ミレイユ・ブーケ。とある事件がきっかけで二人はコンビを組み、裏社会の仕事人として仕事を始めることになる。ユニットの名は｢ノワール｣。失った過去を取り戻す霧香の戦いが、家族の復讐を誓うミレイユの戦いが、今、始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: TARAKO
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：梶浦由記
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：真下耕一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菊地洋子
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：芝美奈子
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：月村了衛
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：宮地聡子
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：ビィートレイン
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: ビクターエンタテインメント
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 黒き手の処女たち
+  description: パリに住む一匹狼の仕事人・ミレイユは、ある日風変わりな依頼のメールを受ける。ターゲットは夕叢霧香(ゆうむらきりか)という名の少女。一笑に伏すミレイユだったが、添付されたメロディを聞いた途端その場に凍りつく…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>次話→so31911998
+  length_seconds: 1463
+  content_id: so31911997
+  default_thread_id: 1505207606
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911997
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 日々の糧
+  description: ミレイユのパートナーとして裏の仕事を手伝うことになった霧香。二人のコードネームは｢ノワール｣。今回のターゲットはフランス国家公安局部長のルグラン。ルグランは裏でテロ組織とつながりを持っていたのだ…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31911997←前話｜次話→so31911999　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31911998
+  default_thread_id: 1505207189
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911998
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 暗殺遊戯
+  description: 実業界の大物、デュクスを狙う霧香たち。しかし、それは｢ノワール｣を仕留めるため、あらかじめ仕組まれた罠だった。デュクスの部下たちに追い詰められる二人。超人的なガンテクニックと機転で危機を脱するかに見えたが、その前に現れたのは…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31911998←前話｜次話→so31912000　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31911999
+  default_thread_id: 1505207444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911999
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 波の音
+  description: クーデターの不穏な空気が漲る小国ウルジア。軍部に付け入りこの国を食い物にしようとするアトライド社の社長ハモンドが今回のターゲット。だが何者かの手により情報がリークされ、霧香とミレイユはウルジア軍に包囲されてしまう…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31911999←前話｜次話→so31912001　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31912000
+  default_thread_id: 1505207231
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31912000
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: レ・ソルダ
+  description: 自分たちに迫る謎の｢敵｣の正体を探るため、知り合いの情報屋に調査を依頼するが、情報屋は家族もろとも殺されてしまう。彼の残した手がかりをもとに調査を進める霧香とミレイユの前に立ちふさがる敵の正体は…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31912000←前話｜次話→so31912002　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31912001
+  default_thread_id: 1505207251
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31912001
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 迷い猫
+  description: 東欧の寒村で人々のために働きながら隠居生活を送る老人。村では聖人とあがめられていたが、彼の正体は元KGBの将校であり、かつて多くの罪なき人々の虐殺を指揮した張本人であった。彼が病に犯され、余命いくばくもないことを知ったミレイユたちは躊躇するが…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31912001←前話｜次話→so31912044　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31912002
+  default_thread_id: 1505207424
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31912002
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 運命の黒い糸
+  description: 中東の小国で武装ゲリラの指導者を暗殺した二人。だが霧香が負傷し、二人はゲリラに追われることに。なんとか国境へと向かうが、その途中、ミレイユが目を離したすきに霧香が捕えられてしまう…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31912002←前話｜次話→so31912046　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31912044
+  default_thread_id: 1505207851
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31912044
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: イントッカービレ acte I
+  description: 謎の組織ソルダとシシリアンの密約書を手に入れるため、マフィア幹部の暗殺を請け負ったミレイユと霧香。マフィアのドンはノワール抹殺のため、シシリアに幽閉していた後継者・シルヴァーナを呼び寄せる。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31912044←前話｜次話→so31912047　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31912046
+  default_thread_id: 1505207872
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31912046
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: イントッカービレ acte II
+  description: 密約書を奪うため、シルヴァーナと対決することになるミレイユたち。少女時代にシルヴァーナの恐ろしさを体験しているミレイユは気遅れしつつも、シルヴァーナ一派が待ち構えるシシリアに向かう。劣勢を強いられながらも戦うノワール。そして、再びミレイユとシルヴァーナの一騎打ちが…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31912046←前話｜次話→so31914708　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31912047
+  default_thread_id: 1505207743
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31912047
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 真のノワール
+  description: 今回のターゲットは悪徳警官のルビックと汚職判事のデスタン。だがルビックはノワールの目の前で謎の暗殺者に殺されてしまう。｢ノワール｣に対する挑戦に、暗殺者の正体をつきとめようと躍起になるミレイユ。いっぽう、ノワールを罠にかけようとするデスタンの前に、謎の暗殺者が現れる…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31912047←前話｜次話→so31914709　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914708
+  default_thread_id: 1505233709
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914708
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 月下之茶宴
+  description: 謎のコピーの出所を追うミレイユたちに接触してくる謎の男。男はソルダの一員であり、コピーの原本を渡すと言うのだ。ソルダの意図がわからずとまどいながらも約束の場所に向かう霧香とミレイユ。だが、待ち構えていたのはその男ではなくソルダの刺客たちだった。敵を撃退しアパルトメントに戻った二人の前に現れたのは…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914708←前話｜次話→so31914710　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914709
+  default_thread_id: 1505233582
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914709
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 刺客行
+  description: NATOの退役将軍ライマンは、引退してスイスの山荘で悠々自適の生活を送っていた。しかし彼はNATOの情報部長でありながらソルダのメンバーだった。｢ノワール｣との接触を果たしたクロエは、アルテナの指示に従いライマンを粛正に向かう。だがライマンは旧東独国家保安局のゼルナーからも命を狙われていた…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914709←前話｜次話→so31914711　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914710
+  default_thread_id: 1505233822
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914710
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 地獄の季節
+  description: パリの街。買い物途中の霧香は、公園で絵を描く青年・ミロシュと出会う。彼の絵に興味を持った霧香は、同じ場所で一緒に絵を描くようになる。初めて心を開いた男性とのやすらぎの時間に、ささやかな幸福感を覚える霧香。いっぽう、かつてミレイユに仲間を殺された犯罪者、ガレが服役を追え、パリに戻ってきていた…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914710←前話｜次話→so31914712　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914711
+  default_thread_id: 1505233950
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914711
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: ミレイユに花束を
+  description: ミレイユの前に、伯父・フェデーが現れる。フェデーはミレイユの両親が殺されたあと、幼いミレイユを連れてコルシカを離れ、ミレイユに裏社会の仕事を教えた人だった。思わぬ再会に喜ぶミレイユ。だがフェデーはソルダからある仕事を受けていた。フェデーの屋敷に誘われたミレイユが頼まれたこととは…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914711←前話｜次話→so31914713　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914712
+  default_thread_id: 1505233707
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914712
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 冷眼殺手 acte I
+  description: ミレイユのアパルトメントに届けられた手紙。それは台湾の裏社会を牛耳る黒社会のボスを暗殺せよというのがソルダの指令だった。いぶかりながらも台湾に向かう霧香とミレイユ。二人は協力者の待つ寺院へと向かうが、そこへは既に黒社会の殺し屋たちが迫っていた…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914712←前話｜次話→so31914714　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914713
+  default_thread_id: 1505233952
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914713
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 冷眼殺手 acte II
+  description: 黒社会の暗殺者・シャオリーは毒爪をもって相手を瞬時に殺害する冷酷な殺し屋。敵の手に落ちたミレイユを救おうとする霧香の前に現れたクロエが協力を申し出る。霧香とクロエの活躍で救出されるミレイユ。混乱の大銃撃戦の中、忽然と姿を消すシャオリー。シャオリー、クロエの真の目的とは…?<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914713←前話｜次話→so31914715　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914714
+  default_thread_id: 1505233602
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914714
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: コルシカに還る
+  description: 霧香とクロエの活躍に接して疎外感を隠せないミレイユは、一人コルシカへ旅立つ。コルシカを仕切っているベルトニエから、思いがけず両親の仇について情報を得た彼女は唯一の生き証人、マドランを捜しだすが、謎の狙撃手に射たれてしまう。反撃して狙撃手を倒すミレイユ。しかし、そのときクロエが現れ…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914714←前話｜次話→so31914716　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914715
+  default_thread_id: 1505233623
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914715
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 私の闇
+  description: コルシカでクロエに告げられた衝撃の事実にうちひしがれるミレイユは、霧香との間に決定的な溝を感じてしまう。感情を制御できないミレイユに｢私の前から消えて｣と告げられ、一人なす術もなくパリの街を彷徨う霧香。が、そこにソルダの男が接触してくる。男は｢情報を提供する用意がある｣と霧香に提案してくるのだが…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914715←前話｜次話→so31914822　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914716
+  default_thread_id: 1505233727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914716
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ソルダの両手
+  description: ソルダの男が残した手掛かりをもとに、古文書の正体をつきとめた霧香とミレイユ。原本を所蔵している実業家・エドリンガーを訪ねるが、またしてもクロエが現れ、｢ノワール｣の秘密について語る。いっぽう、ソルダ最高評議会はアルテナの暴走を阻止すべく、霧香たちのもとに刺客を送り込んでいた…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914716←前話｜次話→so31914823　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914822
+  default_thread_id: 1505235636
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914822
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 罪の中の罪
+  description: パリに戻りはしたが、霧香とミレイユの溝は深まるばかり。そんな二人の元に、ソルダ最高評議会は抹殺のための選りすぐりの｢騎士｣を送り込む。苦戦の末に敵を撃退する二人だが、そこにまたしてもクロエが現れ、なぜか霧香に向かって銃口を向けるのだった…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914822←前話｜次話→so31914824　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914823
+  default_thread_id: 1505235507
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914823
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 無明の朝
+  description: クロエの放った銃弾により、｢最後の道しるべ｣を受け取った霧香は、さらにクロエから聞かされた事実に衝撃を受け、なすすべもなく雨の中をさまよう。その霧香を狙ってまたしても襲いかかるソルダの｢騎士｣。たった一人で敵を撃退する霧香だが、その目には狂気の影が潜んでいた…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914823←前話｜次話→so31914825　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914824
+  default_thread_id: 1505235509
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914824
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 旅路の果て
+  description: ミレイユのもとを離れた霧香は、気がつくと見知らぬ村の入り口に倒れていた。霧香を救った村人から、ここがソルダの村であると聞かされ、自分がノワールとしてアルテナの待つ｢荘園｣への道を歩んでいることを知り、愕然とする。いっぽう、最高評議会は霧香を阻止するため、完全武装の特殊部隊を送り込んできていた…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914824←前話｜次話→so31914826　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914825
+  default_thread_id: 1505235385
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914825
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 残花有情
+  description: 一人パリに残されたミレイユの前に現れた謎の男・ブレフォールはミレイユを｢ソルダのメンバーとして迎えたい｣と提案する。反撃を試みるミレイユだが、幾多の死線をかいくぐってきたベテラン・ブレフォールの前に銃を下ろしてしまう。アパルトマンに戻り、一人悩むミレイユが、ふとしたことから見つけたものは…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914825←前話｜次話→so31914827　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914826
+  default_thread_id: 1505235664
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914826
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 暗黒回帰
+  description: ついにアルテナの待つ｢荘園｣にやってきた霧香。アルテナとクロエは霧香を暖かく迎え入れる。ノワール復活の儀式をとりおこなう準備を着々と進めるアルテナたち。魂を失ったかのように状況を受け入れる霧香だが、アルテナから自分の銃を返されたとき、激しい葛藤が霧香を襲う…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914826←前話｜次話→so31914857　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914827
+  default_thread_id: 1505235406
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914827
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 業火の淵
+  description: 儀式の日がやってきた。霧香とクロエを呼び寄せたアルテナは、二人に祝福を贈る。嬉しくてたまらない様子のクロエに対し、あくまで霧香は感情を表に現わさない。泉に向かい、みそぎの沐浴を行う二人の前に現れたのはミレイユだった。しかし、霧香はミレイユに対して銃を向ける…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914827←前話｜次話→so31914858　第一話→so31911997
+  length_seconds: 1463
+  content_id: so31914857
+  default_thread_id: 1505236494
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914857
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 誕生
+  description: 今や単なる利害を越えたパートナーとして、互いの絆を確かめあった霧香とミレイユは、アルテナの待つ式場へと向かう。すべての事態の報告を受けるアルテナだが、なぜか動じる気配はない。いっぽう、ソルダ最高評議会とブレフォールを乗せたリムジンが荘園へと向かっていた…。<br><br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾<br><br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント<br><br>so31914857←前話　第一話→so31911997
+  length_seconds: 1446
+  content_id: so31914858
+  default_thread_id: 1505236247
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31914858
+cast: "[キャスト]<br>夕叢霧香:桑島法子／ミレイユ・ブーケ:三石琴乃／アルテナ:TARAKO／クロエ:久川綾"
+staff: "[スタッフ]<br>原案・構成・脚本:月村了衛／キャラクターデザイン:菊地洋子,芝美奈子,宮地聡子／音楽:梶浦由記／監督:真下耕一／制作:ビィートレイン／製作:ビクターエンタテインメント"
+produced_year: "[製作年]<br>2001年"
+copyright: "(c)2001 月村了衛・ビィートレイン・フライングドッグ"
+related_seasons: !ruby/array:Hashie::Array []

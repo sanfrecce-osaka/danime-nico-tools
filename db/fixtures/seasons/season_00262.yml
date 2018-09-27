@@ -1,0 +1,51 @@
+--- !ruby/hash:SeasonHash
+title: 楓ニュータウン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/18/0/10180_1_6.png?1427216400000
+outline: ミキオは大阪郊外のニュータウンに住む、平凡な小学5年生。同じクラスのハルコのことが気になっているが、見つめるだけでせいいっぱい、声すらかけられずにいた。そんなある日、相棒のメガネ君からハルコが遠くの町へ引っ越してしまうことを聞く。いてもたってもいられないのに、どうすることもできずに悩むミキオ・・・。するとその前に、おばけのキュピオが現れた!!はたして、ミキオの想いはハルコに伝えられるのか?!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 吉岡茉祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 三田村陽斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 森永悠希
+  type: cast
+- !ruby/hash:TagHash
+  name: 土岐明里
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：いわきりなおと
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：いわきりなおと
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：いわきりなおと
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：いわきりなおと
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 楓ニュータウン
+  description: ミキオは大阪郊外のニュータウンに住む、平凡な小学5年生。同じクラスのハルコのことが気になっているが、見つめるだけでせいいっぱい、声すらかけられずにいた。そんなある日、相棒のメガネ君からハルコが遠くの町へ引っ越してしまうことを聞く。いてもたってもいられないのに、どうすることもできずに悩むミキオ・・・。するとその前に、おばけのキュピオが現れた!!はたして、ミキオの想いはハルコに伝えられるのか?!<br><br>ミキオ:森永悠希／ハルコ:土岐明里／メガネ:三田村陽斗／キュピオ:吉岡茉祐<br><br>監督・原作・脚本・キャラクターデザイン:いわきりなおと／サブデザイン:伊東裕輔／撮影:池尻裕､名嘉真法久／オープニング曲・本編楽曲:｢楓ニュータウン｣のテーマ/エイプリルズ／エンディング曲:｢幻想特急｣/TOMOVSKY(トモフスキー)
+  length_seconds: 1722
+  content_id: so31911669
+  default_thread_id: 1505202747
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911669
+cast: "[キャスト]<br>ミキオ:森永悠希／ハルコ:土岐明里／メガネ:三田村陽斗／キュピオ:吉岡茉祐"
+staff: "[スタッフ]<br>監督・原作・脚本・キャラクターデザイン:いわきりなおと／サブデザイン:伊東裕輔／撮影:池尻裕､名嘉真法久／オープニング曲・本編楽曲:｢楓ニュータウン｣のテーマ/エイプリルズ／エンディング曲:｢幻想特急｣/TOMOVSKY(トモフスキー)"
+produced_year: "[製作年]<br>2007年"
+copyright: "(c) Codomo Inc./CoMix Wave Films/SPACE SHOWER TV Inc./Mars Sixteen"
+related_seasons: !ruby/array:Hashie::Array []

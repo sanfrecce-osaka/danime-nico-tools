@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: PARASITE DOLLS
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/9/10389_1_6.png?1427216400000
+outline: "｢A.D.ポリス｣の番外編にあたるOVAシリーズを劇場用に再構成。西暦2034年、｢亜人｣ブーマと人間とが共生する東京。その一方で、ブーマを売春や破壊活動の道具として使う犯罪も急増。その事件を解決するためにADポリスは特殊任務組織＂ブランチ＂を構成。ブランチの活躍を3話オムニバス構成で描く。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川登志夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡村明美
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田聡明
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：恩田尚之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：都田和志
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉永尚之
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：小中千昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中澤一登
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 亀山俊樹
+  type: other
+- !ruby/hash:TagHash
+  name: オムニバスプロモーション
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤正浩
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤勝
+  type: other
+- !ruby/hash:TagHash
+  name: 山森重之
+  type: other
+- !ruby/hash:TagHash
+  name: 小中千昭
+  type: other
+- !ruby/hash:TagHash
+  name: 山田稔
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 劇場版
+  title: PARASITE DOLLS
+  description: "｢A.D.ポリス｣の番外編にあたるOVAシリーズを劇場用に再構成。西暦2034年、｢亜人｣ブーマと人間とが共生する東京。その一方で、ブーマを売春や破壊活動の道具として使う犯罪も急増。その事件を解決するためにADポリスは特殊任務組織“ブランチ”を構成。ブランチの活躍を3話オムニバス構成で描く。<br><br>バズ=ニクヴェスト:井上和彦／マイケルソン:岡村明美／タカハシ:池田
+    勝／キンボール:内田聡明／エンジェル:井上喜久子／マイヤーズ:古川登志夫<br><br>企画:三浦 享,小中千昭／監督:中澤一登,吉永尚之／構成・脚本:小中千昭／キャラクターデザイン:恩田尚之／美術設定:佐藤正浩／美術監督:佐藤
+    勝／音響監督:亀山俊樹／音楽:都田和志／効果:山田 稔／編集:山森重之／音響制作:オムニバスプロモーション／オープニングアニメーション:中澤一登／制作プロデューサー:長谷川康雄,福家日左夫／制作:AIC／製作:IMAGICAエンタテインメント／製作:クロックワークス"
+  length_seconds: 5150
+  content_id: so31932840
+  default_thread_id: 1505524399
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932840
+cast: "[キャスト]<br>バズ=ニクヴェスト:井上和彦／マイケルソン:岡村明美／タカハシ:池田 勝／キンボール:内田聡明／エンジェル:井上喜久子／マイヤーズ:古川登志夫"
+staff: "[スタッフ]<br>企画:三浦 享,小中千昭／監督:中澤一登,吉永尚之／構成・脚本:小中千昭／キャラクターデザイン:恩田尚之／美術設定:佐藤正浩／美術監督:佐藤
+  勝／音響監督:亀山俊樹／音楽:都田和志／効果:山田 稔／編集:山森重之／音響制作:オムニバスプロモーション／オープニングアニメーション:中澤一登／制作プロデューサー:長谷川康雄,福家日左夫／制作:AIC／製作:IMAGICAエンタテインメント／製作:クロックワークス"
+produced_year: "[製作年]<br>2004年"
+copyright: "(C)AIC/パラサイト製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

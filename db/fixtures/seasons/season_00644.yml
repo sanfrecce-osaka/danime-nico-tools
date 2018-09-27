@@ -1,0 +1,438 @@
+--- !ruby/hash:SeasonHash
+title: シートン動物記
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/5/20145_1_6.png?1432278278000
+outline: 世界の名作「シートン動物記」を元に、ノンフィクションの持つ感動性と文学の持つ詩情性を併せ備えた作品です。野生の動物たちにも、我々人間と同じような生活があり、喜びも悲しみもあることに心打たれ、動物たちの深い愛情や素晴らしい知恵を改めて見直すことが出来る、そんな作品です。全世界で一千万部近く発行され、少年少女たちに深く愛されている作品を、高品質なアニメーションでお届けします。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中田浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：大谷幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：白土武
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：アーネスト・トムソン・シートン
+  type: staff
+- !ruby/hash:TagHash
+  name: 集英社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ちび犬チンク
+  description: チンクは好奇心旺盛なちび犬。ある日、飼い主のビリーじいさんはテントの留守番をチンクに言いつけ、出かけてしまった。ところがチンクはコヨーテに襲われて…。チンクは果たしてテントをコヨーテから守る事ができるのか？<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>次話→so32214329
+  length_seconds: 1443
+  content_id: so32214328
+  default_thread_id: 1509778373
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214328
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: タラク山の熊王
+  description: 猟師のランは、牧場の牛や羊を襲う、タラク山の熊王のうわさを耳にした。ランはかわいがっていた小グマを手放してから、猟をやめていたが、牧場主からの強い依頼で、タラク山の熊王と対決する事になってしまった。ところが、その熊は…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214328←前話｜次話→so32214411　第一話→so32214328
+  length_seconds: 1442
+  content_id: so32214329
+  default_thread_id: 1509778392
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214329
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 少年とオオヤマネコ
+  description: 熱病のため動く事ができない少年たちの山小屋に、お腹をすかせたオオヤマネコが、食料を狙ってやってきた。少年たちは病気を治すため、オオヤマネコは自分の子供たちのためにも生きなくてはならない。少年たちは必死でオオヤマネコに立ち向かった…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214329←前話｜次話→so32214413　第一話→so32214328
+  length_seconds: 1444
+  content_id: so32214411
+  default_thread_id: 1509779248
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214411
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ギザ耳うさぎ
+  description: ヘビに耳をかじられ、ギザ耳になったうさぎのギザ坊は毎日、モリ−かあさんから、敵から身を守る事や食べ物を探す事を一生懸命勉強していた。ある日、ギザ坊たちのすみかはよそものの大ウサギに奪われてしまった。ギザ坊はすみかを取り戻すために猟犬を利用するが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214411←前話｜次話→so32214510　第一話→so32214328
+  length_seconds: 1444
+  content_id: so32214413
+  default_thread_id: 1509779727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214413
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 伝書鳩アルノー
+  description: 足に手紙を着けて運ぶ伝書鳩。ニューヨークにとても優秀なアルノーという鳩がいた。アルノーは数々のレースで記録を打ち立てたり、船の故障を知らせたり、大活躍をしていた。ところが、シカゴからニューヨーク横断レース中に、心ない人間に捕まってしまう。果たしてアルノーは飼い主ビリー少年の元に帰れるのか…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214413←前話｜次話→so32214511　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214510
+  default_thread_id: 1509780797
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214510
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 裏町の野良猫
+  description: 裏町で生まれた野良猫のキティは、とある事から品評会で優勝し、裕福な家庭の田舎の別荘で飼われる事になる。しかし、自由な生活を求めるキティは別荘から逃げ出し、生まれ故郷の裏町を目指す。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214510←前話｜次話→so32214512　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32214511
+  default_thread_id: 1509780769
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214511
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: だく足の野生馬
+  description: 野生馬である黒馬は、だく足の素晴らしい走りで、人間に捕われる事なく自由な生活をしていた。その走りに魅せられたカウボーイのジョーたちは、何とか黒馬を捕まえようと知恵を使うが、黒馬の走りと賢さの前に次々と失敗してしまう。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214511←前話｜次話→so32214513　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214512
+  default_thread_id: 1509780784
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214512
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 小さな軍馬ウサギ
+  description: ウサギ狩りで捕まったジャックウサギの中でも、目のパッチリした1匹のウサギはその走る姿から小さな軍馬と呼ばれるようになった。軍馬はウサギ狩り競走の犬達に何度も勝ち、ウサギ係のミッキーは支配人に軍馬を自由にしてあげて欲しいと頼み込むが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214512←前話｜次話→so32214515　第一話→so32214328
+  length_seconds: 1412
+  content_id: so32214513
+  default_thread_id: 1509780757
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214513
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: イノシシのあぶく坊や
+  description: クマに母親イノシシを殺されたイノシシの坊やは、少女リゼットに｢あぶく坊や｣と名付けられ、大切に育てられる。やがて、春がきて｢あぶく坊や｣は立派なイノシシへと成長し、山に帰っていってしまったが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214513←前話｜次話→so32214516　第一話→so32214328
+  length_seconds: 1412
+  content_id: so32214515
+  default_thread_id: 1509780767
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214515
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 峰の王者・羊のクラッグ
+  description: ビッグホーン。別名ロッキーマウンテンシップのクラッグは、見事な角を持つ雄羊。群れのリーダーとして、仲間を守り、雪原を駆け抜ける。クラッグに魅せられた猟師のスコッティじいさんは、クラッグを捕まえるため、3か月におよぶ追跡を開始した。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214515←前話｜次話→so32214517　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32214516
+  default_thread_id: 1509780764
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214516
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ウィニペグの狼
+  description: 人間に捕まった狼の子は酒場の少年ジムに｢ウルフィー｣と名付けられ、大切に育てられる。しかし、酔っぱらいや犬にいじめられる毎日を過していた。そんなある日、ジムが高熱を出し死んでしまう。ウルフィ−は酒場を逃げ出すが山にも帰らず、町の周囲で暮らし始めるが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214516←前話｜次話→so32214621　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214517
+  default_thread_id: 1509780795
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214517
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: キツネ犬ワリー
+  description: ワリーは優秀な牧羊犬として羊たちの面倒をみて暮らしていた。ところが、飼い主のロビンじいさんの勘違いのため、街に置き去りにされてしまった。ワリーは、ロビンじいさんが迎えに来るのを2年間も待ち続けた。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214517←前話｜次話→so32214622　第一話→so32214328
+  length_seconds: 1412
+  content_id: so32214621
+  default_thread_id: 1509782062
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214621
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 赤えりウズラの冒険
+  description: 初夏のある日、お母さんウズラが12羽の子供を連れて歩いていた。森の中にはウズラの敵も多く、母さんウズラの教えをきちんと守ったものだけが生き残れる。やがて大きくなった子供たちの中で、えり羽根が一際目立つウズラがいた。これが赤銅色の素晴らしいえり羽根を持つ、赤えりウズラである。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214621←前話｜次話→so32214724　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32214622
+  default_thread_id: 1509781584
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214622
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 白いトナカイの伝説
+  description: リーダー｢バーシムレ｣の子供として産まれた白いトナカイの子は、かしこい母親から様々なことを学んだ。やがて、｢ストルバック｣と呼ばれ、群のリーダーに成長した。村の老人スベッガムはストルバックを調教し、様々なレースで優勝したが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214622←前話｜次話→so32214725　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214724
+  default_thread_id: 1509783233
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214724
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: りっぱになった犬ビリー
+  description: いたずら好きで無鉄砲なビリーは、飼い主のボブを毎日のように困らせていた。本当はもう猟犬の仲間入りをしなくてはならないのだが、役に立たず、猟にも連れていってもらえなかった。ある日ボブは、千鳥足と呼ばれる灰色熊を狩りに、猟犬たちと出掛けた。ところがビリーもついてきてしまった…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214724←前話｜次話→so32214726　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32214725
+  default_thread_id: 1509783230
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214725
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: サンドヒルの雄ジカ
+  description: 19歳の猟師ヤンは、サンドヒルの丘で枯れ枝のように大きな角を持つ気高く美しい雄ジカに出会う。立派な獲物を仕留めて、一人前の猟師になりたいと考えていたヤンは、猟師仲間と別れ、一人でサンドヒルの雄ジカを追い始めた。しかし、銃を構えたヤンが見たものは…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214725←前話｜次話→so32214727　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214726
+  default_thread_id: 1509782786
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214726
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 狼王ロボ（前編）
+  description: カランポー平原に君臨する狼王ロボは5頭の部下を従え次々と牧場を襲っていた。ロボの首には1,000ドルの賞金が掛けられたが、ロボは毒のエサも鋼鉄の罠をも見破り、ハンターたちを翻弄していた。困った牧場主たちはシートンを呼び、何とかロボを捕まえようとした。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214726←前話｜次話→so32214728　第一話→so32214328
+  length_seconds: 1443
+  content_id: so32214727
+  default_thread_id: 1509783254
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214727
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 狼王ロボ（後編）
+  description: ロボの妻ブランカを捕らえる事に成功したシートンたちは、ロボに様々な罠を仕掛ける。最愛の妻を失ったロボは、悲しみのあまり、いつもの用心深さがなくなり、シートンたちのいる牧場に単独で向かう。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214727←前話｜次話→so32214729　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214728
+  default_thread_id: 1509783239
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214728
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 名犬ビンゴ
+  description: わんぱくな犬、ビンゴを飼っていた若きシートンは、近所にビンゴを預け引っ越すことに…。だが長い間会うことのなかった彼らが久しぶりに再会した時、シートンの起こした不注意な事故をきっかけに心を通わせていた事を知る。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214728←前話｜次話→so32214730　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32214729
+  default_thread_id: 1509783256
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214729
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: キルダー川のあらいぐま
+  description: いたずら好きのあらいぐまウェイ・アッチャは、ある日お母さんのもとを離れて人間の仕掛けた罠に捕まってしまう。人間の家に連れて来られたウェイ・アッチャは一人前のあらいぐまに成長して野性の生活に戻れるのだろうか？<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214729←前話｜次話→so32214830　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32214730
+  default_thread_id: 1509783240
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214730
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: カラスの隊長　シルバースポット
+  description: カラスの大群を率いるシルバースポットはとても賢く、仲間にエサのとり方や危険を避ける知恵などを教えていた。そしてシルバースポットはリーダーとして毎日繰り返される天敵との戦いでも勇敢に立ち向っていった…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214730←前話｜次話→so32214831　第一話→so32214328
+  length_seconds: 1416
+  content_id: so32214830
+  default_thread_id: 1509784050
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214830
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 暴れ猿ジニー
+  description: 過去に受けた暴力から人間を恐れるようになっていた暴れ猿のジニーは移動動物園に送られ、飼育係のボナミーと出会う。ボナミーはジニーと友達になろうと一生懸命に世話をし、少しずつ心を通わせるようになるのだが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214830←前話｜次話→so32214887　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214831
+  default_thread_id: 1509784052
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214831
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 子熊のジョニー
+  description: 子熊のジョニーは右足がなぜか痩せていて満足に動かせないが、その愛くるしい仕草で自然公園に訪れる人々の人気者だった。冬の近づくある日、母熊に突然置いて行かれたジョニーはホテルで飼われることになるが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214831←前話｜次話→so32214941　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32214887
+  default_thread_id: 1509784585
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214887
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: スプリングフィールドのキツネ
+  description: キツネ夫婦に次々とニワトリを襲われた一家はキツネ退治にのり出し、父キツネと子供たちを…。運良く助かった1匹の子ギツネだけは家で飼い始めるが、子供を心配する母ギツネが毎夜庭までエサを持ってくるようになる。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214887←前話｜次話→so32214942　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32214941
+  default_thread_id: 1509785556
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214941
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 暴れ馬コーリー・ベィ
+  description: 人間の手に負えない暴れ馬のコーリーは安い値段で牧場に売られ、調教されることに。だがコーリーは調教師の言うことを聞かず乱暴を受けてしまう。そんな姿を見て心を痛める少年ジョンは唯一、コーリーの味方だった。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214941←前話｜次話→so32214943　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214942
+  default_thread_id: 1509785266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214942
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 勇気ある子犬スナップ
+  description: 白いブルテリア犬のスナップは、強いものにも勇敢に立ち向う恐いもの知らずの犬だった。そんな勇気を買われたスナップは狼狩りに連れ出されることになり、期待通り狼に対しても恐れることなく立ち向うのだが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214942←前話｜次話→so32214944　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32214943
+  default_thread_id: 1509785263
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214943
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: アナグマと少年
+  description: 動物のマネをするのが大好きな少年ハリーはある日、森で道に迷い、穴の中で眠ってしまう。目覚めた彼はそこがアナグマの巣だと知り驚くが、子供を亡くしたアナグマに育てられ楽しく過ごし始める。ところが2週間後…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214943←前話｜次話→so32214945　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32214944
+  default_thread_id: 1509785268
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214944
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: マガモ親子の冒険旅行
+  description: 何日も雨の降らない日が続き、干上がってしまった池でマガモのヒナが10羽生まれた。母ガモは、水のある池までヒナを連れて危険な旅に出なければならない。その道中、一番のチビスケがタカに襲われてしまう。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214944←前話｜次話→so32214946　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32214945
+  default_thread_id: 1509785558
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214945
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 歌うスズメの冒険
+  description: カナリアと一緒に育てられ美しい声で歌えるようになったスズメのランディは、飼われていたカゴから逃げ出し大空へ飛び出した。やがてお嫁さんをもらったランディは様々な困難を乗り越え、幸せな家庭を築こうとする。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214945←前話｜次話→so32215047　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32214946
+  default_thread_id: 1509785555
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32214946
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 灰色熊ワーブの一生（前編）
+  description: ワーブは3匹の兄弟と母熊に囲まれて暮していた。母熊に食べ物の獲り方や生きる術を教えられ、4匹の兄弟はすくすくと成長していたが、子供たちを守るため大きな敵とも戦う強い母熊も人間の持つ銃には勝てなかった…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32214946←前話｜次話→so32215048　第一話→so32214328
+  length_seconds: 1443
+  content_id: so32215047
+  default_thread_id: 1509786457
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32215047
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 灰色熊ワーブの一生（後編）
+  description: 母と兄弟を一度に失ったワーブは独りで食糧を見つけ生きていかねばならなかったが、母に教えられたことを思い出し大きく成長していく…。やがて森の王者となったワーブは、家族の思い出を胸に孤独な一生を歩み始める。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32215047←前話｜次話→so32215049　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32215048
+  default_thread_id: 1509786716
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32215048
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 立派になったコヨーテ
+  description: 人間にひどい仕打ちを受け、多くを学んだコヨーテのティトーは、人間社会を抜け出し山へ戻る。家畜を襲う方法や罠を見抜く方法を知るティトーはコヨーテにとって重要な存在に、人間にとっては邪魔な存在になっていく。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32215048←前話｜次話→so32217891　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32215049
+  default_thread_id: 1509786332
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32215049
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: イエローストーンの銀ギツネ
+  description: 小さな牧場の息子ジョッシュは、死んだ父親の分まで毎日、必死で働いていた。しかし、借金500ドルを返すほどの額にはとても追いつかない。ある日、ジョッシュは立派な毛皮を持った銀ギツネに出会い、その毛皮は500ドルで売れることを知った。借金の返済に困ったジョッシュは、銀ギツネの密猟を考える。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32215049←前話｜次話→so32217892　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32217891
+  default_thread_id: 1509816572
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217891
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 森の妖精コウモリの冒険
+  description: ふっくらとした毛皮と広々とした翼を持つコウモリ。｢アタラファ｣と呼ばれるコウモリはお母さんコウモリから色々な事を習った。やがて、若いコウモリの中で一番素晴らしい飛びかたをするようになった。そしてアタラファたちは、本能に従い、南へ飛びたった。たくましくなったアタラファを先頭に…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217891←前話｜次話→so32245217　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32217892
+  default_thread_id: 1509816446
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217892
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: すばらしき鹿の仲間たち
+  description: 3年前、銃の暴発で鹿を殺してしまったカメラマンは、償いのため写真で鹿のすばらしさを伝えようと森や平原に足を運んでいた。だがヘラ鹿をカメラに収めようとシャッターを押した時、鹿を興奮させてしまい思わぬ事故を引き起こしてしまう。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217892←前話｜次話→so32217893　第一話→so32214328
+  length_seconds: 1415
+  content_id: so32245217
+  default_thread_id: 1510287415
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245217
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: バッドランドの狼
+  description: 家族を一度に失った子供の狼は、ある牝狼の家族に迎え入れられた。ある日、新しい母親は毒のエサを食べてしまい、母乳を飲んだ子供たちは死んでしまった。迎え入れられた子供の狼を残して…。やがてその狼はバッドランドのビリーと呼ばれ、人々から恐れられるようになった。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32245217←前話｜次話→so32217894　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32217893
+  default_thread_id: 1509816574
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217893
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: ウィンディゴールの雁
+  description: 黒い頭部に真っ白な頬が印象的な美しい鳥、カナダ雁。ジョンはウィンディゴールの湖につがいの雁を離す。すぐ飛べないように風切羽を切って…。アダムとイヴと名付けられた2羽は6羽のヒナを産んだ。やがて秋がきて、本能に従い南に飛び立とうとするが、アダムとイヴは飛び立つことができない。8羽の雁は、厳しい冬を湖で越す。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217893←前話｜次話→so32217981　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32217894
+  default_thread_id: 1509816592
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217894
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: おもしろい灰色熊
+  description: 大きなイビキをかいて、寝ることから｢イビキ｣と名付けられた灰色熊。イビキは、テントやホテルに現われては食べ物を漁っていた。ホテルのバーには毎晩のように現われ、ビールを飲んでいた。ある日、イビキはいつも通りゴミを漁っていたが、前足に缶が挟まり、抜けなくなってしまう。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217894←前話｜次話→so32217982　第一話→so32214328
+  length_seconds: 1414
+  content_id: so32217981
+  default_thread_id: 1509818281
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217981
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: ポプラの森のビーバー
+  description: ビーバー家族の3匹の子供の中の末っ子ビーバーはある日、大雨でダムが決壊し、濁流に飲み込まれてしまった。末っ子ビーバーは奇跡的に助かるも、親や兄弟から遠く離されてしまう。末っ子ビーバーは、トビやナマズに襲われながらも、兄弟たちの元に戻ろうと上流を目指す。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217981←前話｜次話→so32217983　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32217982
+  default_thread_id: 1509818365
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217982
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 踊るカンガルーネズミ
+  description: 家の周りで動物たちの足跡の観察をしていた若きシートンは、不思議な足跡を見つける。疑問に思ったシートンは生け捕り用の罠でその動物を捕えた。動物の正体はカンガルーネズミだった。シートンはこの牝のカンガルーネズミに｢ディー｣と名付け、観察を始めた。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217982←前話｜次話→so32217984　第一話→so32214328
+  length_seconds: 1412
+  content_id: so32217983
+  default_thread_id: 1509818261
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217983
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: 秋に歌うコガラたち
+  description: トーマスじいさんの牧場に遠い町から孫娘のメアリーがやってきていた。病気がちなメアリーに友だちのジョンはコガラのヒナをプレゼントする。メアリーはヒナをかわいがり、元気になっていった。ヒナはやがて大きくなり、メアリーはコガラを森に放すが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217983←前話｜次話→so32218061　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32217984
+  default_thread_id: 1509818259
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32217984
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 大きな森の小さなスカンク
+  description: "｢キュート｣は親と離れてしまった子供のスカンク。まだ幼いため獲物を捕るのも、身の守りかたも上手くない。ある日、キュートはヤマネコに襲われる。身の守りかたを知らないキュートは必死で逃げる。そこに一匹のスカンクが現われ、ヤマネコを追い払う。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32217984←前話｜次話→so32218062　第一話→so32214328"
+  length_seconds: 1413
+  content_id: so32218061
+  default_thread_id: 1509820101
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32218061
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: 大平原のプレリードッグ
+  description: ボビーは大草原に住むプレリードッグ。5月の若葉の頃、ボビーの巣穴にも子供が産まれた。草原に住むボビーたちにはたくさんの敵がいる。ボビーは自分の身を守るため、家族を守るため様々な敵と戦う…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32218061←前話｜次話→so32218063　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32218062
+  default_thread_id: 1509820041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32218062
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 荒野に生きる猛牛バイソン
+  description: 雄は体長3.5m、1t以上にもなるアメリカバイソン。このアメリカ大陸、最大の哺乳動物は、かつて5〜6千万頭も、アメリカ大陸に住んでいた。バイソンはコウウチョウと共存し、大自然の中で平和に暮らしていた。しかし、アメリカの開拓の歴史の中で多くのバイソンが人間たちの犠牲になっていった。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32218062←前話｜次話→so32218064　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32218063
+  default_thread_id: 1509820082
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32218063
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話（最終話）
+  title: 森を守る小さなアカリス
+  description: ただ忙しく走りまわっているだけに見える、この小さな動物アカリスは、森にとって大事な存在になっている。母親リス｢タミー｣は4匹の子供たちを産んだ。冬に向け、タミーは、松の実やきのこを集めたり大忙し。ある日、巣の中にダニが発生、タミーは、子供たちを連れて引越しをするが…。<br><br>シートン:中田浩二<br><br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他<br><br>so32218063←前話　第一話→so32214328
+  length_seconds: 1413
+  content_id: so32218064
+  default_thread_id: 1509820121
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32218064
+cast: "[キャスト]<br>シートン:中田浩二"
+staff: "[スタッフ]<br>原作:アーネスト・トムソン・シートン　シートン動物記　完訳版（集英社刊）／監督:白土　武／キャラクター監修:小林勝利／美術監督:松宮正純／音楽:大谷　幸、他"
+produced_year: "[製作年]<br>1989年"
+copyright: "（Ｃ）アーネストＴシートン・エイケン"
+related_seasons: !ruby/array:Hashie::Array []

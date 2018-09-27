@@ -1,0 +1,58 @@
+--- !ruby/hash:SeasonHash
+title: プロジェクトA子 完結編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/7/10167_1_6.png?1427216400000
+outline: 1986年に劇場用作品として第一作が公開され、続編としてＯＶＡが２作作られた人気シリーズの完結編。全編笑いとパワーに満ちたハチャメチャ学園コメディ。今回はキャラクターデザインのもりやまゆうじが監督以外に共同で脚本もつとめる。天然ボケの寿詩子（Ｃ子）をはさみ、相変わらず熾烈な争いを繰り広げる怪力元気娘の摩神英子（Ａ子）と英子のライバル大徳寺美子（Ｂ子）。だが、彼女たちの争いにも、ついに終わりのくるときが…？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 音楽：羽田健太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：もりやまゆうじ
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：森川滋
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：もりやまゆうじ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：川崎知子
+  type: staff
+- !ruby/hash:TagHash
+  name: プロジェクトA子シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
+  type: other
+- !ruby/hash:TagHash
+  name: 東潤一
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: プロジェクトA子 完結編
+  description: 1986年に劇場用作品として第一作が公開され、続編としてＯＶＡが２作作られた人気シリーズの完結編。全編笑いとパワーに満ちたハチャメチャ学園コメディ。今回はキャラクターデザインのもりやまゆうじが監督以外に共同で脚本もつとめる。天然ボケの寿詩子（Ｃ子）をはさみ、相変わらず熾烈な争いを繰り広げる怪力元気娘の摩神英子（Ａ子）と英子のライバル大徳寺美子（Ｂ子）。だが、彼女たちの争いにも、ついに終わりのくるときが…？<br><br>伊藤美紀:魔神英子／篠原恵美:大徳寺美子／富沢美智恵:寿詩子／向殿あさみ:亜弓先生／池田秀一:キャプテン／玄田哲章:Ｄ・結城桂／武藤礼子:桂の母／小粥よう子:あさ／鷹森淑乃:いね／林原めぐみ:うめ<br><br>監督:もりやまゆうじ／演出:森川滋／脚本:もりやまゆうじ、川崎知子／美術:東潤一／音楽:羽田健太郎
+  length_seconds: 3198
+  content_id: so32145890
+  default_thread_id: 1508747512
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145890
+cast: "[キャスト]<br>伊藤美紀:魔神英子／篠原恵美:大徳寺美子／富沢美智恵:寿詩子／向殿あさみ:亜弓先生／池田秀一:キャプテン／玄田哲章:Ｄ・結城桂／武藤礼子:桂の母／小粥よう子:あさ／鷹森淑乃:いね／林原めぐみ:うめ"
+staff: "[スタッフ]<br>監督:もりやまゆうじ／演出:森川滋／脚本:もりやまゆうじ、川崎知子／美術:東潤一／音楽:羽田健太郎"
+produced_year: "[製作年]<br>1989年"
+copyright: "(C)ファイナル-西島-もりやま/創映新社・ポニーキャニオン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子2 大徳寺財閥の陰謀
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子3 シンデレララプソディ
+- !ruby/hash:SeasonHash
+  title: A-Ko The VS ＜ヴァーサス＞「GRAY SIDE」
+- !ruby/hash:SeasonHash
+  title: A-Ko The VS ＜ヴァーサス＞「BLUE SIDE」

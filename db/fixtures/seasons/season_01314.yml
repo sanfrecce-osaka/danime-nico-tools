@@ -1,0 +1,105 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life (ピーピング・ライフ) 5.0.ch
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/65/6/10656_1_6.png?1427216400000
+outline: 笑い脱力系の即興芝居とCGアニメーションを融合させた、ムダ使いCGアニメ・ショートコメディー。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: サノシュンスケ
+  type: cast
+- !ruby/hash:TagHash
+  name: 森りょういち
+  type: cast
+- !ruby/hash:TagHash
+  name: 和田琢磨
+  type: cast
+- !ruby/hash:TagHash
+  name: ムラヤマ・J・サーシ
+  type: cast
+- !ruby/hash:TagHash
+  name: わたざわみちよ
+  type: cast
+- !ruby/hash:TagHash
+  name: さとうとよこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 下平さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤真輝子
+  type: cast
+- !ruby/hash:TagHash
+  name: 郷拓郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 大西洋平
+  type: cast
+- !ruby/hash:TagHash
+  name: 武居康仁
+  type: cast
+- !ruby/hash:TagHash
+  name: 本間智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-5"
+  title: AD二人のお弁当／局内掃除のおばちゃん／警備員と押し問答!?／アナウンサーといとこの中学生 パート2／音楽で遊ぼう♪のコーナー
+  description: 番組収録後、残ってしまった弁当をどうするか考えるAD二人。話が進むにつれ、思いもよらぬ方向に展開してゆく…。／局内掃除の仕事を終え一段落した二人のおばさん。話題は掃除の合い間に見た芸能人で大盛り上がりしてゆく…。／テレビ局の通行証を忘れてしまった女性アナウンサー。警備員にどうしても局内に入れてもらおうとするのだが…／お姉さんがテレビ局のアナウンサーだと言うことに疑心暗鬼のいとこのコータ。芸能人に会いたいと言い出すのだが…／音楽番組｢音楽で遊ぼう♪｣のコーナーに新曲紹介のために出演したピンクピボッツ。ナビゲーターに合わせようとするのだが…<br><br>キャスト:郷
+    拓郎、サノシュンスケ、わたざわみちよ、さとうとよこ、下平さやか、大西洋平、本間智恵、森 りょういち、和田琢磨、武居康仁、ムラヤマ・J・サーシ、加藤真輝子、松本
+    剛<br><br>監督:森りょういち<br><br>次話→so31880527
+  length_seconds: 1499
+  content_id: so31880526
+  default_thread_id: 1504734269
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880526
+- !ruby/hash:EpisodeHash
+  episode_no: "#6-#10"
+  title: 中学生、アナウンサーへの道／芸人殺しのプロデューサー／カメラマンを好きになったら／局長のギョーカイ用語講座／ナレーション収録の現場にて
+  description: 保健係の遅い集まりに時間を持て余している中学生二人。すごく声がいいことで、声変わりの話題になってゆくのだが…。／収録前のスタジオ裏でプロデューサーと若手芸人が初対面。プロデューサーから芸を見せてくれと頼まれるのだが…／収録前のスタジオ裏でプロデューサーと若手芸人が初対面。プロデューサーから芸を見せてくれと頼まれるのだが…／局長に高級寿司屋に呼ばれたAD。業界のイロハの説明を受けるのだが…／スタジオでのナレーション収録現場。女性アナウンサーに無理難題を押し付けてくるディレクターなのだが…<br><br>キャスト:郷
+    拓郎、サノシュンスケ、わたざわみちよ、さとうとよこ、下平さやか、大西洋平、本間智恵、森 りょういち、和田琢磨、武居康仁、ムラヤマ・J・サーシ、加藤真輝子、松本
+    剛<br><br>監督:森りょういち<br><br>so31880526←前話　第一話→so31880526
+  length_seconds: 1499
+  content_id: so31880527
+  default_thread_id: 1504734271
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880527
+cast: "[キャスト]<br>キャスト:郷 拓郎、サノシュンスケ、わたざわみちよ、さとうとよこ、下平さやか、大西洋平、本間智恵、森 りょういち、和田琢磨、武居康仁、ムラヤマ・J・サーシ、加藤真輝子、松本
+  剛"
+staff: "[スタッフ]<br>監督:森りょういち"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)FOREST Hunting One/ CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

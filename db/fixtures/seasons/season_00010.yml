@@ -1,0 +1,96 @@
+--- !ruby/hash:SeasonHash
+title: あいまいみー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/96/3/10963_1_6.png?1427216400000
+outline: 高校漫研部の愛は漫画家を目指し真面目に原稿に取り組むが、麻衣とミイの激し過ぎるボケに振り回され……。侵略者の襲来や、逆立ちし回転しながらおしっこをしたら花が咲いたなど、予測不能な展開が続々。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 天津向
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：セブン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：羽鳥風画
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：いまざきいつき
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ちょぼらうにょぽみ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：いまざきいつき
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：いまざきいつき
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：いまざきいつき
+  type: staff
+- !ruby/hash:TagHash
+  name: あいまいみーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+- !ruby/hash:TagHash
+  name: ドリームクリエイション
+  type: other
+- !ruby/hash:TagHash
+  name: 川添憲五
+  type: other
+- !ruby/hash:TagHash
+  name: AT-X
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第6話
+  title: えんもたけなわ／いきがい／きかいのからだ／度胸MAX人間／跳躍2.6次元／ねとげはいじん
+  description: 漫研所属の女子高生、愛、麻衣、ミイの日常とは……？？／愛の漫画を邪魔する麻衣とミイ。果たして原稿は完成するのか？！／漫画対決を挑まれた麻衣は機械の身体を手に入れたが……。／ミイの度胸自慢にエスカレートする麻衣の要求はあらぬ方向へ！？？／ある日、気付けば部室は異次元に。一同の運命は……？／ネットゲームにハマって不登校のミイの元へ駆けつけた三人だが……。<br><br>愛役:大坪由佳／麻衣役:内田彩／ミイ役:内田真礼／ぽのか先輩:茅野愛衣／ナレーション:天津
+    向<br><br>監督・脚本・演出・キャラクターデザイン:いまざきいつき／音響監督:川添憲五／音楽:羽鳥風画／主題歌制作:studio CHANT／制作プロダクション:ドリームクリエイション／音響制作:ダックスプロダクション／アニメーション制作:セブン／製作著作:倉持南高校漫画研究部(竹書房・SPO・AT-X)<br><br>次話→so31934357
+  length_seconds: 1117
+  content_id: so31887791
+  default_thread_id: 1504850176
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31887791
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話～第13話
+  title: ねこひろい／原稿邪魔して牢屋行き／FX／犬型／バタートランス仙人／大怪獣現る／それでは皆様、宴も酣では御座いますが。
+  description: 可愛い捨て猫を拾った愛達は部室で世話することにしたのだが……。／いつものように愛の原稿を邪魔する麻衣とミイだが、今回の愛は一味違っていた。／なんだか様子のおかしいぽのか先輩を心配する愛達だが……。ぽのかに何があったのか？／学校に迷い込んだ犬の登場にテンションをあげる一同。ふとひらめいた麻衣の秘策とは！？／昔々、あるところに住んでいたミイというだらしない人間の生き様。／怪獣好きの麻衣のためについた愛の嘘が現実になってしまう！？？／危篤状態になったミイ。心配して集まる一同だが……。ミイの運命は？<br><br>愛役:大坪由佳／麻衣役:内田彩／ミイ役:内田真礼／ぽのか先輩:茅野愛衣／ナレーション:天津
+    向<br><br>監督・脚本・演出・キャラクターデザイン:いまざきいつき／音響監督:川添憲五／音楽:羽鳥風画／主題歌制作:studio CHANT／制作プロダクション:ドリームクリエイション／音響制作:ダックスプロダクション／アニメーション制作:セブン／製作著作:倉持南高校漫画研究部(竹書房・SPO・AT-X)<br><br>so31887791←前話　第一話→so31887791
+  length_seconds: 1309
+  content_id: so31934357
+  default_thread_id: 1505541325
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31934357
+cast: "[キャスト]<br>愛役:大坪由佳／麻衣役:内田彩／ミイ役:内田真礼／ぽのか先輩:茅野愛衣／ナレーション:天津 向"
+staff: "[スタッフ]<br>監督・脚本・演出・キャラクターデザイン:いまざきいつき／音響監督:川添憲五／音楽:羽鳥風画／主題歌制作:studio CHANT／制作プロダクション:ドリームクリエイション／音響制作:ダックスプロダクション／アニメーション制作:セブン／製作著作:倉持南高校漫画研究部(竹書房・SPO・AT-X)"
+produced_year: "[製作年]<br>2013年"
+copyright: "（C）ちょぼらうにょぽみ／竹書房　倉持南高校漫画研究部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: あいまいみー～Surgical Friends～
+- !ruby/hash:SeasonHash
+  title: あいまいみー～妄想カタストロフ～

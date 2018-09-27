@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: Dragon’s Heaven
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/1/10821_1_6.png?1427216400000
+outline: 人類と機械生命体との長い戦争は、機械生命を全滅させる人類側の勝利により終局を迎えた。傷ついた戦闘ロボット“シャイアン”はオペレーターの人間を失って深い眠りにつく。それから1000年の時が流れ、少女イクールに反応し“シャイアン”は目覚める。しかし、形を変えてはいるが戦争は続いていた。少女イクールを新しいオペレーターとして戦闘ロボット“シャイアン”は完全復活！“竜の火”と恐れられた超兵器を使って、邪悪な機械生命体“エルメダイン”を迎え撃つ！1000年の時を超え、今また人類と機械生命体の壮絶な戦いが始まろうとしている！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 富山敬
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆口裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 家弓家正
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：岩崎文紀
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平野俊弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田隆宣
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小林誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：福本潔
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増崎孝司
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：鴻上育世
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：小林誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+- !ruby/hash:TagHash
+  name: 本田保則
+  type: other
+- !ruby/hash:TagHash
+  name: 三浦亨
+  type: other
+- !ruby/hash:TagHash
+  name: 鈴木敏充
+  type: other
+- !ruby/hash:TagHash
+  name: 田崎廣
+  type: other
+- !ruby/hash:TagHash
+  name: 藤田純二
+  type: other
+- !ruby/hash:TagHash
+  name: 小林治
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: Dragon’s Heaven
+  description: 人類と機械生命体との長い戦争は、機械生命を全滅させる人類側の勝利により終局を迎えた。傷ついた戦闘ロボット“シャイアン”はオペレーターの人間を失って深い眠りにつく。それから1000年の時が流れ、少女イクールに反応し“シャイアン”は目覚める。しかし、形を変えてはいるが戦争は続いていた。少女イクールを新しいオペレーターとして戦闘ロボット“シャイアン”は完全復活！“竜の火”と恐れられた超兵器を使って、邪悪な機械生命体“エルメダイン”を迎え撃つ！1000年の時を超え、今また人類と機械生命体の壮絶な戦いが始まろうとしている！！<br><br>イクール:皆口
+    裕子／シャイアン:家弓 家正／エルメダイン:富山 敬<br><br>原作・監督:小林 誠／企画:鈴木敏充／製作:藤田純二／プロデューサー:田崎 廣・三浦 亨／キャラクターデザイン:平野俊弘／メカニックデザイン:小林
+    治／演出:福本 潔／脚本:鴻上育世／作画監督:斉藤 格／メカ作画監督:仲 盛文、矢野 淳／美術監督:中野一朗／色指定:三笠 修／撮影監督:小沢次雄／ミニチュア
+    エフェクト アシスタント:チーフ 韮沢 靖、竹谷隆之／モデラー:灰谷拓谷 ほか／音響監督:本田 保則／音楽:岩崎文紀、増田隆宣、増崎孝司
+  length_seconds: 2550
+  content_id: so32036645
+  default_thread_id: 1507006958
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036645
+cast: "[キャスト]<br>イクール:皆口 裕子／シャイアン:家弓 家正／エルメダイン:富山 敬"
+staff: "[スタッフ]<br>原作・監督:小林 誠／企画:鈴木敏充／製作:藤田純二／プロデューサー:田崎 廣・三浦 亨／キャラクターデザイン:平野俊弘／メカニックデザイン:小林
+  治／演出:福本 潔／脚本:鴻上育世／作画監督:斉藤 格／メカ作画監督:仲 盛文、矢野 淳／美術監督:中野一朗／色指定:三笠 修／撮影監督:小沢次雄／ミニチュア
+  エフェクト アシスタント:チーフ 韮沢 靖、竹谷隆之／モデラー:灰谷拓谷 ほか／音響監督:本田 保則／音楽:岩崎文紀、増田隆宣、増崎孝司"
+produced_year: "[製作年]<br>1988年"
+copyright: "（Ｃ）1988小林誠・ＡＩＣ・東芝ＥＭＩ"
+related_seasons: !ruby/array:Hashie::Array []

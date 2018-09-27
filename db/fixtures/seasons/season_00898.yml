@@ -1,0 +1,73 @@
+--- !ruby/hash:SeasonHash
+title: 超神姫ダンガイザー3
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/83/1/10831_1_6.png?1427216400000
+outline: 旧沖縄の洋上に建造された近未采都市・ネオ香港。その裏側に、独目の生体ネットワークを持つ秘密組織があった、その名は”ゴーマ”。地のD.D、風のディーネ、火のサーファイア、そして水のピクシス。彼らゴーマ四天王は、ダンガイザーの復活阻止を画策していた。シンディ、麗華、そして陽菜。3人のエタ一ナル・マザリアの覚醒により甦ったダンガイザー。ゴーマの刺客・チュードルクードとの壮絶なバトルに炎上するネオ香港。だが、覚醒したばかりの陽菜は、この闘いの恐怖と、その意昧を理解していなかった……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 池澤春菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：大張正己
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：大張正己
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：青樹零夢
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ACT1
+  title: "「神姫転生｣"
+  description: 旧沖縄の洋上に建造された近未来都市・ネオ香港。その裏側に、独目の生体ネットワークを持つ秘密組織があった、その名は”ゴーマ”。地のD.D、風のディーネ、火のサーファイア、そして水のピクシス。彼らゴーマ四天王は、それぞれの素粒子形状神体を操りダンガイザーの復活阻止を画策していた…。<br><br>声:池澤春菜、桑島法子<br><br>原作:大張正己/青樹零夢／
+    監督:大張正己<br><br>次話→so31921955
+  length_seconds: 1689
+  content_id: so31921954
+  default_thread_id: 1505371952
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31921954
+- !ruby/hash:EpisodeHash
+  episode_no: ACT2
+  title: "「哀ゆえに…聖炎の魔性｣"
+  description: 3人のエターナル・マザリアの覚醒により甦ったダンガイザー。ゴーマの刺客・チュードルクードとの壮絶なバトルに炎上するネオ香港。だが覚醒したばかりの陽菜は、この戦いの恐怖と、その意味を理解していなかった。やがて、そのけた外れのパワーを見せつけるダンガイザー。その時、ゴーマ守護神体・獣魔騎竜ガイアフレームがその姿を現わす…。<br><br>声:池澤春菜、桑島法子<br><br>原作:大張正己/青樹零夢／
+    監督:大張正己<br><br>so31921954←前話｜次話→so31921956　第一話→so31921954
+  length_seconds: 1738
+  content_id: so31921955
+  default_thread_id: 1505372045
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31921955
+- !ruby/hash:EpisodeHash
+  episode_no: ACT3
+  title: "「月華の挑戦 ～破壊天使アイリーン～ ｣"
+  description: 壮絶な市街戦が展開したネオ香港。国連事務総長は首都防衛のため、国連艦隊の出動を要請していた。一方、陽菜は自分がDNA計画(ダン・プロジェクト)と呼ばれる計画を遂行するために存在する巫女なのだという事実を聞く。しかし、宿敵ゴーマが恐れるというダンガイザーのジャッジ・システムについては、シンディもレイカも決して説明してくれることはなかった。実は、このジャッジ・システムこそ、一度発動すれば決して止めることのできない、人類すべての明暗を分ける運命の歯車だったのだ…。<br><br>声:池澤春菜、桑島法子<br><br>原作:大張正己/青樹零夢／
+    監督:大張正己<br><br>so31921955←前話｜次話→so31921957　第一話→so31921954
+  length_seconds: 1717
+  content_id: so31921956
+  default_thread_id: 1505372174
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31921956
+- !ruby/hash:EpisodeHash
+  episode_no: ACT4
+  title: "「復活!!海底遺跡大血戦｣"
+  description: 宿敵｢ゴーマ｣が恐れるダンガイザーを呼び出した巫女たち。ディーネとピクシスの執拗な攻撃に、ついにダンガイザーは第三形態へと変化を開始する。そして・・・壮絶な戦いの果て、遂にダンガイザーのジャッジシステム(自己防衛機能)が起動する!!何者にも止められない、ジャッジシステム。ダンガイザー、巫女、四大文明の共通炉心システム。その全てが一つに繋がったとき、恐るべきパワーが放たれる!<br><br>声:池澤春菜、桑島法子<br><br>原作:大張正己/青樹零夢／
+    監督:大張正己<br><br>so31921956←前話　第一話→so31921954
+  length_seconds: 1769
+  content_id: so31921957
+  default_thread_id: 1505372236
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31921957
+cast: "[キャスト]<br>声:池澤春菜、桑島法子"
+staff: "[スタッフ]<br>原作:大張正己/青樹零夢／ 監督:大張正己"
+produced_year: "[製作年]<br>1999年"
+copyright: "©1999 大張正己・青樹零夢/フランス書院・Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

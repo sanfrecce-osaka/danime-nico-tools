@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/85/7/20857_1_6.png?1457509285000
+outline: フロンティアを旅する拓也たちは、デジタルワールドの外れで人型と獣型デジモンの闘いに巻き込まれてしまう。それぞれのデジモンたちに手厚い歓迎を受ける一行は、しばらくして、島の人型族と獣型族が激しく対立していることを知る。対立の理由を調査していくうちに明らかになる驚くべき事実と敵の正体…。拓也たちは永きにわたる闘いに終止符を打つことができるのだろうか！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹内順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石毛佐和
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉山佳寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 四反田マイケル
+  type: cast
+- !ruby/hash:TagHash
+  name: 上原多香子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：有澤孝紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：本郷あきよし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：今村隆寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：和田光司
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
+  description: フロンティアを旅する拓也たちは、デジタルワールドの外れで人型と獣型デジモンの闘いに巻き込まれてしまう。それぞれのデジモンたちに手厚い歓迎を受ける一行は、しばらくして、島の人型族と獣型族が激しく対立していることを知る。対立の理由を調査していくうちに明らかになる驚くべき事実と敵の正体…。拓也たちは永きにわたる闘いに終止符を打つことができるのだろうか！？<br><br>神原拓也:竹内順子／源輝二:神谷浩史／柴山純平:天田真人／織本泉:石毛佐和／氷見友樹:渡辺久美子／ネーモン:菊池正美／ポコモン:杉山佳寿子／ダルクモン:上原多香子<br><br>原案:本郷あきよし／監督:今村隆寛／脚本:富田祐弘／音楽:有澤孝紀／主題歌:｢FIRE！！｣和田光司
+  length_seconds: 2436
+  content_id: so32637721
+  default_thread_id: 1516870536
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32637721
+cast: "[キャスト]<br>神原拓也:竹内順子／源輝二:神谷浩史／柴山純平:天田真人／織本泉:石毛佐和／氷見友樹:渡辺久美子／ネーモン:菊池正美／ポコモン:杉山佳寿子／ダルクモン:上原多香子"
+staff: "[スタッフ]<br>原案:本郷あきよし／監督:今村隆寛／脚本:富田祐弘／音楽:有澤孝紀／主題歌:｢FIRE！！｣和田光司"
+produced_year: "[製作年]<br>2002年"
+copyright: "©本郷あきよし・東映アニメーション　©東映・東映アニメーション・バンダイ・読売広告社・集英社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02
+- !ruby/hash:SeasonHash
+  title: 劇場版 デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー　ぼくらのウォーゲーム
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 前編 デジモンハリケーン上陸！！ 後編 超絶進化！！黄金のデジメンタル
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 ディアボロモンの逆襲
+- !ruby/hash:SeasonHash
+  title: デジモンテイマーズ 冒険者たちの戦い
+- !ruby/hash:SeasonHash
+  title: デジモンテイマーズ 暴走デジモン特急
+- !ruby/hash:SeasonHash
+  title: デジモンユニバース アプリモンスターズ
+- !ruby/hash:SeasonHash
+  title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～

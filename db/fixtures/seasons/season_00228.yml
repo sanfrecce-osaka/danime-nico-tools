@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: お姉ちゃんが来た
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/34/0/11340_1_6.png?1427216400000
+outline: 父親が再婚して、変なお姉ちゃんができた朋也(13歳中学生)は、そのお姉ちゃんの愛に困惑中!また、そのお姉ちゃん一香(17歳高校生)は困惑する朋也の表情もかわいいっといい、写真を撮ったり、後をつけまわして学校などに行くのだが…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小林ゆう
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 南央美
+  type: cast
+- !ruby/hash:TagHash
+  name: 木戸衣吹
+  type: cast
+- !ruby/hash:TagHash
+  name: 浜田賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 富樫美鈴
+  type: cast
+- !ruby/hash:TagHash
+  name: 長妻樹里
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 髙橋孝治
+  type: cast
+- !ruby/hash:TagHash
+  name: 森沢芙美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：羽鳥風画
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：C2C
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小田武士
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：夕澄慶英
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：studio CHANT
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：安西理晃
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: まんがライフMOMO
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ドキドキ♡1『キター!キター!』 他
+  description: ドキドキ♡1『キター!キター!』/ドキドキ♡2『学校にキター!』/ドキドキ♡3『お姉ちゃんズがキター!』/ドキドキ♡4『コウ派な孝喜がキター!』/ドキドキ♡5『水着､キター!』/ドキドキ♡6『イケメンキター!』<br><br>水原朋也:愛美／水原一香:長妻樹里／藤咲美奈:木戸衣吹／早坂ルリ:南央美／望月マリナ:井上麻里奈／花園美鶴:小林ゆう／早坂孝喜:富樫美鈴／水原夕子:森沢芙美／水原正也:浜田賢二／藤総一郎:髙橋孝治
+    ほか<br><br>原作:安西理晃／｢まんがライフ｣｢まんがライフMOMO｣連載／監督:夕澄慶英／キャラクター・デザイン:小田武士／アニメーションプロデューサー:山田良輔／企画:伊藤明博、松本卓也／チーフプロデューサー:木村淳／音響監督:森下広人／音楽:羽鳥風画／音楽制作:studio
+    CHANT／音響制作:サウンド・ウィング／アニメーション制作/制作プロダクション:C2C／製作著作:お姉ちゃんが来た製作委員会<br><br>次話→so31939192
+  length_seconds: 1086
+  content_id: so31939191
+  default_thread_id: 1505597016
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31939191
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ドキドキ♡7『クリスマスキター!』 他
+  description: ドキドキ♡7『クリスマスキター!』/ドキドキ♡8『正月キター!』/ドキドキ♡9『バレンタイン､クルー!』/ドキドキ♡10『バレンタイン､キター!』/ドキドキ♡11『ホワイトデーキター!』/ドキドキ♡12『看病キター!』<br><br>水原朋也:愛美／水原一香:長妻樹里／藤咲美奈:木戸衣吹／早坂ルリ:南央美／望月マリナ:井上麻里奈／花園美鶴:小林ゆう／早坂孝喜:富樫美鈴／水原夕子:森沢芙美／水原正也:浜田賢二／藤総一郎:髙橋孝治
+    ほか<br><br>原作:安西理晃／｢まんがライフ｣｢まんがライフMOMO｣連載／監督:夕澄慶英／キャラクター・デザイン:小田武士／アニメーションプロデューサー:山田良輔／企画:伊藤明博、松本卓也／チーフプロデューサー:木村淳／音響監督:森下広人／音楽:羽鳥風画／音楽制作:studio
+    CHANT／音響制作:サウンド・ウィング／アニメーション制作/制作プロダクション:C2C／製作著作:お姉ちゃんが来た製作委員会<br><br>so31939191←前話　第一話→so31939191
+  length_seconds: 1083
+  content_id: so31939192
+  default_thread_id: 1505597019
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31939192
+cast: "[キャスト]<br>水原朋也:愛美／水原一香:長妻樹里／藤咲美奈:木戸衣吹／早坂ルリ:南央美／望月マリナ:井上麻里奈／花園美鶴:小林ゆう／早坂孝喜:富樫美鈴／水原夕子:森沢芙美／水原正也:浜田賢二／藤総一郎:髙橋孝治
+  ほか"
+staff: "[スタッフ]<br>原作:安西理晃／｢まんがライフ｣｢まんがライフMOMO｣連載／監督:夕澄慶英／キャラクター・デザイン:小田武士／アニメーションプロデューサー:山田良輔／企画:伊藤明博、松本卓也／チーフプロデューサー:木村淳／音響監督:森下広人／音楽:羽鳥風画／音楽制作:studio
+  CHANT／音響制作:サウンド・ウィング／アニメーション制作/制作プロダクション:C2C／製作著作:お姉ちゃんが来た製作委員会"
+produced_year: "[製作年]<br>2014年"
+copyright: "(C)2014安西理晃/竹書房 お姉ちゃんが来た製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

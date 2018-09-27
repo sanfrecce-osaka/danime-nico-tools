@@ -1,0 +1,35 @@
+--- !ruby/hash:SeasonHash
+title: 合体ロボット アトランジャー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/7/10827_1_6.png?1427216400000
+outline: 長きに渡った｢暗黒星人｣との戦いは、ここ数年は膠着状態が続き、歴戦の勇士・アトランジャーも、ついに第一線を退く事となった。そのアトランジャー退役式当日、突如現れた謎の巨大宇宙戦艦の攻撃によって、地球は蹂躙の危機にさらされる。しかしアトランジャー自体は｢鍵｣となるパイロットがそろわず、起動する事ができない。その時、退役式会場に居合わせていた少年少女達の脳裏へ、不思議な｢導き｣の声が響き渡った。それは、新たなパイロットとして少年達を呼び寄せるアトランジャー自身の声であった。そして・・・・・!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：吉田徹
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: まさひろ山根
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺宙明
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 合体ロボット アトランジャー
+  description: 長きに渡った｢暗黒星人｣との戦いは、ここ数年は膠着状態が続き、歴戦の勇士・アトランジャーも、ついに第一線を退く事となった。そのアトランジャー退役式当日、突如現れた謎の巨大宇宙戦艦の攻撃によって、地球は蹂躙の危機にさらされる。しかしアトランジャー自体は｢鍵｣となるパイロットがそろわず、起動する事ができない。その時、退役式会場に居合わせていた少年少女達の脳裏へ、不思議な｢導き｣の声が響き渡った。それは、新たなパイロットとして少年達を呼び寄せるアトランジャー自身の声であった。そして・・・・・!<br><br>監督:吉田徹／メカデザイン:まさひろ山根／主題歌:作曲・渡辺宙明/歌・串田アキラ
+  length_seconds: 796
+  content_id: so32036651
+  default_thread_id: 1507005678
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036651
+staff: "[スタッフ]<br>監督:吉田徹／メカデザイン:まさひろ山根／主題歌:作曲・渡辺宙明/歌・串田アキラ"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C)青島文化教材社/AIC"
+related_seasons: !ruby/array:Hashie::Array []

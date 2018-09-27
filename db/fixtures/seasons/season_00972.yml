@@ -1,0 +1,53 @@
+--- !ruby/hash:SeasonHash
+title: デス・ビリヤード
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/70/6/21706_1_6.png?1501117204000
+outline: "「ここがどこなのか、という問いにはお答えできません」「これよりお二人にはゲームをして頂きます」「ゲームは命をかけて行なって頂きます」「そして、ゲームが終わるまで当店から出ることはできません」強制的にルールを課せられた男二人。やがて剥き出しになっていく人間の本性。デスゲームの果てに待ち受けるものは？"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 瀬戸麻沙美
+  type: cast
+- !ruby/hash:TagHash
+  name: 筈見純
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：栗田新一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：立川譲
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: デス・ビリヤード
+  description: "「ここがどこなのか、という問いにはお答えできません」「これよりお二人にはゲームをして頂きます」「ゲームは命をかけて行なって頂きます」「そして、ゲームが終わるまで当店から出ることはできません」強制的にルールを課せられた男二人。やがて剥き出しになっていく人間の本性。デスゲームの果てに待ち受けるものは？<br><br>バーテンダー:前野智昭／男:中村悠一／老人:筈見純／女:瀬戸麻沙美<br><br>監督:立川
+    譲／プロデューサー:角木 卓哉／担当制作:三浦 慧／キャラクターデザイン:栗田 新一／プロップデザイン:小林 系／作画監督:栗田 新一／中堅原画:堀内 博之
+    、高橋 裕一／若手原画:鈴木 亜矢 、小松 達彦 、南井 尚子 、 緒方 歩惟 、三島 詠子、村上 泉、梁 博雅"
+  length_seconds: 1500
+  content_id: so32200498
+  default_thread_id: 1509557791
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32200498
+cast: "[キャスト]<br>バーテンダー:前野智昭／男:中村悠一／老人:筈見純／女:瀬戸麻沙美"
+staff: "[スタッフ]<br>監督:立川 譲／プロデューサー:角木 卓哉／担当制作:三浦 慧／キャラクターデザイン:栗田 新一／プロップデザイン:小林 系／作画監督:栗田
+  新一／中堅原画:堀内 博之 、高橋 裕一／若手原画:鈴木 亜矢 、小松 達彦 、南井 尚子 、 緒方 歩惟 、三島 詠子、村上 泉、梁 博雅"
+produced_year: "[製作年]<br>2013年"
+copyright: "©立川 譲/株式会社マッドハウス/文化庁 アニメミライ2013"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: デス・パレード

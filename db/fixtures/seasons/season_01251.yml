@@ -1,0 +1,159 @@
+--- !ruby/hash:SeasonHash
+title: Paradise Kiss
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/18/7/11187_1_6.png?1427216400000
+outline: 自分の可能性を信じなきゃ何も始まらないよ。たとえあたし達の辿る道がこの先交わらなくても…「矢澤芸術学院」を舞台に繰り広げられる恋と青春のハッピーストーリー
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 浜田賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田優
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小林治
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：矢沢あい
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 祥伝社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: アトリエ
+  description: ある日、進学校に通うユカリは学祭のショ－のモデルに誘われる。彼らは「パラキス」というブランド名を持つ服飾科の学生たち。同い年の彼らとのギャップに途惑うユカリ<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>次話→so32081036
+  length_seconds: 1365
+  content_id: so32081035
+  default_thread_id: 1507710661
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081035
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: イルミネーション
+  description: 日曜の図書館、偶然にもジョ－ジと出会ってしまうユカリ。自分の悩みを真剣に聞いてくれるジョ－ジに心動かされていく。そしてモデルの依頼を受ける事を決意する。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081035←前話｜次話→so32081037　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081036
+  default_thread_id: 1507710653
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081036
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: Kiss
+  description: モデルを受けることになりアトリエに通うユカリ。ジョ－ジのぺ－スに振り回されつつも存在が気になり始めていく。そして気持ちを抑えきれず、初めてのキス。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081036←前話｜次話→so32081038　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081037
+  default_thread_id: 1507710672
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081037
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ジョージ
+  description: アトリエの帰り道、ジョ－ジに連れられて彼の部屋に行くユカリ。そこで言い争い飛び出してミワコのもとへ。追いかけてきたジョ－ジ。本気で惚れてしまったと告げる。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081037←前話｜次話→so32081039　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081038
+  default_thread_id: 1507710666
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081038
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: MOTHER
+  description: アトリエでのことを母に告げたユカリ。反発され家出をしてしまう・・。仕事を探すユカリにミワコが姉・ミカコの会社を紹介する。そこでモデルの仕事を頼まれてしまったユカリ<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081038←前話｜次話→so32081040　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081039
+  default_thread_id: 1507710635
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081039
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: NEW WORLD
+  description: モデルとして初めての撮影に緊張するユカリ。その帰り、ジョ－ジに送ってもらうが「帰らないで・・」と泣いてしまう。そして初めて抱き合い、ジョ－ジの部屋に移ることに・・。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081039←前話｜次話→so32081110　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081040
+  default_thread_id: 1507710648
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081040
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 蝶
+  description: ジョ－ジの部屋に移ったユカリ。仕事を探すが見つからず、ミカコに相談をする。知り合いのモデル事務所を紹介してもらい、面接に行くことになる・・。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081040←前話｜次話→so32081405　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081110
+  default_thread_id: 1507712485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081110
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 徳森
+  description: モデルの仕事を始めたいと思うユカリ。しかし親の許可がいる事に・・。ジョ－ジの母・雪乃の愚痴を聞き家に戻ることを決意する。モデルの仕事をしたいと母に告げる。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081110←前話｜次話→so32081406　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081405
+  default_thread_id: 1507713493
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081405
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: デザイナー
+  description: 母に全てを話し、学校に戻ったユカリ。ジョ－ジのいないベッドでさびしくて眠れない日々を送る・・。そしてショ－のリハ－サルの日がくる。学校を出るとそこにジョ－ジの姿が・・。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081405←前話｜次話→so32081407　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081406
+  default_thread_id: 1507713702
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081406
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 薔薇
+  description: ヤザガクのショ－の当日、ドレスの最後の仕上げをするジョ－ジたち。それぞれの想いの中、ショ－への時間が近づいてくる・・。そして、ドレスに身を包まれて現れるユカリ・・。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081406←前話｜次話→so32081408　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081407
+  default_thread_id: 1507713515
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081407
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ステージ
+  description: ステ－ジの袖で出番を待つユカリ、その手を握るジョ－ジ。そして緊張の中、ステ－ジへと・・。その夜、ジョ－ジのもとにイギリスに留学中のクラスメ－ト・香が現れる。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081407←前話｜次話→so32081409　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081408
+  default_thread_id: 1507713704
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081408
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 未来
+  description: 卒業を迎え、それぞれの未来に向かっていくメンバ－たち。ジョ－ジはパリに行くことに・・。一緒に来てほしいと言われるが、自分の道を進みたいと断るユカリ・・。<br><br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）<br><br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise
+    Kiss』矢沢あい　祥伝社刊<br><br>so32081408←前話　第一話→so32081035
+  length_seconds: 1365
+  content_id: so32081409
+  default_thread_id: 1507713533
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081409
+cast: "[キャスト]<br>早坂紫:（ＣＶ：山田優）／小泉譲二:（ＣＶ：浜田賢二）"
+staff: "[スタッフ]<br>監督:小林治／シナリオ（シリーズ構成）:小林治／スタジオ:マッドハウス／原作:『Paradise Kiss』矢沢あい　祥伝社刊"
+produced_year: "[製作年]<br>2005年"
+copyright: "(Ｃ)矢沢漫画制作所／祥伝社・パラキス製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

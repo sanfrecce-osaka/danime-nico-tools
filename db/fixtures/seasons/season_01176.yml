@@ -1,0 +1,135 @@
+--- !ruby/hash:SeasonHash
+title: 働きマン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/20/4/11204_1_6.png?1427216400000
+outline: 週刊｢JIDAI｣の編集者松方弘子(28歳)、寝食忘れ、凄まじい勢いで仕事に没頭する彼女は人呼んで｢働きマン｣。仕事人間の松方だけでなく、個性豊かな編集部員、周りの様々な人間を通じて｢働くとは何か｣を問う。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ぎゃろっぷ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小野勝巳
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：安野モヨコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 女の働きマン
+  description: 週刊｢JIDAI｣の編集者、松方弘子(28)は校了前には男スイッチが入り｢働きマン｣モードに変身する。弘子は、自分の企画した記事の取材がきっかけで、外務大臣星川光の機密費流用のスクープを、大臣秘書である関口歌子からの内部告発により情報を得、記事を書くが、結局その歌子がスケープゴートにされてしまうのだった。歌子の汚名を晴らそうと情報提供者の実名公表に固執し、デスクの成田ともめる弘子だが・・・。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>次話→so32084428
+  length_seconds: 1380
+  content_id: so32084427
+  default_thread_id: 1507742914
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084427
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 張り込みマン
+  description: 週刊｢JIDAI｣張り班担当、菅原文哉(32)は疲れていた。人の弱み(ゴシップ)を張って掴んで9年目、昨夜の張り込み中も、不審者扱いされ警察に通報されてしまったのだ。女性同伴の方が張り込みはバレにくいとの周囲のアドバイスにも耳を貸さない菅原だが、カメラマンからの勧めもあり、たまたま恋人とのデートが流れて予定が空いた弘子と組んで再び張り込むことになる。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084427←前話｜次話→so32084455　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084428
+  default_thread_id: 1507742920
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084428
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ラーメンマン
+  description: 週刊｢JIDAI｣風俗担当編集、小林明久(28)はグルメ記事や風俗記事といった、スクープ系担当ではないので、秘密主義の多い編集部においては気楽に何でも話せる貴重な存在である。ある日、校了間際に急遽ラーメン特集をもう1ページ増やせないかと成田が担当の田中に頼んでいるが田中は無理だと断っている。と、その様子を見ていた小林がついに立ち上がる。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084428←前話｜次話→so32084456　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084455
+  default_thread_id: 1507744124
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084455
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: あやまりマン
+  description: 山城新二(28)は大手ゼネコンに勤務していて弘子の恋人でもある。現場監督は工事の基礎が雨で崩れたりしないよう常に注意していなければならないのだが、新人時代に注意を怠ってミスを犯した事も。新二は、巨大建造物をやりたくて建設会社に入ったが、職人も設計士もビルを作ったと言える、しかし自分は何も作っていないのでは?とつい考え込んでしまうようになる。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084455←前話｜次話→so32084457　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084456
+  default_thread_id: 1507744122
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084456
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 振り向きマン
+  description: 週刊｢JIDAI｣編集者、渚マユ(23)の夢は、大好きな作家と、読者に一生大切にされるような本を作る事。マユは大ファンでもある作家、夏目美芳から小説掲載の仕事を取ってくるが、経験が浅いという理由で編集担当は先輩である弘子が任命される事に。弘子は、男性読者がメインの｢JIDAI｣に合わせて、今まで夏目が得意としていた女性向け恋愛路線とは全く違う小説を書いて欲しいと夏目に要望する。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084456←前話｜次話→so32084458　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084457
+  default_thread_id: 1507744128
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084457
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: お姫さマン
+  description: 週刊｢JIDAI｣編集者、野川由実(26)は、野球界のスター志村選手のおっかけ日記というコラムを担当している。取材嫌いで記者泣かせの志村に気に入られて密着取材を許されているのだ。そんな由実に対して公然と揶揄する先輩記者もいるのだが、由実自身はセクハラなんか気にしないし、女で仕事が貰えるならそれでいいと思っている。まして女捨てて頑張ってるような弘子タイプは苦手なのだった。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084457←前話｜次話→so32084459　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084458
+  default_thread_id: 1507744126
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084458
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: こだわりマン
+  description: 白川緑子(29)は理想の仕事を追い求めるセラピストである。その緑子の顧客でもある弘子は、2年前に書いた｢壊れゆく世界遺産屋久島の今｣という自然破壊を批判する記事とは真逆のスタンスの記事を書いてしまった事に納得がいかずに悩んでいた。そんな風に行き詰まった時弘子は、日頃からひいきにしている白川のところへマッサージを受けに行くのだが、そこでも同じように仕事に悩む緑子を見る。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084458←前話｜次話→so32084460　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084459
+  default_thread_id: 1507744105
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084459
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 報われマン
+  description: "(株)豪胆社、書籍販売部営業、千葉真(28)は、弘子が編集担当した夏目美芳著｢54｣の販売担当でもあった。弘子は同期でもある千葉に｢54｣の単行本初版の発行部数を増やしてくれと頼むのだが、編集者の思い入れだけでは会議で決まった妥当だと思える部数を簡単に変える事は出来ないと取り合わない。千葉は過去に仕事に愛情を掛けすぎて傷ついた経験があり調整しているのだった。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084459←前話｜次話→so32084461　第一話→so32084427"
+  length_seconds: 1380
+  content_id: so32084460
+  default_thread_id: 1507744144
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084460
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 一人前の働きマン
+  description: 弘子は｢JIDAI｣増刊号『50人の侍』で初の責任編集を任される事になる。その50人の内の一人で来週取材予定だった三村氏の名前を新聞の死亡欄で見つけ告別式に参列するが、ロッカーに常備の夏用の喪服で出かけた弘子は風邪を引いてしまう。体調を崩してる場合ではないスケジュール、そこへ『50人の侍』の記者の一人が倒れて入院したとの連絡が入りますます追い詰められていく。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084460←前話｜次話→so32084531　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084461
+  default_thread_id: 1507744146
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084461
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 働かないマン
+  description: 週刊｢JIDAI｣編集者、梶舞子(31)は編集部の中でも独自の道を行く女のプロ。美しいだけでなく、やさしくて控えめで色気があり、男達に絶大な人気を誇っている。その梶が担当の作家、茂木の乗った飛行機が墜落したとのニュースが入るが、あくまでも梶は冷静さを失わない。一方、弘子は自宅マンションの部屋が上階からの漏水事故で水浸しの被害にあう。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084461←前話｜次話→so32084532　第一話→so32084427
+  length_seconds: 1380
+  content_id: so32084531
+  default_thread_id: 1507745001
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084531
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: それでも働きマン
+  description: 弘子はびしょ濡れになった部屋の掃除を新二に手伝ってもらう事になる。いつから用事がないと会わなくなってしまったのか・・・と思う弘子。しかし、久しぶりに会ったにも関わらず二人の気持ちのすれ違いから喧嘩になってしまう。その2日後、新二の手配でなんとか天井やクロスの修復作業も終わり、深夜パソコンに向かい仕事をする弘子。そこへ珍しく泥酔した新二がやって来て・・・。<br><br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)<br><br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊<br><br>so32084531←前話　第一話→so32084427
+  length_seconds: 1375
+  content_id: so32084532
+  default_thread_id: 1507745020
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084532
+cast: "[キャスト]<br>キャスト:松方弘子(CV田中理恵)、成田君男(堀内賢雄)"
+staff: "[スタッフ]<br>監督:小野勝巳／シナリオ(シリーズ構成):大島里美／スタジオ:ぎゃろっぷ／原作:安野モヨコ『働きマン』講談社刊"
+produced_year: "[製作年]<br>2006年"
+copyright: "（C)安野モヨコ・講談社/働きマン製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

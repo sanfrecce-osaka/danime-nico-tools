@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: ガールフレンド(♪)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/18/2/21182_1_6.png?1475467251000
+outline: 全国ダンスバトルロイヤルも終了したある日。ひょんなことから鳳歌院高校の｢鳳｣メンバーと共に劇をすることになった｢nonet｣。劇の内容はシンデレラ…にアレンジを加えたオリジナルストーリーを演じることに。シンデレラを演じることになった朝比奈桃子、王子様を演じる久仁城雅。そして、思いもよらない役柄を演じることになった椎名心実など、いつもと違った一面を見せる｢nonet｣と｢鳳｣の劇が幕を開ける。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 斎藤千和
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 小倉唯
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿美菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: 丹下桜
+  type: cast
+- !ruby/hash:TagHash
+  name: 小岩井ことり
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：横手美智子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サイバーエージェント
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：筑紫大介
+  type: staff
+- !ruby/hash:TagHash
+  name: ガールフレンドシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: サウンドチーム・ドンファン
+  type: other
+- !ruby/hash:TagHash
+  name: 森川永子
+  type: other
+- !ruby/hash:TagHash
+  name: 山田陽
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: stage1～stage3
+  title: そしてベルは鳴り／目を閉じて、手をとって／わたしたちのワルツ
+  description: stage1：ひょんなことから｢nonet｣と｢鳳｣で劇をすることに。緊張の中、主役のシンデレラを演じる朝比奈桃子は王子様を演じる久仁城雅に励まされ、舞台の幕が開ける。しかし、緊張から桃子は途中でセリフがとんでしまう。しかし、｢nonet｣の華麗な連携でピンチを切り抜ける。継母演じるクロエや義姉を演じる神楽坂、鴫野が好演技を見せる。そんな中、なぜかシンデレラに登場する亀。いったいどんな展開を見せるのか？／stage2：タイツ姿の椎名心実はなんと亀の役だった。どよめく会場。時間は舞台の内容を決める会議に遡る。村上文緒の提案により、シンデレラと浦島太郎を組み合わせたオリジナルストーリーをやることに。そんな中亀役を自ら志願した、珍しく前のめりな心実。そんな亀をいじめっ子から救ったシンデレラは、竜宮城に案内される。そこで出会ったのは素敵な王子様。王子様と一時の踊りを楽しむが、シンデレラは家で待つ義姉たちの朝食を作らなくてはならない。慌てて帰るシンデレラは靴を落としていき、王子様は元気をなくしてしまう。あくる日、朝門春日演じる使いにシンデレラを連れてくるよう命じる。しかし、使いがシンデレラの家を尋ねるとそこは空き家になっていた。　ほか<br><br>朝比奈桃子:小倉唯／椎名心実:佐藤聡美／風町陽歌:早見沙織／久仁城雅:斎藤千和／朝門春日:種田梨沙／牧瀬昴:小岩井ことり／村上文緒:名塚佳織／クロエ・ルメール:丹下桜／神楽坂砂夜:寿美菜子／櫻井明音:佐藤利奈／鴫野睦:津田美波<br><br>原作:サイバーエージェント／監督:筑紫大介／脚本:横手美智子／キャラクター原案・キャラクターデザイン監修:QP：flapper(小原トメ太
+    / さくら小春)／アニメーションキャラクターデザイン・総作画監督:渋谷秀／美術:イマジネット／色彩設計:斎藤麻由／撮影監督:頓所信二／編集:神宮司由美／音響監督:山田陽／音響効果:森川永子／音響制作:サウンドチーム・ドンファン／アニメーション制作:エンカレッジフィルムズ／製作:GF
+    4th Anniversary 製作委員会／オープニングテーマ:nonet｢Now On Stage！！｣／エンディングテーマ:にゅーろん★くりぃむそふと｢HAJIけてシナプス☆シナモンロール｣
+  length_seconds: 2047
+  content_id: so32051965
+  default_thread_id: 1507261124
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051965
+cast: "[キャスト]<br>朝比奈桃子:小倉唯／椎名心実:佐藤聡美／風町陽歌:早見沙織／久仁城雅:斎藤千和／朝門春日:種田梨沙／牧瀬昴:小岩井ことり／村上文緒:名塚佳織／クロエ・ルメール:丹下桜／神楽坂砂夜:寿美菜子／櫻井明音:佐藤利奈／鴫野睦:津田美波"
+staff: "[スタッフ]<br>原作:サイバーエージェント／監督:筑紫大介／脚本:横手美智子／キャラクター原案・キャラクターデザイン監修:QP：flapper(小原トメ太
+  / さくら小春)／アニメーションキャラクターデザイン・総作画監督:渋谷秀／美術:イマジネット／色彩設計:斎藤麻由／撮影監督:頓所信二／編集:神宮司由美／音響監督:山田陽／音響効果:森川永子／音響制作:サウンドチーム・ドンファン／アニメーション制作:エンカレッジフィルムズ／製作:GF
+  4th Anniversary 製作委員会／オープニングテーマ:nonet｢Now On Stage！！｣／エンディングテーマ:にゅーろん★くりぃむそふと｢HAJIけてシナプス☆シナモンロール｣"
+produced_year: "[製作年]<br>2016年"
+copyright: "©CyberAgent,Inc."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ガールフレンド(仮)

@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: モエかん THE　ANIMATION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/21/5/11215_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：アクシス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ノーサイド
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：野口木ノ実
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大野和寿
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：SCA-自
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: "｢リニア｣"
+  description: 南洋に浮かぶ孤島｢萌えっ娘島｣は、無政府資本国家・萌えっ娘カンパニーのメイド訓練所である。訓練所所長の神埼貴広は、過去の戦いでその全てを失い、無気力な毎日を過ごしていた。そんなある日、かつて部下だった隷がアンドロイドメイドを連れてやってくる。旧式&amp;ポンコツでドジなリニアは、やること為すこと失敗ばかり。しかし、そのひたむきで健気な姿は、次第に貴広の心を溶かしていくのだった・・・。<br><br>原作:SCA-自(ケロQ)／プロデューサー:中村正雄／監督:大野和寿／脚本:関島眞頼／キャラクターデザイン・作画監督:野口木ノ実／美術監督:小谷隆之／撮影監督:外山
+    浩／録音演出:塩谷 翼／アニメーション制作:アクシス/ノーサイド<br><br>次話→so32230779
+  length_seconds: 1834
+  content_id: so32230778
+  default_thread_id: 1510023057
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230778
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: "｢かずさ｣"
+  description: 萌えっ娘島に新しいメイド少女、｢朝霧かずさ｣がやってきた。料理が得意で、いたずらが好きで、犬が苦手・・・・・かずさはまるで猫のようにクルクルと表情を変える。その言動に振り回される貴広だったが、不思議と嫌な気持ちはしないのだった・・・・・。老犬｢井上先生｣との交流を通して、ついに犬嫌いを克服するかずさ。しかしその頃、萌えっ娘島には謎の侵入者の魔の手が迫っていた！<br><br>原作:SCA-自(ケロQ)／プロデューサー:中村正雄／監督:大野和寿／脚本:関島眞頼／キャラクターデザイン・作画監督:野口木ノ実／美術監督:小谷隆之／撮影監督:外山
+    浩／録音演出:塩谷 翼／アニメーション制作:アクシス/ノーサイド<br><br>so32230778←前話｜次話→so32230780　第一話→so32230778
+  length_seconds: 1794
+  content_id: so32230779
+  default_thread_id: 1510023077
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230779
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: "｢貴広｣"
+  description: カンパニー本社からリニアを“陰謀活動メイド”に育成せよとの命令が下された。しかし貴広は、リニアを守るため、敢えてその命令に背く。本社からの粛清部隊とたった一人で戦う決意を固め、全員を島から避難させる貴広。が、リニアたち萌えっ娘とおやじさんは、貴広と運命を共にすべく島に残るのだった。ついに本社から、アンドロイド兵の大部隊が萌えっ娘島に送り込まれてきた。必死に抵抗する貴広たちの運命は・・・そして、失われた貴広とリニアの記憶とは!?<br><br>原作:SCA-自(ケロQ)／プロデューサー:中村正雄／監督:大野和寿／脚本:関島眞頼／キャラクターデザイン・作画監督:野口木ノ実／美術監督:小谷隆之／撮影監督:外山
+    浩／録音演出:塩谷 翼／アニメーション制作:アクシス/ノーサイド<br><br>so32230779←前話　第一話→so32230778
+  length_seconds: 1986
+  content_id: so32230780
+  default_thread_id: 1510023059
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230780
+staff: "[スタッフ]<br>原作:SCA-自(ケロQ)／プロデューサー:中村正雄／監督:大野和寿／脚本:関島眞頼／キャラクターデザイン・作画監督:野口木ノ実／美術監督:小谷隆之／撮影監督:外山
+  浩／録音演出:塩谷 翼／アニメーション制作:アクシス/ノーサイド"
+produced_year: "[製作年]<br>2003年"
+copyright: "©　2003　ケロキュウ/Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

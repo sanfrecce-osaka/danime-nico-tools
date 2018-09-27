@@ -1,0 +1,118 @@
+--- !ruby/hash:SeasonHash
+title: ひぐらしのなく頃に礼
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/7/11147_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: ゆきのさつき
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：黒田和也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：竜騎士07
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：07th Expansion
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川瀬敏文
+  type: staff
+- !ruby/hash:TagHash
+  name: ひぐらしのなく頃にシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 二重人格
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: file.01
+  title: 羞晒し編
+  description: 7月のある日。本日の部活が開催される興宮のプールへと急ぐ圭一は、途中で海パンを忘れたことに気づく。このままでは、罰ゲームは必至…! そんな圭一におもちゃ屋のおじさんが海パンをプレゼントしてくれると言う。しかし、その海パンはとんでもない代物だった!?
+    果たして、圭一の運命やいかに?<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣
+    他<br><br>原作:竜騎士07/07th Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督・シリーズ構成:川瀬敏文／キャラクターデザイン:黒田和也／音楽:川井憲次／アニメーション制作:スタジオディーン<br><br>次話→so31938656
+  length_seconds: 1738
+  content_id: so31938655
+  default_thread_id: 1505587553
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938655
+- !ruby/hash:EpisodeHash
+  episode_no: file.02
+  title: 賽殺し編 其の壱
+  description: "｢梨花! 車が来ましてよー!!｣｢み～! その手には引っ掛からないのです!｣｢梨ぃ花ぁああぁあぁッ!!!｣昭和58年6月の袋小路を打ち破る長い戦いに勝ち、仲間たちと楽しい日常を送る梨花を驚愕の悲劇が襲う!?興宮で行われたゲーム大会の帰り道、梨花は車に轢かれてしまう。ベッドで目を覚ました梨花は、そこが事故前とは別の世界であることを知るが…<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣
+    他<br><br>原作:竜騎士07/07th Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督・シリーズ構成:川瀬敏文／キャラクターデザイン:黒田和也／音楽:川井憲次／アニメーション制作:スタジオディーン<br><br>so31938655←前話｜次話→so31938658　第一話→so31938655"
+  length_seconds: 1734
+  content_id: so31938656
+  default_thread_id: 1505587622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938656
+- !ruby/hash:EpisodeHash
+  episode_no: file.03
+  title: 賽殺し編 其の弐
+  description: "｢……帰る……帰るわ、私は絶対に元の世界に帰る……それがどんなにか細い道でも……絶対……絶対に帰る……!｣元の世界に戻るため、羽入を探して祭具殿へとやって来た梨花。しかし、羽入とは小さな宝玉を通して通信を行うことしか出来ない状況だった。羽入は梨花に、どこかに存在するという“カケラ”が元の世界に戻る鍵であること告げる。はたして梨花は”カケラ”を探すことが出来るのか!?<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣
+    他<br><br>原作:竜騎士07/07th Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督・シリーズ構成:川瀬敏文／キャラクターデザイン:黒田和也／音楽:川井憲次／アニメーション制作:スタジオディーン<br><br>so31938656←前話｜次話→so31938659　第一話→so31938655"
+  length_seconds: 1830
+  content_id: so31938658
+  default_thread_id: 1505587896
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938658
+- !ruby/hash:EpisodeHash
+  episode_no: file.04
+  title: 賽殺し編 其の参
+  description: "｢……羽入…あの世界は、……夢だったの…?それとも、…現実…?｣元の世界に戻るための“カケラ”は梨花の母が宿していた。母を殺し”元の世界”に戻るか、”罪のない世界”に留まるべきか、選択を迫られる梨花。羽入は選択を他人に委ねようとする梨花に、自分自身で決断するように促す。梨花は、自分で答えを出すことを決意するが…<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣
+    他<br><br>原作:竜騎士07/07th Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督・シリーズ構成:川瀬敏文／キャラクターデザイン:黒田和也／音楽:川井憲次／アニメーション制作:スタジオディーン<br><br>so31938658←前話｜次話→so31938660　第一話→so31938655"
+  length_seconds: 1799
+  content_id: so31938659
+  default_thread_id: 1505587480
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938659
+- !ruby/hash:EpisodeHash
+  episode_no: file.05
+  title: 昼壊し編
+  description: "｢馬鹿! それはお前の本心じゃない!!勾玉に惑わされてるだけなんだ!レナ、俺がお前を救ってやる!!｣古手神社に伝わる秘宝｢フワラズの勾玉｣の一つ《赤の勾玉》を偶然飲み込んでしまったレナ。実はこの勾玉は、対になるもう一つの玉《白の勾玉》の持ち主を無条件で好きになるという危険な魔力があった。恋するレナは無敵!!圭一たち部活メンバーは既成事実がおこる前に暴走するレナを止めることが出来るのか!?<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣
+    他<br><br>原作:竜騎士07/07th Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督・シリーズ構成:川瀬敏文／キャラクターデザイン:黒田和也／音楽:川井憲次／アニメーション制作:スタジオディーン<br><br>so31938659←前話　第一話→so31938655"
+  length_seconds: 1802
+  content_id: so31938660
+  default_thread_id: 1505587559
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938660
+cast: "[キャスト]<br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣
+  他"
+staff: "[スタッフ]<br>原作:竜騎士07/07th Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督・シリーズ構成:川瀬敏文／キャラクターデザイン:黒田和也／音楽:川井憲次／アニメーション制作:スタジオディーン"
+produced_year: "[製作年]<br>2009年"
+copyright: "(C)2009竜騎士07/雛見沢御三家"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ひぐらしのなく頃に煌
+- !ruby/hash:SeasonHash
+  title: ひぐらしのなく頃に解
+- !ruby/hash:SeasonHash
+  title: ひぐらしのなく頃に

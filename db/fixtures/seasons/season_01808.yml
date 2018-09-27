@@ -1,0 +1,210 @@
+--- !ruby/hash:SeasonHash
+title: ローゼンメイデン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/28/4/20284_1_6.png?1437701074000
+outline: 主人公・桜田ジュンの趣味はネット通販で買った商品を期間ギリギリでクーリングオフしてスリルを楽しむこと。ジュンは姉の“のり”の心配もよそに、今日もこの暗い趣味に精を出していた。そんなある日のこと、ジュンの元に頼んだ覚えのない荷物が届く。中から現れたのは、まるで生きているかのように精巧なアンティークドール。興味本位でこの少女人形のネジを巻いたジュンは、驚愕の事実を目の当たりにする。なんと、この人形が勝手に動き出し、あろうことか平手打ちを放ってきたのだ……！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 倉田雅世
+  type: cast
+- !ruby/hash:TagHash
+  name: 野川さくら
+  type: cast
+- !ruby/hash:TagHash
+  name: 力丸乃りこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：花田十輝
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：岡田麿里
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：光宗信吉
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石井久美
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：松尾衡
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ノーマッド
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：玉井☆豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：Mellow Head
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：PEACH-PIT
+  type: staff
+- !ruby/hash:TagHash
+  name: ローゼンメイデンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 頑張る女の子たち
+  type: other
+- !ruby/hash:TagHash
+  name: 花田十輝
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 薔薇乙女 Fräulein Rose
+  description: 主人公・桜田ジュンの趣味はネット通販で買った商品を期間ギリギリでクーリングオフしてスリルを楽しむこと。ジュンは姉の“のり”の心配もよそに、今日もこの暗い趣味に精を出していた。そんなある日のこと、ジュンの元に頼んだ覚えのない荷物が届く。中から現れたのは、まるで生きているかのように精巧なアンティークドール。興味本位でこの少女人形のネジを巻いたジュンは、驚愕の事実を目の当たりにする。なんと、この人形が勝手に動き出し、あろうことか平手打ちを放ってきたのだ……！<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>次話→so32367324
+  length_seconds: 1449
+  content_id: so32367325
+  default_thread_id: 1512351901
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367325
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 雛苺 Kleine Beere
+  description: 真紅のミーディアムとなってしまったジュン。ジュンを家来と言ってはばからない真紅の行動に、ジュンの日常は完全に崩されてしまいジュンは辟易するばかり。そんな中、ジュンの家に訪れた幼なじみのトモエに何かを感じ取った真紅は、トモエを追って「ｎのフィールド」に向かう。<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367325←前話｜次話→so32367322　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367324
+  default_thread_id: 1512352296
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367324
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 水銀燈 Mercury Lampe
+  description: 戦いに勝利した真紅は、雛苺を破壊せず自分の配下に置くことを決めるのだった。雛苺を加え以前にも増して騒々しくなる桜田家。そんな中でも憮然とした表情を崩さないジュンに、雛苺はお願いをする。最初は取り合わなかったジュンも、真紅から離れることのできなくなった雛苺の境遇を知り、雛苺の求める物を探しに家から出る。<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367324←前話｜次話→so32367321　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367322
+  default_thread_id: 1512351920
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367322
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 翠星石 Jade Stern
+  description: いつものように騒がしい夜の桜田家。するとそこに新たなドール・翠星石がやってきた。不機嫌なジュンに対し、嬉しがるのり。口の悪い翠星石だが、のりが花に水をやっている姿をみてわずかながら穏やかな表情を見せる。それを見た真紅は翠星石にジュンのために力を使うようお願いをする。翠星石の力、それは夢へつながる扉を見つけて、行き来できるものだった。渋りながらもジュンに力を使う翠星石。あふれる光につつまれたジュンは自分の夢の世界へと導かれていく。<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367322←前話｜次話→so32367320　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367321
+  default_thread_id: 1512352298
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367321
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 階段 Die Treppe
+  description: 桜田家に居すわることになった翠星石。ある日、テレビに夢中になっている雛苺のショートケーキの苺を食べてしまう。泣き出す雛苺だが、翠星石の嘘にのりはすっかりだまされてしまう。誰にも信じてもらえない雛苺は、二階のジュンの部屋に立てこもる。真紅にうながされ雛苺を迎えにいくジュン。だが雛苺に自分と翠星石どちらの味方かと問われ、なぜか雛苺の味方になることに。こうして一階の翠星石＆真紅ＶＳ二階の雛苺＆ジュンの戦いが始まった！<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367321←前話｜次話→so32367319　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367320
+  default_thread_id: 1512352101
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367320
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 涙 Tränen
+  description: ドール達はテレビで大好きな探偵くんくんの人形劇を見ていた。内容の怖さに絶叫するのりと雛苺。冷静な真紅と翠星石。だがテレビを見終わった真紅は、なぜかジュンの側をはなれない。不思議に思うジュンだったが、真紅が一人になるのが怖いのだと知る。素直じゃない真紅の姿を見てほほえむジュン。だが、窓から学生たちの声が聞こえムッとしてしまう。その姿を見た真紅は哀しげな表情で「心があるべき場所を求めて彷徨っている」とジュンに語りかける。一方、同じく一人でいるのが怖い翠星石は雛苺の側にいた。すると物置部屋から聞こえる怪しい音。様子を見に行った二人だったが、待ち受けていた水銀燈に雛苺が連れ去られてしまう。雛苺を助けるためジュンは真紅と共に鏡の中へ飛び込む。<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367320←前話｜次話→so32367318　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367319
+  default_thread_id: 1512352078
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367319
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 夢 Träume
+  description: 水銀燈との戦いに勝ち桜田家に戻ってきたジュン達だったが、真紅が突然倒れてしまう。朝になっても目を覚まさない真紅を心配するジュン。目覚めさせる方法を知っていた翠星石だったが、その方法でも起きない真紅。真紅の為にネットでローゼンメイデンの情報をさがしたジュンは、一冊の本にたどりつく。早速本を探しに行くジュンだったが、その本が自分の中学校にあると知る。学校に入ろうとするジュンだったが、過去の記憶が蘇り逃げ出してしまう。しかし家に帰ると雛苺までが眠りについてしまい・・・・<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367319←前話｜次話→so32367317　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367318
+  default_thread_id: 1512352122
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367318
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 蒼星石 Lapislazuri Stern
+  description: ミニカーにいたずらをしたドール達はジュンに追いかけられていた。翠星石と雛苺は物置部屋に隠れる。その時、部屋に置かれた鏡がゆがみ、ある部屋の様子を映し出す。そこには翠星石の双子の妹、蒼星石の姿と翠星石の姿があった。青ざめた表情で鏡を映像を見る翠星石。鏡の中では、蒼星石が翠星石よりもマスターを選んだ様子が映し出されていた。そのころ蒼星石のもとに水銀燈があらわれる。意味深な言葉を残して去ろうとする水銀燈を慌てて追いかける蒼星石だったが・・・<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367318←前話｜次話→so32367316　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367317
+  default_thread_id: 1512352110
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367317
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: 檻 Die Gefängnis
+  description: 翠星石から蒼星石との話を聞いた真紅たちは、蒼星石を助けるため夢の扉へ飛び込む。蒼星石を見つける一同だったが、水銀燈に攻撃され、二手に分かれる。蒼星石を逃がそうとするジュンたちはマツの夢へ入りこむ。<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367317←前話｜次話→so32367315　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367316
+  default_thread_id: 1512352105
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367316
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: 別離 Abschied
+  description: 真紅の夢の中へ入ってきた水銀燈は、「ローザミスティカを賭けて私と勝負しなさい」と告げる。挑戦を受ける真紅。夜が明けいつも通りに騒がしい桜田家だが、様子の違う真紅を不安に思う蒼星石。その夜、みんなが寝静まったあと真紅は一人nのフィールドへ向かう。<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367316←前話｜次話→so32367327　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367315
+  default_thread_id: 1512351864
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367315
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: 運命 Schicksal
+  description: 水銀燈との戦いのため、nのフィールドへと向かった真紅。水銀燈は真紅のミーディアムであるジュンに邪魔をされないよう、ジュンを眠らせてしまう。必死に戦う真紅だが、ジュンは水銀燈の見せている悪夢から、目を背け逃げ出してしまう。ジュンの指にはめられた指輪が徐々に光をなくしていき・・・<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367315←前話｜次話→so32367328　第一話→so32367325
+  length_seconds: 1449
+  content_id: so32367327
+  default_thread_id: 1512351882
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367327
+- !ruby/hash:EpisodeHash
+  episode_no: 第十ニ話
+  title: 真紅 Reiner Rubin
+  description: 激しさを増す真紅と水銀燈の戦い。翠星石や蒼星石も協力するが、怒りに満ちている水銀燈には太刀打ちできない。絶体絶命の真紅。そこへ悪夢に打ち勝ったジュンがあらわれる。「真紅は僕が守る！」<br><br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉
+    巴:倉田雅世／翠星石:桑谷夏子<br><br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+    Head／アニメーション制作:ノーマッド<br><br>so32367327←前話　第一話→so32367325
+  length_seconds: 1420
+  content_id: so32367328
+  default_thread_id: 1512352067
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367328
+cast: "[キャスト]<br>桜田ジュン:真田アサミ／真紅:沢城みゆき／雛苺:野川さくら／水銀燈:田中理恵／桜田のり:力丸乃りこ／柏葉 巴:倉田雅世／翠星石:桑谷夏子"
+staff: "[スタッフ]<br>原作:PEACH-PIT／監督:松尾 衡／シリーズ構成:花田十輝／脚本:花田十輝、岡田麿里、玉井☆豪／キャラクターデザイン:石井久美／音楽:光宗信吉／音楽製作:Mellow
+  Head／アニメーション制作:ノーマッド"
+produced_year: "[製作年]<br>2004年"
+copyright: "©PEACH-PIT/薔薇乙女製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ローゼンメイデン・トロイメント

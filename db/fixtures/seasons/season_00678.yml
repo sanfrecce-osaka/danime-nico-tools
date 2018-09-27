@@ -1,0 +1,43 @@
+--- !ruby/hash:SeasonHash
+title: 菅井君と家族石 THE MOVIE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/0/10580_1_6.png?1427216400000
+outline: 島根県出雲地方に住む、極貧ソウルファミリー｢菅井家｣。その日常を描いたナンセンスコメディの傑作が｢菅井君と家族石｣です。FROGMANが一人で作り上げたFLASHアニメで、04年ネットで公開されるや、口コミで人気が爆発。こうして島根県で作られた本作品は、たちまち日本全国にその名が知られるようになっていきました。その後DVDも驚異的な売り上げを記録。｢秘密結社
+  鷹の爪｣などの作品も大ブレイク。本作は、そんなFROGMANの第1作という、蛙男商会のルーツともいえる作品です。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 菅井君と家族石シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 菅井君と家族石 THE MOVIE
+  description: 島根県出雲地方に住む、極貧ソウルファミリー｢菅井家｣。その日常を描いたナンセンスコメディの傑作が｢菅井君と家族石｣です。FROGMANが一人で作り上げたFLASHアニメで、04年ネットで公開されるや、口コミで人気が爆発。こうして島根県で作られた本作品は、たちまち日本全国にその名が知られるようになっていきました。その後DVDも驚異的な売り上げを記録。｢秘密結社
+    鷹の爪｣などの作品も大ブレイク。本作は、そんなFROGMANの第1作という、蛙男商会のルーツともいえる作品です。<br><br>出演者:FROGMAN<br><br>監督:FROGMAN
+  length_seconds: 5619
+  content_id: so32036484
+  default_thread_id: 1507006174
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036484
+cast: "[キャスト]<br>出演者:FROGMAN"
+staff: "[スタッフ]<br>監督:FROGMAN"
+produced_year: "[製作年]<br>2008年"
+copyright: "(C)2008 ｢菅井君と家族石 THE MOVIE｣製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 菅井君と家族石

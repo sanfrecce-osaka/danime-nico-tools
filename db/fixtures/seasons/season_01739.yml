@@ -1,0 +1,80 @@
+--- !ruby/hash:SeasonHash
+title: 竜世紀
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/4/11324_1_6.png?1427216400000
+outline: 誇り高き竜たちと襲い来る悪魔との死闘――。｢神章 A.D.1990 璃子｣と｢魔章 R.C.297 ルリシア｣の全2話で構成される。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鷹森淑乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 本多知恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤精三
+  type: cast
+- !ruby/hash:TagHash
+  name: 曽我部和恭
+  type: cast
+- !ruby/hash:TagHash
+  name: 嶋俊介
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：会川昇
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：北爪宏幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：福本潔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：竜騎兵
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 神章 A.D.1990 璃子
+  description: 1990年、世界でドラゴンが出没していた。空虚な学園生活を送り、強い破壊願望を抱く少女、璃子はドラゴンの子供カーマインを見つけ、秘かに育て始める。そしてドラゴンたちが悪魔と対決するために神が遣わした戦士だったことを知る璃子。破壊願望を悔い、璃子はカーマインに乗って飛び立つ。悪魔と対決するために…。<br><br>｢神章
+    A.D.1990 璃子｣ 璃子:鷹森淑乃／カーマイン(幼年期):関俊彦／相良匡:玄田哲章／相良の上官:嶋俊介／晴美:玉川紗紀子／｢魔章 R.C.297 ルリシア｣
+    ルリシア:本多知恵子／カーマイン(老年期):加藤精三／魔青年:曽我部和恭<br><br>原作:竜騎兵『DRAGON BREEDER』／脚本・構成:会川昇／監督:福本潔／キャラクターデザイン・作画監督:北爪宏幸／ドラゴン、モンスターデザイン・作画監督:越智博之／制作:AIC<br><br>次話→so32041209
+  length_seconds: 1606
+  content_id: so32041208
+  default_thread_id: 1507070912
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041208
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 魔章 R.C.297 ルリシア
+  description: 約300年後の未来。ドラゴンのバーミリオンを支配下に置き、父の仇討ちのために｢龍闘｣に出場したルリシア。連戦連勝の中でルリシアは仇討ちのことを忘れ、バーミリオンとの平和な暮らしを送ることを夢見るようになっていた。しかし、｢これが最後｣と決めた試合の最中、探し求めていたブラックドラゴンが現れた…。<br><br>｢神章
+    A.D.1990 璃子｣ 璃子:鷹森淑乃／カーマイン(幼年期):関俊彦／相良匡:玄田哲章／相良の上官:嶋俊介／晴美:玉川紗紀子／｢魔章 R.C.297 ルリシア｣
+    ルリシア:本多知恵子／カーマイン(老年期):加藤精三／魔青年:曽我部和恭<br><br>原作:竜騎兵『DRAGON BREEDER』／脚本・構成:会川昇／監督:福本潔／キャラクターデザイン・作画監督:北爪宏幸／ドラゴン、モンスターデザイン・作画監督:越智博之／制作:AIC<br><br>so32041208←前話　第一話→so32041208
+  length_seconds: 1683
+  content_id: so32041209
+  default_thread_id: 1507070890
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041209
+cast: "[キャスト]<br>｢神章 A.D.1990 璃子｣ 璃子:鷹森淑乃／カーマイン(幼年期):関俊彦／相良匡:玄田哲章／相良の上官:嶋俊介／晴美:玉川紗紀子／｢魔章
+  R.C.297 ルリシア｣ ルリシア:本多知恵子／カーマイン(老年期):加藤精三／魔青年:曽我部和恭"
+staff: "[スタッフ]<br>原作:竜騎兵『DRAGON BREEDER』／脚本・構成:会川昇／監督:福本潔／キャラクターデザイン・作画監督:北爪宏幸／ドラゴン、モンスターデザイン・作画監督:越智博之／制作:AIC"
+produced_year: "[製作年]<br>1988年"
+copyright: "(C)久保書店・AIC"
+related_seasons: !ruby/array:Hashie::Array []

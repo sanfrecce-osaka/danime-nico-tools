@@ -1,0 +1,229 @@
+--- !ruby/hash:SeasonHash
+title: Canvas2～虹色のスケッチ～[TVシリーズ]
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/7/10617_1_6.png?1427216400000
+outline: 人気PCゲームをアニメ化した学園ラブロマンス第2シーズン。撫子学園の学生であり、高等部の美術部顧問代理も務める浩樹の下に、故郷から妹同然に可愛がっていた鳳仙エリスがやって来る。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: 禁断のクラシックレッド
+  description: 撫子学園の大学生であり、同学園の高等部の美術部顧問代理を務める主人公、上倉浩樹の元に、北海道から従兄弟の鳳仙エリスが居候としてやってくる。浩樹はエリスが生まれた頃から、彼女を実の妹のように可愛がっており、彼女に絵を教えたのも浩樹である。エリスは絵の才能を買われ、撫子学園高等部の特待生として入学したのだ。入学式の後、浩樹の受け持つ美術部に見学しにきたエリス。物怖じしないその性格が、美術部員たちとの間でなんとなく、よくない雰囲気に…。そして、追い討ちをかけるように真っ赤なバラを巡って、問題が起こる………。<br><br>次話→so31880138
+  length_seconds: 1420
+  content_id: so31880137
+  default_thread_id: 1504724178
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880137
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: マンダリンオレンジの再会
+  description: 浩樹の幼馴染である桔梗霧が、偶然にも体育教師として赴任してくる。浩樹と霧は、高校卒業後、疎遠になっていた。それというのも、霧は高校時、浩樹に告白してフラれたという経緯があるから。突然の再会になんとなくぎこちない二人だが、会話を交わすうち、自然と昔のように戻っていく。エリスは二人の間に入り難く、それがなんとなく面白くない感じで…。一方、霧は、思い出話から浩樹の絵に関する話題に触れるが、今の浩樹は教師を目指し、既に絵を描くのをやめてしまっていた。だが、浩樹は、そのことを霧に言い出せずに……。<br><br>so31880137←前話｜次話→so31880139　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880138
+  default_thread_id: 1504724311
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880138
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: 悪戯なカナリアイエロー
+  description: 撫子学園2年生の萩野可奈は、なぜか浩樹になついている、いつも元気な女の子。そんな彼女の正体は、プロの恋愛小説家で、学園内でもちょっとした有名人。ひょんなことからそれを知った浩樹は、可奈に著書の感想を求められ、｢恋愛に現実味がない｣と答える。それは、可奈自身も気にかけていた事柄だった。恋愛小説を書いているのに、恋愛経験がない可奈…。落ち込んでしまった可奈をほうっておくこともできず、彼女の取材協力(?)のため、可奈と浩樹がデートをすることに!!なんだか、嵐がおこりそうな予感…!<br><br>so31880138←前話｜次話→so31880141　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880139
+  default_thread_id: 1504724180
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880139
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: 焦燥のコバルトブルー
+  description: 美咲菫は合唱部に所属している撫子学園三年生で、生徒からは、｢歌姫｣と呼ばれている。父は日本画家、母はフルート奏者、姉は新進気鋭の画家という芸術一家に生まれた彼女。合唱部がコンクールを控え、部員全体が練習に励む中、なぜか彼女は練習の中に入ろうとしない。彼女はほんの些細なことから、人前で歌えなくなってしまったのだ。自分から見れば、恵まれた境遇にいる菫に対して、最初はあまりいい印象を持たなかったエリス。ふとしたことから菫と話す機会を持ったことで、彼女の悩みを理解し、菫を応援し始める。果たして菫は合唱コンクールで無事歌うことができるのか?<br><br>so31880139←前話｜次話→so31880142　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880141
+  default_thread_id: 1504724144
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880141
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: 溜息のムーングレイ
+  description: 浩樹の教育実習が始まった。受け持つのは、エリスのクラス。初日から、なんだか怪しい雲行き…。それというのも、問題児、藤浪朋子の存在があるから。藤浪朋子は、病弱で学校も休みがち。本当は寂しがりやだが、強がっている態度がどうにもつんけんしたイメージを持たれがちで、そのせいかクラスメイトたちとも、なかなか打ち解けられずにいる。猫に餌をやったりする優しい朋子を知っている浩樹は、そんな彼女の不器用さをどうしても放っておくことができず、なんとかクラスメイトと朋子の仲を取り持とうとするのだが…。<br><br>so31880141←前話｜次話→so31880143　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880142
+  default_thread_id: 1504724031
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880142
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 誘惑のエメラルドグリーン
+  description: 撫子学園高等部の恒例行事、研修旅行に、浩樹も引率として参加することになった。霧は浩樹が絵を諦めて教師になることを良く思っていないため、朋子の一件以来、なんだか教師らしくなっていくのが気に入らない。教師の道は甘くないということを浩樹にわからせようと張り切るが、あえなく失敗。それを逆に浩樹にフォローされる始末。そんな二人のやり取りは、傍から見ている限りでは、まるで恋人同士のよう。それを見て、エリスはなんだか胸がざわめくのを感じる…。<br><br>so31880142←前話｜次話→so31880144　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880143
+  default_thread_id: 1504724182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880143
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 潮騒のサンドベージュ
+  description: 旅行中、急接近していく霧と浩樹。エリスはそれを目の当たりにするのが辛い。浩樹と一緒の研修旅行は楽しい思い出になるはずだったのに…。浩樹の存在が家にいるときよりなんだか遠い気がしてしまうエリス。そんな時、エリスは霧が高校時代に告白した相手がいたことを知る。その相手は浩樹ではないかと思い、聞いてみると、つい思わず口を滑らせてしまう浩樹。動揺を隠し切れないエリス。そんなエリスに、接近してくる同学年の男子、彰太。そして迎えた恒例イベントの肝試しで、それぞれのカップルにまた新たな展開が…!<br><br>so31880143←前話｜次話→so31880145　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880144
+  default_thread_id: 1504724146
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880144
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 哀愁のミッドナイトブルー
+  description: 待ちに待った夏休み。夏祭りのための浴衣選びに張り切るエリスだが、浩樹とともに出かけた先で、霧や可奈たちと出くわす。研修旅行以来、霧と浩樹の妙にお互いを意識した態度に、なんとなく心穏やかでないエリス。霧の部屋で浴衣の着付けを教わることになったエリスたち一行。そこでエリスは、偶然にも浩樹が高校時代に描いた霧の肖像画を見てしまう。｢人物画は描かない｣と浩樹は言っていたのに…ショックを受けるエリス。日も暮れて、夏祭りの賑わいの中、それぞれの思いが交錯する…。<br><br>so31880144←前話｜次話→so31880146　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880145
+  default_thread_id: 1504724309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880145
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: 瑠璃色のセンチメンタル
+  description: 新学期が始まり、複雑な胸中を抱きつつも、新聞社主催のコンクールに向けての作品制作に精を出すエリス。その作品で、幼い頃の事故のトラウマで使えなくなった赤色をほんの少しだが使えるようになる。そんな中、浩樹がエリスに嘘をついて霧と会っていたことが判明し、それがきっかけとなって、エリスは、浩樹を｢お兄ちゃん｣としてではなく、一人の男性として見ているということを自覚し始める。このコンクールに入選できたら、浩樹に思いを伝えられるかもしれないと思うエリスだが…。<br><br>so31880145←前話｜次話→so31880147　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880146
+  default_thread_id: 1504724142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880146
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 追憶のスノーホワイト
+  description: ほとんど勢いとはいえ、ついに浩樹に思いを伝えたエリスだったが、浩樹からの答えは、｢妹としてしか見ることができない｣というものだった。浩樹の答えは予想していたものの、エリスはショックを隠しきれない。浩樹も動揺と気まずさを抱えてはいるが、それでも今までどおりに振舞おうとする。そんな浩樹の心遣いがわかってはいても、それが余計に辛く感じられてしまうエリス。突然、浩樹に書置きを残し、姿を消してしまう……!<br><br>so31880146←前話｜次話→so31880159　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880147
+  default_thread_id: 1504724187
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880147
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: 浅支子の距離
+  description: 浩樹と二人の生活に戻るには、まだ気持ちの整理をつけ切れず、朋子の家に居候するエリス。浩樹もそんなエリスの心中を察して、見守ろうとする。エリスと浩樹の間に流れるビミョーな空気を感じ取り、なんとなく気になる霧。そんな中、浩樹は撫子学園の体育祭とエリスの誕生日が重なっていたことを思い出す。このイベントを機会に、なんとか関係を修復したいと互いに思いつつも、なぜかすれ違ってしまう二人だが…。<br><br>so31880147←前話｜次話→so31880160　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880159
+  default_thread_id: 1504725110
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880159
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: 無邪気なエバーグリーン
+  description: 浩樹を思う気持ちに変わりはないが、自分の気持ちに区切りをつけることができたエリス。自立への一歩を踏み出そうと家事に挑戦するが、失敗続き。ギクシャクムードがまだ残っていることが、余計に二人を疲れさせてしまう。そんな時、突然、浩樹の父方の従兄弟である笙子の娘、ハルナを預かることになる。ハルナの存在で、二人の空気が変わることを期待して快く子守を引き受けたまではよかったが、予想していた以上に子供の世話は大変で……?<br><br>so31880159←前話｜次話→so31880161　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880160
+  default_thread_id: 1504725112
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880160
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: セピアのトライアングル
+  description: 理事長代理である鷺ノ宮紗綾から撫子学園への正式な内定を受けた浩樹。そこで特別講師として柳慎一郎が撫子学園に招かれるという話を耳にする。柳慎一郎は、浩樹と霧の幼馴染で、画家になるという同じ夢をもった親友だった。それと同時に、彼は浩樹が絵を描くのを止めた原因の一端だったのである。その柳との予期せぬ再会を目前に、浩樹の胸にさまざまな思いが駆け巡る。そして、閉ざされていた浩樹の過去が今、明らかに……。<br><br>so31880160←前話｜次話→so31880162　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880161
+  default_thread_id: 1504725114
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880161
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: ひめごとはダークネイビー
+  description: 撫子学園で再び出会った浩樹、霧、柳の三人。なんとか普通の対応をしようとする浩樹だが、どうしても過去のわだかまりを捨てきれず、不自然な対応になってしまう。そんな浩樹の態度に気付いてはいるものの、核心には触れられず見守ることしか出来ないエリス。事情を何も知らない霧は、久しぶりの幼馴染の再会を素直に喜び、エリスも交えて、霧の家での食事会を提案する。<br><br>so31880161←前話｜次話→so31880163　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880162
+  default_thread_id: 1504724681
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880162
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: 藍色のプレッシャー
+  description: 絵を描けなくなったのは柳のせいではなく、自分自身の問題だったということを認めた浩樹だったが、まだ絵を描くというところまでは踏み込めないでいた。そんな自分への苛立ちから、理事長代理である紗綾に八つ当たりのような真似をしてしまう。<br><br>so31880162←前話｜次話→so31880164　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880163
+  default_thread_id: 1504724809
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880163
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: 薄紫のオールナイトロング
+  description: ある日曜日、ソレは突然やってきた…!嵐のお騒がせムスメ、可奈である。浩樹のマンションに突然転がり込んできた可奈。現役高校生兼小説家の可奈は、スランプに陥ってしまい、明日締め切りの作品が未だ手付かずのままだという。あげく、折り重なる連日の徹夜のため、可奈はソファーで爆睡!刻一刻と迫る、締め切りまでのタイムリミット!!果たして、締め切りに間に合わせることができるのか!?<br><br>so31880163←前話｜次話→so31880165　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880164
+  default_thread_id: 1504724834
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880164
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: チェリーピンクを届けたい
+  description: 正式に撫子学園への就任が決定した浩樹。その噂を聞きつけて可奈たちが大喜びする中、エリスと浩樹は、それぞれに複雑な思いを抱えていた。浩樹が教師になるということは、絵を完全に諦めることになると思うと、エリスはどうしても手放しでは喜べないのだった。また、浩樹も公務員試験に落ちたことで、少なからず自信を失っていた。とにもかくにも、お祝いパーティーが開かれることになって、エリスたちは各自、準備に大忙し!エリスも、自分にしか出来ないやりかたで、浩樹を応援することを思いつき……。<br><br>so31880164←前話｜次話→so31880166　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880165
+  default_thread_id: 1504724684
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880165
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: トマトレッドを撃て!
+  description: 今まで赤を使うことをかたくなに避けてきたエリスが、赤を使うことに挑戦しようとしていることに気がついた浩樹。同じく、エリスの才能を認めている美術部部長の麻巳も、エリスが赤を使い、才能を思う存分発揮して絵を描けるようになることに期待を抱いていた。ちょうど、撫子学園の文化祭で美術部がカフェを催すこともあり、麻巳は、エリスにケチャップ(赤)を使ったオムライスを作ることを勧めるのだが……。<br><br>so31880165←前話｜次話→so31880167　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880166
+  default_thread_id: 1504724803
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880166
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: ミルキーホワイトの一夜
+  description: 撫子学園新人教師の登竜門としての研修を受けに行くことになった霧。浩樹も後学のため、霧に同行することになった。苦手なレポート発表があるとのこともあって、移動中も緊張しまくりの霧を心配し、サポートする浩樹。なんとか研修も終わって、ほっと一息。帰りの電車の乗車時刻までの間に食事を楽しんだ二人だが、駅に向かう途中、渋滞に巻き込まれ、帰れなくなってしまう。<br><br>so31880166←前話｜次話→so31880168　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880167
+  default_thread_id: 1504725116
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880167
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: マーマレード色の夕暮れ
+  description: 紫衣に、幼馴染からまったく進展しない浩樹との関係を突っ込まれてしまった霧は、さすがに焦りが出はじめる。しかし、そんな霧の気持ちにお構いなしで、相変わらずな浩樹の態度につい苛立ち、当たってしまう霧。折しも、柳の個展の案内状が届いた。浩樹は美術部の引率として会場に赴き、過去を振り切って新しい才能を開花させた柳の作品を見て感慨を覚える中、霧は柳に二人きりでの食事に誘われる。<br><br>so31880167←前話｜次話→so31880170　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880168
+  default_thread_id: 1504724838
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880168
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: クリスタルの白地図
+  description: 教職を目指す浩樹に対して不安を抱いているエリス。絵を描いていたときの浩樹ならば、絵を見れば言葉がなくとも浩樹の気持ちが手に取るようにわかったのに、今の浩樹は何を考えているのか全くわからない。自身のフランス留学の件もあり、揺れるエリスにとっては、余計に浩樹が遠く感じられてしまうのだった。そして霧もまた、浩樹の気持ちに核心を持てずにいるのだった。それぞれの心の距離は……?<br><br>so31880168←前話｜次話→so31880171　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880170
+  default_thread_id: 1504725130
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880170
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: インディゴの夜明けに
+  description: 事故にあってしまったエリスは、軽症で済んだものの、大事をとって入院をすることになった。エリスが事故にあったのは自分のせいかも知れないと自分を責める霧を浩樹は、ただ慰めるしかなかった……。<br><br>so31880170←前話｜次話→so31880172　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880171
+  default_thread_id: 1504724807
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880171
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: クリスマスカラーの決意
+  description: 浩樹への想いは募るものの、絵を描き続けることが自分の歩む道だと決心したエリスはフランスへの留学を決意する。またエリスの想いを知り、戸惑いながらも浩樹とのクリスマスイブを計画する霧。雪と一緒に二人の女性の想いが降り積もる中、撫子学園クリスマスパーティがおこなわれるのであった……。<br><br>so31880171←前話｜次話→so31880173　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880172
+  default_thread_id: 1504724661
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880172
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: 虹色のフィナーレ
+  description: 過去と未来が交錯するクリスマスイブ…。粉雪の舞う中、エリスと霧はそれぞれが思い描いた道へと前進しようとしていた。そして浩樹の前にある道は、真っ白な雪に覆われた道。自分のキャンバスを彩る為に浩樹が選んだ色は……?<br><br>so31880172←前話　第一話→so31880137
+  length_seconds: 1420
+  content_id: so31880173
+  default_thread_id: 1504724836
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880173
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)2005 キャンバス2製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,48 @@
+--- !ruby/hash:SeasonHash
+title: プロジェクトA子2 大徳寺財閥の陰謀
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/5/10165_1_6.png?1427216400000
+outline: 怪力元気娘の摩神英子(A子)、彼女を慕う天然ボケの寿詩子(C子)、英子のライバル大徳寺美子(B子)の3人が繰り広げるハチャメチャ学園SF第2弾。前作でキャラクターデザインだったもりやまゆうじが監督を務める。今回は、A子のライバルB子をクローズアップ。無邪気で可愛いC子を自分のものにしたいと思うB子だったが、それにはC子の慕うA子が邪魔。だが、怪力のA子にB子は歯が立たない。そこで、B子が考え出した作戦とは…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：もりやまゆうじ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：西島克彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：白根一美
+  type: staff
+- !ruby/hash:TagHash
+  name: プロジェクトA子シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: プロジェクトA子2 大徳寺財閥の陰謀
+  description: 怪力元気娘の摩神英子(A子)、彼女を慕う天然ボケの寿詩子(C子)、英子のライバル大徳寺美子(B子)の3人が繰り広げるハチャメチャ学園SF第2弾。前作でキャラクターデザインだったもりやまゆうじが監督を務める。今回は、A子のライバルB子をクローズアップ。無邪気で可愛いC子を自分のものにしたいと思うB子だったが、それにはC子の慕うA子が邪魔。だが、怪力のA子にB子は歯が立たない。そこで、B子が考え出した作戦とは…。<br><br>監督:もりやまゆうじ／原作:西島克彦,白根一美
+  length_seconds: 2927
+  content_id: so32145888
+  default_thread_id: 1508746965
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145888
+staff: "[スタッフ]<br>監督:もりやまゆうじ／原作:西島克彦,白根一美"
+produced_year: "[製作年]<br>1988年"
+copyright: "(C)ファイナル-西島-もりやま/創映新社・ポニーキャニオン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子3 シンデレララプソディ
+- !ruby/hash:SeasonHash
+  title: プロジェクトA子 完結編
+- !ruby/hash:SeasonHash
+  title: A-Ko The VS ＜ヴァーサス＞「GRAY SIDE」
+- !ruby/hash:SeasonHash
+  title: A-Ko The VS ＜ヴァーサス＞「BLUE SIDE」

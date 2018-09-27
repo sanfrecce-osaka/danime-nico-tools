@@ -1,0 +1,33 @@
+--- !ruby/hash:SeasonHash
+title: 超獣機神ダンクーガ Song Special 獣戦機隊Songs
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/0/10140_1_6.png?1427216400000
+outline: TVシリーズの主題歌・挿入歌に新曲を加えた全6曲を収録している。映像はTVシリーズのものを再編集して使用しているが,｢ALONE 孤独の戦士｣と曲間に挿入されるショートアニメは完全新作。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 超獣機神ダンクーガシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 超獣機神ダンクーガ Song Special 獣戦機隊Songs
+  description: 新作アニメのALONE 孤独の戦士を含むTVシリーズの主題歌・挿入歌集全6曲。
+  length_seconds: 1489
+  content_id: so32145754
+  default_thread_id: 1508744895
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145754
+produced_year: "[製作年]<br>1986年"
+copyright: "(c) PRODUCTION REED 1986"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ(TV)
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ GOD BLESS DANCOUGA
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ 白熱の終章

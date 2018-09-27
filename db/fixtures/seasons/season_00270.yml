@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: カクレンボ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/17/6/10176_1_6.png?1427216400000
+outline: 暗い街があった。荒廃し、渾沌とした街の中に出来る隙間。路地の明かりが燈るとき、その向こうには、子供にしかできない遊び、子供にしか入れない世界があった。子供たちは知っている。鬼と呼ばれる異形の者達との｢オトコヨ様のお遊戯｣、秘密の遊び｢カクレンボ｣のことを。行方不明になった妹を探すためにカクレンボに参加する少年ヒコラ、そしてヤイマオ。鬼の正体を暴こうとする3人組のノシガ、タチジ、スク。不気味な双子インム、ヤンク。そしてたった一人の女の子。子供たちは知りたかった。この遊びを、この街を、この世界を‥‥。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 竹内順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木真仁
+  type: cast
+- !ruby/hash:TagHash
+  name: 内藤玲
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林晃子
+  type: cast
+- !ruby/hash:TagHash
+  name: 石橋美佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 植木誠
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森田修平
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桟敷大祐
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：YAMATOWORKS
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：森田修平
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：北里玲二
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：黒史郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：森田修平
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: カクレンボ
+  description: 暗い街があった。荒廃し、渾沌とした街の中に出来る隙間。路地の明かりが燈るとき、その向こうには、子供にしかできない遊び、子供にしか入れない世界があった。子供たちは知っている。鬼と呼ばれる異形の者達との｢オトコヨ様のお遊戯｣、秘密の遊び｢カクレンボ｣のことを。行方不明になった妹を探すためにカクレンボに参加する少年ヒコラ、そしてヤイマオ。鬼の正体を暴こうとする3人組のノシガ、タチジ、スク。不気味な双子インム、ヤンク。そしてたった一人の女の子。子供たちは知りたかった。この遊びを、この街を、この世界を‥‥。<br><br>ヒコラ:竹内順子／ヤイマオ:植木誠／女の子:鈴木真仁／ノシガ:内藤玲／タチジ:石橋美佳／スク:小林晃子<br><br>アニメーション制作:YAMATOWORKS／原案・脚本・監督・絵コンテ・演出・CGI・編集:森田修平／キャラクターデザイン・世界観設定・レイアウト・美術:桟敷大祐／脚本:黒史郎／音楽:北里玲二
+  length_seconds: 1469
+  content_id: so31911637
+  default_thread_id: 1505201770
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911637
+cast: "[キャスト]<br>ヒコラ:竹内順子／ヤイマオ:植木誠／女の子:鈴木真仁／ノシガ:内藤玲／タチジ:石橋美佳／スク:小林晃子"
+staff: "[スタッフ]<br>アニメーション制作:YAMATOWORKS／原案・脚本・監督・絵コンテ・演出・CGI・編集:森田修平／キャラクターデザイン・世界観設定・レイアウト・美術:桟敷大祐／脚本:黒史郎／音楽:北里玲二"
+produced_year: "[製作年]<br>2005年"
+copyright: "(c)YAMATOWORKS/D.I.C"
+related_seasons: !ruby/array:Hashie::Array []

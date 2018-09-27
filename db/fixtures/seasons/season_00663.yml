@@ -1,0 +1,134 @@
+--- !ruby/hash:SeasonHash
+title: 獣王星
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/18/8/11188_1_6.png?1427216400000
+outline: 西暦2436年。人類はその版図を宇宙になで広げ、地球より遥か150光年離れたバルカン星系への移住を果たしていた。そのひとつ、スペースコロニー“ユノ”にうまれ、特権階級の子息として輝かしい未来を約束されていた双児の兄弟トールとラーイは、父の親友・オーディンに両親を殺害されたあげく、存在するはずのない死刑星(キマエラ)へと落とされてしまう。そこは灼熱の昼と極寒の夜を繰り返し、地には肉食性の植物が繁茂する、まさに“地獄”だった。人間性を捨て、文字通り“獣”になった者だけが生き残れる絶望の星――両親の仇を討つため、トールは泣き虫のラーイを抱えつつ、自らの力で生き抜こうと必死にあがく。禁断の惑星キマエラの正体は？自分たちを襲った悲運とこの星の関係は？過酷な運命に翻弄されながら、トールは真実に向かって歩みはじめる・・・・・・！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：ボンズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：錦織博
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：樹なつみ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: 白泉社
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 吉田玲子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 運命
+  description: 西暦２４３６年。両親を殺され死刑星へと送られて来た双子「トール」と「ラーイ」。『獣王星』と呼ばれるこの星は獣にならないと生き残れないという過酷な環境の惑星だった。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>次話→so32081411
+  length_seconds: 1380
+  content_id: so32081410
+  default_thread_id: 1507713729
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081410
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 茶輪（リング）
+  description: トールはティズとサードに助けられ茶輪の砦に来ていた。ティズから「夫になれ」と指名されるがそれを断り砦を去るトール。追いかけてくるティズだが突然地面が揺れ始め…。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081410←前話｜次話→so32081412　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081411
+  default_thread_id: 1507713422
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081411
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 仲間
+  description: トールとティズの前に、ティズのかつてのボス『チェン』が現れる。掟を破ったティズを連れ戻しにやって来たのだ。「帰らなければ殺す」と剣を突きつけてくるチェンだが…。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081411←前話｜次話→so32081413　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081412
+  default_thread_id: 1507713706
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081412
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 挑戦
+  description: トールと同じ『ユノ』から送られて来た囚人コリン。トールの名を聞くと動揺し、ぽつりぽつりと真実を語り始めた。家族を絶望に陥れた張本人の名を聞きトールは困惑する。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081412←前話｜次話→so32081415　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081413
+  default_thread_id: 1507713750
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081413
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 決闘
+  description: サードの策略で茶輪のトップに挑戦する事になったトール。あまりの力の差に勝てる自信のないトールに「お前に一度だけチャンスをやろう」とサードは囁く。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081413←前話｜次話→so32081417　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081415
+  default_thread_id: 1507713722
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081415
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 白狼鬼
+  description: トールが茶輪のトップになってから３年が過ぎた。獣王星では『ブラン・ロウ』率いる白輪が残虐な殺戮を繰り返していた。それを止める為にサパの村へと向かうトールたちだが…<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081415←前話｜次話→so32081418　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081417
+  default_thread_id: 1507713727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081417
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 独立
+  description: "『ブラン・ロウ』の正体はザギだった。うろたえるトールに、ザギは獣王とはただの幻なのだと話し、「一緒に独立戦争を仕掛けないか」と持ちかけてきた。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081417←前話｜次話→so32081419　第一話→so32081410"
+  length_seconds: 1380
+  content_id: so32081418
+  default_thread_id: 1507713404
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081418
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 深層
+  description: カリムを追いかけムーサの狭間に落ちてしまったトール。「お前のせいでザギに捨てられた」と怒りをぶつけてくるカリムに対し、気持ちを打ち明け始めるトール。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081418←前話｜次話→so32081503　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081419
+  default_thread_id: 1507713466
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081419
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 獣王
+  description: カリムを茶輪に引き取る事を決めたトール。ティズは二人の関係に不安を抱きふさぎ込んでしまった。カリムはトールとザギの間で心が揺れ、気持ちを確かめるためにザギの部屋へと向かった。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081419←前話｜次話→so32081504　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081503
+  default_thread_id: 1507714308
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081503
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 悪夢
+  description: 第三十八代獣王としてダガー・パゴダへ迎え入れられたトール。いいしれない不安のなか宇宙港で待っていたのは宿敵オーディンと自分によく似たシグルドという軍人だった。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081503←前話｜次話→so32081505　第一話→so32081410
+  length_seconds: 1380
+  content_id: so32081504
+  default_thread_id: 1507714519
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081504
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 希望
+  description: ワルキューレの暴走を止める為、トールはヘカテへと向かう。獣王の冷凍施設でやりきれない思いを爆発させるトール。突然イヴァの声でバルカン連邦がひた隠しにしてきた真実が語られ始める。<br><br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）<br><br>so32081504←前話　第一話→so32081410
+  length_seconds: 1375
+  content_id: so32081505
+  default_thread_id: 1507714723
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081505
+staff: "[スタッフ]<br>監督:錦織　博／シナリオ（シリーズ構成）:吉田　玲子／スタジオ:ボンズ／原作:樹なつみ『獣王星』（白泉社刊）"
+produced_year: "[製作年]<br>2006年"
+copyright: "（C）1993, 2006　INA, Inc. / 白泉社 /獣王星製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

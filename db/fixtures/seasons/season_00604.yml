@@ -1,0 +1,253 @@
+--- !ruby/hash:SeasonHash
+title: STEINS;GATE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/69/3/10693_1_6.png?1427216400000
+outline: 舞台は2010年夏の秋葉原。厨二病から抜け出せない大学生である岡部倫太郎は、｢未来ガジェット研究所｣を立ち上げ、用途不明の発明品を日々生み出していた。だが、ある日、偶然にも過去へとメールが送れる｢タイムマシン｣を作り出す。世紀の発明と興奮を抑えきれずに、興味本位で過去への干渉を繰り返す。その結果、世界を巻き込む大きな悲劇が、岡部たちに訪れることになるのだが・・・悲劇を回避するために、岡部の孤独な戦いが始まる。果たして彼は、運命を乗り越えることができるのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: STEINS;GATEシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 始まりと終わりのプロローグ
+  description: マッドサイエンティストを自称する“厨二病”の大学生・岡部倫太郎は､発明サークル｢未来ガジェット研究所｣を秋葉原に構え､用途不明の発明品を開発する日々｡そんな折､発明家・中鉢博士の会見を傍聴していた岡部は､偶然そこで天才少女・牧瀬紅莉栖と出会う｡その直後､不審な悲鳴を耳にした岡部が声のする場所へ駆け寄ると､そこには血まみれで倒れる牧瀬紅莉栖の姿が…｡<br><br>次話→so31881426
+  length_seconds: 1420
+  content_id: so31881425
+  default_thread_id: 1504757151
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881425
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 時間跳躍のパラノイア
+  description: 大学の講義の会場で､数時間前に刺されたはずの紅莉栖を見つけ驚愕する岡部｡さらに直後の講義では､タイムマシンの存在について紅莉栖に完膚なきまでに論破されてしまう｡<br><br>so31881425←前話｜次話→so31881427　第一話→so31881425
+  length_seconds: 1420
+  content_id: so31881426
+  default_thread_id: 1504757268
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881426
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 並列過程のパラノイア
+  description: 岡部たちが発明した｢電話レンジ(仮)｣には､偶然にも過去へメールを送れる機能が備わっていたことが判明した｡さらにネット掲示板｢@ちゃんねる｣の情報から､素粒子物理学の研究機関・SERNが秘密裡にタイムマシンの開発を進め､その情報を隠しているとみた岡部は､SERNへのハッキングをダルに命じる｡<br><br>so31881426←前話｜次話→so31881428　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881427
+  default_thread_id: 1504757189
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881427
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 空理彷徨のランデヴー
+  description: SERNへのハッキングに成功するも､謎のプログラムコードに阻まれた岡部たち｡そこで岡部は@ちゃんねるに現われたジョン・タイターという自称“未来人”から､コード解読には幻のレトロPC｢IBN5100｣が必要だと知らされる｡<br><br>so31881427←前話｜次話→so31881429　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881428
+  default_thread_id: 1504757171
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881428
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 電荷衝突のランデヴー
+  description: 柳林神社に奉納されていたIBN5100を紅莉栖と二人でラボに持ち帰った岡部は､早速その接続を試みる｡早くもラボの一員として馴染んだ紅莉栖の協力も得て､さらなるハッキングに成功した岡部たちは､そこでSERNの驚くべき秘密を知るが……｡<br><br>so31881428←前話｜次話→so31881430　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881429
+  default_thread_id: 1504757207
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881429
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 蝶翼のダイバージェンス
+  description: 完全なタイムマシンを開発してSERNを出し抜こうとする岡部は､電話レンジ(仮)で過去にメールを送るための条件を発見するため､ラボメンを集めて｢円卓会議｣を開く｡過去へ送れるメールの事を｢Dメール｣と名付け､実験を繰り返していくうちに､発生条件が次第に明らかになっていく｡そんな中､岡部は街で｢閃光の指圧師｣(シャイニングフィンガー)こと桐生萌郁に出会うが…｡<br><br>so31881429←前話｜次話→so31881431　第一話→so31881425
+  length_seconds: 1420
+  content_id: so31881430
+  default_thread_id: 1504757243
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881430
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 断層のダイバージェンス
+  description: なぜか執拗にIBN5100にこだわる萌郁が気になる岡部だったが､成行き上仕方なく彼女を新しいラボメンに迎えた｡｢Dメール｣が確実に過去に届いていることを確信したラボメン一同は､より詳しい仕組みを解明するため､さらなる実験を繰り返す｡｢結果が一目瞭然｣という理由から｢ロト6を当てる｣ことを目標に､当選結果を過去のるかへメールで送る岡部｡送信後､確かに世界が変わったように思えたのだが…｡<br><br>so31881430←前話｜次話→so31881432　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881431
+  default_thread_id: 1504757128
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881431
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 夢幻のホメオスタシス
+  description: 引き続きDメールの送信を試行錯誤する岡部たち｡実験が成功して過去が改変されたときには､岡部以外の人間はDメールを送った記憶を失っていることがわかった｡ではなぜ岡部だけが記憶を保持していられるのか?ジョン・タイターからの不可解なメッセージが岡部の頭をよぎる｡そんなある日､萌郁が｢自分にもDメールを送らせてくれ｣と申し出る｡4日前に携帯の機種変をしたことを後悔しており､思い止まるよう過去の自分にメールを送りたい､というのだが…｡<br><br>so31881431←前話｜次話→so31881433　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881432
+  default_thread_id: 1504757226
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881432
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 幻相のホメオスタシス (げんそう)
+  description: メイクイーン+ニャン2で､フェイリスとタイムマシンの話をした岡部｡ラボへ戻ると､そこには誰かと携帯電話で話をしている紅莉栖がいた｡その頬に光るものを見て事情を察した岡部は､さりげなく励まそうとするのだが…｡その頃まゆりは､漠然とした不安を抱いていた｡電話レンジを発明して以降の岡部は少しずつ昔と変わってきており､いつか､どこか遠いところへ行ってしまうような気がしていたのだ｡そんな岡部はますます知的探究心を燃やし､｢電話レンジ(仮)を改良して物理的タイムマシンをつくる｣という計画をラボメンに打ち明ける｡反対する紅莉栖がいる一方で､なぜかタイムマシンに強く興味を示すフェイリス｡ラボメンたち各々の思惑が錯綜し…｡<br><br>so31881432←前話｜次話→so31881434　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881433
+  default_thread_id: 1504757153
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881433
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 相生のホメオスタシス (そうせい)
+  description: Dメールの効果で見慣れたアキバが一変してしまった…予想だにせぬ結果を前に呆然とする岡部｡さらにラボに戻ると､るかにも異変が…ところがDメールを送ったという記憶すら持たないまゆりやダルたちラボメンは､当然ながらそれらのことに何の疑問も持たない｡孤独感を強める岡部のもとへ､さらに不安に陥れるような謎のメールが届き…｡<br><br>so31881433←前話｜次話→so31881458　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881434
+  default_thread_id: 1504757126
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881434
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 時空境界のドグマ
+  description: 引き続きDメールの実験を繰り返す岡部たちは､ついに発生条件の鍵となる｢リフター｣の代わりとなるものの正体を突き止める｡次のステップとして｢物理的タイムトラベル｣の実現を目指す岡部だったが､紅莉栖から即座に否定される｡しかし紅莉栖は､専門である脳科学の視点から､記憶をデータ化して過去の自分に送る､いわゆる｢タイムリープ｣の可能性を示唆する｡新たな目標に向け､電話レンジ(仮)を更に改良しようとする岡部たちだったが､その周りで不審な現象が起き始め…｡<br><br>so31881434←前話｜次話→so31881459　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881458
+  default_thread_id: 1504758096
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881458
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 静止限界のドグマ
+  description: ついにタイムリープ実験の準備が整った｡実験には被験者が必要だが､紅莉栖はその判断を岡部に委ねる｡最近の不審な現象が何者かからの“警告”だと考え､ラボメンの身を案じた岡部は､｢実験を行わない｣事､｢タイムリープマシンを世間に公表し､然るべき機関に託す｣事を決める｡岡部の固い決意に安堵するラボメンたち｡喧騒が過ぎ､元の穏やかな日常に戻ったかに思えた一同だったが､そんな状況を一変させる､恐ろしい出来事が彼らを待ち受けていたのだった…｡<br><br>so31881458←前話｜次話→so31881460　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881459
+  default_thread_id: 1504758058
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881459
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 形而上のネクローシス
+  description: ラボへの招かれざる来訪者により､岡部たちの日常が一変する｡岡部は最悪の結末を回避するため､苦肉の策として､タイムリープマシンによって過去の改変を試みる｡幾度もタイムリープを繰り返す岡部だったが､そのすべてが同じ結果に収束する｡果たして運命を変えることは不可能なのか?2010年8月13日､この日より､岡部の｢終わりなき旅｣が始まるのだった…｡<br><br>so31881459←前話｜次話→so31881461　第一話→so31881425
+  length_seconds: 1420
+  content_id: so31881460
+  default_thread_id: 1504758064
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881460
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 形而下のネクローシス
+  description: 何度タイムリープしても､どのように過去を改変しようとしても､ただ一つの結果を変えられないことに絶望する岡部｡それでも諦めずにタイムリープを繰り返すが､ついに心折れそうになった何度目かのタイムリープ先で､紅莉栖にこれまでの経緯を打ち明ける｡それを聞いた紅莉栖は…｡<br><br>so31881460←前話｜次話→so31881462　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881461
+  default_thread_id: 1504758094
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881461
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 亡環上のネクローシス
+  description: 鈴羽の衝撃の告白に驚く岡部と紅莉栖｡彼女から与えられた情報によれば､まゆりの死を回避するためには､IBN5100が必要との事｡IBN5100を手に入れるために､岡部たちと別れて探しに行くという鈴羽｡そんな中､鈴羽が父親に会いたがっている事を思い出したまゆりは､何とか別れの前に父親と会わせてあげたいと提案する｡唯一の手がかりであるピンバッジをもとに､岡部たちは父親探しを始めるのだが…｡<br><br>so31881461←前話｜次話→so31881463　第一話→so31881425
+  length_seconds: 1420
+  content_id: so31881462
+  default_thread_id: 1504758128
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881462
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 不可逆のネクローシス
+  description: ピンバッジを頼りに鈴羽の父親を探す岡部たち｡父親と思われる人物に辿りつくヒントを得るも､その正体はわからないまま､鈴羽との別れが近づいていく｡そんな中､まゆりが唐突に｢鈴羽の父親がわかった｣と言う｡その人物は､誰もが思ってもみなかった意外な人だった｡そして無事に鈴羽は父親と感動の出会いを果たし､岡部たちに別れを告げるのだが…｡<br><br>so31881462←前話｜次話→so31881464　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881463
+  default_thread_id: 1504758090
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881463
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 虚像歪曲のコンプレックス
+  description: 何度タイムリープしてもまゆりを助けられない事に絶望した岡部は､これまでの経緯を紅莉栖に相談する｡そんな岡部に紅莉栖は｢これまで送ったDメールを全てさかのぼって取り消せばまゆりの死を回避できるのでは?｣との仮説を提示する｡そして岡部は､まずはフェイリスが送った内容不明のDメールを取り消すために､｢雷ネットアクセスバトラーズ｣の大会が行われている会場に向かい､フェイリスが送ったDメールの内容を聞き出すのだが…｡<br><br>so31881463←前話｜次話→so31881465　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881464
+  default_thread_id: 1504758062
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881464
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 自己相似のアンドロギュノス
+  description: 続いてるかのDメールを取り消すようるかにお願いに行く岡部｡だが､るかが出した条件は｢岡部が一日だけるかとデートをする｣というものだった｡初デートに戸惑う岡部は､紅莉栖やダルから様々なアドバイスを受け､デート当日に臨んだが､結果は散々なものに｡思い立った岡部は､改めてるかに会いに柳林神社に向かう｡<br><br>so31881464←前話｜次話→so31881466　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881465
+  default_thread_id: 1504758060
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881465
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 無限連鎖のアポトーシス
+  description: ついに残りのDメールはあと一つ､萌郁が送ったものだけとなる｡萌郁を探し､ようやくアパートを突き止める岡部｡Dメールの内容を知るため､萌郁から携帯を奪おうとして彼女と乱闘となる｡萌郁の身の上話など､様々な話を聞き出した後､ようやくDメール取り消しメールを送る事ができた岡部だったが…｡<br><br>so31881465←前話｜次話→so31881467　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881466
+  default_thread_id: 1504758129
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881466
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 怨嗟断絶のアポトーシス
+  description: 萌郁からIBN5100が大ビル前のコインロッカーの中にある事を聞き出した岡部は､さっそく現地に向かい､ロッカーを破壊して取り出そうとする｡だが､紅莉栖のアドバイスで､ラウンダーの指揮官である“FB”の正体を突き止めるために､ラウンダーがIBN5100を回収に来るまでロッカーを見張る事に｡苦労しながらもなんとか尾行を成功させ､ようやく“FB”の正体を付きとめられたかに思えたが…｡<br><br>so31881466←前話｜次話→so31881491　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881467
+  default_thread_id: 1504758092
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881467
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 因果律のメルト
+  description: ダイバージェンス1%の壁を超え､まゆりが死なないβ世界線へ移動するために､IBN5100を使ってSERNのサーバーへハッキングを試みる岡部たち｡そんな中､岡部はβ世界線への移動に伴う､あるリスクに気付き､ダルによるハッキングを一旦中止させるのだが…｡<br><br>so31881467←前話｜次話→so31881492　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881491
+  default_thread_id: 1504759292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881491
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 存在了解のメルト
+  description: ラジ館の屋上で一人佇む紅莉栖を見つける岡部｡話を始める2人だったが､突如降りだした大雨により､屋内へ移動する｡岡部のびしょ濡れになった白衣の肩口が破れているのを見つけた紅莉栖は､自前のソーイングセットで破れた部分を縫うことに｡暗闇が二人を包む中､紅莉栖は岡部にある決意を伝える｡<br><br>so31881491←前話｜次話→so31881493　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881492
+  default_thread_id: 1504758647
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881492
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 境界面上のシュタインズゲート
+  description: 思いがけない人物からの連絡を受け､ラジ館の屋上､タイムマシンの前に集まった岡部・まゆり・ダルの3人は､そこで驚くべき説明を受ける｡その内容とは､アトラクタフィールドの影響を受けない唯一の世界線｢シュタインズ・ゲート｣に到達する事で､再び未来を変えることができる､というものだった｡最後の決断を迫られた岡部が選んだ行動は……?<br><br>so31881492←前話｜次話→so31881494　第一話→so31881425
+  length_seconds: 1419
+  content_id: so31881493
+  default_thread_id: 1504758901
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881493
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 終わりと始まりのプロローグ
+  description: いよいよ最終ミッション｢オペレーション・スクルド｣を実行に移す岡部たちラボメン一同｡果たして岡部は｢シュタインズ・ゲート｣に到達する事が出来るのか……?<br><br>so31881493←前話｜次話→so33101950
+    　第一話→so31881425
+  length_seconds: 1420
+  content_id: so31881494
+  default_thread_id: 1504758961
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881494
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話 改変版（β版）
+  title: 境界面上のミッシングリンク
+  description: 絶望に押しつぶされた岡部を気遣うまゆり。岡部は、紅莉栖を救うことを諦め、世界の命運を背負うその重責から解放される。だが、そこは紅莉栖との出会い、ラボメンとして過ごした日々が、なかったことになっている世界線であった。罪悪感を抱えたまま過ごす岡部に、"β世界線"はどのような未来を見せるのか？<br><br>(C)2011
+    5pb./Nitroplus 未来ガジェット研究所<br><br>so31881494←前話　第一話→so31881425
+  length_seconds: 1420
+  content_id: so33101950
+  default_thread_id: 1524560875
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33101950
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)2011 5pb./Nitroplus 未来ガジェット研究所"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: シュタインズ・ゲート ゼロ
+- !ruby/hash:SeasonHash
+  title: 劇場版 STEINS;GATE 負荷領域のデジャヴ

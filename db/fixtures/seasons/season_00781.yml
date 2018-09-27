@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: 冥王計画ゼオライマー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/7/11327_1_6.png?1427216400000
+outline: "｢ゼオライマー｣の搭乗者として生まれた秋津マサトは、八卦衆との無情な戦いに巻き込まれていく…。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴置洋孝
+  type: cast
+- !ruby/hash:TagHash
+  name: 本多知恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐久間レイ
+  type: cast
+- !ruby/hash:TagHash
+  name: 荘真由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 辻村真人
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菊池通隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：会川昇
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ちみもりを
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 二重人格
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+- !ruby/hash:TagHash
+  name: 森木靖泰
+  type: other
+- !ruby/hash:TagHash
+  name: 平野俊弘
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: プロジェクトI
+  title: "－決別－"
+  description: 八卦ロボ｢天のゼオライマー｣の奪還のため、八卦衆の耐爬が操る八卦ロボ｢風のランスター｣が、日本に襲来した。ごく普通の家庭で育った少年のマサトは、突如ゼオライマーのパイロットして戦いを強いられることになってしまう…。<br><br>秋津マサト:関俊彦／氷室美久:本多知恵子／沖功:田中秀幸／幽羅帝:荘真由美／耐爬:鈴置洋孝／シ・アエン:佐久間レイ／シ・タウ:佐々木優子／ロクフェル:勝生真沙子／祗鎗:玄田哲章／塞臥:塩沢兼人／葎:速水奨／ルラーン:辻村真人<br><br>原作:ちみもりを／脚本:会川昇／絵コンテ:平野俊弘／作画監督・キャラクターデザイン:菊池通隆／メカニックデザイン:森木靖泰／制作:AIC<br><br>次話→so32041262
+  length_seconds: 1624
+  content_id: so32041261
+  default_thread_id: 1507071596
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041261
+- !ruby/hash:EpisodeHash
+  episode_no: プロジェクトII
+  title: "－疑惑－"
+  description: 最愛の恋人である八卦衆の耐爬を失った鉄甲龍の長である幽羅帝。彼女は、双子の姉妹で八卦衆のシ・アエンとシ・タウを連れて日本へ現れた。鉄甲龍によって捕まったマサトは、幽羅帝から自らの出生の秘密を聞かされる…。<br><br>秋津マサト:関俊彦／氷室美久:本多知恵子／沖功:田中秀幸／幽羅帝:荘真由美／耐爬:鈴置洋孝／シ・アエン:佐久間レイ／シ・タウ:佐々木優子／ロクフェル:勝生真沙子／祗鎗:玄田哲章／塞臥:塩沢兼人／葎:速水奨／ルラーン:辻村真人<br><br>原作:ちみもりを／脚本:会川昇／絵コンテ:平野俊弘／作画監督・キャラクターデザイン:菊池通隆／メカニックデザイン:森木靖泰／制作:AIC<br><br>so32041261←前話｜次話→so32041263　第一話→so32041261
+  length_seconds: 1640
+  content_id: so32041262
+  default_thread_id: 1507071602
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041262
+- !ruby/hash:EpisodeHash
+  episode_no: プロジェクトIII
+  title: "－覚醒－"
+  description: 鉄甲龍に美久が拉致されてしまった。そこへ仮面で素顔を隠す八卦衆の葎が、八掛ロボ｢月のローズセラヴィー｣を操り襲来する。美久を欠いたまま、出撃するゼオライマー。だが、ゼオライマーはいつものパワーが出せずにいた…。<br><br>秋津マサト:関俊彦／氷室美久:本多知恵子／沖功:田中秀幸／幽羅帝:荘真由美／耐爬:鈴置洋孝／シ・アエン:佐久間レイ／シ・タウ:佐々木優子／ロクフェル:勝生真沙子／祗鎗:玄田哲章／塞臥:塩沢兼人／葎:速水奨／ルラーン:辻村真人<br><br>原作:ちみもりを／脚本:会川昇／絵コンテ:平野俊弘／作画監督・キャラクターデザイン:菊池通隆／メカニックデザイン:森木靖泰／制作:AIC<br><br>so32041262←前話｜次話→so32041264　第一話→so32041261
+  length_seconds: 1637
+  content_id: so32041263
+  default_thread_id: 1507071557
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041263
+- !ruby/hash:EpisodeHash
+  episode_no: プロジェクトIV
+  title: "－終焉－"
+  description: 大半の八卦衆を倒された幽羅帝は、八卦ロボ｢地のディノディロス｣、｢山のバーストン｣、｢雷のオムザック｣による全面的な破壊を開始した。その中、三体を富士に集結させた八卦衆の塞臥は、マサトに手を組もうと持ちかけるが…。<br><br>秋津マサト:関俊彦／氷室美久:本多知恵子／沖功:田中秀幸／幽羅帝:荘真由美／耐爬:鈴置洋孝／シ・アエン:佐久間レイ／シ・タウ:佐々木優子／ロクフェル:勝生真沙子／祗鎗:玄田哲章／塞臥:塩沢兼人／葎:速水奨／ルラーン:辻村真人<br><br>原作:ちみもりを／脚本:会川昇／絵コンテ:平野俊弘／作画監督・キャラクターデザイン:菊池通隆／メカニックデザイン:森木靖泰／制作:AIC<br><br>so32041263←前話　第一話→so32041261
+  length_seconds: 1780
+  content_id: so32041264
+  default_thread_id: 1507071692
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041264
+cast: "[キャスト]<br>秋津マサト:関俊彦／氷室美久:本多知恵子／沖功:田中秀幸／幽羅帝:荘真由美／耐爬:鈴置洋孝／シ・アエン:佐久間レイ／シ・タウ:佐々木優子／ロクフェル:勝生真沙子／祗鎗:玄田哲章／塞臥:塩沢兼人／葎:速水奨／ルラーン:辻村真人"
+staff: "[スタッフ]<br>原作:ちみもりを／脚本:会川昇／絵コンテ:平野俊弘／作画監督・キャラクターデザイン:菊池通隆／メカニックデザイン:森木靖泰／制作:AIC"
+produced_year: "[製作年]<br>1988年"
+copyright: "(C)ちみもりを・AIC"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,44 @@
+--- !ruby/hash:SeasonHash
+title: 本マグロ トロ太郎
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/59/1/10591_1_6.png?1427216400000
+outline: サンプラザ中野くんによるアニメ作品。主役はトロ太郎。ライバルはアボガドボーイ。そして先生役のオクトパス・タコ8世伯爵。みんなボケキャラ。しかしこの3人を中心に話は始まっていくのである。。。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: サンプラザ中野くん
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：サンプラザ中野くん
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：サンプラザ中野くん
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：サンプラザ中野くん
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サンプラザ中野くん
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第26話
+  title: 教室の巻/教室の続きの巻/アボカドボーイの人となりの巻　ほか
+  description: '視聴者からの質問の巻/ちらし寿司君は悩んでいるの巻/トロ太郎の富士登山の巻/肉肉団再びの巻/サーモン君がさー問題だの巻/肉肉団から迷惑なプレゼントの巻/超能力戦士印度マグロトロババ登場の巻き寿司/愛して恋してなますてーの巻寿司/トロ太郎の幼少時代
+    の巻寿司/ 顔は男の命だね の 巻き寿司/刑事さんがやってきたの巻き寿司/教えてトロ太郎の巻き 寿司/湯飲みの中に誰かいる!の巻寿司<br><br>出演者:サンプラザ中野くん<br><br>監督・原作・脚本:サンプラザ中野くん／音楽:
+    サンプラザ中野くん'
+  length_seconds: 1592
+  content_id: so32036559
+  default_thread_id: 1507004498
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036559
+cast: "[キャスト]<br>出演者:サンプラザ中野くん"
+staff: "[スタッフ]<br>監督・原作・脚本:サンプラザ中野くん／音楽: サンプラザ中野くん"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

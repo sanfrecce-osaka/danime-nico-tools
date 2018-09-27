@@ -1,0 +1,94 @@
+--- !ruby/hash:SeasonHash
+title: 桃屋×Peeping Life　ご縁ですよ！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/0/11420_1_6.png?1427216400000
+outline: 半笑い脱力系の即興芝居とCGアニメーションを融合させた、ムダ使いCGアニメ・ショートコメディー。人々の日常会話のワンシーンの中で、偶然に生まれる間や意味のないしぐさなどを切り取ったショートアドリブストーリー。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 森りょういち
+  type: cast
+- !ruby/hash:TagHash
+  name: わたさわみちよ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 鮫島瑞季
+  type: other
+- !ruby/hash:TagHash
+  name: 星邑タツヤ
+  type: other
+- !ruby/hash:TagHash
+  name: 櫛来禎
+  type: other
+- !ruby/hash:TagHash
+  name: 中村弘毅
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#3"
+  title: ラー油ちゃんの場合／やわらぎちゃんの場合／ごはんですよ！さんの場合
+  description: 彼女が欲しい白飯くんは、取引先の受付嬢のラー油ちゃんを食事に誘う事に成功。2人で高級レストランで食事をするが…／白飯くん、会社の総務のやわらぎちゃんをカラオケに誘う事に成功。良い感じに盛り上がり、そろそろ帰る時間になって…／白飯くん、今度は同僚のごはんですよ!さんを誘ってご飯を食べに行く。どうやらごはんですよ！さんには気になる人がいて…<br><br>出演:森りょういち,わたさわみちよ<br><br>監督:森りょういち／アニメーション:株式会社FOREST
+    Hunting One・諌山裕大,鮫島瑞季,星邑タツヤ,森りょういち,中村弘毅,櫛来禎,中原真美,岡田梨沙／撮影・編集:諌山裕大／ラインマネージャー:鮫島瑞季<br><br>次話→so31940088
+  length_seconds: 906
+  content_id: so31940050
+  default_thread_id: 1505610830
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940050
+- !ruby/hash:EpisodeHash
+  episode_no: "#4-#6"
+  title: ザーサイちゃんの場合／白飯くんの場合／きざみにんにくちゃんの場合
+  description: ひょんな事から知り合ったギャルのザーサイちゃんと、ファミレスで話す白飯くん。次第に意気投合していくが…／自宅で1人きりの白飯くん。ご飯を食べながら、これまでの女の子との出来事を振り返るが…／就活生のきざみにんにくちゃんが、白飯くんをOB訪問中。後輩の女の子に良いところを見せようと張り切るが…<br><br>出演:森りょういち,わたさわみちよ<br><br>監督:森りょういち／アニメーション:株式会社FOREST
+    Hunting One・諌山裕大,鮫島瑞季,星邑タツヤ,森りょういち,中村弘毅,櫛来禎,中原真美,岡田梨沙／撮影・編集:諌山裕大／ラインマネージャー:鮫島瑞季<br><br>so31940050←前話｜次話→so31940089　第一話→so31940050
+  length_seconds: 903
+  content_id: so31940088
+  default_thread_id: 1505611475
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940088
+- !ruby/hash:EpisodeHash
+  episode_no: "#7-#9"
+  title: きざみしょうがさんの場合／キムチの素子ちゃんの場合／リベンジ ラー油ちゃんの場合
+  description: 仕事先で、きざみしょうがさんの素早い仕事ぶりに感謝する白飯くん。以前、“きざみ”という苗字の女性に会った事が無いかと問われ…／同窓会の帰り道、一緒にタクシーに乗った白飯くんとキムチの素子ちゃん。元気が無い白飯くんを励まそうとするが…／大衆酒場にラー油ちゃんを誘いだす事に成功した白飯くん。白飯くんの人に言えない趣味が明らかになった時、2人の距離が縮み始めるが…<br><br>出演:森りょういち,わたさわみちよ<br><br>監督:森りょういち／アニメーション:株式会社FOREST
+    Hunting One・諌山裕大,鮫島瑞季,星邑タツヤ,森りょういち,中村弘毅,櫛来禎,中原真美,岡田梨沙／撮影・編集:諌山裕大／ラインマネージャー:鮫島瑞季<br><br>so31940088←前話　第一話→so31940050
+  length_seconds: 944
+  content_id: so31940089
+  default_thread_id: 1505611477
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31940089
+cast: "[キャスト]<br>出演:森りょういち,わたさわみちよ"
+staff: "[スタッフ]<br>監督:森りょういち／アニメーション:株式会社FOREST Hunting One・諌山裕大,鮫島瑞季,星邑タツヤ,森りょういち,中村弘毅,櫛来禎,中原真美,岡田梨沙／撮影・編集:諌山裕大／ラインマネージャー:鮫島瑞季"
+produced_year: "[製作年]<br>2013年"
+copyright: "（C）FOREST Hunting One/CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

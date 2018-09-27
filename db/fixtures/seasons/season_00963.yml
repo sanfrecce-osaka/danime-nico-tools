@@ -1,0 +1,74 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版 デジモンアドベンチャー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/9/20419_1_6.png?1444268750000
+outline: 真夜中のパソコン画面から奇妙な生物・ボタモンが生まれる。不安がる太一をよそに、大喜びの妹・ヒカリ。やがて、ボタモンは“コロモン”、“アグモン”へと進化する！そんな時、デジタルモンスターたちの住んでいるデジタルワールドが出現する。そこへ怪鳥型モンスターがアグモン目掛けて突進してくる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 坂本千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田淑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒木香恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：吉田玲子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：有澤孝紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：細田守
+  type: staff
+- !ruby/hash:TagHash
+  name: デジモンアドベンチャーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: デジモンシリーズ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: デジモンアドベンチャー
+  description: 真夜中のパソコン画面から奇妙な生物・ボタモンが生まれる。不安がる太一をよそに、大喜びの妹・ヒカリ。やがて、ボタモンは“コロモン”、“アグモン”へと進化する！そんな時、デジタルモンスターたちの住んでいるデジタルワールドが出現する。そこへ怪鳥型モンスターがアグモン目掛けて突進してくる。<br><br>八神太一:藤田淑子／八神ヒカリ:荒木香恵／コロモン:坂本千夏<br><br>原案:本郷あきよし／監督:細田守／脚本:吉田玲子／音楽:有澤孝紀
+  length_seconds: 1221
+  content_id: so32158376
+  default_thread_id: 1508931931
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32158376
+cast: "[キャスト]<br>八神太一:藤田淑子／八神ヒカリ:荒木香恵／コロモン:坂本千夏"
+staff: "[スタッフ]<br>原案:本郷あきよし／監督:細田守／脚本:吉田玲子／音楽:有澤孝紀"
+produced_year: "[製作年]<br>1999年"
+copyright: "©本郷あきよし・東映アニメーション　©東映・集英社・東映アニメーション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー　ぼくらのウォーゲーム
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 前編 デジモンハリケーン上陸！！ 後編 超絶進化！！黄金のデジメンタル
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 ディアボロモンの逆襲
+- !ruby/hash:SeasonHash
+  title: デジモンテイマーズ 冒険者たちの戦い
+- !ruby/hash:SeasonHash
+  title: デジモンテイマーズ 暴走デジモン特急
+- !ruby/hash:SeasonHash
+  title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
+- !ruby/hash:SeasonHash
+  title: デジモンユニバース アプリモンスターズ
+- !ruby/hash:SeasonHash
+  title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～

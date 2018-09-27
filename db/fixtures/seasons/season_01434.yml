@@ -1,0 +1,76 @@
+--- !ruby/hash:SeasonHash
+title: プロゴルファー猿「SARU IN U.S.A 激突！猿VSホーク -ワイルドプロ決定戦-」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/44/5/20445_1_6.png?1445568956000
+outline: ミスターXから猿あてに届いた一通のエアメール。それはアメリカが誇る天才ゴルフ少年・レッドホークとの対戦を促す招待状だった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 富田耕生
+  type: cast
+- !ruby/hash:TagHash
+  name: 中尾隆聖
+  type: cast
+- !ruby/hash:TagHash
+  name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江美都子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野文
+  type: cast
+- !ruby/hash:TagHash
+  name: 江森浩子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鵜飼るみ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島昭生
+  type: cast
+- !ruby/hash:TagHash
+  name: 頓宮恭子
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：城山昇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：筒井広
+  type: staff
+- !ruby/hash:TagHash
+  name: プロゴルファー猿シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1985年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: プロゴルファー猿「SARU IN U.S.A 激突！猿VSホーク -ワイルドプロ決定戦-」
+  description: ミスターXから猿あてに届いた一通のエアメール。それはアメリカが誇る天才ゴルフ少年・レッドホークとの対戦を促す招待状だった。<br><br>猿丸:頓宮恭子／中丸:高木早苗／大丸:峰あつ子／小丸:原えり子／母:高村章子／姉:鵜飼るみ子／おっちゃん:富田耕生／若葉:堀江美都子／ミスターX:内海賢二／紅蜂:平野文／ディンプルチャン:田中真弓／ナレーション:野島昭生／オイルダラー:永井一郎／レッドホーク:中尾隆聖／デイジー:江森浩子／スチュワーデス:小林優子<br><br>チーフディレクター:西村純二／脚本:城山昇／作画監督:本橋秀之／美術監督:土師勝弘／撮影監督:山田廣明／録音監督:浦上靖夫／音楽:筒井広
+  length_seconds: 2317
+  content_id: so32158586
+  default_thread_id: 1508934757
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32158586
+cast: "[キャスト]<br>猿丸:頓宮恭子／中丸:高木早苗／大丸:峰あつ子／小丸:原えり子／母:高村章子／姉:鵜飼るみ子／おっちゃん:富田耕生／若葉:堀江美都子／ミスターX:内海賢二／紅蜂:平野文／ディンプルチャン:田中真弓／ナレーション:野島昭生／オイルダラー:永井一郎／レッドホーク:中尾隆聖／デイジー:江森浩子／スチュワーデス:小林優子"
+staff: "[スタッフ]<br>チーフディレクター:西村純二／脚本:城山昇／作画監督:本橋秀之／美術監督:土師勝弘／撮影監督:山田廣明／録音監督:浦上靖夫／音楽:筒井広"
+produced_year: "[製作年]<br>1985年"
+copyright: "©藤子スタジオ／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: プロゴルファー猿｢82年版 プロゴルファー猿SP｣
+- !ruby/hash:SeasonHash
+  title: プロゴルファー猿

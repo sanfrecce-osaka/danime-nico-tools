@@ -1,0 +1,418 @@
+--- !ruby/hash:SeasonHash
+title: 異世界の聖機師物語
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/47/2/10472_1_6.png?1427216400000
+outline: "｢ジェミナー｣と呼ばれる異世界を舞台に数十メートルを超える巨人が闊歩する!強力な亜法動力で動く巨大な人型兵器｢聖機人｣。それを動かすパイロットとして一人の少年が地球より召喚される。その名は｢柾木剣士｣...彼こそが梶島ワールドの名を継ぐ最強の少年、そして運命の少年であった…。｢天地無用!GXP｣(’02年)発表以前から梶島正樹が構想し、梶島ファンの間でその存在が噂されていた｢異世界の聖機師物語｣がついにそのベールを脱ぐ!アクションあり、恋愛あり、温泉あり?!の学園コメディ、乞うご期待!"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野田順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 米澤円
+  type: cast
+- !ruby/hash:TagHash
+  name: 恒松あゆみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 中川里江
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺はじめ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：多田彰文
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：梶島正樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉川浩司
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：BeSTACK
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: 最強ヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: 鷲尾直広
+  type: other
+- !ruby/hash:TagHash
+  name: 草薙
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺淳
+  type: other
+- !ruby/hash:TagHash
+  name: 右山章太
+  type: other
+- !ruby/hash:TagHash
+  name: 白根秀樹
+  type: other
+- !ruby/hash:TagHash
+  name: 須江信人
+  type: other
+- !ruby/hash:TagHash
+  name: 松山愛子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 白と黒の聖機人 前編
+  description: 白い…白い聖機人が｣戴冠式を終え、皇位に即いたラシャラ皇の船を襲撃する白い聖機人。それはこの世界では常識外の騎体だった。ラシャラの聖機師、キャイアを翻弄する凄まじき力を持つ白い聖機人にはもう一つの秘密があった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>次話→so31874651<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31874674
+  default_thread_id: 1504644211
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874674
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 白と黒の聖機人 後編
+  description: 白い…白い聖機人が｣戴冠式を終え、皇位に即いたラシャラ皇の船を襲撃する白い聖機人。それはこの世界では常識外の騎体だった。ラシャラの聖機師、キャイアを翻弄する凄まじき力を持つ白い聖機人にはもう一つの秘密があった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31874674←前話｜次話→so31875512　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31874651
+  default_thread_id: 1504643242
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874651
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 聖地へ 前編
+  description: あ奴は我の従者として、聖地へ連れて行く｣ラシャラ皇の乗るスワンの眼前に女神を模したと言われる、白銀に輝く巨大な聖地の門が見えて来る。そこは大陸中から聖機師や王侯貴族の子弟が学ぶ巨大な学園であった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31874651←前話｜次話→so31875513　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875512
+  default_thread_id: 1504669517
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875512
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 聖地へ 後編
+  description: あ奴は我の従者として、聖地へ連れて行く｣ラシャラ皇の乗るスワンの眼前に女神を模したと言われる、白銀に輝く巨大な聖地の門が見えて来る。そこは大陸中から聖機師や王侯貴族の子弟が学ぶ巨大な学園であった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875512←前話｜次話→so31875514　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875513
+  default_thread_id: 1504669504
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875513
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 働かざる者…… 前編
+  description: ｢寮で働く?｣聖地に広がる広大な森林で狩りをする剣士に、ラシャラ皇は聖地で働くように命じる。それは剣士を自分の従者として、教会や聖機師、王侯貴族達、特権階級へ認識させるためであった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875513←前話｜次話→so31875515　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875514
+  default_thread_id: 1504669367
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875514
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 働かざる者…… 後編
+  description: ｢寮で働く?｣聖地に広がる広大な森林で狩りをする剣士に、ラシャラ皇は聖地で働くように命じる。それは剣士を自分の従者として、教会や聖機師、王侯貴族達、特権階級へ認識させるためであった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875514←前話｜次話→so31875516　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875515
+  default_thread_id: 1504669091
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875515
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ペンダント 前編
+  description: スワンが穴だらけじゃと?｣それはスワンに埋まる水晶を掘り出していた剣士の仕業であった。問い詰めるキャイアは、剣士の大事なペンダントの鎖を壊してしまう。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875515←前話｜次話→so31875517　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875516
+  default_thread_id: 1504669341
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875516
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ペンダント 後編
+  description: スワンが穴だらけじゃと?｣それはスワンに埋まる水晶を掘り出していた剣士の仕業であった。問い詰めるキャイアは、剣士の大事なペンダントの鎖を壊してしまう。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875516←前話｜次話→so31875518　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875517
+  default_thread_id: 1504669321
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875517
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 追われ追われて 前編
+  description: 本件は全員一致で可決いたしました｣ラシャラの提案により、剣士は皇族、大貴族のみで構成された生徒会の会員に任命される。そこには雑用係という名目の裏に、ある思惑が潜んでいた。剣士は生徒会役員と繋がりたい聖機師達に追い回され始める。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875517←前話｜次話→so31875519　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875518
+  default_thread_id: 1504669093
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875518
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 追われ追われて 後編
+  description: 本件は全員一致で可決いたしました｣ラシャラの提案により、剣士は皇族、大貴族のみで構成された生徒会の会員に任命される。そこには雑用係という名目の裏に、ある思惑が潜んでいた。剣士は生徒会役員と繋がりたい聖機師達に追い回され始める。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875518←前話｜次話→so31875520　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875519
+  default_thread_id: 1504669311
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875519
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: バカンス 前編
+  description: もちろんそれにかかる費用は、こちらが全て持ちますよ｣マリアの母、女王フローラの招待を受け、ラシャラ達はハヴォニワの高級保養地へ向かう。旅の途中、剣士は友人のセレスと出会うが、彼の旅には、ある秘密が隠されていた。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875519←前話｜次話→so31875521　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875520
+  default_thread_id: 1504669383
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875520
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: バカンス 後編
+  description: もちろんそれにかかる費用は、こちらが全て持ちますよ｣マリアの母、女王フローラの招待を受け、ラシャラ達はハヴォニワの高級保養地へ向かう。旅の途中、剣士は友人のセレスと出会うが、彼の旅には、ある秘密が隠されていた。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875520←前話｜次話→so31875522　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875521
+  default_thread_id: 1504669241
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875521
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 競武大会 前編
+  description: これより競武大会を開催する!｣夏休み明けの倦怠を払拭するために、ダグマイアの提案した競武大会の開催が決定した。予選から盛り上がりを見せる大会であったが、そこには思いもかけない目的が隠されていた。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875521←前話｜次話→so31875523　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875522
+  default_thread_id: 1504669473
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875522
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 競武大会 後編
+  description: これより競武大会を開催する!｣夏休み明けの倦怠を払拭するために、ダグマイアの提案した競武大会の開催が決定した。予選から盛り上がりを見せる大会であったが、そこには思いもかけない目的が隠されていた。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875522←前話｜次話→so31875525　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875523
+  default_thread_id: 1504669361
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875523
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 襲来 前編
+  description: 行こう。我らが勝利者となる朝だ｣ダグマイア率いる男性聖機師と山賊は、生徒達の寝静まる深夜、聖地の重要施設を占拠する。目を覚ました生徒達が見た物は無防備となった聖地に侵攻して来る。シトレイユ旗艦バベルであった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875523←前話｜次話→so31875526　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875525
+  default_thread_id: 1504669515
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875525
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 襲来 後編
+  description: 行こう。我らが勝利者となる朝だ｣ダグマイア率いる男性聖機師と山賊は、生徒達の寝静まる深夜、聖地の重要施設を占拠する。目を覚ました生徒達が見た物は無防備となった聖地に侵攻して来る。シトレイユ旗艦バベルであった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875525←前話｜次話→so31875527　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875526
+  default_thread_id: 1504669543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875526
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 思惑 前編
+  description: 「表情が優れんようだが、疲れたか?｣ババルンによって占拠された聖地から、多くの生徒達と共に避難をするスワン。重苦しい空気を明るくしているのは剣士の存在だった。だが冷たく光る剣を持ち剣士に近付く影があった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875526←前話｜次話→so31875528　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875527
+  default_thread_id: 1504669239
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875527
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 思惑 後編
+  description: 「表情が優れんようだが、疲れたか?｣ババルンによって占拠された聖地から、多くの生徒達と共に避難をするスワン。重苦しい空気を明るくしているのは剣士の存在だった。だが冷たく光る剣を持ち剣士に近付く影があった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875527←前話｜次話→so31875529　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875528
+  default_thread_id: 1504669313
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875528
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 家 前編
+  description: ｢何だ、あの黒い奴は!?｣突如、シュリフォンを襲撃するダグマイア率いるババルン軍。その中にガイアの盾を持つ黒い聖機人がいた。シュリフォンの首都を壊滅させたダグマイアと黒い聖機人はさらに……。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875528←前話｜次話→so31875530　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875529
+  default_thread_id: 1504669245
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875529
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 家 後編
+  description: ｢何だ、あの黒い奴は!?｣突如、シュリフォンを襲撃するダグマイア率いるババルン軍。その中にガイアの盾を持つ黒い聖機人がいた。シュリフォンの首都を壊滅させたダグマイアと黒い聖機人はさらに……。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875529←前話｜次話→so31875531　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875530
+  default_thread_id: 1504669343
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875530
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 結界工房 前編
+  description: ｢どうしてセレス・タイトが……｣全ての謎を知るキャイアの父、ナウアのいる結界工房へ向かう途中、ババルン軍に追撃されているセレスと思いがけない再会を果たす剣士。だがセレスのとった行動は思いがけないものだった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875530←前話｜次話→so31875532　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875531
+  default_thread_id: 1504669084
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875531
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 結界工房 後編
+  description: ｢どうしてセレス・タイトが……｣全ての謎を知るキャイアの父、ナウアのいる結界工房へ向かう途中、ババルン軍に追撃されているセレスと思いがけない再会を果たす剣士。だがセレスのとった行動は思いがけないものだった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875531←前話｜次話→so31875533　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875532
+  default_thread_id: 1504669537
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875532
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 結実 前編
+  description: ｢こ、これは……壮観じゃの｣黒い聖機人の持つガイアの盾に対抗する武器を手に入れるため、剣士達はユキネの故郷の村へと向かう。そこにあったのは『天地』と呼ばれている巨大な岩の柱であった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875532←前話｜次話→so31875534　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875533
+  default_thread_id: 1504669272
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875533
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 結実 後編
+  description: ｢こ、これは……壮観じゃの｣黒い聖機人の持つガイアの盾に対抗する武器を手に入れるため、剣士達はユキネの故郷の村へと向かう。そこにあったのは『天地』と呼ばれている巨大な岩の柱であった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875533←前話｜次話→so31875535　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875534
+  default_thread_id: 1504669349
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875534
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: ガイア 前編
+  description: ｢こちらバベル頂上観測班! スワン発見しました!｣ついにスワン、シュリフォン、ハヴォニワ連合軍とババルンの最終決戦が始まる。聖地へ奇襲をかける剣士達の前に現れたのは、凄まじい爆発を起こす聖機神の動力炉を持ったダグマイアの聖機人だった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875534←前話｜次話→so31875536　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1455
+  content_id: so31875535
+  default_thread_id: 1504669475
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875535
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: ガイア 後編
+  description: ｢こちらバベル頂上観測班! スワン発見しました!｣ついにスワン、シュリフォン、ハヴォニワ連合軍とババルンの最終決戦が始まる。聖地へ奇襲をかける剣士達の前に現れたのは、凄まじい爆発を起こす聖機神の動力炉を持ったダグマイアの聖機人だった。<br><br>柾木剣士:下野紘／ラシャラ・アース
+    二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子 ほか<br><br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ
+    カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里 大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上
+    京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP<br><br>so31875535←前話　第一話→so31874674<br><br><a
+    href="http://ch.nicovideo.jp/search/%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AE%E8%81%96%E6%A9%9F%E5%B8%AB%E7%89%A9%E8%AA%9E?channel_id=ch2632720&amp;mode=t&amp;sort=f&amp;order=d&amp;type=video">動画一覧</a>
+  length_seconds: 1440
+  content_id: so31875536
+  default_thread_id: 1504669276
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875536
+cast: "[キャスト]<br>柾木剣士:下野紘／ラシャラ・アース 二十八世:米澤 円／キャイア・フラン:桑谷夏子／メザイア・フラン:恒松あゆみ／ワウアンリー・シュメ:中川里江／アウラ・シュリフォン:野田順子
+  ほか"
+staff: "[スタッフ]<br>原作・総監修:梶島正樹／監督:吉川浩司／シリーズ構成:白根秀樹／キャラクター原案:エナミ カツミ／イメージボード:脳髄／キャラクターデザイン・総作画監督:渡辺はじめ／メカデザイン:鷲尾直広／プロップデザイン:里
+  大樹,松本昌子,小川 浩／美術設定:須江信人(草薙)／美術監督:井上 京(草薙)／色彩設計:松山愛子／編集:右山章太／撮影監督:大前亮介／音響監督:渡辺 淳／音楽:多田彰文／音響制作:トリニティーサウンド／アニメーション制作:AIC/BeSTACK／製作・著作:VAP"
+produced_year: "[製作年]<br>2010年"
+copyright: "(c)AIC/VAP"
+related_seasons: !ruby/array:Hashie::Array []

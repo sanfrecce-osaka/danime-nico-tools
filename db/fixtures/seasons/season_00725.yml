@@ -1,0 +1,141 @@
+--- !ruby/hash:SeasonHash
+title: スレイヤーズすぺしゃる
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/5/10015_1_6.png?1427216400000
+outline: 神坂一の小説を原作にした人気アニメシリーズのOVA版第1作。リナと魔獣を合成して最強のキメラを造ろうとする第1話。ヘボ少年を一人前の騎士にしようとする第2話。鏡によってリナたちの正反対の性格を持ったコピーが出現する第3話。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 銀河万丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 青野武
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田秀勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 川村万梨阿
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田理保子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：吉松孝博
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：わたなべひろし
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：神坂一
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：服部隆之
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：やまざきかずお
+  type: staff
+- !ruby/hash:TagHash
+  name: スレイヤーズシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+- !ruby/hash:TagHash
+  name: 富士見ファンタジア文庫
+  type: other
+- !ruby/hash:TagHash
+  name: バンダイビジュアル
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤浩
+  type: other
+- !ruby/hash:TagHash
+  name: 小林克良
+  type: other
+- !ruby/hash:TagHash
+  name: キングレコード
+  type: other
+- !ruby/hash:TagHash
+  name: 月刊ドラゴンマガジン
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢恐怖のリメラ計画｣"
+  description: 最強のキメラ(合成獣)を造ろうと目論むディオルは、リナに協力を要請する。だが、それは、リナ本人と魔獣を合成するという、おぞましい計画であり、もちろん交渉は決裂、そこでディオルがとった行動とは…<br><br>リナ＝インバース:林原めぐみ／白蛇（サーペント）のナーガ:川村万梨阿／ディオル:青野
+    武／ビスタ:塩沢兼人／ジョセフィーヌ:吉田理保子／ジェフリー:石田 彰／ゴルディアス:柴田秀勝／ラガン:銀河万丈<br><br>原作:神坂 一／連載:「月刊ドラゴンマガジン」,富士見ファンタジア文庫刊／原作イラスト:あらいずみるい／脚本:やまざきかずお／キャラクターデザイン・作画監督:吉松孝博／美術監督:加藤
+    浩／音響監督:小林克良／音楽:服部隆之／監督:わたなべひろし／アニメーション制作:J.C.STAFF／製作:「スレイヤーズ」製作委員会,角川書店,バンダイビジュアル,丸紅,キングレコード<br><br>次話→so31889087
+  length_seconds: 1744
+  content_id: so31889024
+  default_thread_id: 1504867600
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31889024
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢ジェフリー君の騎士道｣"
+  description: 良家の奥様ジョセフィーヌは、箱入り息子のジェフリーを騎士団へ入団させるべく盗賊団退治を行う事にした。実戦経験まるでナシのジェフリー指導のため、リナとナーガを雇い入れたのだが…<br><br>リナ＝インバース:林原めぐみ／白蛇（サーペント）のナーガ:川村万梨阿／ディオル:青野
+    武／ビスタ:塩沢兼人／ジョセフィーヌ:吉田理保子／ジェフリー:石田 彰／ゴルディアス:柴田秀勝／ラガン:銀河万丈<br><br>原作:神坂 一／連載:「月刊ドラゴンマガジン」,富士見ファンタジア文庫刊／原作イラスト:あらいずみるい／脚本:やまざきかずお／キャラクターデザイン・作画監督:吉松孝博／美術監督:加藤
+    浩／音響監督:小林克良／音楽:服部隆之／監督:わたなべひろし／アニメーション制作:J.C.STAFF／製作:「スレイヤーズ」製作委員会,角川書店,バンダイビジュアル,丸紅,キングレコード<br><br>so31889024←前話｜次話→so31889089　第一話→so31889024
+  length_seconds: 1711
+  content_id: so31889087
+  default_thread_id: 1504868621
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31889087
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "(最終話)｢鏡よ鏡｣"
+  description: 伝説の鏡｢影の鏡(シャドウリフレクター)｣の所存を記した地図が、魔道士ラガンによって魔道士協会から盗まれた。この鏡、映り込んだ物と同じ能力を持ち、なおかつ逆の性質を持つ｢影(シャドウ)｣を生み出すという。成功報酬につられたリナとナーガは、鏡の奪取へと向かうが…<br><br>リナ＝インバース:林原めぐみ／白蛇（サーペント）のナーガ:川村万梨阿／ディオル:青野
+    武／ビスタ:塩沢兼人／ジョセフィーヌ:吉田理保子／ジェフリー:石田 彰／ゴルディアス:柴田秀勝／ラガン:銀河万丈<br><br>原作:神坂 一／連載:「月刊ドラゴンマガジン」,富士見ファンタジア文庫刊／原作イラスト:あらいずみるい／脚本:やまざきかずお／キャラクターデザイン・作画監督:吉松孝博／美術監督:加藤
+    浩／音響監督:小林克良／音楽:服部隆之／監督:わたなべひろし／アニメーション制作:J.C.STAFF／製作:「スレイヤーズ」製作委員会,角川書店,バンダイビジュアル,丸紅,キングレコード<br><br>so31889087←前話　第一話→so31889024
+  length_seconds: 1725
+  content_id: so31889089
+  default_thread_id: 1504868617
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31889089
+cast: "[キャスト]<br>リナ＝インバース:林原めぐみ／白蛇（サーペント）のナーガ:川村万梨阿／ディオル:青野 武／ビスタ:塩沢兼人／ジョセフィーヌ:吉田理保子／ジェフリー:石田
+  彰／ゴルディアス:柴田秀勝／ラガン:銀河万丈"
+staff: "[スタッフ]<br>原作:神坂 一／連載:「月刊ドラゴンマガジン」,富士見ファンタジア文庫刊／原作イラスト:あらいずみるい／脚本:やまざきかずお／キャラクターデザイン・作画監督:吉松孝博／美術監督:加藤
+  浩／音響監督:小林克良／音楽:服部隆之／監督:わたなべひろし／アニメーション制作:J.C.STAFF／製作:「スレイヤーズ」製作委員会,角川書店,バンダイビジュアル,丸紅,キングレコード"
+produced_year: "[製作年]<br>1996年"
+copyright: "(C)1996 神坂一・あらいずみるい/｢スレイヤーズ｣製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: スレイヤーズ(完全無欠版)
+- !ruby/hash:SeasonHash
+  title: スレイヤーズRETURN（劇場版）
+- !ruby/hash:SeasonHash
+  title: スレイヤーズぐれえと
+- !ruby/hash:SeasonHash
+  title: スレイヤーズえくせれんと
+- !ruby/hash:SeasonHash
+  title: スレイヤーズごぅじゃす
+- !ruby/hash:SeasonHash
+  title: スレイヤーズぷれみあむ（劇場版）
+- !ruby/hash:SeasonHash
+  title: スレイヤーズ
+- !ruby/hash:SeasonHash
+  title: スレイヤーズNEXT
+- !ruby/hash:SeasonHash
+  title: スレイヤーズＴＲＹ
+- !ruby/hash:SeasonHash
+  title: スレイヤーズREVOLUTION
+- !ruby/hash:SeasonHash
+  title: スレイヤーズEVOLUTION-R

@@ -1,0 +1,566 @@
+--- !ruby/hash:SeasonHash
+title: アタッカーYOU！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/30/5/11305_1_6.png?1427216400000
+outline: "｢アタッカーYOU！｣は、天性の運動能力もつ天真爛漫な少女、葉月優が五輪代表をめざしバレーに青春を賭ける物語。84年ロス五輪の女子バレー人気を見込んで制作された本作は、友情、恋愛、嫉妬、ライバル、家族など、女子スポ根ものの面白さが満載ですが、ナック作品の魅力である大仰演出、ナンセンスギャグ、トンデモ展開、サービスカットなども十分に堪能できる傑作です!"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 高田由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 笹岡繁蔵
+  type: cast
+- !ruby/hash:TagHash
+  name: あきやまるな
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：園田英樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岡迫和之
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：荒木芳久
+  type: staff
+- !ruby/hash:TagHash
+  name: アタッカーYOU！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1984年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 子連れ転校生・優
+  description: 葉月優の衝撃の登場シーンから｢アタッカーYOU!｣は始まります。転校予定の氷川中のバレーボールの試合に、弟のサニーと乱入して、いきなり迷惑をかけ、後のライバル早瀬奈美や、バレー部の大門監督を唖然とさせます。これからの何が始まるか、期待をもたせますね。第2話からは優による予告編からの紹介です。<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>次話→so31992034
+  length_seconds: 1425
+  content_id: so31991970
+  default_thread_id: 1506337942
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31991970
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 見つけた！コートのプリンス
+  description: 暴走族をコテンパンにやっつけたのはいいけれど、仕返しにきた連中に学校中めちゃくちゃにされちゃった。責任とらされた私は、バレー部でしごかれるはめになっちゃうの。でも、そこには、むっひょひょーん。すてきな出会いが待ってたのよね。乙女チックな初恋が、芽生えちゃった。あなたのハートに、スパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31991970←前話｜次話→so31992036　第一話→so31991970
+  length_seconds: 1425
+  content_id: so31992034
+  default_thread_id: 1506338869
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992034
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 輝きはコートの中に
+  description: 嘘も方便っていうでしょ。どうしてもバレーはやめろっていう頑固おやじに嘘ついて、私はバレー部の合宿に出かけたの。はじめて実業団セブンファイターズをみて、あたし、胸キューンしちゃった。どうしてって?ふふーん。それはみてのお楽しみ。また、いい男がでますですよーん。もう乙女心は、マッチポイント!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992034←前話｜次話→so31992170　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992036
+  default_thread_id: 1506338871
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992036
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ザ・ライバル！初試合
+  description: やー、ははー。ついつい熱血しちゃってるけど、こういうのもたまにはいいでしょ。次は、いよいよ、中学選手権、東京大会の開幕だ。ものすごーいライバルが出てくるよ。私は補欠だから出れるかどうか分からないけど、みんなが応援してくれれば必ずチャンスあると思うわ。うひょひょーん。さあ、試合開始よ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992036←前話｜次話→so31992228　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992170
+  default_thread_id: 1506341010
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992170
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 白熱のサンライト戦
+  description: ねえみんな。ついにあたし、試合に出れるようになったの。これも厳しい練習に耐えた努力の賜物よね。何いってるの?クロキャプテンが怪我したからじゃない。ミスしないでよ。ふーん。そっちこそ。というわけで、宿敵、多岐川絵里を相手にサンライト戦は、あたしのスパイクが爆発するわよ。もうみんなの視線は、あたしに釘づけ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992170←前話｜次話→so31992229　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992228
+  default_thread_id: 1506341033
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992228
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: レギュラーにチャレンジ！
+  description: 練習しないでバレーが上手くなる方法教えてよ。レギュラーチームとの紅白戦に勝ったら、あたしたち補欠もレギュラーにしてやるって大門監督がいうのよ。だもんで、あたしたちは早朝練習をやることにしたの。コーチしてくれるのはなんたって、ソウさんだもんねー。それが目当てだったりして。もうこうなったら、スポ根でも何でもやっちゃうんだからー。<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992228←前話｜次話→so31992230　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992229
+  default_thread_id: 1506341035
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992229
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 夢に見たラブレター
+  description: この番組を見てバレーボールテクニックを練習してるって、娘もいるんだって。みんな、あたしといっしょに上手くなろうね。ところで、みんなは恋してる?あたしの恋は、ばっちし、進行中。ついに爽さんからラブレター貰っちゃったの。そんでもって、次は、は、はじめてのデートなのじゃ。うらやましいでしょー?恋にスパイク、決めるわよー。<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992229←前話｜次話→so31992295　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992230
+  default_thread_id: 1506341008
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992230
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 友情の紅白戦
+  description: 全日本の三田村さんもいいけど、やっぱし、あたしは爽さんよねー。爽さんとの朝練、ばっちし決めて、次回はいよいよ、レギュラーを賭けての紅白戦。奈美たちのチームは確かに強いけど、あたしにはチビとのコンビの秘密兵器があるもんねー、むっひょひょーん。レギュラーへのスパイク、決めるわよー。<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992230←前話｜次話→so31992357　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992295
+  default_thread_id: 1506341320
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992295
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 告白！爽さんが好き
+  description: もう紅白戦は完全に盛り上がっちゃってるけど、みんなの青春は盛り上がってるかーい?次回は、紅白戦に決着をつけて、あたし、爽さんとデートするんだ。夜の公園でふたりっきりになったあたしたちの、肩と肩が触れ合いそして、むひょひょーん。期待できる.わよ。あたしの初恋,Aクイックを見届けてね!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992295←前話｜次話→so31992358　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992357
+  default_thread_id: 1506342511
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992357
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: バラバラのバレー部
+  description: 恋に狂うと女って怖いのよねー。レギュラーになったあたしとチビを、奈美が徹底的にしごくの。冗談じゃないわよ。がむしゃらに突っ走るだけのキャプテンに不満を抱いたチームメートといっしょに、練習をすっぽかして、実業団チームの見学に行っちゃった!みんな、チームワークでレッツスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992357←前話｜次話→so31992546　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992358
+  default_thread_id: 1506342517
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992358
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: キズだらけのエース
+  description: ついに、爽さんとの悲しい別れの日が来たの。といっても卒業式の話だけどね。新しいエースナンバーの付いたユニフォームをもらって、あたし、感激しちゃった!ところが、張り切りすぎて、大事な右手を、ガーン!骨折してしまったのだ!明日を見つめて、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992358←前話｜次話→so31992547　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992546
+  default_thread_id: 1506343762
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992546
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ライバルにアタック!
+  description: 右手の骨折は完治したけど、何となく使うのが怖いのよね。地区大会が始まり、1回戦は伏兵の王子実践中学。ところが、左手スパイクはマークされていて、ことごとくシャットアウトされちゃうの。なんとしても右手のスパイクを決めなくっちゃ。復活なるか、黄金の右手スパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992546←前話｜次話→so31992548　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992547
+  default_thread_id: 1506343607
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992547
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: エッ!?監督がやめる？
+  description: 右手スパイクが復活し、地区大会で、わが氷川中は向かうところ敵なし。ところがここに大変な問題が起こったのよね。マスコミで中学バレー界のしごきがクローズアップ。うちの大門監督が非難を一身に浴びた。このままではバレー部がつぶされちゃう。バレー部のピンチに、ナイスレシーブ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992547←前話｜次話→so31992549　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992548
+  default_thread_id: 1506343623
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992548
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 涙のスパイクサーブ
+  description: 新監督きまったけど、これじゃお先真っ暗じゃ。地区大会決勝の相手は、強敵、立壁中。あたしたちのチームにも、決め手になる攻撃が必要なんだ。そこで、秘密の特訓特訓。教えてあげる、サーブは攻撃よ。決めるわ、涙と愛のサービスエース!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992548←前話｜次話→so31992550　第一話→so31991970
+  length_seconds: 1425
+  content_id: so31992549
+  default_thread_id: 1506343606
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992549
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 優のオリンピック
+  description: ついに念願の地区大会優勝を果たし、いよいよ全国大会で、多岐川絵里のサンライトとの対戦だ。ところが、オリンピックでメダルをとって帰国した絵里は、ベンチ入りはしているものの、予選から試合に出てこない。どうしたの、いったい彼女に何が起こったのよ?燃えるライバル、ファイナルセット!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992549←前話｜次話→so31992703　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992550
+  default_thread_id: 1506343602
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992550
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 燃えあがる白球！
+  description: 全国大会の決勝戦。ついに多岐川絵里が登場した!激しく続くラリーと、燃えてぶつかる闘志。失明の危機を乗り越えて、絵里はあたしたちの前に立ちはだかる。すばらしいライバル。日本一をかけての決着はいかに。いまを燃えて、青春アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992550←前話｜次話→so31992704　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992703
+  default_thread_id: 1506344850
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992703
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 風にゆれる少女・ユウ
+  description: 多岐川絵里と戦った全国大会。あの興奮、忘れられないのよね。でも、いまのあたしは、進路問題が頭痛のたねなんだ。そんなとき、あたしの前に現れたひとりのライダー。かっこよくて二枚目。むひょひょーん。風切るスパイクサーブ、決めるわよー!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992703←前話｜次話→so31992859　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992704
+  default_thread_id: 1506344846
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992704
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 実業団にアタック！
+  description: 絵里と戦うために、実業団に行くことを決めたけれど、誰もあたしのこと、スカウトしにきてくれないのよね。奈美のところには、きたっていうのに。どうしてよ、なんであたしのところにきてくれないのよ。こうなったらあたしの方から強引に乗り込んで行っちゃうんだから。実業団にダイレクトスパイク、ばっちりねー!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992704←前話｜次話→so31971344　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992859
+  default_thread_id: 1506345796
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992859
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 減量苦に泣くユウとデク
+  description: あたしもいよいよ、実業団セブンファイターズの一員。といっても、背番号0の練習生だけどね。ところが、新人教育戦では、あたしの持ち味が生かせない。大阪遠征から外され、よりによって、仲の悪い並木選手といっしょの地獄の特訓が待ち構えている。苦しさにアタック!負けるもんか!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992859←前話｜次話→so31992860　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31971344
+  default_thread_id: 1506060301
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971344
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 燃えるサマーリーグ
+  description: やっと正式部員になれたけど、中学時代にはやらなかった厳しい基礎トレーニングを経験したのは、無駄じゃなかったわけね。ところで、新人選手を中心としたチーム編成で、サマーリーグが行われるんだ。多岐川絵里とも、早瀬奈美とも、同じコートの上で戦える。ファイトでめざせ、新人戦!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31971344←前話｜次話→so31992861　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992860
+  default_thread_id: 1506345768
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992860
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 幻の必殺スパイク
+  description: 日本リーグを間近に控え、12人のベンチ入りのメンバーになれるように、あたし、一生懸命がんばっているんだ。でも、実業団に通用するパワーはまだまだ。必殺スパイクを求めるあたしの前に現れたのは、全日本元オリンピック選手の田島カナコさんだった。パワーアップで、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992860←前話｜次話→so31992862　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992861
+  default_thread_id: 1506345956
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992861
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 初めてのファンレター
+  description: 日本リーグでのあたしの活躍、見てくれた?全国にもたっくさんあたしのファンができちゃって、ファンレターが、最近山ほど来るのよね。そのなかに、あたしとおなじ優という名の、バレーボールが大好きな子がいたの。でも、彼女、事故っちゃって、二度とバレーができなくなったんだ。ラブレターじゃないんだよね、これが!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992861←前話｜次話→so31992863　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31992862
+  default_thread_id: 1506345827
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992862
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: エエッ!?ユウが監督!?
+  description: ハードな練習のあとの定時制高校は、あたしにとって、適度な居眠りタイム。ところが、クラス対抗の球技大会で、バレーボールのメンバーに借り出されてしまったの。対戦相手のチームには、高見英子というバレー部のエースアタッカーがいる。でも、バレーボールはもういいよー。こりゃいったい、どうなってるの?<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992862←前話｜次話→so31994133　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31992863
+  default_thread_id: 1506345808
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31992863
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 青春へのスタンバイ
+  description: 校内球技大会で優勝したあたしたち定時制クラスは、バレー同好会をつくって、張り切ってるのよねー。でも、体育館の使用をめぐって、全日制のバレー部と対立。試合で決着をつけることになったの。身長185センチのエースをようするレギュラーが相手で、こりゃ、はんばじゃないよー。高さにアタック、レッツジャンプ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31992863←前話｜次話→so31995540　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994133
+  default_thread_id: 1506357883
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994133
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 狙われたユウ
+  description: 日本選手権を前に、久々に親友の奈美との再会。でもなんだか、奈美のようすがおかしいんだ。かつての恩師、ユニコーンの大門監督が、奈美を使って、あたしを無理やりセブンファイターズから引き抜こうとするの。でも、あたしはこのチームが大好き!このコートから離れられないよ。ホットなプレーに熱い友情!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994133←前話｜次話→so31994135　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31995540
+  default_thread_id: 1506395294
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31995540
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 情熱のママさんバレー
+  description: 全日本選手権は惜しくも負けちゃったけど、あこがれの全日本ジュニアチームに選ばれるかもしれないんだ。折りしも、ママさんバレー教室に講師として借り出され、張り切っているところに、突然、長身の小学生6人を集めた、得体の知れないチームが現れ、試合を挑んできた。みんなに負けるな、ハッスルプレー!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31995540←前話｜次話→so31995541　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994135
+  default_thread_id: 1506357931
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994135
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 友情のバックアタック
+  description: 全日本ジュニアチームの一員として、親友の奈美や絵里といっしょに、強敵、中国との親善試合に参加するんだ。ところが、このジュニアチームの監督はこともあろうにあたしをセブンファイターズから引き抜こうとした、大門さんなのよねー。とんだところに待ち受けた、もうひとつの大きな敵。ガッツだ、戦え、フルセット!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994135←前話｜次話→so31994137　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31995541
+  default_thread_id: 1506395351
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31995541
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 対決！ペルーの黒豹
+  description: コートでの再会を約束したあたしたち。次の日本リーグに備え、セブンファイターズは海外遠征に行くことになった。弟のサニーの生まれた国、ペルーでの親善試合。ところが、このペルーでのナショナルチームに、サウスポーのものすごいエースアタッカーがいた。高さにチャレンジ、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31995541←前話｜次話→so31995542　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994137
+  default_thread_id: 1506358140
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994137
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 高さへの挑戦
+  description: 173センチあっても、あたしなんかもう、バレー選手としては小型になっちゃうんだ。実業団のライバルチームに、180センチを超す大型選手が続々入団。日本リーグめざして動き出した。でも、負けちゃいられない。あたしだって、ジャンプ力で勝負するから。走れ青春、レッツジャンプ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994137←前話｜次話→so31994139　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31995542
+  default_thread_id: 1506395358
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31995542
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 孤独のエースアタッカー
+  description: 絵里と新人大森のサンライトに負けちゃったけど、リーグ戦はまだ長い。何としても巻き返して優勝をねらわなくっちゃ。次のオリエント戦は、高見麗子との戦い。膝の故障を克服してがんばろう。ばれたら、エースの座が危うくなるもんね。苦境にたえて、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31995542←前話｜次話→so31994140　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994139
+  default_thread_id: 1506357888
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994139
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 復活への旅立ち
+  description: 戦列を離れ、右ひざの故障を治すための孤独な戦いが始まったの。雪の北海道は、あたしにたえることを教えてくれたわ。故障を直しながらすぐに試合に戻れるように、トレーニングのカリキュラムを消化していくの。大事なユニコーン戦の前に、戦列復帰できるかな?雪に舞え、スパイクジャンプ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994139←前話｜次話→so31994141　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994140
+  default_thread_id: 1506357909
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994140
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 燃えろ！ダイビングサーブ
+  description: ユニコーン戦は間に合わなかったけど、日本リーグのサンライト戦は、まだ、2回残ってる。可能性がある限り、優勝をねらっていくわ。ひざの故障は治ったけれど、衰えたパワーを補うための秘密兵器をサンライト戦までに考えなくっちゃ。こりゃ、はんぱじゃないよね。戦列復帰だ、レッツサーブ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994140←前話｜次話→so31994142　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994141
+  default_thread_id: 1506357916
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994141
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: ナミがバレーをやめる!?
+  description: 宿敵サンライトを倒し、優勝への望みをつないだセブンファイターズ。次の相手はユニコーン。ところが、奈美が試合に出てこない。なぜか、ベンチにも入っていない。どうしたんだろう。あれだけバレーに情熱を注いだ彼女の身に、いったい何が起こったのか。蘇れ奈美、アタックコール!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994141←前話｜次話→so31995543　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994142
+  default_thread_id: 1506358206
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994142
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 白熱のファイナルゲーム
+  description: よみがえった奈美のユニコーンが、ついにサンライトを倒した。あたしたち、セブンファイターズにも、俄然、優勝の可能性が出てきたのよね。もう負けられない。このまま勝ち進んで、最終戦でサンライトを破って、日本リーグ初優勝よ。みんな、応援してね。ラストチャンスだ、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994142←前話｜次話→so31994144　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31995543
+  default_thread_id: 1506395253
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31995543
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: 悲願!日本リーグ初優勝
+  description: さすがに四連覇をねらうサンライトは強い。絵里の巧みなトスワークと大型アタッカーの強力な攻撃にセブンファイターズも総力をあげて立ち向かう。ところが、サンライトには、まだ、あたしたちのしらない秘密兵器が隠されていたんだ。決めるわ、涙のマッチポイント!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31995543←前話｜次話→so31994145　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994144
+  default_thread_id: 1506358144
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994144
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 明日に向かってダッシュ!!
+  description: 日本リーグ初優勝を果たしたセブンファイターズ。年に一度の休暇を楽しんでいるのよね。一方では、ソウルへ向けて全日本のメンバーの選考会。絵里も奈美も、そしてあたしも、全日本のユニフォームを着る可能性があるのよね。のんびりしちゃ、いられない。ふたりに負けない、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994144←前話｜次話→so31994146　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994145
+  default_thread_id: 1506358202
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994145
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: 新たなるライバル
+  description: 全日本選手権の結果で、あたしか奈美か、どちらかが全日本のメンバーに選ばれる。親友の奈美との争いはつらいけど、いまはがんばるしかないよね。そんなとき、話題の超高校級の大型エースアタッカーが、セブンファイターズに入団した。ガッツだ、戦え、フルセット!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994145←前話｜次話→so31994147　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994146
+  default_thread_id: 1506358185
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994146
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 炸烈！外人パワー
+  description: 新人、篠の加入で活気づいたセブンファイターズ。次の目標、全日本選手権に向けて、招待試合を行うことになったんだ。ところが、相手チームには何と慎重196センチのとてつもないパワーとスピードをもったふたりの外人のエースがいた。アタック、世界への第一歩!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994146←前話｜次話→so31971345　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994147
+  default_thread_id: 1506358208
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994147
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: 世界の壁を破れ！
+  description: あらためてロス五輪銀メダリストの実力を思い知らされたサイエー戦。全日本選手権では、サンライト、ユニコーン、とともにあたしたちの強力なライバルチームとなるに違いない。チーム一丸となって特訓に励む、そんなとき、ひとりのチームメイトが突然姿を消した。悔しさを忘れず、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994147←前話｜次話→so31994148　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31971345
+  default_thread_id: 1506060411
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971345
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 開幕！全日本選手権
+  description: 日本リーグの覇者として追われる立場になったセブンファイターズ。かくして、全日本選手権大会の幕はきって落とされた。一回戦を順当に勝ち上がったあたしたちの次の相手は、全日本の候補選手、広峰里子のいる難波女子大。大学チームとはいえ、強敵だ。輝け青春、レッツスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31971345←前話｜次話→so31994149　第一話→so31991970
+  length_seconds: 1425
+  content_id: so31994148
+  default_thread_id: 1506357885
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994148
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: 激闘！三回戦
+  description: 二回戦を順当に勝ち上がったセブンファイターズの次の相手は、全日本選手権のダークホース、外人パワーのサイエーだ。あの屈辱の敗戦をエネルギーとして、高さへの対策を考え、苦しい練習に耐えてきたんだ。負けられない、なんとしても。戦えファイトだ、フルセット!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994148←前話｜次話→so31994150　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994149
+  default_thread_id: 1506358343
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994149
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 炎のライトアタック！
+  description: 微妙な判定から大ピンチのセブンファイターズ。頼みの篠も、ベンチに下がってしまった。もうどうしたらいいの?サイエー対策用に特訓した移動攻撃も、コンビがあわなくてもう絶体絶命。こうなったらもうベンチの篠になんとかしてもらわなくっちゃ。秘密兵器だろ?燃えてよみがえれ、セブンファイターズ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994149←前話｜次話→so31994151　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994150
+  default_thread_id: 1506357881
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994150
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: 対決！大門バレー
+  description: 激闘のサイエー戦を乗り切り、続く準決勝の相手はユニコーン。かつての相手、大門監督との因縁の対決なんだよね。奈美を中心に何を仕掛けてくるか不安だけれど、全日本入りのかかった大事な一戦だ。なんとしても負けられない。戦えファイトだ、フルセット!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994150←前話｜次話→so31994152　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994151
+  default_thread_id: 1506358138
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994151
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 幻の全日本入り
+  description: 宿敵ユニコーンをフルセットの末、ようやく破って、次はいよいよ決勝戦だ。相手は絵里のいるサンライト。これに勝って優勝し、あたしの全日本入りを決めたいんだよね。ところが、おかしな電話がかかってきた。まさか、そんなことが!?ピンチを乗り切れ、ダブルアタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994151←前話｜次話→so31994153　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994152
+  default_thread_id: 1506358142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994152
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: 奇跡の逆転優勝
+  description: 謎の怪電話に悩まされ、あたし、ぜんぜん調子が出ない。全日本選手権の決勝戦は、セットカウント2-0とリードされて、絶体絶命のピンチなんだよね。あぁーどうしよう。そんなとき、あたしを救ってくれたのは、奈美と絵里のあたたかい友情だったんだ。友情にこたえて、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994152←前話｜次話→so31994154　第一話→so31991970
+  length_seconds: 1425
+  content_id: so31994153
+  default_thread_id: 1506358183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994153
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: 宿命の紅白戦
+  description: 全日本選手権で優勝し、念願の全日本のメンバーに選ばれたけれど、ちょっぴり不安もあるんだ。でも、日ソ対抗戦にむかって、連日猛練習。いよいよレギュラーを決める紅白戦。がんばるぞ。そんなとき、記者のひとからお母さんのことを。日ソ対抗戦にむかって、レッツゴー!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994153←前話｜次話→so31995544　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994154
+  default_thread_id: 1506358187
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994154
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: 甦れ！全日本エース
+  description: 田島カナコさんがあたしのお母さんだなんて、大事な日ソ対抗を目の前にして、練習中もミスばっかり。これじゃ、全日本のエースはおろか、レギュラーにもなれはしない。ようし、おやじをとっ捕まえて、本当のことを聞きだしてやるんだ。世界を目指して、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994154←前話｜次話→so31994156　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31995544
+  default_thread_id: 1506395257
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31995544
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: 燃えろ！日ソ対抗
+  description: いよいよ待望の日ソ対抗の開幕。あたしが全日本のエースとして世界に羽ばたく大事な試合だ。でも、強豪ソ連のクリスチーナは、188センチの大きな壁。それも、お母さんが昔オリンピックで戦った相手の娘さんだなんて。世界の壁に、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31995544←前話｜次話→so31994157　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994156
+  default_thread_id: 1506357914
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994156
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: 全日本のエースは誰？
+  description: ソ連チームをやぶった全日本は、次の四カ国対抗戦にむけて猛練習を続けている。そんなとき、突然、ひとりの女の子があらわれた。なんだ?身長185センチ?でっけーなー。でも、絶対にあんなやつに負けるもんか。世界をめざして、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994156←前話｜次話→so31994158　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994157
+  default_thread_id: 1506357929
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994157
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: 心騒ぎのニューフェイス
+  description: バカでかい新人があらわれたかと思ったら、今度は三田村監督が海外視察に行っちゃうなんて。これにはきっとわけがある。でも、そんなことは言ってられない。全日本のエースをかけて、なんとしても海堂ひかるをたたきのめさなければ。ファイトで、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994157←前話｜次話→so31994159　第一話→so31991970
+  length_seconds: 1425
+  content_id: so31994158
+  default_thread_id: 1506357905
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994158
+- !ruby/hash:EpisodeHash
+  episode_no: 第51話
+  title: 宿命のライバル炎の対決!!
+  description: 明日は、いよいよ全日本のメンバーを選ぶ、大事な公開試合の第一戦。ところが、大門バレーに嫌気がさしたのか、試合会場へむかう途中、あの海堂ひかるがいなくなってしまった。いったいどこへ!?希望にむかって、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994158←前話｜次話→so31994339　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994159
+  default_thread_id: 1506358177
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994159
+- !ruby/hash:EpisodeHash
+  episode_no: 第52話
+  title: 打ち勝て！レーザーアタック
+  description: 海堂ひかるはやっぱり帰ってきた。あたしの予測したように。ところが、試合に出たひかるは、おもしろいようにスパイクを決める。あぁ、どうしたらいいんだ。このままでは全日本のエースを取られてしまう。明日にむかって、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994159←前話｜次話→so31994340　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994339
+  default_thread_id: 1506361018
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994339
+- !ruby/hash:EpisodeHash
+  episode_no: 第53話
+  title: 奪われたエースの座
+  description: 公開試合の第一戦も終わり、ほっと一息ついているところに、三田村監督からのうれしい便りが届いた。優、はやくみせて!あわてない、あわてない。ところが、その喜びもつかの間、大門監督から第二戦の先発メンバーが発表された。ファイトで、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994339←前話｜次話→so31994341　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994340
+  default_thread_id: 1506361069
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994340
+- !ruby/hash:EpisodeHash
+  episode_no: 第54話
+  title: チームワークなき闘い
+  description: 大門監督の選手起用をめぐって、あたしたち日本選抜チームはバラバラになってしまった。奈美も美樹もそしてオキも。これじゃ試合になんかなりゃしない。でも、ファイトでがんばらなくっちゃ。みんなで、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994340←前話｜次話→so31994343　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994341
+  default_thread_id: 1506361075
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994341
+- !ruby/hash:EpisodeHash
+  episode_no: 第55話
+  title: 対決！ひかるVS優
+  description: ひかると大門のためにチームはバラバラ。第2セットも取られて、もうあとがない。こうなったら、オールセブンファイターズで第3セットを取るっきゃない。ところが、大門はひかるをエースに。あたしをライトに起用してきた。エースは、あたしだ!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994341←前話｜次話→so31994344　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994343
+  default_thread_id: 1506361014
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994343
+- !ruby/hash:EpisodeHash
+  episode_no: 第56話
+  title: めざせ！全日本エース
+  description: 一勝一敗でむかえた公開試合の第3戦。どうしてもひかるに打ち勝って、全日本エースの座を勝ち取らなくっちゃ。でも、みんな必死でレシーブしてくる。絵里も、奈美も、そして、ひかるも。ようし、絶対負けるもんか。ファイトで、フルスパイク!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994343←前話｜次話→so31994345　第一話→so31991970
+  length_seconds: 1427
+  content_id: so31994344
+  default_thread_id: 1506361047
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994344
+- !ruby/hash:EpisodeHash
+  episode_no: 第57話
+  title: 熱闘！ファイナルセット
+  description: 海堂ひかるがオール日本のエースに!?信じられない。でも目の前のエースポジションにいるのは、まちがいなく海堂ひかる。ようし、打ち勝ってやる。打ち勝って、全日本のエースが誰なのか、はっきり決めてやる。本当のエースをめざして、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994344←前話｜次話→so31994346　第一話→so31991970
+  length_seconds: 1426
+  content_id: so31994345
+  default_thread_id: 1506361079
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994345
+- !ruby/hash:EpisodeHash
+  episode_no: 第58話
+  title: はばたけ！明日のエース
+  description: 戦いは終わった。青春の熱い血を燃やし そして、今日は久しぶりの休日。思いっきり楽しまなくっちゃ。絵里、奈美、3人でどっか遠くへ行こう。苦しかったことなんか、みんな忘れちゃおう。全日本の星に、アタック!<br><br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな<br><br>監督:岡迫和之／脚本:荒木芳久、園田英樹<br><br>so31994345←前話　第一話→so31991970
+  length_seconds: 1397
+  content_id: so31994346
+  default_thread_id: 1506361012
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31994346
+cast: "[キャスト]<br>声の出演:小林優子、早瀬奈美、高田由美、笹岡繁蔵、あきやまるな"
+staff: "[スタッフ]<br>監督:岡迫和之／脚本:荒木芳久、園田英樹"
+produced_year: "[製作年]<br>1984年"
+copyright: "©小泉志津男・ICHI"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 新アタッカーYOU！金メダルへの道

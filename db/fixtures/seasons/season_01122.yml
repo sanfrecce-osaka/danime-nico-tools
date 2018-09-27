@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: 猫のダヤン　日本へ行く
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/5/21895_1_6.png?1511508605000
+outline: タシルの街から色を盗んだ色どろぼう、カララバ。モノクロの世界になってしまったわちふぃーるどに色を取り戻すため、時空を越えるタグポーポー鉄道に乗ってタシルを飛び出したダヤンやジタンが目指したのは、色彩豊かな国、日本でした。ダヤンたちは日本を北から南まで渡り、四季の色を取り戻す旅にでるのです……
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 島本須美
+  type: cast
+- !ruby/hash:TagHash
+  name: ニーコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 平山笑美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小田敏充
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：池田あきこ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：池田あきこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：作田ハズム
+  type: staff
+- !ruby/hash:TagHash
+  name: 猫のダヤンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第6話
+  title: ''
+  description: 第1話 タシルの色がなくなった／ある日、タシルの街に色どろぼうカララバが現れ、空や花や建物の色だけでなく、ダヤンたちの色まで全て奪ってしまった。ジタンが博物館で調べると、アルスで生まれた猫がアルスから色を持ち帰ることができると書いてあり…
+    他、第2話-第6話を収録。<br><br>ダヤン:島本須美／ジタン:平山笑美／マーシー:竹達彩奈／４人の魔女:ニーコ／イワン:小田敏充<br><br>原作・キャラクターデザイン:池田あきこ／アニメーション制作:勝鬨スタジオ／監督名:作田ハズム／脚本家名:安達元一／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>次話→so32407710
+  length_seconds: 1085
+  content_id: so32407709
+  default_thread_id: 1513040900
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407709
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話～第12話
+  title: ''
+  description: 第7話 トロッコ列車でりんごの森へ／ハロウィンの夜、ジタンの妹バニラと出会った三人の魔女。クールなジタンに妹がいると知ってびっくり！
+    他、第8話-第12話を収録。<br><br>ダヤン:島本須美／ジタン:平山笑美／マーシー:竹達彩奈／４人の魔女:ニーコ／イワン:小田敏充<br><br>原作・キャラクターデザイン:池田あきこ／アニメーション制作:勝鬨スタジオ／監督名:作田ハズム／脚本家名:安達元一／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>so32407709←前話　第一話→so32407709
+  length_seconds: 1085
+  content_id: so32407710
+  default_thread_id: 1513040902
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407710
+cast: "[キャスト]<br>ダヤン:島本須美／ジタン:平山笑美／マーシー:竹達彩奈／４人の魔女:ニーコ／イワン:小田敏充"
+staff: "[スタッフ]<br>原作・キャラクターデザイン:池田あきこ／アニメーション制作:勝鬨スタジオ／監督名:作田ハズム／脚本家名:安達元一／音響制作:スペルバウンド／音響監督:鹿志村聡"
+produced_year: "[製作年]<br>2015年"
+copyright: "©AkikoIkeda/ProjectDayan 2015"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 猫のダヤン　ふしぎ劇場
+- !ruby/hash:SeasonHash
+  title: 猫のダヤン

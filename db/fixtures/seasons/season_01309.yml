@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: ぴーひょろ一家
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/34/8/11348_1_6.png?1427216400000
+outline: 篠原家の美青年兄弟・強太、久弥、徹、そして長女の美人・綾子。実は彼らの正体はそれぞれ強太、Q太、キョン太、きばっ太なる現世守護神｢ぴーひょろ一家｣の面々の転生で、四人は人々に仇をなす悪霊を退治していた。ある日、聖和城学園の理事長から悪霊の浄化依頼を受けた兄弟は、早速行動を開始。自殺しかけた少女・古賀舞子を救う。キョン太を転校生として学校に送り込み、さらなる調査を進める兄弟は、学校の地所がかつて火葬場だった事実を知った。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚芳忠
+  type: cast
+- !ruby/hash:TagHash
+  name: 島本須美
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢尾一樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸田恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原茂
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤本譲
+  type: cast
+- !ruby/hash:TagHash
+  name: 冨永みーな
+  type: cast
+- !ruby/hash:TagHash
+  name: 一龍斎貞友
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：杉野昭夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：山中紀昌
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：四分一節子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：姫木薫理
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+- !ruby/hash:TagHash
+  name: バンダイビジュアル
+  type: other
+- !ruby/hash:TagHash
+  name: 秋田書店
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢ぴーひょろ一家見参!｣"
+  description: 悪霊の除霊依頼が龍念和尚の元に届いた。依頼主は、聖和城中学校理事長で百万円がそえてあった。さっそく聖和城中学へ長打に出かけた強太とQ太は、校舎にただよう霊気に気づく。最近聖和城中学では、相次いで不幸な事故が起きているという。ある老婆の話では、学校の立っている土地が、以前火葬場で強い霊力を持つ悪霊が住みついていたらしい。しかし、なざ悪霊は復活したのだろうか・・・!?ぴーひょろ一家と悪霊の対決の時が迫る!!<br><br>強太:矢尾一樹／きばっ太:戸田恵子／Q太:中原茂／キョン太:鈴木みえ／ヨギ:島本須美／リージャ:塩沢兼人／美夢:富永み～な／龍念和尚:藤本譲／ナレーション:大塚芳忠<br><br>原作:姫木薫理(掲載/｢プリンセス｣発行/秋田書店)／監督:井崎
+    哲／脚本:小出一巳/近藤真知子／キャラクターデザイン・作画監修:杉野昭夫、四分一節子／音楽:山中紀昌／制作:マジックバス<br><br>次話→so32202216
+  length_seconds: 1784
+  content_id: so32202215
+  default_thread_id: 1509601167
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202215
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢黒の報復｣"
+  description: 離れ小島、留王城島では、兄弟同士が殺し合う事件が相次いで発生していた。島に住む老人、行橋源平から知人の龍念和尚に悪霊の浄霊が依頼され、ぴーひょろ一家は悪霊の影のただよう離島へ。美形の医師・雁夜の案内で行橋邸をおとずれる強太たち一家。強太は、邸に住む貴彦という少年と意気投合してしまうが、貴彦は時々不審なそぶりも見せる。やがて貴彦の家庭教師が、死体で発見され・・・!?<br><br>強太:矢尾一樹／きばっ太:戸田恵子／Q太:中原茂／キョン太:鈴木みえ／ヨギ:島本須美／リージャ:塩沢兼人／美夢:富永み～な／龍念和尚:藤本譲／ナレーション:大塚芳忠<br><br>原作:姫木薫理(掲載/｢プリンセス｣発行/秋田書店)／監督:井崎
+    哲／脚本:小出一巳/近藤真知子／キャラクターデザイン・作画監修:杉野昭夫、四分一節子／音楽:山中紀昌／制作:マジックバス<br><br>so32202215←前話｜次話→so32202217　第一話→so32202215
+  length_seconds: 1815
+  content_id: so32202216
+  default_thread_id: 1509601051
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202216
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢雪迷路｣"
+  description: 強太に恋心を抱いたまま、交通事故で死んでしまったしのぶは、親友の順子にとりついて強太をあの世へ道連れにしようとしていた。しかし、その裏には、南無観世音によって封印された、宿敵五人衆の影があったのだ。そうとは知らず、先天的恋愛オンチの強太は、霊気を感じさせないしのぶにだまされ、いよいよ初デート!強太のいない“ぴーひょろ一家”は五人衆にかなわない!!強太危機一髪!!五人衆の陰謀をふせげるのか・・・!?<br><br>強太:矢尾一樹／きばっ太:戸田恵子／Q太:中原茂／キョン太:鈴木みえ／ヨギ:島本須美／リージャ:塩沢兼人／美夢:富永み～な／龍念和尚:藤本譲／ナレーション:大塚芳忠<br><br>原作:姫木薫理(掲載/｢プリンセス｣発行/秋田書店)／監督:井崎
+    哲／脚本:小出一巳/近藤真知子／キャラクターデザイン・作画監修:杉野昭夫、四分一節子／音楽:山中紀昌／制作:マジックバス<br><br>so32202216←前話　第一話→so32202215
+  length_seconds: 1810
+  content_id: so32202217
+  default_thread_id: 1509601034
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202217
+cast: "[キャスト]<br>強太:矢尾一樹／きばっ太:戸田恵子／Q太:中原茂／キョン太:鈴木みえ／ヨギ:島本須美／リージャ:塩沢兼人／美夢:富永み～な／龍念和尚:藤本譲／ナレーション:大塚芳忠"
+staff: "[スタッフ]<br>原作:姫木薫理(掲載/｢プリンセス｣発行/秋田書店)／監督:井崎 哲／脚本:小出一巳/近藤真知子／キャラクターデザイン・作画監修:杉野昭夫、四分一節子／音楽:山中紀昌／制作:マジックバス"
+produced_year: "[製作年]<br>1988年"
+copyright: "©姫木薫理/Softgarage/バンダイビジュアル/アニプレックス/ムービック"
+related_seasons: !ruby/array:Hashie::Array []

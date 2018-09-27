@@ -1,0 +1,124 @@
+--- !ruby/hash:SeasonHash
+title: ロボマスターズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/80/4/21804_1_6.png?1506652252000
+outline: 大学に入学したばかりの主人公タンタンは、今日も自作ドローンKAKAの改良に余念がない。飛行テストのために投げたディスクが突然の海風で、歩いていた女性・ショウに当たってしまう。アクシデントはあったが、KAKAの出来栄えに感心したショウはロボット競技大会「ロボマスターズ（ロボマス）」への参加を目指すサークル清水湾工作室のチラシをタンタンに手渡す。ある出来事が原因でロボマスから遠ざかっていたタンタンだが、ショウとの出会いをきっかけに再びロボマスと関わることとなっていく。大学生たちのロボマスターズにかける熱い想いと、主人公タンタンの成長を描いた、青春ストーリーが今始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 梅原裕一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下大輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 大久保瑠美
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 武内駿輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村昴
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅津秀行
+  type: cast
+- !ruby/hash:TagHash
+  name: 落合福嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 濱野大輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 青木瑠璃子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：池頼広
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本靖貴
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：葵玲
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ダンデライオンアニメーションスタジオLLC
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: Episode1
+  description: 大学の入学シーズン。新入生のサークル勧誘などで賑わう人ごみの中でタンタンは、独り自作のドローンKAKAの改良に余念がない。校舎裏から海岸へと続く広場で投げたフライングディスクをキャッチするKAKAの飛行テストをしていると海風に煽られてディスクが荷物を押しながら歩いていた一人の女性に当たってしまう。慌てて駆け寄るタンタン。このアクシデントが心を閉ざしていたタンタンを大きな成長へと導くのであった。<br><br>タンタン:山下大輝／テイ:梅原裕一郎／ショウ:Lynn／シャオアイ:大久保瑠美／オウシュン:落合福嗣／モウ:武内駿輔／カトリーナ:青木瑠璃子／リー:木村昴／ラオワン:濱野大輝／キョウ:梅津秀行<br><br>製作:DJI／企画:RoboMasters
+    Team／エグゼクティブプロデューサー:Swift Lee／Jason Gu／YY Shuo／プロデューサー:西川和宏／Nakazawa Chen／監督:山本靖貴／シリーズ構成・脚本:山下憲一／キャラクターデザイン:葵玲／メカニックデザイン:渡辺浩二／3DCG監督:山崎拓哉／美術監督:市倉敬／音響監督:高寺たけし／音楽:池頼広／アニメーション制作:ダンデライオンアニメーションスタジオLLC／GONZO<br><br>次話→so32200825
+  length_seconds: 1490
+  content_id: so32200807
+  default_thread_id: 1509566135
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32200807
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: Episode2
+  description: 思いがけずロボマスターズの模擬戦に駆り出されたタンタンだったが、過去の苦いトラウマを思い出してしまう。その日の夜中に修理したKAKAの調子を見るため寮の屋上に出ると見回りに来た模擬戦でのリーダー・テイジュンと再会する。歩き去ろうとするタンタンだったがテイの売り言葉に買い言葉で翌日にお互いのドローンで校内のテストコースを飛んで競うドローンレースを行なうことに！果たしてタンタンは雪辱を晴らせるのか！？<br><br>タンタン:山下大輝／テイ:梅原裕一郎／ショウ:Lynn／シャオアイ:大久保瑠美／オウシュン:落合福嗣／モウ:武内駿輔／カトリーナ:青木瑠璃子／リー:木村昴／ラオワン:濱野大輝／キョウ:梅津秀行<br><br>製作:DJI／企画:RoboMasters
+    Team／エグゼクティブプロデューサー:Swift Lee／Jason Gu／YY Shuo／プロデューサー:西川和宏／Nakazawa Chen／監督:山本靖貴／シリーズ構成・脚本:山下憲一／キャラクターデザイン:葵玲／メカニックデザイン:渡辺浩二／3DCG監督:山崎拓哉／美術監督:市倉敬／音響監督:高寺たけし／音楽:池頼広／アニメーション制作:ダンデライオンアニメーションスタジオLLC／GONZO<br><br>so32200807←前話｜次話→so32226142　第一話→so32200807
+  length_seconds: 1490
+  content_id: so32200825
+  default_thread_id: 1509566976
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32200825
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: Episode3
+  description: 苦い過去の夢から覚めるタンタン。気が進まなかったが、前日のレーシングで壊れたKAKAの修理のためにテイが部長を務める部室を訪れるのだった。早速、部材調達を押し付けられ校内の工作室に出向くタンタンたちにテイが以前所属していた部の李から声をかけられた。行きがかり上、部室に案内され見学をしているとスパイ扱いされ追い出されてしまう。そこでテイが部を裏切り、辞めたと聞いてタンタンは過去の出来事とだぶらせてしまう！<br><br>タンタン:山下大輝／テイ:梅原裕一郎／ショウ:Lynn／シャオアイ:大久保瑠美／オウシュン:落合福嗣／モウ:武内駿輔／カトリーナ:青木瑠璃子／リー:木村昴／ラオワン:濱野大輝／キョウ:梅津秀行<br><br>製作:DJI／企画:RoboMasters
+    Team／エグゼクティブプロデューサー:Swift Lee／Jason Gu／YY Shuo／プロデューサー:西川和宏／Nakazawa Chen／監督:山本靖貴／シリーズ構成・脚本:山下憲一／キャラクターデザイン:葵玲／メカニックデザイン:渡辺浩二／3DCG監督:山崎拓哉／美術監督:市倉敬／音響監督:高寺たけし／音楽:池頼広／アニメーション制作:ダンデライオンアニメーションスタジオLLC／GONZO<br><br>so32200825←前話｜次話→so32241212　第一話→so32200807
+  length_seconds: 1490
+  content_id: so32226142
+  default_thread_id: 1509949931
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32226142
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: Episode4
+  description: ラオワンチームとの大会出場を懸けた試合まであと２カ月を切り、夜遅くまでテイの考えたヒーローロボの開発に没頭するタンタンたち。ついには幽霊部員のカトリーナまで招集される。全員がそろったとき、突如テイが最新型のモーターの使用を提案する！しかしそれは今までの時間や努力をすべて無駄にすることになるため、普段は感情を表に出さないモウがテイと衝突してしまうのだった。このままチームは空中分解してしまうのか！？<br><br>タンタン:山下大輝／テイ:梅原裕一郎／ショウ:Lynn／シャオアイ:大久保瑠美／オウシュン:落合福嗣／モウ:武内駿輔／カトリーナ:青木瑠璃子／リー:木村昴／ラオワン:濱野大輝／キョウ:梅津秀行<br><br>製作:DJI／企画:RoboMasters
+    Team／エグゼクティブプロデューサー:Swift Lee／Jason Gu／YY Shuo／プロデューサー:西川和宏／Nakazawa Chen／監督:山本靖貴／シリーズ構成・脚本:山下憲一／キャラクターデザイン:葵玲／メカニックデザイン:渡辺浩二／3DCG監督:山崎拓哉／美術監督:市倉敬／音響監督:高寺たけし／音楽:池頼広／アニメーション制作:ダンデライオンアニメーションスタジオLLC／GONZO<br><br>so32226142←前話｜次話→so32280578　第一話→so32200807
+  length_seconds: 1490
+  content_id: so32241212
+  default_thread_id: 1510218478
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32241212
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: Episode5
+  description: 試合まであと３日。新型のヒーローロボの完成を目指すタンタンたちだが、まだモーターの調整がうまくいっていなかった。その日の夜、タンタンとテイは自然とシャオアイのジャンク屋に足が向かうが、目当てのモーターは見つからない。しかしシャオアイの取った何げない行動がタンタンたちに新たなアイデアをもたらした。果たして試合当日までに６足ロボを仕上げ、ラオワンチームとのたった一度の試合に勝つことができるのか！？<br><br>タンタン:山下大輝／テイ:梅原裕一郎／ショウ:Lynn／シャオアイ:大久保瑠美／オウシュン:落合福嗣／モウ:武内駿輔／カトリーナ:青木瑠璃子／リー:木村昴／ラオワン:濱野大輝／キョウ:梅津秀行<br><br>製作:DJI／企画:RoboMasters
+    Team／エグゼクティブプロデューサー:Swift Lee／Jason Gu／YY Shuo／プロデューサー:西川和宏／Nakazawa Chen／監督:山本靖貴／シリーズ構成・脚本:山下憲一／キャラクターデザイン:葵玲／メカニックデザイン:渡辺浩二／3DCG監督:山崎拓哉／美術監督:市倉敬／音響監督:高寺たけし／音楽:池頼広／アニメーション制作:ダンデライオンアニメーションスタジオLLC／GONZO<br><br>so32241212←前話｜次話→so32301681　第一話→so32200807
+  length_seconds: 1490
+  content_id: so32280578
+  default_thread_id: 1510880207
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32280578
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: Episode6
+  description: 遂にロボマスの大学代表を懸けた１ラウンドの戦いの火ぶたが切られた。コウがチームリーダーとして率いるラオワンチームに奇襲を掛けるテイたち。序盤は相手を圧倒したかに見えたが、リーの機転で６足ロボの動きを止められてしまう。試合の流れが変わりたちまち形勢を逆転されてピンチを迎えたとき、タンタンがこの戦局を変えるある方法をひらめいた。「仲間と…一緒に…全国大会に行くんだ！」そしてＫＡＫＡが上昇を始めた！<br><br>タンタン:山下大輝／テイ:梅原裕一郎／ショウ:Lynn／シャオアイ:大久保瑠美／オウシュン:落合福嗣／モウ:武内駿輔／カトリーナ:青木瑠璃子／リー:木村昴／ラオワン:濱野大輝／キョウ:梅津秀行<br><br>製作:DJI／企画:RoboMasters
+    Team／エグゼクティブプロデューサー:Swift Lee／Jason Gu／YY Shuo／プロデューサー:西川和宏／Nakazawa Chen／監督:山本靖貴／シリーズ構成・脚本:山下憲一／キャラクターデザイン:葵玲／メカニックデザイン:渡辺浩二／3DCG監督:山崎拓哉／美術監督:市倉敬／音響監督:高寺たけし／音楽:池頼広／アニメーション制作:ダンデライオンアニメーションスタジオLLC／GONZO<br><br>so32280578←前話　第一話→so32200807
+  length_seconds: 1470
+  content_id: so32301681
+  default_thread_id: 1511240728
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32301681
+cast: "[キャスト]<br>タンタン:山下大輝／テイ:梅原裕一郎／ショウ:Lynn／シャオアイ:大久保瑠美／オウシュン:落合福嗣／モウ:武内駿輔／カトリーナ:青木瑠璃子／リー:木村昴／ラオワン:濱野大輝／キョウ:梅津秀行"
+staff: "[スタッフ]<br>製作:DJI／企画:RoboMasters Team／エグゼクティブプロデューサー:Swift Lee／Jason Gu／YY
+  Shuo／プロデューサー:西川和宏／Nakazawa Chen／監督:山本靖貴／シリーズ構成・脚本:山下憲一／キャラクターデザイン:葵玲／メカニックデザイン:渡辺浩二／3DCG監督:山崎拓哉／美術監督:市倉敬／音響監督:高寺たけし／音楽:池頼広／アニメーション制作:ダンデライオンアニメーションスタジオLLC／GONZO"
+produced_year: "[製作年]<br>2017年"
+copyright: "©RoboMasters"
+related_seasons: !ruby/array:Hashie::Array []

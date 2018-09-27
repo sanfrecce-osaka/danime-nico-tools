@@ -1,0 +1,113 @@
+--- !ruby/hash:SeasonHash
+title: BALDR FORCE EXE RESOLUTION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/6/11456_1_6.png?1427216400000
+outline: 虚像の世界と仮初の体、そこで得られる真実は？PC用ゲーム、コンシュマー用ゲームとして多くのゲームファンを魅了した大ヒット作のアニメーション化！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 下屋則子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：サテライト
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺剛
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ミュージックブレインズ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山崎ヒデキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：田中タカユキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: 明田川仁
+  type: other
+- !ruby/hash:TagHash
+  name: マジックカプセル
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：川田まみ
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：KOTOKO
+  type: other
+- !ruby/hash:TagHash
+  name: KOTOKO
+  type: other
+- !ruby/hash:TagHash
+  name: 川田まみ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ファーストコンタクト
+  description: ワイヤード。それは今や人々の生活の一大拠点となった、情報ネットワークの仮想現実空間。相馬透は、そのワイヤード内でハッキング行為を続けているハッキングチーム｢ステッペンウルフ｣の一員だった。だがチームは最後のハッキング中に、軍とテロ組織との戦闘に巻き込まれ、リーダーであり透の親友でもあった優哉が命を落とす。警察に捕らえられたものの、ハッキングの腕を見込まれ軍へ入った透だったが、その胸のうちには復讐の炎が燃えていた！<br><br>相馬透:鈴村健一／水坂憐:下屋則子／瀬川みのり:中原麻衣／紫藤彩音:生天目仁美／笹桐月菜:佐藤利奈／リャン:水樹奈々／バチェラ:桑島法子<br><br>原作:GIGA,Alchemist／監督:田中タカユキ／キャラクターデザイン:山崎ヒデキ／総作画監督:山崎秀樹／主題歌:OP「Face
+    of Fact-RESOLUTION ver.-」KOTOKO,ED「undelete」川田まみ／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／音楽制作:ミュージックブレインズ／アニメーション制作:サテライト<br><br>次話→so32041711
+  length_seconds: 1745
+  content_id: so32041688
+  default_thread_id: 1507083205
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041688
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: アゲイン
+  description: FLAKに入隊した透ではあったが、第1小隊のチームメイトである洋介やカイラ、みのりたちとは、どこかうち解けられずにいた。そんな時、一人でオフタイムをワイヤードの草原で過ごしていた透は、そこで花を摘むふしぎな少女──憐と出会った。透は憐に誘われるまま、遊園地で楽しく過ごす。そこへテロ集団フェタオ出現に非常招集が掛かった。その敵の中には、第1小隊のメンバーである彩音の弟の仇ゲンハもいたのだ！<br><br>相馬透:鈴村健一／水坂憐:下屋則子／瀬川みのり:中原麻衣／紫藤彩音:生天目仁美／笹桐月菜:佐藤利奈／リャン:水樹奈々／バチェラ:桑島法子<br><br>原作:GIGA,Alchemist／監督:田中タカユキ／キャラクターデザイン:山崎ヒデキ／総作画監督:山崎秀樹／主題歌:OP「Face
+    of Fact-RESOLUTION ver.-」KOTOKO,ED「undelete」川田まみ／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／音楽制作:ミュージックブレインズ／アニメーション制作:サテライト<br><br>so32041688←前話｜次話→so32041712　第一話→so32041688
+  length_seconds: 1797
+  content_id: so32041711
+  default_thread_id: 1507084000
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041711
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: トゥルース
+  description: FLAKの同僚である彩音の機体が、親友の優哉を殺したシュミクラムと知り愕然とする透。だが彩音は情報漏洩容疑で逮捕され、透たち第1小隊は謹慎処分を受ける。そんな透はかつての仲間の月菜に連れ出されV.S.S.の総帥・橘玲佳と会う。憐に興味を持ち、透を利用して捕らえようと考える玲佳は、透の洗脳を企むが、その危機を救ったのはフェタオだった。そして透はフェタオのリーダー・クーウォンから衝撃の事実を知らされる！<br><br>相馬透:鈴村健一／水坂憐:下屋則子／瀬川みのり:中原麻衣／紫藤彩音:生天目仁美／笹桐月菜:佐藤利奈／リャン:水樹奈々／バチェラ:桑島法子<br><br>原作:GIGA,Alchemist／監督:田中タカユキ／キャラクターデザイン:山崎ヒデキ／総作画監督:山崎秀樹／主題歌:OP「Face
+    of Fact-RESOLUTION ver.-」KOTOKO,ED「undelete」川田まみ／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／音楽制作:ミュージックブレインズ／アニメーション制作:サテライト<br><br>so32041711←前話｜次話→so32041713　第一話→so32041688
+  length_seconds: 1787
+  content_id: so32041712
+  default_thread_id: 1507084002
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041712
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: リビルト
+  description: 憐は肉体を失ったデータだけの存在だった！真実を知りショックを受けた憐の心を反映して、リバイアサンが暴走をはじめた。その結果、ワイアードだけでなく、リアルワールドにも危機が及ぶ。脳内チップ研究所から辛くも脱出した透は、FLAK第1小隊に合流してネット内へダイブ。リバイアサンへと挑む。だがその行く手をリバイアサンに意識を侵食されたゲンハや、玲佳の手先となった月菜が阻む！透は暴走を止められるのか！？<br><br>相馬透:鈴村健一／水坂憐:下屋則子／瀬川みのり:中原麻衣／紫藤彩音:生天目仁美／笹桐月菜:佐藤利奈／リャン:水樹奈々／バチェラ:桑島法子<br><br>原作:GIGA,Alchemist／監督:田中タカユキ／キャラクターデザイン:山崎ヒデキ／総作画監督:山崎秀樹／主題歌:OP「Face
+    of Fact-RESOLUTION ver.-」KOTOKO,ED「undelete」川田まみ／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／音楽制作:ミュージックブレインズ／アニメーション制作:サテライト<br><br>so32041712←前話　第一話→so32041688
+  length_seconds: 1800
+  content_id: so32041713
+  default_thread_id: 1507083770
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041713
+cast: "[キャスト]<br>相馬透:鈴村健一／水坂憐:下屋則子／瀬川みのり:中原麻衣／紫藤彩音:生天目仁美／笹桐月菜:佐藤利奈／リャン:水樹奈々／バチェラ:桑島法子"
+staff: "[スタッフ]<br>原作:GIGA,Alchemist／監督:田中タカユキ／キャラクターデザイン:山崎ヒデキ／総作画監督:山崎秀樹／主題歌:OP「Face
+  of Fact-RESOLUTION ver.-」KOTOKO,ED「undelete」川田まみ／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／音楽制作:ミュージックブレインズ／アニメーション制作:サテライト"
+produced_year: "[製作年]<br>2006年"
+copyright: "(C)GIGA／Alchemist／B.E.R.Committee"
+related_seasons: !ruby/array:Hashie::Array []

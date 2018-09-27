@@ -1,0 +1,69 @@
+--- !ruby/hash:SeasonHash
+title: 超音戦士ボーグマン2 -新世紀2058-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/6/10636_1_6.png?1427216400000
+outline: メガロシティは高層ビルが立ち並び、すっかり表情を変えていた。3人のファースト・ボーグマンと妖魔の力を擁する秘密結社ギルとの戦いから28年が経っていた。西暦2058年―。妖魔との戦いで瀕死の重傷を負ったノーマルポリスのケンは、桂研究所所長のチャック・スェーガー(かつてメガロシティを妖魔の脅威から救ったボーグマン・チャックその人である)の手でボーグマンとして蘇った。妖魔使いにさらわれた妹を救い出すため、妖魔の侵略から世界を守るためにケンは、第2世代のボーグマンチームの一員となり、人類の存亡を賭け妖魔との戦いを開始する―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 音楽：飛澤宏元
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：村山靖
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菊地通隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：村山靖
+  type: staff
+- !ruby/hash:TagHash
+  name: 超音戦士ボーグマンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 清水勝則
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1993年
+  type: other
+- !ruby/hash:TagHash
+  name: 下地志直
+  type: other
+- !ruby/hash:TagHash
+  name: 橋本和典
+  type: other
+- !ruby/hash:TagHash
+  name: 地蔵本拓嗣
+  type: other
+- !ruby/hash:TagHash
+  name: やまだたかひろ
+  type: other
+- !ruby/hash:TagHash
+  name: 藤原正道
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 超音戦士ボーグマン２　新世紀２０５８
+  description: メガロシティは高層ビルが立ち並び、すっかり表情を変えていた。3人のファースト・ボーグマンと妖魔の力を擁する秘密結社ギルとの戦いから28年が経っていた。西暦2058年―。妖魔との戦いで瀕死の重傷を負ったノーマルポリスのケンは、桂研究所所長のチャック・スェーガー(かつてメガロシティを妖魔の脅威から救ったボーグマン・チャックその人である)の手でボーグマンとして蘇った。妖魔使いにさらわれた妹を救い出すため、妖魔の侵略から世界を守るためにケンは、第2世代のボーグマンチームの一員となり、人類の存亡を賭け妖魔との戦いを開始する―。<br><br>金丸淳一:ケン南井／椎名へきる:サラ・クレッセ／中村大樹:コーツ・ガードナー／野上ゆかな:イライザ南井／山寺宏一:妖魔使い／井上和彦:チャック・スェーガー<br><br>監督:村山靖／プロデューサー:服部街宇、城川章文、下地志直／アシスタントプロデューサー:沖貴子、赤堀義浩／企画:藤原正道、滝口雍昭、佐藤俊彦／脚本:村山靖／キャラクターデザイン:菊地通隆／メカデザイン:やまだたかひろ／美術監督:地蔵本拓嗣／撮影監督:橋本和典／音楽:飛澤宏元／音響監督:清水勝則
+  length_seconds: 5269
+  content_id: so32202398
+  default_thread_id: 1509606647
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202398
+cast: "[キャスト]<br>金丸淳一:ケン南井／椎名へきる:サラ・クレッセ／中村大樹:コーツ・ガードナー／野上ゆかな:イライザ南井／山寺宏一:妖魔使い／井上和彦:チャック・スェーガー"
+staff: "[スタッフ]<br>監督:村山靖／プロデューサー:服部街宇、城川章文、下地志直／アシスタントプロデューサー:沖貴子、赤堀義浩／企画:藤原正道、滝口雍昭、佐藤俊彦／脚本:村山靖／キャラクターデザイン:菊地通隆／メカデザイン:やまだたかひろ／美術監督:地蔵本拓嗣／撮影監督:橋本和典／音楽:飛澤宏元／音響監督:清水勝則"
+produced_year: "[製作年]<br>1993年"
+copyright: "(C)PRODUCTION REED 1994"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超音戦士ボーグマン Lovers Rain
+- !ruby/hash:SeasonHash
+  title: The Borgman Last battle
+- !ruby/hash:SeasonHash
+  title: 超音戦士 ボーグマン

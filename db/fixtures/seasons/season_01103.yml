@@ -1,0 +1,123 @@
+--- !ruby/hash:SeasonHash
+title: にょろーんちゅるやさん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/9/11079_1_6.png?1427216400000
+outline: スモークチーズ大好きなちっちゃな女の子｢ちゅるやさん｣がにょろーんな感じでSOS団メンバーと繰り広げるシュールな日常芝居。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤邑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石稔
+  type: cast
+- !ruby/hash:TagHash
+  name: あおきさやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 松元惠
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：神前暁
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：武本康弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：谷川流
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：いとうのいぢ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西谷太志
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 鶴岡陽太
+  type: other
+- !ruby/hash:TagHash
+  name: 少年エース
+  type: other
+- !ruby/hash:TagHash
+  name: 楽音舎
+  type: other
+- !ruby/hash:TagHash
+  name: 伊藤敦
+  type: other
+- !ruby/hash:TagHash
+  name: スタジオごんぐ
+  type: other
+- !ruby/hash:TagHash
+  name: 中上竜太
+  type: other
+- !ruby/hash:TagHash
+  name: 石田奈央美
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第13話
+  title: さっきもう食べたでしょ　ほか
+  description: そのいちっ  さっきもう食べたでしょ／そのにっ   じゃんけんするわよ／そのさんっ  不思議な生き物ねー／そのよんっ  私もマナーモード機能が…／そのごっ   めがっさ似合ってると思わないっかなー／そのろくっ  短冊をつるすわよ／そのななっ  なんでよけたん／そのはちっ  お弁当にする?それとも私?
+    ／そのきゅうっ   しょうがない子だ…／そのじゅうっ   いもをやくわよ! ／そのじゅういちっ あ、名前ちゃんと書いてた／そのじゅうにっ  すまんが人間の言葉は分からんのだわ／そのじゅうさんっ
+    『そり』ってたのしいねっ<br><br>涼宮ハルヒ、涼宮ハルヒちゃん:平野綾／キョン:杉田智和／朝比奈みくる:後藤邑子／古泉一樹:小野大輔／長門有希:茅原実里／鶴屋さん、ちゅるやさん:松岡由貴／朝倉涼子、あちゃくらりょうこ、あしゃくらりょうこ:桑谷夏子／谷口:白石稔／国木田:松元惠／キョンの妹:あおきさやか<br><br>原作:谷川流・いとうのいぢ／漫画:ぷよ(月間｢少年エース｣)連載／ぷよ(月間｢少年エース｣)連載／監督:武本康弘／キャラクターデザイン:西谷太志／友情プロデューサー:伊藤
+    敦・八田英明／美術監督:篠原睦雄／影監督:中上竜太／色彩監督:石田奈央美／音響監督:鶴岡陽太(楽音舎)／編集:スタジオごんぐ／音楽:神前 暁／音楽プロデューサー:斉藤
+    滋／音響制作:楽音舎／音楽制作:ランティス／制作:京都アニメーション／製作:えすおーえす団
+  length_seconds: 1569
+  content_id: so31938106
+  default_thread_id: 1505579450
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938106
+cast: "[キャスト]<br>涼宮ハルヒ、涼宮ハルヒちゃん:平野綾／キョン:杉田智和／朝比奈みくる:後藤邑子／古泉一樹:小野大輔／長門有希:茅原実里／鶴屋さん、ちゅるやさん:松岡由貴／朝倉涼子、あちゃくらりょうこ、あしゃくらりょうこ:桑谷夏子／谷口:白石稔／国木田:松元惠／キョンの妹:あおきさやか"
+staff: "[スタッフ]<br>原作:谷川流・いとうのいぢ／漫画:ぷよ(月間｢少年エース｣)連載／ぷよ(月間｢少年エース｣)連載／監督:武本康弘／キャラクターデザイン:西谷太志／友情プロデューサー:伊藤
+  敦・八田英明／美術監督:篠原睦雄／影監督:中上竜太／色彩監督:石田奈央美／音響監督:鶴岡陽太(楽音舎)／編集:スタジオごんぐ／音楽:神前 暁／音楽プロデューサー:斉藤
+  滋／音響制作:楽音舎／音楽制作:ランティス／制作:京都アニメーション／製作:えすおーえす団"
+produced_year: "[製作年]<br>2009年"
+copyright: "(c)谷川流・いとうのいぢ/えすおーえす団 (c)ぷよ/えすおーえす団 (c)えれっと/えすおーえす団"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒの憂鬱(2009年放送版)
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒの消失
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒちゃんの憂鬱
+- !ruby/hash:SeasonHash
+  title: 長門有希ちゃんの消失
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒの激奏
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒの弦奏

@@ -1,0 +1,100 @@
+--- !ruby/hash:SeasonHash
+title: ミンキーモモ SONG スペシャル 瞳の星座
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/8/10438_1_6.png?1427216400000
+outline: 歌に映像を載せたミュージックビデオで、各歌前のアイキャッチ及び新録の｢瞳の星座｣の部分が新作であり、他はテレビシリーズの再編集である。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山茉美
+  type: cast
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 納谷六朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 三田ゆう子
+  type: cast
+- !ruby/hash:TagHash
+  name: 増岡弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 塚田恵美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 木藤玲子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：湯山邦彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：芦田豊雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺敬之
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：首藤剛志
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：山田雄三
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1982年
+  type: other
+- !ruby/hash:TagHash
+  name: 新井寅雄
+  type: other
+- !ruby/hash:TagHash
+  name: 大野実
+  type: other
+- !ruby/hash:TagHash
+  name: 梅原勝
+  type: other
+- !ruby/hash:TagHash
+  name: 藤山房延
+  type: other
+- !ruby/hash:TagHash
+  name: さとうともひこ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ミンキーモモ SONG スペシャル 瞳の星座
+  description: ミンキーモモ:小山茉美／王様:増岡弘／王妃様:塚田恵美子／パパ:納谷六朗／ママ:土井美加／シンドブック:田ノ中勇／モチャー:木藤玲子／ピピル:三田ゆう子／カジラ:千葉繁<br><br>ゼネラルプロデューサー:内間稔／制作コーディネーター:石川清司／プロデューサー:大野実,加藤博／プロデューサー補:梅原勝／音楽:渡辺敬之／キャラクターデザイン:芦田豊雄／作画監督:渡辺ひろし／美術監督:新井寅雄／音響監督:藤山房延／メカニックデザイン:さとうともひこ／演出:山田雄三／監督:湯山邦彦／脚本:首藤剛志／製作:佐藤俊彦／企画:葦プロダクション
+  length_seconds: 1745
+  content_id: so32151658
+  default_thread_id: 1508835751
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151658
+cast: "[キャスト]<br>ミンキーモモ:小山茉美／王様:増岡弘／王妃様:塚田恵美子／パパ:納谷六朗／ママ:土井美加／シンドブック:田ノ中勇／モチャー:木藤玲子／ピピル:三田ゆう子／カジラ:千葉繁"
+staff: "[スタッフ]<br>ゼネラルプロデューサー:内間稔／制作コーディネーター:石川清司／プロデューサー:大野実,加藤博／プロデューサー補:梅原勝／音楽:渡辺敬之／キャラクターデザイン:芦田豊雄／作画監督:渡辺ひろし／美術監督:新井寅雄／音響監督:藤山房延／メカニックデザイン:さとうともひこ／演出:山田雄三／監督:湯山邦彦／脚本:首藤剛志／製作:佐藤俊彦／企画:葦プロダクション"
+produced_year: "[製作年]<br>1982年"
+copyright: "(c) PRDUCTION REED 1982"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ
+- !ruby/hash:SeasonHash
+  title: Fairy Princess Minky Momo 夢の中の輪舞
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ ‐夢を抱きしめて‐
+- !ruby/hash:SeasonHash
+  title: MINKY MOMO in 夢にかける橋
+- !ruby/hash:SeasonHash
+  title: MINKY MOMO in 旅立ちの駅

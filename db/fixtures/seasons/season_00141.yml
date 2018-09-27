@@ -1,0 +1,144 @@
+--- !ruby/hash:SeasonHash
+title: うさぎドロップ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/8/11178_1_6.png?1427216400000
+outline: 30歳の独身男ダイキチは祖父の葬儀で見知らぬ6歳の女の子りんと出会う。実は祖父の隠し子であることが分かり驚愕するダイキチ。親戚たちがりんを引き取る話し合いのふりをしながら互いに責任を押しつけ合う中、見兼ねたダイキチは勢い余ってりんを引き取ることを宣言してしまう。正義感は強いがうっかり者のダイキチと、子供ながらにどこか芯の強さをもつ少女りん。ふたりの凸凹・二人三脚・共同生活が始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 土田大
+  type: cast
+- !ruby/hash:TagHash
+  name: 松浦愛弓
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：亀井幹太
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：宇仁田ゆみ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+- !ruby/hash:TagHash
+  name: 祥伝社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: りんどうの女の子
+  description: 30歳、独身のサラリーマン河地大吉は、祖父・宗一の葬儀で見知らぬ女の子・りんと出会う。その6歳の少女は、なんと祖父の隠し子だった。子ども嫌いの大吉だったが、親戚たちの、りんへのよそよそしい態度に違和感を募らせていく。そしてとうとう、りんの引き取り先を決める親戚会議が始まって…。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>次話→so32080372
+  length_seconds: 1380
+  content_id: so32080371
+  default_thread_id: 1507698209
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080371
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ゆび切りげんまん
+  description: 何を着せれば? 食事は? 保育園はどうする? 6歳の女の子との二人暮らしに戸惑いの連続の大吉。保育園初日、不安な顔をするりんに、なるべく早く迎えに来るとゆび切りをする大吉だったが…。りんとの生活に自信の持てない大吉は、りんの母親に会うこと考え始める。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080371←前話｜次話→so32080373　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080372
+  default_thread_id: 1507698247
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080372
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ダイキチの決めたこと
+  description: りんの母親の手掛かりを探しに、りんとともに実家に向かう大吉。はじめはりんを引き取ることに反対していた大吉の父母だが、孫が出来たようでまんざらでもない様子。そして、宗一の家で、大吉は謎のモデムを発見する。そんな折大吉は、りんとの生活を考え、ある決断をくだす。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080372←前話｜次話→so32080374　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080373
+  default_thread_id: 1507698242
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080373
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: てがみ
+  description: 地元の保育園に入園したりんは、コウキという男の子と仲良くなる。コウキを1人で育てている美人コウキママに、大吉はちょっとドキドキ。そんななか、宗一の家で発見したモデムからを手掛かりに彼の遺書にたどり着く。そしてそこには、りんの母親・正子の連絡先が…。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080373←前話｜次話→so32080375　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080374
+  default_thread_id: 1507698442
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080374
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ダイキチはダイキチでいい
+  description: ついに、大吉がりんの母親・正子と会う日がやってくる。その意外な素顔に衝撃を受ける大吉。別れ際、正子は大吉にある願いを伝える。それは、りんを育てるうえで避けては通れない問題だった。大吉は、りんとの話し合いによってその問題を解決しようとするのだが…。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080374←前話｜次話→so32080376　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080375
+  default_thread_id: 1507698238
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080375
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: わたしの木
+  description: 小学生になったりん。大吉は、記念樹を植えることを提案する。りんは持っていたびわの種を庭に植えるが、果たして芽が出るかどうかもわからない。もしかしたら、宗一もりんの誕生記念に何か植えているのではと、大吉が正子を訪ねたところ…。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080375←前話｜次話→so32080377　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080376
+  default_thread_id: 1507698257
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080376
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ないしょで家出
+  description: 大吉のいとこの春子が、娘の麗奈と大吉の家に家出してくる。春子の覚悟をはかりかねて、ひとりヤキモキする大吉。そしてその気持ちを知り、母として強くなった春子に少なからず驚く。結婚とは何か、家族とは何かを改めて考える大吉であった。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080376←前話｜次話→so32080395　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080377
+  default_thread_id: 1507698275
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080377
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: おじいちゃんのだいじ
+  description: りんの夏休みが始まった。大吉とりんは宗一のお墓参りに行くことに。そして、宗一の墓石にはインク瓶に差したりんどうが。りんの母親・正子がついさっきまで来ていたのだ。走り出す大吉。正子に追いついた大吉はある意外なことを提案する。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080377←前話｜次話→so32080396　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080395
+  default_thread_id: 1507700555
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080395
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: たいふうがきた!
+  description: 大型台風が接近。大吉がお迎えに行くと、学童に残っていたのはりんとコウキの二人だけ。嵐の中を帰ってきた3人は、おおはしゃぎ。そこへ、コウキを迎えにきたコウキママも加わって、一緒にご飯を作って食べることに。それは、まるでひとつの家族のようで…。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080395←前話｜次話→so32080397　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080396
+  default_thread_id: 1507700557
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080396
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: おなかのかぜ
+  description: 文化祭の帰り道、りんに熱があることが発覚する。コウキママに励まされながら必死に介護する大吉だが、食事もとれず飲み物すら飲むことができないりんに、不安と焦りはつのるばかり。あらためて、りんがかけがえのない存在であることに気付くのだった。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080396←前話｜次話→so32080398　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080397
+  default_thread_id: 1507700604
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080397
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: はじめの一歩
+  description: りんと出会って1年。自分にとって子育てって……公園で遊ぶりんたちを見ながら漠然と考える大吉。歯がぐらぐらのりんにオロオロとうろたえながらも、またひとつりんの成長に立ち会った夜、誰かと一緒に生きていくことの素敵をかみしめる大吉だった。<br><br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)<br><br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)<br><br>so32080397←前話　第一話→so32080371
+  length_seconds: 1380
+  content_id: so32080398
+  default_thread_id: 1507700576
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080398
+cast: "[キャスト]<br>キャスト:河地大吉(CV：土田大)、鹿賀りん(CV：松浦愛弓)"
+staff: "[スタッフ]<br>監督:亀井幹太／シナリオ(シリーズ構成):岸本卓／スタジオ:プロダクションI.G原作宇仁田ゆみ｢うさぎドロップ｣(祥伝社・フィールコミック)"
+produced_year: "[製作年]<br>2011年"
+copyright: "©2011 宇仁田ゆみ/祥伝社/アニメ｢うさぎドロップ｣製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

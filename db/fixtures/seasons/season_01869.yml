@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: ブラック・ジャック ＜オリジナルアニメ＞
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/4/11464_1_6.png?1427216400000
+outline: お金にがめつくて、嫁に対して口を開けば小遣いをせびってばかりいる老婆。そんなおばあちゃんに息子夫婦はうんざり…。あまりにも続く事を不審に思った息子は、おばあちゃんが外出すると、こっそり後をつけていく。そこで待ち受けていた意外な事実とは…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 水谷優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 京田尚子
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺美佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木琢磨
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：手塚治虫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：森田真由美
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：タバック
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: ブラック・ジャックシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 岡田和夫
+  type: other
+- !ruby/hash:TagHash
+  name: 久保田稔
+  type: other
+- !ruby/hash:TagHash
+  name: 宇田川純男
+  type: other
+- !ruby/hash:TagHash
+  name: 川添恵
+  type: other
+- !ruby/hash:TagHash
+  name: 森田編集室
+  type: other
+- !ruby/hash:TagHash
+  name: アーツプロ
+  type: other
+- !ruby/hash:TagHash
+  name: イマジカ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ブラック・ジャック ＜オリジナルアニメ＞
+  description: お金にがめつくて、嫁に対して口を開けば「お金をちょうだい」と小遣いをせびってばかりいる老婆。そんなおばあちゃんに息子夫婦はうんざり…。ひょんなことからこの一家と知り合ったブラック・ジャックは、やがてこのおばあちゃんが瀕死の重病にかかった幼い息子を救うため、大金を要求する名医に治療してもらった過去がある、と知るのです。<br><br>ブラック・ジャック:大塚明夫／ピノコ:水谷優子／義裕:鈴木琢磨／律子:渡辺美佐／ヨシコ:京田尚子<br><br>原作:手塚治虫／脚本:森田真由美／監督・演出:西田正義／作画監督:西田正義／原画:西田正義／動画チェック:岡村隆、田中嘉／動画:北京写楽美術芸術品有限公司／美術監督:岡田和夫／背景:岩崎清宏、菅野孝信／色彩設定:宇田川佐東美／仕上検査:宇田川佐東美、斎藤京子／仕上:北京写楽美術芸術品有限公司／デジタル・プロセッサー:川添恵、油谷有美／特殊効果:榊原豊彦／タイトル・リスワーク:マキプロ／音響制作:アーツプロ／選曲:合田豊／録音スタジオ:タバック／編集:森田編集室／ビデオ編集:スタジオ・トゥインクルランド／現像:イマジカ／撮影:高橋プロダクション／プロデューサー:久保田稔、宇田川純男／制作担当:柳澤光子<br><br>(C)手塚プロダクション
+  length_seconds: 597
+  content_id: so33473668
+  default_thread_id: 1530752186
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473668
+cast: "[キャスト]<br>ブラック・ジャック:大塚明夫／ピノコ:水谷優子／義裕:鈴木琢磨／律子:渡辺美佐／ヨシコ:京田尚子"
+staff: "[スタッフ]<br>原作:手塚治虫／脚本:森田真由美／監督・演出:西田正義／作画監督:西田正義／原画:西田正義／動画チェック:岡村隆、田中嘉／動画:北京写楽美術芸術品有限公司／美術監督:岡田和夫／背景:岩崎清宏、菅野孝信／色彩設定:宇田川佐東美／仕上検査:宇田川佐東美、斎藤京子／仕上:北京写楽美術芸術品有限公司／デジタル・プロセッサー:川添恵、油谷有美／特殊効果:榊原豊彦／タイトル・リスワーク:マキプロ／音響制作:アーツプロ／選曲:合田豊／録音スタジオ:タバック／編集:森田編集室／ビデオ編集:スタジオ・トゥインクルランド／現像:イマジカ／撮影:高橋プロダクション／プロデューサー:久保田稔、宇田川純男／制作担当:柳澤光子"
+produced_year: "[製作年]<br>2000年"
+copyright: "(C)手塚プロダクション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック スペシャル～命をめぐる4つの奇跡～
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック 空からきた子ども
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック 劇場版
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック ふたりの黒い医者
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック21
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック＜Flashアニメ＞
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック＜OVA＞
+- !ruby/hash:SeasonHash
+  title: ヤング ブラック･ジャック

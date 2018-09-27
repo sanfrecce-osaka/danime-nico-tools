@@ -1,0 +1,54 @@
+--- !ruby/hash:SeasonHash
+title: ルパンしゃんしぇい
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/90/2/21902_1_6.png?1511508674000
+outline: 今回ルパン三世が手を組んだのは……なんと『秘密結社　鷹の爪』などで知られるアニメ界のヒットメーカーFROGMAN。もちろん、おなじみのルパン一家が登場するのではあるが……。果たして、どんなルパンワールドが展開するのか!?　オムニバス形式で贈る、新感覚ルパン、参上！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 相沢舞
+  type: cast
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 上野アサ
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：モンキー・パンチ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: 進撃のルパン／斉藤ルパン／ルパキ／ようかい人間ルパン
+  description: 第1話：周囲を巨大な壁面に囲まれた、とある世界。そこに突如30mを超えるルパンが襲来する。恐れおののく義彦と邦子……。そして、邦子の家がルパンに襲われる！そこでルパンが盗んでいったものとは!?／第2話：ルパンは、縄文時代から続く地域のオピニオンリーダーである斉藤家に、婿養子として同居していた。家中のものが無くなり始めるという異変が起きていた斉藤家だったが、当主はやがてルパンに家を継いでほしいと考えていた……。／第3話：人生において三度訪れるという、手癖が悪くなる時……そう、それがルパキ。藤本にもそんなルパキが訪れる。気づかないうちに、校内のものを盗みまくる藤本に、ルパキの症状がどんどん現れ始める。／第4話：グレゴールに拾われた怪物でもなければ、妖怪でもない生物。ルパン、不二子、次元と名付けられた彼らは大きくなると街へ出て働き始める。やがてグレゴールの家は金目のものであふれていくが……。<br><br>声の出演:FROGMAN・上野アサ・相沢舞<br><br>監督・脚本・キャラクターデザイン:FROGMAN<br><br>次話→so32412528
+  length_seconds: 844
+  content_id: so32412518
+  default_thread_id: 1513126213
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32412518
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第10話
+  title: 熱帯性ルパン／田舎で盗もう！／洗いルパン三世／となりのルパン／最後のルパン先生
+  description: 第5話：フィリピン沖で発生した非常に強い勢力の熱帯性ルパンが今夜にも本州に上陸するらしい。ルパン上陸に備え、対策を施すことにしたタケシと銭形。風雨がさらに強まっていく中、無事過ごすことが出来るのか!?／第6話：島根県のとある村にルパン三世が盗みに来た。盗みに入らせてくれる家を探して、村人たちに声をかけるルパン三世。事情を聞いた富子おばあちゃんが、ルパンを盗みに入らせてくれるそうだが……？／第7話：ガールフレンドのキャシーとアライグマを探しに森へやってきたトミー。そこで見たのは、罠にかかっていた洗いルパンだった！　洗いルパンを連れ帰ることにしたトミーだったが、野生の洗いルパンがおとなしくしているはずもなく……／第8話：のどかな田舎道を走る家財道具を積んだ一台のトラック。マズルカとその家族はこの地で新生活を始めようとしていた。だが、新居に着いてみると、隣には洋館があり、そこにはルパン一味が住んでいた。／第10話：受験という大事な時期にも関わらず、未経験でしかも大泥棒という肩書の先生が担任としてやってきた。とても気さくでユニークなルパン先生だ。そんな学園である日、財布の盗難事件が発生する……。<br><br>声の出演:FROGMAN・上野アサ・相沢舞<br><br>監督・脚本・キャラクターデザイン:FROGMAN<br><br>so32412518←前話　第一話→so32412518
+  length_seconds: 1055
+  content_id: so32412528
+  default_thread_id: 1513126228
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32412528
+cast: "[キャスト]<br>声の出演:FROGMAN・上野アサ・相沢舞"
+staff: "[スタッフ]<br>監督・脚本・キャラクターデザイン:FROGMAN"
+produced_year: "[製作年]<br>2012年"
+copyright: "©モンキー・パンチ／「ルパンしゃんしぇい」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

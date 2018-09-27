@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: ゆるめいつ は？
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/07/9/20079_1_6.png?1427216400000
+outline: 大学受験のために上京してきた浪人生・相田ゆるめ（CV.桃井はるこ）とベテラン浪人生であるアパートの住人である、田中くみ（CV.松来未祐）、川野サエ（CV.桑谷夏子）、松吉（CV.日野聡）。そんな四人がいつものように“ゆる～さと、まったり～さ”で人生の辛さを忘れていた、とある日。サエの妹（CV.竹達彩奈）が、姉の不出来ッぷりを心配してやってきた！しっかりしているようで実は・・・なサエの妹が加わりさらに？？？な状況に！。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 桃井はるこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：saxyun
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：月見里智弘
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：indigo line
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：月見里智弘
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆるめいつ シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#6"
+  title: ''
+  description: 大学受験のために上京してきた浪人生・相田ゆるめ（CV.桃井はるこ）とベテラン浪人生であるアパートの住人である、田中くみ（CV.松来未祐）、川野サエ（CV.桑谷夏子）、松吉（CV.日野聡）。そんな四人がいつものように“ゆる～さと、まったり～さ”で人生の辛さを忘れていた、とある日。サエの妹（CV.竹達彩奈）が、姉の不出来ッぷりを心配してやってきた！しっかりしているようで実は・・・なサエの妹が加わりさらに？？？な状況に！。<br><br>桃井はるこ:ゆるめ役（『瀬戸の花嫁』『Steins；Gate』）／松来未祐:くみ役（『ひだまりスケッチ×☆☆☆
+    』 『それでも町は廻っている』）／桑谷夏子:サエ役（『涼宮ハルヒの憂鬱』『戦国BASARA弐』）／日野聡:松吉役（『バクマン。』 『マジンカイザーSKL』）／竹達彩奈:サエの妹役（『けいおん!!』『俺の妹がこんなに可愛いわけがない』）<br><br>原作:saxyun（「まんがくらぶ」連載-竹書房刊）／監督・脚本:月見里智弘／主題歌:桃井はるこ／アニメーション制作:indigo
+    line／制作プロダクション:indeprox／製作:竹書房
+  length_seconds: 1927
+  content_id: so31946103
+  default_thread_id: 1505672512
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946103
+cast: "[キャスト]<br>桃井はるこ:ゆるめ役（『瀬戸の花嫁』『Steins；Gate』）／松来未祐:くみ役（『ひだまりスケッチ×☆☆☆ 』 『それでも町は廻っている』）／桑谷夏子:サエ役（『涼宮ハルヒの憂鬱』『戦国BASARA弐』）／日野聡:松吉役（『バクマン。』
+  『マジンカイザーSKL』）／竹達彩奈:サエの妹役（『けいおん!!』『俺の妹がこんなに可愛いわけがない』）"
+staff: "[スタッフ]<br>原作:saxyun（「まんがくらぶ」連載-竹書房刊）／監督・脚本:月見里智弘／主題歌:桃井はるこ／アニメーション制作:indigo
+  line／制作プロダクション:indeprox／製作:竹書房"
+produced_year: "[製作年]<br>2011年"
+copyright: "（C）2011saxyun／竹書房"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ
+- !ruby/hash:SeasonHash
+  title: ＴＶアニメ版 ゆるめいつ ３でぃ PLUS
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ 3でぃ

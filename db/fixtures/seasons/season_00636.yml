@@ -1,0 +1,150 @@
+--- !ruby/hash:SeasonHash
+title: 侵略!イカ娘
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/05/1/10051_1_6.png?1427216400000
+outline: "｢週刊少年チャンピオン｣にて2007年から連載を開始し、2010年10月からテレビ東京系列で放送開始となった人気アニメ。人類征服のために深海からやってきたイカ娘が湘南の｢海の家れもん｣で騒動を巻き起こす。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤村歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：水島努
+  type: staff
+- !ruby/hash:TagHash
+  name: 侵略!イカ娘シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: どこかにカレー
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢侵略しなイカ?｣｢同胞じゃなイカ?｣｢最強じゃなイカ?｣"
+  description: 海水浴場で賑わう｢海の家れもん｣を切り盛りする相沢姉妹。そんな忙しい中次女栄子の前に奇妙な格好の少女が現れる。イカ娘と名乗る少女は人類侵略のためやってきた海の使者だと言うが・・・。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>次話→so32011614
+  length_seconds: 1435
+  content_id: so32011561
+  default_thread_id: 1506649392
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011561
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢仲間じゃなイカ?｣｢祝わなイカ?｣｢遊ばなイカ?｣"
+  description: 触手がつって溺れていたところをライフセーバーの悟郎に助けられたイカ娘。ライフセーバーが海を守る仕事だと聞いて親近感を覚えるイカ娘だったが・・・。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011561←前話｜次話→so32011615　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011614
+  default_thread_id: 1506650626
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011614
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢怖くなイカ?｣｢天敵じゃなイカ?｣｢新入りじゃなイカ?｣"
+  description: テレビの恐怖番組を見てもまったく怖がらないイカ娘は、本物の幽霊をみるまでその存在を信じないと言い張る。そこで栄子は幽霊の怖さをイカ娘に知らしめようと、夜のお墓での肝試しを企画する。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011614←前話｜次話→so32011635　第一話→so32011561
+  length_seconds: 1435
+  content_id: so32011615
+  default_thread_id: 1506650623
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011615
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢買わなイカ?｣｢乗りこまなイカ?｣｢ニセモノじゃなイカ?｣"
+  description: 砂浜で財布を拾ったイカ娘は、持ち主からお礼として1万円を受け取った。お金の価値がまったくわからないイカ娘は、渚に付き添ってもらい商店街へ買い物に出かけるが・・・。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011615←前話｜次話→so32011636　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011635
+  default_thread_id: 1506651185
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011635
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢宇宙人じゃなイカ?｣｢学校に行かなイカ?｣｢飼わなイカ?｣"
+  description: SEXYなビキニ姿に金髪をなびかせる美女、シンディ。彼女はアメリカから宇宙人出没の情報を掴んでやってきたらしく、イカ娘を見るなり宇宙人と決め付けて研究所へ連れて行こうとする。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011635←前話｜次話→so32011637　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011636
+  default_thread_id: 1506651303
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011636
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "｢ヒーローショーじゃなイカ?｣｢勉強しなイカ?｣｢恋じゃなイカ?｣"
+  description: ヒーローショーの会場を通りかかったイカ娘は、会場で盛り上がる子供たちと一緒にショーを見学することに。黒タイツの連中が子供たちに襲いかかり、お決まりの展開で登場したヒーローの名は｢能面ライダー｣。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011636←前話｜次話→so32011638　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011637
+  default_thread_id: 1506651276
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011637
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "｢狙われなイカ?｣｢研究しなイカ?｣｢働かなイカ?｣"
+  description: バイトの歓迎会を兼ねて渚は相沢家の夕食に招かれたのだが、そこにはイカ娘の姿があった。恐れおののく渚を前に相沢家を乗っ取る計画を語るイカ娘。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011637←前話｜次話→so32011639　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011638
+  default_thread_id: 1506651164
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011638
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "｢病気じゃなイカ?｣｢新能力じゃなイカ?｣｢ささなイカ?｣"
+  description: イカ娘が体調を崩して倒れてしまった。人間と同じ生活をしていたため、夏バテになったと見立てたれもんの一同は、イカ娘に夏バテ対策を施すのだが・・・。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011638←前話｜次話→so32011640　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011639
+  default_thread_id: 1506651191
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011639
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "｢ピンポンダッシュしなイカ?｣｢メイクしなイカ?｣｢秘密兵器じゃなイカ?｣"
+  description: いたずらで見知らぬ家のチャイムを押してしまったイカ娘。すぐに逃げ去ろうとするのだが、千鶴と鉢合わせしてしまい、その間に家の人が出てきてしまう。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011639←前話｜次話→so32011641　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011640
+  default_thread_id: 1506651222
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011640
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "｢てるてる坊主じゃなイカ?｣｢好かれなイカ?｣｢野球しなイカ?｣"
+  description: 宿題の絵をスケッチしに出かけるため、晴れを願っててるてる坊主を作っていたたける。せっかくならこの場で描いてしまおうということで、イカ娘はたけるのスケッチを手伝うと言い出した。自らも筆を取ったイカ娘が描いたイラストのできばえに一同は驚愕してしまう。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011640←前話｜次話→so32011642　第一話→so32011561
+  length_seconds: 1436
+  content_id: so32011641
+  default_thread_id: 1506651317
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011641
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "｢人形じゃなイカ?｣｢疑惑じゃなイカ?｣｢登山しなイカ?｣"
+  description: 子供の頃に大事にしていたという人形を栄子が引っ張り出してきた。朽ちた人形の不気味な風貌を気味悪がるイカ娘だったが、栄子は懐かしさから部屋に飾ると言い出した。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011641←前話｜次話→so32011643　第一話→so32011561
+  length_seconds: 1435
+  content_id: so32011642
+  default_thread_id: 1506651197
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011642
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "｢戦わなイカ?｣｢ピンチじゃなイカ?｣｢もっとピンチじゃなイカ?｣"
+  description: 恒例のビーチバレー大会にイカ娘と栄子がペアで出場することになった。優勝の景品である3Dテレビを目当てに、いつもの面々が立ちはだかる。<br><br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵<br><br>監督:水島努<br><br>so32011642←前話　第一話→so32011561
+  length_seconds: 1435
+  content_id: so32011643
+  default_thread_id: 1506651301
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011643
+cast: "[キャスト]<br>イカ娘:金元寿子／相沢栄子:藤村歩／相沢千鶴:田中理恵"
+staff: "[スタッフ]<br>監督:水島努"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C) 安部真弘(週刊少年チャンピオン)/海の家れもん"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "｢侵略!!イカ娘｣オリジナルアニメーション2013SUMMER"
+- !ruby/hash:SeasonHash
+  title: "｢侵略!!イカ娘｣オリジナルアニメーション2012SUMMER"
+- !ruby/hash:SeasonHash
+  title: 侵略!?イカ娘

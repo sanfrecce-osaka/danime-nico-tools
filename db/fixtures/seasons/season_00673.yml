@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: Genius Party
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/02/4/22024_1_6.png?1519614055000
+outline: 制約は、ゼロ。「アニマトリックス」「鉄コン筋クリート」など、数々の名作を生み出しつづけるSTUDIO4℃の下に、日本のアニメーションが誇る天才たちが集結。プロジェクト名は「Genius
+  Party＜ジーニアス・パーティ＞」。世界が認める才能によって、全く新しいパーティ・ムービーがここに誕生した。その【第一弾】は、第57回カンヌ国際映画祭にて、最優秀男優賞に輝いた柳楽優弥、そして2007年度のアカデミー賞で話題をさらった菊地凛子らによる注目の豪華キャスト。7人の映像作家の個性は、ときに対峙し、ときに共鳴しながらあなたの感性を直撃する。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小倉久寛
+  type: cast
+- !ruby/hash:TagHash
+  name: 栩原楽人
+  type: cast
+- !ruby/hash:TagHash
+  name: 柳楽優弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊地凛子
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口智充
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢部太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 三上博史
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：湯浅政明
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：河森正治
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡辺信一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村真二
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：福島敦子
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：木村真二
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：福山庸治
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：二村秀樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：二村秀樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：福山庸治
+  type: staff
+- !ruby/hash:TagHash
+  name: Genius Partyシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: Genius Party
+  description: "#1「GENIUS PARTY」イメージが生まれる瞬間をモチーフにした、感覚を触発する映像の世界。／#2「上海大竜」前世紀後半の上海旧市街、洟垂れ小僧のチンクロは絵を描くのが大好きな幼稚園児。ある日、チンクロが拾った謎のスティック型の物体－それは思い描いたものを実体化できる「想念実体化システム」だった。／#3「デスティック・フォー」地底に広がるもう一つの世界は“生”の存在が許されない。そこに入り込んだ一匹のカエルを主人公のロットが偶然拾った。／#4「ドアチャイム」ある日、いつものとおりに帰宅した高校生の裕。マンションのドアを開けて家に入ろうとすると、そこには既に帰宅していたもう一人の“自分”の姿が。／#5「LIMIT
+    CYCLE」闇の中に浮かび上がる仮想現実空間、重層で構成されたデータワールドの都市、まるで何かに囚われているような表情でパソコンに向かう一人の男。仕事を終え街へ出た男は幻想的な蝶を発見する。／#6「夢みるキカイ」―温かいお家やママは、からくり仕立ての機械だった―赤ん坊はひとり、殺伐とした荒野へとはき出される。／#7「BABY
+    BLUE」初夏、福生のとある高校。２年生の翔は幼なじみの葉月を「授業を抜けてどこかへ行こう」と誘う。歳月はお互いをどこか変えてしまい、近頃は話すこともなくなっていた。<br><br>CV:柳楽優弥　菊地凛子/山口智充　矢部太郎（カラテカ）／栩原楽人　小倉久寛／三上博史<br><br>DIRECTORS:#1「GENIUS
+    PARTY」監督：福島敦子　#2「上海大竜」監督・脚本：河森正治　#3「デスティック・フォー」監督・キャラクターデザイン・美術：木村真二　#4「ドアチャイム」監督・脚本・絵コンテ・キャラクター原案：福山庸治　#5「LIMIT
+    CYCLE」監督・脚本・絵コンテ・設定・原画：二村秀樹　#6「夢みるキカイ」監督・脚本・絵コンテ・キャラクターデザイン・作画監督：湯浅政明　#7「BABY
+    BLUE」監督・脚本・絵コンテ：渡辺信一郎"
+  length_seconds: 6109
+  content_id: so32840721
+  default_thread_id: 1520306214
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32840721
+cast: "[キャスト]<br>CV:柳楽優弥　菊地凛子/山口智充　矢部太郎（カラテカ）／栩原楽人　小倉久寛／三上博史"
+staff: "[スタッフ]<br>DIRECTORS:#1「GENIUS PARTY」監督：福島敦子　#2「上海大竜」監督・脚本：河森正治　#3「デスティック・フォー」監督・キャラクターデザイン・美術：木村真二　#4「ドアチャイム」監督・脚本・絵コンテ・キャラクター原案：福山庸治　#5「LIMIT
+  CYCLE」監督・脚本・絵コンテ・設定・原画：二村秀樹　#6「夢みるキカイ」監督・脚本・絵コンテ・キャラクターデザイン・作画監督：湯浅政明　#7「BABY BLUE」監督・脚本・絵コンテ：渡辺信一郎"
+produced_year: "[製作年]<br>2007年"
+copyright: "©Genius Party"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Genius Party Beyond

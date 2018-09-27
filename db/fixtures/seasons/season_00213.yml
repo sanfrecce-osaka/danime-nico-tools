@@ -1,0 +1,81 @@
+--- !ruby/hash:SeasonHash
+title: オシリスの天秤
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/7/20417_1_6.png?1444120784000
+outline: 舞台は現代。主人公は謎に包まれた暗殺者。彼はある事情から体の左側の臓器がほとんどない。そのため体が弱く、体術はもちろん銃の扱いも不得手である。およそ暗殺者としての資質からほど遠い主人公・・・しかしある特殊能力が彼を特別な暗殺者たらしめている。それはごくわずかなサイコキネシス。コップの中の水に少し波紋を起せる程度の微細な超能力。しかしこの力により彼はターゲットの脳を破壊し相手を脳死に至らしめターゲットの臓器を移植用に提供する。彼は暗殺の依頼を受けると必ずターゲットに直接会い本人と会話する。ターゲットが本当に殺されるべき人間かどうか確認するために。彼は何者か、彼はなぜ暗殺者になったのか、なぜターゲットの臓器を移植用に使おうとするのか・・・ストーリーが進むとともに少しずつその秘密が明かされていく・・・
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚運昇
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 泊明日菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：冨士川祐輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：笠井健夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: Target 01～Target 05
+  description: "【Target 01 死神の流儀】ストリートギャングのリーダーは自分の周辺を嗅ぎまわる怪しい男を捕えた。彼は男に只ならぬ雰囲気を感じ尋問を開始するのだが・・・／【Target
+    02 喪失の記憶】ターゲットは薬物中毒者。拘束衣を着用させられ身動きひとつできない男の犯した罪とは？／【Target 03 依頼の理由】ターゲットはバイオ研究所の研究員。彼が死ななければならない理由とは？／【Target
+    04 犯罪の告白】警察に出頭する主人公。自ら犯した罪を認め、全てを告白するのだが・・・／【Target 05 不治の負担】ターゲットは末期患者。ただ死を待つだけの彼がなぜ殺されなければならないのか・・・<br><br>CV:梶裕貴、細谷佳正、小松由佳、木村良平、鈴村健一、浪川大輔、宮野真守、石塚運昇、福山潤、泊明日菜、沢城みゆき
+    他<br><br>監督:冨士川祐輔／脚本:笠井健夫<br><br>次話→so32122705"
+  length_seconds: 1585
+  content_id: so32122704
+  default_thread_id: 1508393219
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32122704
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: Target 06～Target 10
+  description: "【Target 06 執行の基準】死体処理から臓器売買まで、暗殺の後始末はコーディネーターの仕事。そのコーディネーターからきた注文とは？／【Target
+    07 聖者の仕事】ターゲットは某国大統領。聖人君子の誉れ高い彼の暗殺を依頼したのは意外な人物だった・・・／【Target 08 恐怖の支配】差し向けられた刺客に苦戦する主人公。重症を負った彼が見たものは・・・／【Target
+    09 正義の味方】国家ぐるみの不正に気付いた男はいつしか命を狙われるようになった。主人公は彼を救えるか？！／【Target 10 絶望の世界】偶然、自殺しようとしている少女に出会う主人公。彼は少女に命の意味を問い・・・<br><br>CV:梶裕貴、細谷佳正、小松由佳、木村良平、鈴村健一、浪川大輔、宮野真守、石塚運昇、福山潤、泊明日菜、沢城みゆき
+    他<br><br>監督:冨士川祐輔／脚本:笠井健夫<br><br>so32122704←前話　第一話→so32122704"
+  length_seconds: 1693
+  content_id: so32122705
+  default_thread_id: 1508393197
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32122705
+cast: "[キャスト]<br>CV:梶裕貴、細谷佳正、小松由佳、木村良平、鈴村健一、浪川大輔、宮野真守、石塚運昇、福山潤、泊明日菜、沢城みゆき 他"
+staff: "[スタッフ]<br>監督:冨士川祐輔／脚本:笠井健夫"
+produced_year: "[製作年]<br>2015年"
+copyright: 写真提供　フジテレビ
+related_seasons: !ruby/array:Hashie::Array []

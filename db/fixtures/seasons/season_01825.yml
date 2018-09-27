@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: ONE～輝く季節へ～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/01/4/11014_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 谷山紀章
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野真澄
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 七緒はるひ
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田小百合
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊嶋真千子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：杜野幼青
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：佐藤淳
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Triple X
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢雨の章 茜・詩子｣"
+  description: 朝、通学路を歩く茜と幼なじみの詩子。何気ない会話を続ける二人。ふと、茜の視線が何かを見つけ立ち止まる。詩子もそれにならう。そこには、バスから降りる一人の高校生がいた。茜と同じ学校の制服。詩子は茜に知り合いか、と問うが茜は首を振る。<br><br>折原
+    浩平(おりはら こうへい):谷山紀章､吉田小百合(幼年の時)／長森 瑞佳(ながもり みずか):川澄綾子／七瀬 留美(ななせ るみ):寺田はるひ／川名 みさき(かわな
+    みさき):豊嶋真千子／上月 澪(こうづき みお):浅野真澄／椎名 繭(しいな まゆ):かないみか／里村 茜(さとむら あかね):吉田小百合<br><br>企画:なべぞう・小田泰之／監督・脚本・音響監督:杜野幼青／キャラクターデザイン:佐藤淳／作画監督:柴山知寛／アニメーション制作:Triple
+    X／製作:Softgarage<br><br>次話→so32230679
+  length_seconds: 1629
+  content_id: so32230678
+  default_thread_id: 1510020520
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230678
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢風の章 留美・瑞佳｣"
+  description: 田舎駅のプラットホームに、一人の少女が降りる。七瀬留美……希望と不安を持った転校生。学校へと続く道にある踏切へ元気に向かう留美。一方、手に｢K.M｣のイニシャルが刻まれているバイオリンをもった、どこか悲しげな少女・長森瑞佳が踏み切りを待っていた。<br><br>折原
+    浩平(おりはら こうへい):谷山紀章､吉田小百合(幼年の時)／長森 瑞佳(ながもり みずか):川澄綾子／七瀬 留美(ななせ るみ):寺田はるひ／川名 みさき(かわな
+    みさき):豊嶋真千子／上月 澪(こうづき みお):浅野真澄／椎名 繭(しいな まゆ):かないみか／里村 茜(さとむら あかね):吉田小百合<br><br>企画:なべぞう・小田泰之／監督・脚本・音響監督:杜野幼青／キャラクターデザイン:佐藤淳／作画監督:柴山知寛／アニメーション制作:Triple
+    X／製作:Softgarage<br><br>so32230678←前話｜次話→so32230680　第一話→so32230678
+  length_seconds: 1613
+  content_id: so32230679
+  default_thread_id: 1510020522
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230679
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢雪の章 みさき・澪｣"
+  description: 雪の降る季節。学校では卒業式を前に慌しい様相を呈していた。そんな中、卒業を前にした川名みさき。盲目の彼女は、さまざまな思い出の錯綜する学校の屋上で、一人想いをめぐらせていた。一方、演劇部に所属する上月澪は、卒業生を送る会で演じる舞台の練習に励んでいた。<br><br>折原
+    浩平(おりはら こうへい):谷山紀章､吉田小百合(幼年の時)／長森 瑞佳(ながもり みずか):川澄綾子／七瀬 留美(ななせ るみ):寺田はるひ／川名 みさき(かわな
+    みさき):豊嶋真千子／上月 澪(こうづき みお):浅野真澄／椎名 繭(しいな まゆ):かないみか／里村 茜(さとむら あかね):吉田小百合<br><br>企画:なべぞう・小田泰之／監督・脚本・音響監督:杜野幼青／キャラクターデザイン:佐藤淳／作画監督:柴山知寛／アニメーション制作:Triple
+    X／製作:Softgarage<br><br>so32230679←前話｜次話→so32230681　第一話→so32230678
+  length_seconds: 1611
+  content_id: so32230680
+  default_thread_id: 1510020626
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230680
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢桜の章 瑞佳・繭｣"
+  description: 満開の桜並木の中、自転車を押しながら進む瑞佳。瑞佳は、桜の木のたもとで一人うずくまって泣いている少女を見かける。少女の名前は椎名繭。飼っていたフェレットが死んでしまい、悲しんでいるのだった。ある朝、瑞佳は学校でチェロの音色を聞く。<br><br>折原
+    浩平(おりはら こうへい):谷山紀章､吉田小百合(幼年の時)／長森 瑞佳(ながもり みずか):川澄綾子／七瀬 留美(ななせ るみ):寺田はるひ／川名 みさき(かわな
+    みさき):豊嶋真千子／上月 澪(こうづき みお):浅野真澄／椎名 繭(しいな まゆ):かないみか／里村 茜(さとむら あかね):吉田小百合<br><br>企画:なべぞう・小田泰之／監督・脚本・音響監督:杜野幼青／キャラクターデザイン:佐藤淳／作画監督:柴山知寛／アニメーション制作:Triple
+    X／製作:Softgarage<br><br>so32230680←前話　第一話→so32230678
+  length_seconds: 1609
+  content_id: so32230681
+  default_thread_id: 1510020518
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230681
+cast: "[キャスト]<br>折原 浩平(おりはら こうへい):谷山紀章､吉田小百合(幼年の時)／長森 瑞佳(ながもり みずか):川澄綾子／七瀬 留美(ななせ
+  るみ):寺田はるひ／川名 みさき(かわな みさき):豊嶋真千子／上月 澪(こうづき みお):浅野真澄／椎名 繭(しいな まゆ):かないみか／里村 茜(さとむら
+  あかね):吉田小百合"
+staff: "[スタッフ]<br>企画:なべぞう・小田泰之／監督・脚本・音響監督:杜野幼青／キャラクターデザイン:佐藤淳／作画監督:柴山知寛／アニメーション制作:Triple
+  X／製作:Softgarage"
+produced_year: "[製作年]<br>2001年"
+copyright: "©ネクストン／Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

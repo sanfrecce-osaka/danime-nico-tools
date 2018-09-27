@@ -1,0 +1,54 @@
+--- !ruby/hash:SeasonHash
+title: "『けものフレンズ』 ジャパリバスツアー ぐんまちほー行き"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/8/21988_1_6.png?1516937405000
+outline: けものフレンズのバスツアーの様子を収録！行きのバス車内の様子からキャストとの写真撮影、そして群馬サファリパークの様子や、サファリパーク後のツアー参加者限定ミニライブ＆トークショーの一部も配信！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 尾崎由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 根本流風
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村響華
+  type: cast
+- !ruby/hash:TagHash
+  name: 築田行子
+  type: cast
+- !ruby/hash:TagHash
+  name: 本宮佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野早稀
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下まみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ジャパリバスツアー ぐんまちほー行き
+  description: けものフレンズのバスツアーの様子を収録！行きのバス車内の様子からキャストとの写真撮影、そして群馬サファリパークの様子や、サファリパーク後のツアー参加者限定ミニライブ＆トークショーの一部も配信！！<br><br>イベント出演者:尾崎由香/本宮佳奈/小野早稀（どうぶつビスケッツ）　根本流風/田村響華/築田行子（ＰＰＰ）　山下まみ　NA：根本流風<br><br>企画:けものフレンズプロジェクト／旅行企画・実施:サンケイツアーズ／主催:（株）ところざわサクラタウン／協力:Age
+    Global Networks（株）/（株）ＫＡＤＯＫＡＷＡ/産経新聞社／特別協力:群馬サファリ・ワールド（株）
+  length_seconds: 1450
+  content_id: so32675678
+  default_thread_id: 1517534434
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32675678
+cast: "[キャスト]<br>イベント出演者:尾崎由香/本宮佳奈/小野早稀（どうぶつビスケッツ）　根本流風/田村響華/築田行子（ＰＰＰ）　山下まみ　NA：根本流風"
+staff: "[スタッフ]<br>企画:けものフレンズプロジェクト／旅行企画・実施:サンケイツアーズ／主催:（株）ところざわサクラタウン／協力:Age Global
+  Networks（株）/（株）ＫＡＤＯＫＡＷＡ/産経新聞社／特別協力:群馬サファリ・ワールド（株）"
+produced_year: "[製作年]<br>2017年"
+copyright: "©けものフレンズプロジェクト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 放送開始直前特番「けものだらけの新春！サマーパーティー」
+- !ruby/hash:SeasonHash
+  title: けものフレンズ

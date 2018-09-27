@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: MINKY MOMO in 夢にかける橋
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/3/10433_1_6.png?1427216400000
+outline: 物語の舞台は、とある河にかかる橋。そこで知り合った人々は、再び同じ橋の上で巡り合えるという伝説があります。そこでの少女と少年の出会いの物語が展開します。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 水谷優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 京田尚子
+  type: cast
+- !ruby/hash:TagHash
+  name: 清川元夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木れい子
+  type: cast
+- !ruby/hash:TagHash
+  name: 亀山助清
+  type: cast
+- !ruby/hash:TagHash
+  name: 亀井芳子
+  type: cast
+- !ruby/hash:TagHash
+  name: 引田有美
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒川太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：長谷川智樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：湯山邦彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：芦田豊雄
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：面出明美
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：藤本義孝
+  type: staff
+- !ruby/hash:TagHash
+  name: 魔法のプリンセスミンキーモモシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1993年
+  type: other
+- !ruby/hash:TagHash
+  name: 新井寅雄
+  type: other
+- !ruby/hash:TagHash
+  name: 首藤剛志
+  type: other
+- !ruby/hash:TagHash
+  name: 堀内修
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: OVA
+  title: MINKY MOMO in 夢にかける橋
+  description: 声の出演:林原めぐみ、亀井芳子、塩沢兼人、引田有美、上田敏也、水谷優子、荒川太郎、鈴木れい子、清川元夢、亀山助清、天野由梨、土井美加、京田尚子<br><br>監督:湯山邦彦／演出:藤本義孝／構成:首藤剛志／脚本:面出明美／キャラクターデザイン:芦田豊雄,渡辺浩／作画監督:堀内修／美術監督:新井寅雄／音楽:長谷川智樹
+  length_seconds: 2291
+  content_id: so32151240
+  default_thread_id: 1508831511
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151240
+cast: "[キャスト]<br>声の出演:林原めぐみ、亀井芳子、塩沢兼人、引田有美、上田敏也、水谷優子、荒川太郎、鈴木れい子、清川元夢、亀山助清、天野由梨、土井美加、京田尚子"
+staff: "[スタッフ]<br>監督:湯山邦彦／演出:藤本義孝／構成:首藤剛志／脚本:面出明美／キャラクターデザイン:芦田豊雄,渡辺浩／作画監督:堀内修／美術監督:新井寅雄／音楽:長谷川智樹"
+produced_year: "[製作年]<br>1993年"
+copyright: "(C)PRODUCTION REED 1993"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ
+- !ruby/hash:SeasonHash
+  title: ミンキーモモ SONG スペシャル 瞳の星座
+- !ruby/hash:SeasonHash
+  title: Fairy Princess Minky Momo 夢の中の輪舞
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ ‐夢を抱きしめて‐
+- !ruby/hash:SeasonHash
+  title: MINKY MOMO in 旅立ちの駅

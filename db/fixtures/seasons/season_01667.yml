@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: ＴＶアニメ版 ゆるめいつ ３でぃ PLUS
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/33/9/11339_1_6.png?1427216400000
+outline: 大学受験のために上京してきた浪人生・相田ゆるめ。ゆるめの下宿先は、ベテラン浪人生しか住んでいないアパートだった。しかも、そのアパートからは合格者が出たことがないという。ゆるめにどんな生活が待ち受けているのか！？？疲れた現代人に贈る、ゆるく生きることに勇気をくれる衝撃のギャグアニメ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 桃井はるこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：片山修志
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：C2C
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：saxyun
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：月見里智弘
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小田武士
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：夕澄慶英
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作販売元：竹書房
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆるめいつ シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+- !ruby/hash:TagHash
+  name: まんがくらぶ
+  type: other
+- !ruby/hash:TagHash
+  name: 山田稔
+  type: other
+- !ruby/hash:TagHash
+  name: indigo line
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 14話-19話
+  title: 誕生日決勝戦/ダンボールジャングル/スローホリデー/次世代回覧板/スリーピングコンボ/部屋と天国と地獄
+  description: 妹の誕生日。クールな妹にせめて誕生日にくらい笑ってほしいと思ったみんなは・・・/サエの部屋はダンボールでいっぱい。素敵なアイテムは隠れてないかしら？/ゴールデンウイークはみんな帰省するのかな？/ベテラン浪人生に回覧板というシステムを押し付けるとこうなるのだ。/今日は眠たい！眠たいとどうするの？まぁ、寝るんでしょうな。/真夏の熱気は扇風機？クーラー？我慢？さぁ、どれ！？？<br><br>相田ゆるめ役:桃井はるこ／川野サエ役:桑谷夏子／田中くみ役:松来未祐／松吉役:日野聡／サエの妹役:竹達彩奈<br><br>原作:saxyun／「ゆるめいつ」竹書房刊／「まんがくらぶ」連載／監督・脚本:夕澄慶英／総監督:月見里智弘／キャラクターデザイン・作画監督:小田武士／音響監督:山田稔／音楽:片山修志／制作プロダクション:indigo
+    line／アニメーション制作:Ｃ２Ｃ／音響制作:ダックスプロダクション／主題歌制作:ドワンゴ・ミュージックエンタテインメント、ライト・ゲージ／製作著作:竹書房<br><br>次話→so31939190
+  length_seconds: 1084
+  content_id: so31939189
+  default_thread_id: 1505596984
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31939189
+- !ruby/hash:EpisodeHash
+  episode_no: 20話-26話
+  title: サプライズ水族館/超能力浪人ゆるめ最終回/ラストダンゴバトル/エブリおとそ気分/第6の刺客/ゆるめいつリバース/全てが夢になる
+  description: 雨、雷、嵐だ～～！いろんなものがメゾンドウッシュに飛んでくる！？/ゆるめたちに超能力が使えるように!!!・・・なったらという話。/団子が一串残ったら・・・争奪バトルをするしかない！/正月気分を普段通りに！って普段ってどんなんだっけ？/６人目の住人？妖怪ダンボール返しがやってくる・・・。/刺激を求めていつもの逆に挑戦するんだぁ～！！！/最終回！実は、今も夢の中だったり・・・なんちゃって。<br><br>相田ゆるめ役:桃井はるこ／川野サエ役:桑谷夏子／田中くみ役:松来未祐／松吉役:日野聡／サエの妹役:竹達彩奈<br><br>原作:saxyun／「ゆるめいつ」竹書房刊／「まんがくらぶ」連載／監督・脚本:夕澄慶英／総監督:月見里智弘／キャラクターデザイン・作画監督:小田武士／音響監督:山田稔／音楽:片山修志／制作プロダクション:indigo
+    line／アニメーション制作:Ｃ２Ｃ／音響制作:ダックスプロダクション／主題歌制作:ドワンゴ・ミュージックエンタテインメント、ライト・ゲージ／製作著作:竹書房<br><br>so31939189←前話　第一話→so31939189
+  length_seconds: 1357
+  content_id: so31939190
+  default_thread_id: 1505597041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31939190
+cast: "[キャスト]<br>相田ゆるめ役:桃井はるこ／川野サエ役:桑谷夏子／田中くみ役:松来未祐／松吉役:日野聡／サエの妹役:竹達彩奈"
+staff: "[スタッフ]<br>原作:saxyun／「ゆるめいつ」竹書房刊／「まんがくらぶ」連載／監督・脚本:夕澄慶英／総監督:月見里智弘／キャラクターデザイン・作画監督:小田武士／音響監督:山田稔／音楽:片山修志／制作プロダクション:indigo
+  line／アニメーション制作:Ｃ２Ｃ／音響制作:ダックスプロダクション／主題歌制作:ドワンゴ・ミュージックエンタテインメント、ライト・ゲージ／製作著作:竹書房"
+produced_year: "[製作年]<br>2012年"
+copyright: "（C）2012saxyun／竹書房"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ は？
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ
+- !ruby/hash:SeasonHash
+  title: ゆるめいつ 3でぃ

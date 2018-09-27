@@ -1,0 +1,229 @@
+--- !ruby/hash:SeasonHash
+title: ザ・サード～蒼い瞳の少女～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/9/10619_1_6.png?1427216400000
+outline: 数世紀前に行われた惑星間規模の｢大戦｣後の荒廃した未来世界。人類は、そのテクノロジィの大半を失い、人口は5分の1程度まで減少していた。その｢大戦｣の直後に現れたとされる亜人種。｢ザ・サード｣額に紅い瞳“天宙眼”と呼ばれる器官を持ち、それによりコンピュータ・システムなどを直接操作する存在。人類が失った｢大戦｣前のテクノロジィを唯一保持し、その強大な力で世界を支配している・・・。そんな世界で、殺し以外はなんでも引き受けるという“なんでも屋”を営む一人の少女、｢火乃香｣。彼女が砂漠で出会った青年｢イクス｣の護衛の依頼を引き受けたとき、壮大な冒険は始まっていた・・・・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: ソード・ダンサー
+  description: 過去の大戦によって、荒廃してしまった惑星。砂漠が広がるその世界に、刀一本で渡り歩く何でも屋・火乃香がいた。ソード・ダンサーと呼ばれた彼女は、ある夜、不思議な雰囲気の一人の青年イクスと出会う。<br><br>次話→so31880217
+  length_seconds: 1425
+  content_id: so31880216
+  default_thread_id: 1504726292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880216
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: 慌しい一夜
+  description: 砂漠でイクスを拾った火乃香は、街まで送っていくことを約束する。そんな折、ザ・サードの浄眼機が火乃香の前に現われた。イクスと謎めいた会話をした浄眼機は、火乃香を試すように自動歩兵を繰り出すと、忠告めいた言葉を投げかけるのであった。<br><br>so31880216←前話｜次話→so31880218　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880217
+  default_thread_id: 1504726365
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880217
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: 砂漠の街
+  description: 砂漠での機械の街・エンポリウムタウンに戻り、イクスと別れて街での仕事を片付けていた火乃香は、そこでテクノスタブーに関する不穏な噂を聞く。そんな時、イクスを確保しようと現れた自動歩兵の部隊に、火乃香は出会うのだった。<br><br>so31880217←前話｜次話→so31880219　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880218
+  default_thread_id: 1504726367
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880218
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: 蒼い殺戮者(ブルーブレイカー)
+  description: 無事にPSPを渡してもらった火乃香は、しかし砂漠を進んでいく途中で、ブルー・ブレイカーの動きをキャッチし、ザンカンの危機を察した。慌ててザンカンの元へと戻っていく火乃香は、そこでブルー・ブレイカーと宿命の邂逅をするのだった<br><br>so31880218←前話｜次話→so31880234　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880219
+  default_thread_id: 1504726301
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880219
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: 蒼い天宙眼
+  description: 額の蒼い天宙眼を見られてしまった火乃香は、イクスに自分がザ・サードのなりそこないであることを打ち明ける。彼女はなりそこないであるが故に、両親を知らないまま、キャラバンで育てられたという過去を持っていたのだった。<br><br>so31880219←前話｜次話→so31880235　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880234
+  default_thread_id: 1504726589
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880234
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 大地に吹く風
+  description: 再び火乃香の前に宿命の敵・ブルーブレイカーが現れた。怒りの激情のままに、平静な戦いが出来ないでいた火乃香は、PSPを駆って戦うものの、次第に追い詰められ、ついにブルーブレイカーの銃口を突きつけられてしまうのだった。<br><br>so31880234←前話｜次話→so31880236　第一話→so31880216
+  length_seconds: 1424
+  content_id: so31880235
+  default_thread_id: 1504726593
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880235
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 夜明けまで
+  description: 夜の砂漠で野営をしていた火乃香とボギー。そのボギーの車体に一体の機甲アリが取り付いていた。攻撃してくるわけでもなく、ただ巣別れをしようと夜明けを待っている女王アリの存在を、火乃香たちは眉を潜めつつも見守っていた。<br><br>so31880235←前話｜次話→so31880237　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880236
+  default_thread_id: 1504726899
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880236
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: エンポリウムの午後
+  description: 夜の砂漠で野営をしていた火乃香とボギー。そのボギーの車体に一体の機甲アリが取り付いていた。攻撃してくるわけでもなく、ただ巣別れをしようと夜明けを待っている女王アリの存在を、火乃香たちは眉を潜めつつも見守っていた。<br><br>so31880236←前話｜次話→so31880238　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880237
+  default_thread_id: 1504726897
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880237
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: パイフウ
+  description: 前大戦時の最終兵器グレイブストーンによって、世界は歪曲空間に飲み込まれる危機に陥っていた。そんな時、火乃香は砂龍の暴走の原因調査のために、自分をパートナーだと言う謎の美女・パイフウと共に、砂漠の旅へと出発していた。<br><br>so31880237←前話｜次話→so31880239　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880238
+  default_thread_id: 1504726893
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880238
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 砂漠の墓碑(グレイヴ・ストーン)
+  description: 砂漠でイクスと再会した火乃香は、ベッドでうなされたりと、どこかいつもと違う様子を見せていた。そんな彼女に、イクスは引き返すように言うのだが、誰かに呼ばれているような違和感を感じていた火乃香は、先へ進むことに迷いはなかった。<br><br>so31880238←前話｜次話→so31880240　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880239
+  default_thread_id: 1504726612
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880239
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: 幻影との戦い
+  description: グレイブストーンの作り出したドームを目前にして、自分を呼ぶ声をはっきりと自覚する火乃香。一方ハイペリウスでは、火乃香が関わっていることに気付いた浄眼機とフィラが、火乃香が何かをしてくれるのではないかと、淡い期待を抱いていた。<br><br>so31880239←前話｜次話→so31880241　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880240
+  default_thread_id: 1504726895
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880240
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: それぞれの理由
+  description: パイフウとイクスは、それぞれグレイブストーンの作り出した少年と対峙していた。その頃、グレイブストーンの作り出したもう一人の自分と出会っていた火乃香は、人と違うことを指摘されて傷つき、さらにその刀で胸を刺し貫かれてしまうのだった。<br><br>so31880240←前話｜次話→so31880242　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880241
+  default_thread_id: 1504726616
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880241
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: 砂漠の伝説(フォークロア)
+  description: 砂漠で妖精に出会ったと言う噂が流れていた頃、しばしの休暇を取ることを決めていた火乃香は、気ままな砂漠の旅行にミリィを誘うことにした。しかしその頃、レオンというハンターが砂漠の妖精を狩ろうと動き出していたのだった。<br><br>so31880241←前話｜次話→so31880243　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880242
+  default_thread_id: 1504726637
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880242
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: 妖精幻視
+  description: 砂漠の旅を続ける火乃香とミリィは、しかし言いたいことを言い出せないでいる、二人の間にある漠然とした隔たりを感じていた。そんなある夜、砂漠の怪物・パンケーキにミリィが襲われ、火乃香の目の前で砂中に飲まれてしまうのだった<br><br>so31880242←前話｜次話→so31880244　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880243
+  default_thread_id: 1504726913
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880243
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: 砂嵐の夜
+  description: ミリィのためにも不思議な狼を追って旅をする一向は、妖精ともども狼を狙う、ハンターのレオンと遭遇した。狼を守るためレオンと戦うことになる火乃香。しかし実はレオンは、火乃香を凌駕する程の凄まじい戦闘能力を秘めていたのだ。<br><br>so31880243←前話｜次話→so31880245　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880244
+  default_thread_id: 1504726591
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880244
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: 乱舞する生命
+  description: レオンによって傷を受け、倒れてしまった火乃香。そんな彼女を心配して、自分もいつか火乃香のように、がんばって生きれるようになりたいと語るミリィを、砂漠の狼・カムイはツキカゲトンボが光の乱舞を踊る、神秘的な場所に案内するのだった。<br><br>so31880244←前話｜次話→so31880264　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880245
+  default_thread_id: 1504726614
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880245
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: ローナ・ファウナ
+  description: ハイペリウスで異変が起きた。以前、グレイブストーンを破壊するために準備したワームホールドライヴァが制御不能になり、同時に、浄眼機が囚われてしまったのだ。この事態に対してフィラ・マリークは、火乃香を頼ることを決めるのだった。<br><br>so31880245←前話｜次話→so31880265　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880264
+  default_thread_id: 1504727063
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880264
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: 発動
+  description: 囚われた浄眼機を救い出すために、火乃香とパイフウはローナ・ファウナの施設へとのり込むことになった。まるで要塞のような施設に乗り込む、危険な作戦にも動じない火乃香たちの前に、突然イクスが現われ同行を告げるのだった。<br><br>so31880264←前話｜次話→so31880266　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880265
+  default_thread_id: 1504727193
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880265
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: 強行突破
+  description: ローナ・ファウナの施設への突入で,それぞれバラバラになってしまった火乃香たち.しかし迎撃部隊との戦いの最中で,火乃香はブルーブレイカーと合流し施設への侵入をはかり,そしてボギーとパイフウはその後を追うこととなった.<br><br>so31880265←前話｜次話→so31880267　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880266
+  default_thread_id: 1504727191
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880266
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: 死線を越えて
+  description: 合流できないまま進んで行く火乃香たちとボギーたちは,ローナ・ファウナの送り出した迎撃部隊を,苦しい戦闘を経て,何とか撃破していった.しかし敵を倒したブルーブレイカーは火乃香に向かって,なんと自分を斬れと言うのだった<br><br>so31880266←前話｜次話→so31880268　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880267
+  default_thread_id: 1504727209
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880267
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: 届かぬ思い
+  description: ローナ・ファウナに操られたブルーブレイカーが,突然火乃香に襲いかかるが,火乃香は斬らないでいた.自分の存在する理由を知ろうとあがいている者を斬りたくないと言う火乃香の言葉は,ローナ・ファウナの心にも衝撃を与えるのだった.<br><br>so31880267←前話｜次話→so31880280　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880268
+  default_thread_id: 1504727195
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880268
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: 還らざる魂の蜃気楼(ミラージュ)
+  description: ローナ・ファウナのもとへ辿り着いた火乃香に,彼女はすべてを告げた.自分の存在意義を見つけたかったのだと語る彼女に,火乃香は自分も同じような境遇だが,頑張って生きていると告げる.その言葉はローナ・ファウナを癒すのだった.<br><br>so31880268←前話｜次話→so31880281　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880280
+  default_thread_id: 1504727863
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880280
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: 鋼の谷へ
+  description: ジョーイがテクノスタブーに抵触してしまったことを知った火乃香は,ザ・サードに管理されることに対する疑問を胸に抱き,テクノスタブーの抵触地域であり,同時にザ・サードにとっても不可侵の場所｢鋼の谷｣に行くことを決心するのだった<br><br>so31880280←前話｜次話→so31880282　第一話→so31880216
+  length_seconds: 1425
+  content_id: so31880281
+  default_thread_id: 1504727890
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880281
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: ここから始まる物語
+  description: "『鋼の谷』に向かう火乃香を止めるために,浄眼機は自動歩兵の部隊を繰り出した.『鋼の谷』にあるザ・サードが不可侵にしていた特異点は,彼らにも何が起こるか分からないエネルギー体が存在する,星の中で最も神聖にして,最も危険な場所なのだ<br><br>so31880281←前話　第一話→so31880216"
+  length_seconds: 1425
+  content_id: so31880282
+  default_thread_id: 1504727884
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880282
+produced_year: "[製作年]<br>2006年"
+copyright: "(C)2006 ザ・サード製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

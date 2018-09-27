@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: 旅街レイトショー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/62/7/20627_1_6.png?1455755814000
+outline: 大切な誰か、なにかとの｢別れ｣や｢旅立ち｣と、｢その先｣をテーマに描く。甘酸っぱい後悔やどうしようもなかった出来事、そしてその先にある“いま”をそっと肯定し、慰め、また前へ進むための物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 儀武ゆう子
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤璃菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 森下由樹子
+  type: cast
+- !ruby/hash:TagHash
+  name: 富澤雄基
+  type: cast
+- !ruby/hash:TagHash
+  name: 大隈健太
+  type: cast
+- !ruby/hash:TagHash
+  name: 田端美保
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤友香里
+  type: cast
+- !ruby/hash:TagHash
+  name: 平ますみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 仲台吉一
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：沼田友
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：沼田友
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：沼田友
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：西村真吾
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：コミックス・ウェーブ・フィルム
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：木下絵季
+  type: staff
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: 旅街レイトショー
+  description: 大切な誰か、なにかとの｢別れ｣や｢旅立ち｣と、｢その先｣をテーマに描く。甘酸っぱい後悔やどうしようもなかった出来事、そしてその先にある“いま”をそっと肯定し、慰め、また前へ進むための物語。<br><br>出演:森下由樹子、富澤雄基、大隈健太、田端美保、後藤友香里、遠藤璃菜、儀武ゆう子、平ますみ、仲台吉一<br><br>原作・脚本・監督:沼田友／キャラクター原案:木下絵季／絵コンテ:マテウシュ・ウルバノヴィチ／演出・撮影:星子旋風脚／美術監督:里見篤／音楽:西村真吾／アニメーション制作:コミックス・ウェーブ・フィルム
+  length_seconds: 1885
+  content_id: so31956534
+  default_thread_id: 1505824848
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31956534
+cast: "[キャスト]<br>出演:森下由樹子、富澤雄基、大隈健太、田端美保、後藤友香里、遠藤璃菜、儀武ゆう子、平ますみ、仲台吉一"
+staff: "[スタッフ]<br>原作・脚本・監督:沼田友／キャラクター原案:木下絵季／絵コンテ:マテウシュ・ウルバノヴィチ／演出・撮影:星子旋風脚／美術監督:里見篤／音楽:西村真吾／アニメーション制作:コミックス・ウェーブ・フィルム"
+produced_year: "[製作年]<br>2016年"
+copyright: "（C）yunumata/CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版プリパラみ～んなでかがやけ！キラリン☆スターライブ！- みれぃのコース
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/00/5/22005_1_6.png?1517878834000
+outline: "「プリパラ太陽系の惑星をめぐって、プリパラの素晴らしさを広めよう！」というミッションを受けたらぁら御一行。ピュスカバリー号に乗り、様々な惑星に立ち寄ると、奇妙なぷちゅうじんが彼女たちを出迎える。しかしどの惑星もミッションをクリアするには一筋縄ではいかない。はたしてらぁら御一行はぷちゅうじんにプリパラの素晴らしさを無事に伝えることができるのか？"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 芹澤優
+  type: cast
+- !ruby/hash:TagHash
+  name: 茜屋日海夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保田未夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 若井友希
+  type: cast
+- !ruby/hash:TagHash
+  name: 澁谷梓希
+  type: cast
+- !ruby/hash:TagHash
+  name: 山北早紀
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：タツノコプロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：タカラトミーアーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：シンソフィア
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：斉藤恒芳
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：森脇真琴
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：原将治
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：石塚玲依
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大久保政雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: 劇場版プリパラみ～んなでかがやけ！キラリン☆スターライブ！- みれぃのコース
+  description: "「プリパラ太陽系の惑星をめぐって、プリパラの素晴らしさを広めよう！」というミッションを受けたらぁら御一行。ピュスカバリー号に乗り、様々な惑星に立ち寄ると、奇妙なぷちゅうじんが彼女たちを出迎える。しかしどの惑星もミッションをクリアするには一筋縄ではいかない。はたしてらぁら御一行はぷちゅうじんにプリパラの素晴らしさを無事に伝えることができるのか？<br><br>真中らぁら:茜屋日海夏／南みれぃ:芹澤　優／北条そふぃ:久保田未夢／東堂シオン:山北早紀／ドロシー・ウェスト:澁谷梓希／レオナ・ウェスト:若井友希<br><br>原作:タカラトミーアーツ／シンソフィア／総監督:森脇真琴／監督:大久保政雄／脚本:ふでやすかずゆき／キャラクターデザイン/総作画監督:原　将治／CGディレクター:乙部善弘／音楽:斉藤恒芳、石塚玲依／音響監督:長崎行男／アニメーション制作:タツノコプロ／製作:劇場版プリパラKS製作委員会／配給:エイベックス・ピクチャーズ<br><br>次話→so32741354"
+  length_seconds: 2412
+  content_id: so32741364
+  default_thread_id: 1518657897
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32741364
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: 劇場版プリパラみ～んなでかがやけ！キラリン☆スターライブ！- みれぃのコース
+  description: "「プリパラ太陽系の惑星をめぐって、プリパラの素晴らしさを広めよう！」というミッションを受けたらぁら御一行。ピュスカバリー号に乗り、様々な惑星に立ち寄ると、奇妙なぷちゅうじんが彼女たちを出迎える。しかしどの惑星もミッションをクリアするには一筋縄ではいかない。はたしてらぁら御一行はぷちゅうじんにプリパラの素晴らしさを無事に伝えることができるのか？<br><br>真中らぁら:茜屋日海夏／南みれぃ:芹澤　優／北条そふぃ:久保田未夢／東堂シオン:山北早紀／ドロシー・ウェスト:澁谷梓希／レオナ・ウェスト:若井友希<br><br>原作:タカラトミーアーツ／シンソフィア／総監督:森脇真琴／監督:大久保政雄／脚本:ふでやすかずゆき／キャラクターデザイン/総作画監督:原　将治／CGディレクター:乙部善弘／音楽:斉藤恒芳、石塚玲依／音響監督:長崎行男／アニメーション制作:タツノコプロ／製作:劇場版プリパラKS製作委員会／配給:エイベックス・ピクチャーズ<br><br>so32741364←前話　第一話→so32741364"
+  length_seconds: 1031
+  content_id: so32741354
+  default_thread_id: 1518656663
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32741354
+cast: "[キャスト]<br>真中らぁら:茜屋日海夏／南みれぃ:芹澤　優／北条そふぃ:久保田未夢／東堂シオン:山北早紀／ドロシー・ウェスト:澁谷梓希／レオナ・ウェスト:若井友希"
+staff: "[スタッフ]<br>原作:タカラトミーアーツ／シンソフィア／総監督:森脇真琴／監督:大久保政雄／脚本:ふでやすかずゆき／キャラクターデザイン/総作画監督:原　将治／CGディレクター:乙部善弘／音楽:斉藤恒芳、石塚玲依／音響監督:長崎行男／アニメーション制作:タツノコプロ／製作:劇場版プリパラKS製作委員会／配給:エイベックス・ピクチャーズ"
+produced_year: "[製作年]<br>2017年"
+copyright: "©T-ARTS/syn Sophia/劇場版プリパラKS製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: プリパラ
+- !ruby/hash:SeasonHash
+  title: プリパラ 2nd season
+- !ruby/hash:SeasonHash
+  title: プリパラ 3rd season
+- !ruby/hash:SeasonHash
+  title: アイドルタイムプリパラ
+- !ruby/hash:SeasonHash
+  title: 劇場版プリパラみ～んなでかがやけ！キラリン☆スターライブ！- らぁらのコース
+- !ruby/hash:SeasonHash
+  title: 劇場版プリパラみ～んなでかがやけ！キラリン☆スターライブ！- ひびきのコース

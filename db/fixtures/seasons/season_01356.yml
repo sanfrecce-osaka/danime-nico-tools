@@ -1,0 +1,135 @@
+--- !ruby/hash:SeasonHash
+title: ふなっしーのふなふなふな日和
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/34/4/20344_1_6.png?1440749798000
+outline: みんなを笑顔にするために、人間界にやってきたふなっしー。ふなっしーを人間界へ送った『梨神様』、ふなっしーに一方的にライバル心を燃やす『ぐれっしー』など、アニメオリジナルの新キャラクターたちも続々登場！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 龍田直樹
+  type: cast
+- !ruby/hash:TagHash
+  name: ふなっしー
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：若林タカツグ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：清水東
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：友永コリエ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：清水洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山内東生雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：旭プロダクション
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第15話
+  title: ''
+  description: ふなっしー降臨！／梨小屋建てるなっし～！／ぐれっしーなっし～！／風船の女の子なっし～！／帽子を捕まえるなっし～！／梨ヘアースタイルなっし～！／子猫ちゃんなっし～！／梨型ロボットなっし～！／りんごちゃんなっし～！／がんこな自動販売機なっし～！／音楽会なっし～！／魚を釣るなっし～！／梨神様がやってきたなっし～！／梨風呂なっし～！／ふなっしーの自転車なっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>次話→so31927280
+  length_seconds: 1439
+  content_id: so31927279
+  default_thread_id: 1505459460
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927279
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話～第30話
+  title: ''
+  description: ピクニックなっし～！／飛び立つなっし～！／にゃおっしーのお散歩なっし～！／前略　梨神様なっし～！／おばけなっし～！／学校は楽しいなっし～！／アルパカが遊びにきたなっし～！／PEAR♡Sのナッシーちゃんなっし～！／ホタルを見つけたなっし～！／モグラ退治なっし～！／にゃおっしーの友達なっし～！／お誕生日なっし～！／イモムシなっし～！／にゃおっしーと遊ぶなっし～！／雪なっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927279←前話｜次話→so31927281　第一話→so31927279
+  length_seconds: 1409
+  content_id: so31927280
+  default_thread_id: 1505459302
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927280
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話～第45話
+  title: ''
+  description: 占ってくれたなっし～！／学芸会なっし～！／梨チャリバトルなっし～！／かき氷なっし～！／花火なっし～！／ボートで遊ぶなっし～！／日曜大工なっし～！／紙飛行機なっし～！／体力測定なっし～！／いたずらカラスなっし～！／お姉さんの喫茶店なっし～！／はじめての桃なっし～！／サッカーするなっし～！／お月さまなっし～！／にゃおっしーを追うなっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927280←前話｜次話→so31927305　第一話→so31927279
+  length_seconds: 1409
+  content_id: so31927281
+  default_thread_id: 1505459481
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927281
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話～第60話
+  title: ''
+  description: お絵かきなっし～！／ラジオ体操なっし～！／ぐれっしーと勝負なっし～！／イタズラごなっしーなっし～！／梨温泉なっし～！／パンダなっし～！／梨の教訓なっし～！／風邪ひいたなっし～！／梨神さまの落し物なっし～！／都会に行くなっし～！／お梨見なっし～！／観覧車なっし～！／ゴミ拾いなっし～！／カメラマンなっし～！／梨パンなっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927281←前話｜次話→so31927306　第一話→so31927279
+  length_seconds: 1409
+  content_id: so31927305
+  default_thread_id: 1505459384
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927305
+- !ruby/hash:EpisodeHash
+  episode_no: 第61話～第75話
+  title: ''
+  description: お姉さんの美容室なっし～！／朝顔の観察日記なっし～！／梨まつりなっし～！／ちゃなっしーなっし～！／怪獣ナシラなっし～！／ふなっしーの手袋なっし～！／相合傘なっし～！／かわいい落し物なっし～！／梨神じいさんなっし～！／カエルさんなっし～！／梨運動会なっし～！／鈴の音なっし～！／アウトドアなっし～！／にゃおっしーを洗うなっし～！／なわとびなっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927305←前話｜次話→so31927307　第一話→so31927279
+  length_seconds: 1409
+  content_id: so31927306
+  default_thread_id: 1505460143
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927306
+- !ruby/hash:EpisodeHash
+  episode_no: 第76話～第90話
+  title: ''
+  description: 虫捕りなっし～！／お姉さんの引越しなっし～！／にゃおっしーが遊びに来たなっし～！／忍者なしまるなっし～！／あらいぐまくんなっし～！／雨よ、ふれなっし～！／宝の地図なっし～！／お姉さんのお手伝いなっし～！／流れ星なっし～！／踊れ！ふなっしーなっし～！／サーカスなっし～！／しゃぼん玉なっし～！／ペンキ塗りなっし～！／トランペットなっし～！／畑仕事なっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927306←前話｜次話→so31927308　第一話→so31927279
+  length_seconds: 1409
+  content_id: so31927307
+  default_thread_id: 1505460321
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927307
+- !ruby/hash:EpisodeHash
+  episode_no: 第91話～第105話
+  title: ''
+  description: 梨神ジョークなっし～！／ふなっしーサンタなっし～！／ぐれっしーの記念日なっし～！／雪山なっし～！／小さな勇者なっし～！／雨だれなっし～！／仲直りなっし～！／お買い物なっし～！／ナンシーちゃんなっし～！／迷子なっし～！／ゾウガメなっし～！／梨神さまのお試しなっし～！／にゃおっしーは人気者なっし～！／七夕なっし～！／かくれんぼなっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927307←前話｜次話→so31927309　第一話→so31927279
+  length_seconds: 1409
+  content_id: so31927308
+  default_thread_id: 1505459386
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927308
+- !ruby/hash:EpisodeHash
+  episode_no: 第106話～第120話
+  title: ''
+  description: 火の用心なっし～！／たまごなっし～！／お茶会なっし～！／スケートボードなっし～！／アスレチックなっし～！／収穫なっし～！／なしロボくんなっし～！／ファンクラブなっし～！／ちゃなっしーの世界なっし～！／にゃおっしーは師匠なっし～！／海水浴なっし～！／ワンちゃんなっし～！／梨ボーリングなっし～！／ホラー映画なっし～！／サーカスのゾウくんなっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹
+    ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927308←前話｜次話→so31927311　第一話→so31927279
+  length_seconds: 1409
+  content_id: so31927309
+  default_thread_id: 1505460163
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927309
+- !ruby/hash:EpisodeHash
+  episode_no: 第121話～第130話
+  title: ''
+  description: 朝のひとときなっし～！／ぐれっしーのイタズラなっし～！／ごなっしーの伝言なっし～！／梨神さまの努力賞なっし～！／梨の祭典なっし～！／お姉さんの就職なっし～！／お別れなっし～！／にゃおっしーを頼むなっし～！／走れ
+    ぐれっしーなっし～！／みんなのエネルギーなっし～！<br><br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹 ほか<br><br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム<br><br>so31927309←前話　第一話→so31927279
+  length_seconds: 939
+  content_id: so31927311
+  default_thread_id: 1505459401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927311
+cast: "[キャスト]<br>ふなっしー:ふなっしー／ぐれっしー:Lynn／梨神様:龍田直樹 ほか"
+staff: "[スタッフ]<br>監督:山内東生雄／脚本:清水東、友永コリエ／キャラクターデザイン:清水洋／音響監督:小泉紀介／音楽:若林タカツグ／制作:旭プロダクション／製作著作:ふなっしーのふなふなふな日和チ～ム"
+produced_year: "[製作年]<br>2015年"
+copyright: "©ふなっしーのふなふなふな日和チ～ム"
+related_seasons: !ruby/array:Hashie::Array []

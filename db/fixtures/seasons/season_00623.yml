@@ -1,0 +1,41 @@
+--- !ruby/hash:SeasonHash
+title: sin in the rain
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/8/10208_1_6.png?1427216400000
+outline: かつて両親を殺された木村由。カウンセリングを受けて心の傷を癒していたが、信頼していたカウンセラー神崎までもが殺されてしまった。雨の中、傷心のまま彷徨う由を救ったのは、私立探偵の高見沢恭介だった。しかし、由は警視庁から殺人犯として追われる身になるが、連続殺人が発生。恭介の鋭いプロファイリングで真犯人を追い詰めていく。そして訪れる衝撃の結末……。本作は文化放送でオンエアされたラジオ番組『(有)チェリーベル』内で、パーソナリティ櫻井孝宏、鈴木健一、松来未祐、そしてリスナーにより熟成され、アニメ化されたというおもしろいバックボーンを持つ作品でもある。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大下久馬
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大谷紀子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：垪和等
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：矢野よしたか
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：矢野よしたか
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: sin in the rain
+  description: かつて両親を殺された木村由。カウンセリングを受けて心の傷を癒していたが、信頼していたカウンセラー神崎までもが殺されてしまった。雨の中、傷心のまま彷徨う由を救ったのは、私立探偵の高見沢恭介だった。しかし、由は警視庁から殺人犯として追われる身になるが、連続殺人が発生。恭介の鋭いプロファイリングで真犯人を追い詰めていく。そして訪れる衝撃の結末……。本作は文化放送でオンエアされたラジオ番組『(有)チェリーベル』内で、パーソナリティ櫻井孝宏、鈴木健一、松来未祐、そしてリスナーにより熟成され、アニメ化されたというおもしろいバックボーンを持つ作品でもある。<br><br>監督:垪和等／原作:矢野よしたか／脚本:矢野よしたか／キャラクターデザイン:大谷紀子,大下久馬
+  length_seconds: 1288
+  content_id: so32149296
+  default_thread_id: 1508783844
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32149296
+staff: "[スタッフ]<br>監督:垪和等／原作:矢野よしたか／脚本:矢野よしたか／キャラクターデザイン:大谷紀子,大下久馬"
+produced_year: "[製作年]<br>2006年"
+copyright: "(C)2006 ES ENTERTAINMENT/MOOK ANIMATION"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,113 @@
+--- !ruby/hash:SeasonHash
+title: 精霊使い
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/23/7/10237_1_6.png?1427216400000
+outline: 人気イラストレーター、岡崎武士原作によるファンタジー・アニメ。麻美を水の精霊使い・支葵に奪われた覚羅は、それをきっかけに自らも精霊使いとして目覚める。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本保典
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田秀勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆口裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩男潤子
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐久間レイ
+  type: cast
+- !ruby/hash:TagHash
+  name: 椎名へきる
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎和佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松原秀典
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：秋山勝仁
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：笹路正徳
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：合田浩章
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：岡崎武士
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：岡崎武士
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
+  type: other
+- !ruby/hash:TagHash
+  name: 岩浪美和
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+- !ruby/hash:TagHash
+  name: 橋本敬史
+  type: other
+- !ruby/hash:TagHash
+  name: 北島信幸
+  type: other
+- !ruby/hash:TagHash
+  name: 中山久美子
+  type: other
+- !ruby/hash:TagHash
+  name: 秋山勝仁
+  type: other
+- !ruby/hash:TagHash
+  name: 平城徳浩
+  type: other
+- !ruby/hash:TagHash
+  name: ソニー・ミュージックエンタテインメント
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 精霊使い
+  description: 人気イラストレーター、岡崎武士原作によるファンタジー・アニメ。麻美を水の精霊使い・支葵に奪われた覚羅は、それをきっかけに自らも精霊使いとして目覚める。<br><br>覚羅:緑川
+    光／麻美:椎名へきる／露羽:佐久間レイ／支葵:井上和彦／秋桜久:皆口裕子／瑣衣:松本保典／千あき ※あきは火偏に華:山崎和佳奈／香菜:岩男潤子／比冴:折笠
+    愛／雫:置鮎龍太郎／擁:森川智之／鯉邑:柴田秀勝<br><br>原作・企画・脚本:岡崎武士／総監督:秋山勝仁／キャラクターデザイン:松原秀典／コンセプトデザイン・演出:合田浩章／作画監督:松原秀典,北爪宏幸,恩田尚之,北島信幸,橋本敬史／美術監督:串田達也,平城徳浩／色彩設計:中山久美子／撮影監督:佐藤
+    均／音響監督:岩浪美和／音楽:笹路正徳／協力:岡崎制作所／アニメーション制作:AIC／製作・著作:角川書店,ソニー・ミュージックエンタテインメント
+  length_seconds: 2933
+  content_id: so31916125
+  default_thread_id: 1505272962
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916125
+cast: "[キャスト]<br>覚羅:緑川 光／麻美:椎名へきる／露羽:佐久間レイ／支葵:井上和彦／秋桜久:皆口裕子／瑣衣:松本保典／千あき ※あきは火偏に華:山崎和佳奈／香菜:岩男潤子／比冴:折笠
+  愛／雫:置鮎龍太郎／擁:森川智之／鯉邑:柴田秀勝"
+staff: "[スタッフ]<br>原作・企画・脚本:岡崎武士／総監督:秋山勝仁／キャラクターデザイン:松原秀典／コンセプトデザイン・演出:合田浩章／作画監督:松原秀典,北爪宏幸,恩田尚之,北島信幸,橋本敬史／美術監督:串田達也,平城徳浩／色彩設計:中山久美子／撮影監督:佐藤
+  均／音響監督:岩浪美和／音楽:笹路正徳／協力:岡崎制作所／アニメーション制作:AIC／製作・著作:角川書店,ソニー・ミュージックエンタテインメント"
+produced_year: "[製作年]<br>1995年"
+copyright: "©1995 岡崎武士／ KADOKAWA・ソニー・ミュージックエンタテインメント"
+related_seasons: !ruby/array:Hashie::Array []

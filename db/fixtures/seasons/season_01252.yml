@@ -1,0 +1,96 @@
+--- !ruby/hash:SeasonHash
+title: パルムの樹
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/7/11427_1_6.png?1427216400000
+outline: 不思議な生物と街が存在する世界・アルカナ。植物学者・ジョーによって作られた木の人形・パルムは、傷ついた女戦士・コーラムからトートの卵を託され旅に出る。旅の途中でパルムは、人間達と出逢い、心を通わせる。そして、パルムはタマスに行けば自分も人間になれることを知るが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊口めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚運昇
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪口大助
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛河里花子
+  type: cast
+- !ruby/hash:TagHash
+  name: 清川元夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 長嶝高士
+  type: cast
+- !ruby/hash:TagHash
+  name: 横尾まり
+  type: cast
+- !ruby/hash:TagHash
+  name: 宝亀克寿
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：なかむらたかし
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：なかむらたかし
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：なかむらたかし
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：パルムスタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：井上俊之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ハラダタカシ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：ジェンコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: 三間雅文
+  type: other
+- !ruby/hash:TagHash
+  name: 西香代子
+  type: other
+- !ruby/hash:TagHash
+  name: 掛須秀一
+  type: other
+- !ruby/hash:TagHash
+  name: 安津畑隆
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: パルムの樹
+  description: 母のように慕っていたシアンの死後、人形パルムは、傷ついた女戦士コーラムから託されたトートの卵を抱いて旅に出ることに。その旅の途中で人間たちと出逢い、心を通わせるパルム。地底人のシャタたち、シアンの面影をもつ心優しい少女ポポ。そして、パルムは地底世界タマスに行けば自分も人間になれることを知るが…。<br><br>パルム:平松晶子／ポポ:豊口めぐみ／シャタ:阪口大助／コーラム:日野由利加／ロアルト:山口勝平／プー:かないみか／ムー:小桜エツ子／バロン:愛河里花子／ガス:石塚運昇／ホタ:宝亀克寿／バク:長嶝高士／ダルマ屋:横尾まり／フォー:清川元夢<br><br>プロデューサー:真木太郎／原作・脚本・監督:なかむらたかし／美術監督:小関睦夫／作画監督:佐々木守／キャラクターデザイン:井上俊之／色彩設計:西香代子／撮影監督:安津畑隆／編集:掛須秀一／音響監督:三間雅文／音楽:ハラダタカシ／音楽プロデューサー:佐々木史朗／アニメーションプロデューサー:山口克巳／アニメーション制作:パルムスタジオ／制作:ジェンコ／製作:「パルムの樹」製作委員会
+  length_seconds: 8165
+  content_id: so32245001
+  default_thread_id: 1510287960
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245001
+cast: "[キャスト]<br>パルム:平松晶子／ポポ:豊口めぐみ／シャタ:阪口大助／コーラム:日野由利加／ロアルト:山口勝平／プー:かないみか／ムー:小桜エツ子／バロン:愛河里花子／ガス:石塚運昇／ホタ:宝亀克寿／バク:長嶝高士／ダルマ屋:横尾まり／フォー:清川元夢"
+staff: "[スタッフ]<br>プロデューサー:真木太郎／原作・脚本・監督:なかむらたかし／美術監督:小関睦夫／作画監督:佐々木守／キャラクターデザイン:井上俊之／色彩設計:西香代子／撮影監督:安津畑隆／編集:掛須秀一／音響監督:三間雅文／音楽:ハラダタカシ／音楽プロデューサー:佐々木史朗／アニメーションプロデューサー:山口克巳／アニメーション制作:パルムスタジオ／制作:ジェンコ／製作:「パルムの樹」製作委員会"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)2001なかむらたかし・GENCO／「パルムの樹」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

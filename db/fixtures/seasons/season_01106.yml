@@ -1,0 +1,89 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版　ニルスのふしぎな旅
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/61/6/11616_1_6.png?1427216400000
+outline: スウェーデン南部の農村に住むいたずらっこのニルスは、ある日、妖精との約束を破ったために、魔法で体を小さくされてしまう。しかし、それがきっかけで動物と話ができるようになり、ガチョウのモルテン、ハムスターのキャロットと共に、ガンの群れの一員として旅立つことに。ニルスは冒険を通して、勇気や責任感、協調性を学んでいく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山茉美
+  type: cast
+- !ruby/hash:TagHash
+  name: 富山敬
+  type: cast
+- !ruby/hash:TagHash
+  name: 松島みのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 安原義人
+  type: cast
+- !ruby/hash:TagHash
+  name: 松金よね子
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎唯
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島信子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：鳥海永行
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：田口成光
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：案納正美
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：岡田敏靖
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：押井守
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：セルマ・ラーゲルリョーブ
+  type: staff
+- !ruby/hash:TagHash
+  name: ニルスのふしぎな旅シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1983年
+  type: other
+- !ruby/hash:TagHash
+  name: 中村光毅
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 劇場版　ニルスのふしぎな旅
+  description: スウェーデン南部の農村に住むいたずらっこのニルスは、ある日、妖精との約束を破ったために、魔法で体を小さくされてしまう。しかし、それがきっかけで動物と話ができるようになり、ガチョウのモルテン、ハムスターのキャロットと共に、ガンの群れの一員として旅立つことに。ニルスは冒険を通して、勇気や責任感、協調性を学んでいく。<br><br>ニルス:小山茉美／キャロット:山崎唯／モルテン:安原義人／レックス:富山敬／アッカ:寺島信子／グンナー:田中秀幸／グスタ:千葉繁／イングリット:松島みのり／スイリー:松金よね子／ラッセ:緒方賢一／ゴルゴ:玄田哲章、他<br><br>原作:セルマ・ラーゲルリョーブ／監督:鳥海永行、案納正美、押井守／脚本:田口成光／美術:中村光毅／キャラクターデザイン:岡田敏靖
+  length_seconds: 5801
+  content_id: so32156372
+  default_thread_id: 1508911318
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32156372
+cast: "[キャスト]<br>ニルス:小山茉美／キャロット:山崎唯／モルテン:安原義人／レックス:富山敬／アッカ:寺島信子／グンナー:田中秀幸／グスタ:千葉繁／イングリット:松島みのり／スイリー:松金よね子／ラッセ:緒方賢一／ゴルゴ:玄田哲章、他"
+staff: "[スタッフ]<br>原作:セルマ・ラーゲルリョーブ／監督:鳥海永行、案納正美、押井守／脚本:田口成光／美術:中村光毅／キャラクターデザイン:岡田敏靖"
+produced_year: "[製作年]<br>1983年"
+copyright: "（c）学研教育アイ・シー・ティー"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ニルスのふしぎな旅

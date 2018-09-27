@@ -1,0 +1,171 @@
+--- !ruby/hash:SeasonHash
+title: フタコイ オルタナティブ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/9/10029_1_6.png?1427216400000
+outline: 都心から電車で15分の小都市。そこで小さな探偵事務所を営む双葉恋太郎と、その押しかけ助手である白鐘沙羅、白鐘双樹。とある秋の季節、彼らが送った平凡で、そして平凡だからこそほんのりとしあわせだった毎日。フタコイオルタナティブが描くのはそうした情景のスケッチ・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：feel.
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ufotable
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ささきむつみ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小林利充
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：双葉ひな
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：flag
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：逢瀬祭
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 明田川仁
+  type: other
+- !ruby/hash:TagHash
+  name: ガンジス
+  type: other
+- !ruby/hash:TagHash
+  name: 金月龍之介
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-01
+  title: "｢コロッケとヘリと地下ボクシングと私｣"
+  description: 桜月組の主催する賭博ボクシングのリングに上げられてしまった二代目探偵・双葉恋太郎。そして、彼を支える双子の助手・白鐘双樹と沙羅。彼らの末路は……!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>次話→so32144433
+  length_seconds: 1529
+  content_id: so32144432
+  default_thread_id: 1508723003
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144432
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-02
+  title: "｢ノーネーム・デイズ｣"
+  description: 何も起こらない日曜日。依頼人は約束の時間になっても現れず、双子助手ちゃんズは自分たちの作業分担について揉め始め、恋太郎は惰眠をむさぼり続ける……。<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144432←前話｜次話→so32144434　第一話→so32144432
+  length_seconds: 1458
+  content_id: so32144433
+  default_thread_id: 1508722852
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144433
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-03
+  title: "｢ニコパク ラプソディ｣"
+  description: ニコタマに地上げ屋が現れた。“ニコ・パク(二子魂川万博)”開催用地買収が彼らの目的だ。それを阻止せんと颯爽と立ち上がったのは、ゴスロリ仮面こと美少女2人組!
+    で、肝心の恋太郎はと言うと…!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144433←前話｜次話→so32144435　第一話→so32144432
+  length_seconds: 1460
+  content_id: so32144434
+  default_thread_id: 1508722812
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144434
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-04
+  title: "｢7DAYZ ...And HappyDayz｣"
+  description: ペットショップの千草初ちゃん・恋ちゃんという双子の姉妹から、いなくなった子犬を探して欲しいという依頼が入った。ところが、久しぶりの仕事だというのに、肝心の沙羅と双樹が姿を消してしまって…?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144434←前話｜次話→so32144436　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144435
+  default_thread_id: 1508722665
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144435
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-05
+  title: "｢エメラルドマウンテン ハイ｣"
+  description: 恋太郎の高校時代の恩師・桃衣舞が双葉探偵事務所を訪ねてきた。彼女の双子の姉で、やはり恋太郎の恩師だった桃衣愛の身辺調査を依頼したいと言うのだ。だが、その日の午後、愛本人が恋太郎の前に現れて…!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144435←前話｜次話→so32144437　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144436
+  default_thread_id: 1508722793
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144436
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-06
+  title: "｢どうして好きなのに別れちゃったの?｣"
+  description: 恋太郎の母の故郷から、温泉旅館オープンの無料招待状が届いた。恋太郎と沙羅・双樹は早速出かけてみるが…。村ではかわいい双子の巫女さん――薫子・菫子が、恋太郎と結婚式を挙げようと待ちかまえていた!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144436←前話｜次話→so32144438　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144437
+  default_thread_id: 1508722850
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144437
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-07
+  title: "｢双葉恋太郎最初の事件｣"
+  description: 2年前の冬。突然、父を亡くした恋太郎は、探偵業を継ぐかどうか決めかねていた。そんなところに沙羅と双樹は現れた。2人の依頼は｢私たちを捜して｣。恋太郎はその奇妙な頼みに自分の今後を賭けてみるが…?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144437←前話｜次話→so32144439　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144438
+  default_thread_id: 1508722799
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144438
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-08
+  title: "｢サはさよならのサ｣"
+  description: 結局、恋太郎は沙羅と双樹を抱くことはできなかった。2人とどう接したらいいのか分からず悩む恋太郎。そんな彼の前に1人の青年実業家が現れる。三ツ木公彦――白鐘姉妹の保護者にして許嫁だと、彼は名乗った…。<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144438←前話｜次話→so32144440　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144439
+  default_thread_id: 1508722820
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144439
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-09
+  title: "｢フタコイ｣"
+  description: 沙羅が公彦の元へ行った。誰にも相談せず、1人で決断した。残された恋太郎と双樹はつらい気持ちを抱えながらも、表面上は明るく振る舞おうと努力する。だが、そんな彼らをあざ笑うかのような事件が起きて…!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144439←前話｜次話→so32144516　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144440
+  default_thread_id: 1508722791
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144440
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-10
+  title: "｢クマのように舞い、イカのように刺す｣"
+  description: 霜島という公彦の秘書が現れ、双樹の養育費だと大量の札束を押しつけてきた。恋太郎はそれを断るが、将来に何の展望があるわけでもなく…。自信をなくした彼は双樹に、公彦の元へ帰れと言う。しかし双樹は…!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144440←前話｜次話→so32144517　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144516
+  default_thread_id: 1508724568
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144516
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-11
+  title: "｢燃える二子魂川｣"
+  description: イカファイヤーに襲われた二子魂川は再び炎に包まれた。イカは恋太郎に｢おまえの大切なものを全部燃やす｣と宣戦布告する。それを聞いた恋太郎は…!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144516←前話｜次話→so32144518　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144517
+  default_thread_id: 1508724450
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144517
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-12
+  title: "｢光ある場所へ｣"
+  description: ワダツミ機関のイカ人間大量生産計画を知った恋太郎は、双樹と複葉機でドイツに向かう。一方、何も知らない沙羅は公彦との結婚式にのぞみ…!?<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144517←前話｜次話→so32144519　第一話→so32144432
+  length_seconds: 1459
+  content_id: so32144518
+  default_thread_id: 1508724354
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144518
+- !ruby/hash:EpisodeHash
+  episode_no: FILM-13
+  title: "｢3人でいたい｣"
+  description: イカルスの始動で城が崩壊を始めた! 崩れ落ちる塔で沙羅の手をつかんだ恋太郎は、自分のことはいいからと泣く沙羅に叫ぶ。｢俺は3人でいたいんだーっ!｣と・・・。<br><br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel.<br><br>so32144518←前話　第一話→so32144432
+  length_seconds: 1429
+  content_id: so32144519
+  default_thread_id: 1508724341
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144519
+staff: "[スタッフ]<br>原作:双葉ひな・ささきむつみ／企画:久木敏行／企画協力:ガンジス／総監督:逢瀬祭／キャラクターデザイン:小林利充／シリーズ構成:金月龍之介／チーフディレクター:平尾隆之／音響監督:明田川仁／アニメーション制作:ufotable・flag・feel."
+produced_year: "[製作年]<br>2005年"
+copyright: "(C)双葉ひな・ささきむつみ・アスキー・メディアワークス/フタコイプロジェクト"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,144 @@
+--- !ruby/hash:SeasonHash
+title: ファンタジスタドール
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/9/10929_1_6.png?1427216400000
+outline: 注目のオリジナルTVアニメ始動！『コードギアス』の谷口悟朗(クリエイティブプロデューサー)のストーリーと『そらのおとしもの』の斎藤久(監督)の繊細な映像演出、パワフルなクリエイターたちが最強タッグを組んだ。カードの中から飛び出す華麗な“ファンタジスタドール”と契約した主人公・うずめはカードマスターとなり、知恵と工夫で個性あふれる5人のドールたちをまとめ、バトルに挑む。多感な14歳の少女の懸命さが、鮮烈なアクションとハートフルな描写を交えて丹念に描かれる。互いに認めあう経験を通じて、うずめとドールたちの“絆と希望の物語”が、いま始まる！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高梨康治
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：斎藤久
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 頑張る女の子たち
+  type: other
+- !ruby/hash:TagHash
+  name: 谷口悟朗
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: うずめうずうず 忍び寄る怪しい影？
+  description: どこにでもいそうな普通の中学生鵜野うずめは、ある日カードから出てくることができる不思議な力を持つ女の子・ファンタジスタドールと出会う。うずめはドールと契約し、訳のわからないままカードマスターになってしまう。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>次話→so32036886
+  length_seconds: 1420
+  content_id: so32036884
+  default_thread_id: 1507010263
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036884
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: ささらさらさら 仮にもマイマスター？
+  description: カードから現れた5人の女の子・ファンタジスタドールは、自分たちのマスター・鵜野うずめを一人前のカードマスターとするべく特訓する。つらい特訓にうずめはカードを元の持ち主に返すと言い出す。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036884←前話｜次話→so32036887　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036886
+  default_thread_id: 1507010259
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036886
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: さくっと作戦 マドレーヌの献身？
+  description: マドレーヌは甲斐甲斐しくご主人さまであるうずめのお世話をするが、その度を越した気遣いにうずめはへとへと。相談を受けたささらはマドレーヌをカードから出られないよう、閉じ込めてしまう。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036886←前話｜次話→so32036888　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036887
+  default_thread_id: 1507010261
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036887
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: じめじめしめじ 残念王子の逆襲？
+  description: おぼろげな記憶ながら、とても優しく大好きだった前のマスターのことを思い出すしめじ。しかしなぜ捨てられたのか覚えていない。気落ちしていたしめじに気付いたうずめは元気づけようとしめじを街へ連れ出す。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036887←前話｜次話→so32036889　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036888
+  default_thread_id: 1507010544
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036888
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: ばたばたバイト はじめてのカティア？
+  description: うずめは友人羽月まないの誘いでカード部に入部したが、そのカード部員にうずめのカードを奪おうとした戸取かがみがいて慌てる。一方ドールたちは、うずめのお小遣いが底を突き、自分たちのおやつを買ってもらえなくなったので自らアルバイトを始めるのだが。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036888←前話｜次話→so32036890　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036889
+  default_thread_id: 1507010153
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036889
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 小明かりかり　拘束と献身？
+  description: うずめはある日、ドールのことをマスターと呼ぶゴスロリ少女みいなと出会う。ドールの持つ献身の心に強く感銘を受け、自らがドールになりたいと願うみいな。そんな彼女のドールたちから、小明はある誘いを受ける。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036889←前話｜次話→so32036917　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036890
+  default_thread_id: 1507010134
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036890
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 心ころころ？　あわせてひとつ
+  description: うずめはラフレシアの君から逆転の切り札として「協力カード」を渡される。このカードの力を発揮するにはうずめとドール達の心を一つにしなくてはならない。だがなかなかうまくいかず、チームワークがバラバラになってしまう。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036890←前話｜次話→so32036918　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036917
+  default_thread_id: 1507011102
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036917
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 玉ねぎたまたま　文化の祭り？
+  description: 文化祭でカレー屋台を出店するうずめたちカード部。うずめはテニス部やクラスの出し物にも掛け持ちで大忙し。そこにうずめの付け狙う謎の組織“委員会”から差し向けられたチャイナドレス姿の少女が現れた。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036917←前話｜次話→so32036919　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036918
+  default_thread_id: 1507010843
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036918
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: かがみかみかみ？　まぎれる気持ち
+  description: かがみは自分の望みを叶えるため、うずめのカードの奪取を諦めていなかった。だがうずめと戦うことへの迷いが自分の中に生じていることに気付く。そんなかがみに突然一通のメールが届く。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036918←前話｜次話→so32036920　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036919
+  default_thread_id: 1507011104
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036919
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: ぽかーんとポーカー　委員会の挑戦？
+  description: マドレーヌのカードが奪われ、意気消沈するうずめとドールたち。“委員長”の片腕であるアンヌはうずめにある勝負を持ちかける。それはマドレーヌを賭けて、カードで対決することだった。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036919←前話｜次話→so32036921　第一話→so32036884
+  length_seconds: 1420
+  content_id: so32036920
+  default_thread_id: 1507011106
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036920
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: 小町まちまち? 約束の献身
+  description: "“委員長”うずめの目の前に姿を現した。委員長の真意を知り、困惑するうずめはカード部に赴き、まないたちに相談する。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036920←前話｜次話→so32036938　第一話→so32036884"
+  length_seconds: 1420
+  content_id: so32036921
+  default_thread_id: 1507011100
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036921
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: 希望うきうき みんなきらきら
+  description: 逃れられない運命であるかのように、委員長とのバトルの火蓋が切って落とされる。希望を手にするのは誰なのか。強い想いを胸に、うずめは高々とカードを掲げた。<br><br>声の出演:大橋彩香、津田美波他<br><br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治<br><br>so32036921←前話　第一話→so32036884
+  length_seconds: 1405
+  content_id: so32036938
+  default_thread_id: 1507011436
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036938
+cast: "[キャスト]<br>声の出演:大橋彩香、津田美波他"
+staff: "[スタッフ]<br>監督:斎藤久／プロデューサー:谷口悟朗／原作:ファンタジスタドールプロジェクト／音楽:高梨康治"
+produced_year: "[製作年]<br>2013年"
+copyright: "（C）2013 ファンタジスタドールプロジェクト／FD製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

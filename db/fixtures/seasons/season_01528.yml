@@ -1,0 +1,163 @@
+--- !ruby/hash:SeasonHash
+title: 魔獣戦線 The Apocalypse
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/6/10286_1_6.png?1427216400000
+outline: 神の意思に従い、地球の滅亡を目論み、完全なる生命体“ニューマン”を作り出そうとした久留間博士と12人の科学者。その実験台にされ、魔獣と化した息子、慎一。彼らの壮絶な戦いから5年後…。無法地帯と化した新宿新都心を舞台に、全知全能の神の出現を願う13人の博士たちと、再び慎一たちとの戦いが始まった!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤健太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 松野太紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊地祥子
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：武上純希
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ローマ使徒への手紙 復讐するは、我にあり
+  description: 'あの大破壊から数年後。傷ついた体を癒すため、身を隠していた慎一の心に、1人の少女の叫びが響く。彼女は一体何者なのか? 慎一との運命的な出会い、それが神と魔獣たちの壮絶な戦いの新たな幕開けとなることを誰も知る由もなかった…。<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>次話→so31874418'
+  length_seconds: 1475
+  content_id: so31874417
+  default_thread_id: 1504636498
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874417
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: マタイ伝 眠れる子供
+  description: '慎一と亜矢可の間に何かあると感じた富三郎は、彼女の秘密を暴くためジェイムズ博士の病院に乗り込んだ。そこで富三郎は、亜矢可が慎一をおびき寄せるために彼の万能細胞を植えつけられていたことを知る…!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874417←前話｜次話→so31874419　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874418
+  default_thread_id: 1504636483
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874418
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ヨブ記 主与えたまい、主取りたまう
+  description: '恐竜人間たちに囚われてしまった亜矢可。彼女を救うべく、慎一と恐竜人間たちとの壮絶な闘いが始まった…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874418←前話｜次話→so31874420　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874419
+  default_thread_id: 1504636479
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874419
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: マタイによる福音書 神が結び合わせし者たち
+  description: '亜矢可の安全のため、富三郎の故郷に身を隠す慎一たち。そこでその村に伝わる黄金像を目にする。その黄金像の姿は…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874419←前話｜次話→so31874421　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874420
+  default_thread_id: 1504636481
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874420
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: マルコによる福音書 群れし者たち､彼の名はレギオン
+  description: '敵の罠にはまり囚われていた慎一。無数の注射器が慎一から血液を抜き取っていく。ロックウェル博士はそこから真理阿の血を再現し、神を復活させようとしていた…。<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874420←前話｜次話→so31874422　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874421
+  default_thread_id: 1504636485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874421
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ローマ使徒への手紙 罪が支払う報酬
+  description: '研究所の爆発から1人逃れたロックウェル博士は、ある場所へ向かう。一方、戦いを終え村に戻った慎一たちだが、そこで彼らを待ちうけていたものはなんと国防軍機甲兵士だった…。<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874421←前話｜次話→so31874423　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874422
+  default_thread_id: 1504637073
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874422
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ヨハネの黙示録 我はアルファにしてオメガ
+  description: '国防軍に単身乗り込む慎一!! しかし、凄まじい力を持った国防大臣、蝉丸に全く歯が立たなかった!! もう終わりかと思われたその瞬間、不思議な光をまとった少年が現れる…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874422←前話｜次話→so31874424　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874423
+  default_thread_id: 1504637049
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874423
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 創世記 エデンの園
+  description: 'ノアの出現により復讐は終わり、平和が訪れると思っていた慎一たち!! しかし神の本当の復活には、より真理阿の血に近いものが必要だった…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874423←前話｜次話→so31874425　第一話→so31874417'
+  length_seconds: 1480
+  content_id: so31874424
+  default_thread_id: 1504637025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874424
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ヨハネによる福音書 一粒の麦もし死なずば
+  description: '慎一の前に新たなニューマンが現れそのゆく手を阻む。亜矢可の運命は!? 亜矢可はフィッシャーマン博士の元に連れ去られてしまう。行方がわからず慎一は苛立ちを隠せず…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874424←前話｜次話→so31874426　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874425
+  default_thread_id: 1504637051
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874425
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ヨハネによる黙示録 メギドの丘と呼ばれる所
+  description: '愛する者を次々と奪われた慎一は、源三への復讐の炎を燃やす!! 大破壊の時に現れた2つのエネルギーが再び月から地球に近づいていた。それは神の復活を意味し、今まさにそのためのステージが作られようとしていた…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874425←前話｜次話→so31874427　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874426
+  default_thread_id: 1504637020
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874426
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: イザヤ書 おまえにとってあまりに清い
+  description: '愛する仲間たちにされるがままの慎一。ノアは慎一を死なせずに苦しみを与え続ける!! ノアの神の力によって、慎一と融合していた動物たちが次々と彼の体から離れ襲いかかる…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874426←前話｜次話→so31874429　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874427
+  default_thread_id: 1504637071
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874427
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ヨハネの黙示録 獣の刻印
+  description: 'ネオノアの力に屈することなく突っ込んでいく慎一!! 亜矢可の形見の真珠に導かれ、慎一の元へ行く富三郎。そこで目にしたものとは…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874427←前話｜次話→so31874431　第一話→so31874417'
+  length_seconds: 1475
+  content_id: so31874429
+  default_thread_id: 1504637047
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874429
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: コリントの使徒への手紙 死よ､おまえの棘はどこに
+  description: '破壊の超魔獣へと変貌してしまった慎一!! 世界はどうなってしまうのか!? 慎一の行動に影響され、今まさに神が目覚めようとしていた。この暴走を止めるため、富三郎は都心に伸びた黒雲に飛び込んでいく…!!<br><br>来留間慎一:
+    伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子<br><br>原作者:石川 賢とダイナミックプロ／脚本:武上純希<br><br>so31874429←前話　第一話→so31874417'
+  length_seconds: 1455
+  content_id: so31874431
+  default_thread_id: 1504637027
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874431
+cast: "[キャスト]<br>来留間慎一: 伊藤健太郎／天外富三郎: 松野太紀／亜矢可・サンダース: 水樹奈々／天外真理阿: 菊地祥子"
+staff: "[スタッフ]<br>原作者:石川 賢とダイナミックプロ／脚本:武上純希"
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)2003 石川賢/ダイナミック企画・魔獣戦線製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

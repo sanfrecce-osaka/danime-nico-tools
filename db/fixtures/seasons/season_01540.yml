@@ -1,0 +1,229 @@
+--- !ruby/hash:SeasonHash
+title: まぶらほ[TVシリーズ]
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/8/10618_1_6.png?1427216400000
+outline: エリート魔術師養成学校に通うおちこぼれの主人公と、彼の前に突然現れた3人の美少女たちとの物語を中心に描いた、築地俊彦原作の小説をTVアニメ化したラブコメディー作品。魔法と学園と美少女の三大要素を盛り込んだ、ちょっぴりエッチで不思議な王道ラブコメ。全24話
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: きちゃった…
+  description: エリート魔術師養成学校・葵学園に通う式森和樹は、成績、運動、魔法回数、どれをとっても平凡以下の落ちこぼれ生徒である。そんな女の子にも見向きもされないダメ男の前に三人の美少女が現れる。転校生の宮間夕菜、葵学園二大美少女の風椿玖里子と神城凜。彼女達の目的は、ズバリ和樹の｢遺伝子｣であった!<br><br>次話→so31880175
+  length_seconds: 1429
+  content_id: so31880174
+  default_thread_id: 1504724805
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880174
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ふっちゃった…
+  description: 相変わらず繰り広げられる夕菜、玖里子、凜の遺伝子争奪戦は、担任の伊庭かおりの提案により、クラス全員を巻き込んだ形に発展していく。激化する状況に嬉しさを覚えながらも複雑な気持ちで逃げ惑う和樹。だが、そんな和樹を助けた自称｢友｣の仲丸から和樹は厳しい現実を突きつけられる。<br><br>so31880174←前話｜次話→so31880176　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880175
+  default_thread_id: 1504724663
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880175
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: でちゃった…
+  description: 和樹の部屋に同居しようとやってくる夕菜。頭を悩ませる和樹の前に、住んでいた洋館を風椿不動産に追い出された幽霊少女エリザベートが引っ越してくる。和樹達は彼女の洋館を取り戻すため、玖里子の元に赴くが、遺伝子を交換条件とされ退散してくる。そんな和樹達にエリザベートは出て行く代わりに一つの条件を差し出す。<br><br>so31880175←前話｜次話→so31880195　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880176
+  default_thread_id: 1504724825
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880176
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: みちゃった…
+  description: 伝説の召喚獣｢ベヒーモス｣に襲われる悪夢を毎晩見る和樹。夕菜の助言で保健教諭の紅尉晴明に相談を持ちかけたところ、それは予知夢で近い内に夢と同じ体験をすると言われる。そんな中、最近校内で噂の“謎のうめき声”の真相を確かめようと、玖里子に誘われた和樹は、夕菜、凜と共に校内を散策するハメになる。<br><br>so31880176←前話｜次話→so31880196　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880195
+  default_thread_id: 1504725814
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880195
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: できちゃった…
+  description: 真夜中、彩雲寮に鳴り響く奇怪な物音。不審に思った和樹が、夕菜と寮内を散策すると、調理室の前にいる玖里子と出くわす。奇怪な物音の正体は、神城凜が料理をしていた音だった。今度転校する生物部部長の難波光明に、手料理のお弁当をプレゼントしようとしていた凜は、慣れない作業に苦戦を強いられていて…。<br><br>so31880195←前話｜次話→so31880197　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880196
+  default_thread_id: 1504725857
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880196
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ばれちゃった…
+  description: 寮の電話で話をしている和樹を見かける夕菜達は、今度の日曜日に和樹の両親がやってくる事を知る。両親に妻と認めてもらうため、三人はそれぞれの最良のお持て成しを企てていた。次の日、玖里子に問い詰められた和樹から、両親の好物が、｢うな重｣である事を知る夕菜。妻として認めてもらおうと頑張る夕菜であったが…。<br><br>so31880196←前話｜次話→so31880198　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880197
+  default_thread_id: 1504725825
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880197
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: あっちゃった…
+  description: 葵学園文化祭｢葵祭｣まで後4日。和樹は、幼馴染の山瀬千早に、和樹のB組と千早のF組とで芝居をやりたいと相談を持ちかけられる。F組を目の敵にしているB組一同だが、担任・伊庭かおりの｢儲かるかも知れない｣の一言で、引き受ける事となる。そんな彼らに不安を覚えながらも、千早に返事を返す和樹であったが…<br><br>so31880197←前話｜次話→so31880199　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880198
+  default_thread_id: 1504725821
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880198
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: やっちゃった…
+  description: 魔法の回数が少なくなり、和樹は体力が衰弱していく。そんな中、仲丸からネックレスを盗もうとした少年とハチ合わせする和樹。仲丸から少年を守ろうとして、魔法を使おうとした和樹は、ついに倒れてしまう。病床の和樹を見た凜と玖里子の心は揺れる。一方、夕菜は少年からネックレスを盗んだ理由を聞き出そうとしていた。<br><br>so31880198←前話｜次話→so31880200　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880199
+  default_thread_id: 1504725862
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880199
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: つかっちゃった…
+  description: 玖里子の情報により、｢魔力が回復する温泉｣をつきとめた夕菜達。さっそく和樹を連れて行こうとするが、玖里子は自分と和樹の二人だけで行くという。温泉についた和樹は、玖里子の積極的なアタックにタジタジとなる。一方、玖里子から和樹の貞操を守るため、夕菜と凜は、なんとか温泉までたどり着こうとするが…。<br><br>so31880199←前話｜次話→so31880201　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880200
+  default_thread_id: 1504725868
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880200
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: のびちゃった…
+  description: 和樹の魔法回数を増やすため、ありとあらゆる手を講じる夕菜達。夕菜の精力増強料理、凜のスパルタ特訓、そして玖里子の赤面療法…。そんな中、夕菜は魔法回数を増やす勾玉の情報を得る。なんとその持ち主は、音邑けやきという葵学園の女生徒だった。だが、けやきの消息を追った和樹達は、衝撃の事実を知る。<br><br>so31880200←前話｜次話→so31880202　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880201
+  default_thread_id: 1504725860
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880201
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: あけちゃった…
+  description: 使える魔法があと三回になった和樹。夕菜は海外にいる父親から｢魔法が増えちゃうかもしれない薬｣を送ってもらう。だが、送られて来たビンは空っぽ。ビンのフタを開けてしまった夕菜に異変が起こる。普段の清純さが嘘のように、危険な色香をふりまき、和樹に暴言を吐く夕菜。驚く和樹達の前に、もう一人の夕菜が現れた!<br><br>so31880201←前話｜次話→so31880203　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880202
+  default_thread_id: 1504725823
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880202
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: きえちゃった…
+  description: 夕菜の体調が優れない。苦しむ体を引きずって、必死に和樹の魔法を増やす方法を探す夕菜。そんな中、和樹は紅尉先生から衝撃の事実を聞かされる。夕菜は魔法能力を消耗する病原菌に感染していた。魔法能力がゼロになった時、夕菜の体は灰になる。病気を治して夕菜を救うには、常識を超えた強大な魔法力が必要だった!<br><br>so31880202←前話｜次話→so31880204　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880203
+  default_thread_id: 1504725839
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880203
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: もどっちゃった…
+  description: ついに魔法を使い切ってしまった和樹。そんな彼に信じられない現象が起こり、葵学園は上へ下への大騒ぎ。前以上に和樹に思いを寄せる夕菜を横目に、凜と玖里子も以前とは違う反応を見せる。途方にくれる和樹の前に、美しい女性・紫乃が現れた。強引なアプローチをかける紫乃は、どうやら和樹を捕獲しようと企んでいて…。<br><br>so31880203←前話｜次話→so31880205　第一話→so31880174
+  length_seconds: 1459
+  content_id: so31880204
+  default_thread_id: 1504726253
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880204
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: はまっちゃった…
+  description: 執拗に追いかけてくる紫乃に悩まされる和樹。強引に迫られ、紫乃と密着している和樹を見た夕菜は、激しい嫉妬の炎を燃やす。一方、玖里子と凜は、謎に包まれた紫乃の正体を探ろうとしていた。紫乃が町外れにある古びた洋館に住んでいる事をつきとめた少女達は、こっそり潜入するが、そこには恐ろしい罠が待ち受けていた。<br><br>so31880204←前話｜次話→so31880206　第一話→so31880174
+  length_seconds: 1458
+  content_id: so31880205
+  default_thread_id: 1504726319
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880205
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: のぼっちゃった…
+  description: 授業教材である｢月下美人｣を紅尉先生に頼まれて保健室に戻しにいく和樹と夕菜。しかし思うように物を持てない和樹は、バランスを崩してベッドで休んでいた凜に抱きついてしまう。放課後、和樹はお詫びとして凜に協力を頼まれるのだったが、その時どこからともなく狼の遠吠えが轟くのであった。<br><br>so31880205←前話｜次話→so31880207　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880206
+  default_thread_id: 1504726343
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880206
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: のぞいちゃった…
+  description: 最近、妙に忙しい玖里子。生徒会の仕事やエリザベートをほっぽりだしすぐに居なくなる事を不審に思った和樹達はエリザベートの案内の元に玖里子を探しに行くのだが、そこにはお洒落をした玖里子が誰かと待ち合わせをしていたのであった。<br><br>so31880206←前話｜次話→so31880208　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880207
+  default_thread_id: 1504726257
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880207
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: きめちゃった…
+  description: ある日、2年B組に壮絶な事実が響き渡る。それは和樹以上に世界最強の魔術師の遺伝子を持つのが、仲丸由記彦であったと、言う事だった。それを聞いた和樹は自分の存在意義に疑問を抱き、一人教室を後にするのだが…。<br><br>so31880207←前話｜次話→so31880209　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880208
+  default_thread_id: 1504726333
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880208
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: しかけちゃった…どすえ
+  description: 今日は葵学園の修学旅行2日目。自由見学で和樹と夕菜は見学コースを回っていると、一人で見学していた杜崎沙弓と出会う。私利私欲に走るB組メンツとは別に予定コースを回る三人だったが、突然白装束の男達に取り囲まれるのだった。<br><br>so31880208←前話｜次話→so31880210　第一話→so31880174
+  length_seconds: 1459
+  content_id: so31880209
+  default_thread_id: 1504726297
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880209
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: かえっちゃった…どすえ
+  description: 修学旅行先で転校して行った｢山瀬千早｣と出会う和樹。突然の出現に嫉妬モード全開の夕菜とマイペースの千早、そして前回のバトル騒動に駆けつけた玖里子と凜が居合わせた時、彼女ら四人の身に突如異変が起きるのであった。<br><br>so31880209←前話｜次話→so31880211　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880210
+  default_thread_id: 1504726259
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880210
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: とどけちゃった…
+  description: 暖かな日差しの朝、少し人間に近づいた和樹は管理人の尋崎華怜と話をしていた。そこへやってきた夕菜は嫉妬モード全開で暴れたうえにお弁当を玄関に置き忘れる。それに気づいた華怜は、お弁当を届けに葵学園に赴く。<br><br>so31880210←前話｜次話→so31880212　第一話→so31880174
+  length_seconds: 1459
+  content_id: so31880211
+  default_thread_id: 1504726299
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880211
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: てらされちゃった…
+  description: 京都での一件で和樹を人間に戻す方法が分かった玖里子。自分の中にある和樹の灰を戻すべく試行錯誤を繰り返していたが、一向に解決策を見出せずにいた。そこで玖里子はエリザベートのアドバイスの元、一つの賭けに出るのであった。<br><br>so31880211←前話｜次話→so31880213　第一話→so31880174
+  length_seconds: 1458
+  content_id: so31880212
+  default_thread_id: 1504726369
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880212
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: まもっちゃった…
+  description: "｢最後の灰が和樹に戻った時、それまでの記憶が全て失われる｣衝撃の事実を紫乃から伝えられた凜は一人苦悩していた。そんな折、最後の灰を戻すべく和樹とデートを進められた凜は、灰を戻すべきかどうかの迷いが断ち切れぬままデートに赴くのであった。<br><br>so31880212←前話｜次話→so31880214　第一話→so31880174"
+  length_seconds: 1459
+  content_id: so31880213
+  default_thread_id: 1504726335
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880213
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: みられちゃった…
+  description: 凜の灰が戻った直後に倒れてしまった和樹。まだ完全に灰が戻りきっていない事が分かったがこのままの状態が続けば完全に消滅してしまう。最後の灰を探すべく夕菜達は和樹を訪ねてきた訪問者と一緒に、和樹の記憶の中へと入っていくのであったが…。<br><br>so31880213←前話｜次話→so31880215　第一話→so31880174
+  length_seconds: 1429
+  content_id: so31880214
+  default_thread_id: 1504726331
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880214
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: おわっちゃった…
+  description: 和樹の最後の灰を持つ者は二人いた。一人は過去の思い出を大切にする者、もう一人は新たに思い出を築こうとする者。和樹が人間に戻る時、全ての記憶が失われる事実の前に両者の思いは反発し合うのであった…。<br><br>so31880214←前話　第一話→so31880174
+  length_seconds: 1428
+  content_id: so31880215
+  default_thread_id: 1504726255
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880215
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)2003 まぶらほ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

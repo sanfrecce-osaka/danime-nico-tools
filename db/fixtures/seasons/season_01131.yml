@@ -1,0 +1,182 @@
+--- !ruby/hash:SeasonHash
+title: ネト充のススメ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/82/9/21829_1_6.png?1506915310000
+outline: "「世の中クソだな」盛岡森子(♀)、30歳独身ニートは、現実(リアル)世界からドロップアウトしました。たどり着いた先は----夢と希望あふれるネトゲの世界!!"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 相坂優歌
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木崚汰
+  type: cast
+- !ruby/hash:TagHash
+  name: 八木隆典
+  type: cast
+- !ruby/hash:TagHash
+  name: 寸石和弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：コーニッシュ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：海島千本
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：黒曜燐
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：柳沼和良
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：SIGNAL.MD
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: キュンキュンした
+  type: other
+- !ruby/hash:TagHash
+  name: ストーリーが良かった
+  type: other
+- !ruby/hash:TagHash
+  name: 展開が気になった
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: リアルは♀、ネットは♂
+  description: 会社を辞めて、自らニートになることを決意した盛岡森子、30歳。現実よりもネット世界を充実させるべく、イケメンキャラの“林”としてネトゲを開始する。自称“エリートニート”森子のネト充生活が始まった！<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>次話→so32116782
+  length_seconds: 1419
+  content_id: so32085820
+  default_thread_id: 1507782015
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085820
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 私たちは何も知らない
+  description: ゲームで出会ったリリィたちと仲良くなり、ネト充生活を満喫する森子。しかし、自分の身分をゲーム仲間にもリリィにも偽ったことで、罪悪感を感じてしまう。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32085820←前話｜次話→so32166444　第一話→so32085820
+  length_seconds: 1419
+  content_id: so32116782
+  default_thread_id: 1508288382
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32116782
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 臆病者な君と私
+  description: 森子は、ネトゲ内で突然リリィから高価なプレゼントを貰う。何か下心があっての贈り物かと真意を尋ねるが…。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32116782←前話｜次話→so32200970　第一話→so32085820
+  length_seconds: 1419
+  content_id: so32166444
+  default_thread_id: 1509060038
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32166444
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: まるで恋する乙女のような
+  description: 新ガチャの景品に惹かれた森子は課金を決意し、ギルメン達とガチャに挑戦するが…。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32166444←前話｜次話→so32245471　第一話→so32085820
+  length_seconds: 1419
+  content_id: so32200970
+  default_thread_id: 1509572127
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32200970
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 秘密トライアングル
+  description: 林がリリィに相談している内容から「林=森子」ではないか！？と疑う桜井。一方、飲み会に備えてイメチェンした森子は待ち合わせで小岩井を待つが、長らく待っても彼は現れず･･･。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32200970←前話｜次話→so32268754　第一話→so32085820
+  length_seconds: 1419
+  content_id: so32245471
+  default_thread_id: 1510292072
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245471
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 恥ずか死んじゃいます！
+  description: デートのため大胆なイメチェンをして小岩井と待ち合わせをする森子。待てども小岩井が来ないため帰ろうとしたところ、現れたのはなんと…！<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32245471←前話｜次話→so32302160　第一話→so32085820
+  length_seconds: 1419
+  content_id: so32268754
+  default_thread_id: 1510659572
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32268754
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: あなたと俺とキミとわたしと
+  description: "「森子=林」を確信した桜井は、林と遊ぶ事にためらいを感じてしまう。そんな中、小岩井も同じゲームに参加することになり･･･。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32268754←前話｜次話→so32337222　第一話→so32085820"
+  length_seconds: 1419
+  content_id: so32302160
+  default_thread_id: 1511251535
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32302160
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 一歩前へ踏み出した
+  description: 森子が小岩井用に臨時にプレイしたMollyというキャラに見覚えのある桜井は、彼がまだ学生の頃に出会った「ユキ」という社会人プレイヤーを思い出す。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32302160←前話｜次話→so32371835　第一話→so32085820
+  length_seconds: 1419
+  content_id: so32337222
+  default_thread_id: 1511848060
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32337222
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: その気持ちマーブル
+  description: 桜井が森子に告げた衝撃の事実に驚きつつも、森子はこれからもリリィと一緒にネトゲが出来ることを楽しみにしていた。だがその日を境に、リリィはログインしなくなってしまう･･･。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32337222←前話｜次話→so32407707　第一話→so32085820
+  length_seconds: 1419
+  content_id: so32371835
+  default_thread_id: 1512436405
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32371835
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 月夜の晩に
+  description: 矢代の一言で傷つきコンビニから飛び出した森子を、桜井は雨宿りのために自分の部屋に招き入れる…。2人の関係は果たして･･･。<br><br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井
+    誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘<br><br>原作:黒曜燐(comico)
+    ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD<br><br>so32371835←前話　第一話→so32085820
+  length_seconds: 1405
+  content_id: so32407707
+  default_thread_id: 1513041097
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407707
+cast: "[キャスト]<br>盛岡森子:能登麻美子／桜井優太:櫻井孝宏／林:鈴木崚汰／リリィ:上田麗奈／小岩井 誉:前野智昭／藤本和臣:寺島拓篤／カンベ:中村悠一／ライラック:相坂優歌／ヒメラルダ:八木隆典／ぽこたろう:寸石和弘"
+staff: "[スタッフ]<br>原作:黒曜燐(comico) ／監督:柳沼和良／副監督:傳 沙織／シリーズ構成:ふでやすかずゆき／キャラクターデザイン:海島千本／衣装デザイン:めばち／プロップデザイン:今橋明日菜／色彩設計:田中美穂／美術監督:保木いずみ／撮影監督:安西良行／編集:本田優規／音響監督:郷田ほづみ／音楽:コーニッシュ／音楽制作:フライングドッグ／アニメーション制作:SIGNAL.MD"
+produced_year: "[製作年]<br>2017年"
+copyright: "©黒曜燐/comico/ススメ！ネト充プロジェクト"
+related_seasons: !ruby/array:Hashie::Array []
