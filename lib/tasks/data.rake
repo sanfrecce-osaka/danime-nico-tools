@@ -45,6 +45,12 @@ namespace :data do
       update_on_air_seasons = -> { FixtureDataTask.update_on_air_seasons }
       execute_task(task.name, update_on_air_seasons)
     end
+
+    desc 'update season yaml data to not watchable'
+    task seasons_to_not_watchable: :setup do |task|
+      update_to_not_watchable = -> { FixtureDataTask.update_to_not_watchable }
+      execute_task(task.name, update_to_not_watchable)
+    end
   end
 
   namespace :db do

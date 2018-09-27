@@ -6,6 +6,7 @@ class FixtureDataTask
   FIXTURES_DIR = "./db/fixtures"
   LISTS_DIR = "#{FIXTURES_DIR}/lists"
   SEASON_LIST_PATH = "#{LISTS_DIR}/season_list.yml"
+  UPDATED_TO_NOT_WATCHABLE_LIST_PATH = "#{LISTS_DIR}/updated_to_not_watchable_list.yml"
   SEASONS_DIR = "#{FIXTURES_DIR}/seasons"
   SEASONS_PATH = "#{SEASONS_DIR}/*.yml"
 
@@ -56,6 +57,13 @@ class FixtureDataTask
       target_seasons.each { |target_season| create_season(target_season) }
     end
 
+    def update_to_not_watchable
+      logger.debug('selecting seasons now...')
+      updated_season_titles = YAMLFile.open(FixtureDataTask::UPDATED_TO_NOT_WATCHABLE_LIST_PATH)
+      target_seasons = SeasonHash.already_created.select { |season| updated_season_titles.include?(season.title) }
+      target_seasons.each { |target_season| update_watchable(target_season) }
+    end
+
     private
 
     def initialize_dir(target_path)
@@ -86,6 +94,14 @@ class FixtureDataTask
 
     def next_season_no
       format('%05d', Dir.glob(FixtureDataTask::SEASONS_PATH).length + 1)
+    end
+
+    def update_watchable(season, watchable: false)
+      start_log(season.title)
+      season.watchable = watchable
+      path = season.delete(:file_path)
+      YAMLFile.write(path, season)
+      finish_log(season.title)
     end
   end
 end
