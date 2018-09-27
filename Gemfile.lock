@@ -130,6 +130,7 @@ GEM
     erubi (1.7.1)
     erubis (2.7.0)
     eventmachine (1.2.7)
+    execjs (2.7.0)
     factory_bot (4.11.1)
       activesupport (>= 3.0.0)
     factory_bot_rails (4.11.1)
@@ -347,6 +348,8 @@ GEM
     tilt (2.0.8)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    uglifier (4.1.10)
+      execjs (>= 0.3.0, < 3)
     unicode-display_width (1.4.0)
     uniform_notifier (1.11.0)
     warden (1.2.7)
@@ -406,6 +409,7 @@ DEPENDENCIES
   spring-watcher-listen
   test-queue
   tzinfo-data
+  uglifier
   web-console
   webpacker!
 
