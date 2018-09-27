@@ -1,0 +1,119 @@
+--- !ruby/hash:SeasonHash
+title: "｢最遊記RELOAD-burial-｣"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/15/0/10150_1_6.png?1427216400000
+outline: "｢幻想魔伝 最遊記｣｢最遊記RELOAD｣｢最遊記RELOAD GUNLOCK｣・・・これまでに幾度もアニメ化され、その度に好評を博した人気アニメ｢最遊記｣シリーズ最新作が、満を持してOVAにてリリース決定!三蔵・悟空・八戒・悟浄たちの出会いを描いた、原作コミックスシリーズの中でも特に人気の高いエピソード『埋葬編』を、原作ファンも納得のハイクオリティでついに映像化…"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 平田広明
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：studioぴえろ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大畑晃一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：隅沢克之
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：スタジオぴえろ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：YONZO.
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：渡辺純央
+  type: staff
+- !ruby/hash:TagHash
+  name: 最遊記シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: メガネ
+  type: other
+- !ruby/hash:TagHash
+  name: 高桑一
+  type: other
+- !ruby/hash:TagHash
+  name: 甲斐けいこ
+  type: other
+- !ruby/hash:TagHash
+  name: 白井久男
+  type: other
+- !ruby/hash:TagHash
+  name: 池田祐二
+  type: other
+- !ruby/hash:TagHash
+  name: 内田恵
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第壱巻～三蔵法師の章～
+  title: "｢烏哭の章｣｢玄奘三蔵の章｣"
+  description: "・・・十二年前の金山寺焼失から四年後、屍のごとき玄奘三蔵が三仏神に拝謁すべく斜陽殿に赴いた。聖天経文の手掛かりを求めての事であったが、三仏神より新たな命を与えられ、慶雲院を逗留先とする。その地で大僧正待覚と出会うが、再び出立を決めた夜更け、三蔵の命を狙う野党が慶雲院を襲撃したー。<br><br>玄奘三蔵:関俊彦／孫悟空:保志総一朗／沙悟浄:平田広明／猪八戒:石田彰
+    ※各巻により出演しないキャストもございます。<br><br>監督・絵コンテ:大畑晃一／脚本:隅沢克之／演出:渡辺純央／キャラクターデザイン:YONZO.／総作画監督:結城
+    晒／作画監督:藤田正幸,Kim Yoon Joung／美術監督:池田祐二／美術設定:杉山晋史／美術ボード:長崎 斉／色彩設計:甲斐けいこ／撮影監督:白井久男／音響監督:高桑
+    一／編集:瀬山 武・内田 恵／制作:ぴえろ<br><br>次話→so31910657"
+  length_seconds: 2606
+  content_id: so31910656
+  default_thread_id: 1505184695
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910656
+- !ruby/hash:EpisodeHash
+  episode_no: 第弐巻～孫悟空の章～
+  title: "｢孫悟空の章｣"
+  description: "『-声が、聞こえる。』五百年も前から封印されているという化け物を探して五行山に登った三蔵は、その声の主である一人の子供と出会う。彼を連れて下山し、密かに慶雲院に住まわせる三蔵だったが、三仏神より、その子供こそ神にも等しい力を持つ伝説の妖、”混沌の象徴”｢斉天大聖孫悟空｣であると聞かされる。…その晩、僧侶に発見された悟空は追い詰められていた。<br><br>玄奘三蔵:関俊彦／孫悟空:保志総一朗／沙悟浄:平田広明／猪八戒:石田彰
+    ※各巻により出演しないキャストもございます。<br><br>監督・絵コンテ:大畑晃一／脚本:隅沢克之／演出:渡辺純央／キャラクターデザイン:YONZO.／総作画監督:結城
+    晒／作画監督:藤田正幸,Kim Yoon Joung／美術監督:池田祐二／美術設定:杉山晋史／美術ボード:長崎 斉／色彩設計:甲斐けいこ／撮影監督:白井久男／音響監督:高桑
+    一／編集:瀬山 武・内田 恵／制作:ぴえろ<br><br>so31910656←前話｜次話→so31910658　第一話→so31910656"
+  length_seconds: 1592
+  content_id: so31910657
+  default_thread_id: 1505184290
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910657
+- !ruby/hash:EpisodeHash
+  episode_no: 第参巻～悟浄&八戒の章
+  title: "｢悟浄&八戒の章｣"
+  description: 人間でも妖怪でもない、異端なる存在同士の悟浄と八戒。偶然出会った二人は、八戒の怪我が治るまで生活を共にする。そこへ一年ぶりに悟浄の昔の仲間・鷭里が現われ、悟浄に窃盗団と手を組む誘いを持ちかける。数日後、組織を裏切り囚われた鷭里は、最後の一仕事として寺院へ盗みに入る間、人質になってくれと悟浄に頼むのだが…<br><br>玄奘三蔵:関俊彦／孫悟空:保志総一朗／沙悟浄:平田広明／猪八戒:石田彰
+    ※各巻により出演しないキャストもございます。<br><br>監督・絵コンテ:大畑晃一／脚本:隅沢克之／演出:渡辺純央／キャラクターデザイン:YONZO.／総作画監督:結城
+    晒／作画監督:藤田正幸,Kim Yoon Joung／美術監督:池田祐二／美術設定:杉山晋史／美術ボード:長崎 斉／色彩設計:甲斐けいこ／撮影監督:白井久男／音響監督:高桑
+    一／編集:瀬山 武・内田 恵／制作:ぴえろ<br><br>so31910657←前話　第一話→so31910656
+  length_seconds: 1878
+  content_id: so31910658
+  default_thread_id: 1505184578
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910658
+cast: "[キャスト]<br>玄奘三蔵:関俊彦／孫悟空:保志総一朗／沙悟浄:平田広明／猪八戒:石田彰 ※各巻により出演しないキャストもございます。"
+staff: "[スタッフ]<br>監督・絵コンテ:大畑晃一／脚本:隅沢克之／演出:渡辺純央／キャラクターデザイン:YONZO.／総作画監督:結城 晒／作画監督:藤田正幸,Kim
+  Yoon Joung／美術監督:池田祐二／美術設定:杉山晋史／美術ボード:長崎 斉／色彩設計:甲斐けいこ／撮影監督:白井久男／音響監督:高桑 一／編集:瀬山 武・内田
+  恵／制作:ぴえろ"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)峰倉かずや・一迅社/OVA最遊記RELOAD製作委員会 2007"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 幻想魔伝 最遊記
+- !ruby/hash:SeasonHash
+  title: 最遊記 RELOAD
+- !ruby/hash:SeasonHash
+  title: 最遊記 RELOAD GUNLOCK
+- !ruby/hash:SeasonHash
+  title: 最遊記外伝
+- !ruby/hash:SeasonHash
+  title: 最遊記外伝 特別篇 香花の章
+- !ruby/hash:SeasonHash
+  title: 最遊記RELOAD BLAST

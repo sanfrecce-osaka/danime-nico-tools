@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: OVA『ToHeart2ad』
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/3/10143_1_6.png?1427216400000
+outline: 人気恋愛SLG『ToHeart2』のOVAシリーズの第2弾。第1話は記憶喪失の貴明に、ヒロインたちが都合のいい記憶を植え付けようと火花を散らすエピソード。そして第2話には貴明たちと初詣に繰り出した由真の、おみくじを巡るエピソードを収録。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桂憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：カオスプロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤やすひさ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：柳沢まさひで
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：みつみ美里
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：カワタヒサシ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：甘露樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：なかむらたけし
+  type: staff
+- !ruby/hash:TagHash
+  name: ToHeartシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: "｢思い出の爪痕｣"
+  description: あるきっかけで、過去の記憶をなくしてしまった貴明。そんな彼を心配しつつも、これを好機と捉えるヒロインたちが、貴明に都合のいい過去を吹き込みます。果たして貴明は記憶を取り戻せるのか、そして記憶を失ってしまった理由とは…。<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:加藤やすひさ／オリジナルキャラクターデザイン:みつみ美里、カワタヒサシ、甘露
+    樹、 なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+    Works<br><br>次話→so32230693
+  length_seconds: 1765
+  content_id: so32230692
+  default_thread_id: 1510020850
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230692
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: "｢happy new year｣"
+  description: 今日は大晦日。初詣に繰り出した由真は、女友達や貴明たちと一緒に行動することに…。おみくじで｢大吉｣を引き当てたのに何も良い事がない由真は、貴明に勝負を申し込みます。果たして由真は開運招福なるのか!?<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:加藤やすひさ／オリジナルキャラクターデザイン:みつみ美里、カワタヒサシ、甘露
+    樹、 なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+    Works<br><br>so32230692←前話　第一話→so32230692
+  length_seconds: 1722
+  content_id: so32230693
+  default_thread_id: 1510020770
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230693
+staff: "[スタッフ]<br>原作:｢ToHeart2｣(AQUAPLUS)／監督:加藤やすひさ／オリジナルキャラクターデザイン:みつみ美里、カワタヒサシ、甘露
+  樹、 なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+  Works"
+produced_year: "[製作年]<br>2008年"
+copyright: "©2008 AQUAPLUS/TH2Vad Works"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ToHeart
+- !ruby/hash:SeasonHash
+  title: ToHeart Remember my memories
+- !ruby/hash:SeasonHash
+  title: ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adplus』
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adnext』
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ダンジョントラベラーズ』

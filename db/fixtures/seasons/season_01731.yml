@@ -1,0 +1,113 @@
+--- !ruby/hash:SeasonHash
+title: "｢リコーダーとランドセル ド♪｣"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/7/10627_1_6.png?1427216400000
+outline: 見た目は大人、中身は子供の小学5年生｢あつし｣、そして、どうみても小学生だけど、しっかり者の高校2年生｢あつみ｣の身長逆転 凸凹姉弟が巻き起こす奇想天外な日常を描いたアニメーション。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多丘千陽
+  type: cast
+- !ruby/hash:TagHash
+  name: たみやすともえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 柏山奈々美
+  type: cast
+- !ruby/hash:TagHash
+  name: 東城咲耶子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：セブン
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：スクラムスタッフ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：烏丸涼
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高橋成世
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：安斎孝秋
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：東屋めめ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：多田葵 feat. Sister 773
+  type: staff
+- !ruby/hash:TagHash
+  name: リコーダーとランドセルシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+- !ruby/hash:TagHash
+  name: ドリームクリエイション
+  type: other
+- !ruby/hash:TagHash
+  name: 川添憲五
+  type: other
+- !ruby/hash:TagHash
+  name: 東屋めめ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1話-7話
+  title: あつしとあつみ/あつみと日常/沙夜とあつみ/あつしと小学校/あつしと節分/あつしとチョコ/映画と勘違い
+  description: あつしは姉・あつみに見た目完ぺきな大人のコーディネートをされたのだが・・・/見た目小学生のあつみの日常は…/あつみを可愛い妹の様に可愛がる親友の沙夜だが…/女子高育ちで男に免疫がない盛山先生が体育の授業中あつしに対して…/低学年のクラスに節分の鬼役で行ったあつしだったが…/バレンタインでチョコを貰うあつしだが…/あつみと沙夜が恋愛映画を見に行くことに。一緒に行きたいとせがむあつしだが…<br><br>あつし:置鮎龍太郎／あつみ:釘宮理恵／沙夜:平野綾／盛山先生:たみやすともえ／ヒナちゃん:内田彩／テツヤ:南條愛乃／タクミ:合田彩／みどりちゃん:柏山奈々美／じゅんちゃん:東城咲耶子／タケ兄:櫻井孝宏<br><br>原作:｢リコーダーとランドセル｣竹書房刊(まんがライフオリジナル､まんがくらぶオリジナル連載中)／原作者:東屋めめ(竹書房刊/単行本：既発売2巻)／監督:木村寛／脚本:烏丸涼／キャラクターデザイン:高橋成世／音響監督:川添憲五／音楽:安斎孝秋　主題歌：｢Glitter｣作詞：RUCCA　作曲：流歌　歌：多田葵
+    feat. Sister 773／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／音楽制作:スクラムスタッフ／製作著作:竹書房<br><br>次話→so31880319
+  length_seconds: 1266
+  content_id: so31880318
+  default_thread_id: 1504728656
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880318
+- !ruby/hash:EpisodeHash
+  episode_no: 8話-13話
+  title: あつしとひなまつり/タケ兄と就職/あつしとホワイトデー/あつしと図書館/あつしと誤解/花見と姉弟
+  description: ひな祭で同級生で気になる女の子ヒナちゃんにお呼ばれされたあつしだが…/お隣さんのお兄さんタケ兄。あつしと体型が似ているからお下がりをよくもらうのだが、そのお下がりは…/ホワイトデー。材料費しか買えないあつしはあつみにお願いして…/宿題をしに図書館に行ったあつし。そこには沙夜がいた…/よく警察に不審者扱いされるあつしは、女性警官に顔を覚えてもらおうと…/花見に来たあつしとあつみ。そこにはあつしの学校の先生たちもきていた。酔った盛山先生が…<br><br>あつし:置鮎龍太郎／あつみ:釘宮理恵／沙夜:平野綾／盛山先生:たみやすともえ／ヒナちゃん:内田彩／テツヤ:南條愛乃／タクミ:合田彩／みどりちゃん:柏山奈々美／じゅんちゃん:東城咲耶子／タケ兄:櫻井孝宏<br><br>原作:｢リコーダーとランドセル｣竹書房刊(まんがライフオリジナル､まんがくらぶオリジナル連載中)／原作者:東屋めめ(竹書房刊/単行本：既発売2巻)／監督:木村寛／脚本:烏丸涼／キャラクターデザイン:高橋成世／音響監督:川添憲五／音楽:安斎孝秋　主題歌：｢Glitter｣作詞：RUCCA　作曲：流歌　歌：多田葵
+    feat. Sister 773／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／音楽制作:スクラムスタッフ／製作著作:竹書房<br><br>so31880318←前話　第一話→so31880318
+  length_seconds: 1085
+  content_id: so31880319
+  default_thread_id: 1504728631
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880319
+cast: "[キャスト]<br>あつし:置鮎龍太郎／あつみ:釘宮理恵／沙夜:平野綾／盛山先生:たみやすともえ／ヒナちゃん:内田彩／テツヤ:南條愛乃／タクミ:合田彩／みどりちゃん:柏山奈々美／じゅんちゃん:東城咲耶子／タケ兄:櫻井孝宏"
+staff: "[スタッフ]<br>原作:｢リコーダーとランドセル｣竹書房刊(まんがライフオリジナル､まんがくらぶオリジナル連載中)／原作者:東屋めめ(竹書房刊/単行本：既発売2巻)／監督:木村寛／脚本:烏丸涼／キャラクターデザイン:高橋成世／音響監督:川添憲五／音楽:安斎孝秋　主題歌：｢Glitter｣作詞：RUCCA　作曲：流歌　歌：多田葵
+  feat. Sister 773／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／音楽制作:スクラムスタッフ／製作著作:竹書房"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)2012東屋めめ/竹書房"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "｢リコーダーとランドセル レ♪｣"

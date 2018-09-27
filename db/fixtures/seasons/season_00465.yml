@@ -1,0 +1,152 @@
+--- !ruby/hash:SeasonHash
+title: 真・恋姫†無双
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/24/1/10241_1_6.png?1427216400000
+outline: 時は、後漢も末の頃--。 この世は乱れに乱れておりました そんな中、力を蓄え、ひそかに野心を研ぎ澄ます者-- 己の力を試さんとさすらう者-- 守るべきもののために闘おうとする者--
+  そうした、様々な思いを胸にいだく者たちがあやなす運命の糸がからみ、結ばれる…… 乱れた世を平和にしようと立ち上がる関羽と張飛。 そして、二人の志しに惹かれ集う乙女たち。
+  彼女たちの新たな戦いが始まろうとしていた--
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：動画工房
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大島美和
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平塚知哉
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中西伸彰
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：雑破業
+  type: staff
+- !ruby/hash:TagHash
+  name: 恋姫†無双シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一席
+  title: 馬超、悶々とするのこと
+  description: 桃花村を拠点に義勇軍として賊の討伐を続ける関羽たち。気心がしれてにぎやかに食卓を囲む一同。そんな中、馬超は張飛と諸葛亮がいつの間にか真名で呼び合っていることに気付くが、自分と張飛が真名で呼び合っていないことに不満をおぼえる。馬超は張飛を“鈴々”と真名で呼ぼうと決意するのだが…。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>次話→so31916423
+  length_seconds: 1494
+  content_id: so31916422
+  default_thread_id: 1505277461
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916422
+- !ruby/hash:EpisodeHash
+  episode_no: 第二席
+  title: 劉備、桃花村を訪れるのこと
+  description: 賊に襲われている少女を救う関羽たち。だが、救ったの少女の名前を聞いて驚愕する。その少女の名は、なんと劉備…。劉備と名乗る少女は、怪しい男に家宝の宝剣を奪われてしまい、それを探して桃花村にやってきたのだと言うが…。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916422←前話｜次話→so31916424　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916423
+  default_thread_id: 1505277459
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916423
+- !ruby/hash:EpisodeHash
+  episode_no: 第三席
+  title: 公孫賛、袁紹と雌雄を決するのこと
+  description: 劉備の宝剣を求め、旅立つ関羽、張飛、諸葛亮、趙雲そして劉備。劉備の幼なじみでもある公孫賛が、最近宝剣を手に入れたとの噂を聞いた一行は、公孫賛のもとを訪れる。だが、すでに一足遅く宝剣は袁紹の手に渡ってしまった後だった…。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916423←前話｜次話→so31916447　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916424
+  default_thread_id: 1505277307
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916424
+- !ruby/hash:EpisodeHash
+  episode_no: 第四席
+  title: 張三姉妹、太平要術を手に入れるのこと
+  description: 張角、張宝、張梁の三人は、街で妖術をつかった芸を見せたり、歌を歌う事で生計をたてていたのだが、なかなか客が呼べずに貧しい生活を送っていた。だがある日、謎の男より貰い受けた一冊の古びた書物をきっかけに三人の歌の評価が一変する事に。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916424←前話｜次話→so31916448　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916447
+  default_thread_id: 1505277843
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916447
+- !ruby/hash:EpisodeHash
+  episode_no: 第五席
+  title: 郭嘉と程イク、曹操に仕えんとするのこと
+  description: いつも元気が取り柄な張飛が突然の腹痛で苦しみだした。急な事に戸惑う関羽だが、華佗と名乗る医者の男と出会い、一瞬の鍼での治療により張飛の腹痛を治してもらう。聞けば華佗は“五斗米道”と呼ばれる道教の教団の中でも一番の名医なのだとか。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916447←前話｜次話→so31916449　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916448
+  default_thread_id: 1505277930
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916448
+- !ruby/hash:EpisodeHash
+  episode_no: 第六席
+  title: 典韋、曹操に試されるのこと
+  description: 関羽一行の泊まっている宿に曹操の部下である夏侯淵がやってくる。なんでも、先日関羽が曹操を刺客から救ったお礼として、食事を振る舞いたいというのだ。その会は、曹操自らが料理の腕を奮って客人をもてなすのだという。喜んで招待される関羽たちだったが、食いしん坊の張飛がよけいな一言を言ってしまう…。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916448←前話｜次話→so31916450　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916449
+  default_thread_id: 1505277935
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916449
+- !ruby/hash:EpisodeHash
+  episode_no: 第七席
+  title: 陳宮、呂布に拾われるのこと
+  description: 劉備の宝剣を持つ袁術の治める町にやってきた一行。町の土産物屋で璃々たちへのお土産を探していたのだが、一つしか無い木彫りの犬を巡り、張飛と陳宮という少女のケンカが始まってしまう…。その陳宮は呂布の軍師だというのだが。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916449←前話｜次話→so31916479　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916450
+  default_thread_id: 1505277933
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916450
+- !ruby/hash:EpisodeHash
+  episode_no: 第八席
+  title: 袁術、化け物を退治させんとするのこと
+  description: 劉備の宝剣を持つ袁術と対面する劉備たち。劉備は、袁術に宝剣を返して欲しいとお願いするが、あっさりと断られてしまう。だが、袁術の腹心の張勲がなにか助言をしたとたん態度が一変。だが、宝剣を返す条件として、領内に出る化け物を退治せよ!というのだが…。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916450←前話｜次話→so31916480　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916479
+  default_thread_id: 1505278838
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916479
+- !ruby/hash:EpisodeHash
+  episode_no: 第九席
+  title: 楽進、李典、于禁、村を守らんとするのこと
+  description: ようやく宝剣を取り戻し、ご機嫌の劉備。夕暮れ時に訪れた村で、一行は山賊に間違えられてしまう…。そんな時に、その村を護衛していた楽進・于禁・李典の三人で出会う。三人は曹操の軍へ士官を求める為の旅の途中だったのだという。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916479←前話｜次話→so31916481　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916480
+  default_thread_id: 1505278854
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916480
+- !ruby/hash:EpisodeHash
+  episode_no: 第十席
+  title: 孔明、妹を欲するのこと
+  description: 姉妹の契りを結んだ、劉備・関羽・張飛の三人。だが、なんとなくかみ合っていない様子…。孔明はそんな三人を見て、自分の兄弟のことを思い出す。一行は桃花村に帰る途中、前に孔明がいた水鏡先生の庵に立ち寄る事にするのだが。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916480←前話｜次話→so31916482　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916481
+  default_thread_id: 1505278836
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916481
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一席
+  title: 馬超、尿意をこらえんとするのこと
+  description: 西涼より修行の為に桃花村にやってきた、馬超の従妹・馬岱。いたずらばかりで馬超を困らせているのだが、馬超の厳しい特訓についていくのも一苦労の日々。ある時、馬岱は馬超がおもらしッコだと馬鹿にするのだが…<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916481←前話｜次話→so31916483　第一話→so31916422
+  length_seconds: 1494
+  content_id: so31916482
+  default_thread_id: 1505278650
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916482
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二席
+  title: 群雄、黄巾の乱を鎮めんとするのこと
+  description: 黄巾党討伐の為、曹操からの惨陣要請を受けた桃花村の義勇軍。黄巾党の頭目が張三姉妹だと知った劉備は、あの三人が悪い事をするはずが無いと言う。だが、曹操の元で華佗から聞いた話は、太平要術が張三姉妹を狂わせているという事だった。<br><br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房<br><br>so31916482←前話　第一話→so31916422
+  length_seconds: 1496
+  content_id: so31916483
+  default_thread_id: 1505278648
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31916483
+staff: "[スタッフ]<br>原作:BaseSon(｢真・恋姫†無双～乙女繚乱☆三国志演義～｣)／監督:中西伸彰／シリーズ構成・脚本:雑破業／メインキャラクターデザイン・総作画監督:大島美和／キャラクターデザイン・総作画監督:平塚知哉／アニメーション制作:動画工房"
+produced_year: "[製作年]<br>2009年"
+copyright: "(C)BaseSon/真・恋姫無双製作委員会 2009"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 真・恋姫†無双～乙女大乱～
+- !ruby/hash:SeasonHash
+  title: 恋姫†無双

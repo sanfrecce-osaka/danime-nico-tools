@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: BUS GAMER
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/07/6/10076_1_6.png?1427216400000
+outline: 企業が3人で編成したチーム同士を戦わせ、機密文書の入ったDISCを奪い合う｢BUS GAME｣。それに参加する美柴、中条、斉藤の3人はお互いの素性も良く知らぬまま、それぞれの目的の為、チームメイトとしてゲームに参加していた。負ければ｢死｣がまっている過酷なゲーム。望みを叶える為、そして生きる残る為に、彼らは勝ち続けなければならない・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 諏訪部順一
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋広樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：峰倉かずや
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：葛谷直行
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: 一迅社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 'Story #1'
+  title: "｢AAA(ノーネーム)｣"
+  description: 全ては、一通のDM(ダイレクトメール)から始まる。差出人は、とある大企業。内容は『巨額の賞金が手に入るゲームに参加しないか』という“ビズゲーム”への誘い文句。この得体の知れない話にエントリーした、まったく面識のない3人、美柴鴇、斉藤一雄、中条伸人は、各企業の“持ち駒”同士が3対3で対戦する闇のファイト『ビズゲーム』に挑む。金だけで繋がった、素性も知らない同士のチーム｢AAA(ノーネーム)｣。はたして如何なる戦いが彼らを待ち受けるのか。<br><br>美柴鴇(みしば
+    とき):鈴村 健一／中条伸人(なかじょう のぶと):諏訪部 順一／斉藤一雄(さいとう かずお):高橋 広樹<br><br>原作/ストーリー原案・監修:峰倉かずや／監督:葛谷直行／脚本:代々木一／録音制作:オムニバスプロモーション／制作協力:スタジオ・イゼナ／制作:Anpro<br><br>次話→so32230690
+  length_seconds: 1407
+  content_id: so32230673
+  default_thread_id: 1510020604
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230673
+- !ruby/hash:EpisodeHash
+  episode_no: 'Story #2'
+  title: "｢明日の値段｣"
+  description: まずは初戦を勝ち進んだチーム｢AAA(ノーネーム)｣。 しかし｢3人を仲間と考える｣斉藤の意見を中条、美柴は受け入れなかった。｢金だけで繋がった素性も知らない同士の『名もなきチーム』で、誰かがリタイヤするか負けるまでゲームが続く｣ということだけを3人は認識する…。勝ち進むチーム｢AAA(ノーネーム)｣の次の戦いの舞台は廃墟ビル。戦いが指し示す、それぞれの価値とは?<br><br>美柴鴇(みしば
+    とき):鈴村 健一／中条伸人(なかじょう のぶと):諏訪部 順一／斉藤一雄(さいとう かずお):高橋 広樹<br><br>原作/ストーリー原案・監修:峰倉かずや／監督:葛谷直行／脚本:代々木一／録音制作:オムニバスプロモーション／制作協力:スタジオ・イゼナ／制作:Anpro<br><br>so32230673←前話｜次話→so32230691　第一話→so32230673
+  length_seconds: 1407
+  content_id: so32230690
+  default_thread_id: 1510020386
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230690
+- !ruby/hash:EpisodeHash
+  episode_no: 'Story #3'
+  title: "｢もう一人のゲーマー｣"
+  description: 戦いは進む。『ビズゲーム』には新ルールが追加され、｢HOME｣側だけでなく｢AWAY｣側もディスクを所有し、ディスクの奪い合いをするゲームに変更された。今回の戦いの舞台はデパートのビアガーデン。今までとは違うビズゲーム会場に戸惑うチーム｢AAA(ノーネーム)｣の3人。はたして｢AWAY｣側として戦う3人はゲームに勝利することが出来るのか?そこに偶然出くわした警視庁少年課女刑事・一ノ宮恵子も絡み、戦いはさらに加速する。<br><br>美柴鴇(みしば
+    とき):鈴村 健一／中条伸人(なかじょう のぶと):諏訪部 順一／斉藤一雄(さいとう かずお):高橋 広樹<br><br>原作/ストーリー原案・監修:峰倉かずや／監督:葛谷直行／脚本:代々木一／録音制作:オムニバスプロモーション／制作協力:スタジオ・イゼナ／制作:Anpro<br><br>so32230690←前話　第一話→so32230673
+  length_seconds: 1407
+  content_id: so32230691
+  default_thread_id: 1510020515
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230691
+cast: "[キャスト]<br>美柴鴇(みしば とき):鈴村 健一／中条伸人(なかじょう のぶと):諏訪部 順一／斉藤一雄(さいとう かずお):高橋 広樹"
+staff: "[スタッフ]<br>原作/ストーリー原案・監修:峰倉かずや／監督:葛谷直行／脚本:代々木一／録音制作:オムニバスプロモーション／制作協力:スタジオ・イゼナ／制作:Anpro"
+produced_year: "[製作年]<br>2008年"
+copyright: "©2008 峰倉かずや・一迅社/BUS GAMER製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

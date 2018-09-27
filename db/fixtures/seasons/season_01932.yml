@@ -1,0 +1,112 @@
+--- !ruby/hash:SeasonHash
+title: 憑物語
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/6/20416_1_6.png?1444184156000
+outline: 貝木泥舟の暗躍で、千石撫子の一件が解決した２月。受験勉強に追い込みをかける阿良々木暦の体には“見過ごすことのできない”変化が現れ始めていた。これまでの報いとも言える、その変化とは！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新房昭之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：西尾維新
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：羽岡佳
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：板村智幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 物語シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: よつぎドール其ノ壹
+  description: 受験勉強に追い込みをかける阿良々木暦は、小さいほうの妹、阿良々木月火と入浴していた。その時、暦は自らの体に現れた“見過ごすことのできない”変化に気付いてしまう―――。<br><br>阿良々木暦:神谷浩史／斧乃木余接:早見沙織<br><br>原作:西尾維新『憑物語』
+    (講談社BOX）／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:内藤
+    健／カラ－デザイン:滝沢いづみ／色彩設計:日比野 仁／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>次話→so33720289
+  length_seconds: 1450
+  content_id: so33720288
+  default_thread_id: 1534727292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33720288
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: よつぎドール其ノ貳
+  description: 暦は、現れ始めた変化の原因を探るべく、忍野忍の助言で影縫余弦・斧乃木余接との接触を図る。そこで判明した、これまでの報いとも言える変化の原因とは―――。<br><br>阿良々木暦:神谷浩史／斧乃木余接:早見沙織<br><br>原作:西尾維新『憑物語』
+    (講談社BOX）／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:内藤
+    健／カラ－デザイン:滝沢いづみ／色彩設計:日比野 仁／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so33720288←前話｜次話→so33720290　第一話→so33720288
+  length_seconds: 1450
+  content_id: so33720289
+  default_thread_id: 1534727294
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33720289
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: よつぎドール其ノ參
+  description: 肉体の吸血鬼化が進行していた暦。斧乃木余接からは、これ以上吸血鬼の力を使わないよう忠告を受ける。だが、そんな時、火憐と月火の身に危険が迫り―――<br><br>阿良々木暦:神谷浩史／斧乃木余接:早見沙織<br><br>原作:西尾維新『憑物語』
+    (講談社BOX）／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:内藤
+    健／カラ－デザイン:滝沢いづみ／色彩設計:日比野 仁／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so33720289←前話｜次話→so33720291　第一話→so33720288
+  length_seconds: 1540
+  content_id: so33720290
+  default_thread_id: 1534727304
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33720290
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: よつぎドール其ノ肆
+  description: 不死身の怪異の専門家・手折正弦（ておりただつる）にさらわれた火憐、月火、駿河。正弦の指示通り、北白蛇神社に向かう暦と余接は途中、後輩の少女、忍野扇と出会う。<br><br>阿良々木暦:神谷浩史／斧乃木余接:早見沙織<br><br>原作:西尾維新『憑物語』
+    (講談社BOX）／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:内藤
+    健／カラ－デザイン:滝沢いづみ／色彩設計:日比野 仁／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so33720290←前話　第一話→so33720288
+  length_seconds: 1980
+  content_id: so33720291
+  default_thread_id: 1534727764
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33720291
+cast: "[キャスト]<br>阿良々木暦:神谷浩史／斧乃木余接:早見沙織"
+staff: "[スタッフ]<br>原作:西尾維新『憑物語』 (講談社BOX）／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ／美術監督:内藤
+  健／カラ－デザイン:滝沢いづみ／色彩設計:日比野 仁／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト"
+produced_year: "[製作年]<br>2014年"
+copyright: "©西尾維新／講談社・アニプレックス・シャフト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 化物語
+- !ruby/hash:SeasonHash
+  title: 偽物語
+- !ruby/hash:SeasonHash
+  title: 猫物語(黒)
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第1話～第5話） 猫物語(白)"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第7話～第10話） 傾物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第12話～第15話） 囮物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第17話～第20話） 鬼物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第21話～第26話） 恋物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第27話～第31話） 花物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第6話・第11話・第16話） 総集編"
+- !ruby/hash:SeasonHash
+  title: 終物語

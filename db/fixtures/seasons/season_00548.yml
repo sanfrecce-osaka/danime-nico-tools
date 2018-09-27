@@ -1,0 +1,133 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 ～桜華絢爛～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/3/11093_1_6.png?1427216400000
+outline: 帝国華撃団・花組の結成を描く「サクラ大戦」前史が、ついに開幕！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 富沢美智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕崎ゆり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 高乃麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 西原久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：川崎ヒロユキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：広井王子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：RADIX
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：藤島康介
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石山タカ明
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：アニメイトフィルム
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：山口頼房
+  type: staff
+- !ruby/hash:TagHash
+  name: サクラ大戦シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1997年
+  type: other
+- !ruby/hash:TagHash
+  name: あかほりさとる
+  type: other
+- !ruby/hash:TagHash
+  name: レッドカンパニー
+  type: other
+- !ruby/hash:TagHash
+  name: 吉野真一
+  type: other
+- !ruby/hash:TagHash
+  name: 黒田和也
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一幕
+  title: 華の都の花いくさ
+  description: 大正八年、春。帝国陸軍・米田一基は、来るべき降魔との戦いに備え帝国華撃団構想を推し進めていた。藤枝あやめは霊子兵器を操る異能者を探し世界を旅する。しかし、主要兵器である霊子甲冑は、適した異能者が一向に見つからない。だが、神崎すみれが一号機「桜武」の実験を見学に来たある日、事態は意外な方向へ進展していく。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／監督・絵コンテ:石山タカ明／シリーズ構成:あかほりさとる／脚本:川崎ヒロユキ／キャラクターデザイン:藤島康介／OVAキャラクター設定:黒田和也／原案・設定:金子良馬、森田直樹（レッドカンパニー）／メカニックデザイン:永田太（レッドカンパニー）／演出:山口頼房／作画監督:吉野真一／音楽:田中公平／アニメーション制作:ラディクス／制作:アニメイトフィルム／企画・監修:レッドカンパニー　他<br><br>次話→so32367967
+  length_seconds: 1711
+  content_id: so32367954
+  default_thread_id: 1512367843
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367954
+- !ruby/hash:EpisodeHash
+  episode_no: 第二幕
+  title: 桜の花に放てよ神剣
+  description: 年明けて、太正十一年新春。秘密部隊・帝国華撃団がついに発足。米田総司令のもとに集まった紅蘭、カンナ、マリア、アイリスは、表の顔「帝国歌劇団」の活動を開始。稽古に励んだ。そんな折、戦力強化のため花組に神崎すみれが加わるが、彼女の高慢な態度に花組は一触即発の危機に。一方、真宮寺家ではさくらに奥義を記す巻物が手渡されようとしていた。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／監督・絵コンテ:石山タカ明／シリーズ構成:あかほりさとる／脚本:川崎ヒロユキ／キャラクターデザイン:藤島康介／OVAキャラクター設定:黒田和也／原案・設定:金子良馬、森田直樹（レッドカンパニー）／メカニックデザイン:永田太（レッドカンパニー）／演出:山口頼房／作画監督:吉野真一／音楽:田中公平／アニメーション制作:ラディクス／制作:アニメイトフィルム／企画・監修:レッドカンパニー　他<br><br>so32367954←前話｜次話→so32367968　第一話→so32367954
+  length_seconds: 1701
+  content_id: so32367967
+  default_thread_id: 1512368034
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367967
+- !ruby/hash:EpisodeHash
+  episode_no: 第三幕
+  title: 春は弥生の初戦闘
+  description: 太正十二年、マリアたち3人は、舞台に立つ一方で戦闘訓練もこなすハードな毎日を送っていた。そんな折、父の敵討ちのために沖縄へ帰ったカンナと入れ替わりに真宮寺さくらが入団してきた。戦闘訓練で失敗を重ねるさくらだった…。その頃、日本橋の地下深くでは黒之巣会が動き出そうとしていた…。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／監督・絵コンテ:石山タカ明／シリーズ構成:あかほりさとる／脚本:川崎ヒロユキ／キャラクターデザイン:藤島康介／OVAキャラクター設定:黒田和也／原案・設定:金子良馬、森田直樹（レッドカンパニー）／メカニックデザイン:永田太（レッドカンパニー）／演出:山口頼房／作画監督:吉野真一／音楽:田中公平／アニメーション制作:ラディクス／制作:アニメイトフィルム／企画・監修:レッドカンパニー　他<br><br>so32367967←前話｜次話→so32367969　第一話→so32367954
+  length_seconds: 1703
+  content_id: so32367968
+  default_thread_id: 1512368050
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367968
+- !ruby/hash:EpisodeHash
+  episode_no: 第四幕
+  title: 真夏の夢の夜
+  description: 黒之巣会と幾多の戦闘を繰り広げ、花組隊長として信頼されるようになった大神一郎。だが、個性豊かなメンバーに振り回される毎日に疲れ果ててしまう。そんなある晩、修行中のさくらと出会った大神は、胸中をうち明けるが逆に芝居の指揮をとるように提案される。こうして、一日だけの特別公演「真夏の夢の夜」が企画された。だが、帝都を脅かす悪は容赦なく忍び寄る・・・。<br><br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他<br><br>原作:広井王子／監督・絵コンテ:石山タカ明／シリーズ構成:あかほりさとる／脚本:川崎ヒロユキ／キャラクターデザイン:藤島康介／OVAキャラクター設定:黒田和也／原案・設定:金子良馬、森田直樹（レッドカンパニー）／メカニックデザイン:永田太（レッドカンパニー）／演出:山口頼房／作画監督:吉野真一／音楽:田中公平／アニメーション制作:ラディクス／制作:アニメイトフィルム／企画・監修:レッドカンパニー　他<br><br>so32367968←前話　第一話→so32367954
+  length_seconds: 1739
+  content_id: so32367969
+  default_thread_id: 1512368029
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367969
+cast: "[キャスト]<br>真宮寺さくら:横山智佐／神崎すみれ:富沢美智恵／マリア・タチバナ:高乃麗／アイリス:西原久美子／李紅蘭:渕崎ゆり子／桐島カンナ:田中真弓／大神一郎:陶山章央／藤枝あやめ:折笠愛／米田一基:池田勝　他"
+staff: "[スタッフ]<br>原作:広井王子／監督・絵コンテ:石山タカ明／シリーズ構成:あかほりさとる／脚本:川崎ヒロユキ／キャラクターデザイン:藤島康介／OVAキャラクター設定:黒田和也／原案・設定:金子良馬、森田直樹（レッドカンパニー）／メカニックデザイン:永田太（レッドカンパニー）／演出:山口頼房／作画監督:吉野真一／音楽:田中公平／アニメーション制作:ラディクス／制作:アニメイトフィルム／企画・監修:レッドカンパニー　他"
+produced_year: "[製作年]<br>1997年"
+copyright: "(C)1997 SEGA/BANDAI VISUAL/MARINE ENTERTAINMENT (C)RED 1997"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育

@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: こども刑事めめたん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/98/8/20988_1_6.png?1467198011000
+outline: 赤ん坊にしか見えない新人刑事・めめたんが鳥取と奇跡のコラボ！脱力系の日常コメディです。森山一保(もりやま いっぽ)先生原作の｢こども刑事めめたん｣(KADOKAWA刊)で、｢ComicWalker｣に連載した“鳥取編”がdアニメストアで配信！鳥取県内の観光&名産など、鳥取県とのコラボがふんだんに盛り込まれているのが、作品の見どころのひとつになっています。番組後半には鳥取県ローカルの“ふたりでひとつ”なアイドルユニット｢Chelip(チェリップ)｣が出演する｢めめたん&Chelipのとっとり探訪！｣というミニコーナーが見られます。さて、今回はどこを探訪するのか！？純鳥取県産アニメ！Made
+  by とっとり100%(※)　※鳥取県制作×鳥取県出身の漫画家×アニメを鳥取県内企業で制作×出演者×ロケ地など！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 古原奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 草壁佑一
+  type: cast
+- !ruby/hash:TagHash
+  name: 大西直樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：森山一保
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：スクリーントーンズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：寺西竜也
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：鳥取県・チームめめたん鳥取
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：赤井孝美
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA
+  type: other
+- !ruby/hash:TagHash
+  name: 松村宏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: File.01～File.08
+  title: 鳥取砂丘・鳥取砂丘／めめたんの白うさぎ伝説・白兎海岸・白兎神社／蟹色と梨色・なしっこ館／犯人を追い詰めろ！・赤瓦・白壁土蔵群／中華？で潜入捜査！・燕趙園／入ったか？入れたか？・はわい温泉／変装の名人・とっとり花回廊／山と海と温泉と・大山
+  description: "【各話概要】｢こども刑事めめたん｣とっとりアニメ編／｢めめたん&amp;Chelipのとっとり探訪！｣編<br><br>めめたん:古原奈々(米子市地域おこし協力隊)／メイケル・メクソン:草壁佑一(米子市在住)／松戸優作刑事:大西直樹／ナレーション
+    他:松村 宏(米子市地域おこし協力隊)<br><br>原作:森山一保／音楽:スクリーントーンズ／テーマ曲:白神眞志朗(ウルトラシープ)／監督:寺西竜也(ラ・コミック)／総監督:赤井孝美(米子ガイナックス)／アシスタントプロデューサー:藤波絵里子(KADOKAWA)／プロデューサー:外岡宏長(KADOKAWA)／製作:鳥取県・チームめめたん鳥取"
+  length_seconds: 1927
+  content_id: so31982163
+  default_thread_id: 1506198447
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31982163
+cast: "[キャスト]<br>めめたん:古原奈々(米子市地域おこし協力隊)／メイケル・メクソン:草壁佑一(米子市在住)／松戸優作刑事:大西直樹／ナレーション 他:松村
+  宏(米子市地域おこし協力隊)"
+staff: "[スタッフ]<br>原作:森山一保／音楽:スクリーントーンズ／テーマ曲:白神眞志朗(ウルトラシープ)／監督:寺西竜也(ラ・コミック)／総監督:赤井孝美(米子ガイナックス)／アシスタントプロデューサー:藤波絵里子(KADOKAWA)／プロデューサー:外岡宏長(KADOKAWA)／製作:鳥取県・チームめめたん鳥取"
+produced_year: "[製作年]<br>2015年"
+copyright: "©鳥取県・チームめめたん鳥取"
+related_seasons: !ruby/array:Hashie::Array []

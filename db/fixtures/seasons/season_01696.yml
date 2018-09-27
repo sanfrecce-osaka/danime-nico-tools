@@ -1,0 +1,441 @@
+--- !ruby/hash:SeasonHash
+title: 弱虫ペダル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/44/3/11443_1_6.png?1427216400000
+outline: 千葉県にある総北高校に通う小野田坂道はちょっと気弱でアニメが大好きな高校一年生。坂道は高校に入ったらアニメ研究部に入部しようとしていたが、中学自転車界で名を馳せた今泉俊輔や、関西の自転車大会で賞を総なめにした鳴子章吉との出会いによって、自転車競技部に入部することになる。自転車競技部では激しいトレーニングや事件が待ち受けていたが、金城、田所、巻島といった個性的な先輩や、沢山の仲間に支えられて数々の試練を乗り越えていく坂道。そうした日々の中で坂道の中に眠る自転車選手(ロードレーサー)としての才能が目覚め始める…！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下大輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤健太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 福島潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 弱虫ペダルシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: 少年主人公
+  type: other
+- !ruby/hash:TagHash
+  name: チーム男子
+  type: other
+- !ruby/hash:TagHash
+  name: 週刊少年チャンピオン
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.1
+  title: アキバにタダで行けるから
+  description: 千葉県総北高校に入学した小野田坂道は、大好きなアニメグッズを買う為に、毎週アキバまで、往復90㎞の道のりをママチャリで通っていた。高校生になったらアニ研に入って友達を作ろうと思っていた坂道だが、なんとアニ研は人数が集まらず廃部になっていた。落胆する坂道の前に、ロードレーサーの今泉俊輔が現れて…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>次話→so32202310
+  length_seconds: 1425
+  content_id: so32202309
+  default_thread_id: 1509602855
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202309
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.2
+  title: 部員をふやすため
+  description: 高校近くの急な裏門坂を、鼻歌を歌いながらママチャリで登る坂道を見た今泉。その実力を確かめようと、坂道に自転車レースを申し出る。驚く坂道だが、今泉が負けたらアニ研に入るという条件を聞いて、勝負を受ける事に。話を聞きつけた寒咲幹達が見守る中、坂道と今泉の裏門坂自転車レースがスタートする！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202309←前話｜次話→so32202311　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202310
+  default_thread_id: 1509602669
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202310
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.3
+  title: 僕は友達いないから
+  description: ついに始まった坂道と今泉の裏門坂自転車レース。今泉にアニ研に入ってもらう為、懸命にペダルを回す坂道だが、後からスタートした今泉にあっさり抜かれてしまう。落胆する坂道は、通司の車で追いかけて来た幹にサドルの調節をしてもらい、再び今泉を追う。必死の追い上げで、ついに今泉に追いつく坂道だが…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202310←前話｜次話→so32202312　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202311
+  default_thread_id: 1509602860
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202311
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.4
+  title: 鳴子章吉
+  description: 裏門坂のレースを終えて、少し今泉との距離が縮まった坂道。大好きなアニメグッズを買う為、いつもの様にママチャリでアキバへやって来ると、関西弁で自転車乗りの少年、鳴子章吉に出会う。そんな中、坂道のママチャリにタバコの吸い殻を投げ捨てた男に怒った鳴子は、坂道と一緒に、男が乗る車を自転車で追いかけようとする！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202311←前話｜次話→so32202313　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202312
+  default_thread_id: 1509602712
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202312
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.5
+  title: 総北高校自転車競技部
+  description: 鳴子と一緒に、アキバの街を自転車で走った翌日、坂道は高校の購買部で鳴子との再会を果たす。鳴子に自分と同じ自転車競技部に入るよう勧められる坂道だが、アニ研への未練を捨てきれずにいた。しかし、鳴子に誘われて、自転車競技部の放課後練習を見た坂道は、自分の可能性を試してみたいと感じ始める。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202312←前話｜次話→so32202314　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202313
+  default_thread_id: 1509602691
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202313
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.6
+  title: ウエルカムレース
+  description: 自転車競技部に入った坂道は、いきなり1年生対抗ウエルカムレースに参加する事に。初めてのレースに緊張しながらも、また今泉や鳴子と一緒に走れる事に期待を膨らませる坂道。ところが、レースがスタートすると、一人ママチャリの坂道は、ロードレーサーの部員達に次々と抜かれ、とうとう最後尾になってしまう！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202313←前話｜次話→so32202315　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202314
+  default_thread_id: 1509602728
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202314
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.7
+  title: 追いつきたい！
+  description: 幹の乗る車に積まれたロードレーサーを手に入れた坂道。ロードレーサーに初めて乗るにもかかわらずフラつくこともなくまっすぐ走り、周囲を驚かせる。その性能に感動しながらも、遅れを取り戻そうと必死に今泉達を追いかけるが、金城からは、このままのでは二人に追いつけないと告げられてしまう。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202314←前話｜次話→so32202316　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202315
+  default_thread_id: 1509602872
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202315
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.8
+  title: スプリントクライム！！
+  description: 今泉と鳴子を追いかけて、必死にペダルを回す坂道は、ついに二人を捉えた。今泉と鳴子も、坂道の驚異的な成長と、そのまっすぐな想いに触発され、更なる闘志を燃やす。3人のバトルがますます加速する中、レースは山岳ステージに突入。坂が苦手なスプリンターの鳴子は、徐々に失速してしまい…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202315←前話｜次話→so32202317　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202316
+  default_thread_id: 1509602726
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202316
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.9
+  title: 全力ＶＳ全力
+  description: 鳴子に背中を押され、峰ヶ山での山岳賞を取る決意をした坂道は、ケイデンスを最大にまで上げてトップの今泉に並ぶ。必死に食らいつく坂道を、今泉も全力で引き離そうとする。山頂までのラストスパート、坂道は、鳴子から教えてもらった秘策をもって、全力で今泉に挑む！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202316←前話｜次話→so32202348　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202317
+  default_thread_id: 1509602862
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202317
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.10
+  title: ピークスパイダー
+  description: ウエルカムレースを終えて、クライマーとしての自分の可能性を見い出した坂道。翌朝、部室に行くと、ポスターの裏に隠れて、壁に大きな穴が空いているのを見つける。その穴を空けたのが3年の巻島だと知った坂道は、その日の放課後練習で、巻島とマンツーマンの個人練習を言い渡され、ガチガチに緊張してしまう！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202317←前話｜次話→so32202349　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202348
+  default_thread_id: 1509603334
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202348
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.11
+  title: 肉弾列車！！
+  description: 個人練習の翌日。部活が休みだと思っていた坂道達は、たった今、3年生達がインターハイ出場を決める千葉県予選に出場していると聞き、大急ぎで会場へ向かう。会場に到着すると、レースは既に始まっていた。総北高校は、先頭2校のチームに50秒以上の差をつけられ、かなり厳しい状況になっていて…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202348←前話｜次話→so32202350　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202349
+  default_thread_id: 1509605200
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202349
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.12
+  title: 合宿初日！
+  description: インターハイに向けて、合宿を開始した総北高校自転車競技部。合宿所へ向かう途中、車酔いで休憩していた坂道は、そこで自転車乗りの少年、真波山岳に出会う。同じ坂が好きな真波との出会いに心弾ませつつ、合宿に挑む坂道。だが、金城から告げられた合宿のメニューは、予想以上に過酷なものだった！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202349←前話｜次話→so32202351　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202350
+  default_thread_id: 1509603242
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202350
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.13
+  title: 今泉と鳴子の1000㎞
+  description: ついに始まった強化合宿。主将の金城から告げられた、4日間で1000km走破という過酷なメニューを乗り切る為、朝から気合いを入れて走る今泉と鳴子。坂道も、巻島のアドバイスを受けて徐々に距離を伸ばし始める。一方、同じくインターハイ出場が決まっている他校の選手達も、大会へ向けて着実に動き始めていた…！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202350←前話｜次話→so32202352　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202351
+  default_thread_id: 1509603211
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202351
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.14
+  title: 朝霧の再会
+  description: 合宿3日目。周回ペースが一番遅れている坂道は、皆に追いつこうと、一人早朝から走り始めていた。コースの途中、合宿初日に出会った少年、真波に再会した坂道。同じ自転車部の1年生で、坂が好きな真波との再会が嬉しい坂道は、自転車で坂の上まで競争しようと提案するが…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202351←前話｜次話→so32202353　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202352
+  default_thread_id: 1509603240
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202352
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.15
+  title: 策略
+  description: 真波との再会によって、インターハイへの想いが高まる坂道。インターハイに出場する為に、まずはこの合宿で1000㎞を完走しなければいけないと気付いた坂道は、同じく出場を目指す今泉や鳴子と共に、必死でペダルを回す。だが、そんな坂道達に対し、2年の手嶋、青八木はある策略を巡らせていた…！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202352←前話｜次話→so32202354　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202353
+  default_thread_id: 1509603406
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202353
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.16
+  title: 一点突破
+  description: 1000㎞走破を目指す坂道達の前に、立ちはだかる2年の手嶋、青八木。二人はリードしている順位を死守する為、坂道達に勝負を仕掛けてきた。二人の強固なチームワークと巧妙な策によって、精神的にも追いつめられる今泉や鳴子。そんな中、手嶋は去年の春、高校に入学して青八木と出会った頃のことを思い出していた…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202353←前話｜次話→so32202355　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202354
+  default_thread_id: 1509603338
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202354
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.17
+  title: 最後尾の小野田
+  description: 手嶋の鉄壁のガードを破り、坂での一点突破を成し遂げた坂道。万策尽きて落胆する手嶋だが、必ず二人揃ってインターハイに行くという青八木の強い意志を受けて、再び1年を追いかける。様々な想いの中、ゴールラインを目指して全力で疾走する5人。インターハイ出場を賭けた1年と2年の戦いが遂にクライマックスを迎える！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202354←前話｜次話→so32202356　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202355
+  default_thread_id: 1509605198
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202355
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.18
+  title: 全力の勝負
+  description: 最後尾に落ちながらも、不屈の走りでペダルを回して先行する今泉、鳴子、手嶋、青八木に追いついた坂道。5人それぞれが様々な想いを胸にゴールラインを目指して全力で疾走、決死のゴールスプリントで激突！インターハイ出場を賭けた1年と2年の戦いが遂にクライマックスを迎える！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202355←前話｜次話→so32202357　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202356
+  default_thread_id: 1509603336
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202356
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.19
+  title: 新たなるスタート
+  description: 過酷な1000㎞合宿を終えて、大きく成長した1年生達。坂道も見事完走を果たしたものの、自分は経験、実力共に他のメンバーよりも不足していると痛感し、インターハイメンバーになる事を諦めていた。そんな気持ちで臨んだある日の練習で、主将の金城が坂道に語りかける。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202356←前話｜次話→so32202465　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202357
+  default_thread_id: 1509603235
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202357
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.20
+  title: 真波山岳
+  description: インターハイに向けて士気あがる総北高校自転車競技部。一方、昨年の優勝校、箱根学園でも、2年の黒田、1年の真波という2人のクライマーによる、インターハイ出場を賭けたレースが行われていた。2年の黒田が先行する展開の中、福富らレギュラーメンバーの目の前で真波が見せた走りとは…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202357←前話｜次話→so32202466　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202465
+  default_thread_id: 1509606580
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202465
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.21
+  title: 石道の蛇
+  description: インターハイ前日。休みの部室に一人佇む金城は、1年前の夏のインターハイを思い出していた。当時、総北のエースとして出場していた金城は、先頭を走る箱根学園のエース、福富を捉えていた。ゴール直前、レースは一騎打ちへと持ち込まれるが…。一方、巻島の家に集まった坂道達も、福富との因縁の話を聞いていた。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202465←前話｜次話→so32202467　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202466
+  default_thread_id: 1509606392
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202466
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.22
+  title: インターハイ開幕
+  description: スタート地点である江ノ島のインターハイ会場にやって来た坂道達。初めて出場するレースへの緊張で、動揺を隠せない坂道だが、メンバーからの励ましを受けて気合いを入れる。次々と全国の強豪校、ライバル達が集う中、高まる闘争心や期待を胸に、ついに、インターハイの幕が開く！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202466←前話｜次話→so32202468　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202467
+  default_thread_id: 1509606153
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202467
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.23
+  title: トップスプリンター！！
+  description: インターハイ1日目が遂にスタート。坂道は高まる期待を胸に、今泉や鳴子と一緒にゴールを目指して走り始める。レースが動き出し、最初の平坦区間に突入すると、各校のトップスプリンターが一斉に動き出し、田所と鳴子も集団を飛び出した。そこへ箱根学園から、全身筋肉のスプリントマシーン、泉田が立ちはだかる！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202467←前話｜次話→so32202469　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202468
+  default_thread_id: 1509606415
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202468
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.24
+  title: 震える泉田
+  description: ファーストリザルドを目指し、一斉に走り出した各校のトップスプリンター達。先頭を激走する田所と鳴子を猛追するのは、この日の為に完璧な肉体を作りあげた箱根学園の泉田。彼は、自らのスプリンターとしてのセオリーに反する二人に｢あなた方はスプリンター失格だ！｣と言い放つ。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202468←前話｜次話→so32202470　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202469
+  default_thread_id: 1509606579
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202469
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.25
+  title: 負け
+  description: それぞれの必殺技で泉田に迫る、田所と鳴子。その予想外な強さを目の当たりにした泉田は、｢スプリンター失格｣と言った事を撤回。ジャージのジッパーを上げ、本気モードとなり、全身の筋肉を槍の様に鋭く研ぎ澄まして突き進む。その速さに圧倒される田所と鳴子だが、過去に味わった悔しさをバネに、全力で勝負に挑む！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202469←前話｜次話→so32202551　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202470
+  default_thread_id: 1509606384
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202470
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.26
+  title: 空が見える
+  description: 三つ巴の戦いとなったファーストリザルド。田所と鳴子は、落車も恐れずにゴールへと直進！最後の勝敗を分けたのは勝利への執念だった。そして、レースはいよいよ山岳区間へと突入。各校のクライマー達が動き出す中、巻島と箱根学園の東堂も準備を開始。坂道は、巻島が抜けた後のチームを引くという役割を与えられるが…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202470←前話｜次話→so32202552　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202551
+  default_thread_id: 1509606928
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202551
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.27
+  title: 山神東堂
+  description: 山岳リザルトを狙う巻島の為に、山岳区間でチームを引く役割を与えられた坂道。しかし、集団落車に巻き込まれ、最後尾となってしまう。坂道を失った総北は、巻島がチームに残る決断を下す。そこへ、箱根学園の東堂が現れ、ライバルである巻島に、3年最後のリザルトを賭けた勝負をしようと持ちかける。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202551←前話｜次話→so32202553　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202552
+  default_thread_id: 1509606881
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202552
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.28
+  title: １００人の関所
+  description: 坂道が必ずチームに追いつくと信じ、3分間だけ待つ決意をした巻島。一方、最後尾となってしまった坂道は、先頭を走る総北チームを目指して全力で走り出す。手嶋から｢登りで100人抜け｣と言われた坂道は、得意のハイケイデンスで驚異的な追い上げを見せる！しかし、そこに京都伏見の御堂筋が立ちふさがる。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202552←前話｜次話→so32202554　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202553
+  default_thread_id: 1509606885
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202553
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.29
+  title: 山頂
+  description: 100人目の御堂筋を抜き、怒涛の走りで総北チームに追いついた坂道。巻島は坂道への感謝の言葉を金城に託し、山岳リザルトを獲る為、先頭を走るライバル・箱根学園の東堂を追いかける。巻島と東堂、共にクライマーとして競い合ってきた2人の、意地とプライドを賭けたラストクライムが遂に実現する…！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202553←前話｜次話→so32202555　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202554
+  default_thread_id: 1509606903
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202554
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.30
+  title: 荒北と今泉
+  description: ゴールまで残り4km。各校のエース達が初日の優勝を目指し一斉に動き始める中、総北はエースの金城と今泉がチームの想いを積んでゴールを狙う。全力で金城を引く今泉だか、後ろから箱根学園のエースアシストを務める荒北が、野獣の様な走りで二人に迫る。荒北は今泉を｢お利口ちゃん｣と煽り、圧倒的な追い上げを見せる。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202554←前話｜次話→so32202556　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202555
+  default_thread_id: 1509606887
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202555
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.31
+  title: 強者３人
+  description: ゴール目前、今泉と荒北は、それぞれエースである金城と福富を送り出し、勝負は彼ら二人に絞られる。しかし、後方から一瞬の隙をついた御堂筋が、驚異的な追い上げで今泉達を追い抜き、先頭に迫る！今泉はエースを守る為、限界が近い脚で追いかけるが、御堂筋にはまだ、とっておきが残っている…！?<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202555←前話｜次話→so32202640　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202556
+  default_thread_id: 1509606883
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202556
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.32
+  title: 希望の夜
+  description: 福富、金城、御堂筋によるまさかの三つ巴の戦いの末、3選手同着1位となったインターハイ1日目。ゴールを迎えた選手達の各区間リザルトが表彰される中、田所は体調を崩し、地面に倒れ込んでしまう。不穏な空気を残しつつ、宿舎へと向かうチーム総北。明日のレースに控え、休養をとる坂道達の前に、あるお客さんが現れる。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202556←前話｜次話→so32202641　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202640
+  default_thread_id: 1509608149
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202640
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.33
+  title: ヒメなのだ
+  description: 3日間中、最も長いステージであるインターハイ2日目がスタートした。坂道は自分に与えられた〝チーム全員を引いて峠を登り、できるだけ早く金城と今泉に追いつく〟というオーダーを胸に、気合を入れて走りはじめる。しかし、前日に体調を崩していた田所は、一人、スタートできずに立ち尽くしていた…！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202640←前話｜次話→so32202642　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202641
+  default_thread_id: 1509608147
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202641
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.34
+  title: 新開隼人
+  description: メンバーがバラけてしまったチーム総北をしりめに、早々にメンバー全員が合流を果たした王者・箱根学園。焦る総北の金城と今泉だが、追い打ちをかけるように御堂筋率いる京都伏見が合流を果たし、先頭は2校の戦いとなる。御堂筋はファーストスプリントリザルトの勝負を持ちかけ、箱根学園のエーススプリンター新開が動き出す！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202641←前話｜次話→so32202643　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202642
+  default_thread_id: 1509608521
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202642
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.35
+  title: 勝利する男
+  description: 巻島と鳴子が合流するも、依然として不利な状況が続く総北。しかし、坂道と田所が後ろから順調に追い上げて来ている事を知り、再び一丸となって先頭を追いかける。一方、先頭では御堂筋と新開のスプリントバトルが過熱！過去のトラウマを乗り越え、仲間の為に走ろうとする新開だが…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202642←前話｜次話→so32202644　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202643
+  default_thread_id: 1509608096
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202643
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.36
+  title: 最強最速
+  description: スプリントラインまで残り100m。御堂筋との激闘の中で〝箱根の直線鬼〟として覚醒した新開は、鬼の形相でかつて最速と言われた走りを見せる。その圧倒的強さを前に、御堂筋も太股のテーピングを外して全力で勝負に挑む。一方、バラバラになっていた総北も、坂道と田所が驚異的な追い上げを見せる。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202643←前話｜次話→so32202645　第一話→so32202309
+  length_seconds: 1425
+  content_id: so32202644
+  default_thread_id: 1509608151
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202644
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.37
+  title: 王者交代
+  description: 坂道と田所が追いつき、遂に6人全員が合流を果たしたチーム総北。今泉や鳴子も、坂道の頑張りに引っ張られるように、気持ちを一つにして走り出す。一方、先頭を走っていた王者・箱根学園は、御堂筋との激戦を繰り広げた新開が陥落し、メンバーが徐々にバラけ始めていた。御堂筋の挑発に心を乱す泉田だが…。<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202644←前話｜次話→so32202646　第一話→so32202309
+  length_seconds: 1424
+  content_id: so32202645
+  default_thread_id: 1509608519
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202645
+- !ruby/hash:EpisodeHash
+  episode_no: RIDE.38
+  title: 総北の魂
+  description: 山岳ポイントを取り、先頭を独走する京都伏見。全てが御堂筋のシナリオ通りと思われたが、メンバーがバラけていた王者・箱根学園が、築き上げてきた強い信頼でペースを取り戻し、総北も坂道の活躍により、先頭争いに追いついた。総北vs箱根学園vs京都伏見、各校がそれぞれの想いと誇りを背負い、全力でゴールを目指す！<br><br>出演:山下大輝,鳥海浩輔,福島
+    潤,安元洋貴,森久保祥太郎,伊藤健太郎<br><br>so32202645←前話　第一話→so32202309
+  length_seconds: 1409
+  content_id: so32202646
+  default_thread_id: 1509608515
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202646
+cast: "[キャスト]<br>出演:山下大輝,鳥海浩輔,福島 潤,安元洋貴,森久保祥太郎,伊藤健太郎"
+produced_year: "[製作年]<br>2013年"
+copyright: "(Ｃ)渡辺航（週刊少年チャンピオン）／弱虫ペダル製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 弱虫ペダル ＧＲＡＮＤＥ ＲＯＡＤ（グランロード）
+- !ruby/hash:SeasonHash
+  title: 弱虫ペダル NEW GENERATION
+- !ruby/hash:SeasonHash
+  title: 弱虫ペダル Ｒｅ：ＲＩＤＥ
+- !ruby/hash:SeasonHash
+  title: 弱虫ペダル GLORY LINE

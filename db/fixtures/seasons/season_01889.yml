@@ -1,0 +1,179 @@
+--- !ruby/hash:SeasonHash
+title: 少女☆歌劇 レヴュースタァライト
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/25/4/22254_1_6.png?1531472453000
+outline: "『スタァ』――それは舞台の中心、「ポジション・ゼロ」に煌めく光。心を震わせる歌声で、躰が動きだす踊りで、魂を揺さぶる演技で観る者を魅了する、舞台に咲き誇る華。スタァに魅入られた『舞台少女』たちは、夢の舞台に立つために演劇の学び舎『聖翔音楽学園』に集う。愛城華恋。天堂真矢。星見純那。露崎まひる。大場なな。西條クロディーヌ。石動双葉。花柳香子。そして――神楽ひかり。9人の舞台少女に突然届いた謎のメール。「お持ちなさい　　あなたの望んだその星を」それは『トップスタァ』の座をかけた、オーディションへの誘い。同じ舞台にたつ仲間は、星を奪い合うライバルとなった。剥き出しの情熱が、愛ゆえの傲慢が、譲れない執着が、舞台の上で激突し――関係が、感情が、主役と敵役が、緞帳が上がるたびに再生産されてゆく。9人の舞台少女たちの、キラめきをかけた『レヴュー』。「いつか、あの子と戦うことになっても――」運命に導かれた舞台が、今――幕を開ける。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤彩沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 相羽あいな
+  type: cast
+- !ruby/hash:TagHash
+  name: 富田麻帆
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山百代
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤日向
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田陽葵
+  type: cast
+- !ruby/hash:TagHash
+  name: 小泉萌香
+  type: cast
+- !ruby/hash:TagHash
+  name: 生田輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：加藤達也
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：藤澤慶昌
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：齊田博之
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：古川知宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 舞台少女
+  description: 愛城華恋は舞台で生きてゆくことを夢みる舞台少女。聖翔音楽学園でレッスンに励む彼女の元に転入生がやってきた。神楽ひかり。彼女こそ幼い日に別れた華恋の幼馴染みで、憧れの舞台「スタァライト」に一緒に立つことを約束した運命の舞台少女だった……<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>次話→so33550005
+  length_seconds: 1444
+  content_id: so33511628
+  default_thread_id: 1531358225
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33511628
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 運命の舞台
+  description: ひかりを守るため謎のオーディションに飛び入り参加した華恋。だが、何かを知る様子のひかりは華恋を抜けさせようとするが……。一方、自分の敗北を認めることが出来ない純那。明らかになる彼女の執着と情熱。スタァを目指し、星見純那は再び弓を掴む。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33511628←前話｜次話→so33582571　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33550005
+  default_thread_id: 1531962427
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33550005.18747
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: トップスタァ
+  description: 第100回聖翔祭に向けて動きだした２年Ａ組。キリンのオーディションにより舞台少女たちの関係が変化してゆく中、華恋は変わらず無邪気にスタァを目指す。その前に立ちはだかったのはトップスタァを宿命づけられた主席・天堂真矢だった。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33550005←前話｜次話→so33622989　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33582571
+  default_thread_id: 1532502424
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33582571.14429
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 約束タワー
+  description: 華恋の軽率さに憤慨したひかりが星光館を飛び出してしまった。ひかりを探して東京の街をさまよう華恋。スタァを目指す真矢の壮烈なる覚悟と、自分自身の甘さ。自分は何故スタァを目指そうとしたのか。原点に立ち戻った華恋はひかりとの約束の場所に向かう。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33582571←前話｜次話→so33661131　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33622989
+  default_thread_id: 1533173763
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33622989.12086
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: キラめきのありか
+  description: ひかりとの約束を再確認し、生まれ変わったようにレッスンに励む華恋。クラスメイトはその変容に驚くがルームメイトの露崎まひるはそれを受け入れられない。変わりゆく華恋は私の大好きな華恋ちゃんじゃない。暴走するまひるの感情がレヴューの幕を開く。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33622989←前話｜次話→so33698731　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33661131
+  default_thread_id: 1533794766
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33661131
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ふたりの花道
+  description: 幼い日より二人で歩んできた石動双葉と花柳香子。だが聖翔音楽学園に入学し、オーディションに参加したことで二人の意識にも変化が。クロディーヌと練習に励む双葉が自分から離れてゆくように感じた香子は、持ち前の身勝手からとんでもない行動に出る。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33661131←前話｜次話→so33734986　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33698731
+  default_thread_id: 1534393028
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33698731
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 大場なな
+  description: その包容力と優しさで2年Ａ組を包み込んできた大場なな。彼女の大きな愛情の原点は1年生の時に上演した第99回聖翔祭の「スタァライト」にあった。ななの記憶に深く刻み込まれ彼女自身を変えたもの。彼女がその「再演」に執着する理由とは……？<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33698731←前話｜次話→so33772999　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33734986
+  default_thread_id: 1535007490
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33734986
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ひかり、さす方へ
+  description: "「いつか2人であの舞台に立とうね」。幼い日に運命の約束を交わした華恋とひかり。華恋と別れロンドンに渡っても、ひかりはその想いを胸に夢を追い続け……そして失った。ななとのレヴューで必死にもがくひかり。彼女が失った一番大切なもの、それは。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33734986←前話｜次話→so33811865　第一話→so33511628"
+  length_seconds: 1444
+  content_id: so33772999
+  default_thread_id: 1535601637
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33772999.16981
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 星祭りの夜に
+  description: 新しく書き上げられた第100回聖翔祭の「スタァライト」の台本に、第99回の再演に拘るななの心は揺れる。美しくも哀しい別れが待つこの戯曲に導かれる９人の舞台少女たち。ななの守ろうとする「あの日」と華恋とひかりの求める「未来」が舞台の上で交錯する。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33772999←前話｜次話→so33848642　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33811865
+  default_thread_id: 1536213363
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33811865.77140
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: されど舞台はつづく The Show Must Go On
+  description: "「私は負けてない」。主役の座を奪われレヴューで負けてなお、諦めず天堂真矢を追い続けてきた西條クロディーヌ。だが、その実力を誰よりもわかっているのは他ならぬ真矢だった。そしてオーディション最終日。キリンが提示した意外な形のレヴューとは。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33811865←前話｜次話→so33887762　第一話→so33511628"
+  length_seconds: 1444
+  content_id: so33848642
+  default_thread_id: 1536819965
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33848642.18526
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: わたしたちは
+  description: オーディションは終了し、ひかりはいなくなった。華恋は必死にひかりの姿を追い、7人の舞台少女たちもまた大きな喪失感を抱く。ひかり不在のまま、近づいてくる聖翔祭の本番。運命の相手を探し続ける華恋は、ひかりが消えた真実を「スタァライト」の中に見つける。<br><br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+    輝／花柳香子:伊藤彩沙<br><br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生<br><br>©
+    Project Revue Starlight<br><br>so33848642←前話｜次話→　第一話→so33511628
+  length_seconds: 1444
+  content_id: so33887762
+  default_thread_id: 1537427163
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33887762
+cast: "[キャスト]<br>愛城華恋:小山百代／神楽ひかり:三森すずこ／天堂真矢:富田麻帆／星見純那:佐藤日向／露崎まひる:岩田陽葵／大場なな:小泉萌香／西條クロディーヌ:相羽あいな／石動双葉:生田
+  輝／花柳香子:伊藤彩沙"
+staff: "[スタッフ]<br>監督:古川知宏／音楽:藤澤慶昌・加藤達也／シリーズ構成:樋口達人／キャラクターデザイン:齊田博之／副監督:小出卓史／プロップデザイン:高倉武史・谷紫織／グラフィックデザイン:濱祐斗・山口真生"
+produced_year: "[製作年]<br>2018年"
+copyright: "© Project Revue Starlight"
+related_seasons: !ruby/array:Hashie::Array []

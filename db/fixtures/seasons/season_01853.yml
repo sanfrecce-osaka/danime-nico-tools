@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: 鉄腕アトム ～地球最後の日～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/0/11460_1_6.png?1427216400000
+outline: 宇宙に浮ぶゴミの星からひん死の脱走ロボット兵士・ベムを助けたアトム。アトムとべムのあいだに、あたたかい友情が生まれ、深まってゆく。しかしある日、ゴミの星が突然地球にせまってくる。たった１つだけの地球への激突を避ける方法。でもそれは…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 西村知道
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝田久
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水マリ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：森田真由美
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: 鉄腕アトムシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 川添恵
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 鉄腕アトム ～地球最後の日～
+  description: 地球爆発の危機！この星を救う方法はたった一つ。しかし、その方法は…。この星と、仲間との友情を守るために今、アトムが立ち上がる。<br><br>アトム:清水マリ／お茶の水博士:勝田久／ベム:玉川沙己子／タワシ:西村知道<br><br>監督・キャラクターデザイン・作画監督:西田正義／脚本:森田真由美／美術監督:斎藤雅巳／色彩設計:川添恵
+  length_seconds: 900
+  content_id: so33473672
+  default_thread_id: 1530752178
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473672
+cast: "[キャスト]<br>アトム:清水マリ／お茶の水博士:勝田久／ベム:玉川沙己子／タワシ:西村知道"
+staff: "[スタッフ]<br>監督・キャラクターデザイン・作画監督:西田正義／脚本:森田真由美／美術監督:斎藤雅巳／色彩設計:川添恵"
+produced_year: "[製作年]<br>2001年"
+copyright: "(C)手塚プロダクション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム（1980）
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム 特別編：輝ける地球 ～あなたは青く、美しい…～
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム ～特別編：アトム誕生の秘密～
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム 特別編：イワンの惑星 ～ロボットと人間の友情～
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム 青騎士の巻

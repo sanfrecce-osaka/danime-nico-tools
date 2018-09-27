@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: しにがみのバラッド。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/01/9/20019_1_6.png?1427216400000
+outline: 真っ白い死神“モモ”は仕え魔である黒猫“ダニエル”を携え、人間の魂を運ぶのが仕事です。でも優しい“モモ”は人間に少しだけおせっかいを働いてしまいます。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 清水愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林晃子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：望月智充
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ハセガワケイスケ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: きみのこえ。
+  description: 公太は病弱な麻衣のことを心配して、いつも一緒に登下校している。ある日、捨てられている子猫を見つけた二人は神社でこっそりと飼い始める。最初は面倒に思っていた公太も、麻衣から子猫の“お父さん”と言われて責任を感じていた。しかし、それまで頻繁に遊んでいた男友達と疎遠になってしまった公太は、久しぶりの誘いを断れず、麻衣一人に子猫の世話を任せてしまう・・・。<br><br>声の出演:小林晃子、清水愛<br><br>原作:ハセガワケイスケ／監督:望月
+    智充<br><br>次話→so31971731
+  length_seconds: 1454
+  content_id: so31971730
+  default_thread_id: 1506064556
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971730
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: さかなのころ。
+  description: 高校生の水月は夜の学校のプールに忍び込んでいた。水面に体を浮かべて、亡き姉に思いを馳せていたのだ。その時、クラスメイトの豊花もプールに忍び込んでいた。しかも、プールにピラニアを放った！と打ち明ける。翌日のプールの授業はもちろん中止。犯人であることを黙っていてくれる水月と秘密を共有することになった豊花は、水月に惹かれてゆく。その想いを水月に伝えるのだが・・・。<br><br>声の出演:小林晃子、清水愛<br><br>原作:ハセガワケイスケ／監督:望月
+    智充<br><br>so31971730←前話｜次話→so31971766　第一話→so31971730
+  length_seconds: 1454
+  content_id: so31971731
+  default_thread_id: 1506064633
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971731
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ひかりのかなた。
+  description: カンタロウは高校受験を控えた夏休みだというのに、補習授業をサボって旅に出ようとしていた。しかし、クラス委員で幼馴染のトマトに見つかってしまったカンタロウは、亡くなった祖父との約束を果たす為だと説明する。いつもなら聞く耳を持たないトマトだが、どういう訳か一緒について行くと言い出した。二人は電車を乗り継ぎ祖父の田舎へと向かうが、たどり着く前に日が暮れてしまう。<br><br>声の出演:小林晃子、清水愛<br><br>原作:ハセガワケイスケ／監督:望月
+    智充<br><br>so31971731←前話｜次話→so31971767　第一話→so31971730
+  length_seconds: 1454
+  content_id: so31971766
+  default_thread_id: 1506064682
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971766
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: あきのまほう。
+  description: 母親を亡くした中学生の千秋は、家事や弟の冬樹の面倒で忙しい毎日を送っていた。ある日、父親が出張で家を数日空けることになった。二人きりになった家で、千秋は弟の冬樹から妙な事を聞く。白い姿をして、黒い猫を連れた死神が遊びに来るというのだ。弟の言葉に不吉な感覚が千秋の脳裏をよぎる。それは母親が亡くなる前に自分に語った死神の姿とよく似ていたからだ・・・。<br><br>声の出演:小林晃子、清水愛<br><br>原作:ハセガワケイスケ／監督:望月
+    智充<br><br>so31971766←前話｜次話→so31971768　第一話→so31971730
+  length_seconds: 1454
+  content_id: so31971767
+  default_thread_id: 1506064822
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971767
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ほたるのひかり。
+  description: 中学年の宮崎エコは夜の学校に忍び込み、肝試しに来る小学生を待ち構えていた。というのも、近頃この学校に女性の幽霊が出るという噂が広まっていたからだ。計画通り、小学生たちを驚かして追い返したエコ。しかし、警備員の気配が近づいてきた。逃げようとするが、スカートが金網に引っ掛かってしまい動けない。絶体絶命のエコの前に、猫を連れた一人の少年が現れた。<br><br>声の出演:小林晃子、清水愛<br><br>原作:ハセガワケイスケ／監督:望月
+    智充<br><br>so31971767←前話｜次話→so31971769　第一話→so31971730
+  length_seconds: 1454
+  content_id: so31971768
+  default_thread_id: 1506065024
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971768
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: こころのたび。
+  description: 桜はいつものように学校で友達と何気ない会話を交わしていた。しかし、まわりの様子がいつもと違うことに気付く。学食で昼食を取る気にもなれず、音楽室へ足を運ぶ桜。そこにはピアノを弾く憧れの先輩の姿があったのだが、桜を無視して先輩は音楽室を出て行ってしまった。ショックに沈む桜。その時、脳裏に数日前の学校での出来事がよみがえってくる。<br><br>声の出演:小林晃子、清水愛<br><br>原作:ハセガワケイスケ／監督:望月
+    智充<br><br>so31971768←前話　第一話→so31971730
+  length_seconds: 1439
+  content_id: so31971769
+  default_thread_id: 1506065004
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971769
+cast: "[キャスト]<br>声の出演:小林晃子、清水愛"
+staff: "[スタッフ]<br>原作:ハセガワケイスケ／監督:望月 智充"
+produced_year: "[製作年]<br>2006年"
+copyright: "（C)ハセガワケイスケ/メディアワークス・ポニーキャニオン"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/2/10202_1_6.png?1427216400000
+outline: あの大冒険から3年後,ラムネは中学生となりハラハラワールドのことも忘れてしまっまっていた。しかし,突如ミルクが現れ,謎の鉄仮面が命を狙ってくる。アララ王国は大きな危機にさらされていた。今こそ勇者ラムネス復活のとき。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 音楽：りゅうてつし
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菅沼栄治
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：松井忠重
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：隅沢克之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：斎藤卓也
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：ますなりこうじ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ますなりこうじ
+  type: staff
+- !ruby/hash:TagHash
+  name: NG騎士ラムネ&40シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 田中英行
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1991年
+  type: other
+- !ruby/hash:TagHash
+  name: 伊東岳彦
+  type: other
+- !ruby/hash:TagHash
+  name: ますなりこうじ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ビクビクトライアングル愛の嵐大作戦1
+  title: 愛ふたたび
+  description: 草尾毅:ラムネ／横山智佐:ミルク／玉川紗己子:ココア／神代知衣:タマQ／飯塚昭三:妖神ゴブーリキ／矢尾一樹:ダ・サイダー／TARAKO:ヘビメタコ<br><br>監督:ますなりこうじ／演出:ますなりこうじ／絵コンテ:ますなりこうじ／企画:佐藤俊彦／脚本:隅沢克之／キャラクター原案:伊東岳彦／オリジナル・アニメーション・キャラクターデザイン:斎藤卓也／キャラクターデザイン:菅沼栄治／メカデザイン:中原レイ／音楽:松井忠重,りゅうてつし／音響監督:田中英行<br><br>次話→so32145892
+  length_seconds: 1747
+  content_id: so32145891
+  default_thread_id: 1508746536
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145891
+- !ruby/hash:EpisodeHash
+  episode_no: ビクビクトライアングル愛の嵐大作戦2
+  title: 愛流されて
+  description: 草尾毅:ラムネ／横山智佐:ミルク／玉川紗己子:ココア／神代知衣:タマQ／飯塚昭三:妖神ゴブーリキ／矢尾一樹:ダ・サイダー／TARAKO:ヘビメタコ<br><br>監督:ますなりこうじ／演出:ますなりこうじ／絵コンテ:ますなりこうじ／企画:佐藤俊彦／脚本:隅沢克之／キャラクター原案:伊東岳彦／オリジナル・アニメーション・キャラクターデザイン:斎藤卓也／キャラクターデザイン:菅沼栄治／メカデザイン:中原レイ／音楽:松井忠重,りゅうてつし／音響監督:田中英行<br><br>so32145891←前話｜次話→so32145943　第一話→so32145891
+  length_seconds: 1761
+  content_id: so32145892
+  default_thread_id: 1508746532
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145892
+- !ruby/hash:EpisodeHash
+  episode_no: ビクビクトライアングル愛の嵐大作戦3
+  title: 愛は勝つ
+  description: 草尾毅:ラムネ／横山智佐:ミルク／玉川紗己子:ココア／神代知衣:タマQ／飯塚昭三:妖神ゴブーリキ／矢尾一樹:ダ・サイダー／TARAKO:ヘビメタコ<br><br>監督:ますなりこうじ／演出:ますなりこうじ／絵コンテ:ますなりこうじ／企画:佐藤俊彦／脚本:隅沢克之／キャラクター原案:伊東岳彦／オリジナル・アニメーション・キャラクターデザイン:斎藤卓也／キャラクターデザイン:菅沼栄治／メカデザイン:中原レイ／音楽:松井忠重,りゅうてつし／音響監督:田中英行<br><br>so32145892←前話　第一話→so32145891
+  length_seconds: 1744
+  content_id: so32145943
+  default_thread_id: 1508746825
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145943
+cast: "[キャスト]<br>草尾毅:ラムネ／横山智佐:ミルク／玉川紗己子:ココア／神代知衣:タマQ／飯塚昭三:妖神ゴブーリキ／矢尾一樹:ダ・サイダー／TARAKO:ヘビメタコ"
+staff: "[スタッフ]<br>監督:ますなりこうじ／演出:ますなりこうじ／絵コンテ:ますなりこうじ／企画:佐藤俊彦／脚本:隅沢克之／キャラクター原案:伊東岳彦／オリジナル・アニメーション・キャラクターデザイン:斎藤卓也／キャラクターデザイン:菅沼栄治／メカデザイン:中原レイ／音楽:松井忠重,りゅうてつし／音響監督:田中英行"
+produced_year: "[製作年]<br>1991年"
+copyright: "(c) PRODUCTION REED 1991"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: NG騎士ラムネ&40
+- !ruby/hash:SeasonHash
+  title: VS騎士ラムネ&40 炎
+- !ruby/hash:SeasonHash
+  title: VS騎士ラムネ&40FRESH
+- !ruby/hash:SeasonHash
+  title: NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦
+- !ruby/hash:SeasonHash
+  title: NG騎士ラムネ&40総集編

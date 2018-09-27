@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: 戦ー少女イクセリオン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/3/11143_1_6.png?1427216400000
+outline: 戯れのように文明を、生活を、星々を破壊し続ける、宇宙の絶対悪クロスとカオス。広い銀河の中でも彼らに対抗できるのは、イクセルスーツを身にまとうイクセリオンだけだ！人類の未来はイクセルによって選ばれた４人の美少女達に託された！時空を突き抜ける、アクションにつぐアクション！渚よ、なみよ、きいろよ、可愛よ、恐怖にうち勝ち今こそ叫べ、「チャージング！」と！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 篠原恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 白鳥由里
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀川りょう
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：平野俊弘
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平野俊弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：平野俊弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 地球人をなめんなよ！
+  description: 銀河のとある惑星が、クロスと戦闘ギアによって文明の終焉に直面させられていた。その人類の最後の一人・イクセリオンは薄れかけた意識を振り絞ってクロスを睨み付けていた。「必ずや、宇宙の同士がお前を倒す！」……そして、彼らは地球にやってきた。だが、人間を助ける戦闘スーツ・イクセルが選んだのは、ただの高校生・甲斐渚だった……！？<br><br>甲斐渚（イクセリオン）:白鳥由里／椎名なみ（ブラックイクセリオン）:冬馬由美／飯島きいろ（ゴールドイクセリオン）:西村ちなみ／河合可愛（シルバーイクセリオン）:天野由梨／イクセル:野沢雅子／異星のイクセリオン:篠原恵美／カオス:堀川りょう／クロス:平松晶子<br><br>原作・監督・脚本・絵コンテ:平野俊弘／キャラクターデザイン:平野俊弘、西井正典／メカデザイン:橋本敬史／デザインワークス:森木靖泰／作画監督:西井正典、橋本敬史、別所誠人／美術監督:加藤浩／撮影監督:佐藤均／音響監督:松岡裕紀／アニメーション制作:AIC<br><br>次話→so32230870
+  length_seconds: 1770
+  content_id: so32230871
+  default_thread_id: 1510024642
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230871
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 大切なものを守って！
+  description: ブラック・ゴールド・シルバーと3人のイクセリオンにも助けられ、渚はなんとかイクセリオンとして最初の敵を撃退した。だが、渚の恐怖心は大きくなるばかりであった。説得のため、河合可愛が渚の高校を訪ねた。そこへクロスの魔手が襲う。逃げ惑う生徒たちが傷つけられていく。怒りが、自らの使命を渚に自覚させた…「…チャージング！」<br><br>甲斐渚（イクセリオン）:白鳥由里／椎名なみ（ブラックイクセリオン）:冬馬由美／飯島きいろ（ゴールドイクセリオン）:西村ちなみ／河合可愛（シルバーイクセリオン）:天野由梨／イクセル:野沢雅子／異星のイクセリオン:篠原恵美／カオス:堀川りょう／クロス:平松晶子<br><br>原作・監督・脚本・絵コンテ:平野俊弘／キャラクターデザイン:平野俊弘、西井正典／メカデザイン:橋本敬史／デザインワークス:森木靖泰／作画監督:西井正典、橋本敬史、別所誠人／美術監督:加藤浩／撮影監督:佐藤均／音響監督:松岡裕紀／アニメーション制作:AIC<br><br>so32230871←前話　第一話→so32230871
+  length_seconds: 1531
+  content_id: so32230870
+  default_thread_id: 1510024497
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230870
+cast: "[キャスト]<br>甲斐渚（イクセリオン）:白鳥由里／椎名なみ（ブラックイクセリオン）:冬馬由美／飯島きいろ（ゴールドイクセリオン）:西村ちなみ／河合可愛（シルバーイクセリオン）:天野由梨／イクセル:野沢雅子／異星のイクセリオン:篠原恵美／カオス:堀川りょう／クロス:平松晶子"
+staff: "[スタッフ]<br>原作・監督・脚本・絵コンテ:平野俊弘／キャラクターデザイン:平野俊弘、西井正典／メカデザイン:橋本敬史／デザインワークス:森木靖泰／作画監督:西井正典、橋本敬史、別所誠人／美術監督:加藤浩／撮影監督:佐藤均／音響監督:松岡裕紀／アニメーション制作:AIC"
+produced_year: "[製作年]<br>1995年"
+copyright: "©平野俊弘事務所／Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

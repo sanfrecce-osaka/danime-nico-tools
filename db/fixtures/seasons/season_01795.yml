@@ -1,0 +1,229 @@
+--- !ruby/hash:SeasonHash
+title: レンタルマギカ[TVシリーズ]
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/5/10615_1_6.png?1427216400000
+outline: ケルト魔法、陰陽道、神道、ソロモン王の魔神、密教など、古今東西に実在する魔法が激しく火花を散らす!高校生の主人公・伊庭いつきは父の遺した会社｢アストラル｣を継ぐことになるが、その会社とはお客の依頼にあった魔法使いを貸し出す｢魔法使い派遣会社｣。社員の魔法使いたちと共に数々の敵と戦ういつきの前に立ちはだかるのは---!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: 魔法使い､貸します
+  description: 依頼人の要望にあった魔法使いを貸し出す会社〈アストラル〉。高校生で社長を務める伊庭いつき、そのクラスメイト功刀翔子が七年前に失踪した先代社長、いつきの父の名刺を頼って、ここを訪れた。彼女の唯一の肉親である祖父が、神隠しにでもあったかのように姿を消したらしい。いつきたちはさっそく調査に乗り出すが…。<br><br>次話→so31879991
+  length_seconds: 1516
+  content_id: so31879990
+  default_thread_id: 1504721230
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879990
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: 魔女の誓い
+  description: いつきの前に強大な魔術結社〈ゲーティア〉の首領、アディリシアが現れ、いつきたちに次の仕事から手を引かせようとする。どうにかアディリシアを退かせた穂波はその夜、一人で仕事へと赴く。現場はごく微量の呪波汚染が存在する、空き地のはずだったが、そこには、霧に包まれた洋館が現れていた…。<br><br>so31879990←前話｜次話→so31879992　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31879991
+  default_thread_id: 1504721203
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879991
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: 神々の禊ぎ
+  description: 蔵名神社を守るため、神主である御凪鎬に審神者（さにわ）を貸してほしいという依頼をされた〈アストラル〉。いつき達は蔵名神社を訪れるが、そこには十年前の神降ろしの失敗により、年を取らずに眠り続けている鎬の兄、諸刃がいた。神降ろしを成功させる為、葛城みかんが危険な依頼に立ち向かうのであった。<br><br>so31879991←前話｜次話→so31879993　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31879992
+  default_thread_id: 1504721201
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879992
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: ひとりじゃないから
+  description: 前回の事件で足を骨折し入院したいつきは、同室の黒羽まなみという少女と友だちになる。しかしこの病院は〈協会〉が入札にかけていた呪波汚染の現場であった。〈アストラル〉は、病院で元凶を捜索するが、特定できないまま"魔術の夜（マギ・ナイト）"が訪れてしまう…。<br><br>so31879992←前話｜次話→so31879994　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31879993
+  default_thread_id: 1504721199
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879993
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: 魔術の夜(マギ・ナイト)
+  description: いつきが社長になってから実績のない〈アストラル〉は、〈協会〉から登録抹消を勧告されてしまう。登録を継続するために入札した仕事には、なぜか〈ゲーティア〉も競走入札しているのだった。『夜』が始まり、行動を開始した二つの結社。猫屋敷の解析によればこの『夜』は、裏に何者かの魔法が関わっているらしい…。<br><br>so31879993←前話｜次話→so31879995　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31879994
+  default_thread_id: 1504721219
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879994
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 妖精眼(グラムサイト)
+  description: "『夜』の原因をつぶすことができず、いつきたちは引き続き事件を追う。〈協会〉は〈ゲーティア〉の犯したタブーが『夜』の原因だとアディリシアを問いつめるが、いつきはそれを制した。さらに彼は、アディリシアに共同作戦を提案する。そして遊園地で待機するいつきたちの前に、『夜』の原因となった、ある男が現れた…。<br><br>so31879994←前話｜次話→so31880038　第一話→so31879990"
+  length_seconds: 1520
+  content_id: so31879995
+  default_thread_id: 1504721197
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879995
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 赤い髪の少女
+  description: いつきは道端で、緑の血を流していたホムンクルスの少女―ラピスと出会った。彼女はしばらくすると、ふと「また来る」と言い残し去っていった。去り際のラピスに名刺を渡し、いつきが事務所へ戻ると、そこに別れたはずのラピスの姿が。彼女は兄の言いつけで、伝説の魔獣バジリスクの瞳が欲しいというのだが…。<br><br>so31879995←前話｜次話→so31880039　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31880038
+  default_thread_id: 1504722388
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880038
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 温泉魔法
+  description: 月明かりの下、気持ちよさそうに湯に浸かる黒羽や穂波たち…。〈アストラル〉社員とアディリシアは、いつきの目を治療するため温泉に来ていた。ところが、この温泉では効果が薄いらしい。穂波とアディリシアは魔法で別の温泉を探すが、失敗が続くうちに勝負へと発展していく。もはや、目的を忘れているような…！？<br><br>so31880038←前話｜次話→so31880040　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880039
+  default_thread_id: 1504722399
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880039
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: 父を継ぐ者
+  description: 影崎が持ってきた伊庭司の遺産だというアタッシュケース。しかし、いつきの遺産相続に異を唱える者、ラピスが兄と慕う錬金術士、“ユーダイクス・トロイデ”が現れる。彼はかつて〈アストラル〉に在籍し、経営権の二割を司から譲り受けていた。司の遺産を継承するべく、彼はいつきに魔術決闘（フェーデ）を持ちかける。<br><br>so31880039←前話｜次話→so31880041　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31880040
+  default_thread_id: 1504722432
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880040
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: ホムンクルスの涙
+  description: バジリスクの瞳の力を得たラピスに苦戦するいつきたち。彼らの危機を救ったのは、ユーダイクスから死んだと告げられていたアディリシアだった。同じ頃、捕らえられた穂波は遺産の秘密、そして彼の正体を知る。アディリシアからユーダイクスの正体を聞いたいつきたちは、穂波を助けるため最後の魔術決闘に臨む<br><br>so31880040←前話｜次話→so31880042　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880041
+  default_thread_id: 1504722425
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880041
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: 死者に咲く花
+  description: 先代から付き合いのあった呪物調達会社〈トリスメギストス〉の取締役社長“ディアナ”から「冬虫夏草」の採取を依頼され、いつきと黒羽、穂波は墓地へと向かう。依頼品を見つけた〈アストラル〉の面々は、そこで"李青鳳"と名乗る男と遭遇し、「冬虫夏草」の苗が、先代〈アストラル〉やディアナに盗まれたと言われるが…。<br><br>so31880041←前話｜次話→so31880043　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880042
+  default_thread_id: 1504722397
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880042
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: 聖夜に捧げるレクイエム
+  description: 年末の挨拶に訪れていたディアナから、いつきが「女の子が喜ぶプレゼントは何か」という質問をしていたことを知る穂波と黒羽。一方、アディリシアも〈ゲーティア〉の家令である“フネ”らいつきの話を聞き、外へ飛び出した。いつきを捜していた穂波は、途中アディリシアと鉢合わせ、二人でいつきを尾行する。<br><br>so31880042←前話｜次話→so31880044　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880043
+  default_thread_id: 1504722264
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880043
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: 入信儀礼
+  description: 幼少のアディリシアは丘の上で見覚えのある同い歳の少女を見かけた。それは以前「ケルト魔術をマスターする」と言い、同級生にからかわれていた穂波という少女だった。アディリシアと、穂波。二人は図書館で最悪の出会いを果たす。しかし、そんな二人が翌日の「入信儀礼」でペアになってしまい…。<br><br>so31880043←前話｜次話→so31880045　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31880044
+  default_thread_id: 1504722401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880044
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: 星のキオク
+  description: "〈協会〉からの紹介できたという“動圭”彼はいつきに「星祭り」を行ってほしいと依頼をする。その話の最中に現れた猫屋敷は、圭を見るなり驚きを隠せないでいた。いつきは現場へと向かう途中、猫屋敷から圭は同じ流派の兄弟弟子だと知らされる。さらに猫屋敷は「独り言」と言い、ある話を語り始めた。<br><br>so31880044←前話｜次話→so31880046　第一話→so31879990"
+  length_seconds: 1422
+  content_id: so31880045
+  default_thread_id: 1504722284
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880045
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: 人魚の伝説
+  description: "〈アストラル〉社員たちとアディリシアは、慰安旅行で海へとやって来た。海へ来ても壮絶な争いを繰り広げた穂波とアディリシアは早々にダウン。その間にいつきと黒羽は御凪鎬の「船魂」という人形を本来祀られるべき場所へ戻すという依頼をこなそうとする。しかし、船魂を供えた途端、いつきたちは霧に飲み込まれてしまう。<br><br>so31880045←前話｜次話→so31880047　第一話→so31879990"
+  length_seconds: 1421
+  content_id: so31880046
+  default_thread_id: 1504722430
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880046
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: 赤い槍
+  description: 山の中でトレーニングに励む最中、いつきは悪霊「ラルヴァ」の見せる悪夢にとりつかれる。その危機を救ったのは、真言密教を使用する“隻蓮”という男だった。何と彼は〈アストラル〉の契約社員だという。彼の戦いを見たいつきは、隻蓮に体術を習うことに。しかしある日、彼はいつきを夜の寺に残し、去ってしまう…。<br><br>so31880046←前話｜次話→so31880048　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880047
+  default_thread_id: 1504722408
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880047
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: 魔神の反乱
+  description: 修行を積んでいたいつきの元にアディリシアを捜すダフネが訪ねてきた。いつきは、その日の帰り道、見知らぬ男に操られたフォルネウスに襲われる。次の瞬間、その男“ライヴ”追ってきたアディリシアが現れるが、魔神を奪われている彼女は抵抗する術がない。クライヴはそんな二人を嘲笑いながら去っていった。<br><br>so31880047←前話｜次話→so31880049　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31880048
+  default_thread_id: 1504722266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880048
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: ソロモンの絆
+  description: アディリシアを捜し、いつきの元を訪れたダフネ。イギリスで魔神喚起のための壺を奪った、元〈ゲーティア〉徒弟の“ライヴ”追うアディリシアは今、魔神を扱えない。そんな彼女の身を案じたダフネは同じ〈ゲーティア〉徒弟の"ガラ"と共に捜索を急ぐ。そんな折、なぜか隻蓮が半ば強引に協力を申し出てくるのだった。<br><br>so31880048←前話｜次話→so31880050　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880049
+  default_thread_id: 1504722769
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880049
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: 巫女の故郷
+  description: 猫屋敷と一緒にみかんが実家に帰ってから半月。事務所で帰りを待ついつきたちは、ふいに騒ぎ出した白虎の様子に何事かを感じ取る。いつきの電話に応じたみかんの祖母・鈴香は、みかんを〈アストラル〉へは返せないと言い、さらに猫屋敷も消息を絶っているという。いつきと穂波は、みかんの実家・葛城本家へと赴く。<br><br>so31880049←前話｜次話→so31880051　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31880050
+  default_thread_id: 1504722809
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880050
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: 鬼の祭り
+  description: 葛城の守り人・紫藤辰巳とともに鬼を追ういつきと穂波は、みかんの姉・葛城香と猫屋敷の二人と合流。しかし鈴香は、封印されていた鬼を復活させ、香をさらわせた。三年前の失敗を悔やむ辰巳は今度こそ香やみかんを救うと決意する。そんな中“鬼の祭り”は、みかんを人柱として最終段階を迎えようとしていた…。<br><br>so31880050←前話｜次話→so31880052　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880051
+  default_thread_id: 1504722820
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880051
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: 白と黒のドレス
+  description: 緊張の面持ちで〈アストラル〉を訪れたアディリシアは、穂波を見つけるといきなり求婚してきた。彼女の話によれば、不祥事続きで評価の落ちた〈ゲーティア〉の立場を守るため、魔術的な儀式としての結婚式を挙げるのだという。納得した社員たちが二人の結婚を祝い、準備が進められる中、いつきだけが納得できずにいた。<br><br>so31880051←前話｜次話→so31880053　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31880052
+  default_thread_id: 1504722775
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880052
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: 眠れる街
+  description: 公園でいつきとアディリシアは、木の上から助けを求める青年、フィンと出会う。〈アストラル〉へ招待されたフィンは、そこで穂波と再会。彼は穂波のケルト魔術の先輩だった。フィンは〈アストラル〉に禁忌を犯している嫌疑がかけられていること、そして自分が〈協会〉から監視役として派遣されたことをうち明ける。<br><br>so31880052←前話｜次話→so31880054　第一話→so31879990
+  length_seconds: 1422
+  content_id: so31880053
+  default_thread_id: 1504722773
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880053
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: 取り替え児(チェンジリング)
+  description: "〈アストラル〉で猫屋敷から“竜”について聞いたみかんと黒羽は事件の深刻さに気づき、いつきや穂波を探し始める。一方、フィンは〈協会〉の幹部たちに、監視役としての報告をしていた。その直後、彼の前に現れたアディリシアは、“竜”の真意をフィンに詰め寄るが、そこで彼女は穂波の抱える心の闇を知ることになる。<br><br>so31880053←前話｜次話→so31880055　第一話→so31879990"
+  length_seconds: 1435
+  content_id: so31880054
+  default_thread_id: 1504722824
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880054
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: アストラル
+  description: 自分を責め続ける穂波は、フィンと共に“竜”を生贄にする儀式を始めてしまう。しかし、抵抗する“竜”は理性なく隻蓮や猫屋敷に襲いかかる。猫屋敷は隻蓮達にその場を任せ、穂波といつきを取り戻すべくクリスタルタワーに向かう。アディリシアも合流し儀式を阻止しようとするが、フィンの前に、まるで歯が立たずにいた…。<br><br>so31880054←前話　第一話→so31879990
+  length_seconds: 1421
+  content_id: so31880055
+  default_thread_id: 1504722800
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880055
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)2007 三田誠・pako／角川書店／レンタルマギカ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

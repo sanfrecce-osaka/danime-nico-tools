@@ -1,0 +1,40 @@
+--- !ruby/hash:SeasonHash
+title: コロコロアニマル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/87/7/10877_1_6.png?1427216400000
+outline: コロコロアニマルは、丸い動物たちが主人公。ゾウもライオンもウシもパンダも、みんな丸くなって、コロコロ転がります。シンプルな色の対比で構成された自然の中を、シンプルな丸い動物たちがコロコロ転がり回る、デザイン的で、キュートな、ちょっと不思議な幼児・子供向け知育アニメーションです。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第20話
+  title: "｢コロッキーで1｣／｢コロパンダで2｣／｢コロブーで3｣／｢コロイノで4｣／｢コロリスで5｣／｢コロウマで6｣／｢コロニャンで7｣／｢コロミンゴで8｣／｢コロケロで9｣／｢コロチューで10｣／ほか"
+  description: コロコロアニマルは、丸い動物たちが主人公。ゾウもライオンもウシもパンダも、みんな丸くなって、コロコロ転がります。シンプルな色の対比で構成された自然の中を、シンプルな丸い動物たちがコロコロ転がり回る、デザイン的で、キュートな、ちょっと不思議な幼児・子供向け知育アニメーションです。<br><br>次話→so31966343
+  length_seconds: 1518
+  content_id: so31966342
+  default_thread_id: 1505987207
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966342
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話～第40話
+  title: "｢コロモーとあおいはな｣／｢コロコトリときいろいみ｣／｢コロゾウとチューリップ｣／｢コローカミとコロケロ｣／｢コロワンとゆきだるま｣／｢クロコロニャンとおかあさん｣／｢コロミンゴのダンス｣／｢コロゾウとオレンジのみ｣／｢コロモーとどろんこ｣／｢コロチューとぶどう｣／ほか"
+  description: コロコロアニマルは、丸い動物たちが主人公。ゾウもライオンもウシもパンダも、みんな丸くなって、コロコロ転がります。シンプルな色の対比で構成された自然の中を、シンプルな丸い動物たちがコロコロ転がり回る、デザイン的で、キュートな、ちょっと不思議な幼児・子供向け知育アニメーションです。<br><br>so31966342←前話｜次話→so31966344　第一話→so31966342
+  length_seconds: 1518
+  content_id: so31966343
+  default_thread_id: 1505987160
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966343
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話～第60話
+  title: "｢コロゾウのながいはな｣／｢コロケロのジャンプくらべ｣／｢コロイノのいもほり｣／｢コロケロのがっしょう｣／｢コロトリのあかちゃん｣／｢コロリスのふゆじたく｣／｢コロガルーのジャンプ｣／｢コロピョンのかわわたり｣／｢コロッキーとオレンジのき｣／｢コロワンのどろんこあそび｣／ほか"
+  description: コロコロアニマルは、丸い動物たちが主人公。ゾウもライオンもウシもパンダも、みんな丸くなって、コロコロ転がります。シンプルな色の対比で構成された自然の中を、シンプルな丸い動物たちがコロコロ転がり回る、デザイン的で、キュートな、ちょっと不思議な幼児・子供向け知育アニメーションです。<br><br>so31966343←前話　第一話→so31966342
+  length_seconds: 1517
+  content_id: so31966344
+  default_thread_id: 1505987234
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31966344
+produced_year: "[製作年]<br>2006年"
+copyright: "©2006 Naomi Iwata / Project ColoColoAnimal"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: ハッカドール THE あにめ～しょん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/3/20383_1_6.png?1444703398000
+outline: 悩める人類を捗らせるために生まれたパーソナルエンタメAI“ハッカドール”　ポンコツだけどどこか憎めない彼女たちが体を張っていろんな人のお悩みを解決！今日はアイドル！明日はコンビニ店員！明後日はエンジニア！お次はアニメ制作進行で…その次は魔法少女！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 柚木涼香
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下七海
+  type: cast
+- !ruby/hash:TagHash
+  name: 奥野香耶
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木美佑
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Creators in Pack
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：DIVE II entertainment
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：佐藤裕
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：げそいくお
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：げそいくお
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ハッカドールチーム
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第3話
+  title: パーソナルエンタメAI！ハッカドールです！／アイドルやらせてください！／そのためのハッカドールです
+  description: 第1話：正式なパーソナルエンタメAIとしてのデビューを目指すポンコツハッカドールの１号、２号、３号。しかし彼女たちはぐぅの音も出ないポンコツさ加減により、自らの身体を使って直接依頼人を捗らせる事になってしまう。／第2話：重複して仕事を取ってきてしまったとあるアイドル事務所のプロデューサー。そんな彼を捗らせる事を建前に、ハッカドールたちはアイドルデビューを目指して地下劇場のイベントの舞台に立つ。／第3話：会社の命運を握る一大プロジェクト。しかし、迫る納期に足りない予算、増えるバグと新システムの稼動は絶望的だ。失敗すれば会社が傾くそのプロジェクトに、遂にハッカドールが投入される――<br><br>ハッカドール1号:高木美佑／ハッカドール2号:奥野香耶／ハッカドール3号:山下七海／ハッカドール4号:上田麗奈／ハッカドール0号:柚木涼香<br><br>原作:ハッカドールチーム（DeNA）／監督・キャラクターデザイン:げそいくお／シリーズ構成:真衣沢かなと／脚本:佐藤裕（TRIGGER）／音楽制作:DIVE
+    II entertainment／制作スタジオ:Creators in Pack／制作協力:TRIGGER／製作:ハッカドール THE あにめ～しょん製作委員会<br><br>次話→so32221038
+  length_seconds: 1412
+  content_id: so32220980
+  default_thread_id: 1509871229
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32220980
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話～第6話
+  title: 先にシャワー浴びてきなよ／４号はダテじゃない！／思い出のナーニー
+  description: 第4話：DTをこじらせた依頼人を捗らせる事になった２号は、必死でピュアなDTにトキメキに似た何かを感じてしまう。夕陽とムーディーな雰囲気も相まって、２人の気持ちも次第に捗っていき……／第5話：一向に改善しないハッカドールたちに対し、遂に最新型のハッカドール４号がロールアウトされる。オーバーなスペックを持った４号がポンコツハッカドールたちにテコ入れを開始する！？／第6話：電脳空間で深刻なバグが発生し、ハッカドールたちは混乱に陥っていた。手や足など身体にその傷が刻まれ、大切なナニかをも失ってしまう。そんな中、呼び出し音が響き、比較的まともに見える３号が１人で捗らせに行くことになり……<br><br>ハッカドール1号:高木美佑／ハッカドール2号:奥野香耶／ハッカドール3号:山下七海／ハッカドール4号:上田麗奈／ハッカドール0号:柚木涼香<br><br>原作:ハッカドールチーム（DeNA）／監督・キャラクターデザイン:げそいくお／シリーズ構成:真衣沢かなと／脚本:佐藤裕（TRIGGER）／音楽制作:DIVE
+    II entertainment／制作スタジオ:Creators in Pack／制作協力:TRIGGER／製作:ハッカドール THE あにめ～しょん製作委員会<br><br>so32220980←前話｜次話→so32221085　第一話→so32220980
+  length_seconds: 1412
+  content_id: so32221038
+  default_thread_id: 1509871529
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32221038
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話～第9話
+  title: KUROBAKO／なんかメインヒロインっぽい／オレをとめられるのは火曜の定期メンテだけだ
+  description: 第7話：どこでも寝れる屈強な制作進行に混じってアニメ制作を捗らせる事になったハッカドールたちは、理想と現実のギャップに苦しんでいた。KUROBAKOの白箱を作るまで――納品するまで身を粉にして働き続けるのだ。／第8話：言葉も通じない「異国の少女」の観光を手伝うハッカドールたち。微妙なジェスチャーを使いつつ、ハッカドールのオススメスポットを巡る。しかし、少女にはどうしても行きたい場所があるようで……／第9話：ネットゲームに没頭する人物を救うため、ハッカドールたちはゲームの世界へ飛び込んでいく。広大なフィールドを冒険し、仲間と出会い、家族の愛を知り、一人の男がリアルへ帰還する。<br><br>ハッカドール1号:高木美佑／ハッカドール2号:奥野香耶／ハッカドール3号:山下七海／ハッカドール4号:上田麗奈／ハッカドール0号:柚木涼香<br><br>原作:ハッカドールチーム（DeNA）／監督・キャラクターデザイン:げそいくお／シリーズ構成:真衣沢かなと／脚本:佐藤裕（TRIGGER）／音楽制作:DIVE
+    II entertainment／制作スタジオ:Creators in Pack／制作協力:TRIGGER／製作:ハッカドール THE あにめ～しょん製作委員会<br><br>so32221038←前話｜次話→so32221086　第一話→so32220980
+  length_seconds: 1412
+  content_id: so32221085
+  default_thread_id: 1509872063
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32221085
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話～第13話
+  title: 温泉に行こう！／声優警察出動だ！／魔法少女Lovely Hurt♥／ハッカドールにコミケもおまかせですっ
+  description: 第10話：雪山の温泉付きペンションへとやってきたハッカドールたち。初めての温泉に心も身体もリラックスした時間を過ごしていた。だが、ペンションに不吉な予告状が届き、事態はあらぬ方向へと進んでいく。／第11話：声優の誕生日イベントで最高のプレゼントを渡すためにリサーチを開始するハッカドールたち。そして当日、依頼人は苦労の末に手に入れたプレゼントを直接手渡ししようと試みるが――／第12話：週末、さわやかな日曜の朝。子供たちの憧れ『魔法少女』を捗らせる事になったが、この街の魔法少女と怪人たちは一味も二味も違っており、ハッカドールたちは苦戦を強いられることになる。／第13話：ついに訪れた年末の一大イベント『コミックマーケット』。サークル活動をする者や薄い本を買い漁る物。多くの人たちが捗ることを求め、ハッカドールは真の力に目覚める。<br><br>ハッカドール1号:高木美佑／ハッカドール2号:奥野香耶／ハッカドール3号:山下七海／ハッカドール4号:上田麗奈／ハッカドール0号:柚木涼香<br><br>原作:ハッカドールチーム（DeNA）／監督・キャラクターデザイン:げそいくお／シリーズ構成:真衣沢かなと／脚本:佐藤裕（TRIGGER）／音楽制作:DIVE
+    II entertainment／制作スタジオ:Creators in Pack／制作協力:TRIGGER／製作:ハッカドール THE あにめ～しょん製作委員会<br><br>so32221085←前話　第一話→so32220980
+  length_seconds: 1883
+  content_id: so32221086
+  default_thread_id: 1509872368
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32221086
+cast: "[キャスト]<br>ハッカドール1号:高木美佑／ハッカドール2号:奥野香耶／ハッカドール3号:山下七海／ハッカドール4号:上田麗奈／ハッカドール0号:柚木涼香"
+staff: "[スタッフ]<br>原作:ハッカドールチーム（DeNA）／監督・キャラクターデザイン:げそいくお／シリーズ構成:真衣沢かなと／脚本:佐藤裕（TRIGGER）／音楽制作:DIVE
+  II entertainment／制作スタジオ:Creators in Pack／制作協力:TRIGGER／製作:ハッカドール THE あにめ～しょん製作委員会"
+produced_year: "[製作年]<br>2015年"
+copyright: "©DeNA／ハッカドール THE あにめ～しょん製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

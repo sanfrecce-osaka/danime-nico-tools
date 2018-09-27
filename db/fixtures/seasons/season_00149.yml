@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: 宇宙円盤大戦争
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/2/21922_1_6.png?1512981043000
+outline: 地球を守る宇宙人と攻撃をかける宇宙人との対決を中心に、ガッタイガーという無敵のマシーン、そして宇宙の悲劇的なロマンスを幻想的な世界に描く。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 小原乃梨子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松島みのり
+  type: cast
+- !ruby/hash:TagHash
+  name: ささきいさお
+  type: cast
+- !ruby/hash:TagHash
+  name: 久松保夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：菊池俊輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：芹川有吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1975年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 宇宙円盤大戦争
+  description: 地球を守る宇宙人と攻撃をかける宇宙人との対決を中心に、ガッタイガーという無敵のマシーン、そして宇宙の悲劇的なロマンスを幻想的な世界に描く。<br><br>大介:ささきいさお／テロンナ:小原乃梨子／源蔵:久松保夫／ブラッキー:内海賢二／ひかり:松島みのり<br><br>原作:永井豪／監督:芹川有吾／脚本:上原正三／音楽:菊池俊輔／撮影:清水政夫・武井利晴
+  length_seconds: 1786
+  content_id: so32487643
+  default_thread_id: 1514363079
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32487643
+cast: "[キャスト]<br>大介:ささきいさお／テロンナ:小原乃梨子／源蔵:久松保夫／ブラッキー:内海賢二／ひかり:松島みのり"
+staff: "[スタッフ]<br>原作:永井豪／監督:芹川有吾／脚本:上原正三／音楽:菊池俊輔／撮影:清水政夫・武井利晴"
+produced_year: "[製作年]<br>1975年"
+copyright: "©ダイナミック企画・東映アニメーション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+- !ruby/hash:SeasonHash
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボＧ　空中大激突
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボ
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対暗黒大将軍
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対デビルマン

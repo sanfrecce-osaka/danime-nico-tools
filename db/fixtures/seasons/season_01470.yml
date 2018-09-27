@@ -1,0 +1,153 @@
+--- !ruby/hash:SeasonHash
+title: 北斗の拳 ラオウ外伝 天の覇王
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/6/10066_1_6.png?1427216400000
+outline: 狂乱に堕し、与えられた平和をただむさぼっていた人類に、ついに鉄槌がくだされた。核の炎が世界全土を焼き尽くし、すべてのものは破壊し尽くされた。秩序も、人の心さえも塵となって風に散り、わずかに生き残った人々は、暗黒の世紀末を迎えた。そこは力がすべての世界。力こそが正義であり、力あるものがすべてを手に入れ、力なき者たちはただおびえるしかない時代であった。その世紀末の世に覇王たらんと一人の漢が立ち上がった。漢の名はラオウ。1800年もの長きに渡り営々と受け継がれてきた最強の暗殺拳・北斗神拳の使い手であり、北斗4兄弟の長兄。彼は、己の覇道を突き進むため自らを｢拳王｣と名乗り、近隣の軍閥をことごとく制圧していった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 北斗の拳シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: わが拳は天のため!
+  description: 人類が犯した過ちは、世界を核の炎に包み込んだ。荒れ果てた世界に一人の男が現れた。その男の名はラオウ。究極の暗殺拳・北斗神拳の使い手である彼は、世紀末覇者たらんと己の拳ひとつで立ち上がる。自らを拳王と名乗り、仲間であるソウガ、レイナと共に鬼王ゴラムの根城、鬼顔城を乗っ取る。拳王軍設立を高らかに宣言するラオウ。そして、彼の行動を不敵に笑う一人の女の姿があった・・・<br><br>次話→so31892345
+  length_seconds: 1451
+  content_id: so31892344
+  default_thread_id: 1504903420
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892344
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 王は王を知る!
+  description: 拳王軍の破竹の勢いは回りの王たちを震え上がらせた。ある者は戦い散り、ある者は白旗を揚げ降伏をした。そんな中、拳王精鋭部隊が智王ギオンの策略の前に全滅の報せを聞く。全滅させたのはギオン軍ではなく、漆黒の馬率いる千頭の馬たちであった。ラオウ自らソウガ、レイナを引きつれ黒王谷と呼ばれる場所へ向う。そこでラオウが見たものは・・・<br><br>so31892344←前話｜次話→so31892346　第一話→so31892344
+  length_seconds: 1450
+  content_id: so31892345
+  default_thread_id: 1504903367
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892345
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: われに落とせぬ城なし!
+  description: 黒金城に篭城した我王軍を攻略できずにいる拳王軍。苛立ちを隠せないラオウ達の前に突如一人の女が現れる。女の名はサクヤ。彼女は自分一人で黒鉄城を一晩で落として見せるとラオウに進言する。単身黒鉄城に乗り込むサクヤ。そしてソウガの指示の元、レイナも城に突入するが南斗隼牙拳の使い手ハバキの前に絶体絶命のピンチを迎えるレイナ。その時誰も予想だにしなかったことが起こる・・・<br><br>so31892345←前話｜次話→so31892347　第一話→so31892344
+  length_seconds: 1450
+  content_id: so31892346
+  default_thread_id: 1504903395
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892346
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: この拳、誰がために!
+  description: 新たに拳王軍軍師として加わったサクヤをまだ信用できないレイナとソウガ。そこへ何度処刑をしても死なない囚人が暴れているとギオンから知らせが入る。急ぎ監獄都市カサンドラへと向うラオウ、ソウガ、レイナ、そしてサクヤ。激しく暴れまわる大男ウイグルに向ってラオウがとった行動とは・・・監獄都市・カサンドラの恐怖伝説の幕が今開く。<br><br>so31892346←前話｜次話→so31892348　第一話→so31892344
+  length_seconds: 1451
+  content_id: so31892347
+  default_thread_id: 1504903422
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892347
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 相剋の兄弟!
+  description: ラオウの覇道を成就するためには、弟であるトキの力が必要だと諭すレイナ。彼女は自らトキの村へ説得に向うが、北斗神拳を医術として人のために使うトキにはレイナの説得は無駄に終わる。その時、ラオウ自らトキの目の前に現れる。トキは言う、｢暴力で人は支配できない｣と。ラオウはトキをカサンドラへ収容するよう命じる。そしてカサンドラで待ち受けていた獄長ウイグルがトキを出迎えるのだが・・・<br><br>so31892347←前話｜次話→so31892349　第一話→so31892344
+  length_seconds: 1451
+  content_id: so31892348
+  default_thread_id: 1504903340
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892348
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 鬼、目覚める!
+  description: トキの説得に失敗したラオウは、新たなる将を拳王軍に迎え入れるため、南斗の智将と呼ばれた南斗流鴎拳の使い手、リュウロウの元を尋ねる。しかし、リュウロウは拳でで人を支配するラオウではなく民衆の哀しみを背負う救世主・ケンシロウの味方になると進言する。そしてリュウロウはラオウに言う｢悔い改めろ｣と。己の甘さを痛感するラオウは、リュウロウを前にして、鬼へと変貌する。<br><br>so31892348←前話｜次話→so31892351　第一話→so31892344
+  length_seconds: 1451
+  content_id: so31892349
+  default_thread_id: 1504903392
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892349
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 蒼き狼、大地を駆る!
+  description: 巨大な鬼へと変貌を遂げたラオウの前に天狼凍牙拳のリュウガが立ちはだかる。鬼となったラオウの豹変ぶりと、新たに拳王軍の将として迎え入れられたリュウガを不信感を抱くソウガ。そこへ獅子王軍と雷帝軍が同時に拳王軍に攻め込みに来たと知らせが届く。獅子王軍征伐へ向うソウガとリュウガ。リュウガの冷酷な戦いぶりにソウガの怒りが爆発する。<br><br>so31892349←前話｜次話→so31892352　第一話→so31892344
+  length_seconds: 1451
+  content_id: so31892351
+  default_thread_id: 1504903339
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892351
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 慟哭、闇に響く!
+  description: ラオウの覇道のために誰かが鬼とならねばならない、その言葉に遂にソウガまでも鬼と変貌してしまう。ラオウ、ソウガの豹変ぶりに戸惑うレイナ。サザンクロスタウンの噂を聞き駆けつけるリュウガ、レイナ。彼らの前に一人の男が現れる、雲のジュウザ。彼の口から信じられないことを聞くリュウガ、｢妹ユリアが死んだ｣と。リュウガからその報せを聞いたラオウは・・・<br><br>so31892351←前話｜次話→so31892353　第一話→so31892344
+  length_seconds: 1450
+  content_id: so31892352
+  default_thread_id: 1504903375
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892352
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 女の戦い
+  description: ラオウの役に立とうとレイナは単独で南の新たな勢力へと僅かな兵を連れ偵察に赴く。しかしそこで待ち受けていた男、ダガールの罠にはまり、レイナは捕まってしまう。忠誠を誓わせようと拷問をかけようとするダガールとコマク。一方、鉄帝軍との戦いの最中、レイナが捕まったことを聞いたラオウは一人レイナの元へと愛馬・黒王号を走らせるのであった。<br><br>so31892352←前話｜次話→so31892354　第一話→so31892344
+  length_seconds: 1450
+  content_id: so31892353
+  default_thread_id: 1504903397
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892353
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 熱砂に砕ける拳!
+  description: 砂漠を根城とする冥王軍との戦いに苦戦していた拳王軍は、ソウガを先頭に砂漠の村へ潜入捜査を開始する。村への潜入に成功したソウガであったが、何者かの手により致命傷を受ける。後を追ったリュウガもまた同じように何者かの手によって致命傷を受ける。姿を見せずに敵を倒す拳法とは?その謎を解明すべくラオウはトキの元を訪れる。その頃、サクヤの下に一人の使いが現れる・・・<br><br>so31892353←前話｜次話→so31892367　第一話→so31892344
+  length_seconds: 1451
+  content_id: so31892354
+  default_thread_id: 1504903416
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892354
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 聖帝、現る!
+  description: 謀反の罪でカサンドラに収容されるサクヤ。サクヤの真意がつかめないレイナは直接カサンドラへと向かう。｢聖帝との和議が成り立ったときにお開けください｣と、サクヤはレイナに袋を渡す。いよいよ聖帝の領土に侵攻を開始するラオウ。和議が成り立った時、レイナから預かった袋の中を確かめるソウガ。そこにはソウガを慄然とさせる物が入っていた・・・果たしてサクヤは敵か、味方か?<br><br>so31892354←前話｜次話→so31892368　第一話→so31892344
+  length_seconds: 1451
+  content_id: so31892367
+  default_thread_id: 1504903523
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892367
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: いま墜つる拳王府!
+  description: 突如として拳王府の前に現れたユダ率いる聖帝精鋭部隊、一人城を守るレイナ率いる拳王軍との壮絶な戦いが始まった。怒りに燃えるラオウは拳王府へと疾風の如く黒王号を走らせる。一方、ユダの執拗な攻撃に苦しむレイナは裏切り者サクヤをカサンドラから呼び戻す。圧倒的形勢不利の中、レイナ、サクヤはラオウが来るまで持ちこたえられるのか?果たしてラオウは間に合うのか?<br><br>so31892367←前話｜次話→so31892369　第一話→so31892344
+  length_seconds: 1451
+  content_id: so31892368
+  default_thread_id: 1504903566
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892368
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: わが赴くは天の道!
+  description: 遂に拳王府の前でラオウ、サウザー両雄が対峙した。レイナ、サクヤの眼前で二人の男の戦いが始まる。北斗神拳 対 南斗鳳凰拳、二人の拳が交差する!壮絶な戦いの結末は!?ラオウの覇道はここで潰えるのか、最終決戦の幕が今開ける!一片の悔いなく生きた男ラオウの生き様を見よ!<br><br>so31892368←前話　第一話→so31892344
+  length_seconds: 1450
+  content_id: so31892369
+  default_thread_id: 1504904155
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892369
+produced_year: "[製作年]<br>2008年"
+copyright: "(c)長田悠幸・原哲夫・武論尊 2006 (c)天の覇王製作委員会 2008"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 北斗の拳
+- !ruby/hash:SeasonHash
+  title: 北斗の拳2
+- !ruby/hash:SeasonHash
+  title: 真救世主伝説 北斗の拳　ラオウ伝 殉愛の章
+- !ruby/hash:SeasonHash
+  title: 真救世主伝説 北斗の拳　ユリア伝
+- !ruby/hash:SeasonHash
+  title: 真救世主伝説 北斗の拳　ラオウ伝 激闘の章
+- !ruby/hash:SeasonHash
+  title: 真救世主伝説 北斗の拳　トキ伝
+- !ruby/hash:SeasonHash
+  title: 真救世主伝説 北斗の拳　ZERO ケンシロウ伝
+- !ruby/hash:SeasonHash
+  title: 蒼天の拳
+- !ruby/hash:SeasonHash
+  title: DD北斗の拳
+- !ruby/hash:SeasonHash
+  title: DD北斗の拳2 イチゴ味＋

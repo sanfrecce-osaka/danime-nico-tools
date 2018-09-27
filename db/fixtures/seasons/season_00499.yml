@@ -1,0 +1,43 @@
+--- !ruby/hash:SeasonHash
+title: この男子、宇宙人と戦えます。～僕らのセカイのまもり方～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/18/7/10187_1_6.png?1427216400000
+outline: セカイは突如、宇宙人の侵略にあった。ある日、丘の上で倒れていた記憶喪失の高校生カカシは、｢宇宙人臨時対策本部｣の職員・有川に拾われる。なぜか“セカイ”で唯一宇宙人と戦える力を秘めていたカカシは、能天気な有川とその上司である俺様系のシロに保護され、男三人の奇妙な共同生活が始まる。どこかにいるであろう両親や友人のために彼は今日も宇宙人と戦っている。そんなカカシをやさしく見守る有川。厳しくもカカシを気遣うシロ。アメとムチのような二人との暮らしに、カカシは戸惑いながらも馴染んでいく。しかし、カカシが戦う理由を失った時、事態は急変する。それぞれの想いがすれ違い、そして…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊永利行
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：山本蒼美
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: この男子、宇宙人と戦えます。～僕らのセカイのまもり方～
+  description: セカイは突如、宇宙人の侵略にあった。ある日、丘の上で倒れていた記憶喪失の高校生カカシは、｢宇宙人臨時対策本部｣の職員・有川に拾われる。なぜか“セカイ”で唯一宇宙人と戦える力を秘めていたカカシは、能天気な有川とその上司である俺様系のシロに保護され、男三人の奇妙な共同生活が始まる。どこかにいるであろう両親や友人のために彼は今日も宇宙人と戦っている。そんなカカシをやさしく見守る有川。厳しくもカカシを気遣うシロ。アメとムチのような二人との暮らしに、カカシは戸惑いながらも馴染んでいく。しかし、カカシが戦う理由を失った時、事態は急変する。それぞれの想いがすれ違い、そして…<br><br>カカシ:木村良平／有川:豊永利行／シロ:平川大輔<br><br>監督:山本蒼美
+  length_seconds: 1709
+  content_id: so31911777
+  default_thread_id: 1505204513
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911777
+cast: "[キャスト]<br>カカシ:木村良平／有川:豊永利行／シロ:平川大輔"
+staff: "[スタッフ]<br>監督:山本蒼美"
+produced_year: "[製作年]<br>2011年"
+copyright: "(c) Soubi Yamamoto/CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: この男子、魔法がお仕事です。
+- !ruby/hash:SeasonHash
+  title: この男子、人魚ひろいました。

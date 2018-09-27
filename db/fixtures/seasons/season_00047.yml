@@ -1,0 +1,74 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版あたしンち｢情熱のちょ～超能力♪ 母大暴走！｣
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/1/11091_1_6.png?1427216400000
+outline: タチバナ家のいつもの朝――。目覚まし時計のベルの音とともにガバッと起きた母。｢寝覚めのいい朝は、いい一日のはじまり～｣と、いつもより家事をテキパキとこなして超ゴキゲン!毎回真っ黒コゲの目玉焼きも、今日は会心の半熟ぐあい～！買い物での支払いも、小銭がピッタリ～～ッ!!あまりの調子の良さに｢何かいいコトありそう……｣とウキウキする母に、カミナリが直撃ッ!!そ・し・て、超能力を身につけちゃったッ♪その夜、父、みかん、ユズヒコの前で自慢げにスプーンを曲げる母。驚く家族にますます気分を良くした母は翌日からそのパワーを使って、そうじ、洗たく、料理もラックラク～!そんな姿に家族も最初は驚いていたが、そのうち超能力にも慣れてきて相手にされなくなってしまう。ならば人の役に立ちましょう！と、母は家族にナイショで正義のヒーロー“エスパーママン”にヘ～ンシンッ!!5百円玉を自販機の下に落としてしまった女子高生、自転車置き場の自転車が列ごと倒れて困っているおばあちゃん、道に迷ってライブに遅れそうなロック歌手。困っている人のところに颯爽と現れては助けて去って行く“エスパーママン”。そのぶん家事はおろそかになり、夕飯はスーパーで買ったお惣菜とご飯と味噌汁。家族の不満は大爆発ッ！みかんは、母がしているのは｢余計なことと、自分がラクしている事だけ｣と詰め寄った。皆を喜ばせたかっただけの母は大ショック！怒りと悲しみで無意識のうちに超能力を使って、みかんを吹っ飛ばしてしまい、家族に…そしてマンションにもたくさんの亀裂が！思わぬ展開に放心状態の母、みかん、ユズヒコは、父の声で正気を取り戻すが、その時マンション全体がグラッと傾き、彼らが大変なことにッ！タチバナ家は、みんなの｢あたしンち｣は、どうなるの??
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪口大助
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：大野木寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：けらえいこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：相良まさえ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高橋渉
+  type: staff
+- !ruby/hash:TagHash
+  name: あたしンちシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: 大熊昭
+  type: other
+- !ruby/hash:TagHash
+  name: 大武正枝
+  type: other
+- !ruby/hash:TagHash
+  name: やすみ哲夫
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 劇場版あたしンち｢情熱のちょ～超能力♪ 母大暴走！｣
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>原作:けらえいこ／監督:高橋渉／監修:やすみ哲夫／脚本:大野木寛／S3D監督:三田邦彦(キュー・テック)／作画監督:大武正枝／美術監督:天水勝／音楽:相良まさえ／音響監督:大熊昭
+  length_seconds: 2599
+  content_id: so32155514
+  default_thread_id: 1508893667
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155514
+cast: "[キャスト]<br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一"
+staff: "[スタッフ]<br>原作:けらえいこ／監督:高橋渉／監修:やすみ哲夫／脚本:大野木寛／S3D監督:三田邦彦(キュー・テック)／作画監督:大武正枝／美術監督:天水勝／音楽:相良まさえ／音響監督:大熊昭"
+produced_year: "[製作年]<br>2010年"
+copyright: ⓒママレード／シンエイ動画・メディアファクトリー・テレビ朝日・ＡＤＫ　２０１０
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: あたしンち(第1話～第26話)
+- !ruby/hash:SeasonHash
+  title: あたしンち(第27話～第52話)
+- !ruby/hash:SeasonHash
+  title: 映画あたしンち
+- !ruby/hash:SeasonHash
+  title: 新あたしンち

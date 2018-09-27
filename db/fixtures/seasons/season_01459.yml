@@ -1,0 +1,372 @@
+--- !ruby/hash:SeasonHash
+title: TVアニメ「ペルソナ５」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/0/22100_1_6.png?1522292432000
+outline: 高校2年生の春、雨宮蓮は東京の「秀尽学園」に転入する。ある出来事をきっかけに“ペルソナ”使いとして覚醒した蓮は、新たに出会った仲間達とともに「心の怪盗団」を結成。悪しき欲望に塗れた大人達の“歪んだ欲望”を盗んで改心させていく。一方、街では不可解な精神暴走事件が次々と起こっていた……。大都会“東京”を舞台に高校生として日常生活を送りながらも、放課後は「心の怪盗団」として暗躍する―。壮大なピカレスクロマンの幕が切って落とされる！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷育江
+  type: cast
+- !ruby/hash:TagHash
+  name: 目黒将司
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：石浜真史
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石川智美
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：アトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：橋野桂
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：副島成記
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：金子一馬
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: I am thou, thou art I
+  description: とある事件に巻き込まれ、前歴のレッテルを貼られてしまった高校生の雨宮蓮は、一年間の保護観察処分を受け、身元引受人佐倉惣治郎の元での生活を開始する。そんな中、転入先の秀尽学園へ向かう途中、異世界へと迷いこんでしまい……<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>次話→so33043881
+  length_seconds: 1440
+  content_id: so32998468
+  default_thread_id: 1522806784
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998468
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: Let's take back what's dear to you
+  description: 新しい学生生活を開始した蓮。しかし前歴を持つ転入生への風当たりは厳しいものだった。鴨志田と確執があり蓮と同様学内で孤立する存在の同級生・坂本竜司と出会った蓮は、謎のアプリ「イセカイナビ」を起動させ、再び異世界への侵入を試みる。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so32998468←前話｜次話→so33079391　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33043881
+  default_thread_id: 1523584706
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33043881
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: A beautiful rose has thorns!
+  description: 鴨志田からの理不尽な暴力に怯え、虐げられるバレー部員たち。一方、蓮のクラスメイトの高巻杏も、バレー部員でレギュラー候補である親友の存在をたてに、歪んだ欲望を覗かせる鴨志田からの執拗なアプローチに思い悩んでいた。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33043881←前話｜次話→so33115230　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33079391
+  default_thread_id: 1524187407
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33079391.41680
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: Steal it, if you can
+  description: 鴨志田を改心させるべく、“予告状”を学園内に貼りだした蓮たち。新たに仲間となった杏・モルガナと共に、実体化した「オタカラ」を盗み出すため再びパレスへと侵入するが、そこで待ち構えていたのはシャドウ鴨志田本人であった。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33079391←前話｜次話→so33142744　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33115230
+  default_thread_id: 1524793004
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33115230
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: The Phantoms
+  description: 無事改心を成し遂げた蓮たちは、これからも身勝手な大人たちを改心させるべく活動していく事を新たに決意し、「心の怪盗団」を結成する。そんな中、ネット上には「怪盗お願いチャンネル」という掲示板サイトが作成され……<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33115230←前話｜次話→so33190855　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33142744
+  default_thread_id: 1525224425
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33142744.87706
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: Our next target is…
+  description: 蓮たちは著名な画家である斑目一流斎の若き門下生、喜多川祐介と出会う。杏に「自身の絵のモデルになってほしい」と懇願し一同を困惑させる祐介。週末、祐介の誘いで訪れた斑目の個展で清廉さを見せる斑目に、蓮はどこか違和感を覚える。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33142744←前話｜次話→so33226564　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33190855
+  default_thread_id: 1526002954
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33190855
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: He is my other self
+  description: パレスの存在を確認し、祐介の本心を知った蓮たちは、次のターゲットを斑目に決定する。蓮と竜司がパレスに潜入している間、祐介の絵のモデルとしておとり役を引き受けることになった杏は、斑目邸の保管庫にて、とあるものを発見するが……<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33190855←前話｜次話→so33252031　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33226564
+  default_thread_id: 1526628265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33226564.21981
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: Put an end to all this and use your own artwork for once.
+  description: 斑目の真意を知り覚醒した祐介は、自ら怪盗団へ加わることを申し出る。予告状を出し、斑目のオタカラを盗み出すためパレスへ侵入する蓮たちだったが、そこで待っていたのは、”赤子を抱く姿で描かれた「サユリ」”を携えたシャドウ斑目であった。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33226564←前話｜次話→so33296694　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33252031
+  default_thread_id: 1527049617
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33252031.23958
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: Operation maid watch
+  description: 斑目を改心させたことにより、心の怪盗団の存在が少しずつ世間へ知られていくことを実感する蓮たち。そんな中、モルガナからマジメな学生生活を送るように言い渡され、それぞれ束の間の学生らしい日常を過ごす。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33252031←前話｜次話→so33332525　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33296694
+  default_thread_id: 1527815619
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33296694
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: I want to see justice with my own eyes
+  description: 蓮、竜司、杏の三人は社会科見学のために訪れたテレビ局で、ゲストとして招かれていた高校生名探偵・明智吾郎と遭遇する。番組内で怪盗団について言及する明智に不安を覚える一方、秀尽学園内でも蓮たちの動向について探りを入れる人物が現れ……<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33296694←前話｜次話→so33368228　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33332525
+  default_thread_id: 1528420704
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33332525
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: Let's be friends, shall we?
+  description: 秀尽学園の生徒会長を務める新島真に怪盗団の正体が蓮たちであると知られてしまう。見逃す代わりに「正義というものを証明してほしい」という真の要求に従うため、蓮たちは新たなターゲットのパレスに潜入を試みるが……<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33332525←前話｜次話→so33403995　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33368228
+  default_thread_id: 1529027857
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33368228
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: I found the place where I belong
+  description: 偽りの自分から抜け出しペルソナに覚醒した真は、怪盗団の参謀役としてメンバーに加わる。蓮たちは若者を狙い金を巻き上げる犯罪グループのボス・金城を改心させるため、再びパレスへと潜入する。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33368228←前話｜次話→so33458068　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33403995
+  default_thread_id: 1529657128
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33403995
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: Dreams and Desires
+  description: オタカラを盗み出し金城を改心させることに成功した怪盗団は、自分たち以外にも異世界に出入りしているらしい「黒い仮面の男」の存在を金城より聞かされる。一方、蓮は、絵が思うように描けないと思い悩む祐介から、とある相談をもちかけられ……<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33403995←前話｜次話→so33497296　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33458068
+  default_thread_id: 1530503227
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33458068
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: What life do you choose?
+  description: 次々と改心を成し遂げ怪盗団として成果を上げて行く蓮たち。そんな中、蓮はとある検証をしてみたいと言う真の希望で新宿の繁華街へと出向く事に。二人はそこで怪しげな店に出入りする秀尽学園の女子生徒を目撃する。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33458068←前話｜次話→so33516347　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33497296
+  default_thread_id: 1531108028
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33497296
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: I am Alibaba
+  description: 期末試験が終了し、心待ちにしていた花火大会に参加する蓮たち。そして次に改心させるターゲットの候補を選定しているさなか、怪盗団は国際的ハッカー集団「メジエド」から突然の宣戦布告を受ける。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33497296←前話｜次話→so33572110　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33516347
+  default_thread_id: 1531444687
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33516347
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: This place is my grave
+  description: アリババと名乗る謎の人物から、メジエドを片付ける代わりに改心させて欲しい人物がいると取引を持ちかけられる怪盗団。そのターゲットとは、惣治郎がとある事情で知人から預かっている少女・佐倉双葉であった。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33516347←前話｜次話→so33607489　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33572110
+  default_thread_id: 1532310492
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33572110.33880
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: X Day
+  description: 蓮たちの説得により自らの意志で部屋の扉を開いた双葉は、オタカラを盗むためパレスへ再侵入した怪盗団の後を追い、自身もパレスへ侵入する。そこで双葉は、母親の姿で自分を怨嗟する巨大な怪物と遭遇する。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33572110←前話｜次話→so33644450　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33607489
+  default_thread_id: 1532914264
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33607489
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: I'll guide you to victory
+  description: 母親に関する歪められた記憶を克服し、ペルソナに覚醒した双葉は、自らの目的のため怪盗団の仲間になることを希望する。そして、まだぎこちない様子の双葉と親睦を深めようと、蓮たちは海へ遊びに行くことを提案する。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33607489←前話｜次話→so33681512　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33644450
+  default_thread_id: 1533518227
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33644450
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: Aloha
+  description: 修学旅行でハワイにやってきた蓮たちは、それぞれに南国の空気を満喫する。しかし、帰国早々、秀尽学園の校長が不審な死を遂げたという知らせを受け、怪盗団に動揺が走る。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33644450←前話｜次話→so33720293　第一話→so32998468
+  length_seconds: 1438
+  content_id: so33681512
+  default_thread_id: 1534122364
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33681512
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: My name is Beauty Thief!
+  description: 蓮たちの元を飛び出したまま帰って来ないモルガナ。そんなモルガナを心配しつつも、蓮たちは次のターゲットである奥村のパレスへと侵入する。そこで怪盗団の前に立ちはだかったのは、行方不明だったモルガナと自らを美少女怪盗と名乗る少女であった。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33681512←前話｜次話→so33757359　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33720293
+  default_thread_id: 1534727464
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33720293
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: You can call me ”Noir”
+  description: お互いの想いを伝え合い、無事に和解したモルガナと蓮たち。一方、父親の決めた婚約者との結婚を強要され思い悩む少女・奥村春を救うため、怪盗団は再びオクムラ・パレスへの侵入を試みる。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33720293←前話｜次話→so33796330　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33757359
+  default_thread_id: 1535334488
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33757359
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: Is it our fault...?
+  description: 春の父・奥村のパレスから無事オタカラを盗み出すことに成功した怪盗団は、メンバー一同揃って祝勝パーティーを行う。しかし、その最中に行われた奥村の記者会見で起きた出来事により、蓮たちはこれまで怪盗団として行ってきた事に疑問を持ってしまう。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33757359←前話｜次話→so33832911　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33796330
+  default_thread_id: 1535941627
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796330
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: How about a deal with me?
+  description: 秀尽学園の学園祭に明智がゲストとして招かれる事となり、警戒を強める蓮たち。そして学園祭当日、蓮たちの元に現れた明智は、意外にも怪盗団に関してのとある提案を持ちかけてくる。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33796330←前話｜次話→so33853674　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33832911
+  default_thread_id: 1536542225
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33832911
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: A challenge that must be won
+  description: 真の姉である検事・新島冴を改心させるために協力して欲しいという明智からの要請で、怪盗団は冴のパレスへと侵入する。一方、惣治郎の元に、双葉の親戚だという男が現れ……<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33832911←前話｜次話→so33915180　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33853674
+  default_thread_id: 1536908822
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33853674
+- !ruby/hash:EpisodeHash
+  episode_no: "#25"
+  title: Jealous Sinner
+  description: 冴のオタカラを盗むため、ニイジマ・パレスに侵入する怪盗団。パレス内でシャドウ冴が自ら語る、歪んだ考えを知った真は、一刻も早く冴を止めなければならないと改めて決意する。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一郎<br><br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+    Pictures<br><br>©ATLUS ©SEGA/PERSONA5 the Animation Project<br><br>so33853674←前話　第一話→so32998468
+  length_seconds: 1440
+  content_id: so33915180
+  default_thread_id: 1537855686
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33915180
+cast: "[キャスト]<br>雨宮 蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木
+  碧／奥村 春:戸松 遥／明智吾郎:保志総一郎"
+staff: "[スタッフ]<br>原作:「ペルソナ５」(アトラス)／ストーリー原案:橋野 桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:A-1
+  Pictures"
+produced_year: "[製作年]<br>2018年"
+copyright: "©ATLUS ©SEGA/PERSONA5 the Animation Project"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: PERSONA -trinity soul-
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ４ ザ・ゴールデン」

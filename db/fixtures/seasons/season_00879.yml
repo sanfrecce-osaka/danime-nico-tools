@@ -1,0 +1,207 @@
+--- !ruby/hash:SeasonHash
+title: ダンタリアンの書架
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/1/10611_1_6.png?1427216400000
+outline: かつて所領の半分を一冊の稀覯本と引き替えにしたほどの好事家であり蒐書狂(ビブリオマニア)の祖父は、古ぼけた屋敷とそこに納められた蔵書の全てを青年ヒューイに残した。条件は一つだけ。『書架』を引き継げ――と。遺品整理に屋敷を訪れたヒューイは、うず高く本の積まれた地下室で、静かに本を読む少女と出会う。漆黒のドレスに身を包んだ少女は、胸に大きな錠前を隠し持っていた。それこそは禁断の幻書を納める“ダンタリアンの書架”への入り口、悪魔の叡智への扉だった――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：日本コロムビア
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：三雲岳斗
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：GAINAX
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：木野下澄江
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：上村泰
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：辻陽
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：GAINAX
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
+  type: other
+- !ruby/hash:TagHash
+  name: 岩浪美和
+  type: other
+- !ruby/hash:TagHash
+  name: カドカワコミックス・エース
+  type: other
+- !ruby/hash:TagHash
+  name: 角川スニーカー文庫
+  type: other
+- !ruby/hash:TagHash
+  name: 山賀博之
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 仕掛け絵本
+  description: 前世紀初頭。古今東西の珍しい書籍をあさる蒐集家、いわゆるビブリオマニアの祖父を持つヒューイは、その祖父の死により、古ぼけた屋敷とそこに納められた蔵書のすべてを引き継いだ。｢書架を引き継げ｣という祖父からの遺言を確かめるべく、屋敷を訪れたヒューイは、うず高く本の積まれた地下室で、漆黒のドレスに身を包んだ一人の美しい少女と出会う--。<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>次話→so31879846
+  length_seconds: 1460
+  content_id: so31879845
+  default_thread_id: 1504719245
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879845
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 胎児の書
+  description: ヒューイは亡き祖父宛に送られた蔵書の鑑定を依頼する手紙を受け取り、その差出人であるエステラの家へと向かう。時計塔のある豪奢な屋敷に一人住むエステラを不審に思うヒューイとダリアン。二人は、屋敷を訪れてきたエステラの従兄から、彼女にまつわる奇妙な呪いを聞く。それは『呪われた本』が原因だというが--?!<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879845←前話｜次話→so31879847　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879846
+  default_thread_id: 1504719224
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879846
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 叡智の書/月光美人
+  description: "&lt;叡智の書&gt;ヒューイとダリアンは、街の書店で、ヒューイの幼馴染であるカミラと出会う。個性的な服装をしたカミラに誘われるがまま、彼女の別荘に赴く二人。カミラが言うには、近くに開かれた私塾で、生徒たちの知能を上げる幻書があるらしく…?&lt;月光美人&gt;ダリアンとお茶を飲もうとしていた矢先、ヒューイの屋敷に押し込み強盗が入る。ダリアンを人質にとられ、渋々縛り付けられる二人。強盗たちが望むのは｢夜の女王｣という価値のある本だというが…?!<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879846←前話｜次話→so31879848　第一話→so31879845"
+  length_seconds: 1460
+  content_id: so31879847
+  default_thread_id: 1504719274
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879847
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 換魂の書
+  description: ダリアンが夢中で読んでいる本の作者が、最終巻を書く前に暴漢に襲われて亡くなったという。嘆くダリアンだったが、ヒューイの亡き祖父宛にその作者本人から手紙が届く。助けを求めるその内容に、急いで現地へと向かう二人。その屋敷にいたのは、作者であるレンツの妻という女性だった。執筆中のレンツとは会えないというが、著作のファンであるダリアンに免じて面会許可が出る。だが、その前に二人は、レンツの死体を目にしてしまい--。<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879847←前話｜次話→so31879849　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879848
+  default_thread_id: 1504719220
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879848
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 魔術師の娘
+  description: ヒューイを元上司と慕う財閥の御曹司・アルマンが幻書を譲って欲しいと駆け込んできた。曰く、入れあげている高級娼婦のヴィオラに求婚したところ、ある幻書を求められたという。早速、ダリアンとヒューイはヴィオラに会いに行くことに。実はヴィオラは、アルマン以外の4人の求婚者にも、それぞれ別々の幻書を持ってくるよう、要求していたのだった…。<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879848←前話｜次話→so31879850　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879849
+  default_thread_id: 1504719226
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879849
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 焚書官
+  description: ある湖畔の町に、人捜しにやってきたという二人組が現れた。ベルトと鎖で全身の動きを制約する、白の拘束衣に身を包む少女・フラン。そして、フランと大きな杖をサイドカーに載せ旅をする“焚書官”ハル。明らかに怪しい二人を見とがめ、声をかけた警察官のメイベルは、二人を自宅に招くことに。どこにでもあるただの田舎町だと話すメイベルに、ハルは、この付近で発生しているという大量の失踪者について尋ねるのだが…?<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879849←前話｜次話→so31879851　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879850
+  default_thread_id: 1504719228
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879850
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 調香師
+  description: 大人気の揚げパンを求め、カフェの行列に並ぶヒューイとダリアン。やっとのことで揚げパンを受け取った矢先に、カフェ内に逃げ込んできた女性に巻き込まれ、無残にも揚げパンは地面へ…。嘆くダリアンだったが、その逃亡者の家出人こそが、香水で有名なフェメニアス社の社長令嬢であり、主席研究員のフィオナだと知る。このフェメニアス社には、ある一冊の古い本が伝わっており、その本を継いだのがフィオナだというのだが…?!<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879850←前話｜次話→so31879852　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879851
+  default_thread_id: 1504719257
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879851
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 等価の書/連理の書
+  description: "&lt;等価の書&gt;更に変わった格好をしたカミラが、あるお土産を持って、ヒューイの家を訪ねてきた。そこでカミラは、ダリアンが古いオークションのカタログに見入っていることに気づく。ダリアンの欲しがるものを察知したカミラは、ヒューイが持っていたクリップをもらい受け、出ていってしまう。カミラは物々交換のできる『等価の書』という幻書を古本屋で手に入れていたのだった…。
+    \  &lt;連理の書&gt;ヒューイの家に、また後輩のアルマンが助けを求め駆け込んできた。服の間から伸びる呪いの枝と炎に苦しむアルマンを、訝しむヒューイとダリアン。アルマンが言うには、持っていると運命の相手に巡り合わせてくれるという幻書のおかげで、リアンナという恋人ができたらしいのだが…?<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879851←前話｜次話→so31879879　第一話→so31879845"
+  length_seconds: 1460
+  content_id: so31879852
+  default_thread_id: 1504719251
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879852
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 黄昏の書
+  description: 破翼蟲(バジム)という怪物に喰い荒らされ、荒廃した小さな町の近くで、ダリアンとヒューイは呪術師見習いのアイラと出会う。アイラは破翼蟲に対して効果のあるという毒草、ヤカツを密かに採取していた。だが、ダリアンはヤカツは効かないと断言し、本を探して立ち去ってしまう。翌日、アイラは想いを寄せる見習い商人のティートに会うため、ヤカツを手に町へ。だが、町は破翼蟲の大規模な襲撃により、破壊し尽くされていたーー。<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879852←前話｜次話→so31879880　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879879
+  default_thread_id: 1504719587
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879879
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 幻曲
+  description: 公園でヒューイが壊れたヴァイオリンを弾いていると、珍妙な二人組――ダラリオとクリスタベルがやってきて、いとも簡単にそのヴァイオリンを直してくれた。クリスタベルの美しい演奏にしばし聞き惚れるダリアンとヒューイ。だが、有名人らしいクリスタベルが衆目を集めてしまい、ダラリオは急ぎ、隠れるように彼女を連れ去ってしまう。馴染みの古書店でクリスタベルのパンフレットを見つけたヒューイとダリアンは、彼女が難解で神がかり的な力を持つ“幻曲”ともいうべきヴァイオリンソナタを弾くリサイタルを開くことを知る。その会場へと向かう二人だったが…?!<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879879←前話｜次話→so31879918　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879880
+  default_thread_id: 1504719565
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879880
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ラジエルの書架
+  description: 1917年イギリス、ノーフォーク。海軍航空隊の基地で、模擬飛行訓練を行う姿をみるアルマンやアイラスたち。飛行学校出たての新人がベテラン中尉を追い込んでいく様子を、アイラスは好ましく思う。｢空を飛ぶのが待ちきれない子供｣とアイラスに見破られた、生意気なその新人こそ、飛行機乗り時代のヒューイだった…。二人は意気投合するが、やがて――。<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879880←前話｜次話→so31879919　第一話→so31879845
+  length_seconds: 1460
+  content_id: so31879918
+  default_thread_id: 1504720479
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879918
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: まだ見ぬ明日の詩
+  description: 無数の銃弾を浴びても動き続ける不死身の男――ゾンビの出現が新聞を賑わせている頃、ダリアンは新聞広告にあった新しいあげパンのお店で大量のあげパンを抱えていた。だが、近くの路地にも噂のゾンビが出現し、巻き込まれてしまう。ダリアンは、新聞に『償いの書』が印刷されているため、それこそが幻書になったのではないかと疑うが…?<br><br>ダリアン:沢城みゆき／ヒューイ:小野大輔<br><br>原作:三雲岳斗&lt;角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村
+    泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY, THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤
+    聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻 陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam
+    scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会<br><br>so31879918←前話　第一話→so31879845
+  length_seconds: 1445
+  content_id: so31879919
+  default_thread_id: 1504720469
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31879919
+cast: "[キャスト]<br>ダリアン:沢城みゆき／ヒューイ:小野大輔"
+staff: "[スタッフ]<br>原作:三雲岳斗<角川スニーカー文庫/角川書店刊)／キャラクター原案:Gユウスケ(グリーンウッド)／監督:上村 泰／キャラクターデザイン:木野下澄江／衣装デザイン:BABY,
+  THE STARS SHINE BRIGHT ALICE and the PIRATES／美術監督:山賀博之／色彩設定:高星晴美､竹澤 聡／撮影監督:赤松康裕／編集:田村ゆり／音響監督:岩浪美和／音楽:辻
+  陽／音楽制作:GAINAX・日本コロムビア／オープニングテーマ:｢Cras numquam scire｣Yucca／エンディングテーマ:｢yes,prisoner｣maRIONnetTe／アニメーション制作:GAINAX／製作:ダンタリアンの書架製作委員会"
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)2011 三雲岳斗・Gユウスケ・角川書店/ダンタリアンの書架製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

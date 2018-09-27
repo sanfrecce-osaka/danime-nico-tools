@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/22/8/20228_1_6.png?1436488962000
+outline: 半笑い脱力系の即興芝居とCGアニメーションを融合させた、ムダ使いCGアニメ・ショートコメディー。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：FOREST Hunting One
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：星邑タツヤ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：山成友恵
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：豊島早希
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：荒牧拓樹
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：内村未来
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 鮫島瑞季
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#5"
+  title: バルタン店長とグドン　釣堀の情事／ダダとジャミラの「俺、バンドやめるわ」／ガラモンとケムール人　酒場前の公衆電話にて／坂前ゴモラと新人ジャミラ／バルタン店長と店員のカネゴン
+  description: "#1：仕事の事で悩みを抱えるバルタン店長が、釣り堀で気分転換していると、グドンがやけに絡んできて…／#2：ライブを終えたバンド「ウォーターフロント」のタダとジャミラ。帰り道、ダダはジャミラの様子がおかしい事に気付いて話し掛けるが…／#3：怪獣酒場近くの公衆電話で待ち合わせたガラモンとケムール人。気になる女の子を花火大会に誘おうため、二人は女の子の家に電話をかけようとして…／#4：怪獣酒場で板前をするゴモラを、店の裏に呼び出した新人のジャミラ。どうやら、折り入ってのお願いがあるようで…／#5：開店前の怪獣酒場。開店準備をしないカネゴンにバルタン店長は注意するが、カネゴンは気にせず賃上げ交渉を始め…<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One：星邑タツヤ、山成友恵、豊島早希、荒牧拓樹、内村未来／ラインマネージャー:鮫島瑞季<br><br>次話→so31947261"
+  length_seconds: 1503
+  content_id: so31947260
+  default_thread_id: 1505697098
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31947260
+- !ruby/hash:EpisodeHash
+  episode_no: "#6～#10"
+  title: メトロン星人と防衛隊員／ガッツ星人の切手収集談議／ダダとノーバの酒場女子会／ギーゴンとゴドラ星人の本場の流しの歌い方／薬販売のロボット長官とM１号お母さん
+  description: "#6：メトロン星人の様子を見に来た防衛隊員。ダラダラした状況を隊員にたしなめられたメトロン星人は、日々の愚痴を語りだし…／#7：酒場に集った二人のガッツ星人。切手収集が趣味の仲良しの二人だが、一人が珍しい切手を披露した事から空気がおかしくなり…／#8：酒場でまったり飲んでいるダダとノーバ。女子が集えば当然話題は恋愛の話となり、ノーバの気になる男性が明らかにされ…／#9：流しのギーゴンと付き人のゴドラ星人。飲みながら流しを始めるタイミングを探るゴドラ星人だが、ギーゴンは一考に歌おうとせず…／#10：M１号の家に薬の訪問販売に訪れたロボット長官。なんとか薬を売ろうとするが、M１号が本当に欲しかったのは薬ではなく…<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One：星邑タツヤ、山成友恵、豊島早希、荒牧拓樹、内村未来／ラインマネージャー:鮫島瑞季<br><br>so31947260←前話　第一話→so31947260"
+  length_seconds: 1503
+  content_id: so31947261
+  default_thread_id: 1505697130
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31947261
+staff: "[スタッフ]<br>監督:森りょういち／アニメーション制作:FOREST Hunting One：星邑タツヤ、山成友恵、豊島早希、荒牧拓樹、内村未来／ラインマネージャー:鮫島瑞季"
+produced_year: "[製作年]<br>2015年"
+copyright: "（C）かいじゅうたちがいるところ製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: LIGHTNING TRAP LEINA & LAIKA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/7/10437_1_6.png?1427216400000
+outline: 女子高生の遙麗奈は修学旅行でパリへの航路についていた。彼女が乗るのは超大型旅客機ライトニング号だ。だがライトニング号には極秘兵器バイブルが密かに積み込まれており、これを狙ってテロ集団も乗り込んでいた。事態を知った麗奈は、バイブル護衛の任に就いていたICPOの特殊技能捜査官ライカと協力し……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 音楽：戸塚修
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：羽原信義
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：園田英樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菊池通隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：村山靖
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：葦プロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：池毅
+  type: staff
+- !ruby/hash:TagHash
+  name: マシンロボシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 清水勝則
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1990年
+  type: other
+- !ruby/hash:TagHash
+  name: 羽原信義
+  type: other
+- !ruby/hash:TagHash
+  name: 甲斐政俊
+  type: other
+- !ruby/hash:TagHash
+  name: 菊池通隆
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: LIGHTNING TRAP LEINA & LAIKA
+  description: 水谷優子:レイナ／鷹森淑乃:ライカ<br><br>監修・キャラクターデザイン:羽原信義／ゲスト・キャラクターデザイン:菊池通隆／メカニックデザイン:山田貴裕／作画監督:羽原信義,菊池通隆／脚本:園田英樹／絵コンテ:森一浩／演出:村山靖／美術設定:甲斐政俊／録音監督:清水勝則／音楽:池毅,戸塚修／制作:葦プロ
+  length_seconds: 1628
+  content_id: so32151657
+  default_thread_id: 1508835590
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151657
+cast: "[キャスト]<br>水谷優子:レイナ／鷹森淑乃:ライカ"
+staff: "[スタッフ]<br>監修・キャラクターデザイン:羽原信義／ゲスト・キャラクターデザイン:菊池通隆／メカニックデザイン:山田貴裕／作画監督:羽原信義,菊池通隆／脚本:園田英樹／絵コンテ:森一浩／演出:村山靖／美術設定:甲斐政俊／録音監督:清水勝則／音楽:池毅,戸塚修／制作:葦プロ"
+produced_year: "[製作年]<br>1990年"
+copyright: "(c) PRODUCTION REED 1990"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: マシンロボ クロノスの大逆襲
+- !ruby/hash:SeasonHash
+  title: マシンロボ クロノスの大逆襲｢戦場の記憶｣
+- !ruby/hash:SeasonHash
+  title: マシンロボ ぶっちぎりバトルハッカーズ
+- !ruby/hash:SeasonHash
+  title: レイナ剣狼伝説I
+- !ruby/hash:SeasonHash
+  title: レイナ剣狼伝説II
+- !ruby/hash:SeasonHash
+  title: レイナ剣狼伝説III

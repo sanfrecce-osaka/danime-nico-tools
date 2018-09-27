@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: SNSポリス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/13/0/22130_1_6.png?1524031206000
+outline: 今日もSNSにはびこる極悪犯とたたかうSNSポリス。「投稿の中身も見ずに『いいね！』を連発する」などSNSをやったことがある人なら一度は感じたことのある「あるある」ネタを警部とその仲間たちが面白おかしく指摘する短編アニメ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ゆうたろう
+  type: cast
+- !ruby/hash:TagHash
+  name: 山里亮太
+  type: cast
+- !ruby/hash:TagHash
+  name: 松井咲子
+  type: cast
+- !ruby/hash:TagHash
+  name: 木下隆行
+  type: cast
+- !ruby/hash:TagHash
+  name: 松村沙友里
+  type: cast
+- !ruby/hash:TagHash
+  name: 加村真美
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：星子旋風脚
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：かっぴー
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "「猛毒！ビジネスSNS」ほか"
+  description: '警部:山里亮太／お姉さん:松井咲子／警視総監:木下隆行／大金もち子:松村沙友里／中二:ゆうたろう／Ｆカップ:加村真美　ほか<br><br>監督:
+    星子旋風脚／プロデューサー: 谷内田彰久／原作: かっぴー<br><br>©SNSポリス製作委員会／かっぴー<br><br>次話→so33101968'
+  length_seconds: 1450
+  content_id: so33101967
+  default_thread_id: 1524560954
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33101967
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "「入門！はじめてのSNS」ほか"
+  description: '警部:山里亮太／お姉さん:松井咲子／警視総監:木下隆行／大金もち子:松村沙友里／中二:ゆうたろう／Ｆカップ:加村真美　ほか<br><br>監督:
+    星子旋風脚／プロデューサー: 谷内田彰久／原作: かっぴー<br><br>©SNSポリス製作委員会／かっぴー<br><br>so33101967←前話｜次話→so33102793　第一話→so33101967'
+  length_seconds: 1450
+  content_id: so33101968
+  default_thread_id: 1524560987
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33101968
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "「限界！幻のハッシュタグピエロ」ほか"
+  description: '警部:山里亮太／お姉さん:松井咲子／警視総監:木下隆行／大金もち子:松村沙友里／中二:ゆうたろう／Ｆカップ:加村真美　ほか<br><br>監督:
+    星子旋風脚／プロデューサー: 谷内田彰久／原作: かっぴー<br><br>©SNSポリス製作委員会／かっぴー<br><br>so33101968←前話｜次話→so33217486　第一話→so33101967'
+  length_seconds: 1450
+  content_id: so33102793
+  default_thread_id: 1524570450
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33102793
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "「狡猾！悪魔が来たりて自撮りする」ほか"
+  description: '警部:山里亮太／お姉さん:松井咲子／警視総監:木下隆行／大金もち子:松村沙友里／中二:ゆうたろう／Ｆカップ:加村真美　ほか<br><br>監督:
+    星子旋風脚／プロデューサー: 谷内田彰久／原作: かっぴー<br><br>©SNSポリス製作委員会／かっぴー<br><br>so33102793←前話｜次話→so33217487　第一話→so33101967'
+  length_seconds: 1450
+  content_id: so33217486
+  default_thread_id: 1526452373
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217486.66000
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "「過激！荒ぶるインスタポリス」ほか"
+  description: '警部:山里亮太／お姉さん:松井咲子／警視総監:木下隆行／大金もち子:松村沙友里／中二:ゆうたろう／Ｆカップ:加村真美　ほか<br><br>監督:
+    星子旋風脚／プロデューサー: 谷内田彰久／原作: かっぴー<br><br>©SNSポリス製作委員会／かっぴー<br><br>so33217486←前話｜次話→so33217488　第一話→so33101967'
+  length_seconds: 1450
+  content_id: so33217487
+  default_thread_id: 1526452347
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217487.93949
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "「配信！ポリスTVエブリィデイ」ほか"
+  description: '警部:山里亮太／お姉さん:松井咲子／警視総監:木下隆行／大金もち子:松村沙友里／中二:ゆうたろう／Ｆカップ:加村真美　ほか<br><br>監督:
+    星子旋風脚／プロデューサー: 谷内田彰久／原作: かっぴー<br><br>©SNSポリス製作委員会／かっぴー<br><br>so33217487←前話　第一話→so33101967'
+  length_seconds: 1485
+  content_id: so33217488
+  default_thread_id: 1526452371
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33217488.25082
+cast: "[キャスト]<br>警部:山里亮太／お姉さん:松井咲子／警視総監:木下隆行／大金もち子:松村沙友里／中二:ゆうたろう／Ｆカップ:加村真美　ほか"
+staff: "[スタッフ]<br>監督: 星子旋風脚／プロデューサー: 谷内田彰久／原作: かっぴー"
+produced_year: "[製作年]<br>2018年"
+copyright: "©SNSポリス製作委員会／かっぴー"
+related_seasons: !ruby/array:Hashie::Array []

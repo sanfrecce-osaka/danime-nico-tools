@@ -1,0 +1,51 @@
+--- !ruby/hash:SeasonHash
+title: てーきゅう 2期
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/25/7/11257_1_6.png?1427216400000
+outline: 亀井戸高校テニス部の普通じゃない女の子4人の抱腹絶倒の日常。アホな先輩たちに振り回されるうちにツッコミっぽい立場になった後輩の「押本ユリ」、テニス部なのにテニスがほとんどできないボケマシーン2年生の「新庄かなえ」、予想不可能な関西風ド変態2年生「板東まりも」、何でもお金で解決しちゃう謎多き天然お嬢様2年生「高宮なすの」。異次元なボケをかます新聞部の1年生「近藤うどん子」やまりもの家に突然現れた宇宙人の「トマリン」などの新キャラクターも登場！2期になってもテニスそっちのけであいかわらずのカオスっぷりに目が離せない！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 演出：板垣伸
+  type: staff
+- !ruby/hash:TagHash
+  name: てーきゅうシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第13面～第24面
+  title: 第13面「先輩とフルメタルジャケット」～第24面「先輩とおいしいレストラン」（最終回）
+  description: 第13面「先輩とフルメタルジャケット」保育園に勤めているかなえの従姉から豆まきの手伝いを頼まれた４人。子供に怖がられて悩むまりもは、園長さんからあるアドバイスを受けるのだったが…。/第14面「先輩とワンス・アンド・フォーエバー」新聞部の近藤さんから取材の依頼が舞い込んだ。ノリノリの先輩たちは、テニス部の活動をアピールすることができるのか！？/第15面「先輩とトランスフォーマー」なすのの提案で合宿に行くことになった４人。しかし、なすのが手配した交通手段や着いた合宿所もやっぱり何故かヘンで…。/第16面「先輩とピンポン」合宿所での練習を終え、お風呂で疲れを癒した４人は温泉卓球大会をすることに。次第にエスカレートしていく対決の結末は？/第17面「先輩とマーズ・アタック」合宿最終日、管理人さんに教えてもらった観光スポットはなんと銀山！？　そして帰りのバスの中で起きる出来事とは・・・？/第18面「先輩とエボリューション」突然「ペットが飼いたい」と言い出したなすのはメンバーとともにペットショップへいくことになったが、そこにいた動物はなんと！！/第19面「先輩とラン・ローラ・ラン」体育祭の日がやってきた。部活動対抗リレーなるものに出場することになったメンバーは一致団結して優勝を目指すのだったが・・・。/ほか<br><br>三森すずこ:（新庄かなえ役）／渡部優衣:（押本ユリ役）／花澤香菜:（板東まりも役）／石原香織:（近藤うどん子役）／ルーツ:（ミラドル将軍）<br><br>脚本・絵コンテ・演出・作画監督:板垣伸
+  length_seconds: 1452
+  content_id: so31938939
+  default_thread_id: 1505591816
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938939
+cast: "[キャスト]<br>三森すずこ:（新庄かなえ役）／渡部優衣:（押本ユリ役）／花澤香菜:（板東まりも役）／石原香織:（近藤うどん子役）／ルーツ:（ミラドル将軍）"
+staff: "[スタッフ]<br>脚本・絵コンテ・演出・作画監督:板垣伸"
+produced_year: "[製作年]<br>2013年"
+copyright: "©ルーツ / Piyo / アース・スター エンターテイメント / 亀井戸高校テニス部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: てーきゅう
+- !ruby/hash:SeasonHash
+  title: てーきゅう 3期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 4期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 5期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 6期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 7期
+- !ruby/hash:SeasonHash
+  title: てーきゅう 8期
+- !ruby/hash:SeasonHash
+  title: 高宮なすのです！～てーきゅうスピンオフ～
+- !ruby/hash:SeasonHash
+  title: てーきゅう 9期

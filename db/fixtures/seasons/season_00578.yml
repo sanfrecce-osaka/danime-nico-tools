@@ -1,0 +1,148 @@
+--- !ruby/hash:SeasonHash
+title: シスター・プリンセス Re Pure ストーリーズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/1/10091_1_6.png?1427216400000
+outline: お兄ちゃんのことが大好きな12人の妹達。お兄ちゃんと妹達は、ある事情があって、全員が離れ離れになって暮らしています。妹達はみんなお兄ちゃんのことが大好きで、お兄ちゃんに会える瞬間をいつもドキドキしながら待っているのです・・・。そんな妹達のさりげない日常を｢ストーリーズパート｣と｢キャラクターズパート｣という2つの切り口で描きます。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: シスター・プリンセスシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ハートデイズ
+  description: 今日はお兄ちゃんに会える特別な日。春歌、白雪、衛の3人はパフュームショップで香水選びに夢中!! 一方、咲耶は鈴凛と一緒にコスメショップを訪れ、ピンク色のリップを購入。妹たちはそれぞれにおめかしをして、待ち合わせ場所に向かっている。可憐もお兄ちゃんからプレゼントされたワンピースを着て家を出たが、ソフトクリームを持った少年にぶつかって、袖口を汚してしまい……。<br><br>次話→so32144817
+  length_seconds: 918
+  content_id: so32144816
+  default_thread_id: 1508728230
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144816
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 秘密の花園…なの!
+  description: 花穂は特別な宝物を学校の花壇に植えた。それは、お兄ちゃんと2人で育てたパンジーから採った種。お兄ちゃんの家の庭にも植えてあげようと張り切る花穂だったが、種を入れた小さなポーチをどこかに落としてしまったから大変!!
+    自称“名探偵”の四葉に探してもらっても、鈴凛と一緒に街中を探してみても、ポーチはなかなか見つからない。花穂は思わず泣き出してしまうが……。<br><br>so32144816←前話｜次話→so32144818　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144817
+  default_thread_id: 1508728228
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144817
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: マロンの誘惑
+  description: 体重測定の日。体重が増えていた花穂は、お兄ちゃんに嫌われるかもしれないと大騒ぎ!! お水しか飲まないと心に決め、お風呂に入ったり、エクササイズをしたりと、一所懸命ダイエットに励む。が、ついつい冷蔵庫に入っていたメロンを食べてしまい……。そこへ白雪と衛が手作りのケーキを持って遊びにやってきた。お兄ちゃんと春歌も花穂の大好物のマロンクレープを買ってきてくれて……。<br><br>so32144817←前話｜次話→so32144819　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144818
+  default_thread_id: 1508728242
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144818
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: えへへ…お泊りの日です
+  description: お兄ちゃんの家にお泊まりをする花穂は、パジャマを買うためにショッピングモールへ!! 花穂がウサギマークの入ったパジャマを選ぼうとすると、可憐、咲耶、雛子もそれぞれにかわいいパジャマを見立ててくれた。千影はどれを選んだらいいのか迷っている花穂に、自分が気に入ったものを選べば、みんなも喜ぶとアドバイスする。その夜、花穂がお兄ちゃんに新しいパジャマを見せると……。<br><br>so32144818←前話｜次話→so32144820　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144819
+  default_thread_id: 1508728232
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144819
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 流れる星につきぬ願いを
+  description: お兄ちゃんは千影にそっくりな少女から、ずっと前にも見たことがあるような不思議なもの――町外れの森の中にあるプラネタリウムのペアチケットを渡される。お兄ちゃんは千影と雛子を連れていこうとするが、入場できるのは2人だけ。残念そうにしている雛子を見た千影は、作りものの星には興味がないと言って立ち去った。するとお兄ちゃんのもとに、またあの少女が現れて……。<br><br>so32144819←前話｜次話→so32144822　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144820
+  default_thread_id: 1508728225
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144820
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: あにぃとボクのマグカップ
+  description: お兄ちゃん、咲耶、鞠絵、春歌と一緒にキャンプに出かける衛は、アウトドアショップで小さく折りたためるテントと、かっこいいマグカップを購入した。テントの中でお兄ちゃんとおしゃべりをしたり、ストーブで沸かしたミルクを飲んだり……。衛の想像は楽しく広がっていく。ところが、キャンプ場を訪れてみるとロッジ専用だということが判明!!
+    がっかりする衛だったが……。<br><br>so32144820←前話｜次話→so32144849　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144822
+  default_thread_id: 1508728239
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144822
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 魔法の言葉
+  description: お兄ちゃんが亞里亞のお屋敷へ遊びにやってきた。夜になって帰ろうとすると、亞里亞も一緒にいきたいと言い出したから大変!! お兄ちゃんは｢病気になったら飛んでくるよ｣となだめるが……。その言葉を信じた亞里亞は“おびょうき”になったらからお兄ちゃんに会いたいと“じいや”にお願いする。お兄ちゃんが、可憐、白雪、雛子、春歌を連れてお見舞いに駆けつけてみると……。<br><br>so32144822←前話｜次話→so32144850　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144849
+  default_thread_id: 1508728887
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144849
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 面会日なのです!
+  description: 可憐、白雪、雛子、亞里亞、お兄ちゃんの5人は、鞠絵と飼い犬のミカエルが暮らしている療養所へ遊びにいくことに!! 入院生活をしている鞠絵がお兄ちゃんに会うのは久しぶりのこと。2人だけの時間を作ってあげようと考えた可憐は、お兄ちゃんに頼んで一足先に診療所へいってもらった。が、それを知らない雛子と亞里亞は｢早く鞠絵ちゃんのところにいこうよ｣と急かして……。<br><br>so32144849←前話｜次話→so32144851　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144850
+  default_thread_id: 1508728883
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144850
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: そばにいるよね…アニキ
+  description: ｢アニキって、あたしたちと会ってないとき……どんなことをしているのかな?｣と疑問に思った鈴凛は、咲耶、四葉、花穂、亞里亞と一緒にお兄ちゃんの自宅を訪れた。が、留守だったため、残念ながら答えはお預けの状態に。その夜、鈴凛の家に泊まった四葉は、日曜日にお兄ちゃんが1人で外出する確率が高いと宣言!!
+    2人は"兄チャマ探偵団"として尾行を決意するが……。<br><br>so32144850←前話｜次話→so32144888　第一話→so32144816
+  length_seconds: 920
+  content_id: so32144851
+  default_thread_id: 1508728885
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144851
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 運命の赤い糸
+  description: お兄ちゃんに赤いマフラーをプレゼントするのを楽しみにしていた咲耶。でも、学校帰りにお兄ちゃんのポケットからラブレターを見つけ、大ショック!!
+    せっかく用意したマフラーを渡し損ねてしまった。お兄ちゃんはステキだから女の子に人気があるのは当然……そう思いながらも、咲耶の心境は複雑。大好きなお兄ちゃんをライバルから守るため、かいがいしくお世話をするのだが……。<br><br>so32144851←前話｜次話→so32144889　第一話→so32144816
+  length_seconds: 921
+  content_id: so32144888
+  default_thread_id: 1508729722
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144888
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 思い出の宝箱
+  description: お兄ちゃんが咲耶の家へお泊まりする日がやってきた。今夜はずっとふたりきり……!咲耶はとびっきり楽しい思い出を作ろうと、はりきって手作りの夕食をごちそうする。そして、お兄ちゃんを自室に招き、買ったばかりのお洋服を見せていたときのこと。｢その箱って?｣。お兄ちゃんが机の上の小箱に目をとめた。咲耶は慌てて隠そうとする。が、床に落としてしまって……。<br><br>so32144888←前話｜次話→so32144890　第一話→so32144816
+  length_seconds: 922
+  content_id: so32144889
+  default_thread_id: 1508729482
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144889
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: お兄様のレストラン
+  description: おいしいと評判のイタリアンレストランの予約をとった咲耶は、春歌、千影、鞠絵、お兄ちゃんの5人だけで、スペシャルなディナーを楽しむ計画を立てる。お兄ちゃんを誘うために自宅へ足を運ぶと、花穂、雛子、亞里亞、衛が遊びにきていて……。困ったことに予約できた席は5つだけ。残念そうにしている花穂たちを見た咲耶は、ディナーを譲ってあげることにしたが……。<br><br>so32144889←前話｜次話→so32144891　第一話→so32144816
+  length_seconds: 922
+  content_id: so32144890
+  default_thread_id: 1508729487
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144890
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: ピュアクリスマス
+  description: 鈴凛、四葉、お兄ちゃんの3人は、みんなに内緒でレンガ倉庫にあるモミの木をクリスマスツリーに仕立てることに。ところが、オーナメントを買い集めてるところを可憐たちに見つかり、大慌て!!
+    結局、全員で協力してイブのパーティーの準備をすることになった。お兄ちゃんは12人それぞれに絵ハガキを渡し、欲しいプレゼントを書き込むように伝えるが、妹たちは……。<br><br>so32144890←前話　第一話→so32144816
+  length_seconds: 1403
+  content_id: so32144891
+  default_thread_id: 1508729734
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32144891
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)天広直人・公野櫻子・アスキー・メディアワークス/プリピュア製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: シスター・プリンセス Re Pure キャラクターズ
+- !ruby/hash:SeasonHash
+  title: シスター・プリンセス

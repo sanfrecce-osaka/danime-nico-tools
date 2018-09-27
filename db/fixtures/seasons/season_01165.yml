@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: 薄桜鬼～御伽草子～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/89/5/20895_1_6.png?1459492202000
+outline: 失踪した父を捜しに京へ来た千鶴。今は訳あって新選組に居候中。一刻も早く父を見つけ出したい想いから彼女なりに捜索を始めるが…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 遊佐浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 大川透
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪井智浩
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林範雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 大羽武士
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：アイデアファクトリー
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：DLE
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作： IF・DF/｢薄桜鬼～御伽草子～｣製作委員会
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：篠原ぱらこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第12話
+  title: "｢父さまを探して｣｢続・父さまを探して｣／｢鏡｣｢美食家、風間｣｢沖田のイタズラ｣／｢ナニユエ斎藤さん｣｢薩摩藩の動きが…！｣｢真面目な男、斎藤｣／｢薫のどす黒い策略｣｢千鶴への贈り物｣／｢原田の夜｣｢風呂｣／｢新選組の真剣会議｣｢山崎の休日｣｢続・美食家、風間｣　ほか"
+  description: '第1話：失踪した父を捜しに京へ来た千鶴。今は訳あって新選組に居候中。一刻も早く父を見つけ出したい想いから彼女なりに捜索を始めるが…／第2話：イタズラ好きの沖田。いつも土方にイタズラをしかけては怒られ…の繰り返し。懲りない彼はまたイタズラを仕掛け…。風間のミニエピソードもあるよ。／第3話：斎藤は無口だが、彼は心の中で実はあれこれ考えているのです。真面目なんです斎藤さん。薩摩藩の動きが変なエピソードもあるよ。／第4話：元気がない千鶴のために何かしてあげたい藤堂は、お手製のおにぎりを作ってあげるのだが…。千鶴の兄・薫も登場！／第5話：原田にだって静かに飲みたい夜もある。せっかくの一人の夜に鬼の不知火と出くわして…。ドキ！お風呂シーンもあるよ。／第6話：新選組の観察方・山崎。彼は休むことを知らなさすぎた…。そして美食家・風間にまさかの続編！さらにお昼時に行われる新選組の真剣な会議とは…！？／第7話：新選組参謀の伊東甲子太郎に隠し事はできなくってよ！詰め寄られた土方らの驚きの隠し事とは…！？そして山南さんのお薬は吉と出るか凶と出るか…／第8話：鬼も3人寄れば…まぁいろんな話が聞けるものです。男鬼3人・女鬼3人、それぞれの会合に密着してみました！／第9話：千鶴への劣等感の塊な兄・南雲薫。彼の本気の復讐劇がついに幕を切る！　ほか<br><br>雪村千鶴:桑島法子／土方歳三:三木眞一郎／沖田総司:森久保祥太郎／斎藤一:鳥海浩輔／藤堂平助:吉野裕行／原田左之助:遊佐浩二／風間千景:津田健次郎／近藤勇:大川透／山南敬助:飛田展男／永倉新八:坪井智浩／井上源三郎:小林範雄／山崎烝:鈴木貴征／島田魁:大羽武士／伊東甲子太郎:千々和竜策／天霧九寿:山口りゅう／不知火匡:吉田裕秋／南雲薫:伊藤葉純／千姫:石川綾乃／君菊:勝田晶子<br><br>原作:アイデアファクトリー／監督:篠原ぱらこ／シリーズ構成:野々村友紀子／アニメーション制作:DLE／製作:
+    IF・DF/｢薄桜鬼～御伽草子～｣製作委員会<br><br>©IF・DF/「薄桜鬼～御伽草子～」製作委員会'
+  length_seconds: 2531
+  content_id: so32993488
+  default_thread_id: 1522722094
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32993488
+cast: "[キャスト]<br>雪村千鶴:桑島法子／土方歳三:三木眞一郎／沖田総司:森久保祥太郎／斎藤一:鳥海浩輔／藤堂平助:吉野裕行／原田左之助:遊佐浩二／風間千景:津田健次郎／近藤勇:大川透／山南敬助:飛田展男／永倉新八:坪井智浩／井上源三郎:小林範雄／山崎烝:鈴木貴征／島田魁:大羽武士／伊東甲子太郎:千々和竜策／天霧九寿:山口りゅう／不知火匡:吉田裕秋／南雲薫:伊藤葉純／千姫:石川綾乃／君菊:勝田晶子"
+staff: "[スタッフ]<br>原作:アイデアファクトリー／監督:篠原ぱらこ／シリーズ構成:野々村友紀子／アニメーション制作:DLE／製作: IF・DF/｢薄桜鬼～御伽草子～｣製作委員会"
+produced_year: "[製作年]<br>2016年"
+copyright: "©IF・DF/「薄桜鬼～御伽草子～」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 劇場版 薄桜鬼 第一章 京都乱舞
+- !ruby/hash:SeasonHash
+  title: 劇場版 薄桜鬼 第二章 士魂蒼穹
+- !ruby/hash:SeasonHash
+  title: 薄桜鬼
+- !ruby/hash:SeasonHash
+  title: 薄桜鬼碧血録　全10話＋特別編
+- !ruby/hash:SeasonHash
+  title: 薄桜鬼 黎明録

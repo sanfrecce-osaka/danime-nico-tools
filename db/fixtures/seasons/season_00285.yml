@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: 彼女と彼女の猫 - Everything Flows -
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/70/5/21705_1_6.png?1501050602000
+outline: ある夏の一番暑い日、彼女と、彼女の飼い猫である“僕”の暮らしが始まった。彼女は、通っている短大の卒業を控え、就職活動に追われる毎日を送っている。いつも頑張っている彼女にとって、“僕”と過ごす時間は、互いにひと時の安らぎを感じられる、とても大切なものだった。しかし、家族のことや、友達のこと、将来のこと…いろいろなことがうまくいかず、彼女は次第に傷つき、立ち止まってしまいそうになる。それでも彼女は、背筋を伸ばし、今日も扉を開けて外の世界へと踏み出していく。そんな大好きな彼女のことを、“僕”はいつまでも見守っていたいと思っていた。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅沼晋太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢作紗友里
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：坂本一也
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：海島千本
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：TO-MAS SOUNDSIGHT FLUORESCENT FOREST
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ライデンフィルム京都スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Sec.1
+  title: 彼女と彼女の部屋
+  description: 彼女:花澤香菜／僕:浅沼晋太郎／友人:矢作紗友里／母親:平松晶子<br><br>原作:新海　誠／監督:坂本一也／シリーズ構成・脚本:永川成基／キャラクターデザイン・総作画監督:海島千本／美術監督:田中孝典／撮影監督:高橋昭裕（J.C.STAFF）／編集:福島由晃（グッドジョブ）／音響監督:鶴岡陽太／音楽:TO-MAS
+    SOUNDSIGHT FLUORESCENT FOREST／エンディング・テーマ:クラムボン／アニメーション制作:ライデンフィルム 京都スタジオ／製作:彼女と彼女の猫EF製作委員会<br><br>次話→so32126702
+  length_seconds: 470
+  content_id: so32126715
+  default_thread_id: 1508447145
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32126715
+- !ruby/hash:EpisodeHash
+  episode_no: Sec.2
+  title: 彼女と彼女の空
+  description: 彼女:花澤香菜／僕:浅沼晋太郎／友人:矢作紗友里／母親:平松晶子<br><br>原作:新海　誠／監督:坂本一也／シリーズ構成・脚本:永川成基／キャラクターデザイン・総作画監督:海島千本／美術監督:田中孝典／撮影監督:高橋昭裕（J.C.STAFF）／編集:福島由晃（グッドジョブ）／音響監督:鶴岡陽太／音楽:TO-MAS
+    SOUNDSIGHT FLUORESCENT FOREST／エンディング・テーマ:クラムボン／アニメーション制作:ライデンフィルム 京都スタジオ／製作:彼女と彼女の猫EF製作委員会<br><br>so32126715←前話｜次話→so32126690　第一話→so32126715
+  length_seconds: 470
+  content_id: so32126702
+  default_thread_id: 1508446571
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32126702
+- !ruby/hash:EpisodeHash
+  episode_no: Sec.3
+  title: 彼女と彼女のまなざし
+  description: 彼女:花澤香菜／僕:浅沼晋太郎／友人:矢作紗友里／母親:平松晶子<br><br>原作:新海　誠／監督:坂本一也／シリーズ構成・脚本:永川成基／キャラクターデザイン・総作画監督:海島千本／美術監督:田中孝典／撮影監督:高橋昭裕（J.C.STAFF）／編集:福島由晃（グッドジョブ）／音響監督:鶴岡陽太／音楽:TO-MAS
+    SOUNDSIGHT FLUORESCENT FOREST／エンディング・テーマ:クラムボン／アニメーション制作:ライデンフィルム 京都スタジオ／製作:彼女と彼女の猫EF製作委員会<br><br>so32126702←前話｜次話→so32126656　第一話→so32126715
+  length_seconds: 470
+  content_id: so32126690
+  default_thread_id: 1508446452
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32126690
+- !ruby/hash:EpisodeHash
+  episode_no: Sec.4
+  title: 彼女と彼の物語
+  description: 彼女:花澤香菜／僕:浅沼晋太郎／友人:矢作紗友里／母親:平松晶子<br><br>原作:新海　誠／監督:坂本一也／シリーズ構成・脚本:永川成基／キャラクターデザイン・総作画監督:海島千本／美術監督:田中孝典／撮影監督:高橋昭裕（J.C.STAFF）／編集:福島由晃（グッドジョブ）／音響監督:鶴岡陽太／音楽:TO-MAS
+    SOUNDSIGHT FLUORESCENT FOREST／エンディング・テーマ:クラムボン／アニメーション制作:ライデンフィルム 京都スタジオ／製作:彼女と彼女の猫EF製作委員会<br><br>so32126690←前話　第一話→so32126715
+  length_seconds: 470
+  content_id: so32126656
+  default_thread_id: 1508445670
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32126656
+cast: "[キャスト]<br>彼女:花澤香菜／僕:浅沼晋太郎／友人:矢作紗友里／母親:平松晶子"
+staff: "[スタッフ]<br>原作:新海　誠／監督:坂本一也／シリーズ構成・脚本:永川成基／キャラクターデザイン・総作画監督:海島千本／美術監督:田中孝典／撮影監督:高橋昭裕（J.C.STAFF）／編集:福島由晃（グッドジョブ）／音響監督:鶴岡陽太／音楽:TO-MAS
+  SOUNDSIGHT FLUORESCENT FOREST／エンディング・テーマ:クラムボン／アニメーション制作:ライデンフィルム 京都スタジオ／製作:彼女と彼女の猫EF製作委員会"
+produced_year: "[製作年]<br>2016年"
+copyright: "©Makoto Shinkai / CWF・彼女と彼女の猫EF製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

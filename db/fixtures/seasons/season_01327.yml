@@ -1,0 +1,118 @@
+--- !ruby/hash:SeasonHash
+title: Phantom-PHANTOM THE ANIMATION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/83/0/10830_1_6.png?1427216400000
+outline: 過酷な状況下で出会った暗殺者“ファントム=アイン”と“ツヴァイ=玲二”。激しい戦いの最中、惹かれあっていく二人。さらに“激しさ”“悲しさ”を加えた壮大な人間ドラマの誕生である…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 南央美
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 辻親八
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田和宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：中川幸太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ニトロプラス
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺浩二
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：アークスクリエイト
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：張村章二
+  type: staff
+- !ruby/hash:TagHash
+  name: Phantomシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 田熊純
+  type: other
+- !ruby/hash:TagHash
+  name: 池田繁美
+  type: other
+- !ruby/hash:TagHash
+  name: 飯塚康一
+  type: other
+- !ruby/hash:TagHash
+  name: Softgarage
+  type: other
+- !ruby/hash:TagHash
+  name: 金丸ゆう子
+  type: other
+- !ruby/hash:TagHash
+  name: 石野聡
+  type: other
+- !ruby/hash:TagHash
+  name: 葛山剛士
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 暗殺者
+  description: 暗黒街で相次いだマフィア幹部の暗殺事件。その影で実しやかに囁かれる謎の組織『インフェルノ』と最強の暗殺者『ファントム』の噂。一方、一人旅でアメリカを訪れた玲二は、偶然にもファントムの暗殺現場を目撃してしまう。しかしその姿は自分と幾ばくも歳の変わらない少女であった。それは玲二とアインの数奇な運命の始まりの瞬間でもあった…。<br><br>アイン:南央美／ツヴァイ:櫻井孝宏／サイス=マスター:中田和宏／クロウディア
+    マッキェネン:井上喜久子／リズィ ガーランド:折笠愛／アイザック マグワイヤ:速水奨／レイモンド ワイズメル:辻親八<br><br>原作:ニトロプラス／エグゼクティブプロデューサー:高野秀夫／プロデューサー:村竹保則／監督:元永慶太郎／脚本:張村章二／キャラクターデザイン・作画監督:渡辺浩二／銃器デザイン:石野聡／美術監督:池田繁美(第1話)・飯島由樹子(第2話)／撮影監督:葛山剛士／色彩設計:金丸ゆう子／編集:田熊純／音響監督:飯塚康一／音楽:中川幸太郎／音楽制作:ランティス／アニメーション制作:アークスクリエイト／製作:Softgarage<br><br>次話→so31885847
+  length_seconds: 1658
+  content_id: so31885846
+  default_thread_id: 1504809330
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885846
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 想い
+  description: 数々のミッションを重ね、評価の高まるアインとツヴァイ。そんな折、ある組織のボスをショッピングモールで暗殺する指令が下る。ふたりはカップルを装い、襲撃のチャンスを狙うことに。カフェでのランチ、ウインドウショッピング…緊張感を持ちながらも、ふたりの距離は少しずつ縮まっていく。アインは傷を負ったものの、今回の指令もツヴァイとの連携によって成功。お互いの存在がさらに大切に思えてきた時…再び『インフェルノ』の手が迫る!!<br><br>アイン:南央美／ツヴァイ:櫻井孝宏／サイス=マスター:中田和宏／クロウディア
+    マッキェネン:井上喜久子／リズィ ガーランド:折笠愛／アイザック マグワイヤ:速水奨／レイモンド ワイズメル:辻親八<br><br>原作:ニトロプラス／エグゼクティブプロデューサー:高野秀夫／プロデューサー:村竹保則／監督:元永慶太郎／脚本:張村章二／キャラクターデザイン・作画監督:渡辺浩二／銃器デザイン:石野聡／美術監督:池田繁美(第1話)・飯島由樹子(第2話)／撮影監督:葛山剛士／色彩設計:金丸ゆう子／編集:田熊純／音響監督:飯塚康一／音楽:中川幸太郎／音楽制作:ランティス／アニメーション制作:アークスクリエイト／製作:Softgarage<br><br>so31885846←前話｜次話→so31885848　第一話→so31885846
+  length_seconds: 1799
+  content_id: so31885847
+  default_thread_id: 1504809995
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885847
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 炎
+  description: 最強の称号“ファントム”と呼ばれる少女、アインに鍛えられ、暗殺者として共に実績を積んでいくツヴァイ。やがて、激しい戦いの最中、惹かれあっていく二人だったが、ある日、科学者・サイス=マスターは組織を裏切り、アインと共にツヴァイの元から立ち去ってしまう…。そのことで、ツヴァイは組織から尋問され、サイスとアインの追撃を命じられる!
+    そして、“二人のファントム”による悲しみの戦いが、いま始まる…。<br><br>アイン:南央美／ツヴァイ:櫻井孝宏／サイス=マスター:中田和宏／クロウディア
+    マッキェネン:井上喜久子／リズィ ガーランド:折笠愛／アイザック マグワイヤ:速水奨／レイモンド ワイズメル:辻親八<br><br>原作:ニトロプラス／エグゼクティブプロデューサー:高野秀夫／プロデューサー:村竹保則／監督:元永慶太郎／脚本:張村章二／キャラクターデザイン・作画監督:渡辺浩二／銃器デザイン:石野聡／美術監督:池田繁美(第1話)・飯島由樹子(第2話)／撮影監督:葛山剛士／色彩設計:金丸ゆう子／編集:田熊純／音響監督:飯塚康一／音楽:中川幸太郎／音楽制作:ランティス／アニメーション制作:アークスクリエイト／製作:Softgarage<br><br>so31885847←前話　第一話→so31885846
+  length_seconds: 1599
+  content_id: so31885848
+  default_thread_id: 1504809948
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885848
+cast: "[キャスト]<br>アイン:南央美／ツヴァイ:櫻井孝宏／サイス=マスター:中田和宏／クロウディア マッキェネン:井上喜久子／リズィ ガーランド:折笠愛／アイザック
+  マグワイヤ:速水奨／レイモンド ワイズメル:辻親八"
+staff: "[スタッフ]<br>原作:ニトロプラス／エグゼクティブプロデューサー:高野秀夫／プロデューサー:村竹保則／監督:元永慶太郎／脚本:張村章二／キャラクターデザイン・作画監督:渡辺浩二／銃器デザイン:石野聡／美術監督:池田繁美(第1話)・飯島由樹子(第2話)／撮影監督:葛山剛士／色彩設計:金丸ゆう子／編集:田熊純／音響監督:飯塚康一／音楽:中川幸太郎／音楽制作:ランティス／アニメーション制作:アークスクリエイト／製作:Softgarage"
+produced_year: "[製作年]<br>2004年"
+copyright: "(C)Digiturbo Nitroplus/Softgarage"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Phantom～Requiem for the Phantom～

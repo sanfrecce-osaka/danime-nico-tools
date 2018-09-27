@@ -1,0 +1,42 @@
+--- !ruby/hash:SeasonHash
+title: つぶやき隊　～つぶやき続けて３作目～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/9/21889_1_6.png?1510545655000
+outline: つぶやき隊とは、身近にある物や動物たちがキモかわキャラクターとなり、普段、心の内に秘めている思いをつぶやく目的に結成された、とくしゅ部隊である。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: つぶやきシロー
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：谷口崇
+  type: staff
+- !ruby/hash:TagHash
+  name: つぶやき隊シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1～8
+  title: 犬さん／スカイツリーさん／コンセントさん／シュレッダーさん／紙袋さん／軍手さん／信号さん／消しゴムさん
+  description: 声優:つぶやきシロー<br><br>脚本協力:堀　由史／キャラクター・作画:谷口　崇／アニメーション:奇志　戒聖／製作:ティー・オーエンタテインメント
+  length_seconds: 2231
+  content_id: so32296678
+  default_thread_id: 1511142162
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296678
+cast: "[キャスト]<br>声優:つぶやきシロー"
+staff: "[スタッフ]<br>脚本協力:堀　由史／キャラクター・作画:谷口　崇／アニメーション:奇志　戒聖／製作:ティー・オーエンタテインメント"
+produced_year: "[製作年]<br>2012年"
+copyright: "©2012ティー・オーエンタテインメント"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: つぶやき隊　～つぶやき続けて4作目～
+- !ruby/hash:SeasonHash
+  title: つぶやき隊　～まだまだ言いたいことがある～
+- !ruby/hash:SeasonHash
+  title: つぶやき隊

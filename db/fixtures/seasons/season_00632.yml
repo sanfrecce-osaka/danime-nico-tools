@@ -1,0 +1,166 @@
+--- !ruby/hash:SeasonHash
+title: 神世紀伝　マーズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/2/10282_1_6.png?1427216400000
+outline: 西暦2002年。海底火山が噴火して、平成新島が誕生。取材に向かった朝読新聞の岩倉記者は、そこに少年マーズを発見した。観測船｢あまも｣に乗っていた地球環境研究所所長、横山博士が彼を収容、調査の結果、彼には秘密の使命が託されているようであった…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: かかずゆみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 増田ゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：横山光輝
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：藤川桂介
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 早すぎた目覚め
+  description: '西暦2002年。海底火山の噴火により、平成新島が誕生…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>次話→so31928576'
+  length_seconds: 1475
+  content_id: so31928510
+  default_thread_id: 1505468684
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928510
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 封印された神託
+  description: '記憶の戻らない少年のもとに、ラッシュという男が現れた…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928510←前話｜次話→so31928578　第一話→so31928510'
+  length_seconds: 1475
+  content_id: so31928576
+  default_thread_id: 1505469327
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928576
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 吹雪の中の死闘
+  description: "｢タイタン｣が地球の攻撃により破壊され、とうとう巨神｢ガイアー｣が目覚める…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美:
+    増田ゆき／岩倉記者: 子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928576←前話｜次話→so31928678　第一話→so31928510"
+  length_seconds: 1475
+  content_id: so31928578
+  default_thread_id: 1505469352
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928578
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: スフィンクス熱砂を駆ける
+  description: '世界各地の遺跡に異変が起きていた。エジプトでもスフィンクスが消え、さらに町や村が一瞬の内に消滅する事件が…!!<br><br>マーズ:
+    関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者: 子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928578←前話｜次話→so31928679　第一話→so31928510'
+  length_seconds: 1475
+  content_id: so31928678
+  default_thread_id: 1505470546
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928678
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 雷鳴轟く山岳地帯
+  description: '岩倉貴社はマーズの過去を調査すべく、平成新島へ向かった…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928678←前話｜次話→so31928681　第一話→so31928510'
+  length_seconds: 1475
+  content_id: so31928679
+  default_thread_id: 1505470723
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928679
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 狙撃！
+  description: '出現した第三の神体は｢センサーハンター｣だった…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928679←前話｜次話→so31928682　第一話→so31928510'
+  length_seconds: 1475
+  content_id: so31928681
+  default_thread_id: 1505470721
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928681
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 追いつめられたマーズ
+  description: '深く傷を負ったマーズの体は腐敗が始まっていた…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928681←前話｜次話→so31928683　第一話→so31928510'
+  length_seconds: 1475
+  content_id: so31928682
+  default_thread_id: 1505470725
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928682
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 天の川星神伝説
+  description: '神体との熾烈な戦いによって傷ついたマーズ…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928682←前話｜次話→so31928684　第一話→so31928510'
+  length_seconds: 1488
+  content_id: so31928683
+  default_thread_id: 1505470719
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928683
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 地獄から地獄へ
+  description: '平成新島の内部にあるマーズが眠っていたプロジェクト・ラボを破壊するため、神体｢ウラエウス｣が攻撃を開始した…!!<br><br>マーズ:
+    関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者: 子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928683←前話｜次話→so31928685　第一話→so31928510'
+  length_seconds: 1488
+  content_id: so31928684
+  default_thread_id: 1505470576
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928684
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 東京クライシス！
+  description: 'プロジェクト・ラボの応戦システムが作動し、｢ウラエウス｣の攻撃は免れた…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美:
+    増田ゆき／岩倉記者: 子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928684←前話｜次話→so31928686　第一話→so31928510'
+  length_seconds: 1488
+  content_id: so31928685
+  default_thread_id: 1505470549
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928685
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 地球危機一髪
+  description: '第五の神体の｢ウラエウス｣を倒したマーズ…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928685←前話｜次話→so31928755　第一話→so31928510'
+  length_seconds: 1475
+  content_id: so31928686
+  default_thread_id: 1505470574
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928686
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 赤い星での壮大な過ち
+  description: '神体｢ラー｣の高エネルギー弾の攻撃を｢ガイアー｣の力で何とか凌いだマーズ…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美:
+    増田ゆき／岩倉記者: 子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928686←前話｜次話→so31928756　第一話→so31928510'
+  length_seconds: 1475
+  content_id: so31928755
+  default_thread_id: 1505471203
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928755
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: さらば地球よ
+  description: '最後の神体｢ラー｣を操るラッシュとの対決の時がやってきた…!!<br><br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者:
+    子安武人<br><br>原作:横山光輝／脚本:藤川桂介<br><br>so31928755←前話　第一話→so31928510'
+  length_seconds: 1455
+  content_id: so31928756
+  default_thread_id: 1505471182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928756
+cast: "[キャスト]<br>マーズ: 関 智一／ミューズ: かかずゆみ／春美: 増田ゆき／岩倉記者: 子安武人"
+staff: "[スタッフ]<br>原作:横山光輝／脚本:藤川桂介"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)2002 横山光輝・光プロダクション/神世紀伝マーズ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

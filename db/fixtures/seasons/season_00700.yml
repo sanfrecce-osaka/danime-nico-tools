@@ -1,0 +1,153 @@
+--- !ruby/hash:SeasonHash
+title: ストライク・ザ・ブラッドII OVA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/82/4/21824_1_6.png?1507802415000
+outline: 世界最強の吸血鬼と剣巫の少女が織りなす物語が今、再び始まる!!新たな物語は、アルディギア王国を巻き込んだ事件の後、場所は“絃神島”の隣に作られた新たなリゾート施設“ブルーエリジアム”から始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 瀬戸麻沙美
+  type: cast
+- !ruby/hash:TagHash
+  name: 日高里菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 葉山いくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：SILVER LINK.
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：三雲岳斗
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：佐野恵一
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：CONNECT
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本秀世
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：マニャ子
+  type: staff
+- !ruby/hash:TagHash
+  name: ストライク・ザ・ブラッドシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA アスキー・メディアワークス
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 黒の剣巫篇 Ⅰ
+  description: マリンリゾート施設・ブルーエリジアムでバカンスを楽しむ代わりに、施設の飲食店でバイトすることになった古城と浅葱。バイト中に結瞳という少女と知り合った古城は、彼女がとある研究施設から紗矢華の手によって助け出されたことを聞かされる。結瞳達が逃走する際、紗矢華は剣巫の技を使う謎の少女と交戦状態となり、安否不明になっていた。<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>次話→so32367334
+  length_seconds: 1530
+  content_id: so32367335
+  default_thread_id: 1512352408
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367335
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 黒の剣巫篇 Ⅱ
+  description: 深夜に目を覚ました古城は、妖艶に変貌した結瞳の姿を目にする。彼女の正体は最強の夢魔・サキュバスで、結瞳の能力に影響された雪菜や浅葱も、上気した表情で古城に迫ってくる……。雪霞狼の力で、なんとかその場は乗り切ったものの、今度は魔導災害専門の国家機関・太子局に所属する妃崎霧葉や、サキュバスの力に操られた紗矢華まで現れて!?<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>so32367335←前話｜次話→so32367333　第一話→so32367335
+  length_seconds: 1510
+  content_id: so32367334
+  default_thread_id: 1512352285
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367334
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 黒の剣巫篇 Ⅲ
+  description: 神々が太古に作り出した生体兵器・レヴィアタン。その巨大兵器を結瞳の力で意のままに操ろうとしていたテロリスト・久須木。彼の野望を阻むため、浅葱の協力も得て古城と雪菜はレヴィアタンへと向かう。古城達を妨害しようとする霧葉の相手を紗矢華に任せると、眷獣でレヴィアタンの魔力障壁を突破！内部への侵入に成功する!!<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>so32367334←前話｜次話→so32367332　第一話→so32367335
+  length_seconds: 1647
+  content_id: so32367333
+  default_thread_id: 1512352534
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367333
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 逃亡の第四真祖篇Ⅰ
+  description: 久々に絃神島を訪れた古城の父親・牙城。古城との再会も早々に、凪沙を連れて本土へと舞い戻ってしまう。残された古城が雪菜や友人達と共に年越しの初詣を楽しんでいると、魔法陣が映し出された謎のメールが凪沙から送られてくる。凪沙と連絡が取れないことを不審に思った古城は、浅葱に頼んで牙城の動向を探ってみるのだが――!?<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>so32367333←前話｜次話→so32367331　第一話→so32367335
+  length_seconds: 1448
+  content_id: so32367332
+  default_thread_id: 1512352071
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367332
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 逃亡の第四真祖篇Ⅱ
+  description: 凪沙の安否を確認するため本土へと渡ろうとする古城。しかし那月から思わぬ拘束を受けてしまう。ニーナと夏音の助けで辛くも逃げ出すが、那月の追跡は厳しく、古城は那月の監獄結界へと囚われてしまう……。監獄結界で“本来の姿”の那月と対峙した古城は、助けようと共に巻き込まれた夏音から吸血すると、新たな眷獣を目覚めさせるのだった！<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>so32367332←前話｜次話→so32367330　第一話→so32367335
+  length_seconds: 1543
+  content_id: so32367331
+  default_thread_id: 1512352532
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367331
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 咎神の騎士篇Ⅰ
+  description: 凪沙を連れて本土へと渡った牙城。実家の神緒多神社を訪れると、何故か母親である緋紗乃に拘束されてしまう。神緒多神社のある神縄湖周辺では、獅子王機関と自衛隊によって、とある作戦が決行されようとしていたのだった……。一方、そんな状況を知らず、温泉で羽根を伸ばしていた凪沙のもとに、獅子王機関の“三聖”が一人、闇白奈が現れ――。<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>so32367331←前話｜次話→so32367329　第一話→so32367335
+  length_seconds: 1490
+  content_id: so32367330
+  default_thread_id: 1512352309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367330
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 咎神の騎士篇Ⅱ
+  description: 本土へ渡り、古城達のもとへと急ぐ浅葱とリディアーヌ。道中で魔獣の群れに襲われるが、褐色の肌をした少年に助けられる。少年の名はイブリスベール。滅びの王朝を統べる第二真祖直系の王子であった。一方、獅子王機関と自衛隊の作戦は、トラブルに見舞われ失敗。どさくさに紛れて拘束を解いた牙城だったが、翼竜に乗った謎の騎士の襲撃を受ける！<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>so32367330←前話｜次話→so32367314　第一話→so32367335
+  length_seconds: 1546
+  content_id: so32367329
+  default_thread_id: 1512352300
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367329
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 咎神の騎士篇Ⅲ
+  description: 神縄湖の湖底に眠っていた龍族の少女グレンダ。彼女の身柄を引き渡すよう要求してくる自衛隊の様子を不審に思った古城が拒否すると、隊員は自衛隊車両をゴーレム化し、古城を襲撃！一連の騒動の黒幕は、自衛隊の中に紛れていた聖殱派のしわざであった。そして古城は、正体を現した聖殱派の魔具の力で虚無世界“ノド”へと送られてしまい――!?<br><br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香<br><br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+    LINK./CONNECT<br><br>so32367329←前話　第一話→so32367335
+  length_seconds: 1583
+  content_id: so32367314
+  default_thread_id: 1512352530
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367314
+cast: "[キャスト]<br>暁古城:細谷佳正／姫柊雪菜:種田梨沙／藍羽浅葱:瀬戸麻沙美／暁凪沙:日高里菜／煌坂紗矢華:葉山いくみ／矢瀬基樹:逢坂良太／南宮那月:金元寿子／アスタルテ:井口裕香"
+staff: "[スタッフ]<br>原作:三雲岳斗（電撃文庫刊）／原作イラスト:マニャ子／監督:山本秀世／シリーズ構成・脚本:吉野弘幸／キャラクターデザイン:佐野恵一／メカニックデザイン:明貴美加／アニメーション制作:SILVER
+  LINK./CONNECT"
+copyright: "©2016 三雲岳斗／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／PROJECT STB OVA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ストライク・ザ・ブラッドOVA ｢ヴァルキュリアの王国篇｣
+- !ruby/hash:SeasonHash
+  title: ストライク・ザ・ブラッド

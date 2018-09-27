@@ -1,0 +1,184 @@
+--- !ruby/hash:SeasonHash
+title: アニメ「ISLAND」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/27/3/22273_1_6.png?1529645504000
+outline: 本土から遠く離れた海に浮かぶ「浦島」 忘れられつつあるこの島に「タイムトラベラー」を自称するひとりの青年が流れ着く。その青年は、凛音、夏蓮、紗羅という3人の少女たちと出会い、やがて島の未来を変えるべく奔走をはじめる。排他的な因習と数々の謎を秘めた浦島をめぐる青年と少女たちの物語がひも解かれる――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 山村響
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中貴子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島唯
+  type: cast
+- !ruby/hash:TagHash
+  name: 高柳知葉
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：feel.
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川口敬一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：立山秋航
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：川村幸祐
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：フロントウイング
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ごぉ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：空中幼彩
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Stage１
+  title: またあえたねあなたと
+  description: 目覚めた時、切那には記憶がなかった。そこは時の流れに取り残された島・浦島。会う者誰もが謎めいている中、夜の海辺で出会った少女の歌声に切那はハッとする。そして不意にその名を口にしていた。「りんね……
+    ？ 」<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>次話→so33440000
+  length_seconds: 1420
+  content_id: so33424770
+  default_thread_id: 1529981777
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33480073
+- !ruby/hash:EpisodeHash
+  episode_no: Stage２
+  title: くやまないでほしいから
+  description: 凛音が口にした衝撃の言葉。その謎を解くため、切那は『バイモン病』について調べようとする。その風土病は島を閉ざし、凛音や夏蓮、紗羅たちの運命を翻弄していた。だが凛音の母・玖音から意外な事実を知らされる。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33424770←前話｜次話→so33507354　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33440000
+  default_thread_id: 1530242888
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33440000.49462
+- !ruby/hash:EpisodeHash
+  episode_no: Stage３
+  title: ただしいゆめのつむぎかた
+  description: 凛音をあの手この手で昼の海に誘い出す切那。楽しいひとときが一変したのは、秘密の廃屋を凛音が見た瞬間からだった。以降、凛音は過去から目を逸らそうとするが、逆に夏蓮は過去と向き合うため大いなる決断していた。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33440000←前話｜次話→so33550009　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33507354
+  default_thread_id: 1531285024
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33507354
+- !ruby/hash:EpisodeHash
+  episode_no: Stage４
+  title: このせかいはひみつだらけ
+  description: 夏蓮が望んだとはいえ、とんでもないことをしてしまった切那。夏蓮とともに逃げるように本土に渡り、向かったのは夏蓮の母親の元だった。切那が見守る中、夏蓮が流した涙の意味とは。そして紗羅にも何かが迫っていた。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33507354←前話｜次話→so33507355　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33550009
+  default_thread_id: 1531962547
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33550009
+- !ruby/hash:EpisodeHash
+  episode_no: Stage５
+  title: だからあなたをしんじてる
+  description: "「私には時間がない」と焦る紗羅。『切那が時を越えた秘密』を知り、切那を自分の運命の人と推測する彼女に対し、凛音は暗黒の真実を突きつけた。血塗られた歴史に終止符を打つべく、紅蓮の炎が闇の天空を焼き尽くす。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33550009←前話｜次話→so33607624　第一話→so33424770"
+  length_seconds: 1420
+  content_id: so33507355
+  default_thread_id: 1531285026
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33507355.32278
+- !ruby/hash:EpisodeHash
+  episode_no: Stage６
+  title: そこにあなたがいればいい
+  description: 夏蓮と沙羅の闇は晴れた。「今度は私の切那になって」と凛音がベッドで呟く。そして訪れる、切那との至福の時。覚悟を決めた凛音は、過去に別れを告げて明日へ歩み出す決意をする。だが玖音だけは複雑な表情だった。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33507355←前話｜次話→so33550010　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33607624
+  default_thread_id: 1532916125
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33607624
+- !ruby/hash:EpisodeHash
+  episode_no: Stage７
+  title: ずっとすきでいたいのに
+  description: 過去を断ち切ったはずの二人。だが凛音を襲う、拭い去れない忌まわしき記憶。一方切那も新たな衝撃の事実に遭遇する。事態は急転、嵐の訪れとともに真実の扉が開かれると信じた凛音は一人、荒れ狂う夜の海へと消えた。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33607624←前話｜次話→so33698075　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33550010
+  default_thread_id: 1531962606
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33731093
+- !ruby/hash:EpisodeHash
+  episode_no: Stage８
+  title: またあえたらあいしてね
+  description: 目覚めると、二人は５年前と同じ青空の下にいた。かつて凛音が真の切那と過ごし、永遠の別れを迎えた幻の島。真の切那と再会し全てに決着をつけられると喜んだ凛音だが、待ち受けていたのはさらなる謎と涙と闇だった。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33550010←前話｜次話→so33740014　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33698075
+  default_thread_id: 1534381746
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33698075
+- !ruby/hash:EpisodeHash
+  episode_no: Recursion1
+  title: マタアエタナオマエト
+  description: 氷に閉ざされた『アイランド』と呼ばれる地下シェルター内の街で、切那はリンネという少女と出会い、不思議な発明を手伝っていた。地球を救うための発明らしいが、真偽は不明。そして、街は確実に終末へと向かっていた。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33698075←前話｜次話→so33778341　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33740014
+  default_thread_id: 1535074144
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33740014
+- !ruby/hash:EpisodeHash
+  episode_no: Recursion2
+  title: モウクヤミタクナイカラ
+  description: 希望の見えない街で、切那は未来を開こうと立ち上がる。だが次々と押し寄せる悲運。そんな中、リンネの発明が完成し、切那が人類の存亡を賭けて未来へ向かうことに。その直前、切那はリンネを抱き、ある約束を交わす。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33740014←前話｜次話→so33815814　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33778341
+  default_thread_id: 1535680025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33778341
+- !ruby/hash:EpisodeHash
+  episode_no: Jump1
+  title: またあえたけどアナタは
+  description: 切那が目覚めると、あの夏と同じ砂浜だった。そして全ての出来事があの時と同じように進んでいく。その中で、切那はたった一つの出来事を変えるため、その瞬間へと突き進む。だが待ち受けていたのは衝撃の真実だった。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33778341←前話｜次話→so33852613　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33815814
+  default_thread_id: 1536283691
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33815814
+- !ruby/hash:EpisodeHash
+  episode_no: Jump2
+  title: てをつないでアシタへ
+  description: リンネと凛音…… 二人の少女をめぐる真実が明らかになり、切那は一つの決断をする。それがみんなを笑顔に出来るのか？ 　大いなる謎が解けたその果てには、新たな未来が待っていた。もう迷わない。永遠のフィナーレだ。<br><br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子<br><br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会<br><br>©2015
+    Frontwing／PROTOTYPE／アニメISLAND製作委員会<br><br>so33815814←前話　第一話→so33424770
+  length_seconds: 1420
+  content_id: so33852613
+  default_thread_id: 1536887946
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33852613
+cast: "[キャスト]<br>御原凛音:田村ゆかり／枢都夏蓮:阿澄佳奈／伽藍堂紗羅:山村響／三千界切那:鈴木達央／御原玖音:佐藤利奈／反取芽衣:中島唯／鳩間杏:高柳知葉／砂田笑里:田中貴子"
+staff: "[スタッフ]<br>原作:フロントウイング／原案:ごぉ／キャラクター原案:空中幼彩(フロントウイング)／監督:川口敬一郎／シリーズ構成:荒川稔久／キャラクターデザイン:川村幸祐／美術設定:池田祐二／美術監督:一色美緖／色彩設計:田川沙里／撮影監督:中村雄太／編集:丸山流美／音響制作:スタジオマウス／音楽:立山秋航／音楽制作:MAGES.／アニメーション制作:feel.／製作:アニメISLAND製作委員会"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2015 Frontwing／PROTOTYPE／アニメISLAND製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

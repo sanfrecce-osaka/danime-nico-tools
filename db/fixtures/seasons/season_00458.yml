@@ -1,0 +1,172 @@
+--- !ruby/hash:SeasonHash
+title: 幻魔大戦　－神話前夜の章－
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/0/10280_1_6.png?1427216400000
+outline: 遠い未来の地球、そこはモンスターや異形の者が闊歩する世界だった。その地を統括するマ王はフォースの強い子を産める、ヒト族の娘を探していた。ヒト族の娘ノンは、サル族騎馬隊に襲われていた村を救うため、自らの肉体をマ王に捧げ、双生児のルーフとジンを産み落とす。その後、マ王の元で育つルーフとノンの元で育つジン。この先、この双生児に、どの様な運命が待ち受けているのだろうか…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 清川元夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 中博史
+  type: cast
+- !ruby/hash:TagHash
+  name: 金月真美
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：上原正三
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石ノ森章太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 1
+  title: 幻魔の仔
+  description: 'マ族のヌーはマ族に逆らったため、狼の姿に変えられてしまった。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー:
+    中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>次話→so31928240'
+  length_seconds: 1474
+  content_id: so31928239
+  default_thread_id: 1505466762
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928239
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 2
+  title: ルーフとジン
+  description: 'マ王とノンの間に生まれた双子のルーフとジン。ルーフはマ族の中で王子として育てられた。一方、ジンはヒト族の中でノンとヌーに大事に育てられていた。<br><br>ルーフ:
+    野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928239←前話｜次話→so31928241　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928240
+  default_thread_id: 1505466602
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928240
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 3
+  title: 旅路の果て
+  description: 'ジンは母のノンを失い、ヌーと共に旅に出ることにした。一方ルーフも謎の声に誘われ、遠く離れた島、オオタキ島へ向かう。<br><br>ルーフ:
+    野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928240←前話｜次話→so31928242　第一話→so31928239'
+  length_seconds: 1473
+  content_id: so31928241
+  default_thread_id: 1505466604
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928241
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 4
+  title: こんぴゅーたあ88
+  description: 'ミーナの力でオオタキ島は消し飛び、ルーフとミーナは大海原に投げ出されていた。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ:
+    折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928241←前話｜次話→so31928243　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928242
+  default_thread_id: 1505466648
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928242
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 5
+  title: 邪マニ忍ブモノ
+  description: '相変わらずヒト族の娘を陵辱し続けるマ王。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王:
+    清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928242←前話｜次話→so31928244　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928243
+  default_thread_id: 1505466606
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928243
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 6
+  title: ミーナの夢
+  description: 'ミーナと共に旅を続けるルーフは、砂漠にある命の泉で一夜を過ごす。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー:
+    中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928243←前話｜次話→so31928245　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928244
+  default_thread_id: 1505466706
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928244
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 7
+  title: ヌーよ!
+  description: 'ダンの命令で穀物を町に売りに行くジンだったが命令を無視し、穀物を農民に返してしまう。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ:
+    折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928244←前話｜次話→so31928246　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928245
+  default_thread_id: 1505466609
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928245
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 8
+  title: 再会
+  description: 'ついに双子の兄弟の再会の時がきたが…。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王:
+    清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928245←前話｜次話→so31928247　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928246
+  default_thread_id: 1505466574
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928246
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 9
+  title: 父・マ王
+  description: 'ルーフたちに立ちはだかるパメロ。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王:
+    清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928246←前話｜次話→so31928248　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928247
+  default_thread_id: 1505466541
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928247
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 10
+  title: 髑髏都市(スカルシティ)
+  description: 'マ王との決戦に勝利したルーフとジンだったが大爆発に巻き込まれ、次元を越え地球に飛ばされた。<br><br>ルーフ: 野島健児／ジン:
+    浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928247←前話｜次話→so31928249　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928248
+  default_thread_id: 1505466630
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928248
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 11
+  title: 真・幻魔王
+  description: 'ルーフとジンは真・幻魔王になれと言うダーの声で目を覚ました。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー:
+    中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928248←前話｜次話→so31928251　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928249
+  default_thread_id: 1505466754
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928249
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 12
+  title: 空から…
+  description: '突如妊娠したナミエ。<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン:
+    金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928249←前話｜次話→so31928307　第一話→so31928239'
+  length_seconds: 1474
+  content_id: so31928251
+  default_thread_id: 1505466650
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928251
+- !ruby/hash:EpisodeHash
+  episode_no: STORY 13
+  title: 母
+  description: '真幻魔の座を賭け、血を分けた兄弟同士の激しい戦いが今まさに始まろうとしている!!<br><br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ:
+    折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン: 金月真美<br><br>原作:石ノ森章太郎／脚本:上原正三<br><br>so31928251←前話　第一話→so31928239'
+  length_seconds: 1455
+  content_id: so31928307
+  default_thread_id: 1505467059
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928307
+cast: "[キャスト]<br>ルーフ: 野島健児／ジン: 浪川大輔／ミーナ: 折笠富美子／ヌー: 中 博史／マ王: 清川元夢／ノン: 金月真美"
+staff: "[スタッフ]<br>原作:石ノ森章太郎／脚本:上原正三"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)2002 石森プロ/幻魔大戦 -神話前夜の章-製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

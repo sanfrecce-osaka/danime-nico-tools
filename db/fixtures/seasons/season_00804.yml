@@ -1,0 +1,78 @@
+--- !ruby/hash:SeasonHash
+title: ソニック・ザ・ヘッジホッグ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/7/11107_1_6.png?1427216400000
+outline: 世界一の俊足を誇るソニックと相棒のテイルス。彼らの元に大統領の危機を告げる使者が訪れる。新たな強敵ブラックエッグマン、メタルソニックを相手にソニックと仲間たちが立ち向かう。果たしてソニックは惑星フリーダムの平和を取り戻せるのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 松本保典
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 滝口順平
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤本譲
+  type: cast
+- !ruby/hash:TagHash
+  name: 椎名へきる
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：studioぴえろ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオぴえろ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：久保田雅史
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：二宮常雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：池上和誉
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：ゼネラル・エンタテイメント
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+- !ruby/hash:TagHash
+  name: 宮川治雄
+  type: other
+- !ruby/hash:TagHash
+  name: 関島眞頼
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Vol1
+  title: エッグマンランドへむかえ
+  description: 世界一の俊足を誇るソニックと相棒のテイルス。彼らの元に大統領の危機を告げる使者が訪れる。人質を盾に大統領官邸に立てこもるドクターエッグマン。新たな危機ブラックエッグマンに立つ向かうべく、ソニックたちは闇の大地にあるエッグマンランドへと向かう!<br><br>ソニック:菊池正美／テイルス:椎名へきる／ナックルズ:松本保典／Dr.エッグマン:滝口順平／セーラ:かないみか／大統領:藤本譲<br><br>監督:池上和誉／構成:関島眞頼／脚本:久保田雅史／メカ設定:宮川治雄／美術監督:明石聖子／キャラクターデザイン・作画監督:二宮常雄／制作:株式会社ゼネラル・エンタテイメント／アニメーション制作:株式会社スタジオぴえろ／製作・原作:株式会社セガ・エンタープライゼス<br><br>次話→so32376662
+  length_seconds: 1631
+  content_id: so32376661
+  default_thread_id: 1512525038
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32376661
+- !ruby/hash:EpisodeHash
+  episode_no: Vol2
+  title: ソニックVSメタルソニック!
+  description: ドクターエッグマンに開発されたメタルソニック。エッグマンランドに進入したソニックたちに、最速・最強の敵が襲い掛かる!メタルソニックの強大な力は天の大地を破壊し続け、大陸崩壊の危機を迎える。ソニックは自らと同じ力をもつメタルソニックに勝つ事ができるのか!?<br><br>ソニック:菊池正美／テイルス:椎名へきる／ナックルズ:松本保典／Dr.エッグマン:滝口順平／セーラ:かないみか／大統領:藤本譲<br><br>監督:池上和誉／構成:関島眞頼／脚本:久保田雅史／メカ設定:宮川治雄／美術監督:明石聖子／キャラクターデザイン・作画監督:二宮常雄／制作:株式会社ゼネラル・エンタテイメント／アニメーション制作:株式会社スタジオぴえろ／製作・原作:株式会社セガ・エンタープライゼス<br><br>so32376661←前話　第一話→so32376661
+  length_seconds: 1708
+  content_id: so32376662
+  default_thread_id: 1512525223
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32376662
+cast: "[キャスト]<br>ソニック:菊池正美／テイルス:椎名へきる／ナックルズ:松本保典／Dr.エッグマン:滝口順平／セーラ:かないみか／大統領:藤本譲"
+staff: "[スタッフ]<br>監督:池上和誉／構成:関島眞頼／脚本:久保田雅史／メカ設定:宮川治雄／美術監督:明石聖子／キャラクターデザイン・作画監督:二宮常雄／制作:株式会社ゼネラル・エンタテイメント／アニメーション制作:株式会社スタジオぴえろ／製作・原作:株式会社セガ・エンタープライゼス"
+produced_year: "[製作年]<br>1996年"
+copyright: "（c）SEGA"
+related_seasons: !ruby/array:Hashie::Array []

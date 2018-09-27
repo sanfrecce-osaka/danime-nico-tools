@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: BLUE GENDER THE WARRIOR
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/31/9/11319_1_6.png?1427216400000
+outline: 大畑晃一が監督し、全26話を再構成・新作カットを追加したひと味違う『ＢＬＵＥ ＧＥＮＤＥＲ』の世界!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田譲治
+  type: cast
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲田徹
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 神奈延年
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤栄次
+  type: cast
+- !ruby/hash:TagHash
+  name: 高瀬右光
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀勝之祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 磯部弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大畑晃一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：木崎文智
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：下司泰弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：岡本ダイスケ
+  type: staff
+- !ruby/hash:TagHash
+  name: BLUE GENDERシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: 橋本敬史
+  type: other
+- !ruby/hash:TagHash
+  name: 福地仁
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺浩二
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: BLUE GENDER THE WARRIOR
+  description: 2031年――、現医学では治せない奇病にかかった海堂祐司が冬眠者(スリーパー)となってから32年。何者かに運び出される途中覚醒した彼が目にしたものは謎の生命体『BLUE』、そして荒廃した地上だった…。<br><br>祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀
+    之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:大畑晃一／脚本:岡本ダイスケ／演出:下司泰弘／キャラクター・デザイン:木崎文智／コンセプト・デザイン:福地仁／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／デザイン・ワークス:橋本敬史／制作:AIC
+  length_seconds: 5896
+  content_id: so32041043
+  default_thread_id: 1507069644
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041043
+cast: "[キャスト]<br>祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次"
+staff: "[スタッフ]<br>監督:大畑晃一／脚本:岡本ダイスケ／演出:下司泰弘／キャラクター・デザイン:木崎文智／コンセプト・デザイン:福地仁／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／デザイン・ワークス:橋本敬史／制作:AIC"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)1999 AIC/東芝EMI (C)2002 AIC"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BLUE GENDER

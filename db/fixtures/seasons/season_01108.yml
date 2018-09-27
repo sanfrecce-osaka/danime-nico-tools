@@ -1,0 +1,223 @@
+--- !ruby/hash:SeasonHash
+title: 忍者ハットリくん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/0/11100_1_6.png?1427216400000
+outline: 伊賀の里で修行を積んだ忍者、ハットリくんが東京に修行の場を移し、ひょんなことから三葉家の居候になることから物語りは始まる。三葉家のひとり息子の“ケンイチ”とその友達、さらに正体を隠しケンイチと同じ小学校に通うライバルの甲賀忍者“ケムマキ”たちと毎回、様々な事件に巻き込まれてしまう。今回はどんな忍術が飛び出すのか!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 肝付兼太
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田栄子
+  type: cast
+- !ruby/hash:TagHash
+  name: 二又一成
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤本譲
+  type: cast
+- !ruby/hash:TagHash
+  name: 三田ゆう子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅谷政子
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀絢子
+  type: cast
+- !ruby/hash:TagHash
+  name: あきやまるな
+  type: cast
+- !ruby/hash:TagHash
+  name: 梨羽侑里
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：岸間信明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：菊池俊輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：笹川ひろし
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：城山昇
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤子不二雄Ａ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：小山真弓
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：中弘子
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：岸宗生
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：麻尾るみこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 忍者
+  type: other
+- !ruby/hash:TagHash
+  name: 笹川ひろし
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1981年
+  type: other
+- !ruby/hash:TagHash
+  name: 大熊昭
+  type: other
+- !ruby/hash:TagHash
+  name: 鈴木伸一
+  type: other
+- !ruby/hash:TagHash
+  name: 桜井正明
+  type: other
+- !ruby/hash:TagHash
+  name: 宮野隆
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 拙者!忍者でござるの巻　ほか
+  description: '拙者!忍者でござるの巻/おのれ憎っくき先生の巻/アルバイトの道はきびしいでござるの巻/獅子丸には参ったでござるの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>次話→so32695894'
+  length_seconds: 1628
+  content_id: so32695877
+  default_thread_id: 1517880361
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695877
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 目標は百点でござるの巻　ほか
+  description: '目標は百点でござるの巻/料理はまかせてくだされの巻/見たか知ったかハットリ打法の巻/甲賀からきた転校生の巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695877←前話｜次話→so32695943　第一話→so32695877'
+  length_seconds: 1628
+  content_id: so32695894
+  default_thread_id: 1517881340
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695894
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 名誉かいふくの巻　ほか
+  description: '名誉かいふくの巻/シンゾウくんお使いにいくの巻/変なお客でござるの巻/運動会は苦手でござるかの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695894←前話｜次話→so32695972　第一話→so32695877'
+  length_seconds: 1628
+  content_id: so32695943
+  default_thread_id: 1517882198
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695943
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ケンイチ氏は迷カメラマンの巻　ほか
+  description: 'ケンイチ氏は迷カメラマンの巻/怠け病をなおすでござるの巻/UFOってなんでござるかの巻/忍法金縛りの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695943←前話｜次話→so32695987　第一話→so32695877'
+  length_seconds: 1628
+  content_id: so32695972
+  default_thread_id: 1517882724
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695972
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 勉強は自分でやらねばならぬの巻　ほか
+  description: '勉強は自分でやらねばならぬの巻/シンゾウ危しの巻/栗ひろい騒動の巻/ここが忍者屋敷でござるの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695972←前話｜次話→so32695988　第一話→so32695877'
+  length_seconds: 1628
+  content_id: so32695987
+  default_thread_id: 1517883489
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695987
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 拙者!ハイキングにお供するでござるの巻　ほか
+  description: '拙者!ハイキングにお供するでござるの巻/ケムマキもなかなかやるでござるの巻/忘れ物を届けるでござるの巻/新幹線かくれんぼの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695987←前話｜次話→so32695989　第一話→so32695877'
+  length_seconds: 1628
+  content_id: so32695988
+  default_thread_id: 1517883475
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695988
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 小判がザクザクの巻　ほか
+  description: '小判がザクザクの巻/スラれたらスリかえすでござるの巻/忍法あやつりニャンニャンの巻/忍法もぐり影に挑戦するの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695988←前話｜次話→so32695990　第一話→so32695877'
+  length_seconds: 1762
+  content_id: so32695989
+  default_thread_id: 1517883471
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695989
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ニンニンとたえるが忍者でござるの巻　ほか
+  description: 'ニンニンとたえるが忍者でござるの巻/獅子丸の食べたダイヤモンドの巻/留守番はおまかせでござるの巻/かくれんぼ大作戦の巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695989←前話｜次話→so32695991　第一話→so32695877'
+  length_seconds: 1626
+  content_id: so32695990
+  default_thread_id: 1517883330
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695990
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 火の用心はおまかせくだされの巻　ほか
+  description: '火の用心はおまかせくだされの巻/シンちゃんのプレゼントの巻/風邪に御用心の巻/カエルは苦手でござるの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695990←前話｜次話→so32695949　第一話→so32695877'
+  length_seconds: 1626
+  content_id: so32695991
+  default_thread_id: 1517883474
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695991
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: シンゾウ先生をこまらせるの巻　ほか
+  description: 'シンゾウ先生をこまらせるの巻/ケン一くん空をとぶの巻/まちがったおくりものの巻/飲みすぎにご用心の巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695991←前話｜次話→so32695948　第一話→so32695877'
+  length_seconds: 1626
+  content_id: so32695949
+  default_thread_id: 1517882449
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695949
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ニンニン床屋で大騒動の巻　ほか
+  description: 'ニンニン床屋で大騒動の巻/足長ケンチャンの巻/忍法こころがわりの巻/サンタクロース騒動の巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695949←前話｜次話→so32695947　第一話→so32695877'
+  length_seconds: 1626
+  content_id: so32695948
+  default_thread_id: 1517882193
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695948
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: とんだ餅つき大会の巻　ほか
+  description: 'とんだ餅つき大会の巻/ラブレターをとり戻せの巻/凧上げはムササビの術でござるの巻/初夢三ツ葉城は日本晴れでござるの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695948←前話｜次話→so32695946　第一話→so32695877'
+  length_seconds: 1626
+  content_id: so32695947
+  default_thread_id: 1517882216
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695947
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: お正月のお客は楽しみでござるの巻　ほか
+  description: 'お正月のお客は楽しみでござるの巻/とんだ席とり合戦でござるの巻/なんといってもパパはエライのでござるの巻/留守番はつらいでござるの巻<br><br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成<br><br>原作:
+    藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔<br><br>so32695947←前話　第一話→so32695877'
+  length_seconds: 1628
+  content_id: so32695946
+  default_thread_id: 1517882200
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32695946
+cast: "[キャスト]<br>ハットリくん:堀絢子／ケン一:菅谷政子／シンゾウ:三田ゆう子／ケムマキ:肝付兼太／獅子丸:緒方賢一／影千代:山田栄子／パパ:藤本譲／ママ:梨羽侑里／夢子:あきやまるな／先生:二又一成"
+staff: "[スタッフ]<br>原作: 藤子不二雄Ａ／総監督:笹川ひろし／監修:鈴木伸一／シリーズ構成:桜井正明／脚本:城山昇、岸宗生、麻尾るみこ、小山真弓、岸間信明、中弘子／作画監督:富永貞義、なかじまちゅうじ／美術監督:宮野隆／撮影監督:角原幸枝／録音監督:大熊昭／音楽:菊池俊輔"
+produced_year: "[製作年]<br>1981年"
+copyright: ⓒ藤子スタジオ／シンエイ
+related_seasons: !ruby/array:Hashie::Array []

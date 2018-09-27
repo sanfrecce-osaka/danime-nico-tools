@@ -1,0 +1,135 @@
+--- !ruby/hash:SeasonHash
+title: 魔法少女大戦
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/25/1/11251_1_6.png?1427216400000
+outline: 人間界より遠く離れた黄泉比良坂。そこには神代に封じられた伝説の邪龍がいる。しかし、強大な力によって張り巡らされた結界も、邪龍の長年の抵抗でにわかに崩壊しつつあった。邪龍が暴れれば暴れるほど結界は緩み、その隙間から“ケガレ”が人の世に溢れだす。
+  “ケガレ”は“マガツヒ”として実体化し、人に災いを振りまく。 そして神代より、その“マガツヒ”を祓うのは巫女の役目でもあった。そして、現代。その結界の深部で何かとても良くないことが起きた。その結果、かつてにない数の“マガツヒ”が現界し、人々を襲うようになったのだ。事態を重くみた高天原に住まう神々は、自らの力を分け与えた数多くの御先神を日本中に放った。“ケガレ”“マガツヒ”を祓うための巫女——“魔法少女”たちを集めるためである。魔法少女たちは、御先神がサポートすることで日本中を走るエネルギーライン“龍脈”と接続できる。
+  その“龍脈”から膨大な魔力を得て、“封具”と呼ばれる武器を扱えるようになる。「断りきれずに……」「なんとなく」「アルバイト感覚で……」「昔からの役目だから」 ——望むと望むまいと“魔法少女”たちになった少女達は、
+  神々の力とともに日本中に発生する“マガツヒ”に立ち向かうために、日夜奔走することになる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 新井里美
+  type: cast
+- !ruby/hash:TagHash
+  name: 新谷良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 村川梨衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺崎裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 小岩井ことり
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹内良太
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GAINAX
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：兵頭一歩
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：川元まりこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Hiroshi Watanabe
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大野木彩乃
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：松井健
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 神南スタジオ
+  type: other
+- !ruby/hash:TagHash
+  name: 小泉紀介
+  type: other
+- !ruby/hash:TagHash
+  name: GAINAX
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Ｅpisode1・Ｅpisode2
+  title: 宮城県 青葉鳴子の場合＆ 静岡県 浅間まつりの場合
+  description: 宮城県 青葉鳴子と静岡県 浅間まつり。はたして彼女たちの正体は？<br><br>【宮城県】青葉鳴子:荒川美穂／タケスズメ:山寺宏一／【石川県】犬鷲由里:新谷良子／ししく:竹内良太／【東京都】小張凜:村川梨衣／モ助:新井里美／【静岡県】浅間まつり:南條愛乃／トロ:岩田光央／【三重県】神木鈴花:小松未可子／エビゾウ:千葉繁／【京都府】近衛めぶき:小岩井ことり／おあげさん:西口杏里沙／【熊本県】有明煉華:寺崎裕香／笑空:山口勝平<br><br>原作:松井健、伊藤桃香(2.5次元てれび)、GAINAX／監督:大野木彩乃／キャラクターデザイン:川元まりこ／プロデューサー:アサオヨシノリ（GAINAX）／脚本:兵頭一歩／音楽:Hiroshi
+    Watanabe／音響:小泉紀介(神南スタジオ)／キャスティング:藤崎淳、中村賢一(アクロスエンタテインメント)／アニメーション制作:GAINAX<br><br>次話→so31938935
+  length_seconds: 1440
+  content_id: so31938934
+  default_thread_id: 1505591883
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938934
+- !ruby/hash:EpisodeHash
+  episode_no: Ｅpisode3
+  title: 東京都 小張凜の場合
+  description: 大好きな祖母と賑わう銀座の街を歩く東京都の魔法少女・小張凜。人々が行き交う雑踏の先で凜は夢の中で出会った少女の姿を見つける。突き刺すような視線を投げかける謎の少女。胸のざわつきを抑え、彼女を追った先で見たものとは…。<br><br>【宮城県】青葉鳴子:荒川美穂／タケスズメ:山寺宏一／【石川県】犬鷲由里:新谷良子／ししく:竹内良太／【東京都】小張凜:村川梨衣／モ助:新井里美／【静岡県】浅間まつり:南條愛乃／トロ:岩田光央／【三重県】神木鈴花:小松未可子／エビゾウ:千葉繁／【京都府】近衛めぶき:小岩井ことり／おあげさん:西口杏里沙／【熊本県】有明煉華:寺崎裕香／笑空:山口勝平<br><br>原作:松井健、伊藤桃香(2.5次元てれび)、GAINAX／監督:大野木彩乃／キャラクターデザイン:川元まりこ／プロデューサー:アサオヨシノリ（GAINAX）／脚本:兵頭一歩／音楽:Hiroshi
+    Watanabe／音響:小泉紀介(神南スタジオ)／キャスティング:藤崎淳、中村賢一(アクロスエンタテインメント)／アニメーション制作:GAINAX<br><br>so31938934←前話｜次話→so31938936　第一話→so31938934
+  length_seconds: 959
+  content_id: so31938935
+  default_thread_id: 1505591927
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938935
+- !ruby/hash:EpisodeHash
+  episode_no: Ｅpisode4
+  title: 石川県 犬鷲由里の場合
+  description: 石川県の魔法少女・犬鷲由里(いぬわしゆり)、曲がった事が許せない彼女は地元の伝統工芸をめぐる事件に思わぬ形で巻き込まれていく……。雪が降り積もる金沢で獅子に取り憑いたマガツヒと対峙したその時、マガツヒの無念を知る----。<br><br>【宮城県】青葉鳴子:荒川美穂／タケスズメ:山寺宏一／【石川県】犬鷲由里:新谷良子／ししく:竹内良太／【東京都】小張凜:村川梨衣／モ助:新井里美／【静岡県】浅間まつり:南條愛乃／トロ:岩田光央／【三重県】神木鈴花:小松未可子／エビゾウ:千葉繁／【京都府】近衛めぶき:小岩井ことり／おあげさん:西口杏里沙／【熊本県】有明煉華:寺崎裕香／笑空:山口勝平<br><br>原作:松井健、伊藤桃香(2.5次元てれび)、GAINAX／監督:大野木彩乃／キャラクターデザイン:川元まりこ／プロデューサー:アサオヨシノリ（GAINAX）／脚本:兵頭一歩／音楽:Hiroshi
+    Watanabe／音響:小泉紀介(神南スタジオ)／キャスティング:藤崎淳、中村賢一(アクロスエンタテインメント)／アニメーション制作:GAINAX<br><br>so31938935←前話｜次話→so31938937　第一話→so31938934
+  length_seconds: 958
+  content_id: so31938936
+  default_thread_id: 1505591929
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938936
+- !ruby/hash:EpisodeHash
+  episode_no: Ｅpisode5・Ｅpisode6
+  title: 三重県 神木鈴花の場合 & 熊本県有明煉華の場合
+  description: モータースポーツが大好きな三重県の魔法少女・神木鈴花（かみきすずか）、熊本県の魔法少女・有明煉華。はたして彼女たちの正体は!?<br><br>【宮城県】青葉鳴子:荒川美穂／タケスズメ:山寺宏一／【石川県】犬鷲由里:新谷良子／ししく:竹内良太／【東京都】小張凜:村川梨衣／モ助:新井里美／【静岡県】浅間まつり:南條愛乃／トロ:岩田光央／【三重県】神木鈴花:小松未可子／エビゾウ:千葉繁／【京都府】近衛めぶき:小岩井ことり／おあげさん:西口杏里沙／【熊本県】有明煉華:寺崎裕香／笑空:山口勝平<br><br>原作:松井健、伊藤桃香(2.5次元てれび)、GAINAX／監督:大野木彩乃／キャラクターデザイン:川元まりこ／プロデューサー:アサオヨシノリ（GAINAX）／脚本:兵頭一歩／音楽:Hiroshi
+    Watanabe／音響:小泉紀介(神南スタジオ)／キャスティング:藤崎淳、中村賢一(アクロスエンタテインメント)／アニメーション制作:GAINAX<br><br>so31938936←前話｜次話→so31938938　第一話→so31938934
+  length_seconds: 1440
+  content_id: so31938937
+  default_thread_id: 1505591906
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938937
+- !ruby/hash:EpisodeHash
+  episode_no: Ｅpisode7・Ｅpisode8
+  title: 京都府 近衛めぶきの場合 & 島根県 榊天音の場合
+  description: 京都府の魔法少女・近衛めぶきは代々魔法少女を輩出してきた一族の生まれ。龍脈の力が集中する京都は日夜マガツヒの脅威にさらされている。そこに闇堕ちした魔法少女・雨切レイが龍脈の力に引き寄せられ、襲いかかる……<br><br>【宮城県】青葉鳴子:荒川美穂／タケスズメ:山寺宏一／【石川県】犬鷲由里:新谷良子／ししく:竹内良太／【東京都】小張凜:村川梨衣／モ助:新井里美／【静岡県】浅間まつり:南條愛乃／トロ:岩田光央／【三重県】神木鈴花:小松未可子／エビゾウ:千葉繁／【京都府】近衛めぶき:小岩井ことり／おあげさん:西口杏里沙／【熊本県】有明煉華:寺崎裕香／笑空:山口勝平<br><br>原作:松井健、伊藤桃香(2.5次元てれび)、GAINAX／監督:大野木彩乃／キャラクターデザイン:川元まりこ／プロデューサー:アサオヨシノリ（GAINAX）／脚本:兵頭一歩／音楽:Hiroshi
+    Watanabe／音響:小泉紀介(神南スタジオ)／キャスティング:藤崎淳、中村賢一(アクロスエンタテインメント)／アニメーション制作:GAINAX<br><br>so31938937←前話　第一話→so31938934
+  length_seconds: 1440
+  content_id: so31938938
+  default_thread_id: 1505591863
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938938
+cast: "[キャスト]<br>【宮城県】青葉鳴子:荒川美穂／タケスズメ:山寺宏一／【石川県】犬鷲由里:新谷良子／ししく:竹内良太／【東京都】小張凜:村川梨衣／モ助:新井里美／【静岡県】浅間まつり:南條愛乃／トロ:岩田光央／【三重県】神木鈴花:小松未可子／エビゾウ:千葉繁／【京都府】近衛めぶき:小岩井ことり／おあげさん:西口杏里沙／【熊本県】有明煉華:寺崎裕香／笑空:山口勝平"
+staff: "[スタッフ]<br>原作:松井健、伊藤桃香(2.5次元てれび)、GAINAX／監督:大野木彩乃／キャラクターデザイン:川元まりこ／プロデューサー:アサオヨシノリ（GAINAX）／脚本:兵頭一歩／音楽:Hiroshi
+  Watanabe／音響:小泉紀介(神南スタジオ)／キャスティング:藤崎淳、中村賢一(アクロスエンタテインメント)／アニメーション制作:GAINAX"
+produced_year: "[製作年]<br>2014年"
+copyright: "(C)2.5 次元てれび/GAINAX"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,171 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life TV シーズン 1 ??
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/39/4/20394_1_6.png?1443599122000
+outline: DVD累計60万本の大ヒット、半笑い脱力系のムダ使いCGアニメ「Peeping Life」が遂にTVアニメになった！手塚プロダクションやタツノコプロのヒーローたちが、ゆるめの進化を遂げて、ついにテレビに大登場！もちろん、いつものPeepingキャラも出演するよ！知ってる人も知らない人も、週末の夜ふけにクスッとどうぞ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：FOREST Hunting One
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：コミックス・ウェーブ・フィルム
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ''
+  description: アトムの壁ドン練習／ドロンジョ様 戦いのその後に／ブラック・ジャック 風邪引いて病院へ／バカップル グアムへ行く　飛行機編<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>次話→so31927855
+  length_seconds: 1370
+  content_id: so31927854
+  default_thread_id: 1505465151
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927854
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ''
+  description: ハクション大魔王のカラオケレクチャー／グッバイ・ショッピング（複合コピー機編）／ボヤッキーの部屋 （ゲスト：チンク）／バカップル グアムへ行く
+    入国審査編<br><br>監督:森りょういち／アニメーション制作:FOREST Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927854←前話｜次話→so31927856　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927855
+  default_thread_id: 1505465253
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927855
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ''
+  description: コバルト兄さんにも彼女出来た／キャシャーン 嫁姑問題に揺れる／ショータとコータのバレンタイン／バカップル グアムへ行く ホテル到着編<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927855←前話｜次話→so31927857　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927856
+  default_thread_id: 1505465013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927856
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ''
+  description: アイドル追っかけのアクビちゃん／ヒゲおやじとお茶の水博士のおやじトーク／サファイアの裏声練習／結婚相談所 コミュ障のマザコン男編<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927856←前話｜次話→so31927858　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927857
+  default_thread_id: 1505465133
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927857
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ''
+  description: キャシャーン 健康ランドで再会／ボヤッキーの部屋 （ゲスト：コバルト兄さん）／ZIP!×Peeping Life TV ボヤッキーの部屋
+    （ゲスト：桝アナ）／結婚相談所 現実見えてないOL編<br><br>監督:森りょういち／アニメーション制作:FOREST Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927857←前話｜次話→so31927859　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927858
+  default_thread_id: 1505465015
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927858
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ''
+  description: トリトンのダイエット大作戦／グッバイ・ショッピング（24Kネックレス編）／ZIP!×Peeping Life TV 桝アナと小熊アナの雑談／結婚相談所
+    農家の長男編<br><br>監督:森りょういち／アニメーション制作:FOREST Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927858←前話｜次話→so31927860　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927859
+  default_thread_id: 1505465033
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927859
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ''
+  description: アトムのアフレコ収録／クイズルネッサンス①／クイズルネッサンス②／クイズルネッサンス③<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927859←前話｜次話→so31927861　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927860
+  default_thread_id: 1505465251
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927860
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ''
+  description: ヤッターワン 飼い犬になる！？／パワーウインドウ越しの昼／ナチュラルオーガニック男子／ボヤッキーの部屋 （ゲスト：ブライキング・ボス）<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927860←前話｜次話→so31927904　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927861
+  default_thread_id: 1505465154
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927861
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ''
+  description: 大人になっちゃったタッチ／ハッチ デパートで迷子／ヨガの達人ムトゥさん来日／グッバイ・ショッピング（美容クリーム編）<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927861←前話｜次話→so31927906　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927904
+  default_thread_id: 1505466088
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927904
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ''
+  description: 断然、爆速っす／ケータイ親子 スマホに変える／バックパッカーと新幹線で相席／ライタンとマグマの純情男旅 金印編<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927904←前話｜次話→so31927907　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927906
+  default_thread_id: 1505465708
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927906
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ''
+  description: 海のトリトン ビーチで監視中／グッバイ・ショッピング（ガスバーナー編）／新婚ちゃん 格安ロボット掃除機を買う／ライタンとマグマの純情男旅
+    中州編<br><br>監督:森りょういち／アニメーション制作:FOREST Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927906←前話｜次話→so31927908　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927907
+  default_thread_id: 1505465869
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927907
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ''
+  description: アトム ついにボディチェンジ／ボヤッキーの部屋 （ゲスト：ハッチ）／ライタンとマグマの純情男旅 金閣寺編／オタクくん 動画配信始めようかと…<br><br>監督:森りょういち／アニメーション制作:FOREST
+    Hunting One/コミックス・ウェーブ・フィルム<br><br>so31927907←前話　第一話→so31927854
+  length_seconds: 1370
+  content_id: so31927908
+  default_thread_id: 1505465867
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31927908
+staff: "[スタッフ]<br>監督:森りょういち／アニメーション制作:FOREST Hunting One/コミックス・ウェーブ・フィルム"
+produced_year: "[製作年]<br>2015年"
+copyright: "（C）Peeping Life TV 製作委員会 2015"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ

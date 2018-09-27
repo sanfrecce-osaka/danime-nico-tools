@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: "｢リコーダーとランドセル レ♪｣"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/8/10628_1_6.png?1427216400000
+outline: 見た目は大人 小学5年生の弟あつしと、見た目は子供 高校2年生の姉あつみが、2期目ではさらに大活躍!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 明坂聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多丘千陽
+  type: cast
+- !ruby/hash:TagHash
+  name: たみやすともえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 柏山奈々美
+  type: cast
+- !ruby/hash:TagHash
+  name: 東城咲耶子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：セブン
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：スクラムスタッフ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：烏丸涼
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高橋成世
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：安斎孝秋
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：東屋めめ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ぱぷりか R.G.Y
+  type: staff
+- !ruby/hash:TagHash
+  name: リコーダーとランドセルシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: ダックスプロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+- !ruby/hash:TagHash
+  name: ドリームクリエイション
+  type: other
+- !ruby/hash:TagHash
+  name: 川添憲五
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 14話-20話
+  title: 新入生と勘違い/あつしと自転車/あつしと夢/おかしと応援/家族と温泉/あつしと運動会 その1/あつしと運動会 その2
+  description: あつしとあつみが新入生に大人気!その理由とは??/あつしが自転車を買ってもらった。テツヤとタクミに自転車を見せに行くことに。現れたあつしは…/宿題で将来の夢の作文が出たあつし。あつみや、タケ兄に聞いてみると…/お菓子を作りすぎて、沙夜を家に呼ぶとそこには、あつしの姿が。勘違いしている沙夜は…/宮川一家で温泉宿に行くことに。早速温泉に入ることになり、あつみは温泉に入るが、そこは…/あつしの学校が運動会。両親の代わりにあつみが保護者代表として行くことに…/あつしが運動会で大活躍!??<br><br>あつし:置鮎龍太郎／あつみ:釘宮理恵／沙夜:平野綾／盛山先生:たみやすともえ／ヒナちゃん:内田彩／テツヤ:南條愛乃／タクミ:合田彩／みどりちゃん:柏山奈々美／じゅんちゃん:東城咲耶子／女性警官:明坂聡美／タケ兄:櫻井孝宏<br><br>原作:東屋めめ｢リコーダーとランドセル｣竹書房刊(まんがライフオリジナル､まんがくらぶオリジナル連載中)／監督:木村寛／脚本:烏丸涼／キャラクターデザイン:高橋成世／音響監督:川添憲五／音楽:安斎孝秋　主題歌：｢Stare｣　作詞・作編曲：中野晃　歌：ぱぷりか(R.G.Y)／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／音楽制作:スクラムスタッフ／製作著作:竹書房<br><br>次話→so31880321
+  length_seconds: 1266
+  content_id: so31880320
+  default_thread_id: 1504728735
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880320
+- !ruby/hash:EpisodeHash
+  episode_no: 21話-26話
+  title: 誤解と真実/あつしとお下がりの服/あつしと文化祭/姉と妹/あつしと追いかけっこ/あつしとまたね
+  description: 沙夜があつみの家に遊びに来た。そこで遂にあつしの正体があつみの弟で小学5年生だということが判明!沙夜は…/タケ兄のお下がりの服を着て学校に行ったら、みんなの反応が変だ。タケ兄からもらった服とは??
+    /あつみの高校の文化祭に、あつしが友達と行くことに。どうなることやら…/沙夜はあつみを妹のように見ているがあつみもまんざらでないみたい。普段の二人の話/交通安全の指導で小学校に来ていた女性警官2人がかくれんぼをしているあつしを見て…/あつしとあつみたちの日常とは?<br><br>あつし:置鮎龍太郎／あつみ:釘宮理恵／沙夜:平野綾／盛山先生:たみやすともえ／ヒナちゃん:内田彩／テツヤ:南條愛乃／タクミ:合田彩／みどりちゃん:柏山奈々美／じゅんちゃん:東城咲耶子／女性警官:明坂聡美／タケ兄:櫻井孝宏<br><br>原作:東屋めめ｢リコーダーとランドセル｣竹書房刊(まんがライフオリジナル､まんがくらぶオリジナル連載中)／監督:木村寛／脚本:烏丸涼／キャラクターデザイン:高橋成世／音響監督:川添憲五／音楽:安斎孝秋　主題歌：｢Stare｣　作詞・作編曲：中野晃　歌：ぱぷりか(R.G.Y)／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／音楽制作:スクラムスタッフ／製作著作:竹書房<br><br>so31880320←前話　第一話→so31880320
+  length_seconds: 1085
+  content_id: so31880321
+  default_thread_id: 1504728437
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880321
+cast: "[キャスト]<br>あつし:置鮎龍太郎／あつみ:釘宮理恵／沙夜:平野綾／盛山先生:たみやすともえ／ヒナちゃん:内田彩／テツヤ:南條愛乃／タクミ:合田彩／みどりちゃん:柏山奈々美／じゅんちゃん:東城咲耶子／女性警官:明坂聡美／タケ兄:櫻井孝宏"
+staff: "[スタッフ]<br>原作:東屋めめ｢リコーダーとランドセル｣竹書房刊(まんがライフオリジナル､まんがくらぶオリジナル連載中)／監督:木村寛／脚本:烏丸涼／キャラクターデザイン:高橋成世／音響監督:川添憲五／音楽:安斎孝秋　主題歌：｢Stare｣　作詞・作編曲：中野晃　歌：ぱぷりか(R.G.Y)／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／音楽制作:スクラムスタッフ／製作著作:竹書房"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)2012東屋めめ/竹書房"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "｢リコーダーとランドセル ド♪｣"

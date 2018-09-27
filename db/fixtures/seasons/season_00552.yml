@@ -1,0 +1,118 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦　ル・ヌーヴォー・巴里
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/6/11096_1_6.png?1427216400000
+outline: 隊長・大神一郎が帰国した後の「巴里華撃団」の活躍を描いたＯＶＡ第4弾！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鷹森淑乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 島津冴子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小島幸子
+  type: cast
+- !ruby/hash:TagHash
+  name: 相沢恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中丸新将
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：川崎ヒロユキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：広井王子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：RADIX
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本裕介
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松原秀典
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：藤島康介
+  type: staff
+- !ruby/hash:TagHash
+  name: サクラ大戦シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: あかほりさとる
+  type: other
+- !ruby/hash:TagHash
+  name: 明貴美加
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺浩二
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 一夜限りのサーカス
+  description: クリスマスも近い巴里に墓荒らしの被害が続出。パトロールのため夜の墓場を訪れた花火とコクリコは、花火の父・正道と出会ってしまう。巴里華撃団の任務は機密事項、肉親といえども明かせない。コクリコは花火を庇うため「巴里華撃団というのはサーカスなんだよ！」打ち明け、巴里花組が一夜だけサーカスを演じることに。しかし、その会場に怪しい影が忍び寄っていた…。<br><br>エリカ・フォンティーヌ:日髙のり子／グリシーヌ・ブルーメール:島津冴子／コクリコ:小桜エツ子／ロベリア・カルリーニ:井上喜久子／北大路花火:鷹森淑乃／大神一郎:陶山章央／グラン・マ:相沢恵子／メル・レゾン:小島幸子／シー・カプリス:かないみか／迫水典通:中丸新将　他<br><br>企画・プロデュース:広井王子／エクゼクティブプロデューサー:赤松智・大場規勝・名越康晃／監督:山本裕介／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／メカニックデザイン:明貴美加／OVAキャラクター設定:田中誠輝／OVAメカニック設定:渡辺浩二／アニメーション制作:ラディクス　他<br><br>次話→so32367957
+  length_seconds: 1827
+  content_id: so32367956
+  default_thread_id: 1512368023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367956
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: メル・シー・スパイ
+  description: グラン・マの留守中にシャノワールで盗難事件発生！警察の強制捜査を主張する英国貴族だが、巴里華撃団の秘密は明かせない！焦るメル＆シーは怪しい男の追跡をするも、男は華撃団の正体を探る諜報部員だった。そうとは知らないメル＆シーは、彼等のアジトに忍び込む…。<br><br>エリカ・フォンティーヌ:日髙のり子／グリシーヌ・ブルーメール:島津冴子／コクリコ:小桜エツ子／ロベリア・カルリーニ:井上喜久子／北大路花火:鷹森淑乃／大神一郎:陶山章央／グラン・マ:相沢恵子／メル・レゾン:小島幸子／シー・カプリス:かないみか／迫水典通:中丸新将　他<br><br>企画・プロデュース:広井王子／エクゼクティブプロデューサー:赤松智・大場規勝・名越康晃／監督:山本裕介／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／メカニックデザイン:明貴美加／OVAキャラクター設定:田中誠輝／OVAメカニック設定:渡辺浩二／アニメーション制作:ラディクス　他<br><br>so32367956←前話｜次話→so32367958　第一話→so32367956
+  length_seconds: 1821
+  content_id: so32367957
+  default_thread_id: 1512367854
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367957
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 雷の尖塔
+  description: 隊長の不在のままの巴里華撃団。一方、錬金術を操り謎の怪物を創り出したトゥールネル伯爵は、巴里の街を壊滅させる為闇の力をエッフェル塔へと注ぐ。恐るべき怪物と化したエッフェル塔が巴里の街に破壊の雨を撒き散らす。果たして隊長なき巴里華撃団は、巴里の街を守ることができるのか！？<br><br>エリカ・フォンティーヌ:日髙のり子／グリシーヌ・ブルーメール:島津冴子／コクリコ:小桜エツ子／ロベリア・カルリーニ:井上喜久子／北大路花火:鷹森淑乃／大神一郎:陶山章央／グラン・マ:相沢恵子／メル・レゾン:小島幸子／シー・カプリス:かないみか／迫水典通:中丸新将　他<br><br>企画・プロデュース:広井王子／エクゼクティブプロデューサー:赤松智・大場規勝・名越康晃／監督:山本裕介／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／メカニックデザイン:明貴美加／OVAキャラクター設定:田中誠輝／OVAメカニック設定:渡辺浩二／アニメーション制作:ラディクス　他<br><br>so32367957←前話　第一話→so32367956
+  length_seconds: 1963
+  content_id: so32367958
+  default_thread_id: 1512367870
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32367958
+cast: "[キャスト]<br>エリカ・フォンティーヌ:日髙のり子／グリシーヌ・ブルーメール:島津冴子／コクリコ:小桜エツ子／ロベリア・カルリーニ:井上喜久子／北大路花火:鷹森淑乃／大神一郎:陶山章央／グラン・マ:相沢恵子／メル・レゾン:小島幸子／シー・カプリス:かないみか／迫水典通:中丸新将　他"
+staff: "[スタッフ]<br>企画・プロデュース:広井王子／エクゼクティブプロデューサー:赤松智・大場規勝・名越康晃／監督:山本裕介／シリーズ監修:あかほりさとる／シリーズ構成・脚本:川崎ヒロユキ／音楽:田中公平／キャラクター原案:藤島康介／キャラクターデザイン:松原秀典／メカニックデザイン:明貴美加／OVAキャラクター設定:田中誠輝／OVAメカニック設定:渡辺浩二／アニメーション制作:ラディクス　他"
+produced_year: "[製作年]<br>2004年"
+copyright: "（Ｃ）2004 SEGA/RED　　 Character Design（Ｃ)RED"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育

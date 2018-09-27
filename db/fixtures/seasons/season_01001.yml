@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: OVA 『ToHeart2 adplus』
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/4/10144_1_6.png?1427216400000
+outline: アクアプラスの大人気ゲーム｢ToHeart2｣のOVAシリーズが装いも新たに登場!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桂憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：カオスプロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤やすひさ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：柳沢まさひで
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：みつみ美里
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：カワタヒサシ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：甘露樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：なかむらたけし
+  type: staff
+- !ruby/hash:TagHash
+  name: ToHeartシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: "｢はじめてのおつかい｣"
+  description: はじめてのおつかい｢シルファはお買いものに行ってくるのれす!｣メイドロボのシルファは、ただいま河野家で修行中。貴明に対して強気な態度のシルファだが、実は極度の人見知りで一人で外出もままならない。お買い物ひとつ満足にできず、すぐに家に帰ってダンボールの中に引きこもってしまう。貴明はシルファを優しく見守るものの、姉であるイルファは、メイドロボとしての役割を果たせない彼女を心配する。そして、シルファが成長できるためにある計画を立てることに…。春夏のアドバイスで、貴明のために｢特製カレー｣に挑戦することになったシルファ。貴明のハート射止めるために、一人で買い物に行くことを決意する。河野はるみも加わって、買い物は思わぬ方向に発展していく。ダンボールの中から出た彼女は、外の世界に何を感じるのか?シルファ、ドキドキの初めてのおつかいは、無事成功するのか?<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里,カワタヒサシ,甘露
+    樹,なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+    Works／オープニングテーマ:｢虹の架け橋｣歌：上原れな／エンディングテーマ:｢君が残したもの｣歌：上原れな<br><br>次話→so32230695
+  length_seconds: 1784
+  content_id: so32230694
+  default_thread_id: 1510020801
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230694
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: "｢サマームード｣"
+  description: 夏休みを間近に控えたミステリ研究会の笹森花梨は、この夏の活動予定を立てていた。研究会唯一のメンバーである貴明と一緒に活動できることを楽しみにしていたのに、彼には生徒会の仕事もあるという。その矢先、貴明の入部届を保管していた机が突如消えてしまった…。一方、生徒会ではまーりゃんの提案により、水着ファッションショーの準備が進みつつあった。女の子の水着姿に想いを馳せる雄二と、水着写真集で一儲けを企むまーりゃんは、貴明をダシに参加者を次々と集めていくのだった。ファッションショーに向けてプール掃除をはじめるヒロイン達。入部届の捜索に乗り出していた花梨は、ダウジングを駆使してプールにあることを突き止めた。そこで彼女のとった行動とは…。夏の日差しが降り注ぐプールサイドで、ひと足早い水着祭が開催される!?<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里,カワタヒサシ,甘露
+    樹,なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+    Works／オープニングテーマ:｢虹の架け橋｣歌：上原れな／エンディングテーマ:｢君が残したもの｣歌：上原れな<br><br>so32230694←前話　第一話→so32230694
+  length_seconds: 1697
+  content_id: so32230695
+  default_thread_id: 1510020766
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230695
+staff: "[スタッフ]<br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里,カワタヒサシ,甘露
+  樹,なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+  Works／オープニングテーマ:｢虹の架け橋｣歌：上原れな／エンディングテーマ:｢君が残したもの｣歌：上原れな"
+produced_year: "[製作年]<br>2009年"
+copyright: "©2009 AQUAPLUS/TH2Vad Works"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ToHeart
+- !ruby/hash:SeasonHash
+  title: ToHeart Remember my memories
+- !ruby/hash:SeasonHash
+  title: ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ad』
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adnext』
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ダンジョントラベラーズ』

@@ -1,0 +1,71 @@
+--- !ruby/hash:SeasonHash
+title: あいまいみー～妄想カタストロフ～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/1/21411_1_6.png?1484190009000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 天津向
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：セブン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：羽鳥風画
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：いまざきいつき
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ちょぼらうにょぽみ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ダックスプロダクション
+  type: staff
+- !ruby/hash:TagHash
+  name: あいまいみーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: ドリームクリエイション
+  type: other
+- !ruby/hash:TagHash
+  name: 川添憲五
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第12話
+  title: 六筆協会／つづきまして／三千万／なんらか／あめのひはきらい／石運び／ふたつのなみだ／イトウ／ミイ太郎／アヴェンタドール／魔法少女ミイ／團圓カタストロフィ
+  description: 第1話：漫研部に所属する主人公、蛯原愛はごく普通の女の子。だが彼女にはラジオのハガキ職人という別の顔があったのだ……。お久しぶりです、皆様。／第2話：今回は小ネタ集です。／第3話：ぽのか先輩の計らいによって愛らは三千万を巡るタマの取り合いをはじめる。やがて疑心暗鬼となりバトルは熾烈を極めるが……。／第4話：ヒラエオサウルスがなんらかの恐竜に酷い目に遭っているのを見たミイ達は消防署に連絡するのだが……。／第5話：シトシトとそぼ降る雨は人類滅亡の予兆だったのかも知れない。愛の運命は……！？／第6話：反目し合う麻衣とミイ。二人は決着をつけるためにある対決をすることになるのだが……。／第7話：夏の同人イベントに向けて漫研部員の面々は原稿を進めていた……はずだったのだが。／第8話：水棲生物の生態について危惧した麻衣らは一路、北海道へと向かった！！／第9話：昔々あるところに住んでいたミイ太郎というしょうもない女性の一生。／第10話：ランボルギーニを買ったのだ……。眠れぬ夜を過ごすミイは熟慮の末、ランボルギーニを購入する。「アヴェンタドールLP720-4
+    50° アニヴェルサリオ」だ。風水を元に黄色のボディを選んだのだが……。／第11話：普段漫画を描かないミイには誰にも知られてはいけない秘密があった。／第12話：終息する物語――。全てはこの時に向けて動いていたのだろう……。<br><br>愛:大坪由佳／麻衣:内田彩／ミイ:内田真礼／ぽのか:茅野愛衣／その他？:天津向<br><br>原作:「あいまいみー」（原作者ちょぼらうにょぽみ・「まんがライフＷＩＮ」連載中）／監督・脚本・演出・キャラクターデザイン・作画監督:いまざきいつき／音響監督:川添憲五／音楽:羽鳥風画／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／製作:倉持南高校漫画研究部第二幕／楽曲タイトル:「全力炸裂あいまいみー！！」／歌:愛（C.V.大坪由佳）麻衣（C.V.内田彩）ミイ（C.V.内田真礼）／作詞:森永桐子／作曲、編曲:羽鳥風画／ギター演奏:マーティ・フリードマン
+  length_seconds: 2354
+  content_id: so32000347
+  default_thread_id: 1506467387
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000347
+cast: "[キャスト]<br>愛:大坪由佳／麻衣:内田彩／ミイ:内田真礼／ぽのか:茅野愛衣／その他？:天津向"
+staff: "[スタッフ]<br>原作:「あいまいみー」（原作者ちょぼらうにょぽみ・「まんがライフＷＩＮ」連載中）／監督・脚本・演出・キャラクターデザイン・作画監督:いまざきいつき／音響監督:川添憲五／音楽:羽鳥風画／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:ダックスプロダクション／製作:倉持南高校漫画研究部第二幕／楽曲タイトル:「全力炸裂あいまいみー！！」／歌:愛（C.V.大坪由佳）麻衣（C.V.内田彩）ミイ（C.V.内田真礼）／作詞:森永桐子／作曲、編曲:羽鳥風画／ギター演奏:マーティ・フリードマン"
+produced_year: "[製作年]<br>2014年"
+copyright: "©ちょぼらうにょぽみ/竹書房　倉持南高校漫画研究部第二幕2014"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: あいまいみー～Surgical Friends～
+- !ruby/hash:SeasonHash
+  title: あいまいみー

@@ -1,0 +1,34 @@
+--- !ruby/hash:SeasonHash
+title: APPLESEED
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/2/10412_1_6.png?1427216400000
+outline: 世界を壊滅状態に追い込んだ非核大戦が集結した。伝説の女性戦士デュナン・ナッツは町を彷徨(さまよ)いながら、かつての恋人ブリアレオスを想っていた。そこへ突如、ヘリが現れ美しい女性ヒトミが降りて来た……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：荒牧伸志
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: APPLESEED
+  description: 世界を壊滅状態に追い込んだ非核大戦が集結した。伝説の女性戦士デュナン・ナッツは町を彷徨(さまよ)いながら、かつての恋人ブリアレオスを想っていた。そこへ突如、ヘリが現れ美しい女性ヒトミが降りて来た……。<br><br>監督:荒牧伸志<br><br>(C)2004
+    士郎正宗/青心社・アップルシードフィルムパートナーズ
+  length_seconds: 6324
+  content_id: so33623894
+  default_thread_id: 1533196564
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33623894
+staff: "[スタッフ]<br>監督:荒牧伸志"
+produced_year: "[製作年]<br>2004年"
+copyright: "(c)2004 士郎正宗/青心社・アップルシードフィルムパートナーズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: EX MACHINA-APPLESEED SAGA-
+- !ruby/hash:SeasonHash
+  title: アップルシードXIII

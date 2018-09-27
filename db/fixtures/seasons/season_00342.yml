@@ -1,0 +1,59 @@
+--- !ruby/hash:SeasonHash
+title: がぁ～でぃあんHearts　ぱわーあっぷ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/9/10229_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 池澤春菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒木香恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 新谷真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本麻里安
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：黒田やすひろ
+  type: staff
+- !ruby/hash:TagHash
+  name: がぁ～でぃあんHeartsシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話/第2話
+  title: "｢姫ちゃんの約束♪追撃!?瞬殺の乙女『皐月姫』｣／｢永遠の闇の輪舞曲｣"
+  description: 第1話：和也を巡って、相変わらずの毎日を過ごしているひなたちのもとへ、和也の許嫁という女の子がやってきた。大財閥皐月家の娘、姫とそのメイドの鏡円である。一方的に同居を宣言した彼女たちに、納得いかないひなたち。そんなことにお構いなしの円は和也と姫をくっつけるべく、次々と行動をおこす。作戦が効を奏して、ようやく姫と和也がいい雰囲気になったとき、円が乱入してきて…。　ほか<br><br>声優:釘宮理恵、荒木香恵、池澤春菜、新谷真弓、山本麻里安<br><br>監督:黒田やすひろ<br><br>次話→so31915177
+  length_seconds: 2175
+  content_id: so31915176
+  default_thread_id: 1505242649
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31915176
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話/第4話
+  title: "｢萌えVS燃え 少女たちへの挑戦状!『くるすの☆すごい☆コスプレ』｣／｢夜明け、夢のむこうに｣"
+  description: 第3話：制服泥棒からきっぱり足を洗ったくるすは、街で見つけた伝説のアイテムが気になって仕方がない。盗むわけにもいかず、買うお金もない。悩んでいるくるすは、デイジィにそそのかされ、妖しいアルバイトをすることに…。　ほか<br><br>声優:釘宮理恵、荒木香恵、池澤春菜、新谷真弓、山本麻里安<br><br>監督:黒田やすひろ<br><br>so31915176←前話　第一話→so31915176
+  length_seconds: 2071
+  content_id: so31915177
+  default_thread_id: 1505242326
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31915177
+cast: "[キャスト]<br>声優:釘宮理恵、荒木香恵、池澤春菜、新谷真弓、山本麻里安"
+staff: "[スタッフ]<br>監督:黒田やすひろ"
+produced_year: "[製作年]<br>2005年"
+copyright: "©天津冴・角川書店／Softgarage"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: がぁ～でぃあんHearts

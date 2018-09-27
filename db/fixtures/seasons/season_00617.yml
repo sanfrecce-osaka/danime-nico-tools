@@ -1,0 +1,200 @@
+--- !ruby/hash:SeasonHash
+title: 少年メイド
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/87/5/20875_1_6.png?1458878598000
+outline: ちょっぴり掃除好きな小学生・小宮千尋は、ある日突然母を亡くしてしまった。身寄りのない千尋に手をさしのべたのは、叔父である鷹取円だった。そのまま円の豪邸に連れていかれた千尋だったが、あまりのゴミ屋敷っぷりに耐えられず、大掃除を開始！！その姿を見ていた円は、鷹取家の世話になることに反発していた千尋に、ある提案をする。それは、千尋はメイド役を、円は生活環境を提供するというギブアンドテイク案だった！！円の提案に納得した千尋だったが、渡された制服はフリフリで、お屋敷の汚れは果てしなくて…。どーなる千尋！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 島﨑信長
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 榊原良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 牧野由依
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本和臣
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原夏海
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：エイトビット
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本裕介
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石田可奈
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：山田知広
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：乙橘
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA
+  type: other
+- !ruby/hash:TagHash
+  name: 中村能子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: はたらかざるもの食うべからず！
+  description: 家事が大好きな小学生の男の子・小宮千尋は母を亡くし天蓋孤独の身に。そんな彼に叔父の美青年・鷹取円が手を差し伸べるが、助けは要らないと千尋はその申し出を断ってしまう。しかし、千尋は連れてこられた汚い屋敷の惨状に我慢爆発し、ついつい大掃除！！そんな千尋の姿を見て円はある取引を持ちかける――！？<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>次話→so32023745
+  length_seconds: 1449
+  content_id: so32023714
+  default_thread_id: 1506797405
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023714
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: しっぱいは成功の母
+  description: 家政夫業にも慣れた頃、平和な屋敷に美耶子という美少女が訪ねてくる。円を兄さまと呼ぶ娘はなんと円の許嫁！？彼女は父親と将来のことで喧嘩して家出をしてきたのだという。美耶子は父に認めて貰うべくしっかり者の千尋に弟子入りを志願するのであった！しかも彼女は円の秘書である桂一郎にある想いを秘めていて――<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023714←前話｜次話→so32023746　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023745
+  default_thread_id: 1506797385
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023745
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: いぬは三日飼えば三年恩を忘れぬ
+  description: 千尋は学校の帰り道に捨てられた小犬を見かけ、円が大の犬嫌いな事を知りつつこっそり屋敷へ連れてきてしまう。引き取り手を探すが千尋の力では見つけることができない。さらに円も千尋の様子が変だと疑い始め、しまいには桂一郎に秘密がバレてしまうのだった。桂一郎に諭され千尋は円に小犬のことを打ち明けるのだが・・・<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023745←前話｜次話→so32031208　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023746
+  default_thread_id: 1506797389
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023746
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 好きこそ物の上手なれ
+  description: 円の部屋に黒光りするヤツ―“髭男爵”が現れた！？それを見た千尋は抵抗する円を払いのけ、野放しにしていた円の部屋の大掃除を決行！千尋は部屋の中でたくさんの空の包装紙を発見し、不思議に思いつつもそれを捨ててしまう。その後綺麗にした部屋を見せるが、千尋の予想と裏腹に円は元気がなくなってしまう・・・<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023746←前話｜次話→so32023778　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32031208
+  default_thread_id: 1506908422
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32031208
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 男子の一言、金鉄の如し
+  description: 学校の階段で足を挫いた千尋は、桂一郎に家政夫業を休むよう言い渡されてしまう。円が家事をやることに多大な不安を抱える千尋。そんな彼をよそに張りきる円。しかし、夕飯はお菓子、キッチンや部屋はどんどん散らかっていく・・・
+    いったいお屋敷の中はどうなってしまうのか！？<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32031208←前話｜次話→so32023779　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023778
+  default_thread_id: 1506797734
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023778
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 袖振り合うも多生の縁
+  description: 千尋と日野は帰り道にアイドルグループ『有頂天BOYS』のメンバー竜児に出くわした。どうやら彼は自分のステージ衣装が短パンばかりなのが気に入らず、円に直談判しにきたというのだ。しかし、説得にも関わらず円はデザインの変更はしないと一蹴されてしまうのだった。しかし円は竜児にしかない個性をデザインに見出していて――<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023778←前話｜次話→so32023780　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023779
+  default_thread_id: 1506797736
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023779
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 学問は一日にしてならず
+  description: 千尋の小学校で授業参観が催されることに。でも、千尋と円はギブアンドテイクの関係。千尋は円を誘ってよいか悩み、授業参観のお知らせを隠してしまう。それを察した日野は円にフォローするよう伝えるが、円も千尋にどう切り出せば良いかわからず悩んでしまって・・・<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023779←前話｜次話→so32023782　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023780
+  default_thread_id: 1506798932
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023780
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 来年を言えば鬼が笑う
+  description: クリスマスプレゼントに、千尋は欲しかった最新式の掃除機を貰って大はしゃぎ。遊びの誘いも断って、早速大掃除！！美耶子や日野達に加えて、まさかの円や桂一郎も参加して予想外の大賑わいに！！そんな中、円は千尋の為にある計画を立てている様子・・・？<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023780←前話｜次話→so32023812　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023782
+  default_thread_id: 1506798930
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023782
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 情けは人の為ならず
+  description: 日野の妹・花子が泣きながら鷹取邸にやってきた。日野との喧嘩が理由で家出してきたらしく、迎えに来た日野に対しても、泣いたり隠れたり大暴走！日野も大好きな妹との喧嘩で、珍しく気落ちしてしまう。2人を仲直りさせるために千尋は悪戦苦闘するけれど、何故か円はのん気で・・・？<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023782←前話｜次話→so32031209　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023812
+  default_thread_id: 1506797772
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023812
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 暑さ寒さも彼岸まで
+  description: 円がまた猫を拾ってきた！？部屋に匿っていたため部屋は猫の毛でいっぱい。呆れて大掃除をする千尋に、里親探しをする桂一郎。そして、美耶子は猫アレルギーの円のために、とある妙案を――！？<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023812←前話｜次話→so32023814　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32031209
+  default_thread_id: 1506908251
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32031209
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 少年よ、大志を抱け
+  description: ショックのあまり、授業も大好きな掃除も上の空な千尋。心配した友人達が千尋を元気づけるため奮闘するが、ことごとく効果がない。そんな中、日野があることを思い付く。一方、幼い頃の夢を見る円。その表情は淋しげで・・・<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32031209←前話｜次話→so32023815　第一話→so32023714
+  length_seconds: 1449
+  content_id: so32023814
+  default_thread_id: 1506797790
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023814
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 終わり良ければすべて良し
+  description: 大量のウェディングドレスの注文でてんやわんやの鷹取家。おまけに無理が祟って円は熱を出してしまう。千尋の協力もあって仕事は一段落したけれど、円の体調は元に戻らない・・・。千尋が心配する中、円は千代のウェディングドレスの思い出を語り出す。<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023814←前話｜次話→so32023816　第一話→so32023714
+  length_seconds: 1419
+  content_id: so32023815
+  default_thread_id: 1506797778
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023815
+- !ruby/hash:EpisodeHash
+  episode_no: 第8.5話
+  title: 女は度胸、男は愛嬌？
+  description: もうすぐ2月14日。千尋の周りもバレンタインデーの話題で持ち切りだ。日野はおじいさんとモテ男勝負。美耶子も今年こそは桂一郎に気持ちを伝えようと円と作戦会議に勤しむ。そして千尋も、クラスメイトの女の子から淡い想いを抱かれていて……！？<br><br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子<br><br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG
+    COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット<br><br>so32023815←前話　第一話→so32023714
+  length_seconds: 1419
+  content_id: so32023816
+  default_thread_id: 1506797738
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023816
+cast: "[キャスト]<br>小宮千尋:藤原夏海／鷹取円:島﨑信長／篠崎桂一郎:前野智昭／鳳美耶子:牧野由依／日野祐司:斎賀みつき／竜児:花江夏樹／隼人:八代拓／伊吹:山本和臣／小宮千代:田村ゆかり／鷹取一砂:榊原良子"
+staff: "[スタッフ]<br>原作:乙橘『少年メイド』(KADOKAWA｢B’s-LOG COMIC｣連載中) ／監督:山本裕介／シリーズ構成:中村能子／キャラクターデザイン:石田可奈／音楽:山田知広／アニメーション制作:エイトビット"
+produced_year: "[製作年]<br>2016年"
+copyright: "©乙橘・ＫＡＤＯＫＡＷＡ/少年メイド製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

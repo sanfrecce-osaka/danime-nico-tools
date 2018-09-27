@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: おいら宇宙の探鉱夫
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/27/1/10271_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 京田尚子
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田祐司
+  type: cast
+- !ruby/hash:TagHash
+  name: 辻村真人
+  type: cast
+- !ruby/hash:TagHash
+  name: 一城みゆ希
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：川元利浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：飯田馬之介
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：フォースマン・ランチフィールド
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 118,000ミリセコンドの悪夢
+  description: ときは未来、ところは宇宙。ラグランジュ・ポイントのひとつに小惑星が固定されていた。その名はトータチス。そこに住む唯一の子供・牛若は、探鉱夫として仕事をこなす大人たちの中で自分の居場所を得る為、小型ビークル操縦免許の取得に意欲を燃やしていた。これさえ合格すれば、一人前だ！意気揚々とテスト会場に向かう牛若。その頃、トータチス史上二度目の巨大プロジェクトが進行していた。地球に最接近するハレー彗星を、トータチスと同軌道上へ固定しようというのだ。だが、地球高軌道上の軍事衛星が、同じエリアに紛れ込んでいた・・・・！<br><br>南部牛若:山口勝平／河原町フキ&amp;タクロー:日高のり子／南部光三郎:大塚明夫／南部由美子:一城みゆ希／新川:上田祐司／金部長:辻村真人／安藤:京田尚子    他<br><br>原作:フォースマン・ランチフィールド／脚本:早坂律子/飯田つとむ／監督:飯田馬之介／キャラクターデザイン・作画監督:川元利浩／メカニックデザイン:今掛勇/ムーチョス・メカヒノス／メカニック作画監督:津野田勝敏／美術監督:谷口淳一／撮影監督:森下成一／編集:瀬山武司／音楽:川井憲次／制作:トライアングルスタッフ<br><br>次話→so32230892
+  length_seconds: 1518
+  content_id: so32230891
+  default_thread_id: 1510025130
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230891
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: デストロイ&エクソダス
+  description: ハレー捕獲計画の最終フェーズで事故に見舞われたトータチスは大きな被害を受け、地球へ衝突する軌道を描き始めた。衝突の確立、82%。事故の瞬間、牛若は作業艇操縦免許試験中だった。小型艇もろとも宇宙に放り出された牛若は、まず試験をクリアする。それはトータチスに自分の居場所を得るという最も重要な願望を果たすため。宇宙で働ける唯一の手段だったからだ。しかし、その行動は彼を窮地に追い込んだ。推進剤は底をつき、バッテリーもあとわずか。そんな状況でコンピューター・ミスから宇宙の孤児となってしまったのだ！その頃、トータチス管制室の金部長の元へ、地球からの最後通告が届く。二次災害の恐れがあるため救援シャトルは出せない。あと数時間以内に脱出せよ、と・・・・。<br><br>南部牛若:山口勝平／河原町フキ&amp;タクロー:日高のり子／南部光三郎:大塚明夫／南部由美子:一城みゆ希／新川:上田祐司／金部長:辻村真人／安藤:京田尚子    他<br><br>原作:フォースマン・ランチフィールド／脚本:早坂律子/飯田つとむ／監督:飯田馬之介／キャラクターデザイン・作画監督:川元利浩／メカニックデザイン:今掛勇/ムーチョス・メカヒノス／メカニック作画監督:津野田勝敏／美術監督:谷口淳一／撮影監督:森下成一／編集:瀬山武司／音楽:川井憲次／制作:トライアングルスタッフ<br><br>so32230891←前話　第一話→so32230891
+  length_seconds: 1574
+  content_id: so32230892
+  default_thread_id: 1510025374
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230892
+cast: "[キャスト]<br>南部牛若:山口勝平／河原町フキ&タクロー:日高のり子／南部光三郎:大塚明夫／南部由美子:一城みゆ希／新川:上田祐司／金部長:辻村真人／安藤:京田尚子
+  他"
+staff: "[スタッフ]<br>原作:フォースマン・ランチフィールド／脚本:早坂律子/飯田つとむ／監督:飯田馬之介／キャラクターデザイン・作画監督:川元利浩／メカニックデザイン:今掛勇/ムーチョス・メカヒノス／メカニック作画監督:津野田勝敏／美術監督:谷口淳一／撮影監督:森下成一／編集:瀬山武司／音楽:川井憲次／制作:トライアングルスタッフ"
+produced_year: "[製作年]<br>1994年"
+copyright: "©1994 Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: エイリアン9
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/9/11429_1_6.png?1427216400000
+outline: 危険で気持ち悪くて誰もやりたがらないエイリアン対策係になってしまった第9小学校6年の女の子、ゆり、くみ、かすみ。その活動とは、ボウグと呼ばれる共生型エイリアンを頭にかぶり、学校に出没するエイリアンを撃退・捕獲することだった！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水香里
+  type: cast
+- !ruby/hash:TagHash
+  name: 中尾隆聖
+  type: cast
+- !ruby/hash:TagHash
+  name: 下屋則子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中山さら
+  type: cast
+- !ruby/hash:TagHash
+  name: 井端珠里
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：蓜島邦明
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：GENCO
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：入江泰浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：入江泰浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：富沢ひとし
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 岩浪美和
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 東潤一
+  type: other
+- !ruby/hash:TagHash
+  name: 村井さだゆき
+  type: other
+- !ruby/hash:TagHash
+  name: 岩倉和憲
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: VOL.1
+  title: 第9小学校 エイリアン対策係
+  description: 6年生になった大谷ゆりは、クラス投票でエイリアン対策係に選ばれてしまった。｢エイリアンなんか見たくも触りたくもない！｣という、ゆりの気持ちとは裏腹に、エイリアンと戦うため、共生型エイリアンであるボウグの装着を義務付けられてしまう。<br><br>大谷ゆり:井端珠里／川村くみ:清水香里／遠峰かすみ:下屋則子／久川めぐみ:久川綾／珠木美佑:中山真奈美／ボウグ:中尾隆聖<br><br>原作:富沢ひとし／シリーズ構成:村井さだゆき／キャラクターデザイン:入江泰浩／クリチャーデザイン:岩倉和憲／美術監督:東潤一／音響監督:岩浪美和／音楽:蓜島邦明／撮影監督:高瀬勝／監督:入江泰浩／アニメーション制作:GENCO,J.C.STAFF／製作:エイリアン9製作委員会<br><br>次話→so32041486
+  length_seconds: 1658
+  content_id: so32041469
+  default_thread_id: 1507078044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041469
+- !ruby/hash:EpisodeHash
+  episode_no: VOL.2
+  title: 退屈 宇宙船 過成長
+  description: エイリアン対策係に選ばれて1ヶ月。エイリアンに馴れ始めた矢先にエイリアンを装着した生徒に襲われ、よけい臆病になっていたゆり。久川先生の指示で、一人でエイリアンの餌係をすることになってしまうゆり。なんとか早く終わらせようと急ぐゆりの背後に、またしてもエイリアンを付けた生徒が襲い掛かり…。<br><br>大谷ゆり:井端珠里／川村くみ:清水香里／遠峰かすみ:下屋則子／久川めぐみ:久川綾／珠木美佑:中山真奈美／ボウグ:中尾隆聖<br><br>原作:富沢ひとし／シリーズ構成:村井さだゆき／キャラクターデザイン:入江泰浩／クリチャーデザイン:岩倉和憲／美術監督:東潤一／音響監督:岩浪美和／音楽:蓜島邦明／撮影監督:高瀬勝／監督:入江泰浩／アニメーション制作:GENCO,J.C.STAFF／製作:エイリアン9製作委員会<br><br>so32041469←前話｜次話→so32041487　第一話→so32041469
+  length_seconds: 1710
+  content_id: so32041486
+  default_thread_id: 1507079018
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041486
+- !ruby/hash:EpisodeHash
+  episode_no: VOL.3
+  title: 夏休み ボウグ 絶命
+  description: 夏休みに入った第9小学校。落ち込むゆりを元気づけようと、くみやかすみ、美佑の三人は、ゆりをかすみの別荘へ連れていく。海水浴、肝試し、夏祭り、花火…。目白押しのイベントにいつしかゆりの心も晴れていくように見えたが、やがて夏休みも終わりに近づいて。<br><br>大谷ゆり:井端珠里／川村くみ:清水香里／遠峰かすみ:下屋則子／久川めぐみ:久川綾／珠木美佑:中山真奈美／ボウグ:中尾隆聖<br><br>原作:富沢ひとし／シリーズ構成:村井さだゆき／キャラクターデザイン:入江泰浩／クリチャーデザイン:岩倉和憲／美術監督:東潤一／音響監督:岩浪美和／音楽:蓜島邦明／撮影監督:高瀬勝／監督:入江泰浩／アニメーション制作:GENCO,J.C.STAFF／製作:エイリアン9製作委員会<br><br>so32041486←前話｜次話→so32041488　第一話→so32041469
+  length_seconds: 1754
+  content_id: so32041487
+  default_thread_id: 1507079016
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041487
+- !ruby/hash:EpisodeHash
+  episode_no: VOL.4
+  title: 始まりの終わり
+  description: イエローナイフに取り込まれてしまったかすみ。残されたゆりとくみはかすみを助け出そうとするが、逆にイエローナイフの精神攻撃を浴びてしまう。イエローナイフの攻撃手段…。それは、かすみが一番恐れていた気持ち｢一人ぼっち｣だった…。<br><br>大谷ゆり:井端珠里／川村くみ:清水香里／遠峰かすみ:下屋則子／久川めぐみ:久川綾／珠木美佑:中山真奈美／ボウグ:中尾隆聖<br><br>原作:富沢ひとし／シリーズ構成:村井さだゆき／キャラクターデザイン:入江泰浩／クリチャーデザイン:岩倉和憲／美術監督:東潤一／音響監督:岩浪美和／音楽:蓜島邦明／撮影監督:高瀬勝／監督:入江泰浩／アニメーション制作:GENCO,J.C.STAFF／製作:エイリアン9製作委員会<br><br>so32041487←前話　第一話→so32041469
+  length_seconds: 1657
+  content_id: so32041488
+  default_thread_id: 1507079014
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041488
+cast: "[キャスト]<br>大谷ゆり:井端珠里／川村くみ:清水香里／遠峰かすみ:下屋則子／久川めぐみ:久川綾／珠木美佑:中山真奈美／ボウグ:中尾隆聖"
+staff: "[スタッフ]<br>原作:富沢ひとし／シリーズ構成:村井さだゆき／キャラクターデザイン:入江泰浩／クリチャーデザイン:岩倉和憲／美術監督:東潤一／音響監督:岩浪美和／音楽:蓜島邦明／撮影監督:高瀬勝／監督:入江泰浩／アニメーション制作:GENCO,J.C.STAFF／製作:エイリアン9製作委員会"
+produced_year: "[製作年]<br>2001年"
+copyright: "(C)富沢ひとし・秋田書店・エイリアン９製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,54 @@
+--- !ruby/hash:SeasonHash
+title: 進め!土管くん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/2/10582_1_6.png?1427216400000
+outline: カーネギー家のパパとピーターの前に、突如現れた謎の土管型ロボット・土管くん。ひょんなことから家族の一員となった土管くん。頼まれてもないのに、人助けに東奔西走の毎日。今日もハチャメチャに周囲を巻き込み大活躍!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第5話
+  title: 七夕土管/ドッヂ土管/熱暴走土管/虫取れ土管/キャンプ土管
+  description: 出演者:FROGMAN<br><br>監督・プロデューサー・脚本:FROGMAN<br><br>次話→so32036486
+  length_seconds: 1505
+  content_id: so32036485
+  default_thread_id: 1507003342
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036485
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話～第9話
+  title: 花火土管/南極土管/宿題土管/発掘土管
+  description: 出演者:FROGMAN<br><br>監督・プロデューサー・脚本:FROGMAN<br><br>so32036485←前話｜次話→so32036552　第一話→so32036485
+  length_seconds: 1204
+  content_id: so32036486
+  default_thread_id: 1507002749
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036486
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話～第13話
+  title: 秘密基地土管/潜水土管/鶴の恩返し土管/ブライダル土管
+  description: 出演者:FROGMAN<br><br>監督・プロデューサー・脚本:FROGMAN<br><br>so32036486←前話　第一話→so32036485
+  length_seconds: 1204
+  content_id: so32036552
+  default_thread_id: 1507004059
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036552
+cast: "[キャスト]<br>出演者:FROGMAN"
+staff: "[スタッフ]<br>監督・プロデューサー・脚本:FROGMAN"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

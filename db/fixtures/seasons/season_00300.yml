@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: カリーノ・コニ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/27/3/20273_1_6.png?1437958116000
+outline: "『カリーノ・コニ』はイタリアの小さなカリーノ村のカリーノ森に住む動物の子供たちの物語。ある日その森で一人暮らしをはじめた野ウサギの男の子、「コニ」。人見知りでさびしがりで甘えん坊なコニですが、実は、毎日を楽しむ天才かも？！まだ未来のことなんてまったく考えていない、好奇心100%のコニは、森の仲間を驚かせたり、喜ばせたり、勝手に踊り出しちゃう、お騒がせモノ。でも、仲間たちはコニが来てからの毎日が楽しいなって、思っているみたいなんです。なんだか、コニといるとワクワクしてドキドキしちゃうから、かもしれませんね。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 新井里美
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤村知可
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：アベユーイチ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中野シロウ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：ロボット
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第6話
+  title: 引っ越してきタ～ノ！！／トビーに会っタ～ノ！！／ぶるブルーナ～ノ！！／ビアンカ来タ～ノ！！／ひとりぼっちナ～ノ！！／ファビオ 大人ナ～ノ！！
+  description: 第1話：カリーノ森に子うさぎが降ってきた！？広場の時計台に引っかかっちゃって「ぼくの家はどこー？」／第2話：森で迷子になっちゃったコニは子ネズミのトビーと出会う。怖がりのコニ「追いかけてこないでー！」／第3話：新しい家にやっとたどり着いたコニ。でも一人はなんだか怖い。「ひぇ～！だ、だれか、いる～」／第4話：トビーがキツネの女の子ビアンカを連れてやって来た。コニはオロオロしちゃって、「か、かわいい・・・」／第5話：家族と離れて一人暮らしを始めたコニ。家でなんだかひとりぼっち。「さみしくないも～ん！ないも～ん・・・」／第6話：ビアンカのお兄さん、キツネのファビオがオープンカーで帰って来た！大人のお兄さんに声をかけられて、コニ大興奮！「か、かっこいい！」<br><br>キャスト:新井　里美、藤村　知可、関　智一<br><br>原作:play
+    set products/ROBOT／キャラクターデザイン:中野　シロウ／シリーズ構成:広田　光毅／テーマ曲:「ピザ パスタ ピザのうた」／作詞:Nikkos
+    Bifaro Vincenzo、アベ ユーイチ／作曲:Nikkos Bifaro Vincenzo／歌:MAYA &amp; Z／制作:ロボット／監督:アベ
+    ユーイチ<br><br>次話→so32219858
+  length_seconds: 1025
+  content_id: so32219857
+  default_thread_id: 1509856774
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219857
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話～第12話
+  title: ふたりでサッカ～ノ！！　他／風船たのしイ～ノ！！　他／タオって何ナ～ノ？？／セルの洞窟ナ～ノ！！／染色すごイ～ノ！！　他／ハリーの魂（ソウル）ナ～ノ！！
+  description: 第7話：トビーとサッカーを始めたコニ！でも、それってサッカー？「ダンスも見てみて！」／第8話：またトビーと仲良く遊んでるコニ。でもコニはトビーにびっくり！？「キミってなに？」「キミはなんでそんなに◯◯◯なの？」／第9話：森で偶然みつけたランドセルの落とし物。誰のかな～？しばらくすると持ち主登場！「でででで、出た～！」／第10話：トビーと遊んでたら洞窟に落ちちゃったコニ！そこは見たことない世界だった！「たまごタマゴたまごーーーー？？？？」／第11話：セルの染色の仕事って何？あいつがトビーのいとこ？「イロイロなんだかすごイ～ノ！！」第12話：ロンリーでクールなギタリスト、ハリー登場。あまりのカッコ良さにコニは「し、しびれる～！」<br><br>キャスト:新井　里美、藤村　知可、関　智一<br><br>原作:play
+    set products/ROBOT／キャラクターデザイン:中野　シロウ／シリーズ構成:広田　光毅／テーマ曲:「ピザ パスタ ピザのうた」／作詞:Nikkos
+    Bifaro Vincenzo、アベ ユーイチ／作曲:Nikkos Bifaro Vincenzo／歌:MAYA &amp; Z／制作:ロボット／監督:アベ
+    ユーイチ<br><br>so32219857←前話｜次話→so32219860　第一話→so32219857
+  length_seconds: 1025
+  content_id: so32219858
+  default_thread_id: 1509856771
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219858
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話～第19話
+  title: トビーの一日ナ～ノ！！／パンケーキ焼ク～ノ！！／フランコの秘密ナ～ノ！！／グーフォ見張ってル～ノ！！／トマト実っタ～ノ！！ 他／ビアンカおしゃれナ～ノ！！他／染色ごっこナ～ノ！！他
+  description: 第13話：トビーの日常をのぞき見。どんな感じ？「あぁ、いい感じ…」／第14話：キッチンでやる気満々のコニ。心配するトビーに「いいから、座ってて～」／第15話：庭にブランコを作りたいコニとトビー。そこに力自慢のフランコ登場。コニは見た！「これは、ま、まさか～！？」第16話：時計台の上に行きたいコニ。しかし、目の前にはグーフォが。「何でダメなの～？」／第17話：ガーデニングで小さなトマトができた！大喜びのコニ。「ピザ作らなきゃ！」／第18話：トビーの家に、おしゃれな服装のビアンカがやってきた。「トビー、あのね…あのね…」／第19話：セルの染色アートにうっとりのビアンカとファビオ。それを見ていたコニ「あんなのカ～ンタ～ン！」<br><br>キャスト:新井　里美、藤村　知可、関　智一<br><br>原作:play
+    set products/ROBOT／キャラクターデザイン:中野　シロウ／シリーズ構成:広田　光毅／テーマ曲:「ピザ パスタ ピザのうた」／作詞:Nikkos
+    Bifaro Vincenzo、アベ ユーイチ／作曲:Nikkos Bifaro Vincenzo／歌:MAYA &amp; Z／制作:ロボット／監督:アベ
+    ユーイチ<br><br>so32219858←前話｜次話→so32219942　第一話→so32219857
+  length_seconds: 1196
+  content_id: so32219860
+  default_thread_id: 1509856959
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219860
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話～第26話
+  title: ハリーの災難ナ～ノ！！／ビアンカクッキー焼いタ～ノ！！／耳は大事ナ～ノ！！／突っ込みタイ～ノ！！他／タオの夜ナ～ノ！！／ホームシックになっタ～ノ！！／オレンジ祭りナ～ノ！！
+  description: 第20話：孤高のロッカー、ハリー。なんでも欲しがるコニ。「ん～、我慢できないー！」／第21話：トビーのためにクッキー焼いたビアンカ。一方コニとトビーは「ス～、ハ～、フ～！」／第22話：いつもトビーに迷惑ばっかりかけてるコニ。「み、耳が・・・」／第23話：いつものように遊んでるコニとトビー「モフモフ！バッシャーン！ビューン！ベチャー！アルベデルチ！」／第24話：ある夜コニは見た！トビーも見た！みんな見た！「これって、普通なの？」／第25話：あれをしてても、これをしてても、なにをしてても、「なんだかとっても・・・」／第26話：今日は年に一度のカーニバル！「みんな一緒で楽しー！」<br><br>キャスト:新井　里美、藤村　知可、関　智一<br><br>原作:play
+    set products/ROBOT／キャラクターデザイン:中野　シロウ／シリーズ構成:広田　光毅／テーマ曲:「ピザ パスタ ピザのうた」／作詞:Nikkos
+    Bifaro Vincenzo、アベ ユーイチ／作曲:Nikkos Bifaro Vincenzo／歌:MAYA &amp; Z／制作:ロボット／監督:アベ
+    ユーイチ<br><br>so32219860←前話　第一話→so32219857
+  length_seconds: 1196
+  content_id: so32219942
+  default_thread_id: 1509858883
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32219942
+cast: "[キャスト]<br>キャスト:新井　里美、藤村　知可、関　智一"
+staff: "[スタッフ]<br>原作:play set products/ROBOT／キャラクターデザイン:中野　シロウ／シリーズ構成:広田　光毅／テーマ曲:「ピザ
+  パスタ ピザのうた」／作詞:Nikkos Bifaro Vincenzo、アベ ユーイチ／作曲:Nikkos Bifaro Vincenzo／歌:MAYA &
+  Z／制作:ロボット／監督:アベ ユーイチ"
+produced_year: "[製作年]<br>2014年"
+copyright: "©psp･ROBOT／カリーノ・コニ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

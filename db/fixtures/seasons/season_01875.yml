@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: ヤマノススメ おもいでプレゼント
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/27/8/22278_1_6.png?1529548216000
+outline: 2013年にファーストシーズン、2014年にはセカンドシーズンが放送された“女の子だけのゆるふわアウトドア”アニメ。2018年にはTVアニメ第3期の製作も発表されている。『ヤマノススメ
+  おもいでプレゼント』ストーリー「天覧山に、高尾山、三ツ峠！」これまで登ったいろいろな山と、おもいでが詰まった写真を見ていたあおいとひなた。ふと、あおいの部屋にあった宝箱を開けてしまったひなたは、手作りで不格好のアクセサリーを見つける。それをきっかけにひなたは、あおいと一緒に過ごした、幼いある日のことに思いを馳せる――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 小倉唯
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：エイトビット
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本裕介
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：yamazo
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松尾祐輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：しろ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Tom-H@ck
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ヤマノススメ おもいでプレゼント
+  description: 2013年にファーストシーズン、2014年にはセカンドシーズンが放送された“女の子だけのゆるふわアウトドア”アニメ。2018年にはTVアニメ第3期の製作も発表されている。『ヤマノススメ
+    おもいでプレゼント』ストーリー「天覧山に、高尾山、三ツ峠！」これまで登ったいろいろな山と、おもいでが詰まった写真を見ていたあおいとひなた。ふと、あおいの部屋にあった宝箱を開けてしまったひなたは、手作りで不格好のアクセサリーを見つける。それをきっかけにひなたは、あおいと一緒に過ごした、幼いある日のことに思いを馳せる――。<br><br>あおい:井口裕香／ひなた:阿澄佳奈／かえで:日笠陽子／ここな:小倉唯　ほか<br><br>原作:しろ(コミック
+    アース・スター連載)／監督・音響演出・シリーズ構成:山本裕介／脚本:ふでやすかずゆき／キャラクターデザイン・総作画監督:松尾祐輔／作画監督:嶋田和晃／美術監督:田尻健一／美術設定:藤井一志／色彩設計:藤木由香里／撮影監督:田村紗絵／編集:内田恵／音響効果:出雲範子／音楽:Tom-H@ck／yamazo／アニメーション制作:エイトビット／制作:『ヤマノススメ
+    おもいでプレゼント』製作委員会<br><br>©しろ／アース・スター エンターテイメント／『ヤマノススメ おもいでプレゼント』製作委員会
+  length_seconds: 1614
+  content_id: so33398821
+  default_thread_id: 1529564858
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33398821
+cast: "[キャスト]<br>あおい:井口裕香／ひなた:阿澄佳奈／かえで:日笠陽子／ここな:小倉唯　ほか"
+staff: "[スタッフ]<br>原作:しろ(コミック アース・スター連載)／監督・音響演出・シリーズ構成:山本裕介／脚本:ふでやすかずゆき／キャラクターデザイン・総作画監督:松尾祐輔／作画監督:嶋田和晃／美術監督:田尻健一／美術設定:藤井一志／色彩設計:藤木由香里／撮影監督:田村紗絵／編集:内田恵／音響効果:出雲範子／音楽:Tom-H@ck／yamazo／アニメーション制作:エイトビット／制作:『ヤマノススメ
+  おもいでプレゼント』製作委員会"
+produced_year: "[製作年]<br>2017年"
+copyright: "©しろ／アース・スター エンターテイメント／『ヤマノススメ おもいでプレゼント』製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ヤマノススメ
+- !ruby/hash:SeasonHash
+  title: ヤマノススメ セカンドシーズン
+- !ruby/hash:SeasonHash
+  title: ヤマノススメ サードシーズン

@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/49/1/10491_1_6.png?1427216400000
+outline: 脱力系スローライフアニメ｢Peeping Life(ピーピング・ライフ)｣の第4弾。第4弾では新たに｢チェーンロック越しの夜｣を収録。毎夜、夫の帰りが遅いことに不満をもつ妻がとった行動とは…?夫の哀愁漂う背中に共感することうけあいです!さらに独特なキャラクター｢いなヤンカップル｣では、田舎のヤンキーカップルの生態をまるっとのぞき見しちゃいます!日々の忙しさと生きることに疲れたあなた。人生をムダなことに費やそう!
+  そこに愛はあるはず…。とびきりゆるいお笑いと、はな歌まじりの感動をお届けいたします。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: サノシュンスケ
+  type: cast
+- !ruby/hash:TagHash
+  name: 森りょういち
+  type: cast
+- !ruby/hash:TagHash
+  name: 清野由佳理
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪谷光昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊佐山裕大
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：detune.
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#5"
+  title: チェーンロック越しの夜/父と娘押入れの探しもの/新婚ちゃん宝くじに当選?!/ショータとコータの勉強会/いなヤンカップル
+  description: いつものように帰宅しようとした夫。ところが玄関のドアにはチェーンロックが…。ドアの奥から妻が出てくるも開けてはくれないのであった。夫は家に入ることができるのだろうか?/押入れの中にしまったはずのストレッチ用の空気入れを探す父親。見つからないので、いっしょに娘と探そうと親娘のコミュニケーションをとろうとするのだが…。/いよいよ今日は、新婚ちゃんが楽しみにしていた宝くじの抽選日。二人で仲良く当選番号を調べることに…。見事、1等を引き当てることができるのか?/ショータとコータがいっしょに中間テストの勉強中。はじめは二人まじめに勉強していたのだが、話は意外な方向にいくのであった…。/いなかのヤンキーカップルがファミリーレストランへ。メニューを選ぼうとするがなかなか決まらない。二人はメニューを決めることができるのか?<br><br>キャスト:伊佐山裕大、垣内
+    ゆか、サノシュンスケ、清野由佳理、坪谷光昭、藤井智子、松本 剛、森 りょういち<br><br>監督:森りょういち／音楽:detune.<br><br>次話→so31875547
+  length_seconds: 1499
+  content_id: so31875546
+  default_thread_id: 1504669059
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875546
+- !ruby/hash:EpisodeHash
+  episode_no: "#6-#10"
+  title: リリックな渋滞にのせて/下着メーカー営業マンの展示会/残念!就職面接/会議中の二人/ギャラクシートリッパー
+  description: 大渋滞の高速道路。全く動かなくなってしまった車内で、リリックさんと女の子が二人暇を持て余して、しりとりを始めたのだが…。/下着メーカー営業マンの上司と部下が展示会出展。ところが、会場に来てみたところ、コンパニオンがいない!二人はこの状況を打破できるのか!?/就職面接のためにモーター会社に来た女の子。初めてなのか、緊張し過ぎなのか、全くうまく返答することができない。彼女は面接を乗り切ることができるのであろうか…。/会社営業部の月例会議中。会議の内容がくだらないので、意味もなく、意図もなく暇をつぶす二人なのだが…。/テーマパークのアトラクション｢ギャラクシートリッパー｣に配属された中年のおじさん。年下のリーダーにアトラクションのレクチャーを受けるものの、なかなか覚えられないのだが…。<br><br>キャスト:伊佐山裕大、垣内
+    ゆか、サノシュンスケ、清野由佳理、坪谷光昭、藤井智子、松本 剛、森 りょういち<br><br>監督:森りょういち／音楽:detune.<br><br>so31875546←前話　第一話→so31875546
+  length_seconds: 1543
+  content_id: so31875547
+  default_thread_id: 1504669275
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875547
+cast: "[キャスト]<br>キャスト:伊佐山裕大、垣内 ゆか、サノシュンスケ、清野由佳理、坪谷光昭、藤井智子、松本 剛、森 りょういち"
+staff: "[スタッフ]<br>監督:森りょういち／音楽:detune."
+produced_year: "[製作年]<br>2011年"
+copyright: "(c)FOREST Hunting One/ CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

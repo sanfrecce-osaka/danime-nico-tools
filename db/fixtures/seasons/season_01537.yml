@@ -1,0 +1,78 @@
+--- !ruby/hash:SeasonHash
+title: マップス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/27/0/10270_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 脚本：辻真先
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：西澤晋
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大倉雅彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：川崎真弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：長谷川裕一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+- !ruby/hash:TagHash
+  name: 本橋秀之
+  type: other
+- !ruby/hash:TagHash
+  name: Softgarage
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1巻
+  title: "「宇宙翔ける天使」"
+  description: その伝説を信じ、千年もの長きに渡って、“風まく光”を探し続けるリプミラ。彼女はついに地球でその所在地を身体に記した“マップマン”を捜し当てる。それが十鬼島ゲンだった。新宿の映画館から出てきた十鬼島ゲンとそのガールフレンド・君塚星見は、突然半裸の美女リプミラに声をかけられてた。｢千年捜したぞ、マップマン！風まく光のありかを教えてもらおう。｣そひて、雲間から突如出現した巨大なリプミラの宇宙船によって、二人はあっという間に連れ去られてしまった:。宇宙海賊リプミラが誘う、銀河を巡る大冒険が今始まる！<br><br>原作:長谷川裕一／監督:西澤
+    晋／脚本:辻 真先／キャラクターデザイン:大倉雅彦／作画監督:本橋秀之／美術監督:渋谷幸弘／音楽:川崎真弘／製作:東京ムービー新社/Softgarage<br><br>次話→so31920462
+  length_seconds: 1633
+  content_id: so31920464
+  default_thread_id: 1505327543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920464
+- !ruby/hash:EpisodeHash
+  episode_no: 第2巻
+  title: "「トラベラーの報酬」"
+  description: とある宇宙港で、突然全裸の少女・ジャルナに声をかけられたゲン。だが、ジャルナはいきなりゲンに銃を突きつけ、惑星イスナまで自分を運ぶように命令した。その頃、銀河系ではベニュアス王国とイスナ共和国間の緊張がにわかに高まっていた。自らを平和の使者と名乗り、数日以内に自分がイスナに着かなければ両国間の戦争が勃発するというジャルナ。だが、イスナの迎えがいるはずの合流地点には、死の商人と恐れられる宇宙の豪商ガッハ・カラカラの張巡らせた罠が待ち受けていた！ゲンとリプミラたちの血沸き肉躍る大冒険、第2弾！<br><br>原作:長谷川裕一／監督:西澤
+    晋／脚本:辻 真先／キャラクターデザイン:大倉雅彦／作画監督:本橋秀之／美術監督:渋谷幸弘／音楽:川崎真弘／製作:東京ムービー新社/Softgarage<br><br>so31920464←前話｜次話→so31920461　第一話→so31920464
+  length_seconds: 1559
+  content_id: so31920462
+  default_thread_id: 1505327450
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920462
+- !ruby/hash:EpisodeHash
+  episode_no: 第3巻
+  title: "「六人の幽霊船」"
+  description: ラドウの命令により、第3の星図が眠る惑星リングロドヘゲンを誘い出すリム。それがリムをも危険にさらすラウドの邪悪な罠とは知らない二人は、予定通りリプリム郷で惑星に到着した。惑星サイズのテレパシーを受け取れず、帰還した者のいないこの星で、ゲンだけはテレパシーの受信を成功、伝承族のねらいを知ることになる。一方、ゲンの残したメッセージの危険を感じたリプミラは、星見とともにリングロドに急行する。途中行く手を阻むシアンの猛攻撃にひどく傷つくリプミラだが、捨て身の戦略で窮地を脱出。だが、リングロドでは非情なラウドの微笑が待っていた。ラウドはレインを遠隔操作し、惑星破壊兵器“星の涙(スター・ティア)”を発動させたのだ！果たしてリプミラとゲンはこの危機を脱出できるのか！？<br><br>原作:長谷川裕一／監督:西澤
+    晋／脚本:辻 真先／キャラクターデザイン:大倉雅彦／作画監督:本橋秀之／美術監督:渋谷幸弘／音楽:川崎真弘／製作:東京ムービー新社/Softgarage<br><br>so31920462←前話｜次話→so31920460　第一話→so31920464
+  length_seconds: 1707
+  content_id: so31920461
+  default_thread_id: 1505327671
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920461
+- !ruby/hash:EpisodeHash
+  episode_no: 第4巻
+  title: "「伝説の復活」"
+  description: ゲンはラドウの杖に胸を貫かれ、光の中に消えた。そして、ゲンと束の間に精神交信を行ったリングロドも粉々に砕け散った。ビメイダーであるリプミラはなんとか生きのびることが出来たが、精神的なダメージは大きかった。星図を追い求めてきたはずのリプミラにとって、本当に捜し求めた秘宝とは何か？ゲンがいなくなって、ようやく彼女にも“風まく光”の真の姿が見えてきたのだった。しかし、ラウドの魔の手はとどまるところを知らなかった。1対4。圧倒的な戦力差にもリプミラはラウドに立ち向かおうとする。そこへ、輝きとともに現れた一人の男!リプミラが引きずる過去、レインの悲しい宿命、そしてラウドの数千年越しの謀略、その全てが今ひとつの決着を迎える！！そして、風は翼と共に、更なる旅へと向かうのだ。<br><br>原作:長谷川裕一／監督:西澤
+    晋／脚本:辻 真先／キャラクターデザイン:大倉雅彦／作画監督:本橋秀之／美術監督:渋谷幸弘／音楽:川崎真弘／製作:東京ムービー新社/Softgarage<br><br>so31920461←前話　第一話→so31920464
+  length_seconds: 1617
+  content_id: so31920460
+  default_thread_id: 1505327143
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920460
+staff: "[スタッフ]<br>原作:長谷川裕一／監督:西澤 晋／脚本:辻 真先／キャラクターデザイン:大倉雅彦／作画監督:本橋秀之／美術監督:渋谷幸弘／音楽:川崎真弘／製作:東京ムービー新社/Softgarage"
+produced_year: "[製作年]<br>1994年"
+copyright: "(c)　1994　長谷川裕一・学研/Softgarage・TMS"
+related_seasons: !ruby/array:Hashie::Array []

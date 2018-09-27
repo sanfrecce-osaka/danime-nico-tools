@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: ARIA The OVA～ARIETTA～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/8/10198_1_6.png?1427216400000
+outline: ある日、プリマになった夢を見た灯里は、いつもと違う日常風景に戸惑いを覚えます。食卓にアリシアの姿はなく、ドアを開けて入ってきたのは見知らぬ後輩。やがて訪れるであろう現実を前にして、夢の中の灯里は、その場に立ちつくすことしかできませんでした。目が覚めたあとも、灯里の不安は消えません。そして、頭をよぎったひとつの疑問。｢アリシアさんは、どうして私を選んだんでしょうか?｣その夜、夢の内容を打ち明けた灯里に、アリシアは自らの過去について静かに語りはじめます。それは、グランマの引退から灯里の入社までをつなぐ、ARIAカンパニーの知られざる歴史の1ページ。あの日、親友とともに昇った大鐘楼からの眺めは、アリシアの心境にどのような変化をもたらしたのでしょうか?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 斎藤千和
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 広橋涼
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 葉月絵理乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：佐藤順一
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ハルフィルムメーカー
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：天野こずえ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：佐藤順一
+  type: staff
+- !ruby/hash:TagHash
+  name: ARIAシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: テレビ東京
+  type: other
+- !ruby/hash:TagHash
+  name: メディアファクトリー
+  type: other
+- !ruby/hash:TagHash
+  name: AT-X
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ARIA The OVA～ARIETTA～
+  description: ある日、プリマになった夢を見た灯里は、いつもと違う日常風景に戸惑いを覚えます。食卓にアリシアの姿はなく、ドアを開けて入ってきたのは見知らぬ後輩。やがて訪れるであろう現実を前にして、夢の中の灯里は、その場に立ちつくすことしかできませんでした。目が覚めたあとも、灯里の不安は消えません。そして、頭をよぎったひとつの疑問。｢アリシアさんは、どうして私を選んだんでしょうか?｣その夜、夢の内容を打ち明けた灯里に、アリシアは自らの過去について静かに語りはじめます。それは、グランマの引退から灯里の入社までをつなぐ、ARIAカンパニーの知られざる歴史の1ページ。あの日、親友とともに昇った大鐘楼からの眺めは、アリシアの心境にどのような変化をもたらしたのでしょうか?<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:佐藤順一／アニメーション制作:ハルフィルムメーカー／製作:松竹・メディアファクトリー・テレビ東京・メディアネット・AT-X<br><br>(c)2007天野こずえ/マッグガーデン・ARIAカンパニー
+  length_seconds: 1830
+  content_id: so33796142
+  default_thread_id: 1535939915
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796142
+cast: "[キャスト]<br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ"
+staff: "[スタッフ]<br>監督:佐藤順一／原作:天野こずえ／脚本:佐藤順一／アニメーション制作:ハルフィルムメーカー／製作:松竹・メディアファクトリー・テレビ東京・メディアネット・AT-X"
+produced_year: "[製作年]<br>2007年"
+copyright: "(c)2007天野こずえ/マッグガーデン・ARIAカンパニー"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ARIA The ANIMATION
+- !ruby/hash:SeasonHash
+  title: ARIA The NATURAL
+- !ruby/hash:SeasonHash
+  title: ARIA The ORIGINATION
+- !ruby/hash:SeasonHash
+  title: ARIA The AVVENIRE

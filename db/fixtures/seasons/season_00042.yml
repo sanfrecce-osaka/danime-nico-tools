@@ -1,0 +1,312 @@
+--- !ruby/hash:SeasonHash
+title: あずまんが大王
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/40/5/10405_1_6.png?1427216400000
+outline: 舞台は、とある高校。ゆかり先生のクラスに、10歳の天才少女ちよちゃんが飛び級で編入してきた!さらにそのクラスには、個性的なメンツが揃っていた!果たして、彼女たちは、まともな高校生活を送れるのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅川悠
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野川さくら
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井康嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 樋口智恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 大前茜
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤やすひさ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：錦織博
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：栗原正己
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あずまきよひこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 鶴岡陽太
+  type: other
+- !ruby/hash:TagHash
+  name: 女の子たちの日常
+  type: other
+- !ruby/hash:TagHash
+  name: 大河内一楼
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1回
+  title: "｢こども高校生｣｢天才です｣｢こわいかな?｣｢爆走ともちゃん!｣｢大阪人や｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>次話→so32036349
+  length_seconds: 1262
+  content_id: so32036348
+  default_thread_id: 1507000044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036348
+- !ruby/hash:EpisodeHash
+  episode_no: 第2回
+  title: "｢今日も大阪｣｢体育・バレーボール｣｢しゃっくり｣｢脳が｣｢おにゅー｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036348←前話｜次話→so32036350　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036349
+  default_thread_id: 1507000085
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036349
+- !ruby/hash:EpisodeHash
+  episode_no: 第3回
+  title: "｢にゃも｣｢派閥抗争｣｢ゆかりがきた｣｢悪くないもん｣｢どこまでも｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036349←前話｜次話→so32036351　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036350
+  default_thread_id: 1507000070
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036350
+- !ruby/hash:EpisodeHash
+  episode_no: 第4回
+  title: "｢楽しい職業｣｢プールプールプール｣｢りぼん｣｢ふたりっきり｣｢いいひと?｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036350←前話｜次話→so32036352　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036351
+  default_thread_id: 1506999821
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036351
+- !ruby/hash:EpisodeHash
+  episode_no: 第5回
+  title: "｢なつやすみ｣｢ようこそちよの部屋へ｣｢ご招待｣｢経験者語って｣｢もうだめ｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036351←前話｜次話→so32036353　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036352
+  default_thread_id: 1506999882
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036352
+- !ruby/hash:EpisodeHash
+  episode_no: 第6回
+  title: "｢勝利の方程式｣｢三組の榊 五組の神楽｣｢ぶっちぎり｣｢わーい｣｢踊る大団円｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036352←前話｜次話→so32036354　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036353
+  default_thread_id: 1506999890
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036353
+- !ruby/hash:EpisodeHash
+  episode_no: 第7回
+  title: "｢おとぎの組｣｢人格者｣｢のりのりゴー!｣｢マスコット｣｢敵?｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036353←前話｜次話→so32036355　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036354
+  default_thread_id: 1506999805
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036354
+- !ruby/hash:EpisodeHash
+  episode_no: 第8回
+  title: "｢大阪の初夢｣｢ともちゃんの場合｣｢榊の場合｣｢ようこそ｣｢かおりんの場合｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036354←前話｜次話→so32036356　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036355
+  default_thread_id: 1507000068
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036355
+- !ruby/hash:EpisodeHash
+  episode_no: 第9回
+  title: "｢触れないなら｣｢11才｣｢ねこさん…｣｢設定｣｢なんで?｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036355←前話｜次話→so32036357　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036356
+  default_thread_id: 1507000124
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036356
+- !ruby/hash:EpisodeHash
+  episode_no: 第10回
+  title: "｢ドラフト指名｣｢クラス替え｣｢おおかみ｣｢先輩風ぴゅーぴゅー｣｢マルコ…｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036356←前話｜次話→so32036359　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036357
+  default_thread_id: 1507000049
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036357
+- !ruby/hash:EpisodeHash
+  episode_no: 第11回
+  title: "｢国際都市｣｢対決｣｢たたかなくても｣｢ねこまみれ｣｢逃げないで｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036357←前話｜次話→so32036360　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036359
+  default_thread_id: 1506999860
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036359
+- !ruby/hash:EpisodeHash
+  episode_no: 第12回
+  title: "｢ちよちゃんの一日｣｢高校のともだち｣｢お昼｣｢ごご｣｢なわとび｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036359←前話｜次話→so32036361　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036360
+  default_thread_id: 1507000065
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036360
+- !ruby/hash:EpisodeHash
+  episode_no: 第13回
+  title: "｢ノーガード戦法｣｢S｣｢中間テスト｣｢結成｣｢能力｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036360←前話｜次話→so32036362　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036361
+  default_thread_id: 1506999880
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036361
+- !ruby/hash:EpisodeHash
+  episode_no: 第14回
+  title: "｢おかいもの｣｢集合｣｢うみー!｣｢捕獲大作戦｣｢大人の世界｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036361←前話｜次話→so32036363　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036362
+  default_thread_id: 1506999838
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036362
+- !ruby/hash:EpisodeHash
+  episode_no: 第15回
+  title: "｢木村家の人々｣｢みたみた?｣｢未確認奥さん｣｢ガチガチ｣｢結果発表｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036362←前話｜次話→so32036364　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036363
+  default_thread_id: 1506999863
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036363
+- !ruby/hash:EpisodeHash
+  episode_no: 第16回
+  title: "｢くみあわせ｣｢降臨｣｢かわいい｣｢注文｣｢宣伝効果｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036363←前話｜次話→so32036365　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036364
+  default_thread_id: 1506999875
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036364
+- !ruby/hash:EpisodeHash
+  episode_no: 第17回
+  title: "｢大阪の怪談｣｢気分転換｣｢師走｣｢すごいサンタ｣｢クリスマス会｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036364←前話｜次話→so32036366　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036365
+  default_thread_id: 1506999871
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036365
+- !ruby/hash:EpisodeHash
+  episode_no: 第18回
+  title: "｢うきよみ｣｢裏切り｣｢ワクワクワクワク｣｢仲間はずれ｣｢ゴー｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036365←前話｜次話→so32036367　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036366
+  default_thread_id: 1507000047
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036366
+- !ruby/hash:EpisodeHash
+  episode_no: 第19回
+  title: "｢あくび名人｣｢なんだか青春｣｢大人の花見｣｢子供の花見｣｢桜｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036366←前話｜次話→so32036389　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036367
+  default_thread_id: 1507000140
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036367
+- !ruby/hash:EpisodeHash
+  episode_no: 第20回
+  title: "｢別離｣｢ゆかりの誕生日｣｢はばたけちよ｣｢こども大統領｣｢強く生きて下さい｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036367←前話｜次話→so32036390　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036389
+  default_thread_id: 1507000535
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036389
+- !ruby/hash:EpisodeHash
+  episode_no: 第21回
+  title: "｢期待｣｢いてもたっても｣｢海の藻屑｣｢夢の島｣｢山にすむネコ｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036389←前話｜次話→so32036440　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036390
+  default_thread_id: 1507000531
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036390
+- !ruby/hash:EpisodeHash
+  episode_no: 第22回
+  title: "｢ナイスですよ｣｢だまされた｣｢黒沢先生｣｢未遂｣｢まだ終わってない｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036390←前話｜次話→so32036441　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036440
+  default_thread_id: 1507001795
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036440
+- !ruby/hash:EpisodeHash
+  episode_no: 第23回
+  title: "｢かんだ｣｢もりあげ役｣｢考えてなかった｣｢みんなで走ります｣｢一丸｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036440←前話｜次話→so32036443　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036441
+  default_thread_id: 1507001793
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036441
+- !ruby/hash:EpisodeHash
+  episode_no: 第24回
+  title: "｢進路｣｢対決｣｢はやく行こう｣｢人望｣｢マヤーと一緒｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036441←前話｜次話→so32036444　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036443
+  default_thread_id: 1507001797
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036443
+- !ruby/hash:EpisodeHash
+  episode_no: 第25回
+  title: "｢進路相談｣｢合格祈願｣｢ファイト｣｢勉強会｣｢ともと大阪 運命の日｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036443←前話｜次話→so32036445　第一話→so32036348
+  length_seconds: 1262
+  content_id: so32036444
+  default_thread_id: 1507002572
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036444
+- !ruby/hash:EpisodeHash
+  episode_no: 第26回
+  title: "｢初めての卒業｣｢万感｣｢悲しみ｣｢母校｣｢みんな｣"
+  description: ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜<br><br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会<br><br>so32036444←前話　第一話→so32036348
+  length_seconds: 1232
+  content_id: so32036445
+  default_thread_id: 1507002574
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036445
+cast: "[キャスト]<br>ちよ:金田朋子／大阪:松岡由貴／智:樋口智恵子／暦:田中理恵／榊:浅川悠／神楽:桑島法子／ゆかり先生:平松晶子／黒沢先生:久川綾／木村先生:石井康嗣／かおりん:野川さくら／千尋:大前茜"
+staff: "[スタッフ]<br>原作:あずまきよひこ／監督:錦織博／シリーズ構成:大河内一楼／キャラクターデザイン:加藤やすひさ／音響監督:鶴岡陽太／音楽:栗原正己／アニメーション制作:J.C.STAFF／製作:あずまんが大王製作委員会"
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)あずまきよひこ/アスキー・メディアワークス/あずまんが大王製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

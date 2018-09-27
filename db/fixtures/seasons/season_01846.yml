@@ -1,0 +1,80 @@
+--- !ruby/hash:SeasonHash
+title: GHOST IN THE SHELL/攻殻機動隊
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/23/2/22232_1_6.png?1529476232000
+outline: 超高度ネットワーク社会の中で、より高度・凶悪化していく犯罪に対抗するために政府は、隊長・草薙素子少佐を始めとする精鋭サイボーグによる非公認の超法規特殊部隊を結成。公安９課「攻殻機動隊」の誕生である。ある日某国情報筋から攻殻機動隊に警告が発せられる。ＥＣ圏を中心に出没し、株価操作・情報操作・政治工作・テロなどで国際手配中の”通称：人形使い”が日本に現れるという。素子は犯罪の中に見え隠れする”人形使い”の影を追う。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中敦子
+  type: cast
+- !ruby/hash:TagHash
+  name: 大木民夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 家弓家正
+  type: cast
+- !ruby/hash:TagHash
+  name: 仲野裕
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：士郎正宗
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：押井守
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：沖浦啓之
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: GHOST IN THE SHELL/攻殻機動隊
+  description: 超高度ネットワーク社会の中で、より高度・凶悪化していく犯罪に対抗するために政府は、隊長・草薙素子少佐を始めとする精鋭サイボーグによる非公認の超法規特殊部隊を結成。公安９課「攻殻機動隊」の誕生である。ある日某国情報筋から攻殻機動隊に警告が発せられる。ＥＣ圏を中心に出没し、株価操作・情報操作・政治工作・テロなどで国際手配中の”通称：人形使い”が日本に現れるという。素子は犯罪の中に見え隠れする”人形使い”の影を追う。<br><br>草薙素子:田中敦子／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野
+    裕／荒巻:大木民夫／中村:玄田哲章／人形使い:家弓家正　他<br><br>原作:士郎正宗（講談社刊「ヤングマガジンKCDX」所載）／監督・絵コンテ:押井　守／脚本:伊藤和典／演出:西久保利彦／キャラクターデザイン・作画監督:沖浦啓之／作画監督:黄瀬和哉／メカニックデザイン:河森正治、竹内敦志／銃器デザイン:磯　光雄／美術設定:渡部　隆／美術監督:小倉宏昌／撮影:白井久男（スタジオ・コスモス）／編集:掛須秀一（ジェイ・フィルム）／音楽:川井憲次／音響監督:若林和弘（オムニバスプロモーション）／色彩設定:遊佐久美子／
+    CG制作:オムニバス・ジャパン／アニメーション制作:プロダクションI.G／製作:講談社、バンダイビジュアル、MANGA ENTERTAINMENT　他<br><br>©1995
+    士郎正宗／講談社・バンダイビジュアル・MANGA ENTERTAINMENT
+  length_seconds: 4977
+  content_id: so33424787
+  default_thread_id: 1529984580
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424787
+cast: "[キャスト]<br>草薙素子:田中敦子／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／荒巻:大木民夫／中村:玄田哲章／人形使い:家弓家正　他"
+staff: "[スタッフ]<br>原作:士郎正宗（講談社刊「ヤングマガジンKCDX」所載）／監督・絵コンテ:押井　守／脚本:伊藤和典／演出:西久保利彦／キャラクターデザイン・作画監督:沖浦啓之／作画監督:黄瀬和哉／メカニックデザイン:河森正治、竹内敦志／銃器デザイン:磯　光雄／美術設定:渡部　隆／美術監督:小倉宏昌／撮影:白井久男（スタジオ・コスモス）／編集:掛須秀一（ジェイ・フィルム）／音楽:川井憲次／音響監督:若林和弘（オムニバスプロモーション）／色彩設定:遊佐久美子／
+  CG制作:オムニバス・ジャパン／アニメーション制作:プロダクションI.G／製作:講談社、バンダイビジュアル、MANGA ENTERTAINMENT　他"
+produced_year: "[製作年]<br>1995年"
+copyright: "©1995 士郎正宗／講談社・バンダイビジュアル・MANGA ENTERTAINMENT"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 STAND ALONE COMPLEX
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 S.A.C. 2nd GIG
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 ARISE
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 新劇場版
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 STAND ALONE COMPLEX Solid State Society

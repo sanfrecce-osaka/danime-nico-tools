@@ -1,0 +1,144 @@
+--- !ruby/hash:SeasonHash
+title: ブラック・ジャック＜OVA＞
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/7/11467_1_6.png?1427216400000
+outline: "「ブラック・ジャック」の原作各エピソードをモチーフにしながら、新たな作品として作り出されたオリジナル・ビデオ・アニメーションシリーズ。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ブラック・ジャックシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 顔に傷
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE1
+  title: 流氷，キマイラの男
+  description: 原作は『ハリケーン』というタイトルで、孤島に暮らす瀕死の老富豪を看病する若い妻とその秘書が、遺書を書きかえるまで老富豪を延命させてほしいとブラック・ジャックに依頼してくる内容だが、このアニメ版ではその老富豪がキマイラ病という謎の風土病に冒されていて、治療法不明のその奇病にブラック・ジャックが立ち向かうというストーリーになっている。謎の風土病に冒されるはというエピソードは原作の『99.9パーセントの水』からの引用。<br><br>(C)手塚プロダクション・秋田書店・日本コロムビア<br><br>次話→so33473731
+  length_seconds: 2932
+  content_id: so33473732
+  default_thread_id: 1530754513
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473732
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE2
+  title: 葬列遊戯
+  description: ブラック・ジャックは北の町で四人の少女と出会う。その数ヵ月後、少女たちのひとりと再会したブラック・ジャックは四人の仲間のうち、二人が死に、さらにひとりが事故で植物人間状態にあると聞かされる。ブラック・ジャックはその友人を回復させるべく手術を申し出るのだが、病院長は頑なにそれを断る。何か少女たちの死と事故の裏には大きな陰謀があるらしいとブラック・ジャックは気づく--。今作はこのアニメシリーズだけのオリジナル・ストーリーとなっている。<br><br>(C)手塚プロダクション・秋田書店・日本コロムビア<br><br>so33473732←前話｜次話→so33473730　第一話→so33473732
+  length_seconds: 2997
+  content_id: so33473731
+  default_thread_id: 1530754683
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473731
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE3
+  title: マリア達の勲章
+  description: 原作マンガの『約束』というエピソードを元にしたストーリー。オルテガ共和国元首・クルーズ将軍が麻薬取引の容疑でユナイツ連邦に強制逮捕される。将軍奪還を目指すが、将軍の体は末期ガンに侵されていた。無実を信じる部下達は将軍を故国まで連れ帰るため、ブラック・ジャックにその延命を依頼する。ユナイツ連邦の特殊部隊との激しい銃撃戦の中ブラック・ジャックは将軍を末期癌から救うオペを敢行する…<br><br>(C)手塚プロダクション・秋田書店・日本コロムビア<br><br>so33473731←前話｜次話→so33473729　第一話→so33473732
+  length_seconds: 2927
+  content_id: so33473730
+  default_thread_id: 1530754507
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473730
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE4
+  title: 拒食，ふたりの黒い医者
+  description: 原作の『ふたりの黒い医者』と『あるスターの死』にインスパイヤされたオリジナル・ストーリー。長い下積み時代を経てようやくスターの地位を手に入れたミシェルという女優が初主演映画の撮影中に倒れる。彼女は食べ物をいっさい受け付けない奇病に冒され、やせ細ってゆく。ブラック・ジャックでも治療できないと知り、絶望した彼女は安楽死も医療のひとつのあり方だと主張するドクター・キリコに出会い、そして…。<br><br>(C)手塚プロダクション・秋田書店・日本コロムビア<br><br>so33473730←前話｜次話→so33473742　第一話→so33473732
+  length_seconds: 3033
+  content_id: so33473729
+  default_thread_id: 1530754511
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473729
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE5
+  title: サンメリーダの鶚
+  description: 原作の『過ぎさりし一瞬』からインスパイヤされた物語。夢にうなされ幻覚に悩まされるイギリス人青年の体には、ブラック・ジャックをうならせるほどの芸術的な手術痕があった。青年が毎夜見る、同じ女性が殺される夢の正体はなんなのか、そしてその夢と見事なまでの手術の痕とはどういう糸でつながるのか。ブラック・ジャックを凌駕する外科手術の腕を持つものの正体とは？<br><br>(C)手塚プロダクション・秋田書店・日本コロムビア<br><br>so33473729←前話｜次話→so33473743　第一話→so33473732
+  length_seconds: 3076
+  content_id: so33473742
+  default_thread_id: 1530754515
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473742
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE6
+  title: 雪の夜ばなし、恋姫
+  description: 原作の『雪の夜ばなし』とは直接関係のないオリジナル・ストーリー。ブラック・ジャックのもとに二年も前に投函された小包が届く。中には、明日をも知れぬ状態の妻の命を助けてほしいという内容の手紙と、大量のお札が入っていた。依頼人のもとに急ぎ向かうブラック・ジャックを待ちうけていたのは鎌倉時代の武将の亡霊だった。<br><br>(C)手塚プロダクション・秋田書店・日本コロムビア<br><br>so33473742←前話｜次話→so33473808　第一話→so33473732
+  length_seconds: 3063
+  content_id: so33473743
+  default_thread_id: 1530754505
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473743
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE7
+  title: 白い正義
+  description: 原作の『白い正義』を元にしたストーリー。中東で内戦が勃発し、その難民キャンプに逃げ込んだ自分の患者を追って、ブラック・ジャックもまた難民たちの中へと危険を覚悟で乗り込んで行った。患者の名はカレン。ブラック・ジャックは劣悪な環境の中でカレンを救うために緊急オペを決断する。<br><br>(C)手塚プロダクション・秋田書店・日本コロムビア<br><br>so33473743←前話｜次話→so33473865　第一話→so33473732
+  length_seconds: 2917
+  content_id: so33473808
+  default_thread_id: 1530755716
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473808
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE8
+  title: 緑の想い
+  description: 原作の『木の芽』『老人と木』を元にしたストーリー。英国の学校で寮生活を送るアンドリューは弟のロレンスの体を見て驚愕した。ロレンスのからだは体内から植物の芽をふき、体中が徐々に植物化しはじめていたのだ。弟の奇病に驚いた兄のアンドリューは、どんな病気でも奇跡の腕で治療する、と評判のブラック・ジャックに診察を依頼する。<br><br>(C)手塚プロダクション・秋田書店・バンダイビジュアル<br><br>so33473808←前話｜次話→so33473682　第一話→so33473732
+  length_seconds: 3051
+  content_id: so33473865
+  default_thread_id: 1530756845
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473865
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE9
+  title: 人面瘡
+  description: 原作の『人面瘡』を元にしたストーリー。世界でも有数の財閥、都築グループ当主の座を30代の若さで引き継いだ男・都築耕一郎。彼は幼い頃から、腹部にできた腫瘍によって悩まされていた。その腫瘍の特異な形状は、誰の目にも｢人間の顔｣にしか見えない、つまり人面瘡なのだ。治療依頼を受けたブラック・ジャックは、ピノコを連れて都築家を訪れ、｢人面瘡｣を切り取るのだが…。<br><br>(C)手塚プロダクション・秋田書店・バンダイビジュアル<br><br>so33473865←前話｜次話→so33473681　第一話→so33473732
+  length_seconds: 3122
+  content_id: so33473682
+  default_thread_id: 1530753364
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473682
+- !ruby/hash:EpisodeHash
+  episode_no: KARTE10
+  title: しずむ女
+  description: 原作の『しずむ女』を元にしたストーリー。三ヶ月病。それは三ヶ月湾で捕れた魚を食べる近隣の住民たちの体にさまざまな症状が現れる公害病だった。原因は満月川の中流域に工場群が誘致され、その工場廃液が川から海へと流れ込んだのが原因だ。国は三ヶ月病救済委員会を設立する。救済委員会医師グループのフォックスは、ブラック・ジャックに特別ブレーンとして参加を求めた。<br><br>(C)手塚プロダクション・秋田書店・バンダイビジュアル<br><br>so33473682←前話｜次話→so33473680　第一話→so33473732
+  length_seconds: 3202
+  content_id: so33473681
+  default_thread_id: 1530753374
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473681
+- !ruby/hash:EpisodeHash
+  episode_no: FINAL CHAPTER KARTE11
+  title: おとずれた思い出
+  description: ある雨の日。ピノコは激しい痛みに襲われて意識を失う。治療にあたるBJ(ブラック・ジャック)の元へ手術の依頼が舞い込むが、その患者の名前を聞いたBJは、時の偶然性に驚き、また、過去の重大な“思い出”を回想するのだった。何事も無かったかのように回復したピノコを伴い、今回の依頼元である舞踊の宗家・西園寺家を訪れるBJ。しかし、彼は特別な想いを胸に秘めていた。<br><br>(C)手塚プロダクション<br><br>so33473681←前話｜次話→so33473679　第一話→so33473732
+  length_seconds: 2973
+  content_id: so33473680
+  default_thread_id: 1530753366
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473680
+- !ruby/hash:EpisodeHash
+  episode_no: DEZAKI’S FINAL CHAPTER KARTE12
+  title: 美しき報復者
+  description: BJ(ブラック・ジャック)が搭乗した飛行機内で急病人が発生する。救命装置にあたったBJは謎の組織によってアジアの軍事独裁国家に拉致されてしまう。そこでBJは、国家主席チェ・ヒョク将軍の治療を強要されるが、将軍は“アナフィラキシー”であった。そしてこの国は、国力の揺らぎにより不穏な空気に満ちていた。警護についた謎の美女Lとともに、BJは時代の渦に巻き込まれていく…。<br><br>(C)手塚プロダクション<br><br>so33473680←前話　第一話→so33473732
+  length_seconds: 2796
+  content_id: so33473679
+  default_thread_id: 1530753372
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473679
+produced_year: "[製作年]<br>1993年"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック スペシャル～命をめぐる4つの奇跡～
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック 空からきた子ども
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック 劇場版
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック ふたりの黒い医者
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック21
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック ＜オリジナルアニメ＞
+- !ruby/hash:SeasonHash
+  title: ブラック・ジャック＜Flashアニメ＞
+- !ruby/hash:SeasonHash
+  title: ヤング ブラック･ジャック

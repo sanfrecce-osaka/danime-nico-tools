@@ -1,0 +1,439 @@
+--- !ruby/hash:SeasonHash
+title: ふぉうちゅんドッグす
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/5/10285_1_6.png?1427216400000
+outline: フレンチドッグのフレディーが、離ればなれになった大好きな飼い主・愛ちゃんを探す冒険物語。弱虫で臆病なフレディーは、旅先で出会ったちょっと物知りなダックスフンド・ドッチと食いしん坊なボクサー犬・マックスと一緒に旅を続けることに…。たくさんの犬たちと出会い、別れを繰り返しながら、ものごとを恐れない強い心を身につけていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小林由美子
+  type: cast
+- !ruby/hash:TagHash
+  name: たかはし智秋
+  type: cast
+- !ruby/hash:TagHash
+  name: 仲野裕
+  type: cast
+- !ruby/hash:TagHash
+  name: 水島裕
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：待田堂子
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：藤本信行
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：神尾麦
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：友野康治
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：友野康治
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: 運命の出会い
+  description: 'ペットショップ｢ハッピーケンネル｣の仲間たちに、新たなかわいい仔犬が加わった。フレンチドッグのアレックスだ。ある日、アレックスはかわいい女の子、愛ちゃんの家に引き取られることに…。何かがはじまりそうな予感!<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>次話→so31928876'
+  length_seconds: 1405
+  content_id: so31928875
+  default_thread_id: 1505472266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928875
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: 突然のさよなら
+  description: '愛ちゃんとしあわせな毎日をおくるアレックスは、きょうもおさんぽに大いそがし! だけどある日、ひょんなことから愛ちゃんとはぐれてしまう…。『愛ちゃん、どこにいるの?
+    ボク、これからどうなるんだろう?』。<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん:
+    たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928875←前話｜次話→so31928877　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928876
+  default_thread_id: 1505472268
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928876
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: 二番目の友達､ドッチ
+  description: 'はじめてのひとりぼっち。とほうにくれるアレックスが出会ったのは、ひとりでたくましく生きるダックスフンドのドッチ。アレックスはドッチからいろいろなことを教えてもらう。そんなドッチが苦手にしているものは…?<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928876←前話｜次話→so31928878　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928877
+  default_thread_id: 1505472293
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928877
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: キャミーの休日
+  description: 'おおきなお屋敷にすむキャミーは、今まで一度も外に出たことがないお嬢様。そんなキャミーをつれて、みんなで町中を探検だ! そうそう、おめかしも忘れずに。『キャミーちゃん、きれいだね…。あれ?
+    ドッチ、どうして泣いているの?』。<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928877←前話｜次話→so31928879　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928878
+  default_thread_id: 1505472324
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928878
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: 迷子のフレディー
+  description: 'なかなか愛ちゃんに会えないフレディー。でも、土佐犬のリョーマは、人間に飼われるのはやめろと言う。『それって、さびしくないのかなあ…。ボクにはよくわからないけど、まずは“マーキング”をマスターだ!』。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928878←前話｜次話→so31928880　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928879
+  default_thread_id: 1505472322
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928879
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 老犬のプライド
+  description: 'フリーザーとのなわばり争いに負けたリョーマ。すっかり元気をなくしてしまったリョーマをはげまそうと、フレディーは四苦八苦。そんな時、フレディーたちの前に現れたおばあさん。リョーマを呼んでいるみたいだけど…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928879←前話｜次話→so31928881　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928880
+  default_thread_id: 1505472165
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928880
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 本当のパートナー
+  description: '自分は飼い主に捨てられたと思い込んでいるリョーマは、心に深い傷を負っているようだ。なにか良い方法はないだろうか…。その時、何かを敏感に感じ取るリョーマ。そしてまた、行く手にフリーザーが立ちはだかる…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928880←前話｜次話→so31928882　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928881
+  default_thread_id: 1505472467
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928881
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: マックスと再会
+  description: "『どこかでかいだことのある匂いだなぁ…』。その匂いをたどっていくと、ハッピーケンネルで一緒だったボクサー犬のマックスがいた! そんなマックスの住む家に泥棒が入ろうとしていた。フレディーたちは泥棒をつかまえることができるのだろうか?<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928881←前話｜次話→so31928939　第一話→so31928875"
+  length_seconds: 1405
+  content_id: so31928882
+  default_thread_id: 1505472295
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928882
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: がんばれ!ムック!
+  description: 'フレディーたちはのどかな牧場へやってきた。そこにはオールド・イングリッシュ・シープドックのムックがいた。ムックは、親子三代で牧場に仕える牧羊犬。ある夜、コヨーテの群れが羊たちにおそいかかる!
+    大変だ、羊たちを守らなきゃ!!<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928882←前話｜次話→so31928940　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928939
+  default_thread_id: 1505472926
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928939
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 心の絆
+  description: '旅を続けるフレディーたちは、とある町にたどりついた。でもその町の主、ターナーは大の犬ぎらい。あやうく人間たちにつかまりそうになったフレディーたちは、キンタの母親、ジャズに助けられる。とうとう町を出る決心をしたジャズに、ターナーの追っ手がせまる…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928939←前話｜次話→so31929068　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31928940
+  default_thread_id: 1505472928
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31928940
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: 走れ!フレディー!
+  description: "『このまま町を出たらいけない…』。そう感じるフレディーは、キンタとボビーをなんとか引き合わせようと一生けんめい。そこへまた、ターナーの追っ手が…。『みんな、たすけてー!』。フレディーの心の叫びが、町じゅうにひびきわたる。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31928940←前話｜次話→so31929069　第一話→so31928875"
+  length_seconds: 1405
+  content_id: so31929068
+  default_thread_id: 1505474089
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929068
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: コッコの選んだ道
+  description: 'やさしい夫婦のもとでしあわせに暮らしていたアメリカン・コッカー・スパニエルのコッコ。そんな一家に待望の赤ちゃんが生まれた。しだいに夫婦の愛情が赤ちゃんに傾いていくのを感じるコッコ。それでも強がるコッコにフレディーは…?<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929068←前話｜次話→so31929070　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929069
+  default_thread_id: 1505474184
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929069
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: 俺はロックじゃない!
+  description: '足をケガしてしまったドッチ。ぐうぜん出会ったおじいさんに助けられたが、おじいさんはなぜかドッチのことをロックと呼ぶ。人間ぎらいのドッチだけど、おじいさんといっしょに暮らすうち、だんだんその気になってきて…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929069←前話｜次話→so31929072　第一話→so31928875'
+  length_seconds: 1390
+  content_id: so31929070
+  default_thread_id: 1505474182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929070
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: ドン・コロコローネ参上!
+  description: 'ある嵐の夜、ふしぎなものを見たフレディー。『あのね、すごくこわい男の人がきて、しばらくしたら男の人いなくなって、おばあさんがいて、犬がおばあさんを呼びにきて、ボクはその犬の声をどこかできいたことがあるような…?』。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929070←前話｜次話→so31929073　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929072
+  default_thread_id: 1505474066
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929072
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: また逢う日まで…
+  description: 'フレディーが見たのは、ハッピーケンネルでいっしょだったなつかしい友達、コロコローネだった。でも、コロコローネの飼い主はいい人そうに見えるけど、なにか悪いことをして追われているみたい。それでも飼い主についていくコロコローネを、フレディーは追いかけて…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929072←前話｜次話→so31929074　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929073
+  default_thread_id: 1505474327
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929073
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: 落ちこぼれのポッチ
+  description: 'ポッチは、自分が種類のわからない犬だということをすごく気にしているみたい。ある日、ポッチの飼い主のトムをぐうぜん助けたマックス。トムと楽しそうに遊ぶマックスを見てますます落ちこんだポッチは、姿を消してしまう…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929073←前話｜次話→so31929075　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929074
+  default_thread_id: 1505474306
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929074
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: 怒ったマックス
+  description: '自分はなにをやってもダメだと思いこんでしまっているポッチ。どうやらポッチは、人間との遊び方を知らないみたい。フレディーたちと特訓しても、なかなかうまくいかない。すっかりスネてしまったポッチに、とうとうマックスが…?<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929074←前話｜次話→so31929076　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929075
+  default_thread_id: 1505474096
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929075
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: 掘ろうぜ､お宝!
+  description: 'フレディーたちは、立ち入り禁止の工事現場で穴を掘るブラッドハウンドのレオンと、その飼い主のトニーに出会った。トニーのパパの話だと、ここにはお宝があるかもしれないんだって!
+    こうしちゃいられない、みんなで穴掘りだ!…でも、お宝ってなに?<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ:
+    仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929075←前話｜次話→so31929134　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929076
+  default_thread_id: 1505474070
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929076
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: これがシバタの生きる道!?
+  description: '町にやってきたフレディーたちは、ハッピーケンネルの仲間、シバタと再会した。シバタは旅芸人のアリスと一緒に旅をしている。そしてぐうぜんにも、シバタとなかよしだったシーナとも再会をはたす。よろこぶフレディーたちのそばに、愛ちゃんが…!<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929076←前話｜次話→so31929136　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929134
+  default_thread_id: 1505474662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929134
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: サヨナラさん､コンニチハ
+  description: '感激の再会をはたしたシバタとシーナ。でも、シバタは旅芸人のアリスといっしょに旅をしている途中。シバタはアリスの大事なパートナーだ。シーナとアリスの間で悩むシバタに、アリスにあこがれたドッチが一肌脱ごうとしたが…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929134←前話｜次話→so31929241　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929136
+  default_thread_id: 1505474841
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929136
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: ユーピーって誰?
+  description: '突然の嵐にみまわれたフレディーたちは、雨やどりをしようと古い洋館にかけこんだ。中はまっくらで誰もいないみたい。ひとやすみしようとしたフレディーたちを、なぞの生き物がおそいかかる!
+    『キミは誰?おばけ?それとも…?』。<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん:
+    たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929136←前話｜次話→so31929242　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929241
+  default_thread_id: 1505476172
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929241
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: 出逢い
+  description: '激しいふぶきの中、フレディーが倒れてしまった。運よく獣医のジムの手当てを受け、フレディーは元気になった。ところが今度は、病院にいたポメラニアンのポロンが突然苦しみだす。たいへんだ、早くあの人を呼んでこないと…!<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929241←前話｜次話→so31929243　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929242
+  default_thread_id: 1505476062
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929242
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: 最高のパートナー
+  description: 'ジムはポロンを助けることはできなかった。ジムにうらぎられたと思い込んだマックスは、病院に残っていたマルチーズのマルコを外に連れ出す。マルコは病気がまだ治っていない。後を追いかけてきたジムに、マックスは…?<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929242←前話｜次話→so31929244　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929243
+  default_thread_id: 1505475933
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929243
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: ネコに恋したゼンジー
+  description: 'ちょっぴり弱虫なペキニーズのゼンジーに出会ったフレディーたち。そのゼンジーが想いをよせているレイナは、なんとネコ! レイナに気に入られようと、木のぼりのれんしゅうをはじめるゼンジー。これも、犬としてのプライドだ!
+    …って、そうなの?<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929243←前話｜次話→so31929245　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929244
+  default_thread_id: 1505475800
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929244
+- !ruby/hash:EpisodeHash
+  episode_no: "#25"
+  title: 天才犬､ジャッキー
+  description: 'クリスマスでにぎわう街で出会ったジャック・ラッセル・テリアのジャッキー。でも、フレディーたちにはジャッキーの言っていることがよくわからない。ジャッキーは動く家に住んでいて、鼻の長いダニーや、おしりの赤いウーリーたちが友達なんだって!
+    いったいキミは何者なの?<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929244←前話｜次話→so31929247　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929245
+  default_thread_id: 1505475819
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929245
+- !ruby/hash:EpisodeHash
+  episode_no: "#26"
+  title: 私って○○だったの!?
+  description: 'チャイニーズ・シャー・ベイのトミコさんは、とっても心のやさしい女の子。ぐあいの悪くなったドッチに食べ物をあげたり、かいがいしく看病したり…。どうやらドッチのことが好きみたい。だけど、ドッチは浮かない顔。トミコさんの気持ちに本当にこたえてあげられるのは誰だろう…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929245←前話｜次話→so31929248　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929247
+  default_thread_id: 1505475931
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929247
+- !ruby/hash:EpisodeHash
+  episode_no: "#27"
+  title: コッコの宝物
+  description: '最近、コッコの様子が少しおかしい。フレディーやドッチと遊んでいても、何か別のことを考えている様子。どうやら、飼い主が恋しくなったみたい。いつのまにかコッコの飼い主の家にたどりついた三匹。今この家に、コッコのいる場所はあるのでしょうか…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929247←前話｜次話→so31929249　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929248
+  default_thread_id: 1505476064
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929248
+- !ruby/hash:EpisodeHash
+  episode_no: "#28"
+  title: 駅前のリキュー
+  description: 'ある街の駅前で出会った秋田犬のリキューは、一日中ずっとパートナーの帰りをまっている。でも、リキューのパートナーはもうこの世にはいなかった…。心がつながっていればきっと会えると信じているフレディー。そして雪のふりつもる夜、きせきがおこった…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929248←前話｜次話→so31929314　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929249
+  default_thread_id: 1505475840
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929249
+- !ruby/hash:EpisodeHash
+  episode_no: "#29"
+  title: サンペーがいてくれるから
+  description: 'ひょんなことから川に落ちてしまったドッチを助けてくれたのは、ラブラドール・レトリーバーのラブリー。以前は救助犬だったけど、いまはセラピー犬をしているんだって。フレディーたちは彼の仕事を見てみることに。そこで、ちょっぴりふしぎな犬、サンペーに出会う…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929249←前話｜次話→so31929315　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929314
+  default_thread_id: 1505476535
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929314
+- !ruby/hash:EpisodeHash
+  episode_no: "#30"
+  title: やっと会えたね
+  description: "『どこかで見たことのあるような街なみ、景色、そしてこのなつかしいにおい…。ボク、ここ知ってる! ここは愛ちゃんと来たことがある場所だ!!
+    きっと、愛ちゃんはこの近くにいる。やっと会えるんだ!!』<br><br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野
+    裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929314←前話｜次話→so31929447　第一話→so31928875"
+  length_seconds: 1405
+  content_id: so31929315
+  default_thread_id: 1505476533
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929315
+- !ruby/hash:EpisodeHash
+  episode_no: "#31"
+  title: 新たなる旅立ち
+  description: '長い旅の末、やっと再会できた愛ちゃんとフレディー。幸せいっぱいのはずなのに、愛ちゃんの様子がおかしい。愛ちゃんだけじゃない。街中の犬たちがみんな人間にすてられているようだ。いったい、何がおこっているんだろう。ボクに何ができるんだろう…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929315←前話｜次話→so31929448　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929447
+  default_thread_id: 1505477819
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929447
+- !ruby/hash:EpisodeHash
+  episode_no: "#32"
+  title: 立ち上がれ､フレディー!
+  description: 'あんなにかわいがられていたコロコローネやキャミーたちまで飼い主にみはなされてしまっていた。どうしてとつぜんこんなことに…。バーナードンなら何か知っているかもしれないと考えたフレディーは、いそいで彼のもとへ向かおうとするが…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929447←前話｜次話→so31929449　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929448
+  default_thread_id: 1505477868
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929448
+- !ruby/hash:EpisodeHash
+  episode_no: "#33"
+  title: 勇気をくれた友達
+  description: '街中の犬たちがみんなつかまってしまった。みんなを助けようとするフレディーだが、あやうく自分もつかまりそうになってしまう。そのとき現れたコロコローネに、間一髪のところで助けてもらう。さあ、今度こそみんなを助けないと!<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929448←前話｜次話→so31929450　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929449
+  default_thread_id: 1505477820
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929449
+- !ruby/hash:EpisodeHash
+  episode_no: "#34"
+  title: コロコローネの決意
+  description: 'フレディーとコロコローネたちは、“ふぉうちゅんツリー”のことを教えてもらうため、バーナードンのところに向かった。ところがその途中、フレディーが川に流されてしまう…。自分の飼い主の命があぶないことを知らされていたコロコローネは、フレディーを見捨ててしまい…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929449←前話｜次話→so31929451　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929450
+  default_thread_id: 1505477794
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929450
+- !ruby/hash:EpisodeHash
+  episode_no: "#35"
+  title: 長老の言葉
+  description: 'コロコローネは、バーナードンから奪い取った守り石を持って、先にふぉうちゅんツリーを探しに行ってしまった。ところが、その守り石を使いこなせるのは“伝説の犬”だけだという…。石の魔力に支配される前に、コロコローネを探さないと!<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929450←前話｜次話→so31929452　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929451
+  default_thread_id: 1505477796
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929451
+- !ruby/hash:EpisodeHash
+  episode_no: "#36"
+  title: 守り石の秘密
+  description: '谷底に落ちてしまったコロコローネは、深い傷を負ってしまう。そして、ぐうぜん守り石を拾ったビーチャンは、フレディーたちと出会う。やっと手に入れた守り石。ところが、コロコローネの身を案じたノッペが、守り石を持ってコロコローネのもとへ…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929451←前話｜次話→so31929453　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929452
+  default_thread_id: 1505477679
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929452
+- !ruby/hash:EpisodeHash
+  episode_no: "#37"
+  title: 伝説の犬､フレディー
+  description: 'ふたたび守り石とコロコローネを探すフレディーとドッチ。ところが、死者の森のハゲワシや熊が行く手を阻む。この森を通ろうとするものは骨だけになってしまうという。『愛ちゃんのもとに帰りたい…』と、フレディーは泣き出してしまい…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929452←前話｜次話→so31929454　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929453
+  default_thread_id: 1505477661
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929453
+- !ruby/hash:EpisodeHash
+  episode_no: "#38"
+  title: ふぉうちゅんツリーを救え!
+  description: 'フレディーとドッチがたどりついたのは、砂漠の真ん中。はげしい砂嵐が吹きあれるなか、最後の力をふりしぼってフレディーはふぉうちゅんツリーにむかう。そのあとを追うコロコローネと、たくさんの仲間たち。そしてついに…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929453←前話｜次話→so31929520　第一話→so31928875'
+  length_seconds: 1405
+  content_id: so31929454
+  default_thread_id: 1505477844
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929454
+- !ruby/hash:EpisodeHash
+  episode_no: "#39"
+  title: おかえり､フレディー
+  description: 'みんなの勇気と、仲間をおもいやる心が、ふぉうちゅんツリーをよみがえらせた。笑顔でフレディーを迎える愛ちゃん。これから本当の幸せが待っている。みんなパートナーのもとへ帰っていくなか、最後にドッチが向かったのは…。<br><br>フレディー(アレックス):
+    小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋<br><br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)<br><br>so31929454←前話　第一話→so31928875'
+  length_seconds: 1390
+  content_id: so31929520
+  default_thread_id: 1505478266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31929520
+cast: "[キャスト]<br>フレディー(アレックス): 小林由美子／ドッチ: 水島 裕／ドン・コロコローネ: 仲野 裕／愛ちゃん: たかはし智秋"
+staff: "[スタッフ]<br>原作者:友野康治／脚本:待田堂子(12本),藤本信行(17本),神尾麦(7本),友野康治(3本)"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)2002 アーティストハウス・アーリストインターナショナル/テレビ東京・ふぉうちゅんドッグす製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

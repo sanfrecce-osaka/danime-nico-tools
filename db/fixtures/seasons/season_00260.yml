@@ -1,0 +1,154 @@
+--- !ruby/hash:SeasonHash
+title: カイバ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/86/1/21861_1_6.png?1510281014000
+outline: 記憶のデータ化ができるようになり、肉体の死がもはや死とは呼べなくなった世界。記憶はデータバンクに保存され、新しい身体への「乗り換え」や、記憶の売買といったことが可能になり、違法に記憶を改ざん、記憶を盗むことも行われていた。社会は混沌とし、力を失い停滞化していた。あるとき、壊れた部屋の中で目覚めた男がいた。彼の名はカイバ。自分の記憶がない。ペンダントの中には知らない女の写真が…。空には怪しく動く電解雲、街では記憶狩りが横行している。突如襲われ、宇宙へ逃げ出すことになったカイバは、星をめぐる中、様々な人と出会い、記憶を取り戻してゆく。かつて苦悩し続けた、この世界の矛盾や腐敗と自分の存在を。そしてペンダントの中の女・ネイロのことを…。「どれが僕？
+  君はダレ？ どれが君？ 僕はダレ？」ふたりが再び出会ったとき、いったい何が起こるのか？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 朴璐美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：湯浅政明
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊東伸高
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：吉田潔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：湯浅政明
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第１話
+  title: 名はワープ
+  description: 壊れた部屋の中で目覚めた男・カイバ。記憶を全て無くしている。自分が何者かも分からないまま突如襲われ、自分を知る男・ポポに助けられる。ポポの助言により自分のボディを売り、宇宙へと逃げて行くことになるが…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>次話→so32261278
+  length_seconds: 1441
+  content_id: so32261267
+  default_thread_id: 1510536081
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261267
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 密航
+  description: 簡易ボディのカバに乗り換え、宇宙旅客船に密航したカイバ。同じく密航していたコチュという少女と出会う。カイバのボディを買ったパームが、快楽の果てに死亡する。保安官バニラによって密航がばれたカイバは脱出ポットで宇宙へと逃げて行く。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261267←前話｜次話→so32261277　第一話→so32261267
+  length_seconds: 1441
+  content_id: so32261278
+  default_thread_id: 1510536481
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261278
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: クロニコのながぐつ
+  description: 不時着した惑星トトで、少女クロニコと出会う。彼女は、家計を助けるためにボディを売ろうとしていた。だが記憶は捨てられ、ボディさえも捨てられる。クロニコのボディに乗り込んだカイバは、バニラの助けにより再び宇宙船での旅に出る。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261278←前話｜次話→so32261276　第一話→so32261267
+  length_seconds: 1440
+  content_id: so32261277
+  default_thread_id: 1510536489
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261277
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ばあさんの記憶の部屋
+  description: 宇宙船が立ち寄った、灯台の星ババ。そこに住む灯台守のばあさんは、じいさんの死を未だ受け入れられずにいた。ばあさんが隠した宝の在りかを聞くよう孫から脅されたカイバは、ホーレイトーを使い記憶の中に入り、ばあさんと語り始めるが…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261277←前話｜次話→so32261275　第一話→so32261267
+  length_seconds: 1441
+  content_id: so32261276
+  default_thread_id: 1510536360
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261276
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 憧れの星アビパ
+  description: 最先端の身体や記憶が安く手に入る惑星アビパ。そのボディ生産工場にしのびこむ1人と1匹。身体や記憶の取替えに抗議し商品にいたずらを続けるパッチとキルト。彼らに同行したカイバは、豊かなこの星の秘密を知る…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261276←前話｜次話→so32261274　第一話→so32261267
+  length_seconds: 1441
+  content_id: so32261275
+  default_thread_id: 1510536341
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261275
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 筋肉質な女
+  description: 惑星ロロ。墜落したおんぼろ船を助けに行ったカイバは、老夫婦と彼らを助けた屈強な男ゲルと出会う。なぜかゲルの事が気になるカイバ。そんな中、記憶タンク爆破事件が起きカイバたちにも捜査の手が伸びる。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261275←前話｜次話→so32261273　第一話→so32261267
+  length_seconds: 1440
+  content_id: so32261274
+  default_thread_id: 1510536513
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261274
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 記憶に残らない男
+  description: 海の星ネネ。閉ざされた地とは知らず、月リベラに向かうカイバとバニラ。バニラから逃れ、ホーレイトーでスキャンしていたゲルの記憶をのぞくカイバ。そこには自分の過去が…。一方で爆破犯をかくまった罪で二人を追う公安は、そこまで迫っていた…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261274←前話｜次話→so32261272　第一話→so32261267
+  length_seconds: 1441
+  content_id: so32261273
+  default_thread_id: 1510536485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261273
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 化けの皮
+  description: 一想団のリーダー格・ポポ、記憶チップを使用した団員に厳しい制裁を下す。だが、それが正しいことなのかが分からずに苦悩する。そんな中、サテがワープの秘密を探りあててくる。様々なことを知っていくポポ。そして、ダダの正体も知ってしまうことに…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261273←前話｜次話→so32261271　第一話→so32261267
+  length_seconds: 1441
+  content_id: so32261272
+  default_thread_id: 1510536463
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261272
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ワープを討て！
+  description: 宇宙から送られてきたカイバの記憶データを、カイバのボディに注入するキチ。そこを襲撃するポポたち。自分の体に戻ることが出来たカイバだが、目覚めたとき、目の前には自分を狙うネイロの姿があった。お互いにかつての記憶を忘れたまま…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261272←前話｜次話→so32261270　第一話→so32261267
+  length_seconds: 1440
+  content_id: so32261271
+  default_thread_id: 1510536101
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261271
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: カイバ
+  description: カイバとネイロが出会ったころの記憶…。空から落ちてきた男、それを助けたネイロ。記憶を失っていた彼の世話をし、「カイバ」と名づける。やがて愛し合うようになるが、記憶を取り戻したカイバはネイロの前から姿を消してしまう。ネイロを驚かせたカイバの正体とは…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261271←前話｜次話→so32261269　第一話→so32261267
+  length_seconds: 1440
+  content_id: so32261270
+  default_thread_id: 1510536501
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261270
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: まわるファン
+  description: ダダが隠し持っていた宇宙船で宮殿に昇っていくポポ。すべてのカラクリを知り、何も恐れるものがない。すべてをのみ込もうと、宇宙から飛来してくる植物。それを利用し、自分が新しい支配者になろうと野望を抱く。だが、その運命は…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261270←前話｜次話→so32261279　第一話→so32261267
+  length_seconds: 1441
+  content_id: so32261269
+  default_thread_id: 1510536483
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261269
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: みんな雲の中
+  description: 記憶を全て取り戻したカイバとネイロ。そこに現れる、新しく生まれたばかりの後継者ワープ。封印していた忌まわしい過去の記憶にもがき苦しむカイバを優しく包むネイロ。そこに全てをのみ込みながらやってくる植物。果たしてその結末は…。<br><br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美<br><br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス<br><br>so32261269←前話　第一話→so32261267
+  length_seconds: 1440
+  content_id: so32261279
+  default_thread_id: 1510536322
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32261279
+cast: "[キャスト]<br>カイバ:桑島法子／ネイロ:能登麻美子／ポポ:朴腎美"
+staff: "[スタッフ]<br>原作:湯浅政明・マッドハウス／監督・シリーズ構成:湯浅政明／キャラクターデザイン:伊東伸高／音響監督:百瀬慶一／音楽:吉田潔／アニメーション制作:マッドハウス"
+produced_year: "[製作年]<br>2008年"
+copyright: "©2008 湯浅政明・マッドハウス/カイバ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

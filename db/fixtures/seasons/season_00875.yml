@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: ダンジョンに出会いを求めるのは間違っているだろうか OVA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/01/6/22016_1_6.png?1518166805000
+outline: 大森藤ノ先生完全監修によるオリジナルストーリー！TVシリーズの最終話で、大激戦の末、階層主との戦いに勝ったベル達。ダンジョンから地上に戻る途中で、温泉のような場所を見つけて、そこで休息をとることに……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 水瀬いのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 大西沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：大森藤ノ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ダンジョンに出会いを求めるのは間違っているだろうか OVA
+  description: 大森藤ノ先生完全監修によるオリジナルストーリー！TVシリーズの最終話で、大激戦の末、階層主との戦いに勝ったベル達。ダンジョンから地上に戻る途中で、温泉のような場所を見つけて、そこで休息をとることに……。<br><br>ベル・クラネル:松岡禎丞／ヘスティア:水瀬いのり／アイズ・ヴァレンシュタイン:大西沙織／リリルカ・アーデ:内田真礼／エイナ・チュール:戸松遥／フレイヤ:日笠陽子／ロキ:久保ユリカ／ベート・ローガ:岡本信彦／リュー・リオン:早見沙織　　ほか
+  length_seconds: 1473
+  content_id: so32803008
+  default_thread_id: 1519694129
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32803008
+cast: "[キャスト]<br>ベル・クラネル:松岡禎丞／ヘスティア:水瀬いのり／アイズ・ヴァレンシュタイン:大西沙織／リリルカ・アーデ:内田真礼／エイナ・チュール:戸松遥／フレイヤ:日笠陽子／ロキ:久保ユリカ／ベート・ローガ:岡本信彦／リュー・リオン:早見沙織　　ほか"
+produced_year: "[製作年]<br>2016年"
+copyright: "©大森藤ノ・SBクリエイティブ/ダンまち製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ソード・オラトリア　ダンジョンに出会いを求めるのは間違っているだろうか外伝
+- !ruby/hash:SeasonHash
+  title: ダンジョンに出会いを求めるのは間違っているだろうか

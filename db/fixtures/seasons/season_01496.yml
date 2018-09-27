@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: The Borgman Last battle
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/7/10637_1_6.png?1427216400000
+outline: 時は2030年、東京湾上に建設されたメガロシティに妖魔が襲来。響リョウ、チャック・スェーガー、アニス・ファームの3人はサイボーグ戦士“ボーグマン”となり、長い戦いの末、敵を撃退した。その戦いから三年……。平和を取り戻したかに見えるメガロシティに、新たなる魔手が伸びる。ボーグマンたちと最強の敵オメガとの戦い。彼らの最後の戦いの行方は?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：本橋秀之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：飛澤宏元
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：根岸弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 超音戦士ボーグマンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 清水勝則
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 関一彦
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
+  type: other
+- !ruby/hash:TagHash
+  name: 辺見俊夫
+  type: other
+- !ruby/hash:TagHash
+  name: 新井寅雄
+  type: other
+- !ruby/hash:TagHash
+  name: 下地志直
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: The Borgman Last battle
+  description: 時は2030年、東京湾上に建設されたメガロシティに妖魔が襲来。響リョウ、チャック・スェーガー、アニス・ファームの3人はサイボーグ戦士“ボーグマン”となり、長い戦いの末、敵を撃退した。その戦いから三年……。平和を取り戻したかに見えるメガロシティに、新たなる魔手が伸びる。ボーグマンたちと最強の敵オメガとの戦い。彼らの最後の戦いの行方は?<br><br>響リョウ:松本保典／チャック・スェーガー:井上和彦／アニス・ファーム:鷹森淑乃／桂美姫:松井菜桜子／カーチス・火鷹:山寺宏一／ジュダ・ハッサン:玄田哲章／シャオ・シェン:柏倉つとむ／ガープ:古田信幸／ハンターボーグマンA:大滝進矢／ハンターボーグマンB:小野健一<br><br>企画:藤原正道、加藤博／監督:根岸弘／キャラクターデザイン:本橋秀之／メカニックデザイン:寺東克己／作画監督:本橋秀之／美術監督:新井寅雄／色彩設定:大貫けいこ／音響監督:清水勝則／撮影監督:高橋明彦／編集:辺見俊夫、関一彦、古橋宏／音楽:飛澤宏元／プロデューサー:頼経康史、芝原靖史、下地志直／製作:東宝株式会社、葦プロダクション
+  length_seconds: 3579
+  content_id: so32202939
+  default_thread_id: 1509614213
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202939
+cast: "[キャスト]<br>響リョウ:松本保典／チャック・スェーガー:井上和彦／アニス・ファーム:鷹森淑乃／桂美姫:松井菜桜子／カーチス・火鷹:山寺宏一／ジュダ・ハッサン:玄田哲章／シャオ・シェン:柏倉つとむ／ガープ:古田信幸／ハンターボーグマンA:大滝進矢／ハンターボーグマンB:小野健一"
+staff: "[スタッフ]<br>企画:藤原正道、加藤博／監督:根岸弘／キャラクターデザイン:本橋秀之／メカニックデザイン:寺東克己／作画監督:本橋秀之／美術監督:新井寅雄／色彩設定:大貫けいこ／音響監督:清水勝則／撮影監督:高橋明彦／編集:辺見俊夫、関一彦、古橋宏／音楽:飛澤宏元／プロデューサー:頼経康史、芝原靖史、下地志直／製作:東宝株式会社、葦プロダクション"
+produced_year: "[製作年]<br>1989年"
+copyright: "(C)1989 TOHO CO., LTD. /PRODUCTION REED CO.,LTD."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超音戦士ボーグマン2 -新世紀2058-
+- !ruby/hash:SeasonHash
+  title: 超音戦士ボーグマン Lovers Rain
+- !ruby/hash:SeasonHash
+  title: 超音戦士 ボーグマン

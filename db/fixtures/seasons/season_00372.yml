@@ -1,0 +1,78 @@
+--- !ruby/hash:SeasonHash
+title: キャプテン(キャプテン 劇場版)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/94/4/10944_1_6.png?1427216400000
+outline: 野球の名門青葉学院中等部。そこから墨谷二中に転校して来た谷口タカオは、同校・弱小野球部に入部する。チームメート達は否が応でも谷口に期待を寄せるが、谷口は青葉では2軍の補欠だった事を言い出せない。しかし、谷口は陰の努力で次第に実力をつけていく。そして次期キャプテンに指名された。当惑する谷口だが、持ち前の責任感とファイトでチームの実力を懸命に底上げしていく。やがて墨谷二中の野球部は、青葉と互角に戦えるチームへと成長し、青葉と死闘を繰り広げる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 森山周一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 麻生美代子
+  type: cast
+- !ruby/hash:TagHash
+  name: 熊谷誠二
+  type: cast
+- !ruby/hash:TagHash
+  name: 和栗正明
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田光利
+  type: cast
+- !ruby/hash:TagHash
+  name: ハナ肇
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：城山昇
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：出崎哲
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：木森敏之
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ちばあきお
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：清山滋崇
+  type: staff
+- !ruby/hash:TagHash
+  name: キャプテンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1981年
+  type: other
+- !ruby/hash:TagHash
+  name: 清水恵蔵
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: キャプテン(キャプテン 劇場版)
+  description: 野球の名門青葉学院中等部。そこから墨谷二中に転校して来た谷口タカオは、同校・弱小野球部に入部する。チームメート達は否が応でも谷口に期待を寄せるが、谷口は青葉では2軍の補欠だった事を言い出せない。しかし、谷口は陰の努力で次第に実力をつけていく。そして次期キャプテンに指名された。当惑する谷口だが、持ち前の責任感とファイトでチームの実力を懸命に底上げしていく。やがて墨谷二中の野球部は、青葉と互角に戦えるチームへと成長し、青葉と死闘を繰り広げる。<br><br>谷口
+    タカオ:和栗 正明／丸井:熊谷 誠二／イガラシ:中田 光利／谷口の父:ハナ 肇／谷口の母:麻生美代子／青葉野球部監督:森山周一郎<br><br>原作:ちば
+    あきお(集英社 ジャンプコミックス)／監督:出崎 哲／脚本:城山 昇／キャラクターデザイン:清山 滋崇／作画監督:清山 滋崇、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森
+    敏之
+  length_seconds: 5886
+  content_id: so32202426
+  default_thread_id: 1509607309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202426
+cast: "[キャスト]<br>谷口 タカオ:和栗 正明／丸井:熊谷 誠二／イガラシ:中田 光利／谷口の父:ハナ 肇／谷口の母:麻生美代子／青葉野球部監督:森山周一郎"
+staff: "[スタッフ]<br>原作:ちば あきお(集英社 ジャンプコミックス)／監督:出崎 哲／脚本:城山 昇／キャラクターデザイン:清山 滋崇／作画監督:清山
+  滋崇、清水 恵蔵／美術監督:遠藤 守俊／音楽:木森 敏之"
+produced_year: "[製作年]<br>1981年"
+copyright: "（Ｃ）ちばあきお・エイケン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: キャプテン

@@ -1,0 +1,50 @@
+--- !ruby/hash:SeasonHash
+title: フルーティー侍
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/8/11298_1_6.png?1427216400000
+outline: フルーティー侍。それは、極限まで美しく鍛え上げられた剣術と精神を持つ侍に与えられる唯一無二の称号。日本全土の侍たちは、その最強の称号を目指し日々鍛錬するのである。今宵もどこかで火花を散らす決闘が繰り広げられている。そこには両者の健闘を称えるかのごとく、フルーティーな香りが漂っている…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：ハッピープロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：田上キミノリ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：清水貴一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：田上キミノリ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: ハッピープロジェクト
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第7話
+  title: 赤林檎侍登場／青林檎侍登場／果し合い／青林檎の昼餉／闇討ち／さくらんぼ兄弟／用心棒ドリアン
+  description: 演出:田上キミノリ／脚本:清水貴一、田上キミノリ／原作:ハッピープロジェクト／制作会社:ハッピープロジェクト<br><br>次話→so31971330
+  length_seconds: 1266
+  content_id: so31971306
+  default_thread_id: 1506058555
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971306
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話～第13話
+  title: 栗の川流れ／真夜中の襲撃／峠茶屋での悲劇／バナナ侍の秘密／甘栗侍／子連れ青林檎
+  description: 演出:田上キミノリ／脚本:清水貴一、田上キミノリ／原作:ハッピープロジェクト／制作会社:ハッピープロジェクト<br><br>so31971306←前話　第一話→so31971306
+  length_seconds: 1085
+  content_id: so31971330
+  default_thread_id: 1506059913
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971330
+staff: "[スタッフ]<br>演出:田上キミノリ／脚本:清水貴一、田上キミノリ／原作:ハッピープロジェクト／制作会社:ハッピープロジェクト"
+produced_year: "[製作年]<br>2013年"
+copyright: "©フルーティー侍 製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

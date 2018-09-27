@@ -1,0 +1,30 @@
+--- !ruby/hash:SeasonHash
+title: プープーキッズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/8/10588_1_6.png?1427216400000
+outline: 宝のにおいをかぎつけ、おならを武器に盗み出す国際窃盗団｢プープーキッズ｣。ICPO所属のブーヴァーたちが追跡するも、彼らのおしりを止めることはできなかった…。世界をにおわすプープーキッズが、今日も元気に宝を盗む!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：春日森春木
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第13話
+  title: プープーキッズは燃えているか・・・?!/誰が最後に半笑いしたか/狼は狼を呼ぶ/黄金の大勝負/さらば愛しき魔女/ジャジャ馬犬を助けだせ!/全員集合プープー作戦/お宝横取作戦/タイムマシンに気をつけろ/脱獄のチャンスは一度/雨の午後はヤバイゼ/プープーキッズを捕まえろ!/魔術師と呼ばれた男
+  description: 出演者:春日森春木<br><br>監督:春日森春木
+  length_seconds: 793
+  content_id: so32036558
+  default_thread_id: 1507003820
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036558
+cast: "[キャスト]<br>出演者:春日森春木"
+staff: "[スタッフ]<br>監督:春日森春木"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

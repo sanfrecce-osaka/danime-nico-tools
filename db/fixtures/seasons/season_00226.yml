@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: 鬼斬
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/88/1/20881_1_6.png?1458874826000
+outline: 魑魅魍魎が跋扈する異ノ國・日本。｢神喰い｣と呼ばれる、地の底より生まれし魔物が、万物の指導者である神に牙をむき人々に恐怖を与えていたが、三つの大結界に封印することで、長きに渉る死闘に幕を閉じることが出来た。それから時は流れ。。。何者かによって大結界の一つが破られた。再びの世界の危機に、少女たちが立ち上がった！！静御前・義経・茨木童子・かぐや・あまてらすたちが神喰いサタン討伐を目指す！？各話5分で！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 松井恵理子
+  type: cast
+- !ruby/hash:TagHash
+  name: 橘田いずみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木愛奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 原奈津子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 中根もにゃ
+  type: cast
+- !ruby/hash:TagHash
+  name: 木下望
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：あおしまたかし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本天志
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：鴻野貴光
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ぴえろプラス
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊部由起子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サイバーステップ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：株式会社ブシロードミュージック
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：株式会社ビーイング
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 本田保則
+  type: other
+- !ruby/hash:TagHash
+  name: 鴻野貴光
+  type: other
+- !ruby/hash:TagHash
+  name: 岡篤志
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～13"
+  title: 鬼斬開幕／魍魎跋扈／博多炎上／暗中飛躍／比翼連理／一番富籤／酔生夢死／泡沫之夢／愛別離苦／夢幻泡影／竜闘虎争／気焔万丈／鬼斬閉幕
+  description: "#1：｢神喰い(かみくい)｣……それは地の底より湧きいでた災厄である｡この世に災厄をもたらす神喰いと戦う少女たちがいた｡彼女たちの物語の幕が上がる！？／#2：九州に飛ばされ､鬼ヶ島(おにがしま)を目指す静御前(しずかごぜん)と義経(よしつね)は､再会した仲間の茨木童子(いばらきどうじ)とともに人助けをすることに。／#3：突如、玄海灘沖に現れた大神喰い・メフィスト。メフィストの九州上陸を阻止するため、あまてらすが考え出した作戦とは？／#4：義経とともに、茨木童子のせいでとんでもない目にあった静御前。そんな静御前を付け狙う｢御一行｣とは一体何者なのか？／#5：サクラとジンはこの物語の主人公である。ふたりが出会い、ともに神喰いと戦うことを選んだ理由が明らかに！？／#6：因幡国にて。店限定のコンビニくじの極レア武器がどうしてもほしいかぐやは、当選率倍増キャンペーンと聞いてさっそく挑戦！！／#7：神喰いサタンにリベンジすべく、鬼ヶ島に戻ってきた一同。ところがそこは、以前の鬼ヶ島とはすっかり様子が変わっていた！？／#8：力をあわせて妖怪を倒した一同だったが、倒れる直前に妖怪がかけた呪いにより、彼女たちの人生は大きく変わってしまう！？／#9：そこは讃岐国にある小さな隠れ里――。村人たちがつつましく静かに暮らすこの場所に、ある日突然やってきたのは？　ほか<br><br>静御前:鈴木愛奈／義経:松井恵理子／茨木童子:三森すずこ／かぐや:橘田いずみ／あまてらす:原奈津子／ヴェロニカ:中島由貴／うずめ:中根もにゃ／キジムナー:木下望／サクラ:三森すずこ／ナレーション:小西克幸　ほか<br><br>原作:サイバーステップ／監督:山本天志／シリーズ構成・脚本:鴻野貴光／脚本:あおしま
+    たかし／脚本:岡 篤志／キャラクターデザイン・総作画監督:伊部由起子／美術監督・美術設定:柴田聡／色彩設計:月舘順子／プロップデザイン:阿萬和俊／音響監督:本田保則／音楽制作:株式会社ブシロードミュージック・株式会社ビーイング／アニメーション制作:ぴえろプラス"
+  length_seconds: 2742
+  content_id: so32245003
+  default_thread_id: 1510284335
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245003
+cast: "[キャスト]<br>静御前:鈴木愛奈／義経:松井恵理子／茨木童子:三森すずこ／かぐや:橘田いずみ／あまてらす:原奈津子／ヴェロニカ:中島由貴／うずめ:中根もにゃ／キジムナー:木下望／サクラ:三森すずこ／ナレーション:小西克幸　ほか"
+staff: "[スタッフ]<br>原作:サイバーステップ／監督:山本天志／シリーズ構成・脚本:鴻野貴光／脚本:あおしま たかし／脚本:岡 篤志／キャラクターデザイン・総作画監督:伊部由起子／美術監督・美術設定:柴田聡／色彩設計:月舘順子／プロップデザイン:阿萬和俊／音響監督:本田保則／音楽制作:株式会社ブシロードミュージック・株式会社ビーイング／アニメーション制作:ぴえろプラス"
+produced_year: "[製作年]<br>2016年"
+copyright: "©サイバーステップ／鬼斬製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

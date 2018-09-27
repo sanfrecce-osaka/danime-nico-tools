@@ -1,0 +1,67 @@
+--- !ruby/hash:SeasonHash
+title: あいまいみー～Surgical Friends～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/0/21410_1_6.png?1482715811000
+outline: 漫画研究部に所属する愛・麻衣・ミイは、地球に迫る邪悪な侵略者と戦ったり、ライバルとトーナメントで闘ったりしたが、相変わらず愛以外は漫画を描いたりはしなかった…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 天津向
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：セブン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：羽鳥風画
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：いまざきいつき
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ちょぼらうにょぽみ
+  type: staff
+- !ruby/hash:TagHash
+  name: あいまいみーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: ドリームクリエイション
+  type: other
+- !ruby/hash:TagHash
+  name: 阿部信行
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第12話
+  title: あいまいみー～Surgical Friends～
+  description: 愛:大坪由佳／麻衣:内田彩／ミイ:内田真礼／ぽのか:茅野愛衣／その他？:天津向<br><br>原作:｢あいまいみー｣(原作者ちょぼらうにょぽみ・｢まんがライフWIN｣連載中)／監督・脚本・演出・キャラクターデザイン・作画監督:いまざきいつき／音響監督:阿部信行／音楽:羽鳥風画／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:オンリード／製作:倉持南高校漫画研究部第三幕
+  length_seconds: 2533
+  content_id: so32245005
+  default_thread_id: 1510284342
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245005.37141
+cast: "[キャスト]<br>愛:大坪由佳／麻衣:内田彩／ミイ:内田真礼／ぽのか:茅野愛衣／その他？:天津向"
+staff: "[スタッフ]<br>原作:｢あいまいみー｣(原作者ちょぼらうにょぽみ・｢まんがライフWIN｣連載中)／監督・脚本・演出・キャラクターデザイン・作画監督:いまざきいつき／音響監督:阿部信行／音楽:羽鳥風画／制作プロダクション:ドリームクリエイション／アニメーション制作:セブン／音響制作:オンリード／製作:倉持南高校漫画研究部第三幕"
+produced_year: "[製作年]<br>2017年"
+copyright: "©ちょぼらうにょぽみ/竹書房　倉持南高校漫画研究部第三幕"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: あいまいみー～妄想カタストロフ～
+- !ruby/hash:SeasonHash
+  title: あいまいみー

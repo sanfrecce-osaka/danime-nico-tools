@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: MINKY MOMO in 旅立ちの駅
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/2/10432_1_6.png?1427216400000
+outline: 物語の舞台は国の中心にあるターミナルステーション。その駅でモモとモモは偶然出会い、再会を喜びます。しかし豪雨と雷鳴が鳴り響き、目を開けてみるとそこは先程まとは様子が異なっていました。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山茉美
+  type: cast
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 椎名へきる
+  type: cast
+- !ruby/hash:TagHash
+  name: 難波圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡文雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 福田信昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢田敏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒沢良
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：長谷川智樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：湯山邦彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：首藤剛志
+  type: staff
+- !ruby/hash:TagHash
+  name: 魔法のプリンセスミンキーモモシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+- !ruby/hash:TagHash
+  name: わたなべひろし
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 劇場版
+  title: MINKY MOMO in 旅立ちの駅
+  description: 声の出演:林原めぐみ、小山茉美、椎名へきる、松岡文雄、土井美加、沢田敏子、飯塚昭三、福田信昭、難波圭一、黒沢良<br><br>監督:湯山邦彦／脚本:首藤剛志／作画監督:わたなべひろし／音楽:長谷川智樹
+  length_seconds: 1741
+  content_id: so32151239
+  default_thread_id: 1508830646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151239
+cast: "[キャスト]<br>声の出演:林原めぐみ、小山茉美、椎名へきる、松岡文雄、土井美加、沢田敏子、飯塚昭三、福田信昭、難波圭一、黒沢良"
+staff: "[スタッフ]<br>監督:湯山邦彦／脚本:首藤剛志／作画監督:わたなべひろし／音楽:長谷川智樹"
+produced_year: "[製作年]<br>1994年"
+copyright: "(C)PRODUCTION REED 1994"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ
+- !ruby/hash:SeasonHash
+  title: ミンキーモモ SONG スペシャル 瞳の星座
+- !ruby/hash:SeasonHash
+  title: Fairy Princess Minky Momo 夢の中の輪舞
+- !ruby/hash:SeasonHash
+  title: 魔法のプリンセス ミンキーモモ ‐夢を抱きしめて‐
+- !ruby/hash:SeasonHash
+  title: MINKY MOMO in 夢にかける橋

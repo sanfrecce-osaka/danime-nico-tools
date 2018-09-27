@@ -1,0 +1,386 @@
+--- !ruby/hash:SeasonHash
+title: 攻殻機動隊 STAND ALONE COMPLEX
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/84/4/10844_1_6.png?1530505807000
+outline: 西暦2030年、日本。情報ネットワーク化が進む中、犯罪を一掃する攻性組織が設立された。内務省直属独立部隊、公安9課。通称｢攻殻機動隊｣だ。彼らの任務は、電脳犯罪への対処、要人警護、政治家の汚職摘発など多岐に渡る。“少佐”と呼ばれるサイボーグ・草薙素子を中心に、9課はネットに潜む犯罪に立ち向かう！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 大川透
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中敦子
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪脩
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 仲野裕
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野塚貴志
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：菅野よう子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神山健治
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：士郎正宗
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：下村一
+  type: staff
+- !ruby/hash:TagHash
+  name: 攻殻機動隊 S.A.C.シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 公安9課　SECTION-9
+  description: 夜の高級料亭で、アンドロイド芸者が外務大臣一行を人質に立て籠もる事件が発生。公安9課・草薙素子率いる攻殻機動隊の制圧で、無事外務大臣の救出に成功する。だが事件の背後には、軍の機密情報・一ノ瀬レポートを巡る陰謀が渦巻いていた─。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>次話→so33425006
+  length_seconds: 1490
+  content_id: so33424929
+  default_thread_id: 1529983829
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424929
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 暴走の証明　TESTATION
+  description: 剣菱重工の最新型多脚戦車が突然暴走し始めた。演習場を後に、ある方向を目指してひた走る。テロともAIの故障とも判別できないまま出動する公安9課。やがて事件は意外な展開を見せ始める！<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33424929←前話｜次話→so33425043　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425006
+  default_thread_id: 1529984779
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425006
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ささやかな反乱　ANDROID AND I
+  description: 各地で旧式のアンドロイド・ジェリが一斉に自殺する事件が発生した。原因はウィルス感染だったが、ただ一体だけ、ウィルスから守られたジェリがある男と逃亡していた。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425006←前話｜次話→so33425063　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425043
+  default_thread_id: 1529985439
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425043
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 視覚素子は笑う　INTERCEPTER
+  description: 6年前に起きた企業テロ。“笑い男事件”を追っていた特捜部の山口は、不穏な秘密を知った直後、自動車事故で死亡した。事故の直前に山口からいわくありげな写真を渡されていたトグサは、警察内部で不正使用されている盗視覚デバイスの存在に気付く。その事件の中で、“笑い男”が再び見えない姿を現した!<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425043←前話｜次話→so33425074　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425063
+  default_thread_id: 1529986597
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425063
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: マネキドリは謡う　DECOY
+  description: インターセプター不正疑惑会見で起こった＜笑い男出現事件＞。荒巻は、警察自演の騒ぎではないかと疑念を抱く。＜笑い男＞最重要参考人・ナナオを張り込む公安9課。一方、草薙は単独で6年前の＜笑い男事件＞を洗い直し、警視総監の護衛を申し出た。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425063←前話｜次話→so33425075　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425074
+  default_thread_id: 1529986622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425074
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 模倣者は踊る　MEME
+  description: 警視総監暗殺予告当日の会場では、SPの一人がナナオの仕組んだ遅効性ウィルスにより発症。だがウィルスとは無関係の暴走も連発し、混乱は加速する。＜自称犯人＞たちであふれ返す警察取調室。騒動のさなか、荒巻と草薙はある場所へと向かうのだった─。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425074←前話｜次話→so33425077　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425075
+  default_thread_id: 1529986040
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425075
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 偶像崇拝　IDOLATER
+  description: 幾度もの暗殺計画を奇跡的にくぐり抜けた南米某国の国民的英雄・マルセロ。その男がたびたび極秘裏に来日しているとの情報を受け、9課の調査が始まった。やがてマルセロと暴力団組織との関係が露呈し、ついに来日の目的が明らかに─！<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425075←前話｜次話→so33425078　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425077
+  default_thread_id: 1529986664
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425077
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 恵まれし者たち　MISSING HEARTS
+  description: 移植手術を受けた少女の心臓が、提供者の承諾を得ていないものであることが判明。組織的な臓器密売の可能性から、9課が捜査に乗り出した。少女と同じ年頃に全身を義体化した草薙が事件に特別な感情を抱く中、意外な実行犯の姿が浮かび上がる─！<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425077←前話｜次話→so33425079　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425078
+  default_thread_id: 1529986637
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425078
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ネットの闇に棲む男　CHAT！ CHAT！ CHAT！
+  description: ネットマスター・オンバの主宰する＜ラッフィングマンルーム＞では、笑い男事件をめぐってJ・D、ぐるぐる、カナビ、ベビールース、クロマらがチャットに参加し、推理を展開していた。果たして彼らは真実にたどり着けるのか─。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425078←前話｜次話→so33425080　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425079
+  default_thread_id: 1529986612
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425079
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 密林航路にうってつけの日　JUNGLE CRUISE
+  description: 女性が生皮を剥がされて殺害されるという残忍な事件が連続して発生。その犯行スタイルから、バトーは過去の出来事を思い起こさずにはいられなかった。事件の背後にちらつく、ある極秘計画の影。そして事件の結末は─。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425079←前話｜次話→so33425102　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425080
+  default_thread_id: 1529986583
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425080
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 亜成虫の森で　PORTRAITZ
+  description: 電脳閉殻症患者の授産施設から厚生労働省にハッキングが仕掛けられた。犯行の常人離れした手際のよさ、厚生労働省の不自然な反応などから、荒巻はトグサに施設の潜入捜査を命じる。そこでトグサが目にした異常な光景とは─！<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425080←前話｜次話→so33425128　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425102
+  default_thread_id: 1529986683
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425102
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: タチコマの家出 映画監督の夢　ESCAPE FROM
+  description: 天然オイルを入れられていたタチコマ1機が、突如起動。繰り出した街で犬を探す少女と出会う。タチコマは少女を手伝うことになるが…。その道中でタチコマが拾い持ち帰った＜防壁のない電脳＞が、9課に騒ぎをもたらすことになる。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425102←前話｜次話→so33425073　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425128
+  default_thread_id: 1529987182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425128
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: "≠テロリスト NOT EQUAL"
+  description: テロリスト集団＜興国の旅団＞に誘拐され、消息不明だった少女エカ。＜興国の旅団＞が潜む海上プラント内で連絡の途絶えた海上保安庁の先遣隊。謎を秘めたプラントを目指し、9課の捜査が始まった。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425128←前話｜次話→so33425072　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425073
+  default_thread_id: 1529986592
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425073
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 全自動資本主義　￥€＄
+  description: 大富豪の個人投資家・横瀬を狙う、中国から来た殺し屋フェム。9課は情報を得て、横瀬の身辺を固めるべく行動を開始する。だが横瀬については自宅の豪邸の場所以外、謎に包まれている。9課は暗殺を阻止できるか、そして横瀬の正体とは？<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425073←前話｜次話→so33425044　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425072
+  default_thread_id: 1529986595
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425072
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 機械たちの時間 　MACHINES DÉSIRANTES
+  description: タチコマたちは、草薙の態度を不審に思い、近く何らかの処分があるのではと議論を巡らせる。AIにとっての生と死の概念、ゴースト、神、そして自分たちの存在意義。彼らは自分たちの身を守る方法として、ある行動に出るのだが─。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425072←前話｜次話→so33425064　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425044
+  default_thread_id: 1529985619
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425044
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 心の隙間　Ag2O
+  description: 海自への潜入捜査でスパイ容疑者ザイツェフに近づくバトー。ザイツェフは、かつては｢義体の隙をつく｣と表現される独特の技で一世を風靡した格闘家だった。バトーはかつて憧れていた人物との、任務を越えた決着をつける。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425044←前話｜次話→so33425065　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425064
+  default_thread_id: 1529986606
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425064
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 未完成ラブロマンスの真相　ANGELS’SHARE
+  description: ロンドンでの国際テロ対策協議を終えた荒巻と草薙。荒巻は単身、昔なじみの勤める銀行に向かうが、そこで思わぬ事件に巻き込まれる。荒巻が画策する危機脱出計画、荒巻の行動を予測しながら救出を図る草薙。そして事件の行方は！？<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425064←前話｜次話→so33425066　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425065
+  default_thread_id: 1529986639
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425065
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 暗殺の二重奏　LOST HERITAGE
+  description: 荒巻はかつての同僚の娘から、様子のおかしい弟のことを調べて欲しいと頼まれたが、私的な理由で仕事はできないと断る。一方、中国外務次官の暗殺が計画されているという極秘情報を掴む9課。その犯人として浮上したのは、依頼を受けた娘の弟だった―。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425065←前話｜次話→so33425067　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425066
+  default_thread_id: 1529986643
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425066
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 偽装網に抱かれて　CAPTIVATED
+  description: 神崎元首相の娘、玲子が突然失踪。9課は北方マフィアによる集団拉致の可能性を疑う。だが集団拉致を否定してきた神崎の娘が誘拐されたのはなぜか？犯人の意図が読めない綱渡りの捜査の中、主犯はロシアの対外情報局の元女工作員・クルツコワと判明した―。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425066←前話｜次話→so33425068　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425067
+  default_thread_id: 1529986654
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425067
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 消された薬　RE-VIEW
+  description: 過去の事件の腑に落ちない点を足がかりに、笑い男事件の真相を独自に推理するトグサ。厚生労働省の資料捜査にあたる中、＜村井ワクチン接種者リスト＞が紛失していることに気づく。そして向かったNPO＜ひまわりの会＞で、絶体絶命の危機に陥る！<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425067←前話｜次話→so33425069　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33425068
+  default_thread_id: 1529986662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425068
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 置き去りの軌跡　ERASER
+  description: "＜笑い男事件＞の真相を知ると思われる今来栖尚を確保すべく、全力を挙げる9課。麻薬取締局強制介入班と激しい戦闘を演じる中、立ちはだかるアームスーツを前にした草薙は、自ら囮となる―。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425068←前話｜次話→so33424938　第一話→so33424929"
+  length_seconds: 1490
+  content_id: so33425069
+  default_thread_id: 1529986615
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425069
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 疑獄　SCANDAL
+  description: 消息の知れなかった実の兄が生きていたとの報を受け、罠とも知らず単身招慰難民居住区へと向かう荒巻。一方で義体換装中の草薙にも忍び寄る、強制介入班残党の魔の手。そんな草薙の窮地に現れたのは、あの＜笑い男＞だった。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33425069←前話｜次話→so33424937　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33424938
+  default_thread_id: 1529983857
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424938
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 善悪の彼岸　EQUINOX
+  description: "＜笑い男事件＞とその黒幕・薬島幹事長とを結びつける最後の線、セラノゲノミクス。9課が動き出した矢先、青いフードをかぶった人物が瀬良野社長宅を訪れる。＜笑い男事件＞の発端となった6年前の誘拐事件が、今まさに再現されようとしていた。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33424938←前話｜次話→so33424936　第一話→so33424929"
+  length_seconds: 1490
+  content_id: so33424937
+  default_thread_id: 1529983867
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424937
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 孤城落日　ANNIHILATION
+  description: 薬島幹事長を逮捕するため総理と掛け合う荒巻。だが、既に9課壊滅のシナリオが動き出した後だった。特殊部隊規制法案の施行、そして本部の武力制圧。草薙は9課の｢解散｣を宣言し、それぞれに逃走・潜伏することを命じるのであった。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33424937←前話｜次話→so33424934　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33424936
+  default_thread_id: 1529983884
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424936
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 硝煙弾雨　BARRAGE
+  description: 捕らえられていく9課のメンバーを救うため、奔走する荒巻。草薙のセーフハウスで、追っ手の待ち伏せにあうバトー。そして、窮地を救うために駆けつめるタチコマ達。多大な犠牲を払いつつも、草薙と共に脱出を図ろうとした、まさにそのとき―。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33424936←前話｜次話→so33424933　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33424934
+  default_thread_id: 1529983848
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424934
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話(最終話)
+  title: 公安9課、再び　STAND ALONE COMPLEX
+  description: 薬島幹事長逮捕の知らせを受け、義憤の念に駆られるトグサ。自分たちが信じてきた正義とは、いったい何だったのか。それを確かめるかのように、トグサは銃をポケットに放り込み、検察や報道陣であふれかえる与党本部に向かうのだった。<br><br>草薙素子:田中敦子／荒巻大輔:阪
+    脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子<br><br>原作・協力:士郎正宗／企画:石川光久、渡辺
+    繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production I.G<br><br>©士郎正宗・Production
+    I.G/講談社・攻殻機動隊製作委員会<br><br>so33424934←前話　第一話→so33424929
+  length_seconds: 1490
+  content_id: so33424933
+  default_thread_id: 1529983831
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33424933
+cast: "[キャスト]<br>草薙素子:田中敦子／荒巻大輔:阪 脩／バトー:大塚明夫／トグサ:山寺宏一／イシカワ:仲野 裕／サイトー:大川 透／ボーマ:山口太郎／パズ:小野塚貴志／タチコマ:玉川紗己子"
+staff: "[スタッフ]<br>原作・協力:士郎正宗／企画:石川光久、渡辺 繁／監督・シリーズ構成:神山健治／キャラクターデザイン:下村 一／メカニカルデザイン:寺岡賢司、常木志伸／音楽:菅野よう子／制作:Production
+  I.G"
+produced_year: "[製作年]<br>2002年"
+copyright: "©士郎正宗・Production I.G/講談社・攻殻機動隊製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 S.A.C. 2nd GIG
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 STAND ALONE COMPLEX Solid State Society
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 ARISE
+- !ruby/hash:SeasonHash
+  title: 攻殻機動隊 新劇場版
+- !ruby/hash:SeasonHash
+  title: GHOST IN THE SHELL/攻殻機動隊

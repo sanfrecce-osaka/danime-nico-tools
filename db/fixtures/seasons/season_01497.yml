@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: 超音戦士ボーグマン Lovers Rain
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/5/10635_1_6.png?1427216400000
+outline: 東京湾に浮かぶメガロシティ。シティ内のサイソニック学園につとめる教師、アニス・ファーム。彼女の真の姿、それはサイボーグ戦士・ボーグマン一員で妖魔たちと闘かっている。厳しい戦いの中で、彼女は同じボーグマンで学園の同僚教師でもある響リョウに惹かれていくが……。1989年に公開された｢ザ・ボーグマン
+  ラストバトル｣とTVシリーズの間を埋めるエピソード。ボーグマンチームの紅一点、ヒロインのアニス・ファームを中心に展開していくアクション・ラブストーリー。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本保典
+  type: cast
+- !ruby/hash:TagHash
+  name: 鷹森淑乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 高宮俊介
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菊池通隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：飛澤宏元
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：村山靖
+  type: staff
+- !ruby/hash:TagHash
+  name: 超音戦士ボーグマンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 葦プロダクション
+  type: other
+- !ruby/hash:TagHash
+  name: 清水勝則
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1990年
+  type: other
+- !ruby/hash:TagHash
+  name: 瀬山武司
+  type: other
+- !ruby/hash:TagHash
+  name: 森下成一
+  type: other
+- !ruby/hash:TagHash
+  name: 西香代子
+  type: other
+- !ruby/hash:TagHash
+  name: 藤原正道
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 超音戦士ボーグマン Lovers Rain
+  description: '東京湾に浮かぶメガロシティ。シティ内のサイソニック学園につとめる教師、アニス・ファーム。彼女の真の姿、それはサイボーグ戦士・ボーグマン一員で妖魔たちと闘かっている。厳しい戦いの中で、彼女は同じボーグマンで学園の同僚教師でもある響リョウに惹かれていくが……。1989年に公開された｢ザ・ボーグマン
+    ラストバトル｣とTVシリーズの間を埋めるエピソード。ボーグマンチームの紅一点、ヒロインのアニス・ファームを中心に展開していくアクション・ラブストーリー。<br><br>響リョウ
+    : 松本保典／チャック・スェーガー : 井上和彦／アニス・ファーム : 鷹森淑乃／メモリー・ジーン : 勝生真沙子／サンダー : 山寺宏一／アナウンサー :
+    高宮俊介<br><br>企画 : 藤原正道､加藤博／監督 : 村山靖／キャラクターデザイン : 菊池通隆／作画監督 : 菊池通隆／美術監督 : 藤田勉／色彩設定
+    : 西香代子(スタジオ・トムキャット)／音響監督 : 清水勝則／撮影監督 : 森下成一／編集 : 瀬山武司､足立浩／音楽 : 飛澤宏元／プロデューサー :
+    頼経康史／製作 : 東宝株式会社､葦プロダクション'
+  length_seconds: 2002
+  content_id: so32187002
+  default_thread_id: 1509367417
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32187002
+cast: "[キャスト]<br>響リョウ : 松本保典／チャック・スェーガー : 井上和彦／アニス・ファーム : 鷹森淑乃／メモリー・ジーン : 勝生真沙子／サンダー
+  : 山寺宏一／アナウンサー : 高宮俊介"
+staff: "[スタッフ]<br>企画 : 藤原正道､加藤博／監督 : 村山靖／キャラクターデザイン : 菊池通隆／作画監督 : 菊池通隆／美術監督 : 藤田勉／色彩設定
+  : 西香代子(スタジオ・トムキャット)／音響監督 : 清水勝則／撮影監督 : 森下成一／編集 : 瀬山武司､足立浩／音楽 : 飛澤宏元／プロデューサー : 頼経康史／製作
+  : 東宝株式会社､葦プロダクション"
+produced_year: "[製作年]<br>1990年"
+copyright: "(C)1990 TOHO CO., LTD. /PRODUCTION REED CO.,LTD."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超音戦士ボーグマン2 -新世紀2058-
+- !ruby/hash:SeasonHash
+  title: The Borgman Last battle
+- !ruby/hash:SeasonHash
+  title: 超音戦士 ボーグマン

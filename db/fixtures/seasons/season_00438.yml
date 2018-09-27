@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: グレートマジンガー対ゲッターロボＧ　空中大激突
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/1/21921_1_6.png?1512981005000
+outline: 突如現れた謎の宇宙船の攻撃を受け、リョウ・ムサシ・ハヤトの3人はただちに合体し反撃するが早乙女研究所は損壊。ベアー号とムサシを失ってしまった。早乙女博士は涙にくれるリョウとハヤトに新しいゲッターロボGを与える。一方、羽田空港に着陸した宇宙船は、周囲を手当たり次第に破壊、さらに光波獣・ピグドロンに対し出撃を命じていた。修理を終え、ピグドロンを倒すべく出撃したグレートマジンガーだが、ピグドロンの光の矢攻撃を受けて鉄也が負傷してしまう。駆けつけた新ゲッターロボGは鉄也を助け出すと、宇宙船に立ち向かった。そしてようやくグレートマジンガーの新しい武器・グレートブースターも完成。ゲッターロボGとグレートマジンガーの反撃が開始された。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 神谷明
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田秀勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢田和子
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢田耕司
+  type: cast
+- !ruby/hash:TagHash
+  name: 野田圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 中谷ゆみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺宙明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：菊池俊輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：明比正行
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石川賢
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1975年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: グレートマジンガー対ゲッターロボＧ　空中大激突
+  description: 突如現れた謎の宇宙船の攻撃を受け、リョウ・ムサシ・ハヤトの3人はただちに合体し反撃するが早乙女研究所は損壊。ベアー号とムサシを失ってしまった。早乙女博士は涙にくれるリョウとハヤトに新しいゲッターロボGを与える。一方、羽田空港に着陸した宇宙船は、周囲を手当たり次第に破壊、さらに光波獣・ピグドロンに対し出撃を命じていた。修理を終え、ピグドロンを倒すべく出撃したグレートマジンガーだが、ピグドロンの光の矢攻撃を受けて鉄也が負傷してしまう。駆けつけた新ゲッターロボGは鉄也を助け出すと、宇宙船に立ち向かった。そしてようやくグレートマジンガーの新しい武器・グレートブースターも完成。ゲッターロボGとグレートマジンガーの反撃が開始された。<br><br>剣鉄也:野田圭一／炎ジュン:中谷ゆみ／兜剣造:柴田秀勝／兜シロー:沢田和子／科学要塞研究所所員:矢田耕司／流竜馬:神谷明<br><br>原作:永井豪・石川賢／監督:明比正行／脚本:藤川桂介／音楽:菊池俊輔・渡辺宙明／撮影:菅谷信行
+  length_seconds: 1448
+  content_id: so32487641
+  default_thread_id: 1514362822
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32487641
+cast: "[キャスト]<br>剣鉄也:野田圭一／炎ジュン:中谷ゆみ／兜剣造:柴田秀勝／兜シロー:沢田和子／科学要塞研究所所員:矢田耕司／流竜馬:神谷明"
+staff: "[スタッフ]<br>原作:永井豪・石川賢／監督:明比正行／脚本:藤川桂介／音楽:菊池俊輔・渡辺宙明／撮影:菅谷信行"
+produced_year: "[製作年]<br>1975年"
+copyright: "©ダイナミック企画・東映アニメーション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+- !ruby/hash:SeasonHash
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+- !ruby/hash:SeasonHash
+  title: 宇宙円盤大戦争
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボ
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対暗黒大将軍
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対デビルマン

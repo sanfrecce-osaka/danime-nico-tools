@@ -1,0 +1,203 @@
+--- !ruby/hash:SeasonHash
+title: あはれ!名作くん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/46/1/21461_1_6.png?1487651435000
+outline: むかしむかしあるところに数々の名作キャラを輩出する名門「竜宮小」という学校がありました。ある日「松田名作」というフツーの男の子が竜宮小に入学。超バカで超ハイテンションの「スウィーツ」、おにぎりと言われるとキレる「むすび」ナルシストで自称ロボの「ノキオ」、明らかにウサギよりも足が速い「ボルト」など濃いキャラに囲まれた名作くんは、立派な名作キャラとして卒業できるのでしょうか――
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：新海岳人
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Pie in the sky
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：でんぱ組.inc
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第5話
+  title: ''
+  description: 第1話「はじめまして名作です」／第2話「むすびの調理実習」／第3話「ノキオはロボ?」／第4話「亀をいじめるな」／第5話「王様は全体的にロバ」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>次話→so32000458
+  length_seconds: 1243
+  content_id: so32000457
+  default_thread_id: 1506467407
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000457
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話～第10話
+  title: ''
+  description: 第6話「ジャッ君と豆の木」／第7話「3セン法師」／第8話「ツル以外の恩返し」／第9話「カネ太郎」／第10話「割とギリギリっス」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>so32000457←前話｜次話→so32000459　第一話→so32000457
+  length_seconds: 1234
+  content_id: so32000458
+  default_thread_id: 1506467430
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000458
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話～第15話
+  title: ''
+  description: 第11話「こぶとりさん」／第12話「色んなずきん」／第13話「学級委員を選ぼう」／第14話「キタとヨウ」／第15話「クラスのクイズ王」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>so32000458←前話｜次話→so32000460　第一話→so32000457
+  length_seconds: 1223
+  content_id: so32000459
+  default_thread_id: 1506467389
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000459
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話～第20話
+  title: ''
+  description: 第16話「ええ!絵!?」／第17話「3匹のブーチューバー」／第18話「かさ蔵」／第19話「ウサギとボルト」／第20話「わらしべを探せ」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>so32000459←前話｜次話→so32000461　第一話→so32000457
+  length_seconds: 1240
+  content_id: so32000460
+  default_thread_id: 1506467366
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000460
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話～第25話
+  title: ''
+  description: 第21話「in ひみつ基地」／第22話「二っ休さん」／第23話「しようぜ署名」／第24話「ガリガリ旅行記」／第25話「学校の49不思議」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>so32000460←前話｜次話→so32000462　第一話→so32000457
+  length_seconds: 1266
+  content_id: so32000461
+  default_thread_id: 1506467409
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000461
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話～第30話
+  title: ''
+  description: 第26話「駄作くん」／第27話「ノキオとジュリエッ子」／第28話「消し太郎」／第29話「だがしの家」／第30話「はい、俳句」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>so32000461←前話｜次話→so32000485　第一話→so32000457
+  length_seconds: 1241
+  content_id: so32000462
+  default_thread_id: 1506467432
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000462
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話～第35話
+  title: ''
+  description: 第31話「雨女先生」／第32話「家なき米」／第33話「おじいさんズ」／第34話「ジュゲ夫」／第35話「注文の多すぎる料理店」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>so32000462←前話｜次話→so32000486　第一話→so32000457
+  length_seconds: 1297
+  content_id: so32000485
+  default_thread_id: 1506472121
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000485
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話～第39話
+  title: ''
+  description: 第36話「落とし物の精」／第37話「ツンデレラ」／第38話「救え!ネバネバランド(前編)」／第39話「救え!ネバネバランド(後編)」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>so32000485←前話　次話→so32998467　第一話→so32000457
+  length_seconds: 1128
+  content_id: so32000486
+  default_thread_id: 1506472107
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000486
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話～第44話
+  title: ''
+  description: 第４０話「６年C組ラッスィー先生」／第４１話「ボルトと花見」／第４２話「病は木から」／第４３話「オオカミ美少年」／第４４話「むすびの家出」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32000486←前話｜次話→so32998466　第一話→so32000457
+  length_seconds: 1152
+  content_id: so32998467
+  default_thread_id: 1522806766
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998467.79260
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話～第49話
+  title: ''
+  description: 第４５話「かぐや先生」／第４６話「部を作ろう」／第４７話「シャー田一少年の事件簿」／第４８話「ノキオのバースデー」／第４９話「魔法の田上」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32998467←前話｜次話→so32998465　第一話→so32000457
+  length_seconds: 1257
+  content_id: so32998466
+  default_thread_id: 1522806932
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998466.76008
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話～第54話
+  title: ''
+  description: 第５０話「変身」／第５１話「六年寝太郎」／第５２話「デスゲーム」／第５３話「歌おうミュージカル」／第５４話「賢くなったスウィーツ」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32998466←前話｜次話→so32998464　第一話→so32000457
+  length_seconds: 1149
+  content_id: so32998465
+  default_thread_id: 1522806930
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998465.50633
+- !ruby/hash:EpisodeHash
+  episode_no: 第55話～第59話
+  title: ''
+  description: 第５５話「スタンプ！」／第５６話「五少年漂流記」／第５７話「意味なし芳一」／第５８話「家来ドラフト」／第５９話「ゾンビのンビ山」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32998465←前話｜次話→so32998463　第一話→so32000457
+  length_seconds: 1239
+  content_id: so32998464
+  default_thread_id: 1522806953
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998464.15336
+- !ruby/hash:EpisodeHash
+  episode_no: 第60話～第64話
+  title: ''
+  description: 第６０話「ブーチューバーみずたまりぼんど」／第６１話「ノキオ探検隊」／第６２話「ラッスィーの取り調べ」／第６３話「初音ミク」／第６４話「ハロウィンって？」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32998464←前話｜次話→so32998462　第一話→so32000457
+  length_seconds: 1133
+  content_id: so32998463
+  default_thread_id: 1522806928
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998463.27111
+- !ruby/hash:EpisodeHash
+  episode_no: 第65話～第69話
+  title: ''
+  description: 第６５話「吾輩はネコであるけども」／第６６話「かちかち山」／第６７話「フリースタイルなラップ」／第６８話「名作のお父さん」／第６９話「PTA会議」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32998463←前話｜次話→so32998461　第一話→so32000457
+  length_seconds: 1274
+  content_id: so32998462
+  default_thread_id: 1522806951
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998462.64913
+- !ruby/hash:EpisodeHash
+  episode_no: 第70話～第74話
+  title: ''
+  description: 第７０話「ツンデレラと踊ろう」／第７１話「はつもうで」／第７２話「ジャングルの王ターさん」／第７３話「雪玉ころりん」／第７４話「泣いた鬼教師」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32998462←前話｜次話→so32998460　第一話→so32000457
+  length_seconds: 1272
+  content_id: so32998461
+  default_thread_id: 1522806967
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998461.26984
+- !ruby/hash:EpisodeHash
+  episode_no: 第75話～第78話
+  title: ''
+  description: 第７５話「駄作くんは名作好き？」／第７６話「不思議の区の名作」／第７７話「悪の校長あらわる」／第７８話「卒業！？式」<br><br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN
+    OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+    in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky<br><br>©「あはれ！名作くん」製作委員会<br><br>so32998461←前話　第一話→so32000457
+  length_seconds: 1109
+  content_id: so32998460
+  default_thread_id: 1522806948
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32998460.97372
+staff: "[スタッフ]<br>監督:新海岳人／脚本：新海岳人、廣川祐樹／キャラデザイン：JUN OSON／作画：中内友紀恵／編集：大山真拡／音響制作：菊池司／主題歌：でんぱ組.inc「あはれ！我らが世界の中心」／エンディングアニメーション：植草航／原作：Pie
+  in the sky／エグゼクティブプロデューサー：遠藤純一／アニメーション制作：Pie in the sky"
+produced_year: "[製作年]<br>2015年"
+copyright: "©「あはれ！名作くん」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: わかば＊ガール
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/22/9/20229_1_6.png?1436495272000
+outline: "｢ごきげんよう! 小橋若葉ですわ｣小橋若葉、春から高校1年生。正真正銘のお嬢様ですが、普通の女子校に入学しました。新生活では見るもの全てが新鮮で、毎日はしゃいでしまいます。そんな彼女の目標は……ギャルになること!?変なお嬢様と個性派クラスメイトたちの交流を描く4コマコメディ、いよいよTVアニメスタート!"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
+  name: 村川梨衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 井澤美香子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：花田十輝
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Nexus
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：原悠衣
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石田可奈
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡邊政治
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：NBCユニバーサル
+  type: staff
+- !ruby/hash:TagHash
+  name: わかば＊ガールシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 明田川仁
+  type: other
+- !ruby/hash:TagHash
+  name: 女の子たちの日常
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：Ray
+  type: other
+- !ruby/hash:TagHash
+  name: 花田十輝
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 一葉～三葉
+  title: "「夢は女子高生です」／「Dカップでお願いします」／「ギャルへの道のりは遠い」"
+  description: 小橋若葉:小澤亜李／時田萌子:井澤美香子／黒川真魚:M・A・O／真柴直:村川梨衣<br><br>原作:原悠衣／監督:渡邊政治／シリーズ構成・脚本:花田十輝／キャラクターデザイン・総作画監督:石田可奈／音響監督:明田川仁／音楽:川井憲次／音楽制作:NBCユニバーサル／アニメーション制作:Nexus／OPテーマ:Ray｢初めてガールズ!｣<br><br>次話→so32045571
+  length_seconds: 1412
+  content_id: so32044396
+  default_thread_id: 1507122983
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32044396
+- !ruby/hash:EpisodeHash
+  episode_no: 四葉～六葉
+  title: "「これが包丁ですか」／「お嬢様はずるい」／「布の面積が少なすぎます」"
+  description: 小橋若葉:小澤亜李／時田萌子:井澤美香子／黒川真魚:M・A・O／真柴直:村川梨衣<br><br>原作:原悠衣／監督:渡邊政治／シリーズ構成・脚本:花田十輝／キャラクターデザイン・総作画監督:石田可奈／音響監督:明田川仁／音楽:川井憲次／音楽制作:NBCユニバーサル／アニメーション制作:Nexus／OPテーマ:Ray｢初めてガールズ!｣<br><br>so32044396←前話｜次話→so32045572　第一話→so32044396
+  length_seconds: 1412
+  content_id: so32045571
+  default_thread_id: 1507135245
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32045571
+- !ruby/hash:EpisodeHash
+  episode_no: 七葉～九葉
+  title: "「もしかしてスナイパー」／「ドンドコドコドコ」／「若葉ちゃんフィーバー」"
+  description: 小橋若葉:小澤亜李／時田萌子:井澤美香子／黒川真魚:M・A・O／真柴直:村川梨衣<br><br>原作:原悠衣／監督:渡邊政治／シリーズ構成・脚本:花田十輝／キャラクターデザイン・総作画監督:石田可奈／音響監督:明田川仁／音楽:川井憲次／音楽制作:NBCユニバーサル／アニメーション制作:Nexus／OPテーマ:Ray｢初めてガールズ!｣<br><br>so32045571←前話｜次話→so32045573　第一話→so32044396
+  length_seconds: 1412
+  content_id: so32045572
+  default_thread_id: 1507135290
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32045572
+- !ruby/hash:EpisodeHash
+  episode_no: 十葉～十三葉
+  title: "「それは無理ですわ～」／「堕落人間製造機械」／「その目をやめろ」／「普通の女の子」"
+  description: 小橋若葉:小澤亜李／時田萌子:井澤美香子／黒川真魚:M・A・O／真柴直:村川梨衣<br><br>原作:原悠衣／監督:渡邊政治／シリーズ構成・脚本:花田十輝／キャラクターデザイン・総作画監督:石田可奈／音響監督:明田川仁／音楽:川井憲次／音楽制作:NBCユニバーサル／アニメーション制作:Nexus／OPテーマ:Ray｢初めてガールズ!｣<br><br>so32045572←前話　第一話→so32044396
+  length_seconds: 1883
+  content_id: so32045573
+  default_thread_id: 1507136310
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32045573
+cast: "[キャスト]<br>小橋若葉:小澤亜李／時田萌子:井澤美香子／黒川真魚:M・A・O／真柴直:村川梨衣"
+staff: "[スタッフ]<br>原作:原悠衣／監督:渡邊政治／シリーズ構成・脚本:花田十輝／キャラクターデザイン・総作画監督:石田可奈／音響監督:明田川仁／音楽:川井憲次／音楽制作:NBCユニバーサル／アニメーション制作:Nexus／OPテーマ:Ray｢初めてガールズ!｣"
+produced_year: "[製作年]<br>2015年"
+copyright: "（Ｃ）原悠衣・芳文社／白詰女子高一年藤組"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,230 @@
+--- !ruby/hash:SeasonHash
+title: 風のスティグマ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/6/10616_1_6.png?1427216400000
+outline: 風のヒーローと炎のヒロインが出会う時。誰も見た事のない衝撃が、日本列島を吹き荒れる!天をつく超高層ホテルを真っ二つ!すべてを焼き尽くす炎と、空気分子をも斬り裂く風の激突!だが、これは異世界の物語ではなく、我々と同じ世界で女子高生が繰り広げる戦いなのだ―。炎のツンデレ女子高生・神凪綾乃
+  16歳 見参!整った顔立ちと、美しい長髪が見目麗しい聖陵学園のマドンナ、神凪綾乃。カラオケボックスとケーキバイキングが好きな、どこにでもいる女子高生。だが、彼女には秘密があった。彼女は、古より日本を陰から支えてきた神凪一族・宗主の一人娘にして、神剣・炎雷覇(えんらいは)を操り妖魔を焼滅させる一族屈指の≪炎術師≫なのだ。そんな綾乃と、一族に伝わる神剣・炎雷覇(えんらいは)の継承権をかけて対決し、負かされた青年・八神和麻。12歳の少女に敗北した事により、一族から追放され行方知れずになっていた和麻が、四年ぶりに帰ってきた・・・。ハリウッド・メジャーの大作アクションをしのぐバトル&バイオレンス描写で『テレビアニメ化は不可能』と言われてきた人気ライトノベル『風のスティグマ』。クールなダークヒーロー・和麻と、表情豊かな百面相を見せるツンデレ娘・綾乃の掛け合いも人気を呼んでいる。本編6作、外伝2作が刊行中の人気ライトノベルが、最新のヴィジュアルエフェクツと、実力派スタッフ&キャストにより待望のテレビアニメ化。地・水・火・風の四大精霊たちの力を借り、凄まじい力を顕現させる≪炎術師≫≪風術師≫≪地術師≫≪水術師≫たち。本来は目に見えない『風』と、定まった形を持たない『炎』。その激突を驚異の表現力を駆使し、テレビアニメの枠を超えたスケールで描く。自由なる風、すべてを見通し、気高き炎、すべてを浄化す。炎風渦巻くエレメンタル・バトル・アクション、ここに開幕!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: 風の帰還
+  description: "“炎術師”の一族、神凪家宗主の娘である神凪綾乃は、女子高生としての生活を送りながらも、神剣・炎雷覇を振るい、妖魔を退治する仕事を生業としていた。そんな綾乃のもとに、弟分の神凪煉から、かつて炎雷覇の後継者を巡る戦いで綾乃に敗れ、神凪一族から追放された八神和麻の帰国の知らせがもたらされる。<br><br>次話→so31880057"
+  length_seconds: 1455
+  content_id: so31880056
+  default_thread_id: 1504722956
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880056
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: 過去との対決
+  description: 綾乃と和麻の4年ぶりの再会は戦いから始まり、和麻の撤退によって幕引きとなった。神凪一族からの刺客をことごとく退け、姿をくらました和麻の捕獲のため、一族最強の術者で和麻の父親、彼を一族から追放した神凪厳馬が動き始める<br><br>so31880056←前話｜次話→so31880058　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880057
+  default_thread_id: 1504722929
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880057
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: 神凪宗家
+  description: 厳馬との死闘、輪切りにされた超高層ホテルの倒壊、謎の風術師による煉の誘拐と、息つく暇もないほどハードな夜は明けて…。和麻は煉を連れ去った犯人の見当をつけるため、宗主の重悟に会いに神凪宗家を訪れた。重悟の口から、襲撃犯の正体は一族に仕える風牙衆であり、煉を古の妖魔復活の｢生贄｣とする事が語られる。<br><br>so31880057←前話｜次話→so31880059　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880058
+  default_thread_id: 1504722797
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880058
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: 契約者(コントラクター)
+  description: 煉救出に向かう和麻と綾乃の前に、妖魔の力を宿した風巻流也が立ち塞がる。和麻は綾乃に流也の相手をさせている間に煉を救出するが、古の妖魔は流也を依り代に復活を果たしてしまう。神凪一族の本拠地を目指して暴走する妖魔を止めるため、和麻、綾乃、煉の三人は連携して攻撃を仕掛ける。<br><br>so31880058←前話｜次話→so31880060　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880059
+  default_thread_id: 1504722771
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880059
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: 迷いを捨てた者
+  description: 先日の事件解決を祝う神凪家の宴に和麻が招かれる。重悟、綾乃、煉など一族が集まる宴の席に、和麻の接待役として現れたのは大神家の娘である操だった。だが、大神操は宴の最中、袂に隠し持っていた短刀で突如和麻に襲い掛かる。操は、先日の事件で死んだ兄、武哉の仇として和麻の命を狙っていたのだ。<br><br>so31880059←前話｜次話→so31880061　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880060
+  default_thread_id: 1504722826
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880060
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 力の代償
+  description: 妖魔スライムによる連続殺人事件が多発。重悟から指示を受けた綾乃は、事件の調査を依頼するため和麻のもとを訪れる。やがて、和麻はスライムを操る術者が操である事を突き止める。操は和麻を倒すため、自らを『天使』と称するミハイル・ハーレイの力を借り、大量の人間の精気を取り込んでいたのだ。<br><br>so31880060←前話｜次話→so31880062　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880061
+  default_thread_id: 1504722954
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880061
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 魂の値段
+  description: 和麻の不可解な行動に心揺れる綾乃は、操のもとに向かう彼を止める決意をする。世界最強の風術師との対決…。綾乃は勝ち目のない相手に全力で戦いを挑む。一方その頃、狂気にとらわれた操は刺客として現れた大神家の一族を一掃。操の黒い炎の暴発を感じた和麻たちも現場へと駆けつける。<br><br>so31880061←前話｜次話→so31880063　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880062
+  default_thread_id: 1504722974
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880062
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 綾乃ちゃんの災難
+  description: 綾乃の通う聖陵学園に、人魂のような光が飛び交う現象が毎夜発生しているという。学園から人魂退治の依頼を受けて事件解決に乗り出す綾乃。だが、護衛役として和麻が同行する事になり、綾乃はおおいに戸惑うのだった。さらには、どこからか事件を嗅ぎ付けた友人の篠宮由香里と久遠七瀬までが、無理やり参加を表明し・・・。<br><br>so31880062←前話｜次話→so31880064　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880063
+  default_thread_id: 1504722931
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880063
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: 月下の出会い
+  description: 学校からの帰宅途中、煉は微かに聞こえてきた歌声に足を止めた。歌声のする方向を見ると、そこには公園のジャングルジムに佇み、白銀の月光を浴びながら無心に歌う美少女あゆみの姿があった。その美しさに一目で心奪われた煉は、彼女からせがまれるままに一緒に遊ぶ事に。<br><br>so31880063←前話｜次話→so31880100　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880064
+  default_thread_id: 1504722802
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880064
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 護るべき人
+  description: "｢最後に自分の目で綺麗なものが見たい｣…その願いを叶えるため、煉はあゆみと海に向かう。道中、煉はあゆみから彼女が石蕗の&lt;大祭&gt;の祭主であり、使命を果たすために石蕗家に戻る事を告げられる。大祭とは、富士山の噴火の気が具現化した魔獣を封印する儀式であり、式の祭主は生贄として命を奉げる必要があるのだ。<br><br>so31880064←前話｜次話→so31880101　第一話→so31880056"
+  length_seconds: 1455
+  content_id: so31880100
+  default_thread_id: 1504724008
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880100
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: それぞれの決意
+  description: 余命一月のあゆみは自ら進んで生贄となる道を選ぶ。彼女が去るのを止められなかった煉は放心状態にあった。そんな煉に綾乃は｢本当にこのままでいいの?｣と問う。その言葉で自分の気持ちに気づいた煉は、もう一度あゆみに会うため、綾乃と共に大祭の場へと向かう。<br><br>so31880100←前話｜次話→so31880102　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880101
+  default_thread_id: 1504724023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880101
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: 月下の告白
+  description: 富士の樹海では綾乃と紅羽の激闘が続いていた。魔獣の力を宿した紅羽の重力制御の技に、苦戦を強いられる綾乃。一方、大祭の儀式場、地下大空洞にてあゆみを救出した煉と和麻は、そこで水晶柱に閉じ込められた真由美を見つける。和麻は水晶柱を破壊して真由美を救い出すが、支柱を失った大空洞は崩壊を始めてしまう。<br><br>so31880101←前話｜次話→so31880103　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880102
+  default_thread_id: 1504723997
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880102
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: 遊園地にいこう!
+  description: 霊障調査の任務を受け、休日の遊園地にやってきた綾乃、和麻、煉。任務でありながら、和麻と遊園地にいる状況にどこか落ち着かない様子の綾乃。一方の和麻は、そんな綾乃の感情はどこ吹く風。しばらくすると、園内に突然現れた煉のクラスメイトである花音と芹沢が煉を連れて行ってしまい、綾乃と和麻は二人きりに…。<br><br>so31880102←前話｜次話→so31880104　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880103
+  default_thread_id: 1504723955
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880103
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: 綾乃ちゃんの更なる災難
+  description: 今日は和麻に最高級ディナーをご馳走してもらう日。ドレスアップした綾乃は、和麻にエスコートされいつもと違う大人の雰囲気にドキドキ。ロマンチックなムードにご満悦な綾乃だが、突然テロリストが乱入し店内は大混乱に。さらに、精霊獣を操るアメリカの炎術師、キャサリン・マクドナルドが綾乃に戦いを挑んできて…!?<br><br>so31880103←前話｜次話→so31880105　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880104
+  default_thread_id: 1504723978
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880104
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: キャサリン・リターンズ
+  description: アメリカの炎術師キャサリンは、綾乃との再戦のため手当たり次第に妖魔を退治していたが、和麻からは｢今のままでは勝てない｣と忠告を受けてしまう。腹を立てるキャサリンだが、和麻の強さを知ると自分のトレーナーとして雇う。和麻の訓練を受け｢最強の称号｣と｢炎雷覇｣をかけて、キャサリンが再び綾乃に決闘を挑む!<br><br>so31880104←前話｜次話→so31880106　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880105
+  default_thread_id: 1504723982
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880105
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: 父と子と
+  description: 綾乃たちと一緒に温泉旅行へとやってきた和麻。だがそこには橘霧香の薦めで湯治に訪れていた父、厳馬の姿もあった。先日の事件で熾烈な親子の戦いがあって以来、一度も顔を合わせていなかった二人。会った瞬間に激突必至の父と子が、同じ場所に居合わせたとは知らず、綾乃たちは厳馬が宿泊するホテルにチェックインする。<br><br>so31880105←前話｜次話→so31880107　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880106
+  default_thread_id: 1504723957
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880106
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: 魔法使いの倒し方
+  description: 放課後の聖陵学園で部活に励む久遠七瀬を撮影する怪しいカメラ。写真部の内海浩助が女生徒の隠し撮りをしていたのだ。目に余る犯罪行為に激怒した七瀬たちは内海を袋叩きにする。だが、制裁に加わった女生徒は次々と不幸に襲われる事に…。<br><br>so31880106←前話｜次話→so31880108　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880107
+  default_thread_id: 1504723582
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880107
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: 東京RPG
+  description: 一般人が超常の力を使う事件の調査中に和麻はかつての恋人の翠鈴を目撃する。一方、煉と綾乃は、ゲーム感覚でバトルを繰り返す妖魔に憑依された者たちに遭遇していた。彼らを倒し力を手に入れた経緯を問いただす綾乃と煉。彼らは皆、インターネットのサイト｢万魔殿(パンデモニウム)｣で力を得たと告白するのだが…。<br><br>so31880107←前話｜次話→so31880109　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880108
+  default_thread_id: 1504723953
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880108
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: 万魔殿(パンデモニウム)
+  description: 一般人に超常の力を与える万魔殿(パンデモニウム)の存在が明らかになった。神凪家で対策会議の最中、綾乃の元に｢煉が突然消えた｣という報告が入る。現場に駆けつけた和麻たちはツインタワービルに空間のゆがみを発見。単独で乗り込んだ和麻を追って空間内に潜入した綾乃と霧香の前に、謎の少女、ラピスが現れる。<br><br>so31880108←前話｜次話→so31880110　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880109
+  default_thread_id: 1504724016
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880109
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: 翠色(すいしょく)の残影
+  description: ラピスと対峙した和麻は激しく動揺し、事件の黒幕であるヴェルンハルト・ローデスへの怒りをあらわにする。翠鈴と生き写しである少女のラピスは、和麻との因縁をもつヴェルンハルトが創り上げた存在であったのだ。これまで見た事のない和麻の反応に、綾乃、煉、霧香は戸惑う。<br><br>so31880109←前話｜次話→so31880111　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880110
+  default_thread_id: 1504723601
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880110
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: 狂乱の風術師
+  description: 都内各地では能力者同士が激突する事件が発生していた。今夜も、闘技場と化した公園内には多数の能力者が集まりバトルが行われていたが、戦いの最中に現れた和麻の手によって、対戦中の能力者は瀕死の重傷を負う。和麻はパンデモニウムの手がかりを得るために、能力者を無差別に襲っていたのだ。<br><br>so31880110←前話｜次話→so31880112　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880111
+  default_thread_id: 1504723984
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880111
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: 決意と逡巡と
+  description: 残虐な能力者狩り、内海の七瀬誘拐への手助け…。パンデモニウムに行き着くために手段を選ばない和麻の凶行に綾乃と煉は戸惑いを隠せない。綾乃は、霧香から｢和麻を止められるのはあなただけ｣と言われた事に思い悩み自信をもてずにいた。そんななか、煉は能力者たちを容赦なく叩きのめす和麻を見つけるのだったが…。<br><br>so31880111←前話｜次話→so31880113　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880112
+  default_thread_id: 1504723973
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880112
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: 紅炎
+  description: 和麻を止めるためにパンデモニウムが降臨する中央公園を訪れる綾乃と煉。公園内にはより強い力を求める能力者たちが集まり、互いに戦いを繰り広げていた。だが、降臨と共に能力者に憑依していた妖魔が覚醒し変貌を遂げる。やがて、押し寄せる妖魔の大群を切り裂き、凶器の風をまとった和麻が現れる。<br><br>so31880112←前話｜次話→so31880114　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880113
+  default_thread_id: 1504723951
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880113
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: 風の護りしもの
+  description: パンデモニウムに潜入した一行の前にラピスが現れる。彼女はパンデモニウムの目的が人と魔の融合体&lt;ホモ・スペリオール&gt;を創造するための実験にあった事を語る。そして実験体である能力者たちの魂を生贄として大妖魔ベリアルを召喚させようとしていた。ベリアル出現が迫るなか、和麻、綾乃、煉の取るべき行動とは!?<br><br>so31880113←前話　第一話→so31880056
+  length_seconds: 1455
+  content_id: so31880114
+  default_thread_id: 1504724018
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31880114
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)2007 山門敬弘・納都花丸/富士見書房・風の聖痕製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

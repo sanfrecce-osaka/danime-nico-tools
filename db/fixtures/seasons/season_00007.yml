@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: アイドルプロジェクト
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/89/7/10897_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: こおろぎさとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 國府田マリ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 金丸日向子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：長岡康史
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐藤豊
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：鈴木典孝
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Vol.1
+  title: スターランド☆フェスティバル
+  description: オ一ディションを目指す未夢・エミルトンは、エクセレント・アイドルたちが繰り広げるアクシデントに巻き込まれて、ボロボロ。でも、アイドルたちが教えてくれた「笑顔」「気品」「ガッツ」などを糧に、ようやくたどり着いてステージでまさに歌おうとした瞬間、更なる珍客が来襲した！「いったい、どうなっちゃうの～」<br><br>声優:國府田マリ子、金丸日向子、こおろぎさとみ、久川
+    綾、かないみか、井上喜久子、折笠 愛<br><br>原作:鈴木典孝／監督:長岡康史、佐藤 豊<br><br>次話→so31886948
+  length_seconds: 1587
+  content_id: so31886771
+  default_thread_id: 1504827444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31886771
+- !ruby/hash:EpisodeHash
+  episode_no: Vol.2
+  title: トロピカル☆ディメンション
+  description: 未夢とエクセレント・アイドルたちは、珍客によって常夏の星バリ・ハウイへと強制的に運ばれてしまったのだ。そこでは、銀河規模のアイドル水泳大会の真っ最中！地球代表として彼女達が選ばれたのだ。素早く状況を把握して営業スマイルを振りまく面々を後目に、ボーッとしたままの未夢。だが、いきなり代打の使命がかかる！<br><br>声優:國府田マリ子、金丸日向子、こおろぎさとみ、久川
+    綾、かないみか、井上喜久子、折笠 愛<br><br>原作:鈴木典孝／監督:長岡康史、佐藤 豊<br><br>so31886771←前話｜次話→so31887003　第一話→so31886771
+  length_seconds: 1759
+  content_id: so31886948
+  default_thread_id: 1504831646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31886948
+- !ruby/hash:EpisodeHash
+  episode_no: Vol.3
+  title: ショッキング☆リポート
+  description: 水泳大会の後、エクセレントアイドルたちは映画の星でそれぞれの地位を確立していた。着ぐるみで賞を狙うルカ。セクシーCMに出演するコルベット。ヒーローアクションに主演するぱるぷ…。一方、未夢は宅配ランチのアルバイトに就いていた。「みんなでお金を稼いでスターランドに戻るんだ！」だが、その日の未夢は、いつにも増して最悪の運勢だったのだ…！？<br><br>声優:國府田マリ子、金丸日向子、こおろぎさとみ、久川
+    綾、かないみか、井上喜久子、折笠 愛<br><br>原作:鈴木典孝／監督:長岡康史、佐藤 豊<br><br>so31886948←前話｜次話→so31887031　第一話→so31886771
+  length_seconds: 1751
+  content_id: so31887003
+  default_thread_id: 1504832497
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31887003
+- !ruby/hash:EpisodeHash
+  episode_no: Vol.4
+  title: ファイナル☆コンサート
+  description: 宇宙に一大事！ユリィ様の生まれたアイドルディメンションが、あまりにもユリィ一色に染まり、バランスを取るためにすべての宇宙を飲み込み始めたのだ。このままでは灼熱のディメンションとも結合してしまう！それを救うべく、エクセレントアイドルたちはユリィ以外のアイドルの存在を示すためにコンサートを企画した。そして未夢の手にはゴールデンマイクが……！？<br><br>声優:國府田マリ子、金丸日向子、こおろぎさとみ、久川
+    綾、かないみか、井上喜久子、折笠 愛<br><br>原作:鈴木典孝／監督:長岡康史、佐藤 豊<br><br>so31887003←前話　第一話→so31886771
+  length_seconds: 1751
+  content_id: so31887031
+  default_thread_id: 1504832864
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31887031
+cast: "[キャスト]<br>声優:國府田マリ子、金丸日向子、こおろぎさとみ、久川 綾、かないみか、井上喜久子、折笠 愛"
+staff: "[スタッフ]<br>原作:鈴木典孝／監督:長岡康史、佐藤 豊"
+produced_year: "[製作年]<br>1995年"
+copyright: "(C)Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

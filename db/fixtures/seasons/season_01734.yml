@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: Refrain Blue
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/89/6/10896_1_6.png?1427216400000
+outline: 第1章「緋色の追憶」東陽学園のサマースクールで起こる、ひと夏のちょぴり切なくほろ苦い体験を繊細で美しいムービータッチで送るOVAシリーズの第一弾！／第2章「月影の下で…」繊細で美しいムービータッチで贈るシリーズ第二弾。果たして、奈緒が見せた涙の理由とは！？／第3章「碧波の永遠」頑なに心を閉ざす松永を謎の少女が運命の扉の前へと誘う。果たして、謎の少女の正体とは！？　そして、松永と奈緒との恋の行方は！？　堂々の完結編！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川静
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野るり
+  type: cast
+- !ruby/hash:TagHash
+  name: 内川藍維
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊地由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 安達まり
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：吉岡たかを
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺真由美
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鹿島典夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：上野史博
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 飯塚康一
+  type: other
+- !ruby/hash:TagHash
+  name: 大宮三郎
+  type: other
+- !ruby/hash:TagHash
+  name: 坂本信人
+  type: other
+- !ruby/hash:TagHash
+  name: 安津畑隆
+  type: other
+- !ruby/hash:TagHash
+  name: 門井亜矢
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1章
+  title: 緋色の追憶
+  description: 繰り返し寄せては返す波。“蜻蛉海岸”は出逢いと別れが交錯する運命のリフレインブルー。バス会社の添乗員となった松永善博は東陽学園の生徒達と、夏のひとときをこの海辺で過ごす事になった。照りつける太陽、海、ハイキング、花火、楽しい夏の出来事に過去の悲しい想い出が映し出される。暑い一日が終わり、黄昏の海岸にたたずむ松永を、微笑みを浮かべ見守る謎の少女がいた。それは…。<br><br>松永善博:小西克幸／森沢奈緒:菊地由美／岩崎ちなつ:石川静／津賀島つぐみ:安達まり／川奈由織:浅野るり／早瀬雫:内川藍維／謎の少女:そのざきみえ　他<br><br>原作:エルフ／監督:鹿島典夫／脚本:吉岡たかを／演出:上野史博／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺真由美／作画監督:渡辺真由美／美術監督:坂本信人／撮影監督:安津畑隆／音響監督:飯塚康一／プロデューサー:大宮三郎／製作:ピンクパイナップル<br><br>次話→so31886769
+  length_seconds: 1455
+  content_id: so31886768
+  default_thread_id: 1504828506
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31886768
+- !ruby/hash:EpisodeHash
+  episode_no: 第2章
+  title: 月影の下で
+  description: 深景との記憶を単なる思い出にはできない松永。思い悩む彼に奈緒は自分の姿を重ねていた。埋められない心の隙間を垣間見るたび、彼への想いが強くなっていく。それでも裏切れない過去への気持ちに囚われたまま二人は肝試しでペアを組むことになった。薄暗い場所で近づく二人の距離。月影の下で二人は…。<br><br>松永善博:小西克幸／森沢奈緒:菊地由美／岩崎ちなつ:石川静／津賀島つぐみ:安達まり／川奈由織:浅野るり／早瀬雫:内川藍維／謎の少女:そのざきみえ　他<br><br>原作:エルフ／監督:鹿島典夫／脚本:吉岡たかを／演出:上野史博／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺真由美／作画監督:渡辺真由美／美術監督:坂本信人／撮影監督:安津畑隆／音響監督:飯塚康一／プロデューサー:大宮三郎／製作:ピンクパイナップル<br><br>so31886768←前話｜次話→so31886770　第一話→so31886768
+  length_seconds: 1525
+  content_id: so31886769
+  default_thread_id: 1504828654
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31886769
+- !ruby/hash:EpisodeHash
+  episode_no: 第3章
+  title: 碧波の永遠
+  description: 暗く冷たい海の中へ歩み進める自失の奈緒を間一髪助け出した松永。過去に抗い、体当たりでぶつかってくる彼女を目の当たりにして彼は戸惑っていた。過去と未来の狭間で彼の心は揺れ動く。複雑想いで迎えた花火大会で彼の前に姿を現した謎の少女。少女に誘われるまま松永は深景との思い出の旅館に辿り着く。真実と向きあう時、七夕の夜に奇跡が起こる…。<br><br>松永善博:小西克幸／森沢奈緒:菊地由美／岩崎ちなつ:石川静／津賀島つぐみ:安達まり／川奈由織:浅野るり／早瀬雫:内川藍維／謎の少女:そのざきみえ　他<br><br>原作:エルフ／監督:鹿島典夫／脚本:吉岡たかを／演出:上野史博／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺真由美／作画監督:渡辺真由美／美術監督:坂本信人／撮影監督:安津畑隆／音響監督:飯塚康一／プロデューサー:大宮三郎／製作:ピンクパイナップル<br><br>so31886769←前話　第一話→so31886768
+  length_seconds: 1648
+  content_id: so31886770
+  default_thread_id: 1504828483
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31886770
+cast: "[キャスト]<br>松永善博:小西克幸／森沢奈緒:菊地由美／岩崎ちなつ:石川静／津賀島つぐみ:安達まり／川奈由織:浅野るり／早瀬雫:内川藍維／謎の少女:そのざきみえ　他"
+staff: "[スタッフ]<br>原作:エルフ／監督:鹿島典夫／脚本:吉岡たかを／演出:上野史博／キャラクター原案:門井亜矢／キャラクターデザイン:渡辺真由美／作画監督:渡辺真由美／美術監督:坂本信人／撮影監督:安津畑隆／音響監督:飯塚康一／プロデューサー:大宮三郎／製作:ピンクパイナップル"
+produced_year: "[製作年]<br>2000年"
+copyright: "©2000 エルフ/ピンクパイナップル"
+related_seasons: !ruby/array:Hashie::Array []

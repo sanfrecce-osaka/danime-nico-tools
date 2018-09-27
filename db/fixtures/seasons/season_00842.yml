@@ -1,0 +1,43 @@
+--- !ruby/hash:SeasonHash
+title: 旅するぬいぐるみ ～traveling “Daru”～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/6/10786_1_6.png?1427216400000
+outline: 少女のお気に入りのぬいぐるみ“ダル”。空港で少女と離ればなれになってしまったダルは少女を探して世界各国へと旅に出る。時が過ぎるにつれ、次第にダルのことを忘れてしまう少女。果たしてダルは、少女に再会することが出来るのか―
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 水野理紗
+  type: cast
+- !ruby/hash:TagHash
+  name: 嶋田あきえ
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田澤潮
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：蒲池愛
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：田澤潮
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 旅するぬいぐるみ ～traveling “Daru”～
+  description: 少女のお気に入りのぬいぐるみ“ダル”。空港で少女と離ればなれになってしまったダルは少女を探して世界各国へと旅に出る。時が過ぎるにつれ、次第にダルのことを忘れてしまう少女。果たしてダルは、少女に再会することが出来るのか―<br><br>声の出演:水野理紗、嶋田あきえ<br><br>原案・絵コンテ・キャラクターデザイン・作画監督・監督:田澤
+    潮／美術監督:馬島 亮子／音楽:蒲池 愛
+  length_seconds: 638
+  content_id: so31885322
+  default_thread_id: 1504801032
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885322
+cast: "[キャスト]<br>声の出演:水野理紗、嶋田あきえ"
+staff: "[スタッフ]<br>原案・絵コンテ・キャラクターデザイン・作画監督・監督:田澤 潮／美術監督:馬島 亮子／音楽:蒲池 愛"
+produced_year: "[製作年]<br>2012年"
+copyright: "(c)NEP (c)CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array []

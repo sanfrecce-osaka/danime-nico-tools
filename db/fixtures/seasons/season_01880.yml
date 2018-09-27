@@ -1,0 +1,54 @@
+--- !ruby/hash:SeasonHash
+title: 兄に付ける薬はない！2-快把我哥帯走2-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/24/7/22247_1_6.png?1529896047000
+outline: 中国での合計閲覧数が約30億回の人気Web漫画、待望のアニメ化第2期。バイオレンスな妹が…おバカな兄を殴る蹴る！？兄弟愛！恋！グルメ…?　全部入りの学園コメディ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野賢章
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：株式会社ファンワークス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ラレコ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：イマジニア株式会社
+  type: staff
+- !ruby/hash:TagHash
+  name: 兄に付ける薬はない！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: EPISODE2
+  title: 兄的算段
+  description: 今月の生活費が厳しく、どうしたらよいか相談する時分と時秒。バイトをして俺を養え！と言う兄に対し怒りの拳で答える妹。結局、時分がオークションに出品し稼ぐというのだが、なぜか時秒のぬいぐるみが勝手に出品されていて…<br><br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹<br><br>脚本・監督:ラレコ／プロデュース:Tencent
+    Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス<br><br>©Tencent. All Rights Reserved.
+  length_seconds: 210
+  content_id: so33473746
+  default_thread_id: 1530753368
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473746
+cast: "[キャスト]<br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹"
+staff: "[スタッフ]<br>脚本・監督:ラレコ／プロデュース:Tencent Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス"
+produced_year: "[製作年]<br>2018年"
+copyright: "©Tencent. All Rights Reserved."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 兄に付ける薬はない！-快把我哥帯走-

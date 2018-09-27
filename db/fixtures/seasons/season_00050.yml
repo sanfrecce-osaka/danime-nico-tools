@@ -1,0 +1,498 @@
+--- !ruby/hash:SeasonHash
+title: 新アタッカーYOU！金メダルへの道
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/30/6/11306_1_6.png?1427216400000
+outline: 2年前にアキレス腱を切って選手生命を断たれた葉月優はドラゴンレディースで再起を誓う。ドラゴンレディースに集まった個性豊かな選手たちが、チームワークと必殺技で勝ち進み、世界一をめざせ!
+  注意:OP、サブタイトル、EDの画面でクレジット表記は一切ありません。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 演出：落合道正
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：雫石さくら
+  type: staff
+- !ruby/hash:TagHash
+  name: アタッカーYOU！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: バレーボールは格闘技だ!!
+  description: 2部リーグに陥落した名門女子バレーボールチーム、ドラゴンレディースを立て直すべく、西野監督が立ち上がる!少林寺拳法の使い手、翔子の素質を見抜き・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>次話→so31971347
+  length_seconds: 1502
+  content_id: so31971346
+  default_thread_id: 1506060385
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971346
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 新たなる道のり
+  description: 少林寺全国大会で優勝した翔子を入団テストに誘う西野監督。厳しい入団テストを、バレー転向を決意した翔子と、腰に爆弾を抱えるヨウコが受験するのだが・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971346←前話｜次話→so31971348　第一話→so31971346
+  length_seconds: 1502
+  content_id: so31971347
+  default_thread_id: 1506059923
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971347
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 不死鳥の舞い
+  description: 2年前にアキレス腱を断裂した、アタッカー葉月優が復活を期して合同トライアウトを受験する。その後、最高峰のセッター、多岐川絵里が西野監督と優を引き合わせ・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971347←前話｜次話→so31971349　第一話→so31971346
+  length_seconds: 1507
+  content_id: so31971348
+  default_thread_id: 1506060413
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971348
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: チームプレイ
+  description: ドラゴンレディースに入団した、優と絵里は、奈美と再会する。新チームになって初めての練習試合は、米南体育大学の男子チームだ!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971348←前話｜次話→so31971350　第一話→so31971346
+  length_seconds: 1507
+  content_id: so31971349
+  default_thread_id: 1506060344
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971349
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: バレーポールを捨てた魔女
+  description: ヨウコは、親友のトモコをドラゴンレディースに入団させようと手を尽くす。だが、バレーを捨てたトモコは、バスケでの勝負でヨウコたちが勝ったら、ドラゴンレディースに入団するという・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971349←前話｜次話→so31971351　第一話→so31971346
+  length_seconds: 1507
+  content_id: so31971350
+  default_thread_id: 1506060292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971350
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 挑戦
+  description: チームのベテランリベロのアキコは体力に不安がある、猛練習で現役続行を誓う。そんなとき、優の恩師、大門監督率いる世界王者、ヘルキャッツとの練習試合が決定する。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971350←前話｜次話→so31971352　第一話→so31971346
+  length_seconds: 1507
+  content_id: so31971351
+  default_thread_id: 1506060275
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971351
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 世界王者
+  description: ヘルキャッツの試合を観戦するドラゴンレディースの選手たちは、レベルの違いに驚愕するばかり。ヘルキャッツの武器は、｢マンハッタン摩天楼｣とよばれる世界の三枚の壁。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971351←前話｜次話→so31971353　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971352
+  default_thread_id: 1506060353
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971352
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 栄光の猛練習
+  description: ヘルキャッツ戦に向けて、優、翔子、アンナ、奈美、ヨウコ、絵里はそれぞれの特訓にはげむ。モンゴルから来たヨシエは、まずボールへの恐怖心の克服からはじめるのだが・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971352←前話｜次話→so31971458　第一話→so31971346
+  length_seconds: 1507
+  content_id: so31971353
+  default_thread_id: 1506059919
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971353
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 決勝前夜・モンゴルの星
+  description: リベロに指名されたヨシエは、猛特訓にくじけそうになったとき、故郷のモンゴルを思い出す。モンゴル相撲で鍛えた体力を武器に、ヨシエは世界一のリベロになると誓うのだった。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971353←前話｜次話→so31971459　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971458
+  default_thread_id: 1506060870
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971458
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: エースの誕生
+  description: ついにヘルキャッツとの試合の日が来た。だが、ヘルキャッツ大門監督は、何とリベロを除いて、Bチームを先発させてきたのだ。第1セットはドラゴンレディースが優勢だが、それは・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971458←前話｜次話→so31971460　第一話→so31971346
+  length_seconds: 1500
+  content_id: so31971459
+  default_thread_id: 1506060776
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971459
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 限界点を越えて
+  description: 白熱するヘルキャッツとの練習試合。ドラゴンレディースのエースアタッカー、翔子のパワーと破壊力のアタックに陰りが見えたとき、絵里の天才的なトス回しで、優が覚醒する!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971459←前話｜次話→so31971461　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971460
+  default_thread_id: 1506061013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971460
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 蘇った龍
+  description: ついにヘルキャッツが本気で牙をむいてきた。フルセットまで追い込まれた王者ヘルキャッツは、ついにベストメンバーを投入。ドラゴンレディース、執念で勝利をつかみとれ!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971460←前話｜次話→so31971462　第一話→so31971346
+  length_seconds: 1507
+  content_id: so31971461
+  default_thread_id: 1506060893
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971461
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 舞い降りた白鳥
+  description: ヘルキャッツとの一戦に感銘をうけた、資産家の娘、ジーナ・マランツァーノがドラゴンレディースに押しかけ、入団を直訴。クラシックバレエをやっていたというがバレーは素人・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971461←前話｜次話→so31971464　第一話→so31971346
+  length_seconds: 1506
+  content_id: so31971462
+  default_thread_id: 1506061641
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971462
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 開戦・2部リーグ
+  description: 2部リーグに向けて、新メンバーを発表。ドラゴンレディースの初戦は、ビッグベアーズ。第1セットを簡単に取って油断するドラゴンレディースに監督は原点に帰れという。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971462←前話｜次話→so31971465　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971464
+  default_thread_id: 1506060868
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971464
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: ファイヤーフォックスニ点差に泣く
+  description: ビッグベアーズとの初戦に勝利したドラゴンレディースは、コウ監督率いる、ファイヤーフォックス戦に臨む。コウ監督が手塩にかけて育てたキューバ出身の3人の壁が立ちはだかる!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971464←前話｜次話→so31971466　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971465
+  default_thread_id: 1506060694
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971465
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 崖っぷちからの勝利
+  description: 翔子は、必殺技を開発するために、カンフーの基本に戻り、ひとり猛特訓.を始める。次の相手は、丹丹がいるレディータイガース。大熱戦のフルセットで、翔子がついにスーパーサーブで・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971465←前話｜次話→so31971467　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971466
+  default_thread_id: 1506061011
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971466
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: チームの輪
+  description: ジーナの活躍もあり、ファイヤーフォックス戦に勝利したドラゴンレデイースだが、途中交代させられたアンナとジーナの仲が険悪に。チームのために、コンビプレーの練習をさせられる二人だが・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971466←前話｜次話→so31971468　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971467
+  default_thread_id: 1506060748
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971467
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 試練の時
+  description: 徹底的なコンビプレーの練習の途中、西野監督が過労で倒れた。無理を押して、ブルドックスとの対戦を迎えるが、西野監督は試合中にも倒れて、救急車で運ばれる。そんな中、爽コーチは・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971467←前話｜次話→so31971469　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971468
+  default_thread_id: 1506060719
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971468
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 楊監督への贈り物
+  description: 試合中に倒れた西野監督の代役で指揮を執る爽コーチは、秘密兵器ジーナをセッターとして投入。ノーサインでトスを上げろ、との爽コーチの指示に、選手たちは戸惑いながらも奮闘する。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971468←前話｜次話→so31971470　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971469
+  default_thread_id: 1506060763
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971469
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: チームの危機
+  description: ドラゴンレディースに存続の危機が!?オーナー会社が経営難で、ドラゴンレディースの売却を検討しているとの報道が。姉のチームに誘われたトモコは、移籍を悩むが・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971469←前話｜次話→so31971471　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971470
+  default_thread_id: 1506060717
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971470
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: ブラジルから来た彗星
+  description: スポンサーの経営不振による危機から、地元の市民団体の支えで、存続が決まったドラゴンレディース。そんな中、｢ブラジルの彗星｣マリア・ロドリゲスが来日、ドラゴンレディースに入団する。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971470←前話｜次話→so31971472　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971471
+  default_thread_id: 1506060782
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971471
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 作製ドラゴンタイフーンサービス
+  description: ファイヤーフォックス戦に優の両親と弟サニーが観戦に来た。優の活躍やヨシエ、マリアの奮闘で、フルセットまでもつれた熱戦を戦い抜く選手たち。接戦を制したのは・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971471←前話｜次話→so31971473　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971472
+  default_thread_id: 1506061009
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971472
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 明日への光
+  description: 練習中にアンナのスパイクが、ハルキの顔に直撃、網膜はく離の危険があり失明の危機に。手術を決意したハルキくんにブルドックス戦の勝利を誓うアンナ。手術は成功するのか、試合の行方は!?<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971472←前話｜次話→so31971474　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971473
+  default_thread_id: 1506060895
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971473
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 決戦の日
+  description: 丹丹、双子のキンレイ・ギンレイがいるレディータイガースとの2部リーグ決勝戦。両チームとも1敗で迎えた最終戦、勝てば悲願の1部リーグ昇格だ!そんな中、ジーナがアクシデントで負傷退場に・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971473←前話｜次話→so31971475　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971474
+  default_thread_id: 1506060692
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971474
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 青い炎
+  description: レディータイガースのエーススパイカー、丹丹の必殺グライダースパイクが火を噴く。打倒丹丹に闘志を燃やす翔子を中心に、劣勢を挽回し、ついにファイナルセットに!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971474←前話｜次話→so31971476　第一話→so31971346
+  length_seconds: 1500
+  content_id: so31971475
+  default_thread_id: 1506060761
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971475
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 中央リーグヘの道
+  description: 翔子の必殺ドラゴンジャイロサーブが丹丹に破れる!意気消沈する翔子が相手に集中的に狙われピンチに。ヨシエも負傷し、満身創痍のドラゴンレディースに勝利は輝くのか!?<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971475←前話｜次話→so31971496　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971476
+  default_thread_id: 1506060765
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971476
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 小さな巨人
+  description: 決勝を制したドラゴンレディースは中央リーグに進出し、敗れたレッドタイガースは解散することに。一方、ヘルキャッツは、Wバレーボールリーグで3連覇を果たす。そんなとき、走り高跳びの選手である二宮カヨは・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971476←前話｜次話→so31971497　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971496
+  default_thread_id: 1506061682
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971496
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 中央リーグ開幕
+  description: 中央リーグがついに開幕!シルバーウルフに移籍した、双子のキンレイ・ギンレイは、ドラゴンレディースに雪辱を誓う。劣勢の中、丹丹の活躍を聞いて奮起した選手たち。試合を観戦したカヨはある決意を・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971496←前話｜次話→so31971498　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971497
+  default_thread_id: 1506061671
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971497
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: ドラゴンレディースが無くなる?
+  description: 二宮カヨがドラゴンレディース入団を決意!だが、ドラゴンレディースに資金難で解散の危機!?選手に不安が広がる中、格下のクロコダイル戦に苦戦する。チームの苦境に、故郷モンゴル人の応援でヨシエが・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971497←前話｜次話→so31971499　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971498
+  default_thread_id: 1506061628
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971498
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 奈美の決意
+  description: 西野監督に、リベロ転向を告げられた奈美。悩んだ末に、奈美はチームのためにリベロ転向を決意する。一方、センタースパイカーとして爽コーチの猛特訓から逃げ出したカヨは・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971498←前話｜次話→so31971502　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971499
+  default_thread_id: 1506061655
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971499
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: さらば、天才セッター多岐川絵里
+  description: 故郷の父親が倒れたと聞いた絵里は、バレーに集中できない。ライオンズ戦を迎え、敵のキューバトリオが千手観音ブロックで、ドラゴンレディースに立ちはだかる。絵里は試合中に目を負傷して精彩を欠くが・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971499←前話｜次話→so31971503　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971502
+  default_thread_id: 1506061602
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971502
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 最強のライバル
+  description: ドラゴンレディースを離れることを決意した絵里は、チームに別れを告げる。連戦の無理がたたり、選手は満身創痍。雪辱を期す丹丹のレッドイーグルスは、絵里の抜けたドラゴンレディースに襲いかかる!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971502←前話｜次話→so31971504　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971503
+  default_thread_id: 1506061598
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971503
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: セッターの条件・スーパー空中トスの誕生
+  description: レッドイーグルスとの勝負は、フルセットの熱戦に。空中バランスと手首のやわらかさを買われたカヨは、セッター転向を告げられたが、かたくなに拒否。セッターはアタッカーの補助じゃない、攻撃の要だ!!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971503←前話｜次話→so31971505　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971504
+  default_thread_id: 1506061600
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971504
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: オリンピックヘの道
+  description: アジア選抜チームのチン監督が代表候補選手を集めて、ブラジル合宿をするという。ドラゴンレディースからは、翔子がブラジル合宿に参加することに。代表候補に選ばれず悔しがるトモコは、必殺技を!!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971504←前話｜次話→so31971506　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971505
+  default_thread_id: 1506061677
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971505
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: 手が増える?脅威の千手観音ブロック
+  description: ジーナはヨシエの助けで、必殺技トルネードスパイクを成功させる!ヨウコの腰は限界でセッターはカヨひとりに。コウ監督のライオンズとの一戦で、試行錯誤の末、トモコは、必殺レインボースパイクを完成させる。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971505←前話｜次話→so31971507　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971506
+  default_thread_id: 1506061604
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971506
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 奇跡の大逆転
+  description: トモコは、ボールが分身する必殺レインボースパイクを連発するが、極度の集中力と体力を消耗していく。ドラゴンレディースは大技を連発して、劣勢を挽回するが、ライオンズの千手観音ブロックが立ちはだかる!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971506←前話｜次話→so31971508　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971507
+  default_thread_id: 1506061673
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971507
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: 決戦前夜
+  description: 左腕を負傷したアンナは全治一カ月の重傷と聞かされ意気消沈する。そんなアンナは、優にアキレス腱を断裂した経験を聞いて、コートに立てなくてもバレーはできる、と気持ちの整理を付ける。<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971507←前話｜次話→so31971509　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971508
+  default_thread_id: 1506061653
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971508
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 炎の対決
+  description: ついにむかえたレッドイーグルスとの決勝戦!ドラゴンジャイロサーブを連発する翔子に対し、敵の丹丹は新技ウルトラスピンスパイクで翔子を狙い撃ちする!ドラゴンレディース絶体絶命!?<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971508←前話｜次話→so31971561　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971509
+  default_thread_id: 1506061626
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971509
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: 世界制覇に向かってアタック!
+  description: ウルトラスピンスパイクを止めることに成功した翔子。体力消耗した、カヨの指は動かない。奈美とジーナを投入し、試合は総力戦に!自分を出してほしいと、腰に爆弾を持つヨウコは監督に懇願するが・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971509←前話｜次話→so31971562　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971561
+  default_thread_id: 1506062502
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971561
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 世界チャンピオンに向かって走れ
+  description: 中央リーグ優勝をはたしたドラゴンレディース。次は、ワールドバレーボールリーグへの挑戦だ!敗れたレッドイーグルスのエース丹丹は、大門監督のヘルキャッツ入りをするが、代わりにセンターのマユミはクビに・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971561←前話｜次話→so31971563　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971562
+  default_thread_id: 1506062476
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971562
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: 死のBグループ
+  description: 世界王者ヘルキャッツに入団した丹丹は、新技開発のため猛特訓。そして、Wバレーボールリーグの抽選会で、なんとドラゴンレディースは、ニューヨーク・ヘルキャッツのいる死のB組に!開幕戦は、ヘルキャッツ戦だ!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971562←前話｜次話→so31971564　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971563
+  default_thread_id: 1506062625
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971563
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 不死鳥の舞い、丹丹
+  description: ヘルキャッツとの開幕戦で、有利に試合を進めるドラゴンレディース。選手交代で、世界最強セッター、弾丸サーブのジャクソン、世界の大砲クリスティーナ、ついには最強アタッカー丹丹を投入して、力でねじ伏せてきた!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971563←前話｜次話→so31971565　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971564
+  default_thread_id: 1506062644
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971564
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: テキサスバッファローズ襲来!!
+  description: 仮想ヘルキャッツを想定しテキサスバッファローズと練習試合。だが、3段構えのロッキーマウンテンブロックが、ドラゴンレディースに立ちはだかる。優のドラゴンタイフーンサーブは拾われ、翔子はバッファロースパイクが直撃し・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971564←前話｜次話→so31971567　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971565
+  default_thread_id: 1506062841
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971565
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 北の白熊軍団
+  description: モスクワ・ホワイトベアーズのブリザードアタックがドラゴンレディースを苦しめる。翔子は、着地に失敗し、足首を負傷する。ブリザードアタックがアンナを直撃するが、アンナもダイビングブロード攻撃で反撃・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971565←前話｜次話→so31971568　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971567
+  default_thread_id: 1506062621
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971567
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: ダイビングブロード攻撃
+  description: ライバル丹丹の大きさに不調の続く翔子。サントス・ブラックジャガーズは、腕を痛めた奈美を集中攻撃。ブーメラントスでドラゴンレディースを幻惑するが、奈美の腕は限界に。全員で、奈美をフォローする中、翔子がついに目覚めた!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971567←前話｜次話→so31971569　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971568
+  default_thread_id: 1506062737
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971568
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: 翔子!回転ひとり時間差攻撃!
+  description: 翔子が満を持してコートに登場!スパイクはスタンド直撃で看板破壊!迷いが吹っ切れた翔子は、必殺の回転ひとり時間差攻撃で反撃!だが、敵の”壊し屋”と呼ばれるピンチアタッカーのアタックを、奈美が捨て身で・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971568←前話｜次話→so31971570　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971569
+  default_thread_id: 1506062430
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971569
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: チームのために
+  description: 奈美の両手首にひびが入り、毛細血管はボロボロ。負傷を隠し練習しようとする奈美に、合同練習の相手、ホーカーズの絵里が手を差し伸べる。久々の完全オフに、リフレッシュする選手たちだが、自然と体育館に集まり・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971569←前話｜次話→so31971571　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971570
+  default_thread_id: 1506062495
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971570
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: 決勝トーナメントの開始だッ!
+  description: 宿敵ヘルキャッツは丹丹を温存しながら女豹軍団リマ・チーターズを破り、準決勝に進出。ドラゴンレディースはミラン・スプラッシュポニーズのスタミナ作戦に苦しめられるが、絵里のホーカーズの勝利の報に奮起して・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971570←前話｜次話→so31971572　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971571
+  default_thread_id: 1506062504
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971571
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: 優勝へのラストスパート
+  description: 粘り比べとなった準々決勝に勝利し、偶然の必殺技ドラゴンツインスパイクを完成させるため、猛トレーニングを敢行!準決勝は、キューバ代表ハバナ・シャークスとの一戦で、勝者がニューヨーク・ヘルキャッツとの優勝決定戦だ!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971571←前話｜次話→so31971573　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971572
+  default_thread_id: 1506062480
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971572
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: 頑張れドラゴンレディース!!
+  description: 決勝を控え、記者会見で西野監督は負けたらバレー界から身を引くと宣言!決勝を前にライバルたちが練習にかけつけた!選手それぞれの必殺技に加えて、ドラゴンツインスパイクを完成させていざ決勝戦へ!<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971572←前話｜次話→so31971574　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971573
+  default_thread_id: 1506062619
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971573
+- !ruby/hash:EpisodeHash
+  episode_no: 第51話
+  title: 決戦の時
+  description: ついに決勝戦の大舞台。優のスイッチスパイクをヘルキャッツのマンハッタン摩天楼ブロックがシャットアウト!優と翔子のドラゴンツインスパイクを出して反撃するが、いままでの必殺技はすべて敵の対策がなされていた・・・<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971573←前話｜次話→so31971575　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971574
+  default_thread_id: 1506062524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971574
+- !ruby/hash:EpisodeHash
+  episode_no: 第52話
+  title: 夢はコー卜のなかに 金メダルヘの道
+  description: 絶体絶命のドラゴンレディース!満身創痍の総力戦を、気迫の全員バレーで戦うドラゴンレディース。両チーム死力を尽くした意地と意地の好勝負。はたして優勝の行方は・・・
+    奇跡は起こるのか!?<br><br>演出:落合道正／脚本:雫石さくら<br><br>so31971574←前話　第一話→so31971346
+  length_seconds: 1501
+  content_id: so31971575
+  default_thread_id: 1506062733
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971575
+staff: "[スタッフ]<br>演出:落合道正／脚本:雫石さくら"
+produced_year: "[製作年]<br>2008年"
+copyright: "©鈴川鉄久・ICHI"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アタッカーYOU！

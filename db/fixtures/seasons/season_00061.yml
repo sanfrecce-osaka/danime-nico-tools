@@ -1,0 +1,160 @@
+--- !ruby/hash:SeasonHash
+title: あの日見た花の名前を僕達はまだ知らない。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/1/11171_1_6.png?1427216400000
+outline: 昔は仲良しだった幼馴染たち。でも、高校生になった彼らの距離はいつの間にか離れてしまっていた。ヒキコモリぎみの主人公”じんたん”。ギャル友達に流され気味の”あなる”。進学校に通う”ゆきあつ”と”つるこ”。高校に進学せず旅を重ねる”ぽっぽ”。そして、仲良しだった小学生の頃から、それぞれが変わっていく中で変わらない少女”めんま”。あの日、”お願いを叶えて欲しい”とじんたんにお願いをするめんま。困りながらも”めんまのお願い”を探るじんたん。そのめんまの願い事がきっかけとなり、それぞれの領域でそれぞれの生活を送っていた幼馴染達は再びかつてのように集まりはじめる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長井龍雪
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：超平和バスターズ
+  type: staff
+- !ruby/hash:TagHash
+  name: あの日見た花の名前を僕達はまだ知らない。シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+- !ruby/hash:TagHash
+  name: 岡田麿里
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 超平和バスターズ
+  description: 引き篭もり気味の主人公「じんたん」の前に、幼馴染みの少女、「めんま」が突然現れる。自分の願いを叶えて欲しいと頼む「めんま」に、途惑う「じんたん」は…。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>次話→so32080214
+  length_seconds: 1380
+  content_id: so32080080
+  default_thread_id: 1507694646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080080
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ゆうしゃめんま
+  description: 秘密基地で再会した「ぽっぽ」に「じんたん」は、「めんま」が願いごとを叶えてほしいと自分の前に現れたことを正直に打ち明ける。それを素直に信じた「ぽっぽ」は、「じんたん」にアドバイスするのだが…。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080080←前話｜次話→so32080215　第一話→so32080080
+  length_seconds: 1380
+  content_id: so32080214
+  default_thread_id: 1507695899
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080214
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: めんまを探そうの会
+  description: "「めんま」の願い事が、もしかしたら『「じんたん」が学校へ行くこと』かもしれないと思った「じんたん」は、「あなる」との約束も兼ねて、学校へ登校することを決意する。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080214←前話｜次話→so32080216　第一話→so32080080"
+  length_seconds: 1380
+  content_id: so32080215
+  default_thread_id: 1507695529
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080215
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 白の、リボンのワンピース
+  description: "「ユキアツ」から「めんま」を見かけたと告げられた「じんたん」たち。隣に「めんま」がいるのにと訝しむ「じんたん」だったが、真相を確かめるために、皆と一緒に「めんま」を捜しに向かう。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080215←前話｜次話→so32080217　第一話→so32080080"
+  length_seconds: 1380
+  content_id: so32080216
+  default_thread_id: 1507695646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080216
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: トンネル
+  description: "「ユキアツ」が見たという「めんま」は「ユキアツ」自身が女装した姿だった。その事実に戸惑いを隠せない「じんたん」たち。「じんたん」は倒れたまま動かない「ユキアツ」に声を掛けるが…。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080216←前話｜次話→so32080218　第一話→so32080080"
+  length_seconds: 1380
+  content_id: so32080217
+  default_thread_id: 1507695881
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080217
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: わすれてわすれないで
+  description: "「めんま」を成仏させるために、「じんたん」は学校へ行くことを再び決意する。しかし「めんま」には無理して行くことはない、怖い顔をしていると心配されてしまう。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080217←前話｜次話→so32080219　第一話→so32080080"
+  length_seconds: 1380
+  content_id: so32080218
+  default_thread_id: 1507695627
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080218
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ほんとのお願い
+  description: 秘密基地に家出してきた「あなる」に「じんたん」は、ずっと学校を休むことなんて出来ない、家出なんてずっと続くわけがないと話す。それと聞いた「あなる」は「じんたん」は昔と変わらないと告げる。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080218←前話｜次話→so32080220　第一話→so32080080
+  length_seconds: 1380
+  content_id: so32080219
+  default_thread_id: 1507695919
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080219
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: I wonder
+  description: 花火を上げることを「めんま」の父親に反対されていたと知り、ショックを受ける「じんたん」たち。どうにか「めんま」の願いを叶えたいと、「めんま」の母親を説得しようと試みるが…。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080219←前話｜次話→so32080221　第一話→so32080080
+  length_seconds: 1380
+  content_id: so32080220
+  default_thread_id: 1507695585
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080220
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: みんなとめんま
+  description: 目の前に差し出された蒸しパンを見て、動揺しながらも「めんま」の存在を信じる「あなる」たち。しかし「ゆきあつ」は、「じんたん」にしか「めんま」が見えないということに複雑な想いを抱く。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080220←前話｜次話→so32080222　第一話→so32080080
+  length_seconds: 1380
+  content_id: so32080221
+  default_thread_id: 1507695592
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080221
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 花火
+  description: とうとう明日に迫った「めんま」の願いを叶える日。そのことを仏壇に手を合わせて「じんたん」の母親に報告する「めんま」は、ふと見た自分の手が、薄く透けはじめていることに気付く。その手を見つめる「めんま」は…。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080221←前話｜次話→so32080223　第一話→so32080080
+  length_seconds: 1380
+  content_id: so32080222
+  default_thread_id: 1507695550
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080222
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: あの夏に咲く花
+  description: 花火を上げても「めんま」は消えなかった。その事実に呆然とする「じんたん」。うなだれる超平和バスターズの面々。何も知らない聡史は、「じんたん」たちに今日のことに対して感謝を告げる。<br><br>宿海
+    仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）<br><br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ<br><br>so32080222←前話　第一話→so32080080
+  length_seconds: 1380
+  content_id: so32080223
+  default_thread_id: 1507695564
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080223
+cast: "[キャスト]<br>宿海 仁太:（ＣＶ：入野自由）／本間 芽衣子:（ＣＶ：茅野愛衣）"
+staff: "[スタッフ]<br>監督:長井龍雪／シナリオ（シリーズ構成）:岡田麿里／スタジオ:A-1 Pictures／原作:超平和バスターズ"
+produced_year: "[製作年]<br>2011年"
+copyright: "©ANOHANA PROJECT"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 劇場版 あの日見た花の名前を僕達はまだ知らない。

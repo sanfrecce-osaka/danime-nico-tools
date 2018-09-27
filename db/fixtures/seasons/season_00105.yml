@@ -1,0 +1,195 @@
+--- !ruby/hash:SeasonHash
+title: 一騎当千 Great Guardians
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/69/1/10691_1_6.png?1427216400000
+outline: 赤壁の戦いから僅かながら時は過ぎ、南陽学院には平穏な日々が訪れていた。孫策伯符のアルバイト先に、劉備玄徳たちが客として現れる。そしてなぜかドタバタと一触即発の危機に!?すると…｢孫子曰く!｣騒然とした場が一瞬にして静まり返り、凛として現れる一人の可憐な少女。彼女こそ孫策の妹、孫権仲謀であった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺明乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 甲斐田裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅川悠
+  type: cast
+- !ruby/hash:TagHash
+  name: 門脇舞以
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野真澄
+  type: cast
+- !ruby/hash:TagHash
+  name: 真堂圭
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：りんしん
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大畑晃一
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：アームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：塩崎雄二
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：赤星政尚
+  type: staff
+- !ruby/hash:TagHash
+  name: 一騎当千シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: ワニブックス
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 兵は国の大事なり
+  description: 孫策伯符は相変わらず頭主としての自覚が有るようなないような・・・どこまで本気なのか海外バトルツアーに行くなどと言い出す始末。アルバイトを始めた中華料理店に劉備玄徳ひきいる成都学園の面々が客として現れた!しだいに闘士の血が騒いだのか、突然一触即発の空気になって・・・。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>次話→so31881335
+  length_seconds: 1420
+  content_id: so31881334
+  default_thread_id: 1504756454
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881334
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 兵とは詭道なり
+  description: 颯爽と現れた可憐な少女・孫権仲謀。彼女は自らを孫策の妹となのる。最初は孫策達に馴染めるか不安を感じていた孫権だったが、南陽四天王である呂蒙、楽就にもなんなく受け入れられ安堵する。だが、孫策の頭首の座を狙わんと、そのスキをつき、妹の孫権に黒い影が忍び寄る…!!<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881334←前話｜次話→so31881336　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881335
+  default_thread_id: 1504756384
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881335
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 死者は復た生くべからず｡
+  description: 呂蒙は左慈の姿をみつけ、後を追うが見失ってしまう…。そこに倒れている一人の少女…。その少女の顔は董卓と刺し違えて死んだはずの闘士・呂布奉先そのものであった。だが、呂布は自らの名前はおろか、闘士であることすらも覚えていない…。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881335←前話｜次話→so31881337　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881336
+  default_thread_id: 1504756328
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881336
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 卒を視ること嬰児のごとし
+  description: 関羽と張飛は水鏡先生から宝物殿の虫干しを頼まれる。張飛は宝物を運び出している途中、水晶の様な石が着いた首飾りを発見する。どうやらこの首飾りは何やら秘密があるらしく、決して触れてはならない世にも恐ろしいモノだという…。だが、首飾りに触れてしまう面々…。すると・・・。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881336←前話｜次話→so31881338　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881337
+  default_thread_id: 1504756401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881337
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 危うきに非ざれば戦わず
+  description: 呂蒙は、呂布と再会しても冷静なままの左慈に違和感を憶える。一方、呂布は自分に馴れ馴れしく接してくる左慈に、自分の過去と何か関係があるのではと感づく。と同時に、その過去には呂蒙も深く関わっているのではと…。なんとなく、気まずい空気が二人の間に漂う。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881337←前話｜次話→so31881339　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881338
+  default_thread_id: 1504756296
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881338
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 上智を以て間者と為す
+  description: 記憶を失ったままの呂布は、洛陽へと向かう途中のバスで、一人の闘士と出会う。その闘士は｢孟徳｣という名前一つを除き全ての記憶を無くしてしまっていた…自分自身の名前でさえ…。闘士は呂布の過去に自らの手掛かりもあるのではと思い、呂布と共に今や廃校となった洛陽高校を訪れる…。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881338←前話｜次話→so31881340　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881339
+  default_thread_id: 1504756386
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881339
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 始めは処女の如く
+  description: 呂布は、劉備と関羽を誘い遊園地に遊びにきていた。はしゃぎ楽しむ劉備と呂布。最初は優しく見守っていた関羽も、あまりにも二人の仲の良さに嫉妬してしまう。それに気づいた呂布は関羽を挑発する。関羽は、いままでの呂布とは性格が変貌していることを不審に思い、その目的を問い詰めるが・・・。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881339←前話｜次話→so31881341　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881340
+  default_thread_id: 1504756513
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881340
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 人を致して人に致されず
+  description: 成都学園から張飛の姿が忽然と消え、その翌日、今度は黄忠までもが姿を消してしまう…。関羽は昼夜を問わず劉備の身辺を警護をするのだが、当の劉備はそんな関羽に冷たく｢暑苦しい｣と言い放つ。その発言にショックを受ける関羽。まるで人が変ったかの様な劉備に、関羽の疑念は深まる・・・。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881340←前話｜次話→so31881342　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881341
+  default_thread_id: 1504756326
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881341
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: 算多きは勝ち､算少なきは勝たず
+  description: 関羽の身を賭した説得により何者かに操られた劉備の暴走は、からくも止まった。孫策達は、劉備に暴走に至った心当たりを聞くと、呂布と会った後に｢誰かが体の中に入ってくる｣様な異変を感じたとの事だった。南陽の軍師・陸孫の調べでは、呂布も操られているに過ぎないというではないか…。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881341←前話｜次話→so31881343　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881342
+  default_thread_id: 1504756511
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881342
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: 上兵は謀を伐(う)つ
+  description: 左慈と呂布の件で動揺した心の隙を突かれ、呂蒙は赤ずきんの手に落ちてしまった…。孫策達は劉備や陸孫の話から呂布を警戒するのだが、孫策は一人で呂蒙の行方を聞くために呂布と共に行ってしまう。呂蒙の居場所だと案内され連れて行かれた先は、あの洛陽高校だった。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881342←前話｜次話→so31881344　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881343
+  default_thread_id: 1504756485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881343
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: 先ずその愛する所を奪う
+  description: 孫権の命賭けの説得で正気に戻った孫策に、孫権は自らの正体を語るのだった。彼女は孫権仲謀ではなく三国時代の周瑜の妻であった｢小喬｣だという。孫権は夫となる運命の周瑜に一目会いたくて、孫策達のもとに来たのだが、周瑜に要らぬプレッシャーをかけないよう呉英と張昭の計らいで名前を偽っていた。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881343←前話｜次話→so31881345　第一話→so31881334
+  length_seconds: 1420
+  content_id: so31881344
+  default_thread_id: 1504756452
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881344
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二話
+  title: 専(あつ)まりて一と為る
+  description: 孫策と孫権の前に、呂蒙の龍を取り込み強大な力を得た左慈が現れる。さらには左慈の幻術によって正気を失っている呂蒙が、突然孫策に襲い掛かかる!絶体絶命のその時、王允の説得で正気に戻った呂布が呂蒙の前に立ちはだかる。覚悟を決めた呂布と呂蒙の因縁の戦いが、いま始まろうとしていた…。<br><br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子<br><br>原作:塩崎雄二
+    (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ<br><br>so31881344←前話　第一話→so31881334
+  length_seconds: 1390
+  content_id: so31881345
+  default_thread_id: 1504756449
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881345
+cast: "[キャスト]<br>孫策伯符:浅野真澄／呂蒙子明:甲斐田裕子／呂布奉先:渡辺明乃／孫権仲謀:堀江由衣／劉備玄徳:真堂圭／関羽雲長:生天目仁美／張飛益徳:茅原実里／諸葛亮孔明:門脇舞以／趙雲子龍:浅川悠／呉栄:井上喜久子"
+staff: "[スタッフ]<br>原作:塩崎雄二 (ワニブックス刊｢月刊Comic Gum連載｣)／監督:大畑晃一／シリーズ構成・脚本:赤星政尚／キャラクターデザイン・総作画監督:りんしん／アニメーション制作:アームス／製作:一騎当千GGパートナーズ"
+produced_year: "[製作年]<br>2008年"
+copyright: "（C）2008 YUJI SHIOZAKI・WANI BOOKS/IKKI TOUSEN GG PARTNERS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 一騎当千 XTREME XECUTOR
+- !ruby/hash:SeasonHash
+  title: 一騎当千　Dragon Destiny
+- !ruby/hash:SeasonHash
+  title: 一騎当千

@@ -1,0 +1,49 @@
+--- !ruby/hash:SeasonHash
+title: きグルみっく★V3
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/6/10826_1_6.png?1427216400000
+outline: いつもハイテンションな少女、江戸前あづきと友人の真月むつみ、四方堂せりかは着ぐるみを装着し、変身少女・きグルみっくスワン、きグルみっくファルコン、きグルみっくスワローとなり町内の平和を守る。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: こやまきみこ
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：斉藤久
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：斉藤久
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 関美恵子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話・第18話・第12話
+  title: 沖縄へ飛べ！！／勇気あるものの挑戦／集結！？3人のきグルみっく戦士！！
+  description: 第5話：つまみ食いしたアイスを買いに、沖縄屋へ向かうあづきとむつみ、しかし、その行く手にはカプリモーグの恐るべき罠が待ち構えていた!一方、傷ついた体の修繕を引き受けたななみは、ミルクの秘密を知り・・・。／第18話：自分だけブラをしていないことを知ったあづきは落ち込むが、ななみからお下がりをもらい復活する。一方、きグルみっく戦士にあこがれるななみは、あることを実行するが、それが思わぬ悲劇を招くことに・・・／第12話：謎の集団によってファッション店が襲撃される事件が発生!陰謀を察知したななみは、ミルクとモカと共に調査に乗り出す。その頃学校では、あづきがささいな事から学級委員長のせりかと対立し・・・。<br><br>江戸前あづき:戸松遥／真月むつみ:井口裕香／四方堂せりか:こやま
+    きみこ／真月ななみ:井上喜久子<br><br>原案・監督・キャラクターデザイン:斉藤久／助監督:りおん／美術監督:諸熊倫子／色彩設定:関美恵子
+  length_seconds: 1985
+  content_id: so32036650
+  default_thread_id: 1507006614
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036650
+cast: "[キャスト]<br>江戸前あづき:戸松遥／真月むつみ:井口裕香／四方堂せりか:こやま きみこ／真月ななみ:井上喜久子"
+staff: "[スタッフ]<br>原案・監督・キャラクターデザイン:斉藤久／助監督:りおん／美術監督:諸熊倫子／色彩設定:関美恵子"
+produced_year: "[製作年]<br>2009年"
+copyright: "(C) AIC"
+related_seasons: !ruby/array:Hashie::Array []

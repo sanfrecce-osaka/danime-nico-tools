@@ -1,0 +1,140 @@
+--- !ruby/hash:SeasonHash
+title: シスター・プリンセス Re Pure キャラクターズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/3/10163_1_6.png?1427216400000
+outline: お兄ちゃんのことが大好きな12人の妹達。お兄ちゃんと妹達は、ある事情があって、全員が離れ離れになって暮らしています。妹達はみんなお兄ちゃんのことが大好きで、お兄ちゃんに会える瞬間をいつもドキドキしながら待っているのです・・・。そんな妹達のさりげない日常を｢ストーリーズパート｣と｢キャラクターズパート｣という2つの切り口で描きます。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: シスター・プリンセスシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 妹
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '1'
+  title: 可憐
+  description: 可憐は子供のように純粋で健気な妹。お部屋の壁には、大好きなお兄ちゃんの写真をたくさん飾っている。ちょっぴり甘えん坊だけど、雛子や亞里亞の前では頼りになるお姉さん的存在。チビッコの2人を連れて、高原にある療養所まで鞠絵のお見舞いに出かけたことも。そんな可憐の宝物は、お兄ちゃんがプレゼントしてくれたワンピース!!
+    ピアノが大好きで、毎日練習を欠かさないという、がんばり屋さんでもある。<br><br>次話→so32145800
+  length_seconds: 575
+  content_id: so32145799
+  default_thread_id: 1508744841
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145799
+- !ruby/hash:EpisodeHash
+  episode_no: '2'
+  title: 衛
+  description: 衛は活動的な妹。あにぃと一緒にいろいろなスポーツを楽しみたいと思っている。釣りやキャンプなどのアウトドア・ライフも大好きで、夕食の材料がないときは森から栗をたくさん拾ってきてくれるほど。普段はパーカーとスパッツを着ている衛も、レストランに出かけるときは花穂のスカートをはいてドレスアップ*
+    あにぃが喜ぶのなら……と赤面しながら香水をつける女の子らしい一面も!!実はとても恥ずかしがり屋さん。<br><br>so32145799←前話｜次話→so32145801　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145800
+  default_thread_id: 1508744196
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145800
+- !ruby/hash:EpisodeHash
+  episode_no: '3'
+  title: 亞里亞
+  description: 亞里亞はフランスからやってきた妹。若くて美しい"じいや"と一緒に、宮殿風のお屋敷に住んでいる。性格は臆病で、困ったことがあると泣き出してしまうほど。大好きなものは、甘いお菓子と兄や*
+    "びょうき"のことを兄やが飛んできてくれる魔法の言葉だと信じていて、つい病気になったと言ってしまい、みんなに心配をかけてしまったことも……。母親のように厳しい"じいや"より、いつも優しい兄やの方が大好きみたい。<br><br>so32145800←前話｜次話→so32145802　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145801
+  default_thread_id: 1508744178
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145801
+- !ruby/hash:EpisodeHash
+  episode_no: '4'
+  title: 雛子
+  description: 雛子は天真爛漫で、とっても素直な妹。お兄ちゃんに遊んでもらうのが大好き!! 妹たちの中ではチビッ子だけど、花穂が落としたポーチを雨の中で必死に探したり、病気の亞里亞のために絵本を読んであげようとしたり、みんなのために一生懸命がんばっている。子供らしく好奇心も旺盛で、牧場の羊や春歌の長刀にも興味深々。お兄ちゃんにラブレターを書いてしまうほど愛情表現はダイレクト。アヒルのピヨちゃんがお気に入り。<br><br>so32145801←前話｜次話→so32145803　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145802
+  default_thread_id: 1508744123
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145802
+- !ruby/hash:EpisodeHash
+  episode_no: '5'
+  title: 花穂
+  description: 花穂はお兄ちゃんを応援するために、チアリーディングをやっている妹。明るくて元気な性格だけどちょっぴりドジで、平らな場所で転んでしまったり、大事なポーチを落としてしまったりしたことも……。体重が増えたことを気にしていて、お兄ちゃんと大好物のマロンクレープを食べにいくためにダイエットをしているみたい。大好きなものはお花。お兄ちゃんと2人で育てたパンジーから採った種を宝物のように大切にしている。<br><br>so32145802←前話｜次話→so32145804　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145803
+  default_thread_id: 1508744204
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145803
+- !ruby/hash:EpisodeHash
+  episode_no: '6'
+  title: 鈴凛
+  description: 鈴凛は機械いじりが大好きな妹。発明資金が底をついたときは、お兄ちゃんにお小遣いをおねだりするほど研究熱心で、メカ鈴凛をパワーアップするためのデータ解析を怠らない。いつもは発明ばかりの鈴凛も、お兄ちゃんに会う日だけは別。コスメショップに出かけて｢もう少しおしゃれをした方がいいのかな……｣と悩むことも。四葉とは名コンビで、お兄ちゃんの秘密を暴く"兄チャマ探偵団"を結成しているとか。<br><br>so32145803←前話｜次話→so32145805　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145804
+  default_thread_id: 1508744058
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145804
+- !ruby/hash:EpisodeHash
+  episode_no: '7'
+  title: 千影
+  description: 千影はクールでミステリアスな妹。深い内面世界を持っていて、神話や書物などが大好き* 口数が少なく、感情をあまり表に出さないけれど、お得意の魔術で大好きな兄くんや妹たちのことを影からそっとサポートしている。風に飛ばされた亞里亞の傘を取り戻し、どのパジャマを買ったらいいのか迷っている花穂にアドバイスをする、面倒見のよい一面も!!幼い頃に兄くんと見たプラネタリウムの思い出を大切にしている。<br><br>so32145804←前話｜次話→so32145842　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145805
+  default_thread_id: 1508744186
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145805
+- !ruby/hash:EpisodeHash
+  episode_no: '8'
+  title: 四葉
+  description: 四葉はイギリスからやってきた妹。快活な行動派で、虫メガネを片手に兄チャマの秘密(?)を暴くことに夢中になっている。自称"名探偵"だけあって、探究心は妹たちの中でも強いほう。花穂が落としたポーチを探したり、アニキのことをもっと知りたいという鈴凛のために尾行を手伝ったり、困っている人のためには協力を惜しまないフレンドリーな性格の持ち主でもある。大好きなものはドーナツ*
+    口グセは｢チェキ｣。<br><br>so32145805←前話｜次話→so32145843　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145842
+  default_thread_id: 1508744851
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145842
+- !ruby/hash:EpisodeHash
+  episode_no: '9'
+  title: 春歌
+  description: 春歌はドイツからやってきた妹。ステキな大和撫子になれるよう、お茶、お花、舞踊、長刀、弓道などを習っている。特に長刀の腕前は相当なものだとか。兄君さまを危険から守りたいという気持ちが人一倍あり、兄君さまに向って飛んできたシャンパンのコルクをトレーで防いだことも。愛情表現は恋する気持ちを和歌で伝えるほどロマンティック!!兄君さまのことを心に思い浮かべながら、ポッと頬を染めるほど想像力が豊か*<br><br>so32145842←前話｜次話→so32145844　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145843
+  default_thread_id: 1508744880
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145843
+- !ruby/hash:EpisodeHash
+  episode_no: '10'
+  title: 鞠絵
+  description: 鞠絵は思慮深くて、おしとやかな女の子*体が弱いため、早く元気になって兄上様のお世話をしたいとがんばっている。飼い犬で親友のミカエルと一緒に、街から遠く離れた療養所で暮らしているけれど、外泊許可が下りたときはキャンプにでかけたり、イタリアンレストランでウェイトレスのお手伝いをする活動的な一面も。本が大好きなせいか、文学的、芸術的な感性に恵まれていて、人形劇を披露したり、陶芸を楽しんだりしている。<br><br>so32145843←前話｜次話→so32145845　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145844
+  default_thread_id: 1508744837
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145844
+- !ruby/hash:EpisodeHash
+  episode_no: '11'
+  title: 白雪
+  description: 白雪は料理が大得意という家庭的な妹。にいさまにおいしい料理を食べてもらうため、特製のレシピを考案するのが生きがいだとか。特にお菓子作りが大好き*
+    亞里亞が病気になったと聞けばミルクプリンを、クリスマスパーティーにはクグロフを……妹たちの好みはもちろん、体調や季節のイベントにピッタリのスイーツを手作りしてくれる。愛用している柑橘系のコロンは、にいさまもお気に入りの香りみたい。一人称は"姫"。<br><br>so32145844←前話｜次話→so32145846　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145845
+  default_thread_id: 1508744865
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145845
+- !ruby/hash:EpisodeHash
+  episode_no: '12'
+  title: 咲耶
+  description: 咲耶はスタイル抜群のスタイリッシュな妹。コスメやお洋服が大好きで、新色リップのチェックは欠かさないみたい。お兄様には妹ではなく、ひとりの女性として接してもらいたいという気持ちが強いため、腕を組んで歩いたり、意味深なセリフを言ったり、積極的な愛情表現をすることもしばしば*
+    宝物は幼い頃にお兄様からプレゼントされたマヨリカ焼きのタイル!!ペンダントに作り変えて、宝箱の中で大切に保管している。<br><br>so32145845←前話　第一話→so32145799
+  length_seconds: 575
+  content_id: so32145846
+  default_thread_id: 1508744838
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145846
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)天広直人・公野櫻子・アスキー・メディアワークス/プリピュア製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: シスター・プリンセス Re Pure ストーリーズ
+- !ruby/hash:SeasonHash
+  title: シスター・プリンセス

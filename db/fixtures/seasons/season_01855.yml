@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: ASTROBOY 鉄腕アトム ～特別編：アトム誕生の秘密～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/9/11459_1_6.png?1427216400000
+outline: 愛する息子・トビオを突然の死で失った天馬博士。後悔は「再び、トビオをこの世に戻したい」との思いに変わり、国家機密となっていた「デジタル人口頭脳・ゲノム」を持ち出し、火星へと向かわせます。いったい、火星に何が…そして、アトム誕生の瞬間は…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 銀河万丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 津村まこと
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝田久
+  type: cast
+- !ruby/hash:TagHash
+  name: 大和田伸也
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：出崎統
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：森田真由美
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：桑原智
+  type: staff
+- !ruby/hash:TagHash
+  name: 鉄腕アトムシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 川添恵
+  type: other
+- !ruby/hash:TagHash
+  name: 斉藤雅巳
+  type: other
+- !ruby/hash:TagHash
+  name: 西田正義
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ASTROBOY 鉄腕アトム ～特別編：アトム誕生の秘密～
+  description: 科学省長官の天馬博士は格納庫からデジタル頭脳ゲノムを持ち出した。天馬博士はそのまま宇宙船に乗り火星へと旅立つ。彼は地球では高性能のため火星探査用のロボットとなったロボットにデジタル頭脳ゲノムを組み合わせ、交通事故で失った息子のトビオをよみがえらせようとしていたのだ。<br><br>アトム・天馬トビオ:津村まこと／お茶の水博士:勝田久／天馬博士:大和田伸也／タワシ警部:銀河万丈<br><br>監督:出崎統／脚本:森田真由美／演出:桑原智／作画監督:西田正義／美術監督:斉藤雅巳／色彩設計:川添恵<br><br>(C)手塚プロダクション
+  length_seconds: 1241
+  content_id: so33473673
+  default_thread_id: 1530752170
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473673
+cast: "[キャスト]<br>アトム・天馬トビオ:津村まこと／お茶の水博士:勝田久／天馬博士:大和田伸也／タワシ警部:銀河万丈"
+staff: "[スタッフ]<br>監督:出崎統／脚本:森田真由美／演出:桑原智／作画監督:西田正義／美術監督:斉藤雅巳／色彩設計:川添恵"
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)手塚プロダクション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム（1980）
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム 特別編：輝ける地球 ～あなたは青く、美しい…～
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム ～地球最後の日～
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム 特別編：イワンの惑星 ～ロボットと人間の友情～
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム 青騎士の巻

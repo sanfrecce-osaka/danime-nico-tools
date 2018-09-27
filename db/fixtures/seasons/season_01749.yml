@@ -1,0 +1,125 @@
+--- !ruby/hash:SeasonHash
+title: ルパン三世　カリオストロの城
+watchable: false
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/20/1/20201_1_6.png?1435129878000
+outline: ある国営カジノから五十億の札束をまんまと盗み出したルパンと次元だが、実はそれはゴート札と呼ばれる偽札だったのだ。そこでルパンは、ゴート札が発行されたカリオストロ公国を次のターゲットに決める。ルパン達が公国の自然を楽しんでいると、二台の車が猛スピードで過ぎ去っていった。なぜかウエディング姿の少女が武装した男達に追われていたのだ。当然ながらルパンは少女の側につき、少女を救うのに成功した。しかし、わずかの隙に少女を奪われてしまう。その少女が忘れていった指輪を見て、ルパンは次元にこの公国で盗みを失敗したことがあるといった。
+  そしてルパン達は、その少女・クラリスがカリオストロ伯爵との婚礼が近いことを知る。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 増山江威子
+  type: cast
+- !ruby/hash:TagHash
+  name: 納谷悟朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上真樹夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 島本須美
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田康雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 石田太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：モンキー・パンチ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大野雄二
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：宮崎駿
+  type: staff
+- !ruby/hash:TagHash
+  name: ルパン三世シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1979年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: ある国営カジノから五十億の札束をまんまと盗み出したルパンと次元だが、実はそれはゴート札と呼ばれる偽札だったのだ。そこでルパンは、ゴート札が発行されたカリオストロ公国を次のターゲットに決める。ルパン達が公国の自然を楽しんでいると、二台の車が猛スピードで過ぎ去っていった。なぜかウエディング姿の少女が武装した男達に追われていたのだ。当然ながらルパンは少女の側につき、少女を救うのに成功した。しかし、わずかの隙に少女を奪われてしまう。その少女が忘れていった指輪を見て、ルパンは次元にこの公国で盗みを失敗したことがあるといった。
+    そしてルパン達は、その少女・クラリスがカリオストロ伯爵との婚礼が近いことを知る。<br><br>ルパン三世:山田康雄／峰不二子:増山江威子／次元大介:小林清志／石川五ェ門:井上真樹夫／銭形警部:納谷悟朗／クラリス:島本須美／カリオストロ伯爵:石田太郎、他<br><br>原作:モンキー・パンチ／監督:宮崎駿／脚本:宮崎駿、山崎晴哉／作画監督:大塚康生／音楽:大野雄二／主題歌:「炎のたからもの」
+    歌：ボビー（作詞：橋本淳、作曲・編曲：大野雄二）<br><br>次話→so32627605
+  length_seconds: 2104
+  content_id: so32627699
+  default_thread_id: 1516680873
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32627699
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: ある国営カジノから五十億の札束をまんまと盗み出したルパンと次元だが、実はそれはゴート札と呼ばれる偽札だったのだ。そこでルパンは、ゴート札が発行されたカリオストロ公国を次のターゲットに決める。ルパン達が公国の自然を楽しんでいると、二台の車が猛スピードで過ぎ去っていった。なぜかウエディング姿の少女が武装した男達に追われていたのだ。当然ながらルパンは少女の側につき、少女を救うのに成功した。しかし、わずかの隙に少女を奪われてしまう。その少女が忘れていった指輪を見て、ルパンは次元にこの公国で盗みを失敗したことがあるといった。
+    そしてルパン達は、その少女・クラリスがカリオストロ伯爵との婚礼が近いことを知る。<br><br>ルパン三世:山田康雄／峰不二子:増山江威子／次元大介:小林清志／石川五ェ門:井上真樹夫／銭形警部:納谷悟朗／クラリス:島本須美／カリオストロ伯爵:石田太郎、他<br><br>原作:モンキー・パンチ／監督:宮崎駿／脚本:宮崎駿、山崎晴哉／作画監督:大塚康生／音楽:大野雄二／主題歌:「炎のたからもの」
+    歌：ボビー（作詞：橋本淳、作曲・編曲：大野雄二）<br><br>so32627699←前話｜次話→so32627604　第一話→so32627699
+  length_seconds: 1897
+  content_id: so32627605
+  default_thread_id: 1516679266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32627605
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: ある国営カジノから五十億の札束をまんまと盗み出したルパンと次元だが、実はそれはゴート札と呼ばれる偽札だったのだ。そこでルパンは、ゴート札が発行されたカリオストロ公国を次のターゲットに決める。ルパン達が公国の自然を楽しんでいると、二台の車が猛スピードで過ぎ去っていった。なぜかウエディング姿の少女が武装した男達に追われていたのだ。当然ながらルパンは少女の側につき、少女を救うのに成功した。しかし、わずかの隙に少女を奪われてしまう。その少女が忘れていった指輪を見て、ルパンは次元にこの公国で盗みを失敗したことがあるといった。
+    そしてルパン達は、その少女・クラリスがカリオストロ伯爵との婚礼が近いことを知る。<br><br>ルパン三世:山田康雄／峰不二子:増山江威子／次元大介:小林清志／石川五ェ門:井上真樹夫／銭形警部:納谷悟朗／クラリス:島本須美／カリオストロ伯爵:石田太郎、他<br><br>原作:モンキー・パンチ／監督:宮崎駿／脚本:宮崎駿、山崎晴哉／作画監督:大塚康生／音楽:大野雄二／主題歌:「炎のたからもの」
+    歌：ボビー（作詞：橋本淳、作曲・編曲：大野雄二）<br><br>so32627605←前話　第一話→so32627699
+  length_seconds: 1970
+  content_id: so32627604
+  default_thread_id: 1516679261
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32627604
+cast: "[キャスト]<br>ルパン三世:山田康雄／峰不二子:増山江威子／次元大介:小林清志／石川五ェ門:井上真樹夫／銭形警部:納谷悟朗／クラリス:島本須美／カリオストロ伯爵:石田太郎、他"
+staff: "[スタッフ]<br>原作:モンキー・パンチ／監督:宮崎駿／脚本:宮崎駿、山崎晴哉／作画監督:大塚康生／音楽:大野雄二／主題歌:「炎のたからもの」 歌：ボビー（作詞：橋本淳、作曲・編曲：大野雄二）"
+produced_year: "[製作年]<br>1979年"
+copyright: 原作：モンキー・パンチ ©TMS
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ルパン三世 1st series
+- !ruby/hash:SeasonHash
+  title: ルパン三世 2nd series
+- !ruby/hash:SeasonHash
+  title: ルパン三世 PARTIII
+- !ruby/hash:SeasonHash
+  title: ルパン三世 PART4
+- !ruby/hash:SeasonHash
+  title: ルパン三世 PART5
+- !ruby/hash:SeasonHash
+  title: ルパン三世 ルパンVS複製人間
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #01 バイバイ・リバティー・危機一発！'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #02 ヘミングウェイ・ペーパーの謎'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #03 ナポレオンの辞書を奪え'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #04 ロシアより愛をこめて'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #05 ルパン暗殺指令'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #06 燃えよ斬鉄剣'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #07 ハリマオの財宝を追え！！'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #08 トワイライト☆ジェミニの秘密'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #09 ワルサーＰ３８'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #10 炎の記憶 ～Tokyo Crisis～'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #11 愛のダ・カーポ ～ＦＵＪＩＫＯ''s Ｕnlucky Ｄays～'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #12 １＄マネーウォーズ'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #13 アルカトラズ コネクション'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #14 EPISODE：0 ファーストコンタクト'

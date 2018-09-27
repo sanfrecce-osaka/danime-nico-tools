@@ -1,0 +1,104 @@
+--- !ruby/hash:SeasonHash
+title: "｢侵略!!イカ娘｣オリジナルアニメーション2012SUMMER"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/39/4/11394_1_6.png?1427216400000
+outline: 週刊少年チャンピオンで連載中の人気漫画｢侵略!イカ娘｣。2012年8月に発売された単行本12巻に同梱されたオリジナルアニメーション。TVシリーズでお馴染の第1期監督・水島
+  努と第2期監督・山本靖貴に加え、数々の実績を誇る池端隆史が演出をそれぞれ担当する個性きわまる3エピソード!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤かな恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤村歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 片岡あづさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷美貴
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ディオメディア
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：菊谷知樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：横手美智子
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石川雅一
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：山本靖貴
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：水島努
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：安部真弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：池端隆史
+  type: staff
+- !ruby/hash:TagHash
+  name: 侵略!イカ娘シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 秋田書店
+  type: other
+- !ruby/hash:TagHash
+  name: 若林和弘
+  type: other
+- !ruby/hash:TagHash
+  name: 坂本いづみ
+  type: other
+- !ruby/hash:TagHash
+  name: 週刊少年チャンピオン
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢壊さなイカ?｣ /｢普通じゃなイカ?｣/｢隠れなイカ?｣"
+  description: 週刊少年チャンピオンで連載中の人気漫画｢侵略!イカ娘｣。2012年8月に発売された単行本12巻に同梱されたオリジナルアニメーション。TVシリーズでお馴染の第1期監督・水島
+    努と第2期監督・山本靖貴に加え、数々の実績を誇る池端隆史が演出をそれぞれ担当する個性きわまる3エピソード!<br><br>イカ娘:金元寿子／相沢栄子:藤村
+    歩／相沢千鶴:田中理恵／相沢たける:大谷美貴／長月早苗:伊藤かな恵／嵐山悟郎:中村悠一／斉藤 渚:片岡あづさ／シンディー:生天目仁美／常田鮎美:川澄綾子<br><br>原作:安部真弘(秋田書店｢週刊少年チャンピオン｣連載中)／演出:水島
+    努、山本靖貴、池端隆史／脚本:横手美智子／キャラクターデザイン・総作画監督:石川雅一／色彩設計:坂本いづみ／美術監督:舘藤健一／撮影監督:濵 雄紀／音楽:菊谷知樹／音響監督:若林和弘／オープニングテーマ:｢Let’s☆侵略タイム!｣歌：ULTRA-PRISM／エンディングテーマ:｢パズル｣歌：伊藤かな恵／アニメーション制作:ディオメディア
+  length_seconds: 1442
+  content_id: so32018527
+  default_thread_id: 1506744806
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32018527
+cast: "[キャスト]<br>イカ娘:金元寿子／相沢栄子:藤村 歩／相沢千鶴:田中理恵／相沢たける:大谷美貴／長月早苗:伊藤かな恵／嵐山悟郎:中村悠一／斉藤 渚:片岡あづさ／シンディー:生天目仁美／常田鮎美:川澄綾子"
+staff: "[スタッフ]<br>原作:安部真弘(秋田書店｢週刊少年チャンピオン｣連載中)／演出:水島 努、山本靖貴、池端隆史／脚本:横手美智子／キャラクターデザイン・総作画監督:石川雅一／色彩設計:坂本いづみ／美術監督:舘藤健一／撮影監督:濵
+  雄紀／音楽:菊谷知樹／音響監督:若林和弘／オープニングテーマ:｢Let’s☆侵略タイム!｣歌：ULTRA-PRISM／エンディングテーマ:｢パズル｣歌：伊藤かな恵／アニメーション制作:ディオメディア"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)安部真弘（週刊少年チャンピオン）／海の家れもん2.5号店"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "｢侵略!!イカ娘｣オリジナルアニメーション2013SUMMER"
+- !ruby/hash:SeasonHash
+  title: 侵略!?イカ娘
+- !ruby/hash:SeasonHash
+  title: 侵略!イカ娘

@@ -1,0 +1,117 @@
+--- !ruby/hash:SeasonHash
+title: 超獣機神ダンクーガ 白熱の終章
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/13/9/10139_1_6.png?1427216400000
+outline: すでに解散していた獣戦機隊だったが,植物惑星ディラドによる侵略に対抗するため忍たちは再びダンクーガに乗り込むことに。そんな彼らの前に現れたのは死んだはずのシャピロ!
+  かつての記憶を失いつつも,ディラドの女王・ディオレによって甦った彼はその手先として忍たちを襲撃するが……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢尾一樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原茂
+  type: cast
+- !ruby/hash:TagHash
+  name: 石丸博也
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本百合子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：戸塚修
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：葦プロ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：只野和子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：いけたけし
+  type: staff
+- !ruby/hash:TagHash
+  name: 超獣機神ダンクーガシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
+  type: other
+- !ruby/hash:TagHash
+  name: 新井寅雄
+  type: other
+- !ruby/hash:TagHash
+  name: 松浦典良
+  type: other
+- !ruby/hash:TagHash
+  name: 奥田誠治
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ACT1
+  title: 魔人転生
+  description: 地球近くの宇宙空間に突如謎の物体が現れ、敵が襲ってきた。再び召集された獣戦機隊が敵ロボットを撃退する。しかしその直後、謎の物体が発光を始める。光が収まると、そこには1つの惑星の姿があった・・・<br><br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博也<br><br>製作:佐藤俊彦／企画:鵜之沢伸,加藤博／監修:奥田誠治／キャラクターデザイン:只野和子／美術監督:新井寅雄／音響監督:松浦典良／音楽:いけたけし,戸塚修／制作:葦プロダクション(現：プロダクションREED)<br><br>次話→so32145751
+  length_seconds: 1761
+  content_id: so32145750
+  default_thread_id: 1508744872
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145750
+- !ruby/hash:EpisodeHash
+  episode_no: ACT2
+  title: 超獣魔境
+  description: 惑星の中は、動物の反応の全く無い植物だけの世界だった。待ち構えていた敵を苦戦しつつも撃破するダンクーガ。一方、新たな敵ディラドの中にはかつての敵シャピロの未知の花粉によって姿があった。その頃、地球では政府の要人が次々と植物化するという怪事件が起こっていた。<br><br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博也<br><br>製作:佐藤俊彦／企画:鵜之沢伸,加藤博／監修:奥田誠治／キャラクターデザイン:只野和子／美術監督:新井寅雄／音響監督:松浦典良／音楽:いけたけし,戸塚修／制作:葦プロダクション(現：プロダクションREED)<br><br>so32145750←前話｜次話→so32145752　第一話→so32145750
+  length_seconds: 1759
+  content_id: so32145751
+  default_thread_id: 1508744882
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145751
+- !ruby/hash:EpisodeHash
+  episode_no: ACT3
+  title: 壊滅双曲線
+  description: 花粉を放とうとするマルテを雅人もろとも冷凍した捜査チーム。一方、衛星軌道上の前線基地でも植物化事件が発生。獣戦機隊が救援に向かうが、戦闘の後基地が爆破される。引き揚げる中、沙羅はディラド側へと飛び去っていく脱出カプセルを見つける。その中には死んだ筈のシャピロの姿があった。<br><br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博也<br><br>製作:佐藤俊彦／企画:鵜之沢伸,加藤博／監修:奥田誠治／キャラクターデザイン:只野和子／美術監督:新井寅雄／音響監督:松浦典良／音楽:いけたけし,戸塚修／制作:葦プロダクション(現：プロダクションREED)<br><br>so32145751←前話｜次話→so32145753　第一話→so32145750
+  length_seconds: 1734
+  content_id: so32145752
+  default_thread_id: 1508744878
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145752
+- !ruby/hash:EpisodeHash
+  episode_no: ACT4
+  title: 呪縛の終焉
+  description: ディラド悲願の着生の時は迫っていた。ダンクーガは激しい戦いを経てディラドの星の内部へと墜落してしまう。内部の神殿から深手を負ったシャピロがさまようでてくる。沙羅はシャピロをライガーへ乗せるのだが・・・<br><br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博也<br><br>製作:佐藤俊彦／企画:鵜之沢伸,加藤博／監修:奥田誠治／キャラクターデザイン:只野和子／美術監督:新井寅雄／音響監督:松浦典良／音楽:いけたけし,戸塚修／制作:葦プロダクション(現：プロダクションREED)<br><br>so32145752←前話　第一話→so32145750
+  length_seconds: 1752
+  content_id: so32145753
+  default_thread_id: 1508744853
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145753
+cast: "[キャスト]<br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博也"
+staff: "[スタッフ]<br>製作:佐藤俊彦／企画:鵜之沢伸,加藤博／監修:奥田誠治／キャラクターデザイン:只野和子／美術監督:新井寅雄／音響監督:松浦典良／音楽:いけたけし,戸塚修／制作:葦プロダクション(現：プロダクションREED)"
+produced_year: "[製作年]<br>1989年"
+copyright: "(c) PRODUCTION REED 1989"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ(TV)
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ Song Special 獣戦機隊Songs
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ GOD BLESS DANCOUGA

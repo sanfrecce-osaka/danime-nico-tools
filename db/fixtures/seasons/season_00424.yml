@@ -1,0 +1,330 @@
+--- !ruby/hash:SeasonHash
+title: クロノクルセイド
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/4/10024_1_6.png?1427216400000
+outline: 西暦1920年代のアメリカ・ニューヨーク。悪魔退治を専門に扱うマグダラ修道会に所属する16歳のシスターロゼットと、その助手クロノは｢悪魔祓い｣と呼ばれるプロフェッショナル。合衆国の外からいろいろなモノに取り憑いて侵入しようとする悪魔を阻止すべく、今日もロゼットとクロノは数々の冒険を繰り広げる!。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉紗子
+  type: cast
+- !ruby/hash:TagHash
+  name: 根谷美智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 榊原良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：紅優
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：黒田和也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：森山大輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 川原智弘
+  type: other
+- !ruby/hash:TagHash
+  name: 冨岡淳広
+  type: other
+- !ruby/hash:TagHash
+  name: 神戸洋行
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: シスターロゼット / Pilot
+  description: 悪魔祓いの任務で建物を丸ごと破壊してしまったロゼットに、今日もシスターケイトのお小言が炸裂する。次なる任務に出動したロゼットとクロノは、ニューヨーク港で貨物船を乗っ取った魔物と対決するのだが!?<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>次話→so31890015
+  length_seconds: 1385
+  content_id: so31890014
+  default_thread_id: 1504875932
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31890014
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 契約者 / The Covenant
+  description: 悪魔を封印した試作の弾丸を、拳銃ごと紛失してまったロゼット。シスターケイトに秘密で探そうとするロゼットだが、銃はすでに悪魔の手に渡っていた。新たな力を得た悪魔にロゼットが危機に陥ったとき、クロノに異変が……!?<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31890014←前話｜次話→so31890094　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31890015
+  default_thread_id: 1504876102
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31890015
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 御使い / Apostles
+  description: 地上代行者アズマリアを保護するため、ロゼットとクロノは悪魔崇拝者リカルドの経営するホテルに潜入する。そこで見かけた黒服の男──リカルドと契約した子爵レライエは、クロノとも因縁のある悪魔だった。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31890015←前話｜次話→so31890095　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31890094
+  default_thread_id: 1504876403
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31890094
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 罪人 / The Sinners
+  description: 一度はマグダラ修道会に保護したアズマリアがレライエにより連れ去られ、クロノも深手を負う。アズマリアを奪還するため、ロゼットは自らの命を削って、クロノの封印を解くことを決意する!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31890094←前話｜次話→so31890096　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31890095
+  default_thread_id: 1504876497
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31890095
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 修道騎士 / Militia
+  description: ヨシュア捜索を禁じられたロゼットは、レミントン牧師の提案で修道騎士にランクアップするための試験を受けることに。だが、試験のために悪魔が放たれた訓練場には、アズマリアの姿が!!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31890095←前話｜次話→so31891349　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31890096
+  default_thread_id: 1504876520
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31890096
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 宝石の魔女 / Jewelsummoner
+  description: 修道騎士となったロゼットの最初の任務は、マフィアによって密輸された怪物の確保。その現場でロゼットは、宝石を晶喚する対悪魔専門の賞金稼ぎのサテラと出会う。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31890096←前話｜次話→so31891350　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891349
+  default_thread_id: 1504888357
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891349
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 悪魔 / The Devil
+  description: 聖書に記された異変とともに、パンデモニウムに繋がる封印が解き放たれた。再封印のためセントラルパークへ出動したロゼットたちの前に、地上代行者アズマリアを狙ってアイオーンが姿を現す。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891349←前話｜次話→so31891351　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891350
+  default_thread_id: 1504888496
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891350
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 傀儡 / Falling rain
+  description: レミントン牧師の迎えに呼び出され、喜び勇んでグランドセントラル駅へ向かったロゼット。しかしそこには、アイオーンの命でロゼットを連れ去ろうとする罪人リゼールの罠が待ち受けていた!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891350←前話｜次話→so31891352　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891351
+  default_thread_id: 1504888048
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891351
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ヨシュア / Joshua
+  description: 全ての始まりとなった場所、セブンスベル孤児院にアズマリアを案内したロゼットは、過去の出来事を語り始める。ロゼット、ヨシュアとクロノの出会い。それは穏やかな日々のように思えたが……。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891351←前話｜次話→so31891353　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891352
+  default_thread_id: 1504888345
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891352
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 尖角 / Horn
+  description: 4年前……病弱な自分がロゼットの負担になることを苦にするヨシュアの前に現れた、罪人アイオーン。クロノの尖角を与えられ、その&lt;力&gt;を暴走させるヨシュアを止めるため、ロゼットは……!?<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891352←前話｜次話→so31891354　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891353
+  default_thread_id: 1504888347
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891353
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: けだもの / Gabriel Hound
+  description: ニューヨークでは、マフィアたちが巨大な黒い犬の姿をした獣に襲われる事件が発生していた。ロゼットはエルダーの開発したモンスターマシンと、サテラの晶喚獣の力を借りてブラックドッグを追う!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891353←前話｜次話→so31891355　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891354
+  default_thread_id: 1504888308
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891354
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 聖夜 / Holy night
+  description: ついにヨシュアの手がかりをつかみ、旅立ちを決意するロゼット。仲間たちの願いもあって、クリスマスまではニューヨーク支部で過ごすことに。それはアズマリアにとって、初めての楽しいクリスマスだった……。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891354←前話｜次話→so31891356　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891355
+  default_thread_id: 1504888197
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891355
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 姉 / Marionette train
+  description: ロゼットたちは、ヨシュアが目撃されたサンフランシスコへ向かう列車に揺られていた。だがその車内でも、アイオーンの歓心を得ようとする罪人リゼールが、再びロゼットを狙って罠をめぐらせるのだった!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891355←前話｜次話→so31891357　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891356
+  default_thread_id: 1504888336
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891356
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 祈り / Invocation
+  description: ついに西海岸へ到着したロゼットたち。ところがクロノが熱を出して倒れてしまい、一行はサテラの別荘で世話になることに。ロゼットはクロノの熱を下げる方法を求めて、サンフランシスコの町を奔走するが……?<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891356←前話｜次話→so31891358　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891357
+  default_thread_id: 1504888046
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891357
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 追手 / The Pursuers
+  description: サテラの別荘を訪れたのは、罪人たちを追う公爵デュフォー。彼はアイオーンを倒すために、ロゼットたちとの共闘を申し出る。マグダラの中央評議会から決断を委ねられたロゼットの答えは……?<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891357←前話｜次話→so31891359　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891358
+  default_thread_id: 1504888312
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891358
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 信仰者 / Believer
+  description: 悪魔と手を組むことに反発するサテラ。彼女は一人で依頼を受けて郊外にある悪魔崇拝者のアジトへ乗り込み、罠に落ちてしまう。その目の前で行われた召喚の儀式によって現れたのは、アイオーンだった!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891358←前話｜次話→so31891361　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891359
+  default_thread_id: 1504888177
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891359
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 共犯者たち / Accomplices
+  description: 公爵デュフォーとともに闘う準備を整えたマグダラ修道会サンフランシスコ支部の部隊が、アイオーンのアジトを襲撃する。しかしそこにアイオーンの姿はなく、罪人ジェナイとヴィドが彼らを待ち受けていた!!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891359←前話｜次話→so31891362　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891361
+  default_thread_id: 1504888199
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891361
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 四人 / Photograph
+  description: 罪人との戦いに疲弊したマグダラ修道会が体勢を立て直す間、ロゼットたちも休息を命じられる。それぞれに悩み、苛立つロゼットたちを心配したアズマリアは、みんなをカーニバルに誘うのだった。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891361←前話｜次話→so31891363　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891362
+  default_thread_id: 1504888201
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891362
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 首 / Atonement
+  description: 祭りの夜、ロゼットの前に姿を現したヨシュア。だが、彼はロゼットの銃からアイオーンをかばって力を振るう。なすすべのないロゼットの前で、アイオーンはついにその真の企み&lt;贖罪の儀式&gt;を執り行うのだった。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891362←前話｜次話→so31891364　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891363
+  default_thread_id: 1504888460
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891363
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 毒 / Temptation
+  description: 罪人たちは退けたものの、クロノとヨシュアの戦いの余波で町は破壊され、ロゼットはアイオーンの手に落ちてしまう。失意の中、&lt;魔界&gt;の首の記憶を感じ取ったアズマリアの口から、神と悪魔の真実が明らかに……!<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891363←前話｜次話→so31891366　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891364
+  default_thread_id: 1504888173
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891364
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: マグダレーナ / Mary Magdalene
+  description: ロゼットの行方はいまだ知れず、サンフランシスコで起きた混乱はアメリカ全土へ広がろうとしていた。ヨシュアとの戦いで凍結されたままのクロノは、罪人としてアイオーンとともにあった頃の記憶をさまようのだった。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891364←前話｜次話→so31891367　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891366
+  default_thread_id: 1504888292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891366
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: さよなら / Sayonara
+  description: アイオーンに連れられて姿を現したロゼットは、奇跡の力で傷ついた人々を癒し、聖女として崇められていた。教会を脱走したフィオレの前には、優しい姉、フロレットの記憶を取り戻させようとするサテラが立ちふさがるが……。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891366←前話｜次話→so31891368　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891367
+  default_thread_id: 1504888287
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891367
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: ノイズ / The Noise
+  description: 呼び出された教会でアイオーンと対峙したクロノは、ロゼットから契約の解除を求められ、過去への後悔に沈む。アイオーンの扇動によって狂信と暴動が広がる中、クロノは再び立ち上がることができるのか!?<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891367←前話｜次話→so31891369　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891368
+  default_thread_id: 1504888380
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891368
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: クロノ / Chrno
+  description: 動き出した時間の中、セブンスベル孤児院では昔と同じ穏やかな日々が続いていた。それぞれの道を歩む決意を胸に、思い出の場所を訪れるアズマリア、レミントン。そして、消息を絶ったロゼットとクロノは……。<br><br>ロゼット:川上とも子／クロノ:石田
+    彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦<br><br>原作:森山大輔／監督:紅
+    優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO<br><br>so31891368←前話　第一話→so31890014
+  length_seconds: 1385
+  content_id: so31891369
+  default_thread_id: 1504888444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31891369
+cast: "[キャスト]<br>ロゼット:川上とも子／クロノ:石田 彰／アズマリア:千葉紗子／レミントン:速水 奨／シスターケイト:榊原良子／サテラ:根谷美智子／ヨシュア:皆川純子／フィオレ:桑谷夏子／アイオーン:井上和彦"
+staff: "[スタッフ]<br>原作:森山大輔／監督:紅 優／副監督:神戸洋行／シリーズ構成:冨岡淳広／キャラクターデザイン:黒田和也／メカデザイン:川原智弘／美術設定:平澤晃弘／アニメーション制作:GONZO"
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)2003 福音弾"
+related_seasons: !ruby/array:Hashie::Array []

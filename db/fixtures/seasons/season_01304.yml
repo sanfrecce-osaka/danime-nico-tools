@@ -1,0 +1,33 @@
+--- !ruby/hash:SeasonHash
+title: ピテカント
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/7/10587_1_6.png?1427216400000
+outline: オドロキ!ヒラメキ!ピテカント!サルよりかしこい原始人。ぶっつけドタバタおおさわぎ。怖いマンモスなんのその、獲物をさがして大地を駆ける。困った時には力を合わせ。アイデア閃く、ピテカント!人類はじめのその瞬間。発明発見大進化?!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：青池良輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：David Kristian
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#13"
+  title: ウッホ・ウホッホホの巻/ウッホ・ウッホの巻/ウッホ・ウホッホの巻　ほか
+  description: 'ウッホ・ウホッホホの巻/ウッホ・ウッホの巻/ウッホ・ウホッホの巻/ウッホ・ウーホの巻/ウッホ・ウホホホの巻/ウッホ・ウホーホホンの巻/ウッホ・ウッホホンの巻/ウッホ・ウーホーの巻/ウッホ・ホーウホホンの巻/ウッホ・ウホホホホーの巻/ウッホ・ウホーホーホの巻/ウッホ・ウホホウホの巻/ウッホ・ウホホーホホーホホの巻<br><br>監督:青池
+    良輔／音楽: David Kristian'
+  length_seconds: 1377
+  content_id: so32046770
+  default_thread_id: 1507170405
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32046770
+staff: "[スタッフ]<br>監督:青池 良輔／音楽: David Kristian"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

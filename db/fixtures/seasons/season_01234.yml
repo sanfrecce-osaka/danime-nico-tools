@@ -1,0 +1,170 @@
+--- !ruby/hash:SeasonHash
+title: バロムワン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/3/10283_1_6.png?1427216400000
+outline: この世に宇宙が存在する遥か以前に、善と悪は存在した。善なる存在は“コプー”、悪なる存在は“ゴーモン”。そして西暦20XX年…。関東の豊かな自然をはぐくむ大洋市。この地にゴーモンは自らの分身をばらまき、世界を悪なるものに変えようとしていた。善なる象徴コプーはこれを阻止すべく、戦うことを運命付けられた二人の少年に人類の未来を託した。そのヒーローの名は、バロムワン。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 榎本温子
+  type: cast
+- !ruby/hash:TagHash
+  name: 高野浩幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：田口成光
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：さいとうたかを
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 運命
+  description: '中学生の健太郎と猛は幼馴染みであり、恋敵である。二人が14歳の誕生日を迎えた深夜零時、彼等に突然変異が起こる!! そんな最中、太洋市流星湖から、怪しい物体が浮かび上がる…。<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>次話→so31874244'
+  length_seconds: 1475
+  content_id: so31874218
+  default_thread_id: 1504631761
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874218
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 暴走
+  description: 'バロムワンがゴーモンに倒される夢にうなされ、苦悶する健太郎。バロムワンになれる力を持ち、はしゃぐ猛。そんな時、マザーの細胞が入り込み無人車が人を襲う事件が発生…!!<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874218←前話｜次話→so31874246　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874244
+  default_thread_id: 1504632036
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874244
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 狂騒
+  description: '開園100周年記念イベントの開催される動物園で、脱走したニホンザルの桃太郎を介し、動物達に異変が!! 動物たちを操っているのが桃太郎だと知った健太郎と猛だが…。<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874244←前話｜次話→so31874269　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874246
+  default_thread_id: 1504632038
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874246
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 波動
+  description: 'バイオ研究所を訪れる健太郎、猛、ゆう子。そこに植物ハエトリグサにいたずらをして帰っていく不良少年がいた。その夜、その少年が食い殺される事件が発生した…。<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874246←前話｜次話→so31874270　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874269
+  default_thread_id: 1504632453
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874269
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 予兆
+  description: 'ペットショップの高価なヘラクレスが盗まれた。そのヘラクレスにゴーモン細胞が近づいていき、果てに巨大化したヘラクレスが街を襲い始めていた…。<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874269←前話｜次話→so31874271　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874270
+  default_thread_id: 1504632447
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874270
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 敵意
+  description: '警察から頼まれて、一連の事件から健太郎は、｢バロムワンクラブ｣というサイトを立ち上げ、妖獣の情報を集めていた。その結果、宇宙研でエネルギー反応の動きが事件と関係していることに気づくが…。<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874270←前話｜次話→so31874272　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874271
+  default_thread_id: 1504633055
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874271
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 転機
+  description: '麟太郎、妖獣と流星湖の関連性を確信! 麟太郎は、宇宙研が調べた情報から妖獣と流星湖には関連性があると確証! そして、最近よく起こる地震にも、世の中の不安は色濃くなっていた…。<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874271←前話｜次話→so31874273　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874272
+  default_thread_id: 1504633053
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874272
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 浮上
+  description: '宇宙研に三人の謎の男が出現! 健一と宇都宮に襲い掛かった…! 警察官は流星湖付近で謎の物体を発見。記者発表をした健一は、健太郎と猛の予想どおり、狙われることに…。<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874272←前話｜次話→so31874324　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874273
+  default_thread_id: 1504633057
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874273
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 告白
+  description: '何とゆう子が行方不明に…!! 宇宙研襲撃の知らせを受け、健太郎はゆう子と猛を伴い病院に向かう。健一の安否を確認した健太郎は家に戻るが…!!<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874273←前話｜次話→so31874325　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874324
+  default_thread_id: 1504634034
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874324
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 暗黒
+  description: '謎の怪地震が起こり、日本中は大混乱に!! 最近の大事件はバロムワンの所為ではないかという報道が流れ、彼は孤立することに…!!<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874324←前話｜次話→so31874326　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874325
+  default_thread_id: 1504634032
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874325
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 陰謀
+  description: 'バロムワンを悪に仕立て上げようとしたゴーモンの企みを阻止!! ゆう子、紀子、浜田先生を人質にゴーモンはバロムワンをおびき出す作戦に出た…!!<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874325←前話｜次話→so31874327　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874326
+  default_thread_id: 1504634085
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874326
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 反撃
+  description: 'もはやバロムワンであることを秘密にできないと悩む猛と健太郎!!ほどなく父、麟太郎が監禁され、猛と健太郎は父親を救うべくバロムワンに変身、アジトに潜入する…!!<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874326←前話｜次話→so31874328　第一話→so31874218'
+  length_seconds: 1475
+  content_id: so31874327
+  default_thread_id: 1504634067
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874327
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 未来
+  description: '世界は崩壊の危機!! 自ら罠に飛び込むバロムワンは、猛攻撃を受け、そのまま力尽きてしまう!! どうする、バロムワン…!<br><br>白鳥健太郎:
+    浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション: 高野浩幸<br><br>原作者:さいとうたかを／脚本:田口成光<br><br>so31874327←前話　第一話→so31874218'
+  length_seconds: 1455
+  content_id: so31874328
+  default_thread_id: 1504634065
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874328
+cast: "[キャスト]<br>白鳥健太郎: 浪川大輔／木戸 猛: 吉野裕行／杉野ゆう子: 榎本温子／木戸紀子: 坂本真綾／浜田先生: 金月真実／バロムワン: 高野浩幸／ナレーション:
+  高野浩幸"
+staff: "[スタッフ]<br>原作者:さいとうたかを／脚本:田口成光"
+produced_year: "[製作年]<br>2002年"
+copyright: "(C)2002 さいとう・プロ/バロムワン製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

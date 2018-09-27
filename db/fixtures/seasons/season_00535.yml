@@ -1,0 +1,295 @@
+--- !ruby/hash:SeasonHash
+title: PSYCHO-PASS　サイコパス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/19/1/11191_1_6.png?1427216400000
+outline: あらゆる感情、欲望、社会病質的心理傾向はすべて記録され、管理され、大衆は「良き人生」の指標として、その数値的な実現に躍起になっていた。人間の心の在り方、その個人の魂そのものを判定する基準として取り扱われるようになるこの計測値を人々は「PSYCHO-PASS(サイコパス)」の俗称で呼び慣わした。犯罪に関する数値も“犯罪係数”として計測され、犯罪者はその数値によって裁かれる。治安維持にあたる刑事たちは常に、犯人を捕まえる実動部隊となる“執行官”と、執行官を監視・指揮する“監視官”のチームで活動する。自らが高い犯罪係数を持ち、犯罪の根源に迫ることのできる捜査官こそが優秀な“執行官”となりうる。それゆえに、犯罪者になりかねない危険も孕む“執行官”は、その捜査活動を冷静な判断力を備えたエリートである“監視官”に監視されている。公安局刑事課一係のメンバーはそれぞれの想いを胸に、正義の在処を常に突きつけられながら任務を遂行していかなければならない。彼らが立ち向かうものの先にあるのは――
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：塩谷直義
+  type: staff
+- !ruby/hash:TagHash
+  name: PSYCHO-PASS　サイコパスシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+- !ruby/hash:TagHash
+  name: 頭脳戦
+  type: other
+- !ruby/hash:TagHash
+  name: ニトロプラス
+  type: other
+- !ruby/hash:TagHash
+  name: 虚淵玄
+  type: other
+- !ruby/hash:TagHash
+  name: 本広克行
+  type: other
+- !ruby/hash:TagHash
+  name: 深見真
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 犯罪係数
+  description: 人格が数値化できるようになった未来。刑事課に配属された常守朱に手渡されたのは『犯罪係数』という数値によって犯罪者を裁く銃―ドミネーターであった。戸惑いながら現場へ向かう朱。そこで彼女が出会ったのは…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>次話→so32081507
+  length_seconds: 1380
+  content_id: so32081506
+  default_thread_id: 1507714725
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081506
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 成しうる者
+  description: 配属初日に狡噛慎也との軋轢が生じてしまった朱。執行官との関係性を計りかねたまま、暗澹たる思いで公安局へ向かった彼女に出動命令が下される。自らの監視官という立場に悩みながら、現場へ向かう朱だったが…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32081506←前話｜次話→so32081508　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32081507
+  default_thread_id: 1507714539
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081507
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 飼育の作法
+  description: 狡噛との関係性に自信を持ち始めた朱。そんな時、完全自動化されたドローン工場で変死体が発見される。あくまでも事故だと言い張る工場関係者だが、狡噛たちは事件の臭いをかぎつける…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32081507←前話｜次話→so32081509　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32081508
+  default_thread_id: 1507714727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081508
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 誰も知らないあなたの仮面
+  description: 狡噛の存在に戸惑う朱は、ネット上のアバター―タリスマンに相談を持ちかける。しかし、タリスマンを使用していた男は、すでに死亡していたことが明らかになる。一体誰がタリスマンを操っているのか…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32081508←前話｜次話→so32081510　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32081509
+  default_thread_id: 1507714774
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081509
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 誰も知らないあなたの顔
+  description: 朱の同級生が操るアバター―スプーギーブーギーの協力の下行われた「偽タリスマン捕獲作戦」はみごと失敗に終わり、あまつさえ、さらに新たな犠牲者が出てしまう。犯人確保への決意を固くする朱だったが…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32081509←前話｜次話→so32081849　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32081510
+  default_thread_id: 1507714729
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081510
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 狂王子の帰還
+  description: 狡噛の苦い過去―『標本事件』を知った朱。そして狡噛は、先の工場事件とアバター乗っ取り事件に『標本事件』との関連性を見いだす。そんな中、私立の名門桜霜学園で新たな事件が…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32081510←前話｜次話→so32081923　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32081849
+  default_thread_id: 1507717042
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081849
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 紫蘭の花言葉
+  description: 桜霜学園の生徒が標本化した遺体で発見された。『標本事件』と類似性の高い本件の捜査からに狡噛は外されてしまう。そんな彼の監視を命じられた朱に、狡噛はある男の存在を語りはじめる。<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32081849←前話｜次話→so32082116　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32081923
+  default_thread_id: 1507718481
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32081923
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: あとは、沈黙。
+  description: 一連の事件の背後に『マキシマ』の存在があると確信する狡噛。刑事の嗅覚で、女子生徒殺害事件の犯人を追い詰める狡噛達だったが、その背後では新たな凶悪事件が動き出そうとしていた。<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32081923←前話｜次話→so32082289　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32082116
+  default_thread_id: 1507720287
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32082116
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 楽園の果実
+  description: "『マキシマ』の存在に迫るため、プロファイリングの第一人者雑賀教授のもとへ訪れる狡噛と朱。一方マキシマも協力者泉宮寺とともに新たな犯罪の青写真を描き始めていた。徐々に交錯する狡噛とマキシマの思惑…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32082116←前話｜次話→so32082457　第一話→so32081506"
+  length_seconds: 1380
+  content_id: so32082289
+  default_thread_id: 1507721849
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32082289
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: メトセラの遊戯
+  description: 朱の友人ゆきを囮に、泉宮寺の狩り場へおびき出された狡噛。閉ざされた空間で通信手段を奪われた狡噛を、泉宮寺の罠が襲う。はたして狡噛はゆきを無事助け出すことが出来るのか？！<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32082289←前話｜次話→so32082590　第一話→so32081506
+  length_seconds: 1379
+  content_id: so32082457
+  default_thread_id: 1507723223
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32082457
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 聖者の晩餐
+  description: 熾烈を極めた泉宮寺との死闘の果てに、狡噛はゆきの身柄を槙島に奪われてしまう。駆けつけた朱は狡噛に代わり、ゆきを連れ去った槙島を追跡するが、そこで彼女は信じられない光景を目にするのだった。<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32082457←前話｜次話→so32082781　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32082590
+  default_thread_id: 1507725146
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32082590
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: Devil's Crossroad
+  description: 潜在犯六合塚弥生は、更正施設の中で日々サイコパス治療に努めていた。そんな彼女のもとに公安局から使者が訪れ告げる。「あなたには執行官の適正がある」と。社会復帰を望んでいた彼女はその誘いを断るが…<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32082590←前話｜次話→so32082978　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32082781
+  default_thread_id: 1507726717
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32082781
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 深淵からの招待
+  description: 刑事課の中で唯一、槙島の顔をはっきりと目撃した朱は、彼を捕らえようという気持ちを新たにする。一方、宜野座は衝撃の事実を告げられて……。狡噛、朱、宜野座、そして公安局。それぞれの思惑が動き出す。<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32082781←前話｜次話→so32084225　第一話→so32081506
+  length_seconds: 1379
+  content_id: so32082978
+  default_thread_id: 1507728158
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32082978
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 甘い毒
+  description: セキュリティシステムの監視下で、白昼堂々殺人事件が起こった。現場に駆けつけた朱たちは、犯人のサイコパスが犯行中もクリアカラーを計測していたことを知る。新たな犯行の裏には槙島の恐ろしい計略があって……<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32082978←前話｜次話→so32084226　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084225
+  default_thread_id: 1507740567
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084225
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 硫黄降る街
+  description: 槙島の計略によって、シビュラシステムにおける犯罪抑制の信用度は地に落ちた。恐怖に駆られた市民たちは自己防衛意識から武器を取る。加速度的に広がっていく混乱の中で、狡噛たち公安局員は事態収拾を図るが……<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084225←前話｜次話→so32084227　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084226
+  default_thread_id: 1507740322
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084226
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 裁きの門
+  description: 市街の混乱に乗じ、槙島はついに厚生省内部への侵入をはたす。槙島の真の目的とは果たして……。そして、市街地鎮圧から離脱し槙島を追う狡噛、朱、縢。彼らの行く手に、待ち受けるものとは。<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084226←前話｜次話→so32084228　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084227
+  default_thread_id: 1507740450
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084227
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 鉄の腸(はらわた)
+  description: 槙島の逮捕により、市街の混乱は一応の収束を見せた。公安局は消息をつかめなくなった縢を逃亡犯として断定し一係に縢の捜索を命じる。槙島を目前にしながら圧倒的な組織の論理に、狡噛たちは行く手を阻まれて……<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084227←前話｜次話→so32084229　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084228
+  default_thread_id: 1507740479
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084228
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 水に書いた約束
+  description: 槙島が逃亡した。槙島の再逮捕を命じられた一係だったが、狡噛だけはその捜査から外されてしまう。槙島、公安局、そして一係の刑事たち、それぞれの思惑が音を立てきしみ始める中、狡噛の中にはある決意が宿って……<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084228←前話｜次話→so32084230　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084229
+  default_thread_id: 1507740481
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084229
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 透明な影
+  description: ついに公安局から逃亡し、一人槙島を追う狡噛。槙島の音声を手がかりに彼の足取りつかむべく雑賀のもとを訪れる。一方狡噛に取り残された朱は、狡噛の私刑を阻止すべく彼を追おうとするのだが……<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084229←前話｜次話→so32084231　第一話→so32081506
+  length_seconds: 1379
+  content_id: so32084230
+  default_thread_id: 1507740692
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084230
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 正義の在処
+  description: ドミネーターに導かれ、シビュラシステムの真実を知った朱。一方狡噛は、自らの計画を着々と遂行する槙島との距離を、確実に詰め始めていた。シビュラと狡噛、両者の間で揺れ動く朱がとる行動とは<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084230←前話｜次話→so32084232　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084231
+  default_thread_id: 1507740574
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084231
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 血の褒賞
+  description: 狡噛と槙島の後を追い、巨大穀倉地帯へ足を踏み入れた朱たち一係。狡噛、槙島、朱、三者の想いがついに邂逅する。果たして朱は槙島を捕らえ、狡噛を止めることができるのか――？！<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084231←前話｜次話→so32084233　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084232
+  default_thread_id: 1507740572
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084232
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 完璧な世界
+  description: 再び相まみえる狡噛と槙島。槙島を前に、狡噛の『殺意』がむき出しになる。システムの檻に囚えられなかった２つの魂が、疾走する。彼らの到達した地平に、朱は何を見るのか。そして彼女の出す答えとは――<br><br>狡噛
+    慎也:（関 智一）／常守 朱:（花澤 香菜）<br><br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+    I.G<br><br>so32084232←前話　第一話→so32081506
+  length_seconds: 1380
+  content_id: so32084233
+  default_thread_id: 1507740477
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32084233
+cast: "[キャスト]<br>狡噛 慎也:（関 智一）／常守 朱:（花澤 香菜）"
+staff: "[スタッフ]<br>監督:総監督：本広克行 監督：塩谷直義／シナリオ（シリーズ構成）:虚淵玄(ニトロプラス)、深見真、高羽彩／スタジオ:Production
+  I.G"
+produced_year: "[製作年]<br>2012年"
+copyright: "（C）サイコパス製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: PSYCHO-PASS サイコパス　新編集版
+- !ruby/hash:SeasonHash
+  title: PSYCHO-PASS サイコパス 2

@@ -1,0 +1,217 @@
+--- !ruby/hash:SeasonHash
+title: ムシウタ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/9/10339_1_6.png?1427216400000
+outline: 人の“夢”を喰う代わり、寄生主に超常の力を与える“虫”が出現して10年が経った近未来の日本。県立桜架東高校一年D組“薬屋大助”は、一人の少女・“杏本詩歌”と出会い互いに強く惹かれあう。だが詩歌は“虫憑き”を収容する極秘施設“GARDEN”からの逃亡者“ふゆほたる”だった!“特別環境保全事務局“通称”特環”は、最高のエージェントにして最強の虫憑きである“かっこう”に出動を命じ、容赦なく詩歌を追い詰めようとする!そこへ“レイディー・バード”率いる、レジスタンス組織“むしばね”が現れて・・・。それは、夢みる者たちのせつなく激しい想いが織りなす、聖夜の戦記。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅沼晋太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木礼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 浜田賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒河奈美
+  type: cast
+- !ruby/hash:TagHash
+  name: 志村由美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ZEXCS
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：神本兼利
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：藤田淳平
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：酒井和男
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：BEAT FROG
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：るろお
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：岩井恭平
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 吉田玲子
+  type: other
+- !ruby/hash:TagHash
+  name: 角川スニーカー文庫
+  type: other
+- !ruby/hash:TagHash
+  name: 岩永悦宜
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 夢ノ始マリ
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>次話→so31932298
+  length_seconds: 1421
+  content_id: so31932297
+  default_thread_id: 1505511637
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932297
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 夢ノ絆
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932297←前話｜次話→so31932303　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932298
+  default_thread_id: 1505511708
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932298
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 夢ノ虜タチ
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932298←前話｜次話→so31932304　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932303
+  default_thread_id: 1505511608
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932303
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 砕ケ散ル夢
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932303←前話｜次話→so31932305　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932304
+  default_thread_id: 1505512007
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932304
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 巡リ会ウ夢
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932304←前話｜次話→so31932306　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932305
+  default_thread_id: 1505512025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932305
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 狙ワレタ夢
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932305←前話｜次話→so31932307　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932306
+  default_thread_id: 1505511581
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932306
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 夢ノ迷路
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932306←前話｜次話→so31932308　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932307
+  default_thread_id: 1505511612
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932307
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 見果テヌ夢
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932307←前話｜次話→so31932309　第一話→so31932297
+  length_seconds: 1422
+  content_id: so31932308
+  default_thread_id: 1505511670
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932308
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 夢ノ欠片
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932308←前話｜次話→so31932310　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932309
+  default_thread_id: 1505511577
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932309
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: スレ違ウ夢
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932309←前話｜次話→so31932311　第一話→so31932297
+  length_seconds: 1422
+  content_id: so31932310
+  default_thread_id: 1505511575
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932310
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 終ワラナイ夢
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932310←前話｜次話→so31932328　第一話→so31932297
+  length_seconds: 1421
+  content_id: so31932311
+  default_thread_id: 1505511676
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932311
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 夢ミル蛍
+  description: 薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき<br><br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊
+    ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+    FROG<br><br>so31932311←前話　第一話→so31932297
+  length_seconds: 1602
+  content_id: so31932328
+  default_thread_id: 1505512250
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31932328
+cast: "[キャスト]<br>薬屋大助:浅沼晋太郎／杏本詩歌:花澤香菜／立花利菜:生天目仁美／みんみん:田村ゆかり／土師圭吾:平川大輔／五郎丸柊子:高木礼子／皆川あさみ:志村由美／浅野みはる:黒河奈美／風間京子:白石涼子／兜:浜田賢二／センティ:羽多野渉／担任教師:斎賀みつき"
+staff: "[スタッフ]<br>原作:岩井恭平,るろお(｢ムシウタ｣角川スニーカー文庫刊 ザ・スニーカー連載)／監督:酒井和男／シリーズ構成:吉田玲子／キャラクターデザイン:神本兼利／ビジュアルデザイン:岩永悦宜／音楽:藤田淳平／アニメーション制作:ZEXCS・BEAT
+  FROG"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)2007 岩井恭平・るろお/角川書店/ムシウタ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

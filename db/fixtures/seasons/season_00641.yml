@@ -1,0 +1,138 @@
+--- !ruby/hash:SeasonHash
+title: Ｃ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/2/11172_1_6.png?1427216400000
+outline: 西暦20XX年、日本――。巨額の財政赤字を抱え、すわ「国債の暴落か！」「日本経済の崩壊！」「財政破綻も秒読み！？」と末期的な危機が叫ばれていた日本経済であったが、政府系金融機関ソブリン・ウエルス・ファンドの登場により、政府資金の運用を驚異的に成功させ、政府は奇跡とも言える財政再建を実現してみせたのだった。時の総理は、全世界に向けて日本の財政健全化と経済の復活を宣言、歴史上に記憶される政治家として世界中の注目を一身に浴びていた。一方、市民はというと、一挙に黒字化した政府資産を元手に次々に打ち出される政策により、日本経済もV字回復を・・・と期待をかけるものの依然回復する気配はなく、長期化する若者の就職問題、リストラや失業による生活苦、自暴自棄となった物が起こす無差別殺傷事件、将来の展望のなさか、結婚率の減少や少子化は一向に解消には向かわず絶望か、現実逃避か、失踪者や自殺者の急増…そんなニュースが日々飽くことなく繰り返され、漠然とした不安と停滞した閉塞感ばかりが人々の心に澱のようにたまるばかりだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：中村健治
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：竜の子プロダクション
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 頭脳戦
+  type: other
+- !ruby/hash:TagHash
+  name: 高木登
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: complication（複雑）
+  description: 平凡な経済学部生の余賀公麿（よがきみまろ）は自立して安定した生活を獲得することを夢見ている。そんな公麿のもとへミダス銀行通商部の真坂木と名乗る風変わりな男が現れた。将来の可能性を担保に貸し出すお金ミダスマネーを“金融街”と呼ばれる異空間で運用してほしいと持ち掛けるその男に、公麿は何を思うのか。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>次話→so32080225
+  length_seconds: 1380
+  content_id: so32080224
+  default_thread_id: 1507695572
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080224
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: coincidence（暗合）
+  description: 真坂木に導かれ“金融街”に足を踏み入れた公麿を待ち受けていたのは、なんの説明もなしに開始されたディール（取引）と呼ばれるバトルだった。アセットと呼ばれるパートナー真朱と共に勝利しなければ未来が失われるという。対戦相手は酒巻という男と巨人のアセット。逃げ惑う最中、公麿は自分の戦う理由を探していた。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080224←前話｜次話→so32080226　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080225
+  default_thread_id: 1507695606
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080225
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: conspiracy（陰謀）
+  description: 公麿は父が失踪し母が亡くなって以来自分を育ててくれた協子叔母さんを訪ねる。そこで見つけた父親の日記の中にはある衝撃的な事実が記されていた。一方、金融街を調査している金髪の一人の女・サトウ、彼女の言う金融街を掌握しつつある男・三國壮一郎。金融街という絶対的な状況に、公麿は選択を迫られていた。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080225←前話｜次話→so32080227　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080226
+  default_thread_id: 1507695690
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080226
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: conversion（転換）
+  description: 公麿の２度目のディールの相手は、自らの講師である江原だった。公麿は少し前に江原の妻が３人目の子供を身篭っているのを見たばかり。確固たる目的と圧倒的な力をもった江原を前に、やはり公麿は戸惑いながらもただ戦うことに必死だった。そしてその時、公麿はディールが現実に及ぼす影響にまだ気付いていなかった。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080226←前話｜次話→so32080228　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080227
+  default_thread_id: 1507695862
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080227
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: cultivation（修練）
+  description: ディールをコントロールする術を獲得しようとする公麿。一方、壮一郎は自己の理念のもと、金融街内で椋鳥ギルドという互助組織の勢力を拡大していた。その理念とはディールの現実への影響を最小限にすること。公麿は自分の身の回りへの影響が心配だったが、その理念を聴いてなお、とるべき道を迷っていた。何かが引っ掛っていた。そして一介の大学生・公麿に目をつける壮一郎の目的とは一体何なのか。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080227←前話｜次話→so32080253　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080228
+  default_thread_id: 1507695668
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080228
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: conflict（葛藤）
+  description: 公麿の次の対戦相手は宣野座功という男だった。ＮＰＯ法人の代表として恵まれない人達に手を差し伸べる彼は、公麿にある取引を持ちかけた。それは、ディールをパスし戦わない事で現実への影響を無くそうというものだった。宣野座と壮一郎の理念の狭間で葛藤する公磨。そして、公麿との接触を試みるサトウ。彼女の目的とはなんなのか。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080228←前話｜次話→so32080254　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080253
+  default_thread_id: 1507697187
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080253
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: composition（組成）
+  description: 壮一郎は十年前のことを思い出していた。そこには現在の壮一郎の金融街へのスタンスを決定付けるルーツが隠されていた。そしてそれはアセットの秘密とも関係していた。一方、公麿は、真朱という存在を前に、自分にとってかけがえのないものとは何なのか改めて考え始めていた。そんな中、現実世界に未曾有の危機が刻々と忍び寄っていた。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080253←前話｜次話→so32080367　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080254
+  default_thread_id: 1507697185
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080254
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: confidence（信用）
+  description: 東南アジア金融街の破綻が近いことを悟った壮一郎は〝Ｃ〟に備えるよう幹部達に指示を出す。〝Ｃ〟とは一体何なのか。その影響は現実世界に序々に現れていたが、アントレプレナー以外の人間には感じ取ることが出来ない。今まさに、公麿は己のスタンスを選ばなくてはならなかった。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080254←前話｜次話→so32080368　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080367
+  default_thread_id: 1507698244
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080367
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: collapse（破綻）
+  description: "\"東南アジア金融街の破綻が引き起こした〝Ｃ〟により、影響下にあった国土と都市、人々は存在の記憶と共に消失した。〝Ｃ〟の影響は日本にも及び、金融市場の混乱を誘発していた。このまま市場の信用価値が落ちれば、消失現象が日本に連鎖してしまう。壮一郎はミダス銀行を訪ね、日本の防衛のために最後の切り札を切る。その時、公麿は…。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080367←前話｜次話→so32080369　第一話→so32080224"
+  length_seconds: 1380
+  content_id: so32080368
+  default_thread_id: 1507698218
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080368
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: collision（衝突）
+  description: 日本への〝Ｃ〟の連鎖をダークネスカードにより防いだ壮一郎だったが、〝Ｃ〟はアメリカの金融市場に弾き返され、再び日本へ迫る。二度目の連鎖を防ぐため、壮一郎はためらい無く再度ダークネスカードを使う。それに気付いたサトウは、阻止するための方策を公麿に授ける。チャンスは決済までの僅かな時間。壮一郎と公麿達の最後の戦いが始まる…。<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080368←前話｜次話→so32080370　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080369
+  default_thread_id: 1507698211
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080369
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: control（未来）
+  description: 現実世界では、竹田崎の仕掛けたハイパーインフレと情報操作によって日本円の価値が暴落し、人々はパニックに陥っていた。そんな中、ミダスマネーに変化が現れる。真朱や人々の未来を守る決意をした公麿と、現在を守る決意の壮一郎。それぞれの想いがぶつかり合い、加速度的に白熱していくディールは、遂に決着の時を迎える！<br><br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）<br><br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション<br><br>so32080369←前話　第一話→so32080224
+  length_seconds: 1380
+  content_id: so32080370
+  default_thread_id: 1507698215
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080370
+cast: "[キャスト]<br>余賀公麿:（ＣＶ：内山昂輝）／真朱:（ＣＶ：戸松遥）"
+staff: "[スタッフ]<br>監督:中村健治／シナリオ（シリーズ構成）:高木登／スタジオ:竜の子プロダクション"
+produced_year: "[製作年]<br>2011年"
+copyright: "©「Ｃ」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

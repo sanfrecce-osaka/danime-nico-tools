@@ -1,0 +1,57 @@
+--- !ruby/hash:SeasonHash
+title: 鷹の爪 THE MOVIE 4 ～カスペルスキーを持つ男～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/9/10989_1_6.png?1427216400000
+outline: 黒光産業に雇われたDXファイターは、再開発予定地から住民たちを立ち退かせるためDXボンバーを駆使して住民たちを次々と立ち退かせていた。お金のためと割り切り、全く罪悪感を感じていないDXファイター。しかし、そんなDXファイターが、どうしても立ち退きをさせられない１軒の小料理屋があった・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 秘密結社 鷹の爪シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 鷹の爪 THE MOVIE 4 ～カスペルスキーを持つ男～
+  description: 黒光産業に雇われたDXファイターは、再開発予定地から住民たちを立ち退かせるためDXボンバーを駆使して住民たちを次々と立ち退かせていた。お金のためと割り切り、全く罪悪感を感じていないDXファイター。しかし、そんなDXファイターが、どうしても立ち退きをさせられない１軒の小料理屋があった・・・。<br><br>出演:FROGMAN<br><br>監督:FROGMAN
+  length_seconds: 2602
+  content_id: so32040830
+  default_thread_id: 1507061030
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32040830
+cast: "[キャスト]<br>出演:FROGMAN"
+staff: "[スタッフ]<br>監督:FROGMAN"
+produced_year: "[製作年]<br>2010年"
+copyright: "（C）蛙男商会/DLE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 カウントダウン
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 THE MOVIE～総統は二度死ぬ～
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 THE MOVIE II～私を愛した黒烏龍茶～
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 THE MOVIE III～http://鷹の爪.jpは永遠に～
+- !ruby/hash:SeasonHash
+  title: 鷹の爪 NEO
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 MAX
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 EX
+- !ruby/hash:SeasonHash
+  title: 秘密結社　鷹の爪DO

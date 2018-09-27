@@ -1,0 +1,81 @@
+--- !ruby/hash:SeasonHash
+title: 星空キセキ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/18/6/10186_1_6.png?1427216400000
+outline: 恋と星空に憧れる天文部員、こずえ。夏休み、友達の反対を尻目にひとり天体観測の旅に出る。本当の理由は誰にも言えなかったけど、誰かに呼ばれているような、大切な何かを忘れているような、そんな不思議な気持ちを抑えることはできなかった。答えはきっと星が教えてくれる・・・。妖しく光り輝く隕石のカケラも、そんなこずえを後押ししていた。旅先、こずえは一人の少年と出会う。寂しい目をした孤独な少年、銀河。そんな彼に惹かれていくこずえだが、銀河の生まれ持った使命は容赦なく二人を隔絶してしまう・・・。銀河の持つ使命とは一体何なのか。固く閉ざされた心の扉を開くため、こずえは走る。満天の星空の下、キセキの夜が始まる―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 郷田ほづみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 細野佑美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 知桐京子
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：安部純
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：武藤星児
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ダブルオーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松原俊和
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：松原俊和
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：伊藤耕一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：松原俊和
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：コミックス・ウェーブ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 原由美子
+  type: other
+- !ruby/hash:TagHash
+  name: 植田和幸
+  type: other
+- !ruby/hash:TagHash
+  name: 松原俊和
+  type: other
+- !ruby/hash:TagHash
+  name: 水上ろんど
+  type: other
+- !ruby/hash:TagHash
+  name: 田澤潮
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 星空キセキ
+  description: 恋と星空に憧れる天文部員、こずえ。夏休み、友達の反対を尻目にひとり天体観測の旅に出る。本当の理由は誰にも言えなかったけど、誰かに呼ばれているような、大切な何かを忘れているような、そんな不思議な気持ちを抑えることはできなかった。答えはきっと星が教えてくれる・・・。妖しく光り輝く隕石のカケラも、そんなこずえを後押ししていた。旅先、こずえは一人の少年と出会う。寂しい目をした孤独な少年、銀河。そんな彼に惹かれていくこずえだが、銀河の生まれ持った使命は容赦なく二人を隔絶してしまう・・・。銀河の持つ使命とは一体何なのか。固く閉ざされた心の扉を開くため、こずえは走る。満天の星空の下、キセキの夜が始まる―。<br><br>こずえ:細野佑美子／銀河:知桐京子／幹部:郷田ほづみ<br><br>原案:松原俊和／監督:松原俊和,渡辺明夫／脚本:松原俊和,伊藤耕一郎／キャラクターデザイン・絵コンテ・作画監督・色彩設計:松原俊和,渡辺明夫／アニメーター:田澤潮,水上ろんど,畑智司,立石聖,岩崎泰介,原由美子,村上やすひと,鈴木ひろみ,植田和幸／音楽:ダブルオーツ(安部純・武藤星児)／制作:コミックス・ウェーブ
+  length_seconds: 1672
+  content_id: so31911776
+  default_thread_id: 1505204219
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911776
+cast: "[キャスト]<br>こずえ:細野佑美子／銀河:知桐京子／幹部:郷田ほづみ"
+staff: "[スタッフ]<br>原案:松原俊和／監督:松原俊和,渡辺明夫／脚本:松原俊和,伊藤耕一郎／キャラクターデザイン・絵コンテ・作画監督・色彩設計:松原俊和,渡辺明夫／アニメーター:田澤潮,水上ろんど,畑智司,立石聖,岩崎泰介,原由美子,村上やすひと,鈴木ひろみ,植田和幸／音楽:ダブルオーツ(安部純・武藤星児)／制作:コミックス・ウェーブ"
+produced_year: "[製作年]<br>2007年"
+copyright: "(c)119.CoMix Wave Films/D.I.C"
+related_seasons: !ruby/array:Hashie::Array []

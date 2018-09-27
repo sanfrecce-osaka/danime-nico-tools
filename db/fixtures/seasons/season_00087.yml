@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: _summer
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/35/0/11350_1_6.png?1427216400000
+outline: 夏の手前、恋する気持ちを綴った恋愛ストーリー『_summer（アンダーバーサマー）』がPS2移植、ドラマCD発売に続き、待望のアニメ化！！潮風が吹き抜ける片田舎の海辺町を舞台に誰にでも訪れる淡い恋、少年から大人へと駆け上っていく季節を描いた物語。夏の手前、恋の手前、大人になる一歩手前ほんの少し手前を意味する“
+  _ （アンダーバー）”。「―好きな奴、いるか？」親友のなんてことないが主人公の気持ちを揺れ動かし、物語が動き始めます。今、僕たちの季節が始まる―
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤隆
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: ひと美
+  type: cast
+- !ruby/hash:TagHash
+  name: 友永朱音
+  type: cast
+- !ruby/hash:TagHash
+  name: やなせなつみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 花田光
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶田夕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野々瀬ミオ
+  type: cast
+- !ruby/hash:TagHash
+  name: 小坂優舞
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：陸演隊
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岡尾貴洋
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：内野明雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：松浦貴雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：HOOK
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: _summer season.1
+  description: "｢好きな奴、いるか?｣修学旅行の夜、親友の治が言った何気ない一言が海津匠のなかで何かを変えていく。｢……十年先、二十年先、俺達はどうなっているんだろう?
+    恋人が出来たら、俺の横には一体誰が……｣。幼馴染みの小奈美、義妹の沙奈、妹の級友千輪とのいつもの朝食。学校ではクラスメートの信乃や先輩の若菜たちとの何気ない日常。匠の目に、いままで意識したことのない女の子の姿が徐々に変わっていく。そして七夕の夜、海津家恒例のパーティーが開かれることに。みんなが短冊へ願いを書き連ねていくなか、小奈美の願う秘められた想いとは…。<br><br>海津匠:近藤隆／波多野小奈美:柳瀬なつみ／海老塚信乃:梶田夕貴／海津沙奈:中田順子／天野千輪:ひと美／島津若菜:友永朱音／七緒日向子:野々瀬ミオ／船田治:野島健児／川上由乃:小林恵美／落ち武者マスター:花田光／梳田かすみ:田中涼子／放送部員:小坂優舞　他<br><br>原作:HOOK／企画・製作:Softgarage／プロデューサー:村竹保則／監督:岡尾貴洋／脚本:如月一／キャラデザイン:内野明雄／キャラクター原案:松下まかこ、らっこ／作画監督:野田めぐみ／美術監督:岩瀬栄治／色彩設定:木幡美雪／撮影監督:千葉洋之／音楽:松浦貴雄／音響監督:高桑一／音響効果:今野康之(スワラ・プロ)／アニメーション制作:陸演隊<br><br>次話→so32202219"
+  length_seconds: 1747
+  content_id: so32202218
+  default_thread_id: 1509601009
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202218
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: _summer season.2
+  description: 季節はいよいよ夏間近。匠たちはプールに釣りにとそれぞれ思い思いの時間を過ごしていた。変わらないと思っていた日々、そして友達。だが、匠たちの間にそれぞれ微妙な変化が起きていた。そんな折、沙奈の提案で、みんなで成西町の花火大会に行くことに。見物場所に今は廃止された灯台にしようと話し合っている中、匠はふと以前に誰かとその灯台に来て、何か大事な約束をしたことを思い出す。いったい誰と?
+    思い出すことができないまま当日、見物に向かう匠たちは灯台の入り口に鍵がかかり、封鎖されていることを知る。匠も諦めようと思った最中、小奈美は匠にそっと灯台の鍵を差し出すのであった…。<br><br>海津匠:近藤隆／波多野小奈美:柳瀬なつみ／海老塚信乃:梶田夕貴／海津沙奈:中田順子／天野千輪:ひと美／島津若菜:友永朱音／七緒日向子:野々瀬ミオ／船田治:野島健児／川上由乃:小林恵美／落ち武者マスター:花田光／梳田かすみ:田中涼子／放送部員:小坂優舞　他<br><br>原作:HOOK／企画・製作:Softgarage／プロデューサー:村竹保則／監督:岡尾貴洋／脚本:如月一／キャラデザイン:内野明雄／キャラクター原案:松下まかこ、らっこ／作画監督:野田めぐみ／美術監督:岩瀬栄治／色彩設定:木幡美雪／撮影監督:千葉洋之／音楽:松浦貴雄／音響監督:高桑一／音響効果:今野康之(スワラ・プロ)／アニメーション制作:陸演隊<br><br>so32202218←前話　第一話→so32202218
+  length_seconds: 1719
+  content_id: so32202219
+  default_thread_id: 1509601053
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202219
+cast: "[キャスト]<br>海津匠:近藤隆／波多野小奈美:柳瀬なつみ／海老塚信乃:梶田夕貴／海津沙奈:中田順子／天野千輪:ひと美／島津若菜:友永朱音／七緒日向子:野々瀬ミオ／船田治:野島健児／川上由乃:小林恵美／落ち武者マスター:花田光／梳田かすみ:田中涼子／放送部員:小坂優舞　他"
+staff: "[スタッフ]<br>原作:HOOK／企画・製作:Softgarage／プロデューサー:村竹保則／監督:岡尾貴洋／脚本:如月一／キャラデザイン:内野明雄／キャラクター原案:松下まかこ、らっこ／作画監督:野田めぐみ／美術監督:岩瀬栄治／色彩設定:木幡美雪／撮影監督:千葉洋之／音楽:松浦貴雄／音響監督:高桑一／音響効果:今野康之(スワラ・プロ)／アニメーション制作:陸演隊"
+produced_year: "[製作年]<br>2006年"
+copyright: "©2005,2006 HOOK/Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

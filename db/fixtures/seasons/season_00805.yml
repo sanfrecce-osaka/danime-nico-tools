@@ -1,0 +1,203 @@
+--- !ruby/hash:SeasonHash
+title: そらのおとしもの
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/52/2/10522_1_6.png?1427216400000
+outline: 美しい自然に囲まれた小さな町、空美町。そこに住む桜井智樹は｢平和が一番｣をモットーにする普通の学生だった。だが、ある日空から降ってきた少女 イカロスによって、平穏な日常がどんどん壊されていくことになる。《愛玩用エンジェロイド》と名乗り、地上で最初に出会った智樹を《マスター》と呼ぶイカロスは、彼の願いを叶える不思議な力を持っていた!一千億もの現金を手にし、透明人間になったり、時間を止めたり、したいホーダイ!健全な男子の欲望を満たしまくる智樹が、最後に願うものは!?美しい自然の中で、個性豊かなキャラクターたちが繰り広げる、楽しく笑え、ちょっぴりエッチで、そして心に染みるハートフル・コメディ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 高垣彩陽
+  type: cast
+- !ruby/hash:TagHash
+  name: 野水伊織
+  type: cast
+- !ruby/hash:TagHash
+  name: 美名
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：斎藤久
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡邊義弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：AIC ASTA
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：AIC A.S.T.A.
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：水無月すう
+  type: staff
+- !ruby/hash:TagHash
+  name: そらのおとしものシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: どこかにカレー
+  type: other
+- !ruby/hash:TagHash
+  name: カドカワコミックス・エース
+  type: other
+- !ruby/hash:TagHash
+  name: 少年エース
+  type: other
+- !ruby/hash:TagHash
+  name: 柿原優子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ユウシャ大地に起つ!
+  description: "｢平和が一番｣をモットーにする平凡な学生、桜井智樹。だがある日、空から降ってきた少女イカロスによって、平穏な日常がどんどん壊されていく。《愛玩用エンジェロイド》と名乗り、地上で最初に出会った智樹を《マスター》と呼ぶイカロスは、彼の願いを叶える不思議な力を持っていた!<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>次話→so31875943"
+  length_seconds: 1420
+  content_id: so31875942
+  default_thread_id: 1504675614
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875942
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 天翔けるロマン
+  description: そはらは、智樹にべったりのイカロスを見て誤解から機嫌を損ねてしまう。慌ててそはらを追って登校する智樹だが、イカロスがついてきてしまう。智樹がイカロスからもらったカードが光った瞬間、そはらのパンツが脱げ、大空に舞い上がった。やがて、学校中の女子のパンツが、自由を求めて大空に舞い上がる!<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875942←前話｜次話→so31875944　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875943
+  default_thread_id: 1504675616
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875943
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: エンジェロイド0シレイ
+  description: 数学の宿題が終わらない智樹は、守形先輩に教えてもらおうとする。五月田根生徒会長に案内された守形の家は、なんと河原に張られた小さなテントだった。宿題を終わらせた智樹たちは、河原でキャンプ生活を楽しむ。やがてカレーを作る事になり、イカロスが食材の買出しを命ぜられるが・・・。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875943←前話｜次話→so31875972　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875944
+  default_thread_id: 1504675865
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875944
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 愛とトライアングルふたたび
+  description: 第二話で大空に旅立ったパンツの群れが智樹のもとに帰ってきた!喜ぶ智樹だが、そはらは、イカロスのカードを使い、智樹が見たパンツが爆発するようにしてしまう。そうとも知らず、家中にパンツを飾ってしまった智樹。果たして彼は、爆風うずまくパンツ屋敷から脱出できるのか?『そらおと』初のハードアクションが炸裂!<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875944←前話｜次話→so31875973　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875972
+  default_thread_id: 1504676587
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875972
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: セレブとアツイヨル
+  description: いろいろあって、智樹の家は全壊した。宿を求めてさまよう智樹とイカロスに救いの手をさしのべたのは、五月田根生徒会長だった。そはらと守形も加わり、町一番のセレブである会長の家に招待され、手厚いもてなしを受ける。だが、一夜を過ごして目覚めると、そこは恐るべき人外魔境だった!<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875972←前話｜次話→so31875974　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875973
+  default_thread_id: 1504676613
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875973
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ナミギワGO!GO!GO!
+  description: 夏休み。海水浴に向かう新大陸発見部一同。水着美女に囲まれウハウハの智樹だが、イカロスの奇行に振り回されるハメに。イカロスに構いっきりの智樹に対し、そはらのジェラシーが炸裂する。そんな中、ささいな出来事をきっかけに、イカロスが今までにない恐ろしい一面を見せる。そして第二のエンジェロイドの影が・・・。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875973←前話｜次話→so31875975　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875974
+  default_thread_id: 1504676738
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875974
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: トキメキの転校生
+  description: 桜井家にイカロスに続き、ニンフが住み着いた。智樹が学校に行っている間、留守番している二人は退屈し、カードの力を使って転校してきた!トラブルを心配する智樹をヨソに、二人は美少女転校生として学校中の人気者になる。そして学校に早くも飽きてしまったニンフの取った行動とは・・・!?<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875974←前話｜次話→so31875976　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875975
+  default_thread_id: 1504676563
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875975
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: マツリは誰がために
+  description: 今日は楽しい空美町のお祭り。だが五月田根会長の提案で、町中を巻き込んだ大サバイバルゲームが始まった!優勝賞金はなんと一千万円!銃弾と悲鳴が飛び交う中、無駄な存在感を出す謎の夜店のオッサンの正体とは。そんな騒動の影で、ニンフとイカロスは互いの存在を賭けた戦いを始めようとしていた。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875975←前話｜次話→so31875977　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875976
+  default_thread_id: 1504676707
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875976
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 嘘から始まるストーリー
+  description: 野外バーベキューにやってきた新大陸発見部の面々。出店を開いて小遣いを稼ごうとする智樹だが、何をやってもお客が来ない。そこでニンフの力を借りようとする。一方、智樹のために人間らしくなろうと頑張るイカロスは、｢ウソをつくのが人間｣という言葉を聴いてしまい・・・。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875976←前話｜次話→so31875978　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875977
+  default_thread_id: 1504676515
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875977
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 天使のコトバの向かう先
+  description: 智樹たちの学校は、ライバルの私立空美学園と合同で文化祭を行う事になった。私立の鳳凰院兄妹に挑発された新大陸発見部は、バンドを組んで出場するハメになる。私立のフルオーケストラに対抗する智樹たちのバンドは、猛特訓の末、オリジナル曲を引っさげてステージに立つが・・・。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875977←前話｜次話→so31875979　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875978
+  default_thread_id: 1504676584
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875978
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: いざ征かん!我がパラダイス
+  description: 智樹に隠し事をしている事を思い悩むイカロス。一方、智樹は女性陣を銭湯にさそうが、その下心を見透かされ、あっさり却下される。女湯の中に新大陸があるのではないかという智樹の言葉にのせられた守形は、智樹に｢女性陣にバレずに女湯に入る方法｣を伝授する。不可能に思えるその方法とは・・・。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875978←前話｜次話→so31875980　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875979
+  default_thread_id: 1504676517
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875979
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 逃るること叶わぬクサリ
+  description: 笑顔を見せないイカロスを、なんとか笑わせるべく、智樹たちは様々な手段を講じる。しかし、いっこうに笑わないイカロス。ニンフの提案で、三人でデートに出かける事になる。風変わりなデートを楽しむ三人だが、ニンフと智樹が手をつなぐのを見たイカロスに異変が・・・。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875979←前話｜次話→so31875981　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875980
+  default_thread_id: 1504676638
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875980
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 空のオトシモノ
+  description: エンジェロイドであるイカロスとニンフは夢を見ない。誕生日もない。笑顔を見せる事もない。二人の魂は、いまだ空の彼方にある新大陸に捕らわれている。彼女たちと出会った事で人生が変わった智樹は、そんな二人を変えてやりたく思う。そう、地上の空は広いのだから・・・。<br><br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織<br><br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+    ASTA／製作:空美町新大陸発見部<br><br>so31875980←前話　第一話→so31875942
+  length_seconds: 1420
+  content_id: so31875981
+  default_thread_id: 1504676608
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875981
+cast: "[キャスト]<br>桜井智樹:保志総一朗／イカロス:早見沙織／美月そはら:美名／守形英四郎:鈴木達央／五月田根美香子:高垣彩陽／ニンフ:野水伊織"
+staff: "[スタッフ]<br>原作:水無月すう(月刊｢少年エース｣連載、角川コミックス・エース刊)／監督:斎藤久／シリーズ構成:柿原優子／キャラクターデザイン:渡邊義弘／制作:AIC
+  ASTA／製作:空美町新大陸発見部"
+produced_year: "[製作年]<br>2009年"
+copyright: "(C)2009水無月すう／角川書店／空美町新大陸発見部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: そらのおとしものFinal 永遠の私の鳥籠（エターナルマイマスター）
+- !ruby/hash:SeasonHash
+  title: 劇場版そらのおとしもの 時計じかけの哀女神
+- !ruby/hash:SeasonHash
+  title: そらのおとしものf

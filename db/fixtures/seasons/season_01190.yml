@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: 花子さんがきた
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/50/2/10502_1_6.png?1427216400000
+outline: 町外れの朽ちた公衆電話から電話をかけると、花子さんという幽霊を呼び出せるという。面白半分に花子さんを呼び出そうとした子供が、悪霊を呼び出してしまう。そこに颯爽と現れて悪霊を退治した謎の少女。その少女こそ、うわさの花子さんだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花子さんがきた!!シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1-5
+  title: うわさの花子さんてだーれ/かくれんぼ 地下室に眠る生徒/死にたくなる団地/四次元を写すカメラマン/鏡に集まった幽霊
+  description: 次話→so31875674
+  length_seconds: 1141
+  content_id: so31875673
+  default_thread_id: 1504671105
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875673
+- !ruby/hash:EpisodeHash
+  episode_no: 6-10
+  title: 録音されなかった歌/修学旅行にこなかった生徒/さっちゃんのうわさ/ポケベルのうわさ/怪人トンカラトン
+  description: so31875673←前話｜次話→so31881291　第一話→so31875673
+  length_seconds: 1303
+  content_id: so31875674
+  default_thread_id: 1504692624
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875674
+- !ruby/hash:EpisodeHash
+  episode_no: 11-15
+  title: 自転車に乗るメケメケ/地下に止まるエレベーター/逆上がりを手伝う幽霊/赤い靴の女の子/もう一台の通学バス
+  description: so31875674←前話｜次話→so31875696　第一話→so31875673
+  length_seconds: 1114
+  content_id: so31881291
+  default_thread_id: 1504754963
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31881291
+- !ruby/hash:EpisodeHash
+  episode_no: 16-20
+  title: お風呂場から聞こえてくる歌声/桜の木のたたり/人食いランドセル/笑う人形/影を食べる幽霊～やみ子さん登場
+  description: so31881291←前話｜次話→so31875697　第一話→so31875673
+  length_seconds: 1303
+  content_id: so31875696
+  default_thread_id: 1504671626
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875696
+- !ruby/hash:EpisodeHash
+  episode_no: 21-25
+  title: 恐怖のマラソンマン/幽霊ジグソウパズル/遊園地に現れる幽霊/太郎くんと次郎くん/花子さんのパパ
+  description: so31875696←前話｜次話→so31875698　第一話→so31875673
+  length_seconds: 1121
+  content_id: so31875697
+  default_thread_id: 1504671279
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875697
+- !ruby/hash:EpisodeHash
+  episode_no: 26-30
+  title: キャンプ場に現れる幽霊/人面魚の釣れる湖/閉じこめられた放送室/未来が本当になる日記/犬マスクの口裂け女～やみ子さん登場
+  description: so31875697←前話｜次話→so31875699　第一話→so31875673
+  length_seconds: 1292
+  content_id: so31875698
+  default_thread_id: 1504671446
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875698
+- !ruby/hash:EpisodeHash
+  episode_no: 31-35
+  title: ドンドコドンがやって来る/幽霊映画館/約束のクリスマスツリー/恐怖のミサンガ/ごわごわがきた!
+  description: so31875698←前話　第一話→so31875673
+  length_seconds: 1290
+  content_id: so31875699
+  default_thread_id: 1504671628
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875699
+produced_year: "[製作年]<br>1994年"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "｢学校のコワイうわさ 新・花子さんがきた!!｣シーズン2"
+- !ruby/hash:SeasonHash
+  title: 学校のコワイうわさ 新・花子さんがきた!!

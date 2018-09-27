@@ -1,0 +1,445 @@
+--- !ruby/hash:SeasonHash
+title: パワーパフ ガールズ（リマスター版）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/54/2/21542_1_6.png?1492666202000
+outline: キュートな幼稚園児のブロッサム、バブルス、バターカップの３人がタウンズヴィルの平和のために戦うストーリー。強くてかわいい正義の味方、超強力3人娘！パワーパフ
+  ガールズ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: パワーパフ ガールズシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1998年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: とべ！最強の幼稚園児／美女にご用心！
+  description: "＜とべ！最強の幼稚園児＞パワーパフ ガールズの宿敵モジョ・ジョジョは美術館から犬の頭像とアヌビスの宝石を盗み、人間を犬に変え支配しようとする。＜美女にご用心！＞グッドレディという美女と博士が恋に落ちた。彼女は博士、パワーパフガールズと同居することに。ところが彼女の正体とは…。<br><br>次話→so32005695"
+  length_seconds: 1410
+  content_id: so32005694
+  default_thread_id: 1506555033
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005694
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: たいせつなもの／悪いことしたい！？
+  description: "＜たいせつなもの＞モンスターを倒したもののバターカップとブロッサムが大喧嘩。“カレ”はパワーパフ ガールズを仲間割れさせようと…。＜悪いことしたい！？＞自称不良グループ“アメーバーボーイズ”。『犯罪者』になろうと看板を無視して雨の公園の芝生に入ったら、謎の病気にかかってしまう。町中に伝染した病気はパワーパフ
+    ガールズにもおよび…。<br><br>so32005694←前話｜次話→so32005717　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005695
+  default_thread_id: 1506554989
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005695
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: キケンな初恋！？／さわっちゃダメ！
+  description: "＜キケンな初恋！？＞不良グループのボスに恋したバターカップ。そのグループと遊んでいるすきに彼女の声色で呼び出されたブロッサム達にせまる不良たちの魔の手。＜さわっちゃダメ！＞ファジーは人が自分の物に触るのが嫌い。車にぶつかって介抱してくれた人々相手に大暴れ。パワーパフ
+    ガールズは彼を捕まえようとするが…。<br><br>so32005695←前話｜次話→so32005718　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005717
+  default_thread_id: 1506559618
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005717
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: 暗いのコワイ！／復讐のマジック
+  description: "＜暗いのコワイ！＞モンスターのブギーマンは街から光を奪う改革に。太陽光を遮るミラーボールを破壊しに宇宙に飛び出すパワーパフ ガールズだが…。＜復讐のマジック＞街一番の古い劇場が取り壊しに。その衝撃で昔そこで事故死したマジシャンがゾンビになって復活。事故を起こした少女はブロッサムにそっくりで…。<br><br>so32005717←前話｜次話→so32005719　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005718
+  default_thread_id: 1506555041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005718
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: 電話にご注意／みんな大好き！
+  description: "＜電話にご注意＞みんなにいたずら電話をかけまくるギャングリンギャングたちは、もっとすごいいたずらを思いつき、市長の部屋のパワーパフ
+    ガールズへのホットラインを使って…。＜みんな大好き！＞みんなに愛されるパワーパフ ガールズ達。でもある日突然、みんながパワーパフ ガールズを目の敵にするようになってしまった！なんとそれは、あの“カレ”の仕業で…。<br><br>so32005718←前話｜次話→so32005720　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005719
+  default_thread_id: 1506559563
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005719
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 正義のメイジャーマン！？／ふたりの秘密
+  description: "＜正義のメイジャーマン！？＞タウンズヴィルの町で火事が起き、パワーパフ ガールズが消火に向かうが、活躍しないうちに火は謎の男によって消され、町は救われる。男の名はメイジャーマン…！？＜ふたりの秘密＞ある日、ユートニウム博士がモジョ・ジョジョに誘拐された！博士を助けるためにモジョ・ジョジョの家に向かったパワーパフ
+    ガールズに、明かされた過去の秘密とは？<br><br>so32005719←前話｜次話→so32005721　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005720
+  default_thread_id: 1506559639
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005720
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: カワイイだけじゃイヤ／市長さんの一日
+  description: "＜カワイイだけじゃイヤ＞バブルスは、いつも赤ん坊扱いされるのが、とっても不満。ひとりで特訓して、二人を見返してやろうと頑張る。そんなバブルスをモジョ・ジョジョが誘拐するが…。＜市長さんの一日＞市長の地位を手に入れて、人々の尊敬を集めようと、モジョ・ジョジョは市長を誘拐する。パワーパフ
+    ガールズが助けにやってきたのだが…。<br><br>so32005720←前話｜次話→so32005722　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005721
+  default_thread_id: 1506559601
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005721
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 強敵あらわる！ボーイズ軍団
+  description: "＜強敵あらわる！ボーイズ軍団＞モジョ・ジョジョは、パワーパフ ガールズに対抗するためラウディラフ・ボーイズを作り出した。彼らをやっつけるための究極の作戦とは？<br><br>so32005721←前話｜次話→so32005723　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005722
+  default_thread_id: 1506559641
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005722
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: 誕生日は大騒ぎ！／もうお手あげ！
+  description: "＜誕生日は大騒ぎ！＞今日は、パワーパフ ガールズの誕生日。モジョ・ジョジョやアメーバーボーイズ達は、プレゼントにかこつけて、いろんな武器を送りつけてくる。＜もうお手あげ！＞街の平和のために日夜がんばっているパワーパフ
+    ガールズ。そんな彼女たちに頼りきりの街の人たちは。雑用までも頼んでくる。怒った3人は、もう2度と助けないと決意するのだが…。<br><br>so32005722←前話｜次話→so32005724　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005723
+  default_thread_id: 1506559603
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005723
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 夢みたい！／史上最強の作戦
+  description: "＜夢みたい！＞眠りの精のサンドマンは、世界中を一気に眠らせて、自分もゆっくり寝ようと考える。ところが、パワーパフ ガールズは人の夢に入り込むパワーを持っていて、サンドマンの夢の中に忍び込む。＜史上最強の作戦＞モジョ・ジョジョはパワーパフ
+    ガールズをやっつける完璧な計画書を作った。その計画書が3人の手に入ってしまったから大騒ぎ！<br><br>so32005723←前話｜次話→so32005725　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005724
+  default_thread_id: 1506554987
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005724
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: プリンセスの野望／かわいいペット！？
+  description: "＜プリンセスの野望＞プリンセスの依頼を受けて、モジョが立てた計画とは、解毒剤でガールズのスーパーパワーを奪ってしまおうというものだったが…。＜かわいいペット！？＞博士が開発したペット「ビーボ」。餌を与えてはいけないのに、ガールズはかわいくてつい与えてしまう。すると、ビーボはみるみる大きくなってしまい…。<br><br>so32005724←前話｜次話→so32005726　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005725
+  default_thread_id: 1506559559
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005725
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: 巨大ロボ！ダイナモ登場
+  description: "＜巨大ロボ！ダイナモ登場＞博士は、ガールズが危険な目にあわないようにと、戦闘ロボット「ダイナモ」を作った。しかし、ガールズたちの機敏な戦いにダイナモの出番はなかなか来ない…。<br><br>so32005725←前話｜次話→so32005727　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005726
+  default_thread_id: 1506559643
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005726
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: 博士がドロボー！？／色がなくなっちゃった！
+  description: "＜博士がドロボー！？＞悪者に飼われていた猫を助けて家に連れてきたガールズ。ところがその猫は博士を操ってドロボーをさせる、とんでもない猫だった！＜色がなくなっちゃった！＞漂白剤をかけられてモノトーンになってしまったピエロが、怒って町中をモノトーンに変えてしまった。色がなく暗い街を救ったのはガールズの歌声で…。<br><br>so32005726←前話｜次話→so32005728　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005727
+  default_thread_id: 1506559561
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005727
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: モジョのステキな一日！？／おふろなんてキライ！
+  description: "＜モジョのステキな一日！？＞朝から不機嫌なモジョ・ジョジョ。新聞にはガールズの活躍を称える記事ばかり。益々不機嫌になるモジョの家にガールズが投げ込んだ野球ボールを取りに来た。やっつける絶好のチャンスと思ったのだが…。＜おふろなんてキライ！＞モンスターと戦うたび汚れてしまうガールズ。ところが、バターカップはお風呂が大嫌いで、いつも汚れたまま。街の人たちにも嫌われて、遂にはモンスターにまで嫌われてしまう。<br><br>so32005727←前話｜次話→so32005729　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005728
+  default_thread_id: 1506559599
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005728
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: ニセモノあらわる！／ねらわれた３人
+  description: "＜ニセモノあらわる！＞銀行や宝石店を襲っても、いつもガールズに阻止されてしまう３人組の悪人は、パワーパフガールズに変装することを思い付く。彼らの悪事の濡れ衣を着せられたガールズ達は刑務所に入れられ…。＜ねらわれた３人＞究極のパワーパフ
+    ガールズマニアのレニーは、ガールズグッズを集めるのが大好き。全てのグッズを集め終わったレニーは、とうとうガールズをおびき出して、本人達をコレクションにしようとするが…。<br><br>so32005728←前話｜次話→so32005730　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005729
+  default_thread_id: 1506559565
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005729
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: 五人組の転校生／見えない友だち
+  description: "＜五人組の転校生＞ギャングリングギャングがガールズの幼稚園に転校してきた。先生の目を盗んで園児たちをいじめるギャングたちをガールズはやっつけようとするのだが…。＜見えない友だち＞幼稚園に新しいお友達がやってきた。でもとっても内気な転校生は、友達がほしいのにそれをうまく言えず、心の中の友達と話すようになる。その友達はとってもいたずら好きで…。<br><br>so32005729←前話｜次話→so32006842　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32005730
+  default_thread_id: 1506559637
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32005730
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: 市長はファジー？／早くねなさい！
+  description: "＜市長はファジー？＞市長選の時がきた。対立候補もいないのに、市長はそこら中でうるさくキャンペーンを展開。あまりのうるささに「黙れ」とどなったファジーが、市民の支持を得て市長に当選してしまう。しかし、市長となったファジーは…。＜早くねなさい！＞昼夜悪者の退治で忙しく、ガールズは幼稚園でつい居眠りしてキーン先生に怒られ、門限をきめることに。悪者達は好き放題に町を壊し始めてしまい…。<br><br>so32005730←前話｜次話→so32006449　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32006842
+  default_thread_id: 1506588522
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006842
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: 女の子はつよいのよ！／モジョはバブルス？
+  description: "＜女の子はつよいのよ！＞女の子ばかりのパジャマパーティ。そこに変装したモジョが紛れ込んだ！ガールズは気がついたけれど、楽しい会を壊したくないからとモジョから目を離さないことにするが…。＜モジョはバブルス？＞戦闘中、モジョが落とした鉄材がバブルスを直撃して気絶してしまう。家で気がついたバブルスは包帯を残して姿を消す。町でロボ・ジョジョが大暴れしているとの連絡にかけつけると…。<br><br>so32006842←前話｜次話→so32006448　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32006449
+  default_thread_id: 1506584265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006449
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: プリンセスが来た日／バブルスの新兵器！？
+  description: "＜プリンセスが来た日＞幼稚園に新入生が入ってきた。それはお金持ちのお嬢様プリンセス！ガールズの活躍を見た瞬間、自分もパワーパフ ガールズになりたいと言い出す。三人に断られたプリンセルはお父さんにおねだりして…。＜バブルスの新兵器！？＞いつものように悪者退治に向かった
+    ガールズ。でも、バブルスの攻撃がなんだか的外れ。心配した二人がつれて帰り、博士が早速視力検査をしてみると…。<br><br>so32006449←前話｜次話→so32006447　第一話→so32005694"
+  length_seconds: 1397
+  content_id: so32006448
+  default_thread_id: 1506584347
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006448
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: スミスさんの反乱！／勇気のおまじない
+  description: "＜スミスさんの反乱！＞ガールズのお隣さんのスミス一家はごく普通の家族。そこのスミス氏はごく平凡な日常を送っている会社員。そんな平凡な毎日に、ある日、スミス氏はある決断をする。＜勇気のおまじない＞いつものように3人が出動！相変わらずめちゃくちゃ強いバターカップ。でもその強さの秘密は毛布にあった！いたずらをして、毛布を隠してしまうと…。<br><br>so32006448←前話｜次話→so32006446　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32006447
+  default_thread_id: 1506578737
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006447
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: ブロッコリーの逆襲／モジョのベビーシッター
+  description: "＜ブロッコリーの逆襲＞ブロッコリー星人がやってきて、ブロッコリーを植え付けた。それをたべた大人たちは倒れていく。ブロッコリー嫌いのガールズや子供たちは助かったが、みんなを救うには食べちゃうしかない！＜モジョのベビーシッター＞ガールズのベビーシッターを頼まれた市長は、ゲームの続きがやりたいがために、他の人に頼む。結局モジョが現れて、ガールズを倒そうとするが、簡単にはいかず…。<br><br>so32006447←前話｜次話→so32006445　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32006446
+  default_thread_id: 1506584294
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006446
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: 雨の日の冒険／笑っちゃイヤ！
+  description: "＜雨の日の冒険＞犯罪がない雨の日は退屈。そこで皆は家の中でパワーパフ ガールズごっこを開始。ブロックで街を作り、皆で街の人達の役をやるが、誰もバブルスの役をやりたがらない。そこで博士にバブルスの役を頼むが…。＜笑っちゃイヤ！＞バブルスとバターカップは、ブロッサムの髪の毛の手入れをするが、失敗して変な髪型にしてしまう。モンスターが暴れても外に出たがらないブロッサムを、博士が一生懸命に説得。<br><br>so32006446←前話｜次話→so32006444　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32006445
+  default_thread_id: 1506578741
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006445
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: ガールズの妹！／パワーがほしい！
+  description: "＜ガールズの妹！＞毎日大活躍して疲れたガールズは、3人では足りないと思い、博士の部屋に忍び込んで、もう一人つくることに。でも、なんか変なのができちゃったぞ。早速、仕事を言い渡すがドジってばかりで…。＜パワーがほしい！＞幼稚園の子たちはガールズに憧れている。そこでモジョは、ケミカルXを手に「これを使えばガールズみたいになれる」と彼らに接近。モジョの言いなりになった園児たちは…。<br><br>so32006445←前話｜次話→so32006443　第一話→so32005694"
+  length_seconds: 1410
+  content_id: so32006444
+  default_thread_id: 1506578739
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006444
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: あなたが私で、私はだあれ？
+  description: "＜あなたが私で、私はだあれ？＞博士の変な実験のおかげで、街中の人の体が入れ替わってしまった！ブロッサムはベラムの体に、バブルスは市長に、バターカップは博士で、博士はバターカップに！？そこへ銀行強盗が発生。しかし、どれが犯人でどれが被害者だかわからないぞ。<br><br>so32006444←前話｜次話→so32006442　第一話→so32005694"
+  length_seconds: 1380
+  content_id: so32006443
+  default_thread_id: 1506578619
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006443
+- !ruby/hash:EpisodeHash
+  episode_no: "#25"
+  title: ネコちゃんを探せ！／スミス一家の逆襲！？
+  description: "＜ネコちゃんを探せ！＞街に強力なモンスターが出現。しかし、彼の目的はペットのネコを探し出すことのようだ。ガールズは、街中のネコを集めようと躍起になる。ネコ語を話せるバブルスが大活躍？＜スミス一家の逆襲！？＞隣のスミス一家の復讐劇。夫ハロルドは刑務所から出所し、今度は妻マリアンを中心に一家で悪役のコスチュームを着て、留守中のガールズ達の家をめちゃくちゃにするが…。<br><br>so32006443←前話｜次話→so32006441　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006442
+  default_thread_id: 1506584269
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006442
+- !ruby/hash:EpisodeHash
+  episode_no: "#26"
+  title: うそつきはダメよ！／犬作戦！リベンジ
+  description: "＜うそつきはダメよ！＞博士が2000ドルのゴルフクラブを欲しがっている。ガールズは父の日のプレゼントにしたいと思うけど高すぎて無理！ある日、破壊された町を片づけていたブロッサムは、割れたショーウィンドウの中にゴルフクラブを見つけ…。＜犬作戦！リベンジ＞モジョは、犬神アヌビスの像と宝石を盗み出して、その魔力で街の人々を犬に変えて服従させて好き放題。<br><br>so32006442←前話｜次話→so32006440　第一話→so32005694"
+  length_seconds: 1421
+  content_id: so32006441
+  default_thread_id: 1506578075
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006441
+- !ruby/hash:EpisodeHash
+  episode_no: "#27"
+  title: キスからにげろ！？／ヒーローはわしじゃ
+  description: "＜キスからにげろ！？＞ハリーは幼稚園の嫌われ者。皆にキスを迫るが、誰もが逃げ出してしまう。モジョはそんなハリーを利用する。ハリーを側に置いておけばガールズが逃げてしまうので、モジョは強盗し放題。＜ヒーローはわしじゃ＞役立たずと罵られた市長が一念発起。パンチマシン付きの気球に乗って自ら街を守ることに。しかし、次第にエスカレートし見境なく市民を襲い始めて…。<br><br>so32006441←前話｜次話→so32006439　第一話→so32005694"
+  length_seconds: 1441
+  content_id: so32006440
+  default_thread_id: 1506584384
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006440
+- !ruby/hash:EpisodeHash
+  episode_no: "#28"
+  title: カッコよくなりたい！／パワーランチ
+  description: "＜カッコよくなりたい！＞ガールズは、特殊なコスチュームを着たフィクションの主人公に憧れ、それぞれが勝手なキャラクターに成りきってしまう。しかし、モンスターは「ガールズと戦わなくては困る」と不満気。＜パワーランチ＞万引きした物を食べた後でガールズのビーム攻撃を受けたギャングリンギャングの体に異変が！氷の息を吐けるようになったり、岩になったり、スーパーパワーを持った彼らが3人に反撃する。<br><br>so32006440←前話｜次話→so32006416　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006439
+  default_thread_id: 1506584331
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006439
+- !ruby/hash:EpisodeHash
+  episode_no: "#29"
+  title: ケンカはやめて・・・／大きなかくしごと
+  description: "＜ケンカはやめて・・・＞ブロッサムとバターカップが戦法をめぐり口論に。モンスターが現れたにもかかわらず口げんかはエスカレート。バブルスは、一人でモンスターの説得を試みるが…。＜大きなかくしごと＞バブルスは生き物を飼うのが大好き。今度は子供クジラを家に連れて帰る。博士に家での飼育は禁止されているため研究室に水をたっぷりためて、匿うことに。そこへ博士が帰ってきて…。<br><br>so32006439←前話｜次話→so32006415　第一話→so32005694"
+  length_seconds: 1434
+  content_id: so32006416
+  default_thread_id: 1506578115
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006416
+- !ruby/hash:EpisodeHash
+  episode_no: "#30"
+  title: キャンディ大好き！／都会へおひっこし
+  description: "＜キャンディ大好き！＞キャンデイに病み付きになったガールズは、悪者を1回倒すごとに、市長からキャンディをもらえることに。でも、そんな時に限って事件は起こらない。ガールズはキャンディ欲しさのあまり…。＜都会へおひっこし＞ガールズ一家は、大都会シティズビルに引っ越す。ここでも町を守るのが使命と考える3人は、市長にアピールするが全く理解されなかったため、スーパーワパワーで泥棒を捕まえる。<br><br>so32006416←前話｜次話→so32006414　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006415
+  default_thread_id: 1506578071
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006415
+- !ruby/hash:EpisodeHash
+  episode_no: "#31"
+  title: スーパー博士、空をとぶ！！
+  description: "＜スーパー博士、空をとぶ！！＞正義のヒロイン、ガールズはいつも大忙しで、博士とゆっくり過ごす時間もない。そこで博士は自分用に開発した戦闘スーツを着て、自ら悪者を倒し、ガールズを助けることに。しかし、おかしな言動で3人の調子を乱す博士。困ったガールズは一計を案じる。<br><br>so32006415←前話｜次話→so32006413　第一話→so32005694"
+  length_seconds: 1303
+  content_id: so32006414
+  default_thread_id: 1506578014
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006414
+- !ruby/hash:EpisodeHash
+  episode_no: "#32"
+  title: もっとオモチャを／トゥイッギーを守れ
+  description: "＜もっとオモチャを＞朝、目覚めるとガールズの家がオモチャでいっぱいに。しかし泥棒が入ったオモチャ屋に行くと、盗まれた物は家で見たものと一致していた！夢遊病の博士が盗んでいたことを知った３人はあることを思いつき…。＜トゥイッギーを守れ＞乱暴なクラスメイトのミッチが、幼稚園で飼っているハムスターのトゥイッギーを週末、家で預かることに。ガールズはミッチの見張り役となるが…。<br><br>so32006414←前話｜次話→so32006412　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006413
+  default_thread_id: 1506578068
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006413
+- !ruby/hash:EpisodeHash
+  episode_no: "#33"
+  title: オカネになる歯！？／ゴキブリがいっぱい
+  description: "＜オカネになる歯！？＞折れた歯を枕の下に入れて寝ると翌朝にはコインに変わる、という話に取りつかれたバターカップ。一人で悪者退治をしてはわざと相手の歯を折ってコインに変えていくが…。＜ゴキブリがいっぱい＞家にゴキブリが出た！バブルスは逃げ回り、バターカップは攻撃するが、博士はむやみに虫を殺してはいけないと諭す。しかしそれは地球支配を狙うローチコーチの一味の仕業で…。<br><br>so32006413←前話｜次話→so32006411　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006412
+  default_thread_id: 1506578038
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006412
+- !ruby/hash:EpisodeHash
+  episode_no: "#34"
+  title: のうみそチューチュー／ガールズの主張！
+  description: "＜のうみそチューチュー＞何者かに襲われた後に記憶がなくなる被害が続出。犯人は要人の頭に噛みつくたびに脳から大事な情報を吸い取っていたのだ。ガールズは犯人を誘き出すことに。＜ガールズの主張！＞ガールズは女怪盗ファム・ファタルを捕まえるが、逆に女性差別問題について唆され、彼女を釈放する。女性の権利に過敏になった3人は博士や市長の話を全く聞かなくなり、一方、女怪盗は悪事をし放題。<br><br>so32006412←前話｜次話→so32006410　第一話→so32005694"
+  length_seconds: 1470
+  content_id: so32006411
+  default_thread_id: 1506578020
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006411
+- !ruby/hash:EpisodeHash
+  episode_no: "#35"
+  title: シリアル大作戦！／タイムスリップ
+  description: "＜シリアル大作戦＞ガールズに追われた泥棒はシリアルの箱詰め工場に逃げるが、盗んだ宝石を製品の中に落して出荷されてしまう。シリアルが大好きなガールズの家に、宝石入りの製品があることを知った泥棒は…。＜タイムスリップ＞帰り道にガールズ3人は家まで競走するが、なんと光速に近いスピードを出してしまい、50年後の世界にタイムスリップ！そこで見たのは、50年間ガールズが不在だった為に荒れ果てたタウンズヴィルで…。<br><br>so32006411←前話｜次話→so32006408　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006410
+  default_thread_id: 1506578043
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006410
+- !ruby/hash:EpisodeHash
+  episode_no: "#36"
+  title: サボっちゃだめよ／ビートォールズに会いたい？
+  description: "＜サボっちゃだめよ＞サボるか、ドーナツを食べるかしか能がない警察官が、やっぱりクビに。彼はガールズのせいで警官達が活躍できないと思い込み、罠を仕掛けてガールズに挑む。＜ビートォールズに会いたい？＞モジョ、カレ、プリンセス、ファジーの悪党4人が一致団結、「ビート・オールズ」と名乗りガールズを倒し街を支配。歯が立たないガールズだが、モジョにメス猿をあてがい恋に溺れさせるが…。<br><br>so32006410←前話｜次話→so32006407　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006408
+  default_thread_id: 1506578066
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006408
+- !ruby/hash:EpisodeHash
+  episode_no: "#37"
+  title: パワーパフは映画スター！？
+  description: "＜パワーパフは映画スター！？＞ガールズに映画の出演依頼が！3人は浮かれ気分のままクランクイン。一方、博士は、撮影自体が銀行からお金を盗むためのでっちあげと知る。早く3人に伝えなくては…。警備員にガードされ撮影場所に入れない博士は、ある方法で忍び込むことに。<br><br>so32006408←前話｜次話→so32006406　第一話→so32005694"
+  length_seconds: 1414
+  content_id: so32006407
+  default_thread_id: 1506578098
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006407
+- !ruby/hash:EpisodeHash
+  episode_no: "#38"
+  title: バック・トゥ・１９５９
+  description: "＜バック・トゥ・１９５９＞博士がタイムマシーンを発明。過去の博士を消せばガールズも誕生しないと考えたモジョ・ジョジョが、1959年にタイムスリップする。後を追うガールズ。科学者には程遠い少年時代の博士は、おかげで運命を変えるような体験をする。<br><br>so32006407←前話｜次話→so32006438　第一話→so32005694"
+  length_seconds: 1455
+  content_id: so32006406
+  default_thread_id: 1506578018
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006406
+- !ruby/hash:EpisodeHash
+  episode_no: "#39"
+  title: スーパーマン競争
+  description: "＜スーパーマン戦争＞世界中のヒーロー達が集まる「世界スーパーマン協会」は憧れのマト。彼らに認めてもらい仲間入りするよう、数々のテストをクリアするも、女の子という理由で断られるパワーパフ
+    ガールズ。途方に暮れた時、ヒーロー達に危機が。ガールズの出番だ！<br><br>so32006406←前話｜次話→so32006437　第一話→so32005694"
+  length_seconds: 1385
+  content_id: so32006438
+  default_thread_id: 1506584257
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006438
+- !ruby/hash:EpisodeHash
+  episode_no: "#40"
+  title: パワーパフ ガールズたちがいっぱい！？
+  description: "＜パワーパフ ガールズたちがいっぱい！？＞博士の旧友ディックは、PPGを大量生産して売れば儲かると考え、地球平和のためだとガールズを騙してケミカルXを持ってこさせる。各地で大量にニセのPPGが出現。TVでニセモノの広告を見たガールズはディックの元へ抗議に行く。<br><br>so32006438←前話｜次話→so32006450　第一話→so32005694"
+  length_seconds: 1329
+  content_id: so32006437
+  default_thread_id: 1506578615
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006437
+- !ruby/hash:EpisodeHash
+  episode_no: "#41"
+  title: ともだちになりたい！
+  description: "＜ともだちになりたい！＞隣家に越してきたロビンと仲良しになったガールズ。だが、一緒に遊んでいる最中でも、街の平和のために呼び出されるガールズ。ロビンはその度に独りぼっちに。一方、プリンセスは寂しいロビンにつけ込み、悪巧みをするのだが…。<br><br>so32006437←前話｜次話→so32006451　第一話→so32005694"
+  length_seconds: 1400
+  content_id: so32006450
+  default_thread_id: 1506584371
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006450
+- !ruby/hash:EpisodeHash
+  episode_no: "#42"
+  title: パワーパフ・リスちゃん！
+  description: "＜パワーパフ・リスちゃん！＞森で傷だらけの子リスを発見。家に連れて帰り看病するが、バブルスはケミカルXを与える。スーパーパワーを持ったリスは、パワーパフ
+    ガールズの一員として一緒に活躍する。でも、やっぱり森の仲間達が恋しいみたい。<br><br>so32006450←前話｜次話→so32006843　第一話→so32005694"
+  length_seconds: 1449
+  content_id: so32006451
+  default_thread_id: 1506578623
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006451
+- !ruby/hash:EpisodeHash
+  episode_no: "#43"
+  title: バブルスとまほうのチョーク！
+  description: "＜バブルスとまほうのチョーク！＞バブルスはお絵描きが大好き。ある日バターカップにからかわれて泣いて森に逃げると、蝶の妖精と出会い、書いたものが動きだす魔法のチョークをもらう。蝶にけしかけられて怪獣を書いたら、なんと幼稚園を襲い始めた…。<br><br>so32006451←前話｜次話→so32006890　第一話→so32005694"
+  length_seconds: 1225
+  content_id: so32006843
+  default_thread_id: 1506584274
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006843
+- !ruby/hash:EpisodeHash
+  episode_no: "#44"
+  title: カレとガールズのちえくらべ
+  description: "＜カレとガールズのちえくらべ＞カレがガールズに次々とナゾナゾを出す。時間内に解かないと、博士の身に危険が！言われた通り、なんとか難問をクリアする3人。しかし最後の問題はチョー難しい。博士はどこ？解けないと、どうなっちゃうの？！<br><br>so32006843←前話｜次話→so32006463　第一話→so32005694"
+  length_seconds: 1280
+  content_id: so32006890
+  default_thread_id: 1506589103
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006890
+- !ruby/hash:EpisodeHash
+  episode_no: "#45"
+  title: ちっちゃくなあれ
+  description: "＜ちっちゃくなあれ＞街にビルや衣服を溶かす恐怖の雨が降る。ミクロサイズの「ナノボット」の仕業だった。敵を見つけることもできないガールズは、博士の特殊機械で小さくなり、ナノボットの大群と戦う。善戦するが、敵は集結し巨大ロボとなってガールズに反撃する。<br><br>so32006890←前話｜次話→so32006462　第一話→so32005694"
+  length_seconds: 1305
+  content_id: so32006463
+  default_thread_id: 1506578092
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006463
+- !ruby/hash:EpisodeHash
+  episode_no: "#46"
+  title: 今日もみーんなすくわれた！
+  description: "＜今日もみーんなすくわれた！＞エイリアンが地球に侵略、ガールズは全く歯が立たない。邪悪な敵には、もっともワルいヤツで対抗するしかないと考えた3人はモジョ・ジョジョに協力を求める。モジョ・ジョジョの指導のもと応戦するガールズだが、敵が一枚上手だ。ついにモジョ・ジョジョとエイリアンの一騎打ちに。<br><br>so32006463←前話　第一話→so32005694"
+  length_seconds: 1330
+  content_id: so32006462
+  default_thread_id: 1506578887
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32006462
+produced_year: "[製作年]<br>1998年"
+copyright: TM & © 2017 Cartoon Network.
+related_seasons: !ruby/array:Hashie::Array []

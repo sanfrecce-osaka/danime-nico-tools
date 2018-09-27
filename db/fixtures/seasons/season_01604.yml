@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: みんな集まれ！ファルコム学園SC
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/04/2/20042_1_6.png?1427216400000
+outline: 鬼才・新久保だいすけ氏が描く、日本ファルコム作品の歴代キャラクターを題材とした人気ギャグ4コマ漫画(電子マガジン『月刊FALCOM MAGAZINE』にて連載中)。「英雄伝説
+  空の軌跡」のエステル、ヨシュアや「イースシリーズ」の主人公アドルなど、ファルコム作品のキャラクター達が何故か次々と召喚されてしまう異世界《ザナドゥ》。そこは善人が悪人に、変人が更に変人になってしまうという“理の歪んだ世界”だった……！家畜の姿になってしまった大魔導師ミッシェルことラッピィ校長と、性格が反転し、生真面目で善良な魔物となってしまった「イースⅠ」のラスボス、ダルク=ファクト先生は英雄たちを元に戻すべく、異世界に「ファルコム学園」を設立。そこで英雄たちと共に学園生活を送っていたが「英雄伝説
+  閃の軌跡」シリーズのメンバーも新たに加わり、はちゃめちゃな学園生活が新たに幕を開ける…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 興津和幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 神田朱未
+  type: cast
+- !ruby/hash:TagHash
+  name: 進藤尚美
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：ぴっぷや
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：山下憲一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：新久保だいすけ
+  type: staff
+- !ruby/hash:TagHash
+  name: みんな集まれ！ファルコム学園シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1時限目～12時限目
+  title: 1時限目『ファルコム学園の新学期!!』～12時限目『ファルコムジャーフォーエバー!!』
+  description: 1時限目『ファルコム学園の新学期!!』/2時限目『Ⅶ組メンバー登場!!』/3時限目『選考の行方!!』/4時限目『宇宙からの転校生!!』/5時限目『正義の戦隊ファルコムジャー・前編!!』/6時限目『正義の戦隊ファルコムジャー・後編!!』/7時限目『ザナドゥ巡礼の旅!!』/8時限目『失われた銀の短剣!!』/9時限目『ご存知、ウォーゼン一家!!』/10時限目『それゆけ！ドトーのトレーニング!!』/11時限目『トビーとカーネリア!!』/12時限目『ファルコムジャーフォーエバー!!』<br><br>アドル・クリスティン:梶裕貴／ダルク・ファクト:興津和幸／ヨシュア:斎賀みつき／エステル:神田朱未／ティオ:水橋かおり／ラッピィ:進藤尚美／アリサ・ラインフォルト:堀江由衣　ほか<br><br>原案:日本ファルコム株式会社／原作:新久保だいすけ（「月刊FALCOM
+    MAGAZINE」連載中）／監督:ぴっぷや（「しばいぬ子さん」、「石田とあさくら」他）／脚本:山下憲一（「ヒーローバンク」、「マジンボーン」他）／キャラデザ・作画監督:青葉みずき（「フォトカノ」、「押忍！番長シリーズ」他）／製作:株式会社キャラアニ、株式会社ダックスプロダクション
+  length_seconds: 1452
+  content_id: so32019136
+  default_thread_id: 1506752864
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32019136
+cast: "[キャスト]<br>アドル・クリスティン:梶裕貴／ダルク・ファクト:興津和幸／ヨシュア:斎賀みつき／エステル:神田朱未／ティオ:水橋かおり／ラッピィ:進藤尚美／アリサ・ラインフォルト:堀江由衣　ほか"
+staff: "[スタッフ]<br>原案:日本ファルコム株式会社／原作:新久保だいすけ（「月刊FALCOM MAGAZINE」連載中）／監督:ぴっぷや（「しばいぬ子さん」、「石田とあさくら」他）／脚本:山下憲一（「ヒーローバンク」、「マジンボーン」他）／キャラデザ・作画監督:青葉みずき（「フォトカノ」、「押忍！番長シリーズ」他）／製作:株式会社キャラアニ、株式会社ダックスプロダクション"
+produced_year: "[製作年]<br>2015年"
+copyright: "（C)Falcom／ファルコム学園生徒会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: みんな集まれ！ファルコム学園

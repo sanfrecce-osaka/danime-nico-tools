@@ -1,0 +1,186 @@
+--- !ruby/hash:SeasonHash
+title: キノの旅-the Beautiful World-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/00/2/10002_1_6.png?1427216400000
+outline: ひとつの国に3日間だけとどまるルールを決めたキノ達。それぞれの｢国｣に暮らす人々の｢日常｣の中に｢旅人・キノ｣という｢非日常｣が入り込むことで生じる小さな波紋。だがそれは、実は｢日常｣をゆるがすほどの大きな事件だったりする。キノ達は旅の途中で何を見て、そこで出会った人々の心に何を残すのか?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 前田愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 相ヶ瀬龍史
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：時雨沢恵一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：村井さだゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：須賀重行
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：酒井良
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中村隆太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キノの旅シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 鶴岡陽太
+  type: other
+- !ruby/hash:TagHash
+  name: GENCO
+  type: other
+- !ruby/hash:TagHash
+  name: 大庭直之
+  type: other
+- !ruby/hash:TagHash
+  name: 黒星紅白
+  type: other
+- !ruby/hash:TagHash
+  name: 番野雅好
+  type: other
+- !ruby/hash:TagHash
+  name: 今井剛
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 人の痛みが分かる国 -I See You-
+  description: キノとエルメスは、入国審査所から町の中まで人が一人もいない国に辿り着く。そこは全てを、機械がやってくれる親切な国で周辺の居住区では、人々は閉じこもって暮らしていた。<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>次話→so32011278
+  length_seconds: 1459
+  content_id: so32011277
+  default_thread_id: 1506643977
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011277
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 人を喰った話 -I Want to Live-
+  description: 吹雪の中を走るキノとエルメスは、雪に埋もれている一台のトラックとテントを発見する。テントの中には、異様な匂いと食べ物の残骸の中、3人の男達がいた。<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011277←前話｜次話→so32011280　第一話→so32011277
+  length_seconds: 1459
+  content_id: so32011278
+  default_thread_id: 1506644013
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011278
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 予言の国 -We NO The Future-
+  description: キノとエルメスが訪れた国は、予言と共に生きてきた国だった。｢世界が終わるんですか?｣｢世界は終わるんです｣｢どうして世界が終わってしまうんですか?｣｢予言です｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011278←前話｜次話→so32011281　第一話→so32011277
+  length_seconds: 1460
+  content_id: so32011280
+  default_thread_id: 1506644237
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011280
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 大人の国 -Natural Right-
+  description: この国では、子供が12才になったらイヤな事、間違っている事も絶対やらなければいけない大人にする為に、頭を開けてその中の子供を取り出すという。｢12才からは大人。大人は仕事をし、それはとてもつらいことなの｣少女は言った。｢イヤなことができるのがちゃんとした大人なのか?｣キノと名乗る旅人は少女に言った。<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011280←前話｜次話→so32011282　第一話→so32011277
+  length_seconds: 1459
+  content_id: so32011281
+  default_thread_id: 1506644036
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011281
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: レールの上の三人の男 -On The Rails-
+  description: 荒れた大地に雑草が茂る間に、赤茶けた2本のラインが並行に走る。列車のレールだ。キノとエルメスは人影を見つける。鉄道員らしい男がしゃがんで何かをしている。｢あなたが草を取ってレールを磨いて、全部一人でやったのですか?｣｢ああ。それが仕事なんじゃな｣｢仕事、ですか｣｢そうじゃ。もう50年これをやっとる｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011281←前話｜次話→so32011283　第一話→so32011277
+  length_seconds: 1460
+  content_id: so32011282
+  default_thread_id: 1506644183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011282
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: コロシアム(前編) -Avengers-
+  description: "｢喜べ、あんたは24番だ｣｢はい?｣｢この国では一級市民だけが地上に住める。あとは地下のどぶ街で暮らすか、奴隷として俺達に奉仕するかだ、もちろん参加を拒否することも出来るぞ。それがこの国のルールさ。破ったら死刑だ、さあどうする坊や?｣｢参加します。ボクを案内してください｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011282←前話｜次話→so32011284　第一話→so32011277"
+  length_seconds: 1460
+  content_id: so32011283
+  default_thread_id: 1506643953
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011283
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: コロシアム(後編) -Avengers-
+  description: 勝ち抜いたキノ達は王の告白を聞かされる‥。｢こんなことを続ければ俺もこの国もやがて破滅する｣｢それなら、どうして続けるのですか?｣｢それが楽しいからさ!破滅の虫が俺を誘惑する。いつか俺が殺した者の親戚が俺をを殺しにやってくる。だが、俺はそれさえ心のどこかで待ち侘びている。これは人間の性なのさ｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011283←前話｜次話→so32011285　第一話→so32011277
+  length_seconds: 1460
+  content_id: so32011284
+  default_thread_id: 1506644160
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011284
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 魔法使いの国 -Potential of Magic-
+  description: "｢5年ぶりに旅人がこの国を訪れたその日、私は最後の直談判に行くところだった。自分の夢を賭けて｣｢その旅人がこの国に来たのは、偶然やきまぐれだったのかもしれないけど、私には必然に思えた。彼らがいなっかたら、私は失意の一生を送っていたかも知れない。本当に、言葉が出ないほど、感謝している｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011284←前話｜次話→so32011286　第一話→so32011277"
+  length_seconds: 1460
+  content_id: so32011285
+  default_thread_id: 1506643973
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011285
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 本の国 -Nothing Is Written!-
+  description: キノとエルメスは行き倒れの男を見つける。男は一冊の本をキノに差し出して言う｢僕は、あの国から脱出してきたんだ｣｢あの国では何か危険なことでも起こっているのですか?｣｢あの国では、本を書くことが禁止されているんだ。だけど僕は本を書く仕事がしたくてね。詳しいことは、あの国の図書館に行ってみれば分かるよ｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011285←前話｜次話→so32011287　第一話→so32011277
+  length_seconds: 1460
+  content_id: so32011286
+  default_thread_id: 1506644543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011286
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 機械人形の話 -One-way Mission-
+  description: 森の木々の中を走り抜けるキノとエルメス。突然茂みの中からおばあさんが飛び出してきた。轢かれそうになったにもかかわらず平気な顔で微笑む｢あらこんにちは、旅人さん。この森で、よその人間の方とお会いするなんて｣｢人間だけじゃないよ｣｢まあ素敵。他の機械の方とお話できるなんて｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011286←前話｜次話→so32011288　第一話→so32011277
+  length_seconds: 1459
+  content_id: so32011287
+  default_thread_id: 1506644455
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011287
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 彼女の旅 -Love and Bullets-
+  description: 酒場のカウンターにいる男は30過ぎか、温和な顔だが頬に傷がある。男は昔、悪人だったころ、彼女のフィアンセを殺した罪を償うために彼女の旅の護衛をするという。｢旅で一番気をつけなくちゃいけないことって、何かな?｣｢簡単ですよ。命をなくさないことです｣｢ありがとう｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011287←前話｜次話→so32011289　第一話→so32011277
+  length_seconds: 1460
+  content_id: so32011288
+  default_thread_id: 1506644550
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011288
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 平和な国 -Mother’s Love-
+  description: 街路にはバズーカ砲に小型ミサイル、装甲車など過去の兵器がオブジェとして並べられている。｢とても穏やかな国とは思えないね｣｢今は必要がなくなったらしい｣｢どうしてそうなったのさ｣｢町の人たちの様子を見ても、戦争をしているような国には??｣すると突然複数の銃声!｢軍隊の演習ですよ、明日戦争ですからね｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011288←前話｜次話→so32011290　第一話→so32011277
+  length_seconds: 1460
+  content_id: so32011289
+  default_thread_id: 1506644457
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011289
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 優しい国 -Tomorrow Never Comes-
+  description: これから行く国は旅人の評判が、かなり良くないらしい。｢それでも行くの?｣｢だから行くんだ。そこまで言われるなんて、どんなところか興味がある｣｢まったく物好きだね｣｢きれいな国じゃん｣｢住んでる人の心までは分からないけどね｣｢だね。とーっても思い出深い、一生忘れられない国になるかもよ｣｢だといいね‥｣<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良<br><br>so32011289←前話　第一話→so32011277
+  length_seconds: 1435
+  content_id: so32011290
+  default_thread_id: 1506644290
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011290
+cast: "[キャスト]<br>キノ:前田愛／エルメス:相ヶ瀬龍史"
+staff: "[スタッフ]<br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良"
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)時雨沢恵一・アスキー・メディアワークス/｢キノの旅｣製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: キノの旅 -the Beautiful World- the Animated Series
+- !ruby/hash:SeasonHash
+  title: キノの旅 何かをするために -Life goes on-/キノの旅 塔の国 -Free Lance-
+- !ruby/hash:SeasonHash
+  title: キノの旅 病気の国 -For You-

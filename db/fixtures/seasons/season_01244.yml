@@ -1,0 +1,211 @@
+--- !ruby/hash:SeasonHash
+title: BURN-UP SCRAMBLE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/4/10784_1_6.png?1427216400000
+outline: 人気シリーズの4度目の映像化にあたるTVアニメ。2023年東京、治安は悪化の一途をたどっていた。事態を重く見た政府は、特殊犯罪対策としての超法規の警官隊を組織することを決定。市民の要望に素早く応え、迅速に事件を解決する少数精鋭の警官隊。それが特殊犯罪チーム“ウォーリアーズ”である…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊口めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋広樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 利田優子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：花田十輝
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：林宏樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：植竹須美男
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：村田俊治
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：信田かずお
+  type: staff
+- !ruby/hash:TagHash
+  name: BURN-UPシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 小山俊久
+  type: other
+- !ruby/hash:TagHash
+  name: 村田護郎
+  type: other
+- !ruby/hash:TagHash
+  name: AIC
+  type: other
+- !ruby/hash:TagHash
+  name: 小川浩
+  type: other
+- !ruby/hash:TagHash
+  name: 岩畑剛一
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-1
+  title: ウォーリアーズ 暁に出撃す！！
+  description: "｢初日の出暴走｣を阻止するために対策を行う警察の対策本部だが、世間体を気にして有効な手を打てずにいた。警察幹部たちは、武装暴走族壊滅しようとウォーリアーズを出動させる…。湾岸に集まる暴走族たちの前にチャリにまたがる1人の女性。警察官姿の利緒が指鉄砲を構えて、高笑いする彼らの前に立ちはだかった…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>次話→so31882748"
+  length_seconds: 1449
+  content_id: so31882747
+  default_thread_id: 1504775866
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882747
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-2
+  title: 倒せ！！ 強奪車両 マッドガンダー！！
+  description: 利緒がお金を下ろそうとATMに立ち寄ったその時、マシンアームによってATMごと奪われてしまった。虎の子の一万円も無くしてしまい大ショックの利緒。そのATM荒らしの逮捕が今回の任務。利緒はATM荒らしによって無くした一万円の憂さを晴らすべく、凶悪なマシンアームを相手に戦いを挑むのであった…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882747←前話｜次話→so31882750　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31882748
+  default_thread_id: 1504775890
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882748
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-3
+  title: ウォーリアーズ 爆死五秒前！！
+  description: 数々の超能力を持つもののまともに活かしきれたことがなかったリリカ・エベット。そんな彼女がウォーリアーズのメンバーになるという。破壊工作を企むテロ組織がテーマパークの爆破予告が出ており、その爆発物の予知をリリカに任せる。不安を覚えながらも利緒たちはリリカのサイコメトラー能力に頼るしかなかったが…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882748←前話｜次話→so31882751　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31882750
+  default_thread_id: 1504775871
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882750
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-4
+  title: 激走！！ 大東京七万km！！
+  description: 神出鬼没の窃盗犯。今日も何処かで金品を取りまくり、既に余罪は数十件に達していた。そんな中、自室のベランダに連続窃盗犯が現れる利緒。その子細をもらさず確認しようと雄治は自身の権限をフルに使って事情聴取を行うことに。やがて、連続窃盗犯が特S級事件として認定。利緒はその恨みを晴らすべく、出動して…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882750←前話｜次話→so31882752　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31882751
+  default_thread_id: 1504775875
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882751
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-5
+  title: 愛と哀しみの粉塵爆破！！
+  description: 利緒の拳と真弥の銃が互いに向き合っていた…。実はウォーリアーズの新装備開発中で、その調整というわけであった。その最中、隊長から思わぬ指令が舞い込んだ｢リリカの護衛｣。それは利緒や真弥と任務に就くようになってからリリカの能力の向上が見られるリリカを市街に出して社会を体験させようということらしく…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882751←前話｜次話→so31882753　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31882752
+  default_thread_id: 1504775895
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882752
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-6
+  title: ウェスタン札幌 ～知床地獄篇～
+  description: 場末の居酒屋で、利緒たちは酒宴を開いていた。そんな酒の肴は、連休中に行われた利緒の合コン失敗談。いつもの真弥のぼやきに突っ込みを入れる利緒であったが、逆に自分はどうなの?と聞き返されると、真弥は故郷へと帰っていたという。その真弥の故郷のことは初耳の利緒と、故郷の場所を聴いたリリカは…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882752←前話｜次話→so31882754　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31882753
+  default_thread_id: 1504776040
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882753
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-7
+  title: 撃墜！！ 悪夢のエアポート2023
+  description: フライトアテンダント(スチュワーデス)のコスチュームに身を包む利緒たち。アマン国の王女ハーネスがお忍びで日本を訪問するため、護衛の任についていた。そんな中、ハーネスを狙ってテロリストが行動を開始したため、応戦する利緒たち。ハーネスも喜び勇んで武器を手に挑んでいくもテロリストの手に落ちてしまい…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882753←前話｜次話→so31882755　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31882754
+  default_thread_id: 1504776068
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882754
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-8
+  title: 大銀河からの超メッセージ
+  description: 今日の運勢絶不調の利緒に言い寄ってくるのは霊感商法の営業マン、詐欺師にスリばかり。数々の占いを試すもその通りにはいかず落ち込む利緒であった。ふてくされて自棄酒の末、｢人類なんと滅びてしまえ!｣と叫びつつ眠ってしまう。翌朝、利緒の目に飛び込んできたのは、巨大な円盤がTV画面に映し出されており…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882754←前話｜次話→so31885316　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31882755
+  default_thread_id: 1504775873
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31882755
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-9
+  title: 黒いシージャック！！ 海上大激突！！
+  description: 大海原を疾走する巨大豪華客船に利緒たちは、任務のために乗船していた。今回の任務は、新興チャイニーズマフィアの若きドン首領である｢19(ナインティーン)｣たちの取引の現場を押さえて現行犯逮捕すること。だが、同じ客船に同乗している祐司が利緒にまとわりついて、任務に支障をきたしてしまい…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31882755←前話｜次話→so31885317　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31885316
+  default_thread_id: 1504801958
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885316
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-10
+  title: 大東京全滅！？ さらばウォーリアーズ！！
+  description: 乗客を人質に、爆発物を身に付けてバスに立て篭もる犯人。強行突入を急く隊長に反発する利緒たちだったが、隊長は突入を強行する。そこに、突如現れた黒ずくめの人影が乗客もろとも犯人を処理してしまうのだった。怒りに任せた利緒たちは彼らに立ち向かうも、圧倒的な能力差でなす術も無く叩きのめされてしまうが…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31885316←前話｜次話→so31885318　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31885317
+  default_thread_id: 1504801994
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885317
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-11
+  title: ラストマッチ ウォーリアーズ超決戦！！
+  description: リリカからもたらされた情報は、利緒たちを憤慨させるに十分なものであった。新ウォーリアーズの行為はエスカレートしていくばかりだが、彼らには無表情に任務を追行していくだけ。新メンバーと対決することを選んだ、利緒と真弥はゲリラ戦の手法で新メンバーを翻弄し、満身創痍になりながらも新メンバーを撃退するが…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31885317←前話｜次話→so31885319　第一話→so31882747
+  length_seconds: 1449
+  content_id: so31885318
+  default_thread_id: 1504801838
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885318
+- !ruby/hash:EpisodeHash
+  episode_no: Scramble-12
+  title: 行け、ウォーリアーズ！！ 永遠の果てに！！
+  description: ウォーリアーズ事件によって警察への信頼が失墜し、利緒と真弥、警官たちはその信頼回復のため連日市民たちのイベントに参加させられていた。リリカはその能力を生かしてテレビ番組に出演してはいたが、契約は打ち切られて失業、再び施設へ戻されることに。街を去ろうとする真弥を迎えにきた利緒は、真弥を送る途中に…。<br><br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川
+    祭:田中理恵／ウォーリアーズ隊長:利田優子 <br><br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+    浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会 <br><br>so31885318←前話　第一話→so31882747
+  length_seconds: 1420
+  content_id: so31885319
+  default_thread_id: 1504801926
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885319
+cast: "[キャスト]<br>甲子園利緒:豊口めぐみ／神宮真弥:釘宮理恵／リリカ・エベット:能登麻美子／鳴尾祐司:高橋広樹／多摩川 祭:田中理恵／ウォーリアーズ隊長:利田優子"
+staff: "[スタッフ]<br>原作:AIC／監督:林 宏樹／シリーズ構成・脚本:植竹須美男／脚本:花田十輝／キャラクターデザイン:村田俊治／総作画監督:石本英治／メカニックデザイン:小川
+  浩/村田護郎/岩畑剛一／美術監督:小山俊久／音楽:信田かずお／アニメーション制作:AIC／製作:BURN-UP SCRAMBLE製作委員会"
+produced_year: "[製作年]<br>2004年"
+copyright: "(C)2004 AIC/B-SCRAMBLE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BURN-UP EXCESS バーンナップ エクセス
+- !ruby/hash:SeasonHash
+  title: BURN-UP W　バーンナップ ダブル
+- !ruby/hash:SeasonHash
+  title: BURN-UP　バーンナップ

@@ -1,0 +1,89 @@
+--- !ruby/hash:SeasonHash
+title: デジモンアドベンチャー　ぼくらのウォーゲーム
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/59/9/20599_1_6.png?1453771534000
+outline: デジタルワールドでの冒険から太一たちが帰ってきて半年後、あの冒険が信じられないほど穏やかな日々を太一たちは送っていた。ところがある日、インターネット上で不気味なタマゴが誕生し、凶悪なデジモンへと進化し、インターネットを通じて世界中を混乱に陥れた！ネットの中で暴れまくる邪悪なデジモンに、究極体・ウォーグレイモンと究極体・メタルガルルモンの合体デジモンが立ち向かう！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 水谷優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田淑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒木香恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西寛子
+  type: cast
+- !ruby/hash:TagHash
+  name: 風間勇刀
+  type: cast
+- !ruby/hash:TagHash
+  name: 天神有海
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：有澤孝紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：本郷あきよし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：細田守
+  type: staff
+- !ruby/hash:TagHash
+  name: デジモンアドベンチャーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：和田光司
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: デジモンアドベンチャー　ぼくらのウォーゲーム
+  description: デジタルワールドでの冒険から太一たちが帰ってきて半年後、あの冒険が信じられないほど穏やかな日々を太一たちは送っていた。ところがある日、インターネット上で不気味なタマゴが誕生し、凶悪なデジモンへと進化し、インターネットを通じて世界中を混乱に陥れた！ネットの中で暴れまくる邪悪なデジモンに、究極体・ウォーグレイモンと究極体・メタルガルルモンの合体デジモンが立ち向かう！<br><br>八神太一:藤田淑子／アグモン:坂本千夏／泉光子郎:天神有海／武之内空:水谷優子／石田ヤマト:風間勇刀／高石タケル:小西寛子／八神ヒカリ:荒木香恵／太刀川ミミ:前田愛／城戸丈:菊池正美<br><br>原案:本郷あきよし／監督:細田守／脚本:吉田玲子／音楽:有澤孝紀／主題歌:｢Butter-Fly｣和田光司
+  length_seconds: 2457
+  content_id: so32637469
+  default_thread_id: 1516865923
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32637469
+cast: "[キャスト]<br>八神太一:藤田淑子／アグモン:坂本千夏／泉光子郎:天神有海／武之内空:水谷優子／石田ヤマト:風間勇刀／高石タケル:小西寛子／八神ヒカリ:荒木香恵／太刀川ミミ:前田愛／城戸丈:菊池正美"
+staff: "[スタッフ]<br>原案:本郷あきよし／監督:細田守／脚本:吉田玲子／音楽:有澤孝紀／主題歌:｢Butter-Fly｣和田光司"
+produced_year: "[製作年]<br>2000年"
+copyright: "©本郷あきよし・東映アニメーション　©東映・東映アニメーション・集英社・フジテレビ・バンダイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02
+- !ruby/hash:SeasonHash
+  title: 劇場版 デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 前編 デジモンハリケーン上陸！！ 後編 超絶進化！！黄金のデジメンタル
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02 ディアボロモンの逆襲
+- !ruby/hash:SeasonHash
+  title: デジモンテイマーズ 冒険者たちの戦い
+- !ruby/hash:SeasonHash
+  title: デジモンテイマーズ 暴走デジモン特急
+- !ruby/hash:SeasonHash
+  title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
+- !ruby/hash:SeasonHash
+  title: デジモンユニバース アプリモンスターズ
+- !ruby/hash:SeasonHash
+  title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～

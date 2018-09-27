@@ -1,0 +1,146 @@
+--- !ruby/hash:SeasonHash
+title: 灼眼のシャナS(OVA)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/10/6/10106_1_6.png?1427216400000
+outline: 大人気ライトノベル原作｢灼眼のシャナ｣。TVシリーズも大ヒットし、劇場版も制作された今作が再始動。OVAシリーズでは本編では描かれなかったエピソードを収録。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺明乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島裕史
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林由美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤孝行
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡部高志
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大谷幸
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大塚舞
+  type: staff
+- !ruby/hash:TagHash
+  name: 灼眼のシャナシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 明田川仁
+  type: other
+- !ruby/hash:TagHash
+  name: 福世晋吾
+  type: other
+- !ruby/hash:TagHash
+  name: 小林靖子
+  type: other
+- !ruby/hash:TagHash
+  name: いとうのいぢ
+  type: other
+- !ruby/hash:TagHash
+  name: 伊藤由紀子
+  type: other
+- !ruby/hash:TagHash
+  name: 廣瀬義憲
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢リシャッフル｣"
+  description: 紅世の王、フリアグネが遺した宝具を探しに廃デパートを訪れたシャナと悠二。膨大な玩具の中から宝具を探す二人だが、悠二が偶然手にした望遠鏡が実は宝具だった!?お互いの中身が入れ替わってしまったシャナと悠二は無事に元に戻れるのか!?<br><br>シャナ:釘宮理恵／坂井悠二:日野
+    聡／アラストール:江原正士／吉田一美:川澄綾子／マージョリー・ドー:生天目仁美／マルコシアス:岩田光央／ヴィルヘルミナ・カルメル:伊藤 静／ティアマトー:渡辺明乃／佐藤啓作:野島健児／田中栄太:近藤孝行／池速人:野島裕史／緒方真竹:小林由美子ほか<br><br>原作:高橋弥七郎(電撃文庫)／イラスト:いとうのいぢ／監督:渡部高志／シリーズ構成:小林靖子／シリーズ構成協力:高橋弥七郎／キャラクターデザイン:大塚
+    舞／色彩設定:伊藤由紀子／美術監督:廣瀬義憲／撮影監督:福世晋吾／音響監督:明田川 仁／音楽:大谷 幸／アニメーション制作:J.C.STAFF／製作:『灼眼のシャナS』製作委員会<br><br>次話→so31893149
+  length_seconds: 1466
+  content_id: so31893148
+  default_thread_id: 1504917165
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893148
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢ドミサイル｣"
+  description: 悠二とシャナが通じ合っていた頃、清秋祭を半月後に控えた御崎市。シャナの奇妙な行動を不審に思ったヴィルヘルミナが、悠二を帯同させ尾行を開始した。果たしてシャナが隠す秘密とは?<br><br>シャナ:釘宮理恵／坂井悠二:日野
+    聡／アラストール:江原正士／吉田一美:川澄綾子／マージョリー・ドー:生天目仁美／マルコシアス:岩田光央／ヴィルヘルミナ・カルメル:伊藤 静／ティアマトー:渡辺明乃／佐藤啓作:野島健児／田中栄太:近藤孝行／池速人:野島裕史／緒方真竹:小林由美子ほか<br><br>原作:高橋弥七郎(電撃文庫)／イラスト:いとうのいぢ／監督:渡部高志／シリーズ構成:小林靖子／シリーズ構成協力:高橋弥七郎／キャラクターデザイン:大塚
+    舞／色彩設定:伊藤由紀子／美術監督:廣瀬義憲／撮影監督:福世晋吾／音響監督:明田川 仁／音楽:大谷 幸／アニメーション制作:J.C.STAFF／製作:『灼眼のシャナS』製作委員会<br><br>so31893148←前話｜次話→so31893150　第一話→so31893148
+  length_seconds: 1749
+  content_id: so31893149
+  default_thread_id: 1504917717
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893149
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢オーバーチュア 前編｣"
+  description: 十年前に行方不明になった男性が突如発見された。その存在が“徒”に喰われていたと確信した少女ー『贄殿遮那のフレイムヘイズ』は、“徒”を討滅するため情報の発信地となった街へ訪れる。存在を喰われた人間がここまで目立つことはない。また、フレイムヘイズが駆け付けるのはわかっているのに、その“徒“はまだここに留まっている。それは何故か・・・・・・。人の繋がりの中で、彼女の探索が始まる。<br><br>シャナ:釘宮理恵／坂井悠二:日野
+    聡／アラストール:江原正士／吉田一美:川澄綾子／マージョリー・ドー:生天目仁美／マルコシアス:岩田光央／ヴィルヘルミナ・カルメル:伊藤 静／ティアマトー:渡辺明乃／佐藤啓作:野島健児／田中栄太:近藤孝行／池速人:野島裕史／緒方真竹:小林由美子ほか<br><br>原作:高橋弥七郎(電撃文庫)／イラスト:いとうのいぢ／監督:渡部高志／シリーズ構成:小林靖子／シリーズ構成協力:高橋弥七郎／キャラクターデザイン:大塚
+    舞／色彩設定:伊藤由紀子／美術監督:廣瀬義憲／撮影監督:福世晋吾／音響監督:明田川 仁／音楽:大谷 幸／アニメーション制作:J.C.STAFF／製作:『灼眼のシャナS』製作委員会<br><br>so31893149←前話｜次話→so31893151　第一話→so31893148
+  length_seconds: 1664
+  content_id: so31893150
+  default_thread_id: 1504917291
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893150
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢オーバーチュア 後編｣"
+  description: トーチとなった少女・大上準子の存在に割り込み、人を喰らった“徒”の痕跡を探していた『贄殿遮那のフレイムヘイズ』は、準子の記憶を辿る中、ついに“徒”の明確な痕跡を発見する。準子の存在だけを喰らい、同じ場所にいた濱口幸雄を見逃した“紅世の徒”ウコバクの欲望とは何か。そして、戦いの場でウコバクの周囲に浮かぶ無数のシャボン玉、その中に見る人影が意味する物とは……。<br><br>シャナ:釘宮理恵／坂井悠二:日野
+    聡／アラストール:江原正士／吉田一美:川澄綾子／マージョリー・ドー:生天目仁美／マルコシアス:岩田光央／ヴィルヘルミナ・カルメル:伊藤 静／ティアマトー:渡辺明乃／佐藤啓作:野島健児／田中栄太:近藤孝行／池速人:野島裕史／緒方真竹:小林由美子ほか<br><br>原作:高橋弥七郎(電撃文庫)／イラスト:いとうのいぢ／監督:渡部高志／シリーズ構成:小林靖子／シリーズ構成協力:高橋弥七郎／キャラクターデザイン:大塚
+    舞／色彩設定:伊藤由紀子／美術監督:廣瀬義憲／撮影監督:福世晋吾／音響監督:明田川 仁／音楽:大谷 幸／アニメーション制作:J.C.STAFF／製作:『灼眼のシャナS』製作委員会<br><br>so31893150←前話　第一話→so31893148
+  length_seconds: 1715
+  content_id: so31893151
+  default_thread_id: 1504917267
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31893151
+cast: "[キャスト]<br>シャナ:釘宮理恵／坂井悠二:日野 聡／アラストール:江原正士／吉田一美:川澄綾子／マージョリー・ドー:生天目仁美／マルコシアス:岩田光央／ヴィルヘルミナ・カルメル:伊藤
+  静／ティアマトー:渡辺明乃／佐藤啓作:野島健児／田中栄太:近藤孝行／池速人:野島裕史／緒方真竹:小林由美子ほか"
+staff: "[スタッフ]<br>原作:高橋弥七郎(電撃文庫)／イラスト:いとうのいぢ／監督:渡部高志／シリーズ構成:小林靖子／シリーズ構成協力:高橋弥七郎／キャラクターデザイン:大塚
+  舞／色彩設定:伊藤由紀子／美術監督:廣瀬義憲／撮影監督:福世晋吾／音響監督:明田川 仁／音楽:大谷 幸／アニメーション制作:J.C.STAFF／製作:『灼眼のシャナS』製作委員会"
+produced_year: "[製作年]<br>2009年"
+copyright: "(C)高橋弥七郎/いとうのいぢ/アスキー・メディアワークス/『灼眼のシャナS』製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 灼眼のシャナ
+- !ruby/hash:SeasonHash
+  title: 灼眼のシャナ SP｢恋と温泉の校外学習!｣
+- !ruby/hash:SeasonHash
+  title: 灼眼のシャナII(Second)
+- !ruby/hash:SeasonHash
+  title: 灼眼のシャナIII-FINAL-
+- !ruby/hash:SeasonHash
+  title: 劇場版「灼眼のシャナ」

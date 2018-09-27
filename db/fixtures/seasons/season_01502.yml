@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: ポンコツクエスト～魔王と派遣の魔物たち～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/57/9/20579_1_6.png?1526963415000
+outline: 魔王に仕えるポンコツな魔物｢カク｣と｢イムラ｣の、グダグダな日常を描いたコメディアニメ。魔王様に言われるがまま、さまざまな場所に派遣社員の様に飛ばされる二人。その度文句を言ったり、ケンカしたり…。RPGのようなファンタジーの世界で、現代人のようなグチをこぼす彼らは、果たして立派な魔物になれるのか！？監督脚本は｢ヤイヤイ森のコミー｣の松本慶祐。プロデュースは｢かよえ！チュー学｣などの会話劇アニメを得意とし、様々なキャラクターコンテンツを手がけるPie
+  in the sky。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ポンコツクエストシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一章～第六章
+  title: 第1シーズン前半
+  description: 第一章｢初陣｣／第二章｢招集｣／第三章｢対立｣／第四章｢会合｣／第五章｢武装｣／第六章｢決戦｣<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky) ／プロデュース:Pie in the sky／せいさく:VAP<br><br>次話→so31955429
+  length_seconds: 1372
+  content_id: so31955428
+  default_thread_id: 1505813000
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31955428
+- !ruby/hash:EpisodeHash
+  episode_no: 第七章～第十二章
+  title: 第1シーズン後半
+  description: 第七章｢助言｣／第八章｢聖剣｣／第九章｢魔女｣／第十章｢属性｣／第十一章｢指令｣／第十二章｢再戦｣<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky) ／プロデュース:Pie in the sky／せいさく:VAP<br><br>so31955428←前話｜次話→so31955430　第一話→so31955428
+  length_seconds: 1468
+  content_id: so31955429
+  default_thread_id: 1505813135
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31955429
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三章～第十八章
+  title: 第2シーズン前半
+  description: 第十三章｢敵軍｣／第十四章｢裏切り｣／第十五章｢模擬戦｣／第十六章｢誘惑｣／第十七章｢老人｣／第十八章｢罠｣<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky) ／プロデュース:Pie in the sky／せいさく:VAP<br><br>so31955429←前話｜次話→so31955431　第一話→so31955428
+  length_seconds: 1330
+  content_id: so31955430
+  default_thread_id: 1505812761
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31955430
+- !ruby/hash:EpisodeHash
+  episode_no: 第十九章～第二十四章
+  title: 第2シーズン後半
+  description: 第十九章｢怠惰｣／第二十章｢予想｣／第二十一章｢腐乱｣／第二十二章｢釣具屋｣／第二十三章｢進化｣／第二十四章｢消失｣<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky) ／プロデュース:Pie in the sky／せいさく:VAP<br><br>so31955430←前話　第一話→so31955428
+  length_seconds: 1454
+  content_id: so31955431
+  default_thread_id: 1505812457
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31955431
+staff: "[スタッフ]<br>かんとく・きゃくほん・せいゆう:まつもと けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky)
+  ／プロデュース:Pie in the sky／せいさく:VAP"
+produced_year: "[製作年]<br>2013年"
+copyright: "(C) VAP"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ポンコツクエスト～魔王と派遣の魔物たち～　シーズン4
+- !ruby/hash:SeasonHash
+  title: ポンコツクエスト～魔王と派遣の魔物たち～　シーズン3

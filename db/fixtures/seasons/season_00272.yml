@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: 風の大陸 The Weathering Continent
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/3/10013_1_6.png?1427216400000
+outline: アトランティス大陸を旅する左右の眼の色が違い、“世界の運命の鍵を握る者”魔術師ティーエ、男装の美少女ラクシ、屈強の自由戦士ボイスら3人の冒険者は、砂漠で盗賊に襲われたあわれな少女リファスの臨終に立ち会うことになる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 銀河万丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 高山みなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 屋良有作
+  type: cast
+- !ruby/hash:TagHash
+  name: 広中雅志
+  type: cast
+- !ruby/hash:TagHash
+  name: 江森浩子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：真下耕一
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大島ミチル
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：結城信輝
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：真下耕一
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：アイジータツノコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：竹河聖
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+- !ruby/hash:TagHash
+  name: IMAGICA
+  type: other
+- !ruby/hash:TagHash
+  name: 平田秀一
+  type: other
+- !ruby/hash:TagHash
+  name: 高橋明彦
+  type: other
+- !ruby/hash:TagHash
+  name: いのまたむつみ
+  type: other
+- !ruby/hash:TagHash
+  name: 黄瀬和哉
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 風の大陸 The Weathering Continent
+  description: アトランティス大陸を旅する左右の眼の色が違い、“世界の運命の鍵を握る者”魔術師ティーエ、男装の美少女ラクシ、屈強の自由戦士ボイスら3人の冒険者は、砂漠で盗賊に襲われたあわれな少女リファスの臨終に立ち会うことになる。<br><br>ティーエ:関
+    俊彦／ラクシ（アルン・アーダ）:高山みなみ／ボイス:屋良有作／アルン・ハラド:広中雅志／バルニ・リファス:江森浩子／ガテン・ラクム:銀河万丈<br><br>原作:竹河
+    聖／キャラクター原案:いのまたむつみ／キャラクターデザイン:結城信輝／作画監督:黄瀬和哉／美術監督:平田秀一／撮影監督:高橋明彦／音楽:大島ミチル／アニメーション制作:アイジータツノコ／製作委員会:角川書店,バンダイ,ビクター音楽産業,IMAGICA／監督・脚本・絵コンテ:真下耕一
+  length_seconds: 3265
+  content_id: so31889022
+  default_thread_id: 1504868874
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31889022
+cast: "[キャスト]<br>ティーエ:関 俊彦／ラクシ（アルン・アーダ）:高山みなみ／ボイス:屋良有作／アルン・ハラド:広中雅志／バルニ・リファス:江森浩子／ガテン・ラクム:銀河万丈"
+staff: "[スタッフ]<br>原作:竹河 聖／キャラクター原案:いのまたむつみ／キャラクターデザイン:結城信輝／作画監督:黄瀬和哉／美術監督:平田秀一／撮影監督:高橋明彦／音楽:大島ミチル／アニメーション制作:アイジータツノコ／製作委員会:角川書店,バンダイ,ビクター音楽産業,IMAGICA／監督・脚本・絵コンテ:真下耕一"
+produced_year: "[製作年]<br>1992年"
+copyright: "©1992 竹河聖／KADOKAWA・PLEX・フライングドッグ"
+related_seasons: !ruby/array:Hashie::Array []

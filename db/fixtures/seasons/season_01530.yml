@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: マジンガーＺ対デビルマン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/5/21925_1_6.png?1512981074000
+outline: 悪魔の超能力をもつといわれるデーモン族。Dr.ヘルは、地球征服の障害となっているマジンガーＺを倒すべく、テレパシー操作光線を使いデーモン族のザンニンと手を組んだ。一方兜甲児は、デビルマン・不動明に出会い、最初は反目しあうものの、共に戦うことを約束する。しかしデビルマンは機械獣&妖獣連合軍につかまってしまった。明に指摘された゛空からの攻撃に弱い゛という弱点を克服すべく開発された新兵器ジェットスクランダーを装備し救出へ向かうマジンガーZ。機械獣&妖獣連合軍との最後の戦いがはじまる！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 富田耕生
+  type: cast
+- !ruby/hash:TagHash
+  name: 石丸博也
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中亮一
+  type: cast
+- !ruby/hash:TagHash
+  name: 里見京子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺宙明
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ダイナミックプロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：三沢郷
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1973年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: マジンガーＺ対デビルマン
+  description: 悪魔の超能力をもつといわれるデーモン族。Dr.ヘルは、地球征服の障害となっているマジンガーＺを倒すべく、テレパシー操作光線を使いデーモン族のザンニンと手を組んだ。一方兜甲児は、デビルマン・不動明に出会い、最初は反目しあうものの、共に戦うことを約束する。しかしデビルマンは機械獣&amp;妖獣連合軍につかまってしまった。明に指摘された゛空からの攻撃に弱い゛という弱点を克服すべく開発された新兵器ジェットスクランダーを装備し救出へ向かうマジンガーZ。機械獣&amp;妖獣連合軍との最後の戦いがはじまる！<br><br>兜甲児:石丸博也／デビルマン＝不動明:田中亮一／ドクターヘル:富田耕生／魔将軍ザンニン:小林清志／妖鳥シレーヌ:里見京子<br><br>原作:永井豪とダイナミックプロ／製作:登石隻一／企画:有賀健、勝田稔男／脚本:高久進／音楽:渡辺宙明、三沢郷／美術監督:浦田又治／作画監督:角田紘一／演出:勝間田具治
+  length_seconds: 2576
+  content_id: so32487646
+  default_thread_id: 1514363992
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32487646
+cast: "[キャスト]<br>兜甲児:石丸博也／デビルマン＝不動明:田中亮一／ドクターヘル:富田耕生／魔将軍ザンニン:小林清志／妖鳥シレーヌ:里見京子"
+staff: "[スタッフ]<br>原作:永井豪とダイナミックプロ／製作:登石隻一／企画:有賀健、勝田稔男／脚本:高久進／音楽:渡辺宙明、三沢郷／美術監督:浦田又治／作画監督:角田紘一／演出:勝間田具治"
+produced_year: "[製作年]<br>1973年"
+copyright: "©ダイナミック企画・東映アニメーション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+- !ruby/hash:SeasonHash
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボＧ　空中大激突
+- !ruby/hash:SeasonHash
+  title: 宇宙円盤大戦争
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボ
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対暗黒大将軍

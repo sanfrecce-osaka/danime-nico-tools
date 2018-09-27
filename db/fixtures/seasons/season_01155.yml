@@ -1,0 +1,175 @@
+--- !ruby/hash:SeasonHash
+title: ハイスクール・フリート
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/89/4/20894_1_6.png?1460424626000
+outline: 今からおよそ100年前、プレートのずれにより、多くの国土を水没によって失った日本。国土保全のため、次々と築かれた水上都市はいつしか海上都市となり、それらを結ぶ航路の増大に伴い、海の安全を守る多くの人員が必要となっていった。それに伴い、女性職業の海上進出化も進み、海の安全を守る職業｢ブルーマーメイド｣が女生徒たちの憧れとなっていった。そんな時代、幼馴染の岬
+  明乃(みさき あけの)と知名もえか(ちな もえか)は、｢ブルーマーメイドになる｣という同じ目標を持つ仲間たちとともに、横須賀の海洋高校に入学する。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 種﨑敦美
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 古木のぞみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏川椎菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒瀬ゆうこ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：プロダクションアイムズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あっと
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：信田ユウ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中村直人
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：鈴木貴昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: 初航海でピンチ！
+  description: 多くの国土を水没によって失ってしまった日本。海上交通の発達により、海の安全を守る｢ブルーマーメイド｣がいつしか女生徒達の憧れの職業になっていった。そんな｢ブルーマーメイド｣に憧れ、海洋高校に入学した岬
+    明乃(みさきあけの)は陽炎型航洋直接教育艦｢晴風｣の艦長に任命され、早速初の海洋実習に出発したのだが・・・。<br><br>岬 明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床
+    鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>次話→so32597465
+  length_seconds: 1435
+  content_id: so32597455
+  default_thread_id: 1516172126
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597455
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: 追撃されてピンチ！
+  description: 初の海洋実習にて、反乱の汚名を着せられた晴風。無実を証明するために、横須賀に向かう晴風の前にドイツからの留学生艦｢アドミラルシュペー｣が現れる。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597455←前話｜次話→so32597464　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597465
+  default_thread_id: 1516171963
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597465
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: パジャマでピンチ！
+  description: 晴風は、海上安全委員会の広域通信を傍受する。その内容は、晴風が逸脱行為をしており、抵抗した場合は撃沈しても良いというものだった。そんな中、学校への帰路を急ぐ晴風に水中より忍び寄る影が…。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597465←前話｜次話→so32597463　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597464
+  default_thread_id: 1516172082
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597464
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: 乙女のピンチ！
+  description: ほかの艦との接触を避けるべく、横須賀へ急ぐ晴風。長引く航海によって日用品が不足し、明乃達はショッピングモール艦への買い出しを計画する。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597464←前話｜次話→so32597462　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597463
+  default_thread_id: 1516171957
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597463
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: 武蔵でピンチ！
+  description: 物資の補給や艦の修理が終わり、出港までそれぞれの時間を楽しむ晴風の乗員たち。全員が揃ったところでミーナの歓迎会をすることにしたが…。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597463←前話｜次話→so32597461　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597462
+  default_thread_id: 1516172084
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597462
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 機雷でピンチ！
+  description: 武蔵を発見したものの、何もできないまま戦線から離れる晴風。スキッパーで飛び出していった明乃が艦にもどると、艦の中では原因不明の電波障害が起こっていて…。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597462←前話｜次話→so32597460　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597461
+  default_thread_id: 1516172076
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597461
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 嵐でピンチ！
+  description: 砲雷科のメンバーが入浴中、突然シャワーの水が止まってしまう。貯水タンクの水が底をつきそうなため補給艦を待つ間、節水をして過ごすことに。そんな中、急に天候が変わり・・・。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597461←前話｜次話→so32597459　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597460
+  default_thread_id: 1516171961
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597460
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 比叡でピンチ！
+  description: 霧の中を航行中、行方不明になっていた「比叡」と遭遇した晴風。学校からの指示を受け、ブルーマーメイドが到着するまで比叡を追うことになったのだが…。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597460←前話｜次話→so32597458　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597459
+  default_thread_id: 1516172109
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597459
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: ミーナでピンチ！
+  description: 再び武蔵捜索を続けることにした晴風だったが、そこに正体不明大型艦の目撃情報が入る｡目標がミーナの乗っていた｢アドミラルシュペー｣だと判明し、救出に向かうことに｡<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597459←前話｜次話→so32597457　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597458
+  default_thread_id: 1516172112
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597458
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 赤道祭でハッピー！
+  description: 明石と間宮と合流し補修中の晴風。そんな中、麻侖は赤道を越えていたことを知り、祭りをすると言いだす。<br><br>岬 明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床
+    鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597458←前話｜次話→so32597456　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597457
+  default_thread_id: 1516172114
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597457
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: 大艦巨砲でピンチ！
+  description: ついに武蔵が発見された。ブルーマーメイドの作戦を補佐するために航行中だった晴風が、奇しくも武蔵に最も近い。追いついた平賀隊が武蔵の本土接近を阻止すべく作戦行動を展開するのだが……。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597457←前話｜次話→so32597466　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597456
+  default_thread_id: 1516172081
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597456
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: ラストバトルでピンチ！
+  description: 戦線から離脱するよう命令を受けていた晴風だったが、学校に作戦行動の許可を貰い、武蔵の足止めを図る。強力な武蔵に立ち向かう晴風だが……。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ<br><br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ<br><br>so32597456←前話　第一話→so32597455
+  length_seconds: 1435
+  content_id: so32597466
+  default_thread_id: 1516172106
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597466
+cast: "[キャスト]<br>岬 明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／西崎芽依:種﨑敦美／知床 鈴:久保ユリカ／納沙 幸子:黒瀬ゆうこ"
+staff: "[スタッフ]<br>原案:鈴木貴昭／シリーズ構成・脚本:吉田玲子／キャラクター原案:あっと／監督:信田ユウ／キャラクターデザイン・総作画監督:中村直人／色彩設計:池田ひとみ／背景:ヘッドワークス／アニメーション制作:プロダクションアイムズ／CGグラフィック制作・撮影・編集:グラフィニカ"
+produced_year: "[製作年]<br>2016年"
+copyright: "©AIS／海上安全整備局"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: OVA ハイスクール・フリート

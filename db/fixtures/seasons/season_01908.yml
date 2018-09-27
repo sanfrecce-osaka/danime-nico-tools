@@ -1,0 +1,29 @@
+--- !ruby/hash:SeasonHash
+title: アタゴオルは猫の森
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/1/10411_1_6.png?1427216400000
+outline: アタゴオルのトラブルメイカー、ヒデヨシは、ある日、親友のテンプラ(内田朝陽)やツキミ姫の制止を振り切り、封印された謎の箱を開けてしまう。中から現れたのは、何千年もの眠りから覚めた植物の女王ピレア。ピレアは美しい歌声でアタゴオルの住人をたちまちとりこにするが……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：西久保瑞穂
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: アタゴオルは猫の森
+  description: アタゴオルのトラブルメイカー、ヒデヨシは、ある日、親友のテンプラ(内田朝陽)やツキミ姫の制止を振り切り、封印された謎の箱を開けてしまう。中から現れたのは、何千年もの眠りから覚めた植物の女王ピレア。ピレアは美しい歌声でアタゴオルの住人をたちまちとりこにするが……。<br><br>監督:西久保瑞穂<br><br>(C)2006ますむらひろし・メディアファクトリー/アタゴオルフィルムパートナーズ
+  length_seconds: 4830
+  content_id: so33623803
+  default_thread_id: 1533194227
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33623803
+staff: "[スタッフ]<br>監督:西久保瑞穂"
+produced_year: "[製作年]<br>2006年"
+copyright: "(C)2006ますむらひろし・メディアファクトリー/アタゴオルフィルムパートナーズ"
+related_seasons: !ruby/array:Hashie::Array []

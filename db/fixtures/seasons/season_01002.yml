@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: OVA 『ToHeart2 adnext』
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/5/10145_1_6.png?1427216400000
+outline: アクアプラスの大人気ゲーム｢ToHeart2｣のOVA新シリーズが待望のスタート!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桂憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：カオスプロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤やすひさ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：柳沢まさひで
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：みつみ美里
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：カワタヒサシ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：甘露樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：なかむらたけし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：坂田純一
+  type: staff
+- !ruby/hash:TagHash
+  name: ToHeartシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: ファーストネイム
+  description: 放課後、図書室の書庫整理をする愛佳と貴明。異性への苦手意識を克服するために協力し合おうと、書庫の中ではお互いを名前で呼びあう“練習”を続けるのだが貴明を必要以上に意識してしまう愛佳は、2人きりの空間でドギマギしっぱなし。妄想もどんどん膨らみ、思わぬ失敗やアクシデントが加わって一喜一憂するのだった。そんなある日、2人が“練習”しているところを雄二に目撃され、クラスでその話題を切り出されてしまう……。<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里,カワタヒサシ,甘露
+    樹,なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+    Works／オープニングテーマ:｢トキメキ｣歌：上原れな／エンディングテーマ:｢旅立ち｣歌：上原れな<br><br>次話→so32230814
+  length_seconds: 1722
+  content_id: so32230776
+  default_thread_id: 1510023055
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230776
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: Trash Basket Memory
+  description: "｢今日こそ決着をつけるわよ!草壁優季!｣最近、河野はるみと草壁優季が勝負事に勤しんでいる。やる気満々のはるみに対し、勝負に付き合う羽目になった優季と判定役の貴明は少々うんざりなご様子。貴明に強い想いを寄せるはるみは、かつて優季が貴明から“河野”の姓をもらっているということに過剰なライバル心を燃やしていたのだった。<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里,カワタヒサシ,甘露
+    樹,なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+    Works／オープニングテーマ:｢トキメキ｣歌：上原れな／エンディングテーマ:｢旅立ち｣歌：上原れな<br><br>so32230776←前話　第一話→so32230776"
+  length_seconds: 1679
+  content_id: so32230814
+  default_thread_id: 1510023421
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230814
+staff: "[スタッフ]<br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里,カワタヒサシ,甘露
+  樹,なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2Vad
+  Works／オープニングテーマ:｢トキメキ｣歌：上原れな／エンディングテーマ:｢旅立ち｣歌：上原れな"
+produced_year: "[製作年]<br>2010年"
+copyright: "©2010 AQUAPLUS/TH2Vad Works"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ToHeart
+- !ruby/hash:SeasonHash
+  title: ToHeart Remember my memories
+- !ruby/hash:SeasonHash
+  title: ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ad』
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adplus』
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ダンジョントラベラーズ』

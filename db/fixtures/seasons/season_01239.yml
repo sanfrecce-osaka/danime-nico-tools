@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: BAR 嫌われ野菜
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/26/9/20269_1_6.png?1437628634000
+outline: "「とにかく臭いがダメ」「食べることすら躊躇われる」「子どもに嫌われる」などの悩みを抱えた野菜キャラクターが店を訪れ、同じ悩みを持つ仲間と語り合い、明日を前向きに生きるために杯を交わすショートアニメーション。静岡限定地上波放送のアニメがdアニメストアで配信！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤孝行
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田玲奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中誠人
+  type: cast
+- !ruby/hash:TagHash
+  name: 道井悠
+  type: cast
+- !ruby/hash:TagHash
+  name: 村上裕哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 富城まどか
+  type: cast
+- !ruby/hash:TagHash
+  name: S!N
+  type: cast
+- !ruby/hash:TagHash
+  name: その辺にいた男性
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：まんきゅう
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ギャザリング
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：まんきゅう
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：キムラダイスケ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA
+  type: other
+- !ruby/hash:TagHash
+  name: 成田耕祐
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#13"
+  title: 嫌われがちな私／ナス様ご来店／ゴーヤ様ご来店／トマト様ご来店／野菜アイドルとは／トマトちゃんと中年野菜／私の休日／禁じられた遊び／トマトちゃんの素顔／初恋ニコラシカ／アメリカ生まれのスゲー奴／ナスとマスター／貴方に会えて良かった
+  description: "#1：ここは「嫌われがちな野菜」が集まる会員制のBAR――。／#2：色や食感のせいで嫌われがちのナス様がご来店。／#3：自称シンガーソングライター・セロリ様が歌っていたところに……。／#4：野菜アイドルのトマト様が何故か場末のBARにいらっしゃいました。／#5：「いえーい☆」が口癖のトマト様のキャラ作りを苦々しく思うパセリ様が因縁をつけました。／#6：若きアイドルと中年キモ（以下略）男性による甘いひととき……。／#7：女子力が低い休日を過ごしているのではと悩んでいるパセリ様が……。／#8：草野球で活躍したセロリ様とゴーヤ様が誰得展開に突入しました。／#9：今宵、貴方は見てはいけないものを見ることになります――。／#10：甘酸っぱい思い出と、苦いアルコールが交じり合う――。それはまさに「青春」と「今」のハーモニー。／#11：ブロッコリースーパースプラウト様がご来店。脇が〇〇〇〇。／#12：大人の男性同士による渋き夜。衝撃の結末に激震が走る！／#13：同じ悩みを持つ者が集う空間――それが『BAR
+    嫌われ野菜』。<br><br>セロリ:田中誠人／パセリ:道井 悠／ナス:藤原啓治／ゴーヤ:村上裕哉／トマト:前田玲奈／マスター（声）:近藤孝行／キムラビ:富城まどか／ブロッコリースーパースプラウト:S!N／マスター（実写）:その辺にいた男性<br><br>原著作:KADOKAWA／監督・脚本:まんきゅう／キャラクターデザイン:キムラダイスケ／シナリオ原案:為三・成田耕祐／音響監督:藤原啓治／音響制作:AIR
+    AGENCY／メインテーマ曲:「もぎたて☆カプレーゼ」（作詞：成田耕祐　作曲：スズム）／エンディング曲:「パスタソースでもいいから」（作詞：成田耕祐　作曲：Left-Movers）／楽曲監修:スズム／アニメーション制作:ギャザリング／製作:静岡朝日テレビ／KADOKAWA"
+  length_seconds: 1183
+  content_id: so31960760
+  default_thread_id: 1505897827
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31960760
+cast: "[キャスト]<br>セロリ:田中誠人／パセリ:道井 悠／ナス:藤原啓治／ゴーヤ:村上裕哉／トマト:前田玲奈／マスター（声）:近藤孝行／キムラビ:富城まどか／ブロッコリースーパースプラウト:S!N／マスター（実写）:その辺にいた男性"
+staff: "[スタッフ]<br>原著作:KADOKAWA／監督・脚本:まんきゅう／キャラクターデザイン:キムラダイスケ／シナリオ原案:為三・成田耕祐／音響監督:藤原啓治／音響制作:AIR
+  AGENCY／メインテーマ曲:「もぎたて☆カプレーゼ」（作詞：成田耕祐　作曲：スズム）／エンディング曲:「パスタソースでもいいから」（作詞：成田耕祐　作曲：Left-Movers）／楽曲監修:スズム／アニメーション制作:ギャザリング／製作:静岡朝日テレビ／KADOKAWA"
+produced_year: "[製作年]<br>2015年"
+copyright: "©KADOKAWA CORPORATION 2014,2015／「BAR 嫌われ野菜」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

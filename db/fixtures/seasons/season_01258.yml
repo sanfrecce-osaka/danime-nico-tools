@@ -1,0 +1,76 @@
+--- !ruby/hash:SeasonHash
+title: えいがパンパカパンツ バナナン王国の秘宝
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/23/4/21234_1_6.png?1478055652000
+outline: LINEスタンプで驚異的な記録を残したアニメ｢パンパカパンツ｣。パンツの魅力に魅せられたブタのパンパカくんの愛らしいダンスで大人気になり、ついに映画になった！商店街の福引でお父さんがハワイ旅行を引き当て、初めての海外旅行に大興奮のパンパカくん一家。しかし空港で迷子になり、別の飛行機に乗ってたどり着いたのは不思議な国｢バナナン王国｣！王様に『伝説のパンツの勇者』に間違われ、仲間と共に、バナナワニの野望に立ち向かう！バナナン王国の危機を救い、家族と再会できるのか！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田燿司
+  type: cast
+- !ruby/hash:TagHash
+  name: 水原薫
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋伸也
+  type: cast
+- !ruby/hash:TagHash
+  name: 下山吉光
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤はな
+  type: cast
+- !ruby/hash:TagHash
+  name: 小島英樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 向井慧
+  type: cast
+- !ruby/hash:TagHash
+  name: 尾形貴弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅良太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：DLE
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：べんぴねこ
+  type: staff
+- !ruby/hash:TagHash
+  name: パンパカパンツシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: えいがパンパカパンツ バナナン王国の秘宝
+  description: LINEスタンプで驚異的な記録を残したアニメ｢パンパカパンツ｣。パンツの魅力に魅せられたブタのパンパカくんの愛らしいダンスで大人気になり、ついに映画になった！商店街の福引でお父さんがハワイ旅行を引き当て、初めての海外旅行に大興奮のパンパカくん一家。しかし空港で迷子になり、別の飛行機に乗ってたどり着いたのは不思議な国｢バナナン王国｣！王様に『伝説のパンツの勇者』に間違われ、仲間と共に、バナナワニの野望に立ち向かう！バナナン王国の危機を救い、家族と再会できるのか！？<br><br>パンパカ:南條愛乃／プーニャン:水原薫／おとうさん:下山吉光／おかあさん:水原薫／おじいちゃん
+    / バナナワニ:上田燿司／おばあちゃん:佐藤はな／ワンポコ:高橋伸也／オーソン:小島英樹／黄金のバナナ:向井慧／勝負パンツ:尾形貴弘／カニ:菅良太郎<br><br>監督:べんぴねこ／脚本:べんぴねこ、石塚和美／作画監督:山脇光太郎／キャラクター原案:やたてきょう／キャラクターデザイン:内山
+    翠／制作:DLE／製作:えいがパンパカパンツ製作委員会
+  length_seconds: 3790
+  content_id: so32245004
+  default_thread_id: 1510284565
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245004
+cast: "[キャスト]<br>パンパカ:南條愛乃／プーニャン:水原薫／おとうさん:下山吉光／おかあさん:水原薫／おじいちゃん / バナナワニ:上田燿司／おばあちゃん:佐藤はな／ワンポコ:高橋伸也／オーソン:小島英樹／黄金のバナナ:向井慧／勝負パンツ:尾形貴弘／カニ:菅良太郎"
+staff: "[スタッフ]<br>監督:べんぴねこ／脚本:べんぴねこ、石塚和美／作画監督:山脇光太郎／キャラクター原案:やたてきょう／キャラクターデザイン:内山
+  翠／制作:DLE／製作:えいがパンパカパンツ製作委員会"
+produced_year: "[製作年]<br>2014年"
+copyright: "©PMP2014"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: パンパカパンツ　WおＮＥＷ！
+- !ruby/hash:SeasonHash
+  title: パンパカパンツ　おNEW！

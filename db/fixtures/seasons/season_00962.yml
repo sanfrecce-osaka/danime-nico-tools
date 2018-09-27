@@ -1,0 +1,112 @@
+--- !ruby/hash:SeasonHash
+title: Di Gi Charat 星の旅
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/3/10023_1_6.png?1427216400000
+outline: 人気アニメ｢Di Gi Charat｣シリーズの劇場版。ゲマやぷちことともに、久々にデ・ジ・キャラット星へと帰ることになったでじこ。だが、その途中、ぴよこの部下たちがでじこに襲いかかる。なんとか、それを振り切り、でじこはやっとの思いでデ・ジ・キャラット星に降り立つ。そこで、彼女を待つものとは?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 南央美
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 一条和矢
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木千尋
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢部雅史
+  type: cast
+- !ruby/hash:TagHash
+  name: 氷上恭子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：池田眞美子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：桜井弘明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：キングレコード
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山川吉樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 松村正宏
+  type: other
+- !ruby/hash:TagHash
+  name: たなかかずや
+  type: other
+- !ruby/hash:TagHash
+  name: 丸山正雄
+  type: other
+- !ruby/hash:TagHash
+  name: 森下成一
+  type: other
+- !ruby/hash:TagHash
+  name: 木谷高明
+  type: other
+- !ruby/hash:TagHash
+  name: 角川歴彦
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 劇場版
+  title: Di Gi Charat 星の旅
+  description: '人気アニメ｢Di Gi Charat｣シリーズの劇場版。ゲマやぷちことともに、久々にデ・ジ・キャラット星へと帰ることになったでじこ。だが、その途中、ぴよこの部下たちがでじこに襲いかかる。なんとか、それを振り切り、でじこはやっとの思いでデ・ジ・キャラット星に降り立つ。そこで、彼女を待つものとは?<br><br>デ・ジ・キャラット:真田アサミ／プチ・キャラット:沢城みゆき／ラ・ビ・アン・ローズ:氷上恭子／ピョコラ=アナローグIII世:林原めぐみ／ゲマ:亀井芳子／リク=ハイゼンベルク:鳥海浩輔／カイ=シュヴァイツァー:鈴木千尋／クウ=エアハルト:サエキトモ／ロッド・ヤング:西村ちなみ／暴れん坊:上田祐司／店長:一条和矢／木村拓郎:置鮎龍太郎／皆川拓郎:南
+    央美／武:内藤 玲／喜美:森 訓久／ブラックゲマゲマ団団員:矢部雅史／デ・ジ・キャラットママ:日高のり子／デ・ジ・キャラットパパ: 藤田和之<br><br>企画:ブロッコリー,角川書店／キャラクター原案:コゲどんぼ／原作:｢Di
+    Gi Charat｣(ブロッコリー)／エグゼクティブプロデューサー:木谷高明,角川歴彦,丸山正雄／脚本:池田眞美子／監督:桜井弘明／キャラクターデザイン・総作画監督:山川吉樹／美術監督:二嶋隆文／色彩設定:やまもとともこ／撮影監督:黒澤
+    豊,森下成一／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／音楽制作:キングレコード／音響制作:ダックスインターナショナル／音響制作:平田 哲,大室正勝／アニメーション制作:マッドハウス／製作:Di
+    Gi Charat THE Movie 製作委員会'
+  length_seconds: 1325
+  content_id: so31890013
+  default_thread_id: 1504875936
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31890013
+cast: "[キャスト]<br>デ・ジ・キャラット:真田アサミ／プチ・キャラット:沢城みゆき／ラ・ビ・アン・ローズ:氷上恭子／ピョコラ=アナローグIII世:林原めぐみ／ゲマ:亀井芳子／リク=ハイゼンベルク:鳥海浩輔／カイ=シュヴァイツァー:鈴木千尋／クウ=エアハルト:サエキトモ／ロッド・ヤング:西村ちなみ／暴れん坊:上田祐司／店長:一条和矢／木村拓郎:置鮎龍太郎／皆川拓郎:南
+  央美／武:内藤 玲／喜美:森 訓久／ブラックゲマゲマ団団員:矢部雅史／デ・ジ・キャラットママ:日高のり子／デ・ジ・キャラットパパ: 藤田和之"
+staff: "[スタッフ]<br>企画:ブロッコリー,角川書店／キャラクター原案:コゲどんぼ／原作:｢Di Gi Charat｣(ブロッコリー)／エグゼクティブプロデューサー:木谷高明,角川歴彦,丸山正雄／脚本:池田眞美子／監督:桜井弘明／キャラクターデザイン・総作画監督:山川吉樹／美術監督:二嶋隆文／色彩設定:やまもとともこ／撮影監督:黒澤
+  豊,森下成一／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／音楽制作:キングレコード／音響制作:ダックスインターナショナル／音響制作:平田 哲,大室正勝／アニメーション制作:マッドハウス／製作:Di
+  Gi Charat THE Movie 製作委員会"
+produced_year: "[製作年]<br>2001年"
+copyright: "(C)2001 ブロッコリー/Di Gi Charat THE Movie 製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

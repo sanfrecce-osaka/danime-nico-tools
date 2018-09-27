@@ -1,0 +1,116 @@
+--- !ruby/hash:SeasonHash
+title: OVA 『うたわれるもの』
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/2/10142_1_6.png?1427216400000
+outline: シミュレーションRPGとして発表され、その独創的な世界観と骨太なストーリー、豊かなキャラクター性でアニメ、ラジオでも大展開した『うたわれるもの』がOVAで待望の大復活!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山力也
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺明乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中敦子
+  type: cast
+- !ruby/hash:TagHash
+  name: 柚木涼香
+  type: cast
+- !ruby/hash:TagHash
+  name: 桐井大介
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山剛志
+  type: cast
+- !ruby/hash:TagHash
+  name: 三宅華也
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桂憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：カオスプロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：桂憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: うたわれるものシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: AQUAPLUS
+  type: other
+- !ruby/hash:TagHash
+  name: 甘露樹
+  type: other
+- !ruby/hash:TagHash
+  name: 上原れな
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '1'
+  title: "｢望楼の子守唄｣"
+  description: トゥスクル國では、今日も穏やかに時間が流れている。やわらかい風に乗り、遠くから聞こえてくるのは城内を駆ける少女達の足音と、兵士達の訓練の掛け声。そして、赤子の泣き声と子守唄・・・。数日前、城の外へ出掛けたハクオロとウルトリィは、街で赤ん坊を保護することになった。フミルィルと名づけられたその子の身元調査を進める間、城の者達で世話をしているのだ。その中に、とりわけ母親のように世話をするウルトリィがいた。<br><br>ハクオロ:小山力也／エルルゥ:柚木涼香／アルルゥ:沢城みゆき／ウルトリィ:大原さやか／カミュ:釘宮理恵／カルラ:田中敦子／トウカ:三宅華也／オボロ:桐井大介／ユズハ:中原麻衣／ドリィ/グラァ:渡辺明乃／ベナウィ:浪川大輔／クロウ:小山剛志<br><br>原作:AQUAPLUS／監督:桂
+    憲一郎／オリジナルキャラクターデザイン:甘露 樹／シナリオ監修:菅 宗光／アニメーションキャラクターデザイン:桂 憲一郎／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:OVA
+    うたわれるもの製作委員会／オープニングテーマ:｢adamant faith｣Suara／エンディングテーマ:｢夢のつづき｣上原れな<br><br>次話→so31910595
+  length_seconds: 1765
+  content_id: so31910594
+  default_thread_id: 1505182406
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910594
+- !ruby/hash:EpisodeHash
+  episode_no: '2'
+  title: "｢秘恋の処方箋｣"
+  description: それは、一日の始まりを待つトゥスクル城内。空が明るさを持ち始めた頃。人気のない倉庫から不思議な光を見たエルルゥは、中を確認しようと恐る恐る覗き込んだ。エルルゥが見たのは、土下座をする不審な二人組みだった。一人の男と一匹のキママゥは、エルルゥに詰め寄ると転移の術法で彼女を連れ去ってしまうのだった・・・。<br><br>ハクオロ:小山力也／エルルゥ:柚木涼香／アルルゥ:沢城みゆき／ウルトリィ:大原さやか／カミュ:釘宮理恵／カルラ:田中敦子／トウカ:三宅華也／オボロ:桐井大介／ユズハ:中原麻衣／ドリィ/グラァ:渡辺明乃／ベナウィ:浪川大輔／クロウ:小山剛志<br><br>原作:AQUAPLUS／監督:桂
+    憲一郎／オリジナルキャラクターデザイン:甘露 樹／シナリオ監修:菅 宗光／アニメーションキャラクターデザイン:桂 憲一郎／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:OVA
+    うたわれるもの製作委員会／オープニングテーマ:｢adamant faith｣Suara／エンディングテーマ:｢夢のつづき｣上原れな<br><br>so31910594←前話｜次話→so31910655　第一話→so31910594
+  length_seconds: 1618
+  content_id: so31910595
+  default_thread_id: 1505182411
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910595
+- !ruby/hash:EpisodeHash
+  episode_no: '3'
+  title: "｢深山の鍔鳴｣"
+  description: ハクオロの冗談めいた話を真に受けたトウカは、川のヌシを釣り当てようと一念発起する。そして、ハクオロが政務に戻った後も釣りを続けるトウカの前、遂にヌシと思しき巨大な魚影が現れた。<br><br>ハクオロ:小山力也／エルルゥ:柚木涼香／アルルゥ:沢城みゆき／ウルトリィ:大原さやか／カミュ:釘宮理恵／カルラ:田中敦子／トウカ:三宅華也／オボロ:桐井大介／ユズハ:中原麻衣／ドリィ/グラァ:渡辺明乃／ベナウィ:浪川大輔／クロウ:小山剛志<br><br>原作:AQUAPLUS／監督:桂
+    憲一郎／オリジナルキャラクターデザイン:甘露 樹／シナリオ監修:菅 宗光／アニメーションキャラクターデザイン:桂 憲一郎／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:OVA
+    うたわれるもの製作委員会／オープニングテーマ:｢adamant faith｣Suara／エンディングテーマ:｢夢のつづき｣上原れな<br><br>so31910595←前話　第一話→so31910594
+  length_seconds: 1736
+  content_id: so31910655
+  default_thread_id: 1505184450
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31910655
+cast: "[キャスト]<br>ハクオロ:小山力也／エルルゥ:柚木涼香／アルルゥ:沢城みゆき／ウルトリィ:大原さやか／カミュ:釘宮理恵／カルラ:田中敦子／トウカ:三宅華也／オボロ:桐井大介／ユズハ:中原麻衣／ドリィ/グラァ:渡辺明乃／ベナウィ:浪川大輔／クロウ:小山剛志"
+staff: "[スタッフ]<br>原作:AQUAPLUS／監督:桂 憲一郎／オリジナルキャラクターデザイン:甘露 樹／シナリオ監修:菅 宗光／アニメーションキャラクターデザイン:桂
+  憲一郎／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:OVA うたわれるもの製作委員会／オープニングテーマ:｢adamant faith｣Suara／エンディングテーマ:｢夢のつづき｣上原れな"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C)2009 AQUAPLUS/OVA うたわれるもの製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: うたわれるもの　偽りの仮面
+- !ruby/hash:SeasonHash
+  title: うたわれるもの

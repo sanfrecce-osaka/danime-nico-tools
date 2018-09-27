@@ -1,0 +1,36 @@
+--- !ruby/hash:SeasonHash
+title: ネコべん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/4/10604_1_6.png?1427216400000
+outline: ネコの弁士が身近なものを面白おかしく解説しちゃいます!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 坂本頼光
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：武藤健司
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：武藤健司
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#6"
+  title: 富士山怒るの巻/惑星と準惑星の巻/電話の歴史/ドラ息子の巻/アニメーターって何?/略語を使おうの巻
+  description: 出演者:坂本頼光<br><br>監督・脚本:武藤健司
+  length_seconds: 366
+  content_id: so32036562
+  default_thread_id: 1507003348
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036562
+cast: "[キャスト]<br>出演者:坂本頼光"
+staff: "[スタッフ]<br>監督・脚本:武藤健司"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

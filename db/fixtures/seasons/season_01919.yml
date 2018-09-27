@@ -1,0 +1,187 @@
+--- !ruby/hash:SeasonHash
+title: ブレイドアンドソウル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/25/5/11255_1_6.png?1427216400000
+outline: その復讐は終わるのか―圧倒的な打撃感とスピード感が生み出す「舞闘」。武術と魂が織り成す千年世界で紡がれる「物語」。「リネージュ」で知られる、エヌシージャパンが贈る超大型オンラインRPG「ブレイドアンドソウル」、日本サービス開始と同時期にアニメ化！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山力也
+  type: cast
+- !ruby/hash:TagHash
+  name: 高垣彩陽
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: チョー
+  type: cast
+- !ruby/hash:TagHash
+  name: タカオユキ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：浜崎博嗣
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：竹内浩志
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 道
+  description: 帝国に追われるアルカは、逃走中に偶然出会ったコガに剣の腕を認められ、モシリの村に連れてこられる。村は天精の栽培に適していた為、帝国に乗っ取られようとしていた。アルカは用心棒として村長モリーに雇われ帝国軍と戦うことに。その頃、帝国の一兵団でジン・ヴァレル率いる｢墨華隊｣は師匠殺しの重罪人だとして、アルカの行方を探していた。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>次話→so33628111
+  length_seconds: 1449
+  content_id: so33628037
+  default_thread_id: 1533262866
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628037
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 欲
+  description: 歓楽街にはアルカの指名手配書が至るところに貼られている。アルカは街で賞金稼ぎのジン・ハズキと出会い、渡門旅館に連れて来られる。そこでこの旅館の女将エル・カレンと出会う。アルカが手配書の女だと気づいたカレンは、｢ここはひととき浮世を忘れる楽しい場所であり、あなたのことは誰にも喋らない｣と、アルカにここから出て行くことを進めるが……。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628037←前話｜次話→so33628154　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628111
+  default_thread_id: 1533264546
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628111
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 仇
+  description: 戦い続けるアルカとハズキ。そこへ娯楽党が現れアルカを連れ去る。娯楽党党首・ダン・ロアナは、アルカに仇はジンだと教え、復讐は｢掟｣はなく｢心｣でするべきだとアルカに説く。アルカを餌にジンを誘き寄せるロアナ。現れたジンに奇襲をかける娯楽党だったが、ジンの持つ濁気の力が彼らを襲う！<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628111←前話｜次話→so33628214　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628154
+  default_thread_id: 1533265326
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628154
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 剣
+  description: 繁華街でゴミ拾いの仕事をしながら、その日暮らしの生活をしているセトとピア。家では視力を失ったアルカの介護をしている。アルカは混濁した意識の中、ホン師匠の教えを思い出していた。そんなある日、追剥ぎに襲われたセトは図らずも彼らを殺してしまう。彼らが所持していた金品を売って大金を手にしたことで、セトの日常は一変して……。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628154←前話｜次話→so33628215　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628214
+  default_thread_id: 1533269541
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628214
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 花
+  description: 天精を強く憎む青年ショウはアルカを用心棒として雇い、村に天精栽培を止めるよう説得を試みる。しかし天精を栽培することでしか存続できない村はショウの説得を聞き入れない。思い通りに事が進まずいらだつショウは、ある計画の実行を決意するが・・・<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628214←前話｜次話→so33628216　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628215
+  default_thread_id: 1533269543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628215
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 夢
+  description: 反政府ゲリラに身を置く魔道師のユウは積極的な武力行動を嫌っていたが、他のメンバーはユウの意志とは無関係に帝国との戦闘に備えて殺気立っていた。一方ジン率いる墨華隊は、彼らを殲滅する為に陣営を構えていた。ユウは戦闘を止める為、ジンに直接訴えに行くが……。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628215←前話｜次話→so33628217　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628216
+  default_thread_id: 1533269533
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628216
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 時
+  description: モリーと再会したアルカは、心に傷を持ったもの達が集まる海辺の家に導かれる。そこでモリーは不気味に感じられるほどに微笑みを絶やさず丁寧な口調で語りかける人々と生活をしていたが、その雰囲気は以前とはどこか異なっていた。モリーが母と慕う女性ミラは、アルカに心安らかになるための｢儀式｣を施したいと申し出るが・・・<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628216←前話｜次話→so33628252　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628217
+  default_thread_id: 1533269535
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628217
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 空
+  description: アルカの前に濁気に冒されたユウが現れる。｢ホン師匠はどこだ｣とアルカを問い質すユウだが、空腹のためにそのまま倒れてしまう。倒れたユウを新娯楽党アジトにまで連れて行き、看病をするアルカ。ユウと話すうち、アルカの中でホン師匠の教えが少しずつわかっていき……。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628217←前話｜次話→so33628253　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628252
+  default_thread_id: 1533269537
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628252
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 月
+  description: 目的を失ったアルカは、カレンの誘いで渡門旅館で働くことにする。旅館の仕事を教え、いろいろと気遣ってくれるミハルと次第に仲良くなっていくアルカ。人間らしい感情が少しずつ芽生え始めていた彼女は、今までの暗殺者の生き方とはまったく違う世界があることを知る。しかしそんなアルカの安息の日々は、意外な人物によって打ち砕かれるのだった。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628252←前話｜次話→so33628254　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628253
+  default_thread_id: 1533269531
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628253
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 罪
+  description: カレンによって心に深い傷を負ったアルカは、ビードロ職人のハヤテと妻ハナに出会う。明朗快活で気っ風がいいハナの人柄に元気付けられるアルカ。そんな姿をハヤテとハナは死んでしまった2人の子供と重ね合わせるが…。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628253←前話｜次話→so33628157　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628254
+  default_thread_id: 1533269545
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628254
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 罰
+  description: 今まで何の意味も感じていなかった人々の言葉が脳裏をよぎり、苦悩するアルカはいつの間にか生まれ育った剱一族の村に戻ってきていた。アルカを探すカレン、ハズキ、ロアナは剱一族の村に向かうが、ジン・ヴァレルの影もすぐそこまで近付いていた。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628254←前話｜次話→so33628156　第一話→so33628037
+  length_seconds: 1450
+  content_id: so33628157
+  default_thread_id: 1533265265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628157
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 魂
+  description: 再びアルカ達の前に立ちふさがるジン・ヴァレル。戦えなくなったアルカを守るため、カレン、ハズキ、ロアナはジンと対峙するが歯が立たない。すべてに決着をつける為、アルカは最後の戦いに挑む決意をする。いつ果てるとも続く戦い。ついにジンの放った渾身の濁気がアルカを襲う…。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628157←前話｜次話→so33628117　第一話→so33628037
+  length_seconds: 1449
+  content_id: so33628156
+  default_thread_id: 1533265269
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628156
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 神
+  description: 大男との飲み比べに勝ったハズキは、この宝を手に入れたものには『永遠の美貌』が与えられるという宝の地図をもらう。カレンも宿泊客から得た地図をもとに、南海に浮かぶ孤島へ宝探しに来ていた。｢絶対偽物だよ!｣というピアに、｢宝探しの気分だけでも味わえればいいんじゃない｣というカレン。そして、そこへロアナもお宝を探しにやってきて……。<br><br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子<br><br>監督:竹内浩志・浜崎博嗣
+    (コンセプト設計)／制作会社:ＧＯＮＺＯ<br><br>(c) NCSOFT・Blade&amp;Soulアニメ製作委員会<br><br>so33628156←前話　第一話→so33628037
+  length_seconds: 1419
+  content_id: so33628117
+  default_thread_id: 1533264544
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33628117
+cast: "[キャスト]<br>出演者:タカオユキ,悠木碧,大原さやか,雨宮天,高垣彩陽,伊藤静,小山力也,井上麻里奈,チョー,白石涼子"
+staff: "[スタッフ]<br>監督:竹内浩志・浜崎博嗣 (コンセプト設計)／制作会社:ＧＯＮＺＯ"
+produced_year: "[製作年]<br>2014年"
+copyright: "(c) NCSOFT・Blade&Soulアニメ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

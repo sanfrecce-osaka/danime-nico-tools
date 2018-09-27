@@ -1,0 +1,144 @@
+--- !ruby/hash:SeasonHash
+title: 東のエデン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/18/5/11185_1_6.png?1427216400000
+outline: 2010年11月22日（月）。日本各地に10発のミサイルが落ちた。ひとりの犠牲者も出さなかった奇妙なテロ事件を、人々は「迂闊な月曜日」と呼び、すぐに忘れてしまった。それから３ヶ月。卒業旅行でアメリカに出かけた森美
+  咲（もりみ・さき）は、ホワイトハウスの前でトラブルに巻き込まれ、ひとりの日本人に窮地を救われる。滝沢 朗（たきざわ・あきら）。彼は記憶を失っており、一糸まとわぬ全裸の姿で、拳銃と、82億円もの電子マネーがチャージされた携帯電話を握りしめていた……。滝沢
+  朗とは何者なのか？謎の携帯電話の正体は？失われた、滝沢の記憶とは何だったのか？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神山健治
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：神山健治
+  type: staff
+- !ruby/hash:TagHash
+  name: 東のエデンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+- !ruby/hash:TagHash
+  name: 頭脳戦
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "『王子様を拾ったよ』"
+  description: ホワイトハウスへ卒業旅行に来た大学生の咲は、記憶を失った全裸の男・滝沢に危機を救われる。助けてもらったお礼に、滝沢に渡した咲の上着――。中には、パスポートが入っていた！　咲は滝沢を追ってワシントンの街を駆け回る。果たして無事に帰国できるのか？<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>次話→so32080661
+  length_seconds: 1379
+  content_id: so32080660
+  default_thread_id: 1507705293
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080660
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "『憂鬱な月曜日』"
+  description: 全裸男・滝沢と咲は日本に帰国する。ミサイル事件発生で空港は大混雑。そんな中、滝沢は電話一本で空港を出る。彼の携帯には80億円が入金してあり、残高の続く限り願いがかなう魔法の様な携帯電話だった！　同じ携帯を持つ刑事。彼は配信される履歴から滝沢を追う。刑事の携帯残高は7千円に減っていた……。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080660←前話｜次話→so32080662　第一話→so32080660
+  length_seconds: 1380
+  content_id: so32080661
+  default_thread_id: 1507705291
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080661
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "『レイトショーの夜に』"
+  description: 滝沢と咲が辿り着いたパスポートの住所にはシネコンに併設されたショッピングモールがあった。滝沢は施設のオーナーなのか!?　二人だけの夜を施設内のシネコンで明かそうとすると、刑事が侵入してくる。滝沢は咲を守るため、刑事と対峙する。そうとは知らず、咲は一人ぼっちで朝をむかえる。滝沢と刑事の戦いの行方は？<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080661←前話｜次話→so32080663　第一話→so32080660
+  length_seconds: 1379
+  content_id: so32080662
+  default_thread_id: 1507705321
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080662
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "『リアルな現実 虚構の現実』"
+  description: 咲の両親は他界。姉夫婦と同居していた。実家に戻った咲は、就職を前に現実と直面する。一方滝沢は、携帯履歴を追って医者のセレソンに会いに行く。面会を渋った挙句、医者は「飲めば携帯入手経緯を思い出せる」という薬を差し出す。薬を飲むと滝沢の携帯が鳴った――。「ごきげんよう、Mr.OUTSIDEだ」<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080662←前話｜次話→so32080664　第一話→so32080660
+  length_seconds: 1379
+  content_id: so32080663
+  default_thread_id: 1507705319
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080663
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "『今そんなこと考えてる場合じゃないのに』"
+  description: ノブレス携帯をどう使うべきか考えあぐねた滝沢は、使い途を咲に聞きに行く。一方、面談を控えた咲に、義理の兄は「本当にやりたいことが見つかるまで面倒を見てやる」と優しい言葉をかける。しかし咲にとって義兄の優しさはただ辛いだけだった。「これ以上迷惑はかけられない」咲は内定者面談に臨む。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080663←前話｜次話→so32080780　第一話→so32080660
+  length_seconds: 1378
+  content_id: so32080664
+  default_thread_id: 1507705325
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080664
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "『東のエデン』"
+  description: 画期的な携帯サイトを発明しながら起業を断念した大学サークル「東のエデン」。ワシントンでの経緯を聞き、滝沢に興味を持ったメンバーは滝沢のシネコンに向かう。しかしサークルの参謀・平澤は滝沢への不審を拭えず……。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080664←前話｜次話→so32080781　第一話→so32080660
+  length_seconds: 1379
+  content_id: so32080780
+  default_thread_id: 1507706075
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080780
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "『ブラックスワン舞う』"
+  description: 失踪した大杉。滝沢はノブレス携帯で大杉の居場所を突き止めるが、No.11のセレソンによって交通事故に巻き込まれてしまう。大杉捜索中に入った妨害。大杉はNo.11に捕まったらしい。しかもNo.11は、男性器を切り取る女連続殺人鬼だった！ノブレス携帯は犯罪者にも配られていたのだ。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080780←前話｜次話→so32080782　第一話→so32080660
+  length_seconds: 1380
+  content_id: so32080781
+  default_thread_id: 1507705702
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080781
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "『あらかじめ失われた道程をさがして』"
+  description: 滝沢は消去した携帯履歴と記憶を取り戻すべく、ノブレス携帯の解析を決意。通称「パンツ」こと板津豊というすご腕ハッカーのいる京都へ向かう。だが、かつて“神童”と恐れられたこの男、今は四畳半に引きこもって誰とも会わないという。滝沢は記憶の謎を解くため、板津を説得する。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080781←前話｜次話→so32080783　第一話→so32080660
+  length_seconds: 1379
+  content_id: so32080782
+  default_thread_id: 1507705737
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080782
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "『ハカナ過ギタ男』"
+  description: 滝沢の携帯を解析する板津。いよいよ滝沢の過去が明らかにされる。活動履歴によれば、セレソンNo-10は、この国に壊滅的な打撃を与える依頼を受理されていた。そんな中、板津のアパートの前には、セレソンNo-10と、No-01の姿があった……。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080782←前話｜次話→so32080784　第一話→so32080660
+  length_seconds: 1380
+  content_id: so32080783
+  default_thread_id: 1507705745
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080783
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "『誰が滝沢朗を殺したか』"
+  description: 滝沢への不安がつのり、電話をかける咲。滝沢は、記憶の謎とMr.OUTSIDEの秘密を知るセレソンNo.01/物部との会話を聞いて欲しいという。「もしそれで俺が犯罪者だったら、俺のことは忘れて……」滝沢と物部は、滝沢の記憶の手がかりである播磨学園都市に向かう。物部が明かす真実。咲は電話越しの会話に耳を傾ける。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080783←前話｜次話→so32080785　第一話→so32080660
+  length_seconds: 1380
+  content_id: so32080784
+  default_thread_id: 1507705951
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080784
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "『さらにつづく東』"
+  description: 豊洲のショッピングモールに帰還する、失踪中のニートたち。日本全国に降り注ぐ60発のミサイル。ミサイルのひとつは、豊洲にも落ちるという。はたして滝沢は、ミサイルを止めることができるのか？　この日本は、ミサイル攻撃から救うだけの楽園（エデン）たりえるのか。<br><br>滝沢朗:（木村良平）／森見咲:（早見沙織）<br><br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治<br><br>so32080784←前話　第一話→so32080660
+  length_seconds: 1375
+  content_id: so32080785
+  default_thread_id: 1507705724
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080785
+cast: "[キャスト]<br>滝沢朗:（木村良平）／森見咲:（早見沙織）"
+staff: "[スタッフ]<br>監督:神山健治／シナリオ（シリーズ構成）:神山健治／スタジオ:プロダクションIG／原作:神山健治"
+produced_year: "[製作年]<br>2009年"
+copyright: "（C）東のエデン製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 東のエデン 劇場版II Paradise Lost
+- !ruby/hash:SeasonHash
+  title: 東のエデン 劇場版I The King of Eden

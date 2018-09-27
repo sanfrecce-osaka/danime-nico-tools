@@ -1,0 +1,56 @@
+--- !ruby/hash:SeasonHash
+title: 難波金融伝ミナミの帝王 アニメバージョン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/26/9/10269_1_6.png?1427216400000
+outline: 偶然、ヤクザ相手に見事なキリトリを行う銀次郎を目撃した坂上竜一は思わずその場で弟子入りを志願する。竜一の初仕事は、ナニワ会幹部・鷲岡京三への取立てだった。他にシノギを知らない京三の借金は、今や莫大に膨れ上がっていた。結局、大事な義理場にも無一文で出向いた彼は、大勢の子分の前で恥をかく羽目・・・・・そんな京三の前に再び現れた銀次郎が、潜りのゲーム喫茶で銭儲けすることをアドバイス。だが、事業が軌道に乗り出したのもつかの間、会長の長門が鉄砲玉に殺られてしまう！知らせを受けた京三は、自らオヤジの仇をとりに向かったのだが・・・・
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺真由美
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：山本優
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：藤本義孝
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：郷力也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：天王寺大
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 闘う男たち
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1993年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 難波金融伝ミナミの帝王 アニメバージョン(1)
+  description: "【お知らせ：一部音声に乱れがございます。】偶然、ヤクザ相手に見事なキリトリを行う銀次郎を目撃した坂上竜一は思わずその場で弟子入りを志願する。竜一の初仕事は、ナニワ会幹部・鷲岡京三への取立てだった。他にシノギを知らない京三の借金は、今や莫大に膨れ上がっていた。結局、大事な義理場にも無一文で出向いた彼は、大勢の子分の前で恥をかく羽目・・・・・そんな京三の前に再び現れた銀次郎が、潜りのゲーム喫茶で銭儲けすることをアドバイス。だが、事業が軌道に乗り出したのもつかの間、会長の長門が鉄砲玉に殺られてしまう！知らせを受けた京三は、自らオヤジの仇をとりに向かったのだが・・・・<br><br>原作:天王寺
+    大/郷 力也(週間漫画ゴラク ｢ミナミの帝王｣より)／脚本:山本 優／監督・絵コンテ:藤本 義孝／キャラクターデザイン・作画監督:渡辺 真由美<br><br>次話→so31920465"
+  length_seconds: 2690
+  content_id: so31920466
+  default_thread_id: 1505328277
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920466
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 難波金融伝ミナミの帝王 アニメバージョン(2)
+  description: 不景気風が吹き荒れるこのご時勢。またひとつミナミに｢田沼鉄工所｣が登場した。だが、青くなったのは社長の田沼ではなく、多額の未払い金を手形で繋いでいた機械納入業者・柳田だった。銀次郎からその分を借金し、返済期限まで延ばしたというのに・・・・騙された事を知った柳田は、死んで償おうをするが、彼の話から、プロの整理屋の臭いを感じ取った銀次郎。｢こっちは取り立てのプロや！！！｣とばかりに、整理屋・源内に宣戦布告。源内が飲み込んだ田沼の銭を吐き出させる為、熾烈な頭脳合戦が勃発する！<br><br>原作:天王寺
+    大/郷 力也(週間漫画ゴラク ｢ミナミの帝王｣より)／脚本:山本 優／監督・絵コンテ:藤本 義孝／キャラクターデザイン・作画監督:渡辺 真由美<br><br>so31920466←前話　第一話→so31920466
+  length_seconds: 2664
+  content_id: so31920465
+  default_thread_id: 1505328158
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920465
+staff: "[スタッフ]<br>原作:天王寺 大/郷 力也(週間漫画ゴラク ｢ミナミの帝王｣より)／脚本:山本 優／監督・絵コンテ:藤本 義孝／キャラクターデザイン・作画監督:渡辺
+  真由美"
+produced_year: "[製作年]<br>1993年"
+copyright: "(C)１９９３日本文芸社/天王寺 大/郷 力也/Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

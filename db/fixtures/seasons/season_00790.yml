@@ -1,0 +1,80 @@
+--- !ruby/hash:SeasonHash
+title: 蒼穹のファフナー　RIGHT　OF　LEFT
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/54/3/11543_1_6.png?1427216400000
+outline: あの日、フェストゥムが竜宮島に突如飛来し、「あなたはそこにいますか・・・」と問いかけたあの日から、1年前。総士・一騎たちのⅠ学年上級生である、将陵僚たちが通う竜宮島中学校では、季節外れの卒業式が行われていた・・・。そう、それは彼らを待ち受ける運命の序章であった・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 甲斐田裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村亜希子
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜安浩平
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：スターチャイルドレコード
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平井久司
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鈴木利正
+  type: staff
+- !ruby/hash:TagHash
+  name: 蒼穹のファフナーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：angela
+  type: other
+- !ruby/hash:TagHash
+  name: 三間雅文
+  type: other
+- !ruby/hash:TagHash
+  name: 鷲尾直広
+  type: other
+- !ruby/hash:TagHash
+  name: 伊藤潤一
+  type: other
+- !ruby/hash:TagHash
+  name: 大月俊倫
+  type: other
+- !ruby/hash:TagHash
+  name: 小山俊久
+  type: other
+- !ruby/hash:TagHash
+  name: 関本美津子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 蒼穹のファフナー　RIGHT　OF　LEFT
+  description: あの日、フェストゥムが竜宮島に突如飛来し、「あなたはそこにいますか・・・」と問いかけたあの日から、1年前。総士・一騎たちのⅠ学年上級生である、将陵僚たちが通う竜宮島中学校では、季節外れの卒業式が行われていた・・・。そう、それは彼らを待ち受ける運命の序章であった・・・。<br><br>将陵僚:宮野真守／生駒祐未:甲斐田裕子／蔵前果林:木村亜希子／皆城総士:喜安浩平<br><br>原作:ＸＥＢＥＣ／企画:大月俊倫・下地志直／脚本:冲方丁／キャラクターデザイン:平井久司／メカ・プロップデザイン:鷲尾直広／絵コンテ:鈴木利正,菱川直樹,山岡信一,羽原信義／色彩設計:関本美津子／３D監督:本間潤樹／美術監督:小山俊久／撮影監督:広瀬勝利／編集:伊藤潤一／音響監督:三間雅文／音楽:斉藤恒芳／主題歌:angela／音楽制作:スターチャイルドレコード／プロデューサー:中西豪,千野孝敏,能戸隆／監督:羽原信義／製作:XEBEC・竜宮島役場
+  length_seconds: 3348
+  content_id: so32208299
+  default_thread_id: 1509689269
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32208299
+cast: "[キャスト]<br>将陵僚:宮野真守／生駒祐未:甲斐田裕子／蔵前果林:木村亜希子／皆城総士:喜安浩平"
+staff: "[スタッフ]<br>原作:ＸＥＢＥＣ／企画:大月俊倫・下地志直／脚本:冲方丁／キャラクターデザイン:平井久司／メカ・プロップデザイン:鷲尾直広／絵コンテ:鈴木利正,菱川直樹,山岡信一,羽原信義／色彩設計:関本美津子／３D監督:本間潤樹／美術監督:小山俊久／撮影監督:広瀬勝利／編集:伊藤潤一／音響監督:三間雅文／音楽:斉藤恒芳／主題歌:angela／音楽制作:スターチャイルドレコード／プロデューサー:中西豪,千野孝敏,能戸隆／監督:羽原信義／製作:XEBEC・竜宮島役場"
+produced_year: "[製作年]<br>2005年"
+copyright: "（c）XEBEC・PLAN L"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 蒼穹のファフナー
+- !ruby/hash:SeasonHash
+  title: 蒼穹のファフナー　HEAVEN AND EARTH
+- !ruby/hash:SeasonHash
+  title: 蒼穹のファフナー EXODUS
+- !ruby/hash:SeasonHash
+  title: 蒼穹のファフナー EXODUS “第２クール”

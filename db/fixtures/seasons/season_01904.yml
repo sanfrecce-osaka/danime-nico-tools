@@ -1,0 +1,112 @@
+--- !ruby/hash:SeasonHash
+title: 焼肉店センゴク
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/9/22269_1_6.png?1529978406000
+outline: 心優しいが極度に気が小さい主人公のモップが、近所の焼肉店「センゴク」で人生初のバイトを始める。個性豊かな仲間と共に奮闘しながら成長する、焼肉系ハートフルギャグ4コママンガ待望のアニメ化
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 立木文彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村知道
+  type: cast
+- !ruby/hash:TagHash
+  name: つぶやきシロー
+  type: cast
+- !ruby/hash:TagHash
+  name: 武田羅梨沙多胡
+  type: cast
+- !ruby/hash:TagHash
+  name: 嶺内ともみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 猪股慧士
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原侑
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊達忠智
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：覆面うさぎ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長井勝見
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡邊百香
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：清川進也
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオプラセボ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1皿目～3皿目
+  title: ようこそ焼肉店センゴクへ／嵐のあとには、龍が昇る／肉厚
+  description: '大学生の大山ソウジは近所にある「焼肉店センゴク」に人生初のアルバイトの面接へ来ていた。早速おかしな歓迎に遭遇し…？／ソウジのあだながモップに決まり、入店2日目。緊張しながらも出勤すると、昨日とは違う教育担当が待っていた。／お店のお皿を割ってしまったモップ。ヤエがフォローしてくれようとするものの…？<br><br>大山ソウジ:猪股慧士／佐倉ヤエ:嶺内ともみ／鯱頭アオイ:武田羅梨沙多胡／劉子玄:篠原侑／金田ヘチマ:伊達忠智／千石エイジ:立木文彦／本実ハレ:下野紘／遠藤まめ吉:西村知道／大山ソウイチロウ:保志総一朗／大山シズカ:伊藤静／食べられた牛の亡霊ちゃん:つぶやきシロー<br><br>原作:覆面うさぎ／COMICSMART
+    INC.（マンガアプリ「ＧＡＮＭＡ！」で連載中）／監督・脚本・編集: 長井勝見／企画・キャラクターデザイン: 渡邊百香／作画: 溝口広幸／美術: 下井孝司／音響効果:
+    安江史男／音楽: 清川進也／アニメーション制作: スタジオプラセボ<br><br>©覆面うさぎ／COMICSMART INC.<br><br>次話→so33607710'
+  length_seconds: 1060
+  content_id: so33511653
+  default_thread_id: 1531358765
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33511653
+- !ruby/hash:EpisodeHash
+  episode_no: 4皿目～6皿目
+  title: 名誉をかけた勝負！／もっとデラックス／マスコットキャラクター
+  description: 'ヤエは先輩としてできるところをアピールするため、アオイに勝負を持ちかける。アオイは引き受けないが…？／中国からの留学生の劉子玄（りゅうしげん）が帰ってきた。モップは劉に仕事を教わることになる。／メニューに何か足りないというヤエのひらめきにより、マスコットキャラクターを作ることになるが…。<br><br>大山ソウジ:猪股慧士／佐倉ヤエ:嶺内ともみ／鯱頭アオイ:武田羅梨沙多胡／劉子玄:篠原侑／金田ヘチマ:伊達忠智／千石エイジ:立木文彦／本実ハレ:下野紘／遠藤まめ吉:西村知道／大山ソウイチロウ:保志総一朗／大山シズカ:伊藤静／食べられた牛の亡霊ちゃん:つぶやきシロー<br><br>原作:覆面うさぎ／COMICSMART
+    INC.（マンガアプリ「ＧＡＮＭＡ！」で連載中）／監督・脚本・編集: 長井勝見／企画・キャラクターデザイン: 渡邊百香／作画: 溝口広幸／美術: 下井孝司／音響効果:
+    安江史男／音楽: 清川進也／アニメーション制作: スタジオプラセボ<br><br>©覆面うさぎ／COMICSMART INC.<br><br>so33511653←前話｜次話→so33762242　第一話→so33511653'
+  length_seconds: 1015
+  content_id: so33607710
+  default_thread_id: 1532917746
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33607710
+- !ruby/hash:EpisodeHash
+  episode_no: 7皿目～9皿目
+  title: 正真正銘のアホである／長所と短所は表裏一体／家庭訪問
+  description: 'モップの幼馴染、本見ハレは女の子が居るモップのバイト先に興味を抱き来店したがるも嫌がるモップであったが…。／センゴクに新しいアルバイト「マメさん」が入ることになるがその正体は謎に包まれていた！／モップが朝起きると母
+    シズカと共にヤエ、アオイがいつのまに家に居て！？<br><br>大山ソウジ:猪股慧士／佐倉ヤエ:嶺内ともみ／鯱頭アオイ:武田羅梨沙多胡／劉子玄:篠原侑／金田ヘチマ:伊達忠智／千石エイジ:立木文彦／本実ハレ:下野紘／遠藤まめ吉:西村知道／大山ソウイチロウ:保志総一朗／大山シズカ:伊藤静／食べられた牛の亡霊ちゃん:つぶやきシロー<br><br>原作:覆面うさぎ／COMICSMART
+    INC.（マンガアプリ「ＧＡＮＭＡ！」で連載中）／監督・脚本・編集: 長井勝見／企画・キャラクターデザイン: 渡邊百香／作画: 溝口広幸／美術: 下井孝司／音響効果:
+    安江史男／音楽: 清川進也／アニメーション制作: スタジオプラセボ<br><br>©覆面うさぎ／COMICSMART INC.<br><br>so33607710←前話｜次話→so33801159　第一話→so33511653'
+  length_seconds: 993
+  content_id: so33762242
+  default_thread_id: 1535419444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33762242
+- !ruby/hash:EpisodeHash
+  episode_no: 10皿目～12皿目
+  title: ブラブラおでかけ／風邪引きメリークリスマス／知らない話
+  description: 'バイトメンバーでおでかけの日。約束の時間、待ち合わせ場所にはモップ、ヤエの二人だけで・・・！？／今日はクリスマス、モップが風邪で寝込む中、モップの家でクリスマスパーティーが開催されることに！／年末、バイトメンバーと今年センゴクで起こった出来事を振り返るも、モップの知らないことばかりで…。<br><br>大山ソウジ:猪股慧士／佐倉ヤエ:嶺内ともみ／鯱頭アオイ:武田羅梨沙多胡／劉子玄:篠原侑／金田ヘチマ:伊達忠智／千石エイジ:立木文彦／本実ハレ:下野紘／遠藤まめ吉:西村知道／大山ソウイチロウ:保志総一朗／大山シズカ:伊藤静／食べられた牛の亡霊ちゃん:つぶやきシロー<br><br>原作:覆面うさぎ／COMICSMART
+    INC.（マンガアプリ「ＧＡＮＭＡ！」で連載中）／監督・脚本・編集: 長井勝見／企画・キャラクターデザイン: 渡邊百香／作画: 溝口広幸／美術: 下井孝司／音響効果:
+    安江史男／音楽: 清川進也／アニメーション制作: スタジオプラセボ<br><br>©覆面うさぎ／COMICSMART INC.<br><br>so33762242←前話　第一話→so33511653'
+  length_seconds: 978
+  content_id: so33801159
+  default_thread_id: 1536024383
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801159
+cast: "[キャスト]<br>大山ソウジ:猪股慧士／佐倉ヤエ:嶺内ともみ／鯱頭アオイ:武田羅梨沙多胡／劉子玄:篠原侑／金田ヘチマ:伊達忠智／千石エイジ:立木文彦／本実ハレ:下野紘／遠藤まめ吉:西村知道／大山ソウイチロウ:保志総一朗／大山シズカ:伊藤静／食べられた牛の亡霊ちゃん:つぶやきシロー"
+staff: "[スタッフ]<br>原作:覆面うさぎ／COMICSMART INC.（マンガアプリ「ＧＡＮＭＡ！」で連載中）／監督・脚本・編集: 長井勝見／企画・キャラクターデザイン:
+  渡邊百香／作画: 溝口広幸／美術: 下井孝司／音響効果: 安江史男／音楽: 清川進也／アニメーション制作: スタジオプラセボ"
+produced_year: "[製作年]<br>2018年"
+copyright: "©覆面うさぎ／COMICSMART INC."
+related_seasons: !ruby/array:Hashie::Array []

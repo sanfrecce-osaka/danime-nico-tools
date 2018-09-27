@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: グレートマジンガー対ゲッターロボ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/3/21923_1_6.png?1512981027000
+outline: 東京上空を覆う夥しい流星雨の中にひときわ強い光を放つ物体があり、ゲッターロボの早乙女研究所とグレートマジンガーの科学要塞研究所では同時に怪電波をキャッチした。横浜上空に停止した物体（円盤）は、宇宙怪獣ギルギルガンの幼虫を残して上昇。その円盤に向かってゲッターマシンが出撃した。だが円盤は手強く、リョウたちは苦戦を強いられる。一方、ギルギルガンの幼虫は好物の鉄が豊富な京浜工業地帯で暴れまわっていた。鉄を食べどんどん成長するギルギルガンにグレートマジンガーが挑戦するが、口から吐き出される溶解液に手が出せない。宇宙怪獣を倒すためには二大ロボットが協力して戦うしかないと考えた兜、早乙女両博士は、ギルギルガンを無人島へ誘い込む作戦を立てるのだが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 神谷明
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田秀勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 大竹宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢田和子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野田圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 中谷ゆみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺宙明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：菊池俊輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ダイナミックプロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石川賢
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1975年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: グレートマジンガー対ゲッターロボ
+  description: 東京上空を覆う夥しい流星雨の中にひときわ強い光を放つ物体があり、ゲッターロボの早乙女研究所とグレートマジンガーの科学要塞研究所では同時に怪電波をキャッチした。横浜上空に停止した物体（円盤）は、宇宙怪獣ギルギルガンの幼虫を残して上昇。その円盤に向かってゲッターマシンが出撃した。だが円盤は手強く、リョウたちは苦戦を強いられる。一方、ギルギルガンの幼虫は好物の鉄が豊富な京浜工業地帯で暴れまわっていた。鉄を食べどんどん成長するギルギルガンにグレートマジンガーが挑戦するが、口から吐き出される溶解液に手が出せない。<br><br>剣鉄也:野田圭一／炎ジュン:中谷ゆみ／兜剣造:柴田秀勝／兜シロー:沢田和子／ボス:大竹宏／流竜馬:神谷明<br><br>原作:永井豪、石川賢とダイナミックプロ／製作:今田智憲／企画:有賀健、横山健二／脚本:藤川桂介／音楽:渡辺宙明、菊池俊輔／作画監督:小松原一男／美術監督:福本智雄／演出:明比正行
+  length_seconds: 1795
+  content_id: so32487644
+  default_thread_id: 1514363308
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32487644
+cast: "[キャスト]<br>剣鉄也:野田圭一／炎ジュン:中谷ゆみ／兜剣造:柴田秀勝／兜シロー:沢田和子／ボス:大竹宏／流竜馬:神谷明"
+staff: "[スタッフ]<br>原作:永井豪、石川賢とダイナミックプロ／製作:今田智憲／企画:有賀健、横山健二／脚本:藤川桂介／音楽:渡辺宙明、菊池俊輔／作画監督:小松原一男／美術監督:福本智雄／演出:明比正行"
+produced_year: "[製作年]<br>1975年"
+copyright: "©ダイナミック企画・東映アニメーション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+- !ruby/hash:SeasonHash
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボＧ　空中大激突
+- !ruby/hash:SeasonHash
+  title: 宇宙円盤大戦争
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対暗黒大将軍
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対デビルマン

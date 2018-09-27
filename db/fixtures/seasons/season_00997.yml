@@ -1,0 +1,209 @@
+--- !ruby/hash:SeasonHash
+title: ToHeart Remember my memories
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/26/0/10260_1_6.png?1427216400000
+outline: たくさんの時間が、オレたちの周りを駆け抜けていった。それは、時に優しく、時に激しく。時に冷たく―でもやがて、暖かく。めぐり来る季節は彩を重ね、オレたちもそれに包まれて、少しずつ変わりはじめていた。｢あっという間だね……もう、三年生なんだよ｣隣に並んで立つ、幼馴染のあかり。変わらないいつもの笑顔でさえ、どこか違って見える。それぞれの夢を持って、歩きはじめた仲間たち。動きつづける時間。新しい出会いと……別れ。いつまでも……変わらずにはいられない。そんな時。オレは……『彼女』と再会した―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 根谷美智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 一条和矢
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚雅弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 氷上恭子
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩男潤子
+  type: cast
+- !ruby/hash:TagHash
+  name: 笠原留美
+  type: cast
+- !ruby/hash:TagHash
+  name: 樋口智恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：OLM
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC A.S.T.A.
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平山まどか
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：叶希一
+  type: staff
+- !ruby/hash:TagHash
+  name: ToHeartシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 明田川仁
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 前田実
+  type: other
+- !ruby/hash:TagHash
+  name: AQUAPLUS
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1話
+  title: "｢新しい予感｣"
+  description: 高校三年生の春をむかえた浩之とあかり。校内では、サッカーの有望選手として注目される雅史の新聞記事が話題になっていた。浩之は、ふとその新聞に載っている広告欄を見て…。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>次話→so31872749
+  length_seconds: 1443
+  content_id: so31872603
+  default_thread_id: 1504616033
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31872603
+- !ruby/hash:EpisodeHash
+  episode_no: 2話
+  title: "｢昔と､今と｣"
+  description: 一年ぶりに再会した浩之とマルチ。浩之は長瀬主任と綾香に、マルチが再びやって来たいきさつを聞く。浩之は、マルチを連れて学校内の思い出の場所をたどって行ったのだった。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31872603←前話｜次話→so31872750　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31872749
+  default_thread_id: 1504616970
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31872749
+- !ruby/hash:EpisodeHash
+  episode_no: 3話
+  title: "｢そして､君は｣"
+  description: マルチに掃除の楽しさを思い出してもらおうと、廊下のモップがけをさせる浩之。そして、マルチにもっと楽しさを教えたいと思い、浩之とあかりはマルチを誘い遊園地へ行くことになって…。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31872749←前話｜次話→so31874044　第一話→so31872603
+  length_seconds: 1442
+  content_id: so31872750
+  default_thread_id: 1504617088
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31872750
+- !ruby/hash:EpisodeHash
+  episode_no: 4話
+  title: "｢強さと､優しさ｣"
+  description: エクストリームファイトの大会に向け練習に打ち込む葵と、マネージャーの琴音。綾香はそんな彼女たちを合宿に招待する。浩之、あかり、マルチたちも一緒に綾香の別荘へ向かうことになり…。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31872750←前話｜次話→so31874045　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31874044
+  default_thread_id: 1504629522
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874044
+- !ruby/hash:EpisodeHash
+  episode_no: 5話
+  title: "｢越えるべき壁｣"
+  description: エクストリームファイトの日本決勝戦を控え、意気込む葵たち。しかし、マルチは少し浮かない顔。大会当日、優勝候補の綾香、坂下、そして葵は、リングの内と外の両方で火花を散らしていた。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874044←前話｜次話→so31874046　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31874045
+  default_thread_id: 1504629501
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874045
+- !ruby/hash:EpisodeHash
+  episode_no: 6話
+  title: "｢思い出の街､思い出の人｣"
+  description: プロサッカーチームの入団テストのため、雅史は神戸に行くことに。浩之はマルチを連れて雅史の応援に行くことを思い立つ。初めて新幹線に乗り、無邪気にはしゃぐマルチだったが…。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874045←前話｜次話→so31874047　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31874046
+  default_thread_id: 1504629503
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874046
+- !ruby/hash:EpisodeHash
+  episode_no: 7話
+  title: "｢一人の願い､二人の夢｣"
+  description: 念願の夢を叶えた葵。その瞬間、周囲を取り巻く環境は一変し、目立たない存在だった彼女は一躍注目の的になる。そんな彼女を支え続けていた琴音は、心の隙間を埋めようと思って、ある決意をする。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874046←前話｜次話→so31874048　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31874047
+  default_thread_id: 1504629495
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874047
+- !ruby/hash:EpisodeHash
+  episode_no: 8話
+  title: "｢ロボットの夢｣"
+  description: あかりに誘われて浩之は、来栖大学のオープンキャンパスに向かった。そこの大学で助教授を努める長瀬主任の説明会に出席する浩之たち。その頃、マルチは大学の研究室で出会ったフィールというメイドロボと話をしていた。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874047←前話｜次話→so31874049　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31874048
+  default_thread_id: 1504629517
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874048
+- !ruby/hash:EpisodeHash
+  episode_no: 9話
+  title: "｢すれ違う心｣"
+  description: 志保と二人で旅行に出かけていたあかり。受験に御利益のある降山神社まで来たあかりは、偶然にも藍原の墓所までやってきた浩之たちと出くわす。だが、彼の顔を見た途端、あかりはなぜか逃げるように去っていってしまう。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874048←前話｜次話→so31874050　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31874049
+  default_thread_id: 1504629684
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874049
+- !ruby/hash:EpisodeHash
+  episode_no: 10話
+  title: "｢長い夜｣"
+  description: 先日の旅行以来、気持ちがすれ違ったままの浩之とあかり。そんな中、レミィはクリスマスパーティーを企画していた。大切な人に幸せになってもらいたいという一途な思いから、レミィはある決心をするのだが…。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874049←前話｜次話→so31874051　第一話→so31872603
+  length_seconds: 1442
+  content_id: so31874050
+  default_thread_id: 1504629324
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874050
+- !ruby/hash:EpisodeHash
+  episode_no: 11話
+  title: "｢理解(わか)りあうために｣"
+  description: それぞれの夢へと進む仲間たち。自分だけが取り残されているような空しさ、そして好きな人との心の絆にも自信を持てないあかり。そんな危うい彼女の様子に心を揺り動かされた雅史は、秘めていた思いを言葉にする。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874050←前話｜次話→so31874052　第一話→so31872603
+  length_seconds: 1443
+  content_id: so31874051
+  default_thread_id: 1504629687
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874051
+- !ruby/hash:EpisodeHash
+  episode_no: 12話
+  title: "｢わたしの､居場所｣"
+  description: 目覚めても｢自分｣を見失ったままの胸の中は、うつろなまま。壊れそうな心を抱えて、マルチは姿を消してしまう。その知らせを受けた浩之たちは、彼女の行方を求めて街中を駆ける。雨の中をさまよっていた彼女がやがて向かった先は、大切な思い出の場所だった。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874051←前話｜次話→so31874053　第一話→so31872603
+  length_seconds: 1442
+  content_id: so31874052
+  default_thread_id: 1504629462
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874052
+- !ruby/hash:EpisodeHash
+  episode_no: 13話
+  title: "｢それぞれの未来(あした)へ｣"
+  description: 大切な人たちとの、大切な思い。 居場所を求めて、わかり合いたくて、答えを探して迷った彼女たち。握った手の温もりが、確かな安らぎを伝え、未来へと歩む勇気を呼び起こす。もう一度、再会する日を夢見て。<br><br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗<br><br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks<br><br>so31874052←前話　第一話→so31872603
+  length_seconds: 1427
+  content_id: so31874053
+  default_thread_id: 1504629458
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874053
+cast: "[キャスト]<br>藤田浩之:一条和矢／神岸あかり:川澄綾子／マルチ:堀江由衣／長岡志保:樋口智恵子／来栖川綾香:岩男潤子／保科智子:久川綾／松原葵:飯塚雅弓／姫川琴音:氷上恭子／宮内レミィ:笠原留美／セリオ:根谷美智子／佐藤雅史:保志総一朗"
+staff: "[スタッフ]<br>原作:AQUAPLUS／監督:元永慶太郎／脚本:叶希一／キャラクターデザイン・総作画監督:平山まどか／美術監督:前田実／音響監督:明田川仁／アニメーション制作:OLM/AICA.S.T.A.／製作:THRWorks"
+produced_year: "[製作年]<br>2004年"
+copyright: "(C)2004AQUAPLUS/THRWorks"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ToHeart
+- !ruby/hash:SeasonHash
+  title: ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ad』
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adplus』
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adnext』
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ダンジョントラベラーズ』

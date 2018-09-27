@@ -1,0 +1,43 @@
+--- !ruby/hash:SeasonHash
+title: カナリア
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/21/6/10216_1_6.png?1427216400000
+outline: 親の都合で香川県に引っ越してきた主人公の八朔洋平は、転校先の琴平学園で軽音部に入部する。学園祭でのライブは成功したが、その後に事件が起こる。軽音部の部長である澤崎純が部を辞めようとしているのだ。純の退部を止めるため、片桐美香を中心とした軽音部の面々が動き出す。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：荒川稔久
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田中良
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: 池田繁美
+  type: other
+- !ruby/hash:TagHash
+  name: 田中良
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: カナリア
+  description: '親の都合で香川県に引っ越してきた主人公の八朔洋平は、転校先の琴平学園で軽音部に入部する。学園祭でのライブは成功したが、その後に事件が起こる。軽音部の部長である澤崎純が部を辞めようとしているのだ。純の退部を止めるため、片桐美香を中心とした軽音部の面々が動き出す。<br><br>満仲由紀子:綾菜／かないみか:美香／松野太紀:洋平／斎藤千和:麻衣／雪乃五月:めぐみ／こおろぎさとみ:絵里／西原久美子:せな／風間勇子:純／高橋あきお:良太／桑島法子:市長<br><br>監督:元永慶太郎／脚本:荒川稔久／キャラクターデザイン:
+    田中良／作画監督:田中良／美術監督:池田繁美'
+  length_seconds: 1564
+  content_id: so32149315
+  default_thread_id: 1508785163
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32149315
+cast: "[キャスト]<br>満仲由紀子:綾菜／かないみか:美香／松野太紀:洋平／斎藤千和:麻衣／雪乃五月:めぐみ／こおろぎさとみ:絵里／西原久美子:せな／風間勇子:純／高橋あきお:良太／桑島法子:市長"
+staff: "[スタッフ]<br>監督:元永慶太郎／脚本:荒川稔久／キャラクターデザイン: 田中良／作画監督:田中良／美術監督:池田繁美"
+produced_year: "[製作年]<br>2002年"
+copyright: "(c) カナリアプロジェクト2002"
+related_seasons: !ruby/array:Hashie::Array []

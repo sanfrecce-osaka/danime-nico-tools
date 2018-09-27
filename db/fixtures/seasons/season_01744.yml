@@ -1,0 +1,336 @@
+--- !ruby/hash:SeasonHash
+title: ルパン三世 1st series
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/30/0/10300_1_6.png?1518166816000
+outline: 狙った獲物は必ず奪う神出鬼没の大泥棒・ルパン三世。彼はかの名高き怪盗ルパンの孫だ。早撃ち0.3秒のクールなガンマン・次元大介、特異の斬鉄剣でどんなものでも真っ二つのサムライ・十三代石川五右衛門、謎の美女・峰不二子たちの仲間とともに、彼を捕まえるのを生きがいとしている警視庁の敏腕・銭形警部や、白乾児や摩毛狂介たちの暗黒街の強敵を相手にしながら、今日も華麗にお宝を頂戴するのだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 納谷悟朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田康雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚周夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 二階堂有希子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：モンキー・パンチ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：山下毅雄
+  type: staff
+- !ruby/hash:TagHash
+  name: ルパン三世シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1971年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '1'
+  title: ルパンは燃えているか…?!
+  description: 飛騨スピードサーキットに集結したF1マシンのドライバーにルパン三世の姿が。犯罪組織の仕組んだ巨大な罠であるレースを、ルパンはトップ激走する。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>次話→so32804817
+  length_seconds: 1488
+  content_id: so32804664
+  default_thread_id: 1519725510
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804664
+- !ruby/hash:EpisodeHash
+  episode_no: '2'
+  title: 魔術師と呼ばれた男
+  description: 銃弾掃射を浴びても死なない男・白乾児(パイカル)。謎のフィルムを持って逃げた不二子を追って、ルパンたちに襲いかかる。不死身の男の正体は?!<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804664←前話｜次話→so32804978　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32804817
+  default_thread_id: 1519727090
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804817
+- !ruby/hash:EpisodeHash
+  episode_no: '3'
+  title: さらば愛しき魔女
+  description: 美しい花が咲き乱れる島に辿り着いたルパンは、妖艶なる美女リンダと出会う。楽園のような島で戯れる二人。だが島の花は大量破壊兵器の原料であった…<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804817←前話｜次話→so32805144　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32804978
+  default_thread_id: 1519728869
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804978
+- !ruby/hash:EpisodeHash
+  episode_no: '4'
+  title: 脱獄のチャンスは一度
+  description: ルパンが銭形警部に捕らえられた。刑務所に送られ死刑判決が下るも、ルパンは脱獄する素振りを見せない。月日は流れ、ついに死刑執行の日が訪れる。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804978←前話｜次話→so32805305　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32805144
+  default_thread_id: 1519730694
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805144
+- !ruby/hash:EpisodeHash
+  episode_no: '5'
+  title: 十三代五ェ門登場
+  description: 鉄をも一刀両断する｢斬鉄剣｣の使い手・石川五ェ門とルパンが対決することに。だがそれは五ェ門の師匠が仕組んだ両者抹殺の計略であった。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805144←前話｜次話→so32805508　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32805305
+  default_thread_id: 1519732540
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805305
+- !ruby/hash:EpisodeHash
+  episode_no: '6'
+  title: 雨の午後はヤバイゼ
+  description: 不二子の頼みで、記憶喪失になった暗黒街のボスのもとにやってきたルパン。無くした記憶を辿るにつれ、欲望と策略の渦が次第に現れてきた。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805305←前話｜次話→so32805509　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32805508
+  default_thread_id: 1519734142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805508
+- !ruby/hash:EpisodeHash
+  episode_no: '7'
+  title: 狼は狼を呼ぶ
+  description: 五ェ門が持つ斬鉄剣の誕生には先祖ルパン二世に関わりが?! 真実を探るべく斬鉄剣の秘密を記した秘伝書に近づくルパン。だが不二子も秘伝書を狙っていた。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805508←前話｜次話→so32805510　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32805509
+  default_thread_id: 1519734385
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805509
+- !ruby/hash:EpisodeHash
+  episode_no: '8'
+  title: 全員集合トランプ作戦
+  description: 幸運を呼び寄せるという一組のトランプを盗み出したルパンたち。しかし執拗な追跡に不二子と次元が警察機動隊に包囲され篭城する。果たして脱出はなるか?!<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805509←前話｜次話→so32805686　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32805510
+  default_thread_id: 1519734270
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805510
+- !ruby/hash:EpisodeHash
+  episode_no: '9'
+  title: 殺し屋はブルースを歌う
+  description: 不二子の前に、かつてのパートナー・殺し屋プーンが現れた。逃走を図るが、銃で撃たれさらわれる。命の危うい不二子をルパンは助け出そうとするが…<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805510←前話｜次話→so32805687　第一話→so32804664
+  length_seconds: 1488
+  content_id: so32805686
+  default_thread_id: 1519736125
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805686
+- !ruby/hash:EpisodeHash
+  episode_no: '10'
+  title: ニセ札つくりを狙え!
+  description: "｢限りなく精巧なニセ札を。｣と考えたルパンは、雪山に隠棲する天才ニセ札造り師との接触を図る。しかし時を同じくしてニセ札製造組織の手も延びていた。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805686←前話｜次話→so32805688　第一話→so32804664"
+  length_seconds: 1488
+  content_id: so32805687
+  default_thread_id: 1519736128
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805687
+- !ruby/hash:EpisodeHash
+  episode_no: '11'
+  title: 7番目の橋が落ちるとき
+  description: ルパンの名を騙り、現金輸送車襲撃の布石と思われる架橋爆破事件が連続した。真犯人を突き止めたルパンだが、逆に罠にはまり、最後の現金輸送車襲撃を強いられるが…<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805687←前話｜次話→so32806905　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32805688
+  default_thread_id: 1519735944
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805688
+- !ruby/hash:EpisodeHash
+  episode_no: '12'
+  title: 誰が最後に笑ったか
+  description: 雪深い北の村を舞台に、黄金の姉妹像をめぐる争奪戦が始まった。銃弾・爆弾が飛び交う激戦を出し抜き、最後に笑うのはルパンか、不二子か、果たして誰か!?<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805688←前話｜次話→so32804818　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32806905
+  default_thread_id: 1519748486
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32806905
+- !ruby/hash:EpisodeHash
+  episode_no: '13'
+  title: タイムマシンに気をつけろ!
+  description: タイムマシンを操る魔毛狂介が、ルパンの末裔に自身の一族を滅ぼされた復讐に未来より来訪。時間を逆行し根源を絶つ仕業に、ルパンは死を覚悟するが…<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32806905←前話｜次話→so32804665　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32804818
+  default_thread_id: 1519727066
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804818
+- !ruby/hash:EpisodeHash
+  episode_no: '14'
+  title: エメラルドの秘密
+  description: 結婚披露パーティで世界有数の大粒エメラルドをまんまと盗んだ、と思いきや実は偽物だった。本物は一体どこに? それは怪しげなシャム猫だけが知っていた。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804818←前話｜次話→so32804666　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32804665
+  default_thread_id: 1519725143
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804665
+- !ruby/hash:EpisodeHash
+  episode_no: '15'
+  title: ルパンを捕まえてヨーロッパへ行こう
+  description: 銭形警部は世界警察会議ヨーロッパ大会への出席を勧められるが、同じ頃ルパンからの予告状も届いていた。ルパンを捕らえ、晴れて世界に旅立てるのか?!<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804665←前話｜次話→so32804819　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32804666
+  default_thread_id: 1519725264
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804666
+- !ruby/hash:EpisodeHash
+  episode_no: '16'
+  title: 宝石横取り作戦
+  description: 狙いは30億円相当の密輸ダイヤの山。白昼の宝石店から計画通り奪ったが、不二子のわがままで店内全ての宝石も加えることに。計画は大きく狂い、あらぬ方向に。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804666←前話｜次話→so32805307　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32804819
+  default_thread_id: 1519726945
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804819
+- !ruby/hash:EpisodeHash
+  episode_no: '17'
+  title: 罠にかかったルパン
+  description: 時限式爆弾を付けられ30億円の身代金を強要されるルパンたち。造幣局に忍び込み札束を用意するが、あまりの重量で逃走が困難に。タイムリミットが迫る!<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804819←前話｜次話→so32805306　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32805307
+  default_thread_id: 1519732546
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805307
+- !ruby/hash:EpisodeHash
+  episode_no: '18'
+  title: 美人コンテストをマークせよ
+  description: 各国代表の美人コンテストが催される。が、その裏では世界的名画の闇オークションも行われる。｢世界一の美女を頂きに参上｣とルパンの予告状が届く。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805307←前話｜次話→so32805146　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32805306
+  default_thread_id: 1519732538
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805306
+- !ruby/hash:EpisodeHash
+  episode_no: '19'
+  title: どっちが勝つか三代目!
+  description: ルパン家と確執を持つガニマール家の三代目子孫が来日。アルセーヌルパンの遺品を囮に、逮捕を狙う。その挑戦に受けて立つルパン。三世VS三世、因縁の対決!<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805306←前話｜次話→so32805145　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32805146
+  default_thread_id: 1519730696
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805146
+- !ruby/hash:EpisodeHash
+  episode_no: '20'
+  title: ニセルパンを捕えろ!
+  description: ルパンの犯行に酷似した窃盗事件が相次いだ。犯人を尾行して辿り着いた先は、泥棒を生業とする住民の島。そしてルパン家に由来ある秘伝書がそこに…<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805146←前話｜次話→so32804980　第一話→so32804664
+  length_seconds: 1458
+  content_id: so32805145
+  default_thread_id: 1519730698
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32805145
+- !ruby/hash:EpisodeHash
+  episode_no: '21'
+  title: ジャジャ馬娘を助けだせ!
+  description: ルパンが、ある少女を連れて逃げた。その父親はかつてルパン二世の相棒で、今は引退した金庫破り。人質として囚われていたのを恩返しで助けたはずが…<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32805145←前話｜次話→so32804979　第一話→so32804664
+  length_seconds: 1428
+  content_id: so32804980
+  default_thread_id: 1519728639
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804980
+- !ruby/hash:EpisodeHash
+  episode_no: '22'
+  title: 先手必勝コンピューター作戦!
+  description: FBIと警視庁は、合同のコンピュータを駆使したルパン逮捕計画を公表。あえて挑発に乗ったルパンだが、行動を的確に予測され術中にはまってゆく。<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804980←前話｜次話→so32806906　第一話→so32804664
+  length_seconds: 1428
+  content_id: so32804979
+  default_thread_id: 1519728634
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32804979
+- !ruby/hash:EpisodeHash
+  episode_no: '23'
+  title: 黄金の大勝負!
+  description: 大日本銀行から埋蔵金を盗み出す犯行前日、ルパンたちは行く先々で警官隊の強襲に合う。銭形警部の最終究極作戦｢アジト壊滅作戦｣がルパンを追い詰める!<br><br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫
+    他<br><br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+    他／音楽:山下毅雄<br><br>so32804979←前話　第一話→so32804664
+  length_seconds: 1428
+  content_id: so32806906
+  default_thread_id: 1519748484
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32806906
+cast: "[キャスト]<br>ルパン三世:山田康雄／次元大介:小林清志／峰不二子:二階堂有希子／銭形警部:納谷悟朗／石川五ェ門:大塚周夫 他"
+staff: "[スタッフ]<br>作画監督:大塚康生／演出:大隅正秋,Aプロダクション／演出グループ:宮崎駿,高畑勲／制作協力:Aプロダクション／脚本:山崎忠昭,大和屋竺,宮田雪
+  他／音楽:山下毅雄"
+produced_year: "[製作年]<br>1971年"
+copyright: 原作：モンキー・パンチ ©TMS
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ルパン三世 2nd series
+- !ruby/hash:SeasonHash
+  title: ルパン三世 PARTIII
+- !ruby/hash:SeasonHash
+  title: ルパン三世 PART4
+- !ruby/hash:SeasonHash
+  title: ルパン三世 PART5
+- !ruby/hash:SeasonHash
+  title: ルパン三世 ルパンVS複製人間
+- !ruby/hash:SeasonHash
+  title: ルパン三世　カリオストロの城
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #01 バイバイ・リバティー・危機一発！'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #02 ヘミングウェイ・ペーパーの謎'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #03 ナポレオンの辞書を奪え'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #04 ロシアより愛をこめて'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #05 ルパン暗殺指令'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #06 燃えよ斬鉄剣'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #07 ハリマオの財宝を追え！！'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #08 トワイライト☆ジェミニの秘密'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #09 ワルサーＰ３８'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #10 炎の記憶 ～Tokyo Crisis～'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #11 愛のダ・カーポ ～ＦＵＪＩＫＯ''s Ｕnlucky Ｄays～'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #12 １＄マネーウォーズ'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #13 アルカトラズ コネクション'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #14 EPISODE：0 ファーストコンタクト'

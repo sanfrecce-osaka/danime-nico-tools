@@ -1,0 +1,193 @@
+--- !ruby/hash:SeasonHash
+title: 11eyes
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/0/10160_1_6.png?1427216400000
+outline: 平凡な生活を送っていた皐月駆だが、ある日幼なじみの水奈瀬ゆかと共に、突然不気味な異世界へ迷い込んでしまう事に…。血の色にも似た不気味に赤く染まる空に、漆黒の巨大な月。そんな『赤い夜』の世界に、呆気にとられる駆とゆか…。さらに、二人の周りに異形の怪物が現れ、襲いかかる。駆たちの命をかけた戦いが始まる!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅川悠
+  type: cast
+- !ruby/hash:TagHash
+  name: たかはし智秋
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 力丸乃りこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 壱智村小真
+  type: cast
+- !ruby/hash:TagHash
+  name: 萩原えみこ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：動画工房
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：原将治
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：下田正美
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 金巻兼一
+  type: other
+- !ruby/hash:TagHash
+  name: 原将治
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢赤い夜～piros ejszaka｣"
+  description: 皐月駆は幼馴染の水奈瀬ゆかと平凡な生活を送っていた。辛い過去を背負う駆だが、クラスメイトの匡や香央里といった明るい二人と、やさしく接してくれるゆかとの学生生活を過ごしていた。だが、ある日生まれつき見えない右目に激痛がはしったとたん、赤く染まる不気味な世界に迷い込むことに…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>次話→so31911147
+  length_seconds: 1496
+  content_id: so31911146
+  default_thread_id: 1505193632
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911146
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢水晶の少女～egy lany -ban kristaly｣"
+  description: またも不気味な赤く染まる世界に迷い込んだ駆とゆか。そこで謎の怪物達に襲われる。怪物達に囲まれてしまい窮地に陥る二人。そんな二人を、不思議な力を持った刀を使う少女、草壁美鈴が救うのだが…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911146←前話｜次話→so31911149　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911147
+  default_thread_id: 1505193341
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911147
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢孤独な誇り～egyedulallo buszkeseg｣"
+  description: "『悪魔を目覚めさせたのはあなたです』謎のメモを見つけた駆は、もしかしたら自分のせいで赤い夜に迷い込んでしまったのかと一人悩む。駆はゆかを守りたい一心で、戦う力を手に入れようと美鈴に剣術の教えを請うが。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911147←前話｜次話→so31911151　第一話→so31911146"
+  length_seconds: 1496
+  content_id: so31911149
+  default_thread_id: 1505193442
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911149
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢仮面の微笑～a doboz mogott maszk｣"
+  description: 雪子が部長を務める“考現学部”に入部する駆たち。いっきに部員が増えた事にうれしそうにはしゃぐ雪子。だが、そんなうれしそうな雪子を尻目に、駆はこの間出会った死んだ姉にそっくりな少女の事を思い出し、一人悩んでいるのであった。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911149←前話｜次話→so31911180　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911151
+  default_thread_id: 1505193419
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911151
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢友と明日のために～baratoknak, holnapra｣"
+  description: 体調不良で倒れたゆかを心配する駆。保健室でお互いを気遣い合う二人の前に賢久が現れる。賢久の一言に気を悪くする駆だったが、学校の保険医である彩子から、彩子と賢久の意外な関係と過去を聞かされ、その意外な関係に驚かされる。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911151←前話｜次話→so31911181　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911180
+  default_thread_id: 1505194012
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911180
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "｢心乱れて～szivtep? fajdalom｣"
+  description: ようやく自分の力に目覚めた駆だったが、あまりの力の強さに自らの体が悲鳴を上げる…。全身の神経をやられ重傷の駆を美鈴が治すという。儀式の間は部屋に入るなと告げるのだが、駆が心配なゆかは思わず中を覗いてしまう。そこには…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911180←前話｜次話→so31911182　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911181
+  default_thread_id: 1505193991
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911181
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "｢歪んだ覚醒～kanyargos ebredes｣"
+  description: 赤い夜が訪れるが、ゆかが一人いなくなってしまう。賢久が戦闘により破壊された保健室からボロボロのペン蔵さんを持ってくる。だが、そんな保健室にゆかの姿は無かった。心配する駆たちは手分けしてゆかを探しに向かうのだが…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911181←前話｜次話→so31911183　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911182
+  default_thread_id: 1505193988
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911182
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "｢逢魔が時～felhomaly ov｣"
+  description: ついに力に目覚めたゆか。ゆかが目覚めた力は、周りの力を無効にする能力だった。前回の赤い夜のあと、力を使い果たして眠るゆかと、体調を壊してしまった雪子を気遣い、学校を休む駆たち。つかのまの安息をむかえた彼らだったが…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911182←前話｜次話→so31911184　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911183
+  default_thread_id: 1505194010
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911183
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "｢壊れた絆～torott kotes｣"
+  description: 保健室で、賢久と雪子は宙吊りとなりスペルビアの刀に貫かれている彩子の無惨な姿を目撃する。突然の彩子の死に激しく取り乱した賢久は、怒りにまかせスペルビアを攻撃する。逃げ出すスペルビアを追いかけ攻撃する賢久は、綾女ヶ丘の街も怒りの業火で焼きつくしていた。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911183←前話｜次話→so31911185　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911184
+  default_thread_id: 1505194292
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911184
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "｢魔女覚醒～bukott angyal｣"
+  description: 駆と美鈴は栞から、黒騎士と自分たちの関係について衝撃的な事実を聞かされる。そして、黒騎士たちに捕らえられているリゼットの存在までも…。衝撃的な話に困惑する二人だったが…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911184←前話｜次話→so31911186　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911185
+  default_thread_id: 1505194296
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911185
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "｢滅亡という選択～valogatott -hoz kialvas｣"
+  description: ゆかの手により、虚無の欠片との融合を果たし、バビロンの魔女としての力を取り戻したリーゼロッテ。傍らにいるゆかを亡き者にせんと、攻撃をおこなうが、間一髪駆がゆかの盾となりリーゼロッテの攻撃を剣で受け止める。だが、リーゼロッテの波動により折れた剣の切っ先が、ゆかを無情にも貫く…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911185←前話｜次話→so31911187　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911186
+  default_thread_id: 1505194317
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911186
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "｢闇夜の暁～a sotet hajnal｣"
+  description: アイオンの眼の未来視の力を使い、ゆかを失うという最悪の結末を回避した駆。だが、リーゼロッテの強大な力の前になす術が無い。リーゼロッテが望みを叶える為には、自分の右目を使うしか無い事を悟った駆は、自らの命を絶とうとするのだが…。<br><br>皐月
+    駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野 栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋<br><br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／
+    監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房<br><br>so31911186←前話　第一話→so31911146
+  length_seconds: 1496
+  content_id: so31911187
+  default_thread_id: 1505194319
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31911187
+cast: "[キャスト]<br>皐月 駆役:小野大輔／水奈瀬ゆか役:後藤麻衣／草壁美鈴役:浅川 悠／橘 菊理役:力丸乃りこ／広原雪子役:壱智村小真／田島賢久役:森久保祥太郎／百野
+  栞役:萩原えみこ／奈月香央里役:水橋かおり／赤嶺彩子役:たかはし智秋"
+staff: "[スタッフ]<br>原作:Lass(｢11eyes-罪と罰と購いの少女-｣)／ 監督:下田正美／シリーズ構成:金巻兼一／キャラクターデザイン:原将治／総作画監督:原将治／制作会社:動画工房"
+produced_year: "[製作年]<br>2009年"
+copyright: "(c)Lass・虹校考現学部 2009"
+related_seasons: !ruby/array:Hashie::Array []

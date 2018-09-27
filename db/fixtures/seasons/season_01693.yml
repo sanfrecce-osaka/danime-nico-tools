@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: よなよなペンギン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/4/21884_1_6.png?1512356431000
+outline: "「2Dのノウハウを活かした、ほかの何物でもない独自の3Dを」という困難な作業に取り組んだのは、「映像の魔術師」りんたろう。アニメーション黎明期から作品に携わり、常に先進的な映像作りを行っていた彼が、本作で初めて原作にも挑戦。子供たちに夢と希望を与える、やわらかなファンタジーアドベンチャー全編フル3DCGアニメーション作品。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 朴璐美
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山茉美
+  type: cast
+- !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆口裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: くまいもとこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢那智
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本梨香
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：りんたろう
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：本多俊之
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：りんたろう
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：寺田克也
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: よなよなペンギン
+  description: ペンギンコートに身を包み、夜の街をよなよなと歩き回る少女、ココ。彼女の願いは、いつか空を飛ぶこと。ある夜、ココは偶然拾った奇妙なフィギュアに誘われ、見知らぬ世界に迷い込む。そこでココを待ち受けていたのは、ゴブリン族のチャリーや、闇の帝王の手下ザミーといった不思議な仲間たちとの出会い。――そして、思いもかけぬ大冒険だった!<br><br>ココ:森迫永依／チャーリー:田中麗奈／ザミー:太田光（爆笑問題）／ブッカ・ブー:田中裕二（爆笑問題）／長老:永井一郎／チャーリーの父親:田中秀幸／チャーリーの母親:皆口裕子／ココの母親:小山菜美／ムルムル:山口勝平／猫のチャビスケ:TARAKO／おじさんたち:野沢那智、内海賢二／デビル・リーダー:松本梨香／双子のフェアリー:田中れいな（モーニング娘。）、リンリン（モーニング娘。）／悪ガキ三人組:くまいもとこ、桑島法子、朴璐美／スパイダー:本多俊之（友情出演）／大天使:山寺宏一（友情出演）／ココの父親:高橋ジョージ／パラケケ:藤村俊二／じい:柄本明<br><br>原作・監督:りんたろう／キャラクターデザイン:寺田克也／脚本:金春智子／音楽:本多俊之／制作:マッドハウス+DFP(デニス・フリードマン・プロダクションズ)／主題歌:「アミーゴペンギン」ココ(森迫永依)とアミーゴペンギンズ(バップ)
+  length_seconds: 5240
+  content_id: so32453992
+  default_thread_id: 1513841229
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453992
+cast: "[キャスト]<br>ココ:森迫永依／チャーリー:田中麗奈／ザミー:太田光（爆笑問題）／ブッカ・ブー:田中裕二（爆笑問題）／長老:永井一郎／チャーリーの父親:田中秀幸／チャーリーの母親:皆口裕子／ココの母親:小山菜美／ムルムル:山口勝平／猫のチャビスケ:TARAKO／おじさんたち:野沢那智、内海賢二／デビル・リーダー:松本梨香／双子のフェアリー:田中れいな（モーニング娘。）、リンリン（モーニング娘。）／悪ガキ三人組:くまいもとこ、桑島法子、朴璐美／スパイダー:本多俊之（友情出演）／大天使:山寺宏一（友情出演）／ココの父親:高橋ジョージ／パラケケ:藤村俊二／じい:柄本明"
+staff: "[スタッフ]<br>原作・監督:りんたろう／キャラクターデザイン:寺田克也／脚本:金春智子／音楽:本多俊之／制作:マッドハウス+DFP(デニス・フリードマン・プロダクションズ)／主題歌:「アミーゴペンギン」ココ(森迫永依)とアミーゴペンギンズ(バップ)"
+produced_year: "[製作年]<br>2009年"
+copyright: "© 2009 りんたろう・マッドハウス／「よなよなペンギン」フィルムパートナーズ・DFP"
+related_seasons: !ruby/array:Hashie::Array []

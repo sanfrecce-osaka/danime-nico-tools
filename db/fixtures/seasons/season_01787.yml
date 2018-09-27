@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: レオナルド博士とキリン村のなかまたち
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/7/10607_1_6.png?1427216400000
+outline: 秘密結社鷹の爪にも登場しているレオナルド博士が､キリン村で起こるさまざまなトラブルを解決するために発明したマシーンによって起こる色々な騒動を｢日本トイザらス｣オリジナル主人公キリンの兄弟のジェフ太とジェフ次郎達を巻き込んで送るドタバタストーリーである。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 上野アサ
+  type: cast
+- !ruby/hash:TagHash
+  name: べんぴねこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本頼光
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：べんぴねこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：べんぴねこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：永川成基
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：宮昌太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#7"
+  title: あけまして!キリン村!!/めしませ!バニ江のとっておきグルメ!!/いやはや・・・サケサケパニックです・・・/ジェフ次郎の七変化/お兄さんのパンツはいいパンツ!/イタズラヤッホゥ!スパイスボーイズ/ぼくのお父さん世界一!
+  description: 出演者:べんぴねこ,FROGMAN,坂本頼光,亜沙<br><br>監督:べんぴねこ／脚本:べんぴねこ,永川成基,宮昌太郎<br><br>次話→so32036566
+  length_seconds: 1686
+  content_id: so32036565
+  default_thread_id: 1507004496
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036565
+- !ruby/hash:EpisodeHash
+  episode_no: "#8-#13"
+  title: 黄金のかぼちゃを追え!/金の斧、銀の斧、父ちゃんの斧/ミケランジェロ教授!見参!/ミラクル赤ちゃんで大さわぎ!!/ヒャッホウ!博士を助けろ!/キリン村にサクラサク!
+  description: 出演者:べんぴねこ,FROGMAN,坂本頼光,亜沙<br><br>監督:べんぴねこ／脚本:べんぴねこ,永川成基,宮昌太郎<br><br>so32036565←前話　第一話→so32036565
+  length_seconds: 1446
+  content_id: so32036566
+  default_thread_id: 1507004183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036566
+cast: "[キャスト]<br>出演者:べんぴねこ,FROGMAN,坂本頼光,亜沙"
+staff: "[スタッフ]<br>監督:べんぴねこ／脚本:べんぴねこ,永川成基,宮昌太郎"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)DLE/ファイテンション☆スクール製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

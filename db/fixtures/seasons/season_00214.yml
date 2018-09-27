@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: おじさんとマシュマロ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/57/2/20572_1_6.png?1450686899000
+outline: マシュマロが大好きなおじさん・日下と日下のことが大好きなOL・若林。そんな二人のビミョーに噛み合わない恋愛模様が今日もオフィスで繰り広げられる！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲田徹
+  type: cast
+- !ruby/hash:TagHash
+  name: 古木のぞみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 木下鈴奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 田口香織
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉富睦
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Creators in Pack
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐々木勅嘉
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：shusei
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：音井れこ丸
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：白川茉莉
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 一迅社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: 日下さんとマシュマロ／雨とマシュマロ／電車とマシュマロ／妖精とマシュマロ
+  description: 日下幅広:稲田徹／若林いおり:喜多村英梨／MIO5(デガス):花澤香菜／若林いさむ:柿原徹也／向井:田口香織／町田:木下鈴奈／マシュマロ工場の先輩:吉富
+    睦／マシュマロ工場の後輩:古木のぞみ<br><br>原作:｢おじさんとマシュマロ｣｢もっと！おじさんとマシュマロ｣(原作者：音井れこ丸・一迅社刊)／総監督:ひらさわひさよし／監督:佐々木勅嘉／シナリオ:岡
+    篤志／キャラクターデザイン:白川茉莉／音響監督:大室正勝／音楽:Shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+    in Pack／音響制作:ダックスプロダクション<br><br>次話→so31955426
+  length_seconds: 752
+  content_id: so31955425
+  default_thread_id: 1505812402
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31955425
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第8話
+  title: 飲み会とマシュマロ／弟とマシュマロ／未央子とマシュマロ／サプライズとマシュマロ
+  description: 日下幅広:稲田徹／若林いおり:喜多村英梨／MIO5(デガス):花澤香菜／若林いさむ:柿原徹也／向井:田口香織／町田:木下鈴奈／マシュマロ工場の先輩:吉富
+    睦／マシュマロ工場の後輩:古木のぞみ<br><br>原作:｢おじさんとマシュマロ｣｢もっと！おじさんとマシュマロ｣(原作者：音井れこ丸・一迅社刊)／総監督:ひらさわひさよし／監督:佐々木勅嘉／シナリオ:岡
+    篤志／キャラクターデザイン:白川茉莉／音響監督:大室正勝／音楽:Shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+    in Pack／音響制作:ダックスプロダクション<br><br>so31955425←前話｜次話→so31955427　第一話→so31955425
+  length_seconds: 828
+  content_id: so31955426
+  default_thread_id: 1505812479
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31955426
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話～第12話
+  title: 普通とマシュマロ／遊園地とマシュマロ／温泉旅行とマシュマロ／若林とマシュマロ
+  description: 日下幅広:稲田徹／若林いおり:喜多村英梨／MIO5(デガス):花澤香菜／若林いさむ:柿原徹也／向井:田口香織／町田:木下鈴奈／マシュマロ工場の先輩:吉富
+    睦／マシュマロ工場の後輩:古木のぞみ<br><br>原作:｢おじさんとマシュマロ｣｢もっと！おじさんとマシュマロ｣(原作者：音井れこ丸・一迅社刊)／総監督:ひらさわひさよし／監督:佐々木勅嘉／シナリオ:岡
+    篤志／キャラクターデザイン:白川茉莉／音響監督:大室正勝／音楽:Shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+    in Pack／音響制作:ダックスプロダクション<br><br>so31955426←前話　第一話→so31955425
+  length_seconds: 819
+  content_id: so31955427
+  default_thread_id: 1505812473
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31955427
+cast: "[キャスト]<br>日下幅広:稲田徹／若林いおり:喜多村英梨／MIO5(デガス):花澤香菜／若林いさむ:柿原徹也／向井:田口香織／町田:木下鈴奈／マシュマロ工場の先輩:吉富
+  睦／マシュマロ工場の後輩:古木のぞみ"
+staff: "[スタッフ]<br>原作:｢おじさんとマシュマロ｣｢もっと！おじさんとマシュマロ｣(原作者：音井れこ丸・一迅社刊)／総監督:ひらさわひさよし／監督:佐々木勅嘉／シナリオ:岡
+  篤志／キャラクターデザイン:白川茉莉／音響監督:大室正勝／音楽:Shusei／制作プロダクション:ドリームクリエイション／アニメーション制作:Creators
+  in Pack／音響制作:ダックスプロダクション"
+produced_year: "[製作年]<br>2016年"
+copyright: "©音井れこ丸/一迅社・元気田堂広報部2016"
+related_seasons: !ruby/array:Hashie::Array []

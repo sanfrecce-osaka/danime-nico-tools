@@ -1,0 +1,81 @@
+--- !ruby/hash:SeasonHash
+title: ゆるゆり なちゅやちゅみ！+　+2
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/34/7/20347_1_6.png?1441338996000
+outline: みんな、ゆるゆりの真の主人公・歳納京子だよー！夏休み、まだまだ遊ぶぞ―！海？山？川？行きたい所は沢山あるんだー！でもまぁ、とりあえず結衣の家に遊びに行こうかな～。宿題？なんのことだかわからないな～。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: 大久保瑠美
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 三上枝織
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ＴＹＯアニメーションズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：なもり
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：畑博之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：谷口元浩
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆるゆりシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 一迅社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ゆるゆり なちゅやちゅみ！+　+2
+  description: みんな、ゆるゆりの真の主人公・歳納京子だよー！夏休み、まだまだ遊ぶぞ―！海？山？川？行きたい所は沢山あるんだー！でもまぁ、とりあえず結衣の家に遊びに行こうかな～。宿題？なんのことだかわからないな～。<br><br>赤座あかり:三上枝織／歳納京子:大坪由佳／船見結衣:津田美波／吉川ちなつ:大久保瑠美／杉浦綾乃:藤田咲／池田千歳:豊崎愛生／大室櫻子:加藤英美里／古谷向日葵:三森すずこ<br><br>原作:なもり（コミック百合姫・一迅社刊）／監督:畑　博之／シリーズ構成:畑　博之・深見
+    真／キャラクターデザイン・総作画監督:谷口元浩／アニメーション制作:ＴＹＯアニメーションズ／製 作:七森中ごらく部
+  length_seconds: 1435
+  content_id: so31960855
+  default_thread_id: 1505898449
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31960855
+cast: "[キャスト]<br>赤座あかり:三上枝織／歳納京子:大坪由佳／船見結衣:津田美波／吉川ちなつ:大久保瑠美／杉浦綾乃:藤田咲／池田千歳:豊崎愛生／大室櫻子:加藤英美里／古谷向日葵:三森すずこ"
+staff: "[スタッフ]<br>原作:なもり（コミック百合姫・一迅社刊）／監督:畑　博之／シリーズ構成:畑　博之・深見 真／キャラクターデザイン・総作画監督:谷口元浩／アニメーション制作:ＴＹＯアニメーションズ／製
+  作:七森中ごらく部"
+produced_year: "[製作年]<br>2015年"
+copyright: "（C）2015 なもり/一迅社・七森中ごらく部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆるゆり
+- !ruby/hash:SeasonHash
+  title: ゆるゆり♪♪
+- !ruby/hash:SeasonHash
+  title: ゆるゆり　なちゅやちゅみ！
+- !ruby/hash:SeasonHash
+  title: ゆるゆり なちゅやちゅみ！+　+1
+- !ruby/hash:SeasonHash
+  title: ゆるゆり さん☆ハイ！

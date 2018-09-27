@@ -1,0 +1,64 @@
+--- !ruby/hash:SeasonHash
+title: マシンロボ クロノスの大逆襲｢戦場の記憶｣
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/9/10439_1_6.png?1427216400000
+outline: マシンロボ達が平和に暮らしていたクロノス星。しかし、そこに悪の宇宙犯罪組織ギャンドラーが現れた。彼らはハイリビードという無限のエネルギーを狙ってクロノス星にやってきたという。
+  しかし、ハイリビードの鍵を握っていると思われたクロノス族の族長、キライ・ストールはギャンドラーとの戦いで命を落としてしまった。キライの息子にして天空宙心拳の伝承者、ロム・ストールは父の仇を討つ旅に出る。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：羽原信義
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：あかのたちお
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉田浩
+  type: staff
+- !ruby/hash:TagHash
+  name: マシンロボシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 清水勝則
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
+  type: other
+- !ruby/hash:TagHash
+  name: 山田高裕
+  type: other
+- !ruby/hash:TagHash
+  name: 東条俊寿
+  type: other
+- !ruby/hash:TagHash
+  name: 原口沢清
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: マシンロボ クロノスの大逆襲｢戦場の記憶｣
+  description: 井上和彦:ロム／水谷優子:レイナ／大滝進矢:ジェット／橋本晃一:ドリル／桜井敏治:ジム／笹岡繁蔵:ガデス／秋元羊介:ガルディ／高橋ひろ子:ディオンドラ<br><br>監督:吉田浩／キャラクターデザイン:羽原信義／メカニックデザイン:原口沢清,山田高裕／美術監督:東条俊寿,渡辺佳人／音楽:あかのたちお／音響監督:清水勝則／作画監督:伊藤久美子
+  length_seconds: 1404
+  content_id: so32151659
+  default_thread_id: 1508835480
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32151659
+cast: "[キャスト]<br>井上和彦:ロム／水谷優子:レイナ／大滝進矢:ジェット／橋本晃一:ドリル／桜井敏治:ジム／笹岡繁蔵:ガデス／秋元羊介:ガルディ／高橋ひろ子:ディオンドラ"
+staff: "[スタッフ]<br>監督:吉田浩／キャラクターデザイン:羽原信義／メカニックデザイン:原口沢清,山田高裕／美術監督:東条俊寿,渡辺佳人／音楽:あかのたちお／音響監督:清水勝則／作画監督:伊藤久美子"
+produced_year: "[製作年]<br>1987年"
+copyright: "(C) PRODUCTION REED 1987"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: マシンロボ クロノスの大逆襲
+- !ruby/hash:SeasonHash
+  title: マシンロボ ぶっちぎりバトルハッカーズ
+- !ruby/hash:SeasonHash
+  title: レイナ剣狼伝説I
+- !ruby/hash:SeasonHash
+  title: レイナ剣狼伝説II
+- !ruby/hash:SeasonHash
+  title: レイナ剣狼伝説III
+- !ruby/hash:SeasonHash
+  title: LIGHTNING TRAP LEINA & LAIKA

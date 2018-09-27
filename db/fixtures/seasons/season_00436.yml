@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/91/9/21919_1_6.png?1512979205000
+outline: 古代に海中に住み、絶滅したと考えられていたドラゴノザウルスが突然、東京を襲った。タンカーや石油タンクを食べてますます巨大化していく。政府は日本中のロボットを集め、強大なロボット軍団を組織して大海獣を迎え撃とうと考えた。その要請にグレンイザー、ゲッターロボG、グレートマジンガー、そして、ボスボロット、ダイアナA、ビーナスAなどが次々と集まった。だが、大海獣はロボットたちの一斉攻撃をあびてもトカゲのように再生し、また襲ってくるのだった…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 富山敬
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷明
+  type: cast
+- !ruby/hash:TagHash
+  name: 富田耕生
+  type: cast
+- !ruby/hash:TagHash
+  name: 石丸博也
+  type: cast
+- !ruby/hash:TagHash
+  name: キートン山田
+  type: cast
+- !ruby/hash:TagHash
+  name: 野田圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺宙明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：菊池俊輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：明比正行
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石川賢
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1976年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+  description: 古代に海中に住み、絶滅したと考えられていたドラゴノザウルスが突然、東京を襲った。タンカーや石油タンクを食べてますます巨大化していく。政府は日本中のロボットを集め、強大なロボット軍団を組織して大海獣を迎え撃とうと考えた。その要請にグレンイザー、ゲッターロボG、グレートマジンガー、そして、ボスボロット、ダイアナA、ビーナスAなどが次々と集まった。だが、大海獣はロボットたちの一斉攻撃をあびてもトカゲのように再生し、また襲ってくるのだった…。<br><br>宇門大介（デューク・フリード）:富山敬／兜甲児:石丸博也／剣鉄也:野田圭一／流竜馬:神谷明／神隼人:山田俊司／早乙女博士:富田耕生<br><br>原作:永井豪・石川賢／監督:明比正行／脚本:高久進／音楽:菊池俊輔・渡辺宙明／撮影:目黒宏
+  length_seconds: 1856
+  content_id: so32487639
+  default_thread_id: 1514363083
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32487639
+cast: "[キャスト]<br>宇門大介（デューク・フリード）:富山敬／兜甲児:石丸博也／剣鉄也:野田圭一／流竜馬:神谷明／神隼人:山田俊司／早乙女博士:富田耕生"
+staff: "[スタッフ]<br>原作:永井豪・石川賢／監督:明比正行／脚本:高久進／音楽:菊池俊輔・渡辺宙明／撮影:目黒宏"
+produced_year: "[製作年]<br>1976年"
+copyright: "©ダイナミック企画・東映アニメーション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボＧ　空中大激突
+- !ruby/hash:SeasonHash
+  title: 宇宙円盤大戦争
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボ
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対暗黒大将軍
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対デビルマン

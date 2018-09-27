@@ -1,0 +1,47 @@
+--- !ruby/hash:SeasonHash
+title: つぶやき隊
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/7/21887_1_6.png?1510545671000
+outline: 身近にある物や動物、人物がキモかわキャラクターとして、通称“つぶやき隊”の一員となって普段、心の内に秘めている思いをつぶやきまくる、いわば今流行りのツイッターにあやかったクスっと笑える癒し系アニメーションなう。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：谷口崇
+  type: staff
+- !ruby/hash:TagHash
+  name: つぶやき隊シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 01～05
+  title: 着ぐるみ職人君／歯ブラシ君／鳩君／しったかキャスター君／足の指君
+  description: キャラクター・作画:谷口崇／脚本・アニメーション:鈴木ワタル／製作:ティーオーエンタテインメント<br><br>次話→so32296680
+  length_seconds: 1479
+  content_id: so32296681
+  default_thread_id: 1511141363
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296681
+- !ruby/hash:EpisodeHash
+  episode_no: 06～10
+  title: 電柱君／犬君／ＴＶのリモコン君／携帯クリーナー君／きゅうり君
+  description: キャラクター・作画:谷口崇／脚本・アニメーション:鈴木ワタル／製作:ティーオーエンタテインメント<br><br>so32296681←前話　第一話→so32296681
+  length_seconds: 1315
+  content_id: so32296680
+  default_thread_id: 1511141243
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32296680
+staff: "[スタッフ]<br>キャラクター・作画:谷口崇／脚本・アニメーション:鈴木ワタル／製作:ティーオーエンタテインメント"
+produced_year: "[製作年]<br>2011年"
+copyright: "©2011ティー・オーエンタテインメント"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: つぶやき隊　～つぶやき続けて4作目～
+- !ruby/hash:SeasonHash
+  title: つぶやき隊　～つぶやき続けて３作目～
+- !ruby/hash:SeasonHash
+  title: つぶやき隊　～まだまだ言いたいことがある～

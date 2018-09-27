@@ -1,0 +1,204 @@
+--- !ruby/hash:SeasonHash
+title: AIR
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/1/20331_1_6.png?1440556524000
+outline: 大ヒットを記録した人気ゲーム｢AIR｣。その素晴らしいストーリーと音楽のハーモニーが織りなす世界観はそのままに、ゲーム版では創造しえなかった独自の演出を加えてアニメ化！DVDは驚異の売上を記録し、さらにアニメ作品としては異例の早さでブルーレイBOXが発売されるなど大人気の｢AIR｣をお届け！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 柚木涼香
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 神奈延年
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 今野宏美
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻見
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：武本康弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：志茂文彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石原立也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Key
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ビジュアルアーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：北之原孝將
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：三好一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Lia
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 両手に花？
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: かぜ～breeze～
+  description: 国崎往人は行く先々で人形を使った芸を見せながら旅を続ける青年。ある夏の日、往人の前に神尾観鈴という少女が現れる。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>次話→so33801249
+  length_seconds: 1449
+  content_id: so33801248
+  default_thread_id: 1536026298
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801248
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: まち～town～
+  description: 観鈴の家に居候することになった往人は、街で霧島佳乃という少女に出くわす。往人は佳乃の姉で医者の霧島聖から、診療所で働かないかと誘われる。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801248←前話｜次話→so33801250　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801249
+  default_thread_id: 1536026283
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801249
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: こえ～whisper～
+  description: 佳乃を追って神社にやってきた往人と観鈴は、不思議なススキの野原の情景に包まれる。往人が倒れた佳乃を抱き起こすと、佳乃は・・・。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801249←前話｜次話→so33801251　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801250
+  default_thread_id: 1536026408
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801250
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: はね～plume～
+  description: 聖から佳乃がいなくなったと聞かされた往人と観鈴。2人は佳乃を捜しに再び神社にやって来る。佳乃を見つけて駆け寄る往人だが・・・。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801250←前話｜次話→so33801161　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801251
+  default_thread_id: 1536026402
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801251
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: つばさ～wing～
+  description: 往人は夢を見ていた。母親から聞かされた少女にまつわる夢だった。夢のことが気にかかる往人だが・・・。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801251←前話｜次話→so33801160　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801161
+  default_thread_id: 1536024784
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801161
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: ほし～star～
+  description: 廃線になった駅舎に住み始めた往人。そこへ、家を出た遠野美凪も一緒に住み始めるが・・・。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801161←前話｜次話→so33801252　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801160
+  default_thread_id: 1536024903
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801160
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: ゆめ～dream～
+  description: ある日、観鈴が倒れてしまう。介抱する往人は、観鈴の日記を見つける。日記に書かれていた内容とは・・・。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801160←前話｜次話→so33801118　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801252
+  default_thread_id: 1536026294
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801252
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: なつ～summer～
+  description: 翼人を守る任務に就いた柳也は、神の使いとされている翼人・神奈備命と彼女に仕えている女官・裏葉に出会う。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801252←前話｜次話→so33801117　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801118
+  default_thread_id: 1536024389
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801118
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: つき～moon～
+  description: 追っ手から逃れ、ついに神奈の母に出会えた柳也たち。だが、神奈の母は柳也にむかい｢神奈を連れて今すぐ山を下りなさい｣と命じる。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801118←前話｜次話→so33801116　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801117
+  default_thread_id: 1536024401
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801117
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: ひかり～light～
+  description: 夏休みの前日。下校途中の観鈴は1羽のカラスを拾う。夕焼けを見上げながら観鈴はカラスに｢そら｣という名前をつけるのだった。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801117←前話｜次話→so33801115　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801116
+  default_thread_id: 1536024363
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801116
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: うみ～sea～
+  description: 往人の夢を見ていたとそらに話す観鈴は、往人がいなくても一人で頑張ると決意する。そらを連れて外出し、一休みしているところへ観鈴の母・晴子がやってくる。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801116←前話｜次話→so33801114　第一話→so33801248
+  length_seconds: 1449
+  content_id: so33801115
+  default_thread_id: 1536024395
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801115
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: そら～air～
+  description: 病状が悪化している観鈴に、晴子は翌日の夏祭りの話をし｢明日は2人で最高に楽しい日にしよう｣と約束するのだが・・・。<br><br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川
+    綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会<br><br>(C)VisualArt's/Key/翼人伝承会<br><br>so33801115←前話　第一話→so33801248
+  length_seconds: 1420
+  content_id: so33801114
+  default_thread_id: 1536024387
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33801114
+cast: "[キャスト]<br>国崎往人:小野大輔／神尾観鈴:川上とも子／霧島佳乃:岡本麻見／遠野美凪:柚木涼香／神尾晴子:久川 綾／霧島 聖:冬馬由美／みちる:田村ゆかり／ポテト:今野宏美／神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子"
+staff: "[スタッフ]<br>プロデューサー:中山佳久、中村伸一、金庭こず恵、八田陽子／監督・ディレクター:石原立也、山本寛、武本康弘、北之原孝將、荒谷朋恵、三好一郎／原作:Key／ビジュアルアーツ／脚本:志茂文彦／音楽:主題歌：｢鳥の詩｣Lia／制作:翼人伝承会"
+produced_year: "[製作年]<br>2005年"
+copyright: "(C)VisualArt's/Key/翼人伝承会"
+related_seasons: !ruby/array:Hashie::Array []

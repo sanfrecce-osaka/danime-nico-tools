@@ -1,0 +1,128 @@
+--- !ruby/hash:SeasonHash
+title: OVA『ToHeart2ダンジョントラベラーズ』
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/6/10146_1_6.png?1427216400000
+outline: まーりゃん先輩が開発したという、いかにもアヤシげなゲームマシンのせいで見知らぬ世界に飛ばされてしまった貴明とヒロインたち。そこは、剣と魔法が似合うRPGのようなファンタジー世界だった。冒険者コスチュームに身を包んだヒロインたちは、元の世界に戻るべくダンジョンの最深層をめざす・・・!!
+  ここは本当にゲームの世界なのか? そして、地下迷宮の奥で待ち受ける｢最悪の災厄｣とは果たして・・・!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏樹リオ
+  type: cast
+- !ruby/hash:TagHash
+  name: 力丸乃りこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島沙樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田小南美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚さより
+  type: cast
+- !ruby/hash:TagHash
+  name: 長谷優里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桂憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：カオスプロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤やすひさ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：柳沢まさひで
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：AQUAPLUS
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：みつみ美里
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：カワタヒサシ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：甘露樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：なかむらたけし
+  type: staff
+- !ruby/hash:TagHash
+  name: ToHeartシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: "｢サイアクのサイヤク｣"
+  description: 元の世界に戻る手がかりを求めて、日々ダンジョンに潜るヒロインたち。Lvも上がり、はなればなれになっていたパーティメンバーも揃い、いよいよ最下層を目指そうと意気込むささらたち。そんなある朝、貴明が忽然と姿を消してしまう。彼の部屋には1通の置手紙が残されており・・・。<br><br>柚原このみ:長谷優里奈／向坂
+    環:伊藤 静／小牧愛佳:力丸乃りこ／十波由真:生天目仁美／姫百合珊瑚:石塚さより／姫百合瑠璃:吉田小南美／久寿川ささら:小野涼子／まーりゃん:小暮英麻／ルーシー・マリア・ミソラ:夏樹リオ／笹森花梨:中島沙樹／草壁優季:佐藤利奈／向坂雄二:鳥海浩輔／河野貴明:福山
+    潤他<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里､カワタヒサシ､甘露 樹､なかむらたけし／キャラクターデザイン:柳沢まさひで,桂
+    憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2DT Works<br><br>次話→so32230864
+  length_seconds: 1623
+  content_id: so32230833
+  default_thread_id: 1510023988
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230833
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: "｢たいせつなもの｣"
+  description: ダンジョンの最下層で、最後の敵・イルファを見事攻略した貴明たち。ようやく元の世界に戻れると思っていたが、どうやらそう都合よくいかないらしい…。イルファによると、ダンジョンのどこかに隠された“あるモノ”を見つける必要があるという。元の世界へ戻るキーアイテム“黒くててかてかした例のアレ”を求めて、ヒロインたちは再びダンジョンへと向かうのであった…。<br><br>柚原このみ:長谷優里奈／向坂
+    環:伊藤 静／小牧愛佳:力丸乃りこ／十波由真:生天目仁美／姫百合珊瑚:石塚さより／姫百合瑠璃:吉田小南美／久寿川ささら:小野涼子／まーりゃん:小暮英麻／ルーシー・マリア・ミソラ:夏樹リオ／笹森花梨:中島沙樹／草壁優季:佐藤利奈／向坂雄二:鳥海浩輔／河野貴明:福山
+    潤他<br><br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里､カワタヒサシ､甘露 樹､なかむらたけし／キャラクターデザイン:柳沢まさひで,桂
+    憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2DT Works<br><br>so32230833←前話　第一話→so32230833
+  length_seconds: 1774
+  content_id: so32230864
+  default_thread_id: 1510024770
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230864
+cast: "[キャスト]<br>柚原このみ:長谷優里奈／向坂 環:伊藤 静／小牧愛佳:力丸乃りこ／十波由真:生天目仁美／姫百合珊瑚:石塚さより／姫百合瑠璃:吉田小南美／久寿川ささら:小野涼子／まーりゃん:小暮英麻／ルーシー・マリア・ミソラ:夏樹リオ／笹森花梨:中島沙樹／草壁優季:佐藤利奈／向坂雄二:鳥海浩輔／河野貴明:福山
+  潤他"
+staff: "[スタッフ]<br>原作:｢ToHeart2｣(AQUAPLUS)／監督:坂田純一／オリジナルキャラクターデザイン:みつみ美里､カワタヒサシ､甘露
+  樹､なかむらたけし／キャラクターデザイン:柳沢まさひで,桂 憲一郎,加藤やすひさ／アニメーション制作:カオスプロジェクト/AQUAPLUS／製作:TH2DT Works"
+produced_year: "[製作年]<br>2012年"
+copyright: "©2012 AQUAPLUS/TH2DT Works"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ToHeart
+- !ruby/hash:SeasonHash
+  title: ToHeart Remember my memories
+- !ruby/hash:SeasonHash
+  title: ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA ToHeart2
+- !ruby/hash:SeasonHash
+  title: OVA『ToHeart2ad』
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adplus』
+- !ruby/hash:SeasonHash
+  title: OVA 『ToHeart2 adnext』

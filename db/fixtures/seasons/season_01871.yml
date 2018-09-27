@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: ぼくの孫悟空
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/5/10925_1_6.png?1427216400000
+outline: 五百年の月日が流れ、通りがかりの旅の僧、三蔵法師に助けられた孫悟空は、彼のお供をして天竺に向かうことになる。 旅の仲間との出会い、行く手に待ち受ける魔物たちとの闘い、絶えず付きまとう謎の男、崑崙、そして孫悟空の隠された秘密…。波乱万丈な冒険に満ちた孫悟空の物語が、いま始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 納谷六朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 森田順平
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木ヒロミツ
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井絵理子
+  type: cast
+- !ruby/hash:TagHash
+  name: 優香
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：手塚治虫
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：浜口史郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉村文宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：杉野昭夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：手塚文芸部
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：夢枕獏
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 久保田稔
+  type: other
+- !ruby/hash:TagHash
+  name: 小林克良
+  type: other
+- !ruby/hash:TagHash
+  name: 河野次郎
+  type: other
+- !ruby/hash:TagHash
+  name: 宇田川純男
+  type: other
+- !ruby/hash:TagHash
+  name: 森田清次
+  type: other
+- !ruby/hash:TagHash
+  name: 柴田正人
+  type: other
+- !ruby/hash:TagHash
+  name: 松谷孝征
+  type: other
+- !ruby/hash:TagHash
+  name: 清水義裕
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ぼくの孫悟空
+  description: 花果山の石から生まれた猿、孫悟空。負けん気が強くお調子者、そのうえ不思議な力を持っていました。やがて猿の王様になり大活躍。しかし調子に乗り過ぎて天上界で大暴れ、釈迦に五行山の中へ閉じ込められてしまう・・・。<br><br>孫悟空:優香／三蔵法師:森田順平／沙悟浄:大塚明夫／猪八戒:鈴木ヒロミツ／愛鈴:今井絵理子／崑崙仙人:納谷六朗<br><br>原作:手塚治虫／監督:杉野昭夫、吉村文宏／脚本:夢枕
+    獏、手塚文芸部／製作:松谷孝征、野沢克己／企画:清水義裕、古徳 稔、大谷章二／プロデューサー:宇田川純男、久保田 稔、五十嵐晃博／音楽:浜口史郎／アニメーションディレクター:内田
+    裕／作画監督:杉野昭夫／美術監修:河野次郎／美術監督:柴田正人／撮影スーパーバイザー:高橋宏固／テクニカルディレクター:高橋賢太郎／撮影監督:荒川浩介／編集:森田清次／音響監督:小林克良／音響効果:糸川幸良／ミュージックディレクター:鈴木清司／録音:榎本慎一<br><br>(C)手塚プロダクション/アールビバン
+  length_seconds: 5705
+  content_id: so33462631
+  default_thread_id: 1530581104
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33462631
+cast: "[キャスト]<br>孫悟空:優香／三蔵法師:森田順平／沙悟浄:大塚明夫／猪八戒:鈴木ヒロミツ／愛鈴:今井絵理子／崑崙仙人:納谷六朗"
+staff: "[スタッフ]<br>原作:手塚治虫／監督:杉野昭夫、吉村文宏／脚本:夢枕 獏、手塚文芸部／製作:松谷孝征、野沢克己／企画:清水義裕、古徳 稔、大谷章二／プロデューサー:宇田川純男、久保田
+  稔、五十嵐晃博／音楽:浜口史郎／アニメーションディレクター:内田 裕／作画監督:杉野昭夫／美術監修:河野次郎／美術監督:柴田正人／撮影スーパーバイザー:高橋宏固／テクニカルディレクター:高橋賢太郎／撮影監督:荒川浩介／編集:森田清次／音響監督:小林克良／音響効果:糸川幸良／ミュージックディレクター:鈴木清司／録音:榎本慎一"
+produced_year: "[製作年]<br>2003年"
+copyright: "(C)手塚プロダクション/アールビバン"
+related_seasons: !ruby/array:Hashie::Array []

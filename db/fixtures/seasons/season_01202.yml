@@ -1,0 +1,257 @@
+--- !ruby/hash:SeasonHash
+title: ハマトラ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/13/1/11131_1_6.png?1427216400000
+outline: "“ミニマム”それは、｢小さな奇跡｣とも呼ばれるごく限られた人間にのみ先天的に発現する特殊能力。その能力を身に付けた者は“ミニマムホルダー”と呼ばれる…。2014年
+  横浜 ナイスとムラサキのコンビ探偵“ハマトラ”は、事務所としてテーブルを間借りしているカフェ・ノーウェアで、仲間たちと一緒に今日も仕事の依頼を待っていた。そんな中、2人の元へと舞い込んだある依頼が、2人と旧知の間柄の警察官・アートが追いかける｢連続殺人事件｣と、奇妙な繋がりを見せる。その事件は、被害者が全員“能力者(ミニマムホルダー)”というものだった。ミニマムホルダーであるナイスとムラサキも、否応無しに事件の渦中へと巻き込まれて行く…。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 安野希世乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 秋元羊介
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：岸誠二
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：吉森信
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：DIVE II entertainment
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：熊谷純
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：DIVEII entertainment
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAZ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：和図悠
+  type: staff
+- !ruby/hash:TagHash
+  name: ハマトラシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: どこかにカレー
+  type: other
+- !ruby/hash:TagHash
+  name: 待田堂子
+  type: other
+- !ruby/hash:TagHash
+  name: 北島行徳
+  type: other
+- !ruby/hash:TagHash
+  name: 小玉有起
+  type: other
+- !ruby/hash:TagHash
+  name: 岸誠二
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: コロンブスの卵
+  description: '横浜にあるカフェノーウェアのテーブルを事務所として間借りし、コンビ探偵“ハマトラ”として活動するナイスとムラサキ。ふたりは、日々持ち込まれる様々な事件の解決のために奔走していた。そんななか、彼らのもとに、誘拐事件の犯人確保、金庫護衛のふたつの依頼が舞い込むのだが……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>次話→so32597048'
+  length_seconds: 1435
+  content_id: so32597077
+  default_thread_id: 1516163603
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597077
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 愛しきクソヤロウ
+  description: 'ある日ハマトラ探偵事務所に横浜羽高校の生徒セオとその幼馴染レイが訪れた。恩師である部活の顧問が行方不明になっており、彼の居所を探して欲しいという依頼を受け、ナイスとムラサキは高校内での潜入捜査を開始する。しかし、セオにはある秘密があった……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597077←前話｜次話→so32597049　第一話→so32597077'
+  length_seconds: 1436
+  content_id: so32597048
+  default_thread_id: 1516163256
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597048
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 持つ者、持たざる者
+  description: 'ハマトラ探偵事務所に、青少年保護健全平等組合の理事である、伊藤が訪れた。伊藤はハマトラに、一般人には秘匿されているはずのファクルタース学園の調査を依頼する。一方、ミニマムホルダー連続猟奇殺人事件を追っていたアートは、青少年保護健全平等組合の交際記録を辿り、ある人物と接触する……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597048←前話｜次話→so32597050　第一話→so32597077'
+  length_seconds: 1436
+  content_id: so32597049
+  default_thread_id: 1516163309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597049
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 彷徨うトーテムポール
+  description: 'ミニマムホルダー連続猟奇殺人事件犯人逮捕のため、アートはドイツから、ハニーとスリーを呼び寄せる。日本に帰国したハニーとスリーは、空港で｢マイティ・スクリプト｣が入ったカバンを取り違えられてしまう。手元に残ったカバンに入っていたのは、トーテムポールだった……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597049←前話｜次話→so32597117　第一話→so32597077'
+  length_seconds: 1436
+  content_id: so32597050
+  default_thread_id: 1516163307
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597050
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 汗と筋肉とアタシ
+  description: '商店街でくじ引きを引いたはじめとコネコは、なんと1等の温泉施設一泊宿泊券を引き当てる。ハニーを誘い、温泉施設に出かけていく女子3人。連れて行ったもらえなかったハマトラコンビと便利屋コンビには、それぞれ仕事の依頼が舞い込むのだが……？<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597050←前話｜次話→so32597125　第一話→so32597077'
+  length_seconds: 1436
+  content_id: so32597117
+  default_thread_id: 1516164978
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597117
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 預言者の苦悩
+  description: 'バースデイとレシオの高校時代からの友人である、イラストレーターのチユウが誘拐された。チユウのマネージャーである梨平から事件解決の依頼を受けたバースデイとレシオは、｢チユウは犯人に心当たりがあったらしい｣という情報から、チユウの友人であるミスティに会いにいくのだが……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597117←前話｜次話→so32597124　第一話→so32597077'
+  length_seconds: 1435
+  content_id: so32597125
+  default_thread_id: 1516164931
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597125
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 黒いコスモス
+  description: 'ミニマム能力者収容所から、何者かが特S機密の保存ミニマム標本体頭部を持ち出した。あらかじめ許可を取った警察関係者以外は入れない施設の中から、一体どのように標本は持ち出されたのか？アートはナイスの協力を拒否し、１人、捜査を進めるが……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597125←前話｜次話→so32597123　第一話→so32597077'
+  length_seconds: 1435
+  content_id: so32597124
+  default_thread_id: 1516164937
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597124
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ゴーヤは血に濡れて
+  description: 'ハマトラ探偵事務所に、厚生省に勤める柊修二から、沖縄で「イデアル」を精製している男を連行してほしいという依頼が寄せられる。横浜羽高校の生徒と教育実習生に扮し、沖縄に向かうナイスとムラサキ。そこで２人は横浜羽高校対地元高校との抗争（？）に巻き込まれる……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597124←前話｜次話→so32597122　第一話→so32597077'
+  length_seconds: 1435
+  content_id: so32597123
+  default_thread_id: 1516165164
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597123
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 美少女と野獣
+  description: '沖縄土産を手に警察署を訪れるナイス。しかしアートは手が離せないと、ナイスに会おうとしない。一方、ミニマムホルダー連続猟奇殺人の捜査チームの編成を大きく変えるということで、ハニーとスリーにもアートから待機が言い渡される。そんな中スリーについて、とある依頼がハマトラに持ち込まれ……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597123←前話｜次話→so32597121　第一話→so32597077'
+  length_seconds: 1435
+  content_id: so32597122
+  default_thread_id: 1516164935
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597122
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 弱者の行進
+  description: '突如、後発ミニマムホルダーが暴れ出し、混乱を極める横浜。一般の人々も、ミニマムの存在を知るところとなる。そんな中、刑務所から抜け出してきた、アウトサイダーの貴弘が、ナイスたちの前に現れる。貴弘は、ハマトラに、元の体に戻る方法を探して欲しいと依頼するが……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597122←前話｜次話→so32597120　第一話→so32597077'
+  length_seconds: 1435
+  content_id: so32597121
+  default_thread_id: 1516164956
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597121
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 勝者の敗走
+  description: 'ついにモラルにたどり着いたナイスは、ノーウェアでモラルから全ての真相を聞き出す。一方はじめ、貴弘のダイエットを手伝っていたムラサキは、突如現れた後発ミニマムホルダーの集団と戦っていた。必死に戦うムラサキの姿に、貴弘は強くなりたいと願う……。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597121←前話｜次話→so32597119　第一話→so32597077'
+  length_seconds: 1435
+  content_id: so32597120
+  default_thread_id: 1516164800
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597120
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 覚悟(エゴ)
+  description: '暴動を起こすミニマムホルダーや、ミニマムの力を手に求める人々で横浜の街は混沌としていた。すべての元凶であるモラルを止めるため、ナイス、ムラサキはモラルと対峙する。また、貴弘の姿に感銘を受けたハニー、スリー、レシオ、バースデイも、それぞれ横浜の街を守るために動き出す。<br><br>ナイス:逢坂良太／ムラサキ:羽多野
+    渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香<br><br>原案:小玉有起・松舞
+    夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷 純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図
+    悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+    adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣<br><br>so32597120←前話　第一話→so32597077'
+  length_seconds: 1435
+  content_id: so32597119
+  default_thread_id: 1516164960
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32597119
+cast: "[キャスト]<br>ナイス:逢坂良太／ムラサキ:羽多野 渉／はじめ:加藤英美里／アート:神谷浩史／コネコ:安野希世乃／バースデイ:福山 潤／レシオ:中村悠一／ハニー:喜多村英梨／スリー:村瀬克輝／マスター:斧アツシ／ガスケ:秋元羊介／マオ:江口拓也／セオ:岡本信彦／レイ:大橋彩香"
+staff: "[スタッフ]<br>原案:小玉有起・松舞 夏／原作:カフェノーウェア／総監督: 岸 誠二／監督:木村寛／プロジェクト構成: 北島行徳／アニメシリーズ構成:熊谷
+  純、待田堂子／脚本:熊谷 純／キャラクター原案:小玉有起／キャラクターデザイン:和図 悠／カラーアートディレクション:ファンタジスタ歌麿呂／音楽:吉森 信／音楽制作:DIVEⅡentertainment／アニメーション制作:NAZ／オープニング曲:livetune
+  adding Yuuki Ozaki(from Galileo Galilei)｢FLAT｣／エンディング曲:羽多野 渉 ｢Hikari｣"
+produced_year: "[製作年]<br>2014年"
+copyright: "(C)カフェノーウェア/ハマトラ製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: リプライ ハマトラ

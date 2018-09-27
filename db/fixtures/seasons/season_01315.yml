@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/5/10785_1_6.png?1427216400000
+outline: 笑い脱力系の即興芝居とCGアニメーションを融合させた、ムダ使いCGアニメ・ショートコメディー。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: サノシュンスケ
+  type: cast
+- !ruby/hash:TagHash
+  name: 森りょういち
+  type: cast
+- !ruby/hash:TagHash
+  name: 清野由佳理
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪谷光昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊佐山裕大
+  type: cast
+- !ruby/hash:TagHash
+  name: わたさわみちよ
+  type: cast
+- !ruby/hash:TagHash
+  name: 垣内由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#5"
+  title: バカップル 写真でもめる/11PM 深夜の話し合い/グローバルなリリックにのせて/新婚ちゃんの男子ごはん/父と娘 初めてのドライブ
+  description: "#1今日はユキピョンの誕生日。マチャヒコが、記念にユキピョンの写真を取ろうとするのだが…　#2今日もいつものように帰宅しようとした夫。ドアを開け玄関に入った途端、待ち構えていたのは妻であった…　#3リリックさんのラップの師匠であるスネイルさんに会った帰りの車。地球儀をプレゼントされたのだが…　#4新婚ちゃんの夫ユーイチが、妻ヨーコに初めての手料理をふるまうことになるのだが…　#5車の免許を取得した娘が、初めて父親を隣に乗せドライブするのだが…<br><br>【声の出演】:サノ
+    シュンスケ、清野由佳理、垣内 由香、松本 剛、藤井 智子、坪谷 光昭、わたさわみちよ、森 りょういち、伊佐山 裕大<br><br>監督:森りょういち<br><br>次話→so31885321"
+  length_seconds: 1499
+  content_id: so31885320
+  default_thread_id: 1504801990
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885320
+- !ruby/hash:EpisodeHash
+  episode_no: "#6-#10"
+  title: 修学旅行ガールズ/ショータとコータのロックバンド始めました/SNSの情事/自動車学校 ドライバーの心得/ヒーローショー
+  description: "#6修学旅行の夜。旅館でお互い初めて同士の女子中学生が寝る前にひそひそと会話をしだすのだが…　#7ショータとコータが学校の文化祭でバンドを組むことになったので放課後、相談をするのだが…。　#8部長と桐山くんが営業の帰りに、バス停でSNSについての相談事なのだが…　#9チャラい若者がはじめて自動車教習所に来たのだが、そこには驚きの教官が待っていた…　#10ヒーローショーのイベント前にトラブル発生。先輩と後輩が回避しようとするのだが…<br><br>【声の出演】:サノ
+    シュンスケ、清野由佳理、垣内 由香、松本 剛、藤井 智子、坪谷 光昭、わたさわみちよ、森 りょういち、伊佐山 裕大<br><br>監督:森りょういち<br><br>so31885320←前話　第一話→so31885320"
+  length_seconds: 1506
+  content_id: so31885321
+  default_thread_id: 1504801918
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31885321
+cast: "[キャスト]<br>【声の出演】:サノ シュンスケ、清野由佳理、垣内 由香、松本 剛、藤井 智子、坪谷 光昭、わたさわみちよ、森 りょういち、伊佐山
+  裕大"
+staff: "[スタッフ]<br>監督:森りょういち"
+produced_year: "[製作年]<br>2012年"
+copyright: "(C)FOREST Hunting One/ CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

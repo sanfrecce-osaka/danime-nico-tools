@@ -1,0 +1,52 @@
+--- !ruby/hash:SeasonHash
+title: U900の｢ウクレレひきまショー｣
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/31/2/11312_1_6.png?1427216400000
+outline: U900(ゆーきゅうひゃく)はあみぐるみのウクレレ・デュオ。 兎野ウーと熊野クレレの二人組。そんなぼくらが送るウクレレバラエティー番組!!ウクレレ大好きな人も
+  ウクレレなんか知らない人も、だれでも楽しめる番組なので 絶対見てね～!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：木原庸佐
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：木原庸佐
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: クレレあがるの巻 他
+  description: クレレあがるの巻 /蚊とりブタレレの巻/タマレレくんを作ってみようの巻/ノミトリオ登場の巻<br><br>出演:兎野ウー、熊野クレレ<br><br>監督:木原庸佐／脚本:木原庸佐<br><br>次話→so31971577
+  length_seconds: 1206
+  content_id: so31971576
+  default_thread_id: 1506062118
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971576
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: クレレのコワイお話の巻 他
+  description: クレレのコワイお話の巻/テルミンひいてみるの巻/コードおぼえるおまじないの巻 /おおきくなる～のうたの巻<br><br>出演:兎野ウー、熊野クレレ<br><br>監督:木原庸佐／脚本:木原庸佐<br><br>so31971576←前話｜次話→so31971578　第一話→so31971576
+  length_seconds: 1206
+  content_id: so31971577
+  default_thread_id: 1506062448
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971577
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ブライニャンがやってきたの巻 他
+  description: ブライニャンがやってきたの巻/キケンなヘビの巻/レッツチューニングの巻/U900のクリスマスの巻<br><br>出演:兎野ウー、熊野クレレ<br><br>監督:木原庸佐／脚本:木原庸佐<br><br>so31971577←前話　第一話→so31971576
+  length_seconds: 1206
+  content_id: so31971578
+  default_thread_id: 1506062138
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971578
+cast: "[キャスト]<br>出演:兎野ウー、熊野クレレ"
+staff: "[スタッフ]<br>監督:木原庸佐／脚本:木原庸佐"
+produced_year: "[製作年]<br>2013年"
+copyright: "©kero"
+related_seasons: !ruby/array:Hashie::Array []

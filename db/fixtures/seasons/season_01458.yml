@@ -1,0 +1,225 @@
+--- !ruby/hash:SeasonHash
+title: TVアニメ「ペルソナ４ ザ・ゴールデン」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/37/0/11370_1_6.png?1478489411000
+outline: 春。都会から離れ穏やかな時間の流れる田舎町。桜の舞い散るなか八十稲羽駅に降り立つひとりの少年・鳴上 悠。家庭の事情から叔父のいるこの町へやってきた悠は、地元の八十神高校へと転入することとなる。そしてはじまる学園生活―。放課後のショッピングモール。街で起こる連続殺人事件。深夜に流れるマヨナカテレビ…。悠と仲間たちに“今度は”一体どんな日々が待ち受けているのだろうか?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 小清水亜美
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 朴璐美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚運昇
+  type: cast
+- !ruby/hash:TagHash
+  name: 神田朱未
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岸誠二
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：田口智久
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：進藤優
+  type: staff
+- !ruby/hash:TagHash
+  name: ペルソナ４シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 熊谷純
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: "「THE GOLDEN DAYS」"
+  description: 都会からの転校生・鳴上悠。駅に降り立った悠は、不思議な雰囲気をまとう少女と出会う。<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>次話→so32202222
+  length_seconds: 1468
+  content_id: so32202220
+  default_thread_id: 1509600764
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202220
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: "「THE PERFECT PLAN」"
+  description: バイクを手に入れた悠は、陽介とナンパを計画する。ところが、その日はマリーとも出かける約束をしていた。<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202220←前話｜次話→so32202243　第一話→so32202220
+  length_seconds: 1468
+  content_id: so32202222
+  default_thread_id: 1509600744
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202222
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: "｢I have amnesia, is it so bad?｣"
+  description: 悠たちと海に遊びに来たマリーは、ふとしたきっかけで自分のことを聞かれるが答えられず……<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202222←前話｜次話→so32202244　第一話→so32202220
+  length_seconds: 1468
+  content_id: so32202243
+  default_thread_id: 1509601550
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202243
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: "「THE MAYONAKA OHDAN MIRACLE QUIZ!」"
+  description: マリーの記憶を取り戻すため、手がかりとなる櫛を調べることにした悠たち。だが、マリーが謎の頭痛に悩まされ、調査は難航する。<br><br>鳴上
+    悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽 完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立
+    透:真殿光昭／イゴール:田の中 勇 (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷 純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸
+    誠二／制作:A-1 Pictures<br><br>so32202243←前話｜次話→so32202245　第一話→so32202220
+  length_seconds: 1468
+  content_id: so32202244
+  default_thread_id: 1509601306
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202244
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: "｢Let’s go get it! Get Pumped!｣"
+  description: 陽介の頼みでジュネスでライブをすることになった悠たち。マリーは思い出作りだと張り切るが……<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202244←前話｜次話→so32202247　第一話→so32202220
+  length_seconds: 1468
+  content_id: so32202245
+  default_thread_id: 1509601532
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202245
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: "｢See？I told you Yu.｣"
+  description: 足立に不吉なものを感じたマリーは、彼の正体を見定めるため後を追うが・・・足立の知られざる内面とは?<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202245←前話｜次話→so32202248　第一話→so32202220
+  length_seconds: 1468
+  content_id: so32202247
+  default_thread_id: 1509601529
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202247
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: "「It’s cliche, so what?」"
+  description: 事件の真相を知るために足立の元へ向かう悠。しかしそこで悠は、足立の内面に触れてしまうことに。<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202247←前話｜次話→so32202249　第一話→so32202220
+  length_seconds: 1453
+  content_id: so32202248
+  default_thread_id: 1509601365
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202248
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: "「Not So Holy Christmas Eve」"
+  description: 悠に１２月２４日の予定を聞かれた千枝、雪子、りせ、直斗。各々がクリスマスデートの誘いだと思い込むが……。<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202248←前話｜次話→so32202250　第一話→so32202220
+  length_seconds: 1453
+  content_id: so32202249
+  default_thread_id: 1509601363
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202249
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: "「A missing piece」"
+  description: 夏にした約束どおり、スキー旅行にやってきた悠たち。みんなで楽しく遊んでいたが、何か引っかかるものを感じていた。<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202249←前話｜次話→so32202251　第一話→so32202220
+  length_seconds: 1453
+  content_id: so32202250
+  default_thread_id: 1509601361
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202250
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: "「Not a friend anymore」"
+  description: 突如光を放ちだしたテレビの中へいざなわれるように入り込んだ悠たち。そこは、姿を消していたマリーが作り出した場所だった。<br><br>鳴上
+    悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽 完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立
+    透:真殿光昭／イゴール:田の中 勇 (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷 純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸
+    誠二／制作:A-1 Pictures<br><br>so32202250←前話｜次話→so32202252　第一話→so32202220
+  length_seconds: 1453
+  content_id: so32202251
+  default_thread_id: 1509601325
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202251
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: "｢Let it OUT! Let it GO!｣"
+  description: すべてを拒絶するクスミノオオカミ。だが、悠はその声を無視し、マリーへ｢本当の望み｣が何かをひたすらに問いかける。<br><br>鳴上
+    悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽 完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立
+    透:真殿光昭／イゴール:田の中 勇 (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野
+    桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷 純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸
+    誠二／制作:A-1 Pictures<br><br>so32202251←前話｜次話→so32202253　第一話→so32202220
+  length_seconds: 1453
+  content_id: so32202252
+  default_thread_id: 1509601284
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202252
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: "｢Welcome Home｣"
+  description: 唯一残された謎、マヨナカテレビの真実を知りたいと思う悠。一方マリーの身体には、異変が起きていた。<br><br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽
+    完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立 透:真殿光昭／イゴール:田の中 勇
+    (特別出演)／マーガレット:大原さやか／マリー:花澤香菜<br><br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+    純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures<br><br>so32202252←前話　第一話→so32202220
+  length_seconds: 1453
+  content_id: so32202253
+  default_thread_id: 1509601367
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202253
+cast: "[キャスト]<br>鳴上 悠:浪川大輔／花村陽介:森久保祥太郎／里中千枝:堀江由衣／天城雪子:小清水亜美／巽 完二:関 智一／久慈川りせ:釘宮理恵／クマ:山口勝平／白鐘直斗:朴璐美／堂島遼太郎:石塚運昇／堂島菜々子:神田朱未／足立
+  透:真殿光昭／イゴール:田の中 勇 (特別出演)／マーガレット:大原さやか／マリー:花澤香菜"
+staff: "[スタッフ]<br>原作:｢ペルソナ4 ザ・ゴールデン｣(アトラス)／ストーリー原案:橋野 桂／キャラクター原案・ペルソナデザイン:副島成記／ペルソナデザインコンセプト:金子一馬／シリーズ構成:熊谷
+  純／キャラクターデザイン:進藤 優／音楽:目黒将司・小林哲也／監督:田口智久／総監督:岸 誠二／制作:A-1 Pictures"
+produced_year: "[製作年]<br>2014年"
+copyright: "©2014 ATLUS ©2014 SEGA/P4GA Committee"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ５」
+- !ruby/hash:SeasonHash
+  title: PERSONA -trinity soul-

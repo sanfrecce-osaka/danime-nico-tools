@@ -1,0 +1,203 @@
+--- !ruby/hash:SeasonHash
+title: ARIA The ORIGINATION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/7/10197_1_6.png?1427216400000
+outline: 惑星改造により生まれた水の惑星、｢アクア｣。その観光都市ネオ・ヴェネツィアで皆が憧れる職業は、ゴンドラを操りウンディーネと呼ばれる水先案内人です。15才の少女、水無灯里(みずなしあかり)はウンディーネになることを夢見て、マンホームからアクアにやって来ました。その灯里が日々修業に励むのは、誉も高い水の3大妖精のひとり、アリシア・フローレンスが経営する水先案内店｢ARIAカンパニー｣。姫屋の藍華や、オレンジぷらねっとのアリスと一緒に、悩んだりすることもあるけれど、プリマ・ウンディーネを目指してがんばっています。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 斎藤千和
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 広橋涼
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 葉月絵理乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：佐藤順一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：吉田玲子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ハルフィルムメーカー
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：浦畑達彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：天野こずえ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：藤咲あゆな
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：竹下健一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：布施木一喜
+  type: staff
+- !ruby/hash:TagHash
+  name: ARIAシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '1'
+  title: "｢その やがて訪れる春の風に…｣"
+  description: 賑やかなカーニバルが終わって、ネオ・ヴェネツィアにまもなく春が訪れようとしています。そんな折、アリシアさんのお客様から、桜の紅茶と桜のジャムが届きました。一足早い春のプレゼントです。アリシアさんの提案で、姫屋の晃さんや藍華、オレンジぷらねっとのアテナさんやアリスも誘ってお茶会を開くことになりました。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>次話→so33796067
+  length_seconds: 1461
+  content_id: so33796068
+  default_thread_id: 1535936791
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796068
+- !ruby/hash:EpisodeHash
+  episode_no: '2'
+  title: "｢その 笑顔のお客様は…｣"
+  description: ある日、シングルの灯里に案内して欲しいという予約の電話がかかってきました。アリシアさんは励ましてくれたけれど、藍華やアリスはシングルの灯里を指名してくるなんて何か理由があるに違いない、と心配になるようなことを言います。そして、予約の日。ARIAカンパニーに現れたのはやさしそうなご婦人でした。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796068←前話｜次話→so33796066　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796067
+  default_thread_id: 1535936768
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796067
+- !ruby/hash:EpisodeHash
+  episode_no: '3'
+  title: "｢その こめられた想いを…｣"
+  description: ネオ・ヴェネツィアでは今日も街のあちこちで建物の修復が行なわれています。そんな建物の話題で盛り上がった灯里たちが、カフェ・フロリアンへお茶をしに行く途中、広場の露店できれいなガラス瓶に入ったチョコレートを売っている青年に出会いました。でも、その時ハプニングが。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796067←前話｜次話→so33796065　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796066
+  default_thread_id: 1535936792
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796066
+- !ruby/hash:EpisodeHash
+  episode_no: '4'
+  title: "｢その 明日を目指すものたちは…｣"
+  description: 今日も大忙しのARIAカンパニー。灯里はアリシアさんの役に立ちたいのですが、シングルの立場ではできることが少なくて…。そんな灯里にアリシアさんはシングルでもお客様を乗せられるトラゲットのお仕事を勧めてくれるのでした。トラゲットのお仕事の日。乗り場に着いた灯里は…。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796066←前話｜次話→so33796063　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796065
+  default_thread_id: 1535936764
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796065
+- !ruby/hash:EpisodeHash
+  episode_no: '5'
+  title: "｢その おもいでのクローバーは…｣"
+  description: 合同練習に勤しむ灯里と藍華、アリスたち。その最中に触れたアテナさんの謳声と、アリシアさんの優雅なオール捌きに3人は改めて感動しました。でも、藍華はアリスの｢天賦の才能は望んで手に入るものではない｣という言葉にどきりとするのでした。アリスと灯里は誰にも負けない才能を持っている…、でも自分には?<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796065←前話｜次話→so33796062　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796063
+  default_thread_id: 1535936781
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796063
+- !ruby/hash:EpisodeHash
+  episode_no: Special Navigation
+  title: "｢その ちょっぴり秘密の場所に…｣"
+  description: 今日はアリシアさんが一日おでかけでARIAカンパニーも臨時休業です。灯里はアリア社長とネオ・ヴェネツィアの街を探検して、おいしいお昼ごはんを食べたり、お買い物をしたり。そんな様子を暁が見かけて後を追いますが、神出鬼没な二人に振り回されてしまいます。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796063←前話｜次話→so33796061　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796062
+  default_thread_id: 1535936766
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796062
+- !ruby/hash:EpisodeHash
+  episode_no: '6'
+  title: "｢その 素敵な課外授業に…｣"
+  description: 今日もドジっ子炸裂のアテナさんにアリスは困り気味。そんな中、合同練習で灯里が藍華に叱られているのを見たアリスは、アリシアさんはどんな風に叱るのか灯里に尋ねます。でも、一度も叱られたことがないと聞いてびっくり。その日からアリスは灯里とアリシアさんの様子をこっそりと窺ってみるのですが…。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796062←前話｜次話→so33796060　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796061
+  default_thread_id: 1535936785
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796061
+- !ruby/hash:EpisodeHash
+  episode_no: '7'
+  title: "｢その ゆるやかな時の中に…｣"
+  description: 今日はARIAカンパニーの創立記念日です。灯里はグランマとアリシアさん、それにアリア社長の一行でネオ・ヴェネツィアンレースで有名なブラーノ島へ1泊旅行にでかけるのでした。そこは引退したARIAカンパニーの先輩ウンディーネであるアンナが嫁いでいった島。その夜、皆で楽しい時間を過ごします。。。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796061←前話｜次話→so33796076　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796060
+  default_thread_id: 1535936774
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796060
+- !ruby/hash:EpisodeHash
+  episode_no: '8'
+  title: "｢その 大切な人の記憶に…｣"
+  description: アリスからアテナさんと二人でピクニックに出かける、と聞いて灯里と藍華はびっくり。アリスは知らないけれど、それはシングル試験なのかも!?そんな二人の驚きをよそに、アリスは楽しみに胸を膨らませます。でも肝心のその日、アテナさんは急な仕事でピクニックは中止に。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796060←前話｜次話→so33796077　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796076
+  default_thread_id: 1535936797
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796076
+- !ruby/hash:EpisodeHash
+  episode_no: '9'
+  title: "｢その オレンジの風につつまれて…｣"
+  description: アリスがついにミドルスクールを卒業。これからずっと灯里や藍華と一緒に練習できる!アリスがひときわ気合の入った合同練習をしたその夜、アテナさんは明日ピクニックに行こうとアリスを誘うのでした。そして翌朝。今日は一日、アテナがお客さんでアリスがウンディーネの役で通す、というアテナの提案を受けて立つアリス。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796076←前話｜次話→so33796146　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796077
+  default_thread_id: 1535936793
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796077
+- !ruby/hash:EpisodeHash
+  episode_no: '10'
+  title: "｢その お月見の夜のときめきは…｣"
+  description: アリスがプリマになって初の営業日。緊張しつつなんとか仕事をこなしていく様子を、灯里と藍華は物陰からそっと見守ります。でも、思うようにいかず落ち込んでしまうアリス。そんなアリスを励ますために、灯里はお月見をしようと提案するのでした。そうして始まった楽しいお月見の会。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796077←前話｜次話→so33796145　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796146
+  default_thread_id: 1535939903
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796146
+- !ruby/hash:EpisodeHash
+  episode_no: '11'
+  title: "｢その 変わりゆく日々に…｣"
+  description: 姫屋のサロンで一人思い悩む晃さん。会社のウンディーネたちがアリスの飛び級昇格の噂話をしているのを耳にして、藍華のことが心配になってしまいます。意を決した晃さんはジェラート屋へと藍華を誘い出します。でも話を切り出せないでいる晃さんに藍華は自分から決意を語り始めました。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796146←前話｜次話→so33796144　第一話→so33796068
+  length_seconds: 1461
+  content_id: so33796145
+  default_thread_id: 1535939911
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796145
+- !ruby/hash:EpisodeHash
+  episode_no: '12'
+  title: "｢その 蒼い海と風の中で…｣"
+  description: 灯里と藍華の二人だけになってしまった合同練習。そのさなか、藍華はもう一緒に練習ができなくなったことを告げます。そして新たに開店する姫屋の支店を任されることも。涙まじりでそう話す藍華のプリマ昇格を灯里は心から祝福しました。早速アリシアさんに藍華の昇格を報告する灯里。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796145←前話｜次話→so33796143　第一話→so33796068
+  length_seconds: 1481
+  content_id: so33796144
+  default_thread_id: 1535939899
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796144
+- !ruby/hash:EpisodeHash
+  episode_no: '13'
+  title: "｢その 新しいはじまりに…｣"
+  description: ついにプリマに昇格した灯里に、アリシアさんは心に秘めていた決意を明かしました。それはアリシアさんがゴンドラ協会の要職について現役を退くということ。話を聞いて駆け付けた藍華とアリスの前で灯里は、｢きっと、大丈夫｣と元気に振舞います。今はまだいつもと変わらぬARIAカンパニーだが…。<br><br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ<br><br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー<br><br>(c)2008天野こずえ/マッグガーデン・ARIAカンパニー<br><br>so33796144←前話　第一話→so33796068
+  length_seconds: 1471
+  content_id: so33796143
+  default_thread_id: 1535939909
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796143
+cast: "[キャスト]<br>水無灯里:葉月絵理乃／藍華:斎藤千和／アリス:広橋涼／アリシア:大原さやか／晃:皆川純子／アテナ:川上とも子／アイ:水橋かおり／アリア社長:西村ちなみ"
+staff: "[スタッフ]<br>監督:佐藤順一／原作:天野こずえ／脚本:藤咲あゆな,浦畑達彦,竹下健一,布施木一喜,吉田玲子／アニメーション制作:ハルフィルムメーカー／制作:ARIAカンパニー"
+produced_year: "[製作年]<br>2008年"
+copyright: "(c)2008天野こずえ/マッグガーデン・ARIAカンパニー"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ARIA The ANIMATION
+- !ruby/hash:SeasonHash
+  title: ARIA The NATURAL
+- !ruby/hash:SeasonHash
+  title: ARIA The OVA～ARIETTA～
+- !ruby/hash:SeasonHash
+  title: ARIA The AVVENIRE

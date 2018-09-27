@@ -1,0 +1,106 @@
+--- !ruby/hash:SeasonHash
+title: ひぐらしのなく頃に煌
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/8/11148_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: ゆきのさつき
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：竜騎士07
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：07th Expansion
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：橘秀樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：阿部智之
+  type: staff
+- !ruby/hash:TagHash
+  name: ひぐらしのなく頃にシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 二重人格
+  type: other
+- !ruby/hash:TagHash
+  name: 川瀬敏文
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: file.01
+  title: ヤリ過ぎ注意!?ノンストップ妄想罰ゲームが炸裂!! 『罰恋し編 -喜-』
+  description: "『罰恋し編 -喜-』は原作ゲーム｢ひぐらしのなく頃に解｣の『目明し編』お疲れ様会として制作された『罰恋し編』をアニメ用に再構築して映像化。――“部活”で負けが込み、すっかり罰ゲームの常連に落ちぶれた圭一。その鬱憤を晴らすため、レナたち部活メンバーに、とんでもなく屈辱的な罰ゲームをやらせようと企むのだが…妄想渦巻く煩悩の果てに、どんな結末が待ち受けるのか!?原作を遥かに超える“圭一印のスーパーウルトラデンジャラスな罰ゲーム”にご期待下さい!!??<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣<br><br>原作:竜騎士07/07th
+    Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督:橘秀樹／シリーズ構成:川瀬敏文／キャラクターデザイン・総作画監督:阿部智之／アニメーション制作:スタジオディーン<br><br>次話→so31938662"
+  length_seconds: 1718
+  content_id: so31938661
+  default_thread_id: 1505587894
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938661
+- !ruby/hash:EpisodeHash
+  episode_no: file.02
+  title: 合言葉は“友情”“努力”“勝利” 『妖戦し編 -努-』
+  description: "『ひぐらし』まさかの魔法少女スピンオフストーリー☆――雛見沢にせまる新たな脅威、闇の魔法組織“東京マギカ”。彼らと戦うため、梨花は魔法少女“オヤシロリカ”に変身する。世界の命運をかけた衝撃の魔法大戦(マジックウォーズ)が幕を開ける!<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣<br><br>原作:竜騎士07/07th
+    Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督:橘秀樹／シリーズ構成:川瀬敏文／キャラクターデザイン・総作画監督:阿部智之／アニメーション制作:スタジオディーン<br><br>so31938661←前話｜次話→so31938663　第一話→so31938661"
+  length_seconds: 1771
+  content_id: so31938662
+  default_thread_id: 1505587640
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938662
+- !ruby/hash:EpisodeHash
+  episode_no: file.03
+  title: 恋せよ乙女! 『結縁し編 -愛-』
+  description: 恋愛前線接近中! あなたも恋に落ちちゃう!?ドキドキストーリー☆ ――ある日、ふとしたきっかけで圭一に恋心を頂いてしまった詩音。詩音が圭一を抱擁するシーンを目撃してしまったレナと魅音。恋する乙女3人の想いが、いま交錯する…<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣<br><br>原作:竜騎士07/07th
+    Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督:橘秀樹／シリーズ構成:川瀬敏文／キャラクターデザイン・総作画監督:阿部智之／アニメーション制作:スタジオディーン<br><br>so31938662←前話｜次話→so31938664　第一話→so31938661
+  length_seconds: 1702
+  content_id: so31938663
+  default_thread_id: 1505587682
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938663
+- !ruby/hash:EpisodeHash
+  episode_no: file.04
+  title: 感動のフィナーレ☆ 『夢現し編 -楽-』
+  description: 時を越え、雛見沢で出会う。OVA『ひぐらしのなく頃に煌』完結編――今日の羽入はお留守番。一人で家事をこなす平穏なひととき。そんな折、ひょんなことから時を越え現れた4歳の梨花。はたして、羽入は無事に幼い梨花を元の世界に帰すことができるのか…<br><br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣<br><br>原作:竜騎士07/07th
+    Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督:橘秀樹／シリーズ構成:川瀬敏文／キャラクターデザイン・総作画監督:阿部智之／アニメーション制作:スタジオディーン<br><br>so31938663←前話　第一話→so31938661
+  length_seconds: 1777
+  content_id: so31938664
+  default_thread_id: 1505587492
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31938664
+cast: "[キャスト]<br>前原圭一:保志総一朗／竜宮レナ:中原麻衣／園崎魅音・詩音:雪野五月／北条沙都子:かないみか／古手梨花:田村ゆかり／羽入:堀江由衣"
+staff: "[スタッフ]<br>原作:竜騎士07/07th Expansion｢ひぐらしのなく頃に｣｢ひぐらしのなく頃に解｣｢ひぐらしのなく頃に礼｣／監督:橘秀樹／シリーズ構成:川瀬敏文／キャラクターデザイン・総作画監督:阿部智之／アニメーション制作:スタジオディーン"
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)2011竜騎士07/雛見沢御三家"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ひぐらしのなく頃に礼
+- !ruby/hash:SeasonHash
+  title: ひぐらしのなく頃に解
+- !ruby/hash:SeasonHash
+  title: ひぐらしのなく頃に

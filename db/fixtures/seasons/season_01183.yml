@@ -1,0 +1,106 @@
+--- !ruby/hash:SeasonHash
+title: ハッピージョージ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/42/0/20420_1_6.png?1444266882000
+outline: 東京吉祥寺へ引っ越してきたお馬鹿なアメリカ人のテールファミリーと、その隣に住むごく普通（？）の日本人の肉巻ファミリー。短気なアメリカオヤジ、マイペースなブロンド幼女、しゃべる生意気なパグ、しゃべるコアラのぬいぐるみ等々、個性豊かな登場人物によるちょっと変わった日常を描いたファミリードラマ、それが「ハッピージョージ」なのです。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ニーコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 平山笑美
+  type: cast
+- !ruby/hash:TagHash
+  name: 柳橋なつみ
+  type: cast
+- !ruby/hash:TagHash
+  name: ケイト・アロー
+  type: cast
+- !ruby/hash:TagHash
+  name: 森由果
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮本琴未
+  type: cast
+- !ruby/hash:TagHash
+  name: 長谷川歩美
+  type: cast
+- !ruby/hash:TagHash
+  name: 安田梓司
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：ケイト・アロー
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ケイト・アロー
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：ケイト・アロー
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：リサメロディー
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#10"
+  title: テール家の新生活／ぼくコアラのボッチ／おとなりさん／ポニーの手作りクッキング／アンダルシアは天才犬？／ごはんの時間／アンディ・テールの計画／私をパグと呼ばないで／スクールバス／ロブは転校生
+  description: ボッチ、ブレッド・テール:ケイト・アロー／ロバート・テール:今野幸平／イーディー・テール:森由果／ポニー・テール:ニーコ／肉巻オニギリ:平山笑美／上戸エンピツ:宮本琴未／上戸ペン:長谷川
+    歩美／アンダルシア、アンディ・テール:安田梓司／エドガー:谷口洋一／肉巻ライス:柳橋なつみ<br><br>監督・原作・脚本:ケイト・アロー／プロデューサー:福井政文／主題歌:リサメロディー<br><br>次話→so32224509
+  length_seconds: 1209
+  content_id: so32224508
+  default_thread_id: 1509929548
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32224508
+- !ruby/hash:EpisodeHash
+  episode_no: "#11～#20"
+  title: カルチャーショック／居眠り／サラとブレッド／かくれんぼ／それぞれの思い／お風呂の時間／エドガーの苦労／眠れぬ夜／ロブの名案／ペンの告白
+  description: ボッチ、ブレッド・テール:ケイト・アロー／ロバート・テール:今野幸平／イーディー・テール:森由果／ポニー・テール:ニーコ／肉巻オニギリ:平山笑美／上戸エンピツ:宮本琴未／上戸ペン:長谷川
+    歩美／アンダルシア、アンディ・テール:安田梓司／エドガー:谷口洋一／肉巻ライス:柳橋なつみ<br><br>監督・原作・脚本:ケイト・アロー／プロデューサー:福井政文／主題歌:リサメロディー<br><br>so32224508←前話｜次話→so32224510　第一話→so32224508
+  length_seconds: 1209
+  content_id: so32224509
+  default_thread_id: 1509929546
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32224509
+- !ruby/hash:EpisodeHash
+  episode_no: "#21～#30"
+  title: ドローン大作戦／イーディのSNS／なんだかアメリカン？／アーティストの悩み／リサメロディーへの質問／バーでのひととき／アンダルシアの恋／テール家フリーズ／眠れぬ夜
+    パート2／小顔になりたい
+  description: ボッチ、ブレッド・テール:ケイト・アロー／ロバート・テール:今野幸平／イーディー・テール:森由果／ポニー・テール:ニーコ／肉巻オニギリ:平山笑美／上戸エンピツ:宮本琴未／上戸ペン:長谷川
+    歩美／アンダルシア、アンディ・テール:安田梓司／エドガー:谷口洋一／肉巻ライス:柳橋なつみ<br><br>監督・原作・脚本:ケイト・アロー／プロデューサー:福井政文／主題歌:リサメロディー<br><br>so32224509←前話｜次話→so32224511　第一話→so32224508
+  length_seconds: 1209
+  content_id: so32224510
+  default_thread_id: 1509906080
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32224510
+- !ruby/hash:EpisodeHash
+  episode_no: "#31～#41"
+  title: めざせ！人気動画投稿者！／恐怖のお医者さんごっこ／アンディとブレッドの関係／ボッチの英語レッスン／アンダルシアの意識／ふたりの疑念／イーディのイライラ／ペンの気持ち／フードの中身／バーでのひととき　パート2／ブレッドのタイムスリップ
+  description: ボッチ、ブレッド・テール:ケイト・アロー／ロバート・テール:今野幸平／イーディー・テール:森由果／ポニー・テール:ニーコ／肉巻オニギリ:平山笑美／上戸エンピツ:宮本琴未／上戸ペン:長谷川
+    歩美／アンダルシア、アンディ・テール:安田梓司／エドガー:谷口洋一／肉巻ライス:柳橋なつみ<br><br>監督・原作・脚本:ケイト・アロー／プロデューサー:福井政文／主題歌:リサメロディー<br><br>so32224510←前話｜次話→so32224512　第一話→so32224508
+  length_seconds: 1330
+  content_id: so32224511
+  default_thread_id: 1509906082
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32224511
+- !ruby/hash:EpisodeHash
+  episode_no: "#42～#52"
+  title: 金縛りの夜／ロブのダイエット／電車にて／恐怖のかくれんぼ／ニューヨークへ／ロールプレイング／理想と現実／カピバラ町長／神様と宇宙人／ボッチの異変／ねがいごと
+  description: ボッチ、ブレッド・テール:ケイト・アロー／ロバート・テール:今野幸平／イーディー・テール:森由果／ポニー・テール:ニーコ／肉巻オニギリ:平山笑美／上戸エンピツ:宮本琴未／上戸ペン:長谷川
+    歩美／アンダルシア、アンディ・テール:安田梓司／エドガー:谷口洋一／肉巻ライス:柳橋なつみ<br><br>監督・原作・脚本:ケイト・アロー／プロデューサー:福井政文／主題歌:リサメロディー<br><br>so32224511←前話　第一話→so32224508
+  length_seconds: 1330
+  content_id: so32224512
+  default_thread_id: 1509906200
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32224512
+cast: "[キャスト]<br>ボッチ、ブレッド・テール:ケイト・アロー／ロバート・テール:今野幸平／イーディー・テール:森由果／ポニー・テール:ニーコ／肉巻オニギリ:平山笑美／上戸エンピツ:宮本琴未／上戸ペン:長谷川
+  歩美／アンダルシア、アンディ・テール:安田梓司／エドガー:谷口洋一／肉巻ライス:柳橋なつみ"
+staff: "[スタッフ]<br>監督・原作・脚本:ケイト・アロー／プロデューサー:福井政文／主題歌:リサメロディー"
+produced_year: "[製作年]<br>2015年"
+copyright: "© Kate Arrow/MMDGP/HJP"
+related_seasons: !ruby/array:Hashie::Array []

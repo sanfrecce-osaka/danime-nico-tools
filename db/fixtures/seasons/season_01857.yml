@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: ASTROBOY 鉄腕アトム 特別編：輝ける地球 ～あなたは青く、美しい…～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/8/11458_1_6.png?1427216400000
+outline: ある廃墟を少年はロボットに追いかけられていた。そこは戦争や環境破壊を繰り返すニンゲンに愛想を尽かしたコンピュータ“ガイア”によって支配されている地球だった。少年は必死で逃げているうちに、200年前に役目を終え展示されていたアトムを発見する。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 鶴ひろみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪脩
+  type: cast
+- !ruby/hash:TagHash
+  name: 津村まこと
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝田久
+  type: cast
+- !ruby/hash:TagHash
+  name: 園部啓一
+  type: cast
+- !ruby/hash:TagHash
+  name: 丸山美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：森田真由美
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西田正義
+  type: staff
+- !ruby/hash:TagHash
+  name: 鉄腕アトムシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 川添恵
+  type: other
+- !ruby/hash:TagHash
+  name: 斉藤雅巳
+  type: other
+- !ruby/hash:TagHash
+  name: 桑原智
+  type: other
+- !ruby/hash:TagHash
+  name: 出崎統
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ASTROBOY 鉄腕アトム 特別編：輝ける地球 ～あなたは青く、美しい…～
+  description: ある廃墟を少年はロボットに追いかけられていた。なんとそこはロボットによって支配されている地球だったのだ。少年は必死で逃げているうちに、200年前に役目を終え展示されていたアトムを発見するのであった。<br><br>アトム:津村まこと／ティコ:横山智佐／飯田橋博士:阪脩／ガイア:鶴ひろみ／お茶の水博士:勝田久／ウラン:丸山美紀／プルトスの声:園部啓一<br><br>監督:出崎統／脚本:森田真由美／演出:桑原智／作画監督:西田正義／美術監督:斉藤雅巳／色彩設計:川添恵<br><br>(C)手塚プロダクション
+  length_seconds: 1242
+  content_id: so33473674
+  default_thread_id: 1530752180
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33473674
+cast: "[キャスト]<br>アトム:津村まこと／ティコ:横山智佐／飯田橋博士:阪脩／ガイア:鶴ひろみ／お茶の水博士:勝田久／ウラン:丸山美紀／プルトスの声:園部啓一"
+staff: "[スタッフ]<br>監督:出崎統／脚本:森田真由美／演出:桑原智／作画監督:西田正義／美術監督:斉藤雅巳／色彩設計:川添恵"
+produced_year: "[製作年]<br>2004年"
+copyright: "(C)手塚プロダクション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム（1980）
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム ～特別編：アトム誕生の秘密～
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム ～地球最後の日～
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム 特別編：イワンの惑星 ～ロボットと人間の友情～
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム 青騎士の巻

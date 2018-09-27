@@ -1,0 +1,226 @@
+--- !ruby/hash:SeasonHash
+title: おかしなガムボール
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/97/3/21973_1_6.png?1514278885000
+outline: 主人公は青いネコ“ガムボール”。父はウサギ、親友は金魚、クラスメートは恐竜や折り紙のクマ、風船やロボット・・・と、ハチャメチャな設定のキャラクターたちが実写の街を舞台に、次から次へと笑いを振りまきます。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "＃1"
+  title: ３人目の親友/命の恩人
+  description: "＜３人目の親友＞休日なのに退屈しているガムボールと親友のダーウィンは、親友を１人増やせば楽しくなると思いつき、学校内で探し始める。そこへ、トバイアスが友だちになると名乗りをあげるが・・・。／＜命の恩人＞憧れのミスター・ロビンソンが町内のタレントショーに出演することになり、ガムボールはワクワク。そんなとき、彼の車が近づきガムボールに接触しそうになる。ガムボールは命を救ってもらったと勘違いし・・・。<br><br>次話→so32587766"
+  length_seconds: 1470
+  content_id: so32588496
+  default_thread_id: 1515999029
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32588496
+- !ruby/hash:EpisodeHash
+  episode_no: "＃2"
+  title: 女子より仲間！？/家族改造プログラム
+  description: "＜女子より仲間！？＞ツリーハウスに集まった女子達が恋バナで盛り上がり、彼氏がいると見栄をはりあう。しかし、マサミだけはウソを本当にしようと、ダーウィンに猛烈アタックを開始し・・・！／＜家族改造プログラム＞アナイスが家族を描いた絵を見たブラウン校長は、家庭に問題があると判断。ワタソン一家は「家族改造プログラム」に参加させられるが・・・。<br><br>so32588496←前話｜次話→so32606424　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32587766
+  default_thread_id: 1515980962
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32587766
+- !ruby/hash:EpisodeHash
+  episode_no: "＃3"
+  title: 誰の責任？/ドレスのアイドル！？
+  description: "＜誰の責任？＞ミス・シーミアンとの面談のため、パパがアナイスのベビーシッターを手配したが、ママは気に入らずキャンセルに。ママはやむなく、ガムボールとダーウィンにベビーシッター役を頼むことにしたが・・・。／＜ドレスのアイドル！？＞パパの洗濯で洋服が全部ダメになり、ガムボールは学校に着ていく服がない。なぜかママのウェディングドレスを着て登校する羽目になり・・・。<br><br>so32587766←前話｜次話→so32606534　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32606424
+  default_thread_id: 1516327173
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32606424
+- !ruby/hash:EpisodeHash
+  episode_no: "＃4"
+  title: 究極のぐうたら対決/壮絶！食べすぎゴースト
+  description: "＜究極のぐうたら対決＞パパと「ぐうたら対決」をすることになったガムボールたちは、助っ人を探しに町に出て「ぐうたらラリー」の存在を知る。ところがラリーは、ぐうたらだったのは過去のことで対決する気はない、と言う。／＜壮絶！食べすぎゴースト＞ゴーストなので食事ができないキャリーにカラダを貸してあげることにしたガムボール。キャリーにとりつかれたガムボールは、手当たり次第食べまくり、ぶくぶく太ってしまう。<br><br>so32606424←前話｜次話→so32691318　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32606534
+  default_thread_id: 1516328843
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32606534
+- !ruby/hash:EpisodeHash
+  episode_no: "＃5"
+  title: 真犯人を捜せ！/やりすぎイタズラ合戦
+  description: "＜真犯人を捜せ！＞ ガムボールのロッカーから、トイレットペーパーで巻かれ身動きがとれなくなった校長先生が発見された。犯人捜しの推理の結果、ガムボール以外はみな無実が証明されて・・・。／＜やりすぎイタズラ合戦＞
+    ある朝、パパがガムボールとダーウィンにいたずらをしかけた。まんまとひっかかったガムボールたちは、パパに仕返しをしはじめ、イタズラはどんどんエスカレートして・・・。<br><br>so32606534←前話｜次話→so32709554　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32691318
+  default_thread_id: 1517792385
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32691318
+- !ruby/hash:EpisodeHash
+  episode_no: "＃6"
+  title: 空手マスタードの夢/キョーフのキス！！
+  description: "＜空手マスタードの夢＞ 空手着を買ってもらったガムボールとダーウィンは大興奮。空手着を着て名手気取りで登校し、同級生たちの笑いものになる。彼らが笑いものにされるのを心配するママには苦い思い出があった。／＜キョーフのキス！！＞パパとママの留守中、ジョジョおばあちゃんが家に来ることに。ガムボールはおばあちゃんにキスされるのが嫌でたまらず、しかもはずみで口にキスされてしまい大きなショックを受ける。<br><br>so32691318←前話｜次話→so32762356　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32709554
+  default_thread_id: 1518138993
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32709554
+- !ruby/hash:EpisodeHash
+  episode_no: "＃7"
+  title: あこがれのハイスクール・パーティ！/返品大騒動！
+  description: "＜あこがれのハイスクール・パーティ！＞ トバイアスの姉レイチェルが親の留守中にパーティを企画し、カップルのみ参加可という条件をつける。ガムボールは何人もの女子にあたってくだける一方、ダーウインは・・・。／＜返品大騒動！＞ガムボールは新しいゲームソフトを買ったのに、手持ちのゲーム機では使えない。返品してもらうべく店員のラリーと交渉するが、失敗したのでパパに助っ人を頼むことに・・・。<br><br>so32709554←前話｜次話→so32798039　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32762356
+  default_thread_id: 1519002993
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32762356
+- !ruby/hash:EpisodeHash
+  episode_no: "＃8"
+  title: ホンモノはどっち？/恐怖のサバイバル・ピクニック
+  description: "＜ホンモノはどっち？＞ 普通の男の子でないことに悩むロボットのボバート。ガムボールが自分のマネをすればいいとアドバイスすると、ボバートはガムボールを完全にコピーし、周囲も見分けがつかなくなってしまい・・・。／＜恐怖のサバイバル・ピクニック＞
+    今日は校外学習。だが、先生の指示を聞いていなかった上、みんなに置いていかれてガムボールとダーウィンはすっかり迷子に。おなかもすいた二人はケンカになり・・・。<br><br>so32762356←前話｜次話→so32835730　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32798039
+  default_thread_id: 1519608097
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32798039
+- !ruby/hash:EpisodeHash
+  episode_no: "＃9"
+  title: おバカさん対決！/ヒ・ミ・ツ！！
+  description: "＜おバカさん対決！＞ ある日、おバカな遊びをしたくなったアナイスは、ガムボールたちに弟子入りをしておバカになるコツをつかむ。すっかりお株を奪われたガムボールは、パパの関心を取りもどすべく、町いちばんのバカを決めるレースを開催。＜ヒ・ミ・ツ！！＞
+    ガムボールとダーウィンがトイレに閉じこめられた。最期を覚悟したガムボールが秘密を打ち明け、次にダーウィンが打ち明けようとしたとき、ふたりは救出され・・・。<br><br>so32798039←前話｜次話→so32872472　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32835730
+  default_thread_id: 1520216321
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32835730
+- !ruby/hash:EpisodeHash
+  episode_no: "＃10"
+  title: 正直とウソの勉強/ダーウィンは天才？
+  description: "＜正直とウソの勉強＞ ミス・シーミアンに「宿題をパパに食べられたので提出できない」と言ったため、スモール先生の指導を受けることになったガムボール達。そのせいで余計に混乱した二人は・・・。
+    ＜ダーウィンは天才？＞ 学力テストで満点をとったダーウィンが政府の研究所に連れて行かれることに。離れたくないガムボールは自分も天才になって一緒に行こうとするが、慣れないことに脳も疲れ果てて・・・。<br><br>so32835730←前話｜次話→so32909357　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32872472
+  default_thread_id: 1520816900
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32872472
+- !ruby/hash:EpisodeHash
+  episode_no: "＃11"
+  title: 大人サプリメント！/ガムボールの初デート？
+  description: "＜大人サプリメント！＞ ガムボールたち３人はある日、パパが内緒で買った男性ホルモン入りサプリメントを大量に食べてしまう。その作用で大人の体になったガムボールとダーウィンは、自由を楽しみだすが・・・。＜ガムボールの初デート？＞
+    ペニーがガムボールを自宅に招待した。デートだと信じ込み舞い上がるガムボール。ところが、実はペニーのペットの葬式に呼ばれただけで、その上、そのペットとは・・・。<br><br>so32872472←前話｜次話→so32947625　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32909357
+  default_thread_id: 1521421709
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32909357
+- !ruby/hash:EpisodeHash
+  episode_no: "＃12"
+  title: のけものクラブの復讐/魔法使いリチャード！？
+  description: "＜のけものクラブの復讐＞ クラブ活動のため学校へやってきたワタソン一家。自分だけ入れてもらえるクラブが見つからないガムボールがようやく誘われたのは「のけ者クラブ」からで・・・。＜魔法使いリチャード！？＞
+    シリアルのおまけの魔法の杖を本物だと信じて喜ぶパパ。パパは昔、望みが叶うおまじないがウソだと知ったショックで１５年間叫び続けたことがあると知り、ガムボールたちは必死になってパパの願いを叶えるが・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so32909357←前話｜次話→so33004478　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so32947625
+  default_thread_id: 1522026405
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32947625
+- !ruby/hash:EpisodeHash
+  episode_no: "＃13"
+  title: ミス・シーミアンの友達作戦/ミスター・ロビンソンの苦悩
+  description: "＜ミス・シーミアンの友達作戦＞ 「人気賞」のトロフィーを狙うミス・シーミアンは、生徒からの推薦状をなんとか手に入れたい。そこで、ガムボールに推薦状を書かせようと、あの手この手でワタソン家の人びとに取り入るが・・・。
+    ＜ミスター・ロビンソンの苦悩＞家におばけがとりついたと、パパが大騒ぎをする。実は、妻に相手にされなくなってぼんやりしているミスター・ロビンソンをガムボールが屋根裏にかくまっていたのだが・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so32947625←前話｜次話→so33004479　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33004478
+  default_thread_id: 1522917336
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33004478
+- !ruby/hash:EpisodeHash
+  episode_no: "＃14"
+  title: お兄ちゃん、デイジーを取りかえして！/ママの誕生日とスプーン強盗
+  description: "＜お兄ちゃん、デイジーを取りかえして！＞アナイスのお気に入りの人形デイジーがトバイアスたちに取り上げられたあげく、恐竜のティナの手に渡る。意を決して3人で取り戻しに行くが・・・。＜ママの誕生日とスプーン強盗＞ママの誕生日プレゼントを買ってくるようパパに頼まれたガムボールとダーウィン。ところが、そこにはなんと強盗が押し入っていて・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33004478←前話｜次話→so33095939　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33004479
+  default_thread_id: 1522917341
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33004479
+- !ruby/hash:EpisodeHash
+  episode_no: "＃15"
+  title: ミスター・ロビンソンの車のナゾ/とてもアンラッキーな１日
+  description: "＜ミスター・ロビンソンの車のナゾ＞ アナイスとママはバタバタと出かけ、パパは筋トレグッズをいじっている。ガムボールとダーウィンは二人で遊んでいるうちに隣のミスター・ロビンソンの手伝いをすることになるが・・・。＜とてもアンラッキーな１日＞
+    ガムボールは朝から何をやってもついていない。ダーウィンは、前日に運を使い果たしたという仮説を立てるが、ガムボールのアンラッキーはとどまることを知らず・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33004479←前話｜次話→so33101881　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33095939
+  default_thread_id: 1524447339
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33095939
+- !ruby/hash:EpisodeHash
+  episode_no: "＃16"
+  title: 人食いモンスター、ケネス/余計なことしないで、ママ
+  description: "＜人食いモンスター、ケネス＞ ガムボールが汚いものを集めたビンを、パパがうっかり電子レンジにかけた。するとそこから不気味な生き物が発生。ガムボールたちはケネスと名づけて可愛いがるが・・・。＜余計なことしないで、ママ＞
+    ママとパパにあまり構ってもらえなくてむくれたガムボールに、ママは一念発起、世話を焼くために学校についてきた。過保護ぶりを仲間にバカにされたガムボールは今度はママを拒絶するが・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33095939←前話｜次話→so33419786　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33101881
+  default_thread_id: 1524559620
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33101881
+- !ruby/hash:EpisodeHash
+  episode_no: "＃17"
+  title: ヘルメット争奪戦！/対決！ティナVSガムボール
+  description: "＜ヘルメット争奪戦！＞ 運がよくなるヘルメットに飽きたガムボールは、それをパパとママに渡してしまうがやっぱり取り戻したくなる。だがヘルメットの威力に魅せられたパパとママと醜い争奪戦に・・・。＜対決！ティナVSガムボール＞
+    ガムボールがいじめられていると思ったアナイスは、ティナに話をつけようとして、逆に二人の一騎打ちの場を設定してしまう。周りにもはやし立てられて引くに引けなくなったガムボールだが・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33101881←前話｜次話→so33480201　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33419786
+  default_thread_id: 1529890774
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33419786
+- !ruby/hash:EpisodeHash
+  episode_no: "＃18"
+  title: 世界の終わり！？/覚悟を決めて！？
+  description: "＜世界の終わり！？＞ テレビから聞こえてきた言葉と、ボバートから聞いた日食の話を誤解したガムボールたちは、24時間以内に世界が終わってしまうと思い込む。残りの時間でやれるだけのことをしようと決めたガムボールは・・・。＜覚悟を決めて！？＞
+    レンタルしたDVDをうっかり壊してしまったガムボール。ダーウィンの忠告を聞かず、なんとかごまかそうとするうちに、矢のような催促が来て困り果てるが・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33419786←前話｜次話→so33480203　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33480201
+  default_thread_id: 1530867308
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33480201
+- !ruby/hash:EpisodeHash
+  episode_no: "＃19"
+  title: ペニー姫は渡さない！/巨人ヘクターと友達リクエスト
+  description: "＜ペニー姫は渡さない！＞ペアを組んで中世について学ぶという宿題が出され、ガムボールはペニーと組む約束を取りつける。しかしペニーのパパの許しを得られず、さらにペニーと組みたいトバイアスから決闘を挑まれ・・・。＜巨人ヘクターと友達リクエスト＞ヘクターの洞窟を訪ねたガムボールたちは、ヘクターの退屈な暮らしぶりにビックリ。しかし二人がヘクターを刺激すると巨大なヘクターはおさえがきかなくなり・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33480201←前話｜次話→so33796327　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33480203
+  default_thread_id: 1530867306
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33480203
+- !ruby/hash:EpisodeHash
+  episode_no: "＃20"
+  title: 勝ち組サバイバル/リモコン争奪戦
+  description: "＜勝ち組サバイバル＞ママが作った目標達成表のランク争いでママにビシビシしごかれてウンザリしたガムボールは、表の取り消しをかけてペイントボール・ゲームでの勝利をねらうが・・・。＜リモコン争奪戦＞夜８時に家族の見たい番組が重なり、パパがTVのリモコンを隠してしまう。ガムボールとダーウィンが家中を捜す中、ママは新しいリモコンを買いに出かけるが、なぜかアナイスだけは落ち着きはらっていて・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33480203←前話｜次話→so33796328　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33796327
+  default_thread_id: 1535941882
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796327
+- !ruby/hash:EpisodeHash
+  episode_no: "＃21"
+  title: やきもちガムボール/正義のペン
+  description: "＜やきもちガムボール＞「ヤキモチの魂」に取りつかれたガムボールは、ペニーをレズリーにとられたと思い込み、嫌がらせをやめない。ダーウィンやキャリーたちはガムボールを正気に戻そうとするが・・・。＜正義のペン＞バナナジョーがダーウィンが貸したペンを噛んだと思い込んだガムボールは、怒って仕返しをするうち、ジョーの大切な万年筆を壊してしまい・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33796327←前話｜次話→　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33796328
+  default_thread_id: 1535941982
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33796328
+produced_year: "[製作年]<br>2018年"
+copyright: TM & © 2018 Cartoon Network.
+related_seasons: !ruby/array:Hashie::Array []

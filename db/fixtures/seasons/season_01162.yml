@@ -1,0 +1,89 @@
+--- !ruby/hash:SeasonHash
+title: 這いよれ！ ニャル子さんF
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/52/2/20522_1_6.png?1450405073000
+outline: "｢うー！にゃー！｣そして｢SAN値ピンチ！｣の印象的なフレーズとともに、日本列島をお騒がせした邪神・ニャルラトホテプが、三度あなたに這いよります！八坂真尋の日常は、自宅に居座るニャル子、クー子、ハス太の3人(？)の邪神に囲まれて、毎日賑やか。ある休日。真尋の元に、話題のアミューズメントスポットのチケットを手に入れた同級生の珠緒と余市が現れて…？今度のニャル子さんは、ついに真尋とウェディング！？怒涛のハイテンションラブ(クラフト)コメディ！堂々完結！！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 新井里美
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本希望
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：XEBEC
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：DIVE II entertainment
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長澤剛
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：滝山真哲
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：逢空万太
+  type: staff
+- !ruby/hash:TagHash
+  name: 這いよれ！ニャル子さんシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 這いよれ！ ニャル子さんF
+  description: "｢うー！にゃー！｣そして｢SAN値ピンチ！｣の印象的なフレーズとともに、日本列島をお騒がせした邪神・ニャルラトホテプが、三度あなたに這いよります！八坂真尋の日常は、自宅に居座るニャル子、クー子、ハス太の3人(？)の邪神に囲まれて、毎日賑やか。ある休日。真尋の元に、話題のアミューズメントスポットのチケットを手に入れた同級生の珠緒と余市が現れて…？今度のニャル子さんは、ついに真尋とウェディング！？怒涛のハイテンションラブ(クラフト)コメディ！堂々完結！！<br><br>ニャル子:阿澄佳奈／八坂真尋:喜多村英梨／クー子:松来未祐／ハス太:釘宮理恵／シャンタッ君:新井里美／八坂頼子:久川綾／余市健彦:羽多野渉／暮井珠緒:大坪由佳／銀アト子:山本希望<br><br>原作:逢空万太(GA文庫
+    / SBクリエイティブ刊)／キャラクター原案:狐印／監督:長澤剛／シリーズ構成:木村暢／キャラクターデザイン・総作画監督:滝山真哲／美術監督:わたなべけいと／色彩設定:伴
+    夏代／音響監督:本山哲／音響効果:和田俊也／音響制作:スタジオマウス／音楽:MONACA／音楽制作:DIVEIIentertainment／アニメーション制作:XEBEC"
+  length_seconds: 1676
+  content_id: so31964554
+  default_thread_id: 1505951354
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31964554
+cast: "[キャスト]<br>ニャル子:阿澄佳奈／八坂真尋:喜多村英梨／クー子:松来未祐／ハス太:釘宮理恵／シャンタッ君:新井里美／八坂頼子:久川綾／余市健彦:羽多野渉／暮井珠緒:大坪由佳／銀アト子:山本希望"
+staff: "[スタッフ]<br>原作:逢空万太(GA文庫 / SBクリエイティブ刊)／キャラクター原案:狐印／監督:長澤剛／シリーズ構成:木村暢／キャラクターデザイン・総作画監督:滝山真哲／美術監督:わたなべけいと／色彩設定:伴
+  夏代／音響監督:本山哲／音響効果:和田俊也／音響制作:スタジオマウス／音楽:MONACA／音楽制作:DIVEIIentertainment／アニメーション制作:XEBEC"
+produced_year: "[製作年]<br>2015年"
+copyright: "(C)逢空万太・SBクリエイティブ／名状しがたい製作委員会のようなものF"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 這いよれ！ニャル子さんＷ
+- !ruby/hash:SeasonHash
+  title: 這いよれ！ニャル子さん
+- !ruby/hash:SeasonHash
+  title: 這いよる!ニャルアニ リメンバー・マイ・ラブ(クラフト先生)
+- !ruby/hash:SeasonHash
+  title: 這いよる!ニャルアニ

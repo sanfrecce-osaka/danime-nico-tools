@@ -1,0 +1,166 @@
+--- !ruby/hash:SeasonHash
+title: ポプテピピック
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/9/21929_1_6.png?1515115805000
+outline: どうあがいても、クソ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：吟
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：大川ぶくぶ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：神風動画
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 竹書房
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: 出会い
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>次話→so32571812
+  length_seconds: 1420
+  content_id: so32535121
+  default_thread_id: 1515113668
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32535121
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: 異次元遊戯 ヴァンヴー
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32535121←前話｜次話→so32606327　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32571812
+  default_thread_id: 1515724388
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571812
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: ザ・ドキュメント
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32571812←前話｜次話→so32641351　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32606327
+  default_thread_id: 1516325016
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32606327
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: SWGP2018
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32606327←前話｜次話→so32675878　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32641351
+  default_thread_id: 1516936281
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32641351
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: イモ☆ヨバ
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32641351←前話｜次話→so32709525　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32675878
+  default_thread_id: 1517540002
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32675878
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 第30期電脳戦
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32675878←前話｜次話→so32746125　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32709525
+  default_thread_id: 1518138081
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32709525
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: ヘルシェイク矢野
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32709525←前話｜次話→so32781665　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32746125
+  default_thread_id: 1518743123
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32746125
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 飯田橋の昇竜 ～復讐のピピ～
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32746125←前話｜次話→so32818602　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32781665
+  default_thread_id: 1519351004
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781665
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: 奇跡とダンスを
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32781665←前話｜次話→so32855479　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32818602
+  default_thread_id: 1519958209
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32818602
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 銀座ホステス探偵
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32818602←前話｜次話→so32892420　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32855479
+  default_thread_id: 1520558555
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32855479
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: 呪館
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>so32855479←前話｜次話→so32930384　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32892420
+  default_thread_id: 1521163347
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32892420
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: THE AGE OF POP TEAM EPIC
+  description: 原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+    TEAM EPIC』歌:上坂すみれ<br><br>©大川ぶくぶ／竹書房・キングレコード<br><br>so32892420←前話　第一話→so32535121
+  length_seconds: 1420
+  content_id: so32930384
+  default_thread_id: 1521768926
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32930384
+staff: "[スタッフ]<br>原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／コンセプトデザインワークス:梅木葵／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+  ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）、梅木葵／アニメーション制作:神風動画／製作:キングレコード／主題歌『POP
+  TEAM EPIC』歌:上坂すみれ"
+produced_year: "[製作年]<br>2018年"
+copyright: "©大川ぶくぶ／竹書房・キングレコード"
+related_seasons: !ruby/array:Hashie::Array []

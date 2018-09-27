@@ -1,0 +1,89 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/49/0/10490_1_6.png?1427216400000
+outline: 脱力系スローライフアニメ｢Peeping Life(ピーピング・ライフ)｣の第3弾。第3弾は大人気のエピソード｢おわかれ!?バカップル｣を収録。第1弾、第2弾では彼女に振り回されたマチャヒコが、とうとうブチ切れ本気の大ゲンカ勃発!!2人の関係にまさかの終止符が…!?日々の忙しさと生きることに疲れたあなた。人生をムダことに費やそう!
+  そこに愛はあるはず…。とびきりゆるいお笑いと、はな歌まじりの感動をお届けいたします。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: サノシュンスケ
+  type: cast
+- !ruby/hash:TagHash
+  name: 森りょういち
+  type: cast
+- !ruby/hash:TagHash
+  name: 清野由佳理
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪谷光昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊佐山裕大
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：detune.
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#5"
+  title: おわかれ!?バカップル/職員室に呼び出し/修学旅行ではぐれた二人/気になる娘のケータイ/俺のテーマパークグッズ
+  description: ユキピョンに買ってもらったTシャツをマチャヒコが着てみたところ、サイズが違うことが発覚!!マチャヒコは溜まりに溜まった怒りをユキピョンに爆発させる!!
+    いよいよ二人に別れの時が…!!/先生に職員室に呼び出された中学生。自分がなぜ呼ばれたかわからないが、次第にその理由が明らかになってゆく…!/修学旅行でみんなとはぐれてしまったショータとコータ。焦る二人は、これからどうするかを考えるのだが…。/ケータイでメールをしている娘が気になる父親。どうしてもメールが気になる父親は、不可思議な行動に出た…。/人気テーマパーク｢わずランド｣で年甲斐もなく、しょうもないグッズを購入してきた息子に母親の反応は…。<br><br>キャスト:伊佐山裕大、サノシュンスケ、清水明子、清野由佳理、坪谷光昭、牧田智子、松本
+    剛、森 りょういち<br><br>監督:森りょういち／音楽:detune.<br><br>次話→so31875545
+  length_seconds: 1554
+  content_id: so31875544
+  default_thread_id: 1504668934
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875544
+- !ruby/hash:EpisodeHash
+  episode_no: "#6-#10"
+  title: ママとOLのから騒ぎ/メガネ男子の選び方/下着メーカー営業マンの反省会/バーベキューの情事/オタクくん幻のフィギュア発見
+  description: なじみの飲み屋に、恋愛相談のため来たOLだったが、どうにもママとの会話が噛み合わない。そしてママは人の話を全く聞かなくなってゆく…。/メガネ屋にメガネを探しに来た男子とその友達。友達にアドバイスをもらいつつ、お似合いのメガネを探そうとするのだが…。/下着メーカーの上司と部下が接待を終えた束の間の席。上司はここぞとばかりに、今日の接待のダメだしを部下にするのであったが…。/山間のバーベキュー場に会社の部長と部下。スーツのままでバーベキューの用意をしながら、大事な相談事のようだが…。/オタクくんが通りすがりのフリーマーケットにて、幻のフィギュアを発見!!なぜ、こんな場所に?!オタクくんがとった行動は…。<br><br>キャスト:伊佐山裕大、サノシュンスケ、清水明子、清野由佳理、坪谷光昭、牧田智子、松本
+    剛、森 りょういち<br><br>監督:森りょういち／音楽:detune.<br><br>so31875544←前話　第一話→so31875544
+  length_seconds: 1554
+  content_id: so31875545
+  default_thread_id: 1504669243
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875545
+cast: "[キャスト]<br>キャスト:伊佐山裕大、サノシュンスケ、清水明子、清野由佳理、坪谷光昭、牧田智子、松本 剛、森 りょういち"
+staff: "[スタッフ]<br>監督:森りょういち／音楽:detune."
+produced_year: "[製作年]<br>2011年"
+copyright: "(c)FOREST Hunting One/ CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

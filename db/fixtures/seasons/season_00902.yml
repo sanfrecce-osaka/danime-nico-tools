@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/1/10141_1_6.png?1427216400000
+outline: ダンクーガは,ガンドールが放ったガンドール砲のエネルギーに乗って超空間を移動していた。ついに太陽系と別の空間に存在する"ムゲの宇宙"に到達した忍たちは,激しかったムゲ帝国との戦いを振り返る…。
+  ムゲ帝王によって地獄のような"赤い宇宙"に飛ばされたダンクーガは,そこに現れたデスガイヤー将軍と戦いを繰り広げる。果たして,その戦いの決着は? そして,忍たちはムゲ帝王を倒せるのか?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢尾一樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原茂
+  type: cast
+- !ruby/hash:TagHash
+  name: 石丸博也
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本百合子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：戸塚修
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：武上純希
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：藤川桂介
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：寺田憲史
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：葦プロ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：いんどり小屋
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：いけたけし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：奥田誠治
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 佐藤俊彦
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤博
+  type: other
+- !ruby/hash:TagHash
+  name: 新井寅雄
+  type: other
+- !ruby/hash:TagHash
+  name: 梅原勝
+  type: other
+- !ruby/hash:TagHash
+  name: 松浦典良
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1986年
+  type: other
+- !ruby/hash:TagHash
+  name: 片岡義朗
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌
+  description: 敵を倒し、超空間を移動するダンクーガ。空間を抜けたどり着いた先にデスガイヤー将軍が待ち構えていた!<br><br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博也<br><br>企画:佐藤俊彦,春日東／プロデューサー:片岡義朗,加藤博,梅原勝／監督:奥田誠治／脚本:藤川桂介,寺田憲史,武上純希／キャラクターデザイン:いんどり小屋／美術監督:新井寅雄／音響監督:松浦典良／音楽:いけたけし,戸塚修／制作:葦プロダクション(現：プロダクションREED)
+  length_seconds: 5338
+  content_id: so32145756
+  default_thread_id: 1508747006
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32145756
+cast: "[キャスト]<br>藤原忍:矢尾一樹／結城沙羅:山本百合子／式部雅人:中原茂／司馬亮:塩沢兼人／シャピロ・キーツ:若本紀昭／アラン・イゴール:田中秀幸／ロス・イゴール:池田勝／葉月孝太郎:石丸博也"
+staff: "[スタッフ]<br>企画:佐藤俊彦,春日東／プロデューサー:片岡義朗,加藤博,梅原勝／監督:奥田誠治／脚本:藤川桂介,寺田憲史,武上純希／キャラクターデザイン:いんどり小屋／美術監督:新井寅雄／音響監督:松浦典良／音楽:いけたけし,戸塚修／制作:葦プロダクション(現：プロダクションREED)"
+produced_year: "[製作年]<br>1986年"
+copyright: "(c) PRODUCTION REED 1986"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ(TV)
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ Song Special 獣戦機隊Songs
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ GOD BLESS DANCOUGA
+- !ruby/hash:SeasonHash
+  title: 超獣機神ダンクーガ 白熱の終章

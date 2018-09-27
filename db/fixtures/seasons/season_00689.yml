@@ -1,0 +1,125 @@
+--- !ruby/hash:SeasonHash
+title: 涼宮ハルヒの消失
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/74/8/10748_1_6.png?1427216400000
+outline: "｢涼宮ハルヒ｣シリーズのクライマックスが、満を持してここに、登場！！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤邑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石稔
+  type: cast
+- !ruby/hash:TagHash
+  name: あおきさやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 松元惠
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：神前暁
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：武本康弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：志茂文彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石原立也
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：池田晶子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：谷川流
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Studio2010
+  type: staff
+- !ruby/hash:TagHash
+  name: 涼宮ハルヒシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
+  type: other
+- !ruby/hash:TagHash
+  name: 鶴岡陽太
+  type: other
+- !ruby/hash:TagHash
+  name: 楽音舎
+  type: other
+- !ruby/hash:TagHash
+  name: 安田猛
+  type: other
+- !ruby/hash:TagHash
+  name: 伊藤敦
+  type: other
+- !ruby/hash:TagHash
+  name: 田村せいき
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 涼宮ハルヒの消失
+  description: クリスマスが間近に迫ったある冬の日。学校に向かったキョンはいつもの日常と違うことに気づく。後ろの席にいるはずのハルヒがいない……。さらに驚くべき事に、その席に座っていたのは、(『憂鬱』にて)キョンを殺そうとして長門に消滅させられたはずの朝倉だった！<br><br>涼宮ハルヒ:平野綾／キョン:杉田智和／長門有希:茅原実里／朝比奈みくる:後藤邑子／古泉一樹:小野大輔／朝倉涼子:桑谷夏子／鶴屋さん:松岡由貴／谷口:白石稔／国木田:松元惠／キョン妹:あおきさやか
+    他<br><br>企画:安田猛、嵐 智史、八田陽子、酒匂暢彦、井上俊次／原作・脚本協力:谷川流／原作イラスト・キャラクター原案:いとうのいぢ／脚本:志茂文彦／キャラクターデザイン・超総作画監督:池田晶子／総作画監督:西屋太志／美術監督:田村せいき／撮影監督:中上竜太／設定:高橋博行／色彩設計:石田奈央美／編集:重村建吾(スタジオごんぐ)／音響監督:鶴岡陽太(楽音舎)／音響効果:森川永子(ちゅらサウンド)／録音:矢野さとし／録音助手:砂庭舞(スタジオごんぐ)／音響制作担当:杉山好美(楽音舎)／録音スタジオ:Studio2010:／音響制作:楽音舎／音楽:神前暁(monaca)／音楽プロデューサー:斎藤滋(ランティス)／音楽制作:ランティス／制作プロデューサー:大橋永晴／アシスタントプロデューサー:山口真由美／アニメーション制作:京都アニメーション／配給・宣伝:角川書店／配給協力:クロックワークス／製作:SOS団／プロデューサー:伊藤敦、八田英明／監督:武本康弘／総監督:石原立也
+  length_seconds: 9781
+  content_id: so31971925
+  default_thread_id: 1506074107
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971925
+cast: "[キャスト]<br>涼宮ハルヒ:平野綾／キョン:杉田智和／長門有希:茅原実里／朝比奈みくる:後藤邑子／古泉一樹:小野大輔／朝倉涼子:桑谷夏子／鶴屋さん:松岡由貴／谷口:白石稔／国木田:松元惠／キョン妹:あおきさやか
+  他"
+staff: "[スタッフ]<br>企画:安田猛、嵐 智史、八田陽子、酒匂暢彦、井上俊次／原作・脚本協力:谷川流／原作イラスト・キャラクター原案:いとうのいぢ／脚本:志茂文彦／キャラクターデザイン・超総作画監督:池田晶子／総作画監督:西屋太志／美術監督:田村せいき／撮影監督:中上竜太／設定:高橋博行／色彩設計:石田奈央美／編集:重村建吾(スタジオごんぐ)／音響監督:鶴岡陽太(楽音舎)／音響効果:森川永子(ちゅらサウンド)／録音:矢野さとし／録音助手:砂庭舞(スタジオごんぐ)／音響制作担当:杉山好美(楽音舎)／録音スタジオ:Studio2010:／音響制作:楽音舎／音楽:神前暁(monaca)／音楽プロデューサー:斎藤滋(ランティス)／音楽制作:ランティス／制作プロデューサー:大橋永晴／アシスタントプロデューサー:山口真由美／アニメーション制作:京都アニメーション／配給・宣伝:角川書店／配給協力:クロックワークス／製作:SOS団／プロデューサー:伊藤敦、八田英明／監督:武本康弘／総監督:石原立也"
+produced_year: "[製作年]<br>2009年"
+copyright: "(c)2009 Nagaru Tanigawa・Noizi Ito/SOS団"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒの憂鬱(2009年放送版)
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒちゃんの憂鬱
+- !ruby/hash:SeasonHash
+  title: 長門有希ちゃんの消失
+- !ruby/hash:SeasonHash
+  title: にょろーんちゅるやさん
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒの激奏
+- !ruby/hash:SeasonHash
+  title: 涼宮ハルヒの弦奏

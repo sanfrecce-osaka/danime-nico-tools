@@ -1,0 +1,108 @@
+--- !ruby/hash:SeasonHash
+title: らき☆すたOVA(オリジナルなビジュアルとアニメーション)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/46/0/10460_1_6.png?1427216400000
+outline: 今回の｢らき☆すたOVA｣は全部で6本のショートエピソードから構成されている。TVではあまりフィーチャーされたなかったキャラクターの意外な一面が見られたり、OVAならではの実験的な映像も取り入れている。さらに、｢らき☆すた｣らしく、そのミーハー根性丸出しに、今、世の中をリードしているホットなネタも出来る限り取り入れた創りを目指し、飽きのこない作品に仕立てた。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水香里
+  type: cast
+- !ruby/hash:TagHash
+  name: 明坂聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石稔
+  type: cast
+- !ruby/hash:TagHash
+  name: 水原薫
+  type: cast
+- !ruby/hash:TagHash
+  name: 相沢舞
+  type: cast
+- !ruby/hash:TagHash
+  name: 福原香織
+  type: cast
+- !ruby/hash:TagHash
+  name: 小菅真美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：神前暁
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：武本康弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：待田堂子
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：堀口悠紀子
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：京都アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：美水かがみ
+  type: staff
+- !ruby/hash:TagHash
+  name: らき☆すたシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: 月刊コンプエース
+  type: other
+- !ruby/hash:TagHash
+  name: 月刊コンプティーク
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: OVA
+  title: らき☆すたOVA(オリジナルなビジュアルとアニメーション)
+  description: 今回の｢らき☆すたOVA｣は全部で6本のショートエピソードから構成されている。TVではあまりフィーチャーされたなかったキャラクターの意外な一面が見られたり、OVAならではの実験的な映像も取り入れている。さらに、｢らき☆すた｣らしく、そのミーハー根性丸出しに、今、世の中をリードしているホットなネタも出来る限り取り入れた創りを目指し、飽きのこない作品に仕立てた。<br><br>泉こなた:平野
+    綾／柊かがみ:加藤英美里／柊つかさ:福原香織／高良みゆき:遠藤 綾／柊みき:井上喜久子／柊いのり:升望／柊まつり:明坂聡美／みなみの母:岩男潤子／黒井ななこ:前田このみ／高良
+    ゆかり:小菅真美／小早川ゆたか:長谷川静香／岩崎みなみ:茅原実里／パトリシア・マーティン:ささきのぞみ／田村ひより:清水香里／日下部みさお:水原薫／峰岸あやの:相沢舞／白石みのる:白石稔<br><br>原作・構成協力・キャラクター原案:美水かがみ(連載：月刊｢コンプティーク｣・月刊｢コンプエース｣)／監督:武本康弘／脚本:待田堂子ほか／キャラクターデザイン:堀口悠紀子／音楽:神前暁(モナカ)／制作:京都アニメーション／音楽制作:ランティス／製作:らっきー☆ぱらだいす2008
+  length_seconds: 2516
+  content_id: so31874795
+  default_thread_id: 1504648236
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31874795
+cast: "[キャスト]<br>泉こなた:平野 綾／柊かがみ:加藤英美里／柊つかさ:福原香織／高良みゆき:遠藤 綾／柊みき:井上喜久子／柊いのり:升望／柊まつり:明坂聡美／みなみの母:岩男潤子／黒井ななこ:前田このみ／高良
+  ゆかり:小菅真美／小早川ゆたか:長谷川静香／岩崎みなみ:茅原実里／パトリシア・マーティン:ささきのぞみ／田村ひより:清水香里／日下部みさお:水原薫／峰岸あやの:相沢舞／白石みのる:白石稔"
+staff: "[スタッフ]<br>原作・構成協力・キャラクター原案:美水かがみ(連載：月刊｢コンプティーク｣・月刊｢コンプエース｣)／監督:武本康弘／脚本:待田堂子ほか／キャラクターデザイン:堀口悠紀子／音楽:神前暁(モナカ)／制作:京都アニメーション／音楽制作:ランティス／製作:らっきー☆ぱらだいす2008"
+produced_year: "[製作年]<br>2008年"
+copyright: "(C)美水かがみ/らっきー☆ぱらだいす2008"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 宮河家の空腹
+- !ruby/hash:SeasonHash
+  title: らき☆すたin武道館 あなたのためだから
+- !ruby/hash:SeasonHash
+  title: らき☆すた

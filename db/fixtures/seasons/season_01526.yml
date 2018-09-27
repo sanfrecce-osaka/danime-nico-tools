@@ -1,0 +1,167 @@
+--- !ruby/hash:SeasonHash
+title: 真剣で私に恋しなさい!! (放送版)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/57/6/10576_1_6.png?1427216400000
+outline: まさかそんな所に敵が隠れてただと!?そりゃないぜ、まゆっち!でも、これはチャンスだぜ!奴らが同じダメージを食らってる今こそが、反撃の時だ!勝利を我が手に掴むため、全てを捨てて真っ正面から突進だぜ!負けるなまゆっち、オラたちの戦いはこれからだ!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 草尾毅
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅川悠
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤邑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 友永朱音
+  type: cast
+- !ruby/hash:TagHash
+  name: 氷青
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：高山カツヒコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 真剣で私にかかってきなさい!!
+  description: オッス! オラ松風だ! まゆっちの携帯ストラップに憑依したツクモ神だぜ! 心のケガレた人間には、友達いねーまゆっちが腹話術でモノと話してるように見えるって設定だから、そこんとこヨロシクな!
+    心のキレイなミンナは、オラの活躍を期待してくれ! 川神魂を胸に、真剣で暴れまわるぜ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>次話→so32012184
+  length_seconds: 1430
+  content_id: so32012183
+  default_thread_id: 1506660110
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012183
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 真剣で任務を完了しなさい!!
+  description: オラは、川神学園の裏組織から、秘密の依頼を引き受けた! 行くぜまゆっち、風間ファミリー出動だぜ! 可憐な乙女の秘密の着替えや、ウレシハズカシ入浴のひと時に、人知れず忍び込む極悪非道な輩を、正義の鉄槌で成敗だ!
+    のさばる悪を何とする! オラの裁きで仕置きしてやるぜ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012183←前話｜次話→so32012185　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012184
+  default_thread_id: 1506660106
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012184
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 真剣で私に萌えなさい!!
+  description: 最近のまゆっちはたるんでるぜ、オラがビシバシ説教だ! そこに脱いで座んな! なぜ脱ぐ必要があるのでしょうか、だと? それはもちろん、オラには保護者として、まゆっちが立派な女に成長してるか確かめる義務があるからな!
+    ちゃんと大和を悩殺できるか、細かくチェックだぜ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012184←前話｜次話→so32012186　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012185
+  default_thread_id: 1506660194
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012185
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 真剣で私と語りなさい!!
+  description: またしても京が謀反だ! お色気で大和に迫るとは、何たる卑劣! オクテなまゆっちが大胆に迫れねーと知っての狼藉、許せねーぜ! と思ったらクリ吉まで?
+    このままじゃ水をあけられちまう、まゆっちもお色気で反撃だ! 何、無理だと? ならオラが助っ人だ! これでもオラ、脱いだらスゴイぜ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012185←前話｜次話→so32012187　第一話→so32012183
+  length_seconds: 1429
+  content_id: so32012186
+  default_thread_id: 1506660247
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012186
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 真剣で私に怒りなさい!!
+  description: 裏サイトに恥ずかしいところを撮って上げられて大さわぎだ! あられもない姿がさらされて、怒り心頭、復讐に燃えての八つ当たりバトル! どうする大和、武士娘のテクにたえられるのかよ!?
+    まゆっちが心をこめて作った弁当をかけて、壮絶な戦いが繰り広げられるぜ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012186←前話｜次話→so32012188　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012187
+  default_thread_id: 1506660241
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012187
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 真剣で私とかつぎなさい!!
+  description: 祭だわっしょい! チャンスだまゆっち、女の魅力をアピールして、ポイントかせぐんだ! 恥ずかしいだと!? クリ吉や一子さんまで、あんなに大胆に攻めてるんだ、気後れしたら出遅れるぜ!
+    日本の伝統に挑戦だぜ! そんなさなかに、謎の男が暗躍だ! 行け大和、オマエなら勝てる!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012187←前話｜次話→so32012189　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012188
+  default_thread_id: 1506660245
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012188
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 真剣で私につきあいなさい!!
+  description: 学園内でHな本が取引されていた! しかも超過激な直輸入の無修正! まゆっちも手に入れて、将来のために勉強だぜ! そこへ風間ファミリーに新たな任務、この本を取り締まれだと!?
+    街に暗躍する黒い影、コイツはヤバイぜ! そんな時に、モモ先輩の様子が……どうしたってんだよ～!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012188←前話｜次話→so32012190　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012189
+  default_thread_id: 1506660243
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012189
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 真剣で事情を説明しなさい!!
+  description: 巨乳かパットか寄せて上げてにヌーブラか、一目で見破る大和の眼力に、生半可な戦法は通用しねぇぜ! そこに明かされる驚愕の事実、アレってマジで作り物かよ!?
+    負けるなまゆっち、軍師大和の作戦で、華麗に活躍してポイントゲットだ! 武士娘の魅力、炸裂だぜ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012189←前話｜次話→so32012191　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012190
+  default_thread_id: 1506660261
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012190
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 真剣で私にカミングアウトしなさい!!
+  description: こうなったら、まゆっちも華麗でゴージャスに変身して対抗だ!何、変身できねぇ?なら、お色気勝負のコスプレ作戦だ!ここぞとばかりに隙を狙って攻めてくるライバルの数々、気を抜けねぇぜ!憎き仇を正義の刃で成敗だ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012190←前話｜次話→so32012192　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012191
+  default_thread_id: 1506660183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012191
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 真剣で私とぶつかりなさい!!
+  description: うすうす感づいてたけどよー、やっぱアイツは大和を狙ってたんじゃね?大和の敵はまゆっちの敵、大和を狙う奴は例え四天王だって容赦しねぇ!白昼の下に真実をさらけ出してやる!自分の口からそんな事言えない?まゆっちが言えないなら、オラが本当の事を言ってやる!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012191←前話｜次話→so32012193　第一話→so32012183
+  length_seconds: 1430
+  content_id: so32012192
+  default_thread_id: 1506660220
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012192
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 真剣で私と出撃しなさい!!
+  description: 百代の暴走で見つかった極秘資料は、驚愕の真実を記していた!これを見れば、攻略目標の隙を攻められるぜ!みんな揃って研究会だ!一方そのころ、大和も真の敵と戦う決意を堅めていた!出撃準備は万全だぜまゆっち!女と女の勝負は命がけだぜ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012192←前話｜次話→so32012219　第一話→so32012183
+  length_seconds: 1429
+  content_id: so32012193
+  default_thread_id: 1506660153
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012193
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 真剣で私に恋しなさい!!
+  description: まさかそんな所に敵が隠れてただと!? そりゃないぜ、まゆっち!でも、これはチャンスだぜ!奴らが同じダメージを食らってる今こそが、反撃の時だ!勝利を我が手に掴むため、全てを捨てて真っ正面から突進だぜ!負けるなまゆっち、オラたちの戦いはこれからだ!<br><br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一<br><br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ<br><br>so32012193←前話　第一話→so32012183
+  length_seconds: 1445
+  content_id: so32012219
+  default_thread_id: 1506660809
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012219
+cast: "[キャスト]<br>【キャスト】:神谷浩史、浅川悠、友永朱音、氷青、伊藤静、後藤邑子、小西克幸、草尾毅、鈴村健一"
+staff: "[スタッフ]<br>原作:みなとそふと／監督:元永慶太郎／シリーズ構成・脚本:高山カツヒコ"
+produced_year: "[製作年]<br>2011年"
+copyright: "(C)みなとそふと/まじこい製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

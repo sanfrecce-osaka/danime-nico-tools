@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: 魔法少女なんてもういいですから。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/56/9/20569_1_6.png?1450680131000
+outline: "『“こんなの” 拾うんじゃなかった…。』スーパーからの買い物帰り、生ゴミを漁る奇妙な生物に話しかけられた【葉波ゆずか】。普通の人間には見えないその生物【ミトン】に魔法少女にならないかと誘われるが｢こんなおいしい話は他にないよ？｣｢ぶっちゃけお得だよ？｣という強引な説明があまりに怪しすぎてイマイチ現実味が感じられない…。『でも、今を逃したらきっと…、ずっと、気になってしまうと思う。』双見酔が描く｢魔法少女の日常｣、ゆるゆるスタート！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 西明日香
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中美海
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 若井友希
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田茜
+  type: cast
+- !ruby/hash:TagHash
+  name: 大森日雅
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：ふでやすかずゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：米田和弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：村上桃子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：中山真斗
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：PINE JAM
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：双見酔
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：嶋田和晃
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：F.M.F
+  type: staff
+- !ruby/hash:TagHash
+  name: 魔法少女なんてもういいですからシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～3"
+  title: ''
+  description: "#1：「…あんた、僕が見えてるのか？」／#2：「はい、水着です。間違いないです」／#3：「ねえ、ゆずかと私は友達よね？」<br><br>葉波ゆずか:藤田茜／ミトン:若井友希／坂上ちや:大森日雅／だいや:田中美海／篠木真冬:伊藤美来／ポチ:西明日香<br><br>原作:双見酔
+    ｢魔法少女なんてもういいですから。｣(デジタル版 コミック アース・スター｣連載)／監督:米田和弘／シリーズ構成:ふでやすかずゆき／脚本:ふでやすかずゆき、村上桃子／キャラクターデザイン・総作画監督:嶋田和晃／音響監督:長崎行男／音楽:中山真斗／音楽制作:F.M.F／アニメーション制作:PINE
+    JAM<br><br>次話→so32023538"
+  length_seconds: 722
+  content_id: so32023537
+  default_thread_id: 1506792442
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023537
+- !ruby/hash:EpisodeHash
+  episode_no: "#4～7"
+  title: ''
+  description: "#4：「魔法少女には定年があってね」／#5：「私は水着に変身するのが嫌です」／#6：「会社勤めとは魔法少女の戦闘よりも過酷な労働なのかい？」／#7：｢私のコレクションになるのに｣<br><br>葉波ゆずか:藤田茜／ミトン:若井友希／坂上ちや:大森日雅／だいや:田中美海／篠木真冬:伊藤美来／ポチ:西明日香<br><br>原作:双見酔
+    ｢魔法少女なんてもういいですから。｣(デジタル版 コミック アース・スター｣連載)／監督:米田和弘／シリーズ構成:ふでやすかずゆき／脚本:ふでやすかずゆき、村上桃子／キャラクターデザイン・総作画監督:嶋田和晃／音響監督:長崎行男／音楽:中山真斗／音楽制作:F.M.F／アニメーション制作:PINE
+    JAM<br><br>so32023537←前話｜次話→so32023539　第一話→so32023537"
+  length_seconds: 963
+  content_id: so32023538
+  default_thread_id: 1506792439
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023538
+- !ruby/hash:EpisodeHash
+  episode_no: "#8～12"
+  title: ''
+  description: "#8：「魔法少女の…仲間……。」／#9：「魔法少女の必要性はもう無い」／#10：「完璧超人だよね……ペッ！」／#11：「じゃあ、何の為の魔法少女なの？」／#12：「僕は、ゆずかの親友になる」<br><br>葉波ゆずか:藤田茜／ミトン:若井友希／坂上ちや:大森日雅／だいや:田中美海／篠木真冬:伊藤美来／ポチ:西明日香<br><br>原作:双見酔
+    ｢魔法少女なんてもういいですから。｣(デジタル版 コミック アース・スター｣連載)／監督:米田和弘／シリーズ構成:ふでやすかずゆき／脚本:ふでやすかずゆき、村上桃子／キャラクターデザイン・総作画監督:嶋田和晃／音響監督:長崎行男／音楽:中山真斗／音楽制作:F.M.F／アニメーション制作:PINE
+    JAM<br><br>so32023538←前話　第一話→so32023537"
+  length_seconds: 1204
+  content_id: so32023539
+  default_thread_id: 1506792620
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32023539
+cast: "[キャスト]<br>葉波ゆずか:藤田茜／ミトン:若井友希／坂上ちや:大森日雅／だいや:田中美海／篠木真冬:伊藤美来／ポチ:西明日香"
+staff: "[スタッフ]<br>原作:双見酔 ｢魔法少女なんてもういいですから。｣(デジタル版 コミック アース・スター｣連載)／監督:米田和弘／シリーズ構成:ふでやすかずゆき／脚本:ふでやすかずゆき、村上桃子／キャラクターデザイン・総作画監督:嶋田和晃／音響監督:長崎行男／音楽:中山真斗／音楽制作:F.M.F／アニメーション制作:PINE
+  JAM"
+produced_year: "[製作年]<br>2016年"
+copyright: "©双見酔/アース・スター エンターテイメント／魔法少女なんてもういいですから。製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 魔法少女なんてもういいですから。セカンドシーズン

@@ -1,0 +1,32 @@
+--- !ruby/hash:SeasonHash
+title: "“文学少女”メモワールII ソラ舞う天使の鎮魂曲(レクイエム)-"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/2/10482_1_6.png?1427216400000
+outline: 両親の不和、クラスメイト達からの孤立・・・孤独な日々を過ごしていた少女、朝倉美羽。彼女が唯一心を許したのは幼なじみの少年、井上心葉だった。心葉が投稿した小説｢青空【ソラ】に似ている｣が出版されたことで美羽は追いつめられてしまう。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: "“文学少女”シリーズ"
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: "“文学少女”メモワールII ソラ舞う天使の鎮魂曲(レクイエム)-"
+  description: 両親の不和、クラスメイト達からの孤立・・・孤独な日々を過ごしていた少女、朝倉美羽。彼女が唯一心を許したのは幼なじみの少年、井上心葉だった。心葉が投稿した小説｢青空【ソラ】に似ている｣が出版されたことで美羽は追いつめられてしまう。<br><br>朝倉美羽:平野綾.／井上心葉:入野自由／美羽の母:山像かおり／美羽の父:梅津秀行／心葉の母:久川綾／心葉少年時代:斎藤千和
+  length_seconds: 1451
+  content_id: so32012080
+  default_thread_id: 1506658423
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32012080
+cast: "[キャスト]<br>朝倉美羽:平野綾.／井上心葉:入野自由／美羽の母:山像かおり／美羽の父:梅津秀行／心葉の母:久川綾／心葉少年時代:斎藤千和"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C) 2010 Mizuki Nomura/PUBLISHED BY ENTERBRAIN, INC./“文学少女”製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "“文学少女”メモワールIII 恋する乙女の狂想曲(ラプソディ)-"
+- !ruby/hash:SeasonHash
+  title: "“文学少女” メモワールI 夢見る少女の前奏曲(プレリュード)-"
+- !ruby/hash:SeasonHash
+  title: 劇場版“文学少女”

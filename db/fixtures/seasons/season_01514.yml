@@ -1,0 +1,59 @@
+--- !ruby/hash:SeasonHash
+title: 枕男子
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/17/9/20179_1_6.png?1436322362000
+outline: 疲れた心を癒す完全一人称目線の新感覚アニメーションが発表された。今回公開されたキャラを含め、合計12人の個性あふれるキャラクターたちが週替わりで登場。毎回、タイプの違う男子が、それぞれのスタイルで新たな「添い寝」を演出してくれる。なかには、「これが添い寝！？」と驚くようなシチュエーションも。そんな彼らの共通点は、星空が綺麗に見える街に住んでいるということ。お気に入りの男子を見つけて、癒しのひとときを過ごそう。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：feel.
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Assez Finaud Fabric.
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山本美佳
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#4"
+  title: 枕男子／先輩男子／音楽男子／方言男子
+  description: "#1：■めりぃ　　あなたの眠りを、いつもそばで見守っている優しい存在。趣味：ひなたぼっこ／#2：■田仲聡輔（たなかそうすけ）32歳　　商社勤務のサラリーマン。企画部のプロジェクトリーダーで気さくで頼れる先輩。ちなみに晴斗とは叔父甥の関係。趣味：フットサル／#3：■花嶺奏（はなみねかなで）18歳　　天才学生ヴァイオリニスト。西洋文化に強い憧れを持っている。高飛車な性格だが、意外な一面も……？趣味：キャサリン（くらげ）／#4：■雉子波瑛治（きじなみえいじ）14歳　　東北の田舎から引っ越してきた転校生。都会に負けないよう頑張っているが、空回ってばかり。趣味：ゲームで一狩り<br><br>制作会社:Assez
+    Finaud Fabric×feel. ／シナリオ:綾奈ゆにこ、関根アユミ／キャラクターデザイン:山本美佳<br><br>次話→so31946920"
+  length_seconds: 963
+  content_id: so31946919
+  default_thread_id: 1505690805
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946919
+- !ruby/hash:EpisodeHash
+  episode_no: "#5～#8"
+  title: 天文男子／中二男子／幼気（いたいけ）男子／リア充男子
+  description: "#5：■永守・T・隆士（えもり・T・りゅうし） 20 歳　星を見ることが大好きな大学生。人と目を合わせることが苦手だが、好きな天体のことを語り出すと止まらない。趣味：天体観測／#6：■舞木ユウ（まいき
+    ゆう）15 歳　中二病と言われると不機嫌になる。背が低いのを気にしており、次の身体測定が待ち遠しい様子。趣味：猫と遊ぶこと／#7：■可愛川 晴斗（えのかわ
+    はると）5 歳　元気ありあまるイケメン幼児。『おでん戦隊フーフージャー』がお気に入り。田仲聡輔とは叔父甥の関係。趣味：なわとび／#8：■笹山直央（ささやまなお）21歳　スマホに夢中なイマドキの大学生。コミュ力が高く、誰とでも臆せず話せる。やや自信家の面も。趣味：サークルコンパとフラフープ<br><br>制作会社:Assez
+    Finaud Fabric×feel. ／シナリオ:綾奈ゆにこ、関根アユミ／キャラクターデザイン:山本美佳<br><br>so31946919←前話｜次話→so31946921　第一話→so31946919"
+  length_seconds: 963
+  content_id: so31946920
+  default_thread_id: 1505690840
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946920
+- !ruby/hash:EpisodeHash
+  episode_no: "#9～#12"
+  title: 司書男子／華道男子／屋台男子／続・枕男子
+  description: "#9：■望月識（もちづきしるす）28歳　仕事に誇りを持つ図書館司書。身長が高く、子供たちからは『図書館のキリンさん』と呼ばれている。運動神経がまるでない。趣味：読書／#10：■千切
+    夜長（ちぎり よなが）17 歳　千切 夜宵（ちぎり やよい）17 歳　華道家元の次男と三男（双子）。才能はあるのだが、跡継ぎ関係など諸々の面倒なことは長男の未明に任せてのらくらとしている。趣味：夜更かし、ちょっかいを出すこと／#11：■飯田由一郎（いいだゆういちろう）41歳　おでんと自由を愛する屋台のおじさん。美味しいおでんと優しい笑顔でお客さんを癒す。ビールが大好き。趣味：平日昼間からの飲酒／#12：■めりぃ　あなたの眠りを、いつもそばで見守っている優しい存在。趣味：ひなたぼっこ<br><br>制作会社:Assez
+    Finaud Fabric×feel. ／シナリオ:綾奈ゆにこ、関根アユミ／キャラクターデザイン:山本美佳<br><br>so31946920←前話　第一話→so31946919"
+  length_seconds: 963
+  content_id: so31946921
+  default_thread_id: 1505690872
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31946921
+staff: "[スタッフ]<br>制作会社:Assez Finaud Fabric×feel. ／シナリオ:綾奈ゆにこ、関根アユミ／キャラクターデザイン:山本美佳"
+produced_year: "[製作年]<br>2015年"
+copyright: "（Ｃ）Ｐ★Ｐ/枕男子製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

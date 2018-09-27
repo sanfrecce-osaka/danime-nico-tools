@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: Ninja者
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/5/11325_1_6.png?1427216400000
+outline: かつて軍事集団カブスの猛攻から逃げ延びた忍びがいた。数十年後、彼らは同士の無念を継ぎビャクロ再興を悲願に修行を重ねていた。一族秘伝の巻物を取り戻そうと旅立つ六人の前に、姫を狙う魔の手が忍び寄っていた…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮田幸季
+  type: cast
+- !ruby/hash:TagHash
+  name: 川村万梨阿
+  type: cast
+- !ruby/hash:TagHash
+  name: 二又一成
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉一伸
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩永哲哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢木郁也
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西寛子
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚堅
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅原淳一
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅田葉子
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菅沼栄治
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：菅沼栄治
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：山田光洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 忍者
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+- !ruby/hash:TagHash
+  name: 須江信人
+  type: other
+- !ruby/hash:TagHash
+  name: ユーメックス
+  type: other
+- !ruby/hash:TagHash
+  name: 岸田隆宏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 上の巻
+  description: ビャクロ城が侵略されてから数十年、一族の生き残りであるサクラたちは修行を積む日々だった。一人前の忍者となるための昇段試験を明日に控え、カヲルから言い渡された内容とは、カブスに占拠されたビャクロ城から秘伝の巻物を取ってくるというものだった。試験といえど命の保証はない。彼らの過酷な旅が今始まる…!<br><br>サクラ:小西寛子／マツリ:中島麻実／ユメ:宮嶋ひとみ／ポチ:宮田始典／ハヤシ:石塚堅／カヲル:鈴村健一／ジャメ:川村万梨阿／ニッコー:菅原淳一／マツザカ:二又一成／イナバ:浅田葉子／ユキノブ:沢木郁也／役人:岩永哲哉／殿様:飛田展男／司令官:千葉一伸<br><br>監督・原案・キャラクターデザイン:菅沼栄治／脚本:山田光洋／演出:元永慶太郎／デザインワークス:岸田隆宏／美術監督・美術設定:須江信人／制作:A.I.C.／製作:ユーメックス<br><br>次話→so32041252
+  length_seconds: 1707
+  content_id: so32041251
+  default_thread_id: 1507071573
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041251
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 下の巻
+  description: 道中妖獣たちの襲撃に合いながら、ようやくビャクロ城に到着したサクラたち。なんとか城内への潜入に成功し、巻物の置いてある書物庫を目指すが、そこへ十二使徒に術をかけられたユメとカヲルが…。サクラを執拗に狙う彼らの目的は一体なんなのか。そして巻物を無事手に入れることはできるのか!?<br><br>サクラ:小西寛子／マツリ:中島麻実／ユメ:宮嶋ひとみ／ポチ:宮田始典／ハヤシ:石塚堅／カヲル:鈴村健一／ジャメ:川村万梨阿／ニッコー:菅原淳一／マツザカ:二又一成／イナバ:浅田葉子／ユキノブ:沢木郁也／役人:岩永哲哉／殿様:飛田展男／司令官:千葉一伸<br><br>監督・原案・キャラクターデザイン:菅沼栄治／脚本:山田光洋／演出:元永慶太郎／デザインワークス:岸田隆宏／美術監督・美術設定:須江信人／制作:A.I.C.／製作:ユーメックス<br><br>so32041251←前話　第一話→so32041251
+  length_seconds: 1723
+  content_id: so32041252
+  default_thread_id: 1507071690
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041252
+cast: "[キャスト]<br>サクラ:小西寛子／マツリ:中島麻実／ユメ:宮嶋ひとみ／ポチ:宮田始典／ハヤシ:石塚堅／カヲル:鈴村健一／ジャメ:川村万梨阿／ニッコー:菅原淳一／マツザカ:二又一成／イナバ:浅田葉子／ユキノブ:沢木郁也／役人:岩永哲哉／殿様:飛田展男／司令官:千葉一伸"
+staff: "[スタッフ]<br>監督・原案・キャラクターデザイン:菅沼栄治／脚本:山田光洋／演出:元永慶太郎／デザインワークス:岸田隆宏／美術監督・美術設定:須江信人／制作:A.I.C.／製作:ユーメックス"
+produced_year: "[製作年]<br>1996年"
+copyright: "(C)AIC/東芝EMI"
+related_seasons: !ruby/array:Hashie::Array []

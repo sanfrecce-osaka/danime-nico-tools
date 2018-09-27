@@ -1,0 +1,57 @@
+--- !ruby/hash:SeasonHash
+title: 秒速5センチメートル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/67/7/10677_1_6.png?1502182832000
+outline: 小学校の卒業と同時に離ればなれになった遠野貴樹と篠原明里。二人だけの間に存在していた特別な想いをよそに、時だけが過ぎていった。そんなある日、大雪の降るなかついに貴樹は明里に会いに行く……。貴樹と明里の再会の日を描いた｢桜花抄｣、～彼がいる場所にくると、胸の奥が、すこし、苦しくなる～その後の貴樹を別の人物の視点から描いた｢コスモナウト｣、そして彼らの魂の彷徨を切り取った表題作｢秒速5センチメートル｣、三本の連作アニメーション作品。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花村怜美
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤好美
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋研二
+  type: cast
+- !ruby/hash:TagHash
+  name: 尾上綾華
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：新海誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：天門本名
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：白川篤史
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 秒速5センチメートル
+  description: 小学校の卒業と同時に離ればなれになった遠野貴樹と篠原明里。二人だけの間に存在していた特別な想いをよそに、時だけが過ぎていった。そんなある日、大雪の降るなかついに貴樹は明里に会いに行く……。貴樹と明里の再会の日を描いた｢桜花抄｣、～彼がいる場所にくると、胸の奥が、すこし、苦しくなる~その後の貴樹を別の人物の視点から描いた｢コスモナウト｣、そして彼らの魂の彷徨を切り取った表題作｢秒速5センチメートル｣、三本の連作アニメーション作品。<br><br>遠野貴樹:水橋研二／篠原明里(第一話『桜花抄』):近藤好美／篠原明里(第三話『秒速5センチメートル』):尾上綾華／澄田花苗:花村怜美<br><br>原作・脚本・監督:新海誠／作画監督:西村貴世／美術:丹治匠,馬島亮子／音楽:天門(本名：白川篤史)
+  length_seconds: 3764
+  content_id: so31971924
+  default_thread_id: 1506069308
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971924
+cast: "[キャスト]<br>遠野貴樹:水橋研二／篠原明里(第一話『桜花抄』):近藤好美／篠原明里(第三話『秒速5センチメートル』):尾上綾華／澄田花苗:花村怜美"
+staff: "[スタッフ]<br>原作・脚本・監督:新海誠／作画監督:西村貴世／美術:丹治匠,馬島亮子／音楽:天門(本名：白川篤史)"
+produced_year: "[製作年]<br>2007年"
+copyright: "（C） Makoto Shinkai / CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array []

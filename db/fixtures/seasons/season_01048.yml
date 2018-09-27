@@ -1,0 +1,69 @@
+--- !ruby/hash:SeasonHash
+title: OVA東京喰種トーキョーグール【JACK】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/45/9/20459_1_6.png?1448589317000
+outline: CCGによる｢梟(フクロウ)｣討伐作戦から遡ること12年前―。東京13区では｢ランタン｣と呼ばれる喰種による捕食事件が頻発し、CCGが捜査にあたっていた。そんな中、高校生・富良太志(ふら
+  たいし)は、肘の故障が原因で野球を続けられなくなった挫折から、かつてのチームメイトで親友でもある、リョウ、アキと共に不良行為を繰り返していた。だが、リョウと仲違いしてしまった太志は、ふたりから離れ、ひとりで行動するようになる。リョウとアキはそんな太志を心配しつつも、うまく声をかけられず、それぞれにもどかしい思いを抱えていた。ある日の深夜、不良グループと行動を共にしていたリョウとアキを｢ランタン｣が襲う。通りがかった太志は、ふたりを助けようとするが到底敵わない。そこへ現れたのが、同じクラスの有馬貴将(ありま
+  きしょう)だった。有馬は人間離れした動きで｢ランタン｣を攻撃し、追い詰めていく。勝てないと判断した｢ランタン｣はその場を立ち去り、太志は命を救われた。太志は、自分自身のため、そして失った仲間の仇を取るため、有馬にランタン討伐の協力を申し出る。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 大久保瑠美
+  type: cast
+- !ruby/hash:TagHash
+  name: うえだゆうじ
+  type: cast
+- !ruby/hash:TagHash
+  name: 西凜太朗
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：三輪和宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：嶌田惣一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: OVA東京喰種トーキョーグール【JACK】
+  description: CCGによる｢梟(フクロウ)｣討伐作戦から遡ること12年前―。東京13区では｢ランタン｣と呼ばれる喰種による捕食事件が頻発し、CCGが捜査にあたっていた。そんな中、高校生・富良太志(ふら
+    たいし)は、肘の故障が原因で野球を続けられなくなった挫折から、かつてのチームメイトで親友でもある、リョウ、アキと共に不良行為を繰り返していた。だが、リョウと仲違いしてしまった太志は、ふたりから離れ、ひとりで行動するようになる。リョウとアキはそんな太志を心配しつつも、うまく声をかけられず、それぞれにもどかしい思いを抱えていた。ある日の深夜、不良グループと行動を共にしていたリョウとアキを｢ランタン｣が襲う。通りがかった太志は、ふたりを助けようとするが到底敵わない。そこへ現れたのが、同じクラスの有馬貴将(ありま
+    きしょう)だった。有馬は人間離れした動きで｢ランタン｣を攻撃し、追い詰めていく。勝てないと判断した｢ランタン｣はその場を立ち去り、太志は命を救われた。太志は、自分自身のため、そして失った仲間の仇を取るため、有馬にランタン討伐の協力を申し出る。<br><br>有馬貴将:浪川大輔／富良太志:木村良平／三波麗花:早見沙織／リョウ:鈴木達央／アキ:大久保瑠美／丸手
+    斎:うえだゆうじ／ヤモリ:西 凜太朗<br><br>監督・絵コンテ・演出:嶌田惣一／脚本:御笠ノ忠次／キャラクターデザイン:三輪和宏／作画監督:中嶋敦子
+  length_seconds: 1801
+  content_id: so32224971
+  default_thread_id: 1509923848
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32224971
+cast: "[キャスト]<br>有馬貴将:浪川大輔／富良太志:木村良平／三波麗花:早見沙織／リョウ:鈴木達央／アキ:大久保瑠美／丸手 斎:うえだゆうじ／ヤモリ:西
+  凜太朗"
+staff: "[スタッフ]<br>監督・絵コンテ・演出:嶌田惣一／脚本:御笠ノ忠次／キャラクターデザイン:三輪和宏／作画監督:中嶋敦子"
+produced_year: "[製作年]<br>2015年"
+copyright: "©石田スイ／集英社・東京喰種製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 東京喰種トーキョーグール
+- !ruby/hash:SeasonHash
+  title: 東京喰種トーキョーグール√A
+- !ruby/hash:SeasonHash
+  title: OVA東京喰種トーキョーグール【PINTO】

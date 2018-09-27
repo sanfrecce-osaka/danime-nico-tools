@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: Peeping Life(ピーピング・ライフ)-The Perfect Emotion-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/9/10489_1_6.png?1427216400000
+outline: 脱力系スローライフアニメ｢Peeping Life(ピーピング・ライフ)｣の第2弾。第2弾では、第1弾で多くのファンを魅了(?)した、バカップルやオタクくんの続編もあり、見応えたっぷりな内容となっています。日々の忙しさと生きることに疲れたあなた。人生をムダことに費やそう!
+  そこに愛はあるはず…。とびきりゆるいお笑いと、はな歌まじりの感動をお届けいたします。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：森りょういち
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：detune.
+  type: staff
+- !ruby/hash:TagHash
+  name: Peeping Lifeシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#5"
+  title: おきづきバカップル/フェンシングマン/郵便局前、午前0時/新婚ちゃん行ってきます!/恋愛マスター気取り
+  description: どうやら見た目が変わった彼女。はたして彼氏は彼女が変わったところを見つけられるんだろうか…。/アニメコスプレの大型イベントに来た男女二人。勘違いして、フェンシング選手の格好してきた男の子に女の子の対応は…。/深夜0時過ぎに郵便局前で躊躇する男子二人組。時間が過ぎても消印を押してもらえるか悩むのだが…。/新婚旅行で｢ハワイ｣に行くことになった新婚夫婦。英語がどちらも話せないのだが…。/携帯片手に後輩の恋愛相談で延々と語る自称恋愛マスターなのだが…。<br><br>監督:森りょういち／音楽:detune.<br><br>次話→so31875543
+  length_seconds: 1499
+  content_id: so31875542
+  default_thread_id: 1504669115
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875542
+- !ruby/hash:EpisodeHash
+  episode_no: "#6-#10"
+  title: 下着メーカー営業マンの心得/大雨の海の家/おばけ屋敷の憂鬱/映画館の情事/オタクくんフィギュア鑑賞会
+  description: 下着メーカーの上司と部下が営業後の密談。｢パンティライン｣に対して熱く語っているようだが…。/大雨の中、海の家のバイト。あまりにもひまをもて余している男二人なのだが…。/おばけ屋敷の事務所で仕事をやめようかと団長に相談しているベテランおばけスタッフなのだが…。/薄暗い映画館にて会社の部長と部下が座席を隣同士にして、何やら大事な相談事のようだが…。/オタクくん念願の萌えフィギュア購入。自宅にていよいよ一人鑑賞会がはじまるのだが…。<br><br>監督:森りょういち／音楽:detune.<br><br>so31875542←前話　第一話→so31875542
+  length_seconds: 1499
+  content_id: so31875543
+  default_thread_id: 1504668956
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31875543
+staff: "[スタッフ]<br>監督:森りょういち／音楽:detune."
+produced_year: "[製作年]<br>2010年"
+copyright: "(c)FOREST Hunting One/ CoMix Wave Films"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Edition-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ)-The Perfect Evolution-
+- !ruby/hash:SeasonHash
+  title: Peeping Life(ピーピング・ライフ)-The Perfect Extension-
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) 5.0.ch
+- !ruby/hash:SeasonHash
+  title: Peeping Life (ピーピング・ライフ) The Perfect Explosion
+- !ruby/hash:SeasonHash
+  title: Peeping Life ―手塚プロ・タツノコプロ ワンダーランド―
+- !ruby/hash:SeasonHash
+  title: 桃屋×Peeping Life　ご縁ですよ！
+- !ruby/hash:SeasonHash
+  title: Peeping Life-WE ARE THE HERO-
+- !ruby/hash:SeasonHash
+  title: Peeping Life - WORLD HISTORY -
+- !ruby/hash:SeasonHash
+  title: Peeping Lifex怪獣酒場　かいじゅうたちがいるところ
+- !ruby/hash:SeasonHash
+  title: Peeping Life TV シーズン 1 ??

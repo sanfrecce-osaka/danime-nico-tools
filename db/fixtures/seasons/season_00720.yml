@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版スラムダンク　湘北最大の危機！燃えろ桜木花道
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/05/5/11055_1_6.png?1427216400000
+outline: 海南戦に惜しくも敗れ、全国大会出場のためには、もう一敗もできない湘北バスケ部。花道は、海南戦の土壇場での痛恨のミスに責任を感じ、自慢のリーゼントをばっさり切って、丸坊主に。いっそう恐くなってしまう花道。練習に明け暮れる日々、湘北に緑風高校から練習試合が申し込まれる。３日後の武里戦を控え、慎重になるものの、緑風高校のマネージャー・恵理に挑発されたこともあって、結局試合を受けることになる。一、二年生だけの新設校ということもあり、甘く見ていた湘北だったが、緑風は全国のトップレベルのメンバーを集めた強豪チームだった。その中には、本場アメリカのＮＢＡからスカウトされたこともあるマイケル沖田や中学全国大会で活躍していた名高らがいた。唖然とする湘北メンバー。試合開始のホイスル。超高校級の強さを見せるマイケルたちのまえに、指令塔赤木を欠く湘北は序盤から大きく引き離されてしまう。練習試合だからとはいえ、いまの湘北に負けることは許されない。果たして、花道たちはこの試合を挽回することは可能なのだろうか…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 草尾毅
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 梁田清之
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：菅良幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：井上雄彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ＢＭＦ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：角銅博之
+  type: staff
+- !ruby/hash:TagHash
+  name: スラムダンクシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: メガネ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 劇場版スラムダンク　湘北最大の危機！燃えろ桜木花道
+  description: 海南戦に惜しくも敗れ、全国大会出場のためには、もう一敗もできない湘北バスケ部。花道は、海南戦の土壇場での痛恨のミスに責任を感じ、自慢のリーゼントをばっさり切って、丸坊主に。いっそう恐くなってしまう花道。練習に明け暮れる日々、湘北に緑風高校から練習試合が申し込まれる。３日後の武里戦を控え、慎重になるものの、緑風高校のマネージャー・恵理に挑発されたこともあって、結局試合を受けることになる。一、二年生だけの新設校ということもあり、甘く見ていた湘北だったが、緑風は全国のトップレベルのメンバーを集めた強豪チームだった。その中には、本場アメリカのＮＢＡからスカウトされたこともあるマイケル沖田や中学全国大会で活躍していた名高らがいた。唖然とする湘北メンバー。試合開始のホイスル。超高校級の強さを見せるマイケルたちのまえに、指令塔赤木を欠く湘北は序盤から大きく引き離されてしまう。練習試合だからとはいえ、いまの湘北に負けることは許されない。果たして、花道たちはこの試合を挽回することは可能なのだろうか…。<br><br>桜木花道:草尾毅／赤木晴子:平松晶子／赤木剛憲:梁田清之／流川楓:緑川光<br><br>原作:井上雄彦／監督:角銅博之／脚本:菅良幸／音楽:ＢＭＦ／主題歌:「きみが好きだと叫びたい」ＢＡＡＤ
+  length_seconds: 2370
+  content_id: so32080078
+  default_thread_id: 1507694648
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32080078
+cast: "[キャスト]<br>桜木花道:草尾毅／赤木晴子:平松晶子／赤木剛憲:梁田清之／流川楓:緑川光"
+staff: "[スタッフ]<br>原作:井上雄彦／監督:角銅博之／脚本:菅良幸／音楽:ＢＭＦ／主題歌:「きみが好きだと叫びたい」ＢＡＡＤ"
+produced_year: "[製作年]<br>1995年"
+copyright: "(C)井上雄彦・アイティープランニング・東映アニメーション"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: スラムダンク
+- !ruby/hash:SeasonHash
+  title: 劇場版スラムダンク
+- !ruby/hash:SeasonHash
+  title: 劇場版スラムダンク　全国制覇だ！桜木花道
+- !ruby/hash:SeasonHash
+  title: 劇場版スラムダンク　吠えろバスケットマン魂！！花道と流川の熱き夏

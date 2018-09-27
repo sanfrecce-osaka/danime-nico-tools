@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: がぁ～でぃあんHearts
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/8/10228_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 池澤春菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒木香恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 新谷真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本麻里安
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：黒田やすひろ
+  type: staff
+- !ruby/hash:TagHash
+  name: がぁ～でぃあんHeartsシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話/第2話
+  title: "｢ひな、内緒だけどガァーディアンハーツですっ｣/｢たすけて、白衣の天使さま｣"
+  description: 第1話・第2話：真夜・くるす・チェルシーの3人は、ガーディアンハーツに苦渋を飲まされた仕返しをしようと、意気投合する。ガーディアンハーツは、和也と女の子が仲良くしているところによく現れると考えた真夜達。彼女達はひなを和也と二人きりにさせ、ガーディアンハーツをおびき出そうとするが…。<br><br>声:釘宮理恵、荒木香恵、池澤春菜、新谷真弓、山本麻里安<br><br>監督:黒田やすひろ<br><br>次話→so31915174
+  length_seconds: 2002
+  content_id: so31915182
+  default_thread_id: 1505242328
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31915182
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話/第4話
+  title: "｢温泉旅情純情派　秘湯巡りの女達は見た！ドキッ！女だらけの大宴会!?…ポロリもあるよ｣/「チェルシーのマジカルバースディ」"
+  description: 第3話・第4話：サキの提案で渡家はそろって、温泉旅行に行くことに！向かった温泉街は、祭りで世界中から観光客が訪れ大変賑わっていた。というもの、この温泉街には、伝説の秘湯「愛裸舞湯」があり、一緒に入ったカップルは必ず結ばれる、といういわくつきのモノであった。ただし、この温泉に入れるのは、祭りのイベントで一番盛り上げた人のみ！！もちろんひなたたちはこれに参加することを即決するのだった。<br><br>声:釘宮理恵、荒木香恵、池澤春菜、新谷真弓、山本麻里安<br><br>監督:黒田やすひろ<br><br>so31915182←前話｜次話→so31915175　第一話→so31915182
+  length_seconds: 2009
+  content_id: so31915174
+  default_thread_id: 1505242531
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31915174
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話/第6話
+  title: "「『学校の○談』文化祭は準備中ですぅ～」/「決戦！文化祭!!!ハートとハートでがぁーでぃあんHeartsですぅ。」"
+  description: 第5話・第6話：ひな達の通う学校では、文化祭を目の前にして、準備に大忙し。そんな準備に追われるひなに、学校内で起こる怪談話の噂が耳に入る。「女子トイレの開かずの扉からうめき声が聞こえた」「音楽室の作曲家の肖像画ににらまれた」と。噂を聞いたこわがりのひなは、怖くておトイレにいけなくなってしまう。好奇心旺盛なチェルシー達はひなの付き添いを買って出て、怪談話の調査に向かう。果たして、噂の真相は!?<br><br>声:釘宮理恵、荒木香恵、池澤春菜、新谷真弓、山本麻里安<br><br>監督:黒田やすひろ<br><br>so31915174←前話　第一話→so31915182
+  length_seconds: 1956
+  content_id: so31915175
+  default_thread_id: 1505242291
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31915175
+cast: "[キャスト]<br>声:釘宮理恵、荒木香恵、池澤春菜、新谷真弓、山本麻里安"
+staff: "[スタッフ]<br>監督:黒田やすひろ"
+produced_year: "[製作年]<br>2003年"
+copyright: "©天津冴・角川書店／Softgarage"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: がぁ～でぃあんHearts　ぱわーあっぷ

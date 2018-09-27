@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: バーナード嬢曰く｡
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/15/3/21153_1_6.png?1475566233000
+outline: バーナード嬢こと町田さわ子と読書家の友人たちが図書室で繰り広げるブンガクな日々｡古今東西あらゆる本への愛と、｢読書家あるある｣に満ちた“名著礼賛”ギャグ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 洲崎綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 市来光弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：ひらさわひさよし
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：なつのはむと
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：前田義和
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：施川ユウキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：内堀優一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：ゴンタ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：幻影
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 一迅社
+  type: other
+- !ruby/hash:TagHash
+  name: 大室正勝
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第12話
+  title: バーナード嬢、曰く／図書室／村上春樹とかSFとか／POP／三大奇書／雨宿り／古本屋／フェルマーの最終定理／バス停／町田さわ子のいない日／往復書簡／ひとり旅
+  description: 町田さわ子:喜多村英梨／神林しおり:小松未可子／遠藤:市来光弘／長谷川スミカ:洲崎綾<br><br>原作:｢バーナード嬢曰く｡ ｣(原作者：施川ユウキ・一迅社｢月刊ComicREX｣連載中)／監督:ひらさわひさよし／シナリオ:内堀優一／キャラクター原案:なつのはむと／キャラクターデザイン:ゴンタ／音楽制作:幻影
+    ／音楽プロデューサー:前田義和／音響監督:大室正勝／製作:ド嬢図書委員会／主題歌:｢らぶ！ライブラリー｣作詞・作曲：かませ虎(幽閉サテライト)、編曲：HiZumi(幽閉サテライト)、歌：少女フラクタル(天宮みや&amp;柚木梨沙)
+  length_seconds: 2534
+  content_id: so31988478
+  default_thread_id: 1506272319
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31988478
+cast: "[キャスト]<br>町田さわ子:喜多村英梨／神林しおり:小松未可子／遠藤:市来光弘／長谷川スミカ:洲崎綾"
+staff: "[スタッフ]<br>原作:｢バーナード嬢曰く｡ ｣(原作者：施川ユウキ・一迅社｢月刊ComicREX｣連載中)／監督:ひらさわひさよし／シナリオ:内堀優一／キャラクター原案:なつのはむと／キャラクターデザイン:ゴンタ／音楽制作:幻影
+  ／音楽プロデューサー:前田義和／音響監督:大室正勝／製作:ド嬢図書委員会／主題歌:｢らぶ！ライブラリー｣作詞・作曲：かませ虎(幽閉サテライト)、編曲：HiZumi(幽閉サテライト)、歌：少女フラクタル(天宮みや&柚木梨沙)"
+produced_year: "[製作年]<br>2016年"
+copyright: "©施川ユウキ/一迅社・ド嬢図書委員会"
+related_seasons: !ruby/array:Hashie::Array []

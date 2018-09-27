@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: 迷宮物語
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/0/10060_1_6.png?1427216400000
+outline: 完成から二年、そのクオリティの高さゆえに幻となっていた「迷宮物語」。第一話「ラビリンス・ラビリントス」では夕暮れの淡い幻想の中の少女の夢を、第二話「走る男」では近未来を舞台に走ることに取りつかれた男の狂気を、第三話「工事中止命令」ではメカニズムに囲まれて追い詰められていくたった一人の男の恐怖を、三人の監督がそれぞれ個性的に表現している。最新のSFXですら表現不可能な超現実の世界での、冒険を、ロマンを、悪夢を、そして快感を、アニメならではの技術とアイディアを駆使し、観る者に疑似体験させるほどダイナミックな映像に仕上げられている。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 銀河万丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 津嘉山正種
+  type: cast
+- !ruby/hash:TagHash
+  name: 大竹宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 家弓家正
+  type: cast
+- !ruby/hash:TagHash
+  name: 水島裕
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田日出子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：りんたろう
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大友克洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：大友克洋
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：福島敦子
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：川尻善昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川尻善昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大友克洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：川尻善昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：りんたろう
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1986年
+  type: other
+- !ruby/hash:TagHash
+  name: 青木勝志
+  type: other
+- !ruby/hash:TagHash
+  name: なかむらたかし
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 劇場版
+  title: 迷宮物語
+  description: 完成から二年、そのクオリティの高さゆえに幻となっていた「迷宮物語」。第一話「ラビリンス・ラビリントス」では夕暮れの淡い幻想の中の少女の夢を、第二話「走る男」では近未来を舞台に走ることに取りつかれた男の狂気を、第三話「工事中止命令」ではメカニズムに囲まれて追い詰められていくたった一人の男の恐怖を、三人の監督がそれぞれ個性的に表現している。最新のSFXですら表現不可能な超現実の世界での、冒険を、ロマンを、悪夢を、そして快感を、アニメならではの技術とアイディアを駆使し、観る者に疑似体験させるほどダイナミックな映像に仕上げられている。<br><br>｢走る男｣ボブ=ストーン:津嘉山正種／｢走る男｣ザック=ヒュー:銀河万丈／｢ラビリンス・ラビリントス｣少女さち:吉田日出子／｢工事中止命令｣杉本
+    勉:水島 裕／｢工事中止命令｣ロボット444ビ1号:大竹 宏／｢工事中止命令｣部長:家弓家正<br><br>｢走る男｣監督・脚本・キャラクターデザイン:川尻善昭／作画監督:川尻善昭／美術監督:青木勝志／｢ラビリンス・ラビリントス｣監督・脚本:りんたろう／キャラクターデザイン・作画監督:福島敦子／美術監督:石川山子／｢工事中止命令｣監督・脚本・キャラクターデザイン:大友克洋／作画監督:なかむらたかし／美術監督:椋尾
+    コウ(｢コウ｣は竹かんむりに皇)
+  length_seconds: 2982
+  content_id: so31892212
+  default_thread_id: 1504902111
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31892212
+cast: "[キャスト]<br>｢走る男｣ボブ=ストーン:津嘉山正種／｢走る男｣ザック=ヒュー:銀河万丈／｢ラビリンス・ラビリントス｣少女さち:吉田日出子／｢工事中止命令｣杉本
+  勉:水島 裕／｢工事中止命令｣ロボット444ビ1号:大竹 宏／｢工事中止命令｣部長:家弓家正"
+staff: "[スタッフ]<br>｢走る男｣監督・脚本・キャラクターデザイン:川尻善昭／作画監督:川尻善昭／美術監督:青木勝志／｢ラビリンス・ラビリントス｣監督・脚本:りんたろう／キャラクターデザイン・作画監督:福島敦子／美術監督:石川山子／｢工事中止命令｣監督・脚本・キャラクターデザイン:大友克洋／作画監督:なかむらたかし／美術監督:椋尾
+  コウ(｢コウ｣は竹かんむりに皇)"
+produced_year: "[製作年]<br>1986年"
+copyright: "(C)1986角川映画"
+related_seasons: !ruby/array:Hashie::Array []

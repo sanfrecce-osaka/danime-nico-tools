@@ -1,0 +1,51 @@
+--- !ruby/hash:SeasonHash
+title: 猫ラーメン～俺の醤油味～（ショートアニメ）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/5/10485_1_6.png?1427216400000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中川里江
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田敦史
+  type: cast
+- !ruby/hash:TagHash
+  name: 猫ラーメンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: マッグガーデン
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#7"
+  title: 其の壱/其の弐/其の参/其の四/其の伍/其の六/其の七
+  description: "#1田中君のお父さんが初登場!転職を考えて、猫ラーメンの大将に弟子入りを申し入れる。#2猫がラーメン作ってるのがそんなに珍しいのか?大将怒り心頭になりとうとう警察にご厄介になる!?#3大将!!とうとうカレー屋を開店。でもつくり方知ってるんですか???#4ラーメンも、カレーも、お絵かきも・・・。やっぱり大将ですよねっ・・・。#5世界のラーメンから新しい麺の紹介まで、大将がご案内します。#6マジックから、皆さんもよく知っているカードゲームを鉄っあんがご紹介。#7舞台風に繰り広げられる大将の淡い恋。彼女がイギリスに留学しなくてはならなくなり・・・。<br><br>猫の大将:中川
+    里江／田中さん:山田 敦史<br><br>次話→so32230677"
+  length_seconds: 1064
+  content_id: so32230676
+  default_thread_id: 1510020032
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230676
+- !ruby/hash:EpisodeHash
+  episode_no: "#8-#13"
+  title: 其の八/其の九/其の拾/其の拾壱/其の拾弐/其の拾参
+  description: "#8クールビズ、CO2排出ゼロラーメン、エコバックなど。環境問題に取り組みます。#9みなさんは、カレーが残るのとライスが残るのどちらが嫌ですか?#10大将が明日のお天気のスポンサーに。ラーメン屋さんにコーヒーですか?あいますか!?#11知られざる大将の生活。大将の生態を検証していこう。#12猫ラーメンのコンセプトをパクったお店が登場。パクりかたはそっちなの!?#13大将とライバル関係となった犬ラーメンの店主とのやりあいをつづった笑いあり、なみだありの物語。<br><br>猫の大将:中川
+    里江／田中さん:山田 敦史<br><br>so32230676←前話　第一話→so32230676"
+  length_seconds: 911
+  content_id: so32230677
+  default_thread_id: 1510019895
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230677
+cast: "[キャスト]<br>猫の大将:中川 里江／田中さん:山田 敦史"
+produced_year: "[製作年]<br>2008年"
+copyright: "©そにしけんじ/マッグガーデン・猫ラーメン本舗"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 猫ラーメン(ショートアニメ)

@@ -1,0 +1,109 @@
+--- !ruby/hash:SeasonHash
+title: OVA ハイスクール・フリート
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/3/21983_1_6.png?1516066205000
+outline: 怒涛の海洋実習から1カ月―。中間考査を終え、迎えたテスト休み。「晴風」乗員達は思い思いに余暇を過ごす中、納沙幸子にはある任務が下される。その任務は陸にあがった「晴風」乗員達を再び"ピンチ!?"へと陥れるのだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小林ゆう
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 甲斐田裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤かな恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐裕美
+  type: cast
+- !ruby/hash:TagHash
+  name: 高森奈津美
+  type: cast
+- !ruby/hash:TagHash
+  name: 種﨑敦美
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中美海
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：プロダクションアイムズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あっと
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：小森茂生
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：信田ユウ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中村直人
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：鈴木貴昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: 納沙幸子がピンチ！
+  description: 怒涛の海洋実習から1カ月―。中間考査を終え、迎えたテスト休み。「晴風」乗員達は思い思いに余暇を過ごす中、納沙幸子にはある任務が下される。その任務は陸にあがった「晴風」乗員達を再び"ピンチ!?"へと陥れるのだった。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／ 西崎芽依:種﨑敦美／納沙幸子:黒瀬ゆうこ／知床 鈴:久保ユリカ／小笠原 光:澤田美晴／武田美千留:菊地
+    瞳／日置順子:田中美海／松永理都子:丸山有香／姫路果代子:田辺留依／万里小路 楓:中村 桜／勝田聡子:五月ちさと／山下秀子:大地 葉／内田まゆみ:宮島えみ／八木
+    鶫:山下七海／宇田 慧:藤田 茜／野間マチコ:小林ゆう／柳原麻侖:高森奈津美／黒木洋美:相川奈都姫／若狭麗緒:清水彩香／伊勢桜良:福 沙奈恵／駿河留奈:小澤亜李／広田
+    空:金子彩花／和住媛萌:新田ひより／青木百々:大橋歩夕／等松美海:大津愛理／伊良子美甘:麻倉もも／杵崎ほまれ・あかね:伊藤かな恵／鏑木美波:阿澄佳奈／知名もえか:雨宮
+    天／ヴィルヘルミーナ:五十嵐裕美／テア・クロイツェル:森永千才／宗谷真雪:甲斐田裕子／五十六:鶴岡 聡<br><br>原案:鈴木貴昭／シリーズ構成:吉田玲子／監督:信田ユウ／キャラクター原案:あっと／キャラクターデザイン:中村直人／CGグラフィック制作・撮影・編集:グラフィニカ／色彩設計:池田ひとみ／背景:イマジネット／音楽:小森茂生(F.M.F)
+    ／アニメーション制作:プロダクションアイムズ<br><br>次話→so32601365
+  length_seconds: 1440
+  content_id: so32601366
+  default_thread_id: 1516237364
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32601366
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: 納沙幸子もピンチ！？
+  description: 怒涛の海洋実習から1カ月―。中間考査を終え、迎えたテスト休み。「晴風」乗員達は思い思いに余暇を過ごす中、納沙幸子にはある任務が下される。その任務は陸にあがった「晴風」乗員達を再び"ピンチ!?"へと陥れるのだった。<br><br>岬
+    明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／ 西崎芽依:種﨑敦美／納沙幸子:黒瀬ゆうこ／知床 鈴:久保ユリカ／小笠原 光:澤田美晴／武田美千留:菊地
+    瞳／日置順子:田中美海／松永理都子:丸山有香／姫路果代子:田辺留依／万里小路 楓:中村 桜／勝田聡子:五月ちさと／山下秀子:大地 葉／内田まゆみ:宮島えみ／八木
+    鶫:山下七海／宇田 慧:藤田 茜／野間マチコ:小林ゆう／柳原麻侖:高森奈津美／黒木洋美:相川奈都姫／若狭麗緒:清水彩香／伊勢桜良:福 沙奈恵／駿河留奈:小澤亜李／広田
+    空:金子彩花／和住媛萌:新田ひより／青木百々:大橋歩夕／等松美海:大津愛理／伊良子美甘:麻倉もも／杵崎ほまれ・あかね:伊藤かな恵／鏑木美波:阿澄佳奈／知名もえか:雨宮
+    天／ヴィルヘルミーナ:五十嵐裕美／テア・クロイツェル:森永千才／宗谷真雪:甲斐田裕子／五十六:鶴岡 聡<br><br>原案:鈴木貴昭／シリーズ構成:吉田玲子／監督:信田ユウ／キャラクター原案:あっと／キャラクターデザイン:中村直人／CGグラフィック制作・撮影・編集:グラフィニカ／色彩設計:池田ひとみ／背景:イマジネット／音楽:小森茂生(F.M.F)
+    ／アニメーション制作:プロダクションアイムズ<br><br>so32601366←前話　第一話→so32601366
+  length_seconds: 1435
+  content_id: so32601365
+  default_thread_id: 1516237613
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32601365
+cast: "[キャスト]<br>岬 明乃:夏川椎菜／宗谷ましろ:Lynn／立石志摩:古木のぞみ／ 西崎芽依:種﨑敦美／納沙幸子:黒瀬ゆうこ／知床 鈴:久保ユリカ／小笠原
+  光:澤田美晴／武田美千留:菊地 瞳／日置順子:田中美海／松永理都子:丸山有香／姫路果代子:田辺留依／万里小路 楓:中村 桜／勝田聡子:五月ちさと／山下秀子:大地
+  葉／内田まゆみ:宮島えみ／八木 鶫:山下七海／宇田 慧:藤田 茜／野間マチコ:小林ゆう／柳原麻侖:高森奈津美／黒木洋美:相川奈都姫／若狭麗緒:清水彩香／伊勢桜良:福
+  沙奈恵／駿河留奈:小澤亜李／広田 空:金子彩花／和住媛萌:新田ひより／青木百々:大橋歩夕／等松美海:大津愛理／伊良子美甘:麻倉もも／杵崎ほまれ・あかね:伊藤かな恵／鏑木美波:阿澄佳奈／知名もえか:雨宮
+  天／ヴィルヘルミーナ:五十嵐裕美／テア・クロイツェル:森永千才／宗谷真雪:甲斐田裕子／五十六:鶴岡 聡"
+staff: "[スタッフ]<br>原案:鈴木貴昭／シリーズ構成:吉田玲子／監督:信田ユウ／キャラクター原案:あっと／キャラクターデザイン:中村直人／CGグラフィック制作・撮影・編集:グラフィニカ／色彩設計:池田ひとみ／背景:イマジネット／音楽:小森茂生(F.M.F)
+  ／アニメーション制作:プロダクションアイムズ"
+produced_year: "[製作年]<br>2016年"
+copyright: "© AAS／海上安全整備局"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ハイスクール・フリート

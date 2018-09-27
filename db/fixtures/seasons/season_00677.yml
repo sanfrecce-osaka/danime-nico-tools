@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: 菅井君と家族石
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/4/10614_1_6.png?1427216400000
+outline: 島根県出雲地方に住む、ソウルファミリー菅井家。家族全員が無職のこの家は、貧しいながらも、ソウルフルでたくましい日々を送っていた……。音楽や映画ネタが満載!
+  どうしようもないボケとツッコミが炸裂する、黒人家族ナンセンス・コメディ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 菅井君と家族石シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1-#4"
+  title: ''
+  description: 家族全員が無職になってしまった菅井家。そんな中、兄ちゃんはモノマネ四天王になって食っていこうと考える。しかし、すでに4人いるからモノマネ四天王いはなれないという父ちゃん。菅井家では口論になるのだが…。/来日中のソウルグループ・ジャクチョー5のメンバー、マイケル・ジャクチョーが飼っている天才チンパンジーが行方不明となった。なんと見つけた人は8億円がもらえるという。/島根県簸川郡斐川町、荒神谷遺跡。昭和59年の発掘調査の際、この場所で358本という、ものすごい数の銅剣が見つかった。はたして誰が、何の目的で埋めたのか?そんな歴史上の謎が、ついに、明らかになる!/吉田とフィリップが発見したUFO。到着した場所にやってくると、なんと宇宙人に遭遇した。捕まえれば大金持ちになれると考え、追いかける2人。しかし菅井家に迷い込んでしまった宇宙人は、晩のおかずとして捕獲されてしまう。<br><br>出演:FROGMAN<br><br>監督・プロデューサー・脚本・音楽:FROGMAN<br><br>次話→so32036642
+  length_seconds: 1026
+  content_id: so32036641
+  default_thread_id: 1507006103
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036641
+- !ruby/hash:EpisodeHash
+  episode_no: "#5-#8"
+  title: ''
+  description: 兄ちゃんが恋人である妖怪田豚子を紹介するため、家族を食事に招待した。しかし偉大な作曲家・バッハが大好きという彼女のために、兄ちゃんは自分たちの家族はバッハの子孫だと嘘をついていたのだった。/今年も始まった菅井家恒例の｢夏休みホラーナイト｣。そんな中、映画『エクソシスト』のように、突然母ちゃんが何者かにとりつかれた。奇妙な動きや会話をする母ちゃん。はたして、そのとりついた霊の正体とは?/消防団募集の回覧板が回ってきた菅井家。無職の菅井君と兄ちゃんは、さっそく入団することにした。ところがこの日、火事が発生。しかも場所は菅井家だった。急いで現場に急行する消防団員の菅井君と兄ちゃんだったが…。/前回の火事により家を失ってしまった菅井家。家を買うための大金を手にするため、国宝を掘り出そうと公園で穴を掘る爺ちゃん。ところがここで温泉を掘り当ててしまう。家族全員は喜んでその温泉に入るのだが…。<br><br>出演:FROGMAN<br><br>監督・プロデューサー・脚本・音楽:FROGMAN<br><br>so32036641←前話｜次話→so32036643　第一話→so32036641
+  length_seconds: 1390
+  content_id: so32036642
+  default_thread_id: 1507006112
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036642
+- !ruby/hash:EpisodeHash
+  episode_no: "#9-#10"
+  title: ''
+  description: バンドコンテストで決勝にまで残ってしまった菅井家。しかし、それが指名手配中の黒人テロリストだということを知った知事は、彼らを逮捕して人気を獲得しようと考える。こうして会場には県警が総動員されるのだった。/すったもんだの末、超大金持ちになり、すべてを手に入れた菅井家。しかし貧しかった頃と違い、家族の気持ちはバラバラになってしまったのだった…。ついに迎える驚愕と感動の最終回!<br><br>出演:FROGMAN<br><br>監督・プロデューサー・脚本・音楽:FROGMAN<br><br>so32036642←前話　第一話→so32036641
+  length_seconds: 1135
+  content_id: so32036643
+  default_thread_id: 1507006108
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036643
+cast: "[キャスト]<br>出演:FROGMAN"
+staff: "[スタッフ]<br>監督・プロデューサー・脚本・音楽:FROGMAN"
+produced_year: "[製作年]<br>2005年"
+copyright: "(C)蛙男商会/DLE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 菅井君と家族石 THE MOVIE

@@ -1,0 +1,166 @@
+--- !ruby/hash:SeasonHash
+title: A.D.POLICE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/05/9/11059_1_6.png?1427216400000
+outline: 2039年のネオ東京を舞台に、健児とハンスが繰り広げるハードボイルド・ポリスアクション！ネオ東京で“アンドロイド・ブーマ”の原因不明の暴走やそれを利用した凶悪犯罪が多発。それらを専門に取り締まる特殊警察“A.D.POLICE”に所属する捜査官の健児とハンスが、数々の事件に挑む！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉進歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎たくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢海陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：うえだひでひと
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：プラム
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: AIC
+  type: other
+- !ruby/hash:TagHash
+  name: 紺野直幸
+  type: other
+- !ruby/hash:TagHash
+  name: 青樹零夢
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 相棒
+  description: A.D.POLICEに所属する捜査官の佐々木健児は、事件となると一人で暴走するため、今まで何人も相棒を犠牲にしてきた。そして、今度もまた彼のパートナーであるポールに瀕死の重傷を負わせてしまった。その夜、一人でポールの行き着けのバーに足を運んだ健児は、そこでドイツ人のハンス・クライフと出会い…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>次話→so32155194
+  length_seconds: 1430
+  content_id: so32155193
+  default_thread_id: 1508885122
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155193
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 暴走
+  description: 新しくコンビを組むことになった健児とハンス。だが、二人は昨晩喧嘩をしていたため、互いにまともに口を聞こうとしなかった。そんな時、ポールが事件に巻き込まれてしまう。ポールを救出するために初めて協力し合う二人。そして、ハンスは過去に負った怪我の後遺症の治療で、美しい看護婦の結城聡美と出会い…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155193←前話｜次話→so32155211　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155194
+  default_thread_id: 1508884645
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155194
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 取引
+  description: ポールの敵を討とうとしていた健児たちは、ブーマ密造組織“パッカー・シンジゲート”の密造工場を突き止めた。だが、パッカー・シンジゲートの幹部であるリーアム・フレッチャーが法の目を潜って取引していたため、彼らはなかなか手を出せずにいた。その状況に苛立った健児は、一人で密造工場に乗り込む決意をして…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155194←前話｜次話→so32155212　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155211
+  default_thread_id: 1508885495
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155211
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 約束
+  description: バイオリンを学んでいる音大生で、健児の恋人でもある宮野恭子の卒業コンサートが行われることになった。そのコンサートには、必ず行くと約束する健児。だがコンサート当日、恭子はブーマ犯罪に巻き込まれ、美術館に拉致されてしまう。それを知った健児は、いつものように力ずくで恭子を救おうとするが…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155211←前話｜次話→so32155213　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155212
+  default_thread_id: 1508885497
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155212
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 策謀
+  description: 仕事でミスしてしまったリーアムが、パッカー・シンジゲートのボスであるメイスンの制裁を恐れてA.D.POLICEに自首してきた。そしてメイスンを逮捕できる情報と引き替えに、自分の身の保証を求めるリーアム。彼の情報を信じ、健児たちはメイスンが狙っているというゲノム社の最新鋭ブーマの輸送を警備するが…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155212←前話｜次話→so32155226　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155213
+  default_thread_id: 1508885493
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155213
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 家族
+  description: 捜査官であるホセの活躍によって、健児たちはパッカー・シンジゲートから大量の密造ブーマを押収した。それに腹を立てたリーアムは、ホセの妻子を人質に取って押収されたブーマとの交換を健児たちに申し出る。愛する家族を救おうと必死になるホセ。だが、彼が仲間と協力し、ようやく妻子を救出したかに見えた、その時…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155213←前話｜次話→so32155227　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155226
+  default_thread_id: 1508886041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155226
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 血痕
+  description: リーアムがゲノム・タワーで取引するという情報を得て、そこに張り込んでいた健児たち。その情報の通りに現れたリーアムを健児たちは捕獲しようとするが、失敗して逃げられてしまう。そんなリーアムを追跡中、ハンスは好意を抱いている看護婦の聡美がゲノム社の特殊エリアに出入りするところを目撃して…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155226←前話｜次話→so32155228　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155227
+  default_thread_id: 1508886048
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155227
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 記憶
+  description: 健児の唯一の肉親である祖父がA.D.POLICEにやってきた。だが、彼と会う気になれず「ロスト・シティ」に逃げ込む健児。そんな彼をハンスたちが迎えにくるが、健児は彼らに対して思い出なんか必要ないと言い放つ。その時、かつて怪我した後遺症で昔の記憶をほとんど失っていたハンスが初めて不安を打ち明けて…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155227←前話｜次話→so32155229　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155228
+  default_thread_id: 1508886039
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155228
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 確信
+  description: 暴走ブーマとの戦いで、ハンスが致命傷を負ってしまった。その傷を見て、もう助からないだろうと思っていた健児だったが、意外にもハンスは順調に回復していく。そんなハンスの様子にある疑惑を抱いて彼の血液を調べた健児は、恐れていた事実に行きついてしまう。それは、ハンスも生態融合型ブーマだという確信だった…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155228←前話｜次話→so32155230　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155229
+  default_thread_id: 1508886026
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155229
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 略奪
+  description: ハンスの復帰を喜ぶA.D.POLICEの仲間たちをよそに、複雑な思いを抱いていた健児。そんな中、再びコンビを組み、ゲノム本社の最新鋭ブーマを奪ったリーアムを追跡していた健児とハンスの前に、聡美がゲノム社側の責任者として現れる。実は、彼女は看護婦ではなく、生態融合型ブーマの開発スタッフだったのだ…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155229←前話｜次話→so32155231　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155230
+  default_thread_id: 1508886037
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155230
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 表裏
+  description: 健児たちに追い詰められ、反応炉に逃げ込んだリーアム。彼は炉心の制御棒を抜いて、東京を道連れに自滅しようとしていたのだ。それを止めるため、健児は死を覚悟で炉心に踏み込もうとする。そんな彼を殴り、代わりに炉心へと入って行くハンス。そして、自分がブーマだと確信していたハンスは醜く変貌して…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155230←前話｜次話→so32155232　第一話→so32155193
+  length_seconds: 1430
+  content_id: so32155231
+  default_thread_id: 1508886063
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155231
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 証明
+  description: 聡美から連絡を受けて、ゲノム・シティに乗り込んだ健児。そこに捕らわれていたハンスを救い出した彼は、ゲノムの手の届かない所へハンスと聡美を逃がそうとする。だが時既に遅く、ハンスの体のナノ・スタンビート（変貌）が始まっていた。更に、新たな肉体を手に入れたゲノム会長の海原が健児たちに襲い掛かり…。<br><br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他<br><br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+    徹／アニメーション制作:プラム<br><br>so32155231←前話　第一話→so32155193
+  length_seconds: 1400
+  content_id: so32155232
+  default_thread_id: 1508886061
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155232
+cast: "[キャスト]<br>佐々木建児:千葉進歩／ハンス・クライフ:山崎たくみ／宮野恭子:川澄綾子／結城聡美:沢海陽子／他"
+staff: "[スタッフ]<br>原作:AIC／監督:うえだひでひと／シリーズ構成:星川泰子／キャラクタデザイン:紺野直幸／メカニックデザイン:まみやなつき・青樹零夢・高橋
+  徹／アニメーション制作:プラム"
+produced_year: "[製作年]<br>1999年"
+copyright: "(C)AIC (C)1999 A.D.POLICE製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

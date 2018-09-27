@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: タマ＆フレンズ～うちのタマ知りませんか？～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/7/21897_1_6.png?1512009006000
+outline: 幅広い年齢層に愛されている「タマ＆フレンズ ～うちのタマ知りませんか？～」の22 年ぶりとなる新作アニメ。ネコやイヌのほんわか日常やユーモア溢れるコミックテイストなど多彩なストーリーをお届けします。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 津久井彩文
+  type: cast
+- !ruby/hash:TagHash
+  name: 海保えりか
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：カンザキジュン
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：株式会社ソニー・クリエイティブプロダクツ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：株式会社ソニー・クリエイティブプロダクツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話-第17話
+  title: ''
+  description: 第1話 うちのタマ知りませんか？ 他、第2話～第17話を収録。<br><br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか　ほか<br><br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／アニメーション制作:勝鬨スタジオ／監督名:カンザキジュン／脚本家名:井沢ひろし／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>次話→so32407705
+  length_seconds: 1036
+  content_id: so32407713
+  default_thread_id: 1513040838
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407713
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話-第34話
+  title: ''
+  description: 第18話 ブルとの決闘！ 他、第19話～第34話を収録。<br><br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか　ほか<br><br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／アニメーション制作:勝鬨スタジオ／監督名:カンザキジュン／脚本家名:井沢ひろし／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>so32407713←前話｜次話→so32407704　第一話→so32407713
+  length_seconds: 1036
+  content_id: so32407705
+  default_thread_id: 1513040840
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407705
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話-第52話
+  title: ''
+  description: 第35話 一番速いのは？  他、第36話～第52話を収録。<br><br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか　ほか<br><br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／アニメーション制作:勝鬨スタジオ／監督名:カンザキジュン／脚本家名:井沢ひろし／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>so32407705←前話　第一話→so32407713
+  length_seconds: 1097
+  content_id: so32407704
+  default_thread_id: 1513043547
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407704
+cast: "[キャスト]<br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか　ほか"
+staff: "[スタッフ]<br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／アニメーション制作:勝鬨スタジオ／監督名:カンザキジュン／脚本家名:井沢ひろし／音響制作:スペルバウンド／音響監督:鹿志村聡"
+produced_year: "[製作年]<br>2016年"
+copyright: "©Sony Creative Products Inc./Tama & Friends Project"
+related_seasons: !ruby/array:Hashie::Array []

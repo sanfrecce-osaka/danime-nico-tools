@@ -1,0 +1,168 @@
+--- !ruby/hash:SeasonHash
+title: Night Walker -真夜中の探偵-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/4/11074_1_6.png?1427216400000
+outline: 人間の心と魔の力を合わせ持つヴァンパイア・紫藤龍彦。彼はナイトブリードが引き起こした、常識では解決できない連続変死事件や多発する怪奇現象、超常現象をヴァンパイアの力で解決していく。だが、彼はその戦いの最中に女子高生を巻き込んで彼女に重傷を負わせてしまうが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷育江
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎たくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：磯野智
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：下笠美穂
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：香川豊
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：沙々野紀世利
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：樹彩那
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1998年
+  type: other
+- !ruby/hash:TagHash
+  name: AIC
+  type: other
+- !ruby/hash:TagHash
+  name: 山口亮太
+  type: other
+- !ruby/hash:TagHash
+  name: 牧野竜一
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1st　night
+  title: 闇を来る者
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>次話→so32155483
+  length_seconds: 1601
+  content_id: so32155451
+  default_thread_id: 1508892116
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155451
+- !ruby/hash:EpisodeHash
+  episode_no: 2nd　night
+  title: 女優の条件
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155451←前話｜次話→so32155484　第一話→so32155451
+  length_seconds: 1634
+  content_id: so32155483
+  default_thread_id: 1508892362
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155483
+- !ruby/hash:EpisodeHash
+  episode_no: 3rd　night
+  title: 逃げる男
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155483←前話｜次話→so32155485　第一話→so32155451
+  length_seconds: 1602
+  content_id: so32155484
+  default_thread_id: 1508892338
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155484
+- !ruby/hash:EpisodeHash
+  episode_no: 4th　night
+  title: 黄金の夜明け
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155484←前話｜次話→so32155486　第一話→so32155451
+  length_seconds: 1591
+  content_id: so32155485
+  default_thread_id: 1508892286
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155485
+- !ruby/hash:EpisodeHash
+  episode_no: 5th　night
+  title: 死者の薬
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155485←前話｜次話→so32155487　第一話→so32155451
+  length_seconds: 1430
+  content_id: so32155486
+  default_thread_id: 1508892633
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155486
+- !ruby/hash:EpisodeHash
+  episode_no: 6th　night
+  title: 井戸の底
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155486←前話｜次話→so32155488　第一話→so32155451
+  length_seconds: 1431
+  content_id: so32155487
+  default_thread_id: 1508892380
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155487
+- !ruby/hash:EpisodeHash
+  episode_no: 7th　night
+  title: 母と息子
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155487←前話｜次話→so32155490　第一話→so32155451
+  length_seconds: 1430
+  content_id: so32155488
+  default_thread_id: 1508892311
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155488
+- !ruby/hash:EpisodeHash
+  episode_no: 8th　night
+  title: 夜歩く者
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155488←前話｜次話→so32155491　第一話→so32155451
+  length_seconds: 1431
+  content_id: so32155490
+  default_thread_id: 1508892356
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155490
+- !ruby/hash:EpisodeHash
+  episode_no: 9th　night
+  title: 他人の顔
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155490←前話｜次話→so32155492　第一話→so32155451
+  length_seconds: 1479
+  content_id: so32155491
+  default_thread_id: 1508892631
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155491
+- !ruby/hash:EpisodeHash
+  episode_no: 10th　night
+  title: 天使の涙
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155491←前話｜次話→so32155512　第一話→so32155451
+  length_seconds: 1430
+  content_id: so32155492
+  default_thread_id: 1508892265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155492
+- !ruby/hash:EpisodeHash
+  episode_no: 11th　night
+  title: 森の魔女
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155492←前話｜次話→so32155513　第一話→so32155451
+  length_seconds: 1430
+  content_id: so32155512
+  default_thread_id: 1508893048
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155512
+- !ruby/hash:EpisodeHash
+  episode_no: 12th　night
+  title: 永遠の闇
+  description: 紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他<br><br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC<br><br>so32155512←前話　第一話→so32155451
+  length_seconds: 1475
+  content_id: so32155513
+  default_thread_id: 1508893047
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155513
+cast: "[キャスト]<br>紫藤龍彦:山崎たくみ／松永弥生:篠原恵美／山崎理保:坂本真綾／グニ:大谷育江／カイン:田中秀幸／他"
+staff: "[スタッフ]<br>原作:樹彩那・AIC／キャラクター原案:牧野竜一／監督:香川豊・沙々野紀世利／シリーズ構成:山口亮太／キャラクターデザイン:磯野智・下笠美穂／制作協力:スタジオガゼル／制作:AIC"
+produced_year: "[製作年]<br>1998年"
+copyright: "(C)樹彩那/AIC"
+related_seasons: !ruby/array:Hashie::Array []

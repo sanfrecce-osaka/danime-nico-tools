@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: 秘密結社 鷹の爪
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/57/0/10570_1_6.png?1427216400000
+outline: 心優しい総統率いる、間抜けな悪の秘密結社｢鷹の爪団｣が世界征服を目指して様々な作戦を考えるものの、最後には、非常識で正義の味方とは名ばかりのヒーロー、デラックスファイターに倒されてしまう。そんな日常を愉快に描いた脱力ギャグコメディ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：FROGMAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 秘密結社 鷹の爪シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話／第2話
+  title: 第1話 参上!鷹の爪団／第2話 怪人製造マシン
+  description: 新しく入ってきた団員たちを、一人前の戦闘員に鍛え上げる訓練をしていた吉田。そこに総統があらわれ｢明日はわしらの野望が達成される日｣と告げる。ついに世界征服のための秘密兵器｢ドラゴンヘッド｣が完成したのだ…。／鷹の爪団に、天才マッドサイエンティストのレオナルド博士がやってきた。どう見ても熊にしか見えない博士だが、長年の研究の結果、ついに怪人製造マシンを完成させたのだ。さっそくテスト運用を開始してみたのだが…。<br><br>声の出演:FROGMAN<br><br>監督・脚本:FROGMAN<br><br>次話→so32036450
+  length_seconds: 1197
+  content_id: so32036449
+  default_thread_id: 1507001814
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036449
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話／第4話
+  title: 第3話 菩薩峠君 登場!／第4話 俺たちに明日はない
+  description: 怪人製造の担当主任になった吉田は、さまざまな素材を集め、日夜研究を続けていた。こうして生まれた数々の怪人であったが、どれもこれも使えなさそうなものばかり。そんな中、吉田はついに成功したという怪人を披露するのだが…。／デラックスファイターの弱点を見つけたという総統。それは自分たちが子供だったら、デラックスファイターは手も足も出せないということだった。こうしてレオナルド博士は若返り機械を作り、さっそく団員を子供に変身させるのだが…。<br><br>声の出演:FROGMAN<br><br>監督・脚本:FROGMAN<br><br>so32036449←前話｜次話→so32036451　第一話→so32036449
+  length_seconds: 1200
+  content_id: so32036450
+  default_thread_id: 1507001812
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036450
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話／第6話
+  title: 第5話 夢で愛して／第6話 ちょい悪ファイター
+  description: 団員たちにバカにされているような気がしてならない総統。その真意を確かめるため、レオナルド博士の作った｢夢のぞき機｣で、団員たちの夢の中に入ってみることにした。しかし、彼らが見ている夢はとんでもないものばかりで…。／鷹の爪団の秘密基地に、突然デラックスファイターがやってきた。しかし、いつもとは様子が違い、不精髭にサングラス、コートを羽織り、鷹の爪団につらく当たるのだった。どうやら家族たちとうまくいかず悩んでいるらしいが…。<br><br>声の出演:FROGMAN<br><br>監督・脚本:FROGMAN<br><br>so32036450←前話｜次話→so32036453　第一話→so32036449
+  length_seconds: 1200
+  content_id: so32036451
+  default_thread_id: 1507001857
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036451
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話／第8話
+  title: 第7話 愛を止めないで／第8話 鷹の爪の休日
+  description: ここ数か月、世界征服が進展していない鷹の爪団。これは活動資金の極端な欠乏が原因。お台場で開催されているイベントのスタッフ募集広告を見た総統と吉田は、アルバイトへと向かうのだが…。／今年は年一回の鷹の爪団の団員旅行。そんな中、休日でヒマを持て余しているデラックスファイターがやってきて、その旅行に同行することになってしまった。こうして一同は総統の故郷へと向かうのだが…。<br><br>声の出演:FROGMAN<br><br>監督・脚本:FROGMAN<br><br>so32036451←前話｜次話→so32036454　第一話→so32036449
+  length_seconds: 1200
+  content_id: so32036453
+  default_thread_id: 1507001859
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036453
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 第9話 さよなら博士
+  description: 島根から吉田に会うために東京へやってきた菅井家。鷹の爪団の秘密基地を訪れたものの、お腹がすいていた彼らは、レオナルド博士を熊と勘違いし、さっそく料理して食べてしまう…。<br><br>声の出演:FROGMAN<br><br>監督・脚本:FROGMAN<br><br>so32036453←前話｜次話→so32036455　第一話→so32036449
+  length_seconds: 599
+  content_id: so32036454
+  default_thread_id: 1507001840
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036454
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話／第11話
+  title: 第10話 ファイナルアタック 前編／第11話 ファイナルアタック 後編
+  description: 吉田が飼っていたミドリガメが立つようになり、テレビで報道され、鷹の爪団はカメの見学で連日大盛況。そんな中、鷹の爪団を名乗る何者かが、新型神経ガスをばらまくという脅迫状を、世界中の政府に送りつけた…。／ついに始まったフェンダーミラー将軍による世界征服。巨大なデスボールがあらゆるものを破壊していく中、鷹の爪団は勇敢にも彼らに戦いを挑んでいくのだった…。『秘密結社
+    鷹の爪』感動のフィナーレ!<br><br>声の出演:FROGMAN<br><br>監督・脚本:FROGMAN<br><br>so32036454←前話　第一話→so32036449
+  length_seconds: 1200
+  content_id: so32036455
+  default_thread_id: 1507001819
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036455
+cast: "[キャスト]<br>声の出演:FROGMAN"
+staff: "[スタッフ]<br>監督・脚本:FROGMAN"
+produced_year: "[製作年]<br>2006年"
+copyright: "(C)蛙男商会/DLE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 カウントダウン
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 THE MOVIE～総統は二度死ぬ～
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 THE MOVIE II～私を愛した黒烏龍茶～
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 THE MOVIE III～http://鷹の爪.jpは永遠に～
+- !ruby/hash:SeasonHash
+  title: 鷹の爪 THE MOVIE 4 ～カスペルスキーを持つ男～
+- !ruby/hash:SeasonHash
+  title: 鷹の爪 NEO
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 MAX
+- !ruby/hash:SeasonHash
+  title: 秘密結社 鷹の爪 EX
+- !ruby/hash:SeasonHash
+  title: 秘密結社　鷹の爪DO

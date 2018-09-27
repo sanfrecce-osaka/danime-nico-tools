@@ -1,0 +1,130 @@
+--- !ruby/hash:SeasonHash
+title: 猫物語(黒)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/38/0/11380_1_6.png?1443747124000
+outline: 美しき吸血鬼に出逢った春休みの後、空から女の子が降ってくる少し前。ゴールデンウィーク最初の日、主人公・阿良々木暦は委員長・羽川翼とともに車に轢かれた、尾のない猫を埋葬する。些細でありふれたはずの出来事。しかし、ここから“悪夢の九日間”が幕を開ける。・・・知らぬまに、落ちているのが初恋だ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新房昭之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：神前暁
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：西尾維新
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：VOFAN
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：板村智幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 物語シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: つばさファミリー其ノ壹
+  description: 'ゴールデンウィーク初日の朝。阿良々木暦は、頬に怪我をしている羽川翼と出会う。羽川家の事情について知ることになったが、このことは誰にも言わないでほしい、と翼に懇願されてしまう。<br><br>阿良々木
+    暦:神谷浩史／羽川 翼:堀江由衣／忍野メメ:櫻井孝宏／旧キスショット:坂本真綾／阿良々木火憐:喜多村英梨／阿良々木月火:井口裕香<br><br>原作:西尾維新『猫物語(黒)』（講談社BOX）／キャラクター原案:
+    VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:杉山延寛／美術監督:飯島寿治／色彩設計:滝沢いづみ／ビジュアルエフェクト:酒井
+    基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:神前 暁／アニメーション制作:シャフト<br><br>次話→so32202287'
+  length_seconds: 1572
+  content_id: so32202286
+  default_thread_id: 1509602122
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202286
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: つばさファミリー其ノ貳
+  description: '忍野メメを訪ねた暦。今日翼と一緒に、車に轢かれた「猫」を埋葬してやったことを話すと、メメから今すぐ羽川の無事を確認してくるよう言われる。不思議に思いながら羽川の家を訪ねようとすると、その途中にいたのは……。<br><br>阿良々木
+    暦:神谷浩史／羽川 翼:堀江由衣／忍野メメ:櫻井孝宏／旧キスショット:坂本真綾／阿良々木火憐:喜多村英梨／阿良々木月火:井口裕香<br><br>原作:西尾維新『猫物語(黒)』（講談社BOX）／キャラクター原案:
+    VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:杉山延寛／美術監督:飯島寿治／色彩設計:滝沢いづみ／ビジュアルエフェクト:酒井
+    基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:神前 暁／アニメーション制作:シャフト<br><br>so32202286←前話｜次話→so32202307　第一話→so32202286'
+  length_seconds: 1424
+  content_id: so32202287
+  default_thread_id: 1509602003
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202287
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: つばさファミリー其ノ參
+  description: '羽川家を訪れ、その異様な光景に逃げるように後を去る暦。その後、障り猫が次々に人を襲っているという噂が世に広まる中、再び障り猫に対峙した暦はついにその目的を知る。<br><br>阿良々木
+    暦:神谷浩史／羽川 翼:堀江由衣／忍野メメ:櫻井孝宏／旧キスショット:坂本真綾／阿良々木火憐:喜多村英梨／阿良々木月火:井口裕香<br><br>原作:西尾維新『猫物語(黒)』（講談社BOX）／キャラクター原案:
+    VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:杉山延寛／美術監督:飯島寿治／色彩設計:滝沢いづみ／ビジュアルエフェクト:酒井
+    基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:神前 暁／アニメーション制作:シャフト<br><br>so32202287←前話｜次話→so32202308　第一話→so32202286'
+  length_seconds: 1609
+  content_id: so32202307
+  default_thread_id: 1509603209
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202307
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: つばさファミリー其ノ肆
+  description: '障り猫に「邪魔をするな」と忠告を受けた暦だが、羽川翼を助けるためある行動に出る。そして、妖刀『心渡』と秘策を携え、障り猫との直接対決に向かった。<br><br>阿良々木
+    暦:神谷浩史／羽川 翼:堀江由衣／忍野メメ:櫻井孝宏／旧キスショット:坂本真綾／阿良々木火憐:喜多村英梨／阿良々木月火:井口裕香<br><br>原作:西尾維新『猫物語(黒)』（講談社BOX）／キャラクター原案:
+    VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:杉山延寛／美術監督:飯島寿治／色彩設計:滝沢いづみ／ビジュアルエフェクト:酒井
+    基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:神前 暁／アニメーション制作:シャフト<br><br>so32202307←前話　第一話→so32202286'
+  length_seconds: 1861
+  content_id: so32202308
+  default_thread_id: 1509603213
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32202308
+cast: "[キャスト]<br>阿良々木 暦:神谷浩史／羽川 翼:堀江由衣／忍野メメ:櫻井孝宏／旧キスショット:坂本真綾／阿良々木火憐:喜多村英梨／阿良々木月火:井口裕香"
+staff: "[スタッフ]<br>原作:西尾維新『猫物語(黒)』（講談社BOX）／キャラクター原案: VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:杉山延寛／美術監督:飯島寿治／色彩設計:滝沢いづみ／ビジュアルエフェクト:酒井
+  基／撮影監督:会津孝幸／編集:松原理恵／音響監督:鶴岡陽太／音楽:神前 暁／アニメーション制作:シャフト"
+produced_year: "[製作年]<br>2012年"
+copyright: "©西尾維新／講談社・アニプレックス・シャフト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 化物語
+- !ruby/hash:SeasonHash
+  title: 偽物語
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第1話～第5話） 猫物語(白)"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第7話～第10話） 傾物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第12話～第15話） 囮物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第17話～第20話） 鬼物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第21話～第26話） 恋物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第27話～第31話） 花物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第6話・第11話・第16話） 総集編"

@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: キノの旅 病気の国 -For You-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/8/10098_1_6.png?1427216400000
+outline: キノとエルメスが訪れた国は、科学が発達した高い文明をもつ国だった。安定した環境の下、巨大なドームの中で暮らす国民達。一方、その国には、選ばれたエリートたちだけが暮らすことができる“開拓地”が存在していた。そこは、ドームの外で、実際の日光や土に触れることができるため、ドームに暮らす人々の憧れの地でもあった。キノとエルメスは、厳重な消毒を受け、ドームへと入る。そしてそこで一人の少女イナーシャと出会い……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 相ヶ瀬龍史
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤良明
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：時雨沢恵一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中村隆太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：小中千昭
+  type: staff
+- !ruby/hash:TagHash
+  name: キノの旅シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 黒星紅白
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：下川みくに
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: キノの旅 病気の国 -For You-
+  description: キノとエルメスが訪れた国は、科学が発達した高い文明をもつ国だった。安定した環境の下、巨大なドームの中で暮らす国民達。一方、その国には、選ばれたエリートたちだけが暮らすことができる“開拓地”が存在していた。そこは、ドームの外で、実際の日光や土に触れることができるため、ドームに暮らす人々の憧れの地でもあった。キノとエルメスは、厳重な消毒を受け、ドームへと入る。そしてそこで一人の少女イナーシャと出会い……。<br><br>キノ役:前田愛(まえだ・あい)／エルメス役:相ヶ瀬龍史(あいがせ・りゅうじ)／イナーシャ役:川澄綾子(かわすみ・あやこ)<br><br>原作:時雨沢恵一(しぐさわ・けいいち)／原作イラスト:黒星紅白(くろぼし・こうはく)／監督:中村
+    隆太郎(なかむら・ りゅうたろう)／脚本:小中千昭(こなか・ちあき)／キャラクターデザイン:伊藤良明(いとう・よしあき)／エンディングテーマ:Bird；下川みくに(FLIGHT
+    MASTER)／アニメーション制作:シャフト
+  length_seconds: 1737
+  content_id: so32011674
+  default_thread_id: 1506652586
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011674
+cast: "[キャスト]<br>キノ役:前田愛(まえだ・あい)／エルメス役:相ヶ瀬龍史(あいがせ・りゅうじ)／イナーシャ役:川澄綾子(かわすみ・あやこ)"
+staff: "[スタッフ]<br>原作:時雨沢恵一(しぐさわ・けいいち)／原作イラスト:黒星紅白(くろぼし・こうはく)／監督:中村 隆太郎(なかむら・ りゅうたろう)／脚本:小中千昭(こなか・ちあき)／キャラクターデザイン:伊藤良明(いとう・よしあき)／エンディングテーマ:Bird；下川みくに(FLIGHT
+  MASTER)／アニメーション制作:シャフト"
+produced_year: "[製作年]<br>2007年"
+copyright: "(C)時雨沢恵一/アスキー・メディアワークス/劇場版『キノの旅』製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: キノの旅 -the Beautiful World- the Animated Series
+- !ruby/hash:SeasonHash
+  title: キノの旅 何かをするために -Life goes on-/キノの旅 塔の国 -Free Lance-
+- !ruby/hash:SeasonHash
+  title: キノの旅-the Beautiful World-

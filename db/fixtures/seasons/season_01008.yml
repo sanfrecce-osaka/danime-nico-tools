@@ -1,0 +1,48 @@
+--- !ruby/hash:SeasonHash
+title: 東京マーブルチョコレート～全力少年～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/35/3/10353_1_6.png?1427216400000
+outline: "【物語の主人公の男の子“悠大”の目線で描く｢全力少年編｣】 物語の舞台は、ふたつのタワーがならぶ、なんだか見覚えのある町並み。その町に暮らすふたりの男の子と女の子。マジメでやさしいんだけど、少し臆病な性格のせいで彼女とうまく付き合えない悠大。元気で明るいんだけど、運が悪くドジばかりで彼氏と長続きしないチヅル。そんなふたりが初めて一緒にむかえるクリスマス。動物好きのチヅルのために悠大が用意したプレゼントはウサギ・・・のハズだったのに、プレゼントの箱の中には“ミニロバ”が入っていた!?逃げ出したミニロバ、それを追うチヅル、ひとりと1匹を見失ってしまう悠大。一緒にいるはずだった時間。伝えるはずだった大切な想い。離れてすごす時間のなかでふたりが見つける答えは・・・。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：塩谷直義
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：谷川史子
+  type: staff
+- !ruby/hash:TagHash
+  name: 東京マーブルチョコレートシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: OVA
+  title: 東京マーブルチョコレート～全力少年～
+  description: "【物語の主人公の男の子“悠大”の目線で描く｢全力少年編｣】 物語の舞台は、ふたつのタワーがならぶ、なんだか見覚えのある町並み。その町に暮らすふたりの男の子と女の子。マジメでやさしいんだけど、少し臆病な性格のせいで彼女とうまく付き合えない悠大。元気で明るいんだけど、運が悪くドジばかりで彼氏と長続きしないチヅル。そんなふたりが初めて一緒にむかえるクリスマス。動物好きのチヅルのために悠大が用意したプレゼントはウサギ・・・のハズだったのに、プレゼントの箱の中には“ミニロバ”が入っていた!?逃げ出したミニロバ、それを追うチヅル、ひとりと1匹を見失ってしまう悠大。一緒にいるはずだった時間。伝えるはずだった大切な想い。離れてすごす時間のなかでふたりが見つける答えは・・・。<br><br>原作:プロダクション
+    I.G／監督:塩谷直義／脚本:尾崎将也／キャラクターデザイン:谷川史子／作画監督:浅野恭司／美術監督:小林七郎／色彩設定:広瀬いづみ／アニメーション制作:プロダクション
+    I.G"
+  length_seconds: 1638
+  content_id: so32230689
+  default_thread_id: 1510020768
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230689
+staff: "[スタッフ]<br>原作:プロダクション I.G／監督:塩谷直義／脚本:尾崎将也／キャラクターデザイン:谷川史子／作画監督:浅野恭司／美術監督:小林七郎／色彩設定:広瀬いづみ／アニメーション制作:プロダクション
+  I.G"
+produced_year: "[製作年]<br>2007年"
+copyright: "©2007Production I.G/東京マーブルチョコレート製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 東京マーブルチョコレート シネマヴァージョン
+- !ruby/hash:SeasonHash
+  title: 東京マーブルチョコレート～マタアイマショウ～

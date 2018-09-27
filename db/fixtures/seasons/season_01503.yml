@@ -1,0 +1,52 @@
+--- !ruby/hash:SeasonHash
+title: ポンコツクエスト～魔王と派遣の魔物たち～　シーズン3
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/46/8/21468_1_6.png?1487651460000
+outline: 魔王に仕えるポンコツな魔物｢カク｣と｢イムラ｣の、グダグダな日常を描いたコメディアニメ。魔王様に言われるがまま、さまざまな場所に派遣社員の様に飛ばされる二人。その度文句を言ったり、ケンカしたり…。RPGのようなファンタジーの世界で、現代人のようなグチをこぼす彼らは、果たして立派な魔物になれるのか！？監督脚本は｢ヤイヤイ森のコミー｣の松本慶祐。プロデュースは｢かよえ！チュー学｣などの会話劇アニメを得意とし、様々なキャラクターコンテンツを手がけるPie
+  in the sky。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：松本慶祐
+  type: staff
+- !ruby/hash:TagHash
+  name: ポンコツクエストシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: VAP
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十五章～第三十章
+  title: 第3シーズン前半
+  description: 第二十五章｢復活｣／第二十六章｢四天王｣／第二十七章｢偵察｣／第二十八章｢捕獲｣／第二十九章｢新参｣／第三十章｢迷宮｣<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky) ／プロデュース:Pie in the sky／せいさく:VAP<br><br>次話→so32000628
+  length_seconds: 1440
+  content_id: so32000627
+  default_thread_id: 1506472062
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000627
+- !ruby/hash:EpisodeHash
+  episode_no: 第三十一章～第三十六章
+  title: 第3シーズン後半
+  description: 第三十一章｢紅一点｣／第三十二章｢賭博｣／第三十三章｢商談｣／第三十四章｢機械｣／第三十五章｢罰｣／第三十六章｢撃退｣<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky) ／プロデュース:Pie in the sky／せいさく:VAP<br><br>so32000627←前話　第一話→so32000627
+  length_seconds: 1449
+  content_id: so32000628
+  default_thread_id: 1506472088
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32000628
+staff: "[スタッフ]<br>かんとく・きゃくほん・せいゆう:まつもと けいすけ／きかく:まつもと けいすけ、しんかい たけと(Pie in the sky)
+  ／プロデュース:Pie in the sky／せいさく:VAP"
+produced_year: "[製作年]<br>2017年"
+copyright: "© VAP"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ポンコツクエスト～魔王と派遣の魔物たち～　シーズン4
+- !ruby/hash:SeasonHash
+  title: ポンコツクエスト～魔王と派遣の魔物たち～

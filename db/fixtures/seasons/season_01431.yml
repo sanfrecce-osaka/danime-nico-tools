@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: プレイヤーズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/21/7/10217_1_6.png?1427216400000
+outline: 日本政府のNoa-80’ (=non of after80’) プロジェクトによって日本から隔離された2014年の独立国渋谷。大人に理解不能と怖れられ、そのため切り捨てられた若者たち、DEG(=デッドエンドジェネレーション)が住む、混沌と刹那の街。そこに、音楽で戦い金を稼ぐ“Prayer”と呼ばれる者がいた。彼らが興じるのは、音楽で戦うバトルゲーム=Pray。プレステと呼ばれるゲーム会場(旧ON
+  AIR EAST)は、まるで、21世紀の渋谷に蘇った、古代ローマのコロセウムようだった。そんなある日、Pray中のタスクの前に、過去の記憶、“好悪の感情”を持たない美少女ショーコが舞い降りる。そんな、タスクとショーコに、渋谷に蠢く巨大な陰謀が姿を現し始める。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 田中敦子
+  type: cast
+- !ruby/hash:TagHash
+  name: 家中宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 小倉優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 半田健人
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：滝川和男
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：辻陽
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：阪口和久
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：P.P.M
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：五月女有作
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：池田裕幾
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 岩浪美和
+  type: other
+- !ruby/hash:TagHash
+  name: 小林七郎
+  type: other
+- !ruby/hash:TagHash
+  name: 今井剛
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.1
+  title: ツメタイコエ
+  description: '西暦2014年。渋谷は日本から隔離され、独立国・渋谷として存在していた。そこで若者たちは、音楽で戦うゲーム=prayに興じていた。そんなprayerの中に一度もprayで人を殺したことが無い天才的なギタリスト・“タスク”がいた。タスクがステージで勝負をしていたとき、一人の少女・“ショーコ”が彼のもとに落ちてくる。そして二人の残酷なまでに美しい物語が始まろうとしていた・・・。<br><br>ショーコ
+    CV:小倉 優子／タスク CV:半田 健人／トオル CV:家中 宏／ツクモ CV: 陶山 章央／レイカ CV:田中 敦子<br><br>企画・原作:池田 裕幾／
+    監督:五月女 有作／脚本:阪口 和久／ キャラクターデザイン:滝川 和男／美術デザイン:小林 七郎／ 撮影:桑 良人／音響監督:岩浪 美和／ 編集:今井 剛／
+    音楽:辻 陽／ アニメーション制作:P.P.M<br><br>次話→so32149333'
+  length_seconds: 1625
+  content_id: so32149332
+  default_thread_id: 1508785364
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32149332
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.2
+  title: タマシイノバショ
+  description: '無慈悲な天使の息吹の様に、相手プレイヤーの命を吹き消すショーコ。その歌声に命を救われたタスクだったが、そんな彼女を許す事が出来なかった。亀裂の入る二人の前に、タスクの昔馴染みのミサキが現れる。タスクはショーコとユニットを組む事を拒否し、一人でprayに挑む。窮地に陥るタスクを救うために駆け付けるショーコだったが・・・。<br><br>ショーコ
+    CV:小倉 優子／タスク CV:半田 健人／トオル CV:家中 宏／ツクモ CV: 陶山 章央／レイカ CV:田中 敦子<br><br>企画・原作:池田 裕幾／
+    監督:五月女 有作／脚本:阪口 和久／ キャラクターデザイン:滝川 和男／美術デザイン:小林 七郎／ 撮影:桑 良人／音響監督:岩浪 美和／ 編集:今井 剛／
+    音楽:辻 陽／ アニメーション制作:P.P.M<br><br>so32149332←前話　第一話→so32149332'
+  length_seconds: 1674
+  content_id: so32149333
+  default_thread_id: 1508785362
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32149333
+cast: "[キャスト]<br>ショーコ CV:小倉 優子／タスク CV:半田 健人／トオル CV:家中 宏／ツクモ CV: 陶山 章央／レイカ CV:田中 敦子"
+staff: "[スタッフ]<br>企画・原作:池田 裕幾／ 監督:五月女 有作／脚本:阪口 和久／ キャラクターデザイン:滝川 和男／美術デザイン:小林 七郎／
+  撮影:桑 良人／音響監督:岩浪 美和／ 編集:今井 剛／ 音楽:辻 陽／ アニメーション制作:P.P.M"
+produced_year: "[製作年]<br>2005年"
+copyright: "(C)池田裕幾/イキナエンタテインメント"
+related_seasons: !ruby/array:Hashie::Array []

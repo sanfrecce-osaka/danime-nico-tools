@@ -1,0 +1,51 @@
+--- !ruby/hash:SeasonHash
+title: ジャスティーン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/8/10828_1_6.png?1427216400000
+outline: 時は近未来。銀河系は謎の戦闘集団ゼオスにより数々の星が侵略され、対抗していた銀河連邦軍も、既に壊滅状態にまで追い込まれていた…。その中、オルガニック星の生き残った人々が兵器｢ジャスティーン｣を持って辺境惑星の地球に漂着した。やがて各地に散っていた銀河連邦所属メンバーも地球に集結―地球人類と共にゼオスと戦うことを決意する
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: ゆかな
+  type: cast
+- !ruby/hash:TagHash
+  name: 小杉十郎太
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿部敦
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡部圭祐
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：西本由紀夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: AIC
+  type: other
+- !ruby/hash:TagHash
+  name: 山根理宏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ジャスティーン
+  description: 時は近未来。銀河系は謎の戦闘集団ゼオスにより数々の星が侵略され、対抗していた銀河連邦軍も、既に壊滅状態にまで追い込まれていた…。その中、オルガニック星の生き残った人々が兵器｢ジャスティーン｣を持って辺境惑星の地球に漂着した。やがて各地に散っていた銀河連邦所属メンバーも地球に集結―地球人類と共にゼオスと戦うことを決意する<br><br>天翔大河:阿部敦／天翔星河:櫻井孝宏／天翔指令:小杉十郎太／天翔風香:ゆかな<br><br>監督:西本由紀夫／メカデザイン:山根理宏／キャラクターデザイン:渡部圭祐／製作:AIC
+  length_seconds: 1469
+  content_id: so32036652
+  default_thread_id: 1507006114
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32036652
+cast: "[キャスト]<br>天翔大河:阿部敦／天翔星河:櫻井孝宏／天翔指令:小杉十郎太／天翔風香:ゆかな"
+staff: "[スタッフ]<br>監督:西本由紀夫／メカデザイン:山根理宏／キャラクターデザイン:渡部圭祐／製作:AIC"
+produced_year: "[製作年]<br>2010年"
+copyright: "(C)AIC"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,32 @@
+--- !ruby/hash:SeasonHash
+title: パパンがパンダ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/31/3/11313_1_6.png?1427216400000
+outline: 軽快な手拍子に合わせて、パパン、ワウ、トンプ、パニー、ニャウ、コケット、６名のゆかいな仲間たちが、楽しい振り付けで踊ります。振り付けをマスターしたら、自分でいろいろアレンジすると楽しいですよ。パパもママも一緒に、レッツダンシン！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 監督：田上キミノリ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: ハッピープロジェクト
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: パパンがパンダ
+  description: 軽快な手拍子に合わせて、パパン、ワウ、トンプ、パニー、ニャウ、コケット、６名のゆかいな仲間たちが、楽しい振り付けで踊ります。振り付けをマスターしたら、自分でいろいろアレンジすると楽しいですよ。パパもママも一緒に、レッツダンシン！<br><br>監督:田上キミノリ／原作:ハッピープロジェクト
+  length_seconds: 652
+  content_id: so31971579
+  default_thread_id: 1506061686
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31971579
+staff: "[スタッフ]<br>監督:田上キミノリ／原作:ハッピープロジェクト"
+produced_year: "[製作年]<br>2012年"
+copyright: "©パパンがパンダプロジェクト"
+related_seasons: !ruby/array:Hashie::Array []

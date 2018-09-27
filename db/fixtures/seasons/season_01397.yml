@@ -1,0 +1,309 @@
+--- !ruby/hash:SeasonHash
+title: BLUE GENDER
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/0/11320_1_6.png?1427216400000
+outline: 新種の病原菌に侵された海堂祐司は、未来の治療に託し冬眠者(スリーパー)となり眠りについた。時は過ぎ、西暦2031年。女戦士マリーンによって眠りから目覚めた祐司が目にしたものは、地獄のような未来だった…!
+  祐司の『生きる』ための戦いが今、始まった!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田譲治
+  type: cast
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲田徹
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 神奈延年
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤栄次
+  type: cast
+- !ruby/hash:TagHash
+  name: 高瀬右光
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀勝之祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 磯部弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：木崎文智
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：阿部雅司
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：長谷川勝巳
+  type: staff
+- !ruby/hash:TagHash
+  name: BLUE GENDERシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺浩二
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Act.1
+  title: ONE DAY
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>次話→so32041045
+  length_seconds: 1397
+  content_id: so32041044
+  default_thread_id: 1507066045
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041044
+- !ruby/hash:EpisodeHash
+  episode_no: Act.2
+  title: CRY
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041044←前話｜次話→so32041046　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041045
+  default_thread_id: 1507065943
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041045
+- !ruby/hash:EpisodeHash
+  episode_no: Act.3
+  title: TRIAL
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041045←前話｜次話→so32041047　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041046
+  default_thread_id: 1507065927
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041046
+- !ruby/hash:EpisodeHash
+  episode_no: Act.4
+  title: AGONY
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041046←前話｜次話→so32041048　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041047
+  default_thread_id: 1507066046
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041047
+- !ruby/hash:EpisodeHash
+  episode_no: Act.5
+  title: PRIORITY
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041047←前話｜次話→so32041049　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041048
+  default_thread_id: 1507065925
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041048
+- !ruby/hash:EpisodeHash
+  episode_no: Act.6
+  title: RELATION
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041048←前話｜次話→so32041050　第一話→so32041044
+  length_seconds: 1396
+  content_id: so32041049
+  default_thread_id: 1507066063
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041049
+- !ruby/hash:EpisodeHash
+  episode_no: Act.7
+  title: SYMPATH
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041049←前話｜次話→so32041051　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041050
+  default_thread_id: 1507066649
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041050
+- !ruby/hash:EpisodeHash
+  episode_no: Act.8
+  title: OASIS
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041050←前話｜次話→so32041063　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041051
+  default_thread_id: 1507067037
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041051
+- !ruby/hash:EpisodeHash
+  episode_no: Act.9
+  title: CONFIRM
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041051←前話｜次話→so32041064　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041063
+  default_thread_id: 1507067019
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041063
+- !ruby/hash:EpisodeHash
+  episode_no: Act.10
+  title: TACTICS
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041063←前話｜次話→so32041065　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041064
+  default_thread_id: 1507067017
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041064
+- !ruby/hash:EpisodeHash
+  episode_no: Act.11
+  title: GO MAD
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041064←前話｜次話→so32041066　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041065
+  default_thread_id: 1507067041
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041065
+- !ruby/hash:EpisodeHash
+  episode_no: Act.12
+  title: PROGRESS
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041065←前話｜次話→so32041067　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041066
+  default_thread_id: 1507067043
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041066
+- !ruby/hash:EpisodeHash
+  episode_no: Act.13
+  title: HERESY
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041066←前話｜次話→so32041068　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041067
+  default_thread_id: 1507067015
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041067
+- !ruby/hash:EpisodeHash
+  episode_no: Act.14
+  title: SET
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041067←前話｜次話→so32041069　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041068
+  default_thread_id: 1507066647
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041068
+- !ruby/hash:EpisodeHash
+  episode_no: Act.15
+  title: CALM
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041068←前話｜次話→so32041115　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041069
+  default_thread_id: 1507067021
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041069
+- !ruby/hash:EpisodeHash
+  episode_no: Act.16
+  title: A SIGN
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041069←前話｜次話→so32041116　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041115
+  default_thread_id: 1507067683
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041115
+- !ruby/hash:EpisodeHash
+  episode_no: Act.17
+  title: ECLOSION
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041115←前話｜次話→so32041117　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041116
+  default_thread_id: 1507067787
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041116
+- !ruby/hash:EpisodeHash
+  episode_no: Act.18
+  title: CHAOS
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041116←前話｜次話→so32041118　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041117
+  default_thread_id: 1507067703
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041117
+- !ruby/hash:EpisodeHash
+  episode_no: Act.19
+  title: COLLAPSE
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041117←前話｜次話→so32041119　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041118
+  default_thread_id: 1507067706
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041118
+- !ruby/hash:EpisodeHash
+  episode_no: Act.20
+  title: VERSUS
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041118←前話｜次話→so32041120　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041119
+  default_thread_id: 1507067785
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041119
+- !ruby/hash:EpisodeHash
+  episode_no: Act.21
+  title: JOKER
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041119←前話｜次話→so32041122　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041120
+  default_thread_id: 1507067815
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041120
+- !ruby/hash:EpisodeHash
+  episode_no: Act.22
+  title: DOGMA
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041120←前話｜次話→so32041123　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041122
+  default_thread_id: 1507067678
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041122
+- !ruby/hash:EpisodeHash
+  episode_no: Act.23
+  title: SOLISTE
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041122←前話｜次話→so32041124　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041123
+  default_thread_id: 1507067699
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041123
+- !ruby/hash:EpisodeHash
+  episode_no: Act.24
+  title: COMPASS
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041123←前話｜次話→so32041125　第一話→so32041044
+  length_seconds: 1398
+  content_id: so32041124
+  default_thread_id: 1507067681
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041124
+- !ruby/hash:EpisodeHash
+  episode_no: Act.25
+  title: ADAGIO
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041124←前話｜次話→so32041126　第一話→so32041044
+  length_seconds: 1397
+  content_id: so32041125
+  default_thread_id: 1507068390
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041125
+- !ruby/hash:EpisodeHash
+  episode_no: Act.26
+  title: LET ME
+  description: 祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次<br><br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC<br><br>so32041125←前話　第一話→so32041044
+  length_seconds: 1487
+  content_id: so32041126
+  default_thread_id: 1507067813
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041126
+cast: "[キャスト]<br>祐司:野島健児／マリーン:桑島法子／ジョーイ:菅沼久義／ロバート:堀 之紀／キース:神奈延年／マルコム:中田譲治／ユン:金田朋子／ユンの父:稲田徹／隊長(バイコヌール):若本規夫／スコット:高瀬右光／ハン:磯部弘／ゲーニッヒ:今村直樹／アーミック:米本千珠／セノ・ミヤギ:堀勝之祐／リック:伊藤栄次"
+staff: "[スタッフ]<br>監督:阿部雅司／脚本・シリーズ構成:長谷川勝巳／キャラクター・デザイン:木崎文智／メカニック・デザイン:渡辺浩二／クリーチャー・デザイン:マイケル原腸／制作:AIC"
+produced_year: "[製作年]<br>1999年"
+copyright: "(C)1999 AIC/東芝EMI"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BLUE GENDER THE WARRIOR

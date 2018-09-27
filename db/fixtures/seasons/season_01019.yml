@@ -1,0 +1,133 @@
+--- !ruby/hash:SeasonHash
+title: トップをねらえ2！
+watchable: true
+thumbnail_url: https://anime.dmkt-sp.jp/img/img_lazySpace.gif
+outline: 傑作OVA「トップをねらえ！」の続編シリーズ！トップレスと呼ばれる超・能力を持つ少年少女たちがバスターマシンを駆る宇宙パイロットとなって、人類の敵、宇宙怪獣と戦う時代。宇宙パイロットに憧れる少女ノノは、ナンバーワントップレスの”お姉さま”ラルクと出会ったことから未来が大きく動き出す…!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林ゆう
+  type: cast
+- !ruby/hash:TagHash
+  name: 甲斐田裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎たくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 福井裕佳梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：貞本義行
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：GAINAX
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鶴巻和哉
+  type: staff
+- !ruby/hash:TagHash
+  name: トップをねらえシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: お姉さまと呼ばせてください！
+  description: 太陽系辺境星区を勢力圏におさめ、人類の生存を脅かす宇宙怪獣。この時代、トップレスと呼ばれる超・能力をもつ子供たちがバスターマシンを駆って宇宙怪獣と戦っていた。そんな宇宙パイロットに憧れる少女・ノノは、ある日、卓越したトップレス能力を持つバスターマシンパイロット・ラルクに出会うが…。<br><br>©2003
+    GAINAX／TOP2委員会<br><br>次話→so33369031
+  length_seconds: 1647
+  content_id: so33369067
+  default_thread_id: 1529047422
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33369067
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: お姉さまなんかになりたくない
+  description: ノノはラルクと共に「フラタニティ」のメンバーが集う衛星基地・メガネビュラに乗り込む。憧れのお姉さまと共に戦えるとはしゃぐノノ。ニコラはそんなノノの性能に興味を持ちある試みをノノに仕掛ける。先の戦闘のため査察軍の尋問を一人受けるべく宇宙戦艦に向かうラルク。だがその時、火星宙域に再び宇宙怪獣が出現した!<br><br>©2003
+    GAINAX／TOP2委員会<br><br>so33369067←前話｜次話→so33369032　第一話→so33369067
+  length_seconds: 1634
+  content_id: so33369031
+  default_thread_id: 1529047222
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33369031
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: トップレスなんか大嫌い
+  description: 太陽系内を周遊する宇宙怪獣群団「木星急行」の侵攻を阻止すべく、宇宙軍との共同大作戦が発動された。自機のバスターマシン・ソワサンシスを撃墜されてしまったチコは、その作戦の準備中に搬入された最新鋭のバスターマシン・キャトフヴァンディスのパイロットの座をかけて、ノノと張り合うが…。<br><br>©2003
+    GAINAX／TOP2委員会<br><br>so33369031←前話｜次話→so33369033　第一話→so33369067
+  length_seconds: 1762
+  content_id: so33369032
+  default_thread_id: 1529047269
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33369032
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 復活!!　伝説のバスターマシン！
+  description: ラルクやパシカたちは、異星人のバスターマシンと噂される遺跡の発掘作戦が進む土星の衛星タイタンに発掘警護に呼ばれた。だが、ノノは仲間に加えてもらえず、雑用を押し付けられる毎日。自分専用のバスターマシンさえあれば一人前に認めてもらえると信じるノノは、ひとり発掘現場に侵入するが・・・<br><br>©2003
+    GAINAX／TOP2委員会<br><br>so33369032←前話｜次話→so33369034　第一話→so33369067
+  length_seconds: 1797
+  content_id: so33369033
+  default_thread_id: 1529047262
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33369033
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 星を動かすもの
+  description: 衛星タイタンでの大事件の後、トップレスたちフラタニティはその存在が否定されるものとなった。ラルク、ニコラたちは運命の波に翻弄され続ける。だが太陽系には再び人類の危機が迫りつつあった。「宇宙怪獣の巣」に集結する怪獣軍団。異変を察知した宇宙軍は、最強の宇宙艦隊を発進させる。その艦にはラルクもいた・・・。<br><br>©2003
+    GAINAX／TOP2委員会<br><br>so33369033←前話｜次話→so33369035　第一話→so33369067
+  length_seconds: 1830
+  content_id: so33369034
+  default_thread_id: 1529047260
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33369034
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: あなたの人生の物語
+  description: 月面、そして地球から遁走する宇宙艦隊。太陽系防衛の女神、バスターマシン7号を失った今、人類は惑星規模の巨大な敵「エグゼリオ変動重力源」と対決すべく、本土決戦への道を歩み始める。そして、ついに出現したエグゼリオ変動重力源。ラルクは人類存亡の切り札である最終兵器「ドゥーズミーユ」で出撃する!!<br><br>©2003
+    GAINAX／TOP2委員会<br><br>so33369034←前話　第一話→so33369067
+  length_seconds: 1906
+  content_id: so33369035
+  default_thread_id: 1529047264
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33369035
+cast: "[キャスト]<br>ノノ:福井裕佳梨／ラルク:坂本真綾／チコ:沢城みゆき／ニコラ:岩田光央／カシオ:山崎たくみ／ハトリ:梅津秀行／ルウ:甲斐田裕子／グルカ:小林希唯／パシカ:伊藤
+  静／シトロン:小林ゆう／ニャーン:本名陽子／ゴウヤ:佐々木 望／カトフェル:園部好徳／ロイ:陶山章央／サーペンタイン姉妹: 小林沙苗／松岡由貴"
+staff: "[スタッフ]<br>企画・原作:GAINAX（ガイナックス）／監修:庵野秀明／原案・監督:鶴巻和哉／脚本:榎戸洋司／キャラクターデザイン:貞本義行／バスターマシンデザイン:いづなよしつね／フューチャービジュアル:okama／美術監督:加藤朋則（1～3）+加藤
+  浩（4～6）／メカニックデザイン:石垣純哉+コヤマシゲト+撫荒武吉／3DCGモデリング:ヴューワークス／デジタルディレクター:増尾昭一／音響監督:なかのとおる／音楽:田中公平／制作:GAINAX（ガイナックス）／製作:TOP2委員会"
+produced_year: "[製作年]<br>2004年"
+copyright: "©2003 GAINAX／TOP2委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: トップをねらえ！

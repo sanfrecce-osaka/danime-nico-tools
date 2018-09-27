@@ -1,0 +1,100 @@
+--- !ruby/hash:SeasonHash
+title: マーズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/27/3/10273_1_6.png?1427216400000
+outline: 海底火山の噴火で新たに隆起した秋の島・新島で一人の少年が発見された。彼は東京の病院に収容されるが、記憶喪失のため身元が判明しない。一方、ニューヨークでは、六人の謎の男たちがこの少年の動向に注目していた。男たちが｢マーズ｣と呼ぶこの少年は一体何者なのか?
+  そして、この男たちの正体は? 既に人類の運命を破滅へと推し進める巨大な歯車が回り始めていた。だが、それに気付いた者はまだいない…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 中尾隆聖
+  type: cast
+- !ruby/hash:TagHash
+  name: 安原義人
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林修
+  type: cast
+- !ruby/hash:TagHash
+  name: 星野充昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：西村純二
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：本橋秀之
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：十川誠志
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 岩浪美和
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+- !ruby/hash:TagHash
+  name: 森木靖泰
+  type: other
+- !ruby/hash:TagHash
+  name: 宮前光春
+  type: other
+- !ruby/hash:TagHash
+  name: 中野徹
+  type: other
+- !ruby/hash:TagHash
+  name: 渡部圭祐
+  type: other
+- !ruby/hash:TagHash
+  name: 和田薫
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: Act-1
+  description: 海底火山の噴火で新たに隆起した秋の新新島で、一人の少年が発見された。彼は東京の病院に収容されるが、記憶喪失のため身元が判明しない。一方、ニューヨークでは、六人の謎の男たちがこの少年の動向に注目していた。男たちが｢マーズ｣と呼ぶこの少年は、一体何者なのか?そして、この男たちの正体は?既に、人類の運命を破滅へと推し進める、巨大な歯車が回り始めていた。だが、それに気づいた者はまだ、いない…。<br><br>マーズ:佐々木望／山口晴美:平松晶子／山口玲子:篠原恵美／官房長官:小林修／大垣:関俊彦／山口医師:森川智之／こんごう艦長:中村秀利／こんごう副長:荒川太郎／こんごう通信士:星野充昭／アル:川久保潔／ミロ:中尾隆聖／ギル:若本規夫／シン:千葉繁／ニケ:冬馬由美／ラー:安原義人<br><br>企画:中野徹／監督:西村純二／キャラクターデザイン・作画監督:本橋秀之／神体デザイン:森木靖泰／メカニックデザイン:佐藤千春／メカニック作画監督:渡部圭祐／脚本:十川誠志／美術監督:宮前光春・本田修／撮影監督:細野正／音響監督:岩浪美和／音楽監督:和田薫／制作協力:81プロデュース<br><br>次話→so31920458
+  length_seconds: 1637
+  content_id: so31920459
+  default_thread_id: 1505327454
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920459
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: Act-2
+  description: 秋の島新島で発見された少年は、自らを“マーズ”と名乗った。政府及び防衛庁は、少年の身柄を東千歳駐屯地に移し、本格的な身元調査を開始する。しかし、そんな彼らを待ち受けていたのは、第2神体・オルトスの奇襲攻撃だった。次第に明らかになる事件の真相。それは、地球存亡の危機にかかわる巧妙に仕組まれた計画だった。果たして人類の運命はいかに!<br><br>マーズ:佐々木望／山口晴美:平松晶子／山口玲子:篠原恵美／官房長官:小林修／大垣:関俊彦／山口医師:森川智之／こんごう艦長:中村秀利／こんごう副長:荒川太郎／こんごう通信士:星野充昭／アル:川久保潔／ミロ:中尾隆聖／ギル:若本規夫／シン:千葉繁／ニケ:冬馬由美／ラー:安原義人<br><br>企画:中野徹／監督:西村純二／キャラクターデザイン・作画監督:本橋秀之／神体デザイン:森木靖泰／メカニックデザイン:佐藤千春／メカニック作画監督:渡部圭祐／脚本:十川誠志／美術監督:宮前光春・本田修／撮影監督:細野正／音響監督:岩浪美和／音楽監督:和田薫／制作協力:81プロデュース<br><br>so31920459←前話　第一話→so31920459
+  length_seconds: 1469
+  content_id: so31920458
+  default_thread_id: 1505327448
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31920458
+cast: "[キャスト]<br>マーズ:佐々木望／山口晴美:平松晶子／山口玲子:篠原恵美／官房長官:小林修／大垣:関俊彦／山口医師:森川智之／こんごう艦長:中村秀利／こんごう副長:荒川太郎／こんごう通信士:星野充昭／アル:川久保潔／ミロ:中尾隆聖／ギル:若本規夫／シン:千葉繁／ニケ:冬馬由美／ラー:安原義人"
+staff: "[スタッフ]<br>企画:中野徹／監督:西村純二／キャラクターデザイン・作画監督:本橋秀之／神体デザイン:森木靖泰／メカニックデザイン:佐藤千春／メカニック作画監督:渡部圭祐／脚本:十川誠志／美術監督:宮前光春・本田修／撮影監督:細野正／音響監督:岩浪美和／音楽監督:和田薫／制作協力:81プロデュース"
+produced_year: "[製作年]<br>1994年"
+copyright: "©1994 横山光輝/Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

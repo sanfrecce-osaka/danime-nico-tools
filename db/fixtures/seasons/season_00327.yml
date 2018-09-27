@@ -1,0 +1,268 @@
+--- !ruby/hash:SeasonHash
+title: ガラスの仮面(1984年版)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/27/8/20278_1_6.png?1438071662000
+outline: 不慮の事故により一線を退いた大女優・月影千草に女優としての資質を見出された北島マヤは劇団月影に入団する。マヤはかつて月影が演じた「紅天女」を狙うべく、厳しいレッスンを受けることとなる。一方、劇団オンディーヌが誇る天才少女・姫川亜弓も、「紅天女」の座を狙っていた…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢那智
+  type: cast
+- !ruby/hash:TagHash
+  name: 中西妙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松島みのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 北浜晴子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：杉井ギサブロー
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：美内すずえ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：角田利隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大谷和夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：坂本雄作
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：国保誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 白泉社
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1984年
+  type: other
+- !ruby/hash:TagHash
+  name: 花とゆめ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 春の嵐
+  description: 芝居への想いを胸に、ごく平凡な日常を送っていた北島マヤは、かつての大女優・月影千草に才能を見出され、劇団つきかげの研究生となる。女優への扉がいま開かれる…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>次話→so32235989
+  length_seconds: 1478
+  content_id: so32235976
+  default_thread_id: 1510122674
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235976
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 紫のバラの人
+  description: 劇団つきかげの初公演で主役のひとりに抜擢されたマヤ。月影による厳しい特訓の成果を挙げた舞台閉幕後、名も知れぬファンから紫のバラが届けられる。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235976←前話｜次話→so32235990　第一話→so32235976
+  length_seconds: 1479
+  content_id: so32235989
+  default_thread_id: 1510122514
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235989
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 美しいライバル
+  description: 大都芸能の裏工作により、マヤの初公演はマスコミから厳しく叩かれてしまう。そんな中、マヤの母親が月影の元へ尋ねてくる。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235989←前話｜次話→so32235991　第一話→so32235976
+  length_seconds: 1479
+  content_id: so32235990
+  default_thread_id: 1510122689
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235990
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 孤独な戦い
+  description: 劇団つきかげの運命をかけた全日本演劇コンクールの演し物・「たけくらべ」の主役・美登利に抜擢されたマヤ。しかし、同役を演じる亜弓の稽古を見て自信喪失してしまう…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235990←前話｜次話→so32235992　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235991
+  default_thread_id: 1510122723
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235991
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ふたりの美登利
+  description: 月影に物置へ閉じ込められたマヤは、扉の外からの月影の指導の甲斐もあり、自身の美登利像をつかんだマヤは、亜弓と全く異なる斬新な美登利を演じてみせるのだった…。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235991←前話｜次話→so32235993　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235992
+  default_thread_id: 1510122493
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235992
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 全国大会のワナ
+  description: 全国大会の開演直前、劇団つきかげの衣装、大道具類が壊されてしまった。旅館のおかみの好意で高校演劇部から借りることになったが…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235992←前話｜次話→so32235994　第一話→so32235976
+  length_seconds: 1481
+  content_id: so32235993
+  default_thread_id: 1510122512
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235993
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: たったひとりの舞台
+  description: ついに麗たちは開演に間に合わなかった。マヤはひとりで「ジーナと5つの青い壺」を演じることを決心。劇団一角獣の協力を得て、幕を開けた。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235993←前話｜次話→so32235995　第一話→so32235976
+  length_seconds: 1481
+  content_id: so32235994
+  default_thread_id: 1510122518
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235994
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 真澄の熱い想い
+  description: 演劇コンクールで優勝を逃した劇団つきかげは、稽古場を失う。大都芸能の速水真澄は、桜小路を使ってマヤを大都芸能へ誘うが…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235994←前話｜次話→so32235996　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235995
+  default_thread_id: 1510122652
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235995
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 初めての映画出演
+  description: 紫のバラの人の助けで、劇団つきかげは、新しい稽古場を得る。マヤは、はじめて映画のオーディションを受け、端役ながら出演が決まった…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235995←前話｜次話→so32235997　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235996
+  default_thread_id: 1510122647
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235996
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 新しい試練
+  description: 過労で千草が倒れ入院。真澄はマヤを大都芸能へ誘うが、マヤは断る。マヤは栄進座の看板女優・原田菊子の面接を受け、役をもらえたが…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235996←前話｜次話→so32235988　第一話→so32235976
+  length_seconds: 1479
+  content_id: so32235997
+  default_thread_id: 1510122403
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235997
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 舞台あらし
+  description: "「おんな河」に出演、観客の視線を釘づけにしたマヤを菊子は舞台あらしと呼ぶ。一方、亜弓は女優として新境地を開こうとしていた…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235997←前話｜次話→so32235987　第一話→so32235976"
+  length_seconds: 1480
+  content_id: so32235988
+  default_thread_id: 1510122701
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235988
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: わたしはキャサリン
+  description: "「おんな河」を観た東洋劇場会長の誘いで「嵐が丘」のキャサリン役のテストを受け、何とか合格したマヤ。しかし役作りに悩み抜くが…。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235988←前話｜次話→so32235986　第一話→so32235976"
+  length_seconds: 1481
+  content_id: so32235987
+  default_thread_id: 1510122715
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235987
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 恋はモザイクもよう
+  description: キャサリン役に集中するマヤに対して、ヒースクリフ役の真島、その恋人、江川由紀、マヤに想いを寄せる桜小路の心は微妙に揺れ動く…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235987←前話｜次話→so32235977　第一話→so32235976
+  length_seconds: 1481
+  content_id: so32235986
+  default_thread_id: 1510122704
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235986
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 新しい役は人形
+  description: 劇団一角獣とつきかげの合同公演「石の微笑」が決まる。マヤの役は人形。演技に悩むマヤを、千草は人形ギブスで特訓する。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235986←前話｜次話→so32235978　第一話→so32235976
+  length_seconds: 1481
+  content_id: so32235977
+  default_thread_id: 1510122524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235977
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: ようこそ！地下劇場へ！！
+  description: ビルの地下にある喫茶店跡を劇場に「石の微笑」は初日の幕を開ける。観客はわずか12名。しかし客席には、姫川亜弓と真島良の姿があった。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235977←前話｜次話→so32235979　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235978
+  default_thread_id: 1510122686
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235978
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 母の面影
+  description: 最終日、バスの窓から母の姿を見たマヤの心は乱れ、不覚にも舞台の上で涙を流してしまう。そんなマヤに千草は謹慎を言い渡す…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235978←前話｜次話→so32235980　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235979
+  default_thread_id: 1510122448
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235979
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 紫のバラの人はどこに
+  description: 亜弓主演の舞台「夢宴桜」に急遽出演することになったマヤだったが、台本がすり替えられ、ピンチに。しかし亜弓は機転をきかせマヤもこの危機に挑んでいく…。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235979←前話｜次話→so32235981　第一話→so32235976
+  length_seconds: 1479
+  content_id: so32235980
+  default_thread_id: 1510122679
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235980
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: ヘレンへの挑戦
+  description: 新劇場のコケラ落とし公演「奇跡の人」のヘレン役にノミネートされたマヤのために、紫のバラの人は、別荘を稽古場に提供する…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235980←前話｜次話→so32235982　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235981
+  default_thread_id: 1510122654
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235981
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 白熱のオーディション
+  description: ヘレン候補役として選ばれた5人のオーディションが始まった。合格したのはマヤと亜弓。二人のダブルキャストが決まった。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235981←前話｜次話→so32235983　第一話→so32235976
+  length_seconds: 1480
+  content_id: so32235982
+  default_thread_id: 1510122468
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235982
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 二人のヘレン
+  description: "「奇跡の人」の稽古がスタートした。ヘレンが水を”ウォーター”と認識する場面。亜弓とマヤはそれぞれに奇跡の瞬間を体得した。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235982←前話｜次話→so32235984　第一話→so32235976"
+  length_seconds: 1480
+  content_id: so32235983
+  default_thread_id: 1510122383
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235983
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 助演女優賞候補！！
+  description: 初日公演は親子競演で話題をさらい、亜弓の演技が絶賛された。一方、マヤは斬新な演技で姫川歌子の女優魂に火をつけた…<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235983←前話｜次話→so32235985　第一話→so32235976
+  length_seconds: 1481
+  content_id: so32235984
+  default_thread_id: 1510122717
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235984
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 新しい扉
+  description: マヤはアカデミー芸術祭助演女優賞に輝く。授賞式に現れた月影千草は、マヤと亜弓の二人の紅天女候補に指名するのだった。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235984←前話｜次話→so32235999　第一話→so32235976
+  length_seconds: 1481
+  content_id: so32235985
+  default_thread_id: 1510122642
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235985
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: わたしのマヤ
+  description: 大晦日の夜の出会いから、アカデミー芸術祭助演女優賞までを千草の視点から描く総集編。<br><br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子<br><br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫<br><br>so32235985←前話　第一話→so32235976
+  length_seconds: 1458
+  content_id: so32235999
+  default_thread_id: 1510122425
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32235999
+cast: "[キャスト]<br>北島マヤ:勝生真沙子／姫川亜弓:松島みのり／速水真澄:野沢那智／月影千草:中西妙子／ナレーター:北浜晴子"
+staff: "[スタッフ]<br>原作:美内すずえ（白泉社「花とゆめ」連載）／総監督:杉井ギサブロー／監督:坂本雄作、角田利隆／キャラクターデザイン:国保誠／総作画監督:進藤満尾／美術監督:金村勝義／美術デザイン:遠藤守俊／音楽:大谷和夫"
+produced_year: "[製作年]<br>1984年"
+copyright: "©美内すずえ・エイケン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 3ねんDぐみガラスの仮面
+- !ruby/hash:SeasonHash
+  title: ガラスの仮面

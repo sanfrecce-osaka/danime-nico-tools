@@ -1,0 +1,71 @@
+--- !ruby/hash:SeasonHash
+title: 猫のダヤン　ふしぎ劇場
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/6/21896_1_6.png?1511508641000
+outline: ダヤンのちょっと不思議な毎日。幕が開くと、タシルの街のちょっとおかしな日常が仲間たちと繰り広げられます！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 島本須美
+  type: cast
+- !ruby/hash:TagHash
+  name: ニーコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 平山笑美
+  type: cast
+- !ruby/hash:TagHash
+  name: 上原あかり
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：池田あきこ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：池田あきこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：作田ハズム
+  type: staff
+- !ruby/hash:TagHash
+  name: 猫のダヤンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第15話
+  title: ''
+  description: 第1話 ぼくはダヤン／やあ、こんにちは。僕はダヤン。地球からこのわちふぃーるどにやってきたんだ。 他、第2話-第15話を収録。<br><br>ダヤン:島本須美／ジタン:平山笑美／マーシー:竹達彩奈（1-20）・上原あかり（21-30）／４人の魔女:ニーコ<br><br>原作・キャラクターデザイン:池田あきこ／アニメーション制作:勝鬨スタジオ／監督名:作田ハズム／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>次話→so32407712
+  length_seconds: 914
+  content_id: so32407711
+  default_thread_id: 1513040454
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407711
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話～第30話
+  title: ''
+  description: 第16話 ないものねだり／バイオリンが弾けて、物知りで、一輪車にも乗れて、おまけに妹までいる！いいなぁと思いながらスヤスヤ寝てしまうダヤンを、ジタンも羨んでいますよ。
+    他、第17話-第30話を収録。<br><br>ダヤン:島本須美／ジタン:平山笑美／マーシー:竹達彩奈（1-20）・上原あかり（21-30）／４人の魔女:ニーコ<br><br>原作・キャラクターデザイン:池田あきこ／アニメーション制作:勝鬨スタジオ／監督名:作田ハズム／音響制作:スペルバウンド／音響監督:鹿志村聡<br><br>so32407711←前話　第一話→so32407711
+  length_seconds: 914
+  content_id: so32407712
+  default_thread_id: 1513040732
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32407712
+cast: "[キャスト]<br>ダヤン:島本須美／ジタン:平山笑美／マーシー:竹達彩奈（1-20）・上原あかり（21-30）／４人の魔女:ニーコ"
+staff: "[スタッフ]<br>原作・キャラクターデザイン:池田あきこ／アニメーション制作:勝鬨スタジオ／監督名:作田ハズム／音響制作:スペルバウンド／音響監督:鹿志村聡"
+produced_year: "[製作年]<br>2016年"
+copyright: Ⓒ Akiko Ikeda/Fushigi Dayan
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 猫のダヤン　日本へ行く
+- !ruby/hash:SeasonHash
+  title: 猫のダヤン

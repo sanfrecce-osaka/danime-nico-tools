@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: 竜機伝承
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/2/11042_1_6.png?1427216400000
+outline: パソコン、PS用とゲームでも発展した『竜機伝承』がDVDアニメーションソフトとして待望の復活！ミュウを巡る熱い戦いをLegend１～３まで一挙に収録しました。この物語は、弱者を守るために決意したセディの成長を体感してください。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 國府田マリ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮村優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：山本はるきち
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：前島健一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：前島健一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高田詩乃
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：出崎遠太
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1997年
+  type: other
+- !ruby/hash:TagHash
+  name: Softgarage
+  type: other
+- !ruby/hash:TagHash
+  name: 西倉力
+  type: other
+- !ruby/hash:TagHash
+  name: 小出一巳
+  type: other
+- !ruby/hash:TagHash
+  name: 西村聡
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Legend1
+  title: 出発(たびだち)
+  description: 剣技を修行中のセディは、「帝国」に追われる美少女・ミュウを助けた。セディはミュウを護り、彼女の失われた記憶を探す旅に出ることを決意。一路、フェアルード国へ向かった。危険を承知で追いかけて来たセディの妹・ミリィを加え、3人は城下町に入る。そして出会ったレインという風来坊――。名前以外思い出せない「ミュウ」は何者なのか？そして帝国の目的、「竜機」（ドラグーン）とは…。<br><br>セディ:石田
+    彰／ミュウ:國府田マリ子／ミリィ:宮村優子／レイン:関 俊彦／リリス:今井由香／バシュア:大塚明夫／ガブリエル:飯塚昭三／ランディ:子安武人<br><br>監督・演出・絵コンテ:前島健一／シリーズ構成:小出一巳／脚本:出崎遠太／キャラクターデザイン:高田詩乃／メカデザイン:西村
+    聡／作画監督:永田正美／美術監督:西倉 力／音楽:山本はるきち／製作:Softgarage<br><br>次話→so31935371
+  length_seconds: 1765
+  content_id: so31935370
+  default_thread_id: 1505552949
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935370
+- !ruby/hash:EpisodeHash
+  episode_no: Legend2
+  title: 策謀(わな)
+  description: 不思議な少女、ミュウの失った記憶を求めて旅に出たセディ。フェアルード国を目指す二人を危険を承知でミリィが追いかけて来た。活気に満ちた城下町、天真爛漫さを発揮するミリィ」は、風来坊のレインと知りあう。軟派な感じは否めないレインだが、セディの父の剣に興味を示していた。その剣を持って女王と謁見したセディは、父がフェアルード国を守り、黒衣の狂戦士バシュアと死闘を繰り広げたことを知る。ミュウのことも何か掴めるのではないかと、首相のランドールと会見したセディたち。だが、そこでセディたちが牢獄に監禁されてしまい…！？<br><br>セディ:石田
+    彰／ミュウ:國府田マリ子／ミリィ:宮村優子／レイン:関 俊彦／リリス:今井由香／バシュア:大塚明夫／ガブリエル:飯塚昭三／ランディ:子安武人<br><br>監督・演出・絵コンテ:前島健一／シリーズ構成:小出一巳／脚本:出崎遠太／キャラクターデザイン:高田詩乃／メカデザイン:西村
+    聡／作画監督:永田正美／美術監督:西倉 力／音楽:山本はるきち／製作:Softgarage<br><br>so31935370←前話｜次話→so31935372　第一話→so31935370
+  length_seconds: 1656
+  content_id: so31935371
+  default_thread_id: 1505552883
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935371
+- !ruby/hash:EpisodeHash
+  episode_no: Legend3
+  title: 暁光(きぼう)
+  description: イカサマトランプで赤い髪の美女に巻きあげられた金を取り返すため、セディは港町ヴーイットを駆ける。だが帝国の突然の襲撃に追いつめられ絶対絶命のセディとミュウ。その時、紅蓮の炎が帝国兵を退ける！助けてくれたのはなんと探し求めていた女魔導士リリスだった。何が目的か、彼女はセディたちに協力的だった。帝国の飛空艇を奪いヴーイット脱出を試みるセディたち。そこに立ちはだかる『黒衣の狂戦士』バシュア！<br><br>セディ:石田
+    彰／ミュウ:國府田マリ子／ミリィ:宮村優子／レイン:関 俊彦／リリス:今井由香／バシュア:大塚明夫／ガブリエル:飯塚昭三／ランディ:子安武人<br><br>監督・演出・絵コンテ:前島健一／シリーズ構成:小出一巳／脚本:出崎遠太／キャラクターデザイン:高田詩乃／メカデザイン:西村
+    聡／作画監督:永田正美／美術監督:西倉 力／音楽:山本はるきち／製作:Softgarage<br><br>so31935371←前話　第一話→so31935370
+  length_seconds: 1614
+  content_id: so31935372
+  default_thread_id: 1505552952
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935372
+cast: "[キャスト]<br>セディ:石田 彰／ミュウ:國府田マリ子／ミリィ:宮村優子／レイン:関 俊彦／リリス:今井由香／バシュア:大塚明夫／ガブリエル:飯塚昭三／ランディ:子安武人"
+staff: "[スタッフ]<br>監督・演出・絵コンテ:前島健一／シリーズ構成:小出一巳／脚本:出崎遠太／キャラクターデザイン:高田詩乃／メカデザイン:西村 聡／作画監督:永田正美／美術監督:西倉
+  力／音楽:山本はるきち／製作:Softgarage"
+produced_year: "[製作年]<br>1997年"
+copyright: "©Softgarage"
+related_seasons: !ruby/array:Hashie::Array []

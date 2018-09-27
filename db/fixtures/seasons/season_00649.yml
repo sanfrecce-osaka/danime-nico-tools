@@ -1,0 +1,107 @@
+--- !ruby/hash:SeasonHash
+title: ZIP!～朝だよ！貝社員～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/91/5/21915_1_6.png?1512439232000
+outline: "「アサリ」「カキ」「ムール貝」といった、視聴者の皆さんにも身近な貝が、「ジップ商事」を舞台に、ひとクセもふたクセもある、「貝社員」として登場。楽しい歌とコントで、あなたの身の回りにもきっといる・・・『ダメ会社員あるあるネタ』をお届けします。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ1
+  title: ''
+  description: アサリ『終電』／ハイ貝『頼みたいこと』／ムール貝『なんでもいいです』／カモ貝『遅刻』／アサリ『確認』／アワビ『お詫び』／カガミ貝『カガミ』／アサリ『やりたくない』／シャコ貝『大企業』／ハイ貝『愚痴』／カキ『あら探し』／ムール貝『飲み会はイヤ』／アサリ『明日やろう』／ホラ貝『スポーツバー』／カモ貝『納期』<br><br>次話→so32453211
+  length_seconds: 664
+  content_id: so32453212
+  default_thread_id: 1513819606
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453212
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ2
+  title: ''
+  description: マテ貝『待たせまくり』／アサリ『すぐネット』／ハイ貝『受注』／カガミ貝『ランチにて』／トリ貝『お疲れ』／アサリ『勘違い』／カキ『動かない』／ホラ貝『関係者』／ムール貝『通販』／カモ貝『風邪』／ハイ貝『コピー機』／アサリ『仮病』／カガミ貝『集合写真』／カキ『帰りの電車』／トリ貝『わかるわかる』<br><br>so32453212←前話｜次話→so32453210　第一話→so32453212
+  length_seconds: 674
+  content_id: so32453211
+  default_thread_id: 1513819629
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453211
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ3
+  title: ''
+  description: マテ貝『来客』／シャコ貝『誘い』／ムール貝『私って～』／アサリ『メモ』／カモ貝『忘れ物』／カガミ貝『商談前』／ハイ貝『電話』／カキ『マター』／マテ貝『返事待ち』／アサリ『フォロー』／トリ貝『悩み相談』／ホラ貝『電話しよっか？』／アサリ『断捨離』／ムール貝『顔合わせ』／ハイ貝『安請け合い』<br><br>so32453211←前話｜次話→so32453201　第一話→so32453212
+  length_seconds: 675
+  content_id: so32453210
+  default_thread_id: 1513819672
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453210
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ4
+  title: ''
+  description: マテ貝『人員不足』／カモ貝『プレゼン』／カガミ貝『忘れたカガミ』／アサリ『友達ノリ』／シャコ貝『なにか』／ムール貝『ご褒美』／アワビ『昼休み』／パウア貝『ムチャブリ』／ハイ貝『名刺』／カモ貝『シュレッダー』／アサリ・ハイ貝・ムール貝『クールビズ』／カキ『ホワイトボード』／ホラ貝『英語』／アサリ『出世』／シャコ貝『上が』<br><br>so32453210←前話｜次話→so32453202　第一話→so32453212
+  length_seconds: 676
+  content_id: so32453201
+  default_thread_id: 1513819583
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453201
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ5
+  title: ''
+  description: アワビ『本音』／カガミ貝『前髪』／ワスレ貝『ポカ』／パウア貝『ノルマ』／アサリ・ハイ貝『会話』／マテ貝『理由』／シャコ貝『前向きに』／アサリ『誤送信』／トリ貝『七夕』／ハイ貝『せーの』／ムール貝『お土産』／カモ貝『幹事』／マテ貝『食べてるから』／アサリ『新人尾崎』／ワスレ貝『思い出す』<br><br>so32453201←前話｜次話→so32453203　第一話→so32453212
+  length_seconds: 676
+  content_id: so32453202
+  default_thread_id: 1513819659
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453202
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ6
+  title: ''
+  description: ホラ貝『海』／ハイ貝『外国人』／アサリ・アワビ『長い説教』／カキ『言ったろ』／シャコ貝『前向きに』／カガミ貝『ナナメの角度』／カモ貝『手伝い』／ワスレ貝『セッティング』／パウア貝『退社』／ハイ貝『地図』／ムール貝『バーベキュー』／カキ
+    『遅い』／シャコ貝『シャコり損』／アサリ 『尾崎の気持ち』／ワスレ貝『伝言』<br><br>so32453202←前話｜次話→so32453204　第一話→so32453212
+  length_seconds: 676
+  content_id: so32453203
+  default_thread_id: 1513819585
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453203
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ7
+  title: ''
+  description: アサリ・ハイ貝『卓球』／ホラ貝『ホラー』／ムール貝『女子力』／アサリ・カモ貝『昨日の記憶』／アサリ『影響』／アワビ『先に』／トリ貝『打ち上げ』／カモ貝『花火』／ハイ貝『言い方』／アサリ『昼休み中』／カキ・ムール貝『エアコン』／ワスレ貝『敬語』／アサリ・カモ貝・ムール貝『差し入れ』／カキ『奥さん』／シャコ貝『強敵』<br><br>so32453203←前話｜次話→so32453205　第一話→so32453212
+  length_seconds: 676
+  content_id: so32453204
+  default_thread_id: 1513819618
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453204
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ8
+  title: ''
+  description: カモ貝『無断欠勤』／アサリ『徹夜』／トリ貝・ムール貝『取引先』／カモ貝・ムール貝・アサリ『待ち合わせ』／ホラ貝『手相占い』／カキ『ナイター観戦』／アワビ『謝る理由』／アサリ・トリ貝『接待』／パウア貝『有給』／アサリ『手抜き資料』／マテ貝・ムール貝『出張』／カモ貝『多数決』／ハイ貝『タクシー』／カキ『優先席』／シャコ貝『インテリア』<br><br>so32453204←前話｜次話→so32453206　第一話→so32453212
+  length_seconds: 674
+  content_id: so32453205
+  default_thread_id: 1513819643
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453205
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ9
+  title: ''
+  description: ワスレ貝『はじめまして』／パウア貝『秋分の日』／アサリ『丸投げ』／オウム貝『ミス』／ハイ貝『ハイチーズ』／ワスレ貝・カモ貝『人数』／ホラ貝『キーマン』／アサリ・カモ貝・ハイ貝『サプライズ』／ミル貝『SNS』／トリ貝・ムール貝『そうそうそう』／アサリ『お弁当』／カモ貝『出張先（前編）』／カモ貝『出張先（後編）』／アサリ・ホラ貝・ハイ貝・マテ貝『運動会』／オウム貝『周囲の音』<br><br>so32453205←前話｜次話→so32453207　第一話→so32453212
+  length_seconds: 676
+  content_id: so32453206
+  default_thread_id: 1513819617
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453206
+- !ruby/hash:EpisodeHash
+  episode_no: 貝社員まとめ10
+  title: ''
+  description: ハイ貝『勝手に契約』／アサリ・ムール貝『ホームパーティー』／マテ貝『新人の退職』／ワスレ貝『忘れて』／アサリ・ハマグリ『アサリのニュースやる気なし』／ハマグリ『筋トレ』／トリ貝・ムール貝『結婚式』／アサリ・カモ貝『チケット』／カモ貝『家族会議』／ハイ貝『後輩』／パウア貝『荷物』／アサリ・ハイ貝・カモ貝『プリン』／ムール貝・オウム貝・シャコ貝・ワスレ貝『ハロウィーン』／アサリ・ハイ貝・カモ貝『ハロウィーン②』／シャコ貝『接待ゴルフ』<br><br>so32453206←前話　第一話→so32453212
+  length_seconds: 676
+  content_id: so32453207
+  default_thread_id: 1513819599
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32453207
+produced_year: "[製作年]<br>2016年"
+copyright: "©NTV/TOHO CINEMAS LTD./DLE"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,79 @@
+--- !ruby/hash:SeasonHash
+title: キノの旅 何かをするために -Life goes on-/キノの旅 塔の国 -Free Lance-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/12/1/10121_1_6.png?1427216400000
+outline: ひとつの国に3日間だけとどまるルールを決めたキノ達。それぞれの｢国｣に暮らす人々の｢日常｣の中に｢旅人・キノ｣という｢非日常｣が入り込むことで生じる小さな波紋。だがそれは、実は｢日常｣をゆるがすほどの大きな事件だったりする。キノ達は旅の途中で何を見て、そこで出会った人々の心に何を残すのか?
+  (C)時雨沢恵一・メディアワークス｢キノの旅｣とっておきの話の会
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 前田愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 相ヶ瀬龍史
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：時雨沢恵一
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：村井さだゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：須賀重行
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：酒井良
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中村隆太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キノの旅シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 鶴岡陽太
+  type: other
+- !ruby/hash:TagHash
+  name: GENCO
+  type: other
+- !ruby/hash:TagHash
+  name: 大庭直之
+  type: other
+- !ruby/hash:TagHash
+  name: 黒星紅白
+  type: other
+- !ruby/hash:TagHash
+  name: 番野雅好
+  type: other
+- !ruby/hash:TagHash
+  name: 今井剛
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: キノの旅 何かをするために -Life goes on-/キノの旅 塔の国 -Free Lance-
+  description: キノとエルメスが訪れた国には、頂上が雲で隠れるほど高い塔がそびえていた。各地区から運ばれてきた建築木材が、塔に運ばれていく。キノとエルメスは、人々に｢なぜ塔を立てているのか｣と聞くが、誰1人その理由を知るものはいなかった。そして、1日目の夜、キノとエルメスのもとに1人の男がこっそりと侵入してくる。<br><br>キノ:前田愛／エルメス:相ヶ瀬龍史<br><br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良
+  length_seconds: 2624
+  content_id: so32011956
+  default_thread_id: 1506657181
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32011956
+cast: "[キャスト]<br>キノ:前田愛／エルメス:相ヶ瀬龍史"
+staff: "[スタッフ]<br>原作:時雨沢恵一／監督:中村隆太郎／脚本:村井さだゆき／プロデュース:GENCO／キャラクター原案:黒星紅白／キャラクターデザイン・作画監督:須賀重行／美術監督:番野雅好／撮影監督:大庭直之／編集:今井剛／音響監督:鶴岡陽太／音楽:酒井良"
+produced_year: "[製作年]<br>2005年"
+copyright: "(C)時雨沢恵一・メディアワークス/｢キノの旅｣とっておきの話の会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: キノの旅 -the Beautiful World- the Animated Series
+- !ruby/hash:SeasonHash
+  title: キノの旅 病気の国 -For You-
+- !ruby/hash:SeasonHash
+  title: キノの旅-the Beautiful World-

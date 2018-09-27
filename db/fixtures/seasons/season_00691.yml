@@ -1,0 +1,78 @@
+--- !ruby/hash:SeasonHash
+title: STARLIGHT SCRAMBLE 恋愛候補生
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/0/11070_1_6.png?1427216400000
+outline: 希望に燃えるパイロット候補生たちの姿を爽やかな魅力と繊細かつダイナミックな映像美で贈るSFドラマティック・ラブストーリー!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤健太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚雅弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村亜希子
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩男潤子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中川亜紀子
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田小百合
+  type: cast
+- !ruby/hash:TagHash
+  name: 笹沼尭羅
+  type: cast
+- !ruby/hash:TagHash
+  name: ゆーり
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：殿勝秀樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：児山昌弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：宮地貴裕
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1st TRIAL
+  title: こんなはずじゃ・・・・・・の入学式
+  description: 幼い頃に両親を亡くし、施設で育っためぐみの夢は、パイロットになり地球へ行くこと。今日はその士官学校UFAの入学式だ。だが、そこにテロ集団が乱入し、その騒ぎで彼女は“問題児”の烙印を押されてしまう。なにやら大波乱の幕開けだー。<br><br>岸波めぐみ:川澄綾子／月島レイカ:岩男潤子／藤原利奈:中川亜紀子／風巻夏美:木村亜希子／柿沼めい:飯塚雅弓／寿リン:吉田小百合／キル:ゆーり／池上才子:そのざきみえ／釣賀ハルキ:笹沼晃／黒斗俊二:伊藤健太郎<br><br>監督・構成:殿勝秀樹／脚本:小出克彦／工藤
+    治／キャラ原案:宮地貴裕／キャラクターデザイン:児山昌弘／メカニックデザイン:小川 浩／作画監督:服部憲知／小沢 実／渡辺義弘<br><br>次話→so32230683
+  length_seconds: 1752
+  content_id: so32230682
+  default_thread_id: 1510020826
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230682
+- !ruby/hash:EpisodeHash
+  episode_no: 2nd TRIAL
+  title: 気がつけば　おたずね者ォ！
+  description: 入学式早々問題児となってしまっためぐみ達。壊れかけた分校訓練校“さざなみ”で学園生活がスタートするハメに。そこに突然現れた“C級アイドル”柿沼めい。そんな中、突然の事故で“さざなみ”で学園生活がスタートするハメに。そこに突然の事故で“さざなみ”がNUN軍との休戦ラインにワープしてしまい、激しい戦闘に巻き込まれ、訓練でない実戦の彼女達が迫り来る！！<br><br>岸波めぐみ:川澄綾子／月島レイカ:岩男潤子／藤原利奈:中川亜紀子／風巻夏美:木村亜希子／柿沼めい:飯塚雅弓／寿リン:吉田小百合／キル:ゆーり／池上才子:そのざきみえ／釣賀ハルキ:笹沼晃／黒斗俊二:伊藤健太郎<br><br>監督・構成:殿勝秀樹／脚本:小出克彦／工藤
+    治／キャラ原案:宮地貴裕／キャラクターデザイン:児山昌弘／メカニックデザイン:小川 浩／作画監督:服部憲知／小沢 実／渡辺義弘<br><br>so32230682←前話　第一話→so32230682
+  length_seconds: 1696
+  content_id: so32230683
+  default_thread_id: 1510020796
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32230683
+cast: "[キャスト]<br>岸波めぐみ:川澄綾子／月島レイカ:岩男潤子／藤原利奈:中川亜紀子／風巻夏美:木村亜希子／柿沼めい:飯塚雅弓／寿リン:吉田小百合／キル:ゆーり／池上才子:そのざきみえ／釣賀ハルキ:笹沼晃／黒斗俊二:伊藤健太郎"
+staff: "[スタッフ]<br>監督・構成:殿勝秀樹／脚本:小出克彦／工藤 治／キャラ原案:宮地貴裕／キャラクターデザイン:児山昌弘／メカニックデザイン:小川
+  浩／作画監督:服部憲知／小沢 実／渡辺義弘"
+produced_year: "[製作年]<br>2001年"
+copyright: "©2001 Softgarage"
+related_seasons: !ruby/array:Hashie::Array []
