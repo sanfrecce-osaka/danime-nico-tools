@@ -21,6 +21,13 @@ class DBDataTask
       target_seasons.each { |season| create_or_update_data(season.to_h) }
     end
 
+    def update_to_not_watchable
+      logger.debug('selecting seasons now...')
+      updated_season_titles = YAMLFile.open(FixtureDataTask::UPDATED_TO_NOT_WATCHABLE_LIST_PATH)
+      target_seasons = Season.where(title: updated_season_titles)
+      target_seasons.each { |season| update_watchable(season) }
+    end
+
     private
 
     def initialize_fixture_season(title)
@@ -66,6 +73,12 @@ class DBDataTask
           episode.update!(attributes)
         end
       end
+    end
+
+    def update_watchable(season, watchable: false)
+      start_log(season.title)
+      season.update!(watchable: watchable)
+      finish_log(season.title)
     end
   end
 end
