@@ -31,7 +31,6 @@ group :development, :test do
   gem 'pry-doc'
   gem 'pry-byebug'
   gem 'pry-stack_explorer'
-  gem 'selenium-webdriver'
 end
 
 group :development do
@@ -65,3 +64,4 @@ gem 'rein'
 gem 'seed-fu', '~> 2.3'
 gem 'bootsnap', require: false
 gem 'hashie-forbidden_attributes'
+gem 'selenium-webdriver'
