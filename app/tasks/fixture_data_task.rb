@@ -11,6 +11,10 @@ class FixtureDataTask
   SEASONS_PATH = "#{SEASONS_DIR}/*.yml"
 
   class << self
+    def execute(task_name)
+      Rake::Task["data:fixtures:#{task_name}"].execute
+    end
+
     def update_not_watchable_seasons
       initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')

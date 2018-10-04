@@ -2,6 +2,10 @@ class DBDataTask
   include HashieCreatable
 
   class << self
+    def execute(task_name)
+      Rake::Task["data:db:#{task_name}"].execute
+    end
+
     def create_uncreated_seasons(season_list = YAMLFile.open(FixtureDataTask::SEASON_LIST_PATH))
       logger.debug('selecting seasons now...')
       target_season_titles =
