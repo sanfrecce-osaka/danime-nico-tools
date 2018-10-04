@@ -219,6 +219,6 @@ produced_year: "[製作年]<br>2017年"
 copyright: "©雲田はるこ・講談社／落語心中協会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: 智一＆勝平の落語放浪記
-- !ruby/hash:SeasonHash
   title: 昭和元禄落語心中
+- !ruby/hash:SeasonHash
+  title: 智一＆勝平の落語放浪記
