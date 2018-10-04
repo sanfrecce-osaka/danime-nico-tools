@@ -32,6 +32,13 @@ class DBDataTask
       target_seasons.each { |season| update_watchable(season) }
     end
 
+    def update_designated_seasons(target_string)
+      initialize_dir(FixtureDataTask::SEASONS_DIR)
+      logger.debug('selecting seasons now...')
+      target_seasons = Season.where('title LIKE ?', "%#{target_string}%")
+      target_seasons.each { |season| create_or_update_season(season.to_h) }
+    end
+
     private
 
     def initialize_fixture_season(title)
