@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 杉山紀彰
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤美紀
+  name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
-  name: 浅川悠
+  name: 伊藤美紀
   type: cast
 - !ruby/hash:TagHash
   name: 門脇舞以
@@ -143,7 +143,7 @@ episodes: !ruby/array:Hashie::Array
   title: "「秋の味覚-キャスター和食修行編-」"
   description: 士郎が商店街を歩いていると、突然後ろから腕を引っ張られる。振り返ると、そこにはキャスターがいた。 料理修行中のキャスターは、士郎にある料理の作り方を教えてほしいようで―。<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
     凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
-    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33622984←前話｜次話→　第一話→so32665992
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33622984←前話｜次話→so33963157　第一話→so32665992
   length_seconds: 750
   content_id: so33815809
   default_thread_id: 1536283447

@@ -1,6 +1,6 @@
 --- !ruby/hash:SeasonHash
 title: しろくまカフェ
-watchable: true
+watchable: false
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/79/8/10798_1_6.png?1427216400000
 outline: クールなシロクマくんがマスターをしている“しろくまカフェ”。お店は毎日、動物や人間のお客さんで大繁盛しています。 カフェを中心に、シロクマくんと常連さんたちが繰り広げるダジャレ&ほっこりスローライフ。今日もとぼけた会話が弾みます。
 tags: !ruby/array:Hashie::Array

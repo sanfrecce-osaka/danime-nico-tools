@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 池田勝
   type: cast
 - !ruby/hash:TagHash
-  name: 平野文
+  name: 江森浩子
   type: cast
 - !ruby/hash:TagHash
-  name: 江森浩子
+  name: 平野文
   type: cast
 - !ruby/hash:TagHash
   name: ささきいさお

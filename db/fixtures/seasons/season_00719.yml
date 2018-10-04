@@ -43,6 +43,12 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：1994年
   type: other
+- !ruby/hash:TagHash
+  name: ゴリラ
+  type: other
+- !ruby/hash:TagHash
+  name: 赤髪
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: ''

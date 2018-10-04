@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/1/21881_1_6.png?1
 outline: 1983年に公開された『はだしのゲン』の続編。原爆の爪痕の残る広島市で、被ばくの後遺症と闘いながら、明るく前向きに生きていこうとするゲンと、親を失いみなし子になってしまった少年らとの心の交流を描く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 森功至
-  type: cast
-- !ruby/hash:TagHash
   name: 青野武
   type: cast
 - !ruby/hash:TagHash
-  name: 中西妙子
+  name: 森功至
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺菜生子
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤正治
   type: cast
 - !ruby/hash:TagHash
   name: 塩屋浩三
@@ -20,13 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中亮一
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤正治
+  name: 中西妙子
   type: cast
 - !ruby/hash:TagHash
-  name: 渡辺菜生子
-  type: cast
-- !ruby/hash:TagHash
-  name: 宮崎一成
+  name: 戸谷公次
   type: cast
 - !ruby/hash:TagHash
   name: 矢田耕司
@@ -35,7 +35,7 @@ tags: !ruby/array:Hashie::Array
   name: 頓宮恭子
   type: cast
 - !ruby/hash:TagHash
-  name: 戸谷公次
+  name: 宮崎一成
   type: cast
 - !ruby/hash:TagHash
   name: 北村弘一
@@ -54,6 +54,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: はだしのゲンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：1980年代

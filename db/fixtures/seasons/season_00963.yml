@@ -1,6 +1,6 @@
 --- !ruby/hash:SeasonHash
 title: 劇場版 デジモンアドベンチャー
-watchable: true
+watchable: false
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/9/20419_1_6.png?1444268750000
 outline: 真夜中のパソコン画面から奇妙な生物・ボタモンが生まれる。不安がる太一をよそに、大喜びの妹・ヒカリ。やがて、ボタモンは“コロモン”、“アグモン”へと進化する！そんな時、デジタルモンスターたちの住んでいるデジタルワールドが出現する。そこへ怪鳥型モンスターがアグモン目掛けて突進してくる。
 tags: !ruby/array:Hashie::Array
