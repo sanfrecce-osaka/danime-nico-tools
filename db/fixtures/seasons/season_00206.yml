@@ -215,12 +215,22 @@ episodes: !ruby/array:Hashie::Array
   episode_no: "＃21"
   title: やきもちガムボール/正義のペン
   description: "＜やきもちガムボール＞「ヤキモチの魂」に取りつかれたガムボールは、ペニーをレズリーにとられたと思い込み、嫌がらせをやめない。ダーウィンやキャリーたちはガムボールを正気に戻そうとするが・・・。＜正義のペン＞バナナジョーがダーウィンが貸したペンを噛んだと思い込んだガムボールは、怒って仕返しをするうち、ジョーの大切な万年筆を壊してしまい・・・。<br><br>TM
-    &amp; © 2018 Cartoon Network.<br><br>so33796327←前話｜次話→　第一話→so32588496"
+    &amp; © 2018 Cartoon Network.<br><br>so33796327←前話｜次話→so33949340　第一話→so32588496"
   length_seconds: 1470
   content_id: so33796328
   default_thread_id: 1535941982
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=33796328
+- !ruby/hash:EpisodeHash
+  episode_no: "＃22"
+  title: 携帯に夢中！/ええっ、パパが仕事！？
+  description: "＜携帯に夢中！＞携帯を購入したガムボールだが、誰からもかかってこないことにがっかり。携帯を渡されたダーウィンはオチョに番号を教え、２人は携帯依存症になってしまう。見かねたガムボールは・・・。＜ええっ、パパが仕事！？＞ひょんなことからパパがピザのデリバリーの仕事をはじめることになるが、なぜかママは素直に喜べない。ママの不安は的中。パパが仕事を始めたせいで宇宙のバランスが崩れてしまったのだった・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33796328←前話　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33949340
+  default_thread_id: 1538378284
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33949340
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []

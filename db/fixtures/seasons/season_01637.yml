@@ -95,6 +95,6 @@ produced_year: "[製作年]<br>2011年"
 copyright: "(C)佐野妙／竹書房"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: 森田さんは無口。
-- !ruby/hash:SeasonHash
   title: 森田さんは無口
+- !ruby/hash:SeasonHash
+  title: 森田さんは無口。

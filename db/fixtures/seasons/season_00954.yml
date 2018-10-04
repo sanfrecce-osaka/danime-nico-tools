@@ -5,7 +5,70 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/7/20387_1_6.png?1
 outline: 逆巻家に居候することになった小森ユイは、ヴァンパイアである逆巻六兄弟に血を奪われる日々をおくっていた。そんなある日――。彼らの前に、新たなヴァンパイア・無神四兄弟があらわれる。彼らはユイのことを“イブ”と呼ぶが、その目的とは一体……？そして“アダム”とは……。今、新たな運命が動き始める――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 岸尾だいすけ
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤隆
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ZEXCS
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：林ゆうき
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：オトメイト
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：八尋裕子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉田りさこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：紗希
+  type: staff
+- !ruby/hash:TagHash
   name: DIABOLIK LOVERSシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: さとい
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -82,10 +145,10 @@ produced_year: "[製作年]<br>2015年"
 copyright: "（C）Rejet・IDEA FACTORY／DIABOLIK LOVERS MB PROJECT"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: 舞台『DIABOLIK LOVERS MORE,BLOOD』
-- !ruby/hash:SeasonHash
-  title: 舞台『DIABOLIK LOVERS～re:requiem～』
+  title: DIABOLIK LOVERS
 - !ruby/hash:SeasonHash
   title: DIABOLIK LOVERS　Episode6.5
 - !ruby/hash:SeasonHash
-  title: DIABOLIK LOVERS
+  title: 舞台『DIABOLIK LOVERS～re:requiem～』
+- !ruby/hash:SeasonHash
+  title: 舞台『DIABOLIK LOVERS MORE,BLOOD』

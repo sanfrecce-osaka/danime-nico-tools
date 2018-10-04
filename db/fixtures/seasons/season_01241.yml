@@ -53,22 +53,21 @@ episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: ''
   title: BURN-UP　バーンナップ
-  description: WARRIORメンバーがブラックダイヤの密輸ルートを追っている頃､マキの元へ死んだはずの恋人からメッセージが届く｡｢ネオ・トーキョー・タワー｣に向かったマキの目の前に現れた人物とは…!?
-    そして謎の組織と黒幕の正体がついに明らかに…! いよいよ最終章､WARRIORのラストバトルが今始まる!!<br><br>利緒:今井由香／真弥:岡本麻弥／リリカ:丹下
-    桜／マキ:金月真美／ユウジ:置鮎龍太郎／ナンベル:天野由梨／ハリー:関 俊彦／ルビー:篠原恵美／長官:若本規夫<br><br>シリーズ構成:小出一巳／キャラクターデザイン・総作画監督:池田裕治／メカニックデザイン:岩倉和憲､高橋英樹／監督:木村真一郎／アニメーション制作:マジックバス／製作:AIC<br><br>so32041186←前話　第一話→so32041160
-  length_seconds: 1545
-  content_id: so32041187
-  default_thread_id: 1507069687
+  description: '人気シリーズの原点となるOVA。頻発する少女誘拐事件の捜査を続けていたTOKYO CITY POLICE DEPERTMENT（通称・CP）は、マッコイの指揮する組織犯罪に対して、決定的な証拠を欠いていた。重いCP内の空気を気にせず、レディポリス3人組のマキ、レイミ、ユカは囮捜査に乗り出すが…。<br><br>マキ:柴田由美子／レイミ:伊藤美紀／ユカ:
+    西原久美子／ケンジ:平松広和／マッコイ:若本規夫／他<br><br>企画原案:井出安軌・神崎 潤／監督・演出:井出安軌／脚本:神崎 潤／キャラクターデザイン:宮崎県人／プロダクションデザイン:田野雅洋／作画監督:田中正弘・本橋秀之・阿部邦博・宮崎県人／音楽:川井憲次／制作:AIC／製作:ビースタック'
+  length_seconds: 2718
+  content_id: so32155159
+  default_thread_id: 1508884658
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32041187
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=32155159
 cast: "[キャスト]<br>マキ:柴田由美子／レイミ:伊藤美紀／ユカ: 西原久美子／ケンジ:平松広和／マッコイ:若本規夫／他"
 staff: "[スタッフ]<br>企画原案:井出安軌・神崎 潤／監督・演出:井出安軌／脚本:神崎 潤／キャラクターデザイン:宮崎県人／プロダクションデザイン:田野雅洋／作画監督:田中正弘・本橋秀之・阿部邦博・宮崎県人／音楽:川井憲次／制作:AIC／製作:ビースタック"
 produced_year: "[製作年]<br>1991年"
 copyright: "(C)AIC/BSK"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: BURN-UP EXCESS バーンナップ エクセス
+  title: BURN-UP SCRAMBLE
 - !ruby/hash:SeasonHash
   title: BURN-UP W　バーンナップ ダブル
 - !ruby/hash:SeasonHash
-  title: BURN-UP SCRAMBLE
+  title: BURN-UP EXCESS バーンナップ エクセス
