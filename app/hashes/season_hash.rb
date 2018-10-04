@@ -30,4 +30,28 @@ class SeasonHash < BaseHash
     return false unless watchable
     %r(次話→) === episodes.last.description
   end
+
+  def add_next_content_id(current_episode, current_overall_number)
+    if episode_without_episode_no_and_title?(current_episode)
+      if current_overall_number == 1
+        season_list = YAMLFile.open(FixtureDataTask::SEASON_LIST_PATH)
+        target_member = season_list.find { |member| member.title == title }
+        self.next_content_id = target_member.first_episode_url[%r(so\d+)]
+      else
+        self.next_content_id = %r(次話→(so\d+)).match(delete(:before_episode).description)[1]
+      end
+    end
+  end
+
+  def add_before_episode(current_episode, current_overall_number)
+    if episode_without_episode_no_and_title?(current_episode) && current_overall_number < episodes.length
+      self.before_episode = current_episode
+    end
+  end
+
+  private
+
+  def episode_without_episode_no_and_title?(episode)
+    title == episode.title && episode.episode_no.blank?
+  end
 end
