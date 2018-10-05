@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 namespace :daily do
   task setup: :environment do
     include TaskExecutable

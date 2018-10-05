@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class DailyTask
   class << self
     def update_fixtures
