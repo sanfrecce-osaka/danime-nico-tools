@@ -13,6 +13,7 @@ module Api
       def add_episode_info(season)
         logger.debug('accessing nico contents search now...')
         return season unless season.watchable
+        return season if season.not_begin_yet?
         season.episodes = season.episodes.map.with_index(1) do |episode, overall_number|
           season.add_next_content_id(episode, overall_number)
           params =

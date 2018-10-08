@@ -9,7 +9,12 @@ class Season < ApplicationRecord
 
   def on_air?
     return false unless watchable
+    return true if not_begin_yet?
     %r(次話→) === episodes.order(:overall_number).last.description
+  end
+
+  def not_begin_yet?
+    watchable && episodes.blank?
   end
 
   def to_h
