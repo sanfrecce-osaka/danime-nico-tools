@@ -28,6 +28,7 @@ class SeasonHash < BaseHash
 
   def on_air?
     return false unless watchable
+    return true if not_begin_yet?
     %r(次話→) === episodes.last.description
   end
 
@@ -47,6 +48,10 @@ class SeasonHash < BaseHash
     if episode_without_episode_no_and_title?(current_episode) && current_overall_number < episodes.length
       self.before_episode = current_episode
     end
+  end
+
+  def not_begin_yet?
+    watchable && episodes.blank?
   end
 
   private

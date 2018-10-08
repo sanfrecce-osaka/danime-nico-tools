@@ -95,7 +95,12 @@ module Scraping
 
       def fetch_episodes
         return unless @season.watchable
-        episode_wrapper = @driver.find_element(:class, 'episodeWrapper')
+        begin
+          episode_wrapper = @driver.find_element(:class, 'episodeWrapper')
+        rescue Selenium::WebDriver::Error::NoSuchElementError => e
+          @season.episodes = []
+          return
+        end
         div, mod = episode_wrapper.find_elements(:class, 'itemModule').length.divmod(10)
         slide_count = (mod == 0) ? div : div + 1
         episodes =
