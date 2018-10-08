@@ -1,0 +1,78 @@
+--- !ruby/hash:SeasonHash
+title: あかねさす少女
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/40/9/22409_1_6.png?1536741008000
+outline: 2018年、10月。ある地方都市に住む少女たちが、とある儀式を行っていた。彼女たちは「鉱石ラヂオ研究会」。明るさが取り柄の女の子、土宮明日架が同じ高校に通う友人たちと立ち上げたサークルだ。その儀式は都市伝説めいたものでしかなかった。——しかし、いくつもの条件が偶然重なり、遊びは遊びでは済まない事態となる——。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 桑島法子
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 小清水亜美
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮本充
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 清川元夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒沢ともよ
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：原田大基
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：玉村仁
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Metal Layer
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ダンデライオンアニメーションスタジオ×十文字
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: ４時４４分の儀式
+  description: 黄金の輝きと漆黒の闇が混ざりあう黄昏時――「4時44分」。明日架、優、みあ、奈々、クロエは、別世界を開くための儀式を行っていた。彼女たちは「鉱石ラヂオ研究会」。恒例の儀式は、失敗するまでがお約束だった。ただひとつ、いつもと違っていたのは、変わった石を拾ったこと。それをきっかけに、ある周波数に辿りついた彼女たちは、再び儀式に挑む。次の瞬間、明日架らの目に映ったもの……それは一面金色の世界。さらに、奇妙な生物に襲われた彼女たちを救ったのは、明日架によく似た、いや、明日架そのものの外見を持つ少女で……!？<br><br>土宮明日架:黒沢ともよ／灯中優:Lynn／みあ・シルバーストーン:東山奈央／七瀬奈々:小清水亜美／森須クロエ:井上麻里奈／橘田蔵人:平川大輔／谷治雄大:山口太郎／千波トモヤ:河西健吾／迫間仁:大塚明夫／氷石紗呂:勝生真沙子／ホワイトゴート:宮本充／月見里真結希:楠木ともり／桜賀輝:河瀬茉希／松朱子:鈴代紗弓／大久保大地:久保田梨沙／アニー真楠田:久保ユリカ／土宮今日平:桑島法子／虻田四億:清川元夢<br><br>原作:Metal
+    Layer／監督:玉村仁／シナリオ原案:打越鋼太郎／シリーズ構成:ヤスカワショウゴ／キャラクター原案:桂正和、浅田弘幸／キャラクターデザイン:原田大基／メインテーマ作曲:伊藤賢治／音響監督:森下広人／音響制作:スタジオマウス／アニメーション制作:ダンデライオンアニメーションスタジオ
+    × 十文字<br><br>©Akanesasu Anime Project<br><br>次話→so33963155
+  length_seconds: 1420
+  content_id: so33948227
+  default_thread_id: 1538359050
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33948227
+cast: "[キャスト]<br>土宮明日架:黒沢ともよ／灯中優:Lynn／みあ・シルバーストーン:東山奈央／七瀬奈々:小清水亜美／森須クロエ:井上麻里奈／橘田蔵人:平川大輔／谷治雄大:山口太郎／千波トモヤ:河西健吾／迫間仁:大塚明夫／氷石紗呂:勝生真沙子／ホワイトゴート:宮本充／月見里真結希:楠木ともり／桜賀輝:河瀬茉希／松朱子:鈴代紗弓／大久保大地:久保田梨沙／アニー真楠田:久保ユリカ／土宮今日平:桑島法子／虻田四億:清川元夢"
+staff: "[スタッフ]<br>原作:Metal Layer／監督:玉村仁／シナリオ原案:打越鋼太郎／シリーズ構成:ヤスカワショウゴ／キャラクター原案:桂正和、浅田弘幸／キャラクターデザイン:原田大基／メインテーマ作曲:伊藤賢治／音響監督:森下広人／音響制作:スタジオマウス／アニメーション制作:ダンデライオンアニメーションスタジオ
+  × 十文字"
+produced_year: "[製作年]<br>2018年"
+copyright: "©Akanesasu Anime Project"
+related_seasons: !ruby/array:Hashie::Array []

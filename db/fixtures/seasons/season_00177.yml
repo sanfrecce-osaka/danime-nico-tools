@@ -149,6 +149,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1536283447
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=33815809
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: "「冷めても美味しいからあげ」"
+  description: 文化祭まであと一週間。一成達生徒会メンバーは、毎日遅くまで続く準備に疲れ果てていた。そんな彼らを見かねた士郎は、差し入れを持っていくことにする。<br><br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂
+    凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀<br><br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable<br><br>©TAa・KADOKAWA・TYPE-MOON
+    / 「衛宮さんちの今日のごはん」製作委員会<br><br>so33815809←前話　第一話→so32665992
+  length_seconds: 750
+  content_id: so33963157
+  default_thread_id: 1538616248
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963157
 cast: "[キャスト]<br>衛宮士郎:杉山紀彰／セイバー:川澄綾子／遠坂 凛:植田佳奈／間桐 桜:下屋則子／ライダー:浅川 悠／イリヤスフィール・フォン・アインツベルン:門脇舞以／藤村大河:伊藤美紀"
 staff: "[スタッフ]<br>原作:「衛宮さんちの今日のごはん」TAa／TYPE-MOON（KADOKAWAヤングエースUP連載）／キャラクター原案:TAa／料理監修:只野まこと／監督:三浦貴博　佐藤哲人／キャラクターデザイン:内村瞳子／脚本制作:ufotable／美術監督:海老沢一男／撮影監督:吉川冴／3D監督:鉄砲塚大樹／色彩設計:大前祐子／牛尾友里恵／編集:神野学／音楽:椎名豪／制作プロデューサー:近藤光／アニメーション制作:ufotable"
 produced_year: "[製作年]<br>2018年"

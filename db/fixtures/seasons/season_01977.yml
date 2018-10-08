@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: "「東京喰種トーキョーグール:re」（第2期）"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/2/22422_1_6.png?1537426903000
+outline: 群衆に紛れ、ヒトの肉を喰らう。ヒトの形をしながら、ヒトとは異なる存在…“喰種（グール）”。“喰種”を駆逐・研究する〔CCG〕で「クインクス」班を率いていた喰種捜査官
+  “佐々木琲世（ささきはいせ）”彼こそ行方不明となっていた眼帯の喰種、“金木 研（かねき けん）”であった。一方、新体制となった〔CCG〕では、旧多二福を中心に不穏な動きが表面化し…“金木
+  研”をめぐる物語はついに最終章へ―――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 岸尾だいすけ
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原夏海
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：studioぴえろ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中嶋敦子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：やまだ豊
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石田スイ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡部穏寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 東京喰種トーキョーグールシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array []
+cast: "[キャスト]<br>佐々木琲世／金木 研（ささき　はいせ／かねき　けん）:花江夏樹（はなえ　なつき）／瓜江久生（うりえ　くき）:石川界人（いしかわ　かいと）／六月　透（むつき　とおる）:藤原夏海（ふじわら　なつみ）／米林才子（よねばやし　さいこ）:佐倉綾音（さくら　あやね）／霧嶋董香（きりしま　とうか）:雨宮
+  天（あまみや　そら）／月山習（つきやま　しゅう）:宮野真守（みやの　まもる）／旧多二福（ふるた　にむら）:岸尾だいすけ（きしお　だいすけ）"
+staff: "[スタッフ]<br>原作:石田スイ（集英社「週刊ヤングジャンプ」連載）／監督:渡部穏寛（わたなべとしのり）／シリーズ構成:御笠ノ忠次／キャラクターデザイン:中嶋敦子／音響監督:原口昇／音楽:やまだ豊／アニメーション制作:studioぴえろ／アニメーション制作協力:studioぴえろ+"
+produced_year: "[製作年]<br>2018年"
+copyright: "©石田スイ／集英社・東京喰種:re製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 東京喰種トーキョーグール
+- !ruby/hash:SeasonHash
+  title: 東京喰種トーキョーグール√A
+- !ruby/hash:SeasonHash
+  title: 東京喰種トーキョーグール：re
+- !ruby/hash:SeasonHash
+  title: OVA東京喰種トーキョーグール【JACK】
+- !ruby/hash:SeasonHash
+  title: OVA東京喰種トーキョーグール【PINTO】

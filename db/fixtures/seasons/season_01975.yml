@@ -1,0 +1,44 @@
+--- !ruby/hash:SeasonHash
+title: でびどる！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/43/2/22432_1_6.png?1537509606000
+outline: 人間界で暮らす3人の悪魔少女アイラ、シマ、はな。努力と友情でキラキラした学園生活を過ごしながらアイドルを目指し、その階段をのぼる胸キュンアニメ……なんてことはなく、「アイドルって何？」とアイドルを知らない彼女たちが試行錯誤しつつ、アイドルへの道に迷走します。それを優しく（時に厳しく⁉
+  ）指導するロケット先生の一風変わったレクチャーで本当のアイドルになれる……はず、な物語です。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: ふかわりょう
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：菅原そうた
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1じかんめ！
+  title: アイドルって食べ物?
+  description: アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／ロケット先生:ふかわりょう<br><br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／
+    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会
+  length_seconds: 840
+  content_id: so33963118
+  default_thread_id: 1538615583
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963118
+cast: "[キャスト]<br>アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／ロケット先生:ふかわりょう"
+staff: "[スタッフ]<br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／ 脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat"
+produced_year: "[製作年]<br>2018年"
+copyright: "©コチンPa!製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
