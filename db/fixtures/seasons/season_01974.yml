@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: 転生したらスライムだった件
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/1/22421_1_6.png?1537430416000
+outline: サラリーマン三上悟は通り魔に刺され死亡し、気がつくと異世界に転生していた。ただし、その姿はスライムだった！リムルという新しいスライム人生を得て、さまざまな種族がうごめくこの世界に放り出され、「種族問わず楽しく暮らせる国作り」を目指すことになる――！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊口めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 日高里菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚芳忠
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川慎
+  type: cast
+- !ruby/hash:TagHash
+  name: 千本木彩花
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本兼平
+  type: cast
+- !ruby/hash:TagHash
+  name: 泊明日菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：Elements Garden
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：エイトビット
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：菊地康仁
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：江畑諒真
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：川上泰樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：伏瀬
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：みっつばー
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 暴風竜ヴェルドラ
+  description: サラリーマン、三上悟は通り魔に刺されて死んだ。ところが意識が戻ると三上はなんとスライムへと転生していた！　しかも300年前に封じられた暴風竜ヴェルドラが話しかけてくる。スライム三上の運命は……！<br><br>リムル:岡咲美保／大賢者:豊口めぐみ／ヴェルドラ:前野智昭／シズ:花守ゆみり／ベニマル:古川
+    慎／シュナ:千本木彩花／シオン:M・A・O／ソウエイ:江口拓也／ハクロウ:大塚芳忠／リグルド:山本兼平／ゴブタ:泊 明日菜／ランガ:小林親弘／トレイニー:田中理恵／ミリム:日高里菜<br><br>原作:川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』(講談社「月刊少年シリウス」連載)／監督:菊地康仁／副監督:中山敦史／シリーズ構成:筆安一幸／キャラクターデザイン:江畑諒真／モンスターデザイン:岸田隆宏／美術監督:佐藤
+    歩／美術設定:藤瀬智康、佐藤正浩／色彩設計:斉藤麻記／撮影監督:佐藤 洋／グラフィックデザイナー:生原雄次／編集:神宮司由美／音響監督:明田川 仁／音楽:Elements
+    Garden／アニメーション制作:エイトビット<br><br>©川上泰樹・伏瀬・講談社／転スラ製作委員会
+  length_seconds: 1441
+  content_id: so33955094
+  default_thread_id: 1538472065
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33955094
+cast: "[キャスト]<br>リムル:岡咲美保／大賢者:豊口めぐみ／ヴェルドラ:前野智昭／シズ:花守ゆみり／ベニマル:古川 慎／シュナ:千本木彩花／シオン:M・A・O／ソウエイ:江口拓也／ハクロウ:大塚芳忠／リグルド:山本兼平／ゴブタ:泊
+  明日菜／ランガ:小林親弘／トレイニー:田中理恵／ミリム:日高里菜"
+staff: "[スタッフ]<br>原作:川上泰樹・伏瀬・みっつばー『転生したらスライムだった件』(講談社「月刊少年シリウス」連載)／監督:菊地康仁／副監督:中山敦史／シリーズ構成:筆安一幸／キャラクターデザイン:江畑諒真／モンスターデザイン:岸田隆宏／美術監督:佐藤
+  歩／美術設定:藤瀬智康、佐藤正浩／色彩設計:斉藤麻記／撮影監督:佐藤 洋／グラフィックデザイナー:生原雄次／編集:神宮司由美／音響監督:明田川 仁／音楽:Elements
+  Garden／アニメーション制作:エイトビット"
+produced_year: "[製作年]<br>2018年"
+copyright: "©川上泰樹・伏瀬・講談社／転スラ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

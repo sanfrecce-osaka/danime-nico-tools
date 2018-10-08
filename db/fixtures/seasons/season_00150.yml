@@ -98,4 +98,6 @@ cast: "[キャスト]<br>スバル・イチノセ:石川界人／イスズ・イ
 staff: "[スタッフ]<br>原作:宮川サトシ　伊藤亰（新潮社「くらげバンチ」連載）／監督:博史池畠／シリーズ構成・脚本:佐藤裕／キャラクターデザイン・総作画監督:横山愛／アニメーション制作:ＧＯＮＺＯ"
 produced_year: "[製作年]<br>2018年"
 copyright: "© 宮川サトシ 伊藤亰・新潮社／「宇宙戦艦ティラミス」製作委員会"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 宇宙戦艦ティラミスII

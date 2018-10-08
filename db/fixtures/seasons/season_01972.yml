@@ -1,0 +1,61 @@
+--- !ruby/hash:SeasonHash
+title: ソラとウミのアイダ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/0/22420_1_6.png?1538017206000
+outline: ある日、海から魚が消えた。水産省はかねてより計画していた「宇宙イケス」の試験運用をスタート。尾道には「尾道宇宙漁業団」が設立され、宇宙漁師が育成された。そして近年、男女雇用機会均等法の強化によって、「漁師にも女性を」という声が高まり、6人の新米宇宙漁師候補生が選ばれた。舞台は尾道、目指すは宇宙。これは宇宙漁師を目指す6人の成長を描いた物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 立花理香
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上ほの花
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋花林
+  type: cast
+- !ruby/hash:TagHash
+  name: すずきももこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 米野真織
+  type: cast
+- !ruby/hash:TagHash
+  name: 神坂みお
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：広井王子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：橘麻美
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：濁川敦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山本周平
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：フォワードワークス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 宇宙でサカナをとっちゃうぞ！
+  description: 広島県の尾道駅に、ひとりの少女が降り立った。名前は空町春。女性初の宇宙漁師になるため、候補生の一員としてやってきたのだ。ところが、一足先に尾道で訓練をつんでいた同じ候補生の村上波乃と薪真紀子の勘違いによって、いきなり宇宙漁へ出発するはめに。訳も分からないまま、春を乗せたロケットが宇宙へ飛び立つ！<br><br>空町春:高橋花林／村上波乃:立花理香／ルビー・安曇:井上ほの花／櫻舞湖:すずきももこ／薪真紀子:米野真織／美剣真:神坂みお<br><br>監督:濁川敦／シリーズ構成:山田隆司／原作キャラクターデザイン:植田和幸／アニメーションキャラクターデザイン:山本周平／メカニックデザイン:いしはらいくろう／音楽:橘麻美／音響監督:今泉雄一／原作:広井王子/フォワードワークス／制作:トムス・エンタテインメント<br><br>©ForwardWorks
+    Corporation/ソラウミ製作委員会
+  length_seconds: 1420
+  content_id: so33958479
+  default_thread_id: 1538532543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33958479
+cast: "[キャスト]<br>空町春:高橋花林／村上波乃:立花理香／ルビー・安曇:井上ほの花／櫻舞湖:すずきももこ／薪真紀子:米野真織／美剣真:神坂みお"
+staff: "[スタッフ]<br>監督:濁川敦／シリーズ構成:山田隆司／原作キャラクターデザイン:植田和幸／アニメーションキャラクターデザイン:山本周平／メカニックデザイン:いしはらいくろう／音楽:橘麻美／音響監督:今泉雄一／原作:広井王子/フォワードワークス／制作:トムス・エンタテインメント"
+produced_year: "[製作年]<br>2018年"
+copyright: "©ForwardWorks Corporation/ソラウミ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
