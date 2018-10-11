@@ -14,20 +14,29 @@ nav
       padding: 0
       margin: 0
 
-      &:hover
-        background-color: lighten($main-color, 10%)
-
-      &.current-button
-        background-color: darken($main-color, 30%)
-
       a
         display: flex
+        flex-flow: column nowrap
         height: 70px
         cursor: pointer
         justify-content: center
         align-items: center
         color: lighten($base-color, 40%)
+        border-bottom: lightgray 1px solid
+
+        p
+          font-size: 14px
+
+        &.current-nav-link
+          background-color: darken($main-color, 30%)
+          border-bottom: lightgray 1px solid
+
+          &:hover
+            background-color: darken($main-color, 20%)
+            border-bottom: lightgray 1px solid
 
         &:hover
+          background-color: lighten($main-color, 10%)
+          border-bottom: lightgray 1px solid
           color: lighten($base-color, 40%)
           text-decoration: none

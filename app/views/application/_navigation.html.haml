@@ -1,8 +1,10 @@
 %nav
   %ul
     %li
-      = link_to do
+      = link_to :root, class: "#{current_nav_link(%r(^home))}" do
         %i.fas.fa-home.fa-2x
-    %li.current-button
-      = link_to do
+        %p ホーム
+    %li
+      = link_to :animes, class: "#{current_nav_link(%r(^animes))}" do
         %i.fas.fa-search.fa-2x
+        %p 検索
