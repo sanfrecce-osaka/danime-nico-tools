@@ -48,6 +48,7 @@ group :test do
   gem 'capybara'
   gem 'launchy'
   gem 'shoulda-matchers'
+  gem 'chromedriver-helper'
 end
 
 group :production do
