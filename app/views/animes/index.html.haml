@@ -1,76 +1,38 @@
 .contents__header.with-search-field
   %h2 検索
-  .search-field
-    = text_field_tag :animes, '', placeholder: '検索', class: 'form-control'
+  = render 'layouts/overall_search_form', search_form: @search_form
 .contents__body
   %ul.target-items
     %li.target-item
       .target-item__header
-        %h3 シリーズの検索結果
+        - if @search_form.keywords.present?
+          %h3 作品の検索結果
+        - else
+          %h3 作品一覧
       %ul.list-group.target-item__body
+        - @seasons.each do |season|
+          %li.list-group-item.list-group-item-action
+            = link_to '' do
+              = image_tag season.thumbnail_url, alt: 'Card image cap'
+              = season.title
         %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '詳しく見る', ''
+          = link_to 'もっと作品を探す', ''
     %li.target-item
       .target-item__header
-        %h3 作品の検索結果
-      %ul.list-group.target-item__body
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '愛少女ポリアンナ物語', ''
-        %li.list-group-item.list-group-item-action
-          = link_to '詳しく見る', ''
-    %li.target-item
-      .target-item__header
-        %h3 動画の検索結果
+        - if @search_form.keywords.present?
+          %h3 動画の検索結果
+        - else
+          %h3 動画一覧
       %ul.list-group.target-item__body
         %li.list-group-item
           %ul.video-items
-            %li.card.video-item
-              = link_to '', class: 'video-item__link-to-video' do
-                .video-item__thumbnail
-                  = image_tag 'http://tn.smilevideo.jp/smile?i=32453208', alt: 'Card image cap'
-                %h4.video-item__title 「鬼灯の冷徹」OAD　第1話　マニアと非マニアの温度差/コンコン野干　大判小判
-              = link_to '詳細', '', class: 'video-item__link-to-detail'
-            %li.card.video-item
-              = link_to '', class: 'video-item__link-to-video' do
-                .video-item__thumbnail
-                  = image_tag 'http://tn.smilevideo.jp/smile?i=32453208', alt: 'Card image cap'
-                %h4.video-item__title 「鬼灯の冷徹」OAD　第1話　マニアと非マニアの温度差/コンコン野干　大判小判
-              = link_to '詳細', '', class: 'video-item__link-to-detail'
-            %li.card.video-item
-              = link_to '', class: 'video-item__link-to-video' do
-                .video-item__thumbnail
-                  = image_tag 'http://tn.smilevideo.jp/smile?i=32453208', alt: 'Card image cap'
-                %h4.video-item__title 「鬼灯の冷徹」OAD　第1話　マニアと非マニアの温度差/コンコン野干　大判小判
-              = link_to '詳細', '', class: 'video-item__link-to-detail'
-            %li.card.video-item
-              = link_to '', class: 'video-item__link-to-video' do
-                .video-item__thumbnail
-                  = image_tag 'http://tn.smilevideo.jp/smile?i=32453208', alt: 'Card image cap'
-                %h4.video-item__title 「鬼灯の冷徹」OAD　第1話　マニアと非マニアの温度差/コンコン野干　大判小判
-              = link_to '詳細', '', class: 'video-item__link-to-detail'
-            %li.card.video-item
-              = link_to '', class: 'video-item__link-to-video' do
-                .video-item__thumbnail
-                  = image_tag 'http://tn.smilevideo.jp/smile?i=32453208', alt: 'Card image cap'
-                %h4.video-item__title 「鬼灯の冷徹」OAD　第1話　マニアと非マニアの温度差/コンコン野干　大判小判
-              = link_to '詳細', '', class: 'video-item__link-to-detail'
+            - @episodes.each do |episode|
+              %li.card.video-item
+                = link_to '', class: 'video-item__link-to-video' do
+                  .video-item__thumbnail
+                    = image_tag episode.thumbnail_url, alt: 'Card image cap'
+                  %h4.video-item__title
+                    = "#{episode.season.title}　#{episode.number_in_season}"
+                = link_to '詳細', '', class: 'video-item__link-to-detail'
         %li.list-group-item.list-group-item-action
-          = link_to '詳しく見る', ''
+          = link_to 'もっと動画を探す', ''

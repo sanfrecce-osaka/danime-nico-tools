@@ -66,3 +66,4 @@ gem 'seed-fu', '~> 2.3'
 gem 'bootsnap', require: false
 gem 'hashie-forbidden_attributes'
 gem 'selenium-webdriver'
+gem 'ransack'
