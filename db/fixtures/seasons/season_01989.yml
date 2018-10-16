@@ -1,0 +1,74 @@
+--- !ruby/hash:SeasonHash
+title: 狐狸之声
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/44/1/22441_1_6.png?1538364675000
+outline: 顔を隠してゴーストシンガーをするフーリ。顔は良いが歌はからっきしのアイドル、コンチュエ。2人はいがみ合いながらも、ライバルたちと競い合いながら芸能界の階段を上っていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村昴
+  type: cast
+- !ruby/hash:TagHash
+  name: 河西健吾
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田玲奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 香里有佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 青木志貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 元吉有希子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：於地紘仁
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：つなきあき
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ゆめ太カンパニー
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 偽りの声
+  description: 苦しい生活を支えるため日々バイトに追われる高校生フーリは、テレビの中で華麗に歌い踊るアイドルシンガーコンチュエを、いつも暗いまなざしで見ていた。コンチュエが歌番組に出演する日、テレビ局でのバイトを終えたフーリは、「これからが俺の本番だ」と呟き姿を消す。コンチュエのステージが始まる。フーリはいったい何をしようとしているのか…。<br><br>フーリ:河西健吾／コンチュエ:菅沼久義／ジーホティエン:日野聡／チュユン:香里有佐／キム社長:速水奨／ホンイェ:元吉有希子／シュアル:前田玲奈／ユシン:青木志貴／ジャンヤオ:木村昴<br><br>監督:於地紘仁／シリーズ構成:成田良美／キャラクターデザイン:つなきあき／アニメーション制作:ゆめ太カンパニー<br><br>©IQIYI/VOICE
+    OF FOX<br><br>次話→so33968989
+  length_seconds: 795
+  content_id: so33963160
+  default_thread_id: 1538616246
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963160
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 誰かが見ている
+  description: ＳＫＹと名乗る謎の人物からのメールに動揺するフーリ。彼がコンチュエのゴーストシンガーをしているのは、事故で意識不明のまま入院している母の治療費を稼ぐためだった。ＳＫＹとはいったい何者なのか。常に監視されているようで、学校でも心休まることはなかった。そんな時、幼馴染みの人気アイドルチュユンが級友とトラブルになり…。<br><br>フーリ:河西健吾／コンチュエ:菅沼久義／ジーホティエン:日野聡／チュユン:香里有佐／キム社長:速水奨／ホンイェ:元吉有希子／シュアル:前田玲奈／ユシン:青木志貴／ジャンヤオ:木村昴<br><br>監督:於地紘仁／シリーズ構成:成田良美／キャラクターデザイン:つなきあき／アニメーション制作:ゆめ太カンパニー<br><br>©IQIYI/VOICE
+    OF FOX<br><br>so33963160←前話｜次話→so34026300　第一話→so33963160
+  length_seconds: 795
+  content_id: so33968989
+  default_thread_id: 1538723703
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33968989
+cast: "[キャスト]<br>フーリ:河西健吾／コンチュエ:菅沼久義／ジーホティエン:日野聡／チュユン:香里有佐／キム社長:速水奨／ホンイェ:元吉有希子／シュアル:前田玲奈／ユシン:青木志貴／ジャンヤオ:木村昴"
+staff: "[スタッフ]<br>監督:於地紘仁／シリーズ構成:成田良美／キャラクターデザイン:つなきあき／アニメーション制作:ゆめ太カンパニー"
+produced_year: "[製作年]<br>2018年"
+copyright: "©IQIYI/VOICE OF FOX"
+related_seasons: !ruby/array:Hashie::Array []

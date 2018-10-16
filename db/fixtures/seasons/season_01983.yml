@@ -1,0 +1,54 @@
+--- !ruby/hash:SeasonHash
+title: アニマエール！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/6/22416_1_6.png?1538113042000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 松井恵理子
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石晴香
+  type: cast
+- !ruby/hash:TagHash
+  name: 井澤美香子
+  type: cast
+- !ruby/hash:TagHash
+  name: 尾崎由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 楠木ともり
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田唯菜
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：天﨑まなむ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐藤雅子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：卯花つかさ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: はじめてのチア
+  description: 人の力になることが大好きな「鳩谷こはね」は、中学の終わりに河川敷で見たチアリーディングに魅了され、高校でチア部に入部することを決意する。しかしこはねが通う高校にはチア部がなかったのであった。失意に暮れる中こはねは河川敷で見たチアのメンバー「有馬ひづめ」に偶然校内で出会い…。<br><br>鳩谷こはね:尾崎由香／有馬ひづめ:山田唯菜／猿渡宇希:井澤美香子／舘島虎徹:楠木ともり／牛久花和:白石晴香／犬養先生:松井恵理子<br><br>監督:佐藤雅子／原作:卯花つかさ（芳文社「まんがタイムきららキャラット」連載）／シリーズ構成・脚本:志茂文彦／キャラクターデザイン:天﨑まなむ／制作:動画工房<br><br>©卯花つかさ・芳文社／アニマエール！製作委員会
+  length_seconds: 1420
+  content_id: so34000395
+  default_thread_id: 1539220045
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34000395
+cast: "[キャスト]<br>鳩谷こはね:尾崎由香／有馬ひづめ:山田唯菜／猿渡宇希:井澤美香子／舘島虎徹:楠木ともり／牛久花和:白石晴香／犬養先生:松井恵理子"
+staff: "[スタッフ]<br>監督:佐藤雅子／原作:卯花つかさ（芳文社「まんがタイムきららキャラット」連載）／シリーズ構成・脚本:志茂文彦／キャラクターデザイン:天﨑まなむ／制作:動画工房"
+produced_year: "[製作年]<br>2018年"
+copyright: "©卯花つかさ・芳文社／アニマエール！製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

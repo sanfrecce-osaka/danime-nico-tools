@@ -1,0 +1,69 @@
+--- !ruby/hash:SeasonHash
+title: 俺が好きなのは妹だけど妹じゃない
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/40/0/22400_1_6.png?1537344041000
+outline: ライトノベル作家を目指す高校生・永見祐には、涼花という妹がいる。涼花は才色兼備の優等生だが、兄には厳しくどこか冷たかった。ある日、ラノベ大賞では万年一次選考落ちの祐に衝撃の事実が明かされる。涼花が書いた“兄妹イチャイチャラブコメ”がラノベ大賞を受賞したというのだ！しかも、ラノベや萌えが実は全く分からないという涼花の頼みで、なぜか祐が代理の作家・永遠野誓(とわのちかい)として活動することに！
+  不本意ながらも作家デビューを果たした祐は、個性的な業界関係者たちに揉まれながら、妹のために永遠野誓として奮闘していく。そして、お兄ちゃんラブな雰囲気は微塵も見せていなかった涼花が……!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 小倉唯
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤﨑千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 畠中祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒浪和沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤玲奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：MAGES.
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAZ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：古川博之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：古川博之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：やしきん
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：恵比須清司
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAZ×マギア・ドラグリエ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 俺と妹がラノベ作家になった理由
+  description: ライトノベル作家を目指す高校生・永見祐は、ある日、妹の涼花から衝撃の事実を告白される。なんと祐が万年一次選考止まりだったラノベ大賞を涼花が受賞したというのだ！<br><br>永見
+    祐:畠中 祐／永見涼花:近藤玲奈／氷室 舞:小倉 唯／アヘ顔Wピース先生:赤﨑千夏／水無月 桜:荒浪和沙<br><br>原作:恵比須清司／原作イラスト：ぎん太郎（株式会社KADOKAWA
+    ファンタジア文庫刊）／監督・キャラクターデザイン:古川博之／シリーズ構成:百瀬祐一郎／総作画監督:古川博之・大野 勉／プロップデザイン:宮 暁秀／美術監督:三宅昌和／色彩設計:柳澤久美子／撮影監督:今泉秀樹／編集:柳
+    圭介／音響監督:小泉紀介／音響効果:倉橋裕宗／音楽:やしきん／音楽制作:MAGES.／アニメーション制作:NAZ×マギア・ドラグリエ／製作:いもいも製作委員会<br><br>©2018
+    恵比須清司・ぎん太郎／KADOKAWA／いもいも製作委員会
+  length_seconds: 1430
+  content_id: so33995860
+  default_thread_id: 1539134104
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33995860.1289
+cast: "[キャスト]<br>永見 祐:畠中 祐／永見涼花:近藤玲奈／氷室 舞:小倉 唯／アヘ顔Wピース先生:赤﨑千夏／水無月 桜:荒浪和沙"
+staff: "[スタッフ]<br>原作:恵比須清司／原作イラスト：ぎん太郎（株式会社KADOKAWA ファンタジア文庫刊）／監督・キャラクターデザイン:古川博之／シリーズ構成:百瀬祐一郎／総作画監督:古川博之・大野
+  勉／プロップデザイン:宮 暁秀／美術監督:三宅昌和／色彩設計:柳澤久美子／撮影監督:今泉秀樹／編集:柳 圭介／音響監督:小泉紀介／音響効果:倉橋裕宗／音楽:やしきん／音楽制作:MAGES.／アニメーション制作:NAZ×マギア・ドラグリエ／製作:いもいも製作委員会"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2018 恵比須清司・ぎん太郎／KADOKAWA／いもいも製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

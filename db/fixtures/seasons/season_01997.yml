@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: ゾンビランドサガ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/1/22411_1_6.png?1538102045000
+outline: いつもの朝。いつもの音楽。いつもの自分。7人の少女たちの安寧は、突如崩壊する。死して蠢く、ゾンビによって……否応なく踏み込んだ世界、そこは“最高×最悪のゾンビワールド”少女たちの願いは、たった一つ。「私たち、生きたい。」これは、少女達が起こす奇跡の物語(サガ)。MAPPA×エイベックス・ピクチャーズ×Cygamesの３社が偶然にも手掛けた100％肉汁オリジナルアニメが誕生！年齢も性別も時代も超えて、びんびんに刺激する『新感覚ゾンビ系アニメ』の幕がいま上がる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 本渡楓
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中美海
+  type: cast
+- !ruby/hash:TagHash
+  name: 高戸靖広
+  type: cast
+- !ruby/hash:TagHash
+  name: 田野アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 衣川里佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 河瀬茉希
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高梨康治
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：MAPPA
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：エイベックス・ピクチャーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：深川可純
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：境宗久
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: グッドモーニング SAGA
+  description: その生きる屍は、ある洋館でひっそりと目覚めた。それはただ、自分が誰かも、その場所がどこかも、何もわからぬまま、徘徊するのみ。やがて生きる屍は、恐るべき現実を目の当たりにし、自らの運命を告げられる。偽りの仮面をかぶり、闇の中を歩き続けるしかないのだと。そして、生きる屍に天からの光が差した時、人々は聞くだろう。狂乱の中に響き渡る叫びを。その、破滅の叫びを。―――――《巽幸太郎》の日記より<br><br>巽
+    幸太郎:宮野 真守／源 さくら:本渡 楓／二階堂 サキ:田野 アサミ／水野 愛:種田 梨沙／紺野 純子:河瀬 茉希／ゆうぎり:衣川 里佳／星川 リリィ:田中
+    美海／山田 たえ:？／警察官Ａ:吉野 裕行／ロメロ:高戸 靖広<br><br>原作:広報広聴課ゾンビ係／監督:境 宗久／シリーズ構成:村越 繋／キャラクターデザイン:深川
+    可純／美術監督:小倉 一男／撮影監督:柳田 貴志／色彩設計:佐々木 梓／編集:後藤 正浩／音楽:高梨 康治／音楽制作:エイベックス・ピクチャーズ／音響監督:境
+    宗久／音響制作:dugout／アニメーション制作:MAPPA<br><br>©ゾンビランドサガ製作委員会<br><br>次話→so33963153
+  length_seconds: 1420
+  content_id: so33963154
+  default_thread_id: 1538616725
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963154.20065
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: I♡HIPHOP SAGA
+  description: ただのゾンビィだったメンバー全員が自我に目覚め、《さくら》も安心したようだ。ようやくここからアイドルグループとしての活動を始められる。まずは、あいつらにゾンビィバレをした時の恐怖を叩きこまなければ。グループ名も『デス娘（仮）』だと方向性が偏りそうなので、今変えてしまおう。思い付かないので、今度にしよう。あとは、アイドルグループにふさわしい初舞台の用意だ。何か良いイベントはないものか。―――――《巽幸太郎》の日記より<br><br>巽
+    幸太郎:宮野 真守／源 さくら:本渡 楓／二階堂 サキ:田野 アサミ／水野 愛:種田 梨沙／紺野 純子:河瀬 茉希／ゆうぎり:衣川 里佳／星川 リリィ:田中
+    美海／山田 たえ:？／警察官Ａ:吉野 裕行／ロメロ:高戸 靖広<br><br>原作:広報広聴課ゾンビ係／監督:境 宗久／シリーズ構成:村越 繋／キャラクターデザイン:深川
+    可純／美術監督:小倉 一男／撮影監督:柳田 貴志／色彩設計:佐々木 梓／編集:後藤 正浩／音楽:高梨 康治／音楽制作:エイベックス・ピクチャーズ／音響監督:境
+    宗久／音響制作:dugout／アニメーション制作:MAPPA<br><br>©ゾンビランドサガ製作委員会<br><br>so33963154←前話｜次話→so34021951　第一話→so33963154
+  length_seconds: 1419
+  content_id: so33963153
+  default_thread_id: 1538616493
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963153
+cast: "[キャスト]<br>巽 幸太郎:宮野 真守／源 さくら:本渡 楓／二階堂 サキ:田野 アサミ／水野 愛:種田 梨沙／紺野 純子:河瀬 茉希／ゆうぎり:衣川
+  里佳／星川 リリィ:田中 美海／山田 たえ:？／警察官Ａ:吉野 裕行／ロメロ:高戸 靖広"
+staff: "[スタッフ]<br>原作:広報広聴課ゾンビ係／監督:境 宗久／シリーズ構成:村越 繋／キャラクターデザイン:深川 可純／美術監督:小倉 一男／撮影監督:柳田
+  貴志／色彩設計:佐々木 梓／編集:後藤 正浩／音楽:高梨 康治／音楽制作:エイベックス・ピクチャーズ／音響監督:境 宗久／音響制作:dugout／アニメーション制作:MAPPA"
+produced_year: "[製作年]<br>2018年"
+copyright: "©ゾンビランドサガ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

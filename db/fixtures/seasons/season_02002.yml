@@ -1,0 +1,104 @@
+--- !ruby/hash:SeasonHash
+title: FAIRY TAIL ファイナルシリーズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/2/22412_1_6.png?1538112948000
+outline: 闇ギルド「冥府の門」との激闘、そして育ての親である＜火竜イグニール＞との哀しい別れを経たナツは、更に強くなるべく、相棒のハッピーを連れて修行の旅へ出た。一方、「妖精の尻尾（フェアリーテイル）」のマスター・マカロフは、何の前触れもなく一方的にギルド解散命令を出し、自身も行方をくらましてしまう。それから約１年･･･、ルーシィは記者見習いの仕事をしながら、大陸中に散らばったかつての仲間たちの情報を集めていた。そして年に一度の「大魔闘演武」の取材をしていたある日、ルーシィの前に修行を終えたナツが現れる！魔導士ギルド「妖精の尻尾」の復活を掲げ、想いを一つに、ナツ・ルーシィ・ハッピーによる仲間探しの旅が始まるのだった!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高梨康治
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石平信司
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ブリッジ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：真島ヒロ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：竹内進二
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：佐野聡彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第278話
+  title: 蛇姫の鱗（ラミアスケイル）感謝祭
+  description: 妖精の尻尾（フェアリーテイル）が解散してから一年後の大魔闘演武で、ルーシィと再会を果たしたナツとハッピー。三人はフェアリーテイル再建を掲げて仲間探しの旅に出る。ルーシィの案内によって訪れたマーガレットの街では、蛇姫の鱗（ラミアスケイル）が感謝祭を催していた。そこで見たかつての仲間の変わりように、ナツとハッピーは言葉を失ってしまうのだった。<br><br>ナツ:柿原徹也／ルーシィ:平野
+    綾／ハッピー:釘宮理恵／グレイ:中村悠一／エルザ:大原さやか／ウェンディ:佐藤聡美／シャルル:堀江由衣／マカロフ:辻 親八／ミラジェーン:小野涼子／ガジル:羽多野
+    渉／パンサーリリー:東地宏樹／ジュビア:中原麻衣／ラクサス:小西克幸／メイビス:能登麻美子／ゼレフ:石田 彰  ほか<br><br>原作:真島ヒロ（講談社「週刊少年マガジン」所載）／監督:石平信司／シリーズ構成:十川誠志／キャラクターデザイン:竹内進二
+    / 佐野聡彦／総作画監督:佐野聡彦 / 中山初絵 / 森本由布希 / 福島 勇／デザインワークス:黒崎隼人／美術監督:川口正明／美術設定:川井 憲／色彩設計:川上善美／撮影監督:岩崎
+    敦／編集:邊見俊夫／音響監督:はたしょう二／音楽:高梨康治／アニメーション制作:A-1 Pictures / ブリッジ／製作:フェアリーテイル製作委員会<br><br>©真島ヒロ・講談社／フェアリーテイル製作委員会・テレビ東京<br><br>次話→so34005680
+  length_seconds: 1430
+  content_id: so33963152
+  default_thread_id: 1538616488
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963152.52925
+- !ruby/hash:EpisodeHash
+  episode_no: 第279話
+  title: 愛しているから
+  description: マーガレットの街に魔物の大群を放ち、夜襲を仕掛けてきた魔導士ギルド・蛇鬼の鰭（オロチノフィン）。リオンやルーシィが街に侵入してきた魔物を退治する一方、敵の本隊を叩くために空を駆ける天空シスターズのウェンディとシェリア。敵の隙をつき、奇襲をかけることに成功した二人だったが、そこで彼女たちを待ち構えていたのは思いもよらぬ強敵だった。<br><br>ナツ:柿原徹也／ルーシィ:平野
+    綾／ハッピー:釘宮理恵／グレイ:中村悠一／エルザ:大原さやか／ウェンディ:佐藤聡美／シャルル:堀江由衣／マカロフ:辻 親八／ミラジェーン:小野涼子／ガジル:羽多野
+    渉／パンサーリリー:東地宏樹／ジュビア:中原麻衣／ラクサス:小西克幸／メイビス:能登麻美子／ゼレフ:石田 彰  ほか<br><br>原作:真島ヒロ（講談社「週刊少年マガジン」所載）／監督:石平信司／シリーズ構成:十川誠志／キャラクターデザイン:竹内進二
+    / 佐野聡彦／総作画監督:佐野聡彦 / 中山初絵 / 森本由布希 / 福島 勇／デザインワークス:黒崎隼人／美術監督:川口正明／美術設定:川井 憲／色彩設計:川上善美／撮影監督:岩崎
+    敦／編集:邊見俊夫／音響監督:はたしょう二／音楽:高梨康治／アニメーション制作:A-1 Pictures / ブリッジ／製作:フェアリーテイル製作委員会<br><br>©真島ヒロ・講談社／フェアリーテイル製作委員会・テレビ東京<br><br>so33963152←前話　第一話→so33963152
+  length_seconds: 1429
+  content_id: so34005680
+  default_thread_id: 1539306552
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005680
+cast: "[キャスト]<br>ナツ:柿原徹也／ルーシィ:平野 綾／ハッピー:釘宮理恵／グレイ:中村悠一／エルザ:大原さやか／ウェンディ:佐藤聡美／シャルル:堀江由衣／マカロフ:辻
+  親八／ミラジェーン:小野涼子／ガジル:羽多野 渉／パンサーリリー:東地宏樹／ジュビア:中原麻衣／ラクサス:小西克幸／メイビス:能登麻美子／ゼレフ:石田 彰 ほか"
+staff: "[スタッフ]<br>原作:真島ヒロ（講談社「週刊少年マガジン」所載）／監督:石平信司／シリーズ構成:十川誠志／キャラクターデザイン:竹内進二 / 佐野聡彦／総作画監督:佐野聡彦
+  / 中山初絵 / 森本由布希 / 福島 勇／デザインワークス:黒崎隼人／美術監督:川口正明／美術設定:川井 憲／色彩設計:川上善美／撮影監督:岩崎 敦／編集:邊見俊夫／音響監督:はたしょう二／音楽:高梨康治／アニメーション制作:A-1
+  Pictures / ブリッジ／製作:フェアリーテイル製作委員会"
+produced_year: "[製作年]<br>2018年"
+copyright: "©真島ヒロ・講談社／フェアリーテイル製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []
