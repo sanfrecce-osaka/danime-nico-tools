@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: BAKUMATSU
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/43/0/22430_1_6.png?1538708407000
+outline: 時は幕末。日の本の未来を憂い、各々の信念に従い突き進む志士たちが魂を燃やす時代。長州の風雲児・高杉晋作は、相棒の桂小五郎とともに徳川慶喜率いる幕府海軍船に潜り込もうとしていた。目指すは「刻(とき)を操る力」があるという伝説の秘宝、“時辰儀(じしんぎ)”。他ならぬ幕府がその力を我が物にせんとしていると耳にした高杉は『そんなやり方、つまんねぇ！』と時辰儀の破壊を企てる。一度は時辰儀を手にする高杉らだったが何者かに奪われ、追って向かうは慶喜のいる京の都。だが、そこで目にしたのは異様な姿で君臨する“巨城スサノオ”だった。自分たちが知る様相とは全く異なる町並み、民たちの様子に戸惑う高杉たち。そこは、仮面の将軍・無限斎(むげんさい)に支配された、「もう一つの幕末(BAKUMATSU)」だった。本当に守りたいものは、刻を超えても変わらない――。熱き志を持った男たちによる全力の“イキザマ”を描く物語が今、幕を開ける！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 代永翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 武内駿輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島ヨシキ
+  type: cast
+- !ruby/hash:TagHash
+  name: 染谷俊之
+  type: cast
+- !ruby/hash:TagHash
+  name: 多田啓太
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：島村秀一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡辺正樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：川﨑龍
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: スサノオ事変勃発　もうひとつのバクマツ！
+  description: 時は幕末。日の本の未来を憂い、各々の信念に従い突き進む志士たちが魂を燃やす時代。長州の風雲児・高杉晋作は、相棒の桂小五郎とともに幕府海軍船に潜り込もうとしていた。目指すは「刻(とき)を操る力」があるという伝説の秘宝、“時辰儀(じしんぎ)”。他ならぬ幕府がその力を我が物にせんとしていると耳にした高杉は、『そんなやり方、つまんねぇ！』と時辰儀を破壊しようとするが――。<br><br>高杉晋作:中村悠一／桂小五郎:江口拓也／坂本龍馬:三木眞一郎／岡田以蔵:松岡禎丞／土方歳三:染谷俊之／近藤
+    勇:佐藤拓也／沖田総司:代永 翼／斎藤 一:多田啓太／徳川慶喜:鈴木達央／山崎 烝:八代 拓／帝:武内駿輔／晴明:中島ヨシキ<br><br>原案:「恋愛幕末カレシ～時の彼方で花咲く恋～」（フリュー）／監督:渡辺正樹／助監督:齋藤昭裕／シリーズ構成:横谷昌宏／アニメキャラクター原案:夏生／アニメキャラクターデザイン:島村秀一／色彩設計:桂木今里／美術監督:佐藤豪志／撮影監督:下崎
+    昭／編集:渡辺直樹／音響監督:藤野貞義／音楽:川﨑 龍／アニメーション制作:スタジオディーン<br><br>© FURYU／BAKUMATSU製作委員会<br><br>次話→so34005677
+  length_seconds: 1445
+  content_id: so33964360
+  default_thread_id: 1538642944
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33964360.25770
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 斬れ、高杉　アイのために！
+  description: 巨城スサノオ内にて高杉が対峙したのは、刻（とき）を超え連れてこられたスサノオ・十二将の一人、真田幸村だった。高杉は城深くの工場で、先進的に発達した文明技術の陰で、依然として虐げられる民の姿を見る。さらに無限斎の口から唐突に発せられる、高杉の師・吉田松陰の言葉。激昂した高杉は、無限斎に激闘を挑みかけるが――。一方城外では、それぞれの大切なものを守るために、動き出す志士たちの姿があった――。<br><br>高杉晋作:中村悠一／桂小五郎:江口拓也／坂本龍馬:三木眞一郎／岡田以蔵:松岡禎丞／土方歳三:染谷俊之／近藤
+    勇:佐藤拓也／沖田総司:代永 翼／斎藤 一:多田啓太／徳川慶喜:鈴木達央／山崎 烝:八代 拓／帝:武内駿輔／晴明:中島ヨシキ<br><br>原案:「恋愛幕末カレシ～時の彼方で花咲く恋～」（フリュー）／監督:渡辺正樹／助監督:齋藤昭裕／シリーズ構成:横谷昌宏／アニメキャラクター原案:夏生／アニメキャラクターデザイン:島村秀一／色彩設計:桂木今里／美術監督:佐藤豪志／撮影監督:下崎
+    昭／編集:渡辺直樹／音響監督:藤野貞義／音楽:川﨑 龍／アニメーション制作:スタジオディーン<br><br>© FURYU／BAKUMATSU製作委員会<br><br>so33964360←前話　第一話→so33964360
+  length_seconds: 1445
+  content_id: so34005677
+  default_thread_id: 1539306548
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005677
+cast: "[キャスト]<br>高杉晋作:中村悠一／桂小五郎:江口拓也／坂本龍馬:三木眞一郎／岡田以蔵:松岡禎丞／土方歳三:染谷俊之／近藤 勇:佐藤拓也／沖田総司:代永
+  翼／斎藤 一:多田啓太／徳川慶喜:鈴木達央／山崎 烝:八代 拓／帝:武内駿輔／晴明:中島ヨシキ"
+staff: "[スタッフ]<br>原案:「恋愛幕末カレシ～時の彼方で花咲く恋～」（フリュー）／監督:渡辺正樹／助監督:齋藤昭裕／シリーズ構成:横谷昌宏／アニメキャラクター原案:夏生／アニメキャラクターデザイン:島村秀一／色彩設計:桂木今里／美術監督:佐藤豪志／撮影監督:下崎
+  昭／編集:渡辺直樹／音響監督:藤野貞義／音楽:川﨑 龍／アニメーション制作:スタジオディーン"
+produced_year: "[製作年]<br>2018年"
+copyright: "© FURYU／BAKUMATSU製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

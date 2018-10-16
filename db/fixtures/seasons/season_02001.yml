@@ -1,0 +1,61 @@
+--- !ruby/hash:SeasonHash
+title: ひもてはうす
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/7/22417_1_6.png?1539140406000
+outline: 東京・中野にある一軒家で共同生活を送っているのは家主の紐手家三姉妹ときよ、きなみ、こころと、こころの同級生・たえとみなも、そして、飼い猫のえにし。通称「ひもてはうす」を舞台に、個性豊かなメンバーたちが「どうしたらモテるようになるのか？」を日々悩みつつ、かしましく過ごす女子たちの“ちょっとだけ生々しい”日常風景。さらに、この5人と1匹、実は不思議なチカラを持っていて…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 洲崎綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 明坂聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 水原薫
+  type: cast
+- !ruby/hash:TagHash
+  name: 西明日香
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：井上純一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石ダテコー太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Hajime
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：バウンスィ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：ぶーた
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ロマンティックあげるよ
+  description: '4月から社会人になり、大学時代の同級生である紐手こころの家、通称「ひもてはうす」に居候することになった、本郷たえ。こころの姉であるときよときなみ、こころの中高時代の同級生の新井みなも、そしてペットの猫のえにしを含んだ、5人と1匹での新生活が始まる。個性豊かな女子たちが繰り広げるちょっとだけ生々しい日常コメディ、開幕！<br><br>本郷たえ:洲崎綾／紐手こころ:明坂聡美／紐手きなみ:三森すずこ／紐手ときよ:水原薫／新井みなも:上坂すみれ／えにし:西明日香<br><br>監督:石ダテコー太郎／音楽:
+    井上純一／Hajime／キャラクターデザイン:ぶーた／アニメーション監督:鈴木鏡規謙／ビジュアルデザイン:THINKR／CG・映像制作:リンクトブレイン／原作・アニメーション制作:バウンスィ<br><br>©ひもてはうす製作委員会<br><br>次話→so34021952'
+  length_seconds: 720
+  content_id: so33968988
+  default_thread_id: 1538723584
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33968988
+cast: "[キャスト]<br>本郷たえ:洲崎綾／紐手こころ:明坂聡美／紐手きなみ:三森すずこ／紐手ときよ:水原薫／新井みなも:上坂すみれ／えにし:西明日香"
+staff: "[スタッフ]<br>監督:石ダテコー太郎／音楽: 井上純一／Hajime／キャラクターデザイン:ぶーた／アニメーション監督:鈴木鏡規謙／ビジュアルデザイン:THINKR／CG・映像制作:リンクトブレイン／原作・アニメーション制作:バウンスィ"
+produced_year: "[製作年]<br>2018年"
+copyright: "©ひもてはうす製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

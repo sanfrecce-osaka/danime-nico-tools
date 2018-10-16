@@ -1,0 +1,85 @@
+--- !ruby/hash:SeasonHash
+title: 火ノ丸相撲
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/3/22423_1_6.png?1538364703000
+outline: 発気揚々(はっきよい)！夢(よこづな)をかけた漢(おとこ)たちの激闘が始まる――弱小の大太刀高校相撲部に現れた新入生、"小さき"少年・潮 火ノ丸！「デカく」「重く」が絶対の競技に似合わぬ体格の火ノ丸だが、彼には途方もない夢があった。火ノ丸と弱小相撲部が殴り込む頂への道―――ド白熱高校相撲、開幕！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉山紀彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿部敦
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 武内駿輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村昴
+  type: cast
+- !ruby/hash:TagHash
+  name: 落合福嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本靖貴
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：宇田鋼之介
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田中紀衣
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ジェイムス下地
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：川田
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一番
+  title: 国宝・鬼丸国綱
+  description: 目指すは大相撲の横綱！潮 火ノ丸（うしお・ひのまる）は進学のため、相撲の名門・石神高校を見学。しかし火ノ丸は誤って大太刀（おおだち）高校に来てしまう。そこで一人真面目に相撲に取り組む小関信也（おぜき・しんや）に道場への案内を頼むが、道場はなんと不良のたまり場となっていた。神聖な稽古場を汚す不良達に怒る火ノ丸は、不良グループのリーダー・五條佑真（ごじょう・ゆうま）に決闘を申し込む！！<br><br>潮
+    火ノ丸:阿部 敦／小関信也:落合福嗣／五條佑真:熊谷健太郎／國崎千比路:佐藤拓也／三ツ橋 蛍:村瀬 歩／辻 桐仁:寺島拓篤／五條 礼奈:小松未可子／堀 千鶴子:田辺留依／久世草介:武内駿輔／狩谷
+    俊:吉永拓斗／四方田 尽:杉山紀彰／澤井理音:八代 拓／ダニエル・ステファノフ:冨森ジャスティン／沙田美月:石川界人／金盛 剛:木村 昴／荒木源之助:浪川大輔／真田勇気:嘉人／間宮圭一:松川裕輝<br><br>原作:川田「火ノ丸相撲」（週刊少年ジャンプ連載）／総監督:宇田鋼之介／監督:山本靖貴／キャラクターデザイン:田中紀衣／メインアクション作監:楡木哲郎／美術監督:市倉敬／色彩設計:長尾朱美／編集:渡邉千波／撮影監督:武原健二／音楽:ジェイムス下地／アニメーション制作:GONZO／制作:NAS<br><br>©川田／集英社・「火ノ丸相撲」製作委員会
+  length_seconds: 1410
+  content_id: so34000398
+  default_thread_id: 1539220216
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34000398
+cast: "[キャスト]<br>潮 火ノ丸:阿部 敦／小関信也:落合福嗣／五條佑真:熊谷健太郎／國崎千比路:佐藤拓也／三ツ橋 蛍:村瀬 歩／辻 桐仁:寺島拓篤／五條
+  礼奈:小松未可子／堀 千鶴子:田辺留依／久世草介:武内駿輔／狩谷 俊:吉永拓斗／四方田 尽:杉山紀彰／澤井理音:八代 拓／ダニエル・ステファノフ:冨森ジャスティン／沙田美月:石川界人／金盛
+  剛:木村 昴／荒木源之助:浪川大輔／真田勇気:嘉人／間宮圭一:松川裕輝"
+staff: "[スタッフ]<br>原作:川田「火ノ丸相撲」（週刊少年ジャンプ連載）／総監督:宇田鋼之介／監督:山本靖貴／キャラクターデザイン:田中紀衣／メインアクション作監:楡木哲郎／美術監督:市倉敬／色彩設計:長尾朱美／編集:渡邉千波／撮影監督:武原健二／音楽:ジェイムス下地／アニメーション制作:GONZO／制作:NAS"
+produced_year: "[製作年]<br>2018年"
+copyright: "©川田／集英社・「火ノ丸相撲」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
