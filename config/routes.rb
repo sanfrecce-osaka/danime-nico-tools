@@ -4,4 +4,5 @@ Rails.application.routes.draw do
   root 'home#index'
   resources :animes, only: :index
   resources :seasons, only: %i(index show)
+  resources :episodes, only: %i(index show), param: :content_id
 end
