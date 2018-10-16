@@ -1,0 +1,23 @@
+.paginator
+  display: flex
+  align-items: center
+
+  &__total-count
+    margin-right: 10px
+
+  .pagination
+    margin: 5px 0
+
+    .page-item
+      .page-link
+        color: $main-color
+
+      &.disabled
+        .page-link
+          color: black
+
+      &.active
+        .page-link
+          background-color: $main-color
+          color: lighten($base-color, 40%)
+          border-color: $main-color

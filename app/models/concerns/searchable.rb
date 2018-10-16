@@ -9,10 +9,6 @@ module Searchable
     class << self
       private
 
-      def search_conditions(search_form)
-        { groupings: keyword_conditions(search_form) }
-      end
-
       def key_for_keyword_search
         (targets_for_keyword_search.join('_or_') + '_cont').to_sym
       end

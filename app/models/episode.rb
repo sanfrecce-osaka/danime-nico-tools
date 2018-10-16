@@ -20,6 +20,10 @@ class Episode < ApplicationRecord
 
     private
 
+    def search_conditions(search_form)
+      { season_watchable_true: true, groupings: keyword_conditions(search_form) }
+    end
+
     def keyword_conditions(search_form)
       search_form
         .split_keywords
@@ -30,6 +34,18 @@ class Episode < ApplicationRecord
       target_columns_for_keyword_search.concat(
         Season.target_columns_for_keyword_search.map { |column| "season_#{column}" }
       )
+    end
+  end
+
+  def nico_url
+    "http://www.nicovideo.jp/watch/#{content_id}"
+  end
+
+  def displayed_number_in_season
+    if season.title == title && number_in_season.blank?
+      "##{overall_number}"
+    else
+      number_in_season
     end
   end
 

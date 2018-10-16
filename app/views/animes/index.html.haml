@@ -12,7 +12,7 @@
       %ul.list-group.target-item__body
         - @seasons.each do |season|
           %li.list-group-item.list-group-item-action
-            = link_to '' do
+            = link_to season do
               = image_tag season.thumbnail_url, alt: 'Card image cap'
               = season.title
         %li.list-group-item.list-group-item-action
@@ -28,7 +28,7 @@
           %ul.video-items
             - @episodes.each do |episode|
               %li.card.video-item
-                = link_to '', class: 'video-item__link-to-video' do
+                = link_to episode.nico_url, class: 'video-item__link-to-video' do
                   .video-item__thumbnail
                     = image_tag episode.thumbnail_url, alt: 'Card image cap'
                   %h4.video-item__title
