@@ -1,10 +1,10 @@
-%nav
+%nav.global-nav
   %ul
     %li
       = link_to :root, class: "#{current_nav_link(%r(^home))}" do
         %i.fas.fa-home.fa-2x
         %p ホーム
     %li
-      = link_to :animes, class: "#{current_nav_link(%r(^animes))}" do
+      = link_to :animes, class: "#{current_nav_link(%r(^(animes)|(seasons)))}" do
         %i.fas.fa-search.fa-2x
         %p 検索

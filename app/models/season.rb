@@ -18,6 +18,10 @@ class Season < ApplicationRecord
 
     private
 
+    def search_conditions(search_form)
+      { watchable_true: true, groupings: keyword_conditions(search_form) }
+    end
+
     def keyword_conditions(search_form)
       search_form
         .split_keywords

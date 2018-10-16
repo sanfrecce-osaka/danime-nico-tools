@@ -1,0 +1,62 @@
+.contents__header
+  .wrapper
+    %h2
+      .season-title__image
+        = image_tag @season.thumbnail_url, alt: 'Card image cap'
+      .season-title__text
+        = @season.title
+.contents__body
+  .wrapper
+    %h3 あらすじ
+    %p
+      = @season.outline
+  .wrapper
+    %h3 動画一覧
+    - if @episodes.total_pages > 1
+      = paginate @episodes, total_count: @episodes.total_count
+    - else
+      .paginator
+        .paginator__total-count
+          全
+          = @episodes.total_count
+          件
+    %ul.list-group
+      - @episodes.each do |episode|
+        %li.list-group-item.list-group-item-action.p-0
+          = link_to episode.nico_url, class: 'is-block p-3' do
+            = image_tag episode.thumbnail_url, alt: 'Card image cap'
+            = episode.displayed_number_in_season
+            = episode.title
+    - if @episodes.total_pages > 1
+      = paginate @episodes, total_count: @episodes.total_count
+    - else
+      .paginator
+        .paginator__total-count
+          全
+          = @episodes.total_count
+          件
+  .wrapper
+    - if @season.cast.present? || @season.staff.present? || @season.produced_year.present? || @season.copyright.present?
+      %h3.mb-2 キャスト・スタッフ
+      %ul.pl-0
+        - if @season.cast.present?
+          %li.mb-3
+            %h4.h6.mb-0
+              = @season.cast.split('<br>').first
+            %p
+              = @season.cast.split('<br>').last
+        - if @season.staff.present?
+          %li.mb-3
+            %h4.h6.mb-0
+              = @season.staff.split('<br>').first
+            %p
+              = @season.staff.split('<br>').last
+        - if @season.produced_year.present?
+          %li.mb-3
+            %h4.h6.mb-0 [製作年]
+            %p
+              = "#{@season.produced_year}年"
+        - if @season.copyright.present?
+          %li.mb-3
+            %p
+              = @season.copyright
