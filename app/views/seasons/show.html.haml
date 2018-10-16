@@ -27,6 +27,7 @@
             = image_tag episode.thumbnail_url, alt: 'Card image cap'
             = episode.displayed_number_in_season
             = episode.title
+          = link_to '詳細', episode, class: 'btn primary-btn btn-block'
     - if @episodes.total_pages > 1
       = paginate @episodes, total_count: @episodes.total_count
     - else

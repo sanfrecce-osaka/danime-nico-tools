@@ -33,6 +33,6 @@
                     = image_tag episode.thumbnail_url, alt: 'Card image cap'
                   %h4.video-item__title
                     = "#{episode.season.title}　#{episode.number_in_season}"
-                = link_to '詳細', '', class: 'video-item__link-to-detail'
+                = link_to '詳細', episode, class: 'video-item__link-to-detail'
         %li.list-group-item.list-group-item-action
           = link_to 'もっと動画を探す', ''
