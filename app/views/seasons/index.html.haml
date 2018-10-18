@@ -1,0 +1,18 @@
+.contents__header.with-search-field
+  %h2 作品検索
+  = render 'layouts/search_form', search_form: @search_form, path: seasons_path
+.contents__body
+  .wrapper
+    %ul.pl-0
+      %li
+        - if @search_form.keywords.present?
+          %h3 作品の検索結果
+        - else
+          %h3 作品一覧
+        - if @search_form.keywords.present?
+          = render 'layouts/paginator', resources: @seasons
+        %ul.list-group
+          - @seasons.each do |season|
+            = render 'season', season: season
+        - if @search_form.keywords.present?
+          = render 'layouts/paginator', resources: @seasons

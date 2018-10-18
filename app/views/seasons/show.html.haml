@@ -12,14 +12,7 @@
       = @season.outline
   .wrapper
     %h3 動画一覧
-    - if @episodes.total_pages > 1
-      = paginate @episodes, total_count: @episodes.total_count
-    - else
-      .paginator
-        .paginator__total-count
-          全
-          = @episodes.total_count
-          件
+    = render 'layouts/paginator', resources: @episodes
     %ul.list-group
       - @episodes.each do |episode|
         %li.list-group-item.list-group-item-action.p-0
@@ -28,14 +21,7 @@
             = episode.displayed_number_in_season
             = episode.title
           = link_to '詳細', episode, class: 'btn primary-btn btn-block'
-    - if @episodes.total_pages > 1
-      = paginate @episodes, total_count: @episodes.total_count
-    - else
-      .paginator
-        .paginator__total-count
-          全
-          = @episodes.total_count
-          件
+    = render 'layouts/paginator', resources: @episodes
   .wrapper
     - if @season.cast.present? || @season.staff.present? || @season.produced_year.present? || @season.copyright.present?
       %h3.mb-2 キャスト・スタッフ
