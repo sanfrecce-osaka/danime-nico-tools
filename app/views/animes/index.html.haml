@@ -32,4 +32,4 @@
                     = "#{episode.season.title}　#{episode.number_in_season}"
                 = link_to '詳細', episode, class: 'video-item__link-to-detail'
         %li.list-group-item.list-group-item-action
-          = link_to 'もっと動画を探す', ''
+          = link_to 'もっと動画を探す', [:episodes, form_search: { keywords: @search_form.keywords }]
