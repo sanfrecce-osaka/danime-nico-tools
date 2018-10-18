@@ -15,12 +15,7 @@
     = render 'layouts/paginator', resources: @episodes
     %ul.list-group
       - @episodes.each do |episode|
-        %li.list-group-item.list-group-item-action.p-0
-          = link_to episode.nico_url, class: 'is-block p-3' do
-            = image_tag episode.thumbnail_url, alt: 'Card image cap'
-            = episode.displayed_number_in_season
-            = episode.title
-          = link_to '詳細', episode, class: 'btn primary-btn btn-block'
+        = render 'episodes/episode', episode: episode
     = render 'layouts/paginator', resources: @episodes
   .wrapper
     - if @season.cast.present? || @season.staff.present? || @season.produced_year.present? || @season.copyright.present?
