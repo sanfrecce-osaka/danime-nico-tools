@@ -1,6 +1,6 @@
 .contents__header.with-search-field
   %h2 検索
-  = render 'layouts/overall_search_form', search_form: @search_form
+  = render 'layouts/search_form', search_form: @search_form, path: animes_path
 .contents__body
   %ul.target-items
     %li.target-item
@@ -11,12 +11,9 @@
           %h3 作品一覧
       %ul.list-group.target-item__body
         - @seasons.each do |season|
-          %li.list-group-item.list-group-item-action
-            = link_to season do
-              = image_tag season.thumbnail_url, alt: 'Card image cap'
-              = season.title
+          = render 'seasons/season', season: season
         %li.list-group-item.list-group-item-action
-          = link_to 'もっと作品を探す', ''
+          = link_to 'もっと作品を探す', [:seasons, form_search: { keywords: @search_form.keywords }]
     %li.target-item
       .target-item__header
         - if @search_form.keywords.present?

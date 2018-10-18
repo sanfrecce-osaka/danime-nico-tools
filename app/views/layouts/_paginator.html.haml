@@ -1,0 +1,8 @@
+- if resources.total_pages > 1
+  = paginate resources, total_count: resources.total_count
+- else
+  .paginator
+    .paginator__total-count
+      全
+      = resources.total_count
+      件
