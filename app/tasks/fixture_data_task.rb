@@ -68,6 +68,13 @@ class FixtureDataTask
       target_seasons.each { |target_season| update_watchable(target_season) }
     end
 
+    def update_tags
+      initialize_dir(FixtureDataTask::SEASONS_DIR)
+      logger.debug('selecting seasons now...')
+      target_seasons = SeasonHash.already_created.select(&:watchable)
+      target_seasons.each { |target_season| create_season(target_season, %i(tags)) }
+    end
+
     private
 
     def initialize_dir(target_path)
@@ -82,10 +89,10 @@ class FixtureDataTask
       SeasonHash.new(title: title)
     end
 
-    def create_season(season)
+    def create_season(season, targets = %i(tags related_seasons others))
       start_log(season.title)
-      season = Scraping::DanimeHeadStore.execute(season)
-      season = Api::NicoContentsSearch.add_episode_info(season)
+      season = Scraping::DanimeHeadStore.execute(season, targets)
+      season = Api::NicoContentsSearch.add_episode_info(season) if targets.include?(:others)
       path = season.delete(:file_path)
       target_path = path ? path : new_season_path
       YAMLFile.write(target_path, season)

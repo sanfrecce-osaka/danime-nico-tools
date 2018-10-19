@@ -12,18 +12,19 @@ module Scraping
         '秘密結社 鷹の爪 THE MOVIE III～http://鷹の爪.jpは永遠に～'
       ].map(&:freeze).freeze
 
-    class_attribute :season
+    class_attribute :season, :targets
 
     class << self
-      def execute(season)
+      def execute(season, targets = %i(tags related_seasons others))
         @season = season
+        @targets = targets
         initialize_headless_driver
         set_window_size
         @driver.get("#{DanimeHeadStore::SEARCH_URL}?#{search_params(season.title)}")
         fetch_season_thumbnail_url_and_move_to_season_page
         return @season unless @season.watchable
         fetch_season_info
-        fetch_related_season_titles
+        fetch_related_season_titles if @targets.include?(:related_seasons)
         @season
       ensure
         @driver.quit
@@ -61,7 +62,9 @@ module Scraping
         else
           return @season.watchable = false
         end
-        @season.thumbnail_url = target_item.find_element(:tag_name, 'img').attribute('src')
+        if @targets.include?(:others)
+          @season.thumbnail_url = target_item.find_element(:tag_name, 'img').attribute('src')
+        end
         target_item.click
       end
 
@@ -73,19 +76,21 @@ module Scraping
 
       def fetch_season_info
         logger.debug('getting season info now...')
-        fetch_outline_and_genre_tags
-        fetch_episodes
-        fetch_cast_and_others
-        fetch_tags_other_than_genre
-        fetch_related_season_links
+        fetch_outline_and_genre_tags if @targets.include?(:others) || @targets.include?(:tags)
+        fetch_episodes if @targets.include?(:others)
+        fetch_cast_and_others if @targets.include?(:others)
+        fetch_tags_other_than_genre if @targets.include?(:tags)
+        fetch_related_season_links if @targets.include?(:related_seasons)
       end
 
       def fetch_outline_and_genre_tags
         return unless @season.watchable
         outline_container = @driver.find_element(:class, 'outlineContainer')
-        @season.outline = outline_container.find_element(:tag_name, 'p').text
-        @season.tags = outline_container.find_elements(:tag_name, 'a').map do |a|
-          initialize_tag(a.text, 'genre')
+        @season.outline = outline_container.find_element(:tag_name, 'p').text if @targets.include?(:others)
+        if @targets.include?(:tags)
+          @season.tags = outline_container.find_elements(:class, 'footerLink').map do |footer_link|
+            initialize_tag(footer_link.find_element(:tag_name, 'a').text, 'genre')
+          end
         end
       end
 

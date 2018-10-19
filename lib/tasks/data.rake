@@ -51,6 +51,12 @@ namespace :data do
       update_to_not_watchable = -> { FixtureDataTask.update_to_not_watchable }
       execute_task(task.name, update_to_not_watchable)
     end
+
+    desc 'update tags on season yaml data'
+    task tags: :setup do |task|
+      update_tags = -> { FixtureDataTask.update_tags }
+      execute_task(task.name, update_tags)
+    end
   end
 
   namespace :db do
