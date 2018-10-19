@@ -153,3 +153,37 @@ seasons_including_different_title_episodes:
                 nico_branch:
                   episode_no: '#21'
                   title: 'You can call me ”Noir”'
+  -
+            id: 9
+            title: '君のいる町　OAD'
+            episodes:
+              -
+                id: 1
+                head:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～1 '
+                nico_branch:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～1 '
+              -
+                id: 2
+                head:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～2'
+                nico_branch:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～2'
+              - id: 3
+                head:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』 ～ウチがきた町～ '
+                nico_branch:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』 ～ウチがきた町～ '
+              - id: 4
+                head:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』  ～約束の場所で～ '
+                nico_branch:
+                  episode_no: ''
+                  title: '『君のいる町 A town where you live 』  ～約束の場所で～ '
