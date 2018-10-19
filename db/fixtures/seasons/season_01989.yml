@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/44/1/22441_1_6.png?1
 outline: 顔を隠してゴーストシンガーをするフーリ。顔は良いが歌はからっきしのアイドル、コンチュエ。2人はいがみ合いながらも、ライバルたちと競い合いながら芸能界の階段を上っていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash

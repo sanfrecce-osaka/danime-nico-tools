@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/06/2/21062_1_6.png?1
 outline: 偉大なヒーローになりたい12歳の男の子フィンと変幻自在な特別な力が使える大人っぽい犬のジェイクは大の親友。彼らの住む不思議な大陸、ウーを舞台にさまざまな冒険が繰り広げられる、全米で絶好調放送中のナンセンス・コメディ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash

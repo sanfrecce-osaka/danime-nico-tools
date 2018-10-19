@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: うちのメイドがウザすぎる！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/45/0/22450_1_6.png?1538464136000
+outline: 母を亡くし父と二人で暮らす小学生女子・ミーシャ。 そんな父子家庭にやってきた新人家政婦は、やたらマッチョな上に三度の飯より幼女が大好きで・・・！？闘うヘンタイ家政婦
+  VS ロシア系小学生のほっこりしない系？ホームコメディ、開幕！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 井澤詩織
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤将之
+  type: cast
+- !ruby/hash:TagHash
+  name: 原田彩楓
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石晴香
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：動画工房
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：三澤康広
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：太田雅彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山崎淳
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：中村カンコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "「うちのメイドがウザすぎる！」"
+  description: 仕事を探している鴨居つばめは、職業安定所で理想が高すぎる（？）条件を提示し、あっさり断られます。失意の中、去年のお正月に帰省した際に見かけた、ロシア語を話す幼女の家の目の前にやってきました。庭を覗き込むと、以前とは違いすっかり荒れ果てて人の気配がありません。「あの雪の妖精は冬の日の幻だったのか？」とがっかりしていたつばめでしたが、ふと柵の近くに目をやると、そこには「家政婦さん急募！」の文字が・・・！<br><br>高梨ミーシャ:白石晴香／鴨居つばめ:沼倉愛美／鵜飼みどり:M・A・O／鷲崎みみか:原田彩楓／森川ゆい:井澤詩織／高梨康弘:加藤将之<br><br>原作:中村カンコ（双葉社「月刊アクション」連載中）／監督:太田雅彦／副監督:大隈孝晴／シリーズ構成:あおしまたかし／キャラクターデザイン・総作画監督:山崎
+    淳／プロップデザイン:松本 恵／美術設定:中島美佳／美術監督:安田ゆかり／背景:オリーブ／色彩設計:真壁源太／撮影監督:桒野貴文／編集:小野寺絵美／音響監督:えびなやすのり／音楽:三澤康広／音楽制作:KADOKAWA／アニメーション制作:動画工房／製作:うちのメイドがウザすぎる！製作委員会<br><br>©中村カンコ／双葉社・うちのメイドがウザすぎる！製作委員会<br><br>次話→so34026307
+  length_seconds: 1420
+  content_id: so33991039
+  default_thread_id: 1539055688
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33991039.73221
+cast: "[キャスト]<br>高梨ミーシャ:白石晴香／鴨居つばめ:沼倉愛美／鵜飼みどり:M・A・O／鷲崎みみか:原田彩楓／森川ゆい:井澤詩織／高梨康弘:加藤将之"
+staff: "[スタッフ]<br>原作:中村カンコ（双葉社「月刊アクション」連載中）／監督:太田雅彦／副監督:大隈孝晴／シリーズ構成:あおしまたかし／キャラクターデザイン・総作画監督:山崎
+  淳／プロップデザイン:松本 恵／美術設定:中島美佳／美術監督:安田ゆかり／背景:オリーブ／色彩設計:真壁源太／撮影監督:桒野貴文／編集:小野寺絵美／音響監督:えびなやすのり／音楽:三澤康広／音楽制作:KADOKAWA／アニメーション制作:動画工房／製作:うちのメイドがウザすぎる！製作委員会"
+produced_year: "[製作年]<br>2018年"
+copyright: "©中村カンコ／双葉社・うちのメイドがウザすぎる！製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

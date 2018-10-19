@@ -1,0 +1,64 @@
+--- !ruby/hash:SeasonHash
+title: TVアニメ「メルクストーリア -無気力少年と瓶の中の少女-」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/8/22418_1_6.png?1538364656000
+outline: モンスターの心を癒す力を持つ癒術士の少年・ユウは、幼い頃に父から不思議な瓶をプレゼントされる。ユウが瓶に触れると中から出てきたのは液体状の少女・メルク。そしてユウと出会う前の記憶がないメルクは自分が何者なのか知りたいと言い、２人はさまざまな国を巡る旅に出た。モンスター恐怖症の見習い癒術士ユウと、瓶詰め少女のメルクが巻き起こす２人のコミカルファンタジー開幕。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 水瀬いのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
+  name: チョー
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：追崎史敏
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：エンカレッジフィルムズ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：秋山由樹子
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: TVアニメ「メルクストーリア -無気力少年と瓶の中の少女-」
+  description: ユウ役:田村睦心／メルク役:水瀬いのり／トト役:花守ゆみり／ジャモ役:チョー<br><br>監督:追崎史敏／シリーズ構成:追崎史敏、内田裕基、雨宮ひとみ／シナリオ監修:Happy
+    Elements／キャラクターデザイン:秋山由樹子／サブキャラクターデザイン:新井博慧／総作画監督:秋山由樹子、渋谷秀、新井博慧／モンスターデザイン:福島秀機、陸田青享／色彩設計:辻田邦夫／美術監督:空閑由美子（スタジオじゃっく）／撮影監督:松本乃吾（いなほ）／音楽プロデュース:Mili／アニメーション制作:エンカレッジフィルムズ<br><br>©Happy
+    Elements K.K／メルクストーリアアニメ製作委員会<br><br>次話→so34036623
+  length_seconds: 1418
+  content_id: so34000396
+  default_thread_id: 1539220266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34000396
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: TVアニメ「メルクストーリア -無気力少年と瓶の中の少女-」
+  description: ユウ役:田村睦心／メルク役:水瀬いのり／トト役:花守ゆみり／ジャモ役:チョー<br><br>監督:追崎史敏／シリーズ構成:追崎史敏、内田裕基、雨宮ひとみ／シナリオ監修:Happy
+    Elements／キャラクターデザイン:秋山由樹子／サブキャラクターデザイン:新井博慧／総作画監督:秋山由樹子、渋谷秀、新井博慧／モンスターデザイン:福島秀機、陸田青享／色彩設計:辻田邦夫／美術監督:空閑由美子（スタジオじゃっく）／撮影監督:松本乃吾（いなほ）／音楽プロデュース:Mili／アニメーション制作:エンカレッジフィルムズ<br><br>©Happy
+    Elements K.K／メルクストーリアアニメ製作委員会<br><br>so34000396←前話　第一話→so34000396
+  length_seconds: 1420
+  content_id: so34036623
+  default_thread_id: 1539825546
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34036623
+cast: "[キャスト]<br>ユウ役:田村睦心／メルク役:水瀬いのり／トト役:花守ゆみり／ジャモ役:チョー"
+staff: "[スタッフ]<br>監督:追崎史敏／シリーズ構成:追崎史敏、内田裕基、雨宮ひとみ／シナリオ監修:Happy Elements／キャラクターデザイン:秋山由樹子／サブキャラクターデザイン:新井博慧／総作画監督:秋山由樹子、渋谷秀、新井博慧／モンスターデザイン:福島秀機、陸田青享／色彩設計:辻田邦夫／美術監督:空閑由美子（スタジオじゃっく）／撮影監督:松本乃吾（いなほ）／音楽プロデュース:Mili／アニメーション制作:エンカレッジフィルムズ"
+produced_year: "[製作年]<br>2018年"
+copyright: "©Happy Elements K.K／メルクストーリアアニメ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

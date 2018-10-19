@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: CONCEPTION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/9/22419_1_6.png?1539145807000
+outline: "『ケガレ』に侵された魔法世界『グランバニア』。ケガレを祓うために地球(ソラ)より召喚された弓削イツキは『星の子』を誕生させるため、『１２星座の巫女』達と愛好の儀に挑む。「使命を果たすために・・・・・・俺の子供を産んでくれ！」"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 加隈亜衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 下田麻美
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田健一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井ゆきよ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：甲田雅人
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：スパイク・チュンソフト
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：奥田陽介
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 俺の子ども!?
+  description: 幼馴染の粉月マヒルと一緒に見知らぬ異世界へとやってきた高校生・弓削イツキ。そこは『ケガレ』によって危機に瀕していた魔法世界『グランバニア』だった。この世界を救う『マレビト』として召喚されたイツキは、その使命を果たすため『愛好の儀』と呼ばれる儀式を行うことになるのだが……。<br><br>弓削イツキ:小野友樹／粉月マヒル:加藤英美里／アリー:遠藤綾／タルア:杉山里穂／リリス＆リリィ:阿澄佳奈／ルカ:大本眞基子／フェミルナ:藤田咲／ミレイ:小林沙苗／レオーネ:山口由里子／スゥ:喜多村英梨／ファルン:荒浪和沙／コレット:下田麻美／ユズハ:藤井ゆきよ／マナ:ゆりん／アーフィー:加隈亜衣／シャングリラ:松田健一郎／ナルシステス:平川大輔<br><br>原作:スパイク・チュンソフト『CONCEPTION
+    俺の子供を産んでくれ！』／監督:元永慶太郎／シリーズ構成:柿原優子／キャラクター原案:大塚真一郎／アニメーションキャラクターデザイン:奥田陽介／音楽:甲田雅人／アニメーション制作:GONZO／製作:コンセプ製作委員会<br><br>©Spike
+    Chunsoft Co., Ltd./コンセプ製作委員会<br><br>次話→so34021953
+  length_seconds: 1420
+  content_id: so34005679
+  default_thread_id: 1539306365
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005679
+cast: "[キャスト]<br>弓削イツキ:小野友樹／粉月マヒル:加藤英美里／アリー:遠藤綾／タルア:杉山里穂／リリス＆リリィ:阿澄佳奈／ルカ:大本眞基子／フェミルナ:藤田咲／ミレイ:小林沙苗／レオーネ:山口由里子／スゥ:喜多村英梨／ファルン:荒浪和沙／コレット:下田麻美／ユズハ:藤井ゆきよ／マナ:ゆりん／アーフィー:加隈亜衣／シャングリラ:松田健一郎／ナルシステス:平川大輔"
+staff: "[スタッフ]<br>原作:スパイク・チュンソフト『CONCEPTION 俺の子供を産んでくれ！』／監督:元永慶太郎／シリーズ構成:柿原優子／キャラクター原案:大塚真一郎／アニメーションキャラクターデザイン:奥田陽介／音楽:甲田雅人／アニメーション制作:GONZO／製作:コンセプ製作委員会"
+produced_year: "[製作年]<br>2018年"
+copyright: "©Spike Chunsoft Co., Ltd./コンセプ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

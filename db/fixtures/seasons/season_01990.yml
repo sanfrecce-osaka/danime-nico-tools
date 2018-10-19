@@ -7,6 +7,15 @@ outline: |-
   そして裕太は古いパソコンに映る『ハイパーエージェント・グリッドマン』と出会う。グリッドマンは使命を果たせと語りかけ、裕太はその言葉の意味と記憶を探し始める。突然の事に戸惑いつつも、クラスメイトの内海将や宝多六花、新条アカネたちに助けられながら毎日を送る裕太だった。が、その平穏な日々は、突然現れた怪獣によって容易く踏みつぶされた――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
