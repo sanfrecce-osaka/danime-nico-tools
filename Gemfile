@@ -53,6 +53,7 @@ end
 
 group :production do
   gem 'uglifier'
+  gem 'google-analytics-rails'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
