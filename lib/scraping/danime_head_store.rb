@@ -154,20 +154,22 @@ module Scraping
         begin
           tag_area = @driver.find_element(:class, 'tagArea')
         rescue Selenium::WebDriver::Error::NoSuchElementError => e
-          return @season.tags = []
+          return @season.tags
         end
         tag_captions = tag_area.find_elements(:class, 'tagCaption')
         tags = tag_area.find_elements(:class, 'tagWrapper')
-        @season.tags = tag_captions.map.with_index do |tag_caption, index|
-          case tag_caption.text
-          when 'キャスト'
-            tags[index].find_elements(:tag_name, 'a').map { |tag| initialize_tag(tag.text, 'cast') }
-          when 'スタッフ'
-            tags[index].find_elements(:tag_name, 'a').map { |tag| initialize_tag(tag.text, 'staff') }
-          when 'その他'
-            tags[index].find_elements(:tag_name, 'a').map { |tag| initialize_tag(tag.text, 'other') }
-          end
-        end.flatten
+        @season.tags.concat(
+          tag_captions.map.with_index do |tag_caption, index|
+            case tag_caption.text
+            when 'キャスト'
+              tags[index].find_elements(:tag_name, 'a').map { |tag| initialize_tag(tag.text, 'cast') }
+            when 'スタッフ'
+              tags[index].find_elements(:tag_name, 'a').map { |tag| initialize_tag(tag.text, 'staff') }
+            when 'その他'
+              tags[index].find_elements(:tag_name, 'a').map { |tag| initialize_tag(tag.text, 'other') }
+            end
+          end.flatten
+        )
       end
 
       def fetch_related_season_links
