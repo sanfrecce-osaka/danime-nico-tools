@@ -7,7 +7,7 @@ module Api
     include CharWidthConvertable
 
     URL = 'http://api.search.nicovideo.jp/api/v2/video/contents/search'
-    SPECIAL_CHAR = %w(' " - ´ ` Д 口 ￣ ∀ #).map(&:freeze).freeze
+    SPECIAL_CHAR = %w(' " - ´ ` Д 口 ￣ ∀ # [[:space:]]).map(&:freeze).freeze
 
     class << self
       def add_episode_info(season)
@@ -51,7 +51,7 @@ module Api
       end
 
       def special_char_to_space(q)
-        NicoContentsSearch::SPECIAL_CHAR.inject(q) { |b, c| b.gsub(c, ' ') }
+        NicoContentsSearch::SPECIAL_CHAR.inject(q) { |b, c| b.gsub(%r(#{c}), ' ') }
       end
 
       def search(params)
