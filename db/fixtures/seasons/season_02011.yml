@@ -1,0 +1,108 @@
+--- !ruby/hash:SeasonHash
+title: ソードアート・オンライン アリシゼーション
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/40/5/22405_1_6.png?1538373940000
+outline: "「ここは……どこだ……？」気づけばキリトは、なぜか壮大なファンタジーテイストの仮想世界にフルダイブしていた。ログイン直後の記憶があやふやなまま、手がかりを求めて辺りを彷徨う。そして、漆黒の巨木《ギガスシダー》のもとにたどり着いた彼は、一人の少年と出会う。「僕の名前はユージオ。よろしくキリト君」少年は仮想世界の住人――《NPC》にもかかわらず、人間と同じ《感情の豊かさ》を持ち合わせていた。ユージオと親交を深めながら、この世界からのログアウトを模索するキリト。そんな彼の脳裏に、ある記憶がよみがえる。それは、幼少期のキリトとユージオが野山を駆け回る想い出――本来、あるはずのない記憶。更にその想い出には、ユージオともう一人、金髪の髪を持つ少女の姿があった。名前は、アリス。絶対に忘れてはいけないはずの、大切な名前――。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 島﨑信長
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田佳織里
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：梶浦由記
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小野学
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：川原礫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：電撃文庫
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：足立慎吾
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：鈴木豪
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西口智也
+  type: staff
+- !ruby/hash:TagHash
+  name: ソードアート・オンラインシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: アンダーワールド
+  description: "《ルーリッドの村》で育った少年・キリトは、幼馴染のユージオとともに巨大な黒樹・ギガスシダーを倒すという天職を背負っていた。今日も巨木を倒すべく斧を振るっていると、幼馴染のアリスが手作りのパイを差し入れにやってくる。昼食のさなか、３人はおとぎ話にでてきた《果ての山脈》の洞窟へと遠出することを決める。世界の掟である禁忌目録に違反しないか不安がるユージオに、キリトとアリスは大丈夫だと口々に言い、出発の日を迎える。<br><br>キリト:松岡禎丞／アスナ:戸松
+    遥／アリス:茅野愛衣／ユージオ:島﨑信長<br><br>原作:川原 礫（「電撃文庫」刊）／原作イラスト・キャラクターデザイン原案:abec／監督:小野 学／助監督:佐久間貴史／キャラクターデザイン:足立慎吾　鈴木
+    豪　西口智也／総作画監督:鈴木 豪　西口智也／プロップデザイン:早川麻美　伊藤公規／モンスターデザイン:河野敏弥／アクション作画監督:菅野芳弘　竹内哲也／美術監督:小川友佳子　渡辺佳人／美術設定:森岡賢一　谷内優穂／色彩設計:中野尚美／CG監督:雲藤隆太／撮影監督:脇
+    顯太朗　林賢太／モーショングラフィックス:大城丈宗／編集:近藤勇二／音響監督:岩浪美和／効果:小山恭正／音響制作:ソニルード／音楽:梶浦 由記／プロデュース:EGG
+    FIRMストレートエッジ／制作:A-1 Pictures／製作:SAO-A Project<br><br>©2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO-A
+    Project<br><br>次話→so34041547"
+  length_seconds: 2860
+  content_id: so34000392
+  default_thread_id: 1539220866
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34000392
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 悪魔の樹
+  description: 絶命の危機にあるキリトが目を覚ますと、そこはファンタジーゲームを彷彿とさせる謎の世界の中だった。記憶が曖昧なままログアウトを試すも、現実世界に戻ることはできない。キリトが途方に暮れながら散策していると、やがて巨大な樹の下にたどり着く。そこで一人の少年と出会う。その少年の名は、ユージオといった。キリトはこの世界について話を聞き出そうとするが、ログアウトの方法はわからない。そしてユージオは、かつて自分の幼馴染だったアリスという少女のことについて語りはじめる。<br><br>キリト:松岡禎丞／アスナ:戸松
+    遥／アリス:茅野愛衣／ユージオ:島﨑信長<br><br>原作:川原 礫（「電撃文庫」刊）／原作イラスト・キャラクターデザイン原案:abec／監督:小野 学／助監督:佐久間貴史／キャラクターデザイン:足立慎吾　鈴木
+    豪　西口智也／総作画監督:鈴木 豪　西口智也／プロップデザイン:早川麻美　伊藤公規／モンスターデザイン:河野敏弥／アクション作画監督:菅野芳弘　竹内哲也／美術監督:小川友佳子　渡辺佳人／美術設定:森岡賢一　谷内優穂／色彩設計:中野尚美／CG監督:雲藤隆太／撮影監督:脇
+    顯太朗　林賢太／モーショングラフィックス:大城丈宗／編集:近藤勇二／音響監督:岩浪美和／効果:小山恭正／音響制作:ソニルード／音楽:梶浦 由記／プロデュース:EGG
+    FIRMストレートエッジ／制作:A-1 Pictures／製作:SAO-A Project<br><br>©2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO-A
+    Project<br><br>so34000392←前話　第一話→so34000392
+  length_seconds: 1420
+  content_id: so34041547
+  default_thread_id: 1539911283
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34041547
+cast: "[キャスト]<br>キリト:松岡禎丞／アスナ:戸松 遥／アリス:茅野愛衣／ユージオ:島﨑信長"
+staff: "[スタッフ]<br>原作:川原 礫（「電撃文庫」刊）／原作イラスト・キャラクターデザイン原案:abec／監督:小野 学／助監督:佐久間貴史／キャラクターデザイン:足立慎吾　鈴木
+  豪　西口智也／総作画監督:鈴木 豪　西口智也／プロップデザイン:早川麻美　伊藤公規／モンスターデザイン:河野敏弥／アクション作画監督:菅野芳弘　竹内哲也／美術監督:小川友佳子　渡辺佳人／美術設定:森岡賢一　谷内優穂／色彩設計:中野尚美／CG監督:雲藤隆太／撮影監督:脇
+  顯太朗　林賢太／モーショングラフィックス:大城丈宗／編集:近藤勇二／音響監督:岩浪美和／効果:小山恭正／音響制作:ソニルード／音楽:梶浦 由記／プロデュース:EGG
+  FIRMストレートエッジ／制作:A-1 Pictures／製作:SAO-A Project"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO-A Project"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ソードアート・オンライン
+- !ruby/hash:SeasonHash
+  title: ソードアート・オンライン Extra Edition
+- !ruby/hash:SeasonHash
+  title: ソードアート・オンラインII
+- !ruby/hash:SeasonHash
+  title: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン

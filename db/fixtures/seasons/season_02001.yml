@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/7/22417_1_6.png?1
 outline: 東京・中野にある一軒家で共同生活を送っているのは家主の紐手家三姉妹ときよ、きなみ、こころと、こころの同級生・たえとみなも、そして、飼い猫のえにし。通称「ひもてはうす」を舞台に、個性豊かなメンバーたちが「どうしたらモテるようになるのか？」を日々悩みつつ、かしましく過ごす女子たちの“ちょっとだけ生々しい”日常風景。さらに、この5人と1匹、実は不思議なチカラを持っていて…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
@@ -54,6 +60,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1538723584
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=33968988
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 乙女のポリシー
+  description: '朝ご飯のお供にしようとした、海苔の佃煮の蓋が固くて開かなかったときよ。たえの提案で、みんなの特殊能力を組み合わせて開けようとすることになる。果たして、海苔の佃煮を無事に食べることはできるのか！？／／／恋愛トークをしているうちに、自分たちの特殊能力が恋愛の邪魔をしていることに気付いた5人。なんとか恋愛をするために、とりあえず出会いを求めて「相席ラウンジ」に行ってみるが…？<br><br>本郷たえ:洲崎綾／紐手こころ:明坂聡美／紐手きなみ:三森すずこ／紐手ときよ:水原薫／新井みなも:上坂すみれ／えにし:西明日香<br><br>監督:石ダテコー太郎／音楽:
+    井上純一／Hajime／キャラクターデザイン:ぶーた／アニメーション監督:鈴木鏡規謙／ビジュアルデザイン:THINKR／CG・映像制作:リンクトブレイン／原作・アニメーション制作:バウンスィ<br><br>©ひもてはうす製作委員会<br><br>so33968988←前話　第一話→so33968988'
+  length_seconds: 720
+  content_id: so34021952
+  default_thread_id: 1539565384
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34021952
 cast: "[キャスト]<br>本郷たえ:洲崎綾／紐手こころ:明坂聡美／紐手きなみ:三森すずこ／紐手ときよ:水原薫／新井みなも:上坂すみれ／えにし:西明日香"
 staff: "[スタッフ]<br>監督:石ダテコー太郎／音楽: 井上純一／Hajime／キャラクターデザイン:ぶーた／アニメーション監督:鈴木鏡規謙／ビジュアルデザイン:THINKR／CG・映像制作:リンクトブレイン／原作・アニメーション制作:バウンスィ"
 produced_year: "[製作年]<br>2018年"

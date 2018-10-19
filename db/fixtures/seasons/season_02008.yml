@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: 君のいる町　OAD
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/45/9/22459_1_6.png?1539334840000
+outline: 初対面だけど、同居します!!高校進学のため、東京から一人で田舎に越してきた柚希（ゆずき）。しかし、住むのは親戚でもない桐島青大（きりしまはると）の家！つまり居候!!「会ったこともないヤツが、いきなり自分の家に住むなんて‥‥」同居に納得いかない青大をよそに、初日からすっかり馴染む柚希。春から二人が通う高校には、青大の意中の人・七海もいるし、面倒なことになりませんように‥‥。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: "『君のいる町 A town where you live 』 ～黄昏交差点～1 "
+  description: "©瀬尾公治／講談社<br><br>次話→so34005675"
+  length_seconds: 1468
+  content_id: so34005676
+  default_thread_id: 1539306610
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005676
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: "『君のいる町 A town where you live 』 ～黄昏交差点～2"
+  description: "©瀬尾公治／講談社<br><br>so34005676←前話｜次話→so34005674　第一話→so34005676"
+  length_seconds: 1514
+  content_id: so34005675
+  default_thread_id: 1539306550
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005675
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: "『君のいる町 A town where you live 』 ～ウチがきた町～ "
+  description: "©瀬尾公治・講談社／君のいる町OAD製作委員会<br><br>so34005675←前話｜次話→so34005687　第一話→so34005676"
+  length_seconds: 1673
+  content_id: so34005674
+  default_thread_id: 1539306543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005674
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: "『君のいる町 A town where you live 』  ～約束の場所で～ "
+  description: "©瀬尾公治・講談社／君のいる町OAD製作委員会<br><br>so34005674←前話　第一話→so34005676"
+  length_seconds: 1765
+  content_id: so34005687
+  default_thread_id: 1539306612
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005687
+produced_year: "[製作年]<br>2012年"
+copyright: "©瀬尾公治／講談社　©瀬尾公治・講談社／君のいる町OAD製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 君のいる町

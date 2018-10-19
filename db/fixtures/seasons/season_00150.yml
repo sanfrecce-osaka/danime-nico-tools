@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/6/22106_1_6.png?1
 outline: 宇宙暦0156年、地球連邦政府と【メトゥスの民】との抗争は激化していた。そんな戦況を打開する為、一人の青年が戦場に降り立った。彼の名は、スバル・イチノセ。宇宙戦艦【ティラミス】の眉目秀麗・成績優秀な若き天才エースパイロットである。・・・でも彼はなんかちょっと残念だった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

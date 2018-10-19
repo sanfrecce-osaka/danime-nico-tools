@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/1/22411_1_6.png?1
 outline: いつもの朝。いつもの音楽。いつもの自分。7人の少女たちの安寧は、突如崩壊する。死して蠢く、ゾンビによって……否応なく踏み込んだ世界、そこは“最高×最悪のゾンビワールド”少女たちの願いは、たった一つ。「私たち、生きたい。」これは、少女達が起こす奇跡の物語(サガ)。MAPPA×エイベックス・ピクチャーズ×Cygamesの３社が偶然にも手掛けた100％肉汁オリジナルアニメが誕生！年齢も性別も時代も超えて、びんびんに刺激する『新感覚ゾンビ系アニメ』の幕がいま上がる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
