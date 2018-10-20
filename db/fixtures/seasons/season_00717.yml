@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/68/7/10687_1_6.png?1
 outline: 貧乏専門学校生・桜咲鈴雄はひょんなことから、銀河連邦警察次期採用候補パワードスーツ“ドッコイダー”のモニターのアルバイトをすることになってしまう。正義の味方には敵が多い・・・。ドッコイダーの正体を暴くべく、ライバル社のネルロイドガールや宇宙犯罪人たちが次々と闘いを挑んで来る。実は鈴雄が住むアパート｢コスモス荘｣では、お互い正体を隠した正義の味方と宇宙犯罪人が隣同士に暮らしている。正義VS悪の熾烈な(?)バトルが繰り広げられる・・・。果たして、貧乏専門学校生・桜咲鈴雄は無事に任務を全うすることができるのだろうか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash

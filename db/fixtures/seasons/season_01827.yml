@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/67/9/21679_1_6.png?1
 outline: "「埼京彩珠リカオンズ」の児島弘道は、実力はありながらも一度も優勝をしたことがないという”不運の天才打者”。優勝するには何かが足りない…その何かを探すため沖縄で自主トレーニングに励んでいた。そこで児島が出会ったのは、渡久地東亜。”ワンナウト”と呼ばれる賭け野球で無敗を誇る伝説の男だった…！！二度のワンナウト勝負の末、気力で勝利を手にした児島は、東亜にリカオンズ優勝への光明を見出し、チームにスカウトする。そしてこの東亜の入団が、万年Bクラスの弱小球団「埼京彩珠リカオンズ」の運命を大きく変えることになる…！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 内海賢二
   type: cast
 - !ruby/hash:TagHash

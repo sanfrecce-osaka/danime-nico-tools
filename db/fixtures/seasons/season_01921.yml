@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/27/1/22271_1_6.png?1
 outline: 主人公はあなた―――『てーきゅう』シリーズ、『ヤマノススメ』シリーズを手がけるスマイラル・アニメーションの“バーチャルアニメ”最新作。あなた（One）の部屋（Room）ではぐくむ3人の女の子たちとの物語。個性あふれる女の子たちとの甘く、楽しい日々があなたの視点から描かれます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/51/5/21515_1_6.png?1
 outline: 住人の半数が特別な能力を持つ街、咲良田(さくらだ)。過去に体験したすべての記憶を思い出すことができる【記憶保持】の能力を持つ浅井ケイと、“世界を最大3日分巻き戻す能力”【リセット】を持つ春埼美空。彼女自身も、【リセット】の影響で、記憶を失ってしまうが、【リセット】によって記憶を失わないケイと力を合わせることで、二人は過去をやり直し、現在(いま)を変えることができる―。しかし、その二人にもやり直せない“過去”があった。それは、二年前に同級生の相麻菫を【リセット】の影響で失ってしまったこと。二人は【奉仕クラブ】という部活に所属し、生徒たちの様々な依頼をこなす日々を送りながら、相麻菫を生き返らせる方法を探っていた。そんな彼らのもとにある依頼が舞い込む―｢死んだ猫を生き返らせてほしい｣。過去に起こった“悲しみ”を消すために、少年と少女は時を駆け巡り、世界を変えていく―
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 山田悠希
   type: cast
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：下谷智之
+  name: アニメーション制作：david production
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：david production
+  name: キャラクターデザイン：下谷智之
   type: staff
 - !ruby/hash:TagHash
   name: 監督：川面真也

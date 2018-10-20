@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/13/8/11138_1_6.png?1
 outline: 時はアイドル戦国時代。これは、この荒波を生き抜く7人の少女達｢Wake Up, Girls!｣の物語である。東北・仙台にある廃業寸前の弱小プロダクション、グリーンリーヴズ・エンタテインメント。かつては手品師、グラビアアイドル、占い師などが所属していたが、唯一活動していた最後のタレントもついに辞めてしまう。所属タレント“0(ゼロ)”という危機的状況の中、事務所社長・丹下の思い付きでアイドルユニットをプロデュースする事を決意する。傍若無人な社長の元、マネージャー松田は不満を持ちながらも、アイドルの原石を探しに街へ出る。そんな中、マネージャー松田は、ある少女と必然的な出会いを果たし…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 永野愛理
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：神前暁
+  name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：MONACA
+  name: 音楽：神前暁
   type: staff
 - !ruby/hash:TagHash
   name: 監督：山本寛

@@ -6,6 +6,9 @@ outline: 記憶のデータ化ができるようになり、肉体の死がも�
   君はダレ？ どれが君？ 僕はダレ？」ふたりが再び出会ったとき、いったい何が起こるのか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

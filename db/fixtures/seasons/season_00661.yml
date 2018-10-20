@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/3/11293_1_6.png?1
 outline: ジャングルの村に母親・ウェダと暮らす少年ハレ。だが、ハレや村の人々は、食料の獲得こそ狩猟採集だが、価値観は都会人と変わらず、丸太小屋の中には、テレビもゲーム機もある暮らしをしていた。そんなハレの前に、現れた美少女グゥ。見た目は人間でも中身はバケモノ。出会いがしらグゥに丸呑みにされたハレは、その体内に異世界が広がっているのを体験する。しかもそこに暮らす人々までいるのだ。吐き出されて戻ったハレは、自分にだけ本性を見せ、それ以外の人々には可愛い少女に見えるグゥと一緒に暮らすことになる。グゥの魔の手から村人を守ろうと、人知れず気苦労を重ねるハレの毎日が始まった――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 保志総一朗
+  name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
-  name: 玄田哲章
+  name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
   name: 森久保祥太郎
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 白鳥由里
   type: cast
 - !ruby/hash:TagHash
-  name: 麻生かほ里
+  name: 渡辺菜生子
   type: cast
 - !ruby/hash:TagHash
-  name: 愛河里花子
+  name: 麻生かほ里
   type: cast
 - !ruby/hash:TagHash
   name: 監督：水島努

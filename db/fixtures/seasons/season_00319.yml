@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/89/1/20891_1_6.png?1
 outline: 二十世紀に地球を襲った大災害・落星雨(インベルティア)により多くの都市が壊滅したが、隕石から発見された未知の元素である万応素(マナ)は、人類の科学技術を発展させ、《星脈世代(ジェネステラ)》と呼ばれる特異な力を持った新人類を生み出すこととなった。世界最大の総合バトルトーナメント《星武祭(フェスタ)》の舞台、水上学園都市“六花”、通称・アスタリスクでは、毎年六つの学園が覇を競っていた。タッグ戦《鳳凰星武祭(フェニクス)》に出場した星導館学園の天霧綾斗は《華焔の魔女(グリューエンローゼ)》ユリスと共に大会制覇を目指す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -14,19 +23,19 @@ tags: !ruby/array:Hashie::Array
   name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
+  name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
   name: 赤﨑千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
   name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
-  name: 田村睦心
-  type: cast
-- !ruby/hash:TagHash
   name: 南央美
-  type: cast
-- !ruby/hash:TagHash
-  name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
   name: 内田雄馬

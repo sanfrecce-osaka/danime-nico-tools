@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/71/3/10713_1_6.png?1
 outline: 時は戦国――関ヶ原の戦いが始まる約1年前のこと。信ずるべき道を見出せずに生きていた若き伊賀忍者・霧隠才蔵は、出雲から逃げてきた巫女・伊佐那海が刺客に襲われるところに出くわす。伊佐那海は徳川家康の手の襲撃者に社の全てを焼かれ、信州の真田幸村を頼ろうとしているところであった。一方、その真田幸村は、乱世の切り札となる10人の強者―｢真田十勇士｣を集めようとしていた。続々と集結する猛者たちが繰り広げる戦いの中で、伊佐那海に秘められた不思議な力が発動して…?!史上最高に美しい、華麗なる真田十勇士!この10人が歴史を変える力となる…!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 小野大輔
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 子安武人
@@ -20,19 +26,19 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 浅川悠
+  name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
-  name: 中井和哉
+  name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
   name: 橘田いずみ

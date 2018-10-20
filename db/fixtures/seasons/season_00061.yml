@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/1/11171_1_6.png?1
 outline: 昔は仲良しだった幼馴染たち。でも、高校生になった彼らの距離はいつの間にか離れてしまっていた。ヒキコモリぎみの主人公”じんたん”。ギャル友達に流され気味の”あなる”。進学校に通う”ゆきあつ”と”つるこ”。高校に進学せず旅を重ねる”ぽっぽ”。そして、仲良しだった小学生の頃から、それぞれが変わっていく中で変わらない少女”めんま”。あの日、”お願いを叶えて欲しい”とじんたんにお願いをするめんま。困りながらも”めんまのお願い”を探るじんたん。そのめんまの願い事がきっかけとなり、それぞれの領域でそれぞれの生活を送っていた幼馴染達は再びかつてのように集まりはじめる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash

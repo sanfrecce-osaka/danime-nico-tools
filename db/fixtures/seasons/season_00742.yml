@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/19/4/20194_1_6.png?1
 outline: 私立亜鐘学園高校。そこは前世の記憶に目覚めた若者たち――「救世主（セイヴァー）」が集う学び舎。ある者は、前世の記憶をもとに自らの身体から《通力（プラーナ）》を汲み出し武器と体術の戦技をもって敵を砕く「白鉄（しろがね）」となり、またある者は、物理を越える異能《魔力（マーナ）》を自在に操り、この世にあらざる魔術の業で敵を滅ぼす「黒魔（くろま）」となる。そんな亜鐘学園に、一人の少年が入学した。彼の名は「灰村諸葉」。史上初めて、白鉄と黒魔二つの前世《剣聖×禁術保持者》の力に目覚めた彼は、それぞれの前世で永遠の絆で結ばれた最愛の少女2人とも同時に再会を果たし、誰よりも特別な運命を歩み始める――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 石川界人
+  name: 小倉唯
   type: cast
 - !ruby/hash:TagHash
-  name: 小倉唯
+  name: 石川界人
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：ディオメディア

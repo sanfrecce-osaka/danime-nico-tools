@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/46/7/10467_1_6.png?1
 outline: 時は平安時代の中期。飢饉と疫病により、都はすっかり荒廃していた。しかし、そんな状況に際してもなお、武士と陰陽師は覇権争いのための醜い争いを続けていた。苦しむ民を見かねた朝廷は、弓の名手である源頼光(みなもとのらいこう)に、都に平安をもたらす不思議な霊力を持つという、伝説の勾玉を探すように命じるのだが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：川井憲次
   type: staff
 - !ruby/hash:TagHash

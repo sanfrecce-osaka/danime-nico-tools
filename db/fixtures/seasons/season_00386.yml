@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/2/10392_1_6.png?1
 outline: 楢崎町では二つの不思議な現象が起きている。一つは決して消えることのない｢虹｣。もう一つは生涯一度だけ誰かに贈ることができる｢Gift｣という不思議な力。ある日、離れ離れになっていた義妹・莉子が春彦の元に戻ってきた。莉子との再会、変化する幼馴染・霧乃との関係。春彦をめぐる三角関係の物語が今動き始める!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 妹
+  name: 製作年：2006年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2006年
+  name: 妹
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

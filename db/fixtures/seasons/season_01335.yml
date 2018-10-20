@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/96/7/20967_1_6.png?1
 outline: 世界中にたくさんある魔導士ギルド。それは魔導士たちに、いろんな仕事を仲介してくれる所！！なかでも｢妖精の尻尾(フェアリーテイル)｣は何でもやりすぎちゃうお騒がせなギルド。炎を自在に操る滅竜魔導士(ドラゴンスレイヤー)のナツ、ナツの相棒でしゃべって、飛べる猫のハッピー、星霊魔導士のルーシィ、氷の造形魔導士のグレイ、鎧の美人魔導士エルザなど、個性たっぷり、気持ちのいい連中がいっぱい！！楽しいこと、ヤバイ(？)こと、今日もきっと、何かが起こるハズ・・！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 中原麻衣
@@ -50,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：石平信司
   type: staff
 - !ruby/hash:TagHash
-  name: 製作：サテライト
+  name: 原作：真島ヒロ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：真島ヒロ
+  name: 製作：サテライト
   type: staff
 - !ruby/hash:TagHash
   name: 製作：株式会社ダックスプロダクション

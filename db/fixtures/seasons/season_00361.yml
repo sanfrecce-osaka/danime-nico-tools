@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/40/2/10402_1_6.png?1
 outline: 時は22世紀。木星から現れた謎の侵略者達の脅威が地球に迫った時、民間企業のネルガル重工は、独自に大型新造戦艦・ナデシコを建造した。テンカワ・アキトは、幼い頃会った覚えのある少女を追って、機動戦艦ナデシコに出会う。ミスマル・ユリカとともに、木星からの侵略者と闘う事になったアキトと地球の運命は?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash

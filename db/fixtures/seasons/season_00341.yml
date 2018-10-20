@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/8/10228_1_6.png?1
 outline: ''
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash

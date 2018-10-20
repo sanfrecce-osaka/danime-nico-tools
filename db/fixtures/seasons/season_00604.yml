@@ -5,10 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/69/3/10693_1_6.png?1
 outline: 舞台は2010年夏の秋葉原。厨二病から抜け出せない大学生である岡部倫太郎は、｢未来ガジェット研究所｣を立ち上げ、用途不明の発明品を日々生み出していた。だが、ある日、偶然にも過去へとメールが送れる｢タイムマシン｣を作り出す。世紀の発明と興奮を抑えきれずに、興味本位で過去への干渉を繰り返す。その結果、世界を巻き込む大きな悲劇が、岡部たちに訪れることになるのだが・・・悲劇を回避するために、岡部の孤独な戦いが始まる。果たして彼は、運命を乗り越えることができるのか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: STEINS;GATEシリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
   type: other
 - !ruby/hash:TagHash
   name: 実写化・舞台化

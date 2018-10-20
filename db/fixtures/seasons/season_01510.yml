@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/29/5/10295_1_6.png?1
 outline: 鎌倉近くの湘南海岸で、｢イルか屋｣という湘南きっての便利屋を営んでいる小学6年生の海(うみ)・空(そら)・碧(あお)の三姉妹。"どんな仕事も断らない!"をモットーに、腕がイイと評判で毎日大忙し。そんなある日、イルか屋始まって以来の大仕事が舞い込んできた。はたして三姉妹は'仕事キッチリ'完了出来るのか!?ギャクあり、愛あり、"手話"ありのハチャメチャだけど、爽快で、愛と笑いがいっぱいの物語です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash

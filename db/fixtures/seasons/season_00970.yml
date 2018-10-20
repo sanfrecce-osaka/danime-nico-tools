@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/18/7/20187_1_6.png?1
 outline: 2003年より｢週刊少年ジャンプ｣（集英社刊）で連載がスタートし、コミックスの累計発行部数が2100万部を超える大ヒット作品｢DEATH NOTE（デスノート）｣。｢そのノートに名前を書かれた人間は死ぬ｣という力を持つ、死神が落とした恐るべき“デスノート”。天才的な頭脳を持ち、退屈を持て余していた高校生･夜神月（ヤガミ･ライト）がそれを拾った時から、すべては始まった。デスノートを使って、世の中に溢れる犯罪者たちに次々と死の制裁を下していく月は、いつしか“キラ”と呼ばれるようになる。果たして月＝キラは、世界を救う救世主なのか。それとも独裁的な殺人者なのか。キラを崇拝する者、その行為を否定する者。世界は大きく揺れ動いていく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：平野義久
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：タニウチヒデキ
+  name: 監督：荒木哲郎
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：荒木哲郎
+  name: 音楽：タニウチヒデキ
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：井上敏樹

@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/49/6/11496_1_6.png?1
 outline: パティシエになるという夢を持つ主人公・春野小百合は、青山にある製菓のエリート校「フルリール製菓学校」に入学する。同級生の皐月遼、一級の技術を持った講師の葵井三斗希、花房ジルベール、涼芳之助という魅力的で個性的なメンバーに囲まれ、夢をかなえるために一途に努力を重ねるなかでさまざまな事件が起こり…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 木村良平
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 木村良平
   type: cast
 - !ruby/hash:TagHash
   name: 佐倉綾音

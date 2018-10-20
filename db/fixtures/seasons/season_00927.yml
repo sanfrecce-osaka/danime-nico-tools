@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/1/10981_1_6.png?1
 outline: 生徒や先生、果ては学園長までもが個性派ぞろいの私立竜鳴館(しりつりゅうめいかん)に 転校してきた近衛素奈緒。慣れない学園生活に戸惑いながらも大好きな演劇をする為に演劇部を作ろうと生徒会室に向かうのだが、生徒会長・霧夜エリカが取り仕切る女帝政治の場所であった。さらに過去にとある因縁のある幼馴染の対馬レオと最悪な再会をしてしまう…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -38,7 +41,7 @@ tags: !ruby/array:Hashie::Array
   name: 中國卓郎
   type: cast
 - !ruby/hash:TagHash
-  name: 佐久間紅美
+  name: 織田圭祐
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：トライネットエンタテインメント

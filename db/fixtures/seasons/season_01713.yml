@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/4/21524_1_6.png?1
 outline: ハーベストショー。それは、穀物たちが自身の美味しさを周囲にアピールするライブ。ハーべスター。それは、素晴らしいショーをする穀物に捧げられる称号。減反政策に食の欧米化、穀物の人気がパンに取って代わられた昨今──食卓は、パンのハーべスター『イーストキング』の独壇場となっていた。廃校寸前の穀立稲穂学園に入学した新米5人は、米の人気を取り戻すため『ラブライス』を結成。イーストキングを超えるべく、ハーベストショーの練習に励む……。お米を擬人化した、笑いあり・熱血ありのハートフル""米""ディ！食卓に穀物は２つもいらない。どちらが真のハーべスターとなるのか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 石井マーク
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木裕斗
+  name: 大河元気
   type: cast
 - !ruby/hash:TagHash
-  name: 大河元気
+  name: 鈴木裕斗
   type: cast
 - !ruby/hash:TagHash
   name: 佐々木李子

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/13/9/20139_1_6.png?1
 outline: 幼い頃に光言宗の僧侶・田神景世に拾われ、児童福祉施設・大麟館で育てられた少年・花神旺里（オーリ）。彼はある夜、景世が住職を務める世空寺で、美しい少女に出会う。少女の身体は冷たく、生きている人のそれとは違う。少女の名は星村眞姫那（マキナ）。彼女は、景世の下で屍狩りをしている屍姫だった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
+  name: てらそままさき
   type: cast
 - !ruby/hash:TagHash
-  name: てらそままさき
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 菊地美香
@@ -47,13 +56,13 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：GAINAX
   type: staff
 - !ruby/hash:TagHash
+  name: 音楽：住友紀人
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：むらた雅彦
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：會川昇
-  type: staff
-- !ruby/hash:TagHash
-  name: 音楽：住友紀人
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：久保田誓

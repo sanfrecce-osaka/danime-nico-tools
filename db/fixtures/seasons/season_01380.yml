@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/62/4/21624_1_6.png?1
 outline: 2XXX年、地球が生み出したスポーツ「バスケットボール」が全宇宙的なスポーツとなり、その頂点に君臨する「宇宙リーグ」があった。身体能力の高い異星人が活躍するこの宇宙リーグに、地球人最強チームで乗り込む計画がスタートするが……、果たして!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
-  name: 浅川悠
+  name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
-  name: 稲田徹
+  name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
   name: 飯塚雅弓
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 瀧本富士子
   type: cast
 - !ruby/hash:TagHash
-  name: 藤田大助
+  name: 伊藤実華
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤実華
+  name: 藤田大助
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：トムス・エンタテインメント

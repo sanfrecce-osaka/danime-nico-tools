@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/80/8/10808_1_6.png?1
 outline: 水と緑の惑星アクアフォール。突如降り注いだ隕石群は悪しきモノを放ち、それにより、大地に生きる全ての生き物に消滅の危機が広がっていった。｢あたし、シロップ。早速だけど、あなた、アクアフォール防衛隊に入隊しない？只今、隊員大募集中なのっ。｣お喋りでいつも腹ぺこな妖精シロップが見込んだ隊員候補は3人の竜族の少女。笑顔を忘れた少女・レヴィアタン、自由奔放なお嬢様・バハムート、心優しい力持ち・ヨルムンガンド。竜族の3人と小さな妖精がアクアフォール防衛隊として結束してゆくグローイングアップ・ストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

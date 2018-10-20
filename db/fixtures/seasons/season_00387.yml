@@ -5,8 +5,14 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/6/11146_1_6.png?1
 outline: どんな時代や場所へも客の望む商品を届けるタイムリース社。その配達員である放夢ランと弟分のハル坊、サポートロボットの2-3は、リース品を運んで様々な時代へタイムスリップする。だが、ライバル企業であるシャレコーベリース社の支社長ムンムンとその部下二人が、事あるごとにランたちの仕事を妨害。救援を求めるハル坊のピンチ通信を受け、正義のヒーロー・イッパツマンが時空を超えて駆け付ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 富山敬
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
 - !ruby/hash:TagHash
   name: 八奈見乗児
   type: cast
@@ -14,13 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
+  name: 富山敬
+  type: cast
+- !ruby/hash:TagHash
+  name: 郷里大輔
+  type: cast
+- !ruby/hash:TagHash
   name: 肝付兼太
   type: cast
 - !ruby/hash:TagHash
   name: 小原乃梨子
-  type: cast
-- !ruby/hash:TagHash
-  name: 郷里大輔
   type: cast
 - !ruby/hash:TagHash
   name: たてかべ和也

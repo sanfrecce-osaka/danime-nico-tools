@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/2/10142_1_6.png?1
 outline: シミュレーションRPGとして発表され、その独創的な世界観と骨太なストーリー、豊かなキャラクター性でアニメ、ラジオでも大展開した『うたわれるもの』がOVAで待望の大復活!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

@@ -6,6 +6,12 @@ outline: 鬼、妖怪、魔物・・・。そのような妖(アヤカシ)から
   天河優人(あまかわ ゆうと)。7年前に両親を亡くし、天涯孤独となっていた彼が誕生日を迎えたある朝。謎の美少女緋鞠(ひまり)が突然 現れる。その日を境に、優人に襲いかかる数々の妖たち!優人こそが、《鬼斬り役十二家》のひとつ、天河家の末裔。そして緋鞠は、天河家に忠誠を誓った《猫の妖》だった。優人と緋鞠に襲い掛かるのは、恐ろしい妖だけではない。美少女(みたいな何か)が、次から次へと現れて、優人に対して誘惑合戦開始!?優人の幼なじみ凛子も巻き込んで、恋のバトルが始まった!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
@@ -18,10 +24,10 @@ tags: !ruby/array:Hashie::Array
   name: 野水伊織
   type: cast
 - !ruby/hash:TagHash
-  name: 大亀あすか
+  name: 真堂圭
   type: cast
 - !ruby/hash:TagHash
-  name: 真堂圭
+  name: 大亀あすか
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：ZEXCS

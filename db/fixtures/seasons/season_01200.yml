@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/24/7/20247_1_6.png?1
 outline: マルコのお母さんは、貧しい人たちの病院を経営するお父さんを経済的に助けようと、イタリアからアルゼンチンへと出稼ぎに行きました。一年後、病気になったという手紙が来てから連絡が途絶えてしまったので、マルコはお父さんを説得して一人でアルゼンチンまで旅にでます。ペッピーノ一座や旅先で知り合った人に助けられながら、マルコは多くの苦難を乗り越えていきます…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 永井一郎
   type: cast
 - !ruby/hash:TagHash

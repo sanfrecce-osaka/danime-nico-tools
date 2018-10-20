@@ -5,7 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/02/4/11024_1_6.png?1
 outline: 相馬鏡(そうまあきら)は、とある田舎にあるヒマラヤ第三工業高校に通う、メガネをかけた男子高校生。誰よりもメガネを愛し、メガネをかけていることに誇りを持っている。そんな彼の大いなる野望のもとに設立した｢メガネ部｣に集まった(もしくは、集めさせられた)、鉢嶺拓磨(はちみねたくま)、三鍋友紀也(みなびゆきや)、鎌谷光希(かまたにみつき)、木全隼人(きまたはやと)とともに、汗を流し、笑い、泣き、時に爆発(!)してメガネに情熱を注ぐ―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 諏訪部順一
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮田幸季
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤羽根健治
+  type: cast
+- !ruby/hash:TagHash
+  name: 田丸篤志
+  type: cast
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
   type: other
 - !ruby/hash:TagHash
   name: メガネ

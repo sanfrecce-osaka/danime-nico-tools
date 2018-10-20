@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/6/10606_1_6.png?1
 outline: ラップに合わせて今日の一言!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：べんぴねこ
   type: staff
 - !ruby/hash:TagHash

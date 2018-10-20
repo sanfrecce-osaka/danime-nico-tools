@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/7/22087_1_6.png?1
 outline: ハーレム王に俺はなるっ！　私立駒王学園に通うバカでスケベな男子高校生イッセーこと兵藤一誠は、その身に強大な神器(セイクリッド・ギア)を宿していたがために命を奪われてしまうが、学園一の美少女にして、憧れの先輩であったリアス・グレモリーの手によって、悪魔として転生を果たす。しかしその代償はリアスの下僕悪魔として生きることだった！　エロいけど、ポジティブで真っ直ぐな一誠が、ご主人様にして上級悪魔のリアスとその眷属の美少女悪魔たちに囲まれながら、いつの日か自らも上級悪魔となり、ハーレムを築くという夢を叶えるため、様々な敵を打ち倒していく努力と友情と熱血の学園バトルエンターテインメント！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

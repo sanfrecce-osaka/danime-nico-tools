@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/00/3/11003_1_6.png?1
 outline: ある日突然、強盗に殺された春海和人。だが本バカゆえの執念で奇跡の生還を果たした――ダックスフンドの姿で。「こんな姿じゃ本読めないじゃん!!」悶える彼の前に現れたのは、ハサミが凶器のサド女、夏野霧姫。でも、犬である和人の声が分かるし、しかもその正体は彼が大ファンの作家。そんな人生（犬生?）、いったいどうなるの!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 阿澄佳奈

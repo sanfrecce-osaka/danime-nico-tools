@@ -6,6 +6,12 @@ outline: 春、新入生がクラブを決めるころ。田井中律(たいな�
   つむぎ)という仲間を加えて、最後の一人をさがしているころ、｢軽音部｣を軽い音楽(口笛など)と勘違いしていた楽器初心者・平沢唯(ひらさわ ゆい)が入部してくる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -49,6 +55,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 芳文社
+  type: other
+- !ruby/hash:TagHash
+  name: アイスが食べたくなる
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

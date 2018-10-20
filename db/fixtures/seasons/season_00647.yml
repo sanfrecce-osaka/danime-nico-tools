@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/63/9/21639_1_6.png?1
 outline: 人々の時間を喰らいし悪魔……その名は「計」時を操りそれに対抗するのは時間の支配者「クロノスルーラー」計によって自らの「時間」を奪われたヴィクトは相棒の霧と共に時間という「過去」を奪還すべく時を操り、戦い続ける……時間操作系スタイリッシュアクション、開幕――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash

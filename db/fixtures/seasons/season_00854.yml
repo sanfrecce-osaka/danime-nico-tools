@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/15/9/10159_1_6.png?1
 outline: 恋する乙女の神通力ラブストーリー明治時代から続く名門女子学部｢フローレス｣と、近年創設された男女共学の一般学部｢スライトリー｣が共存する｢創聖学院｣。そこに通う｢泉戸裕理｣は、学院で出土した遺跡で500年にわたる封印から解放された｢太転依(たゆたい)｣と呼ばれるその土地を守護する存在に出逢う。その際、太転依の1人である｢綺久羅美守毘売(きくらみかみのひめ)｣より、自らの化成である少女｢ましろ｣を託される。500年越しの悲願である、人間と太転依の共存を実現させるために--
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash

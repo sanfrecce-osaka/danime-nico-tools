@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/37/0/11370_1_6.png?1
 outline: 春。都会から離れ穏やかな時間の流れる田舎町。桜の舞い散るなか八十稲羽駅に降り立つひとりの少年・鳴上 悠。家庭の事情から叔父のいるこの町へやってきた悠は、地元の八十神高校へと転入することとなる。そしてはじまる学園生活―。放課後のショッピングモール。街で起こる連続殺人事件。深夜に流れるマヨナカテレビ…。悠と仲間たちに“今度は”一体どんな日々が待ち受けているのだろうか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

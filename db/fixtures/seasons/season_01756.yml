@@ -5,7 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/75/5/21755_1_6.png?1
 outline: 銀座、初代五ェ門の歌舞伎で感極まる五ェ門に、突如襲いかかる謎の忍者集団。この様子を窺っていたのが香港マフィアの陳珍忠だと知ったルパンは次元と香港へ向かう。不二子を交えた三人は、やがて陳の口から彼の狙いが1912年に沈んだタイタニック号に眠る龍の置き物と知る。それは、かつてルパン１世も狙っていた代物だった。陳自身も手を尽くしたものの見つからなかったため、ルパンに探せと強要する。その頃、置き物と対になる巻物を手にいれた五ェ門に、またも忍者の襲撃が。これを救ったのがくノ一・桔梗、五ェ門と知己の美少女だった。一方、ルパンは陳と別個に自分たちだけでタイタニックから辛くも龍の置き物を発見。だが、そんなルパンたちに置き物を渡せと迫るのは五ェ門だった。斬鉄剣をルパンが置き物で受け止めた時、まばゆい閃光が…！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
   name: 増山江威子
@@ -14,13 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash
-  name: 銀河万丈
+  name: 松井菜桜子
   type: cast
 - !ruby/hash:TagHash
   name: 井上真樹夫
-  type: cast
-- !ruby/hash:TagHash
-  name: 松井菜桜子
   type: cast
 - !ruby/hash:TagHash
   name: 滝口順平

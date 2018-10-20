@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/12/0/10120_1_6.png?1
 outline: "｢やがて王妃の胎の内より出でし双子のうち、女児を誅すべし。その者、生まれ出てより十と六の歳月を経た運命の日、世界を滅ぼす者なり。世界の秩序を打ち砕き、混沌をもたらす猛毒なり。｣<聖グレンデルの托宣>がラインヴァン王国にもたらした不吉な預言により、一人の王女の運命が大きく変わる。生まれたばかりの王女は秘密裏に抹殺され、存在自体が王室の禁忌として封印された。いつしか<廃棄王女>という言葉だけが残り、月日は流れていった。しかし<廃棄王女>は生きていた。それがパシフィカ・カスールである。小さな村で義兄シャノン、義姉ラクウェルと平凡な生活を送っていた彼女だが、育ての父が死んでから、運命は大きく動き出す・・・。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 脚本：吉田玲子
   type: staff
 - !ruby/hash:TagHash

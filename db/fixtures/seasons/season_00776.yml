@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/9/10429_1_6.png?1
 outline: 宇宙を放浪するグッドサンダー隊の3人とドクーガの3人がたどり着いたのは、ある砂漠の惑星の街だった。翌朝、レミーのもとに、｢お前は2日後に死ぬ｣という不気味なメッセージが届けられる。その日から、レミーの周囲には不可解な事件が頻発するようになった。やがて、他の5人も同様のメッセージを受け取る。街へ出たレミーは暴徒につかまりかけるが、次々と現われる他の5人に救われる。そして、ブンドルと共に街の外へ脱出しようとし、恐るべきことを知る。この街は、外へ出ようとしても戻ってしまう出口のない街だったのだ。脱出をあきらめた6人は、敵の本拠・街の中心の神殿を破壊することを決意した。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 塩沢兼人
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash
   name: 田中秀幸

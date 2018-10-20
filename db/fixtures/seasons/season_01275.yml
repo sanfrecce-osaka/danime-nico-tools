@@ -6,6 +6,12 @@ outline: 生田美月、刑事ドラマオタク・25才・処女。加えて、
   めざせ、初H(ヒット)
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -51,10 +57,10 @@ tags: !ruby/array:Hashie::Array
   name: 天花寺伸宏
   type: other
 - !ruby/hash:TagHash
-  name: スタジオライブ
+  name: m.o.e.
   type: other
 - !ruby/hash:TagHash
-  name: m.o.e.
+  name: スタジオライブ
   type: other
 - !ruby/hash:TagHash
   name: IMAGIN

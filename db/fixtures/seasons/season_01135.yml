@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/00/8/10008_1_6.png?1
 outline: 白城学園に通う主人公・綾瀬裕人のクラスメイトである乃木坂春香は、容姿端麗、才色兼備な深窓の令嬢であり、｢白銀の星屑(ニュイ・エトワーレ)｣・｢鍵盤上の姫君(ルミエール・ドウ・クラヴィエ)｣など数多くの美称を持つ学園のアイドルである。だが、ある日裕人が親友・朝倉信長の代わりに図書室に本を返却しに行った際に、偶然にも彼女の重大な秘密を知ってしまう。実は彼女は・・・アキバ系だったのだ――。それを知ってしまった裕人はいつしか春香と交際することになってしまい……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 久川綾

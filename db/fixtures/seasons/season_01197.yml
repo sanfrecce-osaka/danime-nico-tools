@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/6/20146_1_6.png?1
 outline: ようこそ、はなまる幼稚園へ！ここでは、元気いっぱいの園児たちが楽しく毎日を過ごしています。恋する女の子・杏ちゃんは担任の土田先生のことが大好き。その恋を応援するのはクールで物知りな柊ちゃんと、純情可憐な小梅ちゃん。ちょっぴり的はずれなラブアタックをしてみたり、幼稚園の外に出て探偵ごっこをしてみたり･･･。ときにはほかの園児たちとケンカをしてしかられることもあるけれど、仲良し３人組はすくすくと成長していきます。そんな園児たちの、恋の遊びにお昼寝に忙しい、はなまるな日常を描いたなごみ系アニメです。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 水原薫
   type: cast
 - !ruby/hash:TagHash
-  name: 大亀あすか
+  name: 真堂圭
   type: cast
 - !ruby/hash:TagHash
-  name: 真堂圭
+  name: 大亀あすか
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：スターチャイルドレコード

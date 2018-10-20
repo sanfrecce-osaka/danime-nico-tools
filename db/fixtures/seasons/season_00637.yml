@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/40/0/10400_1_6.png?1
 outline: TVアニメの第2シリーズ。海洋汚染を続けてきた人類を侵略するために深海からやってきたイカ娘。だが、“海の家れもん”すら制圧下におけず、そこで働かされるはめに。そこで相沢一家と暮らすようになり、いろんな人とのほのぼのした交流もある楽しい毎日。果たしてイカ娘が地上侵略を達成する日はくるのだろうか…?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
@@ -30,6 +36,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 主人公がかぶりもの
   type: other
 - !ruby/hash:TagHash
   name: 水島努

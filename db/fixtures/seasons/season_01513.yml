@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/59/0/20590_1_6.png?1
 outline: いまだに語り継がれる金田伊功によるオープニング、いのまたむつみ、影山楙倫が手がけたキャラクターデザイン……アニメが一番アニメらしかった時代の傑作アクション・アドベンチャー！合体ロボット・アニメの異端児｢魔境伝説アクロバンチ｣　人類が誕生する数百万年前から存在する、謎の大秘宝クワスチカ。アマチュア考古学者・タツヤ蘭堂と彼の子どもたちは、この秘宝を求め、万能ロボット・アクロバンチに乗って世界を駆け巡る。だが、彼らの行く手には、同じくクワスチカを必要とするゴブリン結社が待ち受けていた！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -26,19 +32,19 @@ tags: !ruby/array:Hashie::Array
   name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: 中原茂
-  type: cast
-- !ruby/hash:TagHash
   name: 加藤精三
   type: cast
 - !ruby/hash:TagHash
-  name: 杉山佳寿子
+  name: 広瀬正志
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原茂
   type: cast
 - !ruby/hash:TagHash
   name: 石森達幸
   type: cast
 - !ruby/hash:TagHash
-  name: 広瀬正志
+  name: 杉山佳寿子
   type: cast
 - !ruby/hash:TagHash
   name: 製作：壷田重三

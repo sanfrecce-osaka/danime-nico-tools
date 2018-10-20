@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/53/2/21532_1_6.png?1
 outline: "“王室教師”それは王子を教育する専属家庭教師であり、国中から選りすぐられた最高の教師のみに与えられる役職。グランツライヒ王国に王室教師として招かれたハイネ・ヴィトゲンシュタイン。立派な次期国王候補を育て上げることを命じられるが、王宮でハイネの目の前に現れたのは、揃いも揃って超個性的な4人の王子！しかも、4兄弟！前任の王室教師全てが、手に負えず逃げ出した4王子に挑むハイネの教育方法とは…？"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 蒼井翔太
   type: cast
 - !ruby/hash:TagHash
-  name: 安達勇人
+  name: 植田圭輔
   type: cast
 - !ruby/hash:TagHash
-  name: 植田圭輔
+  name: 安達勇人
   type: cast
 - !ruby/hash:TagHash
   name: 安里勇哉

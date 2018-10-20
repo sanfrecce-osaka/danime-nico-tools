@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/6/22086_1_6.png?1
 outline: 敵＜アマルガム＞のガウルン、ゲイツといった強敵を倒し、いつもの平和な日常が戻った「陣代高校」。しかし、そんな日々は長くは続かなかった・・・。失態続きの＜アマルガム＞は、本気で相良宗介たちに襲いかかってくる。世界各地の＜ミスリル＞の基地が強襲される！テッサ率いるトゥアハー・デ・ダナンが格納されている「メリダ島」もたくさんのミサイル、アームスレイブによって攻撃される。一方、日本の宗介、かなめにも魔の手が追っていた！！再び、宗介、かなめ、テッサたちに試練が訪れる！！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -17,28 +26,28 @@ tags: !ruby/array:Hashie::Array
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
-  type: cast
-- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚明夫
-  type: cast
-- !ruby/hash:TagHash
-  name: 津田健次郎
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
-  name: ゆかな
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: ゆかな
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：佐橋俊彦

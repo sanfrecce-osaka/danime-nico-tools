@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/61/2/11612_1_6.png?1
 outline: ある日突然、月が爆発して7割方蒸発した。その犯人と称し、しかも来年三月には地球をも爆破するという超生物がやってきたのは、何故か中学校の教室。なんとここで教師をするというのだ。人知を超えた能力を持ち、軍隊でも殺せないその怪物の暗殺を、各国首脳はやむをえず、そのクラス、椚ヶ丘中学校3年E組の生徒に委ねることになる。なんと成功報酬は百億円。落ちこぼれクラス、「エンドのE組」の生徒たちは、卒業までにこの暗殺対象の教師、「殺せんせー」を殺せるのか・・・！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 浅沼晋太郎
+  name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 沼倉愛美
+  name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash
   name: 矢作紗友里

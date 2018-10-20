@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/8/10398_1_6.png?1
 outline: シリーズ累計120万部突破!今、一番話題のライトノベルが、待望のアニメ化!ライトノベルの名門・第20回ファンタジア大賞の佳作を受賞。ファンタジア文庫から刊行されるやいなや、次々と繰り出されるギャグと、闇鍋をつつく様なカオスな展開で大人気となった《ド変態ライトノベル》『これはゾンビですか?』が、ついにアニメ化!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

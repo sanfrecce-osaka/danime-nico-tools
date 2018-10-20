@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/6/21986_1_6.png?1
 outline: 菜乃は生徒に慕われる人気教師。しかし、男子生徒である宗二にだけはいつも手を焼いていた。そんなある日、知り合いの紹介でお見合いをする事に。奥手ゆえに最初は不安だらけの菜乃だったが、次第に打ち解け、お見合い相手と良いムードになる。しかし、その相手とは…まさかの変装した宗二だった！お見合いの話をきっぱり断るも、それを機に所かまわず攻めてくる宗二。真面目な教師、菜乃は宗二の愛を振り切れるの…?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 新垣樽助
   type: cast
 - !ruby/hash:TagHash

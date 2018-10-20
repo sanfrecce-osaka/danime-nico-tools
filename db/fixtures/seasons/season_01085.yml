@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/08/5/21085_1_6.png?1
 outline: いまだ人と、人ならざるものの世界が、分かれてはいなかった時代。ヘンドリクセンとドレファスの二大聖騎士長の支配から王国を奪還した＜七つの大罪＞とエリザベス、ホーク。王国誕生祭も無事に終わり、リオネス王国にようやく平和が訪れた。だが、次なる脅威の予兆は、確実に生まれつつあった。そんな気配を感じてか感じていないのか、＜七つの大罪＞たちはようやく訪れた日常を満喫していた。しかし、彼らの日常が普通で済むはずはなく...。これは、＜七つの大罪＞が次なる戦いに向かうまでの、つかの間の日々を描いたスペシャルな物語である！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

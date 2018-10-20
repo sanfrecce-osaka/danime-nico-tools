@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/13/4/10134_1_6.png?1
 outline: ドキドキスペースという異次元にある世界で,初代勇者ラムネスが大邪神アブラームをキラキラ神霊界へ封じてから5千年…。2代目ラムネスが,封印の隙間をついて復活した妖神ゴブーリキを消滅させた。更に時は流れ…平和を取り戻した世界に,大邪神アブラームが復活しようとしていた。新たな勇者が必要となり,二人の巫女・パフェとカカオは,勇者を探しに行く。そして,二人が見つけ出した少年・馬場ラムネードは,ゲームが大好き!女の子が大好き!!ノリがよくって行き当たりばったりだけど,持ち前の熱血で3代目ラムネスとなりアブラームに立ち向かう。ここに再び,新たなる勇者ラムネスの冒険と戦いの物語が幕を開ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
 - !ruby/hash:TagHash
   name: 草尾毅
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
   name: 矢島晶子
@@ -17,19 +23,19 @@ tags: !ruby/array:Hashie::Array
   name: 松本保典
   type: cast
 - !ruby/hash:TagHash
-  name: こおろぎさとみ
+  name: 根谷美智子
   type: cast
 - !ruby/hash:TagHash
-  name: 根谷美智子
+  name: こおろぎさとみ
   type: cast
 - !ruby/hash:TagHash
   name: 川上とも子
   type: cast
 - !ruby/hash:TagHash
-  name: 今井由香
+  name: 横山智佐
   type: cast
 - !ruby/hash:TagHash
-  name: 横山智佐
+  name: 今井由香
   type: cast
 - !ruby/hash:TagHash
   name: 矢尾一樹
@@ -38,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 優希比呂
   type: cast
 - !ruby/hash:TagHash
-  name: 氷上恭子
+  name: TARAKO
   type: cast
 - !ruby/hash:TagHash
   name: 監督：ねぎしひろし
@@ -68,13 +74,13 @@ tags: !ruby/array:Hashie::Array
   name: テレビ東京
   type: other
 - !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+- !ruby/hash:TagHash
   name: 葦プロダクション
   type: other
 - !ruby/hash:TagHash
   name: 佐藤俊彦
-  type: other
-- !ruby/hash:TagHash
-  name: 製作年：1996年
   type: other
 - !ruby/hash:TagHash
   name: 田熊純

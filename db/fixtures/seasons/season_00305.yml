@@ -5,19 +5,37 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/59/6/11596_1_6.png?1
 outline: 海を蹂躙する脅威、それが「深海棲艦」。その脅威に対抗できるのは、「艦娘」と呼ばれる在りし日の艦艇の魂を持つ娘たちだけ――。深海棲艦に対抗する艦隊の拠点、「鎮守府」。そこは、多種多彩な艦娘が集い、そして日々の演習などで切磋琢磨しながら、共同生活をする場所。その鎮守府にある日、一隻の艦娘が着任する。彼女は、特型駆逐艦―-。その名を「吹雪」。「吹雪です！　よろしくお願いします！」吹雪の、そして艦娘たちの物語が、今始まります。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 佐倉綾音
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
-  name: 上坂すみれ
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
   name: 日高里菜
@@ -29,22 +47,37 @@ tags: !ruby/array:Hashie::Array
   name: 藤田咲
   type: cast
 - !ruby/hash:TagHash
-  name: 野水伊織
-  type: cast
-- !ruby/hash:TagHash
   name: 洲崎綾
   type: cast
 - !ruby/hash:TagHash
-  name: 大坪由佳
-  type: cast
+  name: アニメーション制作：ディオメディア
+  type: staff
 - !ruby/hash:TagHash
-  name: ブリドカットセーラ恵美
-  type: cast
+  name: 監督：草川啓造
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：井出直美
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：亀岡夏海
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松本麻友子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：DMM.com
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：KADOKAWA GAMES
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：田中謙介
+  type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: KADOKAWA
+  name: 製作年：2015年
   type: other
 - !ruby/hash:TagHash
   name: どこかにカレー

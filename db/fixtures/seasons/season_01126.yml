@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/38/0/11380_1_6.png?1
 outline: 美しき吸血鬼に出逢った春休みの後、空から女の子が降ってくる少し前。ゴールデンウィーク最初の日、主人公・阿良々木暦は委員長・羽川翼とともに車に轢かれた、尾のない猫を埋葬する。些細でありふれたはずの出来事。しかし、ここから“悪夢の九日間”が幕を開ける。・・・知らぬまに、落ちているのが初恋だ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -38,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：西尾維新
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：VOFAN
+  name: 監督：板村智幸
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：板村智幸
+  name: 原作：VOFAN
   type: staff
 - !ruby/hash:TagHash
   name: 物語シリーズ

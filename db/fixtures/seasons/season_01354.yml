@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/97/8/20978_1_6.png?1
 outline: どこにでもいる平凡な男子高校生・坂口。彼は男ながらにBLをこよなく愛する腐男子であった…！BLだけでごはん何杯でもいけるッ！！腐男子高校生・坂口と、愉快な面々が織りなす日常系コメディ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash

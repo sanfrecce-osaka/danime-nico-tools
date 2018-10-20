@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/20/4/21204_1_6.png?1
 outline: 前作から3年後…プリティートップでは次世代のプリズムスターを夢見る少女たちが練習に励んでいた。ある日、プリズムメイツの ｢れいな｣｢かりん｣｢あやみ｣は、先輩プリズムスターのステージに乗り込んで勝負を挑む｢みあ｣と出会い、新ユニット｢Prizmmy☆｣を組むことになった。彼女たちは戸惑い、反発しながらも友情を深め一緒にデビューを目指していく。一方、韓国では5人の少女たちが日本でのデビューを目指してプリティートップに留学をして来る。自分の未来に出会うため少女たちのステージが今始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 三宅健太
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 千葉繁
@@ -26,16 +29,16 @@ tags: !ruby/array:Hashie::Array
   name: 近藤隆
   type: cast
 - !ruby/hash:TagHash
-  name: 津田美波
-  type: cast
-- !ruby/hash:TagHash
   name: 大久保瑠美
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉進歩
+  name: 津田美波
   type: cast
 - !ruby/hash:TagHash
   name: 明坂聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉進歩
   type: cast
 - !ruby/hash:TagHash
   name: 日髙のり子

@@ -6,6 +6,9 @@ outline: ご町内の発明家レオナルド博士が作り出したタイム�
   さあ! 個性豊かなキャラクター達が繰り広げる時空を超えた冒険ストーリーが始まるぞ!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
@@ -15,19 +18,19 @@ tags: !ruby/array:Hashie::Array
   name: 滝口順平
   type: cast
 - !ruby/hash:TagHash
-  name: 佐久間レイ
+  name: 西原久美子
   type: cast
 - !ruby/hash:TagHash
-  name: 西原久美子
+  name: 佐久間レイ
   type: cast
 - !ruby/hash:TagHash
   name: 三田ゆう子
   type: cast
 - !ruby/hash:TagHash
-  name: 三ツ矢雄二
+  name: 笹岡繁蔵
   type: cast
 - !ruby/hash:TagHash
-  name: 笹岡繁蔵
+  name: 三ツ矢雄二
   type: cast
 - !ruby/hash:TagHash
   name: 監督：湯山邦彦
@@ -60,10 +63,10 @@ tags: !ruby/array:Hashie::Array
   name: 関一彦
   type: other
 - !ruby/hash:TagHash
-  name: フジテレビ
+  name: 製作年：1989年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1989年
+  name: フジテレビ
   type: other
 - !ruby/hash:TagHash
   name: 辺見俊夫

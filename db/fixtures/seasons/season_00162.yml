@@ -6,6 +6,9 @@ outline: 養護施設で生活する天涯孤独な高校生・桜井夕月。�
   その後、夕月の周囲では不思議な事件が続き、千年以上も昔から続く悪魔(デュラス)との戦いに巻き込まれていく―――――― 前世からの仲間という"戒めの手(ツヴァイルト)"の正体とは?幾度も転生を繰り返し繰り広げられている、悪魔(デュラス)との戦いの行方は―――そして、夕月を見守り続けるゼスとの過去には一体何があったのか・・・・!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +18,10 @@ tags: !ruby/array:Hashie::Array
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
-  name: 小野大輔
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 子安武人
@@ -30,10 +33,10 @@ tags: !ruby/array:Hashie::Array
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 日野聡

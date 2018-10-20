@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/04/8/20048_1_6.png?1
 outline: 人気アニメの第３シリーズ。紅薔薇さま（ロサ・キネンシス）である小笠原祥子の妹（スール）であり、紅薔薇のつぼみ（ロサ・キネンシス・アン・ブゥトン）の福沢祐巳は超お嬢様が集う「リリアン女学園」で学園生活を送っていた。祐巳は夏休み、学園祭、体育祭、修学旅行といったリリアン女学園二年生のさまざまなイベントを過ごしていく・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤静
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 植田佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
+  name: 伊藤美紀
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤美紀
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 池澤春菜
@@ -44,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 妹
+  name: 製作年：2006年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2006年
+  name: 妹
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

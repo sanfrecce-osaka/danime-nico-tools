@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/30/7/10307_1_6.png?1
 outline: 18世紀のフランス。ジャルジェ将軍の娘として生まれたオスカル・フランソワは、武門の家を継ぐため男として育てられ、長じて王妃マリー・アントワネット付きの近衛隊長に任ぜられる。スェーデンの青年貴族フェルゼンと出会ったマリーは激しい恋に陥るが、オスカルもまたフェルゼンにほのかな想いを寄せていた。フランス革命へ向けて揺れ動きはじめた時代の中、オスカルとともに育ったアンドレは、自らの想いを隠して彼女を見守るが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 内海賢二
-  type: cast
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 森功至
+  type: cast
+- !ruby/hash:TagHash
+  name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
   name: 京田尚子
@@ -77,22 +86,22 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1970年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1979年
-  type: other
-- !ruby/hash:TagHash
   name: 水谷利春
   type: other
 - !ruby/hash:TagHash
-  name: 高橋宏固
+  name: 製作年：1979年
   type: other
 - !ruby/hash:TagHash
-  name: 窪田忠雄
+  name: 高橋宏固
   type: other
 - !ruby/hash:TagHash
   name: 川井憲
   type: other
 - !ruby/hash:TagHash
   name: 出崎統
+  type: other
+- !ruby/hash:TagHash
+  name: 窪田忠雄
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

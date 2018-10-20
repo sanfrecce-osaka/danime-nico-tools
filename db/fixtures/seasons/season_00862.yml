@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/25/9/10259_1_6.png?1
 outline: 西暦2300年代・・・・・・。地球から離れること10パーセクの宙域にある宇宙ステーション“ウォッチャーズ・ネスト”。そこは並行宇宙を通じて遥かな外宇宙へと瞬時に移動できる、人類にとって希望のゲート・・・。しかし同時に、それは、超空間の異生物“グール”を我々の宇宙へと呼び寄せてしまう｢パンドラの箱｣でもあったのだ!紅葉(くれは)みさきは、特殊部隊“セラフィム”の候補生として、他の女性士官候補生・・・スサーナ、ルクサンドラ、キリの3人とともに、次の訓練場所、ウォッチャーズ・ネストへと配属される。そんな新米戦士である彼女たちにも、容赦なくグールは襲いかかった!初めて本当の任務を知らされたみさきたち。彼女たちの前に、宇宙の深淵より迫り来る恐怖、いくつもの隠された謎、そして巨大な陰謀が立ちはだかっていく・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 水沢史絵
   type: cast
 - !ruby/hash:TagHash
-  name: 木内レイコ
+  name: 沢木郁也
   type: cast
 - !ruby/hash:TagHash
-  name: 沢木郁也
+  name: 木内レイコ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：RADIX

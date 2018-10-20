@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/33/6/22336_1_6.png?1
 outline: 当代随一の売れっ子マンガ家・西原理恵子による、働く子育て奮闘記！「毎日かあさん」は、マンガ家で、2人の子を持つ母でもある主人公・かあさんと、かあさんをとりまく家族や、ママ友などの仲間たちが繰り広げる、どこにでもありそうな日常を切り取った、21世紀のリアルなホームドラマ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 島本須美
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ぎゃろっぷ
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：片貝慎
+  name: 監督：本郷みつる
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：本郷みつる
+  name: 監督：片貝慎
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：栗原正己

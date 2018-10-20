@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/81/8/10818_1_6.png?1
 outline: 眉目秀麗な優等生だが本性は果てしなくドSの自称美少女・祇堂鞠也と、100%ツンの毒舌メイド・茉莉花が、百合趣味の主人公・宮前かなこをいじり倒す！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -17,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
-  type: cast
-- !ruby/hash:TagHash
   name: 平野綾
   type: cast
 - !ruby/hash:TagHash
   name: 甲斐田裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 新谷良子
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 神田朱未
   type: cast
 - !ruby/hash:TagHash
-  name: 後藤沙緒里
+  name: 上田燿司
   type: cast
 - !ruby/hash:TagHash
-  name: 上田燿司
+  name: 後藤沙緒里
   type: cast
 - !ruby/hash:TagHash
   name: 真田アサミ

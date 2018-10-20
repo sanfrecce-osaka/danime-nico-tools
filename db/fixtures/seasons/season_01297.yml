@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/67/7/10677_1_6.png?1
 outline: 小学校の卒業と同時に離ればなれになった遠野貴樹と篠原明里。二人だけの間に存在していた特別な想いをよそに、時だけが過ぎていった。そんなある日、大雪の降るなかついに貴樹は明里に会いに行く……。貴樹と明里の再会の日を描いた｢桜花抄｣、～彼がいる場所にくると、胸の奥が、すこし、苦しくなる～その後の貴樹を別の人物の視点から描いた｢コスモナウト｣、そして彼らの魂の彷徨を切り取った表題作｢秒速5センチメートル｣、三本の連作アニメーション作品。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花村怜美
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2007年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2007年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/70/2/10702_1_6.png?1
 outline: 日本の片隅に浮かぶ竜宮島に、ある日突然、不思議な声が響き渡った。｢あなたはそこにいますか…｣そしてその瞬間、謎の敵によって竜宮島は襲撃される。島に暮らす少年・真壁一騎は、切り札として用意された兵器・ファフナーに乗り込み、戦うことを決意するのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：斉藤恒芳
   type: staff
 - !ruby/hash:TagHash

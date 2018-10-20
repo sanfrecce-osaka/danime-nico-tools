@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/17/7/21177_1_6.png?1
 outline: とある広告代理店TEN2で社長秘書をしている網野解音。毎回、解音が仕事場で、ある時は、デート中にいろんな謎解き空間に閉じ込められてしまう。すると、変な幽霊みたいなのが出てきて、自分のことを“ハッチン”と名乗り、謎を解けばこの場所から開放されるという。しかも、脱出までの時間は5分間。この謎解き空間から脱出することができるか？！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 徳井青空
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/76/1/21761_1_6.png?1
 outline: それはルパンたちが出会う前。ダイアモンドよりも固い金属を造れる錬金術の書をめぐって、争奪戦が繰り広げられた。マフィア、謎の美女、サムライ、ガンマン、そして大泥棒。後に仲間となるルパンたちはどう出会ったのか？　錯綜する思いを胸に、それぞれが辿り着いた場所とは!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 朴璐美
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 井上真樹夫
   type: cast
 - !ruby/hash:TagHash
-  name: 栗田貫一
+  name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: 大木民夫
+  name: 栗田貫一
   type: cast
 - !ruby/hash:TagHash
   name: 永井一郎

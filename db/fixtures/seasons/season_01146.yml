@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/1/10191_1_6.png?1
 outline: すべての過去を失った少女・夕叢霧香と、ヨーロッパの暗黒街を舞台に｢裏の仕事｣に生きる仕事人・ミレイユ・ブーケ。とある事件がきっかけで二人はコンビを組み、裏社会の仕事人として仕事を始めることになる。ユニットの名は｢ノワール｣。失った過去を取り戻す霧香の戦いが、家族の復讐を誓うミレイユの戦いが、今、始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash

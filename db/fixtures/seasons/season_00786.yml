@@ -6,16 +6,22 @@ outline: 念願の再会を果たしたルイズと才人。才人の話では�
   大混戦の恋模様が展開する一方で、見えざる敵の影がじわじわとルイズたちを襲う…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 能登麻美子
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 井上喜久子
@@ -33,10 +39,10 @@ tags: !ruby/array:Hashie::Array
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 平川大輔
+  name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
   name: 小杉十郎太

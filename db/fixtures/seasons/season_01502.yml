@@ -6,6 +6,12 @@ outline: 魔王に仕えるポンコツな魔物｢カク｣と｢イムラ｣�
   in the sky。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: ポンコツクエストシリーズ
   type: other
 - !ruby/hash:TagHash

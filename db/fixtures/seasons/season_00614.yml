@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/57/4/21574_1_6.png?1
 outline: 小学１年生のアシベとアザラシのゴマちゃんが、家や学校、近所のゆかいな人たちと繰り広げる楽しい毎日！とってもキュートでときにシュール、家族みんなで笑えるアニメ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 河村梨恵
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：ブリッジ
+  name: 監督：近藤信宏
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：近藤信宏
+  name: アニメーション制作：ブリッジ
   type: staff
 - !ruby/hash:TagHash
   name: 原作：森下裕美

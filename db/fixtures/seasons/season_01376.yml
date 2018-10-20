@@ -6,6 +6,12 @@ outline: わけあってテントで一人暮らし中だった女子高生・�
   なんと彼らは異性に抱きつかれると…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

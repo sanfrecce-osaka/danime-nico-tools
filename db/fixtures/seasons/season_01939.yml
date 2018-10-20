@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/7/10197_1_6.png?1
 outline: 惑星改造により生まれた水の惑星、｢アクア｣。その観光都市ネオ・ヴェネツィアで皆が憧れる職業は、ゴンドラを操りウンディーネと呼ばれる水先案内人です。15才の少女、水無灯里(みずなしあかり)はウンディーネになることを夢見て、マンホームからアクアにやって来ました。その灯里が日々修業に励むのは、誉も高い水の3大妖精のひとり、アリシア・フローレンスが経営する水先案内店｢ARIAカンパニー｣。姫屋の藍華や、オレンジぷらねっとのアリスと一緒に、悩んだりすることもあるけれど、プリマ・ウンディーネを目指してがんばっています。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash

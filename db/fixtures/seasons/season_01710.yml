@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/23/6/10236_1_6.png?1
 outline: 産業革命時代の雰囲気を色濃く残した世界、プレステール。そこに住むクラウス・ヴァルカは、父の残したヴァンシップ(小型飛行艇)を使って、幼なじみのラヴィ・ヘッドとともに空の運び屋をしていた。彼らの夢は、父達が越えることのできなかった、はるか上空の巨大な嵐・グランドストリームを越えること。だがある日、謎めいた少女アルヴィス・ハミルトンを空中戦艦シルヴァーナに送り届ける依頼を受け継いだことから、彼らは、世界を揺るがす戦いに巻きこまれてゆく。大いなる風と雲の海が広がる世界、プレステール。はるか上空を吹き荒れる巨大な嵐、グランドストリーム。プレステール上で対峙する二大国家、アナトレーとデュシス。いま、激動と波乱の物語の幕が開ける!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 浅野まゆみ
   type: cast
 - !ruby/hash:TagHash
-  name: 山崎和佳奈
+  name: 半場友恵
   type: cast
 - !ruby/hash:TagHash
-  name: 半場友恵
+  name: 山崎和佳奈
   type: cast
 - !ruby/hash:TagHash
   name: 白木杏奈

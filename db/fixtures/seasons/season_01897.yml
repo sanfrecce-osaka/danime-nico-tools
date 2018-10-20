@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/6/22266_1_6.png?1
 outline: 突然、導かれた異世界。そこは「夢」が人々の生きる力となる「夢世界」だった。夢世界で主人公を迎えたナビはこう言う。この世界は今、人々の夢を喰らう「ユメクイ」という存在に脅かされている。世界を救うためには各国の王子達の力が必要である、と。ユメクイを倒すため、執事であるナビ、騎士の国・アルストリアのアヴィ王子と共に世界を巡ることになった主人公。夢世界で彼女を待ち受けるのは、どんな冒険か。そして、世界に夢を取り戻すことはできるのか。“正体不明の王子”の登場と共に、貴女の物語が今、動き出す…―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash

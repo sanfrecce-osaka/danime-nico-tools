@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/7/11077_1_6.png?1
 outline: かつて少年サッカー世界一に輝いた｢イナズマレジェンドジャパン｣と、ホーリーロードを戦い抜いたメンバーを中心に構成された｢新生イナズマジャパン｣。2つのチームによる夢のエキシビションマッチが開催されようとしていた。この対戦を一目見ようと集まった観客で、超満員のスタジアム。試合開始早々、先制点を奪取するイナズマレジェンドジャパン。円堂の気迫のプレーに触発された天馬たち新生イナズマジャパンが、反撃を試みる。スタジアムの熱気が最高潮になろうとしていたその時、無数の小型ロボットが突如現れ、スタジアムを攻撃する。それは、天馬たちの世界では見たこともない小型ロボット・LBXであった!次々とスタジアムを破壊するLBX。その時、新たなLBXがスタジアムに舞い降りた。それは、バンとヒロたちが乗ったダックシャトルから出撃した、LBXイカロス・ゼロたちであった----!天馬たちの世界に現れたバンたちとLBXは、敵か味方か!?最強のサッカーチームと最強のLBX軍団が、地球の存亡を賭けてかつてない激闘を繰り広げる!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -44,13 +50,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：亀岡夏海
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：西村博之
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：近藤嶺
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：日野晃博
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：西村博之
   type: staff
 - !ruby/hash:TagHash
   name: イナズマイレブンシリーズ
@@ -59,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2012年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2012年
   type: other
 - !ruby/hash:TagHash
   name: 三間雅文

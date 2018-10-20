@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/20/0/20200_1_6.png?1
 outline: カナダのノヴァスコシア州の田舎にあるボーリングブロークの町に生まれた小さな赤毛の少女アン・シャーリーは、生まれたばかりの時に両親を病で亡くしてしまう。孤児になったアンは、シャーリー家でお手伝いをしていたジョアンナ・トーマスに引き取られることになった。トーマス家にはジョアンナの他に、ご主人のバート、何かと意地悪な2人の男の子と赤ん坊、そしてアンを可愛がってくれる優しいお姉さんのエリーザが暮らしていた…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
@@ -38,6 +41,9 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：島田満
   type: staff
 - !ruby/hash:TagHash
+  name: 監督：谷田部勝義
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：藤澤健至
   type: staff
 - !ruby/hash:TagHash
@@ -51,9 +57,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：西村貴世
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：谷田部勝義
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2000年代

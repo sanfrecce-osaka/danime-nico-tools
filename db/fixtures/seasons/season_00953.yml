@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/00/0/11000_1_6.png?1
 outline: 美しく、咲き乱れる薔薇の香りの中、少女は己の運命を知る。運命の糸に導かれるように、少女は彼らと出会う。「オマエの初めては、オレ様がすべて奪ってやるよ」「ねえ。僕のこと嫌いですか？　もっと知りたいですか？」「痛いの？　可哀想に……じゃあもっと痛くするね、ビッチちゃん」「あんたが、この家に来た理由がわかった。極上品だな……この血は…」「人間など、単なる血の器にすぎません」「オレに関わるな!　それ以上近づいたら、ぶっ壊してやる!」彼らは血と欲望に餓えたヴァンパイア……。彼女の中で何かが狂い始め、何かが目覚めてゆく。もう、どこへも逃れることは出来ない……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash

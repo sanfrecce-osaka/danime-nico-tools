@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/16/5/21165_1_6.png?1
 outline: 四角いカラダに耳としっぽ……彼らは宇宙からやってきた｢にゃんぼー｣。壊れたUFOを直して宇宙へと旅立つ日を夢見るトラをはじめ、妹のコトラ、おませなシロ、やんちゃなミケ、ミステリアスなクロなどなど……。そんな｢にゃんぼー｣の仲間たちは、人間の知らないところでネコのように毎日を自由気ままに、ときには大騒ぎをしながら楽しく暮らしているのです。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/50/8/11508_1_6.png?1
 outline: 私立あらま学園の女性教師、麻衣マチコとその生徒達が繰り広げるハートフルギャグアニメ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
-  name: 野沢雅子
+  name: 龍田直樹
   type: cast
 - !ruby/hash:TagHash
   name: 大竹宏
   type: cast
 - !ruby/hash:TagHash
   name: 吉田理保子
-  type: cast
-- !ruby/hash:TagHash
-  name: 龍田直樹
   type: cast
 - !ruby/hash:TagHash
   name: つかせのりこ

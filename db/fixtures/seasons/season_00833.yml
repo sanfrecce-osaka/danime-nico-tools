@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/05/4/21054_1_6.png?1
 outline: 悪の秘密結社 鷹の爪団は、総統・吉田・レオナルド博士・菩薩峠・フィリップの5人組。｢人と地球にやさしい世界征服｣を夢見て、毎日のように怪人や秘密兵器を作っている。でも、正義のヒーロー・デラックスファイターや、ライバル組織・阿武隈バイオ研究所などなど、邪魔者はいっぱい。おまけにお金がなくて、毎日ギリギリの生活だけど、絶対めげない！へこたれない！それが｢鷹の爪EX(エクストリーム)｣！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: FROGMAN
   type: cast
 - !ruby/hash:TagHash

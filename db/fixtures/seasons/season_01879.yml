@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/54/1/21541_1_6.png?1
 outline: 中国での合計閲覧数が5億回を越える人気WEB漫画のアニメ化が決定！バイオレンスな妹が…おバカな兄を殴る蹴る！兄弟愛！恋！グルメ…？全部入りの学園コメディ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

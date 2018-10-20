@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/23/1/11231_1_6.png?1
 outline: 時に大陸歴1604年。フェルビスト大陸において、実に三世紀にも亘って続いてきた戦国時代は北方の雄ガズ帝国の崩壊を以て終焉を迎えた。投入された兵力は正規の騎士（キャバリア)や兵士の他、魔法師(ウィザード)や、乱破師(サバター)、傭兵団を含め実に62万、更に航天要塞3基をはじめとする大量の魔法兵器、棄獣兵団、天竜騎兵隊といった特殊戦力すらもが残らず駆り出され、徹底的に『諸悪の根源』とされたこのガズ帝国を殲滅した。ガズ帝国攻略に際して同盟を結んだ大陸主要6ヵ国は、以後も相互に平和条約を結び、事実上の終戦宣言を行った。ガズ帝国は分割統治され、<禁断皇帝>の持っていた莫大な富は戦後復興の為に同じく分割されて6ヵ国がそれぞれ管理し、有効利用する事となった。ガズ帝国の誇っていた魔法技術も同様である。それは万民の待ち望んだ平和な時代の訪れであった。だが――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 原優子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽制作：フライングドッグ
+  name: アニメーション制作：ボンズ
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ボンズ
+  name: 音楽制作：フライングドッグ
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：長岡成貢
@@ -29,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：榊一郎
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：新井伸浩
+  name: 監督：増井壮一
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：増井壮一
+  name: キャラクターデザイン：新井伸浩
   type: staff
 - !ruby/hash:TagHash
   name: 棺姫のチャイカシリーズ

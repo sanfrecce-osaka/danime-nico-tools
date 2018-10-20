@@ -5,25 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/97/5/10975_1_6.png?1
 outline: "「アリスの物語」をこよなく愛する空想好きな少年の桐原有人は、ある月夜の晩に空を飛ぶ「アリス」にそっくりの少女、有栖川ありすと出会った。そして、現実にアリス能力者と呼ばれる少女達が自分の中の物語を賭けて戦っていることを知った有人は、その少女達の戦い「アリスロワイヤル」に自らも巻き込まれていく…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 子安武人
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 子安武人
   type: cast
 - !ruby/hash:TagHash
   name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
   name: 浅野真澄
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
   name: 清水愛
   type: cast
 - !ruby/hash:TagHash
   name: かないみか
-  type: cast
-- !ruby/hash:TagHash
-  name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
   name: 河原木志穂

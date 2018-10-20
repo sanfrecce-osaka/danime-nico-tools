@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/79/6/10796_1_6.png?1
 outline: "｢はたらく魔王さま！｣は、勇者に敗れ、異世界エンテ・イスラから現代日本の東京にやってきた魔王サタンが、日本経済の荒波にもまれながらフリーターとして働く庶民派ファンタジー。魔王を追って日本にやってきた勇者エミリアもまた、テレアポとして生計を立てている。魔王と勇者でありながら、額に汗して働く二人が東京で再会することになり――？"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽制作：ランティス
   type: staff
 - !ruby/hash:TagHash

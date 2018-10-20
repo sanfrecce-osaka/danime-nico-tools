@@ -5,6 +5,15 @@ thumbnail_url: https://anime.dmkt-sp.jp/img/img_lazySpace.gif
 outline: 傑作OVA「トップをねらえ！」の続編シリーズ！トップレスと呼ばれる超・能力を持つ少年少女たちがバスターマシンを駆る宇宙パイロットとなって、人類の敵、宇宙怪獣と戦う時代。宇宙パイロットに憧れる少女ノノは、ナンバーワントップレスの”お姉さま”ラルクと出会ったことから未来が大きく動き出す…!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,19 +23,19 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
   name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
   name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 松岡由貴
   type: cast
 - !ruby/hash:TagHash
   name: 佐々木望
-  type: cast
-- !ruby/hash:TagHash
-  name: 松岡由貴
   type: cast
 - !ruby/hash:TagHash
   name: 岩田光央
@@ -35,22 +44,22 @@ tags: !ruby/array:Hashie::Array
   name: 山崎たくみ
   type: cast
 - !ruby/hash:TagHash
-  name: 陶山章央
-  type: cast
-- !ruby/hash:TagHash
   name: 福井裕佳梨
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：田中公平
-  type: staff
+  name: 陶山章央
+  type: cast
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：貞本義行
+  name: 音楽：田中公平
   type: staff
 - !ruby/hash:TagHash
   name: 原作：GAINAX
   type: staff
 - !ruby/hash:TagHash
   name: 監督：鶴巻和哉
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：貞本義行
   type: staff
 - !ruby/hash:TagHash
   name: トップをねらえシリーズ

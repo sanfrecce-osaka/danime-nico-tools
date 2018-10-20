@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/94/5/21945_1_6.png?1
 outline: 福岡は一見平和な町だが、裏では犯罪が蔓延っている。今や殺し屋業の激戦区で、殺し屋専門の殺し屋がいるという都市伝説まであった。殺し屋、探偵、復讐屋、情報屋、拷問師etc――、裏稼業の男たちの物語が紡がれる時、『殺し屋殺し』は現れる――。第20回電撃小説大賞《大賞》受賞作！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -32,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 小野賢章
   type: cast
 - !ruby/hash:TagHash
-  name: 松風雅也
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
   name: 浜田賢二
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 松風雅也
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：サテライト

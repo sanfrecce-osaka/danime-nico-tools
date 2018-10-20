@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/27/5/11275_1_6.png?1
 outline: 29歳の派遣OL、オネイさん。仕事イマイチ、趣味ナシ、彼氏ナシ。そんな彼女の一人暮らしの部屋には謎のペットが住んでいる。その名は“クリノッペ”。黄色くてちっちゃいプニプニした生き物だ。クリノッペは、話しかけてもしゃべらない。けれどとってもダンスが得意!時に激しく、時に切なく、大好きな飴ちゃんをもらえばご機嫌に。インドの山奥で発見されたクリノッペが、なぜこの島国にやってきたのか、なぜオネイさんの家に転がり込んできたのか……。その答えを知るのは、時おり現れるミステリアスな紳士、ナンチョビ―・マツダのみ。ともあれ、クリノッペと暮らすオネイさんの毎日は退屈知らず。クリノッペダンスイベントに出場し、ライバルとバトルを繰り広げたりもする。そして二人きりになった部屋の中、クリノッペは今日も踊る。オネイさんの喜びや毒や切なさを、受け止めるかのように踊るのだ。そんなクリノッペを見てオネイさんは思う。｢クリノッペ。あんたもしかして、あたしのこと好きなの…?｣ひとつ屋根の下、オネイさんとクリノッペが繰り広げる、ちょっぴりシュールでほんわかなストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 久野美咲
   type: cast
 - !ruby/hash:TagHash
-  name: 織田圭祐
+  name: 森田順平
   type: cast
 - !ruby/hash:TagHash
-  name: 森田順平
+  name: 織田圭祐
   type: cast
 - !ruby/hash:TagHash
   name: 中尾衣里
@@ -20,19 +26,19 @@ tags: !ruby/array:Hashie::Array
   name: 小堀友里絵
   type: cast
 - !ruby/hash:TagHash
-  name: 脚本：山田由香
+  name: アニメーション制作：ＴＹＯアニメーションズ
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ＴＹＯアニメーションズ
+  name: 脚本：山田由香
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：西野理恵
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：テレビ朝日ミュージック
+  name: 監督：片貝慎
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：片貝慎
+  name: 音楽制作：テレビ朝日ミュージック
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

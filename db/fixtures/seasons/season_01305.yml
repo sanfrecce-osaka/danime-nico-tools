@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/5/10605_1_6.png?1
 outline: しりとり歌
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：樋口貴英
   type: staff
 - !ruby/hash:TagHash

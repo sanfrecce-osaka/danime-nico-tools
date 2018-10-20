@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/1/10611_1_6.png?1
 outline: かつて所領の半分を一冊の稀覯本と引き替えにしたほどの好事家であり蒐書狂(ビブリオマニア)の祖父は、古ぼけた屋敷とそこに納められた蔵書の全てを青年ヒューイに残した。条件は一つだけ。『書架』を引き継げ――と。遺品整理に屋敷を訪れたヒューイは、うず高く本の積まれた地下室で、静かに本を読む少女と出会う。漆黒のドレスに身を包んだ少女は、胸に大きな錠前を隠し持っていた。それこそは禁断の幻書を納める“ダンタリアンの書架”への入り口、悪魔の叡智への扉だった――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：日本コロムビア
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：三雲岳斗
+  name: アニメーション制作：GAINAX
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：GAINAX
+  name: 原作：三雲岳斗
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：木野下澄江

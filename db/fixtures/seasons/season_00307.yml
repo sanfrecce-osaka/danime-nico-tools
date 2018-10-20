@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/04/8/21048_1_6.png?1
 outline: 荒巻義雄の人気同名小説をアニメ化したOVAで、｢紺碧の艦隊｣と同様の世界観を持つ作品。｢紺碧艦隊｣の存在が米国を牽制する中、欧州ではヒトラーの台頭を許していた。窮地に追い込まれた英国と単独講和を果たしていた日本は、最強不沈戦艦｢日本武尊｣を旗艦とする｢旭日艦隊｣を援英派遣軍として出撃させた…！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash

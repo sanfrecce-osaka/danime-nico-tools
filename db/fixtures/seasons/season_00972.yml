@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/70/6/21706_1_6.png?1
 outline: "「ここがどこなのか、という問いにはお答えできません」「これよりお二人にはゲームをして頂きます」「ゲームは命をかけて行なって頂きます」「そして、ゲームが終わるまで当店から出ることはできません」強制的にルールを課せられた男二人。やがて剥き出しになっていく人間の本性。デスゲームの果てに待ち受けるものは？"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2013年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2013年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

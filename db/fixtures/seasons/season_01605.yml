@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/87/4/21874_1_6.png?1
 outline: 大人気お天気キャラクターのそらジローがついにアニメ化！「news every.」「Ｏｈａ！４」にて絶賛放送中！「天気」「知育」「防災」「ＥＣＯ」をテーマにそらジロー、くもジロー、ぽつリンが体感し、天気の秘密、身近で大切な生活習慣を学ぶ世界のストーリー
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 木原実
   type: cast
 - !ruby/hash:TagHash

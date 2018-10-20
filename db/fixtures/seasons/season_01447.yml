@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/15/3/11153_1_6.png?1
 outline: "｢彼｣と世界の愉快な仲間達を描いた、ワールドワイドなヘタレストーリー!女の子が大好き、陽気で憎めない｢イタリア｣と、厳格できまじめな｢ドイツ｣を中心に｢日本｣｢イギリス｣｢アメリカ｣｢フランス｣などの人物が繰り広げる、コミカル・ショートストーリー!!1話約5分のショートスタイルにゆる～い笑いを詰めこんでお届けします♪"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/90/1/21901_1_6.png?1
 outline: 妖怪なのか、犬なのか正体不明の生物きもしば。ホラーとキモさ、わずかにカワイさが入り交じる独特な世界観。そんなきもしばと仲間達が繰り広げる奇妙な世界へおいでませ…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 村野晃大
   type: cast
 - !ruby/hash:TagHash

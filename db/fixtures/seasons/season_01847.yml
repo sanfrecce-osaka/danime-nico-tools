@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/3/11463_1_6.png?1
 outline: レオの大国は、誰もが明るく平和な毎日を過ごす生き物達の楽園。ある朝、人間と一緒に暮らしていたパオラと言う名のヒョウの子どもが迷い込む。レオの強い意志でパオラは仲間にむかえられるが、やがて事件がおきてしまう…。友情とは、信頼とは何か。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大谷育江
   type: cast
 - !ruby/hash:TagHash

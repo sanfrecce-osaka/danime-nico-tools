@@ -6,6 +6,9 @@ outline: 業界大手のレコード会社｢ガンダーラミュージック�
   ambitious！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -21,25 +24,25 @@ tags: !ruby/array:Hashie::Array
   name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 金元寿子
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
   name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
-  name: 岸尾だいすけ
+  name: 興津和幸
   type: cast
 - !ruby/hash:TagHash
-  name: 興津和幸
+  name: 岸尾だいすけ
   type: cast
 - !ruby/hash:TagHash
   name: 増田俊樹
   type: cast
 - !ruby/hash:TagHash
-  name: 上村祐翔
+  name: 加藤和樹
   type: cast
 - !ruby/hash:TagHash
   name: 製作：A-1 Pictures

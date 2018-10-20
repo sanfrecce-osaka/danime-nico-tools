@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/73/0/10730_1_6.png?1
 outline: 翠ヶ丘高校に転校してきた琴浦春香は、一見、普通の女子高生だが、実は人の心を読めてしまう能力の持ち主。その能力のため幼い頃から辛い経験を繰り返し、心を閉ざして周囲から距離を置いていたが、クラスで隣の席になった真鍋義久との出会いがきっかけとなり、彼のエッチな妄想に振り回されながらも徐々に心を開いていく。やがて、その力に目をつけた御舟百合子によってなりゆきから彼女が部長を務めるESP研究会に入部することになるのだが…人の心が読める少女と彼女に惹かれる少年が織り成す学園ファンタジーラブコメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

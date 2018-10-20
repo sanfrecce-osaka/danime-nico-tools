@@ -6,6 +6,15 @@ outline: 伊藤 誠(いとう まこと)が“桂 言葉(かつら ことのは)
   せかい)”に見られてしまう。おまじないを始めて1日目ではかなく散ってしまった淡い期待だったが、世界が勝手に誠の待ち受けを見てしまったお詫びにと、誠と言葉の仲を応援したいと二人の間を取り持つ事に…。その日から誠の退屈だった日常が大きく動き始める。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：元永慶太郎
   type: staff
 - !ruby/hash:TagHash

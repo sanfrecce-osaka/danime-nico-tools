@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/20/5/21205_1_6.png?1
 outline: 音楽を聴くとその色が見える、空想力豊かな中学二年生、｢彩瀬 なる｣。何でもデコるのが得意な｢なる｣は｢ディアクラウン｣のようなショップの店長になることが夢だった。ある日、新しくオープンするショップで店長としてプリズムダンスのできる女子中学生を募集しているのを知り、早速応募。たくさんの応募者の中から見事選ばれ、最終面接のプリズムダンスに挑む。プリズムダンスを踊り始めた｢なる｣の前に突如、見たことも無いライブ空間が広がり、謎の少女｢りんね｣が現れる。｢見える？虹の音楽……｣音を感じる少女たちが、プリズムショーに新たな風を巻き起こす！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
-  name: 小松未可子
+  name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 内田真礼
+  name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
   name: 後藤沙緒里

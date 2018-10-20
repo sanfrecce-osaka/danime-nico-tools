@@ -6,6 +6,9 @@ outline: 三角屋根の白いおうちに、小さな子犬が住んでいた�
   はじめてだらけの世界！ティニーはそこで出会った仲間たちと、バルン王国へゆくことに。なんだかこわくて、なんだかたのしくて、なんだかふしぎ。ふうせんいぬティニーの大冒険。はじまり、はじまり。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash

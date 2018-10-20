@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/08/5/20085_1_6.png?1
 outline: みんな、ゆるゆりの主人公・赤座あかりだよ！今年の夏休みは、京子ちゃん、結衣ちゃん、ちなつちゃんたちとキャンプに行くんだぁ～。今からすっごく楽しみ！あかりたちだけでキャンプに行くのは初めてだからドキドキするけど、みんなでお料理したり、肝試ししたり……あと……あんなことや、こんなこともやりたいなぁ！あっ！　櫻子ちゃん、向日葵ちゃん！　みんなも一緒にキャンプに行こうよ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash

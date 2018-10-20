@@ -6,6 +6,15 @@ outline: 町外れにある無人の洋館、そこにはお化けが出ると�
   “あおおに”と一緒に面白おかしく館で暮らすのか！？死してなお“あおおに”と戯れる4人の肝だめしライフが今はじまる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

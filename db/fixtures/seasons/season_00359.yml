@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/34/2/10342_1_6.png?1
 outline: エクレールとリュミエール、エクリプスの帰還により、アールヴの野望は潰えた。呪詛を叫びながら、閃光の中に消えたアールヴ。永遠の人生を歩まされる者の、哀しき末路であった。そして《方舟》――超大型宇宙戦艦デュカリオンの暴走。全ては｢母｣を救うために。｢男｣はその一生を掛けて、この大事件を演出しようとしていた。エクレールとリュミエール、そして全ESメンバーが、集う。ここに、最後の戦いが幕を開けようとしていた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
-  name: 南央美
+  name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴置洋孝
+  name: 南央美
   type: cast
 - !ruby/hash:TagHash
   name: 製作：GONZO

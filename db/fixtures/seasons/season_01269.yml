@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/43/7/21437_1_6.png?1
 outline: 主人公のゆのは、やまぶき高校美術科に通う高校1年生の女の子。家から学校へ通うのが困難なため、彼女は学校の近くにあるアパート“ひだまり荘”で一人暮らしをはじめる。ゆの以外の住人も、同じやまぶき高校に通う女の子たち。何かと謎の多い天然ボケの宮子、みんなのお母さん的存在のヒロ、高校生ながらプロの小説家の沙英。ひだまり荘を中心に学園生活を送る女の子たちの日常を描いた作品である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 後藤邑子

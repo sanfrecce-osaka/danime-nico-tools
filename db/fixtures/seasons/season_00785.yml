@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/32/8/10328_1_6.png?1
 outline: 異世界ハルケギニアで偶然見つけたゼロ戦に乗って、才人は元いた世界に帰還する方法を探していた。もしかしたら日本に帰れるかもしれないという千載一遇の好機を迎えた才人。しかし、そのチャンスを自らあきらめ、ルイズのピンチを救うためにハルケギニアに留まり、結局もうしばらくルイズの使い魔でいることを選んだ才人。ルイズも、ようやく才人を一人前の使い魔(!?)と認めたようで、今までのように犬呼ばわりしたり、床で寝させたり、鞭で叩いたりはしなくなっていた。しかし、そんな待遇の良さに調子をよくした才人は、せっかくのルイズのはからいをよそに相変わらずあっちにふらふら、こっちにふらふら…。その度にご主人様であるルイズの逆鱗に触れ、結局お仕置きされてしまう才人。そんな、相変わらずの平和な日々が続いていくはずだったのだが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 平川大輔
+  name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
   name: 根谷美智子

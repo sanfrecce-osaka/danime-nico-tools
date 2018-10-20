@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/1/10021_1_6.png?1
 outline: とある海辺の町を訪れたリナとガウリィ。舟盛につられて地元の漁師の手伝いをしたところまでは良かったが、食い意地の張ったリナの攻撃魔法により船は大破、おまけに魔族を封印した遺跡が破壊され、ガウリイをはじめタコを食べた人間たちはタコ語しかしゃべれなくなってしまう。この町には｢魔力をもったタコを食しこれに冒されると言葉がタコ語になってしまう｣という魔病の言い伝えがあったのだ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/33/4/21334_1_6.png?1
 outline: カナダから晴の元にやってきた四男・零が、ようやく一つ屋根の下での暮らしに慣れ始め、長男・晴が経営するカフェも軌道に乗ってきた、ある日。晴の母・春子が、4兄弟を前に、「零をスイスに連れて帰る！」と宣言！お互いの距離が近づいてきた零と晴は、突然の爆弾発言をきっかけに、徐々にすれ違うことが多くなってきて。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 置鮎龍太郎
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
   name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
   name: 寺島拓篤
@@ -23,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
-  name: 斎賀みつき
-  type: cast
-- !ruby/hash:TagHash
   name: 田中敦子
   type: cast
 - !ruby/hash:TagHash
   name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤拓也
@@ -59,13 +62,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：Team-MAX
   type: staff
 - !ruby/hash:TagHash
+  name: 監督：渡部穏寛
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：あべ美幸
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：瀧原美樹
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：渡部穏寛
   type: staff
 - !ruby/hash:TagHash
   name: SUPER LOVERSシリーズ

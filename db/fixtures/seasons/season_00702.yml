@@ -5,22 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/40/6/11406_1_6.png?1
 outline: 太平洋上空―。サンフランシスコ行きの飛行機に、一人の青年が乗っている。少年の名はリュウ。日本の南西諸島内にある離島・海宮内島。この自然あふれる美しい島の、山小屋に住んでいる。伐採現場で、杣人（＝きこり）の手伝いをして生計をたてながら、空手の稽古に励む毎日だ。杣人の老人の孫娘・琳子が老人とリュウのために弁当を持ってくるのも日課。今日も琳子は、リュウ宛てのエアメイルを携えて、現場にやって来た。エアメイルは、アメリカに住むリュウの友人・ケンからのもので、封筒の中には、百ドル札の束と一緒に“アメリカに来い”という短いメッセージが入っていた。かつて、一緒に空手の修行をした友人からの突然の誘いにとまどうリュウだったが、“行ってこい”という老人の一言で、初めて日本を離れる決意をしたのだ。（第1話あらすじより）
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 玄田哲章
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 塩沢兼人
+  name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
   name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
   name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
-  name: 内海賢二
+  name: 西村知道
   type: cast
 - !ruby/hash:TagHash
-  name: 西村知道
+  name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
   name: 横山智佐
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐々木瑶子
   type: cast
 - !ruby/hash:TagHash
-  name: 羽賀研二
+  name: 田中康郎
   type: cast
 - !ruby/hash:TagHash
-  name: 田中康郎
+  name: 羽賀研二
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：グループ・タック
@@ -60,6 +63,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: CAPCOM
+  type: other
+- !ruby/hash:TagHash
+  name: ハチマキ
   type: other
 - !ruby/hash:TagHash
   name: 今井賢一

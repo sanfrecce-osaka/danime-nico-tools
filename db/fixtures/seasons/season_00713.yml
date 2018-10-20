@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/24/0/21240_1_6.png?1
 outline: ゾクッとかわいいモンスターたちが学校へ来た！かわいくて、にくめないモンスターたちが繰り広げるドタバタコメディ！いばりっこで潔癖症があるけど憎めないドラキュラのキュラ、なんだか臭うけどかわいらしいゾンビ少女のジィジィ、自由奔放な子鬼のケビ、弱者には偉そうだけど実はあたたかい心の持ち主のキョンシーのコンコン、食べ物には目がないけどとてもやさしいフランケンシュタインのフランキー。この5人の個性的なモンスターたちが主人公！静かで暗い真夜中が訪れた小学校…モンスターたちの学校生活が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: ソン・ユン
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/62/8/11628_1_6.png?1
 outline: 一人暮らしをする中学生・町子リョウ。一緒に住んでいた祖母を亡くしたあと、なぜかどんな料理も美味しいと感じられなくなってしまいます。そんなとき、同い年のはとこ・きりんが泊まりにくることに。優しいきりんと一緒に食べるご飯は、美味しくて、とてもとてもあたたかくて…。リョウの友人・椎名も交えて、食事でつながるあたたかな青春が今、はじまります！寂しい時は、ご飯を食べて一緒にぽかぽかしませんか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash

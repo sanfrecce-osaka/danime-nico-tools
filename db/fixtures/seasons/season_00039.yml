@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/15/7/22157_1_6.png?1
 outline: ご存じ「アストロガンガー」です。ガンガーは金属でできていますが、生きていて、まじめで頼りになるロボットです。カンタローくんが、「ガンガー！」と呼べば、ガンガーもハイテンションの名乗りで、これに応えます。カンタローくんの友だち、りえちゃんの不思議な言動にも注目。敵のブラスター星人も哀愁が漂っています。主題歌も名曲で、おすすめの娯楽作品です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash

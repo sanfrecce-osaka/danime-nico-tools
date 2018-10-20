@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/06/0/11060_1_6.png?1
 outline: ネジ喰う男、世界一の冒険屋！月刊「電撃コミック ガオ！」吉富昭仁の人気マンガを原作に、1997年にアニメ化された全編オリジナルストーリーTVシリーズ。ネジや金属片を食し、敵に立ち向かう時には右手から食した武器を出現させて戦う自称“冒険屋”ボルト・フランク。世界中を旅しながら、受けた依頼は必ず遂行する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 久川綾
   type: cast
 - !ruby/hash:TagHash

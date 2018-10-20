@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/27/2/22272_1_6.png?1
 outline: 平凡な少女、愛はどこにでもいるダンサーである。親友である町とのダンサーとしての才能を見せつけられ落ち込む日々であったが、ある時彼女の才能の「秘密」を知ってしまう。それは、邪な術方により掌サイズまでされた天才たち「悪偶」の存在である。悪偶を持っているものは誰でも天才になれるのだ。悪偶を作る「裁縫師」となってしまった町を救うべく、愛は裁縫師と代々対立してきた「救済者」となる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

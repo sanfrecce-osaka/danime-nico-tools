@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/6/10286_1_6.png?1
 outline: 神の意思に従い、地球の滅亡を目論み、完全なる生命体“ニューマン”を作り出そうとした久留間博士と12人の科学者。その実験台にされ、魔獣と化した息子、慎一。彼らの壮絶な戦いから5年後…。無法地帯と化した新宿新都心を舞台に、全知全能の神の出現を願う13人の博士たちと、再び慎一たちとの戦いが始まった!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash

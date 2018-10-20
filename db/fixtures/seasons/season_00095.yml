@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/28/0/20280_1_6.png?1
 outline: 真実の名前「真名（まな）」を知られた者は、どんな命にも逆らえず、支配されてしまう―。貧乏学生・浅野真一郎（あさのしんいちろう）は、家政夫として働くことになった旧家の島津家で、朔邪（さくや）というガサツでワガママな美少女と出逢う。実は彼女、妖魔封じを生業とする島津流弓霊術の使い手で、名門島津家の37代目当主だった。朔邪に振り回されながら妖魔との戦いに巻き込まれていく真一郎だったが、どうやら彼女と出逢ったのは偶然ではなかったようで――!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 河本啓佑
   type: cast
 - !ruby/hash:TagHash
-  name: 小日向茜
+  name: 幸田夢波
   type: cast
 - !ruby/hash:TagHash
-  name: 幸田夢波
+  name: 小日向茜
   type: cast
 - !ruby/hash:TagHash
   name: コヒメ・リト・プッチ
@@ -38,16 +41,16 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：アームス
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：流歌
-  type: staff
-- !ruby/hash:TagHash
   name: 音楽制作：MAGES.
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：岩永彰
+  name: 音楽：千葉"naotyu-"直樹
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：千葉"naotyu-"直樹
+  name: 音楽：流歌
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岩永彰
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：秋山由樹子
@@ -68,10 +71,10 @@ tags: !ruby/array:Hashie::Array
   name: KADOKAWA
   type: other
 - !ruby/hash:TagHash
-  name: ダックスプロダクション
+  name: 角川書店
   type: other
 - !ruby/hash:TagHash
-  name: 角川書店
+  name: ダックスプロダクション
   type: other
 - !ruby/hash:TagHash
   name: カドカワコミックス・エース

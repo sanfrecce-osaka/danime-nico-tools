@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/19/5/20195_1_6.png?1
 outline: アルプスの山と牧草地に囲まれた小さな村・ロシニエールに住むアンネットとルシエンは幼なじみ。兄妹のように仲良しだった二人でしたが、ある日ルシエンは、些細なことがきっかけでダニーが飼っていたオコジョのクラウスを谷底に落としてしまいます。そして、クラウスを助けようとしたダニーも谷に落ちてしまい、その時のケガがもとで、ダニーは一生松葉杖が必要な体になってしまいます。アンネットは激しくルシエンを憎むようになり、ルシエンもまた、村から孤立していきます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 潘恵子
   type: cast
 - !ruby/hash:TagHash

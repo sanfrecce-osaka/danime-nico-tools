@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/3/11173_1_6.png?1
 outline: 黒い肌に赤い髪、超コギャル風女子高生｢もも｣。そんな｢もも｣はいつも外見でソンをする。本当は誰よりも純粋なのに、クラスメートたちにはわかってもらえない・・・・そんな｢もも｣は｢とーじ｣に中学の頃より一途な恋心を抱いている。そんな一途な｢もも｣に興味を持つ、学年イチのモテ男｢カイリ｣。そして｢もも｣とは正反対の小柄で色白、華奢な｢さえ｣。彼女はその男ウケする容貌とは裏腹に、ターゲットの“持ち物”を自分のものにしなければ気がすまない子悪魔的少女だった。そんな4人の恋の行方は・・・・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash

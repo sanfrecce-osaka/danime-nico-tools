@@ -3,7 +3,55 @@ title: 温泉幼精ハコネちゃん
 watchable: true
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/36/8/20368_1_6.png?1443680110000
 outline: 温泉街に降臨した、温泉の精霊・ハコネ。ところが、長く眠りについていた彼女は、外見が幼女になっていた！ たまたま居合わせた高校生・冬哉は、彼女の本来の力を取り戻すため、協力することになるが……。温泉街の住人とハコネが巻き起こす、ドタバタ温泉コメディ！
-tags: !ruby/array:Hashie::Array []
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 村田太志
+  type: cast
+- !ruby/hash:TagHash
+  name: 朝井彩加
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑原由気
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野早稀
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桜井正明
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：旭プロダクション
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：プロダクションリード
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：柳瀬雄之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：柳瀬雄之
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第1話～第4話

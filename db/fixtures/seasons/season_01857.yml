@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/8/11458_1_6.png?1
 outline: ある廃墟を少年はロボットに追いかけられていた。そこは戦争や環境破壊を繰り返すニンゲンに愛想を尽かしたコンピュータ“ガイア”によって支配されている地球だった。少年は必死で逃げているうちに、200年前に役目を終え展示されていたアトムを発見する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 横山智佐
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 鶴ひろみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
   type: cast
 - !ruby/hash:TagHash
   name: 阪脩
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 勝田久
   type: cast
 - !ruby/hash:TagHash
-  name: 園部啓一
+  name: 丸山美紀
   type: cast
 - !ruby/hash:TagHash
-  name: 丸山美紀
+  name: 園部啓一
   type: cast
 - !ruby/hash:TagHash
   name: 監督：西田正義

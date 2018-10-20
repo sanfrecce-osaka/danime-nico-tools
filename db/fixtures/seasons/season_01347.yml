@@ -6,6 +6,12 @@ outline: "｢妖怪祓い｣とは、本来すむべき｢隠世(かくりよ)�
   はなえ)は、偶然見かけた連絡先を頼りに、妖怪祓いを行う｢物怪庵(もののけあん)｣を訪れる。そこにいたのは不機嫌そうな主・安倍晴齋(あべの はるいつき)だった。わけあって、そのまま芦屋は物怪庵の奉公人(アルバイト)として働くことに・・・・・・。芦屋と安倍の妖怪祓いコンビと妖怪たちの物語が幕を開ける。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
@@ -18,25 +24,25 @@ tags: !ruby/array:Hashie::Array
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 三石琴乃
-  type: cast
-- !ruby/hash:TagHash
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 飛田展男
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 立木文彦
   type: cast
 - !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
   name: 谷山紀章
   type: cast
 - !ruby/hash:TagHash
-  name: てらそままさき
+  name: 大西沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 大西沙織
+  name: てらそままさき
   type: cast
 - !ruby/hash:TagHash
   name: 西村知道

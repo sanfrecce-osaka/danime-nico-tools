@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/2/11292_1_6.png?1
 outline: セコさを楽しみながら、たくましく生きていくハゲ田ハゲ丸一家。彼らの超節約術「つるセコ」の数々が、爆笑を呼ぶ！つるセコパワーで大暴れのギャグアニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash

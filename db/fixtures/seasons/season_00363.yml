@@ -6,25 +6,31 @@ outline: ひとつの国に3日間だけとどまるルールを決めたキノ�
   (C)時雨沢恵一・メディアワークス｢キノの旅｣とっておきの話の会
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 前田愛
   type: cast
 - !ruby/hash:TagHash
   name: 相ヶ瀬龍史
   type: cast
 - !ruby/hash:TagHash
+  name: 脚本：村井さだゆき
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：時雨沢恵一
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：村井さだゆき
+  name: 監督：中村隆太郎
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：須賀重行
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：酒井良
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：中村隆太郎
   type: staff
 - !ruby/hash:TagHash
   name: キノの旅シリーズ

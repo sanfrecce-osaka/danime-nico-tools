@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/08/5/11085_1_6.png?1
 outline: minori原案の大ヒットゲーム『Wind-a breath of heart-』がついにアニメ化!!その透明感あふれる世界がOVAで美しく、繊細に描かれる!!　どことなく懐かしさと不思議さの漂う街、風音市。そこは丘野真・ひなた兄妹の生まれ故郷である。そこで出会う友達、幼なじみの女の子、そして…。それぞれの思いを胸に、ちょっと不思議な世界を舞台にしたファンタジックな物語が始まります。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 菅沼久義
   type: cast
 - !ruby/hash:TagHash

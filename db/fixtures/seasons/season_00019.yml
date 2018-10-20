@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/54/6/20546_1_6.png?1
 outline: 反重力を発生させるシューズ、通称“グラシュ”の発明により、人が簡単に空を飛ぶことが出来るようになった世界。久奈浜学院に転校してきた倉科明日香は、同級生の鳶沢みさき、日向晶也達との出会いを通じて、グラシュを使った新興スカイスポーツ『フライングサーカス』(通称FC)を知り、その魅力に惹かれていく。学院のFC部に入部した明日香は、仲間達と共に、時にはぶつかり、励まし合い、それぞれの目標に向かいながら、強力なライバル達に立ち向かっていく――。――目指すは、夏の大会。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash

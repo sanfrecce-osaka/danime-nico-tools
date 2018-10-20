@@ -6,6 +6,15 @@ outline: 天才魔道士リナ=インバースはひょんなことから、剣�
   その企みは?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

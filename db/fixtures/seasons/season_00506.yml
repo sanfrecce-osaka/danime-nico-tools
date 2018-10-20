@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/36/5/21365_1_6.png?1
 outline: 独り身お疲れOLの小林さん。そんな彼女の家に尋ねてきたのは、なんとドラゴンだった！？茫然とする小林さんの目の前で、ドラゴンはメイド服を着た美少女へと変身する。どうやら昨夜、自分で家に誘ったらしいが、泥酔していて全く覚えていない小林さん。｢メイドとして働かせてください！｣――角に尻尾にメイドなドラゴン娘・トールとのポンコツでハチャメチャな新生活が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
-  name: 後藤邑子
+  name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
-  name: 田村睦心
+  name: 後藤邑子
   type: cast
 - !ruby/hash:TagHash
   name: 石原夏織

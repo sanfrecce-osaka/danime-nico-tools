@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/22/7/22227_1_6.png?1
 outline: 水に特別な想いを持つ少年・七瀬遙は、ある事情で水泳から離れていた。何ものにも縛られず自由でいることを望む遙だったが、どんな時も隣にいてくれる真琴や、岩鳶高校で再会した後輩の渚､仲間の大切さを思い出させてさせてくれた怜と出会い、彼は再び泳ぎ始める。そして、最高の仲間と迎える高校最後の夏。遙はその瞬間を仲間のために泳ぐと口にするものの、思うように集中できないでいた。その先にある将来の自分の姿を見つけられずに迷う遙。それを心配する真琴たちともすれ違いを生んでしまう。かけがえのない仲間たちと固い「絆」で結ばれた遙が、新たなスタート台から見る景色に出会うまでの物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
@@ -26,6 +32,12 @@ tags: !ruby/array:Hashie::Array
   name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊永利行
+  type: cast
+- !ruby/hash:TagHash
   name: 野島健児
   type: cast
 - !ruby/hash:TagHash
@@ -33,12 +45,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 内山昂輝
-  type: cast
-- !ruby/hash:TagHash
-  name: 平川大輔
-  type: cast
-- !ruby/hash:TagHash
-  name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：加藤達也
@@ -59,10 +65,16 @@ tags: !ruby/array:Hashie::Array
   name: 監督：河浪栄作
   type: staff
 - !ruby/hash:TagHash
+  name: Free!シリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

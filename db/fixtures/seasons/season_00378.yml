@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/94/1/20941_1_6.png?1
 outline: お墓からある日突然よみがえったゾンビ猫が町を徘徊する…。本当ならちょっと怖いお話もカナヘイの手にかかればホッコリする癒しエピソードに早変わり。ゾンビなのになぜか町の人に愛されてしまうゾンビ猫の数々のショートストーリーをお楽しみください。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 平山笑美
   type: cast
 - !ruby/hash:TagHash

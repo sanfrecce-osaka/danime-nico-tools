@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/30/5/22305_1_6.png?1
 outline: 美しく儚い平安時代では、夜になると共に平安京は魑魅魍魎が蠢く百鬼夜行の悍ましい世界に豹変。「安倍晴明」は、昼間では都で知らぬ者は居ないほどの天才陰陽師ですが、夜になれば京の隙間で自分が失ってしまった記憶を捜し求める。そんな中、清明、仲間、使役する式神（妖怪）・・・彼らには普段（ゲーム内で）語られることがない悲喜こもごもな日常が存在する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

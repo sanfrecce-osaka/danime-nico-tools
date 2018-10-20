@@ -6,6 +6,15 @@ outline: 21世紀初頭の東京。怪獣と呼ぶにはさして攻撃性も無
   そんなある日。UFOマンと怪獣がいつものように戦闘を開始する中、井ノ頭公園を歩いていた女子高生“小春野白絹” “鳳ヴィヴィアン” “諸星つぼみ”の3人。彼女たちは不幸にも戦闘に巻き込まれてしまって…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash

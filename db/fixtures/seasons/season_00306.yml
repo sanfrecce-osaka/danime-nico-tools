@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/98/2/20982_1_6.png?1
 outline: 太平洋戦争で戦死した山本五十六は、年号を“照和”とする後世世界に｢高野五十六｣として転生した。前世と同じ過ちを繰り返さないため、彼は同じ転生者である大高弥三郎と共にクーデターを成功させる。だが、歴史の流れを止めることは出来ず、日本は運命の開戦を迎えてしまう…！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash

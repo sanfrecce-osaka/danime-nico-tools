@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/9/22089_1_6.png?1
 outline: これは異世界から受け継いだ輝かしい名前と競走能力を持つ“ウマ娘”が遠い昔から人類と共存してきた世界の物語。田舎から都会のトレセン学園に転校してきたウマ娘・スペシャルウィークは、チームメイトたちと切磋琢磨しながら「日本一のウマ娘」の称号をかけて＜トゥインクル・シリーズ＞での勝利をめざす！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
@@ -23,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 藤井ゆきよ
   type: cast
 - !ruby/hash:TagHash
-  name: 高野麻里佳
+  name: 和氣あず未
   type: cast
 - !ruby/hash:TagHash
   name: 前田玲奈
   type: cast
 - !ruby/hash:TagHash
-  name: 和氣あず未
+  name: 高野麻里佳
   type: cast
 - !ruby/hash:TagHash
   name: Machico

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/25/3/22253_1_6.png?1
 outline: 京都の寺町三条商店街にポツリとたたずむ、骨董品店『蔵』。女子高生の真城葵はひょんなことから『蔵』の店主の息子、家頭清貴と知り合い、アルバイトを始める。清貴は、物腰は柔らかいが恐ろしく勘が鋭く『ホームズ』と呼ばれていた。葵は清貴とともに、客から持ち込まれる骨董品にまつわる様々な依頼を受けていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

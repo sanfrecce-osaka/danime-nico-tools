@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/78/5/21785_1_6.png?1
 outline: 羽鳥チセは15歳の少女。彼女は帰れる場所も、生きる理由も、そのための術も、何も持ち合わせていない。ただひとつ、生まれ持った特別な力を除いて。そんなチセを弟子として、そして将来の花嫁として迎え入れたのは、異形の魔法使い・エリアス。悠久の時を生きる魔法使いの暮しの中で、チセは大切な何かを少しずつ取り戻していく…。これは、世界の美しさを識る為の物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

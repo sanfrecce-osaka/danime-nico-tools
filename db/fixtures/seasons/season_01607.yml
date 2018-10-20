@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/9/10339_1_6.png?1
 outline: 人の“夢”を喰う代わり、寄生主に超常の力を与える“虫”が出現して10年が経った近未来の日本。県立桜架東高校一年D組“薬屋大助”は、一人の少女・“杏本詩歌”と出会い互いに強く惹かれあう。だが詩歌は“虫憑き”を収容する極秘施設“GARDEN”からの逃亡者“ふゆほたる”だった!“特別環境保全事務局“通称”特環”は、最高のエージェントにして最強の虫憑きである“かっこう”に出動を命じ、容赦なく詩歌を追い詰めようとする!そこへ“レイディー・バード”率いる、レジスタンス組織“むしばね”が現れて・・・。それは、夢みる者たちのせつなく激しい想いが織りなす、聖夜の戦記。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 平川大輔

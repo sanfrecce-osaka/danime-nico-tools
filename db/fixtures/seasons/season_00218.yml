@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/99/8/10998_1_6.png?1
 outline: 平凡な男子高校生、相良良晴が突然４００年前の日本にタイムスリップ！そこは血を血で洗う戦国時代だった……が、ちょっと雰囲気が違う？？そんな乱世で良晴が出会った一人の美少女、その子の名は「織田信奈」日本史上最も有名な戦国大名、「尾張の風雲児」こと織田信長――――――ではなく、織田信奈！？明智光秀や徳川家康、誰もが知っている戦国武将たちが美少女として登場するこの世界。信奈の家臣となった良晴は、“天下統一”という織田信奈の野望を実現すべく、天下一の美少女達と共に戦国乱世を駆け巡る！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 矢作紗友里
   type: cast
 - !ruby/hash:TagHash
-  name: 江口拓也
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
   name: 金田朋子

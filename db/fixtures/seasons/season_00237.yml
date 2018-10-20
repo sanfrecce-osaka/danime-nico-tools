@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/31/7/10317_1_6.png?1
 outline: "―大都市『柳木原』。おびただしい数のひとと建物がひしめく、巨大な繁華街。― 季節は冬。見上げれば、そこには無表情な白い空。ありがちな悩みとありがちじゃない悩みを抱えた若者たち。彼らが出会う、恋ともろもろ。それはきっと何処にでもある、ありふれた物語。これは“たとえば”の話だけど、ぼくらが君に語るのは、たとえばそんなメルヘン。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash

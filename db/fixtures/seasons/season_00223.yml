@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/47/2/21472_1_6.png?1
 outline: 幻冬舎コミックス月刊「コミックバーズ」で大好評連載中の「おとめ妖怪 ざくろ」がアニメ化！星野リリィが描く華麗なキャラクターが今動き出す！―改暦をした文明開化の時代、人間と妖人が共存する世界で、半妖人の少女と陸軍少尉たちがタッグを組んで、悪さをする妖人たちと可憐に戦う！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -23,22 +26,22 @@ tags: !ruby/array:Hashie::Array
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
-  name: 岡本信彦
-  type: cast
-- !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 中原麻衣
+  name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：J.C.STAFF

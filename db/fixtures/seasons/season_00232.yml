@@ -7,6 +7,12 @@ outline: 声優の小野坂昌也さん&小西克幸さんが出演する爆笑�
   役)、石田 彰(石田 彰 役)、遊佐浩二(小川P 役)、豪華声優陣が出演。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

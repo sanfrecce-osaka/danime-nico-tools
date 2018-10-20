@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/3/10143_1_6.png?1
 outline: 人気恋愛SLG『ToHeart2』のOVAシリーズの第2弾。第1話は記憶喪失の貴明に、ヒロインたちが都合のいい記憶を植え付けようと火花を散らすエピソード。そして第2話には貴明たちと初詣に繰り出した由真の、おみくじを巡るエピソードを収録。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: キャラクターデザイン：桂憲一郎
   type: staff
 - !ruby/hash:TagHash

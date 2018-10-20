@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/9/10419_1_6.png?1
 outline: 舞台は世界のどこかにある｢ジャンケン村｣。この村はまさに子供の世界で、住人たちはそこで平和に暮らしている。ジャンケンマンは村を代々守っているヒーローの家系の長男です。ジャンケンマンはどんな遊びもとても上手で、ジャンケン村の人気者。悪の家系であるオソダシ仮面は、お金持ちのお坊ちゃん。しかし、平和主義の両親が許せず、財力を駆使して何かと騒動を巻き起こします。みんなのヒーロージャンケンマンは、ジャンケンパワーを使って次々と難事件を解決してゆく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 矢尾一樹
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤智恵
+  name: 沢木郁也
   type: cast
 - !ruby/hash:TagHash
-  name: 沢木郁也
+  name: 佐藤智恵
   type: cast
 - !ruby/hash:TagHash
   name: 大滝進矢

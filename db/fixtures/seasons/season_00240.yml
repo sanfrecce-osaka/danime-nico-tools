@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/64/2/10642_1_6.png?1
 outline: ごく普通な男子高校生・高坂京介は、数年前から妹・桐乃とはろくに挨拶もかわさないという冷え切った関係になっていた。ところがある日、京介が萌えアニメのDVDケースが玄関に落ちているのを発見したことから事態は急変する。興味に駆られた京介が持ち主を探すと、それは人生勝ち組でリア充な妹・桐乃のものだったのだ。意外な事態に驚く京介だが、それから数日後のある晩さらに驚く出来事が起こる。ほとんど無視に近い態度をとっていた桐乃が突如として京介の部屋に押しかけて来て｢人生相談がある｣と言うのだ。その内容とは…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤聡美
+  name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
-  name: 渡辺明乃
+  name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
   name: 立木文彦
@@ -56,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: 電撃
   type: other
 - !ruby/hash:TagHash
-  name: 妹
+  name: 製作年：2010年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2010年
+  name: 妹
   type: other
 - !ruby/hash:TagHash
   name: アスキー・メディアワークス

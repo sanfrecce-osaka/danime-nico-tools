@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/30/5/11305_1_6.png?1
 outline: "｢アタッカーYOU！｣は、天性の運動能力もつ天真爛漫な少女、葉月優が五輪代表をめざしバレーに青春を賭ける物語。84年ロス五輪の女子バレー人気を見込んで制作された本作は、友情、恋愛、嫉妬、ライバル、家族など、女子スポ根ものの面白さが満載ですが、ナック作品の魅力である大仰演出、ナンセンスギャグ、トンデモ展開、サービスカットなども十分に堪能できる傑作です!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 高田由美
   type: cast
 - !ruby/hash:TagHash

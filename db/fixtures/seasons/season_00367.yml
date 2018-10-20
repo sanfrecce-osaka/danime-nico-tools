@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/22/0/21220_1_6.png?1
 outline: 長い黒髪と陰気な見た目のせいで｢貞子｣と呼ばれ、クラスメイトたちから避けられてきた黒沼爽子。しかし、高校に入学し、明るく爽やかで男女問わず人気のある男の子・風早翔太との出会いから勇気をもらい、友情や恋、ライバルや友達の失恋などいろんな｢初めて｣を経験していく。そして、爽子は次第に膨らむ風早への大切な気持ちに、戸惑いながらもゆっくりと向き合っていく。すれ違いを繰り返す2人の未来は・・・？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -62,13 +68,13 @@ tags: !ruby/array:Hashie::Array
   name: 竹田悠介
   type: other
 - !ruby/hash:TagHash
-  name: 成田偉保
-  type: other
-- !ruby/hash:TagHash
   name: 金春智子
   type: other
 - !ruby/hash:TagHash
   name: バップ
+  type: other
+- !ruby/hash:TagHash
+  name: 成田偉保
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

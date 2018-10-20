@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/5/10425_1_6.png?1
 outline: 西暦1999年のある日、太陽系に巨大なコロニー型宇宙船が侵入してきた。宇宙船には、故郷の星を失ったイデリア星人200万人が乗っていた。彼らは1万年余の間、安住の地を求め星から星を渡り歩き、太陽系に最後の望みをかけ、地球に安住の可能性を見出していた。しかし、宇宙船のエネルギーは残り少なく、人類が住んでいる事を知っていながら生き延びるために地球を侵略しようと宇宙艦隊を送り込んできた。地球防衛軍は、直ちに反撃を開始するが圧倒的な科学力の差で敗走を強いられてしまう。異星人の襲来をひとり予測していた高城洋一大佐は、イデリア人に対抗するべくバリアブルマシンを開発し、無限真人、ルイ・オベロン、ピエール・ボナパルトの3人へ託した。そして、結成された特装機兵部隊ドルバックの活躍に反撃の糸口を見つけ攻撃を開始する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 勝生真沙子
-  type: cast
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
   name: 小林清志
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 塚田正昭
   type: cast
 - !ruby/hash:TagHash
-  name: 亀山助清
+  name: 蟹江栄司
   type: cast
 - !ruby/hash:TagHash
-  name: 蟹江栄司
+  name: 亀山助清
   type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：上條修

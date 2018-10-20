@@ -5,6 +5,9 @@ thumbnail_url: https://anime.dmkt-sp.jp/img/img_lazySpace.gif
 outline: アストラエアの丘、そこには、三つの女学校が建ち並んでいました。聖ミアトル女学園、聖スピカ女学院、聖ル・リム女学校。そして、その敷地のはずれにある3校共通の寄宿舎である、いちご舎。アストラエアの丘・・・それは男子が立ち入る事の許されない聖域でした・・・。ある事情で聖ミアトル女学園の4年生(中高一貫教育のため実際の高校1年生にあたる)に編入することになった“渚砂”(なぎざ)は新しい学園生活への期待と不安で胸がいっぱいでした。その編入初日に誰もが憧れる『エトワール』の“花園静馬”(はなぞのしずま)に出会い、その美しさに心を奪われた瞬間、身体が動かなくなってしまう。一方、そんな渚砂を優しく見つめる静馬は渚砂の肩に両手を伸ばし顔を近づけ、そして・・・!?学年も学校も違うさまざまな思いを秘めた乙女だけによる百合色学園ライフ。そんなヒミツの花園で起きる出来事をあなたもちょっと覗いてみませんか・・・?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 甲斐田裕子
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 桑谷夏子

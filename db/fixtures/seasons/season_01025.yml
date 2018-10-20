@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/85/5/10855_1_6.png?1
 outline: 時は近未来。岩と砂漠に覆われた、とある辺境の一惑星。流砂に囲まれた町・マッカでは、伝説の大強盗ガスバックが町を狙っているという噂が流れ、町の権力者ケプラーは町を守るために荒くれ者を集めていた。ガスバックの賞金目当てに次々と町にやってくる賞金稼ぎたち。保険の査定のために町を訪れたメリル&ミリィはその状況に驚愕する。しかも、一行の中には600億$$の賞金首ヴァッシュ・ザ・スタンピードの姿が―!!破壊と大惨劇の予感に恐れおののくメリルは、なんとかヴァッシュを町から追い出そうと画策するが、当のヴァッシュは例によって涼しい顔で、美貌の女ガンマン・アメリアにちょっかいを出してばかり。そんな中、ついにガスバック一味が町へと現れてしまう。そして、その中にはなんとウルフウッドの姿が…!?それぞれの思惑が錯綜する中、アウトローどもが繰り広げる荒野(バッドランド)の大乱戦(ランブル)が、今、幕をあける!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 速水奨
   type: cast
 - !ruby/hash:TagHash
-  name: ゆきのさつき
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: ゆきのさつき
   type: cast
 - !ruby/hash:TagHash
   name: 鶴ひろみ

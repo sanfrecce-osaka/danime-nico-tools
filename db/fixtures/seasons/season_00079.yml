@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/07/1/10071_1_6.png?1
 outline: 巨大な大陸が1つだけある世界。 そこは二つの連邦に分かれて、長い間不毛な戦争を繰り返していた。 そんな中で、物語は孤児院で育った少女・アリソンと、少年・ヴィルが｢戦争を終わらせる価値がある宝｣を探す冒険から始まる。やがて時代が流れ、アリソンの娘・リリアと、ボーイフレンドのトレイズが活躍する話へと展開していく――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 桑島法子
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 山寺宏一

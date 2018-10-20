@@ -5,7 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/8/11108_1_6.png?1
 outline: かつて世界を震撼させた旧世紀の塔が目覚め｢最終プログラム｣の発動と共に、遺跡と化した生物兵器工場でドラゴンが長い眠りから目覚めた…｡辺境の地に住む攻性生物ハンターのカイルと盲目の少女アリータの前に黒い飛竜“プロトドラゴン”が迫り少女を連れ去ってしまう｡青い飛竜“ドラグーン”の力を借り、カイルはアリータを助け出す冒険に出る!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

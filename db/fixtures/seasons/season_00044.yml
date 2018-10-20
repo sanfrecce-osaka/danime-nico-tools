@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/2/11092_1_6.png?1
 outline: "“タチバナ家”は日本のどこにでも存在し、誰でもが共感できる、等身大の幸せな家庭。料理がヘタでなまけものの母、トイレのドアを開けっ放しにする父、ちょっとマヌケな女子高生の娘・みかん、一見クールな中学生の息子・ユズヒコ。家族みんなで楽しむことのできるアニメの決定版をお届けします。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 阪口大助
+  name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
-  name: 緒方賢一
+  name: 阪口大助
   type: cast
 - !ruby/hash:TagHash
   name: 渡辺久美子

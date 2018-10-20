@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/59/4/11594_1_6.png?1
 outline: 孤高の宇宙海賊にして、宇宙一の賞金首コブラとライブ・メタルの体を持つ美しき相棒アーマロイド・レディ。固く強い絆で結ばれた二人は、どのようにして出逢ったのか。20年前の過去の世界を舞台に、顔を変える前の若きコブラ、そしてアーマロイドとなる前のレディを交えて、時空を超えた壮大な冒険の物語が幕を開ける!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash

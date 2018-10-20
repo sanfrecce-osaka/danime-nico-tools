@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/51/3/10513_1_6.png?1
 outline: 笑われればいいと思うよ　旧・茶道部の部室を不法占拠して勝手に｢ごらく部｣の活動(といっても特に明確な活動内容はなし)を続ける4人組。それに目をつけ、ちょっかい(?)を出し続ける｢生徒会｣。愛が溢れまくりで明日から元気に生きていること請け合いのまったりストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 豊崎愛生
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
 - !ruby/hash:TagHash
   name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 竹達彩奈
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 藤田咲
   type: cast
 - !ruby/hash:TagHash
-  name: 津田美波
+  name: 大久保瑠美
   type: cast
 - !ruby/hash:TagHash
-  name: 大久保瑠美
+  name: 津田美波
   type: cast
 - !ruby/hash:TagHash
   name: 大坪由佳
@@ -44,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：太田雅彦
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：あおしまたかし
+  name: 原作：なもり
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：なもり
+  name: 脚本：あおしまたかし
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：中島千明

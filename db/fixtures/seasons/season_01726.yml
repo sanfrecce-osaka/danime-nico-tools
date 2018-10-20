@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/36/9/20369_1_6.png?1
 outline: 僕の名は、花房葉太郎。現代社会の片隅で、人知れず続く騎士団の末裔だ。小さい頃からの「特訓」のせいで、ピンチの女性を無意識に助けてしまう「騎士道体質」を刷り込まれてしまった…！普通の生活を求めて逃げ出したあの日、僕は、彼女と出会った。その子の名前は、鬼堂院真緒。大きな屋敷に、たったひとりで暮らしていて、助けてくれた仮面のヒーローに憧れる、ちょっと不思議な6歳の女の子。…−−でも、さっきキミを助けたのは、仮面を付けた僕なんだ。騎士と淑女の、ヒミツの！？共同生活が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

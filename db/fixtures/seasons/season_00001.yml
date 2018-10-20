@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/18/5/20185_1_6.png?1
 outline: 20世紀初頭のアメリカ西部。ポリアンナは４歳にして母をなくしますが、父のジョン牧師に、どんな逆境にあっても喜びを見つけ出すゲーム「よかった探し」を教わり、明るく元気な女の子に成長します。しかしその父をも病で亡くし、一人ぼっちになったポリアンナは、遠く東部に住むパレーおばさんに引き取られて暮らすことになります。父に教わった「よかった探し」がポリアンナの心の支えとなり、しだいに町の人気者になりますが、ある日交通事故にあってしまい…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 田中秀幸
-  type: cast
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
   name: 土井美加
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
-  name: 中島順三
+  name: 製作年：1986年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1986年
+  name: 中島順三
   type: other
 - !ruby/hash:TagHash
   name: 佐藤好春

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/02/7/20027_1_6.png?1
 outline: 大宮忍、15歳。黒髪たれ目の純和風女子高生ですが、中学生の頃はイギリスに(少しだけ)ホームステイしてました。帰国後も外国への想いをつのらせていた忍に、ある日一通のエアメールが届きます。｢シノブ、今度は私が日本にいくよ!｣差出人はアリス・カータレット。ホストファミリーの一人娘で、金髪碧眼の英国少女!クラスメイトの小路綾&猪熊陽子に、アリスの幼なじみにしてもう一人のイギリスっ子の九条カレンも巻き込めば、5人の日々はきらきら輝くモザイクみたい――日英美少女ゆるふわ学園コメディ、はじまるよ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash

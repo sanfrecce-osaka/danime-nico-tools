@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/7/11457_1_6.png?1
 outline: 少年の名前は、先導アイチ。憧れのファイター、櫂トシキに認めてもらうためにヴァンガードを始めたアイチはすぐにこのゲームの持つ魅力、楽しさに夢中になる。ヴァンガードをすることでアイチはチームメイトとなる戸倉ミサキ、葛木カムイをはじめとする数多くの仲間やライバル達と出会い、絆を深めていく。そんな中、PSYクオリアという不思議な力がアイチの中で目覚める。惑星クレイとシンクロすることでファイトを支配できる究極の力…。しかし、アイチはその強すぎる力に溺れ、我を失ってしまう。そんなアイチを救ったのは、櫂やコーリンなど、ヴァンガードを通して出会った仲間たちだった。様々な経験を経て、人間的にもファイターとしても大きく成長したアイチは、全国大会で日本最強のファイター、雀ヶ森レン率いるチームAL4を破り、優勝を果たす。そんなアイチたちのもとに、ヴァンガードファイトサーキット出場の招待状が届く。日本という殻を突き破り、アジアへ羽ばたいたアイチたちを世界の強豪たちが待ち受ける！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三森すずこ
-  type: cast
+  name: スポーツ/競技
+  type: genre
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
   name: 杉山紀彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 代永翼
@@ -47,6 +50,9 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：根岸貴幸
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：辻初樹
   type: staff
 - !ruby/hash:TagHash
@@ -56,7 +62,16 @@ tags: !ruby/array:Hashie::Array
   name: 原作：伊藤彰
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：木谷高明
+  type: staff
+- !ruby/hash:TagHash
   name: カードファイト!! ヴァンガードシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
   type: other
 - !ruby/hash:TagHash
   name: 角川書店

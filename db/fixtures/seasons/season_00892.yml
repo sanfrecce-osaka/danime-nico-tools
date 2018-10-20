@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/62/7/11627_1_6.png?1
 outline: 178以上もの国と地域で放送されている鉄道CGアニメ「チャギントン」。物語の舞台は「チャギントン」という様々な列車たちが暮らす街。街の名前の由来、それは英語で「チャグチャグ」という言葉が日本語でいう「シュシュポポ」にあたり、「チャグチャグ」の「タウン（街）」から「チャギントン」と名づけられました。この街では色々な列車たちが人々と一緒に様々な仕事をこなしつつ生活しています。主人公は、元気いっぱいな「ウィルソン」、力持ちの「ブルースター」、ちょっぴりおてんばな「ココ」という見習い列車3人組。この3人がチャギントンの街で先輩たちの列車に導かれながら様々な経験を積んでともに成長してゆく冒険と友情の物語です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash

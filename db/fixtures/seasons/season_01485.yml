@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/52/7/20527_1_6.png?1
 outline: 自分だけ時間が巻き戻る現象“リバイバル(再上映)”に悩まされる青年・藤沼悟が、自らの過去と対峙し、もがく姿を描く“時間逆行”サスペンス！各界から熱い注目を浴びる『僕だけがいない街』がついにアニメ化！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
@@ -72,6 +81,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 定番の人気作
+  type: other
+- !ruby/hash:TagHash
+  name: 時を越える
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

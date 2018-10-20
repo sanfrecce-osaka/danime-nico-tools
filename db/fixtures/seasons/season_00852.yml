@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/06/0/21060_1_6.png?1
 outline: 沢渡楓は少し内気で写真が大好きな女の子。父親の遺したカメラで楓が撮る写真は、見る人を幸せな気持ちにして、心と心をつないでいきます。高校入学を機に、瀬戸内海にある父親との思い出の町・竹原へと引っ越してきた楓は、幼なじみの塙かおると再会。岡崎のりえ、桜田麻音という新しい親友もできました。4人は高校1年、2年と一緒の時間を過ごしながら、さまざまな経験や出会いを重ねて、それぞれに一歩一歩、成長してきたのでした。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
+  name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 阿澄佳奈
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 内田彩

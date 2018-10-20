@@ -7,6 +7,15 @@ outline: 群衆に紛れ、ヒトの肉を喰らう。ヒトの形をしなが�
   研”をめぐる物語はついに最終章へ―――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash

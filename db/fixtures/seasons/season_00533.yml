@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/5/10385_1_6.png?1
 outline: "“オーラ”を持った者だけが入学を許可される｢サイキックアカデミー｣。オーラ判定により｢サイキックアカデミー｣へ転校することとなった汐見愛だが、自分のオーラ特性の判定には疑問を感じていた。幼馴染の織奈との再会、クールな美少女ミュウとの出会い、オーラを持つが故の戦い…。愛の新たな学校生活が今、始まる!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash

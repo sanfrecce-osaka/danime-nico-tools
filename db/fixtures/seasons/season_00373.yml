@@ -5,7 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/7/10617_1_6.png?1
 outline: 人気PCゲームをアニメ化した学園ラブロマンス第2シーズン。撫子学園の学生であり、高等部の美術部顧問代理も務める浩樹の下に、故郷から妹同然に可愛がっていた鳳仙エリスがやって来る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/76/3/21763_1_6.png?1
 outline: アメリカの空軍基地エリア51に保管されている「オリジナルメタル」は、何と墜落したUFOの破片。しかも石川五ェ門の斬鉄剣でも斬れないというとんでもない代物。ルパンは愛する峰不二子に贈る指輪の材料にしようと「エリア５１」に予告状を送りつける。だがお宝を狙っていたのはルパンだけではなかった。ジークンドーの達人・ジョー、重火器のリンダ、妖刀紅桜を持つ辻斬りカオル、そして毒使いソフィという女4人組・ラッキークローバーをリーダーに持つテロ組織、ブラッディエンジェルス、さらに銭形警部と女性捜査官・エミリーのでこぼこコンビも加わり、「オリジナルメタル」をめぐる争奪戦が始まった！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 小林清志
+  name: 新井里美
   type: cast
 - !ruby/hash:TagHash
-  name: 新井里美
+  name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 田中敦子
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash
-  name: 井上真樹夫
+  name: 松井菜桜子
   type: cast
 - !ruby/hash:TagHash
-  name: 松井菜桜子
+  name: 井上真樹夫
   type: cast
 - !ruby/hash:TagHash
   name: 栗田貫一

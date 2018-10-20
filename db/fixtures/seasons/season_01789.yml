@@ -7,6 +7,12 @@ outline: 同じ学園に通うケイト、ローズ、レイチェル、クレ�
   そして、信じられない事を口にする…。 ｢あなたたちは、死んだのよ｣
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

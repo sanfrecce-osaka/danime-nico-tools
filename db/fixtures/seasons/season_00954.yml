@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/7/20387_1_6.png?1
 outline: 逆巻家に居候することになった小森ユイは、ヴァンパイアである逆巻六兄弟に血を奪われる日々をおくっていた。そんなある日――。彼らの前に、新たなヴァンパイア・無神四兄弟があらわれる。彼らはユイのことを“イブ”と呼ぶが、その目的とは一体……？そして“アダム”とは……。今、新たな運命が動き始める――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

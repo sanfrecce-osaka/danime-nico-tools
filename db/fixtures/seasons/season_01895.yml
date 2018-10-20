@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/4/22264_1_6.png?1
 outline: 渡英早々、不思議な事件に巻き込まれた少女バイルー・トン。彼女は導かれたように真夜中にひっそりと営業している「カフェ・フォービドゥン」に迷い込む。この店のスタッフはなんと吸血鬼のヴラッド、人狼のルーク、キョンシーのトウリュウ、そして自らをゴーストと名乗るウェイン…。そう、彼らは美しき「人ならざる者」たちだった。しかもこの４人、実は”ある事件専門”の秘密結社の一員で――！？トンを巡り静かな夜のロンドンが一変…いくつもの思惑が交錯する異能ファンタジー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

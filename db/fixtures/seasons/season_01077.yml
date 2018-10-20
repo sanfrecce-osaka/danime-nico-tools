@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/43/5/11435_1_6.png?1
 outline: 小さな頃から、妖怪といわれるものの類を見ることができ、そのため周囲から疎まれてきた夏目貴志。用心棒の妖怪・ニャンコ先生と共に、祖母レイコの遺品｢友人帳｣に書かれた妖怪達の名前を返す日々を送るうち、心優しい藤原夫妻や学校の友人など、大切な場所を手にしていた。ある日、夏目と散歩していたニャンコ先生だったがうっかりはぐれしまい、迷子の兄妹に出会う。行きがかり上、一緒に目的地まで付き添うことにするが、慣れない小さな子供に手を焼くことに。中級妖怪たちやヒノエのとんちんかんなアドバイスを受けながら、目的地を探すのだが・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash

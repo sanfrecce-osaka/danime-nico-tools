@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/17/1/21171_1_6.png?1
 outline: 我聞悠太は高校2年生。一攫千金狙いのオカルト板まとめ系アフィブログ“キリキリバサラ”を運営し、世に数多存在する超常現象を科学的に｢バッサリと斬り斬りしちゃう！｣べく、日夜オカルトに挑んでいた。ところが、そんな彼のブログをきっかけに、徹底的にマニアックでおかしな同志たちが大集結。自己矛盾型自称救世主　神癒霊能媒介者　全否定型超理論派大学生　萌え系占い大先生　死後の世界案内人　未来予知型同人漫画家姉さん　黒魔術代行屋　リア充系雑誌記者　残念系コスプレオタク刑事　出会うはずのなかった彼らの運命が不思議と交差してしまう。そして、彼らの周囲で巻き起こり始める、小さな小さな“違和感”の数々。それらは次第に大きなうねりとなり、やがて想像を絶する大事件へと発展していく──
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -47,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：志倉千代丸
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：イシグロキョウヘイ
+  name: キャラクターデザイン：高瀬智章
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：高瀬智章
+  name: 監督：イシグロキョウヘイ
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

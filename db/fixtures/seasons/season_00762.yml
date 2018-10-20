@@ -7,13 +7,19 @@ outline: 世界各国を脅かす、認定特異災害――『ノイズ』。�
   未来の運命もまた大きく動きはじめる。『覚醒の鼓動』は、すぐそこにまで迫りつつあった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 悠木碧
@@ -37,10 +43,10 @@ tags: !ruby/array:Hashie::Array
   name: 赤﨑千夏
   type: cast
 - !ruby/hash:TagHash
-  name: 高山みなみ
+  name: 赤羽根健治
   type: cast
 - !ruby/hash:TagHash
-  name: 赤羽根健治
+  name: 高山みなみ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：サテライト
@@ -52,10 +58,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：上松範康
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：上松範康
+  name: キャラクターデザイン：小池智史
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：小池智史
+  name: 原作：上松範康
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：藤田淳平

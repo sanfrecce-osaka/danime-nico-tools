@@ -6,6 +6,12 @@ outline: 夏の手前、恋する気持ちを綴った恋愛ストーリー『_s
   _ （アンダーバー）”。「―好きな奴、いるか？」親友のなんてことないが主人公の気持ちを揺れ動かし、物語が動き始めます。今、僕たちの季節が始まる―
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 野島健児
   type: cast
 - !ruby/hash:TagHash

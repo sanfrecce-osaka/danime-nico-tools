@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/08/3/21083_1_6.png?1
 outline: 白凰女学院高等部に通う加藤茉莉香は、政府発行の「私掠船免状」を持った合法の宇宙海賊。学業、宇宙ヨット部部長、喫茶店ランプ館でのアルバイト、さらに、宇宙海賊船・弁天丸の船長と、大忙しな日々を送っている。3年生への進級を間近に控えた春休みのある日、豪華客船での海賊営業の仕事を請けた茉莉香は、乗客リストの中に銀河パスの所有者･無限彼方の名前を発見。彼方の父で高名な「亜空間ダイバー」の無限博士との約束を果たすため、海賊ショーの最中、語りかける。「亜空の流れ、その果ては何色か？」そして、海賊と少年の亜空を駆ける冒険が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
-  name: 藤原啓治
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 小松未可子

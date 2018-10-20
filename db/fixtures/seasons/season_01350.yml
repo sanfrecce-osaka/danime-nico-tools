@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/23/8/10238_1_6.png?1
 outline: 人気作家CLAMP原作の少女コミックをOV化。脚本は｢カードキャプターさくら｣もてがけた大川七瀬が担当。普通の女子高生、美幸は学校に向かう途中にスケートボードで追い越していくバニーガールに遭遇する。何事かと追いかけている途中に運悪くマンホールに落ちてしまう。気が付くとそこは“不思議の国”と呼ばれるところで、目の前には扉に埋まった女の子がいた…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

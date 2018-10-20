@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/22/2/22222_1_6.png?1
 outline: プロ野球球団 神宮スパイダースに所属する左利きの中継ぎ、サイドスロー投手の凡田夏之介（26歳 独身）は、高卒プロ入り8年目で年俸1800万円。決して“一流投手”とは言えない待遇の選手である。“30越えたらあと何年できるか分からない”“引退してコーチや解説者になれる人はほんの一握り”“引退後は年収100万円台の生活に陥ってしまう人もいる”“プロ野球選手は現役のうちに稼がなければならない！”そんな厳しい現実を見据えながらも凡田はあるフレーズを繰り返していた。「グラウンドには銭が埋まっている」凡田は今日もマウンドに上がる。そう、「グラゼニ」を夢見て！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：多田彰文
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：大貫健一
+  name: 監督：渡辺歩
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：渡辺歩
+  name: キャラクターデザイン：大貫健一
   type: staff
 - !ruby/hash:TagHash
   name: 原作：森高夕次
@@ -50,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

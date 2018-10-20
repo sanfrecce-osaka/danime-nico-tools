@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/55/1/20551_1_6.png?1
 outline: 西暦2027年――　橘イツキが通う｢清雅学園｣ は、都心から少し離れた郊外にある共学の高等学校。文武に秀でた人材を育てることを目的とした全寮制の進学校である。2学期が始まり、イツキは、学園中の憧れの的である生徒会長の泉澄リナから生徒会室に呼び出される……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash

@@ -6,6 +6,9 @@ outline: 真夜中の“ゴミ捨て屋” 稼業に励むシャウト＆クラ�
   歳の少女マキナがふたりを探しあて、“魔法の書”を捨てさせようと懇願。実は彼女、魔女をやめて普通の女の子になりたがっているのだが、そのためには魔法の媒介となる魔法の書が邪魔なのだ。しかし実際のところ、この本、簡単に捨てられるシロモノではなく……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/37/8/22378_1_6.png?1
 outline: 追加カット、新たな視点でTVシリーズ全26話を再構成した特別総集編。西暦2199年。人類は絶望の淵に立たされていた。外宇宙から襲来した謎の星間国家＜ガミラス＞による遊星爆弾により地球は壊滅的な被害を負い、人類滅亡までの猶予はわずか1年…。残された最後の希望、それは、人類初の恒星間航行が可能な宇宙戦艦｢ヤマト｣で、ガミラスの攻撃によって汚染された地球を浄化再生するシステム｢コスモリバースシステム｣を受け取りに行く｢ヤマト計画｣だった…。人類の命運を懸けた16万8千光年の大航海を追想する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上喜久子
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 中田譲治
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 若本規夫

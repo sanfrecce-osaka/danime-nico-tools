@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/5/10195_1_6.png?1
 outline: 惑星改造によって生まれ変わった水の星｢アクア｣。その観光都市ネオ・ヴェネツィアを舞台に、ウンディーネ(水先案内人)を夢みてマンホーム(地球)からやってきた15歳の少女、水無灯里を主人公に優しくてちょっぴり切ない物語が広がります。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash

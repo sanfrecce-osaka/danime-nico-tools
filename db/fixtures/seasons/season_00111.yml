@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/28/6/11286_1_6.png?1
 outline: 弱小だった雷門中サッカー部のキャプテン、主人公・円堂守と部員たち「雷門イレブン」は、影山率いる世宇子中との激闘に勝利。ついにフットボールフロンティアの全国優勝を果した。しかし、喜んでいたのも束の間、雷門イレブンの前に強大な敵が現れる―――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 竹内順子
   type: cast
 - !ruby/hash:TagHash

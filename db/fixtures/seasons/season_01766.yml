@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/77/3/21773_1_6.png?1
 outline: ブルボン王朝時代の財宝が謎の女によって盗まれた！犯人はルパンに違いないと意気揚々とトラックを追いかける銭形と、トラックごと財宝を奪い返すルパン。しかし、ルパンは何者かによって連れ去られてしまう！？…ルパンを連れ去ったのはマルコヴィッチという男。彼は不二子を人質に、世界最高の宝石ブルズ・アイを盗んで来いと言う。やむなく世界一の警備を誇る博物館に侵入するルパンたちだったが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 浅川悠
+  type: cast
+- !ruby/hash:TagHash
+  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
   name: 増山江威子
@@ -18,9 +27,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 井上真樹夫
-  type: cast
-- !ruby/hash:TagHash
-  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
   name: 青野武

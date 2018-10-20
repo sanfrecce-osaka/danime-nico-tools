@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/53/7/21537_1_6.png?1
 outline: 太平洋の孤島、チイチ島から東京にやってきた天月めぐる。人見知りをしないめぐるは編入先の聖チェリーヌ学院で、たくさんの友達を作ることができたが、偶然転入日の前に出会った少女・如月すみれにはなかなか仲良くなれずにいた。そんな学校生活の中、とある事件がきっかけで謎のハリネズミ・みるくちゃんにスカウトされて“ツインエンジェルBREAK”に変身できるようになっためぐるは、もうひとりのツインエンジェルがすみれであることを知るのだった……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash

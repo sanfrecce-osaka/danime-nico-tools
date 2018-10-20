@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/0/10330_1_6.png?1
 outline: 宮前かなこは男性が苦手で、美少女大好きな女子高生。夢の女学院に編入したものの、とあるきっかけで見た目は可憐な美少女だが実は女装したドS少年と一緒に寮で暮らす羽目に!?清楚なミッション系女学院の学院生活の中で、個性豊かな美少女キャラを、百合趣味のかなこさんを通して楽しむひと味違ったハーレム系アニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
-  type: cast
-- !ruby/hash:TagHash
   name: 平野綾
   type: cast
 - !ruby/hash:TagHash
   name: 甲斐田裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 豊口めぐみ
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 神田朱未
   type: cast
 - !ruby/hash:TagHash
-  name: 後藤沙緒里
+  name: 上田燿司
   type: cast
 - !ruby/hash:TagHash
-  name: 上田燿司
+  name: 後藤沙緒里
   type: cast
 - !ruby/hash:TagHash
   name: 真田アサミ

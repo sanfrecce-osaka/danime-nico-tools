@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/91/8/10918_1_6.png?1
 outline: 2030年東京、科学省長官の天馬博士が亡き息子飛雄の身代わりとして作ったロボット｢アトム｣は、天馬博士失踪後、お茶の水博士に育てられ心優しいロボットとして成長した。社会が｢人間｣対｢ロボット｣で対立している中、両方の環境で生活することでお互いの立場に理解を深め、時には怒り、涙を流し、嘆き悲しみながらアトムは成長し、対立に立ち向かい、双方にとっての理想的な世界を築き上げようとしていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: よこざわけい子
+  name: 勝田久
   type: cast
 - !ruby/hash:TagHash
-  name: 勝田久
+  name: よこざわけい子
   type: cast
 - !ruby/hash:TagHash
   name: 菅谷政子

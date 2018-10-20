@@ -7,6 +7,12 @@ outline: 大艦巨砲時代のミリタリーと美少女アクションが合�
   氷川竜介】
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -31,13 +37,13 @@ tags: !ruby/array:Hashie::Array
   name: 高島雅羅
   type: cast
 - !ruby/hash:TagHash
-  name: 岡野浩介
-  type: cast
-- !ruby/hash:TagHash
   name: 小宮和枝
   type: cast
 - !ruby/hash:TagHash
   name: 横尾まり
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡野浩介
   type: cast
 - !ruby/hash:TagHash
   name: さとうあい

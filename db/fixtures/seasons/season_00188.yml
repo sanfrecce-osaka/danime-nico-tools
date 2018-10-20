@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/88/9/20889_1_6.png?1
 outline: 15歳の少年・浅永瞬は、前向きで明るい性格の普通の中学生。ある日、科学者かつ実業家の父の会社で不思議な水晶を見つけるがその水晶に触れた瞬間、突然世界が歪み地球の裏側の世界＜エンドラ＞へと吸い込まれてしまう。一方、エンドラの城で16歳の誕生日を迎えた王子・エミリオは現在の王・デルザインを強く憎んでいた。王位を継げる年齢になったことで、武器を持ち、いよいよ復讐を果たそうとするが力の差が大きいために全く歯が立たない。デルザインに捕まって投獄され、悲嘆に暮れるエミリオ。しかし突然牢獄の壁が歪み、そこに瞬が現れる。ひとりは元の世界へ帰るため、ひとりは復讐を成し遂げるため、＜エンドラ＞で生きる少年たち。違う世界で育った2人の少年が掴む未来とは・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 小野賢章
   type: cast
 - !ruby/hash:TagHash
-  name: 増田俊樹
-  type: cast
-- !ruby/hash:TagHash
   name: 高橋広樹
   type: cast
 - !ruby/hash:TagHash
-  name: 大橋彩香
+  name: 増田俊樹
   type: cast
 - !ruby/hash:TagHash
   name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 大橋彩香
   type: cast
 - !ruby/hash:TagHash
   name: 美山加恋

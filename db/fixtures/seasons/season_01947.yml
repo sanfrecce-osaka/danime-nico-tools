@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/34/1/20341_1_6.png?1
 outline: 京都アニメーション制作の大ヒットシリーズ｢CLANNAD(クラナド)｣の第2期！原作はゲームブランド｢Key｣の同名恋愛アドベンチャーゲーム。人と人との｢絆｣をテーマにしたファンタジックかつ感動的なストーリーで人気を博した。アニメ第1期で、さまざまな出来事を経て恋人同士になった朋也と渚。第2期の本作では、2人のその後を軸に、家族や友人との絆を丁寧に描いていく。アニメーション制作は｢AIR｣｢Kanon｣｢けいおん！｣などを手がけ、高いクオリティでファンからの信頼も厚い京都アニメーション。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -56,9 +62,6 @@ tags: !ruby/array:Hashie::Array
   name: 監督：山田尚子
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：石立太一
-  type: staff
-- !ruby/hash:TagHash
   name: 監督：高雄統子
   type: staff
 - !ruby/hash:TagHash
@@ -66,6 +69,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 監督：坂本一也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石立太一
   type: staff
 - !ruby/hash:TagHash
   name: 監督：米田光良

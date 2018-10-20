@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/38/0/22380_1_6.png?1
 outline: 現在は東京の船の科学館に保存されている、初代南極観測船として有名な船「宗谷」。正式に海軍に所属して太平洋戦争に参加した歴戦艦である。ソ連政府から「ボロチャベツ号」として造船元の川南造船の発注をされるも、進水直後に契約を破棄されてしまう。その後「地領丸」へ改名、さらに警備用兼測量船として海軍にひきとられ「宗谷」と再び改名することとなった。終戦後、宗谷は満州の人々を故郷へ運ぶ引揚船として、新たな任務につくことになる。その後、海上保安庁の灯台補給船が不足した為に転用され、昭和30年には巡視船に転籍。そして、大改装を受けて南極観測船となり、昭和36年から南極観測に従事することになった。激動の時代を背景に、時代を生き抜いた「宗谷」と、「宗谷」に関わった人々を描いた物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash

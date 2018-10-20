@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/57/1/10571_1_6.png?1
 outline: あいも変わらず貧乏で、団員たちのモチベーションもいまいち上がらない、ベンチャー秘密結社・鷹の爪団。あの手この手で世界征服のための資金稼ぎに奔走する毎日を過ごしていた。総統の子を身ごもった大家さん、恋をする吉田くん、自信をなくしたデラックスファイター、おなじみの面々がドタバタを繰り広げる中、鷹の爪団は今度こそ世界を征服することができるのか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：FROGMAN
   type: staff
 - !ruby/hash:TagHash

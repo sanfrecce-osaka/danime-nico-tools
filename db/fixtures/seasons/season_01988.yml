@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/0/22410_1_6.png?1
 outline: 本田さんは戦う!! 業務と!! 絶版と!! マンガを愛する人々と!! コミック売り場がこんなに笑える職場だなんて聞いてない!? とある書店のコミック売り場から、マンガ愛をふんだんにこめた日報をお送りします。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬

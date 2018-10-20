@@ -6,6 +6,12 @@ outline: 遠い未来、人類が外宇宙に進出、地球以外にも定住�
   of Shadow-work Member)』の任務に就くのだった。2人は専用の高速巡航艦・ラミューズを駆り、ガードロボットのドナシュラークと共に、各惑星間や組織間の諸問題を、時にはスマートに、時には破滅的に解決を図る。その痛快な活動を描きつつも、実はその活動自体に潜んだ罠を徐々に解き明かして行く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -36,10 +42,10 @@ tags: !ruby/array:Hashie::Array
   name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
-  name: 南央美
+  name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴置洋孝
+  name: 南央美
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：浜口史郎

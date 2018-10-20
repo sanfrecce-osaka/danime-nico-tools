@@ -7,6 +7,12 @@ outline: 全米最大の競馬レースを狙って華麗なる必勝プラン�
   地球を半周する７日間のスリリングなラプソディ、ルパン三世とその一味の流儀をお見せしましょう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 伊瀬茉莉也
   type: cast
 - !ruby/hash:TagHash

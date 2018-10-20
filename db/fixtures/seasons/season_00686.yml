@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/2/10582_1_6.png?1
 outline: カーネギー家のパパとピーターの前に、突如現れた謎の土管型ロボット・土管くん。ひょんなことから家族の一員となった土管くん。頼まれてもないのに、人助けに東奔西走の毎日。今日もハチャメチャに周囲を巻き込み大活躍!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: FROGMAN
   type: cast
 - !ruby/hash:TagHash

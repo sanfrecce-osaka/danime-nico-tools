@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/24/3/10243_1_6.png?1
 outline: "｢カレイドステージ｣｡それはサーカスでもない､ミュージカルでもない､マジックでもない世界的に大人気のエンターテイメントショウ｡主人公・苗木野そらは16歳の女の子｡幼い頃､今は亡き両親と観た想い出の｢カレイドステージ｣に憧れて､たった一人､オーディションを受けるため義父母の反対を押し切り日本から単身アメリカへやってきた｡オーディションに遅刻しながらも特例として入団を認められはしたが周囲の風当たりは冷たい｡そんな中､そらは持ち前の､決して諦めない根性と天性の｢華｣､そして仲間達との友情と確執の中で､ステージの花形｢カレイドスター｣を目指してあらゆる試練を乗り越えていく｡"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
-  name: 折笠富美子
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
   name: 広橋涼

@@ -6,6 +6,12 @@ outline: 北海道、某市、某区役所。 山神ルーシー…さんがが�
   そんな山神ルーシー…と職員達が元気に秘密に活躍（！？）するお役所〝WORK〟コメディー！！※実際の公務員とは、一切関係ありません☆
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -24,10 +30,10 @@ tags: !ruby/array:Hashie::Array
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 小山力也
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: 高橋美佳子

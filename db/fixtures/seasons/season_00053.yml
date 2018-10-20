@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/5/10985_1_6.png?1
 outline: 世界中が戦場となった非核大戦で荒廃した世界を統合した総合管理局が運営する巨大人工都市オリュンポス。元LA市警SWAT隊員デュナン・ナッツと多機能サイボーグである相棒のブリアレオスはオリュンポスにスカウトされ、特殊部隊ES.W.A.T.隊員として世界警察の名の下にテロリストと戦う日々を送っていた…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
-  name: 中田譲治
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 津田健次郎
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 山寺宏一
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
   name: 玉川砂記子

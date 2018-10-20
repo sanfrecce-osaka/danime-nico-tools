@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/4/10484_1_6.png?1
 outline: ある日､サラリーマンの田中さんが新規開店のラーメン屋を発見!!そこで食事をしようと扉を開けた時､目の前に現れたのは､鉢巻をし､エプロンを着た猫だった!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 中川里江
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/11/5/20115_1_6.png?1
 outline: 真面目で仕事熱心なごく普通のOL・カオル。そんな彼女の旦那は、半ニートで重度のオタクだった。カオルは旦那に振り回されたり心配させられたりするけれど、見ているほうが恥ずかしいほどふたりは仲良しで……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
+  name: 新谷良子
   type: cast
 - !ruby/hash:TagHash
-  name: 新谷良子
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 堀野紗也加

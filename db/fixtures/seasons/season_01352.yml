@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/9/10029_1_6.png?1
 outline: 都心から電車で15分の小都市。そこで小さな探偵事務所を営む双葉恋太郎と、その押しかけ助手である白鐘沙羅、白鐘双樹。とある秋の季節、彼らが送った平凡で、そして平凡だからこそほんのりとしあわせだった毎日。フタコイオルタナティブが描くのはそうした情景のスケッチ・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：feel.
   type: staff
 - !ruby/hash:TagHash

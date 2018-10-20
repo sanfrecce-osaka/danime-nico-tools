@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/03/2/11032_1_6.png?1
 outline: 西暦200X年。海上自衛隊の新鋭イージス護衛艦「みらい」が、南太平洋上で行われる米軍との合同演習に参加するため、横須賀基地から出航した。だが途中、正体不明の嵐に遭遇。嵐ののち、霧の中から現れたのは戦艦「大和」率いる連合艦隊・・・！　「みらい」は太平洋戦争の只中に降り立ったのだった。日米形勢逆転の転換点とも言えるミッドウェー海戦を目の当たりにした｢みらい｣は、己の立ち位置を知る。60年後の近代兵器を備えたその存在は、歴史を変えてしまうほどの脅威を持つ――。副長の角松洋介は、海上で遭難していた一人の海軍将校を救出した。男の名は草加拓海。「みらい」の中で戦争の結末と戦後の日本の在り様を知った草加は、帝国海軍少佐としてではなく、己が信念のために動き出す。狂い始めた歴史の歯車。草加は何をしようとしているのか？専守防衛を貫こうとする「みらい」が選ぶ道は？誰も見たことのない歴史が今、幕を開ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 稲田徹
-  type: cast
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 東地宏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
   name: 屋良有作

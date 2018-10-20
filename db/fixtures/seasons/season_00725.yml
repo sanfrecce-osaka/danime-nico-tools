@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/5/10015_1_6.png?1
 outline: 神坂一の小説を原作にした人気アニメシリーズのOVA版第1作。リナと魔獣を合成して最強のキメラを造ろうとする第1話。ヘボ少年を一人前の騎士にしようとする第2話。鏡によってリナたちの正反対の性格を持ったコピーが出現する第3話。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：吉松孝博
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：わたなべひろし
+  name: 原作：神坂一
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：神坂一
+  name: 監督：わたなべひろし
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：服部隆之

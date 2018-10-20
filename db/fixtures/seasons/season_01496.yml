@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/7/10637_1_6.png?1
 outline: 時は2030年、東京湾上に建設されたメガロシティに妖魔が襲来。響リョウ、チャック・スェーガー、アニス・ファームの3人はサイボーグ戦士“ボーグマン”となり、長い戦いの末、敵を撃退した。その戦いから三年……。平和を取り戻したかに見えるメガロシティに、新たなる魔手が伸びる。ボーグマンたちと最強の敵オメガとの戦い。彼らの最後の戦いの行方は?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: キャラクターデザイン：本橋秀之
   type: staff
 - !ruby/hash:TagHash

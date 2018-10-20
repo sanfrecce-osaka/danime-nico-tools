@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/31/9/10319_1_6.png?1
 outline: 舞台はヨーロッパ。ある国の公益法人、社会福祉公社では“国のための仕事”と称し、様々な理由で少女たちが集められた。その少女たちは｢条件付け｣を施され｢義体｣として｢暗殺｣などの仕事に利用されていた。少女たちにはそれぞれを管理する諜報官の男たちがいて、少女たちを管理・命令し、戦わせるのであった。社会福祉公社によって自由な身体と仕事を与えられ少女たちは公社の施設と殺しの現場を行き来するのみの毎日ではあったが、少女たちはとても幸せであった。それが与えられた幸せであっても・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: 宮本充
   type: cast
 - !ruby/hash:TagHash
+  name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
   name: 家中宏
   type: cast
 - !ruby/hash:TagHash
   name: 木内秀信
-  type: cast
-- !ruby/hash:TagHash
-  name: 江原正士
   type: cast
 - !ruby/hash:TagHash
   name: 仙台エリ
@@ -68,10 +71,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2003年
   type: other
 - !ruby/hash:TagHash
-  name: 武上純希
+  name: アスキー・メディアワークス
   type: other
 - !ruby/hash:TagHash
-  name: アスキー・メディアワークス
+  name: 武上純希
   type: other
 - !ruby/hash:TagHash
   name: 丸山正雄

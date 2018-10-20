@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/8/10788_1_6.png?1
 outline: 旅を通して数々の試練を経験し闘士として成長したレイナ。クイーンズブレイドへの参加を決意した彼女は女王・アルドラが待つ帝都・ガイノスにたどり着く。そこにはレイナ同様にクイーンズブレイドを制覇せんと幾多の美闘士が集っていた。レイナの姉、クローデットはヴァンス家の復権を心に誓い、トモエとシズカは祖国・ヒノモトの為に戦う。ナナエルは天使長に参戦を命ぜられ、沼地の魔女の手下達はクイーンズブレイドを潰さんと目論む。帝都・ガイノスに集う美闘士たちの目的は唯一つ、クイーンズブレイドで勝ち抜くこと。クイーンズブレイド、それは神の名の下にもっとも強く、もっとも美しい女王を選ぶ闘技大会。誰がその栄光ある玉座につくのか、それは戦ってみなければ判らない。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 喜多村英梨
@@ -20,22 +26,22 @@ tags: !ruby/array:Hashie::Array
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
-  type: cast
-- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 平野綾
   type: cast
 - !ruby/hash:TagHash
-  name: 甲斐田裕子
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 高橋美佳子
+  type: cast
+- !ruby/hash:TagHash
+  name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤かな恵

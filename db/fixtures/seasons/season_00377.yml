@@ -5,10 +5,10 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/8/10638_1_6.png?1
 outline: 海洋クラブの公開訓練に出発したカシラを含む15人の少年少女達。しかし、楽しいはずの航海は突然の嵐で一変!気がつくと見知らぬ海岸に漂着していた。そこでカシラ達が見たものは、恐竜を馬のように乗りこなす人間達だった。なんと、この15人の若者達は嵐の影響で遥か時代をさかのぼりタイムスリップしてしまったのである。その世界でカシラたちは自分たちの世界に戻る為、紆余曲折しながらも様々な困難を乗り越えてゆく冒険記。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三木眞一郎
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 阪口大助
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 高木渉
@@ -18,6 +18,9 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 根谷美智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪口大助
   type: cast
 - !ruby/hash:TagHash
   name: 天野由梨
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 笠原留美
   type: cast
 - !ruby/hash:TagHash
-  name: 岩永哲哉
+  name: 石野竜三
   type: cast
 - !ruby/hash:TagHash
-  name: 石野竜三
+  name: 岩永哲哉
   type: cast
 - !ruby/hash:TagHash
   name: 監督：湯山邦彦

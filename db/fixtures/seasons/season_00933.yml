@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/47/7/21477_1_6.png?1
 outline: 環境悪化により、その寿命が間近に迫る地球。新天地を求め宇宙開拓を進めていた人類に、全宇宙征服を目論む悪党星団ワルダスターが攻撃を仕掛けてきた。父をワルダスターに殺された青年・南城二は、サポートロボット「ペガス」に搭載された変身システムによって、強化装甲を身にまとい超人テッカマンに変身。特殊戦闘チーム「スペースナイツ」の一員として、人類の未来をかけてワルダスターに戦いを挑む。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 内海賢二
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 森功至
+  type: cast
+- !ruby/hash:TagHash
+  name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
   name: 滝口順平

@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/16/1/21161_1_6.png?1
 outline: この物語の舞台は、近未来。高速ネット通信とVR技術の革新により、自宅にいながらリアルな旅行体験やライブ体験が一般化している。アイドル活動もその在り方を変え、主にネットを介したVR空間が活動の起点となっている。アイドルのニーズは世界的に高まり、世界各地にアイドル育成を目的とした学校が設立された。この学園もその中の一つで、どこの国にも属さない公海上に存在する天然の島と人工島を連結して構成されたビギニング島にある。過去にも世界的に活躍したアイドルを数々生み出してきたことがある学園だが、それも過去の栄光で最近はランキング上位に入ることがなく低迷している。そんな学園に世界各国から入学してきた個性豊かなアイドルの卵たちが、苦楽をともにし切磋琢磨しながらアイドルリーグのトップを目指して成長していく青春物語である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 水樹奈々
-  type: cast
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 高垣彩陽
@@ -26,6 +29,9 @@ tags: !ruby/array:Hashie::Array
   name: 早瀬莉花
   type: cast
 - !ruby/hash:TagHash
+  name: 小原莉子
+  type: cast
+- !ruby/hash:TagHash
   name: さかき孝輔
   type: cast
 - !ruby/hash:TagHash
@@ -36,9 +42,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 相良茉優
-  type: cast
-- !ruby/hash:TagHash
-  name: 小原莉子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：セブン・アークス・ピクチャーズ

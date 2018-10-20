@@ -7,6 +7,9 @@ outline: |-
   同じころ、らぁらは空から降って来た不思議な赤ちゃんと出会う。赤ちゃんはらぁらをママと呼んで離れようとしない。放っておけず赤ちゃんのお世話をすることになったらぁらだったが・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
@@ -25,10 +28,10 @@ tags: !ruby/array:Hashie::Array
   name: 真田アサミ
   type: cast
 - !ruby/hash:TagHash
-  name: 山本希望
+  name: 芹澤優
   type: cast
 - !ruby/hash:TagHash
-  name: 芹澤優
+  name: 山本希望
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木千尋
@@ -40,7 +43,7 @@ tags: !ruby/array:Hashie::Array
   name: 茜屋日海夏
   type: cast
 - !ruby/hash:TagHash
-  name: 渡部優衣
+  name: 高乃麗
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：タツノコプロ

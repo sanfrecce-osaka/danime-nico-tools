@@ -5,7 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/70/0/10700_1_6.png?1
 outline: 神奈川県川崎市高津区溝の口、首都でもないこの地で、世界征服を狙う悪の組織・フロシャイムの川崎支部の怪人たちと、ご当地のヒーロー・天体戦士サンレッドが繰り広げる戦いの日々!!・・・のはずが、サンレッドはヒーローのくせにヒモでパチンコ好き、そのうえちょっと乱暴もの。かたやフロシャイム川崎支部を率いるヴァンプ将軍は、｢一日のほとんど料理のこと考えてる｣というほどのカリスマ主夫にして、組織の中間管理職としては部下たちから｢理想の上司｣と慕われる人格者。フロシャイムの怪人たちもそれぞれ、とても世界征服を企んでるとは思えないほどの小市民。そんな魅力的なキャラクターたちの日常を、ときにほのぼの、ときに世知辛く、ときにシュールに描くギャグアニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 斧アツシ
+  type: cast
+- !ruby/hash:TagHash
+  name: 髙木俊
   type: cast
 - !ruby/hash:TagHash
   name: 間宮くるみ
@@ -15,9 +24,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 鍋井まき子
-  type: cast
-- !ruby/hash:TagHash
-  name: 髙木俊
   type: cast
 - !ruby/hash:TagHash
   name: 山田ルイ53世

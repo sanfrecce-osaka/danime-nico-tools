@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/8/11428_1_6.png?1
 outline: ナナは、《あこがれの彼》のためにバレンタインのプレゼントを作っている最中、オジイチャンの珍発明により7人に分裂。オリジナル・ナナのさまざまな特徴を誇張したような超個性的な分身が6人も現れてしまい、あげく7人まとめて受験を邪魔するへんてこな敵と戦う《ナナレンジャー》にされてしまったからもうたいへん！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: くまいもとこ
+  name: 福井裕佳梨
   type: cast
 - !ruby/hash:TagHash
-  name: 福井裕佳梨
+  name: くまいもとこ
   type: cast
 - !ruby/hash:TagHash
   name: 葉月絵理乃

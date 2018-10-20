@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/21/2/10212_1_6.png?1
 outline: 人気小説を原作した第2期シリーズ。幼なじみの少女、水無神操緒が幽霊としてとり憑いている高校生の夏目智春。朱浬に智春の兄からと手渡された銀色のトランクを開いたことで、機巧魔神(アスラ・マキーナ)である黒鐵の演操者(ハンドラー)となった智春。黒鐵を操り戦う智春や科學部の仲間たちの新たな戦いが始まる…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 豊崎愛生
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 森久保祥太郎
@@ -32,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 入野自由
-  type: cast
-- !ruby/hash:TagHash
   name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
-  name: 野中藍
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢作紗友里
   type: cast
 - !ruby/hash:TagHash
   name: 監督：草川啓造

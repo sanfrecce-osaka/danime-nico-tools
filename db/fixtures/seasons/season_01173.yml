@@ -6,6 +6,12 @@ outline: 2000年10月に日本テレビ系の深夜アニメシリーズとし�
   Road」が金曜ロードショーにてオンエアされました。そして、さらにオリジナルアニメ『はじめの一歩 間柴vs木村 死刑執行』も製作され話題を呼びました。――いじめられっ子だった主人公「幕之内一歩」がボクシングを通して成長していくひたむきな姿に共感を感じずにはいられません。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash

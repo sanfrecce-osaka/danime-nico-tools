@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/74/0/10740_1_6.png?1
 outline: 風見潤、中村一路、野呂清の三人の若者たちが経営する、カーチューニングショップ“メカドック”。小さいながらも確かな腕でこだわりのチューンナップをする彼らの店には、マシンに熱い想いを持つ走り屋やレーサー、警官までもが続々と集う。やがて潤たちは自らもレースの世界へと足を踏み入れ、ライバルたちと勝利を競うこととなる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash

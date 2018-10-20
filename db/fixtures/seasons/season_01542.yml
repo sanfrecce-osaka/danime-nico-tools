@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/17/8/21178_1_6.png?1
 outline: 16人の魔法少女による、残留をかけた、過酷な椅子取り合戦が始まる―！魔法少女であるために、騙す、出し抜く、奪い合う。｢増えすぎた魔法少女を半分に減らす｣という運営からの一方的な通告のもと、一週間に一人ずつ、魔法少女がその資格を剥奪されていく。リスクを孕んだ、理不尽なゲームに囚われた16人の魔法少女は、黒幕の意図に翻弄されながらも自分が魔法少女であり続けるために策を練る。特殊な環境下で麻痺していく感覚。しかし、その中で魔法少女たちはそれぞれの想いを持って、この無慈悲な椅子取りゲームを受け入れていく――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 早見沙織
+  name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上喜久子
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 小林ゆう

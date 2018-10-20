@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/0/22420_1_6.png?1
 outline: ある日、海から魚が消えた。水産省はかねてより計画していた「宇宙イケス」の試験運用をスタート。尾道には「尾道宇宙漁業団」が設立され、宇宙漁師が育成された。そして近年、男女雇用機会均等法の強化によって、「漁師にも女性を」という声が高まり、6人の新米宇宙漁師候補生が選ばれた。舞台は尾道、目指すは宇宙。これは宇宙漁師を目指す6人の成長を描いた物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 立花理香
   type: cast
 - !ruby/hash:TagHash

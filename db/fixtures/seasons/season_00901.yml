@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/0/10140_1_6.png?1
 outline: TVシリーズの主題歌・挿入歌に新曲を加えた全6曲を収録している。映像はTVシリーズのものを再編集して使用しているが,｢ALONE 孤独の戦士｣と曲間に挿入されるショートアニメは完全新作。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 超獣機神ダンクーガシリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1986年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

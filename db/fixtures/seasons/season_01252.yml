@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/7/11427_1_6.png?1
 outline: 不思議な生物と街が存在する世界・アルカナ。植物学者・ジョーによって作られた木の人形・パルムは、傷ついた女戦士・コーラムからトートの卵を託され旅に出る。旅の途中でパルムは、人間達と出逢い、心を通わせる。そして、パルムはタマスに行けば自分も人間になれることを知るが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
-  name: 豊口めぐみ
+  name: 石塚運昇
   type: cast
 - !ruby/hash:TagHash
-  name: 石塚運昇
+  name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 阪口大助
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 小桜エツ子
   type: cast
 - !ruby/hash:TagHash
-  name: 愛河里花子
+  name: 清川元夢
   type: cast
 - !ruby/hash:TagHash
-  name: 清川元夢
+  name: 愛河里花子
   type: cast
 - !ruby/hash:TagHash
   name: 長嶝高士

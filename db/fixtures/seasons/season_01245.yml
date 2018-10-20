@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/36/4/21364_1_6.png?1
 outline: 世界各地でダイヤの盗難が相次ぎ、ついにマリネラ王国のコレクションまで奪われた！しかし、ここで泣き寝入りするようなパタリロではないっ。MI６腕利きのバンコランを引き連れて掴んだ真相とは・・・？！広大無辺の大宇宙を舞台に、愛と嫉妬と物欲に駆り立てられた凄まじい戦いが始まる！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 古川登志夫
   type: cast
 - !ruby/hash:TagHash
-  name: 滝口順平
+  name: 永井一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 永井一郎
+  name: 滝口順平
   type: cast
 - !ruby/hash:TagHash
   name: 藤田淑子
@@ -23,22 +26,22 @@ tags: !ruby/array:Hashie::Array
   name: 戸田恵子
   type: cast
 - !ruby/hash:TagHash
-  name: 杉山佳寿子
-  type: cast
-- !ruby/hash:TagHash
-  name: 曽我部和恭
-  type: cast
-- !ruby/hash:TagHash
   name: 大塚周夫
   type: cast
 - !ruby/hash:TagHash
   name: 池田昌子
   type: cast
 - !ruby/hash:TagHash
+  name: 杉山佳寿子
+  type: cast
+- !ruby/hash:TagHash
   name: 松島みのり
   type: cast
 - !ruby/hash:TagHash
-  name: 野島昭生
+  name: 曽我部和恭
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀秀行
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：青木望

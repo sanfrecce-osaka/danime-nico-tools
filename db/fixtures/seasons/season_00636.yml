@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/05/1/10051_1_6.png?1
 outline: "｢週刊少年チャンピオン｣にて2007年から連載を開始し、2010年10月からテレビ東京系列で放送開始となった人気アニメ。人類征服のために深海からやってきたイカ娘が湘南の｢海の家れもん｣で騒動を巻き起こす。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
@@ -27,6 +33,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: どこかにカレー
+  type: other
+- !ruby/hash:TagHash
+  name: 主人公がかぶりもの
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

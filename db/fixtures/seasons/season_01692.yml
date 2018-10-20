@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/53/1/10531_1_6.png?1
 outline: 都市部から遠く離れた片田舎、奥木染(おくこぞめ)。春日野悠は、妹の穹を連れてその町に向かっていた。そこは幼少の頃夏休みに何度も訪れ、過ごした祖父の家があり、懐かしい場所であった。不慮の事故により両親を亡くし、拠り所を失った2人は、今は誰も住んでいない祖父の家に引っ越し、そこで暮らす事を決める。小さい頃から、あまり変わっていないように感じた町並みや人。懐かしい想い出や、静かな環境が、悠を癒していったが、徐々に変化が訪れる。想い出として心に刻まれたときからもう始まっていた未来。今まで傷つき、不器用な生き方しかできなかった相手と、悠はどう向き合うのか・・・・・・日差しが強まる初夏の空の下、物語が動き始めるのたっだ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
-  name: いのくちゆか
+  name: 小野涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 小野涼子
+  name: いのくちゆか
   type: cast
 - !ruby/hash:TagHash
   name: 田中涼子

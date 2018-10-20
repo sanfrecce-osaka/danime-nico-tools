@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/27/3/21273_1_6.png?1
 outline: メカ造りが好きな少年ガンちゃんとガールフレンドのアイちゃんは、犬型メカ・ヤッターワンを完成させ、世のため人のために正義の味方ヤッターマンになることを決意する。一方、悪玉トリオのドロンボー一味の下へ、泥棒の神様ドクロベエが現われる。ドクロベエは世界中に散らばっている、大金塊の在り処を記した４つの石・ドクロストーンを集めて欲しいという。ヤッターマンはドロンボー一味の悪行を阻止するため、ヤッターワンと共に出動する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 富山敬
-  type: cast
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 富山敬
   type: cast
 - !ruby/hash:TagHash
   name: 滝口順平

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/19/3/20193_1_6.png?1
 outline: ルーシーの一家は、イギリスに住んでいた時よりも規模の大きな農場を求めて南オーストラリアにやってきました。コアラやカンガルーなどの不思議な動物、原住民との出会い、みすぼらしくてとても町とは思えないアデレード。新天地での生活は驚くことばかりです。そして３年が経ちましたが、一向に農地は得られず、一家の不安と焦りが頂点に達しようとしたとき、ルーシーが交通事故にあってしまい…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 玉川砂記子
   type: cast
 - !ruby/hash:TagHash

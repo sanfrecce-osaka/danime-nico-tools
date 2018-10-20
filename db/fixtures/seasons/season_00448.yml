@@ -5,7 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/8/21988_1_6.png?1
 outline: けものフレンズのバスツアーの様子を収録！行きのバス車内の様子からキャストとの写真撮影、そして群馬サファリパークの様子や、サファリパーク後のツアー参加者限定ミニライブ＆トークショーの一部も配信！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 尾崎由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野早稀
   type: cast
 - !ruby/hash:TagHash
   name: 根本流風
@@ -18,9 +24,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 本宮佳奈
-  type: cast
-- !ruby/hash:TagHash
-  name: 小野早稀
   type: cast
 - !ruby/hash:TagHash
   name: 山下まみ

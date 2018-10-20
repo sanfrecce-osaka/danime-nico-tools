@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/75/3/21753_1_6.png?1
 outline: ロマノフ王朝はロシア革命により、１９７１年１１月その栄華に幕を閉じた。しかし、今も、皇女アナスタシアのみが無事に渡米したという神話が残っている。ルパンはロマノフ家が、恩人に託したとされている５００トンの金塊の行方を追う途中、手掛かりとなる暗号を秘めた書物の情報を掴み、その書物を借り出した美女ジュディに近づく。しかし、そこへ正体不明の二人組が襲って来る。やがて金塊の在りかを掴んだルパンは次元・不二子・ジュディと共に金塊強奪を企てる。一同をなおも追撃してくる二人組み。そして、その影にはラスプートンと名乗る、テレパシーを使う怪僧の存在が･･･。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
-  name: 小林清志
+  name: 石塚運昇
   type: cast
 - !ruby/hash:TagHash
-  name: 石塚運昇
+  name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 増山江威子

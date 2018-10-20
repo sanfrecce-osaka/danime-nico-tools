@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/52/8/20528_1_6.png?1
 outline: 聖なる扉｢ディバインゲート｣が開かれたことにより、＜常界＞＜天界＞＜魔界＞3つの世界が交わり、欲望や争いの交錯する混沌が訪れた時代。秩序回復のために支配層は｢世界評議会｣を結成。統制されたかりそめの平穏のもとで、｢ディバインゲート｣は誰もその実体を知らぬ都市伝説と化した。そのなかで世界評議会のもとに集う｢適合者｣と呼ばれる少年少女たち。ディバインゲートを認識し、｢扉｣に自らがたどり着くことを信じる者たちである。敬愛する父の死に疑いを持ち再会を信じるアカネ、凄惨な過去のため人と距離をおくアオト、過去と向き合い真実を知りたいミドリ。彼らは、それぞれが心に抱える傷と向き合いながら｢扉｣を目指す。ディバインゲートにたどり着いた者は、世界を｢リメイク｣しその望みをかなえることができるという。その扉の先には何があるのか。扉にたどり着いたとき、世界は変わるのか。変わるのは、自らの抱える過去なのか、それとも未来なのか。少年たちはすべてを知るために歩み出す――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 遊佐浩二
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
+  name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 阿澄佳奈
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 吉野裕行

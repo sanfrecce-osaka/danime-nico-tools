@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/55/0/20550_1_6.png?1
 outline: 遺跡から発掘された、古代兵器・機竜。かつて、最強の機竜使い≪ドラグナイト≫と呼ばれた亡国の王子・ルクスは、滅ぼされた旧帝国の罪を背負い、様々な雑用を引き受ける事で恩赦を受けていたが、何故か機竜使い≪ドラグナイト≫育成のための女学園に入学することになり……！？王立士官学園の貴族子女たちに囲まれた、“最強”の学園ファンタジーバトル、開幕！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 種田梨沙
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
-  name: 田村睦心
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 久保ユリカ
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：松田彬人
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：安藤正臣
+  name: キャラクターデザイン：黒澤桂子
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：黒澤桂子
+  name: 監督：安藤正臣
   type: staff
 - !ruby/hash:TagHash
   name: 原作：明月千里

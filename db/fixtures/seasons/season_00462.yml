@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/0/10980_1_6.png?1
 outline: 五光学園に所属する謎の美少女。彼女の使命は世界平和とダメ高校生哲朗を守ることだ! そう彼女達こそボクらがもとめた究極美少女戦隊こいこい7なのだ。世界を地球をそして宇宙の未来を守るため日夜、彼女達は戦い続ける。キミの応援もよろしくたのむぜ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 中島沙樹
   type: cast
 - !ruby/hash:TagHash
-  name: 音宮つばさ
+  name: 川瀬晶子
   type: cast
 - !ruby/hash:TagHash
-  name: 川瀬晶子
+  name: 音宮つばさ
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤亜矢子

@@ -5,16 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/2/10022_1_6.png?1
 outline: 1996年の発売以来、ゲームファンからもアニメファンからも強い支持を受け続けているファンタジック・アドベンチャー・アニメーション初の劇場公開版。昼は｢帝国歌劇団｣の人気スタア、そしてひとたび帝都に危機が訪れれば秘密部隊｢帝国華撃団｣のメンバーとなり悪と戦う乙女たちの華やかな活躍を描く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 山寺宏一
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 折笠愛
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 山寺宏一
   type: cast
 - !ruby/hash:TagHash
   name: 田中真弓
   type: cast
 - !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
   name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡村明美
   type: cast
 - !ruby/hash:TagHash
   name: 岡本麻弥
@@ -26,19 +38,16 @@ tags: !ruby/array:Hashie::Array
   name: 伊倉一恵
   type: cast
 - !ruby/hash:TagHash
-  name: 岡村明美
-  type: cast
-- !ruby/hash:TagHash
-  name: 氷上恭子
-  type: cast
-- !ruby/hash:TagHash
   name: 渕崎ゆり子
   type: cast
 - !ruby/hash:TagHash
   name: 高乃麗
   type: cast
 - !ruby/hash:TagHash
-  name: 西原久美子
+  name: 氷上恭子
+  type: cast
+- !ruby/hash:TagHash
+  name: 難波圭一
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：田中公平

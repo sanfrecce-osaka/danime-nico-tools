@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/12/7/11127_1_6.png?1
 outline: 過去の指導者たちが思い描いた世界征服は、ただの妄想に過ぎなかった。世界征服とは―――　いまだかつて誰も成し遂げたことのない栄光。一人の幼女、星宮ケイトに為されるまでは、それがどれだけ恐ろしく輝かしい行いなのかを知る者は存在しなかった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
-  name: 伊瀬茉莉也
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 伊瀬茉莉也
   type: cast
 - !ruby/hash:TagHash
   name: 寿美菜子

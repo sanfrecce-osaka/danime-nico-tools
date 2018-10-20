@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/8/21528_1_6.png?1
 outline: "｢ホーッ、ホッホッホッホッ｣あの怪人・喪黒福造が帰って来くる―。藤子不二雄(A)による大人気ブラック・ユーモア漫画『笑ゥせぇるすまん』が、2017年4月、原作の雰囲気はそのままに、オリジナル脚本も交えた1話完結のオムニバス形式のテレビアニメで復活！！ストレス社会に生きる現代人の心の闇と欲求、人間の本質である弱さ、愚かさなど誰もが“ドキッ！”とする悩みを抱えた個性的なゲストキャラクターが毎話登場。実力派スタッフ&キャストがブラック・ユーモアたっぷりにみなさんのココロのスキマをお埋めします！！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash

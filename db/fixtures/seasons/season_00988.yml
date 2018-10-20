@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/06/7/11067_1_6.png?1
 outline: 精霊――異世界より舞い降りし、謎に包まれた存在。かの存在は、空間震と呼ばれる凄惨な災害を伴って出現する。だが、精霊自身が持つ力は、そんな人知を超えた災害さえも比較にならない――。それまで、普通の高校生活を送っていた五河士道は、空間震の中心でひとりの美しい少女に出会う。望まぬ争いを強いられ、欲さぬ破壊を繰り返す彼女こそ、精霊と呼ばれる存在だった。彼女を苦しみから解放する方法。それは、武力をもって殲滅するか、もしくは――デートしてデレさせること！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

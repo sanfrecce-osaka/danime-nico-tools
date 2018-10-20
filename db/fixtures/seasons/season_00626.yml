@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/49/9/10499_1_6.png?1
 outline: "｢人と精霊が共存し、精霊が力を持って暮らす大陸--ポリフォニカ。人々は精霊の起こす奇跡に頼り、精霊は人の奏でる音楽を糧としてこの世界のありとあらゆる場面でその力を発揮していた。精霊は音楽家の奏でる音楽に操られ、その力を発揮する。その特殊な音楽を奏でる彼らは『神曲楽士(ダンティスト)』と呼ばれ尊敬を集めていた。月の輝く夜、孤児院の屋根で二人は出会った。比類なき強き精霊--コーティカルテ・アパ・ラグランジェスと孤独な少年--フォロン。｢お前を私だけのものにしたい。お前の描き出す魂の形を私だけのものに。--ダメか?｣精霊が口にしたのは契約の言葉。絆を結ぶための神聖な儀式。だが、それは少年にとって一夜の夢のようなできごとだった。そして、時は流れ、あるできごとをきっかけに絆が再び動き出す。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 戸松遥

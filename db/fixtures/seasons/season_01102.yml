@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/65/2/21652_1_6.png?1
 outline: 青葉が高校を卒業し、ゲーム制作会社「イーグルジャンプ」に入社してからちょうど1年が過ぎ、かつての自分のように新入社員が入社する季節がやってきた。右も左もわからない新入社員だった自分が、コウたちに助けられながら少しずつ成長し、ついに先輩になるんだと思うと、どうしようもなく胸が高鳴る青葉。緊張をほぐすために「先輩の涼風青葉だよ！よろしくね！」とイーグルジャンプの入り口で挨拶の練習をする青葉だったが、出社してきたりんの口から告げられたのは、思いも寄らない言葉だった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -17,16 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 戸田めぐみ
+  name: 高田憂希
+  type: cast
+- !ruby/hash:TagHash
+  name: 石見舞菜香
   type: cast
 - !ruby/hash:TagHash
   name: 大和田仁美
   type: cast
 - !ruby/hash:TagHash
-  name: 高田憂希
-  type: cast
-- !ruby/hash:TagHash
-  name: 石見舞菜香
+  name: 戸田めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 森永千才

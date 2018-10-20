@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/7/10437_1_6.png?1
 outline: 女子高生の遙麗奈は修学旅行でパリへの航路についていた。彼女が乗るのは超大型旅客機ライトニング号だ。だがライトニング号には極秘兵器バイブルが密かに積み込まれており、これを狙ってテロ集団も乗り込んでいた。事態を知った麗奈は、バイブル護衛の任に就いていたICPOの特殊技能捜査官ライカと協力し……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：戸塚修
   type: staff
 - !ruby/hash:TagHash

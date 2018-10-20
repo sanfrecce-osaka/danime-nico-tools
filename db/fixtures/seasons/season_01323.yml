@@ -6,6 +6,15 @@ outline: 学文明が緩やかに衰退を始めているジョーカー太陽�
   本作は原作コミックの第1話をアニメ映画化。星団暦2988年、アドラー星に不時着したモーターヘッドのメインテナンス技師ソープを描く。 　■原作者は｢機動戦士Zガンダム｣などのメカ・デザインの第一人者・永野護。原作は1986年の｢月刊ニュータイプ｣での連載開始以来、巨大ロボット:モーターヘッド、少女型有機コンピュータ:ファティマなど独特の世界観で、今なお絶大な人気を誇る長編ファンタジー!キャラクターデザインは、人気アニメシリーズ『ロードス島戦記』、『宇宙戦艦ヤマト2199』を担当した結城信輝!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: キャラクターデザイン：結城信輝
   type: staff
 - !ruby/hash:TagHash
@@ -21,10 +30,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：永野護
   type: staff
 - !ruby/hash:TagHash
-  name: 製作年代：1980年代
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1989年

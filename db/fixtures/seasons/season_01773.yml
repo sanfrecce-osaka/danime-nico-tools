@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/85/8/10858_1_6.png?1
 outline: ある秘宝を狙い、孤島に侵入するルパン三世。そこでルパンは美しくも妖しい女と出会う。その女の名は「峰不二子」と云い、流行りの謎多き女怪盗である…。甘美で危険な２人の邂逅が、この物語の始まりを告げる。不二子の前に現れる４人の厄介で型破りな男達…。神出鬼没な世紀の大泥棒「ルパン三世」、早撃ち０.３秒の天才ガンマン「次元大介」、剣の道に生き、時に殺しも請け負う「石川五ェ門」、ルパン逮捕に強い執着を持つ男「銭形警部」。決して交わってはいけない５人が、予測不能な軌道を描きながら、ぶつかりあい火花を散らす！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

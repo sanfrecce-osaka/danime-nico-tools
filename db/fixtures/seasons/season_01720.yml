@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/13/5/10135_1_6.png?1
 outline: ある日、ファミコンフリークの小学校4年生・馬場ラムネは、学校帰りに買ったゲームをクリアすると、テレビから少女-実はアララ王国のミルク姫-が現れ｢選ばれし勇者ラムネス｣としてハラハラワールドへ連れて行かれる。ハラハラワールドでラムネを待っていたのは、世界征服を企む大魔術師ドン・ハルマゲ達だった。妖神ゴブーリキを復活させようとするドン・ハルマゲの野望を食い止めるため、守護騎士・キングスカッシャーを呼び出し立ち向ってゆく。ダ・サイダーや仲間と共に8体の守護騎士を復活させ、やっとの思いで見事ゴブーリキを倒したのだが……実はゴブーリキは生きていた!ハラハラワールドを救う為、今度は七色の石板を8枚集めなければならなかった。ドキドキスペースへと場所を移し、妖神ゴブーリキとの最終決戦へ向け、更なる冒険へと旅立ってゆく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 草尾毅
   type: cast
 - !ruby/hash:TagHash
-  name: 飛田展男
+  name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
-  name: 飯塚昭三
+  name: 飛田展男
   type: cast
 - !ruby/hash:TagHash
   name: 松本保典

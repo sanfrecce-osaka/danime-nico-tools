@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/56/3/10563_1_6.png?1
 outline: 全ての命の源-グラン・レイク。その聖なる湖で、連邦とトゥラン王国が砲撃戦を開始する。圧倒的な艦隊戦力で全世界の制圧を目指す連邦を前に、壊滅寸前に陥るトゥラン。逃げ場のないトゥランの王女たちが見たのは、小型ヴァンシップ“ヴェスパ”に乗った空族の少女・ファムだった。｢これより貴殿の旗艦を、この戦場より盗み出さん!｣対空砲火が飛び交う中、ファムのヴェスパは大空を舞う。侵略を続ける連邦総統ルスキニアの目的は?そして、謎の力｢エグザイル｣とは?今、激動の大航空冒険活劇が幕を開ける!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -23,22 +29,22 @@ tags: !ruby/array:Hashie::Array
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 豊崎愛生
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 桑谷夏子
-  type: cast
-- !ruby/hash:TagHash
   name: 興津和幸
   type: cast
 - !ruby/hash:TagHash
-  name: 松風雅也
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野田順子
   type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：堀内修

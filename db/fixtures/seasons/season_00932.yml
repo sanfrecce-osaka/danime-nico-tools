@@ -6,6 +6,15 @@ outline: 3度目の春を迎える桃成高校てさぐり部。2度の12か月�
   コラボのために突然やってきた｢みならい女神｣の5人が加わり、10人での新しいてさぐりな毎日が始まった。＼コラボすぴんおふ、あたらしい！／
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
@@ -27,10 +36,10 @@ tags: !ruby/array:Hashie::Array
   name: 高森奈津美
   type: cast
 - !ruby/hash:TagHash
-  name: 三上枝織
+  name: 西明日香
   type: cast
 - !ruby/hash:TagHash
-  name: 西明日香
+  name: 三上枝織
   type: cast
 - !ruby/hash:TagHash
   name: 荻野可鈴
@@ -39,16 +48,16 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：井上純一
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：山口正武
-  type: staff
-- !ruby/hash:TagHash
   name: 監督：石ダテコー太郎
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：高橋聡之
+  name: 脚本：山口正武
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：毛玉伍長
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：高橋聡之
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：石ダテコー太郎

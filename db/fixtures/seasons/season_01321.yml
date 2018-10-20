@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/39/4/20394_1_6.png?1
 outline: DVD累計60万本の大ヒット、半笑い脱力系のムダ使いCGアニメ「Peeping Life」が遂にTVアニメになった！手塚プロダクションやタツノコプロのヒーローたちが、ゆるめの進化を遂げて、ついにテレビに大登場！もちろん、いつものPeepingキャラも出演するよ！知ってる人も知らない人も、週末の夜ふけにクスッとどうぞ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：森りょういち
   type: staff
 - !ruby/hash:TagHash

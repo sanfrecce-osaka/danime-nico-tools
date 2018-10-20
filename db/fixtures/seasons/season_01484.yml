@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/2/10222_1_6.png?1
 outline: 未来からやってきた天使のドクロちゃんが桜くん家に居候を始めた。ロリロリでナイスバディで無邪気で?かわゆいドクロちゃんだけど、何かあるとすぐにトゲトゲ特製バット『エスカリボルグ』で桜くんを撲殺しちゃうのです。でも、ご心配なく。ドクロちゃんが｢ぴぴるぴるぴるぴぴるぴ～♪｣と呪文を唱えればあっという間に元通り。という訳で、ドクロちゃんと桜君の愛と涙の血みどろのハートウォーミングストーリーふたたび～!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -44,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2007年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2007年
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: 岩浪美和

@@ -5,6 +5,18 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/61/2/21612_1_6.png?1
 outline: ＵＦＯ、ＵＭＡ、呪い、古代文明、超能力、心霊体験、怪事件、異次元世界、都市伝説、嘘か真か、私達が生きる世界はありとあらゆる闇と隣り合わせ。そんな世界を紙芝居風アニメーションで表現します。昭和４０～５０年代、漫画誌の巻頭カラーページに掲載されていたオカルト特集や小学校の図書室で読み耽った怪奇本のようにおどろおどろしくも懐かしい昭和レトロな雰囲気が漂う劇画タッチの作画で描き、まるで図鑑のページを1枚1枚めくるかのような…オムニバスショートアニメ番組です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 滝口幸広
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎藤工
+  type: cast
+- !ruby/hash:TagHash
   name: 護あさな
   type: cast
 - !ruby/hash:TagHash
@@ -12,12 +24,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 植田慎一郎
-  type: cast
-- !ruby/hash:TagHash
-  name: 滝口幸広
-  type: cast
-- !ruby/hash:TagHash
-  name: 斎藤工
   type: cast
 - !ruby/hash:TagHash
   name: 戸井勝海

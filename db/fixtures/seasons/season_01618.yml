@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/81/9/10819_1_6.png?1
 outline: 198X年の東京で、バイクを駆り、青春を謳歌する矢作省吾。彼はテストドライバーの友人が持ち出した軍事用バイク『ガーランド』を手にした夜から治安部隊に狙われる。部隊長B・Dに襲われた省吾は、彼からこの街が宇宙船の中に造られ、巨大コンピューター『バハムード』に管理された虚構の東京であること告げられる。敵宇宙船の接近の危機が迫り、B・Dはバハムードを解放し、軍備増強を図る計画なのだ。その最後の端末であるガーランドに乗り、省吾の孤独な戦いが始まった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash

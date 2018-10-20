@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/2/10042_1_6.png?1
 outline: 宇宙から来襲して来る｢かわいいエイリアン｣たち。おじいちゃんが陸の防衛隊幕僚長である小学二年生のまおちゃんは、かわいいエイリアンから日本を防衛する陸の防衛隊の小学生隊員となった。今日も空の防衛隊のみそらちゃんや海の防衛隊のシルビーちゃんと一緒に、まおちゃんたちは日本を防衛するために出動する……!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

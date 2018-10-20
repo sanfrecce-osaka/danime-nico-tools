@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/27/5/21275_1_6.png?1
 outline: 何処かの時代にあるという不老不死の秘薬「命のもと」を探し出すため、タイムトンネルを完成させた紋者博士。しかし、それを横取りしようと企む悪党三人組アクダマンもまた、博士の情報を奪って「命のもと」探索を始めてしまう。アクダマンの野望を阻止するため、博士の助手の鉄っちゃんと孫娘のさくらちゃんは、善意のカタマリ・ゼンダマンに変身。善と悪が時間を越えて、幻の秘薬争奪戦を繰り広げる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
   name: 富山敬
   type: cast
 - !ruby/hash:TagHash
-  name: 八奈見乗児
+  name: 宮内幸平
   type: cast
 - !ruby/hash:TagHash
   name: 滝口順平
@@ -24,9 +33,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 三ツ矢雄二
-  type: cast
-- !ruby/hash:TagHash
-  name: 宮内幸平
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：タツノコプロ

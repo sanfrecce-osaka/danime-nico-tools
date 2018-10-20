@@ -5,19 +5,49 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/37/3/11373_1_6.png?1
 outline: 漫画「喰霊」の原作者、瀬川はじめが贈る最新作、「東京ESP」のテレビアニメーションシリーズ。突如、空飛ぶペンギンとそれに追われる「謎の光る魚」に遭遇した女子高生、漆葉リンカ。遭遇後まもなく物質を透過することができる超能力（ESP）が発現する。戸惑うリンカのもとに現れた同じく高校生の東京太郎によって、数々の「正義の戦い」に巻き込まれていく！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 音楽制作：ランティス
-  type: staff
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田譲治
+  type: cast
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 麦人
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲田徹
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
+  name: 木戸衣吹
+  type: cast
+- !ruby/hash:TagHash
+  name: 相沢舞
+  type: cast
+- !ruby/hash:TagHash
+  name: 田所あずさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 川原慶久
+  type: cast
+- !ruby/hash:TagHash
+  name: 今野宏美
+  type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：XEBEC
-  type: staff
-- !ruby/hash:TagHash
-  name: 音楽：Elements Garden
-  type: staff
-- !ruby/hash:TagHash
-  name: 脚本：高山カツヒコ
-  type: staff
-- !ruby/hash:TagHash
-  name: 脚本：倉田英之
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：滝山真哲
@@ -26,16 +56,22 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：Evan Call
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：Studio2010
+  name: キャラクターデザイン：石原満
   type: staff
 - !ruby/hash:TagHash
   name: 原作：瀬川はじめ
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：加茂靖子
+  name: 監督：高柳滋仁
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA
   type: other
 - !ruby/hash:TagHash
   name: カドカワコミックス・エース

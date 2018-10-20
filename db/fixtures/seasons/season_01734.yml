@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/89/6/10896_1_6.png?1
 outline: 第1章「緋色の追憶」東陽学園のサマースクールで起こる、ひと夏のちょぴり切なくほろ苦い体験を繊細で美しいムービータッチで送るOVAシリーズの第一弾！／第2章「月影の下で…」繊細で美しいムービータッチで贈るシリーズ第二弾。果たして、奈緒が見せた涙の理由とは！？／第3章「碧波の永遠」頑なに心を閉ざす松永を謎の少女が運命の扉の前へと誘う。果たして、謎の少女の正体とは！？　そして、松永と奈緒との恋の行方は！？　堂々の完結編！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash

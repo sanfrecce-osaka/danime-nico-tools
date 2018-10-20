@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/53/6/21536_1_6.png?1
 outline: "｢ねこねこ日本史｣第2期が放送決定！日本の歴史上に存在する様々な偉大な猫たちが今期も大活躍。相変わらずみんな思うがままに色々とやってみるのだが、やはりそこは気分屋の猫たち。すぐに飽きたり、爪を研いだり、寝てしまったり。水も大きな音も怖いけど、夢中になったときのエネルギーだけはすごいのである。今期はどんな日本の歴史が作られて行くのか！？第1期の猫たちもまた登場するかもしれないのでお楽しみに！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash

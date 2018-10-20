@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/34/8/11348_1_6.png?1
 outline: 篠原家の美青年兄弟・強太、久弥、徹、そして長女の美人・綾子。実は彼らの正体はそれぞれ強太、Q太、キョン太、きばっ太なる現世守護神｢ぴーひょろ一家｣の面々の転生で、四人は人々に仇をなす悪霊を退治していた。ある日、聖和城学園の理事長から悪霊の浄化依頼を受けた兄弟は、早速行動を開始。自殺しかけた少女・古賀舞子を救う。キョン太を転校生として学校に送り込み、さらなる調査を進める兄弟は、学校の地所がかつて火葬場だった事実を知った。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash

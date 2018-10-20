@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/32/8/20328_1_6.png?1
 outline: 湖のほとりにある静かな街に現れる〈古きもの〉。それは人を喰らうモノである。更衣小夜は人に知られることなく、浮島神社に伝わる御神刀を手にたった一人で〈古きもの〉を狩る『務め』を果たしていた。それは大切な父を、友を、街を、そして大切な『約束』を守るための戦いでもあった。〈古きもの〉の正体とはなにか。果たして小夜に待ち受ける運命とは！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 野島健児
   type: cast
 - !ruby/hash:TagHash
-  name: 浅野真澄
+  name: 阿部敦
   type: cast
 - !ruby/hash:TagHash
-  name: 阿部敦
+  name: 浅野真澄
   type: cast
 - !ruby/hash:TagHash
   name: 宮川美保

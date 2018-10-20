@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/5/10785_1_6.png?1
 outline: 笑い脱力系の即興芝居とCGアニメーションを融合させた、ムダ使いCGアニメ・ショートコメディー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: サノシュンスケ
   type: cast
 - !ruby/hash:TagHash

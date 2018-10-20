@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/22/9/20229_1_6.png?1
 outline: "｢ごきげんよう! 小橋若葉ですわ｣小橋若葉、春から高校1年生。正真正銘のお嬢様ですが、普通の女子校に入学しました。新生活では見るもの全てが新鮮で、毎日はしゃいでしまいます。そんな彼女の目標は……ギャルになること!?変なお嬢様と個性派クラスメイトたちの交流を描く4コマコメディ、いよいよTVアニメスタート!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
-  name: 村川梨衣
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 井澤美香子
@@ -23,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：花田十輝
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：Nexus
+  name: キャラクターデザイン：石田可奈
   type: staff
 - !ruby/hash:TagHash
   name: 原作：原悠衣
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：石田可奈
+  name: アニメーション制作：Nexus
   type: staff
 - !ruby/hash:TagHash
   name: 監督：渡邊政治

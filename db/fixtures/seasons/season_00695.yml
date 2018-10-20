@@ -6,16 +6,25 @@ outline: 突如、出現した人類の敵｢ネウロイ｣に対抗するべ�
   ネウロイの脅威に怯える欧州を守るため、『ストライクウィッチーズ』は再び空へ舞い上がる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 名塚佳織
@@ -27,10 +36,10 @@ tags: !ruby/array:Hashie::Array
   name: 門脇舞以
   type: cast
 - !ruby/hash:TagHash
-  name: 野川さくら
+  name: 園崎未恵
   type: cast
 - !ruby/hash:TagHash
-  name: 園崎未恵
+  name: 野川さくら
   type: cast
 - !ruby/hash:TagHash
   name: 大橋歩夕
@@ -78,7 +87,7 @@ tags: !ruby/array:Hashie::Array
   name: 鈴木貴昭
   type: other
 - !ruby/hash:TagHash
-  name: 池田ひとみ
+  name: 三嶋章紀
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

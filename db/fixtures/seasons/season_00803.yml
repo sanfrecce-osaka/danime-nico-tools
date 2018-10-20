@@ -6,6 +6,9 @@ outline: ニトロプラスのライブマスコットガールとしてさま�
   SONICO THE ANIMATION-」としてアニメ化決定。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
@@ -24,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: すーぱーそに子
   type: cast
 - !ruby/hash:TagHash
-  name: 脚本：黒田洋介
+  name: アニメーション制作：WHITE FOX
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：WHITE FOX
+  name: 脚本：黒田洋介
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：坂部剛

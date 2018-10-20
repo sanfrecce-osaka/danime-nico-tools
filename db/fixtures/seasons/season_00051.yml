@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/09/9/22099_1_6.png?1
 outline: 幼なじみのあっくんとのんたんは恋人同士。だけど、あっくんはのんたんに対して、罵詈雑言を浴びせて冷たくあしらい、なんだかいつもキツい態度……。でもそれはあっくんの「のんたん大好き！」な気持ちの裏返しなのです。あっくんと、そんな彼の振る舞いをまったく気にせず“あっくんラブ”なのんたんとの日々を描く、学園青春ラブコメディ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash

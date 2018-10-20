@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/47/1/10471_1_6.png?1
 outline: 幾重にも交わる時間、繋がっている全ての世界。それら全てに変わらぬ姿で存在する不死の女。女は、日常と非日常、狂気と快楽と猟奇の狭間で生きる。時代の異なる場所、東京・新宿をメインの舞台として、次々起こる常軌を逸した事件---連続殺人、要人暗殺、生物兵器テロ、非合法研究、日常と非日常、狂気とエロスとハードなアクションを交えて、人間、不死者、天使と神の業を描き出す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：XEBEC
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：大野木寛
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：うえだしげる
+  name: キャラクターデザイン：石原満
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：石原満
+  name: 監督：うえだしげる
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2000年代

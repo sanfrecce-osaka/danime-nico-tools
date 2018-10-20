@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/8/11298_1_6.png?1
 outline: フルーティー侍。それは、極限まで美しく鍛え上げられた剣術と精神を持つ侍に与えられる唯一無二の称号。日本全土の侍たちは、その最強の称号を目指し日々鍛錬するのである。今宵もどこかで火花を散らす決闘が繰り広げられている。そこには両者の健闘を称えるかのごとく、フルーティーな香りが漂っている…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：ハッピープロジェクト
   type: staff
 - !ruby/hash:TagHash

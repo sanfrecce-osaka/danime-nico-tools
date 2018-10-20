@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/97/7/10977_1_6.png?1
 outline: ある日とつぜん、空から謎の美少女がふってきた！？お約束満載？のドタバタラブコメ決定版！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 岸尾だいすけ
   type: cast
 - !ruby/hash:TagHash
-  name: たかはし智秋
+  name: 皆口裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 皆口裕子
+  name: たかはし智秋
   type: cast
 - !ruby/hash:TagHash
   name: 野川さくら

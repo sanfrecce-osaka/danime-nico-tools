@@ -6,6 +6,15 @@ outline: "“あなたは　そこにいますか？”西暦2150年。遠い宇
   操との邂逅で、島はミールと対話する手段を手に入れた。それは島に、可能性をもたらした。アルヴィスの子たちは、戦いの準備を整えながら、敵を理解する術を模索していた。そして、今また、島に更なる進化がもたらされようとしていた。フェストゥムの言語を解する少女と、フェストゥムに守られた少女。ふたりが出会う時、新たな世界の扉が開く…"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -30,10 +39,10 @@ tags: !ruby/array:Hashie::Array
   name: 福圓美里
   type: cast
 - !ruby/hash:TagHash
-  name: 小林沙苗
+  name: 白石涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 白石涼子
+  name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
   name: 遠藤綾

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/44/4/11444_1_6.png?1
 outline: ちっちゃくてキュートだけどブラックでゆるいミルクちゃんが大統領からの指令を受けて、さまざまな事件を解決するシュールアニメーション!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 柚木涼香
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/44/6/10446_1_6.png?1
 outline: 引き取り手のない猫がいっぴき、またいっぴき…。子猫育児に病院通い、いたずらに笑った後は一緒に昼寝。里親探しをしてるうちに、情が移って自ら引き取り…。作者のネコだらけの生活ぶりに笑い、ねこ一匹一匹の個性に和み、そして｢いのちの大切さ｣を知る。“ハピハピ”ほっこり、そして、“ぎうぎう”な日々を、笑いと涙でつづります!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 中谷美紀
   type: cast
 - !ruby/hash:TagHash

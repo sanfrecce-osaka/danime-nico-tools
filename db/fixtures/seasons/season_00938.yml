@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/64/7/21647_1_6.png?1
 outline: 過去のトラウマからひきこもり気味の高校生、貫井響は、密かに歌唱ソフトで曲を制作し、動画サイトに投稿するのが趣味だった。そんな彼に会って話がしたいとメールしてきたのは、小学五年生の少女たち。子供の頃から姉妹のように一緒に育った三人からお願いされたことは、お世話になった人への感謝のために、彼女たちが過ごした思い出の場所でライブを成功させる事だった・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 大川透
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 日高里菜
@@ -23,19 +26,19 @@ tags: !ruby/array:Hashie::Array
   name: 遠藤ゆりか
   type: cast
 - !ruby/hash:TagHash
-  name: 古賀葵
+  name: 井上雄貴
   type: cast
 - !ruby/hash:TagHash
-  name: 井上雄貴
+  name: 古賀葵
   type: cast
 - !ruby/hash:TagHash
   name: 大野柚布子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：松田彬人
+  name: アニメーション制作：project No.9
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：project No.9
+  name: 音楽：松田彬人
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：野口孝行

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/13/3/10133_1_6.png?1
 outline: 西暦2034年、東京箱柳市。近代化へと進み続ける波は留まることを知らず、人々に便利を与えると同時にいくつもの、かけがえのないものを失おうとしていた。たとえば、お金。2029年、全国に導入が完了した電子マネーシステムにより、人々は現金を持つことがなくなった。すべてが暗号化され、どこかの誰かが管理しているらしいが、持つ人にとって重要なのは、｢今月いくら使えるのか?｣と、無くしたら全てを失う緊張感だけであった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

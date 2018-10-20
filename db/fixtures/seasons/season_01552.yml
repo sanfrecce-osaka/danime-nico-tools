@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/0/10420_1_6.png?1
 outline: 12歳の誕生日を迎えた魔法の国のプリンセス・ミントは、王家のしきたりで、“魔法のエンジェル”として修行に旅立つことになりました。人間界に住むパパのお姉さん・ハーブおばさんのお店｢しあわせショップ｣で過ごすことになったミントは、人々に本当の幸せを届けてゆくのでした。食いしん坊のお供・ワッフルを連れて、不思議な力を秘めた魔法のステッキとブレスレットで変身し、人間界の困っている人達に幸せの種をまき、魔法の国の虹色の谷に咲く花の色を取り戻す為、幸せのトッピングをふりまきます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 佐々木望
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/53/2/20532_1_6.png?1
 outline: 東京上野にある芸能事務所、ホルベイン芸能株式会社に就職した美大出身の新卒１年目・石本美希。美大受験から美大生時代まで散々石膏デッサンをさせられてきた石本美希は石膏像に嫌気が差し、石膏像や美術とは全く関係のない仕事に就こうと決意する。こうして芸能業界へと飛び込んだ石本美希であったが、入社初日からいきなり新人アイドルユニットの担当マネージャーに抜擢される。そのアイドルのユニット名は――『石膏ボーイズ』！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

@@ -5,22 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/82/4/21824_1_6.png?1
 outline: 世界最強の吸血鬼と剣巫の少女が織りなす物語が今、再び始まる!!新たな物語は、アルディギア王国を巻き込んだ事件の後、場所は“絃神島”の隣に作られた新たなリゾート施設“ブルーエリジアム”から始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 細谷佳正
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 瀬戸麻沙美
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 日高里菜
+  name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
   name: 種田梨沙
@@ -38,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：佐野恵一
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：CONNECT
+  name: 監督：山本秀世
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：山本秀世
+  name: アニメーション制作：CONNECT
   type: staff
 - !ruby/hash:TagHash
   name: 原作：マニャ子

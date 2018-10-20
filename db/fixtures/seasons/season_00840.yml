@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/07/9/22079_1_6.png?1
 outline: ラッキースケベでハーレムな漫画の主人公が、女の子だった！？高校進学に合わせて、6年ぶりに帰ってきた田舎の街。お洒落なデザイナーズマンション風の寮“橘館”から優雅に登校…と思ったら、手違いでボロアパート“立花館”に入居するハメになった夏乃はなび。立花館では入居初日から謎の全裸の美少女に遭遇したり、年上お姉さんの恥ずかしいトコロをうっかり目撃してしまったり、なぜかつっかかってくる幼馴染みの恥ずかしいトコロを凝視してしまったり。…って、全然「ラッキー♪」なんか思ってないんだからっ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

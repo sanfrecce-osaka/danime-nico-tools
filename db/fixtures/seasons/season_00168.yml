@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/42/1/20421_1_6.png?1
 outline: ある日突然、人工島の一つ、マーメイドに移送された少女・処女まもり(とこのめ・まもり)は、島で目覚めて早々に何者かの襲撃を受ける。窮地に陥ったまもりを救ったのは新たに移送されてきた少女・敷島魅零（しきしま・みれい）だった。しかし敵の追撃は止まず、徐々に追い詰められていく魅零とまもり。絶体絶命かと思われたそのとき魅零はまもりに唇を重ねる。まばゆい光に包まれ変化していくまもりの体。一振りの刀と化したまもりを手に魅零は反撃を開始するのだが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 原田ひとみ
   type: cast
 - !ruby/hash:TagHash
-  name: 田澤茉純
+  name: 井澤美香子
   type: cast
 - !ruby/hash:TagHash
-  name: 井澤美香子
+  name: 田澤茉純
   type: cast
 - !ruby/hash:TagHash
   name: 芳野由奈

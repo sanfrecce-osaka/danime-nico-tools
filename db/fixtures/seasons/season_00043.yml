@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/96/5/10965_1_6.png?1
 outline: 沖縄を舞台に普通の高校生・騎央と、宇宙から来た美少女・エリスを中心にナゾの組織、政府機関をも巻き込んで繰り広げるちょっとエッチなファンタジーコメディー
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

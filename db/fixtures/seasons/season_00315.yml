@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/17/0/22170_1_6.png?1
 outline: 小さな田舎町で育った蜜柑と蛍は大の親友。なのに突然蛍が都会の学校へ転校してしまった。蛍を追って蜜柑は「アリス学園」へとたどり着く。しかしそこは不思議な力（アリス）の持ち主しか入れない特別な学校だった…。不思議いっぱい☆ファンタジースクールコメディ☆乞うご期待！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 植田佳奈
@@ -41,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 松元惠
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: 監督：大森貴弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大森貴弘
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：伊藤良明

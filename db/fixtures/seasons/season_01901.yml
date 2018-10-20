@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/1/22261_1_6.png?1
 outline: 元気が取り柄の三毛猫・茶トラ沢タピオと、ややひねくれたロシアンブルー・ロシ原クエ彦。様々なアルバイトを経て仕事の楽しさや大変さを学ぶ二匹は今日も今日とてアルバイト先へと向かうもっと、“猫の手を貸したい系アニメ”！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash

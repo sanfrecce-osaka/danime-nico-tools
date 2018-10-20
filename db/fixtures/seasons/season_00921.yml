@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/2/10192_1_6.png?1
 outline: カメラマン森丘耕平は、取材に行ったドイツの古い城でヴァンパイアの少女・葉月に出会う。城に閉じ込められていた葉月は、耕平の血を吸い、"シモベ"として城からの脱出を試みたが、耕平には効き目がない。しかし、ひょんなことから葉月は脱出に成功。そして、生き別れた母の行方を求めて日本へ向かう!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
-  name: 門脇舞以
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 門脇舞以
   type: cast
 - !ruby/hash:TagHash
   name: 根谷美智子

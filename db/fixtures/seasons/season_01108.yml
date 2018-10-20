@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/0/11100_1_6.png?1
 outline: 伊賀の里で修行を積んだ忍者、ハットリくんが東京に修行の場を移し、ひょんなことから三葉家の居候になることから物語りは始まる。三葉家のひとり息子の“ケンイチ”とその友達、さらに正体を隠しケンイチと同じ小学校に通うライバルの甲賀忍者“ケムマキ”たちと毎回、様々な事件に巻き込まれてしまう。今回はどんな忍術が飛び出すのか!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 山田栄子
   type: cast
 - !ruby/hash:TagHash
-  name: 二又一成
+  name: 藤本譲
   type: cast
 - !ruby/hash:TagHash
-  name: 藤本譲
+  name: 二又一成
   type: cast
 - !ruby/hash:TagHash
   name: 三田ゆう子

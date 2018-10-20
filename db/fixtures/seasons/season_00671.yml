@@ -6,6 +6,12 @@ outline: 彩井高等学校の芸術科アートデザインクラス｢GA｣。
   美術ネタ満載の大賑わいのハートフルコメディ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

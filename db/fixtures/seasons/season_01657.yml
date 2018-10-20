@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/68/2/21682_1_6.png?1
 outline: ゲーム好きの高校生「武藤遊戯」が、ゲームショップを経営する祖父から古代エジプトより伝わる誰も解いたことがないという「千年パズル」をもらう。苦労の末に、千年パズルを解いたことで目覚めた「闇の力」。千年パズルが輝きだす時、闇に眠るもう一人の遊戯がが現れた！遊戯の中のもう一人の遊戯…。新たなデュエルが今、始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：姫野美智
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：杉島邦久
+  name: 原作：高橋和希
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：高橋和希
+  name: 監督：杉島邦久
   type: staff
 - !ruby/hash:TagHash
   name: 遊☆戯☆王 デュエルモンスターズシリーズ

@@ -7,6 +7,15 @@ outline: 平安の世より受け継がれている無手をもって戦うと�
   風雲幕末編:幕末―尊王、左幕、攘夷派、開国論者と人々の主義主張が入り乱れ、その生き方があらたに問われる時代―陸奥出海は世界へ目を向ける坂本龍馬と出会い、友となる。だが、激しい時代の流れは二人を引き裂き、やがて出海は｢新撰組｣沖田総司、土方歳三との対決を迎えることになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -19,10 +28,10 @@ tags: !ruby/array:Hashie::Array
   name: 鈴木真仁
   type: cast
 - !ruby/hash:TagHash
-  name: 楠大典
+  name: 郷田ほづみ
   type: cast
 - !ruby/hash:TagHash
-  name: 郷田ほづみ
+  name: 楠大典
   type: cast
 - !ruby/hash:TagHash
   name: 松山タカシ

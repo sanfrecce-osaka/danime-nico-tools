@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/3/11043_1_6.png?1
 outline: ３人の美人捜査官の活躍を描くポリスアクションOVA！！未来都市-TOKYO CITY POLICE DEPERTMENT（通称・CP）の捜査官のマキ、レイミ、ユカの３人は頻発する少女誘拐事件の捜査に乗り出すことに。囮捜査で事件解決を狙うが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash

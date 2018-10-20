@@ -6,6 +6,12 @@ outline: 2002年～2005年にかけてタツノコプロ制作でOVAの展開を
   Z｣がTVシリーズとして新たに生まれ変わります。前作をベースにしながら、キャラクターや設定を一新し、学生、アイドル、魔法少女という三足のわらじを履いて奮闘する小麦ちゃんとそのライバル達のドタバタな日常を描いていきます。可愛いキャラクターたちはもちろん、笑いアリ・涙アリ(？)のストーリーや、タツノコプロが誇る3DCGによるライブシーン等、見どころ満載でお届けします。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -27,9 +33,6 @@ tags: !ruby/array:Hashie::Array
   name: 桃井はるこ
   type: cast
 - !ruby/hash:TagHash
-  name: 山崎エリイ
-  type: cast
-- !ruby/hash:TagHash
   name: 内匠靖明
   type: cast
 - !ruby/hash:TagHash
@@ -37,6 +40,9 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 竹内良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎エリイ
   type: cast
 - !ruby/hash:TagHash
   name: 小日向茜

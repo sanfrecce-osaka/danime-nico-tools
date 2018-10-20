@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/40/7/11407_1_6.png?1
 outline: 2018年。突如現れた怪獣・ヘテロダインを苦心の末撃退した人類は、またいつ襲ってくるかわからないヘテロダイン用兵器として、ダイ・ガードを建造する。12年後、半民営化され警備会社のマスコットになっていたダイ・ガードは、ヘテロダインが再び出現したことにより、本来の戦闘マシンとしての機能を取り戻し…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 優希比呂
   type: cast
 - !ruby/hash:TagHash
-  name: 小野健一
+  name: 広瀬正志
   type: cast
 - !ruby/hash:TagHash
-  name: 広瀬正志
+  name: 小野健一
   type: cast
 - !ruby/hash:TagHash
   name: 新谷真弓

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/1/21881_1_6.png?1
 outline: 1983年に公開された『はだしのゲン』の続編。原爆の爪痕の残る広島市で、被ばくの後遺症と闘いながら、明るく前向きに生きていこうとするゲンと、親を失いみなし子になってしまった少年らとの心の交流を描く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 青野武
   type: cast
 - !ruby/hash:TagHash

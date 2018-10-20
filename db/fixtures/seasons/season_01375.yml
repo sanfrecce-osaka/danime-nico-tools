@@ -6,6 +6,15 @@ outline: 特殊能力を保持した千鳥かなめの護衛として、軍事�
   スクールライフとミリタリーサスペンスが表裏一体となって繰り広げられるフルメタ・ワールド、満を持して再展開!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -36,16 +45,16 @@ tags: !ruby/array:Hashie::Array
   name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
+  name: 大塚芳忠
+  type: cast
+- !ruby/hash:TagHash
   name: 根谷美智子
   type: cast
 - !ruby/hash:TagHash
-  name: 西村知道
-  type: cast
-- !ruby/hash:TagHash
-  name: アニメーション制作：京都アニメーション
+  name: 音楽：佐橋俊彦
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：佐橋俊彦
+  name: アニメーション制作：京都アニメーション
   type: staff
 - !ruby/hash:TagHash
   name: 音楽制作：ポニーキャニオン

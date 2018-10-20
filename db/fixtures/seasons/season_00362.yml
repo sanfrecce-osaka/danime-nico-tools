@@ -5,25 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/00/2/10002_1_6.png?1
 outline: ひとつの国に3日間だけとどまるルールを決めたキノ達。それぞれの｢国｣に暮らす人々の｢日常｣の中に｢旅人・キノ｣という｢非日常｣が入り込むことで生じる小さな波紋。だがそれは、実は｢日常｣をゆるがすほどの大きな事件だったりする。キノ達は旅の途中で何を見て、そこで出会った人々の心に何を残すのか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 前田愛
   type: cast
 - !ruby/hash:TagHash
   name: 相ヶ瀬龍史
   type: cast
 - !ruby/hash:TagHash
+  name: 脚本：村井さだゆき
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：時雨沢恵一
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：村井さだゆき
+  name: 監督：中村隆太郎
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：須賀重行
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：酒井良
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：中村隆太郎
   type: staff
 - !ruby/hash:TagHash
   name: キノの旅シリーズ

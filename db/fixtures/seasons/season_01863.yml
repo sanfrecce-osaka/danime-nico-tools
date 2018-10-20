@@ -6,6 +6,12 @@ outline: 日本のとある街、眉難市。眉難高校の｢地球防衛部�
   地球を愛の力で救いたいと日本語で話しかけるウォンバットにドン引きする2人。そこに、銭湯の息子・箱根有基(はこねゆもと)が現れ、ウォンバットを見つけるや｢モフモフさせろ～っ!｣と追い回した。翌日、学校でまたしてもウォンバットに捕まってしまう鬼怒川と由布院、残りの部員・鳴子硫黄(なるこいお)と蔵王立(ざおうりゅう)、そしてウォンバットを追いかけ居合わせた箱根有基の5人はブレスレットをはめられ、地球を守るように命じられる。｢ラブメイキングです!｣ブレスレットから溢れるまばゆい光が全身を包み、5人は愛の王位継承者｢バトルラヴァーズ｣に変身する・・・・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -78,10 +84,10 @@ tags: !ruby/array:Hashie::Array
   name: 小島俊彦
   type: other
 - !ruby/hash:TagHash
-  name: 武藤正敏
+  name: 原由美子
   type: other
 - !ruby/hash:TagHash
-  name: 原由美子
+  name: 武藤正敏
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

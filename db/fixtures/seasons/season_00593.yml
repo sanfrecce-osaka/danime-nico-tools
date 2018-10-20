@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/84/6/21846_1_6.png?1
 outline: 平凡な高校生・坂井悠二の日常は、ある日突然消滅した。異界から渡り来た、人の“存在”を灯りに変えて喰らう化け物“紅世の徒（ぐぜのともがら）”が悠二を襲う。逃げることも忘れ呆然と立ちすくむ彼を救ったのは、紅蓮の髪と瞳をもつ謎の少女だった。そして──その少女は、悠二にこう告げた。「おまえはもう【存在】していないのよ」と。「存在亡き者（トーチ）」であった悠二と、彼に“シャナ”と名付けられた少女は、悠二の中に宿る宝具を監視するため御崎市に留まることに。そして二人は、彼をトーチに変えた元凶、この街に潜む紅世の王“狩人”フリアグネと対峙する……。劇場映画では、すべての起点となる原作小説第I巻を再構成。『灼眼のシャナ』のはじまりの物語が描かれます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -23,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 野島裕史
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
-  type: cast
-- !ruby/hash:TagHash
   name: こやまきみこ
   type: cast
 - !ruby/hash:TagHash
   name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 櫻井智
@@ -56,13 +65,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2007年
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: アスキー・メディアワークス

@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/48/0/21480_1_6.png?1
 outline: 探偵事務所の助手ワタルとコヨミのもとに、千年後の未来から二人の子孫だというカレン姫がやって来た。彼女はナンダーラ王国の王位を継ぐために必要な、ジュジャクという伝説の鳥を一緒に探して欲しいと願い出る。一方、弟のコマロ王子を王位に付けようと、ミレンジョ姫の一味もジュジャク捕獲を狙っていた。時間を越えたジュジャク争奪戦の中、ワタルはピンチに陥ると正義のヒーロー・ヤットデタマンに変身。巨大ロボット・大巨神に乗り込み、ミレンジョたちの野望を挫くために闘うのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 富山敬
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
   name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 富山敬
   type: cast
 - !ruby/hash:TagHash
   name: 屋良有作

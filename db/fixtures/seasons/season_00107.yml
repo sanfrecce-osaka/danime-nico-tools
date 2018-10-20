@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/02/3/21023_1_6.png?1
 outline: むかしむかしの日本のお話。桃太郎は鬼退治へ行き、ウサギはタヌキに敵討ち、華やかな英雄譚から涙止まらぬ悲劇まで、その物語は現代まで語り継がれ愛されています。これは、そんな物語のいっぽうで繰り広げられた、地味で醜悪でどうでもいい物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：谷口崇
   type: staff
 - !ruby/hash:TagHash

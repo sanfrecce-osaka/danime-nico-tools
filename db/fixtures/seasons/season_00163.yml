@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/81/4/21814_1_6.png?1
 outline: 原宿。そこは文化・オシャレ・カワイイが集まる街。りと、まり、ことこの女子高生三人は、その街で『PARK』という期間限定ショップを展開している。ある日地球に宇宙人がやって来て、人間が生んだ文化を奪い去っていってしまう。そこにみさと名乗る不思議な少女が現れ――。大好きな原宿を守るため、三人の女の子が立ち上がる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 天野心愛
   type: cast
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：藤田まり子
+  name: 音楽：岩崎文紀
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：岩崎文紀
+  name: キャラクターデザイン：藤田まり子
   type: staff
 - !ruby/hash:TagHash
   name: 監督：久保亜美香

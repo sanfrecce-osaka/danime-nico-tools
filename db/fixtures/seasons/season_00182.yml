@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/69/0/10690_1_6.png?1
 outline: ここは、耳の長い(お約束)エルフの住む異世界。そこへなぜか格闘バカのプータロー、日本人初のオスカー女優、ミリタリー・オタクの女子高生、プラス自衛隊74式戦車が召還されてしまった!元の世界に還るには、バラバラになった送元呪文が体に刻印された女性のエルフ・を捜し出さなければならなかった。そのどこにいるとも知れないエルフを求め、彼ら3人とエルフ族の長、そして戦車一台のエルフを脱がしまくるスチャラカ・ファンタジーの旅が続くのであった…!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash

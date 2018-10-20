@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/3/11143_1_6.png?1
 outline: 戯れのように文明を、生活を、星々を破壊し続ける、宇宙の絶対悪クロスとカオス。広い銀河の中でも彼らに対抗できるのは、イクセルスーツを身にまとうイクセリオンだけだ！人類の未来はイクセルによって選ばれた４人の美少女達に託された！時空を突き抜ける、アクションにつぐアクション！渚よ、なみよ、きいろよ、可愛よ、恐怖にうち勝ち今こそ叫べ、「チャージング！」と！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
   name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 平松晶子
-  type: cast
-- !ruby/hash:TagHash
-  name: 野沢雅子
   type: cast
 - !ruby/hash:TagHash
   name: 天野由梨
@@ -20,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 西村ちなみ
   type: cast
 - !ruby/hash:TagHash
-  name: 白鳥由里
+  name: 堀川りょう
   type: cast
 - !ruby/hash:TagHash
   name: 冬馬由美
   type: cast
 - !ruby/hash:TagHash
-  name: 堀川りょう
+  name: 白鳥由里
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：AIC

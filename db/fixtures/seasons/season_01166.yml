@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/12/5/20125_1_6.png?1
 outline: 妖精博士(フェアリードクター)であるリディアは父に会うため、相棒の妖精ニコと共にロンドンへ向かう船の中で、美貌の青年と出会う。彼は伝説の青騎士伯爵、またの名を妖精国伯爵(アール・オブ・イブラゼル)の現当主、エドガー・アシェンバートと名乗り、代々青騎士伯爵家に伝わるメロウの宝剣を手に入れるため、リディアに力を貸して欲しいという。リディアはエドガーの申し出を引き受けることになり、それゆえ、彼女も宝剣を狙う者たちとの争いに巻き込まれていく。次第に明らかになるエドガー達の過去とその正体…。宝剣は誰の手に…。そしてリディアの運命は…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash

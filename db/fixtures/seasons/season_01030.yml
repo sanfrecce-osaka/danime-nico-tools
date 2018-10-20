@@ -5,7 +5,40 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/0/10410_1_6.png?1
 outline: "『戦え！超ロボット生命体トランスフォーマー』の続編となるロボットＳＦアニメ。宇宙の脅威・ユニクロンとの闘いから5年。デストロン軍団再興を企むサイクロナスの手により、破壊大帝・ガルバトロンが復活するが・・・。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴置洋孝
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤精三
+  type: cast
+- !ruby/hash:TagHash
+  name: 石丸博也
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲葉実
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多川拓郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 政宗一成
+  type: cast
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

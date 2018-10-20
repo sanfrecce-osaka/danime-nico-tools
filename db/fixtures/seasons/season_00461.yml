@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/4/11294_1_6.png?1
 outline: ふだんはさえない少年・石野あらしが、ひとたびゲーム機に向かうとき、その天性の才能が目を覚ます!!個性あふれる強力なライバル達とゲーム対決という枠をはるかに超えた死闘、“炎のコマ”や“水魚のポーズ”“月面宙返り”など、度肝を抜く必殺技の数々、あらしの魂の咆哮を見届けよ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash

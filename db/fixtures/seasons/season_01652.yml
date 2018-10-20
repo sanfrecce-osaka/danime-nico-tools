@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/96/4/20964_1_6.png?1
 outline: 身の回りの怪奇な都市伝説をテーマに、現代では珍しくなった“紙芝居”をデジタル表現で見せる昭和テイスト満載の新感覚ホラーショートアニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 村井良大
   type: cast
 - !ruby/hash:TagHash

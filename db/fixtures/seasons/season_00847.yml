@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/21/9/10219_1_6.png?1
 outline: 写真が大好きな高校1年生、沢渡楓。あだ名は｢ぽって｣。この春、海と山に囲まれた穏やかな瀬戸内海の町、広島県竹原市に引っ越してきました。そこは亡くなった父親が子供のころに住んでいた町。古い町並み、美しい海と島々、暖かな人々とそして新しくできた素敵な友達…。大好きになったこの町で撮った楓の写真には、ときどきたまゆらが写ります。たまゆらは楓の心がふわふわと舞い上がって幸せな気持ちの時に写るかわいい光。幸せが形になったような不思議な何か…。そして、その写真はみんなをちょっとだけ幸せな気持ちにしてくれるんです。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 大原さやか
-  type: cast
+  name: 日常/ほのぼの
+  type: genre
 - !ruby/hash:TagHash
-  name: 中田譲治
+  name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 松来未祐

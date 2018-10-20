@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/79/5/10795_1_6.png?1
 outline: 東京タワーに居合わせた獅堂光、龍咲海、鳳凰寺風。突然光につつまれ、異世界セフィーロに導かれた3人の少女たちは魔法騎士(マジックナイト)として、この世界を救う使命を負わされる。魔法と魔神(マシン)を授けられた3人は神官ザガードにさらわれたエメロード姫を救出するために、戦いの冒険に旅立つ。少女漫画に巨大ロボットが登場する斬新なCLAMPの原作を、平野俊貴が見事に映像化。原作者の一人である大川七瀬が脚本に参加し、アニメ独自の展開を見せたことで、オリジナリティの高い作品になっている。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
   name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
+  name: 佐々木望
   type: cast
 - !ruby/hash:TagHash
-  name: 佐々木望
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 緒方恵美
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 山崎たくみ
   type: cast
 - !ruby/hash:TagHash
-  name: 椎名へきる
+  name: 笠原弘子
   type: cast
 - !ruby/hash:TagHash
-  name: 笠原弘子
+  name: 椎名へきる
   type: cast
 - !ruby/hash:TagHash
   name: 吉田小南美

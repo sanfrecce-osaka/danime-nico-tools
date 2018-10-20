@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/2/10632_1_6.png?1
 outline: 他人より優しすぎて…考えすぎて…だから無口になってしまう女子高生・森田真由(主人公)。母の教えにより、相手の目をじっと見るために、あらぬ誤解をよく受けてしまう。あらぬ妄想をする男子学生も多数。聞き上手なので女子からの人気も高い。しかし、不器用!音痴!運動音痴!・・・・そんな女の子と、親友の活発で惚れっぽい美樹、今時の子　千尋、くせ毛の花の仲良し3人と、森田さんの事が気になる2人、文武両道学級委員長のりつき、影から森田さんを見つめるメガネ娘のほんわかとした女子高生の日常を描いたアニメーション第二期!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

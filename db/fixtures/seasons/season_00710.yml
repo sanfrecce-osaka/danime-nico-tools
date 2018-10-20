@@ -7,6 +7,12 @@ outline: 絶強の霊力を持ち、自らの命を削りながら天脈地流�
   (しょうけん)”という 人物は一体何者なのか……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash

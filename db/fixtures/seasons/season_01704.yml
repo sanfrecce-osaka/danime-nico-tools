@@ -6,6 +6,15 @@ outline: テレビシリーズの後日談として作られたOVA前後編。�
   サービスショット満載の前編と、続編『流奇譚X』への橋渡しとなる後編。いずれもファン必見の内容になっている。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
@@ -18,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: こやまきみこ
   type: cast
 - !ruby/hash:TagHash
-  name: 清水愛
+  name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
-  name: 金田朋子
+  name: 清水愛
   type: cast
 - !ruby/hash:TagHash
   name: 石井康嗣
@@ -33,10 +42,10 @@ tags: !ruby/array:Hashie::Array
   name: 笹島かほる
   type: cast
 - !ruby/hash:TagHash
-  name: 音宮つばさ
+  name: 百々麻子
   type: cast
 - !ruby/hash:TagHash
-  name: 百々麻子
+  name: 音宮つばさ
   type: cast
 - !ruby/hash:TagHash
   name: 町井美紀

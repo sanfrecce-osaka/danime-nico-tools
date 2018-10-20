@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/11/0/21110_1_6.png?1
 outline: 最近使っていない筋肉はないですか？アニメで一緒に楽しく運動して、気持ちいい汗を流しちゃおう！アイドルを目指す4人は所属する事務所の養成所で同居することに！？前期を上回るスケールのトレーニング種目がズラリ！トレーニングアイテムや生活環境を活用したトレーニングも登場！わがままで寂しがり屋な出海さくらちゃん(CV.鈴木絵理)も新たに登場！アイドルを目指す5人+1人の可愛いキャラクター達があなたと一緒にエクササイズして、気になるその体脂肪率を+αの1クールで10000%まで下げちゃいます…！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 長縄まりあ
-  type: cast
+  name: ショート
+  type: genre
 - !ruby/hash:TagHash
-  name: 伊藤美来
+  name: 長縄まりあ
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木絵理
   type: cast
 - !ruby/hash:TagHash
   name: 和氣あず未
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
   type: cast
 - !ruby/hash:TagHash
   name: 高尾奏音

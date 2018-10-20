@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/32/7/10327_1_6.png?1
 outline: 異世界ハルケギニアに｢使い魔｣として召喚されてしまった高校生・平賀才人(サイト)が巻き込まれる｢恋｣と｢冒険｣、｢ご主人様｣と｢使い魔｣のアンビバレントでハイブリットなファンタジーロマン。才人を異世界に召喚したのは、可愛いけれど魔法の才能ゼロのご主人様・ルイズ。突然、目の前に現れた謎の高慢な美少女に戸惑う才人に、彼女は契約だと言って、いきなり唇を重ねてくる・・・!すると彼の手の甲に不思議な文字が浮かび、才人はルイズの使い魔となってしまうのだが・・・?!全寮制トリステイン魔法学院を舞台に、ご主人様となった美少女魔法使いルイズに、罵られ、なじられ、そして愛される(?)、そんな使い魔・才人の愛と勇気と屈辱に満ちたドキドキの学園生活が始まることに・・・。異世界で巻き起こる波乱に満ちた異文化交流の中、果たしてゼロのルイズと才人の運命は、どのような展開を見せるのだろうか・・・!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -56,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: GENCO
   type: other
 - !ruby/hash:TagHash
-  name: 最強ヒーロー
+  name: メディアファクトリー
   type: other
 - !ruby/hash:TagHash
-  name: メディアファクトリー
+  name: 最強ヒーロー
   type: other
 - !ruby/hash:TagHash
   name: MF文庫J

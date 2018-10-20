@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/59/5/10595_1_6.png?1
 outline: 舞台は｢私立白選館学園高校｣。この学校の最も優秀な7名が集まる“SA”組に所属するのは主人公・華園光、滝島彗、東堂明、狩野宙、山本芽、山本純、辻竜。光は、6歳の時にプロレス勝負で敗れた屈辱をはらすべく、打倒・滝島彗に燃える努力の女。普通の大工の娘ながら、このエリート校に通い続けている。彗をライバル視し、何度も勝負を挑むが、頭脳、体力、何をしても勝つことができず、万年学年2位の成績……。この物語は、｢打倒・滝島!｣に燃える光の、汗と涙とちょびっとLOVEの極楽エリート学園ライフ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 代永翼
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
+  name: 後藤邑子
   type: cast
 - !ruby/hash:TagHash
-  name: 後藤邑子
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 緒方恵美

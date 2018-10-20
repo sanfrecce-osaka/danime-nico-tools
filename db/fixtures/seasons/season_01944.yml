@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/0/20330_1_6.png?1
 outline: 伝説のゲーム｢Kanon｣を京都アニメーションが完全アニメ化！｢AIR｣や｢けいおん！｣などを手がけ、ハイクオリティな映像が定評ある京都アニメーション。地上波放送後もその勢いは収まらず、DVDや関連グッズが多数発売されている。舞台は静かに雪の降り積もる北の街。高校生の相沢祐一は両親の仕事の事情によりここで暮らすことになった。かつて何度か訪れていたはずの街なのだが、何故か祐一にはその頃の記憶がほとんど無かった。ここで出会った5人の少女たちとの交流を通じて、徐々に明らかになってゆく過去。なぜ祐一は記憶を無くしてしまったのか？なぜ祐一はこの少女たちと出会ったのか？全てがわかった時、祐一は｢奇跡｣を見ることになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -50,9 +56,6 @@ tags: !ruby/array:Hashie::Array
   name: 原作：Key
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：石立太一
-  type: staff
-- !ruby/hash:TagHash
   name: 監督：高雄統子
   type: staff
 - !ruby/hash:TagHash
@@ -60,6 +63,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 監督：坂本一也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石立太一
   type: staff
 - !ruby/hash:TagHash
   name: 監督：北之原孝將

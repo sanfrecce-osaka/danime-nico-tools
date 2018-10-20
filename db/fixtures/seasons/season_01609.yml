@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/30/5/21305_1_6.png?1
 outline: 20歳の青年、ジャスティ・ウエキ・タイラーが、惑星連合宇宙軍に入隊。オンボロ駆逐艦「そよかぜ」を巧みに操り、ラアルゴン帝国の大艦隊をたった1隻で撃退する！？原作・吉岡平、「宇宙一の無責任男」シリーズを原作にした傑作TVアニメーション！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三石琴乃
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 関俊彦
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
+  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
-  name: 八奈見乗児
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 西村知道
@@ -38,7 +41,7 @@ tags: !ruby/array:Hashie::Array
   name: 岡本麻弥
   type: cast
 - !ruby/hash:TagHash
-  name: 中田和宏
+  name: 辻谷耕史
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：川井憲次

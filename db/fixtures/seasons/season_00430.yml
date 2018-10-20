@@ -6,6 +6,12 @@ outline: 普通の高校生、ろで夫の夢は「ロックスターになる�
   ! ?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 谷山紀章
   type: cast
 - !ruby/hash:TagHash

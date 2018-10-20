@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/30/5/20305_1_6.png?1
 outline: みんな、ゆるゆりの主人公・赤座あかりだよ!今年の夏休みにみんなでキャンプに行ったんだ!みんなでお料理したり、肝試しにいったり・・・すごく楽しかったんだ!でもまだまだ夏休みは終わらない!みんなで遊んでもっとたのしい思い出作るんだ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 豊崎愛生
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
   name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 藤田咲
   type: cast
 - !ruby/hash:TagHash
-  name: 津田美波
+  name: 大久保瑠美
   type: cast
 - !ruby/hash:TagHash
-  name: 大久保瑠美
+  name: 津田美波
   type: cast
 - !ruby/hash:TagHash
   name: 大坪由佳

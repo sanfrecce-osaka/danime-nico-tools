@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/02/5/21025_1_6.png?1
 outline: 高校を卒業後、幼い頃に夢中になって遊んでいたゲーム《フェアリーズストーリー》を制作したゲーム会社であるイーグルジャンプに新入社員として入社した涼風青葉は、《フェアリーズストーリー》のキャラクターデザインを手掛けた憧れの八神コウに出会う。憧れの人の下で働くことになった青葉は、初めてのお仕事に戸惑いながらも、コウをはじめ個性的な先輩社員たちに助けられながら、社会人としての第一歩を踏み出していく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 戸田めぐみ
+  name: 高田憂希
   type: cast
 - !ruby/hash:TagHash
-  name: 高田憂希
+  name: 戸田めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 森永千才

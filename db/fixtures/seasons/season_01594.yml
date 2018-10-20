@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/01/1/20011_1_6.png?1
 outline: せっかくトイズが戻ってきたのもつかの間、またまたトイズを失ってしまったミルキィホームズの4人。好敵手の復活を強く望むアルセーヌ（＝アンリエット）は、ミルキィホームズがトイズを取り戻すようにと、陰になり日向になり４人をサポートするが、トイズが復活する気配は全くない。それどころか、４人は貧乏生活にすっかり慣れ、ダメダメ街道まっしぐら。遂にはトイズだけでなく、学院生活に一番大事なものもすっかり忘れてしまい・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -50,6 +56,9 @@ tags: !ruby/array:Hashie::Array
   name: 監督：森脇真琴
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：Angel Note
   type: staff
 - !ruby/hash:TagHash
@@ -60,9 +69,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：沼田誠也
-  type: staff
-- !ruby/hash:TagHash
-  name: 原作：ブシロード
   type: staff
 - !ruby/hash:TagHash
   name: ミルキィホームズシリーズ

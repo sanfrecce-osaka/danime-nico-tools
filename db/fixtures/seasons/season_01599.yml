@@ -6,6 +6,12 @@ outline: 人間に夢見る心を取り戻させるため、人間界にやっ�
   モモは両親を救うため、島に向かうが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
@@ -21,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: 納谷六朗
   type: cast
 - !ruby/hash:TagHash
-  name: 三田ゆう子
+  name: 難波圭一
   type: cast
 - !ruby/hash:TagHash
-  name: 難波圭一
+  name: 三田ゆう子
   type: cast
 - !ruby/hash:TagHash
   name: 増岡弘

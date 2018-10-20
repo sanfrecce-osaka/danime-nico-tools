@@ -6,6 +6,9 @@ outline: 星守（ほしもり）－－－人々の想いを受けてそびえ�
   ハイスクール」待望のアニメ化。完全新作ストーリーで贈る、星守たちの友情と絆の物語！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
@@ -21,25 +24,25 @@ tags: !ruby/array:Hashie::Array
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
   name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
-  type: cast
-- !ruby/hash:TagHash
-  name: 内山夕実
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
-  name: 洲崎綾
+  name: 雨宮天
   type: cast
 - !ruby/hash:TagHash
-  name: 雨宮天
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: 洲崎綾
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：SILVER LINK.

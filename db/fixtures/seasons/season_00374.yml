@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/73/3/10733_1_6.png?1
 outline: 緋色の狼男探偵､鮮やかに事件を迷宮に誘う！？主人公・因幡洋が所長を務める因幡探偵事務所に､ある日､かつての警察犬時代の相棒荻野警部がとある事件の捜査への協力を持ちかけてくる｡その事件の首謀者はイタリアンマフィアのボス､首領(ドン)・ヴァレンティーノであった｡赤毛の毛フェチ狼男探偵・因幡洋と愉快な仲間達が､(明らかにヤギにしか見えない)首領(ドン)・ヴァレンティーノの野望に､割とグダグダに立ち向かう新感覚のヤギ大増量毛探偵ギャグ物語！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 大川透
   type: cast
 - !ruby/hash:TagHash
-  name: 小杉十郎太
+  name: 入野自由
   type: cast
 - !ruby/hash:TagHash
-  name: 入野自由
+  name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
   name: 瀬戸麻沙美
@@ -44,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ZEXCS
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：満仲勧
+  name: キャラクターデザイン：小池智史
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：小池智史
+  name: 監督：満仲勧
   type: staff
 - !ruby/hash:TagHash
   name: 原作：もち

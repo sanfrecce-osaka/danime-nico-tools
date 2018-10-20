@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/67/8/10678_1_6.png?1
 outline: ドリルやはさみなどさまざまな道具の能力を具現した鎧をまとうことのできる能力を持つ者｢パンツァー｣が格闘技を繰り広げる世界。螺旋皇国の第3皇女・どりすは、ドリルのパンツァー能力を持つ。世間知らずの箱入り娘に育てられてきたが、ついにパンツァーになることを許され、東方帝都にある帝都学園に留学する。ある日、偶然入り込んだ競技場で見かけた同じドリルのパンツァー・我王ねじると戦うことに・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

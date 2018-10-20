@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/77/8/21778_1_6.png?1
 outline: 離れ離れで魔法世界にたどり着いたネギたちを描いた、OADシリーズ第2弾。「Extra」として夕映が主役のエピソードもアニメ化され、全5話がつくられた。オープニングの絵コンテを、原作者の赤松健が自ら担当したことも話題に。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 桑谷夏子
   type: cast
 - !ruby/hash:TagHash
-  name: 野中藍
+  name: 松岡由貴
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡由貴
+  name: 野中藍
   type: cast
 - !ruby/hash:TagHash
   name: 門脇舞以

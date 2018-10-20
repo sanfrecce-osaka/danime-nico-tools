@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/16/4/11164_1_6.png?1
 outline: "「蟲」それは動物でも植物でもない、生命の原生体。本来棲む世を隔てたヒトと蟲とが重なる時、人智を超えた妖しき現象がうまれ、ヒトは初めてその存在を知る。すべての生命は、他をおびやかすために在るのではない。ただ、それぞれが在るように在るだけ―。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 土井美加
   type: cast
 - !ruby/hash:TagHash

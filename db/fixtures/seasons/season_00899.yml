@@ -7,6 +7,12 @@ outline: ここは、ゲイムギョウ界。｢女神｣と呼ばれる存在�
   ゲイムギョウ界には、どんな明日が待っているのだろうか──。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

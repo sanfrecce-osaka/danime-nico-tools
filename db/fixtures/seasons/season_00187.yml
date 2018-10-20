@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/24/2/10242_1_6.png?1
 outline: 近未来-。巨大複合都市Tokyoを舞台に繰り広げられる、全6部作のガン&バイクアクションシリーズ!特殊公安とテロリストとの戦いに、謎の超能力者集団が介入。さらに特公の前には巨大なる敵が出現。彼らを取り巻く状況は、複雑な様相を呈していった・・・。戦闘ヘリ、バズーカ砲も登場し、立体感溢れる壮絶な戦闘場面でニューウェイブビジョンが疾走する!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
-  name: 内海賢二
+  name: 江原正士
   type: cast
 - !ruby/hash:TagHash
-  name: 江原正士
+  name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
   name: 土井美加

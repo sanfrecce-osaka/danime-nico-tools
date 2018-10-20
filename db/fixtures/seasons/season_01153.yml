@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/10/0/20100_1_6.png?1
 outline: リアス、アーシア、朱乃、小猫、ゼノヴィアと一つ屋根の下、同居することになり三度桃色なハッピーライフを満喫していた一誠。そんな平穏な日常も束の間、オカルト研究部は夏休みを利用し冥界へと向かう。冥界に到着した早々、アザゼルから過酷な修行を命じられる一誠たちだが、小猫だけは自分の力に自信を持てないでいた。そんなある日、悪魔、天使、堕天使の三大勢力と北欧の神族アースガルズによる対テロ対策の会合が開催される。だがその裏ではヴァーリ率いるカオス・ブリゲードと小猫の姉、黒歌が不穏な動きを始める---。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

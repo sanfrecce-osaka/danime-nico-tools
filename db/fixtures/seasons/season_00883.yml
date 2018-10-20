@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/67/3/10673_1_6.png?1
 outline: 西暦2050年。国内はおろか世界中の子供たちがあることに熱中していた。『LBX(Little Battler eXperience)』 それは、あまりにも強力な性能ゆえ、一時は発売中止へと追い込まれてしまった、小型戦闘ロボット。しかし、LBXに転機が訪れる。『強化ダンボール』の登場である。あらゆる衝撃の80%を吸収する強化ダンボール内でのバトルのみが許可され、LBXは新シリーズ『ダンボール戦機』として子供たちの前に再びその姿を現した―――。トキオシティにあるごく普通の街、ミソラタウン。そこに住む少年・山野バンは、LBXが大好きな少年。しかし、母親の反対があって、LBXを手に入れることができないでいた。そんなある日、バンは見知らぬ女性から謎のアタッシュケースを託される。何者かに追われているらしいその女性は、すぐにその場を立ち去ってしまう。｢この中には人類の希望と絶望がつまっている｣という言葉だけを残して。アタッシュケースを家に持ち帰ったバンは、意を決してケースを開けてみる。すると、そこには｢AX-00｣と記載された見たことのないLBXが収められていた。その直後、正体不明のLBXが家の中に侵入し、バンに襲いかかる。バンはAX-00を起動して反撃、相手を撃退することに成功した。しかしそれは、これから起きるバンと仲間たちの戦いの幕開けにすぎなかった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：高橋ナオヒト
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：近藤嶺
+  name: キャラクターデザイン：西村博之
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：西村博之
+  name: 音楽：近藤嶺
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

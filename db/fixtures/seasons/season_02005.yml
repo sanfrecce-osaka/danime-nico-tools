@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/5/22425_1_6.png?1
 outline: 源モモは空崎市に住む女子高生。平凡な日々を過ごしていた彼女はとある事から私設情報機関「ツキカゲ」にスカウトされる。ツキカゲはどこの国にも属さず平和を影から守る正義のスパイ組織だった。若い女性にしか効かないが能力を上昇させる特製スパイスをはじめ数々の秘密道具、鍛え上げた心身を武器に彼女達は戦う。素人だったモモの面倒を見るのは高校の先輩でもある半蔵門雪。ツキカゲは師弟制度があり先輩が後輩を鍛えて技術を継承していくのだ。今、大都市である空崎には犯罪組織「モウリョウ」がその魔手を伸ばしていた。モモは自分を取り巻く家族や友人、商店街の人達を守るため、仲間たちと力をあわせて悪を討つ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash

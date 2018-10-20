@@ -6,6 +6,12 @@ outline: 井上智徳原作の近未来を舞台としたSFアクション。時
   3人の少女が旧首都に降り立つ。彼女たちは一見、ごく普通の制服姿の高校生。だが実は、それこそが異常な光景なのである。なぜなら、この汚染された街で防護服を身に着けず生きられる人間など存在しないからだ。彼女たちの名はコッペリオン。汚染耐性を体内に有する人工的に生み出された人間である。陸上自衛隊第三師団特殊部隊に所属し、旧首都に残る人々を救出することが彼女たちの任務だ。廃墟となった旧首都を舞台に、“生命”をかけた物語が今はじまる・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -39,7 +45,7 @@ tags: !ruby/array:Hashie::Array
   name: 中博史
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤友啓
+  name: 中村浩太郎
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：スターチャイルドレコード
@@ -57,10 +63,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：遠藤幹雄
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：工藤進
+  name: 監督：鈴木信吾
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：鈴木信吾
+  name: 監督：工藤進
   type: staff
 - !ruby/hash:TagHash
   name: 原作：井上智徳

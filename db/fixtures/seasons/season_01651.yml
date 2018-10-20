@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/27/5/20275_1_6.png?1
 outline: 驚愕の都市伝説アニメ「闇芝居」の最新シリーズ。Ｊホラーの巨匠・清水崇ら豪華ゲスト監督や若手人気俳優達が参加する新エピソードが満載。清水崇監督（『魔女の宅急便』『呪怨』監督）コメント「『闇芝居』が還ってくる！…第１シリーズからの大ファンなので、仲間に入れてもらえる事が光栄です。悩んだ挙句、僕自身の実体験を紙芝居屋のおじさんに語ってもらう事にしました。寄ってらっしゃい、見てらっしゃい…」
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 田野アサミ
   type: cast
 - !ruby/hash:TagHash

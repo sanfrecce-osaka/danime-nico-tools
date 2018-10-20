@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/70/8/20708_1_6.png?1
 outline: 魔法局・危機対策課の隊長として忙しい毎日を送る魔法使い、神島 千晴(かしま ちはる)は、行きつけのバーで気さくな青年、内海 十四日(うつみ とよひ)と出会い意気投合。その帰り際、十四日から明るく｢神島さんに恋しちゃいました｣と告白される。突然の事に困惑する神島だったが、その後も自然に懐いてくる十四日のペースに流され、一緒に過ごす時間が増えていく。しだいに心を寄せはじめていた矢先、神島はある失敗をきっかけに、これまで以上に仕事に打ち込むことを決意し、十四日を遠ざけてしまうが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小野友樹
   type: cast
 - !ruby/hash:TagHash

@@ -3,7 +3,31 @@ title: こわぼん
 watchable: true
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/8/20418_1_6.png?1444119314000
 outline: 世界中どこにでもあるカメラ。あらゆる場所が24時間監視されている現代。あなたの知らない世界をその「目」は見ていた。カメラ視点で物語が展開する新感覚ホラー！！
-tags: !ruby/array:Hashie::Array []
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 監督：竹谷和真
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ILCA
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：都啓一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：LinQ
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: "#01～#04"

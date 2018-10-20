@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/44/6/20446_1_6.png?1
 outline: 曹操が中原に覇を唱え、四方の国々を併呑する戦いに邁進する中、人々の暮らしの平安を守ろうと戦う将がいた。その名を劉備。彼は、彼の人柄に惚れ込み義兄弟の契りを結んだ二人の将、関羽と張飛と共に平和な国を作ろうと戦いに臨んでいた。だが、圧倒的な曹操の武力の前に、何度も辛酸を嘗めさせられ、軍師が必要だ思い知らされる。一矢報いるべく劉備は、在野の智者・孔明を三顧の礼をもって軍師に迎え、その知恵を得、呉を併呑し一気に覇者とならんとする曹操を阻むべく、呉の国の孫権と共闘をもくろむが……。劉備と孫権の妹麗花のロマンスと三国志最大の見せ場である赤壁の戦いに向かって物語は加速する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash

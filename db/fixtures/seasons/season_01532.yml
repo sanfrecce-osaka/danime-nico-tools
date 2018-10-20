@@ -6,6 +6,12 @@ outline: ネットに広がる仮想空間｢ ダイアロス島 ｣を舞台に
   マスター オブ エピック ～The AnimationAge～ 』。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 脚本：待田堂子
   type: staff
 - !ruby/hash:TagHash

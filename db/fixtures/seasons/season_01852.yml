@@ -5,22 +5,46 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/7/11477_1_6.png?1
 outline: 人間と同じこころを持って生まれ、ひたむきに生きるアトム。その前にあらわれたのは、家族を壊された憎しみから、人間を敵だと考えるロボット・ブルーボン（青騎士）。2人の対立に、地球を自分だけのものだと思う人間もからんで、事態は思わぬ方向へ…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: アニメーション制作：タバック
-  type: staff
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 演出：桑原智
-  type: staff
+  name: ロボット/メカ
+  type: genre
 - !ruby/hash:TagHash
-  name: 脚本：桑原智
-  type: staff
+  name: 森川智之
+  type: cast
 - !ruby/hash:TagHash
-  name: 音楽制作：COMPANY AZA
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 大木民夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 大友龍三郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝田久
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田美穂
+  type: cast
+- !ruby/hash:TagHash
+  name: 本井えみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水マリ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：桑原智
   type: staff
 - !ruby/hash:TagHash
   name: 鉄腕アトムシリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

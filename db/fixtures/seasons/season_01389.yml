@@ -6,6 +6,9 @@ outline: 21年前、不発弾事故で瀕死の重傷を負った間 黒男。�
   いま、世界を揺るがす巨大な陰謀、そして、彼自身の運命との戦いが始まった！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
@@ -36,10 +39,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：神村幸子
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：松本晃彦
+  name: 監督：手塚眞
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：手塚眞
+  name: 音楽：松本晃彦
   type: staff
 - !ruby/hash:TagHash
   name: 製作：よみうりテレビ

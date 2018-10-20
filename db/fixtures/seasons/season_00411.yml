@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/20/8/20208_1_6.png?1
 outline: "「地上を≪魔甲蟲≫と呼ばれる魔物に支配され、天空の浮遊都市へ追いやられた人類は、≪魔甲蟲≫に対抗しうる存在――空戦魔導士を生み出した。空戦魔導士の育成機関である学園浮遊都市≪ミストガン≫の生徒、カナタ・エイジは≪黒の剣聖(クロノス)≫の称号を持つエリートエース。しかし、今では“とある事件”から「裏切り者」の烙印を押され、前線を退いていた。そんなカナタが、“おちこぼれ”と揶揄されるE601小隊の教官に任命される。この小隊に所属するのは、一癖も二癖もある3人の少女。彼女たちに叩き込むカナタの指導法は、荒唐無稽な常識外のものばかりで…「俺がお前たちを最強の空戦魔導士にしてやるよ」“裏切り者”教官の型破りな指導で「最強の空戦魔導士」を目指す！“落ちこぼれ”少女たちの成長の物語が今、始まる。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
@@ -74,7 +83,7 @@ tags: !ruby/array:Hashie::Array
   name: 小島俊彦
   type: other
 - !ruby/hash:TagHash
-  name: 野水いおり
+  name: アーティスト：野水いおり
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

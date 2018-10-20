@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/51/8/21518_1_6.png?1
 outline: これは、“とある時代”“とある大陸”でのほんのささいな出来事…“大規模レジャー施設”建設のため立ち退きを要求された村がありました。しかし、その要求を拒否すると、なんと村は住人ごと一瞬にして破壊されてしまったのです。そこは『小さなしあわせ』の中に暮らしていた少年チャップの村…全てを失い、絶望のドンゾコに突き落とされたチャップは、悲しみを乗り終え、復讐の旅にでる決意をするのでした。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：もりたけし
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：近藤嶺
+  name: 原作：レベルファイブ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：レベルファイブ
+  name: 音楽：近藤嶺
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：長野拓造

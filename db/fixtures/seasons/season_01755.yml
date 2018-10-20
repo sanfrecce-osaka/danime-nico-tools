@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/75/4/21754_1_6.png?1
 outline: 銭形がルパン捜査を解任され、元雇兵のキース・ヘイトンが後任となった。一方ルパンは今度の標的を密売企業ショットシェルの貯蔵金に決定。遂行にはロシアの核物理学者カレン女史が必要だった。奇しくもショットシェルの手先に連行されかけていた彼女を不二子たちが救出し、予めロシアの原潜イワノフを奪取していたルパンたちと共に進水。この操縦にカレンの腕を要したのだ。そこでカレンは、次元が１０年前に父を殺した相手だと看破する。そんな中ルパンの予想通りに、ショットシェルのボスであるジョン・クローズからイワノフへ入電。やがて面談したジョンは、ルパンの腕を見込んで核兵器の強奪を依頼する。ジョンの目的は世界規模の戦争を起こさせ、利潤を得ることにあった。その頃、実はジョンの秘密社員であるキースの魔手が、別地にいる五ェ門たちへ迫っていた……！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 石塚運昇
+  type: cast
+- !ruby/hash:TagHash
   name: 飛田展男
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 田中敦子
   type: cast
 - !ruby/hash:TagHash
-  name: 石塚運昇
+  name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
   name: 増山江威子
   type: cast
 - !ruby/hash:TagHash
   name: 納谷悟朗
-  type: cast
-- !ruby/hash:TagHash
-  name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
   name: 井上真樹夫

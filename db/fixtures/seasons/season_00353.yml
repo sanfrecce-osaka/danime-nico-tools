@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/9/20149_1_6.png?1
 outline: 高校生になったばかりの安藤夏希、友人に部活動をどうするのか尋ねられ迷っていた。迷った挙げ句、上下関係が面倒な事もあり「帰宅部でいいかな～」と言って帰ろうとした時、そこには、帰宅部が存在したのである。ちょっと変わった部員達とごく一般人の部長・道明寺桜が在籍する帰宅部。その主な活動は、なんと“楽しいことをする！”。放課後も帰り道も最大限に楽しむために集まった帰宅部の少女達。帰宅部に出会い、始まる夏希の部活動とは？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash

@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/99/7/20997_1_6.png?1
 outline: ツキノ芸能プロダクションに所属する2組のアイドルユニット、Six Gravity(シックスグラビティー／通称：グラビ)とProcellarum(プロセラルム／通称：プロセラ)はライバルにして兄弟ユニット。彼らは都内某所のツキノ寮で共同生活を送りながら、駆け出しのアイドルとして、切磋琢磨しながら奮闘中！アイドル活動をがんばるキラキラした姿と、みんなと変わらない日常を過ごす等身大の男の子な姿をお届けします！―――グラビとプロセラのアイドルな日常が動き出す！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 木村良平
@@ -35,19 +38,19 @@ tags: !ruby/array:Hashie::Array
   name: 増田俊樹
   type: cast
 - !ruby/hash:TagHash
-  name: 蒼井翔太
+  name: KENN
   type: cast
 - !ruby/hash:TagHash
-  name: KENN
+  name: 蒼井翔太
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：studioぴえろ
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：川崎逸朗
+  name: キャラクターデザイン：番由紀子
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：番由紀子
+  name: 監督：川崎逸朗
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：ハラダサヤカ

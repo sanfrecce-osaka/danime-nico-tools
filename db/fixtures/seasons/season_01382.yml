@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/2/21522_1_6.png?1
 outline: 自由を愛する高校生・納村不道が転校してきた愛地共生学園では、護身の名目で武装した女子達による無慈悲な男子支配が行われていた！男子は女子との｢共生｣の名のもとに、男を捨てて生活することを｢強制｣される。納村は転校早々、学園を統率する｢天下五剣｣の一人で｢鹿島神傳直心影流｣の使い手・鬼瓦輪に目を付けられ、新たな｢矯正｣対象として勝負を挑まれることになるのだが…。武装少女達に｢無手｣で抗い、自由を求める納村不道の運命は！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash

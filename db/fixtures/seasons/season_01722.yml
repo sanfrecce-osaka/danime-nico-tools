@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/3/10203_1_6.png?1
 outline: 突如、ダ・サイダーがラムネの家にやってきた!その理由は二人の美女を助けに行くためだった。アララ城からアルミホイル号を奪い、旅立つ勇者二人。ミルクとレスカ怒りも頂点へ。今、下心丸出しの旅が幕を開ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：りゅうてつし
   type: staff
 - !ruby/hash:TagHash
@@ -38,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤俊彦
   type: other
 - !ruby/hash:TagHash
-  name: 田中英行
+  name: 製作年：1993年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1993年
+  name: 田中英行
   type: other
 - !ruby/hash:TagHash
   name: 伊東岳彦

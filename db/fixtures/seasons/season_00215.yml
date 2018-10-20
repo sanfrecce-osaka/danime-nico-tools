@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/02/4/21024_1_6.png?1
 outline: 記憶を失った少女、フーカ。見知らぬ街を彷徨っていた彼女は、突然何者かに追われることに。逃げ惑う彼女を助けてくれたのは、街を支配するマフィアのひとつ、オズファミリーだった。争いと友情が背中合わせの街の中、フーカは誰の手を取るのか。そして、彼女が記憶を持たない理由とは――？という内容の『OZMAFIA!!』ですが、尺に収まらないので学園モノに。オズ学園に転入してきたスカーレットはあるトラブルに巻き込まれてしまう。そこに現れ助けたのは、カラミア、キリエ、アクセルの3人だった――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 興津和幸
   type: cast
 - !ruby/hash:TagHash

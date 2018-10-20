@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/54/4/11544_1_6.png?1
 outline: "「黄金の種族」の呼びかけに各種族は応え、宇宙への進出を果たした。最後に進出を果たした人類は「鉄の種族」と呼ばれた。時は流れ、人類は「銀の種族」らの脅威にさらされ、存亡の危機を迎えていた。人類存続をかけて旅立った王女・ディアネイラは、エイジと出会う。そして、この出会いが宇宙の運命を変えてゆく…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -26,19 +35,19 @@ tags: !ruby/array:Hashie::Array
   name: 新井里美
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
+  name: 近藤隆
   type: cast
 - !ruby/hash:TagHash
-  name: 近藤隆
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 千葉進歩
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木千尋
+  name: 松山タカシ
   type: cast
 - !ruby/hash:TagHash
-  name: 松山タカシ
+  name: 石川由依
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：スターチャイルドレコード

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/91/7/10917_1_6.png?1
 outline: サファイヤは王子として育てられているけれど、本当は女の子。天使のミスで女の子の体に男の子の心が入ってしまったお姫様が誕生してしまったのだ。そのサファイヤは世継ぎのいない王国で男の子として育てられるが、大臣たちはサファイヤが本当は女の子であることを暴こうとする。そんな王国にはびこる悪に黙っていられずに、サファイヤはリボンの騎士へと変装して正義の剣をふるう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash

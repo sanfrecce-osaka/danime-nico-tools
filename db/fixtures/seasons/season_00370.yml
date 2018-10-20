@@ -5,22 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/27/4/11274_1_6.png?1
 outline: 名作｢新造人間キャシャーン｣を装いも新たに映像化したTVアニメ。人もロボットも｢死｣に向かって進んでいた。自分達の滅びを見つめる人間と、生き延びたいと考えるロボット達。そんな世界で、記憶を失くしたキャシャーンは、自分が何者かも分からないまま、自分の名を叫び襲いかかってくる者たちと戦うことに…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 森川智之
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 矢島晶子
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
   name: 小山茉美
   type: cast
 - !ruby/hash:TagHash
+  name: 矢島晶子
+  type: cast
+- !ruby/hash:TagHash
   name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
-  name: チョー
+  name: 皆口裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 皆口裕子
+  name: チョー
   type: cast
 - !ruby/hash:TagHash
   name: 宮原永海

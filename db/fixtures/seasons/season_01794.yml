@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/45/7/10457_1_6.png?1
 outline: 魔界から何らかの理由で人間界へとやって来た“魔法使いのゆうま”“ヴァンパイアのパキラ”“狼少女のりる”“人造人間の鉄子(アイコ)”たち4人のプリンセス。巨木に鳥小屋のように造られた『がらくたはうす』に住み着くことになって早一週間。不慣れな生活のせいで、りるがハンターに銀の弾で撃たれそうになっちゃったり、パキラが灰になっちゃったり、鉄子がウィルスに感染しちゃったり、ゆうまがおっぱいポロリしちゃったりと、ドタバタ大変だったのが前回までのお話。さて、今回のお話は…?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
@@ -23,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：八谷賢一
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：平田雄三
+  type: staff
+- !ruby/hash:TagHash
   name: 脚本：井出安軌
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：REMIC
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：平田雄三
   type: staff
 - !ruby/hash:TagHash
   name: 原作：がらくたはうす

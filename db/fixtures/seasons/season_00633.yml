@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/03/7/20037_1_6.png?1
 outline: 東博士が開発した公害処理用のロボットが落雷の影響で自我に目覚めた。アンドロイド・BK-1は自らをブライキング・ボスと名乗り、人類に宣戦を布告。戦闘ロボットの「アンドロ軍団」を組織し、ブライキング・ボスは全世界へと攻撃を開始した。東博士の息子・鉄也は、父の汚名を晴らすべく、人間と融合する「新造人間」へと生まれ変わった。キャシャーンと名を変えた鉄也は、ロボット犬のフレンダー、幼馴染のルナと共に、人類の平和を取り戻すためアンドロ軍団へと戦いを挑む。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/9/10389_1_6.png?1
 outline: "｢A.D.ポリス｣の番外編にあたるOVAシリーズを劇場用に再構成。西暦2034年、｢亜人｣ブーマと人間とが共生する東京。その一方で、ブーマを売春や破壊活動の道具として使う犯罪も急増。その事件を解決するためにADポリスは特殊任務組織＂ブランチ＂を構成。ブランチの活躍を3話オムニバス構成で描く。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 古川登志夫
   type: cast
 - !ruby/hash:TagHash
-  name: 池田勝
+  name: 岡村明美
   type: cast
 - !ruby/hash:TagHash
-  name: 岡村明美
+  name: 池田勝
   type: cast
 - !ruby/hash:TagHash
   name: 内田聡明

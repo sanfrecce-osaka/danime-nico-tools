@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/2/10332_1_6.png?1
 outline: 世界中の紛争の火種を秘密裏に消して回る軍事組織、ミスリル。特殊な｢力｣を持つ女子高生・千鳥かなめを各国諜報機関から守るために彼らが派遣したボディーガード・相良宗介は、戦争ボケの危険な男だった!今、かなめに隠された壮大な秘密をめぐり、正義とボケ、涙と笑い、そして愛と感動の大変迷惑な戦いが始まった!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -38,13 +47,13 @@ tags: !ruby/array:Hashie::Array
   name: 平松晶子
   type: cast
 - !ruby/hash:TagHash
-  name: 西村知道
+  name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：京都アニメーション
+  name: 音楽：佐橋俊彦
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：佐橋俊彦
+  name: アニメーション制作：京都アニメーション
   type: staff
 - !ruby/hash:TagHash
   name: 音楽制作：ポニーキャニオン

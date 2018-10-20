@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/88/6/20886_1_6.png?1
 outline: "《ハンドレッド》―それは地球を襲う謎の生命体《サベージ》に対抗できる唯一の武器。《武芸者(スレイヤー)》を目指すため、海上学園都市艦《リトルガーデン》に入学を果たす。だが―なぜか自分のことをよく知るルームメイト、エミール・クロスフォードに、どこか懐かしい違和感を覚えるハヤト。さらに入学早々、学園最強の武芸者《女王》クレア・ハーヴェイから決闘を申し込まれてしまい……！？箕崎准×大熊猫介(ニトロプラス)がタッグを組んだ、《究極》の学園バトルアクション、ここに開幕！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 今村彩夏
   type: cast
 - !ruby/hash:TagHash
-  name: 長谷川芳明
+  name: 衣川里佳
   type: cast
 - !ruby/hash:TagHash
-  name: 衣川里佳
+  name: 長谷川芳明
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：プロダクションアイムズ

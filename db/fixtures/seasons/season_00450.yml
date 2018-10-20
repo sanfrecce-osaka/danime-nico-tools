@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/26/2/11262_1_6.png?1
 outline: 突如として地球に現れた謎の生命体《ペンギン帝国》と対ペンギン専門の秘密組織《美容室プリンス》の戦いが続く中、《美容室プリンス》は《ペンギン帝国》が操る巨大ロボ《ペンギンロボ》に対抗するために開発した対ペンギンの最終決戦兵器《ダイミダラー》のパイロットを探していた。女性が持つ豊かな双丘に夢中な熱血男子高校生・真玉橋孝一は、その身に宿す未知のエネルギー《Hi-ERo粒子》の因子保有者(ファクター)であるが故に、《ダイミダラー》のパイロットに選ばれるのだが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -29,16 +38,16 @@ tags: !ruby/array:Hashie::Array
   name: 大橋彩香
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤健太郎
-  type: cast
-- !ruby/hash:TagHash
   name: 木戸衣吹
   type: cast
 - !ruby/hash:TagHash
-  name: 石上静香
+  name: 伊藤健太郎
   type: cast
 - !ruby/hash:TagHash
   name: 村田太志
+  type: cast
+- !ruby/hash:TagHash
+  name: 石上静香
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：中西亮輔

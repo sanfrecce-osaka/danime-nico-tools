@@ -5,6 +5,51 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/6/11106_1_6.png?1
 outline: 舞台は2030年頃、日本の首都・超東驚(ちょうとうきょう)。人間は｢バディファイト｣を通じ、｢親近界｣と呼ばれる異世界の住人たちと交流を始めていた。バディファイトとは、選ばれた人間｢バディファイター｣が、異世界の住人(バディモンスター)と相棒となり繰り広げるゲームである。その戦いは、時に国の命運を左右することもあるほど重要で、バディモンスターの力を悪用するものも現れていた。相棒学園初等部6年、未門牙王(みかどがおう)。彼もバディファイトに憧れ、いつかモンスターを相棒にしたいと願っていた。ある日、不良に絡まれている少年を見かけた牙王は、正義感から得意の合気柔術で少年を助け出す。そんな牙王の活躍を遠く異世界から眺めていたモンスターがいた。ドラゴンワールドの英雄の息子、｢ドラムバンカー・ドラゴン｣だ。ドラムは常識破りな牙王を気に入り、バディ(相棒)として契約する。バディモンスターに選ばれた主人公がバディファイトを通じ、相棒や仲間との絆を深め、ともに成長していくストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋美佳子
+  type: cast
+- !ruby/hash:TagHash
+  name: 三宅健太
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳井青空
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
   name: アニメーション制作：XEBEC
   type: staff
 - !ruby/hash:TagHash
@@ -12,6 +57,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：都田和志
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ブシロード
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：葉山拓亮
@@ -30,6 +78,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
   name: 小学館

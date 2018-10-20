@@ -6,6 +6,12 @@ outline: 隠し事が出来ないことから『穴の開いたザル』、通�
   朝陽は本当に秘密を守りきれるのか!?“ちょいアホ人外ヒロインラブコメ”の明日はどっちだ!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash

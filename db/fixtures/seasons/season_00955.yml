@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/81/5/21815_1_6.png?1
 outline: "「諏訪原市」に暮らす、ごく普通の学生藤井蓮は親友の遊佐司狼と殴り合いの決闘を起こし、決別。それでも幼馴染の綾瀬香純や先輩の氷室玲愛と共に元の学園生活にも戻りつつあった。しかし、彼らの住む諏訪原市では人が首を斬り落とされて殺されるという無差別連続通り魔事件が起こり始める。奇妙なことに蓮はその頃から、自分が断頭台で首を刎ねられるという恐ろしい悪夢にうなされ始めていた。だがそれは彼にとって恐怖と苦悶に満ちた戦いの物語の前触れでしかなかった。裏返る日常。暗躍する闇の超人達。街は戦場へ変わり、常識を超えた不条理が蓮を襲う。戦わなければ生き残れない現実の前に、彼は平凡な生活を取り戻せるのか―"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 谷山紀章

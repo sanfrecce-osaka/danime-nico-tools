@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/28/0/21280_1_6.png?1
 outline: 舞台は勇者を育てるクヌギガオカ魔法学校。何らかのバグを抱えている生徒が集まる落ちこぼれクラス「3年E組」の担任はなんと魔王だった！？バグによって異常なすばやさを身につけ、なかなか攻撃を当てることができない魔王「殺せんせー」を倒すべく、生徒たちは「赤い悪魔」と言われる天才魔法剣士・赤羽業をクラスに引き入れようと画策するが・・・？武器は剣と魔法！殺せんせーと生徒達の新たな冒険が今、はじまる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -29,16 +35,16 @@ tags: !ruby/array:Hashie::Array
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 浅沼晋太郎
+  name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 沼倉愛美
+  name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash
   name: 矢作紗友里
   type: cast
 - !ruby/hash:TagHash
-  name: 藤田咲
+  name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
   name: 監督：岸誠二

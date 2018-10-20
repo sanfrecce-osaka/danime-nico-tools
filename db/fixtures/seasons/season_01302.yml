@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/29/9/21299_1_6.png?1
 outline: すこし未来。ヴィンスとハナはカンブリア・プロジェクトの調査員としてテスター・ピカイアとともに、地球再生の鍵：ロスト・コードを求めて、恐竜がいた時代よりもずっと昔、5億年以上も前のカンブリア紀の海へ次元調査に向かった！襲い来るアノマロカリス！カンブリア・モンスターが続々登場！最新テクノロジー・バイオミメティクスで立ち向かえ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/40/7/22407_1_6.png?1
 outline: 2013年7月、「月刊マガジンビーボーイ」にて連載を開始した、桜日梯子による『抱かれたい男1位に脅されています。』。5年連続で”抱かれたい男1位”だったベテラン俳優・西條高人と、その座を奪った新人俳優・東谷准太。芸能界を舞台に繰り広げられる”抱かれたい男”ツートップ同士の禁断のスキャンダルをセンセーショナルに描く本作は、遂にシリーズ累計発行部数200万部を突破。そんないま最も人気を集めるボーイズ・ラブコミックが、ファン待望のTVアニメ化。2018年、最大のスキャンダルが幕をあける――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash

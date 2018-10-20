@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/95/8/10958_1_6.png?1
 outline: コス∞プレイヤーとは、コスモポリタン・プレイヤーズの略称であり、ISO(国際シャーマン連盟)に所属しているシャーマンである。中でも彼女たちは“巫力”(ミリョク)で変身(チャームアップ)して魔を払うエキスパートなので、“祈闘師”(PRAYER)と呼ばれている。出雲で封印されていた邪神の復活の波動を感じたコス∞プレイヤーたちは、彼女たちのリーダー・神官クルスと共に日本に集結。協力して封印儀式を行うはずだったが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
@@ -53,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: 天花寺伸宏
   type: other
 - !ruby/hash:TagHash
-  name: スタジオライブ
+  name: m.o.e.
   type: other
 - !ruby/hash:TagHash
-  name: m.o.e.
+  name: スタジオライブ
   type: other
 - !ruby/hash:TagHash
   name: IMAGIN

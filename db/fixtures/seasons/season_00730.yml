@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/8/10018_1_6.png?1
 outline: 神坂一の小説を原作にした人気アニメシリーズのOVA版第2作。リナとナーガが行く先々で大騒動を巻き起こすファンタジー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：わたなべひろし
+  name: 原作：神坂一
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：神坂一
+  name: 監督：わたなべひろし
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：服部隆之

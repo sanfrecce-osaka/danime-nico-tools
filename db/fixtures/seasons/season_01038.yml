@@ -5,7 +5,40 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/56/0/10560_1_6.png?1
 outline: 小惑星帯で巨大なパワーを持つ｢オールスパーク｣を発見したオプティマスプライム達はメガトロンに襲われ、ある惑星に不時着する。50年後、コールドスリープから目覚めたオプティマスプライムは人間のサリと友人になる。今、オートボットとディセプティコンとの新たなる戦いの幕が開く!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 遊佐浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 三宅健太
+  type: cast
+- !ruby/hash:TagHash
+  name: 大川透
+  type: cast
+- !ruby/hash:TagHash
+  name: 岸尾だいすけ
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋広樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野ひろゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 新井優歌
+  type: cast
+- !ruby/hash:TagHash
+  name: 押田恵
+  type: cast
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

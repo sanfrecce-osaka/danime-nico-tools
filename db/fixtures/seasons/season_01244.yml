@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/4/10784_1_6.png?1
 outline: 人気シリーズの4度目の映像化にあたるTVアニメ。2023年東京、治安は悪化の一途をたどっていた。事態を重く見た政府は、特殊犯罪対策としての超法規の警官隊を組織することを決定。市民の要望に素早く応え、迅速に事件を解決する少数精鋭の警官隊。それが特殊犯罪チーム“ウォーリアーズ”である…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 田中理恵

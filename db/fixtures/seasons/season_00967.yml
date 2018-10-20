@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/62/4/20624_1_6.png?1
 outline: 夏休みに沖縄の従兄弟の家に遊びに行ったタカト。最初は乗り気じゃなかったが、豊かな自然に触れるうちに、次第に打ち解けていく。しかし、そんな平和な夏休みに不気味な影が…。東京のルキの前に凶悪デジモンたちが現れ、沖縄にもサメ型デジモンが出現する。そのサメ型デジモンに追われていた少女・美波を助けたことで、タカトは大人気のデジタルペット・Vペットを巡る陰謀に巻き込まれていく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三石琴乃
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 小杉十郎太
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
   name: 金田朋子
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 津村まこと
   type: cast
 - !ruby/hash:TagHash
-  name: 山口眞弓
+  name: 永野愛
   type: cast
 - !ruby/hash:TagHash
-  name: 永野愛
+  name: 山口眞弓
   type: cast
 - !ruby/hash:TagHash
   name: サエキトモ
@@ -51,6 +57,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2001年

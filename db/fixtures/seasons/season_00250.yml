@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/16/8/21168_1_6.png?1
 outline: 神奈川高校、入学式当日。体格は小さいが負けん気は人一倍の初心者・祇園(ぎおん)がラグビー部に入部し、物語は動き出す。過去のある出来事からラグビーに打ち込めない同級生・石清水(いわしみず)、面倒見がよく部員を気遣う副キャプテン・八王子(はちおうじ)、そして、圧倒的迫力と誰よりも熱い闘志を胸に秘めたキャプテン・赤山(せきざん)。体格も個性もバラバラなメンバーが、青春というグラウンドでぶつかり合いながら成長して行く。すべて出し切った先にある、最高の舞台を目指して―！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 小野賢章
   type: cast
 - !ruby/hash:TagHash
-  name: 土師孝也
+  name: 村田太志
   type: cast
 - !ruby/hash:TagHash
-  name: 村田太志
+  name: 土師孝也
   type: cast
 - !ruby/hash:TagHash
   name: 安達勇人
@@ -65,10 +68,10 @@ tags: !ruby/array:Hashie::Array
   name: 実写化・舞台化
   type: other
 - !ruby/hash:TagHash
-  name: 神南スタジオ
+  name: 木村佳史子
   type: other
 - !ruby/hash:TagHash
-  name: 木村佳史子
+  name: 神南スタジオ
   type: other
 - !ruby/hash:TagHash
   name: 小泉紀介

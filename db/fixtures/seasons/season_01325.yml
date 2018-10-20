@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/9/10929_1_6.png?1
 outline: 注目のオリジナルTVアニメ始動！『コードギアス』の谷口悟朗(クリエイティブプロデューサー)のストーリーと『そらのおとしもの』の斎藤久(監督)の繊細な映像演出、パワフルなクリエイターたちが最強タッグを組んだ。カードの中から飛び出す華麗な“ファンタジスタドール”と契約した主人公・うずめはカードマスターとなり、知恵と工夫で個性あふれる5人のドールたちをまとめ、バトルに挑む。多感な14歳の少女の懸命さが、鮮烈なアクションとハートフルな描写を交えて丹念に描かれる。互いに認めあう経験を通じて、うずめとドールたちの“絆と希望の物語”が、いま始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 津田美波
   type: cast
 - !ruby/hash:TagHash

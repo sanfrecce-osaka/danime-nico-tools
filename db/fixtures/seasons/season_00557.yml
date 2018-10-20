@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/68/4/10684_1_6.png?1
 outline: 優等生の村雨純夏は中学からの友人、風間汐に想いを伝えられず、悶々としていた。そんな二人のまわりには、食欲旺盛なブラスバンド部員・鳥追きより、少女ファッション誌読者モデルの朱宮正樹、蓮賀朋絵と当麻みやこの仲良しカップルなど、個性豊かな面々が集まっていく。ある日｢放課後を女の子だけで楽しく過ごす部を作ろう｣という話になって…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash

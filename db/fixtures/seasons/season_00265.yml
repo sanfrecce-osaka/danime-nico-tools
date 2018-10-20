@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/47/0/10470_1_6.png?1
 outline: "｢三次元に興味はないよ｣と言い切り、基地(ベース)と呼んでいるコンテナハウスで大量の美少女フィギュアに囲まれながら生活する、引きこもり一歩手前の高校2年生、西條拓巳。彼が住む渋谷では、『ニュージェネレーションの狂気(通称:ニュージェネ)』と呼ばれる不可解な連続殺人事件が発生し、ネットやテレビを日々騒がせていた。ある日、いつものようにチャットをしている拓巳の前に、『将軍』と名乗る人物が現れる。彼が発言したURLのリンク先にあったものは次のニュージェネ事件を予言するようなグロ画像だった。拓巳の平穏な日々に事件の影が忍び寄っていた──。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

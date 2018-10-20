@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/11/6/11116_1_6.png?1
 outline: 両親再婚でいきなり兄ができた高校生“神前美月”は新しい家族とどう向合ってけばよいか悩んでいた。その上、 義理父親の単身赴任に母がついて行ってしまうことで“兄”夕哉と二人っきりになることに・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash

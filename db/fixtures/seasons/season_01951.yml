@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/37/7/22377_1_6.png?1
 outline: "「宇宙戦艦ヤマト2199」の完全新作の劇場版。西暦2199年。イスカンダルで〈コスモリバースシステム〉を受領したヤマトは、大マゼラン銀河を後にしようとしていた。だが突如、戦闘民族〈ガトランティス〉と遭遇。指揮官の「雷鳴のゴラン・ダガーム」は艦の引き渡しを要求し、ヤマトに最新兵器〈火焔直撃砲〉を放つ。間一髪、ワープで追撃を振り切ったものの、薄鈍色の異空間へと迷い込んでしまったヤマトは、まるで意志を持ったように舵を切ると、謎の惑星へと誘われていく。惑星へ情報収集に降下した古代たちが見たものは…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 東地宏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 藤田咲
+  name: 大塚芳忠
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚芳忠
+  name: 藤田咲
   type: cast
 - !ruby/hash:TagHash
   name: 江原正士

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/15/0/21150_1_6.png?1
 outline: 宝島でのブブキ使いたちとの戦いを潜り抜け、島の落下による未曽有の大被害をブランキ“王舞”で防いだ東たち。戦いを繰り広げながらも共に島の落下を防いだ万流礼央子、そして四天王の生死は？海外ブブキ使いたちと、裏で暗躍する東の双子の妹・薫子の目的は？そして汀の行方は…？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
-  name: 石上静香
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 石上静香
   type: cast
 - !ruby/hash:TagHash
   name: 木村昴

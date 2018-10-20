@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/1/10011_1_6.png?1
 outline: 進級テストの成績で厳しくクラス分けされる先進的な進学校｢文月学園｣。秀才が集まる設備も整ったAクラスに対して、最底辺のFクラスの設備はボロい卓袱台や腐った畳だけ。そんなFクラスの生徒である吉井明久は、訳あって同じクラスとなった健気な才女・姫路瑞希のため、学園が開発したシステムを使ったクラス争奪バトル｢試験召喚戦争｣に挑戦する。果たして、Fクラスは上位の強豪クラスに勝利することができるのだろうか--
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 宮田幸季

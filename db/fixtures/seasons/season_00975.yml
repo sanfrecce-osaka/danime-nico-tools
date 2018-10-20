@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/12/9/10129_1_6.png?1
 outline: 東京の異変から10年後―――疎開先の中学校に通う五十嵐丸太(ガンタ)は、クラスメイト達と平凡な毎日を送っていた。だがある日、学校に｢赤い男｣が現われ、ガンタの運命は一変。無実の罪で“死刑”を宣告されたガンタは、日本唯一の完全民営化刑務所｢デッドマン・ワンダーランド｣に収監されてしまう。｢赤い男｣への復讐を胸に、監獄での過酷な生活を送るガンタは、そこで、幼なじみの少女・シロと再会する。やがて、自らの特殊能力に気付いたガンタは、｢デッドマン｣と呼ばれる能力者同士のバトルに身を投じることになるが…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

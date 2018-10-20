@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/03/9/11039_1_6.png?1
 outline: NHK-BS2の「衛星アニメ劇場」枠で1998年4月8日から10月14日まで放送（全26話）。女子高校に新設された硬式野球部の9人が甲子園を目指す物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -20,22 +26,22 @@ tags: !ruby/array:Hashie::Array
   name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
+  name: 龍田直樹
+  type: cast
+- !ruby/hash:TagHash
   name: 島本須美
   type: cast
 - !ruby/hash:TagHash
-  name: 飯塚雅弓
+  name: 石井康嗣
   type: cast
 - !ruby/hash:TagHash
-  name: 石井康嗣
+  name: 飯塚雅弓
   type: cast
 - !ruby/hash:TagHash
   name: 氷上恭子
   type: cast
 - !ruby/hash:TagHash
   name: 長沢美樹
-  type: cast
-- !ruby/hash:TagHash
-  name: 龍田直樹
   type: cast
 - !ruby/hash:TagHash
   name: 笠原留美

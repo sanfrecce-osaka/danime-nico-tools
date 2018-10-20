@@ -6,6 +6,12 @@ outline: "｢遥か昔、正義に生きる悪魔の伝説があった。剣を�
   !幾度となく人類を悪魔の脅威から守ってきた彼は<Devil May Cry>という悪魔退治を請け負う便利屋を開業していた。舞い込んでくるのは決まって、一癖も二癖もある依頼や来訪者ばかり。しかし、愛用の二丁拳銃エボニー&アイボリーと魔剣リベリオンで次々と解決してゆく。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/87/9/20879_1_6.png?1
 outline: 舞台は、埋立地に作られた街・洲籠市。かつては未来型都市として栄えたこの街に住む高校生・阿形勝平は、なぜか痛みを感じない不思議な身体を持っていた。夏休み目前となったある日、勝平は謎の少女・園崎法子の手引きにより、痛みを共有する仲間｢キズナイーバー｣の一人に選ばれてしまう。そして、同様に｢キズナイーバー｣として繋がれたクラスメイトたち。しかし、彼らは本来なら仲良くなることのない別々のグループに属していた。園崎は言う。｢これは、争いに満ちた世界を平和に導くための実験なのです。｣その言葉とともに数々の試練が彼らに降りかかる。互いの傷を背負うことになった、少年少女たちのひと夏の物語がここから始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 西山宏太朗
   type: cast
 - !ruby/hash:TagHash
-  name: 山村響
+  name: 寺崎裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 寺崎裕香
+  name: 山村響
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：林ゆうき

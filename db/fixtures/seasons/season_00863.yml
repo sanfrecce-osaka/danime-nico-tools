@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/0/10190_1_6.png?1
 outline: 魔法の国から地上の学校に転校してきた田中ぷにえちゃんは、魔法よりも関節技が得意なとってもおちゃめなお姫様。もちろん目指すは天下布武。歯向かう相手は｢肉体言語｣(サブミッション)でおしおきよ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

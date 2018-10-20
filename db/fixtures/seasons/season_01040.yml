@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/11/3/20113_1_6.png?1
 outline: 法で裁けぬこの世の悪を悪性腫瘍として選択＜トリアージ＞し、闇に葬る秘密組があった――。その名も「ブラックラベル」。主人公・三神嵐は、そのメンバーとして巨悪に立ち向かう。この物語は、高校生にして処刑人である少年の、選択と覚悟と闘いの記録である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
@@ -23,16 +26,16 @@ tags: !ruby/array:Hashie::Array
   name: 野水伊織
   type: cast
 - !ruby/hash:TagHash
-  name: 黒田崇矢
-  type: cast
-- !ruby/hash:TagHash
   name: 赤羽根健治
   type: cast
 - !ruby/hash:TagHash
-  name: 橘田いずみ
+  name: 黒田崇矢
   type: cast
 - !ruby/hash:TagHash
   name: 山本和臣
+  type: cast
+- !ruby/hash:TagHash
+  name: 橘田いずみ
   type: cast
 - !ruby/hash:TagHash
   name: 星野貴紀

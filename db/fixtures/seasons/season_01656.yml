@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/2/11512_1_6.png?1
 outline: 結城友奈（ゆうきゆうな）は朝起きて、支度して、学校へ行き、授業を受けて、部活して、友達と遊んで…。そんな普通の日常を過ごしている中学２年生。あえて特殊な点をあげるなら、彼女の所属する部活は「勇者部」。その活動内容とは？不思議な存在、バーテックスとは？神世紀３００年、少女たちの物語―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
@@ -29,16 +38,16 @@ tags: !ruby/array:Hashie::Array
   name: 原作：タカヒロ
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：岡部啓一
-  type: staff
-- !ruby/hash:TagHash
-  name: 原作：Project 2H
-  type: staff
-- !ruby/hash:TagHash
   name: キャラクターデザイン：BUNBUN
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：酒井孝裕
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：岡部啓一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Project 2H
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

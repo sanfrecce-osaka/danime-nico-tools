@@ -7,6 +7,12 @@ outline: 塚本天満（つかもと てんま）は高校2年生。多くの女
   けんじ）、高校2年（ちなみに不良）。なのに！それなのに！キモチはま～ったく伝わらず、一人落ち込む毎日・・・。そのうえ天満＆烏丸のランチ現場を目撃！哀れ播磨は登校拒否＆放浪の旅に出てしまうのだった・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -19,16 +25,16 @@ tags: !ruby/array:Hashie::Array
   name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
-  type: cast
-- !ruby/hash:TagHash
   name: 高橋広樹
   type: cast
 - !ruby/hash:TagHash
-  name: 南里侑香
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 福井裕佳梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 南里侑香
   type: cast
 - !ruby/hash:TagHash
   name: 小西大樹

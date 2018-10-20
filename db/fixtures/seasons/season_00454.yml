@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/35/3/21353_1_6.png?1
 outline: 仕事が無い奪還屋、美堂蛮と天野銀次は東京新宿にある喫茶店｢HONKY TONK｣で、今日も仲介屋ヘヴンから、｢HONKY TONK｣での飲み食いしたツケを払うべく報酬のいい仕事にありつこうとしていた。目があったら、相手に一分間夢を見させることができる美堂蛮。かつて、無限城といわれる場所でVOLTSリーダーだった天野銀次。彼には、四天王といわれる仲間がいたが、ある理由よりVOLTSをでて、美堂蛮と奪還屋を営業する。蛮と銀次はヘヴンからもらったやや強引な仕事を解決しながら、同業者｢運び屋｣卑弥呼、赤屍らと対決する。一方、無限城では新たにMAKUBEXがリーダーとなった今、新たな変革が訪れ始めていた・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

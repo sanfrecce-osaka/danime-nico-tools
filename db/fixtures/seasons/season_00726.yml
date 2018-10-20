@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/6/10016_1_6.png?1
 outline: とある村の、とある宿屋。今日も無敵の魔道士2人組、リナとナーガが食い物を巡って戦いを繰り広げていた。ガレキの山と化す宿屋。そんな2人の前に立ち尽くす1人の少女がいた。少女の名はサリーナ。10日前、レッサーデーモンを率いた一団が彼女の村・ビアズを襲い、支配してしまったのだ。彼らは村人に何かを発掘作業させているらしい・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：わたなべひろし
+  name: 原作：神坂一
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：神坂一
+  name: 監督：わたなべひろし
   type: staff
 - !ruby/hash:TagHash
   name: 監督：湯山邦彦

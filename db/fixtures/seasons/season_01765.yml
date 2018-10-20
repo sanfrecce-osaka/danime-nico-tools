@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/76/2/21762_1_6.png?1
 outline: モスクワのカジノの金を奪い、久々の仕事で肩慣らしをしたルパンはスコットランドへ向かう。目的は亡くなったマークが盗んだトリックダイヤ。トリックダイヤとはサグラダファミリアの最上部に埋め込まれているダイヤ。ただし、これを手に入れるには、マークがあちこちから盗んできたお宝を、期日内にもとの場所に返さなくてならない。はたしてルパンはトリックダイヤを手に入れられるのか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 山寺宏一
   type: cast
 - !ruby/hash:TagHash
   name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
   name: 増山江威子
@@ -18,9 +27,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 井上真樹夫
-  type: cast
-- !ruby/hash:TagHash
-  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
   name: 栗田貫一

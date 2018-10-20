@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/6/21526_1_6.png?1
 outline: ある日突然、男子高校生・藍野青司のもとに任意の二人を強制的にキスさせるという不思議アイテム「キスノート」を持った死神風の少女・グリが現れ、“24時間以内にキスしないと書いた者（グリ）は死に、書かれた者（青司）も一生童貞のまま生涯を終える”と告げ・・・。愛のキューピット(？)グリと青司とその仲間たちが“キスをする相手”を求めて繰り広げるハイテンションラブコメディにあなたもきっと恋がしたくなるはず(!?)。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：EMTスクエアード
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：濁川敦
+  name: キャラクターデザイン：いとうまりこ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：いとうまりこ
+  name: 監督：濁川敦
   type: staff
 - !ruby/hash:TagHash
   name: 原作：三星めがね

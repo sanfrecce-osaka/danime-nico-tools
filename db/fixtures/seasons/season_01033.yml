@@ -5,7 +5,61 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/49/1/11491_1_6.png?1
 outline: 闇の総統デビルZに支配されたデストロンが人間に秘められた未知の超魂パワーを巡り、地球を狙って行動を開始した。地球人に変身する能力を得たサイバトロンプリテンダーたちは地球人の少年少女たちをヘッドマスターJr.に任命し、デストロンを迎え撃つ。そして、協力してデストロンプリテンダーやデストロンヘッドマスターJr.と対決する。サイバトロン有利に戦況が進むが、デストロンはゴッドマスターを投入し、その圧倒的な力にサイバトロンの戦士たちは苦戦する。サイバトロンは、各地を捜索して世界に散らばるゴッドマスターを見つけ出し味方に引き入れる。そしてサイバトロンのゴッドマスターに選ばれた青年ジンライは、スーパージンライを経てサポートロボのゴッドボンバーと合体、ゴッドマスター総司令官ゴッドジンライへパワーアップした!仲間のゴッドマスターと共に、悪に関与するデストロンのゴッドマスター達と死闘を繰り広げるのだ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 森功至
+  type: cast
+- !ruby/hash:TagHash
+  name: 郷里大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤正治
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本百合子
+  type: cast
+- !ruby/hash:TagHash
+  name: 江森浩子
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩屋浩三
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中亮一
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩屋翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田理保子
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸谷公次
+  type: cast
+- !ruby/hash:TagHash
+  name: 難波圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：まがみばん
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：石田勝範
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：金田益美
+  type: staff
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

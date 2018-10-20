@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/52/6/20526_1_6.png?1
 outline: 春――それは新たな出会いと思わぬ再会、そしてミステリアスな旋律と共に幕を開ける。高校への進学を機に、吹奏楽を始めることを決意した穂村千夏(チカ)。目指すは華麗で乙女なキュートガール。音楽講師・草壁と出会い、憧れを募らせるチカだったが、幼なじみの上条春太(ハルタ)との再会に廃部寸前の吹奏楽部と、チカの青春は思いもよらない方向へ……。部員集めに翻弄する日々と、仲間たちと交わす友情、そして次々に現れる謎(ミステリ)。チカとハルタの奏でる音楽がいま、高らかに鳴り響く！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：ランティス
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：P.A.WORKS
+  name: 音楽：浜口史郎
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：浜口史郎
+  name: アニメーション制作：P.A.WORKS
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：西田亜沙子

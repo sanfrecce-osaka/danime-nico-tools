@@ -6,6 +6,15 @@ outline: 妖(あやかし)を目に映すことができたため人間に疎ま
   感涙のあやかし譚。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -24,10 +33,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
-  name: 藤村歩
+  name: 伊藤美紀
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤美紀
+  name: 藤村歩
   type: cast
 - !ruby/hash:TagHash
   name: 菅沼久義
@@ -39,10 +48,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ブレインズ・ベース
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: 監督：大森貴弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大森貴弘
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: 原作：緑川ゆき

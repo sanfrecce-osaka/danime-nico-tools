@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/18/0/10180_1_6.png?1
 outline: ミキオは大阪郊外のニュータウンに住む、平凡な小学5年生。同じクラスのハルコのことが気になっているが、見つめるだけでせいいっぱい、声すらかけられずにいた。そんなある日、相棒のメガネ君からハルコが遠くの町へ引っ越してしまうことを聞く。いてもたってもいられないのに、どうすることもできずに悩むミキオ・・・。するとその前に、おばけのキュピオが現れた!!はたして、ミキオの想いはハルコに伝えられるのか?!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 吉岡茉祐
   type: cast
 - !ruby/hash:TagHash

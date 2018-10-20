@@ -6,6 +6,12 @@ outline: 2013年にファーストシーズン、2014年にはセカンドシー
   おもいでプレゼント』ストーリー「天覧山に、高尾山、三ツ峠！」これまで登ったいろいろな山と、おもいでが詰まった写真を見ていたあおいとひなた。ふと、あおいの部屋にあった宝箱を開けてしまったひなたは、手作りで不格好のアクセサリーを見つける。それをきっかけにひなたは、あおいと一緒に過ごした、幼いある日のことに思いを馳せる――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

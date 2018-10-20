@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/21/8/10218_1_6.png?1
 outline: 玩具業界の中堅企業(株)ポプーのガールズトイ事業部へアルバイトとして配属されたゆとりちゃん。彼女の｢解らないことがないよう教えてくれるのが先輩の仕事ですよね｣等のマイペースな言動に先輩アルバイトのつめこみちゃんはげんなり。なんとかゆとりちゃんと仲良くなろうと頑張るつめこみちゃんだが、その自分の常識では当てはまらないゆとりちゃんの行動に、正社員のだんかいさんの励ましもむなしく途方に暮れてしまう。そんなつめこみちゃんの前に突然、笑顔のゆとりちゃんが現れて・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
-  name: 野中藍
+  name: 藤村歩
   type: cast
 - !ruby/hash:TagHash
-  name: 藤村歩
+  name: 野中藍
   type: cast
 - !ruby/hash:TagHash
   name: 矢部雅史

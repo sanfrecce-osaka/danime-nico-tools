@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/64/4/10644_1_6.png?1
 outline: 22歳、ニート。坂本竜太は、世界的に流行しているネットゲーム[BTOOOM!]に没頭し、世界ランカーとしてゲーム世界を謳歌していた。しかしある日目覚めると、そこは絶海の孤島。左手には緑色のチップが埋め込まれ、カバンの中にはBIMと呼ばれる爆弾。直前の記憶を失い戸惑う坂本に襲いかかる、見知らぬ他人。｢この爆弾で殺し合いをしろっていうのか?リアルで[BTOOOM!]をやれってことか!?｣爆殺遊戯の幕が上がる――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/59/8/11598_1_6.png?1
 outline: 世は戦国時代。日本（ひのもと）は混乱の時代に陥り、各地で激しい勢力争いが行われている中、どこまでも共に戦い抜こうと誓った兄弟がいた――。天下統一を目前にした豊臣秀吉が残すは、“相模の獅子”北条氏康の守る小田原城のみ。前線に位置する、秀吉子飼いの将、石田三成、加藤清正、福島正則や、大谷吉継、島左近、直江兼続らの陣の中に、真田家の若き武士（もののふ）、信之、幸村の兄弟の姿があった。膠着状態を打破しようと、単騎で飛び出した幸村。兄・信之もその後を追う――乱世の運命に翻弄される、真田兄弟の熱く切ない物語が幕を開ける！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -17,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤聡美
-  type: cast
-- !ruby/hash:TagHash
-  name: 日野聡
   type: cast
 - !ruby/hash:TagHash
   name: 草尾毅

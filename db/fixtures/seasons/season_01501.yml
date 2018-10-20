@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/25/6/20256_1_6.png?1
 outline: 20世紀の中ごろ、ギリシャにある小さなシミトラ村にポルフィとミーナという兄妹が暮らしていた。父親がアテネへ出稼ぎに出て留守をしている間、二人は母親のアネークを助け、親友の少年ザイミスや友達になったフクロウのアポロとともに、貧しくささやかだが平和な日々を送っていた。ポルフィには、父子で力を合わせて工場を盛り立て、いつか立派なガソリンスタンドを作る夢が、ギリシャ神話や歌が大好きなミーナは、家族で見た映画に惹かれ女優に憧れていた。そんなある日、村を突然の大きな地震が襲い、家族は離れ離れになってしまう…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 甲斐田ゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：MOKA☆
+  name: 監督：望月智充
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：望月智充
+  name: 音楽：MOKA☆
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：国井桂

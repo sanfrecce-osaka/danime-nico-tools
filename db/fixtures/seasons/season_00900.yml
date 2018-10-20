@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/13/6/10136_1_6.png?1
 outline: 宇宙からの侵略は突然始まった。宇宙軍士官学校の訓練生だった忍は,特別機甲部隊・獣戦機隊に配属。野獣の力を秘めたメカ・獣戦機に乗って侵略者であるムゲ・ゾルバドス帝国軍と戦うことになる。獣戦機隊のメンバーには同じく訓練生の沙羅,雅人,亮の3名が加わり,各地でゾルバドス軍を撃破してゆく。しかしゾルバドス軍には,沙羅の恋人であり,士官学校の教官でもあったジャピロが侵略軍の司令官として加わっていた。その天才的な頭脳を己の欲望のために振るうシャピロの指揮により,ゾルバドス軍は勢力を拡大。北米大陸はほぼ制圧されてしまう。やがて物量を駆使したシャピロの包囲作戦により獣戦機隊も砂漠で孤立。だが,絶体絶命かに思われたそのとき,獣戦機は新たな進化を遂げる。D・A・N・C・O・U・G・A―ダンクーガ―獣を超え,人を超えた神の戦士の誕生である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
-  name: 矢尾一樹
+  name: 池田勝
   type: cast
 - !ruby/hash:TagHash
-  name: 池田勝
+  name: 矢尾一樹
   type: cast
 - !ruby/hash:TagHash
   name: 中原茂

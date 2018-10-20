@@ -5,22 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/83/3/10833_1_6.png?1
 outline: 紛争地域でフリーのエージェントとして活躍するマドラックスと、何一つ不自由なく大都会で日常を過ごすマーガレット。住む世界も性格も全く違う二人の少女が、ふとしたことから同じ謎を追って旅立つことに。時と場所を超えて二人を結びつける、運命の暗合(シンクロニシティ);愛とは?家族とは?社会とは?人間とは?そして、二人を待ち受ける衝撃の事実とは?日常の奥に潜んだ狂気が解き放たれるとき、人は己の真の姿を垣間見る―
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 小林沙苗
-  type: cast
-- !ruby/hash:TagHash
   name: ゆきのさつき
   type: cast
 - !ruby/hash:TagHash
-  name: 金田朋子
+  name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
   name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
   name: 川島得愛

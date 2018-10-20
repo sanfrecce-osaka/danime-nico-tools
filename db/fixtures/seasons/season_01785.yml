@@ -6,6 +6,12 @@ outline: 憧れの国鉄に就職し運転手になることを夢見る高校�
   翔たちメンバーと、何故か班長代理になってしまった平凡な高山直人が立ち向かう事件は迷子探しから爆弾処理まで！？次々と巻き起こる事件の数々を警四の４人は解決できるのか？４人の高校生が紡ぎだす青春鉄道アクションがいよいよ出発進行！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

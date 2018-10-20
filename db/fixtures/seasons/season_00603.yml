@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/31/5/10315_1_6.png?1
 outline: 舞台は海に囲まれた都市国家。世界中から商人と冒険者が集う国。“世界の宝物庫”と呼ばれ、無限の可能性を秘めたこの町で、多くの人々が夢を抱き、今日も生きている。これは、ある冒険者と愉快な仲間たちによって繰り広げられる、ちょっと不思議な物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
-  name: 藤原啓治
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 水橋かおり
@@ -83,10 +89,10 @@ tags: !ruby/array:Hashie::Array
   name: えのもとたかひろ
   type: other
 - !ruby/hash:TagHash
-  name: ランティス
+  name: AIC
   type: other
 - !ruby/hash:TagHash
-  name: AIC
+  name: ランティス
   type: other
 - !ruby/hash:TagHash
   name: 今泉秀樹

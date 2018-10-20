@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/11/7/20117_1_6.png?1
 outline: 志望校が決まらず、怠惰な毎日を送る中学３年生の一宮エルナ。ある日、従兄である二宮シグレから私立ミカグラ学園のパンフレットを渡されたエルナは、そのパンフレットに写っていた女子生徒である御神楽星鎖の姿に目を奪われる。彼女に運命めいたものを感じ、ミカグラ学園への進学を決意するエルナ。しかし、文化系の部活しか存在しないという珍しい学園であるミカグラ学園にやってきたエルナが見たものは、必殺技を駆使して戦いを繰り広げる生徒たちの姿だった。不思議に無敵！決して色褪せることのない物語が今、幕を開ける！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
@@ -32,13 +41,13 @@ tags: !ruby/array:Hashie::Array
   name: 大西沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
-  type: cast
-- !ruby/hash:TagHash
   name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪彩花
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保ユリカ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：動画工房
@@ -50,13 +59,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：岩崎太郎
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：天﨑まなむ
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：Last Note.
   type: staff
 - !ruby/hash:TagHash
   name: 原作：明菜
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：天﨑まなむ
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

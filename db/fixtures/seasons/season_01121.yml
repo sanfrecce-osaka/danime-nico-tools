@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/4/21894_1_6.png?1
 outline: 猫のダヤンは、元々は地球（アルス）で暮らしており、雪の魔法で地球からわちふぃーるどにやってきました。ダヤンはたくさんの動物たちと友達になります。タシルの街外れの森番の小屋に住み、うさぎのマーシィやわにのイワン、猫のジタン、ねずみのウィリーといった仲間たちと、不思議な国での冒険を楽しむようになったのです。ダヤンは、地球にいた時の飼い主で友達のリーマちゃんを恋しく思うこともありましたが、わちふぃーるどでの新しい生活は、自由気ままで毎日が楽しくてなりません。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/18/6/21186_1_6.png?1
 outline: 日本中の期待を背負って挑んだグランプリファイナルで惨敗…　故郷九州に帰ることになったフィギュアスケーター勝生勇利。｢現役続行と引退はハーフ ハーフ…｣そんな気持ちで実家に引きこもっていた勇利のところに突然やってきたのは世界選手権5連覇のヴィクトル・ニキフォロフで…　日本の崖っぷちスケーター勝生勇利と、ロシアの下克上スケーターユーリ・プリセツキー。2人のユーリと、王者ヴィクトル・ニキフォロフで挑む前代未聞のグランプリシリーズが今、幕をあける！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -17,16 +23,19 @@ tags: !ruby/array:Hashie::Array
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 日野聡
+  name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
   name: 野島健児
@@ -35,10 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 内山昂輝
   type: cast
 - !ruby/hash:TagHash
-  name: 豊永利行
-  type: cast
-- !ruby/hash:TagHash
-  name: 小野賢章
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：MAPPA
@@ -62,7 +68,7 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 製作年：2016年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

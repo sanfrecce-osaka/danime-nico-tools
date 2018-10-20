@@ -7,6 +7,12 @@ outline: アリス・カータレット、16歳。金髪碧眼のイギリス少
   アリスに忍、凸凹コンビの小路綾＆猪熊陽子、もう一人の金髪イギリスっ子・九条カレンたち5人の絆は、今日もきんいろにきらめいています！日英美少女ゆるふわ学園コメディ第二弾、はじまるよ!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
@@ -16,16 +22,16 @@ tags: !ruby/array:Hashie::Array
   name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 潘めぐみ
-  type: cast
-- !ruby/hash:TagHash
   name: 種田梨沙
   type: cast
 - !ruby/hash:TagHash
-  name: 内山夕実
+  name: 大西沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 大西沙織
+  name: 潘めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
   type: cast
 - !ruby/hash:TagHash
   name: 村川梨衣

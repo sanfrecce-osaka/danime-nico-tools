@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/0/22100_1_6.png?1
 outline: 高校2年生の春、雨宮蓮は東京の「秀尽学園」に転入する。ある出来事をきっかけに“ペルソナ”使いとして覚醒した蓮は、新たに出会った仲間達とともに「心の怪盗団」を結成。悪しき欲望に塗れた大人達の“歪んだ欲望”を盗んで改心させていく。一方、街では不可解な精神暴走事件が次々と起こっていた……。大都会“東京”を舞台に高校生として日常生活を送りながらも、放課後は「心の怪盗団」として暗躍する―。壮大なピカレスクロマンの幕が切って落とされる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash

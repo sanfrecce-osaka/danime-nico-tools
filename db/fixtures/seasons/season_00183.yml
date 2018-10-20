@@ -6,10 +6,16 @@ outline: 錠単位もオッケーな無店舗薬売りの“おいさん”、�
   大橋ツヨシの描く不思議ワールドで、個性溢れるキャラクターが繰り広げる笑いの数々…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 高木渉
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
 - !ruby/hash:TagHash
   name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木渉
   type: cast
 - !ruby/hash:TagHash
   name: 屋良有作

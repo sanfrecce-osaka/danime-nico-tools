@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/19/4/10194_1_6.png?1
 outline: 古美術店・八百万堂の居候、猫神・繭のもとには今日も天界の愉快な仲間たちが押しかけて…!?ご利益満点のご町内神さまコメディ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +17,16 @@ tags: !ruby/array:Hashie::Array
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 置鮎龍太郎
-  type: cast
-- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 竹達彩奈
@@ -32,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：渡辺敦子

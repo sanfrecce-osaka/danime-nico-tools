@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/88/1/20881_1_6.png?1
 outline: 魑魅魍魎が跋扈する異ノ國・日本。｢神喰い｣と呼ばれる、地の底より生まれし魔物が、万物の指導者である神に牙をむき人々に恐怖を与えていたが、三つの大結界に封印することで、長きに渉る死闘に幕を閉じることが出来た。それから時は流れ。。。何者かによって大結界の一つが破られた。再びの世界の危機に、少女たちが立ち上がった！！静御前・義経・茨木童子・かぐや・あまてらすたちが神喰いサタン討伐を目指す！？各話5分で！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash

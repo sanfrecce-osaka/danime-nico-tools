@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/60/7/20607_1_6.png?1
 outline: 雑種の黒猫｢クロ｣は生意気な暴れん坊だが、飼い主の老夫婦への恩返しを忘れない、忠義な猫でもあった。しかし悪の科学者ドクター剛がクロを使って世界征服をしようとたくらみ、勝手にサイボーグにしてしまう。それから次々と一癖も二癖もあるキャラクターがでてきて、クロをトラブルに巻き込んだり、逆に巻き込まれたりしていく。そんな毎日をうんざりしたり楽しんだりしながら、サイボーグクロちゃんは今日も暴れ回る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：高本宣弘
   type: staff
 - !ruby/hash:TagHash

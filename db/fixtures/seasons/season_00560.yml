@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/70/3/10703_1_6.png?1
 outline: "『カウボーイビバップ』の渡辺信一郎が監督した新感覚サムライアニメ。時は江戸時代。ガラの悪いチンピラのような男ムゲン、剣の達人ジン、｢ひまわりの匂いのする侍｣を探してバイトを転々とする少女フウの3人が偶然出会った。性格のバラバラな3人は成り行きから一緒に旅をすることになり……!!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
@@ -56,9 +62,6 @@ tags: !ruby/array:Hashie::Array
   name: 前田真宏
   type: other
 - !ruby/hash:TagHash
-  name: 石川吉元
-  type: other
-- !ruby/hash:TagHash
   name: 掛須秀一
   type: other
 - !ruby/hash:TagHash
@@ -66,6 +69,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 鈴木依里
+  type: other
+- !ruby/hash:TagHash
+  name: 石川吉元
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

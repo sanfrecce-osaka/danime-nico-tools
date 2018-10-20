@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/37/6/20376_1_6.png?1
 outline: 血液型別の性格、長所や短所、恋愛やライフスタイルなど、血液型別の傾向と特徴がぜんぶわかるかも！？さらに自分の身近な人間関係も分析できてしまう、おなじみの血液型考察バラエティ。いよいよ第3期スタート！男の子も女の子も「あるある～！」と思わず共感しちゃう？強烈な個性が光るエピソードをたくさんお届けします。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 中原麻衣
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
   name: 鳴海杏子

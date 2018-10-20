@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/58/9/11589_1_6.png?1
 outline: 西暦2199年。外宇宙から襲来した謎の星間国家ガミラスによって、人類は滅亡の渕に立たされていた。その中で人類最後の希望を託すべく｢ヤマト計画｣が進められていた。その人類最後の希望を託すべき艦の名は｢ヤマト｣。しかし、人類に残された猶予は1年しかない。ヤマトは果たして人類を救うことができるのか…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上喜久子
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
@@ -26,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 藤原啓治
-  type: cast
-- !ruby/hash:TagHash
-  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
   name: 若本規夫

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/18/3/10183_1_6.png?1
 outline: 広島県三次市、稲生神社。ここには稗田倉子(長女)、柚子(次女)、珠(三女)の三姉妹が暮らしていた。柚子の高校入学をきっかけに、柚子の幼なじみで、幼い頃離れ離れになった天津忠尋が帰郷し、居候することに・・・物語はここから始まる。忠尋は｢審神者(さにわ)｣の血を引く末裔。｢乱裁道宗(あやたちみちむね)｣に｢審神者(さにわ)｣であるが故にその身を狙われ、度々物の怪に襲われる。そこで、稗田三姉妹の長女であり、柚子たちの通う霞彩高校の教師である倉子は、学校の秩序を守るため、呪装した妖怪調伏のための機関｢巫女委員会｣を結成する。メンバーは柚子を含め5人の女生徒。素人ばかりの委員会は果たして学校と忠尋を守ることができるのか・・・・・・!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

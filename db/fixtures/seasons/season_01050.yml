@@ -7,6 +7,15 @@ outline: 1973年、地球に襲来した異星起源種｢BETA｣によって引
   その出会いが運命を大きく変えることを、このときのふたりはまだ知らずに――。 滅亡の危機に瀕した地球を舞台に、対“BETA”戦の要である人型兵器“戦術機”の新型開発をめぐる、熱き人間たちのドラマを描いたロボット・アクション作品！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -22,25 +31,25 @@ tags: !ruby/array:Hashie::Array
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 中原麻衣
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 高森奈津美
+  name: 本田貴子
   type: cast
 - !ruby/hash:TagHash
-  name: 石原夏織
+  name: 高森奈津美
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：サテライト

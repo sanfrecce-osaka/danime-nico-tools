@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/98/6/20986_1_6.png?1
 outline: 人類はある日、異世界からの侵略を受けた。第一次異世界間衝突と呼ばれる戦いを経験した人類は、それから十数年後、第二次異世界間衝突が起こると緊急避難用に作られた海上フロートへと逃げ込み、そこで暮らすようになった。そんなある日、姉からの呼び出しで、日本フロートの｢戦略防衛学園アタラクシア｣を訪れた飛弾傷無(ひだきずな)は、ハート・ハイブリッド・ギア=ゼロスを操り、異世界の敵と戦う女の子、千鳥ヶ淵愛音(ちどりがふちあいね)と出会う。生意気で毒舌な彼女に翻弄される傷無だったが、異世界の敵との戦いで消耗したハート・ハイブリッド・ギアのエネルギーを回復する為には、彼女にHな事をしなければならない！人類の未来をかけて、傷無は女の子たちとHな行為を行うのであった！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 赤﨑千夏
   type: cast
 - !ruby/hash:TagHash
@@ -26,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 荒浪和沙
   type: cast
 - !ruby/hash:TagHash
-  name: 木野日菜
-  type: cast
-- !ruby/hash:TagHash
   name: 衣川里佳
   type: cast
 - !ruby/hash:TagHash
   name: 影山灯
+  type: cast
+- !ruby/hash:TagHash
+  name: 木野日菜
   type: cast
 - !ruby/hash:TagHash
   name: 里咲芽生

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/8/10098_1_6.png?1
 outline: キノとエルメスが訪れた国は、科学が発達した高い文明をもつ国だった。安定した環境の下、巨大なドームの中で暮らす国民達。一方、その国には、選ばれたエリートたちだけが暮らすことができる“開拓地”が存在していた。そこは、ドームの外で、実際の日光や土に触れることができるため、ドームに暮らす人々の憧れの地でもあった。キノとエルメスは、厳重な消毒を受け、ドームへと入る。そしてそこで一人の少女イナーシャと出会い……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2007年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2007年
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: 黒星紅白

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/09/5/20095_1_6.png?1
 outline: 干支神。動物を模した姿を持つ少女「えと娘」の中から選抜された１２匹の神の使い。古来より日本を護ってきた聖なる十二支。６０年に一度の干支神選抜祭・通称「ＥＴＭ１２」にて勝ち残った強者であり、えと娘たちの憧れの存在である。刻は流れて現代。今年も干支神選抜祭「ＥＴＭ１２」が開催される。日本全土から集まる数多の干支神候補＝えと娘たち。その中に、一匹の猫が存在した。その名は、猫のえと娘「にゃ～たん」もっとも干支神に近いといわれながら、ネズミ属に執拗に狙われ、卑劣な罠により破れ続けてきた不遇のえと娘である。干支神になる条件はたったひとつ。十二支全員に勝利すること。しかし、干支神の力は強大であり、この二千年間、十二支全員に勝利したえと娘は存在しない。不遇のえと娘「にゃ～たん」と、普通の高校生「天戸タケル」が出会うとき……物語は始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
-  name: 村川梨衣
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 松井恵理子
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 渕上舞
   type: cast
 - !ruby/hash:TagHash
-  name: 佐々木未来
+  name: 花守ゆみり
   type: cast
 - !ruby/hash:TagHash
-  name: 花守ゆみり
+  name: 佐々木未来
   type: cast
 - !ruby/hash:TagHash
   name: 相坂優歌

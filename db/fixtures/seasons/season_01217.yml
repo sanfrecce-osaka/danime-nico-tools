@@ -5,7 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/35/2/11352_1_6.png?1
 outline: 時はのちに幕末と呼ばれた時代、天歌泰平(ソング・オブ・ピースフル)――。徳川幕府は｢天歌(ヘブンズ・ソング)｣により、民の心が奪われた泰平の世。｢天歌｣を歌う｢最高愛獲（トップアイドル）新選組｣。その歌声は、町娘の心(ハート)を射貫き、その｢雷舞(ライブ)｣は、世界を震撼させる。幕府は｢天歌｣以外を歌う者を捕らえ、愛獲の力、天歌による泰平化により、支配を完璧な物としようとしていた。一方で、｢天歌｣による幕府の支配を快く思わない者たちもいた。自由とロックを愛する男、坂本龍馬もその一人。彼はギター1本とロック魂を胸に立ち上がる!果たして、その熱情で民の魂(ソウル)を解放させることができるのか!?民の心を奪う者｢新選組｣と時代の流れを変える者｢志士(ロッカー)｣の声技(セイギ)がぶつかり合う――!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
   name: 実写化・舞台化

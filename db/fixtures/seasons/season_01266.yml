@@ -6,6 +6,12 @@ outline: 昭和58年初夏。都会から遠く離れた山奥の寒村、雛見
   今日も｢部活メンバー｣の明るく、賑やかな声が雛見沢に響いていた。そんな中、梨花は時折悲しげな表情を見せていた。それは毎年6月に行われる祭｢綿流し｣が近づいていたからであった。過去4年続く、祭りの日に、繰り返される惨劇。毎年、一人が死に、一人が行方不明になるという｢雛見沢連続怪死事件｣。今年も惨劇は起こる。梨花は全てを知っていた。ハジマリも、オワリも・・・。繰り返される惨劇の連鎖は断ち切れるのか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -18,10 +24,10 @@ tags: !ruby/array:Hashie::Array
   name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
-  name: 関俊彦
+  name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 折笠富美子
+  name: 関俊彦
   type: cast
 - !ruby/hash:TagHash
   name: ゆきのさつき

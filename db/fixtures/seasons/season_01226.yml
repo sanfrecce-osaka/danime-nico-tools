@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/4/22084_1_6.png?1
 outline: バトラーズ――それは、とある宿命を背負った千年の歴史をもつ一族の守護者。ジェイは妹のテンナと共に、同じバトラーであった羽早川と平和で穏やかな生活を送っていた。しかし、平穏な日々が突如、一変する。テンナは時空の歪みに飲み込まれ、ジェイの身は100年後の世界へと……。目覚めたジェイが目にしたものは、かつて暮らしていた屋敷が現存する京常見（こよみ）学園。ジェイは神宮司高馬と名乗り、学園に生徒会長として在学し、過去の手がかりを探す。すべてはかつての日々を取り戻すため――。百年の想いが手繰り寄せた再会と、決別。歴史に埋もれた千年の血族の秘密と、宿命。そして、ジェイは世界の真実を知る。千年の血縁と百年の思いが今、交錯する――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 山下誠一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 河本啓佑
+  name: 永塚拓馬
   type: cast
 - !ruby/hash:TagHash
-  name: 永塚拓馬
+  name: 河本啓佑
   type: cast
 - !ruby/hash:TagHash
   name: 小林千晃

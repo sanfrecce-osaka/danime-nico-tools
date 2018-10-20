@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/79/0/10790_1_6.png?1
 outline: 豪華スタッフ・キャストで贈る、夢がいっぱい、女の子ばかりの部活アニメ。願い事は一つも叶わないけどな!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤聡美
+  name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 名塚佳織
+  name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
   name: 伊瀬茉莉也

@@ -5,7 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/08/0/10080_1_6.png?1
 outline: 故郷セイバートロン星に戻ったコンボイだったが、なぜか戦車軍団に追われてしまう。しかもロボット・モードには変身できず、なぜ追われているのか記憶もない。逃げ回るうちにコンボイは、ラットル、チータス、ブラックウィドーと合流。突然、コンボイの耳に謎の声が。コンボイはその声に導かれ、トランスフォーマーを作り出したオラクルというコンピュータに出会う。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 監督：岩浪美和
+  type: staff
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

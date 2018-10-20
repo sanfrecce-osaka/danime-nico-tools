@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/12/7/22127_1_6.png?1
 outline: コポ、コポポポポポ・・・。薄くらい研究室…。ここはかつてM博士が妖怪人間を生み出したビーカーの中。その培養液の中で、3つの細胞がウニュ、ウニュっと蠢いていた。心は人間、見た目は化け物という不完全な存在として生まれた妖怪人間たち。正しい心を持ち、人間のために必死に戦ったが差別と迫害は変わらなかった。次こそ人間として生まれるために、再び、培養液で細胞に戻った3人は同じ轍を踏まぬように、人間観察を始めたのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash

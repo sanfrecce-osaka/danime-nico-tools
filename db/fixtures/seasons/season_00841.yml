@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/21/6/11216_1_6.png?1
 outline: 喧嘩は強いが女は嫌い、特技と言ったら家事全般・・・。そんな硬派野郎(笑)日比野火々雄へ、紋様族の族長ニマの刃が光る！｢これであたしたちは夫婦だよ、ヒビオ！｣押し掛け女房気取りでなつくニマ、ウザいヒビオ。だが、そんなラブコメにたちまち波乱の渦が続出！戦国時代の武弓術を操る委員長、藤松の横恋慕！兄を亡き者にされた恨みと迫るハイドラの理不尽！そして、掟を破った姉を追い詰めるニケの正義!バトルの果てに待つのは・・・、やっぱりあま～いラブコメなのか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
-  name: こおろぎさとみ
+  name: 古川登志夫
   type: cast
 - !ruby/hash:TagHash
-  name: 古川登志夫
+  name: こおろぎさとみ
   type: cast
 - !ruby/hash:TagHash
   name: 青野武

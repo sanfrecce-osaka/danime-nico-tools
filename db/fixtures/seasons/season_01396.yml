@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/16/7/11167_1_6.png?1
 outline: 魔界のとある地区で“ナワバリボス”をしている吸血鬼スタズ。吸血鬼然としている事が嫌いで、ジャパニーズカルチャーを愛する彼のナワバリにある日、日本人の少女柳冬実が迷い込んでくる。ナマの人間、しかも日本人に会えたスタズのロマンチックは止まらない！だが、ちょっとナワバリを狙った侵入者を退治している間に、冬実がモンスターに食べられて死んでしまった！！幽霊となってしまった冬実を前に、必ず生き返らせると血意したスタズだが！？クールなのに熱過ぎるキャラクターたちが巻き起こす、魔界的吸血鬼アクション、開幕！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash

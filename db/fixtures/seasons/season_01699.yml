@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/93/9/10939_1_6.png?1
 outline: 芥辺探偵事務所で働く女子大生・佐隈りん子。彼女は雇い主である芥辺に素質を見出され、助手として依頼をこなしていくうちに、｢悪魔探偵｣という芥辺の裏の顔を知ることになる。ある日、｢夫と浮気相手を別れさせて欲しい｣という妻からの依頼を受け、芥辺がグリモアという魔導書を使い魔界から召喚したのは、とんでもなく下品な悪魔・アザゼル。イケニエと引き換えに、依頼に向かったアザゼルだったが、事態は思わぬ方向に…！？役に立ちそうで立たない個性豊かな悪魔たちと佐隈の騒がしい日々は今日も続いて行く…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 浪川大輔
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
 - !ruby/hash:TagHash
   name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈

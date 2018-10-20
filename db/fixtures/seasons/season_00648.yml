@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/09/7/22097_1_6.png?1
 outline: とあるマッドサイエンティスト夫婦が屋敷にて違法研究に取り組み逮捕される。罪状は自らの子供たちへの遺伝子改造実験の実施であった。５人の子供たちの中で、唯一「普通の人間」として養育された末の弟、タニス。彼は一夜にして５人の兄弟姉妹たちのリーダー的存在となり、異なる個性を持ち合わせる兄と姉らの面倒を見ることに。そして両親の残した実験データを完成させる任務をも、一身に背負うこととなるのであった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 生田善子
+  name: 森なな子
   type: cast
 - !ruby/hash:TagHash
-  name: 森なな子
+  name: 生田善子
   type: cast
 - !ruby/hash:TagHash
   name: 杉山里穂

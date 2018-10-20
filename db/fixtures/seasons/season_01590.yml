@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/6/10226_1_6.png?1
 outline: 磁力兵器を使った最終戦争が起こり、地球の地軸は狂い地震や大津波が襲って来て、長い間栄えてきた文明はいっぺんに崩れ、世界中のほとんどの人間は死んでしまいました。それから20年後、コナンがおじいと孤島で暮らしていたところへ、一人の少女が流れ着きます。それまでは地球に生き残っていたのは自分たちだけだと思っていたので二人は大喜びしますが、そこへ科学都市インダストリアからモンスリーたちがやって来て少女ラナを連れ去ります。その時の争いでおじいは亡くなってしまいました。悲しみを乗り越え、コナンはラナを救うため旅立ちます!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 小原乃梨子
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 小原乃梨子
   type: cast
 - !ruby/hash:TagHash
   name: 家弓家正
@@ -29,9 +35,6 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：吉川惣司
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：宮崎駿
-  type: staff
-- !ruby/hash:TagHash
   name: キャラクターデザイン：宮崎駿
   type: staff
 - !ruby/hash:TagHash
@@ -39,6 +42,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：池辺晋一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：宮崎駿
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：胡桃哲
@@ -60,6 +66,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 山本二三
+  type: other
+- !ruby/hash:TagHash
+  name: 麻生久美子さん思い出
   type: other
 - !ruby/hash:TagHash
   name: 大塚康生

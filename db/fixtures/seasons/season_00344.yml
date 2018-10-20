@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/5/10335_1_6.png?1
 outline: 女性恐怖症の高校生、佐々木雪成はある日突然、女の子ばかりの世界に飛ばされてしまう。そこで彼は不思議な美少女、ミハルと出会い、彼女とともに現代世界に戻ってきたが、戻るや否や幼馴染の桐絵に、カウンターパンチを食らう…。ミハルを追いかけて来たコヨミやトモカも加わって、今日もお約束のひと騒動が巻き起こる!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

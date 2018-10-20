@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/03/9/20039_1_6.png?1
 outline: "“音の精霊”達の学び舎、“聖ミューズ学院”。人間達が心地よい音の中で生きていけるよう、世界の音を調律し、制御する役割を担う“音の精霊”を育成するための学院である。そんな学院に５人の落ちこぼれがいた。みるに見かねた学院は５人に、ある特別なミッションを与えるのだった…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

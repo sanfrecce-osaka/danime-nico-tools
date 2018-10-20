@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/15/2/20152_1_6.png?1
 outline: 原作は、本年、紫綬褒章を受章した芥川賞作家・髙樹のぶ子が、自らの幼少時代をモデルに描いた自伝的小説｢マイマイ新子｣。監督は『ブラックラグーン』の片渕須直。『名犬ラッシー』や『アリーテ姫』など、少年少女の日常描写に定評のある氏によって、懐かしくも、瑞々しい昭和30年代の日々が描かれる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 森迫永依
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：マッドハウス
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：村井秀清
+  name: 監督：片渕須直
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：片渕須直
+  name: 音楽：村井秀清
   type: staff
 - !ruby/hash:TagHash
   name: 原作：髙樹のぶ子
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2009年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2009年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

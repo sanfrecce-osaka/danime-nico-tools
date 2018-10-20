@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/80/9/21809_1_6.png?1
 outline: 遠く離れた高校に転校してきた金沢伸明は、前の学校で経験したある出来事が原因で、クラスメイト達と親しくなることを恐れ、心を閉ざしていたが、体育祭でのクラス対抗リレーをきっかけに打ち解けはじめていた。そんな中、クラスメイト全員の携帯に「王様」と名乗るモノからの一通のメールが届く。単なるいたずらだと思って真面目に受け止めないクラスメイト達だったが、その意味を知る伸明だけは、これから始まる「死」のゲームに立ち向かおうと葛藤するのだった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 日野聡
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: M・A・O
@@ -32,19 +35,22 @@ tags: !ruby/array:Hashie::Array
   name: 牧野由依
   type: cast
 - !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
   name: 大坪由佳
   type: cast
 - !ruby/hash:TagHash
   name: 木戸衣吹
   type: cast
 - !ruby/hash:TagHash
-  name: 内田雄馬
-  type: cast
-- !ruby/hash:TagHash
   name: アニメーション制作：セブン
   type: staff
 - !ruby/hash:TagHash
   name: 監督：佐々木勅嘉
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤陽祐
   type: staff
 - !ruby/hash:TagHash
   name: 原作：連打一人
@@ -57,9 +63,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：そらもとかん
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：伊藤陽祐
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：長田直之

@@ -6,13 +6,16 @@ outline: いまどきのラブコメ主人公には珍しく、硬派な高校�
   二ノ宮くん!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 門脇舞以
+  name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
-  name: 間島淳司
+  name: 門脇舞以
   type: cast
 - !ruby/hash:TagHash
   name: 根谷美智子

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/53/5/21535_1_6.png?1
 outline: 主人公・陸水銀（リクスイギン）は身寄りもなく天涯孤独の高校生。生活のためのバイトに明け暮れる毎日を送っていた……。ある日、水銀にとって唯一の取り柄である『ゲーム』が、彼とこの世界の行く末を握ることとなる！何者かに連れ去られた憧れの美少女を助けるため、水銀は託された１００億という遺産と共に『ゲームと繋がった異世界』へと飛び込んで行く――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash

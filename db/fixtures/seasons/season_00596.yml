@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/12/4/10124_1_6.png?1
 outline: 人間が住む｢人間界｣と神族が住む｢神界｣、そして魔族が住む｢魔界｣と3つの世界が突如つながり、人間界に｢魔法｣がもたらされてから10年・・・・・。土見稟は｢国立バーベナ学園｣に通う高校2年生。幼馴染みの芙蓉楓や悪友の緑葉樹らとともに楽しい学園生活を送っていた。そんなある日、稟のクラスに神族と魔族の美少女2人が転校してきたのだ!しかも彼女達はなんと・・・・・神王と魔王それぞれの王女様だった!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -86,7 +89,7 @@ tags: !ruby/array:Hashie::Array
   name: スタジオごんぐ
   type: other
 - !ruby/hash:TagHash
-  name: ランティス
+  name: 福谷直樹
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

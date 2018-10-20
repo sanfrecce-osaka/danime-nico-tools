@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/55/3/21553_1_6.png?1
 outline: 小さい頃から妖怪を見ることができた少年・夏目貴志。祖母レイコが遺した遺産｢友人帳｣を継いで以来、彼は自称用心棒・ニャンコ先生と共に、そこに名を縛られた妖怪たちに名を返す日々を送る。さまざまな妖や人と繋がり、絆を深めていく中、増えてしまった大切なものたち。守るために秘密を持つことに惑いながら、夏目は少しずつ、勇気を出して、次の関係へと踏み出していく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

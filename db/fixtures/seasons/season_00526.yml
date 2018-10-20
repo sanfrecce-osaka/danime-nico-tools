@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/86/9/21869_1_6.png?1
 outline: "『エルフェンリート』の岡本倫が描く話題の最新コミック、テレビアニメ化！子供の頃に事故で死なせてしまった幼なじみの女の子のことが忘れられない高校生・村上良太は、彼女との約束「宇宙人が存在することの証明」を果たすべく、天文部に在籍し毎日夜空を見上げ探し続けていた。ある日、良太の前にその幼なじみと瓜二つの転校生・黒羽寧子が現れる。しかし、彼女は自分を「魔法使い」だと語った…。「魔法使い」は研究所で手術や薬により肉体を改造され、様々な特殊能力を持つが、鎮死剤を毎日1錠飲まなければ死んでしまうという。「研究所」から逃げ出してきたという彼女を回収するため、次々と追跡者が差し向けられる。迫り来る高位の魔法使い鎮死剤の枯渇、あらゆる死の恐怖が迫る中で彼女と良太が選んだことは…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash

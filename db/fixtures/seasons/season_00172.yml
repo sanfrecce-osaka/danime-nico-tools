@@ -6,6 +6,9 @@ outline: 舞台はF県F市の某地下。総帥イルパラッツォ率いる秘
   いっぽう、市政の黒幕?蒲腐(かばぷ)博士はふとしたきっかけで彼らの陰謀を察知し、市役所内に特務機関・市街安全保障局を設置して戦いを挑むのだが…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +18,10 @@ tags: !ruby/array:Hashie::Array
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 三石琴乃
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: ゆきのさつき

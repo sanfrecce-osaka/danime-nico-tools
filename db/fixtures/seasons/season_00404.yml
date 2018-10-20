@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/47/5/20475_1_6.png?1
 outline: 前作より600年あまりのち、木星破壊によって誕生した数十個の惑星群が、太陽系に6つの“惑星海”を形づくっていた。太陽系管理機構“バクーフ”による支配体制が弱体化、反体制グループとの熾烈な戦いが繰り広げられる戦乱の時代。コズモバイクで宇宙を駆ける暴走族“烈”のリーダー、ディーゴ(ドン)は、相棒のシュテッケン、士郎(ビリー)とともの、ライラ、佐馬之介を仲間に加えて“銀河烈風”を名乗り、太陽系に一旗上げるべく、同士を集めて“烈風隊”を組織する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash

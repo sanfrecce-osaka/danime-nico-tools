@@ -7,6 +7,12 @@ outline: 幻の新人賞・うた☆プリアワードを受賞したST☆RISH�
   NIGHT、そして春歌を待ち受ける未来とは…？2000％を超えたアイドルたちが今、愛の大革命を巻き起こす！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -16,10 +22,10 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
@@ -43,10 +49,10 @@ tags: !ruby/array:Hashie::Array
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 製作：A-1 Pictures
+  name: 音楽：Elements Garden
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：Elements Garden
+  name: 製作：A-1 Pictures
   type: staff
 - !ruby/hash:TagHash
   name: 原作：上松範康

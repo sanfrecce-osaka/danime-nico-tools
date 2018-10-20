@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/44/3/10443_1_6.png?1
 outline: 宇宙から飛来したマイクロバーサーカーを破壊する為にブライアン、ゲイリー、そしてルイのパワードアーマー・ノーブ部隊が出撃する。マイクロバーサーカーは次々と市街地を破壊し、ゲイリーは戦死、ブライアンは自分を犠牲にマイクロバーサーカーをバリアーに誘い、ルイは涙ながらにブライアンごとマイクロバーサーカーを撃墜。この勝利をマイクロバーサーカーに撃墜された亡き恋人真人に伝えるのだった。ドルバック隊の夏の休日。女たらしのピエールは女性陣の恨みを買い、大変なことになる。そしてその夜ルイのシャワーシーンを覗きに張り切るピエールと高城大佐だが、そんな所にハーバラが襲来。迎撃するのはコンバット・キャリバーと……何とゴーショーグン、ミンキナーサ。3機のスーパーロボットが夢の共演だ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 特装機兵ドルバックシリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1983年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/3/22083_1_6.png?1
 outline: 2010年冬 β世界線―――主人公・岡部倫太郎が数々の苦難、悲哀を乗り越えた果てに「彼女」を救うことをあきらめてしまった世界線。失意の底にある岡部倫太郎。彼を心配する仲間たち。救われなかった「彼女」はどうなったのか？新たなキャラクターを迎えて描かれる「ゼロ」の物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 潘めぐみ
   type: cast
 - !ruby/hash:TagHash
-  name: 後藤沙緒里
+  name: 桃井はるこ
   type: cast
 - !ruby/hash:TagHash
-  name: 桃井はるこ
+  name: 後藤沙緒里
   type: cast
 - !ruby/hash:TagHash
   name: 今井麻美

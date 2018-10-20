@@ -8,6 +8,15 @@ outline: 室江高校剣道部顧問の石田虎侍（コジロー）はやる�
   そして練習試合の裏にある真意とは？部活動を通じて成長していく彼女達の姿をコミカルに描く、青春系学園剣道ストーリー
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 広橋涼
+  name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
-  name: 豊口めぐみ
+  name: 広橋涼
   type: cast
 - !ruby/hash:TagHash
   name: 阪口大助
@@ -62,10 +71,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2007年
   type: other
 - !ruby/hash:TagHash
-  name: 岩浪美和
+  name: スクウェア・エニックス
   type: other
 - !ruby/hash:TagHash
-  name: スクウェア・エニックス
+  name: 岩浪美和
   type: other
 - !ruby/hash:TagHash
   name: 頑張る女の子たち

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/26/8/11268_1_6.png?1
 outline: 原作は「花とゆめ」で大人気連載中の同名漫画、大人気作品を世に送りだしている「花とゆめ」40周年記念作品！雨降らしの力を持つ、ニケ・ルメルシエと、太陽と呼ばれるリヴィウス一世を、中心としたドラマは必見！二人の紡ぐそれでも美しい世界に大注目！「雨の公国」の第四公女であるニケが、即位から３年で世界を治めた「太陽王リヴィウス一世（リビ）」のもとに嫁ぐことになった——。美しい歌声に合わせて雨を呼ぶ「アメフラシ」の能力を持つニケは、公国の未来のため、会ったこともない相手との結婚に応じ「晴れの大国」を訪れる。故郷から遠く離れた地で彼女を待っていたのは？　そして、ニケと出会う人々が、彼女の歌声を聴き、感じとるものとは？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

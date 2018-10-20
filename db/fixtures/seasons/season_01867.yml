@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/0/11450_1_6.png?1
 outline: 1996年のオリンピックで驚異的な新記録が次々に打ち立てられ、世界は｢超人類の出現!｣と囃し立てる。さらに｢超人類｣たちの活躍は芸術や科学の分野にもおよび、世界は｢超人類｣たちのおかげで飛躍的な進歩を遂げようとしてた。しかし同じ時、ブラック・ジャックは90才の老人のように使い古された内臓を持つ少女の死に立ち会い、愕然となる。超人類たちとこの少女との間に隠されていた陰謀の魔の手が、真相を突き止めようとするブラック・ジャックに伸びる…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

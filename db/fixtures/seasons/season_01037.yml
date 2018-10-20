@@ -5,7 +5,34 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/38/7/11387_1_6.png?1
 outline: メガトロンの罠に落ち、死んだと思われたコンボイだったが仲間の活躍でトランスメタルスとなり、奇跡の復活をはたす。宇宙の歴史をかえてサイバトロンを消滅させる野望をいだくメガトロン。サイバトロン軍団は阻止できるのか？！あらたにフューザー戦士もくわわりビーストウォーズの第２幕がはじまった！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村大樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：岩浪美和
+  type: staff
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

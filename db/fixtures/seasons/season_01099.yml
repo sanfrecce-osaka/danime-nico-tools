@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/77/2/10772_1_6.png?1
 outline: ちょっとオバカな女子高生｢ゆっこ｣の周りにはロボやら鹿やら謎なものがいっぱい。時定高校を中心に、シャケが飛んできたりこけしが飛んできたりと町中に広がるちょっと不思議でビミョーにシュールな｢日常｣は始まります。一方、｢はかせ｣と｢なの｣、人語を話す猫｢阪本さん｣の暮らす｢東雲研究所｣でも、今日も一日、あったかぽかぽかの、のんびりとした一日が過ぎて行くのでした。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
@@ -14,19 +20,19 @@ tags: !ruby/array:Hashie::Array
   name: 白石稔
   type: cast
 - !ruby/hash:TagHash
-  name: チョー
+  name: 皆口裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 皆口裕子
+  name: チョー
   type: cast
 - !ruby/hash:TagHash
   name: 水原薫
   type: cast
 - !ruby/hash:TagHash
-  name: 相沢舞
+  name: 山本和臣
   type: cast
 - !ruby/hash:TagHash
-  name: 山本和臣
+  name: 相沢舞
   type: cast
 - !ruby/hash:TagHash
   name: 川原慶久
@@ -77,10 +83,10 @@ tags: !ruby/array:Hashie::Array
   name: カドカワコミックス・エース
   type: other
 - !ruby/hash:TagHash
-  name: 少年エース
+  name: 楽音舎
   type: other
 - !ruby/hash:TagHash
-  name: 楽音舎
+  name: 少年エース
   type: other
 - !ruby/hash:TagHash
   name: 安田猛

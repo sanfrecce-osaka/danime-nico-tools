@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/8/10028_1_6.png?1
 outline: それは・・・双子たちが織り成す恋の物語・・・主人公は中学3年生の二見望。父親の仕事の都合で幼いころ住んでいた街に一人で引っ越し、親戚のお寺｢双林寺｣で生活をすることになる。かわいい双子たちとの出会い・・・しかしそれはこれから望の身の上に降りかかる、ドタバタな学校生活の前触れにすぎなかった・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

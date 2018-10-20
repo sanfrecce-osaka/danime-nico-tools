@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/59/3/10593_1_6.png?1
 outline: 17歳の佃美奈はルナテレビに高校生女子アナウンサーとして特別採用されることになった。人気スポーツ番組“スポルナ”でレギュラーコーナーをこなしつつ、学校にも通うドタバタな毎日。それでも美奈は憧れのアナウンサー・甲州翠怜と一緒に仕事ができることに幸せとやりがいを感じていた。ある日、プロスポーツ中継でスター選手のインタビューを任されることになった美奈は、宇宙人の介入事件に偶然巻き込まれてしまう。そして、自らに課せられた重大な使命を知ることになる…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
-  type: cast
-- !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
-  name: 斎賀みつき
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 東地宏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
   name: 中尾衣里

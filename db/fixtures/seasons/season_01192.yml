@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/36/3/11363_1_6.png?1
 outline: みなさんは、花子さんのウワサ、聞いたことがありますか?幽霊や、オバケ? とってもコワーい……?いえいえ、花子さんは子どもたちの味方です。きっとあなたのところにも、花子さんがきてくれますよ――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 山下怜美
   type: cast
 - !ruby/hash:TagHash

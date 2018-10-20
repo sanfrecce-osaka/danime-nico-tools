@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/14/9/22149_1_6.png?1
 outline: 毒舌なカリーナとロック大好き！見た目よりまじめなディキーがバンドを組んでフェスに出ることを目指すストーリー。エッジの効いた会話劇で展開する新感覚ショートコント。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 江口拓也
   type: cast
 - !ruby/hash:TagHash

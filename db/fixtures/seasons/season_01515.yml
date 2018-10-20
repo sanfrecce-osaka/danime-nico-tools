@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/53/8/21538_1_6.png?1
 outline: 宇宙征服をたくらむドン様率いる｢あくのぐんだん｣は、手はじめに地球侵略を開始するもクセのある地球人に阻まれ大苦戦。次第にドン様の地球侵略計画にも歪みが生じてきて――！？どこか憎めない宇宙人と個性豊かな地球人が織り成す日常系ドタバタSFコメディの幕が上がる！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

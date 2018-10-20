@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/8/11078_1_6.png?1
 outline: 暴走団長のハルヒにちょっとオタクになった長門、よりキュートで萌えっこキャラのみくる、そしてよりクールさが際立つ古泉に、ツッコミ担当のキョン。SOS団+αで贈る4コマとショートストーリーで展開するまったく新しいハルヒワールド。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -62,10 +68,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 妹
+  name: 製作年：2009年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2009年
+  name: 妹
   type: other
 - !ruby/hash:TagHash
   name: 鶴岡陽太
@@ -74,10 +80,10 @@ tags: !ruby/array:Hashie::Array
   name: カドカワコミックス・エース
   type: other
 - !ruby/hash:TagHash
-  name: 少年エース
+  name: 楽音舎
   type: other
 - !ruby/hash:TagHash
-  name: 楽音舎
+  name: 少年エース
   type: other
 - !ruby/hash:TagHash
   name: 伊藤敦

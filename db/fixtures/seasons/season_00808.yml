@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/56/5/11565_1_6.png?1
 outline: 空から落ちてきた未確認生物《イカロス》は、空美町で｢平和が一番｣がモットーの少年、桜井智樹と共に暮らしていたが、いまだに智樹に笑顔を見せたことがなかった。イカロスと同じく空に浮かぶ『新大陸』からやってきた未確認生物である《ニンフ》《アストレア》が、《マスター》の支配から解放されて自由に笑って生きている姿を見た智樹は、どうにかイカロスにも『普通の女の子』として自由に笑ってほしいと思うようになる。戦略エンジェロイドとして作られ、感情をうまく表情に表せないイカロスが笑えないのは、主従の関係を結んでいることが原因であると考えた智樹だったが、突如あてがわれた自由に、イカロスは―――。原作累計400万部を突破した大ヒットアニメシリーズが遂に完結!!感動に包まれた原作最終話にリンクした、ヒロイン《イカロス》の真実の物語。これが本当のそらおとフィナーレ!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
-  name: 保志総一朗
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: 高垣彩陽

@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/21/4/20214_1_6.png?1
 outline: かつて、人の声が万物の真理を呼び起こしていた時代があった。だが、ある発明によって人類の歴史は大きな転換期を迎える。「文字」それは優れた伝達手段として瞬く間に普及したが、声と真理との間に「ロゴスワールド」を誕生させてしまう。それから数千年後――文明の発達はロゴスワールドを肥大化させ、文字の暴走を引き起こした。これに対抗できるのは「創声力」と呼ばれる、真理の力を引き出せる創声部の若者たち。阿佐ヶ谷に住む少年「灰吹陽」は、文字の暴走に遭遇し、現実世界に波及する混乱を前にして、運命の声を発した。「叫べ、創声合体」と……。ロゴスワールドを鎮める唯一の存在、「アクエリオン」が誕生したとき、文字を巡る新たな神話の1ページが幕を開ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 佐倉綾音
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 中田譲治
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長

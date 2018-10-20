@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/3/10333_1_6.png?1
 outline: 女性恐怖症の高校生、佐々木雪成。彼はある日突然、女の子ばっかりの世界に飛ばされてしまう。その世界は、青い森の都｢セーレン｣。そこで、彼は不思議な美少女｢ミハル｣と出会う。｢ミハル｣とともに、現代世界に戻ってきた雪成であったが・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

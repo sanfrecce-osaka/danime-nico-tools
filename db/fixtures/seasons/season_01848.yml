@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/25/6/22256_1_6.png?1
 outline: 見た目のせいで男扱いされてこなかった椎名亜樹は、自分を変えようと中学校入学を機に東京へ出てすのはら荘に入寮する。そこで亜樹を待っていたのは、天然でいたずら好きなすのはら荘の管理人さん・春原彩花に心も体もかわいがられる毎日だった。さらに、ほかの同居人も全員年上の女の子で…。いやしとドキドキがたっぷりで、ついつい管理人さんに甘えたくなっちゃう年の差（おねショタ）ラブコメ決定版！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

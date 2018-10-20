@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/76/0/21760_1_6.png?1
 outline: ニューヨークのオークション会場からルパンが奪おうとしたのは、わずか１カラットにも満たない安物の指輪だった。だが、指輪を得たのはバンク・オブ・ワールド頭取シンシア。指輪には手にしたものを「世界の王」にするという『幸運のブローチ』の行方の秘密が隠されていたのだ。美貌の歌姫サンディの声に惚れこんだルパンは、彼女にブローチを送ろうとしていたのだが、指輪の争奪戦の最中、敵の銃弾に倒れてしまう。ルパンを埋葬し仇討ちに向かった次元たちも罠に嵌ってしまい……。ルパンは本当に死んでしまったのか？　権力者の手を渡り歩き、巨大な権力をもたらしてきたというブローチをめぐり、世界を巻き込んだマネーウォーズが始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash
-  name: 増山江威子
+  name: 小山茉美
   type: cast
 - !ruby/hash:TagHash
-  name: 小山茉美
+  name: 増山江威子
   type: cast
 - !ruby/hash:TagHash
   name: 納谷悟朗

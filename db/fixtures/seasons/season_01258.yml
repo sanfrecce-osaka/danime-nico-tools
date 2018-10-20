@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/23/4/21234_1_6.png?1
 outline: LINEスタンプで驚異的な記録を残したアニメ｢パンパカパンツ｣。パンツの魅力に魅せられたブタのパンパカくんの愛らしいダンスで大人気になり、ついに映画になった！商店街の福引でお父さんがハワイ旅行を引き当て、初めての海外旅行に大興奮のパンパカくん一家。しかし空港で迷子になり、別の飛行機に乗ってたどり着いたのは不思議な国｢バナナン王国｣！王様に『伝説のパンツの勇者』に間違われ、仲間と共に、バナナワニの野望に立ち向かう！バナナン王国の危機を救い、家族と再会できるのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash

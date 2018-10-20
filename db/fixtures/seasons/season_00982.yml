@@ -6,6 +6,15 @@ outline: 池袋。そこには様々な策謀とそれに興じる人種が集�
   という二つの力を手にした少年は、理想を抱き粛清の道を歩む。親友を救おうともがく者、人気アイドルに忍び寄る狂気、街の裏側で暗躍を始める新たな勢力……。数多の事件と思惑が絡み合い、物語はさらなる混沌へと加速していく――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -18,13 +27,13 @@ tags: !ruby/array:Hashie::Array
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
-  type: cast
-- !ruby/hash:TagHash
-  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
   name: 喜多村英梨
@@ -42,10 +51,10 @@ tags: !ruby/array:Hashie::Array
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: 監督：大森貴弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大森貴弘
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：岸田隆宏

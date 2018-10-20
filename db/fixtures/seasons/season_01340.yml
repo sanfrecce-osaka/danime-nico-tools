@@ -7,6 +7,15 @@ outline: 舞台は海と山に囲まれた都市・冬木市。そこで行わ�
   秋、開戦 ――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
@@ -19,10 +28,10 @@ tags: !ruby/array:Hashie::Array
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 中田譲治
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也

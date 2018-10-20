@@ -6,6 +6,15 @@ outline: "“ミニマム”それは、｢小さな奇跡｣とも呼ばれる�
   横浜 ナイスとムラサキのコンビ探偵“ハマトラ”は、事務所としてテーブルを間借りしているカフェ・ノーウェアで、仲間たちと一緒に今日も仕事の依頼を待っていた。そんな中、2人の元へと舞い込んだある依頼が、2人と旧知の間柄の警察官・アートが追いかける｢連続殺人事件｣と、奇妙な繋がりを見せる。その事件は、被害者が全員“能力者(ミニマムホルダー)”というものだった。ミニマムホルダーであるナイスとムラサキも、否応無しに事件の渦中へと巻き込まれて行く…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -57,10 +66,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：熊谷純
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：DIVEII entertainment
+  name: アニメーション制作：NAZ
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：NAZ
+  name: 音楽制作：DIVEII entertainment
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：和図悠

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/31/1/10311_1_6.png?1
 outline: 蓮川一也、通称スカは｢ここはグリーン・ウッド｣の主人公である。…にしては何故か恵まれず、入学式前夜には胃潰瘍になり、初恋の人・すみれは兄嫁となり、新しく寮生活を過ごすことになったここ“緑林寮(グリーン・ウッド)”は学園でも有名な変人たちの巣窟であったのだ。入寮1日目よりスカには同室の瞬が女の子であるという試練が待ち受けていたが…。那州雪絵の大人気コミックOVA化作品。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
@@ -20,22 +26,22 @@ tags: !ruby/array:Hashie::Array
   name: 佐々木望
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
-  type: cast
-- !ruby/hash:TagHash
-  name: 島本須美
-  type: cast
-- !ruby/hash:TagHash
   name: 鶴ひろみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 皆口裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本千夏
+  name: 島本須美
   type: cast
 - !ruby/hash:TagHash
   name: 本多知恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本千夏
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：studioぴえろ

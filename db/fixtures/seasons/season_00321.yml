@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/89/3/10893_1_6.png?1
 outline: 世界征服を企む悪の組織ギャラクターの野望を阻止するため、国際科学技術庁の南部博士によって秘密裏に組織された、少年少女5人による科学忍者隊。大鷲の健をリーダーに、コンドルのジョー、白鳥のジュン、燕の甚平、みみずくの竜のメンバーは南部博士の指令を受け、飛行空母ゴッドフェニックスで発進。科学の力を駆使してギャラクターに戦いを挑む。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 森功至
   type: cast
 - !ruby/hash:TagHash
   name: 杉山佳寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 大平透
+  name: 塩屋翼
   type: cast
 - !ruby/hash:TagHash
-  name: 塩屋翼
+  name: 大平透
   type: cast
 - !ruby/hash:TagHash
   name: ささきいさお

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/16/6/21166_1_6.png?1
 outline: 主人公・おっさんは容姿端麗だがだらしがないダメ親父で、便座デザイナーの仕事をしている。妻と離婚し、勉強もスポーツも万能な娘のミンちゃんと二人暮らし。ある日、おっさんは用を足している最中になんと便座に吸い込まれ、地球を救うという大役を与えられヒーローになってしまった！その代償に、イケメンな容姿からぽっちゃり姿に大変身！！おっさんの地球とミンちゃんを守る戦いが、ここから始まる……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash

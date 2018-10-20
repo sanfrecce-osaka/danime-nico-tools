@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/7/10167_1_6.png?1
 outline: 1986年に劇場用作品として第一作が公開され、続編としてＯＶＡが２作作られた人気シリーズの完結編。全編笑いとパワーに満ちたハチャメチャ学園コメディ。今回はキャラクターデザインのもりやまゆうじが監督以外に共同で脚本もつとめる。天然ボケの寿詩子（Ｃ子）をはさみ、相変わらず熾烈な争いを繰り広げる怪力元気娘の摩神英子（Ａ子）と英子のライバル大徳寺美子（Ｂ子）。だが、彼女たちの争いにも、ついに終わりのくるときが…？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：羽田健太郎
   type: staff
 - !ruby/hash:TagHash

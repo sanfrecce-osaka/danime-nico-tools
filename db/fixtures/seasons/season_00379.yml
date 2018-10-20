@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/1/22081_1_6.png?1
 outline: プリ☆チャン！それは……誰でも簡単にはじめることができて、誰でもアイドルになれる夢のチャンネル！キラッとトキめく自分だけのチャンネルをプロデュースして、大人気プリ☆チャンアイドルを目指すのが、女の子みんなに共通の夢……きらりヶ丘中学1年の桃山みらいと萌黄えもは、同じ学校の人気プリ☆チャンアイドル・赤城あんなへの対抗意識からなりゆきでプリ☆チャンデビューすることになってしまう。プリ☆チャンに詳しい優等生・青葉りんかを仲間に入れて、トッププリ☆チャンアイドルを夢見る3人のチャンネル作りが始まった……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 芹澤優
   type: cast
 - !ruby/hash:TagHash

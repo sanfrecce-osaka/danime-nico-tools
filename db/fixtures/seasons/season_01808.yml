@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/28/4/20284_1_6.png?1
 outline: 主人公・桜田ジュンの趣味はネット通販で買った商品を期間ギリギリでクーリングオフしてスリルを楽しむこと。ジュンは姉の“のり”の心配もよそに、今日もこの暗い趣味に精を出していた。そんなある日のこと、ジュンの元に頼んだ覚えのない荷物が届く。中から現れたのは、まるで生きているかのように精巧なアンティークドール。興味本位でこの少女人形のネジを巻いたジュンは、驚愕の事実を目の当たりにする。なんと、この人形が勝手に動き出し、あろうことか平手打ちを放ってきたのだ……！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：花田十輝
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：岡田麿里
+  name: 音楽：光宗信吉
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：光宗信吉
+  name: 脚本：岡田麿里
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：石井久美

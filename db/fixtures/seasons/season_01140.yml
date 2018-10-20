@@ -6,6 +6,12 @@ outline: ついに京への上洛を果たし、織田信長の名も全国区�
   突入！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -24,19 +30,19 @@ tags: !ruby/array:Hashie::Array
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
-  type: cast
-- !ruby/hash:TagHash
   name: 檜山修之
   type: cast
 - !ruby/hash:TagHash
-  name: 立花慎之介
+  name: 大川透
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
   name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 立花慎之介
   type: cast
 - !ruby/hash:TagHash
   name: 高木渉

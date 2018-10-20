@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/02/8/20028_1_6.png?1
 outline: 何が正義で、何が悪なのだろうか・・・？突如、極限状態に陥った日本。その背景には日本全土を絶望の淵に叩き落して行く“謎の侵略者”セプテントリオンの存在が！これは人間への試練なのだろうか！？残酷で壮絶な現実に翻弄される人々と、悪魔と契約し“謎の侵略者”と戦う力を得た個性豊かな“１３人の悪魔使い”たち。これはそんな極限状態に置かれた人々の“葛藤と選択”の物語。世界の終末まで、あと７日。その選択が未来を創る・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 浪川大輔
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 諏訪部順一
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 阿澄佳奈
@@ -41,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田彩
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：中川幸太郎
+  name: 監督：岸誠二
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：岸誠二
+  name: 音楽：中川幸太郎
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：上江洲誠

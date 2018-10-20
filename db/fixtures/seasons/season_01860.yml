@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/6/10926_1_6.png?1
 outline: 長い間、多くの人々に愛され続けてきた手塚治虫の｢火の鳥｣には、わたしたちが深く考えるべき二つの大きなテーマが描かれています。 そのひとつは、｢歴史｣｢宗教｣｢愛｣｢寿命｣｢生き様｣といった人類に普遍的な｢生｣の問題です。もうひとつは、科学や文明の発達にともない提起され始めた、｢環境｣｢遺伝子操作｣｢クローン技術｣｢ロボットと人間の関わり｣という、わたしたち現代人が今まさに直面している、新しい問題なのです。50年も前に描き始められた作品にもかかわらず、｢火の鳥｣は21世紀を生きるわたしたちにとっても｢人間とは、生命とは何か｣を問い続けている物語です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -29,16 +35,16 @@ tags: !ruby/array:Hashie::Array
   name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: 阪脩
-  type: cast
-- !ruby/hash:TagHash
-  name: 浅野まゆみ
-  type: cast
-- !ruby/hash:TagHash
   name: 島田敏
   type: cast
 - !ruby/hash:TagHash
+  name: 阪脩
+  type: cast
+- !ruby/hash:TagHash
   name: 江川央生
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野まゆみ
   type: cast
 - !ruby/hash:TagHash
   name: 製作：NHK

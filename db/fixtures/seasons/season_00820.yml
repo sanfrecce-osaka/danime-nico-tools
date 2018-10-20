@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/83/5/21835_1_6.png?1
 outline: 華やかなりし大正浪漫活劇、開幕。時は大正末期。日本が軍事国家として世界と争わねばならない、熾烈な時代。主人公・柊京一郎は帝國大学へ進学するため、帝都へと上京する。勉学に邁進し、郷里のためにひとかどの人物になると決意していた京一郎はしかし、己が持つ特別な力のために軍部-大日本帝國軍-に目をつけられることになる。死んだ人間-死霊が見えるようになったのは大病を患った幼少時。その時からずっと京一郎にとって恐怖の対象でしかなかった死霊を、軍部は外国の脅威に対抗するための力として用いようとしていた。軍部とその計画を阻止しようとする者たちの対立が、京一郎の運命を巻き込んで、帝國の未来を変えていく-。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash

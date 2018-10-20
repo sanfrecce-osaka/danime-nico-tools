@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/25/2/20252_1_6.png?1
 outline: 巨大なシャチ・ティコと心を通わせることのできる少女、ナナミ。ナナミは海洋学者の父親のスコットとその相棒のアルと三人でペペロンチーノ号に乗り世界中を駆け巡っています。その目的は、伝説の生物ヒカリクジラを見つける事です。一方、巨大企業GMCも、ヒカリクジラが生み出す物質に目をつけ、ヒカリクジラを追っていました。ひょんなことから、メルビル財閥の娘シェリルもナナミたちの仲間に加わって冒険は続きます…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 林原めぐみ
   type: cast
 - !ruby/hash:TagHash

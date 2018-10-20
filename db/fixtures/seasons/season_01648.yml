@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/73/8/10738_1_6.png?1
 outline: 人気イラストレーター・しろが描く“女の子だけのゆるふわアウトドア”コミック『ヤマノススメ』が、2013年1月よりTVアニメ放送開始！インドア趣味で高所恐怖症の「あおい」と、山大好きで常に周りを振り回す「ひなた」。幼馴染の二人は、幼いころ一緒に見た山頂の朝日をもう一度見る為、登山に挑戦することに。登山道具で料理対決したり、近所の小さな山に登ってみたり…。少しずつ知識を身につけ、登山仲間も増えて行く。あの日見た朝日を見られるのはいつ？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

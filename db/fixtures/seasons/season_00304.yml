@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/55/3/11553_1_6.png?1
 outline: 宮沢雪野は、優等生を演じずにはいられない超・見栄っぱり。その本性を、完璧な優等生・有馬総一郎に知られてしまう雪野。しかし、それをきっかけに、二人は互いに惹かれていく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 草尾毅
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 榎本温子
   type: cast
 - !ruby/hash:TagHash
-  name: 新谷真弓
+  name: 私市淳
   type: cast
 - !ruby/hash:TagHash
-  name: 私市淳
+  name: 新谷真弓
   type: cast
 - !ruby/hash:TagHash
   name: 山本麻里安

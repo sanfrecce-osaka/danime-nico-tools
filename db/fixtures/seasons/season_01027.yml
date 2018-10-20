@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/00/5/10005_1_6.png?1
 outline: 生まれつきの鋭い目つきが災いして、まわりには不良だと勘違いされている不憫な高校2年生・高須竜児は、高校2年に進級した春、新しいクラスで1人の少女に出会う。彼女は、超ミニマムサイズな身長の美少女でありながら、ワガママで短気・暴れ始めたら誰にも手が付けられない通称“手乗りタイガー”と呼ばれる逢坂大河であった。そして放課後、竜児は誰もいない教室に1人残っていた“手乗りタイガー”のある一面を知ってしまう・・・。竜虎相打つ恋の共同戦線、超弩級のハイテンション学園ラブコメディーここに始まる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -74,10 +80,10 @@ tags: !ruby/array:Hashie::Array
   name: どこかにカレー
   type: other
 - !ruby/hash:TagHash
-  name: GENCO
+  name: アスキー・メディアワークス
   type: other
 - !ruby/hash:TagHash
-  name: アスキー・メディアワークス
+  name: GENCO
   type: other
 - !ruby/hash:TagHash
   name: 両手に花？

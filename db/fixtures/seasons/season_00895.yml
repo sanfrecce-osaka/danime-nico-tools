@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/32/6/20326_1_6.png?1
 outline: 残念だが告白しよう。俺こと、富樫勇太は中学の時――中二病だった。だが、そんな黒歴史も中学と共に卒業して、順風満帆な高校ライフを満喫中というわけだ。このまま黒歴史も忘れていけるはず…。そう、はずだったんだ。しかし、事件は起きてしまった。いや、起こるべくして起きたというべきか…。そして、その事件をきっかけに現在進行形で中二病感染者の小鳥遊六花と強制的に契約を結ばれてしまった！俺の日常はぶち壊し――って六花！これ以上、俺の中二病心を刺激するのはやめてくれ！中二病を軸として、コミカルかつ切なく描く青春学園ラブコメディ！ここに爆誕！！第１回京都アニメーション大賞＜奨励賞＞受賞作のアニメ化！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash

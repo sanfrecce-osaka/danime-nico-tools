@@ -5,22 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/6/11326_1_6.png?1
 outline: 超集合企業体ゲノムに父を殺されたシリアは、戦闘用亜人“ブーマ”から人々を救うため“ナイトセイバーズ”を結成した。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 佐々木望
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 古川登志夫
   type: cast
 - !ruby/hash:TagHash
-  name: 緒方賢一
+  name: 佐々木望
   type: cast
 - !ruby/hash:TagHash
   name: 堀内賢雄
   type: cast
 - !ruby/hash:TagHash
-  name: 榊原良子
+  name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
   name: 平松晶子
   type: cast
 - !ruby/hash:TagHash
-  name: 古川登志夫
+  name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
   name: 富沢美智恵

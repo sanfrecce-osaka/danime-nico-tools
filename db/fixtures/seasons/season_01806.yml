@@ -6,16 +6,22 @@ outline: これは2人の若人の恋のお話。しかし、恋と呼ぶには�
   ジュリエット両親のカタキ …… 独裁者の後継ロミオ残酷な運命は2人を引き合わせ、恋に落ちる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 川澄綾子
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
   name: 置鮎龍太郎

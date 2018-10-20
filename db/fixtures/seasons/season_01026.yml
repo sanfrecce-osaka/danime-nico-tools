@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/24/9/20249_1_6.png?1
 outline: 18歳のマリアは見習いの修道女。ある日、トラップ一家へ９ヶ月の間、家庭教師として派遣されることになりました。彼女を待っていたのはオーストリアの英雄トラップ男爵と、母親を失い心を閉ざした七人の子供たちでした。最初は反抗的だった子供達もマリアの歌と真心で徐々に心を開いていき、男爵や子供達にとってマリアはかけがえのない存在になっていきます。そしてトラップ男爵の突然のプロポーズ。マリアはいっぺんに七人の子供たちの母親になってしまいます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
   name: 白鳥由里
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺菜生子
   type: cast
 - !ruby/hash:TagHash
   name: 川村万梨阿
@@ -21,9 +27,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 安達忍
-  type: cast
-- !ruby/hash:TagHash
-  name: 渡辺菜生子
   type: cast
 - !ruby/hash:TagHash
   name: 石川寛美

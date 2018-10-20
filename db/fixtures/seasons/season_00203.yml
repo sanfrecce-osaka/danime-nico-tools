@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/03/3/21033_1_6.png?1
 outline: 三橋廉は、すぐメソメソと泣いてしまう性格の野球少年。ポジションはピッチャー。彼は中学時代、“学園の経営者の孫”という理由でエースになっていた。そのくせ、3年間マウンドを誰にもゆずらなかった事でチームメイトに嫌われ、野球部は負け続けた。その罪悪感から、彼は完全に自信を失ってしまっていた。やがて中学を卒業した三橋は、エスカレーター式の三星学園ではなく、野球をやめる覚悟で西浦高校へ入学するが、その足はまっすぐに野球部のグラウンドへ向かっていた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 早水リサ
   type: cast
 - !ruby/hash:TagHash
-  name: 保村真
+  name: 私市淳
   type: cast
 - !ruby/hash:TagHash
-  name: 私市淳
+  name: 保村真
   type: cast
 - !ruby/hash:TagHash
   name: 疋田高志

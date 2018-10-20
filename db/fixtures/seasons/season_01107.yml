@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/09/4/20094_1_6.png?1
 outline: ネオサイタマを舞台にニンジャが大暴れ！ニンジャ抗争で妻子を殺されたサラリマン、フジキドケンジ。彼自身も死の淵にあったそのとき、謎のニンジャソウルが憑依。一命を取り留めたフジキドは「ニンジャスレイヤー」-ニンジャを殺す者となり、復讐の戦いに身を投じていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -38,13 +47,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：Team-MAX
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：藤澤健至
-  type: staff
-- !ruby/hash:TagHash
   name: アニメーション制作：TRIGGER
   type: staff
 - !ruby/hash:TagHash
   name: 監督：雨宮哲
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：藤澤健至
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：大沢伸一

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/27/3/11273_1_6.png?1
 outline: 小さな国エルアの姫ミコトは、幼い頃に町を訪れたある人をきっかけに、ドリランドのあちこちに眠る宝を探すハンターになることを決意した。ある時、ミコトは世話係のウォーレンスと小さな探検に出かけるが、道中で英雄になることを夢見る狩人ポロンと、放浪の騎士パーンと出会い、一緒に旅を続けることになった。色々なハンターたちと出会いや別れを繰り返し、成長していくミコトたち。しかし旅を続けるうちに、ミコトたちは、ドリランドにとてつもない危機が迫っていることを知る。それを裏づけるかのように、ドリランド中に出現する謎の巨大な怪物。迫り来る危機に立ち向かうミコトたち。果たして、彼らの運命は…?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

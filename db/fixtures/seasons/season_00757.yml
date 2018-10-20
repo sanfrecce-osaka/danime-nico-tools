@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/55/1/11551_1_6.png?1
 outline: 国民的アイドルグループ『Sweet Diva』で人気を二分する萩原さくらと宮澤エレナは、ライバルでもあり、また、お互いを認め合う大切な仲間でもあった。ある日、TV番組の収録で『ベルセルク』のプロレスラー・風間璃緒と絡んだエレナは、プロレス技を受け怪我をしてしまう。大切なものを傷つけられたさくらは、エレナの仇を取る為、プロレス勝負を挑むのだった。さくらは闘いの末に何を見つけるのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -17,25 +23,25 @@ tags: !ruby/array:Hashie::Array
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
-  type: cast
-- !ruby/hash:TagHash
   name: 三森すずこ
-  type: cast
-- !ruby/hash:TagHash
-  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 金元寿子
+  name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
-  name: 上坂すみれ
+  name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
   name: 立木文彦

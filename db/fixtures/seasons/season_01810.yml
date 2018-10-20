@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/05/7/10057_1_6.png?1
 outline: 安田均、水野良原作の大ヒットアニメ。｢呪われた島｣の異名を持つロードス島。未だ統一されることないこの島に、ひとりの戦士が旅立った。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -20,19 +29,19 @@ tags: !ruby/array:Hashie::Array
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
-  name: 榊原良子
-  type: cast
-- !ruby/hash:TagHash
-  name: 玉川砂記子
-  type: cast
-- !ruby/hash:TagHash
   name: 青野武
+  type: cast
+- !ruby/hash:TagHash
+  name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
   name: 神谷明
   type: cast
 - !ruby/hash:TagHash
   name: 高山みなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
   type: cast
 - !ruby/hash:TagHash
   name: 冬馬由美

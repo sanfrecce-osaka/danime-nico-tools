@@ -5,22 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/51/8/10518_1_6.png?1
 outline: 聖チェリーヌ学院に通う遥と葵、そしてクルミ。彼女たちは、普段はふつうの女の子だけど、その正体は、奪われた宝物を取り戻す氏名を背負った、｢快盗天使ツインエンジェル｣だったのだ!彼女たちは、強力な｢聖杯のカケラ｣の力を求める悪の組織｢ブラックファンド｣の陰謀を阻止するため、ツインエンジェルに変身して、今日も戦い続ける!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 堀江由衣
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 柚木涼香
+  name: 新谷良子
   type: cast
 - !ruby/hash:TagHash
-  name: 新谷良子
+  name: 柚木涼香
   type: cast
 - !ruby/hash:TagHash
   name: 小野坂昌也

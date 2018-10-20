@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/2/21922_1_6.png?1
 outline: 地球を守る宇宙人と攻撃をかける宇宙人との対決を中心に、ガッタイガーという無敵のマシーン、そして宇宙の悲劇的なロマンスを幻想的な世界に描く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
@@ -28,6 +34,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 監督：芹川有吾
   type: staff
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other

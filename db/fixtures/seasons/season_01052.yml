@@ -6,16 +6,22 @@ outline: 芽生えた恋心は永遠に…、青く澄んだ空へと伸びて�
   唯の想いに誠が応える日はくるのか…？ 前作OVA｢同級生｣の登場人物が第三章にゲストで登場。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 矢島晶子
+  name: 伊藤美紀
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤美紀
+  name: 矢島晶子
   type: cast
 - !ruby/hash:TagHash
   name: こおろぎさとみ
@@ -24,13 +30,13 @@ tags: !ruby/array:Hashie::Array
   name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
-  name: 今井由香
-  type: cast
-- !ruby/hash:TagHash
   name: 一条和矢
   type: cast
 - !ruby/hash:TagHash
   name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
   type: cast
 - !ruby/hash:TagHash
   name: 江川央生
@@ -39,7 +45,7 @@ tags: !ruby/array:Hashie::Array
   name: 室園丈裕
   type: cast
 - !ruby/hash:TagHash
-  name: 川津泰彦
+  name: 柳原みわ
   type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：りんしん

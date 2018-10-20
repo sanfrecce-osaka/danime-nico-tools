@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/20/7/20207_1_6.png?1
 outline: Fate＜運命＞に巻き込まれた少女たちの物語は遂に夏休みに突入！？海！ 水着！ 誕生日！ 魔法少女たちの日常（！？）はこれからが本番！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 加藤英美里
-  type: cast
-- !ruby/hash:TagHash
-  name: 佐藤聡美
-  type: cast
-- !ruby/hash:TagHash
   name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也
@@ -26,19 +29,22 @@ tags: !ruby/array:Hashie::Array
   name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 植田佳奈
+  name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: 植田佳奈
   type: cast
 - !ruby/hash:TagHash
   name: 杉山紀彰
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 伊瀬茉莉也
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：ランティス

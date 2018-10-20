@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/91/9/21919_1_6.png?1
 outline: 古代に海中に住み、絶滅したと考えられていたドラゴノザウルスが突然、東京を襲った。タンカーや石油タンクを食べてますます巨大化していく。政府は日本中のロボットを集め、強大なロボット軍団を組織して大海獣を迎え撃とうと考えた。その要請にグレンイザー、ゲッターロボG、グレートマジンガー、そして、ボスボロット、ダイアナA、ビーナスAなどが次々と集まった。だが、大海獣はロボットたちの一斉攻撃をあびてもトカゲのように再生し、また襲ってくるのだった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 富山敬
   type: cast
 - !ruby/hash:TagHash
@@ -37,6 +43,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 原作：石川賢
   type: staff
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other

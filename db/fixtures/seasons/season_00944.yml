@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/72/2/10722_1_6.png?1
 outline: 1話｢先輩と一期一会｣:亀井戸高校のテニスコートに立つ、ユリとかなえ。テニス部らしく、ちゃんとテニスの練習をしたいユリとは裏腹に、かなえはおかしな構えや動きを次々繰り出していき…。/2話｢先輩とカリビアン｣/3話｢先輩と黄金狂時代｣/4話｢先輩とグーニーズ｣/5話｢先輩とDENGEKI｣/6話｢先輩とウォーターワールド｣/7話｢先輩とロシアより愛をこめて｣/8話｢先輩と7月4日に生まれて｣/9話｢先輩とディナーラッシュ｣/10話｢先輩とウハウハザブーン｣/11話｢先輩とナチョ・リブレ｣/12話｢先輩とシックスセンス｣(最終回)
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -20,6 +26,9 @@ tags: !ruby/array:Hashie::Array
   name: 監督：板垣伸
   type: staff
 - !ruby/hash:TagHash
+  name: アニメーション制作：MAPPA
+  type: staff
+- !ruby/hash:TagHash
   name: キャラクターデザイン：板垣伸
   type: staff
 - !ruby/hash:TagHash
@@ -27,9 +36,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：板垣伸
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：MAPPA
   type: staff
 - !ruby/hash:TagHash
   name: 原作販売元：月刊コミック アース・スター

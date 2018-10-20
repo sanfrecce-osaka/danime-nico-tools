@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/9/10019_1_6.png?1
 outline: 地方都市コルドロン・シティで楽しく食事の時間を過ごしていたリナとナーガの頭上に、ドラゴンに乗った少女が飛来してきた。少女の名はマレーネ。マレーネは強引にカルバート城の開門を迫り、城を守る兵士といざこざを起こす。リナが、うるさいマレーネを撃退するのを見ていた兵士たちは、領主ロード・カルバートにぜひ会ってほしい、とリナに懇願するが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：わたなべひろし
+  name: 原作：神坂一
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：神坂一
+  name: 監督：わたなべひろし
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：服部隆之

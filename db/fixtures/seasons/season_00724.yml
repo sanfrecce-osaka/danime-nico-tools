@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/4/10014_1_6.png?1
 outline: 舞台は過去と現在が交錯する“約束の島”ミプロス島。老賢者ラウディは、魔族ジョイロックに滅ぼされたエルフの村を救えなかった哀しい過去を持つ。彼は今、リナの手を借りて、この島のあってはならない過去を正し、あるべき姿の未来を取り戻そうとしていた。ジョイロックとの激戦のさなか、ラウディはジョイロックを道連れに時の扉を開き、リナを遥か時の彼方、あのジョイロックの襲撃の日に送り込んだ・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash

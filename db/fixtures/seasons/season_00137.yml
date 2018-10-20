@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/52/4/11524_1_6.png?1
 outline: ここは仙台のはずれにある小さな動物園“うぇいくあっぷがーるＺＯＯ”。この動物園は現在存亡の危機に瀕していた。園長の丹下は飼育員松田に、新しい動物ユニットの発掘を命ずる。集められた７匹の猛獣たちの活躍によって動物園を復活させることは可能か？うぇいくあっぷがーるＺＯＯ！の明日はどっちだ!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash

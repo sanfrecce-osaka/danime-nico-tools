@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/43/1/11431_1_6.png?1
 outline: 異世界から帰還した若者を保護する国際教育機関｢BABEL｣。剣と魔法の世界｢アレイザード｣から現実世界に戻った<鳳沢暁月>は歴史上初の、魔王を倒した｢真の勇者｣として｢BABEL｣に衝撃を持って迎えられる。しかも、その傍らには自らが倒した魔王に託されたその娘<ミュウ>を従えて-----男らしくて自由奔放、女好きでフェミニストな主人公・暁月が、異世界から連れてきたヒロインや現実世界で待ちうける美少女たちと、ちょっとHな学園生活を送りながら、学園内の権力闘争や生徒会メンバーたちとのバトルに巻き込まれる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
+  name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 日野聡
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 植田佳奈

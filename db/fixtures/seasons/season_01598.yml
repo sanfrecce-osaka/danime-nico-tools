@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/8/10438_1_6.png?1
 outline: 歌に映像を載せたミュージックビデオで、各歌前のアイキャッチ及び新録の｢瞳の星座｣の部分が新作であり、他はテレビシリーズの再編集である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash

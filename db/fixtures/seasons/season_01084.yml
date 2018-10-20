@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/35/7/20357_1_6.png?1
 outline: いまだ人と、人ならざるものの世界が、分かれてはいなかった時代。絶大なる魔力を有し、人々から敬われ、時に恐れられる存在＜聖騎士＞に守られた『リオネス王国』。王国の王女エリザベスは、たった一人国を離れ、ある者たちを探す旅に出ていた。それは最強最悪の騎士団として恐れられ、国を裏切り、全聖騎士を敵に回した罪人たち──＜七つの大罪＞。たどり着いた一軒の酒場で、エリザベスは店主を名乗る少年・メリオダスに出会う。それは、彼女と＜七つの大罪＞たち、そして世界の命運を一変させるとびきりの冒険の始まりであった―-！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作：A-1 Pictures
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：花田十輝
+  name: 音楽：澤野弘之
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：澤野弘之
+  name: 脚本：花田十輝
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：佐々木啓悟
@@ -62,10 +68,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2014年
+  name: 講談社
   type: other
 - !ruby/hash:TagHash
   name: 少年マガジン

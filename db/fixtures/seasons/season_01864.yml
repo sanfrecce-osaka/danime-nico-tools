@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/02/7/21027_1_6.png?1
 outline: 北関東某所・眉難市・・・・・・眉難高校の｢地球防衛部｣は、ひょんなことからバトルラヴァーズにラブメイキング(変身)して、征服部が繰り出す怪人と戦うことに。バトラヴァ活動もはや半年。テレビ宇宙の放送する番組のせいで征服部と戦わされていたことが判明。和解した防衛部と征服部が力を合わせ、黒幕の番組ディレクターを倒し無事打ち切りに。これで戦うこともなくなったよね！と高校生活を満喫しようと、いつもの黒玉湯でお湯につかっていると・・・・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash

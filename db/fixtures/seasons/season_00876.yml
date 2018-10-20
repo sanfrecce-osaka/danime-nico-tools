@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/67/1/10671_1_6.png?1
 outline: 普通の高校生活を送っていた鏑木アキラ。しかし彼には幼い頃に交わした誓約があった。それは夜の眷属の王・ヴァンパイアの女王に仕えるというもの。あるときアキラの前に一人の少女が現れる。その少女こそが古の契約の王女、ヴァンパイアを統べる孤高の女王にして夜の闇に君臨する少女ミナ・ツェペッシュだった。日本に現れた彼女の目的はヴァンパイア専用居住区=ヴァンパイアバンドを設立する事…。空想と思われたヴァンパイアの出現と、日本における特区の建国。戸惑う人々はヴァンパイアと共存すべきか否かを模索し、そして対立するヴァンパイア勢力は女王の座を降ろさんとミナの命を狙う…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
-  name: 中田譲治
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
   name: 渡辺明乃

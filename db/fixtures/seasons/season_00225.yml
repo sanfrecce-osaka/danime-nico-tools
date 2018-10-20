@@ -7,6 +7,9 @@ outline: この作品は『とある事情でしばらく離れ離れになっ�
   秋人の望んでいた『平凡な日々』はあらぬ方向に進んで行ってしまうことになるのであった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -64,10 +67,10 @@ tags: !ruby/array:Hashie::Array
   name: MF文庫J
   type: other
 - !ruby/hash:TagHash
-  name: 飯田里樹
+  name: 林コージロー
   type: other
 - !ruby/hash:TagHash
-  name: 林コージロー
+  name: 飯田里樹
   type: other
 - !ruby/hash:TagHash
   name: Elements Garden

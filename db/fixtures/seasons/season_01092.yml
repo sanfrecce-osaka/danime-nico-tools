@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/16/3/21163_1_6.png?1
 outline: 南波刑務所(ナンバケイムショ)　海上に浮かぶ孤島にして、難航不落の巨大刑務所。屈強な看守達と世界最高水準のセキュリティに守られたこの刑務所から脱獄できる者は、何人たりともいない・・・はず！？謎の枷を持つ天才脱獄囚・ジューゴ(囚人番号15番)　女好きのギャンブラー・ウノ(囚人番号11番)　喧嘩上等食道楽・ロック(囚人番号69番)　持病持ちのオタクっ子・ニコ(囚人番号25番)　13舎13房に集う、ちょっと変わった4人の囚人。彼らの脱獄を阻む為、日々ダッシュする最強看守の双六一！！個性豊かな囚人・看守達の最高にピュアでバカな物語が、この刑務所で幕を開ける！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
   name: 柿原徹也
-  type: cast
-- !ruby/hash:TagHash
-  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 小林ゆう
@@ -38,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 藤原祐規
   type: cast
 - !ruby/hash:TagHash
-  name: 上村祐翔
+  name: kimeru
   type: cast
 - !ruby/hash:TagHash
   name: 監督：高松信司

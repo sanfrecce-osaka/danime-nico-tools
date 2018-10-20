@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/36/4/11364_1_6.png?1
 outline: "｢戦国BASARA｣はシリーズ累計330万本(2013年12月現在)を越える、カプコンの大人気アクションゲームシリーズ。戦国時代を舞台とし、伊達政宗・真田幸村・徳川家康・石田三成といった史実でも有名な武将が夢の対決をするという豪華な設定がヒットし、幅広いユーザー層に支持されている。2005年より始まったこの作品はゲームの枠を超え、さまざまマルチメディア展開が行われており、今回の新作TVアニメシリーズは、ゲーム｢戦国BASARA3｣を基に、関ヶ原を舞台とした壮大な戦国時代のアニメーション。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -20,25 +26,25 @@ tags: !ruby/array:Hashie::Array
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 保志総一朗
+  name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
-  name: 玄田哲章
+  name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
   name: 大川透
   type: cast
 - !ruby/hash:TagHash
-  name: 立木文彦
-  type: cast
-- !ruby/hash:TagHash
   name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：テレコム・アニメーションフィルム
-  type: staff
+  name: 立木文彦
+  type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：千葉道徳
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：テレコム・アニメーションフィルム
   type: staff
 - !ruby/hash:TagHash
   name: 監督：佐野隆史

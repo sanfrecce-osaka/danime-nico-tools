@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/48/5/21485_1_6.png?1
 outline: "【剣姫】アイズ・ヴァレンシュタイン。最強と名高い女剣士は今日も仲間たちと共に、広大な地下迷宮『ダンジョン』へと繰り出していく。様々な謎と脅威が襲いかかる深層域で、アイズが風を呼び、迷宮の闇へと一閃を刻む！迷宮都市オラリオの地で、それぞれの物語が今、鮮烈に交差する！これは、強さを求め続ける少女と、その眷族の物語"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 大西沙織
+  name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
-  name: 田村睦心
+  name: 大西沙織
   type: cast
 - !ruby/hash:TagHash
   name: 村川梨衣

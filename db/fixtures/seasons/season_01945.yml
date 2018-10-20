@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/9/10639_1_6.png?1
 outline: それは、宇宙の底にある、おとぎの国・・・。荒野に夢、街に暴力があふれる、ボンクラ達の理想郷・・・。人呼んで、惑星・エンドレス・イリュージョン。流浪の男、その名はヴァン。さらわれた兄を追い求める少女・その名はウエンディ。荒野の果てに、一人は絶望を、一人は希望を見つめ、二人は今、運命の旅へと踏み出すのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

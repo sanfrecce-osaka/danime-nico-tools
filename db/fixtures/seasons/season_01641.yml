@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/53/6/11536_1_6.png?1
 outline: アイルー村のぎりぎりライフが更にパワーアップ!!「モンスターハンター」の人気キャラクター、アイルーを主役にしたショートアニメの続編。アイルー達が楽しく暮らす村に住むニャイトと仲間達は村の発展のため、御石を採掘したり、オトモに出たり、武器を強化したりと果敢に様々なクエストにチャレンジ。ニャイト達はピンチを乗り越えクエストクリアできるのか…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

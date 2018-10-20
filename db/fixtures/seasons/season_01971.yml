@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/2/20382_1_6.png?1
 outline: 孤島の研究所で、少女時代から完全に隔離された生活を送る天才プログラマ・真賀田四季。四季に一目会いたいと、研究所を訪れた那古野大学准教授・犀川創平と学生・西之園萌絵はそこである事件に遭遇する。彼らが目にしたのは、誰も出入りできないはずの四季の部屋から現れた、ウエディングドレスを纏い両手両足を切断された死体だった―。不可思議な密室殺人に犀川と萌絵が挑む。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤健太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 種﨑敦美
+  name: 村田太志
   type: cast
 - !ruby/hash:TagHash
-  name: 村田太志
+  name: 種﨑敦美
   type: cast
 - !ruby/hash:TagHash
   name: 加瀬康之

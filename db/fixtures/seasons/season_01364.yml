@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/13/6/20136_1_6.png?1
 outline: 1870年頃のベルギー・フランダース地方でのこと。ネロはおじいさんと貧しいながらも幸せに暮らしていました。ある日、ネロは道端に捨てられていた犬のパトラッシュを見つけ、家に連れて帰り看病します。元気になったパトラッシュは牛乳運びの仕事を手伝ったり、いつもネロと一緒に過ごすようになりました。ところが、おじいさんが無理をして働いたために体を壊し、やがて亡くなってしまいます。それから次々と不幸な出来事が訪れます。ネロはパトラッシュと共に健気に立ち向かいますが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大木民夫
   type: cast
 - !ruby/hash:TagHash

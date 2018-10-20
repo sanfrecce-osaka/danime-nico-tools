@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/20/0/22200_1_6.png?1
 outline: 百年の長きに渡り人類と外の世界を隔ててきた壁。その壁の向こうには見たことのない世界が広がっているという。炎の水、氷の大地、砂の雪原……。本の中に書かれた言葉は、少年の探究心をかき立てるものばかりだった。やがて時が過ぎ、壁が巨人によって壊された現在、人類は一歩ずつ世界の真実へと近づこうとしている。巨人の正体は何なのか？何故、壁の中に巨人が埋まっていたのか？巨人化したエレン・イェーガーが持つ「座標」の力とは？そして、ヒストリア・レイスはこの世界の何を知るのか？エレンら104期兵を加え、新たな体制となったリヴァイ班。行動を開始した彼らの前に、最強最悪の敵が立ち塞がる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 小野大輔
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
@@ -65,10 +74,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

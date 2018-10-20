@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/25/7/11257_1_6.png?1
 outline: 亀井戸高校テニス部の普通じゃない女の子4人の抱腹絶倒の日常。アホな先輩たちに振り回されるうちにツッコミっぽい立場になった後輩の「押本ユリ」、テニス部なのにテニスがほとんどできないボケマシーン2年生の「新庄かなえ」、予想不可能な関西風ド変態2年生「板東まりも」、何でもお金で解決しちゃう謎多き天然お嬢様2年生「高宮なすの」。異次元なボケをかます新聞部の1年生「近藤うどん子」やまりもの家に突然現れた宇宙人の「トマリン」などの新キャラクターも登場！2期になってもテニスそっちのけであいかわらずのカオスっぷりに目が離せない！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 演出：板垣伸
   type: staff
 - !ruby/hash:TagHash

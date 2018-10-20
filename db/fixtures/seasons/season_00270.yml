@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/17/6/10176_1_6.png?1
 outline: 暗い街があった。荒廃し、渾沌とした街の中に出来る隙間。路地の明かりが燈るとき、その向こうには、子供にしかできない遊び、子供にしか入れない世界があった。子供たちは知っている。鬼と呼ばれる異形の者達との｢オトコヨ様のお遊戯｣、秘密の遊び｢カクレンボ｣のことを。行方不明になった妹を探すためにカクレンボに参加する少年ヒコラ、そしてヤイマオ。鬼の正体を暴こうとする3人組のノシガ、タチジ、スク。不気味な双子インム、ヤンク。そしてたった一人の女の子。子供たちは知りたかった。この遊びを、この街を、この世界を‥‥。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 竹内順子
   type: cast
 - !ruby/hash:TagHash

@@ -5,7 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/5/10615_1_6.png?1
 outline: ケルト魔法、陰陽道、神道、ソロモン王の魔神、密教など、古今東西に実在する魔法が激しく火花を散らす!高校生の主人公・伊庭いつきは父の遺した会社｢アストラル｣を継ぐことになるが、その会社とはお客の依頼にあった魔法使いを貸し出す｢魔法使い派遣会社｣。社員の魔法使いたちと共に数々の敵と戦ういつきの前に立ちはだかるのは---!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

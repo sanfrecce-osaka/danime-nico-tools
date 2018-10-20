@@ -5,37 +5,46 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/80/0/21800_1_6.png?1
 outline: ある日、結月はスマホから突然放たれた謎の光に包まれ、気が付くと見たこともない場所にいた。彼女の目の前に広がる風景は、まるで戦国時代の日本――そこは、吸血鬼や人狼などの人ならざる者が暮らす『神牙（しんが）』と呼ばれる異世界だった。その昔、『神牙』は特別な血を持つ姫神子の加護の元、それぞれの種族は平和に暮らしていた。しかし、ある日忽然と姫神子が消えてしまう。姫神子の加護を失った『月牙族（げっがぞく）』と呼ばれる武将たちは、天下統一を目指して争い始め、世は正に戦乱の時代を迎えていた。そして、その混乱に呼応するかのように、人々を襲う謎の化物『厄魔（やくま）』もまた、各地で跳梁跋扈していた。豊臣軍を率いる武将・豊臣秀吉は、戦場で助けた結月を自軍に迎え入れ、ふとしたきっかけで彼女の血に月牙族を覚醒させる力がある事を知る。そして、織田、上杉、武田、真田、伊達の各軍もまた結月の血が持つ力を知り、それぞれの思惑の元、結月を求めて動き始める。「異世界から来た娘を探して」と茶釜を背負った白いたぬき、イマリに言い残して消えた姫神子。増え続ける厄魔……。武将たちは結月の力に触れ、何を守り、誰と戦うのか。戦乱の異世界を舞台に新たな物語を紡ぐ――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 岡本信彦
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
-  type: cast
-- !ruby/hash:TagHash
-  name: 木村良平
+  name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 木村良平
   type: cast
 - !ruby/hash:TagHash
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 緑川光
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長
@@ -53,6 +62,9 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：奥山鈴奈
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：薄葉カゲロー
+  type: staff
+- !ruby/hash:TagHash
   name: キャラクターデザイン：小松原聖
   type: staff
 - !ruby/hash:TagHash
@@ -62,13 +74,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：颱風グラフィックス
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：薄葉カゲロー
-  type: staff
-- !ruby/hash:TagHash
   name: キャラクターデザイン：花邑まい
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：花邑まい
+  name: キャラクターデザイン：四季咲組
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

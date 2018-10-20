@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/2/10202_1_6.png?1
 outline: あの大冒険から3年後,ラムネは中学生となりハラハラワールドのことも忘れてしまっまっていた。しかし,突如ミルクが現れ,謎の鉄仮面が命を狙ってくる。アララ王国は大きな危機にさらされていた。今こそ勇者ラムネス復活のとき。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：りゅうてつし
   type: staff
 - !ruby/hash:TagHash

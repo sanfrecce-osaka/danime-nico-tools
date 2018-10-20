@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/34/0/10340_1_6.png?1
 outline: 人類が宇宙惑星連合を設立した遠い未来――。GOTT(銀河通商関税機構)のESメンバー、エクレールとリュミエールは、惑星国家間に頻発する経済事件や犯罪を解決するエージェントである。特殊な能力を有する彼女たちは、通常の対応では解決しえない高度な事件を担当する。その過酷な特務の中、エクレールは自ら捨て去った｢過去｣と出会った。そしてこの銀河を支配する絶対的な｢存在｣を知ったとき、彼女が選んだ道は――!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
-  name: 南央美
+  name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴置洋孝
+  name: 南央美
   type: cast
 - !ruby/hash:TagHash
   name: 製作：GONZO

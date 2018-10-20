@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/34/6/11346_1_6.png?1
 outline: "「近年急増する凶悪犯罪。その犯人検挙及び全容解明のため、科学警察研究所・法医第九研究室はＭＲＩ捜査を開始した。…取り出された犠牲者の脳から見えてきた映像は被疑者だけでなく、本人のあらゆる記憶をさらけ出していた…」"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 実写化・舞台化
+  name: 製作年：2008年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2008年
+  name: 実写化・舞台化
   type: other
 - !ruby/hash:TagHash
   name: 白泉社

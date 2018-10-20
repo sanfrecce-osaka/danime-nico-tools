@@ -6,6 +6,15 @@ outline: 白蘭を倒すため、ツナは｢ボンゴレ匣｣を入江に託�
   ツナたちに課された7つの試練とは？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash

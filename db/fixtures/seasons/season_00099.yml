@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/65/7/21657_1_6.png?1
 outline: 神様の手違いで死んでしまった主人公は、異世界で第2の人生をスタートさせる。彼にあるのは神様から底上げしてもらった身体と、異世界でも使用可能にしてもらったスマートフォン。様々な人達と出会い、大切な仲間を得ていく中で、いつしか主人公はこの世界の秘密を知る。古代文明の遺産を受け継ぎ、お気楽な世界の王たちと力を合わせながら、個性豊かな女の子たちと共に彼はのほほんと世界を巡っていく―――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：プロダクションリード
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：冬原パトラ
+  name: 監督：柳瀬雄之
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：柳瀬雄之
+  name: 原作：冬原パトラ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：舛舘俊秀

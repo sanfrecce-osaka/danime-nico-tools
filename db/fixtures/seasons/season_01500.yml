@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/07/7/20077_1_6.png?1
 outline: かわいいかと思いきや、男前!まんまる猫と、飼主の佐藤萌と、その家族、周囲の人々を描いたほんわかギャグアニメーション。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash

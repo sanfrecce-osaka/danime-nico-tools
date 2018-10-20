@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/72/3/21723_1_6.png?1
 outline: それでも人は己に言い続けなければならない考えろと―――油泥海に囲まれた小さな島、尖端島（せんたんとう）。70年前の戦争で南大陸自由圏に吸収されたこの島で、アキユキは母と二人暮し。父親は現在別居中で、小さな診療所を一人で営んでいる。ある日、アキユキは親友のハルやフルイチと通学中、共に爆破事件に巻き込まれる。爆発によって生まれた謎の光を腕に受け、アキユキはザムドと呼ばれるバケモノに変身してしまう。自我を失い、暴走するザムドの元に現れたのは、赤い髪をした異国の少女、ナキアミだった・・・・・・。ナキアミはザムドの暴走を止め、国際郵便船ザンバニ号へとアキユキを連れ帰る。ザムドの力を制御できるようになることと、いつか尖端島に戻ることを目的に、アキユキはザンバニ号の仲間と世界を巡っていくのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
   name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 立花慎之介
-  type: cast
-- !ruby/hash:TagHash
   name: 石塚運昇
   type: cast
 - !ruby/hash:TagHash
   name: 三瓶由布子
+  type: cast
+- !ruby/hash:TagHash
+  name: 立花慎之介
   type: cast
 - !ruby/hash:TagHash
   name: 藤村歩

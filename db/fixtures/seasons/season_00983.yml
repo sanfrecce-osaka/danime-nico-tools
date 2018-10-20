@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/54/5/20545_1_6.png?1
 outline: 同時多発的に事件は起こり、池袋の街は混沌の渦へと呑み込まれていく。それぞれの事情を抱え、新羅のマンションへ集った者達。街では“ダラーズ”“黄巾賊”“罪歌”の勢力がひしめいていた。そしてセルティの“首”が白日の下に晒された時、事態は誰もが予期しなかった結末へと動き出す――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -17,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
-  type: cast
-- !ruby/hash:TagHash
-  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
   name: 喜多村英梨
@@ -32,19 +41,19 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: 監督：大森貴弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大森貴弘
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：岸田隆宏
@@ -62,7 +71,7 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2015年
+  name: 製作年：2016年
   type: other
 - !ruby/hash:TagHash
   name: 電撃

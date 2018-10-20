@@ -6,6 +6,12 @@ outline: 機械皇国によってとらわれてしまった天才科学者の�
   Xは、ボロボロになりながらも数々の戦いを乗切り、兄の救出を目指す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
@@ -24,10 +30,10 @@ tags: !ruby/array:Hashie::Array
   name: 折笠愛
   type: cast
 - !ruby/hash:TagHash
-  name: 一条和矢
+  name: 横山智佐
   type: cast
 - !ruby/hash:TagHash
-  name: 横山智佐
+  name: 一条和矢
   type: cast
 - !ruby/hash:TagHash
   name: 堀川仁

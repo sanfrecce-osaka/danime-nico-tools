@@ -6,6 +6,12 @@ outline: 水の星AQUA(アクア)の観光都市ネオ・ヴェネツィアを�
   The ANIMATION｣。そのセカンド・シーズンである｢ARIA The NATURAL｣は、佐藤順一監督をはじめとするスタッフ&キャストはそのままに、さらにナチュラルで優しい世界へ視聴者を誘います。今シリーズのテーマは“出会い”。出会いを見守る街としてのネオ・ヴェネツィアの『素敵』を描いていきます。主人公に優しくてちょっぴり切ない物語が広がります。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash

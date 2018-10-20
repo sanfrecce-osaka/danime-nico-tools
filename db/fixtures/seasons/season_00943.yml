@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/7/11517_1_6.png?1
 outline: またもや鷲羽の起こした問題から、世界が大ピンチ！世界の危機を救うため天地が順愛学園という女子高へ教育実習生としてもぐりこむことに。天性の巻き込まれ体質の天地には赴任した早々、数々の問題が降りかかる。そして、それはまさに、天地の苦難に満ちた教師生活の始まりとなる…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
   name: 折笠愛
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林優子
   type: cast
 - !ruby/hash:TagHash
-  name: 優木かな
+  name: 田辺留依
   type: cast
 - !ruby/hash:TagHash
-  name: 田辺留依
+  name: 優木かな
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：平野義久
@@ -50,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：AIC PLUS+
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：梶島正樹
+  name: キャラクターデザイン：ヤスダスズヒト
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：ヤスダスズヒト
+  name: 原作：梶島正樹
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：猪股雅美

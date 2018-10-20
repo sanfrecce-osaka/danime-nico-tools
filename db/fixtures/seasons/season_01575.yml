@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/0/10390_1_6.png?1
 outline: "｢ダイバージェンス・イヴ｣の続編。居住リングごとワープさせる“エクソダス・プロジェクト”で地球圏へ脱出したウォッチャーズ・ネストのクルーたち。だが、地球は時間障壁に覆われていた…。この時空の迷宮から脱出するための方法を模索するライアーたちの前に、今とは異なる時間軸のみさきが様々な姿で現れる…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 水沢史絵
   type: cast
 - !ruby/hash:TagHash
-  name: 木内レイコ
+  name: 沢木郁也
   type: cast
 - !ruby/hash:TagHash
-  name: 沢木郁也
+  name: 木内レイコ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：RADIX

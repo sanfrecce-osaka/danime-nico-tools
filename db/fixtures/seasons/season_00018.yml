@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/00/7/22007_1_6.png?1
 outline: 人間の住む「物質界(アッシャー) と悪魔が住む「虚無界(ゲヘナ)」。本来は干渉することすらない二つの次元だが、悪魔はあらゆる物質に憑依し、物質界に干渉していた。しかし人間の中には、そんな悪魔を祓う『祓魔師』が存在した―。魔神（サタン）の落胤として生まれた奥村燐は、己の出自を隠し祓魔師になることを決意。正十字学園内部に存在する祓魔師養成機関・祓魔塾に通っていたが、地の王・アマイモン襲撃の際、魔神の落胤であることが露見してしまう。魔神の「青い炎」を恐れ、燐と距離を置く仲間たち……。そんな最中、学園最深部に封印されていた「不浄王の左目」が何者かに盗まれてしまい、燐たちは予期せぬ事態に巻き込まれていく―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
-  name: 梶裕貴
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
   name: 喜多村英梨
@@ -32,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 遊佐浩二
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
-  type: cast
-- !ruby/hash:TagHash
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 谷山紀章
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：澤野弘之
@@ -47,13 +53,13 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：佐々木啓悟
   type: staff
 - !ruby/hash:TagHash
+  name: 音楽：KOHTAYAMAMOTO
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：初見浩一
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：細越裕治
-  type: staff
-- !ruby/hash:TagHash
-  name: 音楽：KOHTAYAMAMOTO
   type: staff
 - !ruby/hash:TagHash
   name: 原作：加藤和恵

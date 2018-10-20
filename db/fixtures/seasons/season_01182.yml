@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/3/20383_1_6.png?1
 outline: 悩める人類を捗らせるために生まれたパーソナルエンタメAI“ハッカドール”　ポンコツだけどどこか憎めない彼女たちが体を張っていろんな人のお悩みを解決！今日はアイドル！明日はコンビニ店員！明後日はエンジニア！お次はアニメ制作進行で…その次は魔法少女！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 柚木涼香
   type: cast
 - !ruby/hash:TagHash

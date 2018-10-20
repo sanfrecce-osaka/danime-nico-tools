@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/6/21896_1_6.png?1
 outline: ダヤンのちょっと不思議な毎日。幕が開くと、タシルの街のちょっとおかしな日常が仲間たちと繰り広げられます！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash

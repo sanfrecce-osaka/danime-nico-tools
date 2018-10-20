@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/5/10165_1_6.png?1
 outline: 怪力元気娘の摩神英子(A子)、彼女を慕う天然ボケの寿詩子(C子)、英子のライバル大徳寺美子(B子)の3人が繰り広げるハチャメチャ学園SF第2弾。前作でキャラクターデザインだったもりやまゆうじが監督を務める。今回は、A子のライバルB子をクローズアップ。無邪気で可愛いC子を自分のものにしたいと思うB子だったが、それにはC子の慕うA子が邪魔。だが、怪力のA子にB子は歯が立たない。そこで、B子が考え出した作戦とは…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：もりやまゆうじ
   type: staff
 - !ruby/hash:TagHash

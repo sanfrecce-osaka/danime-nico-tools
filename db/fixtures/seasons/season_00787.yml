@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/85/1/10851_1_6.png?1
 outline: アーハンブラ城から無事にタバサを救出して魔法学院に戻ってきたルイズと才人たち。あいかわらず才人はルイズに虐げられながらも健気に使い魔としてルイズのお守りをしている。急遽、アンリエッタ女王の密命で学院からロマリアへ赴くルイズと才人。ティファニアもルイズたちと一緒に行くことに…。ルイズとティファニアは、ロマリア教皇の就任三周年式典で「巫女」として共に祈りをささげて欲しいと依頼される。憧れの教皇聖下に謁見し感激するルイズ。一方、自分が虚無の担い手と知ったティファニアは、「才人が自分の使い魔であればいいのに」と急に意識し出すことにより何やら波乱の予感が…。そんな中、ルイズたちに狡猾で邪悪な影が忍び寄るのだった!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 能登麻美子
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 川澄綾子
@@ -26,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 平川大輔
+  name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
   name: 立花慎之介

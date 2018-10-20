@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/00/9/11009_1_6.png?1
 outline: 人類を襲う謎の敵《異次元体ノヴァ》との戦いで最愛の姉を失った少年・アオイ=カズヤは、ノヴァに対抗できる力を持った戦士《パンドラ》とそのパートナー《リミッター》の育成機関の一つ《ウェストゼネティックス》へ編入する。そこでカズヤは《接触禁止の女王》として恐れられる少女・サテライザー=エル=ブリジットと出会う。亡き姉の面影を残したサテライザーに惹かれるカズヤは、始めは拒絶されながらも彼女と共に戦いへと身を投じ、徐々にその距離を縮めていく。そんな中、《ゼネティックス》の上位機関である《シュバリエ》の命令によって、カズヤたちはアラスカにある基地へと派遣される。そこでは新たなノヴァへの対抗策として、人工的にパンドラを生み出す《Eパンドラ計画》が進められていた。各国のゼネティックスから招集された最強との呼び声高いパンドラたち。そして数々の問題を抱えながらも強行されるEパンドラ計画。物語は思わぬ方向へと動き始めていく……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 花澤香菜
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 甲斐田裕子
@@ -53,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：A・C・G・T
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：金光鉉
+  name: 原作：林達永
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：林達永
+  name: 原作：金光鉉
   type: staff
 - !ruby/hash:TagHash
   name: フリージングシリーズ

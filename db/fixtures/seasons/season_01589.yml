@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/27/6/21276_1_6.png?1
 outline: ある夜、突然１９８３年から２０５０年にタイムスリップした一人の青年。記憶を失った彼は未来都市ネオ・トキオを守る機動メカ分署マグナポリス３８に保護され、ウラシマ・リュウと名付けられる。メカ分署の刑事となったリュウは、仲間のクロード、ソフィアと共に街に暗躍する犯罪帝国ネクライムに敢然と立ち向かう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 塩沢兼人
+  name: 田中真弓
   type: cast
 - !ruby/hash:TagHash
-  name: 田中真弓
+  name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash
   name: 神谷明
@@ -29,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 丸山詠二
   type: cast
 - !ruby/hash:TagHash
-  name: 北浜晴子
+  name: 小林通孝
   type: cast
 - !ruby/hash:TagHash
-  name: 小林通孝
+  name: 北浜晴子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：タツノコプロ

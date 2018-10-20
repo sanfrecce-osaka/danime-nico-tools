@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/87/0/20870_1_6.png?1
 outline: 物語の主人公、星宮エイジの通う高校に転校生がやって来た。容姿端麗なその彼女は、紅鈴(くれないりん)という。お近づきになりたい、と願うエイジ。下校して帰宅の途に着くエイジの背後に現れたのは、何とその転校生、紅鈴だった！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 原田ひとみ
   type: cast
 - !ruby/hash:TagHash
-  name: 三上枝織
+  name: 田所あずさ
   type: cast
 - !ruby/hash:TagHash
-  name: 田所あずさ
+  name: 三上枝織
   type: cast
 - !ruby/hash:TagHash
   name: 新垣樽助

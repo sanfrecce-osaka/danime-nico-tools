@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/08/3/11083_1_6.png?1
 outline: 主人公・季堂鋭太は成績優秀で恋愛アンチな高校一年生。妹みたいな幼なじみ・春咲千和と普通の高校生活を過ごしていたが、ある日校内一の美人と評判の帰国子女・夏川真涼から告白されてしまう。しかしその真意は、周囲の目をごまかすための偽装カップルを演じることだった。真涼にある“秘密”を握られてしまった鋭太は無理矢理“彼氏”を演じることに……。さらに“元カノ”の秋篠姫香や、“婚約者”冬海愛衣も加わり、鋭太をめぐる壮絶な『修羅場』が幕を開ける!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 金元寿子
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
   name: 種田梨沙

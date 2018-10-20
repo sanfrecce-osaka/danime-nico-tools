@@ -6,6 +6,12 @@ outline: 高まる鼓動、膨らむ妄想…。憧れていた「ステラ女�
   女子高生!? C3部（しーきゅーぶ）!!? サバゲー!!!? そんな青春サバゲーストーリーが今…はじまる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

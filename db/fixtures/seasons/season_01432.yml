@@ -7,6 +7,9 @@ outline: 田舎に母親と兄弟5人で暮らす、外見が猿そっくりの�
   多くの個性的な刺客を猿丸に差し向け勝負をさせていくが、 猿丸はその挑戦をテクニックや機転を駆使し、 時には強運も味方につけ、なんとか退けていくのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
@@ -16,10 +19,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀江美都子
   type: cast
 - !ruby/hash:TagHash
-  name: 鵜飼るみ子
+  name: 頓宮恭子
   type: cast
 - !ruby/hash:TagHash
-  name: 頓宮恭子
+  name: 鵜飼るみ子
   type: cast
 - !ruby/hash:TagHash
   name: 原えりこ

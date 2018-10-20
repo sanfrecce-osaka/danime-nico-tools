@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/61/0/20610_1_6.png?1
 outline: 第501統合戦闘航空団・通称”ストライクウィッチーズ”の活躍によるロマーニャ解放から半月後、各地へと帰還したウィッチ達はそれぞれの大切なモノを守るため、今も世界の空を駆けている。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 名塚佳織
@@ -38,7 +47,7 @@ tags: !ruby/array:Hashie::Array
   name: てらそままさき
   type: cast
 - !ruby/hash:TagHash
-  name: 原由実
+  name: 江原正士
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：SILVER LINK.

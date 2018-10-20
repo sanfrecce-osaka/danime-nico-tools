@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/76/8/21768_1_6.png?1
 outline: 日本。伊豆沖を進む賭博船で、襲撃された鉄竜会の組長を救ったのは、若き用心棒・石川五ェ門だった。だが直後に大爆発が起こり船が大破。組長も命を落とす。爆発の原因は斧を武器に使う大男だった。一旦は男を追いつめた五ェ門だったが逃げられてしまう。一方、賭博船から金を奪うことに成功したルパン三世と次元大介、峰不二子は、洋上のボートからその様子を目撃する。“バミューダの亡霊”―大男はそう呼ばれていた。かつて戦場で2,000人を殺戮した兵士でコードネームはホーク。なぜそんな男が日本にいるのか？　公安の銭形警部はホークの足取りを追う。そして、組長の葬儀の場で、裏切り者の汚名を掛けられた五ェ門も、その屈辱を晴らすためホークを追うのだった。その頃、ルパンたちは、伊豆山中のアジトで、札束を前に祝杯を挙げていた。そこに突如ホークが現れる！　ホークの目的はルパン、次元、不二子の処刑であった。アジトを脱出したルパンたちの車とホークのバイクが激しくチェイス。と、いきなり巨木が倒れかかってくる！巨木の上に現れたのは、ホークを仇と追う五ェ門だった。「助太刀無用！」そう言い放つ五ェ門。ホークとの死闘が始まる。だが―‼
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：小池健
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：小池健
+  name: 音楽：ジェイムス下地
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：ジェイムス下地
+  name: 監督：小池健
   type: staff
 - !ruby/hash:TagHash
   name: ルパン三世シリーズ
@@ -36,6 +42,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

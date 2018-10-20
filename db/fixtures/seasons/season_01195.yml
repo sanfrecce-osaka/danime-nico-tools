@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/8/10418_1_6.png?1
 outline: その昔、人間と妖精は一緒に暮らしていました。けれども、いつしか人間がその存在を信じなくなってしまい、妖精たちは花魔法界に隠れてしまいました。妖精は“自然の精霊”。妖精がいなくなると、自然も無くなってしまう。子供が夢を想像する心を無くさなければ…大人が純粋な気持ちを取り戻せば…きっとまた妖精と人間は一緒に暮らせるに違いありません。この物語は、花の妖精の誰よりも人間の夢を受けて育ったマリーベルと、人間の子供達との暖かい交流、更に妖精などの存在を通して自然を大切に想う心、夢見る心の大切さを描いている。マリーベルは、ちょっとオッチョコチョイでよく失敗もするけれど、みんなに素直な心を思い出してもらうため、明るく楽しく夢を叶えてゆきます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
@@ -26,16 +29,16 @@ tags: !ruby/array:Hashie::Array
   name: 京田尚子
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本千夏
-  type: cast
-- !ruby/hash:TagHash
   name: 本多知恵子
   type: cast
 - !ruby/hash:TagHash
-  name: 小野健一
+  name: 坂本千夏
   type: cast
 - !ruby/hash:TagHash
   name: 塩屋浩三
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野健一
   type: cast
 - !ruby/hash:TagHash
   name: 長島雄一

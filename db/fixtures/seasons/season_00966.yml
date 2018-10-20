@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/59/9/20599_1_6.png?1
 outline: デジタルワールドでの冒険から太一たちが帰ってきて半年後、あの冒険が信じられないほど穏やかな日々を太一たちは送っていた。ところがある日、インターネット上で不気味なタマゴが誕生し、凶悪なデジモンへと進化し、インターネットを通じて世界中を混乱に陥れた！ネットの中で暴れまくる邪悪なデジモンに、究極体・ウォーグレイモンと究極体・メタルガルルモンの合体デジモンが立ち向かう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 水谷優子
   type: cast
 - !ruby/hash:TagHash
   name: 菊池正美
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本千夏
+  name: 藤田淑子
   type: cast
 - !ruby/hash:TagHash
-  name: 藤田淑子
+  name: 坂本千夏
   type: cast
 - !ruby/hash:TagHash
   name: 前田愛
@@ -45,6 +51,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2000年

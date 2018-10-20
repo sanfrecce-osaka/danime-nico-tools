@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/53/5/20535_1_6.png?1
 outline: 見た目はどこからどう見ても金髪ギャルで遊んでそうに見えるけれど、実は純情な女の子。そんなギャルな外見と素直で優しい内面のギャップが可愛らしいギャル子を中心に、眼鏡で背の小さなオタ子、おっとり天真爛漫なお嬢の三人が、いろんな場所でガールズトークを繰り広げる日常コメディ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 高橋未奈美
   type: cast
 - !ruby/hash:TagHash

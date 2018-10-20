@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/11/8/10118_1_6.png?1
 outline: 天涯孤独な少年・仁歳チトセのもとに素敵なママがあらわれた!しかも5人!しかも学校の先生!!大好評だった“ハピレス”が『HAPPY☆LESSON ADVANCE』として戻ってきた!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

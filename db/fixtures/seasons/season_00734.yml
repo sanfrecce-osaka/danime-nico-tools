@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/96/1/10961_1_6.png?1
 outline: ルヴィナガルド王国で勃発した事件に巻き込まれたリナたち。事件の首謀者であるジョコンダ侯爵が死亡し、彼女に協力していたデュクリスが呼び覚ました伝説の魔獣・ザナッファーを倒したことから、事件は一応の解決に至ったかに見えた。しかしリナたちには、タフォーラシアの封印を解き、永き眠りについているタフォーラシアの人々を救うという仕事が残されていた。タフォーラシアの人々を救うためには、彼らに術を施した赤法師・レゾの魂が眠る“冥王の壺”を探し出さねばならない。セイルーン・魔道士協会図書室で、膨大な蔵書の中から、“冥王の壺”の手がかりを探していたのだが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
@@ -32,9 +41,6 @@ tags: !ruby/array:Hashie::Array
   name: 原作：神坂一
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：REAL-T
-  type: staff
-- !ruby/hash:TagHash
   name: キャラクターデザイン：宮田奈保美
   type: staff
 - !ruby/hash:TagHash
@@ -42,6 +48,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 原作：あらいずみるい
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：REAL-T
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：Vink4

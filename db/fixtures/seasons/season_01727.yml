@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/16/8/20168_1_6.png?1
 outline: "「その日、初めて退屈じゃなくなった――」とある中学校で起こった教師のバラバラ殺人事件。この学校に通う少年・コバヤシは、事件の捜査に訪れた天才探偵・アケチと出会う。異常犯罪ばかりを捜査するアケチに対して興味を持ったコバヤシは、友人のハシバの心配をよそに、自ら「助手」を志願する。次々と起こる奇怪な事件の中で、コバヤシは退屈な日常を捨て置いていくのだった。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 藤田咲
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋李依
+  name: チョー
   type: cast
 - !ruby/hash:TagHash
-  name: チョー
+  name: 高橋李依
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：横山克

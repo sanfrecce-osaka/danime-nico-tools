@@ -6,6 +6,15 @@ outline: 1945年、太平洋戦争が終わった頃、ユーラシア大陸よ�
   1999年の九州・熊本が本作の舞台。幻獣に対抗するために組織された5121部隊。所属する速水厚志、志村舞らを中心とした少年少女たちが、人型戦車(HWT)｢士魂｣を操り、幻獣と死闘を繰り広げる日々を背景に、部隊の生活を学園青春ドラマとしても描く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -18,13 +27,13 @@ tags: !ruby/array:Hashie::Array
   name: 野田順子
   type: cast
 - !ruby/hash:TagHash
+  name: 岡村明美
+  type: cast
+- !ruby/hash:TagHash
   name: 川原慶久
   type: cast
 - !ruby/hash:TagHash
   name: 陶山章央
-  type: cast
-- !ruby/hash:TagHash
-  name: 岡村明美
   type: cast
 - !ruby/hash:TagHash
   name: 梅津秀行

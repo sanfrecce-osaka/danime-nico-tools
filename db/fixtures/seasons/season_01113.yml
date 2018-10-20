@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/77/7/21777_1_6.png?1
 outline: 原作での一学期編が終わった後、ネギたちの夏休み中のエピソードを全3話でアニメ化。忠実に原作をアニメ化するということで期待を集め、1話目から大人気となった。アーニャや小太郎など、OADで改めて描かれたキャラクターも見どころ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上喜久子
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 小林ゆう
@@ -47,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：新房昭之
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：赤松健
+  name: 監督：板村智幸
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：板村智幸
+  name: 原作：赤松健
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：実原登

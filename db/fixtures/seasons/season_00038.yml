@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/12/2/10122_1_6.png?1
 outline: 就職活動中の直哉(ナオヤ)が、謎の女性に連れてこられたのは、なんと妖魔の国｢ユグヴァルランド｣だった! ナオヤはそこで、ロッテ王女の後宮(ハーレム)入りを命じられた。ワガママだけど、じつは寂しがり屋なロッテの素顔を知ったナオヤは、彼女のためにこの世界に残ることを決意する。人間界からナオヤの娘の明日葉(アスハ)もやってきて、親子と愛人がひとつ屋根の下で暮らす、奇妙な同居生活がスタートした。ところがナオヤたちの毎日は、個性的なキャラクターたちの乱入によって、ハプニングの連続に!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 藤村歩
   type: cast
 - !ruby/hash:TagHash
-  name: チョー
+  name: 皆口裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 皆口裕子
+  name: チョー
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木美咲

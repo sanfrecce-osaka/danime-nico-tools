@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/60/0/20600_1_6.png?1
 outline: 何事にも一生懸命な｢母｣｡それにマイペースな｢父｣、夢見がちな高校生の｢みかん｣と、弟で無口な中学生の｢ユズヒコ｣｡他愛のない日常生活の中の些細なコトをテーマに、｢あるある、こんなこと！！｣と、思わず｢クスっ｣と笑ってしまうタチバナ家の姿は｢ニッポン｣の家族そのもの！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 阪口大助
+  name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
-  name: 緒方賢一
+  name: 阪口大助
   type: cast
 - !ruby/hash:TagHash
   name: 渡辺久美子

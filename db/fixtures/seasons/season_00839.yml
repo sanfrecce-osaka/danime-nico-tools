@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/07/7/22077_1_6.png?1
 outline: カメラを手に、満開の桜の写真を撮りにきていた少年・多田光良(ただ・みつよし)は、異国の少女・テレサに出会う。ヨーロッパのラルセンブルクという国から留学してきたテレサは、日本に着いて早々、一緒にやってきた連れとはぐれてしまい、迷子になっていた。成り行きからテレサを助けることになった光良は、祖父が営んでいる東京・銀座にある多田珈琲店へと連れていくのだが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

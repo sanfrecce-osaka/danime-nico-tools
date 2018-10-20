@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/46/0/10460_1_6.png?1
 outline: 今回の｢らき☆すたOVA｣は全部で6本のショートエピソードから構成されている。TVではあまりフィーチャーされたなかったキャラクターの意外な一面が見られたり、OVAならではの実験的な映像も取り入れている。さらに、｢らき☆すた｣らしく、そのミーハー根性丸出しに、今、世の中をリードしているホットなネタも出来る限り取り入れた創りを目指し、飽きのこない作品に仕立てた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
@@ -38,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 福原香織
   type: cast
 - !ruby/hash:TagHash
-  name: 小菅真美
+  name: 岩男潤子
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：ランティス
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：京都アニメーション
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：神前暁
+  name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：MONACA
+  name: 音楽：神前暁
   type: staff
 - !ruby/hash:TagHash
   name: 監督：武本康弘

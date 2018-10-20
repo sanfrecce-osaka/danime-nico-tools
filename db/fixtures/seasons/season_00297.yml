@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/07/5/22075_1_6.png?1
 outline: 街中に響き渡る美しい歌声。絶大な人気を誇るアイドル「μ」に見守られるように、この街では穏やかな日常が流れてゆく。式島律は、宮比市立吉志舞高校の１年生。スポーツに勉強そして友達にも恵まれ、青春真っ只中の充実した高校生活を送っていた。時は経ち、２年生として迎えた入学式。新入生代表として壇上に上がった少年は、本来そこにいることがありえない人物で――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,19 @@ tags: !ruby/array:Hashie::Array
   name: 梅原裕一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
-  type: cast
-- !ruby/hash:TagHash
   name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
   name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 下田麻美
   type: cast
 - !ruby/hash:TagHash
   name: 蒼井翔太
@@ -29,16 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 大坪由佳
   type: cast
 - !ruby/hash:TagHash
-  name: 下田麻美
-  type: cast
-- !ruby/hash:TagHash
-  name: 内田雄馬
+  name: 高橋李依
   type: cast
 - !ruby/hash:TagHash
   name: 渕上舞
-  type: cast
-- !ruby/hash:TagHash
-  name: 高橋李依
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：高梨康治

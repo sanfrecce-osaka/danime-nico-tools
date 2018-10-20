@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/45/2/21452_1_6.png?1
 outline: 派出所に勤める両さんこと両津勘吉はお金もうけが大好きな型破りなおまわりさん。そんな両さんが、超絶セレブ中川・麗子、超堅物上司の大原部長、他にも大勢いる超個性豊かなキャラ達とドタバタ人情ギャグを繰り広げるぞ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 宮本充
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：高本宣弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：やすみ哲夫
+  name: アニメーション制作：ぎゃろっぷ
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ぎゃろっぷ
+  name: 監督：やすみ哲夫
   type: staff
 - !ruby/hash:TagHash
   name: 監督：三沢伸

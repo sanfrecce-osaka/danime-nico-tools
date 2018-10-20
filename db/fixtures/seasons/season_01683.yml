@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/65/5/21655_1_6.png?1
 outline: 両親を亡くしたため、親戚の家で肩身の狭い生活をしていた稲葉夕士は、高校入学を機に一人暮らしを決意する。そこで見つけた格安の下宿先「寿荘」。しかし、そこはなんと妖怪・幽霊・人間が入り混じる奇妙な「妖怪アパート」だった─!!不気味な姿をした妖怪たちにはじめは戸惑う夕士だったが、彼らとの奇妙な共同生活の中で、それまで閉じていた心が徐々に開いていく･･･。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

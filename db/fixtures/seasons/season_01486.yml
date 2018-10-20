@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/86/7/10867_1_6.png?1
 outline: 家庭の都合で離れて暮らしていた妹・浪花(なみか)と10年ぶりに一緒に住むこととなった京介(きょうすけ)。小さな頃の面影を偲び再会を期待する京介の前に現れたのは・・・色々な意味で変わってしまった妹だった。ラノベ風キャラクターと新味のギャグが融合した、新感覚☆関西ツンデレストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash

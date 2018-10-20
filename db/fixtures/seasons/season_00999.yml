@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/49/3/10493_1_6.png?1
 outline: TVアニメ化もされた人気恋愛シミュレーションゲーム『ToHeart2』のOVAシリーズの第1弾。全てのヒロインたちは、主人公の貴明と既に知り合いとして登場し、何となく気にしている状態からスタート。メイドロボのイルファのエピソード、愛佳のエピソード、ささらとまーりゃんのエピソードの全3話。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 鳥海浩輔
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 生天目仁美

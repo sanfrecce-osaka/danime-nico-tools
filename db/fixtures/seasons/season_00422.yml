@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/9/10209_1_6.png?1
 outline: 14歳の少年・早瀬浩一は、ある日“事故”により、少女と出会い、巨大人型メカ｢ラインバレル｣を手に入れた。何も出来ず、正義に憧れているだけだった少年の周りは、彼が圧倒的な力を手に入れたことでめまぐるしく動き始める。新しい仲間と出会い、友人と別れ、守るものを背負い、自らを囲む世界と向き合い、やがて少年は成長してゆく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 能登麻美子
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 斎藤千和
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
-  name: 勝生真沙子
+  name: 速水奨
   type: cast
 - !ruby/hash:TagHash
-  name: ゆかな
+  name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
   name: 植田佳奈

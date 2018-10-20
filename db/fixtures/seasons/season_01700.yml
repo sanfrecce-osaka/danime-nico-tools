@@ -6,10 +6,16 @@ outline: 芥辺探偵事務所で働く女子大生・佐隈りん子。彼女�
   方向に…!？役に立ちそうで立たない個性豊かな悪魔たちと佐隈の騒がしい日々は今日も続いて行く…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 浪川大輔
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
 - !ruby/hash:TagHash
   name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈

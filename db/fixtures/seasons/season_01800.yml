@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/7/21527_1_6.png?1
 outline: 魔術と科学が共に発展した世界――ルヴァフォース。魔導大国・アルザーノ帝国の南部に位置する｢アルザーノ帝国魔術学院｣はこの世界で最先端の魔術を学べる最高峰の学び舎である。およそ四百年の歴史を有するこの学院は魔術の道を志す全ての者の憧れであり、学院の講師や学生たちも自身がその輩であることに誇りを抱いている。この由緒正しき学院に突如として赴任して来た非常勤講師、グレン=レーダス。｢お前らに、本当の魔術ってもんを教えてやるよ｣《ロクでなし》と呼ばれるこの男の破天荒な授業が、今はじまる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 高橋広樹
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋広樹
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 藤田茜
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：木村智
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：羊太郎
+  name: 監督：和ト湊
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：和ト湊
+  name: 原作：羊太郎
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2000年代

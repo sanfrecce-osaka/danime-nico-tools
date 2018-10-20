@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/06/5/11065_1_6.png?1
 outline: 女性にしか扱えない飛行パワードスーツ、｢IS<インフィニット・ストラトス>｣。日本で開発・発表されて以降、世界は女性優位の社会となった。IS操縦者を育成するための学校｢IS学園｣は、世界各国より集められた代表候補生の少女達が通う女子校である。ところが、主人公・織斑一夏は、男でありながら何故かISの起動が出来てしまった為、IS学園に強制入学させられてしまう。女の園に男がひとり、幼なじみの剣道少女・箒をはじめ、多国籍多種多様な少女たちが織りなす、疾風怒濤のアクションバトルと恋模様。突如襲い来る敵、ISに秘められた謎、そして一夏をめぐる少女達の恋の行方は!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -44,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：エイトビット
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：七瀬光
+  name: 脚本：冨岡淳広
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：冨岡淳広
+  name: 音楽：七瀬光
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：志茂文彦
@@ -59,10 +68,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：北条千夏
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：倉嶋丈康
+  name: 原作：弓弦イズル
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：弓弦イズル
+  name: キャラクターデザイン：倉嶋丈康
   type: staff
 - !ruby/hash:TagHash
   name: IS<インフィニット・ストラトス>シリーズ

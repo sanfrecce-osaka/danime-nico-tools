@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/27/5/10275_1_6.png?1
 outline: 世界各国に謎の巨大ロボットが出現、都市や遺跡を破壊し尽くしていき、世界は恐怖のどん底にあった。謎の巨大ロボットは忽然と現れては、また消え去り、目的は杳として分からなかった。一方、南与那国島でアルバイトをしている青年・草間大作は、不思議な少女に導かれ、海底の古代遺跡において、鋼鉄の巨人と＂契約＂を行う。運命に導かれ巨大ロボットの操縦者となった大作は、テロに対抗する国連組織に保護され、図らずも熾烈な戦いの渦中に巻き込まれる。謎の組織の目的とは?そして、謎の少女が警鐘する巨大ロボット同士の戦いの果てに待ち受けるものとは?今、壮大な物語が幕を開ける!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
-  name: 立木文彦
+  name: 朴璐美
   type: cast
 - !ruby/hash:TagHash
-  name: 朴璐美
+  name: 立木文彦
   type: cast
 - !ruby/hash:TagHash
   name: 千葉紗子

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/8/10928_1_6.png?1
 outline: 2032年。地球の宇宙船が謎の爆発、そしてそこから射出された赤ん坊の乗ったカプセルは変身能力を備えた人々が暮らすゾービ星に不時着した。赤ん坊は星のゾービ王と后のタスカからバンダー王子の名をもらい、本当の息子の様に育てられる。そんなバンダーを、王の実の娘、ミムルは兄ではなく、1人の男性として愛していた。ある日、バンダーは自分が宇宙でも有数の争い好きな生物・地球人という事実を知ってしまう…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 小山茉美
   type: cast
 - !ruby/hash:TagHash

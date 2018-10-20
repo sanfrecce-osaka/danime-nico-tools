@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/01/9/20019_1_6.png?1
 outline: 真っ白い死神“モモ”は仕え魔である黒猫“ダニエル”を携え、人間の魂を運ぶのが仕事です。でも優しい“モモ”は人間に少しだけおせっかいを働いてしまいます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 清水愛
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/4/21884_1_6.png?1
 outline: "「2Dのノウハウを活かした、ほかの何物でもない独自の3Dを」という困難な作業に取り組んだのは、「映像の魔術師」りんたろう。アニメーション黎明期から作品に携わり、常に先進的な映像作りを行っていた彼が、本作で初めて原作にも挑戦。子供たちに夢と希望を与える、やわらかなファンタジーアドベンチャー全編フル3DCGアニメーション作品。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
@@ -29,16 +35,16 @@ tags: !ruby/array:Hashie::Array
   name: 皆口裕子
   type: cast
 - !ruby/hash:TagHash
-  name: くまいもとこ
-  type: cast
-- !ruby/hash:TagHash
   name: 永井一郎
   type: cast
 - !ruby/hash:TagHash
   name: 野沢那智
   type: cast
 - !ruby/hash:TagHash
-  name: 松本梨香
+  name: くまいもとこ
+  type: cast
+- !ruby/hash:TagHash
+  name: TARAKO
   type: cast
 - !ruby/hash:TagHash
   name: 監督：りんたろう

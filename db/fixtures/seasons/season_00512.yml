@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/59/2/11592_1_6.png?1
 outline: 左腕にサイコガンを持つ不死身の男。その名はコブラ。宇宙一の賞金首として、銀河パトロールだけでなく、海賊ギルドからも追われる孤高の宇宙海賊が姿を消してから数年。世間では死んだとも噂されていたが、コブラは顔を変え、生きていた。平穏な日常に別れを告げ、再び戦いへと身を投じるコブラ。美しき相棒アーマロイド・レディとともに、宇宙を駆けめぐる果てしない旅が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
   name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
-  name: 山口眞弓
+  name: 内田直哉
   type: cast
 - !ruby/hash:TagHash
-  name: 内田直哉
+  name: 山口眞弓
   type: cast
 - !ruby/hash:TagHash
   name: かぬか光明

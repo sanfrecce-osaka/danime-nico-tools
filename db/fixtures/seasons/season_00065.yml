@@ -6,6 +6,9 @@ outline: テストが5教科全て0点でも気にしない！どこまでもア
   見るときっとあなたも元気になる！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

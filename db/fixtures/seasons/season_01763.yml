@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/77/2/21772_1_6.png?1
 outline: サンフランシスコ沖に浮かぶカジノ船から大金を奪おうと、船に乗り込むルパン・次元・不二子・五ェ門の4人。だがルパンからの予告状をもとに現れた銭形警部の活躍によって計画は失敗する。しかし、ルパンの本当の狙いは別にあったのだ……。莫大な金塊と共にサンフランシスコ沖に沈んだ船、ヤンキー・スレード号に隠された20世紀最大の謎、ケネディ大統領暗殺の真実にルパンが迫る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/80/5/10805_1_6.png?1
 outline: 199X年世紀末、地球は戦争も自然破壊もなく、実に平和に包まれていた♪舞台は平和ボケの日本。『世紀末の救世主』となって皆から羨望の眼差しをうけるはずだったケンシロウは完全にあてがはずれ、疼く指先ひとつ１つが逆に災いをおこしてしまい仕事もみつからない。「今日より明日なんじゃ…」否！「明日より今日なんだ―――！！！」都会という砂漠の中で、人々を助けるどころか、その日暮らしが精一杯のケンシロウ。そんな中、彼を救ったのはなんとJK(女子高校生)リン！リンに連れられ、コンビニエンスストアに入ってビックリ！そこにはケンシロウと同じく平和な世の中に全く順応できていない兄のラオウとトキがいて…おまけに大学生のバットも登場！街のコンビニを舞台に、世間知らずの北斗の兄弟たちが織り成す、はっちゃめちゃ北斗神拳コメディです！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 神谷明
   type: cast
 - !ruby/hash:TagHash
-  name: 一条和矢
+  name: 森嶋秀太
   type: cast
 - !ruby/hash:TagHash
-  name: 森嶋秀太
+  name: 一条和矢
   type: cast
 - !ruby/hash:TagHash
   name: 監督：大地丙太郎
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：原哲夫
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：武論尊
+  name: アニメーション制作：亜細亜堂
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：亜細亜堂
+  name: 原作：武論尊
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：関根昌之

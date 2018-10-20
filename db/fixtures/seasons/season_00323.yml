@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/22/0/20220_1_6.png?1
 outline: 僕らは、僕らのことがしりたい　　ぼくらの「国」には、「社会」がないこと　　「社会」と「世間」はちがう世界で生きているということ　　情と理　　「悩む」のではなく「考える」ことが大切ということ　　現代人は「速」すぎる　呼吸も浅く早い　　ゆっくり深くが「僕ら」は苦手だ
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/27/3/20273_1_6.png?1
 outline: "『カリーノ・コニ』はイタリアの小さなカリーノ村のカリーノ森に住む動物の子供たちの物語。ある日その森で一人暮らしをはじめた野ウサギの男の子、「コニ」。人見知りでさびしがりで甘えん坊なコニですが、実は、毎日を楽しむ天才かも？！まだ未来のことなんてまったく考えていない、好奇心100%のコニは、森の仲間を驚かせたり、喜ばせたり、勝手に踊り出しちゃう、お騒がせモノ。でも、仲間たちはコニが来てからの毎日が楽しいなって、思っているみたいなんです。なんだか、コニといるとワクワクしてドキドキしちゃうから、かもしれませんね。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash

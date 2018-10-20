@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/96/2/10962_1_6.png?1
 outline: 目つきの悪さがコンプレックスの高校生・大泉直人。しかも、他人には絶対知られたくない秘密まで…。そんな彼の前に、いきなり美少女たちが現れた!王道ラブコメかと思ったら???…最後に微笑んだのは誰?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
@@ -44,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 天花寺伸宏
   type: other
 - !ruby/hash:TagHash
-  name: スタジオライブ
+  name: m.o.e.
   type: other
 - !ruby/hash:TagHash
-  name: m.o.e.
+  name: スタジオライブ
   type: other
 - !ruby/hash:TagHash
   name: IMAGIN

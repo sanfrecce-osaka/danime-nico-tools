@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/3/11103_1_6.png?1
 outline: 獣人族やエルフ、人間など様々な種族がともに暮らすウィンダリア。島に流れ着いた少年・リック。記憶を失っていたリックは三人の少女に助けられ、彼女たちの営むパン屋｢ル・クール｣でパンを焼きながらゆるやかな日々を過ごしていた。しかし、空に赤い月が昇り、嵐が吹き荒れた夜から、様々な出来事に巻き込まれていく――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -26,19 +35,19 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
-  name: 広橋涼
+  name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
-  name: 中井和哉
+  name: 広橋涼
   type: cast
 - !ruby/hash:TagHash
   name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
-  name: 三上枝織
+  name: 橘田いずみ
   type: cast
 - !ruby/hash:TagHash
-  name: 橘田いずみ
+  name: 佐藤正治
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：Production I.G

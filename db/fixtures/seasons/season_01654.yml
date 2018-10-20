@@ -8,6 +8,12 @@ outline: 身の回りの怪奇な都市伝説をテーマに、 現代では珍�
   そして、今夏、女性脚本家陣が仕掛ける新たな恐怖が 誕生する。女流ホラー「闇芝居」の幕が、今、上がる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 石川由依
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 津田寛治
   type: cast
 - !ruby/hash:TagHash
-  name: 護あさな
+  name: 東城咲耶子
   type: cast
 - !ruby/hash:TagHash
-  name: 東城咲耶子
+  name: 護あさな
   type: cast
 - !ruby/hash:TagHash
   name: 田上真里奈

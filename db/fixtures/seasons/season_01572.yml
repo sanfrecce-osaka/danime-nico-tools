@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/12/8/11128_1_6.png?1
 outline: ごく普通の生活を送る高校生・夜ノ森小紅の16歳の誕生日。許婚なのに影が薄い三峰白夜と、小姑でどう見ても幼女の三峰真白が現れた。ブリーフィング無しでいきなり始まった奇妙な同居生活。シスコンで変態な姉・夜ノ森紅緒まで加わり、事態は相当ややこしいことに。小紅の生活は普通じゃなくなった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash

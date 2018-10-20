@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/77/6/10776_1_6.png?1
 outline: 公立中学から、憧れの中高一貫制の私立山咲女子学園(通称・咲女)に入学する絵里子・由真・綾乃の3人。夢にまで見た、キッチュでスタイリッシュな女子高生。・・・だが、そこで見た女子高の“厳しい現実”。あまりのギャップに思わず逃げ出してしまう絵里子。入学前の決意は?女の子としての恥じらいは?素敵な男の子との出会いは?どこに行った?!どこに消えた?!どこに捨てた??クラスメイトの香田・姫路・小川を加え、その“厳しい現実”に立ち向かって行く絵里子たちのハイテンション・女子高ライフの未来は?!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

@@ -5,7 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/9/10829_1_6.png?1
 outline: かつてない、美少女が活躍する合体巨大ロボット・アニメとして制作されたダンガイオーは。さまざまな話題性に満ちていた。まず音楽には、ロボット物といえばこの方ともいうべき渡辺宙明氏を起用、主題歌も大御所、堀江美都子と水木一郎が担当するという豪華さ。二人は第一話に声優としてゲスト出演もしている。また、ダンガイオーのデザインには変形メカの達人、河森正治が腕を奮った。大張正己がそのデザインに加えた極端なディフォルメは、後のオーバリズムの原点と言える。【ストーリー】天才科学者ターサン博士は、宇宙船ダルダルで兵器を作っては売り歩いていた。そんななかついに宇宙最強の合体ロボットダンガイオーの開発に成功。超能力を持つミアたち3人の少女と一人の少年をパイロットとして養成し、宇宙海賊バンカーに売ろうとしていた。だが、博士の計画を知ったミアたちはダンガイオーで脱走を企てる。もともと最強兵器としてバンカーに売られるはずだったギルは、その立場を取って代わられた復讐のため、ダンガイオー打倒に燃えるのだ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/30/1/22301_1_6.png?1
 outline: 明神亜貴に、ひざまずけ。時は20XX年――無実の罪で刑務所に収監されてしまった陽菜。そこで待っていたのは、美貌の看守・明神亜貴による冷酷で甘美な支配だった…。「黒翼刑務所から…このオレから逃れられると思うなよ？」身体検査で、牢獄で、そして恋人との面会中まで…、ココロもカラダも翻弄されていく陽菜の運命は――!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 山谷祥生
   type: cast
 - !ruby/hash:TagHash

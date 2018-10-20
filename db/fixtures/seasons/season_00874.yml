@@ -7,6 +7,12 @@ outline: 迷宮都市オラリオ──『ダンジョン』と通称される�
   【眷族の物語(ファミリア・ミィス)】──
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash

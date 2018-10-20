@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/35/1/22351_1_6.png?1
 outline: 七福神町・天野川家の子ども部屋に置かれたはるお（犬張子）、金ちゃん（金魚型紙風船）、ヘビ蔵（竹へび）、ダルマ団長（だるま）、小梅（こけし）の“えんぎもん”たちは、いつも大和とひみの兄妹を見守っている。ある日、ひみはよそから現れた招き猫のえんぎもんを追いかけて、家からいなくなってしまった。大和は突然動き出したはるおたちに驚きつつ、共にひみの救出に向かう！えんぎもんのご利益でひみは見つかるのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash

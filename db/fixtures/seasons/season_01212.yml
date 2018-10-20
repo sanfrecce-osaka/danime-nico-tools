@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/59/9/10599_1_6.png?1
 outline: 敵対する2星、女だけの｢船団国家メジェール｣と男だけの｢惑星国家タラーク｣。交戦中ペークシスの暴走により、イカヅチ旧艦区と海賊船が別の宇宙領域に飛ばされ、融合してしまった!謎の敵の侵略を知り、ヒビキやディータら本来敵同士であるはずの男女が共に手を取り合うことに!呉越同船、母星への帰還の旅が始まった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：黒田和也
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：もりたけし
+  name: 音楽：岩崎文紀
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：岩崎文紀
+  name: 監督：もりたけし
   type: staff
 - !ruby/hash:TagHash
   name: 原作：もりたけし

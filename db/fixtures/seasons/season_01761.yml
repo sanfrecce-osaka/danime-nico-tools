@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/75/9/21759_1_6.png?1
 outline: 謎の財宝「コロンブスの卵」の在り処を記した「コロンブス・ファイル」を手に入れた不二子とルパン。だが同じくそれを狙うバートン一味による襲撃に合い、ファイルは焼失してしまう。内容を唯一見ていた不二子だけが頼りであったが、襲撃からの逃走の際、崖から転落し消息不明に。数日後トレジャーハンターのロザリアに保護されるものの、自分の名さえ判らないほどの記憶喪失になっていた。不二子の身を案じ捜索するルパンだが、バートンの手先・ナザロフが行く手に立ち塞がる。さらに「コロンブスの卵」を狙うロザリアも加わり、不二子の中に封印された記憶を巡って三つ巴の乱戦が始まった！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash

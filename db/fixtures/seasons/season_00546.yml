@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/36/5/20365_1_6.png?1
 outline: 北海道・旭川。この街には、「櫻子さん」が住んでいる。櫻子さんは、美人で名家のお嬢様。なのに三度の飯より「骨が好き」。そんな彼女と一緒にいると、なぜか僕まで骨と縁ができるようで。骨にまつわる事件と櫻子さんに振り回されっぱなしの僕だけど、それが嫌じゃないのは櫻子さん、きっと、あなたのせいだと思う。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -35,13 +41,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：別所誠人
   type: staff
 - !ruby/hash:TagHash
+  name: 監督：加藤誠
+  type: staff
+- !ruby/hash:TagHash
   name: キャラクターデザイン：サトウミチオ
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：TROYCA
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：加藤誠
   type: staff
 - !ruby/hash:TagHash
   name: 原作：太田紫織

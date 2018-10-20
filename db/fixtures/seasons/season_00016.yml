@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/83/7/10837_1_6.png?1
 outline: 航空自衛隊・第８０１練習飛行隊は、世界で初めての女性パイロットによるアクロバット・チーム。しかしその実態は、問題児ばかりを集めた自衛隊のお飾りであった。新たに８０１に赴任した整備隊員・石動（いするぎ）三曹は、なんとか彼女たちを一人前のチームにしようと奮闘するが、部隊解散をもくろむ団司令の剣ヶ峰は…　航空自衛隊の協力で贈るスカイアクション・ラブコメディ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

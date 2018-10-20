@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/9/10609_1_6.png?1
 outline: 古墳ギャルのコフィーが通う都立古墳高校。そこには四隅突出型墳丘墓、古墳世界の王位継承者、戦国武将の担任教師、アメリカからやって来たお墓など、不思議な古墳たちが勢ぞろい!……そんな古墳たちの恋と友情と青春を描いた、セメタリー学園ラブコメディ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: FROGMAN
   type: cast
 - !ruby/hash:TagHash

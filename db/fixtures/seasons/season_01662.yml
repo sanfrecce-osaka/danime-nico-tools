@@ -7,6 +7,15 @@ outline: あるとき、宇宙のかなたで『小惑星クマリア』が爆�
   くれは）と 泉乃純花（いずみの すみか）は二人きりで花壇に咲いた「百合の花」を見ていた。二人は『友だち』であり【 恋人 】。花壇は二人にとって大切な場所なのだ。見つめ合う二人。そのとき【クマ警報】がけたたましく鳴る！クマがヒトの世界に侵入し、ヒトが襲われたのだ！そのクマは果たして…？謎が謎を呼ぶ怒涛の連続！『ユリ熊嵐』が華麗に開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -16,10 +25,10 @@ tags: !ruby/array:Hashie::Array
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 小倉唯
@@ -52,10 +61,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：橋本由香利
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：幾原邦彦
+  name: キャラクターデザイン：住本悦子
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：住本悦子
+  name: 監督：幾原邦彦
   type: staff
 - !ruby/hash:TagHash
   name: 原作：イクニゴマモナカ

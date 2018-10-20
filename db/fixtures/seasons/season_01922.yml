@@ -6,6 +6,9 @@ outline: "「放送折り返し記念！肌色シーンそのままの“マジ�
   しかし固有能力《魔術反射》発動！　奴隷と化したのは少女たちで……!?　魔王（演技）が絶対的な強さで突き進む異世界冒険譚、開幕！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
@@ -51,10 +54,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

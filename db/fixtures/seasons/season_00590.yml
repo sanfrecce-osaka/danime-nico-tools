@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/10/4/10104_1_6.png?1
 outline: シャナにライバル宣言をした吉田一美とそれを受けたシャナ。二人の関係がギクシャクする中行われた校外授業。そこでは、悠二をめぐり火花を散らすシャナと吉田とは異なる、新たな恋のバトルが勃発していた!?持ち前の明るさと元気の良さで、クラスのみんなから好かれている緒方真竹(通称オガちゃん)。彼女はひそかに同級生の田中栄太に想いを寄せていた。しかし彼は同じくクラスメイトであり親友でもある、佐藤啓作と親密な様子(緒方視点で)・・・・・・。佐藤啓作に負けじと(?)、田中栄太にアタックする彼女の恋の結末は!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -20,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
-  type: cast
-- !ruby/hash:TagHash
   name: こやまきみこ
   type: cast
 - !ruby/hash:TagHash
   name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 櫻井智

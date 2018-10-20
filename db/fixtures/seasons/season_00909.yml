@@ -1,6 +1,6 @@
 --- !ruby/hash:SeasonHash
 title: 直球表題ロボットアニメ
-watchable: true
+watchable: false
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/86/6/10866_1_6.png?1427216400000
 outline: 機動世紀8013年・・・無益な戦争を終わらせるべく、かつて人間たちが有していたという｢笑い｣について調査をする3体のロボット、フジイ、カトウ、モリ。果たして彼女たちは｢笑い｣を手に入れて戦争を終わらせることができるのか?
 tags: !ruby/array:Hashie::Array

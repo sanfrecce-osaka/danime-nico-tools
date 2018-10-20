@@ -6,6 +6,15 @@ outline: "『夢幻大陸エンディアス記』。不思議な風がその本�
   “想い”を剣にしてぶつけ合う少年たちの友情を描く、心にふれるファンタジー。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -18,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 置鮎龍太郎
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 保志総一朗

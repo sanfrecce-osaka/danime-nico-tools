@@ -5,19 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/26/3/11263_1_6.png?1
 outline: アンサリヴァン騎竜学院― そこは竜と契約を交わした少年少女が通う学院。その生徒である少年アッシュは、契約の証である<星刻>を持ちながらも、パートナーの竜がいまだ誕生していないため、肩身の狭い思いをしていた。そんな彼の身に宿っていた竜が、ある事件をきっかけに、ついに覚醒の時を迎える!だが、目の前に現れたパートナーは、他の竜とは違い、なんと少女の姿をしていて……!?美少女ドラゴンが歴史を刻む本格、異世界物語!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 伊瀬茉莉也

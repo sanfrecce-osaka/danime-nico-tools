@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/7/10387_1_6.png?1
 outline: 時は幕末混乱の時代。壬生新撰組屯所に一人の少年がその門を叩いた。その名も市村鉄之助、齢まだ十五。性格はその名の通り、鉄砲玉。両親の仇を討つため、鉄之助は新撰組に入隊を希望する。土方歳三から新撰組入隊を許された鉄之助は、暗く冷たい戦いを重ねる新撰組の中で土方の小姓として幕末を駆け抜けるのであった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -23,22 +29,22 @@ tags: !ruby/array:Hashie::Array
   name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
+  name: 根谷美智子
+  type: cast
+- !ruby/hash:TagHash
   name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
   name: 小林由美子
   type: cast
 - !ruby/hash:TagHash
-  name: 根谷美智子
-  type: cast
-- !ruby/hash:TagHash
   name: 江原正士
   type: cast
 - !ruby/hash:TagHash
-  name: 今井由香
+  name: 土師孝也
   type: cast
 - !ruby/hash:TagHash
-  name: 土師孝也
+  name: 今井由香
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：GONZO

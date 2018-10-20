@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/3/10013_1_6.png?1
 outline: アトランティス大陸を旅する左右の眼の色が違い、“世界の運命の鍵を握る者”魔術師ティーエ、男装の美少女ラクシ、屈強の自由戦士ボイスら3人の冒険者は、砂漠で盗賊に襲われたあわれな少女リファスの臨終に立ち会うことになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 関俊彦
   type: cast
 - !ruby/hash:TagHash
@@ -17,16 +23,16 @@ tags: !ruby/array:Hashie::Array
   name: 屋良有作
   type: cast
 - !ruby/hash:TagHash
-  name: 広中雅志
-  type: cast
-- !ruby/hash:TagHash
   name: 江森浩子
   type: cast
 - !ruby/hash:TagHash
-  name: 監督：真下耕一
-  type: staff
+  name: 広中雅志
+  type: cast
 - !ruby/hash:TagHash
   name: 音楽：大島ミチル
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：真下耕一
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：結城信輝

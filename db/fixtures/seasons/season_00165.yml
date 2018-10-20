@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/54/0/11540_1_6.png?1
 outline: 一見ラブリーな外見とそれなりに邪悪な心を併せ持つ、ネット発のニューヒーロー（？）うーさーが、地上波とニコニコ動画にいきなり大登場！「好きなものはお金と肉とギャル」と言い放ちながら、そのつぶらな瞳が見つめるものは一体なんなのか……。（※たぶんお金か肉かギャルです）日々余生にしてその日暮らし、自由気ままな謎の動物“うーさー”の荒ぶりそうで荒ぶらない毎日を、3DCGを用いた映像表現で高い評価を受ける「サンジゲン」がまさかのアニメ化。ちなみに、真ん中の点は口ではなく鼻らしい。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash

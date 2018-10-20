@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/58/8/21588_1_6.png?1
 outline: 茜と小太郎。中３で初めて同じクラスになり、出会った２人。クラスメイト、部活仲間、教師、親…周囲との関わり、自分の成長。変化と不安に追いかけられながら慌ただしく駆け抜ける季節の中で、瑞々しくもめくるめく、思春期の恋。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 田丸篤志
   type: cast
 - !ruby/hash:TagHash
-  name: 千菅春香
+  name: 白石晴香
   type: cast
 - !ruby/hash:TagHash
-  name: 白石晴香
+  name: 千菅春香
   type: cast
 - !ruby/hash:TagHash
   name: 石井マーク

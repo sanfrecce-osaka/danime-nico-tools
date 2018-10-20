@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/94/4/21944_1_6.png?1
 outline: 上野の公園にひっそりと佇むアジト。そこにいるのは3人の小学生の女の子たち――。そう、彼女たちこそ上野を守る正義の組織「カラーズ」!! 結衣、さっちゃん、琴葉の3人は今日も平和な上野の平和を守るため、日夜（嘘、夕方まで）街を駆け回るのである!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 田丸篤志
   type: cast
 - !ruby/hash:TagHash
-  name: 高野麻里佳
+  name: 東城日沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 東城日沙子
+  name: 高野麻里佳
   type: cast
 - !ruby/hash:TagHash
   name: 高田憂希
@@ -35,22 +38,22 @@ tags: !ruby/array:Hashie::Array
   name: 監督：河村智之
   type: staff
 - !ruby/hash:TagHash
+  name: 音楽：未知瑠
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：カツヲ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：横田拓己
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：未知瑠
-  type: staff
-- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: KADOKAWA
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: KADOKAWA
   type: other
 - !ruby/hash:TagHash
   name: アスキー・メディアワークス

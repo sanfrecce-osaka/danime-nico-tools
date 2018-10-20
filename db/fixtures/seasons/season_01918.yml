@@ -6,6 +6,9 @@ outline: 人間たちに葬られたドラゴンたちの怒りが宿る杖・�
   国を救いたいと願うソーニャの秘密とは！？様々な思惑が交錯する中、フェアリーテイルは世界の危機に立ち向かう！！そして、壮絶な戦いの中で、ナツの本能が目を覚ます――！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

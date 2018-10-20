@@ -6,16 +6,25 @@ outline: 世界大戦後の降りやまない雨の世界。細菌兵器の影�
   どんな時も決して消えることのない、美しい無窮のきらめき……。満天の星々がみなさまをお待ちしています｣星すら見えなくなった滅びゆくこの世界で、彼はそこで何を見るのか。1年で7日間しか稼働できないロボットの少女が、目覚めたまさにその日に訪れた偶然。そこで起こった奇跡とは――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: すずきけいこ
   type: cast
 - !ruby/hash:TagHash
-  name: 原作：Key
+  name: アニメーション制作：david production
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：david production
+  name: 原作：Key
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：折戸伸治

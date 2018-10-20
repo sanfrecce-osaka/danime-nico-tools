@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/10/7/20107_1_6.png?1
 outline: 剛田猛男(ごうだたけお)は高校1年生。身長2m・体重120kg(いずれも推定)。真っ直ぐで不器用で鈍感な猛男は、女子からはモテないけど、男子からは超モテモテ!今まで好きになった子は、いつも幼馴染みで超イケメンの親友・砂川誠(すなかわまこと)の方を好きになってしまう。ある朝、猛男と砂川は通学電車の中で、痴漢に遭っていた女子高生・大和凛子(やまとりんこ)を救う。大和に一目惚れした猛男だけど・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -20,16 +26,16 @@ tags: !ruby/array:Hashie::Array
   name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 潘めぐみ
-  type: cast
-- !ruby/hash:TagHash
   name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 前田玲奈
+  name: 潘めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 榎木淳弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田玲奈
   type: cast
 - !ruby/hash:TagHash
   name: 青木和代

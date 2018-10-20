@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/1/10331_1_6.png?1
 outline: 世界最強といわれる特殊部隊｢ミスリル｣に所属する戦士、相良宗介。彼は、日本の高校に通う美少女｢千鳥かなめ｣を守るため、彼女の高校に転校生としてやって来る。そこで、巻き起こる一人戦争状態。一方で｢かなめ｣をめぐって暗躍する組織。学園ラブコメ、軍事サスペンスの両方を持ち合わせたSF冒険活劇ここに、参上!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

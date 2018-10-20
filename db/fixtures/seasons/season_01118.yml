@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/90/6/20906_1_6.png?1
 outline: 古くは卑弥呼や聖徳太子の時代から、紫式部、織田信長、坂本龍馬の時代まで日本の歴史上に存在する様々な偉大な猫たち。みんな色々とやってみるのだが、そこは気分屋の猫たち。すぐに飽きたり、動くものについつい体が反応してしまったり、寝てしまったりしてしまう。でも一度夢中になるとものすごいエネルギーを発揮するのである。そんな猫たちによって日本の歴史はいかにして作られて来たのか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash

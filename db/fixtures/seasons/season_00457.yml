@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/18/4/11184_1_6.png?1
 outline: 時は平安時代。帝とその寵愛を一身に受けた桐壺の更衣との間に光源氏が誕生した。やがて見目麗しい青年に成長した光源氏は、三歳の時に失った母に瓜二つの父帝の妃・藤壺の宮を慕い、道ならぬ恋に落ちていく。その苦悩から救いを求めるかのようにあまたの女性と契りを結んでいく光源氏―。平安の世を艶やかに彩る、光源氏と彼を取り巻く女性たちによる千年の時を超える不朽のラブストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

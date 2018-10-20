@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/71/3/20713_1_6.png?1
 outline: 勉強にしか興味がなかった水谷雫は、入学初日の流血事件以来、一度も学校に来ない吉田春にたまたまプリントを届けたことで、勝手に懐かれてしまって…！？不器用な少年少女が織りなす恋愛＆友情の物語　誰かと向き合うこと、それは、自分自身と正直に向き合うこと―
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

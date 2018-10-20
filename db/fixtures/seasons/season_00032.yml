@@ -6,6 +6,12 @@ outline: 第三次流砂現象によりその一部が泥濘に沈んだ東京�
   決裁完了、出動せよ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -18,13 +24,13 @@ tags: !ruby/array:Hashie::Array
   name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
+  name: 村田太志
+  type: cast
+- !ruby/hash:TagHash
   name: 倉田雅世
   type: cast
 - !ruby/hash:TagHash
   name: 石上静香
-  type: cast
-- !ruby/hash:TagHash
-  name: 村田太志
   type: cast
 - !ruby/hash:TagHash
   name: 黒沢ともよ
@@ -39,10 +45,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：プロダクションアイムズ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：西田亜沙子
+  name: 監督：秋田谷典昭
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：秋田谷典昭
+  name: キャラクターデザイン：西田亜沙子
   type: staff
 - !ruby/hash:TagHash
   name: アクティヴレイドシリーズ

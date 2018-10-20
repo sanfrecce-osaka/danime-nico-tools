@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/37/5/11375_1_6.png?1
 outline: 高校入学から一人暮らしを始めることとなった苦学生、里見孝太郎が見つけた六畳一間で家賃5000円の格安物件。その部屋《ころな荘106号室》は……狙われていた！様々な理由から《ころな荘106号室》を手に入れるべく、引越し直後の孝太郎のもとに次々と現れる、かわいい侵略者たち。それぞれの思惑が交錯する中、彼女たちと孝太郎の壮絶な(？）戦いの火花が、たった六畳の空間に散りまくる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 洲崎綾
   type: cast
 - !ruby/hash:TagHash
-  name: 長縄まりあ
+  name: 鬼頭明里
   type: cast
 - !ruby/hash:TagHash
-  name: 鬼頭明里
+  name: 長縄まりあ
   type: cast
 - !ruby/hash:TagHash
   name: 高本めぐみ

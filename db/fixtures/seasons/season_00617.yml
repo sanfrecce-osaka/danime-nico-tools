@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/87/5/20875_1_6.png?1
 outline: ちょっぴり掃除好きな小学生・小宮千尋は、ある日突然母を亡くしてしまった。身寄りのない千尋に手をさしのべたのは、叔父である鷹取円だった。そのまま円の豪邸に連れていかれた千尋だったが、あまりのゴミ屋敷っぷりに耐えられず、大掃除を開始！！その姿を見ていた円は、鷹取家の世話になることに反発していた千尋に、ある提案をする。それは、千尋はメイド役を、円は生活環境を提供するというギブアンドテイク案だった！！円の提案に納得した千尋だったが、渡された制服はフリフリで、お屋敷の汚れは果てしなくて…。どーなる千尋！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
-  name: 榊原良子
+  name: 牧野由依
   type: cast
 - !ruby/hash:TagHash
-  name: 牧野由依
+  name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
   name: 山本和臣

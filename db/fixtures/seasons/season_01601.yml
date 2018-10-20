@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/3/10433_1_6.png?1
 outline: 物語の舞台は、とある河にかかる橋。そこで知り合った人々は、再び同じ橋の上で巡り合えるという伝説があります。そこでの少女と少年の出会いの物語が展開します。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash

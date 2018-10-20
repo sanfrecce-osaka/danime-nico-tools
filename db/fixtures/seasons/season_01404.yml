@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/7/10097_1_6.png?1
 outline: 物語を食べてしまうほど深く激しく愛している“文学少女”天野遠子。彼女が中学3年生の時に出会った｢青空【ソラ】に似ている｣。遠子は熱くこの作品にのめりこんでいくが・・・・・・。劇場版“文学少女”の陰に秘められた天野遠子の想いがわかる短編アニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/81/1/10811_1_6.png?1
 outline: 巨人がすべてを支配する世界。巨人の餌と化した人類は高さ50メートルの巨大な壁を築き、壁外への自由と引き換えに侵略を防いでいた…。まだ見ぬ壁外の世界を夢見る10歳の少年、エレン・イェーガー。エレンは仮初めの平和に満足し外の世界へ出ることを諦めた人々に違和感を覚える。彼らを｢家畜｣と呼ぶエレン。エレンを｢異物｣と感じる人々。だが、壁をも越える超大型巨人の出現により、エレンの｢夢｣も人々の｢平和｣も突如として崩れ去ってしまう……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 梶裕貴
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
   name: 井上麻里奈

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/9/10049_1_6.png?1
 outline: 西暦2000年。科学が発展を遂げたこの時代、世界各地で列車などが光に包まれて消えるという事件が続発していた。国連は原因究明のために極秘地球防衛組織｢迷宮機関｣を設立、その脅威に立ち向かう。これは、迷宮機関と行動を共にすることになったビリーとペニーが、謎の宇宙人と戦いを繰り広げる冒険物語である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：大島ミチル
   type: staff
 - !ruby/hash:TagHash
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 岡田有章
   type: other
 - !ruby/hash:TagHash
-  name: 荒牧伸志
+  name: 福地仁
   type: other
 - !ruby/hash:TagHash
-  name: 福地仁
+  name: 荒牧伸志
   type: other
 - !ruby/hash:TagHash
   name: 山口亮太

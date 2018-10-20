@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/24/4/10244_1_6.png?1
 outline: "｢季節は春・・・徐々に芽吹き始めたさくらの木々に、季節の移り変わりを感じながら日々が過ぎていく・・・卒業式での別れはとても悲しいけど、これから訪れる新しい出会いに胸躍らせる・・・そして、同じ学校に通えることを、本当に楽しみにしていたんだからね、タカくん!｣"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -38,13 +41,13 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：山口宏
   type: staff
 - !ruby/hash:TagHash
+  name: 監督：須藤典彦
+  type: staff
+- !ruby/hash:TagHash
   name: 脚本：中瀬理香
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：西尾公伯
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：須藤典彦
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：藤田伸三

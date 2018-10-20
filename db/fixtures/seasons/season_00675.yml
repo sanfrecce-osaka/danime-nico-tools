@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/4/21984_1_6.png?1
 outline: 出会ったのは美人のお姉さん…じゃ、ない!?街コンに参加したものの、雰囲気に馴染めない静歌。声をかけてくれたのは、年上の女子大生の涼だった。二人で抜け出して意気投合するけど、涼の部屋で突然キスされ、押し倒されて――「涼さんってレズ!?」と思ったけど、女の子の体にしては違和感が…ウソでしょ…まさかこの人、女装なの!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 原舞香
   type: cast
 - !ruby/hash:TagHash
@@ -20,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：マジックバス
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：ハナマルオ
-  type: staff
-- !ruby/hash:TagHash
   name: 監督：熨斗谷充孝
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：ななし
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ハナマルオ
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

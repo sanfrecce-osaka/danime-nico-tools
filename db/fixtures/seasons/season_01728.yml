@@ -6,6 +6,15 @@ outline: 21世紀初頭の東京。母子で暮らす高校生・神名綾人は
   JUPITER｣を目撃する。謎の存在MUに占拠された首都は、不思議な膜に閉鎖され、住民は偽りの生活をさせられていた。しかも外部には、12年も先の時間が流れていたのだった…。東京を支配する｢青い血｣の人間とは何者か？綾人とラーゼフォンには、どんな関係があるのか？そして真実の世界で、綾人を待ち受ける運命は何か？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
@@ -45,10 +54,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：榎戸洋司
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：會川昇
+  name: 脚本：小中千昭
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：小中千昭
+  name: 脚本：會川昇
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：橋本一子
@@ -87,7 +96,7 @@ tags: !ruby/array:Hashie::Array
   name: 佐野浩敏
   type: other
 - !ruby/hash:TagHash
-  name: 石川吉元
+  name: 野崎透
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

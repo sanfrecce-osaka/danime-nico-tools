@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/34/7/20347_1_6.png?1
 outline: みんな、ゆるゆりの真の主人公・歳納京子だよー！夏休み、まだまだ遊ぶぞ―！海？山？川？行きたい所は沢山あるんだー！でもまぁ、とりあえず結衣の家に遊びに行こうかな～。宿題？なんのことだかわからないな～。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 豊崎愛生
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
   name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 藤田咲
   type: cast
 - !ruby/hash:TagHash
-  name: 津田美波
+  name: 大久保瑠美
   type: cast
 - !ruby/hash:TagHash
-  name: 大久保瑠美
+  name: 津田美波
   type: cast
 - !ruby/hash:TagHash
   name: 大坪由佳

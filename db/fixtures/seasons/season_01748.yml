@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/09/0/22090_1_6.png?1
 outline: イタリアが舞台となった前シリーズの放送から2年―ルパンとその仲間たちが帰ってきた！ルパン三世と次元大介はフランスにいた。ある田舎町のアパルトマンの一室からドラマが始まる。麻薬や銃など非合法な物まで何でも買える闇のサイト、‘マルコポーロ’。デジタル通貨を盗み出すため、ルパン達は厳重に警備されている巨大サーバ施設へ侵入する。そこで出会ったのは謎の天才ハッカー少女、アミ。ルパンはアミと共に、マルコポーロの罠に立ち向かっていくが、敵が仕掛けた‘ルパン・ゲーム’により、全世界から監視されるハメに。。。しだいに明かされるアミの謎、そしてルパン三世の過去を知る男の出現―――ルパンはいまだかつてないほどの窮地に立たされていく！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 小林清志
+  name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash
-  name: 水瀬いのり
+  name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 栗田貫一

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/59/1/20591_1_6.png?1
 outline: 第三次世界大戦により一度は崩壊した人類の文明は西暦23世紀には都市部を中心にほぼ復興した。それは地上輸送機関のみが異常に発達した世界であった。戦後、永い平和が続き人類はその平和に馴れきっていた。そんな人類を意のままに支配することを目的とした秘密組織“SHADO”が暗躍を開始した。警察機構特務第一班主任のレイ・緑山は二人の若者“無宇(ムウ)”と“麻矢(マヤ)”を中心に私設機動車輌チーム“サーカス”を結成しこれに対抗。かくて超近代都市を舞台とした戦いの火蓋が切られた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀内賢雄
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 麻上洋子
   type: cast
 - !ruby/hash:TagHash
-  name: よこざわけい子
+  name: 頓宮恭子
   type: cast
 - !ruby/hash:TagHash
-  name: 頓宮恭子
+  name: よこざわけい子
   type: cast
 - !ruby/hash:TagHash
   name: 橋本晃一

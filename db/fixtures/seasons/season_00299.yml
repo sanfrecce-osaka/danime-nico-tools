@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/5/10025_1_6.png?1
 outline: 21世紀の日本。とある地に住み着いた｢吸血鬼一家｣がおりました。彼らは人間から、こっそりちょっぴり血をもらいながら、慎ましく暮らしておりました…ですが、長女の｢かりん｣には人に言えない秘密が…そう。彼女は血を吸うのではなく、血が増えてしまう｢吸血鬼｣…じゃない｢増血鬼｣だったのです!そんなかりんも普段は普通の女子高生。だけど転校生｢雨水健太｣の登場によりその生活は激変する事に!前代未聞の増血鬼、｢かりん｣が巻き起こす、恥じらいの学園ラブコメ!!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
+  name: 矢作紗友里
   type: cast
 - !ruby/hash:TagHash
-  name: 矢作紗友里
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 野島裕史

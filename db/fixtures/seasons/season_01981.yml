@@ -6,6 +6,9 @@ outline: 秋田書店の「ヤングチャンピオン」にて連載中。手�
   年代を舞台にブラック・ジャックの知られざる過去を描き出す話題作！！ また、『ブラック・ジャック』の登場人物のほか、『リボンの騎士』や『鉄腕アトム』などの手塚治虫の他作品の登場人物たちが俳優のように本作に登場する「スターシステム」を採用し、作品に花を添える。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 原作：手塚治虫
   type: staff
 - !ruby/hash:TagHash

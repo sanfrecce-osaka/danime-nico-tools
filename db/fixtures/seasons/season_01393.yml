@@ -6,6 +6,12 @@ outline: 60年前、かつてないほどの｢不眠症｣が世界を襲
   ｢嗜血種｣という新たな生命体を生み出すことになる。そして、｢嗜血種｣と人類の間に戦争が勃発。人類は勝利をおさめるが、 嗜血種の生き残りはまだこの世に存在していた―…。人類は、人造血液と｢D-GPS｣と呼ばれる嗜血種管理ステムを完備し、嗜血種の生存を保障。この物語は、人類と嗜血種が共存する日常が舞台となる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

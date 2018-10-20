@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/52/6/11526_1_6.png?1
 outline: 未来の宇宙時代、零細宇宙運輸会社「宇宙便利舎」のパイロットのトッピーとラナは、駆け出しの考古学者ジラフ青年からある依頼を受ける。それは、学会が認めない自説を証明するために、未開の惑星に調査に旅立ったアン教授を連れ戻したいというものだった。3人は途中知り合った宇宙の吟遊詩人シビップを仲間にし、おんぼろ宇宙船サジタリウス号でアン教授のいるベガ第3惑星へと旅立っていった。イタリアのコミックを原作にした、宇宙冒険ストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 緒方賢一
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 銀河万丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
   name: 松井菜桜子
@@ -17,13 +23,16 @@ tags: !ruby/array:Hashie::Array
   name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
+  name: 島田敏
+  type: cast
+- !ruby/hash:TagHash
   name: 岡本麻弥
   type: cast
 - !ruby/hash:TagHash
   name: 鷹森淑乃
   type: cast
 - !ruby/hash:TagHash
-  name: 島田敏
+  name: 山本百合子
   type: cast
 - !ruby/hash:TagHash
   name: 高島雅羅
@@ -32,13 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀江美都子
   type: cast
 - !ruby/hash:TagHash
-  name: 山本百合子
+  name: 塩屋翼
   type: cast
 - !ruby/hash:TagHash
   name: 滝沢久美子
-  type: cast
-- !ruby/hash:TagHash
-  name: 稲葉実
   type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：関修一
@@ -74,13 +80,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
+  name: 製作年：1986年
+  type: other
+- !ruby/hash:TagHash
   name: 佐藤正浩
   type: other
 - !ruby/hash:TagHash
   name: 河野次郎
-  type: other
-- !ruby/hash:TagHash
-  name: 製作年：1986年
   type: other
 - !ruby/hash:TagHash
   name: テレビ朝日

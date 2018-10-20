@@ -5,34 +5,40 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/00/8/11008_1_6.png?1
 outline: 全校生徒たった5人の｢旭丘分校｣。雪解けとともに芽吹き春の足音が聞こえる山里で相変わらずまったり過ごす少女たち。山菜を採ったり、お花見したり、お魚も釣ってみちゃったり・・・。彼女たちの新しい季節の楽しみ方に触れ、子供の頃の懐かしさを再発見できるかもしれません…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 音楽制作：ランティス
-  type: staff
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
-  name: 脚本：吉田玲子
-  type: staff
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 村川梨衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 小岩井ことり
+  type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：大塚舞
-  type: staff
-- !ruby/hash:TagHash
-  name: 脚本：志茂文彦
-  type: staff
-- !ruby/hash:TagHash
-  name: 脚本：山田由香
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：水谷広実
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：あっと
+  name: 監督：川面真也
   type: staff
 - !ruby/hash:TagHash
-  name: 製作：SILVER LINK.
+  name: 原作：あっと
   type: staff
 - !ruby/hash:TagHash
   name: のんのんびよりシリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
   type: other
 - !ruby/hash:TagHash
   name: KADOKAWA

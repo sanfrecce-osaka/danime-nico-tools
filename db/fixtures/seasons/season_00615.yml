@@ -6,6 +6,12 @@ outline: 時は平安。都には無数の妖(あやかし)が跋扈し、時に
   そして、一人前の陰陽師になれるのか!?・・・半人前の陰陽師が、都の闇を叩き切る──!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン
   type: staff
 - !ruby/hash:TagHash

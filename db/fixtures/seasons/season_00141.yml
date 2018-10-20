@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/8/11178_1_6.png?1
 outline: 30歳の独身男ダイキチは祖父の葬儀で見知らぬ6歳の女の子りんと出会う。実は祖父の隠し子であることが分かり驚愕するダイキチ。親戚たちがりんを引き取る話し合いのふりをしながら互いに責任を押しつけ合う中、見兼ねたダイキチは勢い余ってりんを引き取ることを宣言してしまう。正義感は強いがうっかり者のダイキチと、子供ながらにどこか芯の強さをもつ少女りん。ふたりの凸凹・二人三脚・共同生活が始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 土田大
   type: cast
 - !ruby/hash:TagHash

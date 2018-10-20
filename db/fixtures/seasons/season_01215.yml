@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/9/10099_1_6.png?1
 outline: ここ文月学園では、まもなく清涼祭と呼ばれる学園祭が開催される。この学園は試験召喚戦争など特殊なシステムを採用している事もあって、毎年多くの来場者で賑わいを見せ、生徒たちもそれに応えるべく奮起して、準備に励むのであった。その頃、2年Fクラスでは--
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash

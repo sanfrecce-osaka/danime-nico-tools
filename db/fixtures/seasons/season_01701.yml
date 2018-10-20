@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/2/10822_1_6.png?1
 outline: "【作品紹介】『ガールフォース』『バブルガムクライシス』両シリーズで、絶大な人気を誇る園田健一が、始めて取り組んだオリジナル企画、原作、絵コンテ、キャラクターデザイン、メカニックデザインまでをすべて1人で担当、まさに全編が園田ワールドといえる内容となっている。【ストーリー】シカゴ一の運び屋“ロードバスター”こと、ビーン・バンデット。ある日、ビーンは強盗犯の二人組から逃走の依頼を受ける。だが、二人の正体は、悪女セマーリンと手下のキャリーだった。実はセマーリンは、グリムウッド財閥の令嬢チェルシーを誘拐、その罪をビーンになすりつけ、警察の目をそらした隙に逃亡し手にした身代金で裏稼業から足を洗おうとしていたのだ。セマーリンにハメられたことを知ると、ビーンのボルテージはMAXに！愛車バフを駆り、追跡を開始した！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 飛田展男
   type: cast
 - !ruby/hash:TagHash
@@ -32,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 塩屋浩三
   type: cast
 - !ruby/hash:TagHash
-  name: 筈見純
-  type: cast
-- !ruby/hash:TagHash
   name: 小林通孝
   type: cast
 - !ruby/hash:TagHash
   name: 丸尾知子
+  type: cast
+- !ruby/hash:TagHash
+  name: 筈見純
   type: cast
 - !ruby/hash:TagHash
   name: 製作：AIC

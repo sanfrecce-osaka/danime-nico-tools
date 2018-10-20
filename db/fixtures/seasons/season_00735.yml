@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/93/0/21930_1_6.png?1
 outline: この春から高校一年生になる、人見知りな女の子、一之瀬花名。彼女はとある理由から都会の両親のもとを離れ、いとこの志温が管理人を務めるアパート”てまりハイツ”で暮らしている。新しい高校、新しい毎日の中で起こる、素敵な出会いの数々。花名はまわりの人たちとゆっくり心を通わせて、楽しくてきらきらとした時間を過ごしていく。子供みたいにはしゃいだり、大人みたいにドキドキしたり……かわいさ溢れ、心あたたまる、スロウな成長物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 長縄まりあ
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤彩沙
+  name: 近藤玲奈
   type: cast
 - !ruby/hash:TagHash
-  name: 近藤玲奈
+  name: 伊藤彩沙
   type: cast
 - !ruby/hash:TagHash
   name: 嶺内ともみ

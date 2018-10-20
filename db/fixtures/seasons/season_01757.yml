@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/75/6/21756_1_6.png?1
 outline: パリとロンドンを繋ぐ海中ユーロトンネルが謎の爆発。世界最大の保険会社ロイド社に投資する英国貴族アーチャー卿は、惨事の保険負担を強いられ、かつての友人で第二次大戦時にマレーで活躍した英雄＝ハリマオが隠匿した財宝の回収を試みる。一方ハリマオの財宝を狙うルパンと次元は、アーチャーとその孫で美人考古学者のダイアナと、財宝の鍵となる複数の神像を奪い合う。が、鍵十字を飾る武装カルト集団ネオヒンメンまでが争奪戦に介入、事態は三つ巴の争いとなった！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash
-  name: 井上真樹夫
-  type: cast
-- !ruby/hash:TagHash
-  name: 田中真弓
-  type: cast
-- !ruby/hash:TagHash
   name: 鈴置洋孝
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上真樹夫
   type: cast
 - !ruby/hash:TagHash
   name: 栗田貫一

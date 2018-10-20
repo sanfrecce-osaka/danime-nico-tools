@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/1/10061_1_6.png?1
 outline: 未来から脱出してきた少年、アギノ・ジロは、哲子たちの乗るワゴン車をタイムマシンに改造し、過去の世界へ旅立った。東京大空襲、戦国時代など歴史の中をさ迷う少年達。戦火の中での哲子と戦時少年の出会い。歴史を変えようとする謎の一団と、それを守る時間管理局との戦い。そしてジロを追うタイムハンター、クタジマ・トシトとの追跡劇の末、着いた所は安土桃山時代。織田信長や森蘭丸と出会った一行は、そこが本能寺の変の直前であることを知る。果たして本能寺の変は起こるのか?少年達は元の時代へ帰れるのか?そして哲子と蘭丸の時空を超えた恋の行方は?謎の男クタジマの正体は?風雲急を告げる本能寺。そして意外な結末が―――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 井上真樹夫
   type: cast
 - !ruby/hash:TagHash
-  name: 戸田恵子
+  name: 堀川りょう
   type: cast
 - !ruby/hash:TagHash
-  name: 堀川りょう
+  name: 戸田恵子
   type: cast
 - !ruby/hash:TagHash
   name: 津嘉山正種
@@ -50,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：眉村卓
   type: staff
 - !ruby/hash:TagHash
-  name: 製作年代：1980年代
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
   name: 角川書店

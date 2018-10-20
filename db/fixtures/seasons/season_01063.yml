@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/2/20142_1_6.png?1
 outline: ある日、東方院行人は、父親とのケンカをキッカケに、勢いで家出をしてしまった。船に乗り込んだまでは良かったが、うっかり船から転落。100年に一度級の大嵐に遭い、数日間の漂流の末、ここ＂藍蘭島＂に辿り着いた。でも、この島、ちょっとヘン。・・・というのも、この藍蘭島は、女の子だけの島だった!!行人を待ち受けていた、うらやましすぎる(?)運命。―これは、島で唯一の少年のハプニングだらけの記録である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/5/21415_1_6.png?1
 outline: 安全な筈の辺境宙域に突如流星群が出現し、輸送船が爆発。事故なのか、それとも何者かによって仕組まれた破壊工作なのか。地上勤務となったタイラーたちはどう動く！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三石琴乃
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 関俊彦
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
+  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
-  name: 八奈見乗児
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 西村知道
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: かないみか
   type: cast
 - !ruby/hash:TagHash
-  name: 成田剣
+  name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: 大木民夫
+  name: 成田剣
   type: cast
 - !ruby/hash:TagHash
   name: 岡本麻弥

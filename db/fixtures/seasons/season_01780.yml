@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/36/3/21363_1_6.png?1
 outline: 王陸が霊剣派の仙人を目指す修行を始めてから２年の月日が経っていた。「下界に降りて俗世と触れる」という試練を与えられ、王陸は自分の生まれ故郷に向かう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 代永翼
   type: cast
 - !ruby/hash:TagHash

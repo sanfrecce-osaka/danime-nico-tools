@@ -6,6 +6,9 @@ outline: "【DD北斗の拳2】199Ｘ年、地球は最終戦争の炎に包ま�
   イチゴ味】聖帝サウザーが、はしゃぐ！デレる！高笑う！禁断の原哲夫画風で描く今世紀最大の著作権の無駄遣いと言われる問題作が遂にアニメ化。友達がいない聖帝サウザーがケンシロウと仲良くなる方法を考えたり、南斗六聖拳のメンバーと遊んだり、大好物のカレーを食べたり、サウザー様が画面いっぱいはしゃぎまくる！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -21,10 +24,10 @@ tags: !ruby/array:Hashie::Array
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 置鮎龍太郎
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
   name: M・A・O
@@ -51,13 +54,13 @@ tags: !ruby/array:Hashie::Array
   name: 原作：原哲夫
   type: staff
 - !ruby/hash:TagHash
+  name: アニメーション制作：亜細亜堂
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：まんきゅう
   type: staff
 - !ruby/hash:TagHash
   name: 原作：武論尊
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：亜細亜堂
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：安部純

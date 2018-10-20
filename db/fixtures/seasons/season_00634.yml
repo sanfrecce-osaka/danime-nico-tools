@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/61/4/11614_1_6.png?1
 outline: "｢なぁ――お前、妹が欲しいって言ってたよな?｣東城刃更は、父親からの突然の問いに慌てた。しかも、破天荒な父は再婚宣言をし、義理の妹になる二人の美少女を連れてくると、自分はあっという間に海外出張へ行ってしまう。しかし、澪と万理亜、二人の少女は先代魔王の娘とサキュバスだった!?危うく主従関係を結ばれそうになる刃更だったが、誤って｢逆｣契約、刃更がマスターになってしまう。おまけに契約のせいでHなシチュエーションに次々と襲われる刃更。一方で、澪は、他の魔族や勇者族に命を狙われていて――!?"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

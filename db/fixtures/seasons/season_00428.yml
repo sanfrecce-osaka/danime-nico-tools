@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/95/6/21956_1_6.png?1
 outline: 大好きなゲームを気ままに遊びながら、それとなく満足した日常を過ごしていたライトとヨミ。誰もが寝静まる深夜、ライトは「王」と呼ばれる者の遣いであるアルファから誘いを受け、ヨミとともに異世界へと吸い込まれる。現実世界から転生したふたりには、「囚われのメロディ姫」を“マオー”から救うためクエストが与えられる。このミッションを「天命」とまで感じるライトと、やや面倒なことになった…と感じるヨミ、そこへ「王」のしもべであるＡ．Ｉ．ロボのアルファが加わりパーティーを結成。アルファの持つプログラムでレベルを上げながら（！？）冒険をユル～く進んだり戻ったりするが、果たしてそのゆくえは…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

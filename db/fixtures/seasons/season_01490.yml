@@ -5,19 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/02/6/20026_1_6.png?1
 outline: 隣人部――そこでは『友達作り』を目的に、友達がいない残念な少年少女たちが残念な活動を繰り広げている。夏の終わりに三日月夜空に関するちょっとした事件が起きたものの、それからも隣人部では相変わらずの日々が続いていた。おかしなシスターや生徒会役員といった新しい顔ぶれも登場し、ますます賑やかになっていく羽瀬川小鷹の日常。みんなで遊園地に行ったりゲームをしたり誕生日パーティーをしたり、リア充スクールライフの代表イベントである『学園祭』にも果敢に挑戦するなか、隣人部内の人間関係にも大きな変化がおとずれる……。残念系青春ラブコメディ、ＮＥＸＴステージ開幕!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
-  type: cast
-- !ruby/hash:TagHash
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里

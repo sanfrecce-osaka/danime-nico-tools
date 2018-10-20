@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/09/3/22093_1_6.png?1
 outline: 伊豆の町で生まれ育った小日向光と、東京から引っ越してきた大木双葉。ともに夢ヶ丘高校に入学した二人は、スキューバダイビングと日常の何気ない出来事の中に、たくさんの幸せを見つけてきた。かつては何事にも消極的だった双葉だが、明るく前向きな光とのおかげで一歩前に踏み出す喜びをいくつも経験。さらに、双葉は念願だったオープンウォーター・ダイバーの実習にも合格し、次はアドバンスド・オープンウォーター・ダイバーを目指すことに。一度きりのかけがえのない高校生活は、まだまだこれからが本番。素敵な日々は終わらない、二人でともに歩む日々が続くかぎり、ずっと。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash

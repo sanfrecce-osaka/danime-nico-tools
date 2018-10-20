@@ -6,16 +6,25 @@ outline: 20世紀初頭。突如出現した異形の敵｢ネウロイ｣は次
   ―― ｢ストライクウィッチーズ｣と。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 名塚佳織
@@ -24,16 +33,16 @@ tags: !ruby/array:Hashie::Array
   name: 福圓美里
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
-  type: cast
-- !ruby/hash:TagHash
   name: 門脇舞以
   type: cast
 - !ruby/hash:TagHash
-  name: 野川さくら
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 野川さくら
   type: cast
 - !ruby/hash:TagHash
   name: 大橋歩夕
@@ -81,10 +90,10 @@ tags: !ruby/array:Hashie::Array
   name: 吉田知弘
   type: other
 - !ruby/hash:TagHash
-  name: 小倉宏昌
+  name: 鈴木貴昭
   type: other
 - !ruby/hash:TagHash
-  name: 鈴木貴昭
+  name: 三嶋章紀
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

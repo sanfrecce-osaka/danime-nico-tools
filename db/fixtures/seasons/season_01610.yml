@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/6/21416_1_6.png?1
 outline: ラアルゴン帝国が開発した新兵器で、緊張が走る惑星連合宇宙軍。陰謀、疑惑、そして信頼…、戦争によって試されていく様々な絆の鍵を握るのは、もちろん我らが”無責任男”！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三石琴乃
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 関俊彦
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
+  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
-  name: 八奈見乗児
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 西村知道
@@ -38,7 +41,7 @@ tags: !ruby/array:Hashie::Array
   name: 岡本麻弥
   type: cast
 - !ruby/hash:TagHash
-  name: 中田和宏
+  name: 辻谷耕史
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：川井憲次

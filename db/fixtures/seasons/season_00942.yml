@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/53/4/11534_1_6.png?1
 outline: 柾木神社の跡取息子である、柾木天地はごく普通のどこにでも居る少年であった。しかし、神社の中にある「鬼」を封じ込めている祠を開けてしまったことから、封じられていた「鬼」＝魎呼が復活し、魎呼から追われ、戦う羽目になった。そしてその事は、天地が銀河を支配する樹雷一族との関わりを知ることになる、始まりでもあったのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 折笠愛
   type: cast
 - !ruby/hash:TagHash

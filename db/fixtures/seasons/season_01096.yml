@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/9/21419_1_6.png?1
 outline: 極道一家「集英組」のひとり息子だが、ごく普通の高校生・一条楽。彼は、10年前、仲良くなった女の子と「再会したら結婚する」という約束をし、その時に貰ったペンダントを肌身離さずに持っていた。そんなある日、楽のクラスにやって来た転校生の美少女・桐崎千棘。最初の出会いから相性最悪で、事ある毎にケンカを繰り返す楽と千棘だが、とある事情から二人は恋人を演じることに。恋心を抱く、クラスメイトの小野寺小咲の事を気にしつつも、恋人のフリを続ける楽。「偽恋物語」の行く末やいかに！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：新房昭之
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：神前暁
+  name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：MONACA
+  name: 音楽：神前暁
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：杉山延寛

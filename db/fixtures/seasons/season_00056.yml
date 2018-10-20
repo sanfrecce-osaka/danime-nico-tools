@@ -7,10 +7,19 @@ outline: 死者は、誰――? その学校のそのクラスには、誰にも
   のいぢ】が担当!監督:水島努、キャラクターデザイン:石井百合子、そして…アニメ制作:P.A.WORKS大ヒットを連発しているスタッフ&スタジオが、超豪華チームを結成し、ホラーアニメの決定版に挑む｡
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: Anotherシリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
   type: other
 - !ruby/hash:TagHash
   name: カドカワコミックス・エース

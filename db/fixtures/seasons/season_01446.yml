@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/15/4/11154_1_6.png?1
 outline: ある日、世界中で謎の怪事件が発生し、人類は滅亡の危機に直面した。アメリカは緊急の国際会議を開き｢俺の指揮下で世界を救おう｣と熱弁する。ところが、いつものように、会議にあつまったフランス、イギリス、ドイツ、日本、ロシア、イタリア、(カナダ)の足並みはそろわず、バラバラに動きだしてしまう。世界平和を望む気持ちは変わらない。しかし、怪事件の裏に動く強大な存在を前に、それぞれの力はあまりに小さく、無力だった。彼らの運命やいかに!そして、彼らは世界を救うことができるのか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/64/8/21648_1_6.png?1
 outline: 文蔵高校、新入生歓迎会。1年生の越山識は、クイズ研究会による＜新入生早押しクイズ大会＞に思いがけず参加させられてしまう。読書好きで目立つことが嫌いな識が慌てるなか、同じクラスの深見真理は、クイズの問題が読み終わる前に次々とボタンを押しては、まわりを圧倒していく。「答えがわかってから押してたんじゃ、全然遅いのよ。早押しは0.01秒の差が勝敗を分けるわ。」そんな真理を見ているうちに、識は“クイズには答えを確定できるポイントがある”ことに気付く……。クイズ研究会の先輩と仲間たち、圧倒的強さを誇るライバル・御来屋千智との出会い、正解したときの喜び、ボタンを押せなかった時の悔しさ…知識だけでなく、様々なテクニックを磨いて仲間とともに勝利を目指す≪競技クイズ≫の世界で越山識のクイズに青春をかける日々がスタートするのだった。キミも、クイズ王にならないか！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
   name: 羽多野渉
-  type: cast
-- !ruby/hash:TagHash
-  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木達央
@@ -29,16 +32,16 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 山谷祥生
-  type: cast
-- !ruby/hash:TagHash
   name: 八代拓
   type: cast
 - !ruby/hash:TagHash
-  name: 畠中祐
+  name: 山谷祥生
   type: cast
 - !ruby/hash:TagHash
   name: 榎木淳弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 畠中祐
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：トムス・エンタテインメント

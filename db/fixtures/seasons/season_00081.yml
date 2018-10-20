@@ -6,6 +6,12 @@ outline: 宣戦を布告する　火星の騎士たちが空から降ってく�
   Pictures、そしてあおき自身も参画するTROYCAが務める。またキャラクター原案として志村貴子が名を連ねる。その繊細な人物の佇まいは、星間戦争を生きる人々の姿を切なく写し出すものだ。さらにメカニックデザインは新鋭、I-Ⅳが担当。音楽では澤野弘之が作品に重厚な趣を与える。彼らが描き出すのは、鮮烈なアクション、微に入り細にわたる設定、真に迫る戦争の恐怖、そして、真摯な思いが織りなす人々のドラマだ。それは王道の、しかし誰も見たことのない、全く新しいロボットアニメとなる。『アルドノア・ゼロ』。この作品は、僕たち地球人類に宣戦布告する。君は迎え撃たねばならない。　さやわか（物語評論家）
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -27,19 +33,19 @@ tags: !ruby/array:Hashie::Array
   name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
-  name: 速水奨
-  type: cast
-- !ruby/hash:TagHash
   name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：A-1 Pictures

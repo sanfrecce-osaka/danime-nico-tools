@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/24/0/10240_1_6.png?1
 outline: "“やっかいごと下請け人”ケインが押しつけられた金にならないしごと、それは単純な家出人探し、のはずだったが……。虚空にひろがる星々の片隅で、邪悪なモノの胎動が始まっていた――黒いマントをひるがえし、サイ・ブレードで悪を断つ!颯爽登場、“下請け人”ケイン=ブルーリバーの活躍を描く、ファンタスティック・スペース・アドベンチャー。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 緑川光
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 中田譲治
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
   name: 保志総一朗

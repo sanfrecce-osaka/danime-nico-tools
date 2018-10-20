@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/39/8/22398_1_6.png?1
 outline: 武藤遊戯がいた時代から数十年後の童実野町は階層社会を形成する未来都市「ネオ童実野シティ」へと変貌していた。主人公不動遊星は「D・ホイール」に乗り下層エリアから上層エリアを目指し疾走する。自分と仲間にとって大切なカード「スターダスト・ドラゴン」を奪っていったかつてのライバルジャック・アトラスのいるデュエルスタジアムを目指して・・・。遂に対峙する遊星とジャック。仲間のために戦う遊星に待ち受けているものは!?そして「竜の痣」がもたらすものとはいったい何なのか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash

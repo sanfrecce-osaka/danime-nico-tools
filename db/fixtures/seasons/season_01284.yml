@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/77/8/10778_1_6.png?1
 outline: ごく普通の高校生、九峪と日魅子は日魅子の父である姫島教授のもと、古代遺跡の発掘調査の現場にきていた。すると突然日魅子は炎に包まれ、助けに入った九峪もろとも見知らぬ世界へ転移してしまう。そこは聖なる火“墨火(ぼっか)”を信仰する、超古代国家“耶麻台国”だった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash

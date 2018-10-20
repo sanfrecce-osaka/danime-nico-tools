@@ -6,13 +6,16 @@ outline: 華々しくデビューを果たしたOver The Rainbow。ヒロ、コ�
   The Rainbowを支えてきたコウジにアメリカから映画音楽製作の巨額オファーが舞い込む。4年毎に開催されるプリズムキングカップを翌年に控え、3人の進路は――　エーデルローズ存亡の危機。残された7人のエーデルローズ生。シュワルツローズからの刺客。そして、突然現れた不思議な少年。“最も女の子の心をトキめかせたスタァ”だけが得られるプリズムキングになるのは、誰だ！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 増田俊樹

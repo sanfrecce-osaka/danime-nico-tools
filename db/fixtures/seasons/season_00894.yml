@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/52/7/11527_1_6.png?1
 outline: 19世紀・清朝末期の中国は、4千年の歴史を持つ中国料理の騒乱期にあった。四川省随一の国営菜館（食堂）である菊下楼では、新料理長選抜勝負が行われ、13歳の料理人リョウ・マオシン(通称マオ)が見事勝利する。マオは、かつて四川の仙女と呼ばれた凄腕の女性料理人・パイの忘れ形見だった。マオは、宮廷料理の総監督官を努めるリー提督の薦めによって、中国料理界最高の栄誉である特級厨師への道を目指して食の都・広州一の大菜館・陽泉酒家での厳しい修行を受けることになる。やがて見事に特級厨師の資格を得たマオは、伝説の厨具を巡って、各地の料理人たちに料理バトルを挑んでいく。講談社「少年マガジン」に連載された人気漫画のアニメ化。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: ゆきのさつき
   type: cast
 - !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
   name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
   name: 阪口大助
-  type: cast
-- !ruby/hash:TagHash
-  name: 田中真弓
   type: cast
 - !ruby/hash:TagHash
   name: 家中宏
@@ -38,7 +41,7 @@ tags: !ruby/array:Hashie::Array
   name: 石森達幸
   type: cast
 - !ruby/hash:TagHash
-  name: 吉田理保子
+  name: 塩屋翼
   type: cast
 - !ruby/hash:TagHash
   name: 脚本：岸間信明

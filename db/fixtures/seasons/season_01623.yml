@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/25/2/10252_1_6.png?1
 outline: 大河崎重工・自衛隊・米軍の三者は、対戦車用の新型陸上兵器スレイヴ・トルーパー｢MADOX｣を完成させる。それは強大な装甲と攻撃力を有する試作パワードスーツだ。だが性能実験で、引き立て役を強いられた米陸軍戦車隊のエース・キルゴアは、MADOXに遺恨を抱く。しかしMADOXは秘密輸送中、不慮の事故を経て自動車工場勤務の市井の若者・杉本紘二の手に渡ってしまう。不完全なプログラムが作動、機体を着込んでしまう紘二だが、彼はその日、海外留学する恋人・名倉しおりを見送りに行く大事な用があった。MADOXを着込んだまま強引に空港に向かう紘二。だが、その前にあのキルゴアの姿が……。アートミックの製作によるSF活劇アニメ。未曾有の緊急事態より恋人との逢瀬を優先する主人公の姿はコメディチックだが筋運び自体はあくまでシリアス。異才アニメーター・田村英樹のキャラクターデザインも印象深い。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：AIC
   type: staff
 - !ruby/hash:TagHash
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 山根公利
   type: other
 - !ruby/hash:TagHash
-  name: 荒牧伸志
+  name: 鈴木敏充
   type: other
 - !ruby/hash:TagHash
-  name: 鈴木敏充
+  name: 荒牧伸志
   type: other
 - !ruby/hash:TagHash
   name: 合田浩章

@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/9/11299_1_6.png?1
 outline: ショコラとバニラは、親友であり魔界の次期クイーン(女王)候補のライバル。クイーンを決める試験のため、二人は人間界へとやってきました。試験の内容は人間のハート（自分への想いの結晶）をより多くあつめること。人間界の学校に転入した二人は人間のハートをあつめるべく頑張りますが、魔界でモテモテだったはずのショコラは人間界では全くモテず、内気なバニラにリードされてしまいます。おまけにピエールという謎の男の子にときめいてしまうショコラ。人間と違って魔女のハートは一つしかなく、奪われてしまったら、永久に魂を失うことになるのです。ショコラはハートを守れるのでしょうか？そしてクイーン試験の行方は？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
   name: 横山智佐
   type: cast
 - !ruby/hash:TagHash
-  name: 松本まりか
+  name: 小西大樹
   type: cast
 - !ruby/hash:TagHash
-  name: 小西大樹
+  name: 松本まりか
   type: cast
 - !ruby/hash:TagHash
   name: 井端珠里

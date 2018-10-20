@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/03/5/11035_1_6.png?1
 outline: 時は2070年、日本に侵略兵器と思しき謎の巨大物体が出現するが、それをまた別の巨人が追い払った。その事件直後、天網（てんもう）市の御統（みすまる）中学に、統原無量（スバル・ムリョウ）が転校してくる。不思議な雰囲気の彼と知り合ったことから、普通の男子中学生、村田始は宇宙規模の大事件に巻き込まれていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 朴璐美
   type: cast
 - !ruby/hash:TagHash
-  name: 阪口大助
+  name: 浅野真澄
   type: cast
 - !ruby/hash:TagHash
-  name: 浅野真澄
+  name: 阪口大助
   type: cast
 - !ruby/hash:TagHash
   name: 小林由美子
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 小野健一
   type: cast
 - !ruby/hash:TagHash
-  name: 上田祐司
+  name: 石森達幸
   type: cast
 - !ruby/hash:TagHash
-  name: 石森達幸
+  name: 上田祐司
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：マッドハウス
@@ -59,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 三間雅文
+  name: 製作年：2001年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2001年
+  name: 三間雅文
   type: other
 - !ruby/hash:TagHash
   name: 松村正宏

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/5/10065_1_6.png?1
 outline: バブル戦争から十数年、世界は富める者と貧しき者の二極分化が急激に進み、日本もまたその例外ではなかった。富める者はひたすら己の欲望と快楽を求め、東京はその欲望を満たす快楽都市と化した。パスポートを剥奪され国内でくすぶっていた戦場カメラマン雑賀(サイガ)は、ある日秘密クラブの潜入取材を依頼される。それはセレブの中でも特に選ばれた者だけにしか出入りを許されないと言われる闇の社交場｢六本木倶楽部｣。その会員になれた者には究極の快楽が与えられるという。潜入に成功した雑賀に助けを求める謎の少女、神楽(カグラ)。彼女は｢六本木倶楽部｣の支配人、水天宮によって倶楽部のシンボルとして操られていたのだった。神楽をつれて逃げる雑賀、だが雑賀は神楽と接触したことによって｢写殺能力｣に目覚めることになる。そして｢六本木倶楽部｣からの追っ手もまた、欲望によって特殊な能力に覚醒した者たちだった・・・。｢六本木倶楽部｣とは、そして神楽とはいったい何者なのか。神楽とのラブストーリーを軸に、二人の絶体絶命の逃亡劇が始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +17,16 @@ tags: !ruby/array:Hashie::Array
   name: 本田貴子
   type: cast
 - !ruby/hash:TagHash
-  name: 優希比呂
-  type: cast
-- !ruby/hash:TagHash
   name: 江川央生
   type: cast
 - !ruby/hash:TagHash
-  name: 高島雅羅
+  name: 優希比呂
   type: cast
 - !ruby/hash:TagHash
   name: 広瀬正志
+  type: cast
+- !ruby/hash:TagHash
+  name: 高島雅羅
   type: cast
 - !ruby/hash:TagHash
   name: 高田裕司

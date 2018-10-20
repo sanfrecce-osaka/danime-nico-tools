@@ -6,6 +6,12 @@ outline: 超人気アイドル・HAYATOに憧れ、作曲家を夢見る七海�
   新人発掘オーディション｣の合格を目指すことになる。しかし、春歌の前に現れるのは、アイドルを夢見るまばゆき6人のプリンスたち。さらに現役アイドルの講師陣、破天荒な学園長なども入り乱れて、学園はいつもハプニングの嵐。果たして、春歌のペアはいったい誰になるのか……!?キスより素敵な音楽が奏でる、ドキドキ青春ラブ☆コメディ♪
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -42,10 +48,10 @@ tags: !ruby/array:Hashie::Array
   name: 今井由香
   type: cast
 - !ruby/hash:TagHash
-  name: 製作：A-1 Pictures
+  name: 音楽：Elements Garden
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：Elements Garden
+  name: 製作：A-1 Pictures
   type: staff
 - !ruby/hash:TagHash
   name: 監督：紅優

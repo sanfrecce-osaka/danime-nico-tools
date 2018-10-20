@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/14/2/21142_1_6.png?1
 outline: 刑務所の落語慰問会で見た大名人・八雲の｢死神｣が忘れられず、出所した与太郎が真っ先に向かった先は、寄席だった。拝み倒して八雲の住み込みの弟子となった与太郎だが、八雲の元では小夏という女性が暮らしていた。八雲と小夏には他人が容易に触れられない因縁があるらしく・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

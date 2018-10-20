@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/6/10786_1_6.png?1
 outline: 少女のお気に入りのぬいぐるみ“ダル”。空港で少女と離ればなれになってしまったダルは少女を探して世界各国へと旅に出る。時が過ぎるにつれ、次第にダルのことを忘れてしまう少女。果たしてダルは、少女に再会することが出来るのか―
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 水野理紗
   type: cast
 - !ruby/hash:TagHash

@@ -6,6 +6,12 @@ outline: 香港で突如起きた“九龍の血統”による暴走最愛の�
   BLOOD)と吸血鬼(BLACK BLOOD)・・・すべての血はひとつに赤と黒に彩られた生と死、それを超越した吸血鬼の物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -30,10 +36,10 @@ tags: !ruby/array:Hashie::Array
   name: 南央美
   type: cast
 - !ruby/hash:TagHash
-  name: 高木礼子
+  name: 成田剣
   type: cast
 - !ruby/hash:TagHash
-  name: 成田剣
+  name: 高木礼子
   type: cast
 - !ruby/hash:TagHash
   name: 松山タカシ
@@ -51,6 +57,9 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：杉谷祐
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：菅野利之
+  type: staff
+- !ruby/hash:TagHash
   name: アニメーション制作：スタジオ・ライブ
   type: staff
 - !ruby/hash:TagHash
@@ -58,9 +67,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 原作：あざの耕平
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：菅野利之
   type: staff
 - !ruby/hash:TagHash
   name: 監督：吉川博明

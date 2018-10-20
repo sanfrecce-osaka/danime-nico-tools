@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/07/6/22076_1_6.png?1
 outline: 銃と鋼鉄の世界《ガンゲイル・オンライン》でソロプレイを満喫している女性プレイヤー・レン。可愛いものが大好きな彼女は全身をピンクの装備で統一し、コツコツと地道にプレイを重ね、実力をつけていた。そしてとあることからPK――プレイヤー狩りの面白さに目覚めたレンはPKにのめり込み、ついには「ピンクの悪魔」と呼ばれるまでになる。そんなレンは美人でミステリアスなプレイヤー・ピトフーイと出会い、意気投合。彼女に言われるがまま、チーム戦イベント《スクワッド・ジャム》に参加することになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: KADOKAWA アスキー・メディアワークス

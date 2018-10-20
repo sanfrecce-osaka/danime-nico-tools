@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/5/20145_1_6.png?1
 outline: 世界の名作「シートン動物記」を元に、ノンフィクションの持つ感動性と文学の持つ詩情性を併せ備えた作品です。野生の動物たちにも、我々人間と同じような生活があり、喜びも悲しみもあることに心打たれ、動物たちの深い愛情や素晴らしい知恵を改めて見直すことが出来る、そんな作品です。全世界で一千万部近く発行され、少年少女たちに深く愛されている作品を、高品質なアニメーションでお届けします。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中田浩二
   type: cast
 - !ruby/hash:TagHash

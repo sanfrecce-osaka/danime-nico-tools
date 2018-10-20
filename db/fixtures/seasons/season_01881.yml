@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/83/0/21830_1_6.png?1
 outline: "「妹さえいれば人生は常に最高なのに、なぜ俺には妹がいないのか……」妹モノの作品ばかりを書き続けている妹バカの小説家・羽島伊月の周囲には、天才作家にして変態の可児那由多、女子大生の白川京、イラストレーターのぷりけつ、鬼畜税理士の大野アシュリーなど、個性豊かな人物たちが集まっている。それぞれ悩みを抱えながらも、小説を書いたりゲームをやったりお酒を飲んだり確定申告をしたりといった、賑やかな日常を送る伊月たち。そんな彼らを温かく見守る伊月の義理の弟・千尋には、ある大きな秘密があって――。楽しくも心に刺さる、天才や凡人や変人たちが繰り広げる青春ラブコメ群像劇、スタート！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 代永翼
+  name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 沼倉愛美
+  name: 代永翼
   type: cast
 - !ruby/hash:TagHash
   name: 加隈亜衣

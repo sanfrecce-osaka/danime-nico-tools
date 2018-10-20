@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/76/8/10768_1_6.png?1
 outline: 突然の夜逃げ、突然の告白、そして突然の別れ――。今までとは違う自分になりたかったという夢は、急に現実となりました。私、松前緒花の平凡な日常は1日にしてドラマチックな展開を迎えたのです。通い慣れた、それでいてあまり愛着のない街を出て、話したことや会ったこともない祖母の元で暮らすのです。大正浪漫あふれる温泉旅館・喜翆荘(きっすいそう)。そこで出会う人たち。花の芽が地上に出て新たな世界を知るように、私も、今までとはまったく違う、新しい生活を始めます。それは辛いことかもしれません。でも、めげても、くじけても、泣きじゃくっても明日は来るんです。だからこそ私は頑張りたいんです、そして輝きたいんです。太陽に導かれるよう咲く花のようにいつか大輪の花を咲かせられるように……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 豊崎愛生
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤かな恵
@@ -26,16 +29,16 @@ tags: !ruby/array:Hashie::Array
   name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
-  name: 小見川千明
+  name: 本田貴子
   type: cast
 - !ruby/hash:TagHash
   name: チョー
   type: cast
 - !ruby/hash:TagHash
-  name: 浜田賢二
+  name: 小見川千明
   type: cast
 - !ruby/hash:TagHash
-  name: 本田貴子
+  name: 浜田賢二
   type: cast
 - !ruby/hash:TagHash
   name: 恒松あゆみ
@@ -44,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：ランティス
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：P.A.WORKS
+  name: 音楽：浜口史郎
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：浜口史郎
+  name: アニメーション制作：P.A.WORKS
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：関口可奈味

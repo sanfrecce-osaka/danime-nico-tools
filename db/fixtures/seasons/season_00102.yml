@@ -6,6 +6,15 @@ outline: 社会の役に立つために『コンスタン魔術学院』に編�
   おかげで、クラス委員長の服部絢子に恨まれる、天然不思議系少女の曽我けーなに懐かれる、帝国派遣の監視員である女性型人造人間ころねに見張られるなど散々な学園生活を送ることに。それにもめげず、己の理想と信念のため行動・発言する阿九斗であったが、周囲はますます誤解を深め、魔王の再来とばかりに恐怖する…。果たして阿九斗に真っ当な生活を送れる日はやってくるのか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

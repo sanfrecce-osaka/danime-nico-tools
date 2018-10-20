@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/2/10282_1_6.png?1
 outline: 西暦2002年。海底火山が噴火して、平成新島が誕生。取材に向かった朝読新聞の岩倉記者は、そこに少年マーズを発見した。観測船｢あまも｣に乗っていた地球環境研究所所長、横山博士が彼を収容、調査の結果、彼には秘密の使命が託されているようであった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

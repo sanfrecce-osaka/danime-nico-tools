@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/30/3/11303_1_6.png?1
 outline: １６年間、彼氏も友達も作らずにきた橘めい。ある日、誤解で学校一のモテ男・黒沢大和にケガをさせてしまうが、なぜか大和はめいを気に入って一方的に友達宣言。さらに、めいをストーカーから守ってくれたうえに、守るためとキスまでしてきて…！？　大ブレイク中の葉月かなえが描くリアル初恋ストーリー！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -45,6 +51,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
   type: other
 - !ruby/hash:TagHash
   name: 後藤正浩

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/32/9/20329_1_6.png?1
 outline: 高校1年生の春に、軽音部に入部した楽器初心者の平沢唯。部長の田井中律、恥ずかしがり屋の秋山澪、おっとりした琴吹紬の3人とともに、普段の部室でのお茶を中心に、合宿、学園祭、クリスマスと楽しい日々を過ごしていた。高校2年生時には、真面目な新入部員の中野梓を迎え、軽音部2度目の学園祭を5人のバンド｢放課後ティータイム｣として大成功を収める。そして、唯たちは高校3年の春を迎える・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -35,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：山田尚子
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：石立太一
-  type: staff
-- !ruby/hash:TagHash
   name: 監督：高雄統子
   type: staff
 - !ruby/hash:TagHash
   name: 監督：坂本一也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石立太一
   type: staff
 - !ruby/hash:TagHash
   name: 監督：北之原孝將

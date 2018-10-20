@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/7/10047_1_6.png?1
 outline: ダンナーベースを出て3ヵ月、杏奈はボロアパートでの1人暮らしを続けていた。大量発生した擬態獣との戦いは、ゴオ&ミラの活躍によって終息を迎えつつあった。そんな中、擬態獣の出現によりゴーダンナーは危機的状況に。果たして杏奈はゴーダンナーの危機を救えるのか?封印から目覚めたロボットが今動き出す!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -20,16 +26,16 @@ tags: !ruby/array:Hashie::Array
   name: 大川透
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
-  type: cast
-- !ruby/hash:TagHash
   name: 皆川純子
   type: cast
 - !ruby/hash:TagHash
-  name: かかずゆみ
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 本田貴子
+  type: cast
+- !ruby/hash:TagHash
+  name: かかずゆみ
   type: cast
 - !ruby/hash:TagHash
   name: 近藤孝行

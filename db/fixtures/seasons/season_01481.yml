@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/3/10093_1_6.png?1
 outline: 旧世紀、人間がモンスターに支配されている世界で少年・ボッカはメロスの戦士として旅立っていく。 二十世紀、人間とモンスターと呼ばれる者たちとの大きな戦争があった。想像を絶する激しい戦いの末、勝ったのはモンスターの方だった…。時は流れて、人々の記憶からはそんなことなど忘れ去られてしまった新世紀。少年・ボッカは自分の選んだ道を覚悟して旅立つ…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

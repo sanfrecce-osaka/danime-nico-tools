@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/2/10422_1_6.png?1
 outline: 田村えり子は、大手芸能プロダクション｢タムラプロ｣の社長である父を、突然の交通事故で亡くし、母親もこん睡状態に陥ってしまう。プロダクション存続の危機に直面し、それを機に、彼女はアイドルとしてデビューすることを決心する。父の財産を狙う叔父・田村項介の妨害、幾多の困難にさいなまれながらも、生まれ持っての歌唱力と周囲の温かい励まし、そして朝霧麗との交流によって徐々に成長してゆくのだった。やがてえり子は、その歌唱力で人々の心を揺り動かしてゆく。今、ひとりの少女が伝説となる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
@@ -53,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: アイドル＆スター
   type: other
 - !ruby/hash:TagHash
-  name: 田中英行
+  name: 製作年：1989年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1989年
+  name: 田中英行
   type: other
 - !ruby/hash:TagHash
   name: 辺見俊夫

@@ -6,6 +6,12 @@ outline: 興味本位で参加した胡散臭いバスツアーで合流した�
   閉鎖された村での人間模様と主人公の心の葛藤を描く、前代未聞の群像アニメが幕を開ける！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
@@ -21,25 +27,25 @@ tags: !ruby/array:Hashie::Array
   name: 仲谷明香
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋伸也
+  name: 千本木彩花
   type: cast
 - !ruby/hash:TagHash
-  name: 千本木彩花
+  name: 高橋伸也
   type: cast
 - !ruby/hash:TagHash
   name: 堀江瞬
   type: cast
 - !ruby/hash:TagHash
-  name: 中村桜
-  type: cast
-- !ruby/hash:TagHash
-  name: 酒井広大
-  type: cast
-- !ruby/hash:TagHash
   name: 三上哲
   type: cast
 - !ruby/hash:TagHash
-  name: 稲川英里
+  name: 中村桜
+  type: cast
+- !ruby/hash:TagHash
+  name: 天﨑滉平
+  type: cast
+- !ruby/hash:TagHash
+  name: 酒井広大
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：横山克
@@ -48,10 +54,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ディオメディア
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：水島努
+  name: 音楽制作：ポニーキャニオン
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：ポニーキャニオン
+  name: 監督：水島努
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：井出直美

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/6/10036_1_6.png?1
 outline: 柴門たまきは、いつものように幼馴染みの織屋浪馬に｢キックボクシング同好会｣の練習をさせるため、学園中を探し回っていた。そんな中、不思議な雰囲気を持つ転校生・岸田シュンと出逢い、何故か幼い頃の想い出がよみがえる。学園の図書館司書を務める横溝ふみもまた同じだった。あの少年はまさか、あの時の…。その頃、同じく浪馬と幼馴染みの雨堂は高大寺助清と名乗る男から浪馬宛の果たし状を受け取っていた…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
@@ -47,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ARMS
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：倉嶋丈康
+  name: 脚本：影山楙倫
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：影山楙倫
+  name: キャラクターデザイン：倉嶋丈康
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：U＇S MUSIC

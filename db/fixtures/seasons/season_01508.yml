@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/1/10281_1_6.png?1
 outline: 二千年の封印を解かれたダンテが、宇津木涼に憑依するところからこの物語は始まる。自分の姿が、魔王ダンテに変貌するたびに加速していく涼の苦悩は、善か、それとも悪か?涼は、魔王に選ばれた｢人類｣。宇津木家の長男となった彼の秘密が、次第に明かされる…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

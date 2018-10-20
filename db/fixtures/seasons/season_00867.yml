@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/68/5/10685_1_6.png?1
 outline: エロには誰よりも忠実な男子高校生エロ介こと加賀良介。彼はある日、雨の中ずぶ濡れで立ち尽くす一人の少女と出会う。少女の名はリサラ・レストール、実は死神界のエリート娘で、“特異者”と呼ばれる人間を探しに来たという。成り行きで彼女と契約させられてしまった良介は、リサラが人間界で必要とするエナジーを事あるごとに吸い取られることに……しかもその源は彼にとっては何よりも大事な“Hな魂(エロスピリッツ)”おかげでここぞという時にもナニも感じなくなってしまった良介だったが、あらゆるエロ手段を尽くし、Hな魂の輝きを取り戻すべく、リサラの“特異者”探しに協力することに!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：高橋丈夫
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：神本兼利
+  name: 音楽：渡部チェル
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：渡部チェル
+  name: キャラクターデザイン：神本兼利
   type: staff
 - !ruby/hash:TagHash
   name: 原作：橘ぱん

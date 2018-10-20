@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/86/6/20866_1_6.png?1
 outline: 大食娘・小田切双葉、元お嬢様・西川葉子、腹黒委員長・葉山照の仲良し三人組に加え、クラスメイトで永遠の二番手ツンツン娘・西山芹奈や、親切心からひと言多い近藤亜紗子、陰謀が大好物な葉子様の元メイド・薗部篠…ゴーイングマイウェイな面々がマイペースに大騒ぎします！！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 赤羽根健治
   type: cast
 - !ruby/hash:TagHash

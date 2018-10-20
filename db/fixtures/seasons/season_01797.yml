@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/11/0/10110_1_6.png?1
 outline: バスケットボールのスポーツ推薦で七芝高校に入学した長谷川昴は、憧れの男子バスケ部に入部するが、尊敬していた先輩である部長のロリコン疑惑がきっかけで部活動停止の目にあってしまう。行き場をなくし、日々所在なく過ごしていた昴だったが、叔母であるの篁美星の強引な誘いから、彼女が顧問を勤める小学校の女子バスケ部の臨時コーチを引き受けることになった。気が進まないながらもコーチに訪れた昴の前に現れたのは、メイド服に身を包んだ5人の女の子たちのご挨拶だった!?｢お帰りなさいませ、ご主人様｣バスケ部といっても、メンバーは5人しかおらず、まともなバスケ経験者は一人のみ。その上、女子小学生たちが相手の慣れぬ環境に戸惑う昴だったが、彼女たちが抱えるある事情を知り、やがてコーチとして真剣に彼女たちに向き合うようになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 小倉唯
   type: cast
 - !ruby/hash:TagHash
-  name: 小倉唯
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 日高里菜
@@ -39,6 +45,12 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: アスキー・メディアワークス
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/68/8/21688_1_6.png?1
 outline: すこし未来。人間が住めなくなった地球は六度目の大絶滅を迎えたとさえ言われていた。そんな地球再生の鍵ロスト・コードを探すため、ヴィンスとハナを調査員としてテスター・ピカイアとともに進められていた『カンブリア・プロジェクト』。新たな調査員としてウェンディを加え、調査範囲をカンブリア紀からデボン紀など他の古生代にも拡げた『次元調査プロジェクト』として再始動した。バイオミメティクス・スーツも大幅にパワーアップされ、新たな次元調査に挑む彼らの前に謎のバイオミメティクス・スーツがロスト・コードを狙って立ちはだかる！太古の海から、太古の陸へと拡がる大冒険。海中の古代生物に加えて、陸上や空中を移動する古代生物が新登場。バイオミメティクスを駆使して、迫り来る困難を乗り越え『進化』の可能性を見極めろ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 檜山修之
   type: cast
 - !ruby/hash:TagHash
-  name: 檜山修之
+  name: 大川透
   type: cast
 - !ruby/hash:TagHash
   name: 稲田徹

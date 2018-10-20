@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/25/7/10257_1_6.png?1
 outline: 20XX年の東京副都心、新宿。料理学校に通う恭平は、いきなり激しい銃撃戦に巻きこまれた。凶悪そうな男にデザートイーグルを乱射する少女の腕には、翼のような刻印が……。後日、コックのバイトに応募した恭平は、巨大トレーラーで4人の少女と出逢う。セイ、メグ、エイミー、そしてジョウ……彼女だけは、どこかで見た気がしてならない。彼女たちこそは華僑組織｢白蘭｣(バーレン)のスペシャリスト。いま新たな指令がくだる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash

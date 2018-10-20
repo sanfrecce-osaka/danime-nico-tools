@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/25/3/10253_1_6.png?1
 outline: 美夕はふだん女子中学生として暮らしているが、実は人に仇なす“はぐれ神魔”を討ち滅ぼすべく、従者ラヴァを従えて狩りに出る監視者である。しかし彼女は決して人類の味方ではなく、一方で愚かな人間をシニカルな視線で射抜き、必要とあれば血を吸うことすらいとわない…。過去に発表されたOVAシリーズの流れをくむ一作。終盤のどんでん返しに衝撃を受けたファンは数多い。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：川井憲次
   type: staff
 - !ruby/hash:TagHash

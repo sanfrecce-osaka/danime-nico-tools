@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/17/1/10171_1_6.png?1
 outline: ほんの少しだけ未来。マンガみたいな宇宙船や宇宙人はもう珍しくもなんとも無くて、街をそぞろ歩く人々も、あきらかに地球人だけではありません。円盤が突き立ったままの銭湯と神社を除けば、ごくごく普通のごくごく平凡な、とある羽衣町で…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
@@ -17,16 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
-  type: cast
-- !ruby/hash:TagHash
   name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 門脇舞以
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 緒方恵美

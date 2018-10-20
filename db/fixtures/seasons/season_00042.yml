@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/40/5/10405_1_6.png?1
 outline: 舞台は、とある高校。ゆかり先生のクラスに、10歳の天才少女ちよちゃんが飛び級で編入してきた!さらにそのクラスには、個性的なメンツが揃っていた!果たして、彼女たちは、まともな高校生活を送れるのか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 久川綾
   type: cast
 - !ruby/hash:TagHash
-  name: 浅川悠
+  name: 松岡由貴
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡由貴
+  name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
   name: 平松晶子
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：加藤やすひさ
+  name: 監督：錦織博
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：錦織博
+  name: キャラクターデザイン：加藤やすひさ
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：栗原正己

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/14/8/21148_1_6.png?1
 outline: 1930年代、欧州を中心に突如出現した人類の敵｢ネウロイ｣。通常の兵器による破壊が困難なネウロイに対抗できるのは、ウィッチと呼ばれる、特殊な魔法力を持った少女たちだけだった…。｢ブレイブウィッチーズ｣は｢ストライクウィッチーズ｣第1期と第2期の間の物語。1944年9月、第501統合戦闘航空団｢ストライクウィッチーズ｣を中心とした連合軍の活躍で、ガリア共和国上空のネウロイの巣が消滅、欧州西部の安全が確保された。これを機に、連合軍は本格的に欧州中央～東部方面への反抗作戦を計画。オラーシャ帝国ペテルブルグに基地を構える、第502統合戦闘航空団｢ブレイブウィッチーズ｣にも出撃の命が下されようとしていた。人類の希望を背に、勇気あるウィッチ達が、東欧の寒空を駆け巡る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
-  name: 五十嵐裕美
+  name: 原由実
   type: cast
 - !ruby/hash:TagHash
-  name: 原由実
+  name: 五十嵐裕美
   type: cast
 - !ruby/hash:TagHash
   name: 高森奈津美

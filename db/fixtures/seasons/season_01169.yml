@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/64/9/21649_1_6.png?1
 outline: 新学期――それは新しい出会いの季節。見渡せばカップルだらけの教室で羽柴ジュンイチは苦悩する。「何故、俺はまだDT（ドーテイ）なんだ!?」悲願のDT卒業のためにはギャルに土下座で頼み込むのが近道と、友人から聞いたジュンイチは、同じクラスのギャル・八女ゆかなに土下座で告白!!結果、ゆかなの返事はまさかのOK!?　はたしてジュンイチの運命は??
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -20,28 +23,28 @@ tags: !ruby/array:Hashie::Array
   name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 白石稔
-  type: cast
-- !ruby/hash:TagHash
   name: 赤羽根健治
   type: cast
 - !ruby/hash:TagHash
-  name: 原奈津子
+  name: 白石稔
   type: cast
 - !ruby/hash:TagHash
   name: 荒浪和沙
   type: cast
 - !ruby/hash:TagHash
+  name: 原奈津子
+  type: cast
+- !ruby/hash:TagHash
   name: 長久友紀
   type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAZ
+  type: staff
 - !ruby/hash:TagHash
   name: 監督：古川博之
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：古川博之
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：NAZ
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：やしきん

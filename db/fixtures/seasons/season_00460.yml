@@ -5,7 +5,52 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/0/10040_1_6.png?1
 outline: 西暦2001年。長い不景気が続き、凶悪犯罪の増加、環境破壊、道徳観の崩壊、国際情勢も安定せず、明るい未来なんて期待できない毎日。インベーダーが行動を再会するにはうってつけの時代。人類は今まさにインベーダーに支配されようとしていた。そんな中、民間人で結成された地下反抗組織イージス・ネットワークに所属し、インベーダーを倒すことで報奨金を得ているインベーダー・ハンター達がいた。彼らは疑似ゲート能力を使いこなし、インベーダーを狩っている。その一人、五十鈴綾音は偶然にもある力をつかう真鶴美羽を目撃してしまう。本物のゲート能力者を見つけた綾音はそれをイージス・ネットワークに報告する。ある日、｢自分の力が何か知りたくない?｣と綾音に誘われた美羽は、彼女についてゆく。そこへ突然、人の姿をした大量のインベーダーが現れる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田秀勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷育江
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木真仁
+  type: cast
+- !ruby/hash:TagHash
+  name: 野川さくら
+  type: cast
+- !ruby/hash:TagHash
+  name: 高野直子
+  type: cast
+- !ruby/hash:TagHash
+  name: 埴岡由紀子
+  type: cast
+- !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

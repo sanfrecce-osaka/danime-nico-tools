@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/19/7/21197_1_6.png?1
 outline: 誰もが知る歴史的な局面、何気ない日常など、様々な場面の戦国武将たちを、動物に例えて描き、日本の歴史で遊んじゃうアニメーション番組、それが｢戦国鳥獣戯画｣です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 林原めぐみ
   type: cast
 - !ruby/hash:TagHash
@@ -17,16 +23,16 @@ tags: !ruby/array:Hashie::Array
   name: 村井良大
   type: cast
 - !ruby/hash:TagHash
-  name: 安川純平
+  name: 滝口幸広
   type: cast
 - !ruby/hash:TagHash
   name: 和田雅成
   type: cast
 - !ruby/hash:TagHash
-  name: 今川碧海
+  name: 安川純平
   type: cast
 - !ruby/hash:TagHash
-  name: 滝口幸広
+  name: 今川碧海
   type: cast
 - !ruby/hash:TagHash
   name: 中村橋之助
@@ -41,13 +47,13 @@ tags: !ruby/array:Hashie::Array
   name: 深澤大河
   type: cast
 - !ruby/hash:TagHash
+  name: 脚本：熊本浩武
+  type: staff
+- !ruby/hash:TagHash
   name: 製作：ILCA
   type: staff
 - !ruby/hash:TagHash
   name: 演出：住田崇
-  type: staff
-- !ruby/hash:TagHash
-  name: 脚本：熊本浩武
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：土屋亮一

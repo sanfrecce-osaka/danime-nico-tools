@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/15/6/11156_1_6.png?1
 outline: "『明るく、そして切ない高校生たちの青春純愛ストーリー』秋月大和15歳。「東京に出れば‥、高校に入れば‥、何かが変わる！」そんな根拠のない期待を抱え、高校進学のため単身上京。叔母が経営する銭湯兼レディースマンションに下宿することに。―ある日、学校で見かけた美少女に目を奪われた大和。その子が大和の隣の部屋に住む涼風と知ってびっくり！！しかもクラスまで同じになり…。平凡だったはずの大和の日常が少しずつ変わり始める…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 明坂聡美
   type: cast
 - !ruby/hash:TagHash

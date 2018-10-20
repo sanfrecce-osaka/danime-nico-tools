@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/25/0/11250_1_6.png?1
 outline: 対話不能の異生物・奇居子に破壊された太陽系。かろうじて生き残った人類の一部は、小惑星を船体とした巨大なる宇宙船シドニアで繁殖しながら宇宙を旅する道を選んだ。それから約1000年の時を経たシドニア出航紀元1009年。最下層部でひっそりと育てられた少年・谷風長道が、祖父の死を期に街へ出る。長道は人型巨大装甲・衛人の操縦士訓練学校に入学することになり、そこで初めて祖父以外の人間と触れあっていく。長道が初めて異性と意識する少女、星白閑。長道の初めての友人となった男でも女でもない人間、科戸瀬イザナ。長道の活躍に苛立ちを覚える少年、岐神海苔夫。様々な訓練生たちと学校生活を送る中、ついに長道たちに初任務が下される。それは決して困難な任務ではないはずだった。しかし長道たちの前に突如、奇居子が出現。100年ぶりとなる脅威との遭遇に、人類は、長道は、何を選択するのか？人類の存亡をかけた戦いが今、始まる――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 喜多村英梨
+  name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 子安武人
+  name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
   name: 大原さやか
@@ -41,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 洲崎綾
   type: cast
 - !ruby/hash:TagHash
-  name: 脚本：村井さだゆき
+  name: 音楽：朝倉紀行
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：朝倉紀行
+  name: 脚本：村井さだゆき
   type: staff
 - !ruby/hash:TagHash
   name: 監督：静野孔文
@@ -68,10 +77,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2014年
+  name: 講談社
   type: other
 - !ruby/hash:TagHash
   name: 岩浪美和
