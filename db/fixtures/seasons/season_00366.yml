@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/21/9/21219_1_6.png?1
 outline: 陰気な容姿のせいで霊感があると恐れられ、｢貞子｣というあだながついてしまっていた爽子は、わけへだてなく接してくれる風早翔太に憧れている。自分を変えたいという爽子の背中を押してくれる風早や、矢野あやね、吉田千鶴、真田龍といったクラスメイトたちとの関わりの中で、爽子は少しずつだが自分の殻を破っていく。ピュアな爽子が友情や恋、ライバルや友達の失恋などいろんな｢初めて｣を知っていく過程を、丁寧に描いていく学園青春ストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -65,7 +71,7 @@ tags: !ruby/array:Hashie::Array
   name: 竹田悠介
   type: other
 - !ruby/hash:TagHash
-  name: 成田偉保
+  name: バップ
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -6,13 +6,22 @@ outline: ニートでヒキコモリ……だがネット上では｢ ｣(くう
   異世界に住まう十六の種族の中で最弱の人類種(イマニティ)。他種族に国土の大部分を奪われ、滅亡寸前に追い込まれている人類種を救うため、空と白は空前絶後の頭脳バトルに挑む！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 能登麻美子
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 日笠陽子

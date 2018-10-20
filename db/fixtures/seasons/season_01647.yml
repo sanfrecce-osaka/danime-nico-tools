@@ -6,19 +6,22 @@ outline: パパとママの元を離れて、みどりが森へとやってき�
   ※古い作品のため映像が乱れる箇所がございます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 増山江威子
   type: cast
 - !ruby/hash:TagHash
   name: 富山敬
   type: cast
 - !ruby/hash:TagHash
+  name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
   name: 富田耕生
   type: cast
 - !ruby/hash:TagHash
   name: 肝付兼太
-  type: cast
-- !ruby/hash:TagHash
-  name: 永井一郎
   type: cast
 - !ruby/hash:TagHash
   name: 山田康雄

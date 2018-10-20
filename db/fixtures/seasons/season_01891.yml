@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/22/3/22223_1_6.png?1
 outline: どこにでもある学校「鮫島学園」に通う高校１年生・三谷裳ちおの座右の銘は「中の下」。目立たないスクールライフを送ろうとする彼女だが、登校途中にはなぜか様々な障害が待ち受ける。ちおは日頃の洋ゲーライフで鍛えた（ムダな）能力を駆使し、脱オタを目指す幼なじみの野々村真奈菜、完全無欠のスクールカースト最上位・細川雪、そして街を行き交う名もなき人々をも巻き込みつつ、無事「登校」を達成すべく、今日も通学に挑む！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小山力也
   type: cast
 - !ruby/hash:TagHash

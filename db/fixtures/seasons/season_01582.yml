@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/55/7/20557_1_6.png?1
 outline: しっかり者の長女・春香、バカ野郎日本代表と千秋に呼ばれている次女の夏奈、辛辣な言葉を吐く小学生・三女の千秋という南家三姉妹を平凡な日常を中心に送るゆるゆる日常ギャグ漫画。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash

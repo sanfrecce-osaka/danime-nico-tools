@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/97/3/20973_1_6.png?1
 outline: 主人公・張楚嵐は、ある日墓場でゾンビに襲われた！絶体絶命のピンチ―…！その時、包丁を持った見知らぬ少女が現れ敵をなぎ倒し始める。命拾いしたと安堵したのもつかの間、｢この困難に自分で立ち向かえ｣という言葉と共に立ち去る少女。後日、大学に登校した張楚嵐の前に、あの墓場で出会った不思議な少女が現れて…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 早見沙織
+  name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 鳥海浩輔
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 山口勝平

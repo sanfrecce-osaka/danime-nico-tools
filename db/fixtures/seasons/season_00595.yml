@@ -5,31 +5,34 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/18/3/21183_1_6.png?1
 outline: 王座が陥落し、群雄割拠の時代を迎えた中学女子卓球界―。ある日、雀が原中学校に転校してきた、卓球が大好きな旋風こより。全国を目指す仲間と共に、新たな風を巻き起こすことができるのか…！？少女達の熱き卓球物語、開幕！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 田中美海
   type: cast
 - !ruby/hash:TagHash
   name: 花守ゆみり
   type: cast
 - !ruby/hash:TagHash
-  name: 高野麻里佳
-  type: cast
-- !ruby/hash:TagHash
   name: 東城日沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 今村彩夏
+  name: 高野麻里佳
   type: cast
 - !ruby/hash:TagHash
   name: 桑原由気
   type: cast
 - !ruby/hash:TagHash
-  name: 脚本：倉田英之
-  type: staff
+  name: 今村彩夏
+  type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：DIVE II entertainment
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：キネマシトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：倉田英之
   type: staff
 - !ruby/hash:TagHash
   name: 監督：入江泰浩

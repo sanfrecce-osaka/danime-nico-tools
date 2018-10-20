@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/7/22267_1_6.png?1
 outline: 肉体派霊能力者・冬空コガラシ。悪霊に取り憑かれて、大借金を背負わされた彼は家賃の安い部屋を求め、いわくつきの温泉宿・ゆらぎ荘へ下宿することに。そこにいたのは成仏できない女子高生地縛霊の幽奈さんをはじめ、常識では考えられない美少女ばかり。女性しかいないゆらぎ荘の住人から、入居を反対されるも、なんとか暮らし始めたコガラシだったが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
@@ -20,6 +26,9 @@ tags: !ruby/array:Hashie::Array
   name: 高橋李依
   type: cast
 - !ruby/hash:TagHash
+  name: 鈴木絵理
+  type: cast
+- !ruby/hash:TagHash
   name: 原田彩楓
   type: cast
 - !ruby/hash:TagHash
@@ -27,9 +36,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 春野杏
-  type: cast
-- !ruby/hash:TagHash
-  name: 鈴木絵里
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：XEBEC

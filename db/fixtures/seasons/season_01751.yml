@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/75/0/21750_1_6.png?1
 outline: 情報ネットワークが発達した現代、ルパンの情報は強大なデータベースに蓄積され、今後の行動パターンまでも予測可能となった。そんな現実を目の前に、とうとうルパンは引退を考える。だが、そこへ相棒の次元が自分の旧友という初老の犯罪者ルースターを連れてくる。彼等はルパンを仕事に誘う事に成功するのだが、その途中、スリーメイスンと名乗る悪の秘密結社によって、ルースターは絶命してしまう。ルパンと次元は、ルースターの最後の言葉を胸に、彼が自由の女神に隠したという世界最大のダイヤ=スーパーエッグを探し出す事を誓う。それと前後して、ルパンはマイケルという天才少年に出会う。また、五ェ門はイザベルという謎めいた美女に。不二子はニヒルな大富豪ジミー・カンツに。それぞれの思惑を胸に行動する彼らだが、運命の不思議な糸は、彼らを一つの結末へと導いて行く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash
@@ -20,16 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 井上真樹夫
   type: cast
 - !ruby/hash:TagHash
-  name: 田中真弓
-  type: cast
-- !ruby/hash:TagHash
   name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: 山田康雄
+  name: 津嘉山正種
   type: cast
 - !ruby/hash:TagHash
-  name: 津嘉山正種
+  name: 山田康雄
   type: cast
 - !ruby/hash:TagHash
   name: 幸田直子

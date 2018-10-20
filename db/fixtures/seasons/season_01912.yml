@@ -6,6 +6,9 @@ outline: 如月ハニーは聖チャペル学園に通っている女子高生�
   パンサークローを捕まえるべく、対パンサークロー捜査官とともに行動する。しかし パンサークローの幹部であるシスタージルが偽名を使い潜入。ハニーは敵であることを知らず、シスタージルを純粋に信じ続けるが……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

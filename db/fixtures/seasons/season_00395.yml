@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/3/20143_1_6.png?1
 outline: 遠い未来、銀河系宇宙に進出したものの、不毛な戦いをやめない人類――。人類のほとんどを支配する銀河帝国の貴族とは名ばかりの貧しい家庭に生まれたラインハルトは、姉を皇帝の寵姫として奪われて以来、たったひとりの友キルヒアイスと共に、銀河帝国を手中にするという野望を胸に軍人となり、その天性の軍才を発揮して頂点へと登りつめていく。一方、自由惑星同盟にあって、不本意ながら軍人となり、それでも功績を立て続けるヤン。互いに最大のライバルとなる彼らは、それぞれの立場で戦いに臨み、宇宙に新しい歴史を創ってゆく……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
@@ -20,6 +29,9 @@ tags: !ruby/array:Hashie::Array
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash
+  name: 古川登志夫
+  type: cast
+- !ruby/hash:TagHash
   name: 佐々木望
   type: cast
 - !ruby/hash:TagHash
@@ -29,16 +41,13 @@ tags: !ruby/array:Hashie::Array
   name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
-  name: 古川登志夫
-  type: cast
-- !ruby/hash:TagHash
   name: 森功至
   type: cast
 - !ruby/hash:TagHash
-  name: 潘恵子
+  name: 堀川りょう
   type: cast
 - !ruby/hash:TagHash
-  name: 郷田ほづみ
+  name: 潘恵子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：アートランド

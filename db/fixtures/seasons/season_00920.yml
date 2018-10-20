@@ -6,6 +6,9 @@ outline: 年末に日本武道館で２日間開催される「ツキプロラ�
   SOARA、Growth、SolidS、QUELL。それぞれの個性溢れる音楽と、それにまつわるドラマをお楽しみください。――キラキラ輝く歌の宝箱、開けてみませんか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
@@ -21,10 +24,10 @@ tags: !ruby/array:Hashie::Array
   name: 山下大輝
   type: cast
 - !ruby/hash:TagHash
-  name: 江口拓也
+  name: 小野友樹
   type: cast
 - !ruby/hash:TagHash
-  name: 小野友樹
+  name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
   name: 村田太志
@@ -33,13 +36,13 @@ tags: !ruby/array:Hashie::Array
   name: 武内駿輔
   type: cast
 - !ruby/hash:TagHash
-  name: 西山宏太朗
-  type: cast
-- !ruby/hash:TagHash
   name: 山谷祥生
   type: cast
 - !ruby/hash:TagHash
   name: 古川慎
+  type: cast
+- !ruby/hash:TagHash
+  name: 西山宏太朗
   type: cast
 - !ruby/hash:TagHash
   name: 監督：元永慶太郎

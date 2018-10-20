@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/1/10041_1_6.png?1
 outline: ロケットエンジン等の化石燃料を使わずに｢物理法則｣と｢科学理論｣、そして｢誇大妄想｣を駆使して、天才少年科学者・九十九科学が｢月｣を目指す。そしてその実験台となる、ひまわり、ゆり、あやめ、さくらの四人の美少女達が未熟、未経験、未完成であってもアストロノーツとして未知なる宇宙へと飛び立つ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 植田佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉進歩
-  type: cast
-- !ruby/hash:TagHash
   name: 宮田幸季
   type: cast
 - !ruby/hash:TagHash
   name: 清水愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉進歩
   type: cast
 - !ruby/hash:TagHash
   name: 森永理科

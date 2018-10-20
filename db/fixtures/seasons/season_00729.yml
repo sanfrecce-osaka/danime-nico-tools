@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/7/10017_1_6.png?1
 outline: 魔力で動く《ゴーレム》で有名な町ストーナーで、ライアという少女を助けたリナとナーガ。恩を着せてライアの家に転がり込んだ二人は、ともにゴーレム職人である父ガリアと兄ヒューイの険悪な関係を目の当たりにする。ガリアはリナを、ヒューイはナーガをモデルにゴーレム作りを開始するが、それが街の二人の実力者によって、大がかりなゴーレム対決に発展してしまう。リナとナーガも相互の誤解から、戦う気まんまん。最強のライバルがゴーレムの力を借りて雌雄を決する時がやって来た!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：わたなべひろし
+  name: 原作：神坂一
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：神坂一
+  name: 監督：わたなべひろし
   type: staff
 - !ruby/hash:TagHash
   name: 監督：湯山邦彦

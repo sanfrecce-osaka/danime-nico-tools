@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/36/9/11369_1_6.png?1
 outline: 容姿も普通、頭も普通、美術や体育・・・何だって普通。そんなフツウだらけのぱっとしない14歳、関谷なる。おとぎばなしにでてくるような“ヒロイン”に憧れて、いつかこんな世界から連れ去ってくれる誰かを待っていただけれど、中学2年生になった今も、あいかわらずフツウの毎日。そんなある日、なるは月光の下に和装で舞う金髪の少女に出逢う。｢私と一緒に、よさこいしませんか？｣突然の出来事に戸惑うなるだけど、異国の少女ハナに導かれ、次第に『よさこい』という非日常の世界へと踏み出していく。まだ子供だけれど、ちょっぴり大人。花々しい少女たちの物語が今、幕を開ける――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
@@ -19,6 +22,27 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 奥野香耶
   type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺敦子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：いしづかあつこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：浜弓場双
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
 - !ruby/hash:TagHash
   name: 芳文社
   type: other

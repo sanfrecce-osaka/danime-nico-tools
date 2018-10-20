@@ -6,6 +6,9 @@ outline: 大人気シリーズついに最終章！！ ママ達の初恋!ふみ
   恋の行方は今更ながら急転直下の新展開！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

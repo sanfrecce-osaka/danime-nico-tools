@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/74/2/21742_1_6.png?1
 outline: "「安土桃山くるみ」は私立笑顔ヶ丘中学に通うごく普通の14歳。ある日突然タスマニアデビル型天使「デビるん」によって、美少女魔法少女恐竜天使戦士「プリマエンジェル」の一人に選ばれ、悪の組織「暗黒ホエールズ」と戦う事に。やたら血生臭い武器を駆使し、暗黒ホエールズの怪人達を次々と粛清するくるみ。そしてその様子をただ傍観するだけで、特に何もしない男子三人組（主人公）なのであった。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
@@ -34,6 +37,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 音楽：カワイヒデヒロ
   type: staff
+- !ruby/hash:TagHash
+  name: せいぜいがんばれ！魔法少女くるみシリーズ
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other

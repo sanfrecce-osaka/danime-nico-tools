@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/34/3/10343_1_6.png?1
 outline: その昔、一匹の大霊狐が三槌家の守り神に祀り上げられた。名を空幻といい、ありとあらゆる術を自在に操る、たいへんに賢い狐であったが、同時に騒動が大好きでもあった。いたずらと呼ぶには悪辣すぎる所業を繰り返す空幻に業を煮やした三槌の司祭は、七昼七晩かけて空幻を裏山の祠に封印したのだった。そして現在、未知の妖怪に狙われた三槌家の末裔・高上透を物の怪から護るため、ついに空幻が祠から解封された……のだが、その物腰は畏怖された伝説とは裏腹に軽薄そのもの。イマドキの少年である透からは『クーちゃん』と呼ばれる程であった……また、空幻と一緒に透を護る三槌家の護り女・コウも加わり、透と三槌家現当主になる兄の高上昇はこの出来事を機会に、次々と摩訶不思議な出来事に巻き込まれていく……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -20,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
   name: ゆかな
   type: cast
 - !ruby/hash:TagHash
   name: 高橋美佳子
-  type: cast
-- !ruby/hash:TagHash
-  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
   name: 水島大宙

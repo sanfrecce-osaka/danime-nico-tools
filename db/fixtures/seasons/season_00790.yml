@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/54/3/11543_1_6.png?1
 outline: あの日、フェストゥムが竜宮島に突如飛来し、「あなたはそこにいますか・・・」と問いかけたあの日から、1年前。総士・一騎たちのⅠ学年上級生である、将陵僚たちが通う竜宮島中学校では、季節外れの卒業式が行われていた・・・。そう、それは彼らを待ち受ける運命の序章であった・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/60/1/21601_1_6.png?1
 outline: 時代劇を一躍エンターテイメントの主流へと蘇らせたネオ時代劇！！父を殺し、母を攫った剣客集団『逸刀流』に復讐を誓う少女・浅野凜は、｢百人斬り｣の異名を持ち、己の身体に血仙蟲という虫を寄生させることで不死の肉体を持った剣士・万次を用心棒として雇い、仇討ちの旅に出る！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 豊口めぐみ
+  name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
-  name: 中井和哉
+  name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 野島裕史

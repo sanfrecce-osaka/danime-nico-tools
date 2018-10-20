@@ -6,6 +6,12 @@ outline: 意思を持ったロボット達の住む電子惑星B-1星を舞台�
   彼らこそアールジェタン率いる“バトルハッカーズ”だ!!運命の悪戯で惑星B-1星に漂流してしまった5人の地球人の少年少女を交え、アルゴ共和国・マシンロボ軍団はモジュールチェンジ(変形)で自らの能力を最大限に活かし、平和と正義を取り戻すために戦ってゆく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 山寺宏一
   type: cast
 - !ruby/hash:TagHash
@@ -24,19 +30,19 @@ tags: !ruby/array:Hashie::Array
   name: 天野由梨
   type: cast
 - !ruby/hash:TagHash
-  name: 二又一成
+  name: 稲葉実
   type: cast
 - !ruby/hash:TagHash
-  name: 稲葉実
+  name: 二又一成
   type: cast
 - !ruby/hash:TagHash
   name: 幹本雄之
   type: cast
 - !ruby/hash:TagHash
-  name: 大滝進矢
+  name: 山口健
   type: cast
 - !ruby/hash:TagHash
-  name: 山口健
+  name: 大滝進矢
   type: cast
 - !ruby/hash:TagHash
   name: 古田信幸
@@ -69,13 +75,13 @@ tags: !ruby/array:Hashie::Array
   name: 田中英行
   type: other
 - !ruby/hash:TagHash
+  name: 製作年：1987年
+  type: other
+- !ruby/hash:TagHash
   name: 読売広告社
   type: other
 - !ruby/hash:TagHash
   name: 梅原勝
-  type: other
-- !ruby/hash:TagHash
-  name: 製作年：1987年
   type: other
 - !ruby/hash:TagHash
   name: 旭プロダクション

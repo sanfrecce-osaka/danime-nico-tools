@@ -6,10 +6,16 @@ outline: やっと決まった就職先は、ドラゴンが空を飛ぶ異世�
   慎一の使命は異世界との交易に最適とされた『オタク文化の伝導』。アニメにラノベ、漫画にギャルゲー、全てに堪能な慎一は尊敬され、憧れを抱かれ、思わぬリア充生活が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三木眞一郎
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 三森すずこ
@@ -33,10 +39,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：feel.
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：榊一郎
+  name: 音楽：井内啓二
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：井内啓二
+  name: 原作：榊一郎
   type: staff
 - !ruby/hash:TagHash
   name: 監督：及川啓

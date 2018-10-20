@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/71/7/10717_1_6.png?1
 outline: 主人公・ガッツの生い立ちから幼年期、そして親友でありのちに終生の敵となるグリフィスとの出会い、さらに蝕とよばれる天地異変を経てガッツが復讐の旅に出るまでのいわゆる｢黄金時代｣と呼ばれる部分が描かれたもの。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
   name: 神奈延年
   type: cast
 - !ruby/hash:TagHash
-  name: 西村朋紘
+  name: 宮村優子
   type: cast
 - !ruby/hash:TagHash
-  name: 宮村優子
+  name: 西村朋紘
   type: cast
 - !ruby/hash:TagHash
   name: 天田益男

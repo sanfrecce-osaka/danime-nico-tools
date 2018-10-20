@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/59/8/10598_1_6.png?1
 outline: TVアニメ第2期。舞台は荒川河川敷。そこで出逢った勝ち組エリート青年の市ノ宮行=通称、リクと自称金星人のホームレス美少女、ニノ。不器用な二人の恋は時におかしく、時にせつなく…。そんな二人を中心に奇怪な河川敷の住人たちが巻き起こす騒動を描いた元祖電波系新感覚ハートフルラブ(?)コメディー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：シャフト
   type: staff
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/60/1/11601_1_6.png?1
 outline: 守られてばかりだった少女が一念発起、平和を守る旅に出る。行く手に待つのは魔法使いか怪獣か、はたまた巨大ロボットか。ご当地色をきわめつくした各地をめぐり、仲間とかさねる奮闘努力、汗と涙は報われるのか――。どこまでいっても普通の子という宿命を背負い、それでもがんばる少女四人組が織りなす新感覚・青春ロードムービー。地方自治をめぐる「東京大決戦」の終結から10年がたち、都道府県がすべて独立国家となった列島。ご当地色をテーマパークのように肥大化させた各地域では「モサ」と呼ばれる能力者が自警団を率いて統治、あるいはその一翼を担っていた。そんな中、あちこちで巻き起こるご当地トラブル！戦禍うずまく国から国を、なぜか平和請負人代行（世直し）を務めることになった４人の女の子たちがゆく。世のため、人助けのため、そして「月明かりの石」を探すため、よそ者の「モブ」とそしられつつも、４人はがんばり、ふんばって、今日もバイクで旅をする・・・！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 種田梨沙
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 藤村歩
   type: cast
 - !ruby/hash:TagHash
-  name: 藤村歩
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 花守ゆみり

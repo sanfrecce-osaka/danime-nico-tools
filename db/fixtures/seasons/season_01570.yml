@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/57/4/10574_1_6.png?1
 outline: シャンディーナ紀672年翡翠の月の4の日－クーデターの起きたフォーランド国の姫：アリタはその襲撃から逃れるため城を出る。護衛の騎士たちが何者かによって次々と殺されていく中、悲鳴をあげながらも森の中を逃げるアリタ。目の前の森が切れ飛び出すと、いままさに刀を振りぬこうとするひとりの女性：ファリスがいた。そのファリスとは竜を殺し、死神をも従える史上最強の賞金稼ぎ(バウンティハンター)だった。アリタはそのファリスに助けを求めようとして瞬間的に衝突し、その反動で足元の崖が崩れ、二人は崖から落下してしまう。そして、宙を舞う二人をある光が包み込み、落下すると二人の魂が入れ替わっていた・・・。自分の姿をしたアリタから｢国を守ってくれ｣と頼まれたファリスは姫として国を守ることを承諾し、史上最強の姫“虐殺姫”(マーダープリンセス)が誕生した・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2007年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2007年
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: 高桑一

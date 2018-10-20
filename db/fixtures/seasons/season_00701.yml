@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/40/5/11405_1_6.png?1
 outline: リュウがサガットを打ち破ってから数年後。犯罪シンジケートシャドルーの魔の手が世界中に及び、各地でテロ活動などが相次いでいた。事態を重く見たインターポールはアメリカ空軍と協力し、シャドルーの壊滅作戦へと動き出す。一方、シャドルーの総帥たるベガは優れた格闘能力を持つ素体を見つける為に、「モニターサイボーグ」なるスパイロボットを各地へ配置していた。その最も有力な標的は、「自分より強い奴に会う」という目標を抱え、流転の旅を続けながらストリートファイトに励む格闘家・リュウであった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 中田譲治
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 塩沢兼人
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
   name: 石塚運昇
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash
   name: 鶴ひろみ
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐々木瑶子
   type: cast
 - !ruby/hash:TagHash
-  name: 松尾銀三
+  name: 金尾哲夫
   type: cast
 - !ruby/hash:TagHash
-  name: 金尾哲夫
+  name: 松尾銀三
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：グループ・タック

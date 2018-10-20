@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/44/0/21440_1_6.png?1
 outline: 人気アニメの第4シリーズ。私立やまぶき高校の美術科に通うゆのは、学校のまん前にある小さなアパート『ひだまり荘』で、同級生の宮子、先輩の沙英とヒロ、後輩の乃莉となずなたちと、一緒に毎日過ごす。楽しいことも、おもしろいことも、びっくりするような出来事もあれば、ちょっと落ち込むこともある、そんな当たり前で特別な日々の中で、ゆのは、優しく温かい仲間とともに、一歩ずつ夢に向かって進んでいく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
   name: 福圓美里
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 後藤邑子
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 新谷良子
   type: cast
 - !ruby/hash:TagHash
-  name: 小見川千明
+  name: チョー
   type: cast
 - !ruby/hash:TagHash
-  name: チョー
+  name: 小見川千明
   type: cast
 - !ruby/hash:TagHash
   name: 原田ひとみ

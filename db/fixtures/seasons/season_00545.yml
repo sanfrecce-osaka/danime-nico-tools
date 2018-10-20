@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/13/3/11133_1_6.png?1
 outline: またみんなではしゃごう。そして、全国へ行こうよ。和と遊ぼう!地元、阿知賀女子学院で開かれていた｢阿知賀こども麻雀クラブ｣に通う高鴨穏乃と新子憧は東京からやってきた転校生・原村和をその麻雀教室に誘う。そこには1つ年上の松実玄やコーチをしている大学生の赤土晴絵がおり、麻雀を通してみんなで楽しい日々を過ごしていた。しかし、中学にあがると、晴絵は実業団へいき、憧も穏乃たちとは別の中学へ通うことになった。そして、和も転校し、穏乃たちはそれぞれがバラバラの道を歩むことになった。時が流れ、中学3年生になった穏乃はある日、テレビを見ていると、そこには全国中学生麻雀大会で優勝している和の姿があった。｢また和と一緒に麻雀を打ちたい｣そんな思いを胸に、穏乃・憧は阿知賀女子へ入学をする。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：Studio五組
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：浦畑達彦
+  name: 監督：小野学
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：小野学
+  name: 脚本：浦畑達彦
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：佐々木政勝

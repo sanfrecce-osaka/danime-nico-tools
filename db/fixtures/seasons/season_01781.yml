@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/11/9/22119_1_6.png?1
 outline: レイトン教授の娘「カトリーエイル・レイトン」は、しゃべる犬「シャーロ」と助手の「ノア」と一緒に「レイトン探偵社」を営み、ロンドンで起こる不思議な事件を日々、解決している。元々は、突如姿を消した父『エルシャール・レイトン』を探すという目的で始めた仕事ではあるが、奇想天外な発想によるナゾトキが徐々に話題となり、いろんな依頼が舞い込んでくるようになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

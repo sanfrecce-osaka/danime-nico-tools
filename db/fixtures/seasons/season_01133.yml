@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/11/4/11114_1_6.png?1
 outline: 県立田茂農林高校―通称『のうりん』。ぼくの名前は畑耕作。ここ『のうりん』に通う、ちょっぴりアイドルオタクな高校生だ。そんなぼくの通う学校に転校してきたのは、憧れの超人気アイドル草壁ゆかたん…!?方言幼馴染、メガネ美少年、ラブリー小動物、巨乳少女!妄想系女教師!パンツ!足フェチ!そして、謎の転校生…ここには青春の全てがあるッ!!農業学園を舞台に繰り広げられるハイテンション学園ラブコメディー！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里

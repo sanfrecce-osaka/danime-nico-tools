@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/29/8/10298_1_6.png?1
 outline: 山間の｢乙橘学園｣に通う女学生・来栖川姫子と姫宮千歌音、そして姫子に恋する大神ソウマの3人は平和な学園生活を謳歌していた。しかし16歳の誕生日をむかえた姫子の身体に異変が起きる!さらに姫子を狙う敵・オロチ衆が襲来し、学園は壊滅状態に陥ってしまう!実は姫子こそ、古代の邪神ヤマタノオロチを封印した“陽の巫女”の生まれ変わりだったのだ。そして、自らのオロチの血に覚醒してしまったソウマだったが、愛する姫子を守るため自ら呪縛を解き、凶悪なオロチ衆達との戦いを決意する!そんな二人を見守る千歌音にも、重大な秘密が隠されていたのだった!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 野中藍
   type: cast
 - !ruby/hash:TagHash
-  name: 松本保典
+  name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
-  name: 間島淳司
+  name: 松本保典
   type: cast
 - !ruby/hash:TagHash
   name: 南央美
@@ -41,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 斉藤茂一
   type: cast
 - !ruby/hash:TagHash
-  name: 脚本：花田十輝
+  name: アニメーション制作：ティー・エヌ・ケー
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ティー・エヌ・ケー
+  name: 脚本：花田十輝
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：藤井まき

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/78/1/10781_1_6.png?1
 outline: ロボを封印され落ち込む大作。そして、彼を甘い言葉でBF団へ勧誘する幻夜……。大作を捜すエキスパートたちを尻目に大怪球が出現！　BF団の｢倒錯惑乱作戦❤｣が始まったのだ！　果たして大作は？　エキスパートたちの弱点とは？　そして、もうひとつのGRとは！！？？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -86,13 +95,13 @@ tags: !ruby/array:Hashie::Array
   name: 山木泰人
   type: other
 - !ruby/hash:TagHash
-  name: 渡辺繁
-  type: other
-- !ruby/hash:TagHash
   name: 鉄羅紀明
   type: other
 - !ruby/hash:TagHash
   name: 天野正道
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺繁
   type: other
 - !ruby/hash:TagHash
   name: 片山一良

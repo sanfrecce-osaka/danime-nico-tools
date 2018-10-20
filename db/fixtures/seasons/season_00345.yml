@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/52/5/11525_1_6.png?1
 outline: 超豪華声優陣はそのままに、みんなが思い描いた世界が今、目の前に広がる！2年生で新体操部、校内のマドンナ的存在の椎名心実を中心に聖櫻学園の ガールたちの日常が可愛く、楽しく、のんびりと、でもちょっと刺激的に動き出す！あの子も、この子も総登場。女子高生の普段の何気ない一コマを、ドラマティックに彩ります。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈
-  type: cast
-- !ruby/hash:TagHash
-  name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
   name: 田村ゆかり
@@ -32,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
-  name: 中原麻衣
-  type: cast
-- !ruby/hash:TagHash
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：SILVER LINK.

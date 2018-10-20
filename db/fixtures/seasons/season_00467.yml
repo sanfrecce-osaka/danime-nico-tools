@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/53/9/20539_1_6.png?1
 outline: "｢全身義体｣の少女、七転福音は、親類を頼って人造のリゾートアイランド｢セナンクル島｣に向かう。そこで待っていたのは重武装のテロリストや大量破壊兵器が跋扈する、途方もない｢新生活｣？だった。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 田中敦子
+  name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
-  name: 稲田徹
+  name: 田中敦子
   type: cast
 - !ruby/hash:TagHash
   name: 村川梨衣
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 長縄まりあ
   type: cast
 - !ruby/hash:TagHash
-  name: 松田颯水
+  name: 三宅麻理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 三宅麻理恵
+  name: 松田颯水
   type: cast
 - !ruby/hash:TagHash
   name: 森田順平
@@ -47,16 +53,16 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：TECHNOBOYS PULCRAFT GREEN-FUND
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：髙橋龍也
-  type: staff
-- !ruby/hash:TagHash
   name: アニメーション制作：AXsiZ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：六道神士
+  name: 脚本：髙橋龍也
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：谷拓也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：六道神士
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

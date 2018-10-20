@@ -5,25 +5,34 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/77/5/10775_1_6.png?1
 outline: 来るべき近未来、人類は絶対無公害・完全リサイクル可能な第3のエネルギーシステム｢シズマドライブ｣の発明によって、輝かしい平和を享受していた。だがその陰では、全シズマシステムを停止させ、地球を真の闇に包み込む｢地球静止作戦｣を策謀する謎の秘密結社BF団と、国際警察機構の熾烈な戦いが繰り広げられていた。BF団は次々と怪ロボットやエージェント集団・十傑集を差し向け、究極兵器・大怪球フォーグラーは、世界各国でエネルギー停止現象を引き起こしていた。これに立ち向かう史上最強のロボット、ジャイアント・ロボとその操縦者・草間大作、そして国際警察機構エキスパートたちの熱い戦い!果たして、BF団総帥ビッグ・ファイアの真の目的とは……!?物語は想像を絶する展開に向け加速する!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚明夫
+  name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
-  name: 山口勝平
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
-  name: 緒方賢一
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
   name: 大塚芳忠
@@ -38,7 +47,7 @@ tags: !ruby/array:Hashie::Array
   name: 島本須美
   type: cast
 - !ruby/hash:TagHash
-  name: 野沢那智
+  name: 秋元羊介
   type: cast
 - !ruby/hash:TagHash
   name: 原作：横山光輝

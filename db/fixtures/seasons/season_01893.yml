@@ -6,6 +6,12 @@ outline: 東京から沖縄に引っ越してきた高校2年生、大空遥。�
   真夏の太陽が照りつける沖縄のビーチで、今、少女たちの汗と情熱が輝き始める！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash

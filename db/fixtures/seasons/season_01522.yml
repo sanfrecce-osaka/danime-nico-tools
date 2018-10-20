@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/4/10424_1_6.png?1
 outline: クロノス星はロボット生命体の星で、命を持ったロボットたちが平和に暮らしていた。そこへ、宇宙を支配しようと企むガデス率いる悪の組織ギャンドラーが、無限エネルギーの源ハイリビードを手に入れようとクロノス星に攻め込んできた。導師キライの死後、息子であるロム・ストールは、その形見の剣｢剣狼｣を引き継ぎ、クロノス星の平和のためにギャンドラーと戦う。ロムは剣狼で巨大ロボット・ケンリュウを呼び、さらに剣狼の導きにより出現するバイカンフーと合身し一体となることができるのだ。そして、妹レイナをはじめとする多くの仲間と共に力を合わせ妖兵コマンダーと戦ってゆく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
@@ -65,6 +71,9 @@ tags: !ruby/array:Hashie::Array
   name: 加藤博
   type: other
 - !ruby/hash:TagHash
+  name: 製作年：1986年
+  type: other
+- !ruby/hash:TagHash
   name: 大野実
   type: other
 - !ruby/hash:TagHash
@@ -72,9 +81,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 梅原勝
-  type: other
-- !ruby/hash:TagHash
-  name: 製作年：1986年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

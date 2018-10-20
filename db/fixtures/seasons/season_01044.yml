@@ -5,7 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/0/10620_1_6.png?1
 outline: アルマゲドンで文明が滅んだ遠未来。異種知性体 吸血鬼(ヴァンパイア)と人間の闘争が続く中、ローマに本拠地を置く汎用国家機関 教皇庁(ヴァチカン)は、人間を守護するため各地に派遣執行官を派遣する。その一人アベル・ナイトロードは一見、人あたりがよく頼りなげな男だが、その正体は吸血鬼の血を吸う吸血鬼だった!アベルと出会った少女エステルの運命は、人間と吸血鬼の存亡を賭けた戦いの中で大きく変わっていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 角川書店
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

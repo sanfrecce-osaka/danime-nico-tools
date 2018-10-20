@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/68/2/10682_1_6.png?1
 outline: "｢未来の出来事が書かれた携帯日記=未来日記｣の所有者間で繰り広げられる殺人ゲームに巻き込まれてしまった中学生・天野雪輝が主人公のサスペンス・アクション。内向的で冷めている雪輝の成長、雪輝を盲目的に愛する最強のヒロイン・我妻由乃の動向、そして個性的な12人の未来日記所有者によるバトルなどが見所。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -74,10 +80,10 @@ tags: !ruby/array:Hashie::Array
   name: カドカワコミックス・エース
   type: other
 - !ruby/hash:TagHash
-  name: 少年エース
+  name: 楽音舎
   type: other
 - !ruby/hash:TagHash
-  name: 楽音舎
+  name: 少年エース
   type: other
 - !ruby/hash:TagHash
   name: 定番の人気作

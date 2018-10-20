@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/5/21895_1_6.png?1
 outline: タシルの街から色を盗んだ色どろぼう、カララバ。モノクロの世界になってしまったわちふぃーるどに色を取り戻すため、時空を越えるタグポーポー鉄道に乗ってタシルを飛び出したダヤンやジタンが目指したのは、色彩豊かな国、日本でした。ダヤンたちは日本を北から南まで渡り、四季の色を取り戻す旅にでるのです……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/23/5/21235_1_6.png?1
 outline: 静岡に住むパンツ大好きこぶたのパンパカくん。ある日おじいちゃんからビックリ発言が飛び出した！｢わが一族は、ステキなパンツを集める使命をおっているのじゃ！｣かくしてパンパカくんは、おともだちのプーニャンと一緒に、パンツを探す旅に出ることになった。ジャングルの奥地、凍てつく雪山、忍者の里、灼熱の砂漠…。世界にはヘンテコな仲間、ゆかいな出来事、すてきなパンツがいーっぱい！さあパンパカくんといっしょに冒険に出発だ！ナイスパンツ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash

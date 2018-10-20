@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/91/3/21913_1_6.png?1
 outline: ペット禁止のマンションでチーをこっそり飼っていた山田家は、チーと堂々と一緒に住めるペット可のマンションへお引越し。新居での生活、新しいご近所さん達との出会い、新しい冒険に、チーはドキドキワクワクの日々★チーと山田家の楽しく賑やかな新生活のスタート！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: こおろぎさとみ
   type: cast
 - !ruby/hash:TagHash
   name: 木内秀信
   type: cast
 - !ruby/hash:TagHash
-  name: 小桜エツ子
+  name: 日髙のり子
   type: cast
 - !ruby/hash:TagHash
-  name: 日髙のり子
+  name: 小桜エツ子
   type: cast
 - !ruby/hash:TagHash
   name: 梁田清之

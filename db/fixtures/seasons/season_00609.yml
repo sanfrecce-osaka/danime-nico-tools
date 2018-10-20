@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/18/6/20186_1_6.png?1
 outline: アメリカで生まれたセディは、新聞記者であるお父さんと、お母さんのもとで元気に暮らしていました。しかし、イギリスの貴族の跡継ぎでもあったお父さんの死をきっかけに、セディはイギリスに渡り、貴族としてお祖父さんのドリンコート伯爵のお城で暮らすことになります。伯爵はお母さんのことを嫌っていて、セディはお母さんと一緒に暮らすことができません。それでも変わらないセディの純粋な心に触れ、ドリンコート伯爵の凍てついた心は溶けていきますが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 折笠愛
   type: cast
 - !ruby/hash:TagHash

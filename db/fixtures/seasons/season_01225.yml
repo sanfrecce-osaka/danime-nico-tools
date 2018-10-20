@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/86/3/21863_1_6.png?1
 outline: "「原田巧」はピッチャーとして抜群の野球センスをもつ少年。中学入学を期に移り住んだ山あいの街、新田市で、巧は自分の全力投球を受け止められるキャッチャー、「永倉豪」と出会う。新田東中学校の野球部に入部した二人は、部員同士の軋轢や、教師たち大人の事情に翻弄され、時には互いに衝突しながら、ピッチャーとキャッチャー、二人一組の｢バッテリー｣として成長していく。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash

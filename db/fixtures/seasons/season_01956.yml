@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/4/10624_1_6.png?1
 outline: 地方都市・疎瀬に住む小学5年生のナンダバ・ナオ太は、ある日、謎の女が乗ったべスパに引かれしまう。“すごいことなんて何もない”はずだったナオ太の周囲が、その日からあり得ないことだらけになる。ナオ太の頭から角が生え、さらにはロボットが出現。元凶の女・ハル子はケロリとした顔でナオの家に家政婦として登場。この女、いったい何者なのか？・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 福井裕佳梨
   type: cast
 - !ruby/hash:TagHash
@@ -23,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤実華
   type: cast
 - !ruby/hash:TagHash
+  name: 糸博
+  type: cast
+- !ruby/hash:TagHash
   name: 水樹洵
   type: cast
 - !ruby/hash:TagHash
   name: 笠木泉
-  type: cast
-- !ruby/hash:TagHash
-  name: 糸博
   type: cast
 - !ruby/hash:TagHash
   name: 宮島章

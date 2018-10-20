@@ -5,10 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/62/9/21629_1_6.png?1
 outline: 昭和41年・春。鉱石ラジオを手に旅をする月島シンは、伊豆の海岸で涙を流す少女、河津ユノと出会う。『創勢の書』によって導かれ、歩み寄るシンとユノ。２人の距離が縮まるにつれ、歪み始める３つの世界の境界線。そしてネオ・ディーバ学園では、新たなる戦いに備え、アマタたちエレメント候補生たちが再集結していた。次元を超えて魂が集うとき、新たなる神話が昭和の空を駆けぬける！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
   name: 諏訪部順一
@@ -17,19 +29,16 @@ tags: !ruby/array:Hashie::Array
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
-  type: cast
-- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 小林沙苗
+  name: 内山昂輝
   type: cast
 - !ruby/hash:TagHash
-  name: 内山昂輝
+  name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
   name: 小倉唯
@@ -44,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：サテライト
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：河森正治
+  name: 音楽：菅野よう子
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：菅野よう子
+  name: 原作：河森正治
   type: staff
 - !ruby/hash:TagHash
   name: 監督：安田賢司

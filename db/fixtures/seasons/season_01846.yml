@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/23/2/22232_1_6.png?1
 outline: 超高度ネットワーク社会の中で、より高度・凶悪化していく犯罪に対抗するために政府は、隊長・草薙素子少佐を始めとする精鋭サイボーグによる非公認の超法規特殊部隊を結成。公安９課「攻殻機動隊」の誕生である。ある日某国情報筋から攻殻機動隊に警告が発せられる。ＥＣ圏を中心に出没し、株価操作・情報操作・政治工作・テロなどで国際手配中の”通称：人形使い”が日本に現れるという。素子は犯罪の中に見え隠れする”人形使い”の影を追う。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 大塚明夫
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
 - !ruby/hash:TagHash
   name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 山寺宏一
@@ -47,7 +56,13 @@ tags: !ruby/array:Hashie::Array
   name: 講談社
   type: other
 - !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
   name: 製作年：1995年
+  type: other
+- !ruby/hash:TagHash
+  name: ゴリラ
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

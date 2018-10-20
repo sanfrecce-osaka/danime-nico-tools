@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/24/5/20245_1_6.png?1
 outline: 勉学のため、インドからイギリスの寄宿学校にやってきたセーラ。ミンチン女子学院では特別待遇される大金持ちでありながら、誰とでもわけ隔てなく接し、優しく想像力にあふれたセーラは学院一の人気者です。ところが11歳の誕生日に、思いがけない父の死と破産を告げられ彼女の生活は一変します。屋根裏部屋住まいの下働きとなり酷使される毎日。しかしセーラは同じ下働きのベッキーと励ましあいながら、貧しさの中でも気高さや優しさを失いません。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 島本須美
   type: cast
 - !ruby/hash:TagHash

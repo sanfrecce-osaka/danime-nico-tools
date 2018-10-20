@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/90/5/10905_1_6.png?1
 outline: 椎応大学現代視覚文化研究会、通称｢現視研｣。その新会長となった荻上千佳は、昨年の新歓活動の反省を踏まえ、新入生の会員獲得を目指していた。新歓会場では、相変わらずコスプレをして自分だけが楽しんでいる前会長・大野加奈子を横目に、荻上は大きなイラストを即興で描く姿を披露した！それに反応した女子が2名、新入生の吉武莉華と矢島美怜が現視研に入会した。類は友を呼ぶのか、2人はいわゆる｢腐女子｣であった。そして更に、入会希望で部室に現れた栗色の髪の清楚な美人―。だが、その正体はウィッグを着けた｢男の娘｣で・・・。超個性的な新入生を迎えた、『げんしけん二代目』の活動が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: ゆかな
+  name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
-  name: 上坂すみれ
+  name: ゆかな
   type: cast
 - !ruby/hash:TagHash
   name: 興津和幸
@@ -29,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
+  name: 山本和臣
+  type: cast
+- !ruby/hash:TagHash
   name: 山本希望
   type: cast
 - !ruby/hash:TagHash
   name: 近藤孝行
-  type: cast
-- !ruby/hash:TagHash
-  name: 山本和臣
   type: cast
 - !ruby/hash:TagHash
   name: 大空直美

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/84/4/10844_1_6.png?1
 outline: 西暦2030年、日本。情報ネットワーク化が進む中、犯罪を一掃する攻性組織が設立された。内務省直属独立部隊、公安9課。通称｢攻殻機動隊｣だ。彼らの任務は、電脳犯罪への対処、要人警護、政治家の汚職摘発など多岐に渡る。“少佐”と呼ばれるサイボーグ・草薙素子を中心に、9課はネットに潜む犯罪に立ち向かう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：菅野よう子
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：神山健治
+  name: 原作：士郎正宗
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：士郎正宗
+  name: 監督：神山健治
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：下村一
@@ -54,6 +63,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: ゴリラ
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

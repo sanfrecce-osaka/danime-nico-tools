@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/05/0/20050_1_6.png?1
 outline: ミコト姫の冒険からおよそ1000年後。ドリランドからハンターが姿を消し、タブー視される様になった今の時代、ハンターに憧れる少年ハガン。家に代々伝わるドリルソードを発見したハガンは、次元の扉｢真宝門(まほうもん)｣を開けてしまい、ドリランドの別のワールドへと訪れてしまう。モンスターがはびこる月天使クララの神殿で、ハガンは現代のハンターと名乗る少女ハルカと運命の出会いを遂げた!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 柴田秀勝
   type: cast
 - !ruby/hash:TagHash
-  name: くまいもとこ
+  name: 嶋村侑
   type: cast
 - !ruby/hash:TagHash
-  name: 嶋村侑
+  name: くまいもとこ
   type: cast
 - !ruby/hash:TagHash
   name: 優希比呂

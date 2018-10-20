@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/3/10023_1_6.png?1
 outline: 人気アニメ｢Di Gi Charat｣シリーズの劇場版。ゲマやぷちことともに、久々にデ・ジ・キャラット星へと帰ることになったでじこ。だが、その途中、ぴよこの部下たちがでじこに襲いかかる。なんとか、それを振り切り、でじこはやっとの思いでデ・ジ・キャラット星に降り立つ。そこで、彼女を待つものとは?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

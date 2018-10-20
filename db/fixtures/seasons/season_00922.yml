@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/0/21520_1_6.png?1
 outline: ある日突然、『あまそぎ』と呼ばれる怪異に襲われた『加賀見かずや』は、謎の少女『桐葉』に命を救われる。自らを帯の付喪神であると名乗った桐葉は、当然のことのようにかずやの部屋に居着いてしまう。桐葉との同居生活に嬉し恥ずかし困惑するかずやは、やがて怪異を調伏する『すそはらい』として、次々と発生する難事件・珍事件を解決することに……！？非・日常系アクションバトルコメディ、サービスシーンもアリアリの『つぐもも』、乞うご期待！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
@@ -38,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：高梨康治
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：中原清隆
+  name: アニメーション制作：ゼロジー
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ゼロジー
+  name: キャラクターデザイン：中原清隆
   type: staff
 - !ruby/hash:TagHash
   name: 原作：浜田よしかづ

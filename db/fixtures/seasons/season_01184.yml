@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/11/7/10117_1_6.png?1
 outline: ハピレスTVシリーズ!!天涯孤独な主人公の事を心配した5人の美しい先生達が、なんと放課後はママに大変身!奇妙かつ危険な同居生活に、ドキドキ!はらはら!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
@@ -44,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：鈴木行
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：ささきむつみ
+  name: 脚本：吉村清子
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：吉村清子
+  name: 原作：ささきむつみ
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：Softgarage

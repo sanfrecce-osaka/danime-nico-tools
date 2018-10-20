@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/94/8/21948_1_6.png?1
 outline: 今日もどこかで、彼女はラーメンを食べている―クールで無口な美人女子高生の小泉さんは毎日おいしいラーメンを求めて食べ歩く生粋の“ラーメン通”だった。小泉さんはラーメン以外のことには興味がなく他人と馴れ合わない。ただひたすら求め続けるのは“ラーメン”のみ！ラーメンあるところに小泉さんあり！ひたすらストイックにラーメンを食べ続けるその姿は見る人すべてを魅了する。ガツンと本格派ラーメングラフィティ、いざ着丼！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
@@ -20,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：Studio五組
   type: staff
 - !ruby/hash:TagHash
+  name: アニメーション制作：AXsiZ
+  type: staff
+- !ruby/hash:TagHash
   name: キャラクターデザイン：小関雅
   type: staff
 - !ruby/hash:TagHash
   name: 監督：セトウケンジ
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：AXsiZ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：桜井正明

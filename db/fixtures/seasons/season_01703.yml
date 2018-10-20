@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/4/10034_1_6.png?1
 outline: 時は明治。文明開化が進み、日本が欧米の列強と肩を並べようとしている時代。恋に焦がれる5人の乙女たちによる、切なくも激しい戦いが始まる! まだ幼い彼女たちは、懸命に戦い、そして恋を覚えていく――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
@@ -14,19 +23,19 @@ tags: !ruby/array:Hashie::Array
   name: こおろぎさとみ
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉進歩
+  name: こやまきみこ
   type: cast
 - !ruby/hash:TagHash
-  name: こやまきみこ
+  name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
   name: 清水愛
   type: cast
 - !ruby/hash:TagHash
-  name: かないみか
+  name: 千葉進歩
   type: cast
 - !ruby/hash:TagHash
-  name: 金田朋子
+  name: かないみか
   type: cast
 - !ruby/hash:TagHash
   name: 石井康嗣

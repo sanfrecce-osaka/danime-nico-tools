@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/27/9/20279_1_6.png?1
 outline: 元気でいたずらっ子な子猫のチー。生まれて初めてのお散歩で迷子になり、親切な山田家に拾われることに。体は小さいけれど、態度は大きくて好奇心も旺盛なチーが、マンションや公園を舞台に小さな大冒険を繰り広げます。チーといつも愉快な山田家との、何気ない日常の小さな幸せを描いたハートフルストーリーです。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: こおろぎさとみ
   type: cast
 - !ruby/hash:TagHash
   name: 木内秀信
   type: cast
 - !ruby/hash:TagHash
-  name: 小桜エツ子
+  name: 日髙のり子
   type: cast
 - !ruby/hash:TagHash
-  name: 日髙のり子
+  name: 小桜エツ子
   type: cast
 - !ruby/hash:TagHash
   name: 梁田清之

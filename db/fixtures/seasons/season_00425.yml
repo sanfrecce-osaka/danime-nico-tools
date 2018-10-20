@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/50/4/11504_1_6.png?1
 outline: ひとりぼっちの市松こひなに取り憑いた狐の物の怪コックリさんは、「質問」は某検索サイト以下だが、家事は完璧にこなす、そこそこ優秀な狐の物の怪だった！こひなのカップメンを愛しすぎる食生活を管理し、残念な言動を更生させようとするその姿はまるでオカン！そこにこひなを溺愛する狗の物の怪“狗神”と、ダメオヤジな化け狸“信楽”も棲み憑いて、コックリさんの苦労は３倍に！？デンパ少女と、ときにイケメンたまにモフーンなアニマルたちが織りなす、非日常系モフモフコメディ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -38,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：大島美和
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：平池芳正
+  name: 音楽：百石元
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：百石元
+  name: 監督：平池芳正
   type: staff
 - !ruby/hash:TagHash
   name: 原作：遠藤ミドリ

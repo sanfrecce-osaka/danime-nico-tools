@@ -7,6 +7,12 @@ outline: 神奈川県海猫市にある県立海猫商業高等学校、通称 �
   !!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash

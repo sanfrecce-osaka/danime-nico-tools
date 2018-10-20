@@ -7,6 +7,12 @@ outline: 全国のサッカーは｢フィフスセクター｣というサッ�
   化身使いたちによる化身同士のバトルが激化するなか、 雷門イレブンが“本当のサッカー”で勝負に挑む!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -52,10 +58,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2011年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2011年
   type: other
 - !ruby/hash:TagHash
   name: 三間雅文

@@ -5,22 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/89/8/10898_1_6.png?1
 outline: 写真が大好きな高校生沢渡楓。高校入学を機に、横須賀市汐入から父親との想い出の町、竹原に引っ越してきてから1年が経ちこの春高校2年生になります。写真は心と心を繋ぐもの。そう教えてくれた父親の形見のカメラで新しく出会った友達やいろんな人たちとたくさんの写真を撮ってきました。そんな写真を通じて、この町で出会った素敵な想い出の数々・・・、もっともっとそんな想い出を作りたいという思いを胸に、楓は新たなチャレンジを始めます。それは写真部を作ること。古い町並み、美しい海と島々、あたたかな人たちに囲まれた高校生たちの生活を描く心温まる優しい時間が流れる物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 中田譲治
-  type: cast
-- !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 松来未祐
@@ -41,19 +44,19 @@ tags: !ruby/array:Hashie::Array
   name: 儀武ゆう子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽制作：フライングドッグ
+  name: 監督：佐藤順一
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：佐藤順一
+  name: 音楽制作：フライングドッグ
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：吉田玲子
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：山田由香
+  name: キャラクターデザイン：飯塚晴子
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：飯塚晴子
+  name: 脚本：山田由香
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：ハラダサヤカ

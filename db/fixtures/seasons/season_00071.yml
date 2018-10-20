@@ -5,25 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/07/0/10070_1_6.png?1
 outline: 高校一年生の冬、六合鴇時(りくごうときどき)は最先端技術を利用した次世代型博物館・大江戸幕末巡回展を訪れる。そこはCGとの合体により、特殊なゴーグルをかけることで幕末を体験できるテーマパークだった。ところが散策の途中、鴇時は突如現れた妖(あやかし)、鵺(ぬえ)に襲われ、江戸時代幕末に似てはいるが、人と妖が存在する異世界“あまつき”に飛ばされてしまう。鵺から鴇時を救ってくれた少女・朽葉(くちは)や、鴇時と同じく幕末巡回展を訪れていたにもかかわらず2年も前に飛ばされていた同級生・篠ノ女紺(しののめこん)と出会い、元の世界へ戻る方法を探す鴇時。その中で、“人”の側である姫巫女・銀朱(ぎんしゅ)や“妖”の側である梵天(ぼんてん)と出会い、鴇時は自らの使命を知ることになる。元の世界“彼岸”に帰るために“あまつき”の破壊者となるか、“あまつき”を守るためにその主となるか。鴇時が取る行動とは――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 福山潤
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 福山潤
   type: cast
 - !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
+  name: 諏訪部順一
+  type: cast
+- !ruby/hash:TagHash
   name: 小林ゆう
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 遊佐浩二
-  type: cast
-- !ruby/hash:TagHash
-  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 森久保祥太郎
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 朴璐美
   type: cast
 - !ruby/hash:TagHash
-  name: 朴璐美
+  name: 大川透
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン
@@ -68,10 +71,10 @@ tags: !ruby/array:Hashie::Array
   name: フロンティアワークス
   type: other
 - !ruby/hash:TagHash
-  name: 飯田里樹
+  name: 小山俊久
   type: other
 - !ruby/hash:TagHash
-  name: 小山俊久
+  name: 飯田里樹
   type: other
 - !ruby/hash:TagHash
   name: 北爪英子

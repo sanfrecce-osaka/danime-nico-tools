@@ -6,6 +6,9 @@ outline: 元・男子校だった星華高校は、男子生徒が全体の8割�
   美咲の“生徒会長”と“メイド”の二重生活はどうなる!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -15,19 +18,19 @@ tags: !ruby/array:Hashie::Array
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 岡本信彦
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 豊崎愛生
+  name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 阿澄佳奈
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 寺島拓篤

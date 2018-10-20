@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/03/2/21032_1_6.png?1
 outline: ある日、世界は連結した。突如として開いた門(ハイロゥ)と、5つの世界の連結。私たちの住む青の世界―――地球　夜と魔法が支配する黒の世界―――ダークネス・エンブレイス　祈りと神々が守護する赤の世界―――テラ・ルビリ・アウロラ　科学と電脳が管理する白の世界―――システム=ホワイト=エグマ　武器と軍隊が統治する緑の世界―――グリューネシルト　天使、悪魔、妖精、魔女、女神。お伽話の中にしかいなかった存在が、現実のものとして現れた。時を同じくして、特殊な能力――エクシードに目覚めた少女たちが、それぞれの世界に出現しはじめる。彼女たちは『プログレス』と呼ばれ、その保護・育成を掲げる巨大学園都市『青蘭学園』に集められた。この学園で少女たちは出会う。ともに絆を紡ぐ仲間たちと。5つの世界共通の敵、世界を終焉へと誘う『ウロボロス』に。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 茅原実里
+  name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
-  name: 上坂すみれ
+  name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
   name: 寿美菜子

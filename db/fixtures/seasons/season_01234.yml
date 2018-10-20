@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/3/10283_1_6.png?1
 outline: この世に宇宙が存在する遥か以前に、善と悪は存在した。善なる存在は“コプー”、悪なる存在は“ゴーモン”。そして西暦20XX年…。関東の豊かな自然をはぐくむ大洋市。この地にゴーモンは自らの分身をばらまき、世界を悪なるものに変えようとしていた。善なる象徴コプーはこれを阻止すべく、戦うことを運命付けられた二人の少年に人類の未来を託した。そのヒーローの名は、バロムワン。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/59/1/21591_1_6.png?1
 outline: 不殺を誓う流浪人・緋村剣心は、明治11年、東京で神谷薫と出会う。ニセ抜刀斎事件が縁で神谷道場に居候することになったが、御庭番衆や刃衛など幕末を生きた修羅たちが次々と剣心に襲いかかり…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 上田祐司
   type: cast
 - !ruby/hash:TagHash
-  name: 冨永みーな
+  name: 安原義人
   type: cast
 - !ruby/hash:TagHash
   name: 櫻井智
   type: cast
 - !ruby/hash:TagHash
-  name: 安原義人
+  name: 冨永みーな
   type: cast
 - !ruby/hash:TagHash
   name: 涼風真世
@@ -63,6 +69,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1996年
+  type: other
+- !ruby/hash:TagHash
+  name: 赤髪
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

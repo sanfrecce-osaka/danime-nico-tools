@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/5/10625_1_6.png?1
 outline: 高倉家は双子の兄の冠葉と弟の晶馬、体が弱く病気がちな妹の陽毬の3人暮らし。ある日、出かけた先の水族館で陽毬が倒れ、死亡。だが兄弟の悲しみをよそに水族館で買ったペンギン帽子をかぶった陽毬が起き上がり、｢ピングドラムを手に入れるのだ｣と宣言した・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

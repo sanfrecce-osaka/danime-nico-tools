@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/23/0/10230_1_6.png?1
 outline: 地球軍独立艦隊司令官、ウォーリアス・ゼロ。ゼロの元に、総司令官より、かつてドクロの旗のもと共に戦った親友・ハーロック率いる宇宙海賊討伐の命が下される。機械化人と敵対し海賊行為を繰り返すかつての友を討つのは正しいことなのか?機械化人に支配されている今の地球を守ることは正義なのか?…果てしなく広い宇宙は彼に何をもたらすのだろうか?様々な想いを胸に、今、ゼロの旅が始まる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/01/3/20013_1_6.png?1
 outline: 2012年8月に放送された、TVアニメ夏特番「探偵オペラ ミルキィホームズAlternative ONE」。5枚の絵を巡る連続盗難事件を描いたこのストーリーの終盤に、ひとりだけ正体を明らかにされなかった男がいた。その男の名は、エドガー・モラン大佐。5枚の絵に隠された謎、新たに起こる盗難事件。そして、エドガー・モランとは何者なのか。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 中原麻衣
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
   name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
   name: 阿澄佳奈
@@ -44,6 +50,9 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：小関雅
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：Angel Note
   type: staff
 - !ruby/hash:TagHash
@@ -54,9 +63,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：伊神貴世
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：沼田誠也
   type: staff
 - !ruby/hash:TagHash
   name: ミルキィホームズシリーズ

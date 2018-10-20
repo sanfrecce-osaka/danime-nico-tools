@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/31/6/10316_1_6.png?1
 outline: 両親の仕事の都合で東京へ引越し、5年ぶりに生まれ故郷である桜乃杜町に戻ってきた高校生、日高佐菜。町並みそして、再会したかつての友人たちは、5年前より大きく変わり複雑な気持ちに-----。何よりも大きく変わったのは、幼なじみの八代菜々香。純粋な瞳でかわいらしい笑顔を見せていた菜々香だったが、今は暗く自分の殻に閉じこもった少女になってしまっていた。記憶に残る思い出と、突きつけられた現実のギャップに悩みながら、成長していく少年少女たちのストーリが綴られる、淡いハートフルラブストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

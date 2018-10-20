@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/28/7/11287_1_6.png?1
 outline: エイリア学園を倒し数ヶ月たったある朝、日本代表候補者メンバーが響木監督より雷門中に集められた。そこには雷門イレブンのみならず驚きのメンバーが！！吹雪や綱海など各地からも顔をそろえ、かつての敵、元エイリア学園の基山ヒロト・緑川リュウジ、鬼道をさんざん苦しめたあの不動明王も選ばれていた。と、そこへ現れた監督の響木から、『フットボールフロンティア・インターナショナル』が開催されることが発表され、日本代表選手決定の選考試合が行われた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash

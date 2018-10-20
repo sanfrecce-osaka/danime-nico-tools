@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/8/20338_1_6.png?1
 outline: 木村太彦のマンガを原作にしたTVアニメ「瀬戸の花嫁」のその後を描いたOVA。平凡な中学生の満潮永澄と人魚の少女の瀬戸燦は、人魚の世界にある掟のために夫婦となった。さまざまなハプニングを乗り越え、無事に中学三年へと進級した永澄たち。果たして永澄は平穏な新学期を迎えることは出来るのであろうか…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 喜多村英梨
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
   name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
   name: 玄田哲章
@@ -23,6 +29,9 @@ tags: !ruby/array:Hashie::Array
   name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
+  name: 郷里大輔
+  type: cast
+- !ruby/hash:TagHash
   name: 水島大宙
   type: cast
 - !ruby/hash:TagHash
@@ -30,9 +39,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 野川さくら
-  type: cast
-- !ruby/hash:TagHash
-  name: 郷里大輔
   type: cast
 - !ruby/hash:TagHash
   name: 矢部雅史

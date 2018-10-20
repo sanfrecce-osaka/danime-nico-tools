@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/11/8/22118_1_6.png?1
 outline: 亡き祖父譲りのあやかしを見る力を持っていた女子大生・津場木葵は、突然、あやかしの棲まう隠世(かくりよ)の老舗宿「天神屋」へと攫われてしまう。戸惑う葵は、祖父の残した膨大な借金と、そのカタとして鬼神の大旦那に嫁入りをしなければならない約束が交わされていたことを知る。納得がいかない葵は婚姻をはねのけ、起死回生の策として、天神屋で働いて借金を返済するとあやかし達に宣言するのだが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash

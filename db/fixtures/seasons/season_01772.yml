@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/01/2/22012_1_6.png?1
 outline: 日本の裏社会を牛耳る女・藤堂に不二子を人質にとられたルパン。藤堂の要求に従い、幻の宝玉「人魚の鱗」を盗み出したルパンだったが、その宝玉は偽物で、藤堂は何者かに殺害されてしまった。八百年も生きたと伝えられる八尾比丘尼が残した財宝――「人魚の鱗」の謎を追い始めたルパンが出会ったのは、泥棒の弟子になりたいという少女・麻紀と、藤堂と共に殺されたはずの謎の女・美沙、そして今回の事件を裏で操っているといわれる氷室という男。それぞれの点が一本につながる時、「永遠の命」によって呪われた一族の悲哀と、そこに関わっていたルパン一世の真実が紡ぎだされる。果たして、封印の地でルパンが目にしたものは……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 山寺宏一
   type: cast
 - !ruby/hash:TagHash
-  name: 小林清志
+  name: 野沢雅子
   type: cast
 - !ruby/hash:TagHash
-  name: 野沢雅子
+  name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 栗田貫一

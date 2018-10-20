@@ -6,6 +6,15 @@ outline: 幼い時に母を亡くした平 勝平太（たいらかっぺいた�
   奈臣。そして、奈臣とカペタの走りを見守っていた奈臣の母親・源 奈々子は、カペタに公式のカートレースへの参戦を勧める。 父親手製のカートで自身初の公式レース参戦を決意したカペタ。公式戦という未知の領域で、その走りの資質をさらに研ぎすましてゆく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 豊永利行
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/73/9/10739_1_6.png?1
 outline: 見た目は犬なのに中身はごくごく普通…?の中学2年生、｢しばいぬ子さん｣。セーラー服がよく似合い、尻尾をフリフリさせ、モフっとしてて可愛らしいが、運動が苦手だったり先生から地毛の茶髪を注意されたりと、悩みも多い乙女なのだ。そんな｢しばいぬ子さん｣と同級生の茶子となぽりんとが繰り広げるほのぼの学園ストーリー!｢しばいぬ子さん｣をよろしクゥ～ン♪
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 佐々木未来
   type: cast
 - !ruby/hash:TagHash

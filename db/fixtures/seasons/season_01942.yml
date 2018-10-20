@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/1/20331_1_6.png?1
 outline: 大ヒットを記録した人気ゲーム｢AIR｣。その素晴らしいストーリーと音楽のハーモニーが織りなす世界観はそのままに、ゲーム版では創造しえなかった独自の演出を加えてアニメ化！DVDは驚異の売上を記録し、さらにアニメ作品としては異例の早さでブルーレイBOXが発売されるなど大人気の｢AIR｣をお届け！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash

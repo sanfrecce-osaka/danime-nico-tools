@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/1/22421_1_6.png?1
 outline: サラリーマン三上悟は通り魔に刺され死亡し、気がつくと異世界に転生していた。ただし、その姿はスライムだった！リムルという新しいスライム人生を得て、さまざまな種族がうごめくこの世界に放り出され、「種族問わず楽しく暮らせる国作り」を目指すことになる――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 前野智昭
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
   name: M・A・O
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 大塚芳忠
   type: cast
 - !ruby/hash:TagHash
-  name: 花守ゆみり
+  name: 古川慎
   type: cast
 - !ruby/hash:TagHash
-  name: 古川慎
+  name: 花守ゆみり
   type: cast
 - !ruby/hash:TagHash
   name: 千本木彩花

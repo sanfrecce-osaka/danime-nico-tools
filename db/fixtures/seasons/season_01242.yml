@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/4/11044_1_6.png?1
 outline: 未来都市TOKYO CITY。科学の発展に比例して凶悪犯罪やテロが増加の一途を辿る。これに対抗するため警察は特殊SWATチーム「WARRIOR」を組織した。そんな折、マキ、利緒、真弥、リリカ、ナンベル、ユウジのWARRIORのメンバーに指令が。謎のテロ組織ファルコン・クロウが国際平和フォーラムが催されているホテルキングダムを襲う！各国の要人を人質にする敵が要求してきた内容とは…！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash

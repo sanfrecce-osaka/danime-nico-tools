@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/91/6/21916_1_6.png?1
 outline: 弱小国家「イナコ」の姫であるアニは、武力国家「ミリドニア」と宗教国家「セレンファーレン」との和平条約のため、調印式の会場であるセレンファーレンを訪れていた。つつがなく調印式を終えるハズが、そこで出会ったのは一癖も二癖もある王子たちばかりでひと騒動。一旦は無事に終えてホッとしたアニだったが、母である王妃から、スパイに行ってくるようにと告げられて…!?原作は、好評配信中の女性向けスマホゲーム「DAME×PRINCE（デイムプリンス）」。キャスト陣はそのままに、アニメオリジナルストーリーでお届けします！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash

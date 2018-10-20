@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/66/1/21661_1_6.png?1
 outline: 主人公・宮代拓留の逮捕という衝撃の結末を迎えた『CHAOS;CHILD』。だが、ひとり現実という「舞台」に残された尾上世莉架は、いかなる運命を辿るのか。「彼」と「彼女」の「その後」を紡ぐ最終章が、ここに幕を開く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash

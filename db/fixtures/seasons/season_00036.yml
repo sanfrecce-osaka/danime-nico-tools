@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/7/10417_1_6.png?1
 outline: 伍代隼はビジネスを学ぶ為、親友のロベルト・バゼッティーニと共にサッカーの盛んな地｢ゴダイリゾート｣へやってくる。このリゾートには、プロサッカーチームの合宿場があり、伍代プロチームに移籍の噂の囁かれている世界的プレイヤー・ベッケンのシュートを目撃する。その光景に心引かれ、ユースチームのキャプテン・橘大地に誘われるままサッカーを始め、次第にその魅力の虜になる隼は、人々との触れ合いを通し、更にサッカーへとのめり込んでゆくのであった。だがしかし、実業界へ呼び寄せたい曾祖父が隼の前に立ちふさがる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 玉川砂記子
   type: cast
 - !ruby/hash:TagHash
-  name: 菊池正美
+  name: 白鳥由里
   type: cast
 - !ruby/hash:TagHash
-  name: 白鳥由里
+  name: 菊池正美
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：戸塚修
@@ -59,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤俊彦
   type: other
 - !ruby/hash:TagHash
-  name: 加藤博
+  name: 製作年：1992年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1992年
+  name: 加藤博
   type: other
 - !ruby/hash:TagHash
   name: 田中英行

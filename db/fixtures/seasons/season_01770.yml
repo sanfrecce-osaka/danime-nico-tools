@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/76/6/21766_1_6.png?1
 outline: 不二子におねだりされてゲットした今回の獲物は「魔法のランプ」 。これが実は、脳の中の記憶をデジタル信号に変えて保存するハイテク装置だという、不二子も真っ青な代物だった。一度はルパンが手にしたランプだが、様々な思惑により戦争屋のガーリック大佐をはじめ大勢での争奪戦を繰り広げる。銭形が記憶喪失になり、その上、あの堅物五エ門の「邪念」までなくなってしまい、ルパンはピンチに追いこまれてしまう…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
   name: 増山江威子
   type: cast
 - !ruby/hash:TagHash
   name: 納谷悟朗
-  type: cast
-- !ruby/hash:TagHash
-  name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
   name: 井上真樹夫

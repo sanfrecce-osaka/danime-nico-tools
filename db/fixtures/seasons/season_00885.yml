@@ -5,19 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/1/11421_1_6.png?1
 outline: 小学生の久慈　耕平(くじ　こうへい)のもとに届けられた小包の中には、5体の小さな人形が入っていた。突然、動き出したその人形たちは、地球征服を企む宇宙一の悪の組織アクロイヤーから地球を救うため、はるか宇宙のミクロアースからやってきた「ミクロマン」たちだった。地球人の手の平に乗るほどの小さな身体でありながら、その優れた科学力と残忍さで、これまで宇宙にあるたくさんの星々を滅ぼしてきたアクロイヤー。その魔の手から地球を救う為やってきたわずか8cmの最強戦士ミクロマン。ある時は化学兵器、ある時は集団洗脳と様々な手段で地球の征服を目論むアクロイヤーの攻撃に、地球で出会った3人の小学生、耕平、祐太、麻美と科学者・プロフェッサーＫの協力を得たミクロマンは、正義の心と科学力を駆使して、アクロイヤーとの厳しい戦いを続ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 飛田展男
   type: cast
 - !ruby/hash:TagHash
   name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
+  name: 本田貴子
+  type: cast
+- !ruby/hash:TagHash
   name: 真殿光昭
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤健太郎
-  type: cast
-- !ruby/hash:TagHash
-  name: 本田貴子
   type: cast
 - !ruby/hash:TagHash
   name: 半場友恵

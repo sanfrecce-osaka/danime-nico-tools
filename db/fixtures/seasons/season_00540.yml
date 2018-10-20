@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/88/8/10888_1_6.png?1
 outline: "「幻想魔伝最遊記」「最遊記RELOAD」「最遊記RELOAD GUNLOCK」「最遊記RELOAD –buriel-」…TVシリーズ、劇場版、OVAと過去６回にわたってアニメ化され、今なお不動の人気を誇る峰倉かずや先生原作の「最遊記」シリーズより、多くの読者が涙した｢最遊記外伝｣が遂に待望の映像化!!原作者・峰倉かずや先生のシリーズ構成による原作第十八話～最終話を中心としたストーリー。舞台は『最遊記』本編より五百年前の天界。岩より生まれた少年・孫悟空と金蝉童子の出逢いから、物語の幕は開く。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 秋元羊介
   type: cast
 - !ruby/hash:TagHash
-  name: 五十嵐麗
+  name: 稲葉実
   type: cast
 - !ruby/hash:TagHash
-  name: 稲葉実
+  name: 五十嵐麗
   type: cast
 - !ruby/hash:TagHash
   name: 幸田夏穂

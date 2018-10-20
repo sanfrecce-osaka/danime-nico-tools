@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/82/5/21825_1_6.png?1
 outline: あの世とこの世の間にある宿場町に建つ「此花亭」。期待と緊張で胸をふくらませ「此花亭」へ奉公にやってきた柚は、個性的な先輩仲居たちに囲まれながら、新人仲居として働き始める。ある日、柚は迷惑をかけてしまったお客様に「薬の材料である‘星‘を落として貰えませんか」と無理難題を出されてしまう…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 緒方恵美
+  name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
-  name: 加隈亜衣
+  name: 緒方恵美
   type: cast
 - !ruby/hash:TagHash
   name: 諏訪彩花

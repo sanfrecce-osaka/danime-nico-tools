@@ -9,13 +9,19 @@ outline: パンツどころの騒ぎじゃない。何が飛び出すかわか�
   ｢フォルテ｣ を見ればわかる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
-  name: 保志総一朗
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: 高垣彩陽
@@ -78,10 +84,10 @@ tags: !ruby/array:Hashie::Array
   name: 櫻井崇
   type: other
 - !ruby/hash:TagHash
-  name: 小倉宏昌
+  name: 高橋剛
   type: other
 - !ruby/hash:TagHash
-  name: 高橋剛
+  name: 小倉宏昌
   type: other
 - !ruby/hash:TagHash
   name: 石野聡

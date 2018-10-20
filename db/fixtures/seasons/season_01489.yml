@@ -6,16 +6,22 @@ outline: 学園で浮いてしまっている羽瀬川小鷹は、いつも不�
   アレげだけどやけに楽しい残念系青春ラブコメ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 花澤香菜
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 福圓美里

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/4/10284_1_6.png?1
 outline: ニカラグアに第2パナマ運河が開通し、その開通式の日、豪華フェリー“ダブルシー”が、｢古代人民兵士団｣と名乗るテロリスト達にシージャックされる。人質救出作戦のリーダーとして日本政府はある男を指名してきた。その男こそ、現地で｢ハポ｣と呼ばれる、かつての｢ワイルド7｣リーダー、飛葉大陸だった。ハポは人質救出のため、メンバーを7人集め、特別救助隊｢ワイルド7｣を組織する。その過程で、彼は失われた記憶を徐々に取り戻していく。果して、彼ら｢ワイルド7｣は任務を達成できるのか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

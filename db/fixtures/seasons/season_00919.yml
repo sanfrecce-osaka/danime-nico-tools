@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/8/10388_1_6.png?1
 outline: 今日から新学年、新学期。幼なじみの保奈美は、｢もう子供じゃないんだし｣と起こしに来る。両親を事故で失って以来、叔父夫婦の家に世話になっている俺(久住直樹)のありふれた日々。突然、学園の屋上で昼寝を決め込んでいた俺に空から女の子が降ってきた。そして繰り返されるありふれた日々が、少しずつ動き始める…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 松本保典
+  name: 高橋広樹
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋広樹
+  name: 松本保典
   type: cast
 - !ruby/hash:TagHash
   name: いのくちゆか

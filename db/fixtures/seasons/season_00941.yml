@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/53/3/11533_1_6.png?1
 outline: 柾木天地が伝説の鬼｢魎皇鬼｣の封印を解いたことから始まったOVAシリーズのラストから1年後…。柾木天地の小・中学校の後輩であり、柾木家の親戚筋にあたる少年と友達の関係にある、天地の運の悪さを持つ15歳の高校一年生｢山田西南｣が今回の主人公。ある日、西南がいつものように他人と自分に降りかかる災難をかいくぐり、目的地へ向かうなか、柾木家の近くで西南の乗る自転車がパンクする。その修理をしているところへ、未確認物体が西南の頭上へ落ちてきた…！？樹雷皇家とまったく関係ない普通の地球人の少年が、ひょんなことから宇宙に旅立つところから、新しい物語が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 久川綾
   type: cast
 - !ruby/hash:TagHash

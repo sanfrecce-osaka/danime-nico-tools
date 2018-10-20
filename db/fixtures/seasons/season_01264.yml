@@ -7,6 +7,15 @@ outline: 2010年11月22日（月）。日本各地に10発のミサイルが落�
   朗とは何者なのか？謎の携帯電話の正体は？失われた、滝沢の記憶とは何だったのか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：Production I.G
   type: staff
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/6/10986_1_6.png?1
 outline: 主人公ビッケはバイキング・フラーケ族の族長ハルバルの息子。ハルバルは元気な力持ちだがどうも頭の回転が鈍く族長としては頼りない。そんな父とは正反対にビッケはちびで力も無いが、頭の冴えは誰にも負けなかった。父との力比べに知恵で勝ったビッケは特別にバイキングの遠征に参加することを許される。行く先々で出会う事件や困難を小さなビッケの知恵で見事乗り越えていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 富田耕生
   type: cast
 - !ruby/hash:TagHash
@@ -12,6 +15,9 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 中西妙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西尾徳
   type: cast
 - !ruby/hash:TagHash
   name: 松金よね子
@@ -24,9 +30,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 栗葉子
-  type: cast
-- !ruby/hash:TagHash
-  name: 西尾徳
   type: cast
 - !ruby/hash:TagHash
   name: 里見たかし

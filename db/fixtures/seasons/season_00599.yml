@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/03/8/22038_1_6.png?1
 outline: 夜の墓場で「小山田まん太」が出会った少年、「麻倉葉」。森羅学園に転校生としてやって来た彼は「あの世とこの世を結ぶ者」すなわち「シャーマン」だった。600年前のサムライの霊「阿弥陀丸」と運命的な出会いを通して「麻倉葉」は「シャーマンの王：シャーマンキング」になるための資質を開花させていく。そして宿命のライバル「道蓮」をはじめ、「世を浄化するシャーマンの王」を目指す様々なライバルたちの登場。巨大な2つの彗星が夜空を駆け、世界中のシャーマン達にシャーマンキングの座を巡る闘いの始まりを告げる。そして今、運命の歯車が回りはじめる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 緑川光
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 林原めぐみ
   type: cast
 - !ruby/hash:TagHash
-  name: 高木渉
+  name: 堀内賢雄
   type: cast
 - !ruby/hash:TagHash
-  name: 堀内賢雄
+  name: 高木渉
   type: cast
 - !ruby/hash:TagHash
   name: 根谷美智子

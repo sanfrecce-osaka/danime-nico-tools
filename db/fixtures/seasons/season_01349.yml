@@ -6,6 +6,12 @@ outline: 野乃本ソメラは無敵の「野乃本魔法拳」の使い手に�
   ロックで不条理な日常を起承転結の中に詰め込んで各界に衝撃と笑いを巻き起こした問題作！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 本渡楓
   type: cast
 - !ruby/hash:TagHash

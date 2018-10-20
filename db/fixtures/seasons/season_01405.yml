@@ -5,10 +5,37 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/2/10482_1_6.png?1
 outline: 両親の不和、クラスメイト達からの孤立・・・孤独な日々を過ごしていた少女、朝倉美羽。彼女が唯一心を許したのは幼なじみの少年、井上心葉だった。心葉が投稿した小説｢青空【ソラ】に似ている｣が出版されたことで美羽は追いつめられてしまう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 斎藤千和
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅津秀行
+  type: cast
+- !ruby/hash:TagHash
+  name: 山像かおり
+  type: cast
+- !ruby/hash:TagHash
   name: "“文学少女”シリーズ"
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

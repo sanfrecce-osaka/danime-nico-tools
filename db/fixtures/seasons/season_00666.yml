@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/79/6/21796_1_6.png?1
 outline: 誇り高き十二戦士の、血戦の記録 ――十二年に一度開催される第十二回目の十二大戦。干支の名を宿す十二人の猛き戦士が互いの命と魂を賭けて戦う。参加者は『子』『丑』『寅』『卯』『辰』『巳』『午』『未』『申』『酉』『戌』『亥』の十二人、異様なる戦士たち。その戦いに勝利した者は、どんな願いでもたったひとつだけ叶えることができる。どうしても叶えたいたったひとつの願い――最後に生き残る者は誰か？策謀と殺戮の渦巻く戦場で、流れるのは誰の涙か？魂を揺さぶるバトルロイヤルが開戦する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 早見沙織
+  name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 鳥海浩輔
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 岡本信彦
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 緑川光
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 梅原裕一郎
@@ -38,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: チョー
   type: cast
 - !ruby/hash:TagHash
-  name: 西村朋紘
+  name: 堀江瞬
   type: cast
 - !ruby/hash:TagHash
   name: 原作：西尾維新

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/5/11465_1_6.png?1
 outline: シルバーランドの法律では王女は王位を継承できない。そのために王女でありながら王子として生きてゆくサファイアの苦悩をより大きくしていきます。フランツに思いをよせるサファイア。王位を狙うジュラルミン大公。そしてサファイアの決意とは？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 宮田幸季
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 茶風林
   type: cast
 - !ruby/hash:TagHash
-  name: 丸山詠二
+  name: 掛川裕彦
   type: cast
 - !ruby/hash:TagHash
-  name: 掛川裕彦
+  name: 丸山詠二
   type: cast
 - !ruby/hash:TagHash
   name: 熊谷ニーナ

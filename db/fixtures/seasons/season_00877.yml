@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/36/6/20366_1_6.png?1
 outline: どこか懐かしい姿をした街・四皇町。そこに暮らす立華リツカは、四皇學園に通う高校二年生の少女。イギリスに留学中の兄・リンドからの、時々の連絡を楽しみにしつつ、母とふたりの穏やかな日常を送っていた。ある日彼女は、學園の生徒の憧れである、生徒会長・鉤貫レムからの呼び出しを受け、生徒会の面々の集まる『第三図書館』で、彼らと不思議な出会いを果たす。アクマ、ヴァンパイア、エクソシスト。『禁断のグリモワール』を巡り、あらゆる思惑が彼女を中心に動き始める――。ヒトか、アクマか？これは、魔に魅入られ、魔に愛されたひとりの少女の物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash

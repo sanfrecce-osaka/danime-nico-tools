@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/34/4/20344_1_6.png?1
 outline: みんなを笑顔にするために、人間界にやってきたふなっしー。ふなっしーを人間界へ送った『梨神様』、ふなっしーに一方的にライバル心を燃やす『ぐれっしー』など、アニメオリジナルの新キャラクターたちも続々登場！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: Lynn
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
 - !ruby/hash:TagHash
   name: 龍田直樹
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
   type: cast
 - !ruby/hash:TagHash
   name: ふなっしー
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：友永コリエ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：清水洋
+  name: 監督：山内東生雄
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：山内東生雄
+  name: キャラクターデザイン：清水洋
   type: staff
 - !ruby/hash:TagHash
   name: 製作：旭プロダクション

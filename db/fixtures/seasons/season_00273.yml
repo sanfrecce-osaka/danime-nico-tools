@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/63/1/21631_1_6.png?1
 outline: 文久三年。倒幕派と佐幕派が世を二分し、刀の時代が終わりを告げた時代―――幕末。刀剣男士として顕現したばかりの堀川国広は、かつて同じ主の元で戦った和泉守兼定とともに、雨の山道をひた走る。刀剣男士は刀に宿る想いを審神者が励起させ、顕現させた『付喪神』。彼らの使命は、歴史を変えようと目論み未来から送り込まれる『時間遡行軍』を打倒し、“正しい歴史”を守ること。陸奥守吉行、薬研藤四郎、蜻蛉切、鶴丸国永という新たな仲間を得た二振りは、動乱の時代で、時間遡行軍との戦いに身を投じることになる。振るう刃に映すは光か、影か。刀剣男士、いざ出陣。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +17,16 @@ tags: !ruby/array:Hashie::Array
   name: 皆川純子
   type: cast
 - !ruby/hash:TagHash
-  name: 山下誠一郎
-  type: cast
-- !ruby/hash:TagHash
   name: 榎木淳弥
   type: cast
 - !ruby/hash:TagHash
-  name: 櫻井トオル
+  name: 山下誠一郎
   type: cast
 - !ruby/hash:TagHash
   name: 永塚拓馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 櫻井トオル
   type: cast
 - !ruby/hash:TagHash
   name: 濱健人
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：ニトロプラス
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ufotable
+  name: 原作：DMMゲームズ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：DMMゲームズ
+  name: アニメーション制作：ufotable
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：深澤秀行

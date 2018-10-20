@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/11/2/20112_1_6.png?1
 outline: 対話不能の外宇宙生命体・奇居子(ガウナ)により太陽系が破壊されてから1000年後の世界。人類の繁殖と生産を維持しながら宇宙を放浪する播種船・シドニアの最下層部で育てられた少年・谷風長道(たにかぜながて)は、祖父の死を期に街へ出、人型巨大装甲・衛人(もりと)の操縦士訓練生となる。仮象訓練で培った類まれなる能力により、シドニアを襲う数々の危機を救ったことで訓練生から正規操縦士になった長道だったが、奇居子との激戦の中で戦友・星白閑(ほしじろしずか)を失ってしまう。そして星白の衛人機体を模した最強の敵・紅天蛾(べにすずめ)をはじめとする奇居子の猛攻に苦戦を強いられつつも小惑星激突の危機を乗り切ったシドニアは、奇居子の巣を駆逐するために、レム恒星系へと進路をとるのだが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 喜多村英梨
+  name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 子安武人
+  name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
   name: 大原さやか
@@ -44,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：スターチャイルドレコード
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：村井さだゆき
+  name: 音楽：朝倉紀行
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：朝倉紀行
+  name: 脚本：村井さだゆき
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：ポリゴン・ピクチュアズ

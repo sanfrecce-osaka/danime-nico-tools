@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/17/4/10174_1_6.png?1
 outline: 舞台は東京、新宿……。桜の季節、｢真神学園｣に転校して来た謎多き男｢緋勇龍麻｣。導かれるように彼と出会う剣道部の｢蓬莱寺京一｣、レスリング部の｢醍醐雄矢｣、弓道部の｢桜井小蒔｣、そして生徒会長の｢美里葵｣。彼らは突如活性化した“龍脈”の影響で、“力持つもの”として覚醒する。その日を境に、同じく“龍脈”の影響か“鬼”と呼ばれる異形が出現し、東京を襲う。そして、その鬼を操る“外法”を駆使する者の存在。東京を護るために立ち上がった龍麻たちは、やがて逃れようのない自身の"宿星"と向き合う事に……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

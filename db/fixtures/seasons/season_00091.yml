@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/25/4/20254_1_6.png?1
 outline: フランスの片田舎で、貧しいながら母親と幸福に暮らしていたレミは自分が捨て子という出生の秘密を知り、愛する者、親しんだ土地から引き離されることになってしまいます。誇り高い旅芸人ヴィタリスと犬三匹、猿が一匹という一座と共に旅することになったレミ。持ち前の明るさと元気で一座をもり立てていきますが、吹雪の峠越えで二匹の犬たちを失ってしまいます。また、ヴィタリスも病に倒れ、「前へ進め」という言葉を残して亡くなってしまい…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 山田栄子
   type: cast
 - !ruby/hash:TagHash
@@ -23,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 弘中くみ子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：服部克久
-  type: staff
-- !ruby/hash:TagHash
   name: 脚本：島田満
   type: staff
 - !ruby/hash:TagHash
   name: 監督：楠葉宏三
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：服部克久
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：小山眞弓

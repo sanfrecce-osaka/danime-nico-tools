@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/52/2/10522_1_6.png?1
 outline: 美しい自然に囲まれた小さな町、空美町。そこに住む桜井智樹は｢平和が一番｣をモットーにする普通の学生だった。だが、ある日空から降ってきた少女 イカロスによって、平穏な日常がどんどん壊されていくことになる。《愛玩用エンジェロイド》と名乗り、地上で最初に出会った智樹を《マスター》と呼ぶイカロスは、彼の願いを叶える不思議な力を持っていた!一千億もの現金を手にし、透明人間になったり、時間を止めたり、したいホーダイ!健全な男子の欲望を満たしまくる智樹が、最後に願うものは!?美しい自然の中で、個性豊かなキャラクターたちが繰り広げる、楽しく笑え、ちょっぴりエッチで、そして心に染みるハートフル・コメディ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
-  name: 保志総一朗
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: 高垣彩陽

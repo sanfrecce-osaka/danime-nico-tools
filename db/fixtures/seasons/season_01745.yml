@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/85/9/10859_1_6.png?1
 outline: ルパン一味の日本脱出から５年間が経過した。それぞれ世界各国で悠々自適の生活を送るルパン、次元、五ェ門そして不二子。そんな彼らに豪華客船サーロイン号で同窓会を開こうという招待状が届き、一同は再開を果たす。発起人名はルパンになっていたが、当人には覚えのないこと。だがそれは、かつてルパンに自組織スコーピオンを壊滅され復讐を願うミスターＸの罠だった！サイボーグとなったＸを返り討ちにして、ＩＣＰＯへ転属された銭形警部の追撃をかわしながら、世界狭しとルパン一家の新冒険が始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash

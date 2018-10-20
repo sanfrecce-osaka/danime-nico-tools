@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/1/20141_1_6.png?1
 outline: 自由すぎる校風の私立高校・桃月学園に天才ちびっこ先生・レベッカ宮本(通称ベッキー)が赴任！個性的な生徒達と動物達(？)と共にちびっこベッキーが活躍したりしなかったりするびみょーにきみょーなスクールコメディ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 植田佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 折笠富美子
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: ゆきのさつき

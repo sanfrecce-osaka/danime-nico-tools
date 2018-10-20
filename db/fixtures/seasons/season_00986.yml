@@ -6,6 +6,12 @@ outline: 時は202X年、今よりもちょっと未来。子供達の間で“�
   は、小学校最後の夏休みを目前に、父の仕事の都合で大黒市に引っ越すことになる。そこで出会ったのは、もう一人の“ユウコ”、天沢勇子（あまさわゆうこ） 。同じ名前で同じ歳だが全くタイプの違う二人。新しい学校で個性豊かな子供たちと出会い、電脳空間で次々と巻き起こるフシギな出来事を体験する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
@@ -33,13 +39,13 @@ tags: !ruby/array:Hashie::Array
   name: 山口眞弓
   type: cast
 - !ruby/hash:TagHash
-  name: 小島幸子
-  type: cast
-- !ruby/hash:TagHash
   name: 金月真美
   type: cast
 - !ruby/hash:TagHash
-  name: 沼田祐介
+  name: 小島幸子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木れい子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：マッドハウス
@@ -75,10 +81,10 @@ tags: !ruby/array:Hashie::Array
   name: 大庭直之
   type: other
 - !ruby/hash:TagHash
-  name: 渡辺繁
+  name: 斉藤健治
   type: other
 - !ruby/hash:TagHash
-  name: 斉藤健治
+  name: 渡辺繁
   type: other
 - !ruby/hash:TagHash
   name: 吉本聡

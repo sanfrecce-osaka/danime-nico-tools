@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/40/6/22406_1_6.png?1
 outline: 思春期症候群――不安定な精神状態によって引き起こされるとネットで噂の不思議現象。梓川咲太、高校2年生。江ノ島からもほど近いとある高校に通う彼は、この年、様々な“思春期症候群”を引き起こした少女達と出会う。たとえばそれは、図書館で出会った野生のバニーガール。彼女の正体は、高校の上級生にして活動休止中の女優、桜島麻衣先輩。魅惑的な彼女の姿は、何故か周囲の人間の目には映っていなかった。彼女はなぜ見えなくなってしまうのか―。謎の解決に乗り出した咲太は、麻衣と過ごす時間の中で、彼女の秘める想いを知り……。空と海が輝く町で心揺れる少女達との不思議な物語が始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash

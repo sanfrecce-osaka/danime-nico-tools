@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/93/6/21936_1_6.png?1
 outline: 時は2138年。一大ブームを巻き起こした仮想現実体感型オンラインゲーム《ユグドラシル》はサービス終了を迎えようとしていた。プレイヤーであるモモンガは仲間と栄華を誇った本拠地ナザリック地下大墳墓で一人静かにその時を待っていた。しかし、終了時間を過ぎてもログアウトされない異常事態が発生。NPCたちが意思を持って動き出し、さらにナザリックの外には見たこともない異世界が広がっていた。モモンガはかつての仲間を探すため、ギルドネームであったアインズ・ウール・ゴウンを名乗り、異世界にその名を轟かすことを決意。絶対の忠誠を誓う配下とともに新たな地へ進軍する。世界を掌中におさめる死の支配者、ここに再臨！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉繁
+  name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 沼倉愛美
+  name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
   name: 内山夕実

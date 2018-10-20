@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/00/6/10006_1_6.png?1
 outline: 10年前に結婚を約束した美少女のことを思い続ける夢見がちな高校生・三平太。ある日、彼の前にちっとも美少女じゃない人型ロボットケメコが現れ、結婚を迫る!!｢今日から私がお前のヨメだ｣次々と三平太に襲いかかる謎の敵。かわいい幼なじみや無責任なクラスメイト。はたしてケメコは敵か味方か嫁なのか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash

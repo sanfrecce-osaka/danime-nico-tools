@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/27/4/21274_1_6.png?1
 outline: アメホン国ワシンキョウ市に事務所を構える、三流探偵・車錠（くるまじょう）。その新米助手である鎧武士は普段は冴えない青年だが、変身機能が搭載されたヘルメット「ポリメット」を使って超人ポリマーに変身。自らが編み出した拳法「破裏拳流」を振るい、街の平和を脅かす悪党たちを打ちのめす。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 青野武
   type: cast
 - !ruby/hash:TagHash

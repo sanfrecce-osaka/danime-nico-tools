@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/39/1/20391_1_6.png?1
 outline: 何もかもがダメダメな中学生・沢田綱吉(ツナ)の前に現れた謎の赤ん坊家庭教師・リボーン。その正体は、ツナをマフィアの10代目ボスとして教育するためイタリアから来たヒットマンだった！その日を境にツナの平凡な日常は一転、リボーンによって毎日が「死ぬ気」の修行が始まることに…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
@@ -71,10 +80,10 @@ tags: !ruby/array:Hashie::Array
   name: 西山茂
   type: other
 - !ruby/hash:TagHash
-  name: イケメン集団
+  name: 少年主人公
   type: other
 - !ruby/hash:TagHash
-  name: 少年主人公
+  name: イケメン集団
   type: other
 - !ruby/hash:TagHash
   name: 石黒昇

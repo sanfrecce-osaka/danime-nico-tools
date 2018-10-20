@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/2/22412_1_6.png?1
 outline: 闇ギルド「冥府の門」との激闘、そして育ての親である＜火竜イグニール＞との哀しい別れを経たナツは、更に強くなるべく、相棒のハッピーを連れて修行の旅へ出た。一方、「妖精の尻尾（フェアリーテイル）」のマスター・マカロフは、何の前触れもなく一方的にギルド解散命令を出し、自身も行方をくらましてしまう。それから約１年･･･、ルーシィは記者見習いの仕事をしながら、大陸中に散らばったかつての仲間たちの情報を集めていた。そして年に一度の「大魔闘演武」の取材をしていたある日、ルーシィの前に修行を終えたナツが現れる！魔導士ギルド「妖精の尻尾」の復活を掲げ、想いを一つに、ナツ・ルーシィ・ハッピーによる仲間探しの旅が始まるのだった!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -61,6 +64,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: キャラクターデザイン：佐野聡彦
   type: staff
+- !ruby/hash:TagHash
+  name: FAIRY TAILシリーズ
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other

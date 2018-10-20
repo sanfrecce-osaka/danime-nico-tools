@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/87/2/20872_1_6.png?1
 outline: 世界大戦の火種がくすぶる昭和12年秋、帝国陸軍の結城中佐によって、スパイ養成部門“D機関”が秘密裏に設立される。生え抜きの軍人を尊ぶ陸軍の風潮に反し、機関員として選ばれたのは、東京や京都といった一般の大学を卒業し、超人的な選抜試験を平然とくぐり抜けた若者たちだ。彼らは魔術師のごとき知略を持つ結城中佐のもと、爆薬や無電の扱い方、自動車や飛行機の操縦法はもちろん、スリや金庫破りの技に至るまで、スパイ活動に必要なありとあらゆる技術を身につけ、任地へと旅立っていく。｢死ぬな、殺すな｣——目立たぬことを旨とするスパイにとって自決と殺人は最悪の選択肢であるとするD機関は、陸軍中枢部から猛反発を受けつつも、味方を欺き、敵の裏をかき、世界中を暗躍する。東京、上海、ロンドン……世界各地で繰り広げられるインテリジェンス・ミステリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +17,16 @@ tags: !ruby/array:Hashie::Array
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 木村良平

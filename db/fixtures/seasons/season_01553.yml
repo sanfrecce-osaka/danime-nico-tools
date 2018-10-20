@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/6/10386_1_6.png?1
 outline: 3Dアニメで制作された｢魔法遊戯｣シリーズの作品。故郷の魔女ッ娘候補になったバドドゥは、魔法城に向かう途中の町で投獄されてしまった。町長のコフィーは、自分の町から魔女ッ娘を出すべくライバルを排除しようとしたのだ。牢獄の中でパドドゥは、かつてプリルンと女王を争った｢破壊の魔女｣ノノノンと出会うが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 立木文彦
   type: cast
 - !ruby/hash:TagHash

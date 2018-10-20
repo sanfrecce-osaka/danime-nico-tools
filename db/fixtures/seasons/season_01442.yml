@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/8/10588_1_6.png?1
 outline: 宝のにおいをかぎつけ、おならを武器に盗み出す国際窃盗団｢プープーキッズ｣。ICPO所属のブーヴァーたちが追跡するも、彼らのおしりを止めることはできなかった…。世界をにおわすプープーキッズが、今日も元気に宝を盗む!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：春日森春木
   type: staff
 - !ruby/hash:TagHash

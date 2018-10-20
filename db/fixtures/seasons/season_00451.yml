@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/64/7/10647_1_6.png?1
 outline: 謎が謎を呼ぶ、オリジナルアニメーション作品『K』。現実とは微妙に異なった歴史を歩んだ現代日本を舞台に、7人の《王》それぞれの確執と、そこに巻き込まれる少年の運命が異能者バトルと共に描かれていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
-  name: 小野大輔
+  name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 浪川大輔
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴

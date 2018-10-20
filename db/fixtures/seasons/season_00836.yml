@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/8/10048_1_6.png?1
 outline: 表向きは売れない民俗学者にして、裏稼業では妖怪退治屋を営む一ノ宮勘太郎。鬼より遥かに強いという伝説の天狗を探していた勘太郎は、ついに｢鬼喰い天狗｣が封印されている神社を発見し、春華を解放する。以来行動を共にすることとなった二人。様々な事件を解決していくうち、二人の関係は徐々に変化を見せていく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -32,16 +35,16 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：スタジオディーン
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：わたなべひろし
-  type: staff
-- !ruby/hash:TagHash
   name: 脚本：川崎ヒロユキ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：岡真里子
+  name: 監督：わたなべひろし
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：高山カツヒコ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：岡真里子
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：鈴木雅詞

@@ -6,16 +6,22 @@ outline: ワールドデストラクターである「チフォージュ・シ�
   ついに顕現、そして強襲するかつてない脅威に戦慄を隠せないシンフォギア装者たち。人知れず奪われた聖遺物「アンティキティラの歯車」は、無邪気な瞳のホロスコープに巨大な陰謀を映し出すのであった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 悠木碧
@@ -33,13 +39,13 @@ tags: !ruby/array:Hashie::Array
   name: 寿美菜子
   type: cast
 - !ruby/hash:TagHash
-  name: 瀬戸麻沙美
-  type: cast
-- !ruby/hash:TagHash
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 蒼井翔太
+  name: 瀬戸麻沙美
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤羽根健治
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：サテライト
@@ -48,10 +54,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：Elements Garden
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：上松範康
+  name: 監督：小野勝巳
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：小野勝巳
+  name: 原作：上松範康
   type: staff
 - !ruby/hash:TagHash
   name: 原作：金子彰史

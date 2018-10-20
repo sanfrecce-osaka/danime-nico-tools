@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/59/9/11599_1_6.png?1
 outline: ミカゲ社の土地神としてはまだまだ未熟な女子高生・桃園奈々生。ある日、風神・乙比古が、毎年全国の神々が出雲に集まって会議を開くという「神議り」（かむはかり）の招待状を持ってやってきた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

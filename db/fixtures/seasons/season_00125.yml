@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/9/20339_1_6.png?1
 outline: ゴーレムIIIの襲撃を受けそれぞれの専用機がメンテナンスを余儀なくされてしまったIS学園。一夏は『白式』と共にその開発元である倉持技研に向かう…。その隙に再び学園に忍び寄る黒い陰謀。黒鍵とは？ワールド・パージとは？乙女たちの一夏に対する妄想が爆発する！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: ゆかな
@@ -35,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：七瀬光
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：堀井久美
+  name: 監督：菊地康仁
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：菊地康仁
+  name: キャラクターデザイン：堀井久美
   type: staff
 - !ruby/hash:TagHash
   name: 監督：登坂晋

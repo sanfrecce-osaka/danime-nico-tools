@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/53/9/11539_1_6.png?1
 outline: 忍――。それは遙か昔、戦国の世にあった影(かげ)の存在。人の中に隠れ、探り、煽り、騙し、壊し、そして殺す――。あらゆる闇の仕事を引き受けていた陰(かげ)の存在。いつしか人々の心から消え去り、おとぎ話のように語られるだけになってしまった翳(かげ)の存在。しかし、彼らが人々の心から消え去ろうとも、人々の業が変わることはない。いまだ闇の世界に生きるものは必要とされ続けている。忍は今も存在しているのだ。現代の忍の雇い主は、政治家や大企業の幹部たち。強大な権力を持った彼らの中には、忍を己の欲を満たすための道具と考えているものもいる。そんな闇に動かされた“悪忍”たちに対抗するために、政府はあるプロジェクトを立ち上げた。“善忍”――そう呼ばれる国家所属の忍を育成する機密プロジェクトである。そして“善忍”を育成するために作られた機関が｢内閣特務諜報部諜報一課付特殊機密諜報員養成所｣――通称、忍学科。学生数1000人を抱える名門マンモス進学校｢国立半蔵学院｣の知られざる裏の姿。この物語は悪と戦う“善忍”となることに青春を捧げた、国立半蔵学院忍学科に籍を置く5人の少女たちの愛と勇気の軌跡である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 藤原啓治
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
   name: 三森すずこ
@@ -56,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：川田瑠夏
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：鳥居貴史
+  name: 原作：高木謙一郎
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：高木謙一郎
+  name: キャラクターデザイン：鳥居貴史
   type: staff
 - !ruby/hash:TagHash
   name: 原作販売元：MarvelousAQL

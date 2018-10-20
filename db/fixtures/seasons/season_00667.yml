@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/16/3/20163_1_6.png?1
 outline: ごく普通に街中で生活する櫻田家は、実は国を統べる王族である。しかも全員特殊能力持ち！そんな一家に生まれた三男六女の兄弟姉妹の中から、次期国王が国民投票によって選ばれることになった。判断材料として、町中に設置された複数のカメラによって監視されTV放送される中、一生懸命カメラを避けたり、選挙にやる気だったり、協力しあったりと思い思いの行動を取るきょうだいたち。なんだかんだと仲良しな家族ながら、選挙で選ばれるのは一体誰！？櫻田一家が繰り広げるドタバタファミリーコメディ開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

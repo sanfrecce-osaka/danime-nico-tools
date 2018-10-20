@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/72/2/21722_1_6.png?1
 outline: ナツたちが不在だった7年の間に、フィオーレ王国最弱の魔導士ギルドとなってしまった「妖精の尻尾（フェアリーテイル）」は、NO.1ギルドを決める祭典・「大魔闘演武」での優勝を目指す。大会四日目、ナツ＆ガジルは、現最強ギルド・「剣咬の虎（セイバートゥース）」の双竜と呼ばれるスティング＆ローグと対戦。ナツは、双竜が放つ渾身の合体魔法（ユニゾンレイド）を、ギルドで育まれた想いの力と圧倒的なパワーで撃破する。この勝利により、見事1位に踊りでて歓声をあげるフェアリーテイルとそのメンバーたち。一方、対戦途中でナツにより闘技場から追いやられたガジルは、偶然にも闘技場の地下でドラゴンの死骸が大量に横たわる墓場を発見する。また、大魔闘演武の裏で暗躍する「ゼフレと似た魔力を持つ者」を探していたジェラールは、ついにその人物を追い詰めるが、素顔を見て驚愕する。大魔闘演武最終日、7月7日。この日は、かつてドラゴンが一斉に姿を消した日でもある。大会最終日の始まりとともに、それぞれの思惑が絡み合い、新たな事実が動き出そうとしていた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -50,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：石平信司
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：真島ヒロ
+  name: アニメーション制作：ブリッジ
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ブリッジ
+  name: 原作：真島ヒロ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：竹内進二
@@ -65,10 +68,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2014年
+  name: 講談社
   type: other
 - !ruby/hash:TagHash
   name: 少年マガジン

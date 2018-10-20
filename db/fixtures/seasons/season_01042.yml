@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/9/11469_1_6.png?1
 outline: "「傲慢(ごうまん)」「嫉妬(しっと)」「憤怒(ふんど)」「怠惰(たいだ)」「強欲(ごうよく)」「暴食(ぼうしょく)」「色欲(しきよく)」それは、王立ビブリア学園に君臨する、7人の少女にかせられた罪(テーマ)。世界を取り戻すため、少年はこの罪(テーマ)を支配することを決断した—-その少年、春日アラタの知る日常は、「崩壊現象」と呼ばれる不可思議な事件によって、従姉妹の聖ごと異空間に消えてしまった。崩壊現象を解明し、聖を取り戻すため、王立ビブリア学園に入学したアラタ。そこに待っていたのは、テーマにより魔道を操る７人の少女たちだった。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -23,16 +32,16 @@ tags: !ruby/array:Hashie::Array
   name: 柚木涼香
   type: cast
 - !ruby/hash:TagHash
-  name: 村川梨衣
-  type: cast
-- !ruby/hash:TagHash
   name: 洲崎綾
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪彩花
+  name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
   name: 原由実
+  type: cast
+- !ruby/hash:TagHash
+  name: 諏訪彩花
   type: cast
 - !ruby/hash:TagHash
   name: 監督：錦織博

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/43/9/21439_1_6.png?1
 outline: 人気アニメの第3シリーズ。憧れの私立やまぶき高校美術科に入学したゆの。学校のまん前にある小さなアパート『ひだまり荘』で一人暮らしを始めたゆのは、そこで同級生の宮子、先輩の沙英とヒロの三人に出会う。慣れない生活に戸惑いつつも、優しく温かい仲間に囲まれながら、ゆのは今ゆっくりと夢に向かって歩き出す…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
   name: 福圓美里
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 後藤邑子
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 新谷良子
   type: cast
 - !ruby/hash:TagHash
-  name: 小見川千明
+  name: チョー
   type: cast
 - !ruby/hash:TagHash
-  name: チョー
+  name: 小見川千明
   type: cast
 - !ruby/hash:TagHash
   name: 原田ひとみ

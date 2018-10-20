@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/50/3/11503_1_6.png?1
 outline: 戦場を人の力が支配し、剣と馬が戦いの中心だった時代――。ブリューヌ王国とジスタート王国の国境で起こった些末な諍いは、やがて大国の思惑をはらみながら、二十数年振りの開戦に至った。ブリューヌ王国の兵は、およそ2万5千。総大将レグナス王子の初陣を華々しく飾るため、王は直属の騎士団以外にも出兵を命じ、辺境の小貴族すらも戦列に加わることになる。アルサスの若き領主ティグルヴルムド=ヴォルンも、王の招へいに従い、わずかな手勢とともに馳せ参じた1人であった。かたやジスタート王国は、5千の兵でこれを迎え撃つ。中心となるのは、ブリューヌ王国と隣接するライトメリッツ公国の兵たちである。勝敗の結果は、この時点ですでに明白かと思えた。だがブリューヌ王国は致命的な過ちを犯す。ジスタートの兵たちを率いるのは、伝説の竜具を与えられし戦姫の1人、エレオノーラ=ヴィルターリアであった。一騎当千の恐るべき力を、ブリューヌ王国の兵たちは身をもって味わうことになる。絶望が支配する戦場の中で、ティグルは残されたわずかな矢を弓につがえ、標的を定めた。その視線の先にあるのは、美貌と勇壮の象徴――戦姫である。ブリューヌ王国辺境の若き領主、ティグルヴルムド=ヴォルン。ジスタート王国の戦姫、エレオノーラ=ヴィルターリア。両者の邂逅が、のちに語り継がれる英雄譚の序章になるとは、まだだれも知る由もなかった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 小松未可子
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 石川界人
   type: cast
 - !ruby/hash:TagHash
-  name: 小杉十郎太
+  name: 興津和幸
   type: cast
 - !ruby/hash:TagHash
-  name: 興津和幸
+  name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
   name: 東地宏樹

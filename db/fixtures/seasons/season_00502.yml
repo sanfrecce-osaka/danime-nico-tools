@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/56/4/11564_1_6.png?1
 outline: 帝野将悟は、世界的なグループ企業『帝野グループ』の代表だった父・帝野熊五郎の葬儀の場で、将悟に遺された父の遺言を明かされる。将悟にその気があるのなら、しかるべき訓練を受け、条件をクリアして帝野グループを継いでほしいのだという。その条件とは・・・｢在学中に伴侶となる女性を見つける事｣つまり彼女を作る事が遺言だったのだ。将悟は尊敬する亡き父の遺志を継ぐべく、グループを継ぐための訓練を受けることを決意する。それから一年、訓練を終えた将悟は伴侶を見つける為、私立深流院学園へと編入する。―――ところが、将悟には顔も知らない生き別れの『妹』がいることが判明する、しかも学園に通い正体を明かさぬまま、将悟との結婚を夢見ているというのだ。はたして・・・!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：Studio五組
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：七瀬光
+  name: キャラクターデザイン：桂憲一郎
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：桂憲一郎
+  name: 音楽：七瀬光
   type: staff
 - !ruby/hash:TagHash
   name: 監督：名和宗則
@@ -59,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: MF文庫J
   type: other
 - !ruby/hash:TagHash
-  name: 成田偉保
+  name: 池田ひとみ
   type: other
 - !ruby/hash:TagHash
-  name: 池田ひとみ
+  name: 成田偉保
   type: other
 - !ruby/hash:TagHash
   name: 桑原悟

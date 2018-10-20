@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/95/3/21953_1_6.png?1
 outline: 玄関を開けるとJSがいた――「やくそくどおり、弟子にしてもらいにきました！」16歳にして将棋界の最強タイトル保持者『竜王』となった九頭竜八一の自宅に押しかけてきたのは、小学三年生の雛鶴あい。9歳。「え？　…弟子？　え？」「…おぼえてません？」覚えていなかったが始まってしまったJSとの同居生活。ストレートなあいの情熱に、八一も失いかけていた熱いモノを取り戻していくのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash

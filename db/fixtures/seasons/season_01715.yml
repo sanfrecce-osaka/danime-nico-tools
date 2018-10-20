@@ -6,6 +6,12 @@ outline: 父は歌手、母は女優、兄は超人気バンド「クラッシ�
   りょうま）と10年ぶりに再会した泉水だけれど…！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash

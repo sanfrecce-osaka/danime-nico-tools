@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/82/9/21829_1_6.png?1
 outline: "「世の中クソだな」盛岡森子(♀)、30歳独身ニートは、現実(リアル)世界からドロップアウトしました。たどり着いた先は----夢と希望あふれるネトゲの世界!!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

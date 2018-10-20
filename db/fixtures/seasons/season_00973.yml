@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/97/2/21972_1_6.png?1
 outline: デスマーチ真っ最中のプログラマー“サトゥー”こと鈴木一郎。仮眠を取っていたはずが、気が付くと異世界に…!?視界の端には、仮眠前に作っていたゲームを思わせるメニュー画面。レベル１の初期状態。ただし初心者救済策として実装したばかりの「全マップ探査」とマップ殲滅ボム「流星雨」×３付。目の前には蜥蜴人の大軍が!助かるために「流星雨」を使用したサトゥーは、その結果レベルが310となり莫大な財宝を手に入れる――。夢か現か、ここにサトゥーの旅が始まる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
@@ -56,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: KADOKAWA
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: KADOKAWA
   type: other
 - !ruby/hash:TagHash
   name: アーティスト：AiM

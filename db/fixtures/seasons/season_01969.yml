@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/11/3/11113_1_6.png?1
 outline: 宮永咲（みやながさき）は高校一年生。奇跡的な麻雀を打ってのける（毎局プラスマイナスゼロで和了（あが）ることができる）美少女。原村和（はらむらのどか）の天才的な打ち方に感化され麻雀部に入部することを決意する。二人の天才美少女が全国大会の頂点を目指す。熾烈な闘いの末、見事県予選を勝ち抜いた清澄高校麻雀部。全国の舞台で待ち受けていたのは同じく頂点を目指す強豪たちだった。果たして咲たちは全国の高みへたどり着くことが出来るのか。高校生雀士の頂点を決める闘いが今、始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash

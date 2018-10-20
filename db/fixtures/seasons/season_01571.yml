@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/95/5/21955_1_6.png?1
 outline: ごく普通の生活を送る男子高校生・柏木空はある日、旅先のエジプトにいる自称"冒険家"の父から突如、ミイラを送りつけられる。「面白いミイラを見つけたからお前に預けることにした！」と書かれた父の手紙におののく空。だが、送られてきたて大きな棺から現れたのは、全長12cm！？なんと手のひらサイズのミイラだった・・・。小さいうえに、臆病で、泣き虫で、でも何ともいえない可愛さのミイラミーくんと名づけ面倒を見ることになる空。一つ屋根の下、一緒に暮らし始める空とミーくんの共同生活とは・・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
@@ -29,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：末廣健一郎
   type: staff
 - !ruby/hash:TagHash
+  name: 音楽：MAYUKO
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：空木かける
   type: staff
 - !ruby/hash:TagHash
   name: 監督：かおり
-  type: staff
-- !ruby/hash:TagHash
-  name: 音楽：MAYUKO
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

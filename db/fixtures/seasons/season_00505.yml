@@ -7,6 +7,12 @@ outline: "『傷ついた心、癒させてください!』 おしゃれで可�
   小鳩はたくさんの傷ついた心を癒やし、保育園を救うことができるのか?そして、小鳩を導く不思議な犬のぬいぐるみ(?)いおりょぎの正体とは・・・?"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -16,10 +22,10 @@ tags: !ruby/array:Hashie::Array
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 折笠富美子

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/5/11515_1_6.png?1
 outline: 祖母の経営する温泉旅館”喜翆荘”（きっすいそう）での住み込み生活にもすっかり慣れた、東京生まれの女子高生・松前緒花は、板前見習いの鶴来民子や仲居見習いの押水菜子らと過ごす毎日の中で、少しずつ変わっていく自分に気が付きはじめていた。秋も深まってきたある日、クラスメイトでライバル旅館“福屋”の一人娘である和倉結名が、喜翆荘に女将修行にやってくる。奔放な結名に翻弄されながらも面倒をみていた緒花は、掃除をしていた物置の中で、あるものを見つける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

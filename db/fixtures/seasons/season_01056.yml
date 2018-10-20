@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/1/10821_1_6.png?1
 outline: 人類と機械生命体との長い戦争は、機械生命を全滅させる人類側の勝利により終局を迎えた。傷ついた戦闘ロボット“シャイアン”はオペレーターの人間を失って深い眠りにつく。それから1000年の時が流れ、少女イクールに反応し“シャイアン”は目覚める。しかし、形を変えてはいるが戦争は続いていた。少女イクールを新しいオペレーターとして戦闘ロボット“シャイアン”は完全復活！“竜の火”と恐れられた超兵器を使って、邪悪な機械生命体“エルメダイン”を迎え撃つ！1000年の時を超え、今また人類と機械生命体の壮絶な戦いが始まろうとしている！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 富山敬
   type: cast
 - !ruby/hash:TagHash

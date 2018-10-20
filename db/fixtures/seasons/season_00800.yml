@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/32/3/10323_1_6.png?1
 outline: 死神武器職人専門学校-通称｢死武専｣。その生徒である｢職人｣と｢武器｣。その目的はただ一つ。“99個の鬼神の卵と化した魂”と“1個の魔女の魂”を武器に食べさせ、死神様の武器｢デスサイズ｣を作ること。最強のデスサイズを目指し、時にぶつかり合い、時に助けあう、少年少女たちの成長物語である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 渡辺明乃
+  name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 名塚佳織
+  name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
   name: 内山昂輝
@@ -38,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：五十嵐卓哉
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：伊藤嘉之
+  name: 原作：大久保篤
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：大久保篤
+  name: キャラクターデザイン：伊藤嘉之
   type: staff
 - !ruby/hash:TagHash
   name: ソウルイーターシリーズ

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/94/9/21949_1_6.png?1
 outline: そこは、宇宙よりも遠い場所──。何かを始めたいと思いながら、中々一歩を踏み出すことのできないまま高校2年生になってしまった少女・玉木マリ(たまき・まり)ことキマリは、とあることをきっかけに南極を目指す少女・小淵沢報瀬(こぶちざわ・しらせ)と出会う。高校生が南極になんて行けるわけがないと言われても、絶対にあきらめようとしない報瀬の姿に心を動かされたキマリは、報瀬と共に南極を目指すことを誓うのだが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

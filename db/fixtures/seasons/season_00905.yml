@@ -5,28 +5,34 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/9/10039_1_6.png?1
 outline: 続編も製作された合体ロボットアニメの第1作。突如、太陽系に襲来した謎の敵｢ゼラバイア｣。だが、ゼラバイアの地球侵攻を予想した謎の大富豪クライン・サンドマンは、｢アースガルツ｣を作り上げた。消息を絶った姉の行方を追って、サンドマンの居城に潜入した少年エイジは、不思議な少年と運命的な出会いをするが……!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
-  type: cast
-- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 中原麻衣
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
   name: 速水奨

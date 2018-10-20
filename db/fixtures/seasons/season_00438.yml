@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/1/21921_1_6.png?1
 outline: 突如現れた謎の宇宙船の攻撃を受け、リョウ・ムサシ・ハヤトの3人はただちに合体し反撃するが早乙女研究所は損壊。ベアー号とムサシを失ってしまった。早乙女博士は涙にくれるリョウとハヤトに新しいゲッターロボGを与える。一方、羽田空港に着陸した宇宙船は、周囲を手当たり次第に破壊、さらに光波獣・ピグドロンに対し出撃を命じていた。修理を終え、ピグドロンを倒すべく出撃したグレートマジンガーだが、ピグドロンの光の矢攻撃を受けて鉄也が負傷してしまう。駆けつけた新ゲッターロボGは鉄也を助け出すと、宇宙船に立ち向かった。そしてようやくグレートマジンガーの新しい武器・グレートブースターも完成。ゲッターロボGとグレートマジンガーの反撃が開始された。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷明
   type: cast
 - !ruby/hash:TagHash
   name: 柴田秀勝
   type: cast
 - !ruby/hash:TagHash
-  name: 沢田和子
+  name: 矢田耕司
   type: cast
 - !ruby/hash:TagHash
-  name: 矢田耕司
+  name: 沢田和子
   type: cast
 - !ruby/hash:TagHash
   name: 野田圭一
@@ -37,6 +43,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 原作：石川賢
   type: staff
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other

@@ -5,25 +5,34 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/2/10982_1_6.png?1
 outline: 株式会社機動新撰組、全員出動!!OVA化もされたPS2ゲームをもとに制作されたTVアニメ。時代が変わり雑然とした明治新京都。その中で人間と許可を得た妖怪がともに暮らしていた。そして許可を得ていない妖怪を捕らえ治安を守るべく｢株式会社機動新撰組｣が奮闘していた。そんな京都に、坂本龍馬の息子である坂本龍之介が上海から戻ってきて…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 草尾毅
   type: cast
 - !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
   name: 松井菜桜子
   type: cast
 - !ruby/hash:TagHash
-  name: 榊原良子
+  name: 金田朋子
   type: cast
 - !ruby/hash:TagHash
   name: 折笠愛
   type: cast
 - !ruby/hash:TagHash
-  name: 田中真弓
-  type: cast
-- !ruby/hash:TagHash
-  name: 金田朋子
+  name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
   name: 池澤春菜

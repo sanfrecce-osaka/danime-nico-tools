@@ -7,6 +7,12 @@ outline: capitolo1 その 逢いたかったあなたに・・・／先輩の灯
   その 遙かなる未来へ・・・／今、再びの未来をご一緒しましょう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash

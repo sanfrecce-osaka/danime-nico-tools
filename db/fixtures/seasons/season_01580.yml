@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/91/9/10919_1_6.png?1
 outline: 額にある三つめの目が絆創膏で隠されているときは幼児のように無邪気な男の子。けれど、絆創膏が外されると古代文明を築いた三つ目族のパワーが宿った悪魔的な超人に変身する。そんな少年、写楽が活躍するテレビシリーズ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 速水奨
   type: cast
 - !ruby/hash:TagHash

@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/62/9/11629_1_6.png?1
 outline: スプーンおばさんは、とっても元気なおばあさん。でも、ほかの人とちょっと違うところがありました。それは、突然スプーンと同じくらいの大きさになってしまうこと。そんなスプーンおばさんが、動物たちの助けも借りて、大冒険を繰り広げます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
-  name: 島本須美
+  name: 郷里大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 郷里大輔
+  name: 島本須美
   type: cast
 - !ruby/hash:TagHash
   name: TARAKO

@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/37/7/20377_1_6.png?1
 outline: 高校三年の十月、阿良々木暦は神原駿河から、転校してきた一年生の忍野扇を紹介される。暦に相談があるという扇。直江津高校の図面を作成したところ不思議なことがあると言い出した。それをきっかけに、暦の高校生活を決定付けた、このまま語られるはずのなかった物語が明らかになる……。これは、阿良々木暦が「何」でできているかを知る物語。これは、すべての「始まり」を知る物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
-  name: 花澤香菜
+  name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 沢城みゆき
+  name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 神谷浩史

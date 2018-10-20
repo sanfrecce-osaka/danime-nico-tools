@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/35/1/20351_1_6.png?1
 outline: 可愛くて切なくて、ちょっぴり“死”が身近なマジカル・スラップスティック・コメディ。学校一のスケベ男として女子から総スカンを食らってる柴木のもとに送られてきた魔法のチケット。それは、魔女から修業魔に格下げされたるるもの人間界での修業のためのものだった。るるもの修業（と自分の欲望）のために魔法のチケットをじゃんじゃん使うと宣言した柴木だったが、実はチケットは彼の寿命そのものだったのである。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：渡辺航
+  name: キャラクターデザイン：岩倉和憲
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：岩倉和憲
+  name: 原作：渡辺航
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：マニュアル・オブ・エラーズ
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2014年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

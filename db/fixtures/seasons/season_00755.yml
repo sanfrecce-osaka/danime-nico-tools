@@ -9,10 +9,16 @@ outline: |-
   これまで語られることのなかった、前聖戦における天馬星座の聖闘士と冥王ハーデス、そして女神アテナの宿命のドラマが幕を開ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 下野紘
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 水樹奈々
@@ -21,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: 平野綾
   type: cast
 - !ruby/hash:TagHash
-  name: 小林沙苗
+  name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 三宅健太
+  name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
   name: 千葉繁

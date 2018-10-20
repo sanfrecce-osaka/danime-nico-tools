@@ -7,6 +7,12 @@ outline: 前作｢A KITE｣で肉親の復讐を果たした殺し屋の砂羽�
   去と運命の皮肉に翻弄されながらも決して絶望しないその強さと同 時にデリケートで繊細な彼女の心。その眼差しの先に見える未来 は!?少女・百南花が闇を撃つ!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
@@ -19,13 +25,13 @@ tags: !ruby/array:Hashie::Array
   name: 麦人
   type: cast
 - !ruby/hash:TagHash
+  name: 岡村明美
+  type: cast
+- !ruby/hash:TagHash
   name: 真堂圭
   type: cast
 - !ruby/hash:TagHash
   name: 乃村健次
-  type: cast
-- !ruby/hash:TagHash
-  name: 岡村明美
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤せつじ

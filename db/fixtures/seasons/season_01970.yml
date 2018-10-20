@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/34/9/22349_1_6.png?1
 outline: ごくごく普通の男子高校生・日ノ輪 泊は、ある日担任の先生に呼び出され、不思議な生き物「カネノギさん」の結婚相手に決まったと告げられる。戸惑いながらも婚姻届を出した二人だが、新婚生活は案外しあわせ一杯で…!?ふわふわもふもふ人外さん×男子高校生のあま～い新婚生活、スタート！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 新井里美
   type: cast
 - !ruby/hash:TagHash

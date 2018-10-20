@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/74/1/10741_1_6.png?1
 outline: 11歳の元気爆裂小学生・桜庭ちとせは、学校の隣の役場に勤めるお兄ちゃん・柏原宏志に激ラブ❤周囲の迷惑かえりみず、猛アタックの毎日！愛たい時が恋時間、いつだってちとせは止められません！！お友達の純情パパっ子みさきちゃんとクール&ダーク少女・雛子ちゃんに、恋のライバル(？)の担任・麻子先生も巻き込んで、今日もドキワク小学生ライフはアンストッパブル！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash

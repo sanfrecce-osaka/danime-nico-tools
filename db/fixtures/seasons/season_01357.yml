@@ -6,6 +6,9 @@ outline: "「まじめもいいけど、もう少し空気を読めってコト�
   — 言葉を編む」伝わらない言葉。伝えられない想い。これは、そんな不器用な人間達の物語である。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -51,10 +54,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：黒柳トシマサ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：雲田はるこ
+  name: 原作：三浦しをん
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：三浦しをん
+  name: 原作：雲田はるこ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：青山浩行

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/48/7/10487_1_6.png?1
 outline: ある時は釣りのチャンピオン、またある時は冒険家、頼りになるけどちょっとあわてんぼうのモンチッチくん。甘ったれでなき虫、だけどお兄ちゃんが大好きなかわいい妹モンチッチちゃん。そんなおませでやんちゃな双子のモンチッチが元気いっぱいかけまわる!毎日が冒険のちょっと不思議な物語。たくさんのお話が子供たちの胸に、わくわくする気持ち、夢見る心を届けます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 潘恵子
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/36/1/10361_1_6.png?1
 outline: 時は、群雄割拠の戦国時代―天下を狙うつわものたちが、全国各地で鬨を上げた。高まる乱世の機運。武将たちによって、開かれた戦端はたちまち全国を席巻し戦国の世の勢力図は、めまぐるしく塗り替えられていった。名だたる猛将達のあくなき戦いの中、天下は尾張の第六天魔王・織田信長が、手中に収めようとしていた。だが、北から蒼の装束に身を包んだ隻眼の若き武将が無数の騎馬軍団を従え、名乗りをあげた。その男は、奥州筆頭・独眼竜こと伊達政宗。狙うは信長の首、天下統一!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash

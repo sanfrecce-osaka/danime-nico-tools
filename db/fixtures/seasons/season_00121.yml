@@ -6,22 +6,31 @@ outline: 俺を含めた文芸部の五人は半年前、とてつもない能�
   異能戦争もない! 勇者も魔王もいやしないっ!だから俺たちはこの超級異能を、｢黒炎の龍にヒゲ生やせたーっ!!｣気軽に無駄遣いすることに決めた。｣だが異能バトルに憧れ続けた俺だけは、真なる戦いの刻が近づきつつあることを確信していた――神スキルとたわむれる何気ない日常。だが、それだけじゃ終わらない　新・異能バトル&ラブコメ、開幕!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 早見沙織
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 岡本信彦
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
   name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
-  name: 寺島拓篤
+  name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 名塚佳織
+  name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
   name: 種田梨沙
@@ -66,10 +75,10 @@ tags: !ruby/array:Hashie::Array
   name: 渡辺淳
   type: other
 - !ruby/hash:TagHash
-  name: GA文庫
+  name: サンジゲン
   type: other
 - !ruby/hash:TagHash
-  name: サンジゲン
+  name: GA文庫
   type: other
 - !ruby/hash:TagHash
   name: 大塚雅彦

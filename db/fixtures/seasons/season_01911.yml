@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/62/3/21623_1_6.png?1
 outline: 高校2年生の春、菜穂に届いた「手紙」。その差出人は、10年後の自分だった。初めはイタズラかと思ったが、書かれていることが次々と現実に起こり、「手紙」がこれから起こることを綴っていると知る。転校生の翔を好きになること。そして、17歳の冬に翔が亡くなってしまうこと。翔を失った<26歳の菜穂>の後悔と願いを知った<16歳の菜穂>ができることとは？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 衣川里佳
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：堤博明
+  name: キャラクターデザイン：結城信輝
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：結城信輝
+  name: 音楽：堤博明
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：テレコム・アニメーションフィルム

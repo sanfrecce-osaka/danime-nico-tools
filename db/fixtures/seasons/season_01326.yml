@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/52/8/11528_1_6.png?1
 outline: 15世紀末、地球から二億光年離れた惑星ギリシア。「最終兵器」として絶大な力を持つ皇女ティナは、自分をめぐる内乱を避け、転生装置を使って地球へと向かう。西暦2012年、ティナの生まれ変わりである孤児ヘルガは、南の小さな島でトーマと運命的な出会いをする。ヘルガを追うべフォールの子供たちとゲオルカ、デュマの目的とは。ヘルガとトーマが出会った意味とは。その謎が今解き明かされる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 大川透
   type: cast
 - !ruby/hash:TagHash
   name: 皆川純子

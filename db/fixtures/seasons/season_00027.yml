@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/13/8/20138_1_6.png?1
 outline: アクエリオンのかつての激戦から1万2千年後―― 次元ゲートを超えた｢異次元｣からのアブダクターが人間を拉致し、その襲来に人々はおびえて暮らしていた。これに対抗できるのは｢アクエリア｣と呼ばれる合体兵器のみ。構成する3機のベクターマシンに乗り込むのは、学園｢ネオ・ディーバ｣に集められた若きエレメント候補生たちである。だが学園の男女間は恋愛できないよう障壁で隔てられ、男女間の合体もかたく禁止されていた。ある日、エレメント能力を隠して孤独に生きてきた少年アマタは、少女ミコノと運命の出逢いをはたす。危機を目前にして彼女を抱いたままベクターマシンに乗りこんだアマタは、無意識に叫んだ!――永らく禁じられた、その言葉を・・・。その真の姿が明らかになったとき、敵味方のすべてが変わり始める。恋愛禁止、男女合体禁止の状況で、《終わりを抱いた神話》が、いまここに起動する!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 茅野愛衣
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
+  name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
@@ -47,6 +56,9 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：エイトビット
   type: staff
 - !ruby/hash:TagHash
+  name: 音楽：菅野よう子
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：山本裕介
   type: staff
 - !ruby/hash:TagHash
@@ -54,9 +66,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 原作：河森正治
-  type: staff
-- !ruby/hash:TagHash
-  name: 音楽：菅野よう子
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：横谷昌宏
@@ -68,7 +77,7 @@ tags: !ruby/array:Hashie::Array
   name: 監督：河森正治
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：大塚彩子
+  name: キャラクターデザイン：石田可奈
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

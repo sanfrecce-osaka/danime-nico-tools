@@ -5,19 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/39/3/20393_1_6.png?1
 outline: 今日から中学一年生。学校中、いや世界中の巨人を駆逐してやる！そんな夢と希望を胸に入学式の朝を迎えたエレンはさっそく寝坊してしまう。幼馴染のミカサに起こされ、遅刻ギリギリに家を飛び出すエレンは通学路を爆走するなか、サシャ、ジャン、コニーといった他の小学校出身者たちと出会う。「ここが進撃中学校か」エレンたちが見上げる先にはそびえ立つ巨大な壁と校門。ここをくぐれば入学式が待っている。しかし、エレンは知らなかった。この進撃中学校は人間と巨人が共に通う人巨共学の学校だということを！果たしてエレンは巨人を駆逐することができるのか？！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 下野紘
-  type: cast
-- !ruby/hash:TagHash
-  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 小林ゆう
@@ -44,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：橘麻美
   type: staff
 - !ruby/hash:TagHash
-  name: 製作：Production I.G
+  name: キャラクターデザイン：八尋裕子
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：八尋裕子
+  name: 製作：Production I.G
   type: staff
 - !ruby/hash:TagHash
   name: 原作：諫山創

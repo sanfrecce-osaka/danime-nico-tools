@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/2/10922_1_6.png?1
 outline: ある晩、メルモの母は突然の交通事故で亡くなってしまう。天国に召された彼女は、神様にひとつだけ願いを叶えてやると言われ、残された3人の子供たちを大人にして欲しいと頼む。これを受け入れた神様たちは、青赤2色のキャンディーが入ったビンを手渡す。子のキャンディーには、青を食べると10歳年を取り、赤を食べると10歳若返るふしぎな力が宿っていた…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash

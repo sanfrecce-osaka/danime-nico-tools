@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/24/0/11240_1_6.png?1
 outline: 劣等生の兄と、優等生の妹。魔法科高校での波乱の日々が始まる―。魔法。それが伝説や御伽噺の産物ではなく、現実の技術となってから一世紀が経とうとしていた。そして、春。今年も新入生の季節が訪れた。国立魔法大学付属第一高校―通称『魔法科高校』は、成績が優秀な『一科生』と、その一科生の補欠『二科生』で構成され、彼らはそれぞれ『花冠』(ブルーム)、『雑草』(ウィード)と呼ばれていた。そんな魔法科高校に、一組の血の繋がった兄妹が入学する。兄は、ある欠陥を抱える劣等生(ウィード)。妹は、全てが完全無欠な優等生(ブルーム)。どこか達観したような面持ちを見せる劣等生の兄と、彼に肉親以上の想いを寄せる優等生の妹。二人がこのエリート校の門をくぐったときから、平穏だった学びの園で、波乱の日々が幕開いた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -20,26 +29,41 @@ tags: !ruby/array:Hashie::Array
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
   name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
   name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
-  name: 中原麻衣
+  name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
-  name: 寺島拓篤
-  type: cast
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：岩崎琢
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小野学
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石田可奈
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：佐島勤
+  type: staff
 - !ruby/hash:TagHash
   name: 魔法科高校の劣等生シリーズ
   type: other
@@ -57,6 +81,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 最強ヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA アスキー・メディアワークス
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/3/10393_1_6.png?1
 outline: 墨谷高校野球部3年生の壮行試合から数ヶ月。異例の1年生新キャプテン・谷口率いる墨高は、倉橋・半田・鈴木という1年生新メンバーを加えて始動する。しかし、墨高ナインはなかなか一致団結することができず…。より個性的なメンバーを加えての谷口キャプテン編、ファン待望のシリーズ第2弾試合開始!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash

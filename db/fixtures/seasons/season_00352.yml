@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/49/5/11495_1_6.png?1
 outline: 原作は、岩明均(いわあきひとし)により1989年～1995年にかけて講談社｢アフタヌーン｣にて連載され、累計1200万部を誇る大人気コミック(アフタヌーンKC全10巻、完全版全8巻)。平凡な高校生である泉新一は、ある日突然地球に飛来してきた｢パラサイト｣の襲撃を受ける。間一髪で脳への寄生は免れるが、パラサイトは新一の右腕に寄生、同化してしまう。右手にちなんで｢ミギー｣と自ら名乗るパラサイトと人間の奇妙な共生生活が始まること―。周囲に真実を話すことができず悩んでいた新一だが、やがて新一とミギーは友情に近いものを感じるようになっていく。しかし、新一とミギーの前には他のパラサイトが現れ始め、次々に人を殺し、また人がパラサイトを殺す事態に発展。新一の同級生・里美にも危険が迫る。その中で、高校教師として目の前に現れたパラサイトの田宮良子らパラサイトたちにもそれぞれの価値観が生まれ始める。｢われわれはなぜ生まれてきたのか？｣地球を壊し続ける人間たちを淘汰するために生まれてきたというパラサイトたち。そのパラサイトを殺し、生き延びようとする人間たち。｢果たして生き残るべきはどちらなのか？｣それでも、地球を、そして愛する人を守らなければいけない。ゆらぐ価値観の中で、新一とミギーはパラサイトとの戦いに身を投じていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 沢城みゆき
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
   name: 吉野裕行
@@ -44,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2014年
+  name: 講談社
   type: other
 - !ruby/hash:TagHash
   name: 実写化・舞台化

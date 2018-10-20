@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/37/4/20374_1_6.png?1
 outline: 澪の持つ先代魔王の力を狙ってきたゾルギアを倒し、刃更たちはひと時の平穏を取り戻したかに見えた。澪や柚希たちと体育祭の準備で、慌ただしく日常生活を謳歌する刃更たちだったがある日、突如魔法で操られた人間たちに襲われて…。家族を守るため、強くなるため、ますます淫らに激しく主従契約を強める刃更たち。彼らの前に万理亜の姉、ルキアが現れたことから魔界を揺るがす戦いに巻き込まれることに……大切な家族を、守りきりたい。バトルとエロスも臨界突破！天地決壊のエクスタシーバトルアクション！魔界への扉が、ここに開くッ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
-  name: 津田健次郎
+  name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
-  name: 玄田哲章
+  name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
   name: 興津和幸
@@ -38,7 +47,7 @@ tags: !ruby/array:Hashie::Array
   name: 福原香織
   type: cast
 - !ruby/hash:TagHash
-  name: 山村響
+  name: 朝井彩加
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：高梨康治

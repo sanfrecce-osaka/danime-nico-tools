@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/09/2/21092_1_6.png?1
 outline: 玄野計は、ちょっと斜に構えていて無気力、女の子の事位しか考えていない16歳の高校生。ある日、地下鉄のホームで小学校時代の同級生・加藤勝が、線路に落ちた男を助けようとする現場に遭遇し、そのまま加藤とともに電車ではねられる。即死…と思われた二人は、瞬時にしてマンションの一室に移動する。そこには巨大な黒い球体と、玄野たちと同様に｢死んだはずの｣人間が集まっていた。｢ガンツ｣と呼ばれる球体は、玄野たちに武器を与え、宇宙人と戦うというミッションを課せるのだった。宇宙人の正体、この世界の謎、明らかにオーバーテクノロジーな武器、他の人間に姿が見えない事、消えた自分たちの死体……。そして、全てが謎の玉｢ガンツ｣とは……？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

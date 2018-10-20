@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/15/7/10157_1_6.png?1
 outline: 瑞穂坂学園の普通科に通う小日向雄真は、ある日、魔法科の天才少女・神坂春姫と出会った。その後、謎の魔法科校舎崩壊事件によって、春姫たち魔法科が雄真たち普通科のクラスに編入されることに…。それ以来、ただでさえ騒がしい雄真の毎日がエスカレートしていく…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash

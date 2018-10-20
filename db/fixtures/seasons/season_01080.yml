@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/53/1/21531_1_6.png?1
 outline: 小さい頃から妖怪を見ることができた少年・夏目貴志は、祖母レイコの遺産「友人帳」を受け継ぎ、自称用心棒のニャンコ先生と共に、そこに名を縛られた妖怪たちに名を返す日々を送る。妖と、そこに関わる人との触れ合いを通して、自分の進むべき道を模索し始めた夏目は、想いを共有できる友人たちにも助けられながら、大切な日々を守るすべを見つけていこうとする。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -38,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤栄次
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: 監督：大森貴弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大森貴弘
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: 原作：緑川ゆき

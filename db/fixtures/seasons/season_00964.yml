@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/59/8/20598_1_6.png?1
 outline: アメリカ旅行中のタケル、ヒカリそしてミミ。ヒカリはニューヨークの街で、突然デジモンの悲しい叫び声を聞く。そして、一陣の風が吹き過ぎた時、ミミの姿が消えていた…。それに続くかのように、日本にいた太一、さらにはヤマトも姿を消す。一方、ニューヨークの街には、謎の巨大デジモンが姿を現し、暴れ始める。その場にいた青い瞳の少年・ウォレスがそのすべての謎のカギを握っていた。ウォレスとグミモンを追って、アメリカを舞台に、大輔たちのひと夏の冒険が始まる！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 野田順子
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 遠近孝一
   type: cast
 - !ruby/hash:TagHash
-  name: 木内レイコ
+  name: 徳光由禾
   type: cast
 - !ruby/hash:TagHash
-  name: 徳光由禾
+  name: 木内レイコ
   type: cast
 - !ruby/hash:TagHash
   name: 浦和めぐみ
@@ -48,6 +54,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2000年

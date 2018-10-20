@@ -6,6 +6,12 @@ outline: マシンロボ達が平和に暮らしていたクロノス星。し�
   しかし、ハイリビードの鍵を握っていると思われたクロノス族の族長、キライ・ストールはギャンドラーとの戦いで命を落としてしまった。キライの息子にして天空宙心拳の伝承者、ロム・ストールは父の仇を討つ旅に出る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: キャラクターデザイン：羽原信義
   type: staff
 - !ruby/hash:TagHash

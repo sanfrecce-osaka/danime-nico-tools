@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/49/4/11494_1_6.png?1
 outline: 時は明治十一年。急速な欧米化に伴い、政府に不満を持つ人々が増え、監獄は囚人で埋まり、脱獄も後を絶たなかった。そこで政府は、滋賀県琵琶湖に重犯罪者専用の檻、日本最大・脱出不可能な湖の監獄、獄門処を設ける。その監獄への橋渡し人を請け負う曇家の三兄弟が織り成す大冒険活劇の幕が上がる……！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -17,25 +23,25 @@ tags: !ruby/array:Hashie::Array
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 大原さやか
-  type: cast
-- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 代永翼

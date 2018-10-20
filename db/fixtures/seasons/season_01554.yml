@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/49/2/10492_1_6.png?1
 outline: 2Dアニメで制作された｢魔法遊戯｣シリーズの作品。謎の空間｢魔女っ娘ランド｣。この世界の少女たちは､憧れの地｢地球｣に行く資格を得るためにハナマル争奪をかけたマジカルバトルを繰り広げている。田舎町出身のパドドゥは､偶然にも友だち(?)になったピピンとミュミュとハナマル集めの冒険の旅を続けていく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 立木文彦
   type: cast
 - !ruby/hash:TagHash

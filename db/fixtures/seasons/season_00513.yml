@@ -7,6 +7,9 @@ outline: |-
   かわいくて面白い、まんが家寮生活が始まります
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash

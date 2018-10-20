@@ -7,6 +7,12 @@ outline: 平凡な小学生、須羽ミツ夫は、バード星からやって�
   厳しいバードマンだって、実はあたたかく見守ってくれているんだよ。 時にはズッコケ、時には悩みながら、友情と正義の心で困難に立ち向かう等身大のヒーローを描いた、藤子・F・不二雄原作の国民的名作アニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash

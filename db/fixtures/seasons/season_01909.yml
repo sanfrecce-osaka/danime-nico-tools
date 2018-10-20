@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/2/10412_1_6.png?1
 outline: 世界を壊滅状態に追い込んだ非核大戦が集結した。伝説の女性戦士デュナン・ナッツは町を彷徨(さまよ)いながら、かつての恋人ブリアレオスを想っていた。そこへ突如、ヘリが現れ美しい女性ヒトミが降りて来た……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：荒牧伸志
   type: staff
 - !ruby/hash:TagHash

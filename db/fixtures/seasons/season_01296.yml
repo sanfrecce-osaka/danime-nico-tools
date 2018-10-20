@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/99/6/10996_1_6.png?1
 outline: "…そう遠くない未来。夢のエネルギー炉｢示現エンジン｣の誕生によって、エネルギー問題は解決し平和な世界が訪れた。そのエンジンは科学技術の集結した人工島｢ブルーアイランド｣に建っている。その傍にある伊豆大島に発明家の祖父や妹と一緒に住む天真爛漫な少女・一色あかね。彼女は毎朝新聞配達をして家計を支えており、貧乏でありながらも家族と楽しい生活を送っていた。だが、そんな生活が一気に崩れだす。示現エンジンを狙う謎の敵・アローンが出現したのだ！ブルーアイランドのみならず、大島もアローンの攻撃で大打撃を受ける。突如危機に陥った世界。その時、あかねは祖父が発明したパレットスーツを身にまとい、友人と力を合わせてアローンに立ち向かう！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
@@ -56,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: 塩澤良憲
   type: other
 - !ruby/hash:TagHash
-  name: 中島和子
+  name: 三嶋章紀
   type: other
 - !ruby/hash:TagHash
-  name: 三嶋章紀
+  name: 中島和子
   type: other
 - !ruby/hash:TagHash
   name: 渡辺三千恵

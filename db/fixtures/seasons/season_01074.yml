@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/84/9/10849_1_6.png?1
 outline: 小さい頃から妖怪を見ることができた少年・夏目貴志。彼は、祖母レイコが妖怪を子分とする証にその名を書かせた「友人帳」を継いで以来、妖怪達に追われる日々。自称用心棒の妖怪・ニャンコ先生と共に、妖怪達にその名を返すことを決めた夏目は、さまざまな妖怪と出会い、その心を知っていくのだった。妖との出会いや別れ、そして、心優しい人達の想い―――。夏目はいつしかたくさんの大切なものを手にしていた…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ブレインズ・ベース
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: 監督：大森貴弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大森貴弘
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: 原作：緑川ゆき

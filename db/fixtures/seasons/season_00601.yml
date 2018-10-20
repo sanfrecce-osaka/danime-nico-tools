@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/51/6/21516_1_6.png?1
 outline: 妖精兵器と呼ばれる少女たちと生き残った準勇者との儚くそして切ない物語。地上を正体不明の怪物である〈獣〉たちに蹂躙され、人間を含む多くの種族が滅ぼされた後の世界。かろうじて生き残った種族は地上を離れ、浮遊大陸群（レグル・エレ）と呼ばれる空飛ぶ群島の上に暮らしていた。５００年後の空の上で目覚めたヴィレム・クメシュは、守りたかったものを守れず、それどころか自分一人だけが生き残ってしまった絶望から世捨て人のような生活を送っていたが、思いもよらず始めた兵器管理の仕事の中で、ある少女たちと出会う。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 佐藤利奈
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤聡美
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
-  name: 小杉十郎太
+  name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash
-  name: 水瀬いのり
+  name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
   name: 久保ユリカ

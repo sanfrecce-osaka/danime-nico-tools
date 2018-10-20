@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/30/4/11304_1_6.png?1
 outline: 日本を代表するサッカー選手長友佑都がアニメキャラクター”ゆうとくん”になって登場！ゆうとくんは何事にも常に一生懸命！そんなゆうとくんが身近で巻き起こる様々な出来事に全力でぶつかっていきます。けれども、いつも全力がゆえに失敗もたくさん・・・ちょっぴり笑えて、ちょっぴりほっこり。元気がもらえるポジティブJAPAN代表、ゆうとくんの物語！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 竹内順子
   type: cast
 - !ruby/hash:TagHash

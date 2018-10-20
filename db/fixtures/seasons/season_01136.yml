@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/99/7/10997_1_6.png?1
 outline: 修学旅行で北海道へ行くことになった裕人たち。なぜか美夏や葉月、那波たちまで一緒になって行動プランを練り上げて、準備は万端。しかも旅行中、裕人は春香と自由行動時間に上手く二人だけになることが出来た。そこで春香の行きたいスポットを一緒に巡って、ちょっとしたデート気分でいいムード♪　一方椎菜は、裕人へ自分の想いを伝えようと心に決めて旅行に来ていた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 植田佳奈
@@ -50,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2012年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2012年
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: しゃあ

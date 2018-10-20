@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/5/20415_1_6.png?1
 outline: 蜂の怪異が去り、不死鳥の怪異は難を逃れた夏休みが終わり――新学期をむかえた阿良々木暦と少女たちのまわりには、ふたたび怪異、あるいは、それ以上の脅威が忍び寄っていた。羽川翼、八九寺真宵、神原駿河、千石撫子、忍野忍、そして戦場ヶ原ひたぎ。彼女たちの独白と告白――　そして別れ。新たな6つの<物語>が、いま始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里
@@ -53,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：西尾維新
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：VOFAN
+  name: 監督：板村智幸
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：板村智幸
+  name: 原作：VOFAN
   type: staff
 - !ruby/hash:TagHash
   name: 物語シリーズ

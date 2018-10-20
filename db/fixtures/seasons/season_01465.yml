@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/96/0/21960_1_6.png?1
 outline: これは地獄のお話。戦後の人口爆発、悪霊の凶暴化、地獄に亡者があふれかえった今日、人手不足に喘ぐ地獄は前代未聞の混乱を極めていた。そんな中、あたふたする閻魔大王に代わって、さまざまな問題の後始末をする陰の傑物が。彼の名は閻魔大王の第一補佐官・鬼灯。亡者から仕事をサボる閻魔大王まで容赦なく呵責する鬼灯の、忙しくも案外楽しげな地獄の毎日が今ここに登場！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 遊佐浩二
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤聡美
+  name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 小山力也
+  name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
   name: 上坂すみれ
@@ -59,7 +68,7 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2017年
+  name: 製作年：2015年
   type: other
 - !ruby/hash:TagHash
   name: 講談社

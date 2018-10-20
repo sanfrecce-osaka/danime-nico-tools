@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/36/4/20364_1_6.png?1
 outline: 強大な魔法で人々を恐怖に陥れた「魔女」たちと、人類の間で繰り広げられた「魔女狩り戦争」が終結してから150年。残存する魔導の脅威を取り締まる「異端審問官」の育成機関「対魔導学園」では、今日も若き志願者たちが訓練に励んでいた。剣では誰にも負けない腕前を持つ草薙タケルもまた、対魔導学園に通う生徒のひとり。しかし武力の頂点は、剣から魔法、そして銃へと移り、彼が振るう“剣”はすでに時代遅れのものとなっていた。絶望的に銃の才能に欠けるタケルが隊長を務める「35試験小隊」、通称「雑魚小隊」は、彼を含め、劣等生たちの寄せ集め部隊。そんな小隊にある日、元異端審問官である夕焼け色の髪を持つ少女・鳳桜花が入隊することに。魔女に対し異常なほどの憎しみを抱えた彼女との出会いを機に、35小隊の運命の歯車は大きく回り始める……。「あなたは目的のためならば大切なものを捨てられますか？」突きつけられる“瑠璃色”の問い。魔女、死霊術師、錬金術師、魔導遺産……、世界を巻き込む様々な脅威に立ち向かっていく“最弱”の雑魚小隊。それぞれに“秘密”を背負い出会った問題児たちの歩む道とは…！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 遊佐浩二
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 白石涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 白石涼子
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 大久保瑠美

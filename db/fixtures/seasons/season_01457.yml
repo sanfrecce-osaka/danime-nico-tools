@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/19/0/20190_1_6.png?1
 outline: 父親を失ったペリーヌは、お母さんと愛犬バロンとともに北フランス・マロクールで織物工場を経営するお金持ちのおじいさんの元に身を寄せようと旅をします。旅の途中、お母さんが亡くなるなどのつらい目に遭いながらも、マロクールに到着します。けれどおじいさんはペリーヌのお父さんが、インド人であるお母さんと勝手に結婚したことを許さず勘当していました。そこでペリーヌはオーレリィと名前を偽り、おじいさんの工場で働くことにします。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 鶴ひろみ
   type: cast
 - !ruby/hash:TagHash
@@ -47,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 中島順三
   type: other
 - !ruby/hash:TagHash
-  name: 松土隆二
+  name: 製作年：1978年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1978年
+  name: 松土隆二
   type: other
 - !ruby/hash:TagHash
   name: 井岡雅宏

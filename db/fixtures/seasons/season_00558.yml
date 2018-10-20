@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/28/8/20288_1_6.png?1
 outline: 生まれたばかりの小さな小さなウミガメのサミー。海をめざしてヨチヨチと歩きだすとそこへ空飛ぶ腹ぺこカモメの集団がやってきた！砂浜で出会った美少女カメのシェリーと助け合いふたりはどうにかピンチを脱したものの、シェリーは波にさらわれふたりは離ればなれに…。しかし、悲しんでばかりはいられない！シェリーとの再会を夢見て大海原へ旅に出るサミー。今、７つの海を渡り歩く壮大な冒険の旅がはじまる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash

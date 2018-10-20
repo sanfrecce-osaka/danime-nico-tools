@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/55/4/20554_1_6.png?1
 outline: 落下した彗星によってもたらされる運命の子を探すために、長い歴史をもつ霊剣派一族は門下の入門試験を再開することにした。天からの申し子である王陸は、千年に一人と言われる「空霊根」を持って、霊剣派の入門試験に挑み、異例の仙人への道を歩みはじめた！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 代永翼
   type: cast
 - !ruby/hash:TagHash
-  name: 中村繪里子
+  name: 松田健一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 松田健一郎
+  name: 中村繪里子
   type: cast
 - !ruby/hash:TagHash
   name: 西田雅一
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 山口由里子
   type: cast
 - !ruby/hash:TagHash
-  name: 江口菜子
+  name: 小林大紀
   type: cast
 - !ruby/hash:TagHash
-  name: 小林大紀
+  name: 江口菜子
   type: cast
 - !ruby/hash:TagHash
   name: 伊東健人

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/9/22109_1_6.png?1
 outline: これは、ケータが活躍した世界から、30年後の物語―ケータの息子・ケースケは、幽霊やUFO、ましてや妖怪の類は信じないタイプ。しかし、ひょんなことから姉のナツメ、トウマ、アキノリが結成した「妖怪探偵団」と共に、世にも不思議な怪奇事件へ巻き込まれることに…街の至る所で起きる不可思議現象は、今も昔も妖怪の仕業だった！？新たに“シャドウサイド”と“ライトサイド”の姿を手に入れた妖怪たちが、妖怪探偵団の前に立ちふさがる！そして、忍び寄る怪しい影の正体とは…妖怪ウォッチ新章、ここに開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash

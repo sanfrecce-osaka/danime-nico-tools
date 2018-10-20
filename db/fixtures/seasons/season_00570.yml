@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/97/1/20971_1_6.png?1
 outline: 高校1年生の城田真昼(しろたまひる)は、道端で一匹の黒猫を拾いクロと名付ける。ところが、その猫は、サーヴァンプという、契約した人間の言うことを聞く“SERVANT(下僕)”の“VAMPIRE(吸血鬼)”だった！契約によってクロの主人となってしまった真昼は、吸血鬼同士の争いに巻き込まれ戦うことになるのだが…？吸血鬼×主従契約・現代バトルファンタジー！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 梶裕貴
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 木村良平
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
   type: cast
 - !ruby/hash:TagHash
   name: 津田健次郎

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/10/6/10106_1_6.png?1
 outline: 大人気ライトノベル原作｢灼眼のシャナ｣。TVシリーズも大ヒットし、劇場版も制作された今作が再始動。OVAシリーズでは本編では描かれなかったエピソードを収録。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林由美子
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
+  name: 江原正士
   type: cast
 - !ruby/hash:TagHash
-  name: 江原正士
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 近藤孝行

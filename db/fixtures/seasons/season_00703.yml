@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/1/21891_1_6.png?1
 outline: ストレイト・ジャケット―　それは、罪を負いし者の纏う“拘束衣”舞台は科学と魔法の同居する世界。魔法を使いすぎた人間は魔族化する危険と隣り合わせだった。ある日、魔族による連続テロ事件が発生する。正規の魔法士では対処しきれず、法の下に属さない謎の“戦術魔法士”レイオット・スタインバーグに依頼が来る。レイオットはその圧倒的な力で魔族を退治。だが、全ては彼の過去へと繋がる壮大な戦いの始まりにすぎなかった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：湯本佳典
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：難波日登志
-  type: staff
-- !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2007年

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/0/10920_1_6.png?1
 outline: 時は室町時代、戦国の世。父の野望の犠牲となり、魔神に身体の48箇所をもぎ取られて生まれた“百鬼丸”。呪われた運命の下、｢48の魔物を倒せ!｣という闇の声を聞いた彼は、天涯孤独な少年“どろろ”と共に、48匹の妖怪と次々に戦い、自分の身体を取り戻して行く…。(第14話よりタイトルを「どろろと百鬼丸」に改題)
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash

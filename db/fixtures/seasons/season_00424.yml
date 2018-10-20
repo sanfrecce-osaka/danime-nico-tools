@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/4/10024_1_6.png?1
 outline: 西暦1920年代のアメリカ・ニューヨーク。悪魔退治を専門に扱うマグダラ修道会に所属する16歳のシスターロゼットと、その助手クロノは｢悪魔祓い｣と呼ばれるプロフェッショナル。合衆国の外からいろいろなモノに取り憑いて侵入しようとする悪魔を阻止すべく、今日もロゼットとクロノは数々の冒険を繰り広げる!。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -17,19 +26,19 @@ tags: !ruby/array:Hashie::Array
   name: 桑谷夏子
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
-  type: cast
-- !ruby/hash:TagHash
   name: 根谷美智子
   type: cast
 - !ruby/hash:TagHash
   name: 皆川純子
   type: cast
 - !ruby/hash:TagHash
-  name: 榊原良子
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：GONZO

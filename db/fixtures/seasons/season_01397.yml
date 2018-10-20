@@ -6,6 +6,15 @@ outline: 新種の病原菌に侵された海堂祐司は、未来の治療に�
   祐司の『生きる』ための戦いが今、始まった!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
@@ -30,16 +39,16 @@ tags: !ruby/array:Hashie::Array
   name: 菅沼久義
   type: cast
 - !ruby/hash:TagHash
+  name: 堀勝之祐
+  type: cast
+- !ruby/hash:TagHash
   name: 伊藤栄次
   type: cast
 - !ruby/hash:TagHash
   name: 高瀬右光
   type: cast
 - !ruby/hash:TagHash
-  name: 堀勝之祐
-  type: cast
-- !ruby/hash:TagHash
-  name: 磯部弘
+  name: 堀之紀
   type: cast
 - !ruby/hash:TagHash
   name: 製作：AIC

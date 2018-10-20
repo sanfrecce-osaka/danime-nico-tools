@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/21/5/20215_1_6.png?1
 outline: "「旭丘分校」の生徒はたった5人。学年も性格も違うけれど、お花見をしたり、川で遊んだり、いもほりをしたり、かまくらを作ったり・・・いつも一緒に春夏秋冬の変わりゆく田舎生活を楽しんでいます。穏やかで何気ないけれど、笑えて、ほろっとして、心があたたかくなる。そんなゆるやかでやさしい時間が再びはじまります。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：水谷広実
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：あっと
+  name: 監督：川面真也
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：川面真也
+  name: 原作：あっと
   type: staff
 - !ruby/hash:TagHash
   name: のんのんびよりシリーズ

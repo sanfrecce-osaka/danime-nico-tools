@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/29/7/11297_1_6.png?1
 outline: "「俺とお前の差を教えてやるよ！」「七瀬遙」は、「水」にふれること――「泳ぐこと」が好きだった。小学生のころ、同じスイミングクラブに通っていた「七瀬遙」「橘真琴」「松岡凛」「葉月渚」彼らは、小学校卒業前の大会での優勝を最後に、違う道へと進んでいく。やがて時が経ち、高校生活を無為に過ごしていた遙の前に、突然、凛が現れる。遙に勝負を挑み、圧倒的な強さを見せる凛。このままでは終われない。そして、真琴と渚が再び集い、新たに「竜ヶ崎怜」を引き込んで、岩鳶高校水泳部を設立。遙、真琴、渚、怜、そして、凛。これは、躍動感あふれる男子高校生たちの、水泳と青春と絆の物語――"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash

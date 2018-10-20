@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/32/0/10320_1_6.png?1
 outline: 大陸を震撼させ、無数の犠牲を生んだ代理契約戦争から数十年……。独立交易都市ハウスマンの自衛騎士団に所属するセシリー・キャンベルは、あるときひとりの少年に窮地を救われる。少年の名はルーク・エインズワース。都市のはずれに工房を構える鍛冶屋だった。ルークの持つ、奇妙な剣--大剣をも断ち切ったその｢刀｣に魅せられ、セシリーは折れた愛剣の代わりとなる、新たな剣を打ってほしいとルークに頼み込む。彼との出会いが、聖剣をめぐる過酷な運命に己を巻き込んでいくとも知らずに……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/5/10395_1_6.png?1
 outline: 大華八法・六伽宗の総本山｢蓮通寺｣―その本堂奥深くには皇帝さえ知らぬ一振りの剣が眠っていた。一人の英傑がこの剣を握るとき、七つの星の宿業の灯がその輝きを放ち始める!民は、この天に選ばれし七人の英傑たちを称してこう呼んだ、二天神尊と五神闘士と―今まさに宿業の名のもと正義の拳が突きあがる!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

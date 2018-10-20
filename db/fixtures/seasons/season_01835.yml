@@ -6,6 +6,12 @@ outline: 憧れの名門女子高・青蘭学園に入学した御苑生奈々�
   薫)～そして、選ばれた者のみが入会を許される青蘭ソロリティーと呼ばれる華やかな社交クラブ。思いがけずソロリティーメンバーに選ばれた奈々子は、周囲からの嫉妬と羨望の中で、愛、憎しみ、友情、対立、複雑な人間関係…様々な運命に巻き込まれていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash

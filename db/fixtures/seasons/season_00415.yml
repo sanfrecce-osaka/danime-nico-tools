@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/3/11473_1_6.png?1
 outline: 荒岩家の台所を仕切る荒岩一味（あらいわかずみ）は、金丸産業に勤め上司・部下からも信頼されるサラリーマン。妻・虹子、長男・まこと、そして後に誕生する長女・みゆきを交えた家族4人を中心に、サラリーマンとして、父として、そして夫として、それぞれの立場で出会った人々が一味の持つプロ顔負けの料理を食べ心を通わせてゆく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash

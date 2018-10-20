@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/04/9/20049_1_6.png?1
 outline: 清く正しい学園生活を受け継いでいく為、高等部には『姉妹（スール）』と呼ばれるシステムが存在している。高等部に進学した福沢祐巳が、当時「紅薔薇のつぼみ」として学園中のアイドルだった二年生の小笠原祥子と姉妹（スール）になってから一年が経とうとしていた。祥子との関係は確固たるものとなりつつあるが、祐巳にはまだ妹ができていない。山百合会の手伝いをしてくれている一年生の松平瞳子や細川可南子が気になってはいるけれど…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 斎藤千和
@@ -38,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 植田佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
+  name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン
@@ -56,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 妹
+  name: 製作年：2009年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2009年
+  name: 妹
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

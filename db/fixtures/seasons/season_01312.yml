@@ -6,6 +6,12 @@ outline: 脱力系スローライフアニメ｢Peeping Life(ピーピング・�
   そこに愛はあるはず…。とびきりゆるいお笑いと、はな歌まじりの感動をお届けいたします。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: サノシュンスケ
   type: cast
 - !ruby/hash:TagHash

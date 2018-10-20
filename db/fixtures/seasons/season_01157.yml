@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/67/2/21672_1_6.png?1
 outline: 黄泉（こうせん）学園に通う女子高生、一条みずきが学園でおこるさまざまな心霊・怪奇現象に巻き込まれていく…。※当時の時代背景、作品のオリジナル性を尊重し、放送当時のオリジナルのまま収録いたしました。収録されている映像・音声は、製作時より長い年月を経ているため、一部お見苦しい箇所・お聞き苦しい箇所のある可能性がございます。あらかじめご了承いただけますよう、お願い申し上げます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash

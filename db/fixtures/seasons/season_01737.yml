@@ -5,10 +5,46 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/23/9/11239_1_6.png?1
 outline: 父親に勘当され、家を追い出されて七重島にやってきた高校生『八真重護』は、一人暮らしを始めた部屋で地縛霊『龍ヶ嬢七々々』と出会う。重護は、10年前に何者かに殺害された七々々を成仏させるため、犯人捜しを決心する。かつて七々々が世界各地で収集し、今では島のあちこちの《遺跡》に隠されている『七々々コレクション』。この不思議な力を持つお宝を使えば、七々々を殺した犯人を見つけることができる。重護は七々々コレクションを手に入れるため、冒険部に入部する。しかし、七々々コレクションを狙って、ひとくせもふたくせもあるプレーヤーの思惑が渦巻いていた・・・。騙し騙されのお宝争奪戦が、今、始まる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 興津和幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木絵理
+  type: cast
+- !ruby/hash:TagHash
+  name: 田辺留依
+  type: cast
+- !ruby/hash:TagHash
+  name: 早志勇紀
+  type: cast
+- !ruby/hash:TagHash
   name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 製作：A-1 Pictures
+  name: 監督：亀井幹太
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：帆足圭吾
@@ -20,10 +56,19 @@ tags: !ruby/array:Hashie::Array
   name: 原作：鳳乃一真
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：赤りんご
+  type: staff
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: ノイタミナ
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：スフィア
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：私立恵比寿中学
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

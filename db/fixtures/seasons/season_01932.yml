@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/6/20416_1_6.png?1
 outline: 貝木泥舟の暗躍で、千石撫子の一件が解決した２月。受験勉強に追い込みをかける阿良々木暦の体には“見過ごすことのできない”変化が現れ始めていた。これまでの報いとも言える、その変化とは！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash

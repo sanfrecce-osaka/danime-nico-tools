@@ -6,6 +6,9 @@ outline: "『ピリオド』とは、絶望から生まれた異形の怪物『�
   謎の盗難事件により財政破綻し、本部からも見捨てられた第8支部に残ったピリオドは、なんとハル達3人のみ。彼らは支部再建のため、果てなき闇営業へと身を投じるのだった!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash

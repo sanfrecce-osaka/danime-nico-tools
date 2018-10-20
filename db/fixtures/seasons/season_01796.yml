@@ -5,31 +5,40 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/09/3/20093_1_6.png?1
 outline: 高校生の天海響は霊感体質の女の子。人と霊を分け隔てなく接する彼女のまわりには、いつだって霊たちがいっぱい。天海がそこにいるだけで、退屈な学園も一躍お化け屋敷状態？でも、人間だって負けちゃいない。天海を取り巻く仲間たちも一癖も二癖もある愉快な面々ばかり。そんな人と霊とに囲まれて右往左往したりもするけれど、天海にとっては全てがかけがえのない大切なもの。これは、どこにでもいるような女の子と。どこにでもいる霊たちと。それを取り巻く優しい人たちの。楽しくて、あったかくて、すこしだけ切ない、つながりの物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 羽多野渉
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 松井恵理子
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
   name: 木戸衣吹
   type: cast
 - !ruby/hash:TagHash
+  name: 松井恵理子
+  type: cast
+- !ruby/hash:TagHash
   name: 皆口裕子
+  type: cast
+- !ruby/hash:TagHash
+  name: 山谷祥生
   type: cast
 - !ruby/hash:TagHash
   name: 川原慶久
   type: cast
 - !ruby/hash:TagHash
   name: くじら
-  type: cast
-- !ruby/hash:TagHash
-  name: 山谷祥生
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤美来

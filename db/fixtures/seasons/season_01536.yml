@@ -6,22 +6,25 @@ outline: レース会場で驚異的な走りを見せるスーパーマシン�
   Racer』のタイトルで放送され、今なお根強い人気を博している。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 富山敬
-  type: cast
+  name: スポーツ/競技
+  type: genre
 - !ruby/hash:TagHash
-  name: 内海賢二
+  name: 富山敬
   type: cast
 - !ruby/hash:TagHash
   name: 森功至
   type: cast
 - !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
   name: 堀絢子
   type: cast
 - !ruby/hash:TagHash
-  name: 来宮良子
+  name: 愛川欽也
   type: cast
 - !ruby/hash:TagHash
-  name: 愛川欽也
+  name: 来宮良子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：タツノコプロ

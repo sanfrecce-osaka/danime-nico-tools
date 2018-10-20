@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/21/1/10211_1_6.png?1
 outline: 一見、普通の高校生の夏目智春。人と違うところは、幼なじみの少女である水無神操緒が幽霊としてとり憑いていること。引っ越した初日に見知らぬ美女が訪れ、智春は彼の兄から託されたという銀色のトランクを渡される。智春が手にしたこのトランクこそ、彼が世界の隠された真実と向かい合うきっかけとなるのだった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash

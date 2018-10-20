@@ -8,6 +8,12 @@ outline: 週刊少年チャンピオン（秋田書店）で連載中、渡辺�
   LINE”を最初に駆け抜けるのは、果たして誰なのか―！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

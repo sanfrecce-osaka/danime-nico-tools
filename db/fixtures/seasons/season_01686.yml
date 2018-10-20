@@ -5,25 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/65/1/21651_1_6.png?1
 outline: 進学率・就職率１００％と言われる進学校・東京都高度育成高等学校に入学した綾小路清隆。しかし彼が所属する１年Ｄクラスは、進学校とは思えないような問題児ばかりだった。さらに学校は、生徒に現金と同価値のポイントを月１０万円分も与え、授業に関しては私語・居眠り・サボタージュをも黙認する放任主義。自堕落な生活を送る生徒たちだったが、違和感を抱く者もいた——他人との交流を徹底的に避け、孤独を貫く美少女・堀北鈴音だ。彼女は、生徒に大金が与えられているはずなのに、校内に『お金を持たない者への救済』が多く用意されていることに気づく。やがて１ヶ月後、綾小路、堀北、Ｄクラスの面々は学校のシステムの真実を知る……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
+  name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 日野聡
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
   name: 金元寿子

@@ -6,19 +6,28 @@ outline: 突如、現れた異形の寄生生物「ガストレア」。赤く�
   延珠と共に、東京を壊滅に追い込まんとする、危険なたくらみに巻き込まれていく――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 豊崎愛生
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
   name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也
@@ -27,10 +36,10 @@ tags: !ruby/array:Hashie::Array
   name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 潘めぐみ
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 日高里菜
+  name: 潘めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 大木民夫

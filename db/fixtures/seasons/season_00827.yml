@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/56/6/10566_1_6.png?1
 outline: 資金難に苦しみながら、つつましく世界征服をたくらむベンチャー秘密結社 鷹の爪。ある日、大家さんからのきびしい家賃の取り立てから逃れようと、レオナルド博士の作ったマシンで夜逃げを試みたものの、なんと勢いあまって、宇宙空間にまで飛び出してしまった……!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：FROGMAN
   type: staff
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2007年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2007年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

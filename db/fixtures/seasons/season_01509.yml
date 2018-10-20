@@ -14,16 +14,25 @@ outline: |-
   人間界と魔界、二つの世界を変えるべく手を組んだ二人の挑戦が、いま始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
-  name: 梶裕貴
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
   name: 斎藤千和
@@ -35,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木達央

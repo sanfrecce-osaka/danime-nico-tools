@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/21/6/10216_1_6.png?1
 outline: 親の都合で香川県に引っ越してきた主人公の八朔洋平は、転校先の琴平学園で軽音部に入部する。学園祭でのライブは成功したが、その後に事件が起こる。軽音部の部長である澤崎純が部を辞めようとしているのだ。純の退部を止めるため、片桐美香を中心とした軽音部の面々が動き出す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：元永慶太郎
   type: staff
 - !ruby/hash:TagHash

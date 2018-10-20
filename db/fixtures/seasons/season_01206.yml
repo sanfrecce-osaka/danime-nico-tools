@@ -6,6 +6,12 @@ outline: くじら島で暮らす少年・ゴンの夢は、幼い頃に別れ�
   ゴンの奇想天外、壮大苛烈な冒険の旅が、今始まる！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

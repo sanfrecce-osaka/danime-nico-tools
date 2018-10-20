@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/3/10923_1_6.png?1
 outline: 無数の銀河生命体を従え、宇宙の帝王を自称する邪神ゴア。彼は太古の昔、そのゴアと対をなす聖なる力マグマによって封印された。そして、悠久の時を経た現在、繁栄する日本の陰で謎のエイリアン群が暗躍、それは現代へのゴア復活の予兆を告げていた。そんな中、地球規模の大事件へと運命的に巻き込まれていく新聞記者・村上厚とその妻・友子、そして息子のマモル。彼ら一家の前に、今、黄金の巨神マグマが復活した。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -26,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 菊池正美
   type: cast
 - !ruby/hash:TagHash
-  name: 深見梨加
+  name: 宮内幸平
   type: cast
 - !ruby/hash:TagHash
   name: 大平透
   type: cast
 - !ruby/hash:TagHash
-  name: 宮内幸平
+  name: 深見梨加
   type: cast
 - !ruby/hash:TagHash
   name: 金尾哲夫

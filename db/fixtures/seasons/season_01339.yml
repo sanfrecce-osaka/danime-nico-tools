@@ -6,6 +6,15 @@ outline: これは始まり(ゼロ)に至る物語―――奇跡を叶える『
   night』では断片的に語られるのみだった、10年前に起こった「第四次聖杯戦争」の真実。士郎の養父が、凛の父が、そして若き日の言峰綺礼が繰り広げた戦いの真相が、いま明らかになる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -48,10 +57,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ufotable
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：TYPE-MOON
+  name: 監督：あおきえい
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：あおきえい
+  name: 原作：TYPE-MOON
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：碇谷敦

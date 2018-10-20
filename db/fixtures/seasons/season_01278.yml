@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/45/8/10458_1_6.png?1
 outline: 熊鷹芸術学院新入生“麻井麦”は緊張すると声が出なくなるほどの極度のあがり症。そんな彼女がどうしたわけか演劇研究会にスカウトされてしまった!?クールで自信家の“一ノ瀬野乃”、行動力旺盛な“西田理咲”など個性的な先輩に励まされ、この世で一番向いてないはずの｢舞台に立つ｣という人生最大の試練に向けて恐怖の日々が始まった!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 氷上恭子
   type: cast
 - !ruby/hash:TagHash
-  name: 樹元オリエ
+  name: 宮川美保
   type: cast
 - !ruby/hash:TagHash
-  name: 宮川美保
+  name: 樹元オリエ
   type: cast
 - !ruby/hash:TagHash
   name: やぶさきえみ

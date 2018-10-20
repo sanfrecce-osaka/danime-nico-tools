@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/11/3/21113_1_6.png?1
 outline: 立ち入り禁止の蔵に入ったことから本宅を追い出され、離れに住むように命じられた｢奇異太郎｣。そこで座敷童子の｢すず｣と出会い、同棲生活？がスタート。妖狐、雪女、雪娘など、離れには様々な怪異がやってくる。奇異太郎とすずを、時には笑わせ、時には困らせ、時には絆を深める手伝いを。怖くない怪異たちとの日常が、今はじまる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/25/2/22252_1_6.png?1
 outline: "『PINE RECORDS（パインレコード）』（通称：パイレコ）に所属している千歳ハル、熊谷絵里、竜王更紗、迎桐、迎羽織、箕作沙々芽、西尾未来、雪野日陽、具志堅シュープ、金時琴子、諸岡ろろの１１人は『音楽少女』という名前のアイドルグループのメンバー。しかし『音楽少女』は全く売れていないC級アイドル。鳴かず飛ばず＆赤字を生み出すだけの『音楽少女』だが、プロデューサー池橋とメンバーは必死に頑張っていた。『音楽少女』には新メンバーが必要だと考える池橋。成功をつかむための起爆剤となるようなアイドルが！ということで、オーディションに明け暮れていた。そんなある日、『音楽少女』と主人公・はなこが出会って・・・"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 平川大輔
-  type: cast
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 小倉唯
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 深川芹亜
   type: cast
 - !ruby/hash:TagHash
-  name: 島袋美由利
+  name: 大野柚布子
   type: cast
 - !ruby/hash:TagHash
-  name: 江口菜子
+  name: 島袋美由利
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン

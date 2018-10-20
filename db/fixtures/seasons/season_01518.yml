@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/32/6/21326_1_6.png?1
 outline: 復讐するために、俺はこの町に帰ってきた！8年前、美少女・安達垣愛姫にこっぴどくフラれたデブで冴えなかった少年・真壁政宗は、激ヤセし名字を変え、イケメンに変身して帰って来た。そう、すべては残虐姫の異名を持つドSな彼女を惚れさせ、最高の形で振るという、復讐のために――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +17,16 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
   name: 伊瀬茉莉也
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 小倉唯
   type: cast
 - !ruby/hash:TagHash
-  name: 小倉唯
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 水瀬いのり

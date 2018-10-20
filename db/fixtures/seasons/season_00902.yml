@@ -6,6 +6,12 @@ outline: ダンクーガは,ガンドールが放ったガンドール砲のエ�
   ムゲ帝王によって地獄のような"赤い宇宙"に飛ばされたダンクーガは,そこに現れたデスガイヤー将軍と戦いを繰り広げる。果たして,その戦いの決着は? そして,忍たちはムゲ帝王を倒せるのか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +21,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
-  name: 矢尾一樹
+  name: 池田勝
   type: cast
 - !ruby/hash:TagHash
-  name: 池田勝
+  name: 矢尾一樹
   type: cast
 - !ruby/hash:TagHash
   name: 中原茂
@@ -66,13 +72,13 @@ tags: !ruby/array:Hashie::Array
   name: 新井寅雄
   type: other
 - !ruby/hash:TagHash
+  name: 製作年：1986年
+  type: other
+- !ruby/hash:TagHash
   name: 梅原勝
   type: other
 - !ruby/hash:TagHash
   name: 松浦典良
-  type: other
-- !ruby/hash:TagHash
-  name: 製作年：1986年
   type: other
 - !ruby/hash:TagHash
   name: 片岡義朗

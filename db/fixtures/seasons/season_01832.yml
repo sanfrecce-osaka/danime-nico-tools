@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/01/7/21017_1_6.png?1
 outline: サミット開催に向けた｢宇宙エレベータープロジェクト｣が急ピッチで進む、首都・東京。強化装甲＜ウィルウェア＞を使った犯罪に対処すべく創設された、警察庁警備局第五特別公安課第三機動強襲室第八係――通称＜ダイハチ＞は、ロゴスによるテロから日本を救ったことで、今や日本中の注目を集める存在となっていた。しかしウィルウェアを悪用した犯罪は、その後もエスカレートする一方……。新メンバーを迎えた黒騎たちダイハチの面々は、今日も知恵と勇気と口八丁、そして民間警察の協力を得て凶悪事件に挑む！決裁完了、出動せよ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -20,16 +26,16 @@ tags: !ruby/array:Hashie::Array
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 島﨑信長
-  type: cast
-- !ruby/hash:TagHash
   name: 速水奨
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
   name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 大川透
   type: cast
 - !ruby/hash:TagHash
   name: 新井里美
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：プロダクションアイムズ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：西田亜沙子
+  name: 監督：秋田谷典昭
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：秋田谷典昭
+  name: キャラクターデザイン：西田亜沙子
   type: staff
 - !ruby/hash:TagHash
   name: 監督：谷口悟朗

@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/6/10206_1_6.png?1
 outline: モモの住んでいるマリンナーサは海に沈んだまま。王家の血を引く者が地上へ行き,人々に夢と希望をもたらすことができれば沈んだままのマリンナーサは海の上に浮き上がらせることができるのです。そこで,王様は一人娘にミンキーモモと名乗らせ,お猿のチャーモ,犬のクックブック,小鳥のルピピの3匹のお供をつけて地上へと旅立たせたのです。でも,モモ自身は人々が夢を無くさないようにする事よりも,広い外の世界で遊びたくて地上にやってきたのでした。こうして夢の国のプリンセス,二代目ミンキーモモの大冒険の日々が始まるのです。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
   name: 林原めぐみ
   type: cast
 - !ruby/hash:TagHash
-  name: 緒方賢一
+  name: 小山茉美
   type: cast
 - !ruby/hash:TagHash
-  name: 小山茉美
+  name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
   name: 江原正士

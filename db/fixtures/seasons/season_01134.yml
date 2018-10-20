@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/00/4/10004_1_6.png?1
 outline: 五十嵐雄策原作の人気ラブコメディのTVアニメ。“容姿端麗”“才色兼備”、そんな完璧お嬢様の乃木坂春香には周囲にひた隠しにしている秘密があった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 久川綾

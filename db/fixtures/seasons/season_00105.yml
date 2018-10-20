@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/69/1/10691_1_6.png?1
 outline: 赤壁の戦いから僅かながら時は過ぎ、南陽学院には平穏な日々が訪れていた。孫策伯符のアルバイト先に、劉備玄徳たちが客として現れる。そしてなぜかドタバタと一触即発の危機に!?すると…｢孫子曰く!｣騒然とした場が一瞬にして静まり返り、凛として現れる一人の可憐な少女。彼女こそ孫策の妹、孫権仲謀であった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

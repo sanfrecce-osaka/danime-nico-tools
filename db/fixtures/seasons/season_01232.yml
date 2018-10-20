@@ -5,22 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/2/11142_1_6.png?1
 outline: 最強のウエイトレス・武内優香！何を求め戦い続けるのか！？格闘技大会『Ｖ．Ｇ．』にエントリーした美少女たち。栄光、名声、賞金、……勝者にはすべてが与えられ、敗者は尊厳までもすべて失ってしまう運命にある。しかし、彼女たちの内なるものが闘いへと誘うのだ。そのリングに待ち受けるのは、絶望か、希望か……。魂のゴングに拳が呼応する！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 根谷美智子
   type: cast
 - !ruby/hash:TagHash
-  name: 折笠愛
-  type: cast
-- !ruby/hash:TagHash
   name: 江原正士
   type: cast
 - !ruby/hash:TagHash
-  name: 今井由香
+  name: 折笠愛
   type: cast
 - !ruby/hash:TagHash
   name: 大谷育江
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
   type: cast
 - !ruby/hash:TagHash
   name: 岩男潤子

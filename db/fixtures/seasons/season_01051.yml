@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/08/6/11086_1_6.png?1
 outline: エルフ原作、あの｢同級生2｣シリーズが思わぬカタチで新装開店♪原作にこだわり、ディテルにこだわる。唯を中心に恋に焦がれる大学生と、恋にためらう女子大生が繰り広げる新たな恋のエチュード
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
@@ -62,7 +65,7 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1990年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1990年
+  name: 製作年：1996年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/16/8/11168_1_6.png?1
 outline: 高校3年のある日、階段から落ちてきた少女・戦場ヶ原ひたぎを助けた、阿良々木暦。その接触をきっかけに、戦場ヶ原の抱える秘密を知った阿良々木は、問題解決の為に協力を申し出る。実は彼も、戦場ヶ原同様、人に言えない大きな秘密を隠していたのだった―――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

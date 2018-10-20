@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/2/11322_1_6.png?1
 outline: AD202X年､国際的な犯罪都市と化したネオ・トーキョーを守るため､特殊犯罪対策チーム“WARRIOR”が活躍する近未来ポリスアクション｡
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash

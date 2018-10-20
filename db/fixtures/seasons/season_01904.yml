@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/9/22269_1_6.png?1
 outline: 心優しいが極度に気が小さい主人公のモップが、近所の焼肉店「センゴク」で人生初のバイトを始める。個性豊かな仲間と共に奮闘しながら成長する、焼肉系ハートフルギャグ4コママンガ待望のアニメ化
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 嶺内ともみ
   type: cast
 - !ruby/hash:TagHash
-  name: 猪股慧士
+  name: 篠原侑
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原侑
+  name: 猪股慧士
   type: cast
 - !ruby/hash:TagHash
   name: 伊達忠智

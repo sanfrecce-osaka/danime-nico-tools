@@ -5,7 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/47/4/10474_1_6.png?1
 outline: セイバートロン星に保管されたプラズマ・エネルギー・チェンバーを巡り争うサイバトロンとデストロンやがて、その戦いは惑星ネビュロンに舞台を移す。折りしもそこでは住民達と悪の組織ハイプが戦っていた。新戦士ヘッドマスターやターゲットマスターを加え、サイバトロンとデストロンの戦いの物語が再び始まった・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

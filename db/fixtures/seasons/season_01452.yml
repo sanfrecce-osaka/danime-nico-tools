@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/92/2/20922_1_6.png?1
 outline: 子ネズミのガンバとマンプクは大の仲良し。身近なところにかくれている｢わくわく｣を探して部屋を飛び出しますが、いつも熱中してやりすぎてしまいます。とばっちりを受けるのは決まって…白イタチのノロイさん！でも2匹はそんなことなんて気にせず、今日も元気いっぱい冒険に出発！さあみんなも一緒に！｢わっくわく、キターーーー！！｣
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
   name: 潘めぐみ
   type: cast
 - !ruby/hash:TagHash
-  name: 齋藤彩夏
+  name: Lynn
   type: cast
 - !ruby/hash:TagHash
-  name: Lynn
+  name: 齋藤彩夏
   type: cast
 - !ruby/hash:TagHash
   name: 監督：河村友宏
@@ -23,13 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：笠松美樹
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：平林佐和子
-  type: staff
-- !ruby/hash:TagHash
-  name: 神南スタジオ
+  name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 小泉紀介
+  name: 製作年：2014年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

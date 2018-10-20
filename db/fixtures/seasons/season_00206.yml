@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/97/3/21973_1_6.png?1
 outline: 主人公は青いネコ“ガムボール”。父はウサギ、親友は金魚、クラスメートは恐竜や折り紙のクマ、風船やロボット・・・と、ハチャメチャな設定のキャラクターたちが実写の街を舞台に、次から次へと笑いを振りまきます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/1/10421_1_6.png?1
 outline: "｢ようこのようは太陽のよう!｣いつかブロードウェイの舞台に立つシンガーを夢見て、ペットのムーと一緒にはるばる片田舎から大都会東京へやってきた天真爛漫な少女・ようこ。偶然、新幹線の中で出会った女優志望のサキと意気投合し、芸能プロダクションにスカウトされるかもしれないと考え、渋谷へとやって来るのでした。ムーは、自分の思いを言葉にすることはできないが、ようこが寂しそうにしている時には、いつもそばに寄り添い彼女を励ましてくれます。渋谷を舞台に、ミュージカル仕立てでポップな、とても不思議な物語が始まるのです。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 西村知道
   type: cast
 - !ruby/hash:TagHash
-  name: 水谷優子
+  name: かないみか
   type: cast
 - !ruby/hash:TagHash
-  name: かないみか
+  name: 水谷優子
   type: cast
 - !ruby/hash:TagHash
   name: 島津冴子

@@ -6,6 +6,12 @@ outline: キュートな幼稚園児のブロッサム、バブルス、バタ�
   ガールズ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: パワーパフ ガールズシリーズ
   type: other
 - !ruby/hash:TagHash

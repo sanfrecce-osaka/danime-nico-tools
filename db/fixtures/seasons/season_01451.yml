@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/46/1/10461_1_6.png?1
 outline: ある日、とある理由から新しい家族と暮すことになった主人公・陽太郎。引っ越してきた陽太郎を迎えてくれたのは--、なんとお姉さまから赤ちゃんまで、1歳違いでキレイに並んだ華やかな19人姉妹。大喜びで主人公を受けいれる姉妹もいれば、迷惑そうな態度をとる子もいたりして--。そんな女の子だらけの新生活で、突然ママから旅行の話が飛び出して・・・・・・主人公と19人姉妹のドタバタ旅行のはじまり、はじまり!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -14,31 +17,31 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
-  type: cast
-- !ruby/hash:TagHash
-  name: 悠木碧
-  type: cast
-- !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 金元寿子
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 伊瀬茉莉也
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオコメット

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/31/8/10318_1_6.png?1
 outline: 都会から弟・星野歩の療養のために、自然に囲まれ空気の奇麗な山比古町に引っ越してきた星野一馬。父親の馴染みの旅館である『よろづよ』に間借りすることになっていたのだが、よろづよに向かう途中、慣れない田舎の道を間違えてしまう一馬たち。しかも、ちょっとしたトラブルで一人で山に入って行く一馬…。見知らぬ山の奥、不安な一馬の前に一人の少女が現れる———田舎系ラブコメディ｢星空へ架かる橋｣普段の喧噪を忘れ、癒されてみませんか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/13/7/20137_1_6.png?1
 outline: バカボンのパパのいるところに事件あり!パパのパワーの前にはつまらない日常など一気に吹き飛んでしまうのだ!世間の常識を覆すパパの行動には、目からウロコが落ちる大発見がいっぱい!2015年に生誕80周年を迎えるギャグマンガの巨匠・赤塚不二夫のいわずと知れた名作のリメイク版アニメーション。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
@@ -23,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 田原アルノ
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：本間勇輔
+  name: 原作：赤塚不二夫
   type: staff
 - !ruby/hash:TagHash
   name: 監督：笹川ひろし
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：赤塚不二夫
+  name: 音楽：本間勇輔
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：岸義之

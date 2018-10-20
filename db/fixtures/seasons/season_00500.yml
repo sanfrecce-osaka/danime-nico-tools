@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/91/3/10913_1_6.png?1
 outline: 心にどこか寂しさを抱えている高校生の川内洲(かわうちしま)。祖父を亡くした日に、海辺で一人泣いているところ、足を滑らせ溺れてしまう。洲は美しい青年に助けられるが、なんと彼は人魚だった？！イサキと名付け、一緒に暮らし始める二人。人魚との生活に戸惑いつつも少しずつ心を開いていく洲。そんな洲をやさしく包み込むイサキ。次第に洲が寂しさを忘れ充実した生活を送れるようになった頃、洲とイサキにある変化が…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：山本蒼美
   type: staff
 - !ruby/hash:TagHash

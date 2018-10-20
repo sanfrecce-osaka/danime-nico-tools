@@ -6,6 +6,15 @@ outline: "「結局、戦争はなくならなかった」「地球という惑�
   オブジェクト同士の『クリーンな戦争』で決まるようになった」そんなオブジェクトの設計士を目指す学生クウェンサーと腐れ縁の相棒の兵士ヘイヴィアは、戦場で自軍のオブジェクトのパイロットである少女ミリンダに出会う。ある戦いで彼女の乗るオブジェクトが敵のオブジェクトに破壊された時、二人は生身でオブジェクトと戦うことになるのだった……"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash

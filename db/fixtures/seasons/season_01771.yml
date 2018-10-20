@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/76/7/21767_1_6.png?1
 outline: ナチス・ドイツの保養施設から、何故か日本の国宝級の文化財「地獄如来像」が発見される。それはルパンが狙っているお宝「風神」を手にいれるための手がかりとなる仏像。ルパンはその仏像を盗もうとするが、謎の忍者強盗集団を組織するモルガーナに奪い取られ、その時銭形は殺されてしまう…。ルパンは、亡き銭形のためにもモルガーナが狙っている「風神」の秘密に迫る。だがそこに「風神」を狙う女忍者・飛鳥と忍犬・虎太郎の陰が…。ルパン、モルガーナ、飛鳥の三つ巴の壮絶なお宝争奪戦の末、ルパンは宝に秘められたとんでもない謎を知ることになる…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash

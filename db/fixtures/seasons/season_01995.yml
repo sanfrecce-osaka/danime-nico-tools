@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/42/9/22429_1_6.png?1
 outline: 辺境のギルドには、ゴブリン討伐だけで銀等級（序列三位）にまで上り詰めた稀有な存在がいるという……。冒険者になって、はじめて組んだパーティがピンチとなった女神官。それを助けた者こそ、ゴブリンスレイヤーと呼ばれる男だった。彼は手段を選ばず、手間を惜しまずゴブリンだけを退治していく。そんな彼に振り回される女神官、感謝する受付嬢、彼を待つ幼馴染の牛飼娘。そんな、彼の噂を聞き、森人（エルフ）の少女が依頼に現れた――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

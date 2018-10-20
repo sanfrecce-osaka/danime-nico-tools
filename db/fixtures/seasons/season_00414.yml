@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/18/0/22180_1_6.png?1
 outline: 報われない恋　切ない恋　片想い　それってそんなに美しい物ですか　高校二年生の安楽岡花火は、叶わぬ恋に身を焦がしていた。大事な人を傷つけ、傷つきながらも求めてしまう人のぬくもり。これは、あまりにも純粋で歪んだ恋愛ストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 戸松遥
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：Lerche
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：安藤正臣
+  name: キャラクターデザイン：黒澤桂子
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：黒澤桂子
+  name: 監督：安藤正臣
   type: staff
 - !ruby/hash:TagHash
   name: 原作：横槍メンゴ

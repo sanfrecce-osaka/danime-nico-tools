@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/86/7/21867_1_6.png?1
 outline: "「やんやんマチコ」は、京都弁を話すキュピーンなヒツジの女の子「マチコ」が主人公の、かわいい人気アニメです。マイペースにほっこり暮らすマチコの、シャンゼリゼ商店街での毎日を描きます。『ウサビッチ』を世に送り出したCGプロダクション、カナバングラフィックスが長年温めてきたアニメーション作品です。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash

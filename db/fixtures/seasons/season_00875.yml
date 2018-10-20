@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/01/6/22016_1_6.png?1
 outline: 大森藤ノ先生完全監修によるオリジナルストーリー！TVシリーズの最終話で、大激戦の末、階層主との戦いに勝ったベル達。ダンジョンから地上に戻る途中で、温泉のような場所を見つけて、そこで休息をとることに……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

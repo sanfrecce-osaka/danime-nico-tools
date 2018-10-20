@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/6/10396_1_6.png?1
 outline: 街道から外れた荒野。足元に白骨が広がり周囲は切り立った崖。千変の刺客・メローナと対峙する髪の長い覆面の少女。少女はメローナの肩口に剣を振り下ろす。体を切り裂かれるメローナ、だが、血は一滴も流れない。余裕のメローナは少女の隙をつき、覆面を切り落とす。メローナが言う｢あれ!?キミ、誰?｣少女が名乗る。｢私の名はレイナ…高貴なる戦士レイナだ!｣貴族の身分を捨て、己の実力を試さんと旅に出るレイナ。レイナは様々な美闘士たちとの出会い、また、行く手を立ちふさがる者たちとの闘いのなか、世界は広く、見知らぬことばかりであることを実感する。そして、生き方の違う姉、雷雲の将・クローデットとの確執。彼女は旅を通して、傷つきながらも成長し、クイーンズブレイドへの参加を決意する…。クイーンズブレイド、それは神の名の下にもっとも強く、もっとも美しい女王を選ぶ闘技大会。誰がその栄光ある玉座につくのか、それは戦ってみなければ判らない。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 喜多村英梨
@@ -20,22 +26,22 @@ tags: !ruby/array:Hashie::Array
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
-  type: cast
-- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 平野綾
   type: cast
 - !ruby/hash:TagHash
-  name: 甲斐田裕子
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 高橋美佳子
+  type: cast
+- !ruby/hash:TagHash
+  name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤かな恵

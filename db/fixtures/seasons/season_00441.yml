@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/07/3/20073_1_6.png?1
 outline: かつて紐育(ニューヨーク)と呼ばれた街はたった一晩で消失した――一夜にして構築された霧烟（きりけぶ）る都市『ヘルサレムズ・ロット』。空想上の産物として描かれていた「異世界」を現実に繋げている街。その全貌は、未だ人知の及ばぬ向こう側であり霧の深淵を見る事は叶わない。人ではおこしえない軌跡を実現するこの地は今後千年の世界の覇権を握る場所とも例えられ様々な思惑を持つ者達が跳梁跋扈（ちょうりょうばっこ）する街となる。そんな世界の均衡を保つ為に暗躍する組織があった。その名は「秘密結社・ライブラ」少年・レオは、ふとしたきっかけからライブラの一員となるのだが…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 石塚運昇
   type: cast
 - !ruby/hash:TagHash
-  name: 阪口大助
+  name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
-  name: 銀河万丈
+  name: 阪口大助
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：ボンズ

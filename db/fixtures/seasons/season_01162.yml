@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/52/2/20522_1_6.png?1
 outline: "｢うー！にゃー！｣そして｢SAN値ピンチ！｣の印象的なフレーズとともに、日本列島をお騒がせした邪神・ニャルラトホテプが、三度あなたに這いよります！八坂真尋の日常は、自宅に居座るニャル子、クー子、ハス太の3人(？)の邪神に囲まれて、毎日賑やか。ある休日。真尋の元に、話題のアミューズメントスポットのチケットを手に入れた同級生の珠緒と余市が現れて…？今度のニャル子さんは、ついに真尋とウェディング！？怒涛のハイテンションラブ(クラフト)コメディ！堂々完結！！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 久川綾
+  name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 阿澄佳奈
+  name: 久川綾
   type: cast
 - !ruby/hash:TagHash
   name: 松来未祐
@@ -38,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：DIVE II entertainment
+  name: 監督：長澤剛
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：長澤剛
+  name: 音楽制作：DIVE II entertainment
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：滝山真哲

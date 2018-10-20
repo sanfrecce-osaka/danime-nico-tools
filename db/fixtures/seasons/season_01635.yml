@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/63/0/10630_1_6.png?1
 outline: 他人より優しすぎて・・・考えすぎて・・・だから無口になってしまう女子高生・森田真由(主人公)。母の教えにより、相手の目をじっと見るために、あらぬ誤解をよく受けてしまう真由。妄想をかきたてられる男子学生も多数。聞き上手で、レスポンスも早い女の子だから女子からの人気も高い。しかし、不器用!音痴!運動音痴!・・・だけれども、苦手なことも一生懸命!そんな女の子がオリジナルアニメとして命が吹き込まれる!無口で、優しくて、恥ずかしがり屋で、、、、女子高生・森田真由のオリジナルアニメに乞うご期待!そして、声にもご期待あれ!って無口なのに!?(笑)
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 平賀三恵
   type: cast
 - !ruby/hash:TagHash

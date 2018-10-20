@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/08/7/10087_1_6.png?1
 outline: 魔導技術によって繁栄を極める大都市アーカムシティは、恐るべき犯罪結社ブラックロッジに脅かされていた。大導師マスターテリオンを首領に掲げるブラックロッジの信徒たちは欲望のおもむくままに破壊を繰り広げる。圧倒的パワーの破壊ロボ、邪悪な力を操る魔術師たち、そして最強の魔導ロボットである鬼械神(デウス・マキナ)……アーカムシティの守護者である覇道財閥はこれに対抗すべく、巨大ロボット・デモンベイン(魔を断つ者)を製造する。しがない三流探偵の大十字九郎は、魔導書の化身である少女アル・アジフとの出会いにより、デモンベインに乗って戦うこととなった。ぶつかり合う魔術と魔術。鋼鉄と鋼鉄。デモンベインと『ブラックロッジ』との戦いが今始まった。摩天楼に機神の咆吼が木霊する――!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 緑川光
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
-  name: 中田譲治
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
   name: 若本規夫
@@ -29,28 +35,28 @@ tags: !ruby/array:Hashie::Array
   name: 折笠愛
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤健太郎
-  type: cast
-- !ruby/hash:TagHash
-  name: 矢尾一樹
-  type: cast
-- !ruby/hash:TagHash
   name: 郷里大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤健太郎
   type: cast
 - !ruby/hash:TagHash
   name: 山崎たくみ
   type: cast
 - !ruby/hash:TagHash
+  name: 矢尾一樹
+  type: cast
+- !ruby/hash:TagHash
   name: 原作：ニトロプラス
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桜井正明
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：ヴューワークス
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：橋本英樹
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：桜井正明
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：ZIZZ STUDIO

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/89/5/20895_1_6.png?1
 outline: 失踪した父を捜しに京へ来た千鶴。今は訳あって新選組に居候中。一刻も早く父を見つけ出したい想いから彼女なりに捜索を始めるが…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash

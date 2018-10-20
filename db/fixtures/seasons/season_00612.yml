@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/82/6/21826_1_6.png?1
 outline: 繁栄と栄華を極めた人間たちの文明が崩壊してから長い年月が過ぎた。生き物のほとんどが死に絶え、全てが終わってしまった世界。残されたのは廃墟となった巨大都市と朽ち果てた機械だけ。いつ世界は終わってしまったのか、なぜ世界は終わってしまったのか、そんなことを疑問にさえ思わなくなった終わりの世界で、ふたりぼっちになってしまった少女、チトとユーリ。ふたりは今日も延々と続く廃墟の中を、愛車ケッテンクラートに乗って、あてもなく彷徨う。全てが終わりを迎えた世界を舞台に、ふたりの少女が旅をする終末ファンタジーが今、幕を開ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/15/1/10151_1_6.png?1
 outline: 天体に関する専門知識を学ぶ｢星月学園｣を舞台に、唯一の女子生徒である主人公と、星座の性格特徴を持つ12人の魅力的な男の子たちとの交流を描く学園ストーリー。学園でただ1人の女の子として、彼らと共に過ごす学園生活――あなたは、どの星座に恋をする?星座が導く物語が、今はじまる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
-  name: 小野大輔
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 杉田智和
@@ -38,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
-  name: 折笠富美子
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン

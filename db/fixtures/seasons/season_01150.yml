@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/8/11478_1_6.png?1
 outline: 東京都羽田・大鳥居にある「セハガガ学園」に入学した、ドリームキャスト、セガサターン、メガドライブの3人。そこに現れた怪しげな先生から卒業単位取得のための課題を出されるが、課題をクリアするには、セガのゲーム世界に入る必要があるという。はたして彼女たちは無事に卒業出来るのか…？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash

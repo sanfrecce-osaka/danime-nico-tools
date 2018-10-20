@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/38/9/22389_1_6.png?1
 outline: 人気TVアニメの劇場版。謎の生命体イマージュと人類の戦いは半世紀に及ぼうとしていた。第303独立愚連隊の戦闘母艦である月光号に一人の少年兵がいた。少年の名はレントン。彼の夢は連れ去られた幼なじみの少女エウレカを助け出し、故郷へと帰ること。だが運命は、二人の小さな恋を試すように試練を与える…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash

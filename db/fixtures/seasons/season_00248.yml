@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/21/3/20213_1_6.png?1
 outline: 時は2138年。一大ブームを巻き起こした仮想現実体感型オンラインゲーム《ユグドラシル》はサービス終了を迎えようとしていた。プレイヤーであるモモンガも仲間と栄華を誇ったギルドで一人静かにその時を待っていた。しかし、終了時間を過ぎてもログアウトしないゲーム。突如として意思を持ち始めたNPCたち。ギルドの外には見たこともない異世界が広がっていた。現実世界ではゲーム好きの孤独で冴えない青年が、骸骨の姿をした最強の大魔法使いとなる！世界を掌中におさめる死の支配者、ここに光臨！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 加藤英美里
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
   name: 上坂すみれ
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉繁
+  name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 沼倉愛美
+  name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
   name: 内山夕実

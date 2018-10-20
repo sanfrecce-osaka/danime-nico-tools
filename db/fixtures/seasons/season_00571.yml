@@ -5,7 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/61/9/10619_1_6.png?1
 outline: 数世紀前に行われた惑星間規模の｢大戦｣後の荒廃した未来世界。人類は、そのテクノロジィの大半を失い、人口は5分の1程度まで減少していた。その｢大戦｣の直後に現れたとされる亜人種。｢ザ・サード｣額に紅い瞳“天宙眼”と呼ばれる器官を持ち、それによりコンピュータ・システムなどを直接操作する存在。人類が失った｢大戦｣前のテクノロジィを唯一保持し、その強大な力で世界を支配している・・・。そんな世界で、殺し以外はなんでも引き受けるという“なんでも屋”を営む一人の少女、｢火乃香｣。彼女が砂漠で出会った青年｢イクス｣の護衛の依頼を引き受けたとき、壮大な冒険は始まっていた・・・・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

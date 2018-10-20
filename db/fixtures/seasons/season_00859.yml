@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/40/2/20402_1_6.png?1
 outline: 友だちや家族、また成績に、なやみやコンプレックスを感じている立花彩。あるとき、塾で出会った超・個性的な男子４人と「探偵チームＫＺ（カッズ）」を組むことに！！個性豊かな「探偵チームＫＺ」が、事件にまきこまれ、時にぶつかり合いながらも、それぞれの特技、専門知識を使い、協力して、事件を解決にみちびきます！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
@@ -19,6 +25,27 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 巽悠衣子
   type: cast
+- !ruby/hash:TagHash
+  name: 監督：市川量也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤本ひとみ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：住滝良
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：駒形
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：シグナル・エムディ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
 - !ruby/hash:TagHash
   name: 講談社
   type: other

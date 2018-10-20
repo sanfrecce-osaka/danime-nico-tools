@@ -6,6 +6,9 @@ outline: 北斗の掟に翻弄されるトキ。彼には誰にも明かさぬ�
   知られざるトキの思いが今ここに明らかになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 平野綾
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/89/3/20893_1_6.png?1
 outline: 桜翠学園生徒会、それは学園の中から選ばれた成績優秀者を中心に構成された組織。でも、生徒会のメンバーは皆強い個性を持っていて――才能溢れる4人の美少女たちが繰り広げる、日常系ドタバタコメディ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 後藤麻衣
   type: cast
 - !ruby/hash:TagHash

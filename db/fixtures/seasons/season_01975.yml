@@ -6,6 +6,12 @@ outline: 人間界で暮らす3人の悪魔少女アイラ、シマ、はな。�
   ）指導するロケット先生の一風変わったレクチャーで本当のアイドルになれる……はず、な物語です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

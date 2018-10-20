@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/55/6/20556_1_6.png?1
 outline: 2012年7月から同年12月まで放送されたTVアニメ｢トータル・イクリプス｣の舞台となった2001年から遡ること18年。1983年の東ドイツでは、東方から押し寄せるBETA群に対して、苛烈な戦いが繰り広げられていた。絶望的な戦況と国家権力の重圧によって他人を信じられなくなっていた東ドイツの衛士、テオドールは偶然にも西ドイツ軍の衛士である少女を救出する。その少女、カティアはある純真な想いを胸に東ドイツへ亡命、そしてテオドールの所属する第666戦術機中隊シュヴァルツェスマーケンへの編入を希望する。カティアとの出会い、そして、中隊指揮官アイリスディーナの思惑が絡み合い、テオドールの運命が大きく動き出す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash

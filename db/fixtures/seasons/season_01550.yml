@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/12/3/10123_1_6.png?1
 outline: 高校2年生の少女・菊池ユメは、正式な魔法遣いになるための研修を受けるべく、岩手県の遠野から東京へとやって来ました。両親共に魔法遣いであった彼女は、当然のように自分も魔法遣いになりたいと思ったのです。しかし彼女は、漠然と｢良い魔法を遣いたい｣｢人のためになる魔法を遣いたい｣と思っているだけで、魔法遣いにとって本当に大切なことは何なのかをまだ理解してはいないようです。1ヶ月間の研修で、指導官の小山田や依頼人達と触れ合いながら、ユメはどんな魔法遣いに成長していくのでしょうか・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
@@ -17,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 平松晶子
   type: cast
 - !ruby/hash:TagHash
-  name: 石毛佐和
-  type: cast
-- !ruby/hash:TagHash
   name: 清川元夢
   type: cast
 - !ruby/hash:TagHash
   name: 辻谷耕史
+  type: cast
+- !ruby/hash:TagHash
+  name: 石毛佐和
   type: cast
 - !ruby/hash:TagHash
   name: 中博史

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/28/4/22284_1_6.png?1
 outline: コメディの新境地を切り拓く鬼才・涼川りんが描くヤングアニマルで大好評連載中のJCガールズコメディ「あそびあそばせ」が待望のTVアニメ化決定！日本生まれ日本育ちでまったく英語ができない金髪の美少女・オリヴィア、真面目で知的な雰囲気を漂わせながら英語がまったくできないショートカットの眼鏡っ娘・香純(かすみ)、そして明るいけれど、リア充になれないおさげ髪の少女・華子(はなこ)、３人の女子中学生が作ったのは「遊び人研究会」！？　最高に可愛くて最高に楽しい抱腹絶倒のJCガールズコメディが今、幕を開ける！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
-  name: 戸田めぐみ
+  name: 小原好美
   type: cast
 - !ruby/hash:TagHash
   name: 筆村栄心
   type: cast
 - !ruby/hash:TagHash
-  name: 小原好美
+  name: 戸田めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 木野日菜
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 前川涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 金澤まい
+  name: 井上ほの花
   type: cast
 - !ruby/hash:TagHash
-  name: 井上ほの花
+  name: 金澤まい
   type: cast
 - !ruby/hash:TagHash
   name: 増谷康紀

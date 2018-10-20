@@ -10,6 +10,12 @@ outline: |-
   痛快スペースオペラ、華麗に登場！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -31,19 +37,19 @@ tags: !ruby/array:Hashie::Array
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
-  type: cast
-- !ruby/hash:TagHash
-  name: 戸松遥
-  type: cast
-- !ruby/hash:TagHash
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤聡美
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山力也
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：スターチャイルドレコード
@@ -103,7 +109,7 @@ tags: !ruby/array:Hashie::Array
   name: ロマン・トマ
   type: other
 - !ruby/hash:TagHash
-  name: ブリュネ・スタニスラス
+  name: 伊藤聖
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

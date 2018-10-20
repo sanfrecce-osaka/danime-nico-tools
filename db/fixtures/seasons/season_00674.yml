@@ -7,6 +7,12 @@ outline: "『鉄コン筋クリート』『マインド・ゲーム』『THE ANI
   Party Beyond』。 前作で示された広大なアニメーションの表現領域から、さらに彼方（Beyond）へと突き抜ける鮮烈な傑作群がここに集結した。 それらはまさに、アニメーションの歴史に新たなマイルストーンを打ち立てる珠玉のフィルムたち。その衝撃を目撃できる至福に震えてほしい。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 一条和矢
   type: cast
 - !ruby/hash:TagHash
@@ -56,6 +62,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2008年

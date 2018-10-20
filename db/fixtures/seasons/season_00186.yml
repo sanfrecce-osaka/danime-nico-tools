@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/3/20333_1_6.png?1
 outline: 舞台は死後の世界　運命に立ち向かう少年少女たちの物語　なんらかの理由で最後を遂げた少年・音無は、死後の世界の学校で、ゆりと名乗る少女と出会う。彼女は神に反逆する「死んだ世界戦線」のリーダーで、天使と日夜激戦を繰り広げていた。そして、立ちはだかるは神の使い・天使。それは、可憐なひとりの少女だった。生前の記憶が無く、この死後の世界で何が起きているのかも分からず戸惑う音無。彼は、ゆりたちと共に戦う道を選ぶことにしたのだが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 沢城みゆき
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
   name: 神谷浩史

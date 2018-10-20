@@ -5,19 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/6/11456_1_6.png?1
 outline: 虚像の世界と仮初の体、そこで得られる真実は？PC用ゲーム、コンシュマー用ゲームとして多くのゲームファンを魅了した大ヒット作のアニメーション化！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
   name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
-  name: 桑島法子
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 中原麻衣

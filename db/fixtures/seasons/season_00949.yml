@@ -6,16 +6,25 @@ outline: "「てーきゅう」皆様に支えられて6期の放送が決定…
   亀井戸高校テニス部の普通じゃない女の子4人の抱腹絶倒の日常を描く。アホな先輩たちに振り回されるうちにツッコミっぽい立場になった後輩の「押本ユリ」、テニス部なのにテニスがほとんどできないボケマシーン2年生の「新庄かなえ」、予想不可能な関西風ド変態2年生「板東まりも」、何でもお金で解決しちゃう謎多き天然お嬢様2年生「高宮なすの」。もはや手がつけられなくなったアホ4人の、テニスをほとんどしないテニス部活動、そして学園生活がまた始まる…！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
   name: 小倉唯

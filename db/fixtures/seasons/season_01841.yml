@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/99/2/10992_1_6.png?1
 outline: 前作｢攻殻機動隊 STAND ALONE COMPLEX｣に続くシリーズ第2弾。草薙素子を始めとする公安9課は犯罪の芽を探し出し、これを除去する攻性の組織である。招慰難民や核を巡る政治的謀略に立ち向かう中で9課は新たな敵である内閣情報庁、そして｢個別の11人｣と名乗るテロリストと対峙することになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
@@ -38,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：菅野よう子
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：神山健治
+  name: 原作：士郎正宗
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：士郎正宗
+  name: 監督：神山健治
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：後藤隆幸
@@ -60,6 +69,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: ゴリラ
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

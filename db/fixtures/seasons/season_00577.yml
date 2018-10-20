@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/05/6/10056_1_6.png?1
 outline: ある日突然妹が出来たら・・・。しかも、12人も。主人公・海上 航は、頭脳明晰の高校受験生。高校受験をするが、ちょっとしたミスで受験に失敗。悲嘆にくれる航。高校浪人と思いきやそこへ高校入学許可を告げる黒服の男たちが登場。連れ去られる航。だがその目の前に12人の女の子たちが次々に現れて、一斉に｢お兄ちゃん｣と航を呼ぶ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

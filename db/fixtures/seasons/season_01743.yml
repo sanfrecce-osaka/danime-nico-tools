@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/79/3/21793_1_6.png?1
 outline: 海崎新太（27歳）は、新卒として入社した会社を３ヶ月で退職。その後の就活もうまく行かず、親からの仕送りも打ち切られ田舎に戻ることを迫られる。悩みを打ち明けられる友達も彼女もいない……途方に暮れる海崎の前に謎の人物・夜明了が現れる。夜明は海崎にニートを対象にした社会復帰プログラム「リライフ」への参加をもちかける。その内容は、謎の秘薬で見た目だけ若返り、1年間高校生として高校に通うことだった―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

@@ -5,7 +5,37 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/40/9/10409_1_6.png?1
 outline: 地球から遠く離れた惑星・セイバートロンの住人｢トランスフォーマー｣が正義の戦士｢サイバトロン｣と悪の軍団｢デストロン｣に分かれ、地球を舞台に壮絶な戦いが繰り広げられる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴置洋孝
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪脩
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤精三
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多川拓郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 政宗一成
+  type: cast
+- !ruby/hash:TagHash
+  name: 片岡弘貴
+  type: cast
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1986年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

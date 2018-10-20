@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/88/5/10885_1_6.png?1
 outline: 15年前、神様に見捨てられて以来、人は生まれず死者は死ななくなった。“死ぬことができない死者”に唯一安らぎが与えられる｢墓守｣の仕事を、亡き母から受け継いだ12歳のアイ。優しい養父母や村人たちに囲まれて平穏に暮らしていたが、ある日、村に｢人食い玩具(ハンプニーハンバート)｣と名乗る、銃を携えた少年が現れ、予想もしなかった残酷な現実を突きつけられることに…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -26,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 渡辺明乃
-  type: cast
-- !ruby/hash:TagHash
   name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
   name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
   name: 内山昂輝

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/56/4/21564_1_6.png?1
 outline: 親の転勤により河合荘という下宿で暮らすことになった高校一年生の宇佐和成は、ルームメイトがまさかの変態ドＭ男であることを知ってあわてて部屋を飛び出し、そこで同じ高校の先輩である河合律と出会う。律は河合荘の管理人である河合住子の姪孫だったのだ。律との薔薇色の高校生活を夢見る和成だったが、下宿には他にも男運のない酒乱女の錦野麻弓と小悪魔女子大生の渡辺彩花が暮らしており、和成は個性的な住民に振り回されてばかり。果たして彼は理想の高校生活を送ることができるのか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,39 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/00/2/11002_1_6.png?1
 outline: 世界最強の吸血鬼と剣巫の少女が織りなす物語が、今、幕を開ける──！！“第四真祖”──それは伝説の中にしか存在しないはずの、世界最強の吸血鬼。十二体もの眷獣(けんじゅう)を従え、災厄を撒き散らすといわれる幻の吸血鬼が、日本に出現したという。その“第四真祖”を監視と抹殺のため、政府・獅子王機関は“剣巫(けんなぎ)”と呼ばれる攻魔師の派遣を決定。しかしなぜか監視役として選ばれたのは、見習い“剣巫”の少女、姫柊雪菜だった。対真祖用の最強の霊装を携え、魔族特区“絃神市”を訪れる雪菜。そこで彼女が遭遇した“第四真祖”暁古城の正体とは──！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 植田佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 日高里菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 瀬戸麻沙美
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 葉山いくみ
+  type: cast
+- !ruby/hash:TagHash
   name: アニメーション制作：SILVER LINK.
   type: staff
 - !ruby/hash:TagHash
@@ -14,19 +47,16 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：佐野恵一
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：Nexus
+  name: 監督：山本秀世
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：CONNECT
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：REAL-T
+  name: 原作：マニャ子
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：ASSUMED SOUNDS
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：GREEN
   type: staff
 - !ruby/hash:TagHash
   name: ストライク・ザ・ブラッドシリーズ
@@ -35,10 +65,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2013年
   type: other
 - !ruby/hash:TagHash
-  name: 最強ヒーロー
+  name: アスキー・メディアワークス
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：岸田教団＆THE明星ロケッツ
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

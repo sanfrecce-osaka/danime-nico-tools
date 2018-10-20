@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/14/5/10145_1_6.png?1
 outline: アクアプラスの大人気ゲーム｢ToHeart2｣のOVA新シリーズが待望のスタート!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: キャラクターデザイン：桂憲一郎
   type: staff
 - !ruby/hash:TagHash

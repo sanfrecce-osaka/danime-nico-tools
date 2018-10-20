@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/54/8/11548_1_6.png?1
 outline: 2148年　迫り来る宇宙からの脅威「フェストゥム」より人類を守り、奪われた皆城総士を救出し、人類に味方するフェストゥムのコアを解放する為の作戦「蒼穹作戦」より2年・・・平和は守られたはずだった。総士は存在が消滅しながらも、いつか竜宮城へ戻ると一騎と約束した。少年少女たちは取り戻した平和の中、日々を生きていた。そんなある日、一隻の艦が竜宮城へ打ち揚げられる。中には1人の少年が眠っていた。そして、突如平和は破られる・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 福圓美里
   type: cast
 - !ruby/hash:TagHash
-  name: 小林沙苗
+  name: 白石涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 白石涼子
+  name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
   name: 遠藤綾
@@ -29,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 新井里美
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
-  type: cast
-- !ruby/hash:TagHash
   name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: てらそままさき

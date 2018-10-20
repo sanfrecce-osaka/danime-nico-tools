@@ -7,19 +7,28 @@ outline: |-
   一緒に釣れたのは奇妙な格好をした美少年だった。「私はホニャラランド ホニャラ王家第一王子のカルルスさん！みなさんをハッピーに統治しに来ました☆」こうして5人は魔法の国（ホニャラランド）の跡継ぎ争いに巻き込まれる事に…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
-  type: cast
-- !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
   name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 安田陸矢
   type: cast
 - !ruby/hash:TagHash
   name: 下鶴直幸
@@ -29,9 +38,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 石井孝英
-  type: cast
-- !ruby/hash:TagHash
-  name: 安田陸矢
   type: cast
 - !ruby/hash:TagHash
   name: 葉山翔太

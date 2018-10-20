@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/35/9/10359_1_6.png?1
 outline: 琴子はいつも一所懸命な17歳。ある日新築したばかりの自宅が崩壊してしまい、父親と一緒に、父親の親友の家に居候することになった。そこには、彼女が激しくフラレ、それでも尚、思いを寄せる相手である直樹がいた!彼はなんと、居候先の家の息子だったのだ。天才で、超イケメンの直樹と思いがけず、同じ屋根の下で暮らすことになった琴子。知らなかった彼の素顔を目の当たりにし、ドキドキ、ますます思いは熱くなる。とりまく家族のおせっかいや、学校の友達からの疑いをはねのけて、琴子の恋のリベンジなるか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
@@ -53,19 +59,19 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 実写化・舞台化
+  name: 製作年：2008年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2008年
+  name: 実写化・舞台化
   type: other
 - !ruby/hash:TagHash
   name: 少女漫画原作
   type: other
 - !ruby/hash:TagHash
-  name: 少女漫画な恋
+  name: 長崎行男
   type: other
 - !ruby/hash:TagHash
-  name: 長崎行男
+  name: 少女漫画な恋
   type: other
 - !ruby/hash:TagHash
   name: 松本浩樹

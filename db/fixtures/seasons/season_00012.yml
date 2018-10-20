@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/0/21410_1_6.png?1
 outline: 漫画研究部に所属する愛・麻衣・ミイは、地球に迫る邪悪な侵略者と戦ったり、ライバルとトーナメントで闘ったりしたが、相変わらず愛以外は漫画を描いたりはしなかった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash

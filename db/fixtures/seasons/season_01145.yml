@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/54/2/20542_1_6.png?1
 outline: 少女はずっと独りだった。かつて彼女が出会った“旅人”はこう言う。｢その服が着られるぐらいになったら、迎えは来る｣　やがて17才になった彼女の前に、その船は現れた。空を征く船『ノルン』。導かれるままに乗った船には、『能力者』と呼ばれる10人の男女が暮らしていた。船はどこに向かっているのか？彼らはなぜ旅をしているのか？謎を抱えたまま運命に翻弄される旅が始まった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -32,19 +38,19 @@ tags: !ruby/array:Hashie::Array
   name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
-  name: 斎賀みつき
-  type: cast
-- !ruby/hash:TagHash
   name: 藤村歩
   type: cast
 - !ruby/hash:TagHash
   name: 阿部敦
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：キネマシトラス
-  type: staff
+  name: 斎賀みつき
+  type: cast
 - !ruby/hash:TagHash
   name: 原作：オトメイト
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：キネマシトラス
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：オレンジ

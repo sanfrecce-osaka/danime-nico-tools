@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/8/10828_1_6.png?1
 outline: 時は近未来。銀河系は謎の戦闘集団ゼオスにより数々の星が侵略され、対抗していた銀河連邦軍も、既に壊滅状態にまで追い込まれていた…。その中、オルガニック星の生き残った人々が兵器｢ジャスティーン｣を持って辺境惑星の地球に漂着した。やがて各地に散っていた銀河連邦所属メンバーも地球に集結―地球人類と共にゼオスと戦うことを決意する
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 阿部敦
   type: cast
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：渡部圭祐
+  name: 監督：西本由紀夫
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：西本由紀夫
+  name: キャラクターデザイン：渡部圭祐
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

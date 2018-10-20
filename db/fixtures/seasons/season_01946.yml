@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/34/0/20340_1_6.png?1
 outline: 人と人との｢絆｣をテーマに、ピュアな感動に満ちたストーリーで人気を博した同名の恋愛アドベンチャーゲーム｢CLANNAD(クラナド)｣。本作はその世界観を忠実に再現し、主人公・朋也と少女たち(渚、杏、椋、智代、風子、ことみ)との交流と成長を描いた物語である。アニメーション制作は｢AIR｣｢Kanon｣｢けいおん！｣などで圧倒的な支持を得ている京都アニメーションが担当。ヒロインたちの細やかな表情、暖かさを感じさせる風景の描写など、全てにおいてハイクオリティな作品に仕上がっている。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -44,13 +50,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：山田尚子
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：石立太一
-  type: staff
-- !ruby/hash:TagHash
   name: 監督：高雄統子
   type: staff
 - !ruby/hash:TagHash
   name: 原作：ビジュアルアーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石立太一
   type: staff
 - !ruby/hash:TagHash
   name: 監督：北之原孝將

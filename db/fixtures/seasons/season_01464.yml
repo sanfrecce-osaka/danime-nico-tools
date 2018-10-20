@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/80/7/21807_1_6.png?1
 outline: これは地獄のお話。あいもかわらず亡者であふれ返っている地獄では、閻魔大王の第一補佐官・鬼灯が、大王の補佐はもとより、亡者への呵責や獄卒たちの指導に、現世への視察と大忙しの日々を送っていた。そんな鬼灯といつもの仲間たちに、鬼灯の幼なじみや双子の妖怪、自由気ままな雪鬼などなど新たな面々も加わり、騒々しくも楽しい地獄の毎日が今再び幕を開ける！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

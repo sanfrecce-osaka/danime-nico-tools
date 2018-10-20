@@ -6,6 +6,9 @@ outline: どこにでもいる普通の女子高校生、正岡 小豆と小林 
   柚子も加わり、3人の女子高校生による“575”の活動が今、ゆっくりとはじまる…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 寿美菜子
   type: cast
 - !ruby/hash:TagHash
@@ -18,10 +21,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：C2C
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：かんざきひろ
+  name: 音楽：千葉"naotyu-"直樹
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：千葉"naotyu-"直樹
+  name: キャラクターデザイン：かんざきひろ
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：レイ・デュース

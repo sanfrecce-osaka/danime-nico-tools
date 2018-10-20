@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/51/4/21514_1_6.png?1
 outline: 物心がついた時から施設暮らしで、両親の顔も知らない天涯孤独の主人公・中山ひなこの前に｢ひかる｣と名乗る双子の兄があらわれ、突然、県下一のヤンキー校として名高い私立獅子吼学園という男子校へ通うことになる。魅力的なメイン男性キャラクターの5人に加え、アニメオリジナルのキャラクターも登場。兄の代わりとして獅子吼学園へ通う羽目になったヒロインと、イケメンヤンキーたちが繰り広げる学園ストーリーの幕が開く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 柿原徹也
-  type: cast
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 前野智昭
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 近藤隆
   type: cast
 - !ruby/hash:TagHash
-  name: 蒼井翔太
+  name: KENN
   type: cast
 - !ruby/hash:TagHash
-  name: KENN
+  name: 蒼井翔太
   type: cast
 - !ruby/hash:TagHash
   name: 山村響

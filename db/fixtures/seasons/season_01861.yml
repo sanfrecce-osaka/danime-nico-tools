@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/7/10927_1_6.png?1
 outline: 生きるために山賊になったズク。山中で出会った不思議な少女に松の浜辺に行くよういわれる。浜辺には、光る羽衣を巻いた女性｢トキ｣が倒れていた。出会いを経て、ズクとトキは一緒に暮らし始め、やがてふたりの間には｢イチ｣という子どもが生まれる…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田中敦子
   type: cast
 - !ruby/hash:TagHash

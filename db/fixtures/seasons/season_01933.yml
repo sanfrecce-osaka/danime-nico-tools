@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/33/2/22332_1_6.png?1
 outline: 時は大正。女学校に通う17歳の花村紅緒は、いつも明るくケンカっ早いところのあるじゃじゃ馬娘。親友の環とともに楽しい女学校生活を送り、恋も結婚相手も自分で選びたいと思っている。そんなはいから娘が出会ったのは、笑い上戸な青年将校、伊集院忍少尉。実は彼が祖父母の時代から決められていた許婚であることを知った紅緒は、それに反発。愛のない結婚を阻止しようと奮闘して騒動を巻き起こすが、少しずつ少尉に心惹かれていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/06/9/11069_1_6.png?1
 outline: 塚本天満、恋する乙女の高校2年生。同級生の烏丸大路に恋をしているが、一向にキモチを伝えることができずにいた。播磨拳児、恋する不良の高校2年生。同級生の塚本天満に恋をしているが、これまた一向にキモチを伝えることができずにいた。天満にフラれたと勝手に思い込みショックで日本から逃げ出していた播磨だったが、入魂の漫画を描き上げ、再びに天満に告白すべく矢神高校に戻ってきた！その頃、2-Cは文化祭の出し物を何にするかで紛糾。そしてついに喫茶店軍と演劇軍に分かれ、サバイバルゲームで決着をつけることに！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 岸尾だいすけ
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
+  name: 高橋広樹
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋広樹
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 福井裕佳梨

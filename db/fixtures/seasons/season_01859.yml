@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/3/22263_1_6.png?1
 outline: 少女たちが飛んで、跳ねて、駆ける――インターハイを目指す、県立北小町高校バドミントン部の軌跡を描いた、マンガ「はねバド！」（濱田浩輔／講談社『good!アフタヌーン』連載）が待望のアニメ化！！運動神経抜群だが、なぜかバドミントンを避ける1年生[羽咲綾乃]。日本一を目指し日夜練習に明け暮れる3年生の[荒垣なぎさ]。部を支える仲間やコーチ、そして個性溢れるライバルたち。超高速で舞う羽根（シャトル）に想いを乗せて、青春バドミントンストーリー開幕！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 下田麻美
   type: cast
 - !ruby/hash:TagHash
-  name: 大和田仁美
+  name: 小原好美
   type: cast
 - !ruby/hash:TagHash
-  name: 小原好美
+  name: 大和田仁美
   type: cast
 - !ruby/hash:TagHash
   name: 島袋美由利
@@ -53,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

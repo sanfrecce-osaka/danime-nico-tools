@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/58/5/20585_1_6.png?1
 outline: 入江正一から｢ボンゴレ匣｣を渡されたツナたち。そして入江から明かされたのは、白蘭のとんでもない野望だった。白蘭の真実、真6弔花、そして｢チョイスバトル｣……。ツナたちの未来を決するバトルはますます激しさを増していく！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/03/1/21031_1_6.png?1
 outline: 何のとりえもない、特技もない、けれど人知れず、熱い心を秘めた少年・柄本つくし。彼が西東京の名門、聖蹟高校サッカー部に入部した時、運命は激しく回転を始める。孤独なサッカーの天才・風間陣、超高校級プレイヤーの主将・水樹寿人、トップ下に君臨するクールな司令塔・君下敦、唯我独尊系大型フォワード・大柴喜一……。クセ者の集う厳しくも優しい部活の中で、少年たちはかけがえのない絆を結び始める。これは、ひたすらに熱く、どこまでも純粋な、聖蹟高校サッカー部の汗と奇跡と友情の物語！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
   name: 佐倉綾音
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
-  name: 伊瀬茉莉也
+  name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
-  name: 豊永利行
+  name: 伊瀬茉莉也
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：ポニーキャニオン

@@ -7,6 +7,12 @@ outline: 声優の小野坂昌也さん＆小西克幸さんが出演する爆�
   役)、置鮎龍太郎(置鮎龍太郎 役)、神谷浩史(神谷浩史 役)、竹本英史(竹本英史 役)、遊佐浩二(小川P 役)、豪華声優陣が出演。小野坂さん、小西さんが、２．５次元　アニメーションならではの展開で、竹本さんを働かせたり、置鮎さんの家に行って●●したり、神谷さんの輝きを取り戻したり、ヒーローになって巨大化したマネージャーを倒したり……、とにかく、困っている人をオタスケします！　そんなオタスケ奮闘ストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash

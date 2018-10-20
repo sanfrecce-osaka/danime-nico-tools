@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/46/2/10462_1_6.png?1
 outline: 原因不明の爆発事故で、それまでの記憶を失った高校生の俊明は、未来の世界で自分が｢歳蘭｣と呼ばれている夢を見るようになる。そんな折、俊明の通う学校に謎めいた転校生がやってきて……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 滝沢久美子
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木勝美
+  name: 中村大樹
   type: cast
 - !ruby/hash:TagHash
-  name: 中村大樹
+  name: 鈴木勝美
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：渡辺俊幸
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 葦プロダクション
   type: other
 - !ruby/hash:TagHash
-  name: 加藤博
+  name: 製作年：1992年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1992年
+  name: 加藤博
   type: other
 - !ruby/hash:TagHash
   name: 田中英行

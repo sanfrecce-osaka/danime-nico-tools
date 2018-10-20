@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/28/9/11289_1_6.png?1
 outline: 邪魔大王国の妃魅禍(ヒミカ)率いる八ニワ幻神と、司馬遷次郎率いるビルドベース＆鋼鉄ジーグが繰り広げる壮絶な戦いを描く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 野田順子
   type: cast
 - !ruby/hash:TagHash
-  name: 木村亜希子
+  name: 岡村明美
   type: cast
 - !ruby/hash:TagHash
-  name: 岡村明美
+  name: 木村亜希子
   type: cast
 - !ruby/hash:TagHash
   name: 兵藤まこ
@@ -41,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 松岡大介
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：平野義久
+  name: 原作：永井豪
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：永井豪
+  name: 音楽：平野義久
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：アクタス

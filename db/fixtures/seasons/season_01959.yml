@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/44/7/22447_1_6.png?1
 outline: 嘉祥が店長を務めるネコたちが働くパティスリー『ラ・ソレイユ』開店の約半年前。仔ネコのショコラとバニラは水無月家に来たばかりで、他のネコたちともまだ打ち解けてない頃。嘉祥をご主人様と呼ぶようになって、初めてのクリスマスを迎えた二匹が嘉祥とひとつの約束を交わす。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：山本靖貴
   type: staff
 - !ruby/hash:TagHash

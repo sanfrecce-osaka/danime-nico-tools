@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/2/11462_1_6.png?1
 outline: 地球は、人間が資源を使い果たし自然を破壊したために、人間はもちろん、生き物の住めない荒れ果てた星になっていた。ユニコは旅の途中で出会った翼と一緒に、地球を生き物の住める星に戻す方法を探すために、旅へ出る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 矢島晶子
   type: cast
 - !ruby/hash:TagHash
-  name: 高戸靖広
+  name: 麻上洋子
   type: cast
 - !ruby/hash:TagHash
-  name: 麻上洋子
+  name: 高戸靖広
   type: cast
 - !ruby/hash:TagHash
   name: 熊谷ニーナ
@@ -47,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 宇田川純男
   type: other
 - !ruby/hash:TagHash
-  name: 柴田正人
+  name: 松本浩樹
   type: other
 - !ruby/hash:TagHash
-  name: 松本浩樹
+  name: 柴田正人
   type: other
 - !ruby/hash:TagHash
   name: 川添恵

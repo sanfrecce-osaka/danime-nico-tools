@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/63/8/21638_1_6.png?1
 outline: なくしていたから、求めていた。『居場所』と『絆』をなによりも。ヒーローは嫌いだった。自分の前には現れないから。そんなヘタレヤンキーの正広は、＂熊殺し＂の異名を持つ康介と出会う。泣ける『居場所』を切望していた正広。力よりも優しい腕を広げたかった康介。ぬくもりのなかで知った、眩しい感情。ずっと一緒の約束が破られた。だから健介は支倉と絶交した。けれど、支倉を忘れられなかった健介。健介の笑顔をもう一度見たかった支倉。すれちがっていた心が、ひとつの『絆』になる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 立花慎之介
@@ -35,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：エンカレッジフィルムズ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：ありいめめこ
+  name: 監督：ひいろゆきな
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：ひいろゆきな
+  name: 原作：ありいめめこ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：西野文那

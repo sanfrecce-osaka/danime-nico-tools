@@ -7,6 +7,12 @@ outline: 鬼才・新久保だいすけ氏が描く、日本ファルコム作�
   閃の軌跡」シリーズのメンバーも新たに加わり、はちゃめちゃな学園生活が新たに幕を開ける…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

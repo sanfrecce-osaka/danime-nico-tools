@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/94/3/21943_1_6.png?1
 outline: 古来、人の世を脅かしてきた異形の存在・荒魂を御刀によって祓う神薙ぎの巫女。制服に帯刀が主な出で立ちの彼女たちは、刀使（とじ）と呼ばれる。正式には警察組織に属する特別祭祀機動隊。御刀の所持を公認された超法規的な国家公務員でありながら、そのほとんどは全国に五ヶ所存在する中高一貫の訓練学校に通う女子生徒たちである。ごく普通の学園生活をおくる彼女たちだが、ひとたび職務となれば、御刀を手にし、様々な超常の力を発揮して人々を守って戦う。この春。全国五校から選りすぐりの刀使たちが集い、各々の技を競う恒例の大会が催されようとしていた。大会に向け、多くの刀使たちが修練に励む中、ひときわ強い思いを秘め、ひとり技を磨く少女がいた。彼女が構えた御刀の切っ先が向くその先は―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: M・A・O
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 瀬戸麻沙美
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
   name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash
-  name: 内山夕実
+  name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
   name: 大西沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
   type: cast
 - !ruby/hash:TagHash
   name: 渕上舞

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/52/9/11529_1_6.png?1
 outline: 不思議な雰囲気を持つオレンジ色のオス猫を拾った小学生の草凪吐夢は、その猫に“みかん”と名付けて家で飼うことにする。ある晩、なんと吐夢は台所で晩酌しながら人間の言葉で独り言をしゃべっているみかんを目撃してしまう。みかんは、その昔みかんを飼っていた“じいさん”と一緒に暮らすうちに、いつしか人間の言葉が話せるようになってしまった変り種の猫だった。おまけに、みかんは2本の足で立って歩いたり、器用に字や絵まで書く事が出来たりと、全く猫ばなれしている存在だった。吐夢と両親は、そんなみかんの秘密を受け入れ、一緒に生活していくことにする。白泉社「LaLa」に掲載された人気少女マンガをアニメ化した、変わりもの猫・みかんと家族のハートウォーミング・ストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 松井菜桜子
   type: cast
 - !ruby/hash:TagHash
@@ -38,7 +41,7 @@ tags: !ruby/array:Hashie::Array
   name: 鈴木勝美
   type: cast
 - !ruby/hash:TagHash
-  name: 麻見順子
+  name: 安西正弘
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：長谷川智樹

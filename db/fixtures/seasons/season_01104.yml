@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/07/8/22078_1_6.png?1
 outline: 時は大正25年。帝都トウキョウ。華族出身の久世ツグミは、傾きかけた家を守るための結婚を決意したやさき、弟のヒタキが「稀モノ」と呼ばれる、読んだ者に大きな影響を及ぼす本が起こした事件に巻き込まれてしまう。ツグミはこれをきっかけに「アウラ」と呼ばれる、稀モノに宿った情念の輝きが見えるようになるが、混乱する彼女の前に「帝国図書情報資産管理局」通称「フクロウ」と呼ばれる「稀モノ」を保護・管理する組織の人間が現れ「稀モノ」に関する調査協力を依頼される。ツグミは戸惑いながらも「フクロウ」での「稀モノ」調査に取り組むことを決意するのだが――。天秤のように揺らぎうつろう一人の少女の運命の物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 緑川光
+  name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
   name: 興津和幸

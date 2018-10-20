@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/09/0/20090_1_6.png?1
 outline: 二十二世紀。かつて日本という国が存在した列島は、「第十七極東帝都管理区」と呼ばれていた。少しばかりの窮屈さと引き替えに、安楽な生活を保障された世界。明日が今日と同じであると誰もが信じる社会。しかし、その社会は人知れず大きな危機を迎えていた。「デグレイション」――生きた人間が砂のように崩れ消える奇病は、少しずつ、しかし着実に世界を侵食してゆく……。平凡な学生「風澄徹」は、もう一つの世界「フロンティアＳ（ストラトス）」との争いに巻き込まれる。それは、もう一人の自分との対決を意味していた。衝突する二つの未来。交錯する少年たち。二つの世界に救いはあるか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
-  name: 保志総一朗
+  name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 小山力也
+  name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
   name: 植田佳奈
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 伊瀬茉莉也
   type: cast
 - !ruby/hash:TagHash
-  name: 伊瀬茉莉也
+  name: 大川透
   type: cast
 - !ruby/hash:TagHash
   name: 藤田咲

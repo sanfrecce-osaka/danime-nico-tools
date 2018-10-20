@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/1/11451_1_6.png?1
 outline: 大手製薬会社・ダイダロスの巨大ビルで謎の男が仕掛けた時限爆弾が炸裂した。それを遠くから眺める男・ロックは爆弾を仕掛けたテロ組織｢イカロスの亡霊｣の一員で、ミスター・グッドマンと名乗る謎の黒幕に爆破の成功を伝える。その後、B・Jに謎の女が1億円の報酬で診察を依頼してくるが、これは｢イカロスの亡霊｣が仕掛けた罠だった。秘密の島・イカロス島に連れていかれたB・Jは｢サタン｣という悪魔の細菌に感染した患者3人の治療を依頼される。サタンは抗生物質も全く効かない細菌。もしも世の中に出たら、たちまち世界中で感染者が出てしまう。B・Jは｢サタン｣の驚異を防ぐことができるのか？そして、謎の黒幕、ミスター・グッドマンの正体とは？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 野沢那智
   type: cast
 - !ruby/hash:TagHash
-  name: 深見梨加
+  name: 石井真
   type: cast
 - !ruby/hash:TagHash
-  name: 石井真
+  name: 深見梨加
   type: cast
 - !ruby/hash:TagHash
   name: 有本欽隆

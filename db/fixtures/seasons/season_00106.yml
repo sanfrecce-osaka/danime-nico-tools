@@ -6,6 +6,9 @@ outline: 孫策伯符率いる南陽学院と頭首・劉備玄徳の成都学�
   ボクと勝負しろ、曹操孟徳!!｣闘士たちの運命の歯車が再び動き始めた今、新たな戦いの幕が上がる――!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
@@ -54,10 +57,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：りんしん
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大畑晃一
+  name: キャラクターデザイン：ごとうじゅんじ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：ごとうじゅんじ
+  name: 監督：大畑晃一
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：竹内利光

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/0/11420_1_6.png?1
 outline: 半笑い脱力系の即興芝居とCGアニメーションを融合させた、ムダ使いCGアニメ・ショートコメディー。人々の日常会話のワンシーンの中で、偶然に生まれる間や意味のないしぐさなどを切り取ったショートアドリブストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 森りょういち
   type: cast
 - !ruby/hash:TagHash

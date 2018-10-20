@@ -6,6 +6,9 @@ outline: 学歴こそが人の価値を決める世界。学力試験に受か�
   Type)。カンニングの技を磨くC型(Cheating Type)。L型とC型はタッグを組み、他者からの妨害を跳ね除け、高得点を狙う。他者の高得点を阻むべく、C型同士が繰り広げる熱いバトル。カンニングを許さない試験官たちも加わわって、ますます混沌とする試験会場。C型の主人公『睦明』とL型のヒロイン『巧衣』がド派手に試験を突破する痛快バトルストーリー。諸葛千術に解けぬ問いなし！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -30,10 +33,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：元永慶太郎
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：坂部剛
+  name: キャラクターデザイン：松浦麻衣
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：松浦麻衣
+  name: 音楽：坂部剛
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：鴻野貴光

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/08/7/21087_1_6.png?1
 outline: 落語家のお仕事は、もちろん寄席で一席ぶつこと。でも寄席が終わった後に楽屋でだらだら続ける雑談の方が面白いかも……そう思えるような五人の女性落語たちがいた。ツッコミ役の姉御肌だけど体型は子供の魔梨威。みんなの暴走をおさえる気配り上手の手寅。かわいらしい外見とは裏腹に腹黒い内面がちらほら見える木胡桃。シニカル武闘派メガネっ娘の丸京。妄想力抜群なダークサイドの住人・苦来。彼女たちが繰り広げる会話は、ときにまったり、ときに暴走。気づいてみれば放送コードギリギリのラインを突っ走り、たまにラインの向こうへ抜けてしまって帰ってこない。そんな彼女たちの会話は、はたしてちゃんとテレビで放送できるのか……？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash

@@ -5,19 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/02/8/21028_1_6.png?1
 outline: なんの変哲もない普通の学び舎｢月杜中学校｣。そこにある普通の美術部を舞台に、絵の才能に恵まれながら｢二次元嫁｣を描くことにしか興味のない内巻くんと、そんな内巻くんのことがどうにも気になっちゃう宇佐美さん。そして2人を気にしていないようで気にしている、いつも寝てばかりの部長、さらになんとなく気配だけはしている謎の部員コレットさん。そんな美術部で今日も何かが起こる……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 水樹奈々
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
   name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
-  name: 上坂すみれ
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
   name: 徳井青空

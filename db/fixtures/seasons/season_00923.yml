@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/7/21887_1_6.png?1
 outline: 身近にある物や動物、人物がキモかわキャラクターとして、通称“つぶやき隊”の一員となって普段、心の内に秘めている思いをつぶやきまくる、いわば今流行りのツイッターにあやかったクスっと笑える癒し系アニメーションなう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: キャラクターデザイン：谷口崇
   type: staff
 - !ruby/hash:TagHash

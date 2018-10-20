@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/0/10060_1_6.png?1
 outline: 完成から二年、そのクオリティの高さゆえに幻となっていた「迷宮物語」。第一話「ラビリンス・ラビリントス」では夕暮れの淡い幻想の中の少女の夢を、第二話「走る男」では近未来を舞台に走ることに取りつかれた男の狂気を、第三話「工事中止命令」ではメカニズムに囲まれて追い詰められていくたった一人の男の恐怖を、三人の監督がそれぞれ個性的に表現している。最新のSFXですら表現不可能な超現実の世界での、冒険を、ロマンを、悪夢を、そして快感を、アニメならではの技術とアイディアを駆使し、観る者に疑似体験させるほどダイナミックな映像に仕上げられている。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash
   name: 津嘉山正種
   type: cast
 - !ruby/hash:TagHash
-  name: 大竹宏
+  name: 家弓家正
   type: cast
 - !ruby/hash:TagHash
-  name: 家弓家正
+  name: 大竹宏
   type: cast
 - !ruby/hash:TagHash
   name: 水島裕

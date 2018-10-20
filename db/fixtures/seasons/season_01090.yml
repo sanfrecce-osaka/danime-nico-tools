@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/28/6/21286_1_6.png?1
 outline: なめこの森へようこそ！——ここは世界中からいろいろななめこ達が集まる「なめこの森」。そこで暮らす「なめこ」は、森の魅力を皆に伝えるため、仲間といっしょに森の案内係をはじめました。チーム名は「なめこの森のユニバーサルレンジャー」、略して「ＮＵＲ（ヌル）」！！森にやってくる世界中のなめこ達は、とってもユニークで個性的ななめこばかり。さて、今日はどんな騒動が森に巻き起こるのでしょう…！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 宮田幸季
   type: cast
 - !ruby/hash:TagHash

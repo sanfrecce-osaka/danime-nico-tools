@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/41/0/11410_1_6.png?1
 outline: 京都伏見に暮らす女子中学生・伏見いなりは、クラスメイトの丹波橋くんに片思いをする少し内気な女の子。ある日、助けた子狐の恩返しとして｢おいなりさん｣こと宇迦之御魂神(うかのみたまのかみ)から手違いで変身能力を授かってしまい・・・!?変身能力を手に入れたいなりが、京都を舞台に繰り広げる波乱万丈恋模様!恋に友情に悩みながらも成長していく少女のまっすぐな姿に胸打たれる、青春の全てがつまった作品です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 黒田崇矢
   type: cast
 - !ruby/hash:TagHash
-  name: 原紗友里
+  name: 大空直美
   type: cast
 - !ruby/hash:TagHash
-  name: 大空直美
+  name: 原紗友里
   type: cast
 - !ruby/hash:TagHash
   name: 佐土原かおり

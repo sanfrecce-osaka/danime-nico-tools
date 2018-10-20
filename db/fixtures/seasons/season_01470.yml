@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/6/10066_1_6.png?1
 outline: 狂乱に堕し、与えられた平和をただむさぼっていた人類に、ついに鉄槌がくだされた。核の炎が世界全土を焼き尽くし、すべてのものは破壊し尽くされた。秩序も、人の心さえも塵となって風に散り、わずかに生き残った人々は、暗黒の世紀末を迎えた。そこは力がすべての世界。力こそが正義であり、力あるものがすべてを手に入れ、力なき者たちはただおびえるしかない時代であった。その世紀末の世に覇王たらんと一人の漢が立ち上がった。漢の名はラオウ。1800年もの長きに渡り営々と受け継がれてきた最強の暗殺拳・北斗神拳の使い手であり、北斗4兄弟の長兄。彼は、己の覇道を突き進むため自らを｢拳王｣と名乗り、近隣の軍閥をことごとく制圧していった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 北斗の拳シリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

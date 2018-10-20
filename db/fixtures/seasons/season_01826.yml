@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/4/11454_1_6.png?1
 outline: 1970年地球はいたるところで醜い争いが続き、噂ははるか宇宙の果てまでも伝わっていった。文明の優れた星の生物が集まった銀河系連盟でも、このことは大問題となっていた。三人の宇宙人、ボッコ、プッコ、ノッコはウサギとウマとカモに姿を変えて、地球を破滅させるべきか存続させるべきかの調査にやってくる…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 白石冬美
   type: cast
 - !ruby/hash:TagHash

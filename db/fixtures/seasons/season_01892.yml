@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/2/22262_1_6.png?1
 outline: 人の細胞の数、およそ37兆個（新説）。細胞たちは体という世界の中、今日も元気に、休むことなく働いている。酸素を運ぶ赤血球、細菌と戦う白血球……そこには、知られざる細胞たちのドラマがあった。擬人化モノの新定番、大人気コミック「はたらく細胞」が待望のテレビアニメ化！誰もが共感できる、体内細胞擬人化ストーリー！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 早見沙織
+  name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
-  name: 井上喜久子
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 岡本信彦
@@ -68,10 +74,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

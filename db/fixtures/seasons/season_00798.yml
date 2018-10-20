@@ -5,34 +5,40 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/6/10026_1_6.png?1
 outline: 1930年代、｢魔の国際都市｣と呼ばれた上海。上海を別つ3つの地域、｢華界｣｢フランス租界｣｢共同租界｣。各々が行政自治権・治外法権を有する租界には、60カ国以上の民族が雑居し、日々闘争を繰り広げていた。犯罪が横行する租界で覇を唱える黒社会の権力者達。中でも忠義を重んじる青幇(チンパン)と、残酷非道なる紅華会、2つの秘密結社の利権争いは激烈を極めた。その果てることなき闘争は、多くの欲望と悲しみを生み出してゆく。その上海の地を一人の男が踏みしめた。その名は霞拳志郎。最強の暗殺拳“北斗神拳”の第62代伝承者であり、北斗の歴史上、最も奔放、且つ苛烈と呼ばれた男。ここに新たなる“北斗伝説”が刻まれる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 久川綾
   type: cast
 - !ruby/hash:TagHash
   name: 山寺宏一
   type: cast
 - !ruby/hash:TagHash
-  name: てらそままさき
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: てらそままさき
   type: cast
 - !ruby/hash:TagHash
   name: 家中宏
   type: cast
 - !ruby/hash:TagHash
-  name: 池田勝
-  type: cast
-- !ruby/hash:TagHash
   name: 茶風林
   type: cast
 - !ruby/hash:TagHash
-  name: 中田和宏
+  name: 池田勝
   type: cast
 - !ruby/hash:TagHash
   name: 秋元羊介
   type: cast
 - !ruby/hash:TagHash
   name: 大友龍三郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田和宏
   type: cast
 - !ruby/hash:TagHash
   name: 二又一成

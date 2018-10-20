@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/28/9/20289_1_6.png?1
 outline: ５０歳になったウミガメサミーとレイは、生まれたばかりの孫たちが砂浜から海へ旅立つ姿を見守っていた。そのとき、砂浜に突然人間の姿が！孫のエラとリッキーを逃がす為、身を挺して人間たちに捕まることになった2匹。彼らが連れてこられたのは、海の底に造られた巨大水族館だった。そこにはたくさんの海洋生物が住んでおり、みんな脱出することを夢みて日々を送っていた。サミーとレイは、新しい仲間たちと力を合わせて脱出する方法を探しはじめるが．．．。一方、そんなサミーとレイを助けるため、水族館を目指す子ガメのエラとリッキーたち。危険だらけの海のなか、小さなウミガメたちはおじいちゃんたちを救うことができるのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 芹澤優
   type: cast
 - !ruby/hash:TagHash
-  name: i☆Ris
+  name: 落合福嗣
   type: cast
 - !ruby/hash:TagHash
-  name: 落合福嗣
+  name: i☆Ris
   type: cast
 - !ruby/hash:TagHash
   name: 野島昭生

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/5/10925_1_6.png?1
 outline: 五百年の月日が流れ、通りがかりの旅の僧、三蔵法師に助けられた孫悟空は、彼のお供をして天竺に向かうことになる。 旅の仲間との出会い、行く手に待ち受ける魔物たちとの闘い、絶えず付きまとう謎の男、崑崙、そして孫悟空の隠された秘密…。波乱万丈な冒険に満ちた孫悟空の物語が、いま始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash

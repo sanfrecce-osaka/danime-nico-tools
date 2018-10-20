@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/41/8/11418_1_6.png?1
 outline: 靴職人を目指す高校生・タカオは、雨の朝は決まって学校をさぼり、公園の日本庭園で靴のスケッチを描いていた。ある日、タカオは、ひとり缶ビールを飲む謎めいた年上の女性・ユキノと出会う。ふたりは約束もないまま雨の日だけの逢瀬を重ねるようになり、次第に心を通わせていく。居場所を見失ってしまったというユキノに、彼女がもっと歩きたくなるような靴を作りたいと願うタカオ。六月の空のように物憂げに揺れ動く、互いの思いをよそに梅雨は明けようとしていた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2013年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2013年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -6,13 +6,19 @@ outline: 立華リツカは、四皇學園に通う高校2年生の少女。見�
   突如崩れ去った日常の中、窮地を救ってくれる生徒会長に徐々に心惹かれていくリツカ。その一方、秘密を抱える兄に戸惑いは深まっていく。はたして、彼女はどんな道を選ぶのか？ひとりの少女を巡る愛の物語は、今、新たな結末を迎える――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 小山力也
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬
@@ -67,6 +73,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

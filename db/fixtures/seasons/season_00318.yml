@@ -6,25 +6,34 @@ outline: 二十世紀に地球を襲った未曾有の大災害・落星雨（�
   ここに開演！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
   name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 内山夕実
+  name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
   name: 赤﨑千夏
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
-  type: cast
-- !ruby/hash:TagHash
-  name: 田村睦心
+  name: 内山夕実
   type: cast
 - !ruby/hash:TagHash
   name: 加隈亜衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 内田雄馬

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/44/4/10444_1_6.png?1
 outline: ムゲ帝王との戦いを経て、獣戦機隊の面々にもとりあえずの日常が戻っていた。それぞれが自身の問題と向き合い悩む中、謎の組織バンディッツが破壊活動を開始。さらには巨大な敵グザートが出現し、迎撃に向かう忍たち。しかし敵は自爆してしまい、それが新たな戦いの幕を開けることとなった……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
-  name: 矢尾一樹
+  name: 池田勝
   type: cast
 - !ruby/hash:TagHash
-  name: 池田勝
+  name: 矢尾一樹
   type: cast
 - !ruby/hash:TagHash
   name: 中原茂

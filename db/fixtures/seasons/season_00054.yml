@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/7/10827_1_6.png?1
 outline: 長きに渡った｢暗黒星人｣との戦いは、ここ数年は膠着状態が続き、歴戦の勇士・アトランジャーも、ついに第一線を退く事となった。そのアトランジャー退役式当日、突如現れた謎の巨大宇宙戦艦の攻撃によって、地球は蹂躙の危機にさらされる。しかしアトランジャー自体は｢鍵｣となるパイロットがそろわず、起動する事ができない。その時、退役式会場に居合わせていた少年少女達の脳裏へ、不思議な｢導き｣の声が響き渡った。それは、新たなパイロットとして少年達を呼び寄せるアトランジャー自身の声であった。そして・・・・・!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：吉田徹
   type: staff
 - !ruby/hash:TagHash

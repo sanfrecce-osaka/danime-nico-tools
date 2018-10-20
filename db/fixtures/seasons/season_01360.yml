@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/12/0/20120_1_6.png?1
 outline: 様々な異世界からやってきたモンスターとバディを組み、カードファイトをする。それがバディファイト。舞台はカードゲーム『バディファイト』のカードを通して様々な異世界と繋がった2030年頃の地球。第1シーズンで世界最強のバディファイターとなった、未門牙王(みかどがおう)の前に、突如巨大な竜、五角竜王天武が現れた。なんとかファイトに勝利した牙王に天武はこの世界｢とてつもない脅威｣を人々に迫っている事を伝える。だが直後、謎の敵｢イカヅチ｣が現れ天武の記憶を奪ってしまう!さらに１００体のイリーガルモンスター｢百鬼｣もこの世界に現れ、超東驚の街は大混乱に陥るのだった。この事態に立ち向かうため、牙王は｢バディポリス｣となり、｢百鬼｣とその親玉である｢イカヅチ｣と戦う事を決意する。さらに｢イカヅチ｣の背後には、かつて複数の異世界を滅ぼし、この世界をも食らいつくさんとするモンスター｢ヤミゲドウ｣の存在があった。はたして、牙王は龍炎寺タスクら仲間と共に、8体の｢角王｣と呼ばれる超モンスターを集め、｢ヤミゲドウ｣を封印する事ができるか!?世界の命運をかけたカードファイトが再び幕を開ける!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬
@@ -26,9 +35,6 @@ tags: !ruby/array:Hashie::Array
   name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
-  name: 斎賀みつき
-  type: cast
-- !ruby/hash:TagHash
   name: 高木渉
   type: cast
 - !ruby/hash:TagHash
@@ -38,7 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 増田俊樹
   type: cast
 - !ruby/hash:TagHash
-  name: 木内秀信
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 江原正士
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：XEBEC

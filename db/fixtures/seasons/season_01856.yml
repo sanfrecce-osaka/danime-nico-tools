@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/1/11461_1_6.png?1
 outline: お茶の水博士と共に宇宙ステーションのパーティーに参加していたアトムはパーティーに参加する中、ある声を耳にする。そして、宇宙ステーションのアンテナにひっかかっているカプセルを見つけ、その中から旧式の召使い型ロボット・イワンが発見される。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash

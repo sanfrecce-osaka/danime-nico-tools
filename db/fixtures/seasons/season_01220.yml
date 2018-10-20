@@ -7,6 +7,15 @@ outline: "「二人手をたずさえて、両家を縛る宿怨の鎖を断ち�
   果たして、生き残るのは一体誰なのか！？そして弦之介と朧、引き裂かれた二人の愛の行方は……？"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -37,10 +46,10 @@ tags: !ruby/array:Hashie::Array
   name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 内海賢二
+  name: 青野武
   type: cast
 - !ruby/hash:TagHash
-  name: 青野武
+  name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：GONZO

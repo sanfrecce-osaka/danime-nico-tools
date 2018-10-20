@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/6/10826_1_6.png?1
 outline: いつもハイテンションな少女、江戸前あづきと友人の真月むつみ、四方堂せりかは着ぐるみを装着し、変身少女・きグルみっくスワン、きグルみっくファルコン、きグルみっくスワローとなり町内の平和を守る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash

@@ -5,22 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/97/6/10976_1_6.png?1
 outline: ガーゴイルが巻き起こす“ご町内ハートフル&ハッピーコメディ”！商店街の福引きで大当たり！吉永さん家の双葉ちゃんがゲットしたのは、前代未聞の生き物だった！？犬の石像のように見えるソレは、突然喋りだすわ、石より硬いわ、あげく自分を｢吉永家の門番だ｣というわで、兄の和己くんはポカーン状態。双葉ちゃんは、提供した店に突っ返そうとアンティーク屋｢兎轉舎(とてんしゃ)｣に乗り込む。そこには青龍刀を持ったちょいと物騒なお姉さんが！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 斎藤千和
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉進歩
+  name: 宮田幸季
   type: cast
 - !ruby/hash:TagHash
-  name: 宮田幸季
+  name: 千葉進歩
   type: cast
 - !ruby/hash:TagHash
   name: 菊池正美

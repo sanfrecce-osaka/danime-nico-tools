@@ -6,6 +6,12 @@ outline: 古代から伝承される最強の武器、｢ウィッチブレイ�
   ―。近未来、東京。そこには｢最強の武器｣を求める二つの巨大組織があった。最強兵器の開発を目論む導示重工。遺伝子操作により優秀な人間を造り出そうとするNSWF。彼らが欲するのは、最強の威力を持ち、選ばれた女(モノ)だけが手にすることが出来るという｢ウィッチブレイド｣と、それを自在に扱うための力。震災から6年経った東京に、一組の親子の姿があった。天羽雅音、そして梨穂子である。二人での暮らしを夢みて児童福祉庁の施設を抜け出してきた二人。しかし、彼女達を待っていたのは、ウィッチブレイドを取り巻く闇の力と、過酷な運命であった...。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +21,10 @@ tags: !ruby/array:Hashie::Array
   name: 神田朱未
   type: cast
 - !ruby/hash:TagHash
-  name: 松風雅也
+  name: 園崎未恵
   type: cast
 - !ruby/hash:TagHash
-  name: 園崎未恵
+  name: 松風雅也
   type: cast
 - !ruby/hash:TagHash
   name: 脚本：小林靖子

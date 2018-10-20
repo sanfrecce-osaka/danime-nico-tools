@@ -5,19 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/2/11472_1_6.png?1
 outline: 捕手・御幸一也との出会いが、少年の人生を一変させる。沢村栄純１５歳。己の力を試すため、仲間に別れを告げ、野球名門校・青道の扉を叩く。そこには己のすべてをかけた誇り高き球児達がいた！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 岡本信彦
-  type: cast
-- !ruby/hash:TagHash
-  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 檜山修之
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 檜山修之
   type: cast
 - !ruby/hash:TagHash
   name: 浅沼晋太郎

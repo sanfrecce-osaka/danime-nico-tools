@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/08/0/20080_1_6.png?1
 outline: 11歳の弾丸特急小学生・桜庭ちとせは、学校の隣の役場に勤めるお兄ちゃん・柏原宏志に激ラブ▼　周囲の迷惑かえりみず、猛アタックの毎日！　愛たい時が恋時間、いつだってちとせは止められません!!　　宿命のライバル(?)担任の麻子先生に、お兄ちゃんの姪っ子、脅威のバイリンガール・美香ちゃんも加わって、恋のバトルはますますヒートアップ!!　クラスメイトの暴走パパっ子みさきちゃんに、ボケと突っ込みが冴え渡る不思議少女・雛子ちゃんを巻き込んで、ドキワクな小学生ライフはますますパワフル＆アンストッパブル！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash

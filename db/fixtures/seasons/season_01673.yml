@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/36/7/20367_1_6.png?1
 outline: 赤座あかり・歳納京子・船見結衣・吉川ちなつの4人が行っている部活動「ごらく部」。それに目をつけ、ちょっかい（？）を出し続ける「生徒会」。愛が溢れまくりで明日から元気に生きていけること請け合いのまったりストーリーが、テレビに帰ってくる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 豊崎愛生
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
   name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 藤田咲
   type: cast
 - !ruby/hash:TagHash
-  name: 津田美波
+  name: 大久保瑠美
   type: cast
 - !ruby/hash:TagHash
-  name: 大久保瑠美
+  name: 津田美波
   type: cast
 - !ruby/hash:TagHash
   name: 大坪由佳

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/35/8/10358_1_6.png?1
 outline: 主人公ぺぺはひたすら走っていた。照りつける熱い陽射しの中を、南スペインの乾いた道を。“ブエルタ・ア・エスパーニャ” 。“ツール・ド・フランス”と並ぶ｢世界三大自転車レース｣の一つ。勝利に恵まれず、レースの真っ只中、解雇を言い渡される。やがて生まれ育ったアンダルシアの村にさしかかる。そこでは、兄アンヘルと、かつての恋人カルメンの結婚式が行われていた。幼い頃、兄と取り合った1台の自転車。そして奪い合った恋人…忘れたい恋、忘れたい戦い、忘れたい土地から、遠くへ行きたい。ゴールへ近づくぺぺの心に様々な思いがよぎる。突然、ネグロという黒いネコが道に飛び出した。予想を裏切り、レースは思わぬ方向へ進んだ。果たしてぺぺに輝きの瞬間は訪れるのだろうか。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大泉洋
   type: cast
 - !ruby/hash:TagHash

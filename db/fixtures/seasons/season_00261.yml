@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/08/9/11089_1_6.png?1
 outline: ワガママで世間知らずな怪物ランド（怪物界）の王子、怪物太郎（怪物くん）。将来を心配した父の怪物大王は、修業させようと、ドラキュラ、オオカミ男、フランケンをお供につけ、人間界へと送り出した。そこで住居とした怪物屋敷の隣に住む少年ヒロシと仲良くなった怪物くんは、人間界で暮らす怪物たちの面倒を見たり、全世界の征服を企む悪魔たちの秘密組織、デモーニッシュと戦いながら、修業を積む。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 増山江威子
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 増山江威子
   type: cast
 - !ruby/hash:TagHash
   name: 潘恵子
@@ -17,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 肝付兼太
   type: cast
 - !ruby/hash:TagHash
+  name: 川島千代子
+  type: cast
+- !ruby/hash:TagHash
   name: 三輪勝恵
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木清信
-  type: cast
-- !ruby/hash:TagHash
-  name: 川島千代子
   type: cast
 - !ruby/hash:TagHash
   name: はせさん治

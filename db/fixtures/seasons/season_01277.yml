@@ -6,8 +6,50 @@ outline: 戦乱の終わった世界で、希望を枯らし自堕落な生活�
   アルトゥール・ガズの、分割された遺体を集めること。そんな彼らの遺体集めの旅の途中、チャイカの前に、自分と瓜二つの“チャイカ”を名乗る少女が次々に現れる。紅。蒼。そして白。それぞれの決意を胸に秘め、遺体を求める複数の“チャイカ”たち。誰が本物のチャイカなのか？“チャイカ”とは一体何者なのか？遺体、そして“チャイカ”を中心として、複雑に絡まり合う謎。すべての遺体が集まったとき、明らかになる真実とは――!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 音楽制作：フライングドッグ
-  type: staff
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎藤千和
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 間島淳司
+  type: cast
+- !ruby/hash:TagHash
+  name: 野水伊織
+  type: cast
+- !ruby/hash:TagHash
+  name: 森嶋秀太
+  type: cast
+- !ruby/hash:TagHash
+  name: ブリドカットセーラ恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本和臣
+  type: cast
+- !ruby/hash:TagHash
+  name: 安済知佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 大空直美
+  type: cast
+- !ruby/hash:TagHash
+  name: 藏合紗恵子
+  type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：ボンズ
   type: staff
@@ -15,10 +57,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：長岡成貢
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：ニトロプラス
+  name: 原作：榊一郎
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：榊一郎
+  name: 監督：増井壮一
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：新井伸浩
@@ -31,6 +73,15 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: KADOKAWA
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：野水いおり
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

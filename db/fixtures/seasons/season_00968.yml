@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/85/8/20858_1_6.png?1
 outline: 正体不明のマシーン型デジモン・ロコモンが山手線に出現する。暴走するロコモンの影響で、ネットワークに歪みが生じ、市ヶ谷周辺を中心に東京都内がデジタル・ゾーン化してしまう。タカトとギルモン、ルキとレナモンがロコモンに乗り込み、暴走を止めようと奮闘する。しかし、ロコモンは自らの意思ではなく、寄生した相手の欲望を糧に成長する透明なデジモン・パラサイモンに操られていた。そのパラサイモンにルキまでが取りつかれてしまい、レナモンやタカトを攻撃し始める。タカトは窮地に陥るが、ギルモンが嗅覚でパラサイモンを見つけ出し、反撃に打って出る。しかし、パラサイモンは、デジタルワールドから仲間たちを現実世界へリアライズさせるための先兵にすぎなかった…。電磁糸でデジタルワールドと現実世界を結び、おびただしい数のパラサイトモンが、その糸を登り、リアライズ化してゆく。迫り来る数多の、しかも見えない敵に、タカトたちテイマーとデジモンが、世界を守るために立ち向かう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
@@ -33,6 +39,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2002年

@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/29/3/10293_1_6.png?1
 outline: 地区展に出品する木彫りの精霊像を作り終えた美術部員の御厨仁。すると、その精霊像が突如顕視し、女の子になって動き・喋りだした！！「妾こそ、この大地の母なる産土神じゃ！！」。高飛車だが子供っぽい自称神様が巻き起こす、お茶の間感覚伝奇ストーリー。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 沢城みゆき
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
   name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 中原麻衣

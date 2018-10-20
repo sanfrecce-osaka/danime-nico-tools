@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/31/3/11313_1_6.png?1
 outline: 軽快な手拍子に合わせて、パパン、ワウ、トンプ、パニー、ニャウ、コケット、６名のゆかいな仲間たちが、楽しい振り付けで踊ります。振り付けをマスターしたら、自分でいろいろアレンジすると楽しいですよ。パパもママも一緒に、レッツダンシン！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：田上キミノリ
   type: staff
 - !ruby/hash:TagHash

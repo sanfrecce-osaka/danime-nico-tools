@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/23/1/20231_1_6.png?1
 outline: 一見ラブリーな外見とそれなりに邪悪な心を併せ持つ、自由気ままな謎の動物“うーさー”と、うーさーと同居する双子の姉妹“りん”と“れん”。その友達や彼女らの相棒的動物がなんとなく登場する、意味があるようでないショートストーリーがまたまた帰ってきた！日々余生にしてその日暮らし、自由気ままな謎の動物“うーさー”の荒ぶりそうで荒ぶらない毎日を、3DCGを用いた映像表現で高い評価を受ける「サンジゲン」が3度目のアニメ化！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash

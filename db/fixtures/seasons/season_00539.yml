@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/15/0/10150_1_6.png?1
 outline: "｢幻想魔伝 最遊記｣｢最遊記RELOAD｣｢最遊記RELOAD GUNLOCK｣・・・これまでに幾度もアニメ化され、その度に好評を博した人気アニメ｢最遊記｣シリーズ最新作が、満を持してOVAにてリリース決定!三蔵・悟空・八戒・悟浄たちの出会いを描いた、原作コミックスシリーズの中でも特に人気の高いエピソード『埋葬編』を、原作ファンも納得のハイクオリティでついに映像化…"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

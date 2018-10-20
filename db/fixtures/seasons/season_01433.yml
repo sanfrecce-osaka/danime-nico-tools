@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/45/2/20452_1_6.png?1
 outline: 実家の近くにあるゴルフ場に忍び込んでは、利用客に賭け試合を挑む野生児・猿谷猿丸。手作りの木製ドライバー一本に裸足といったスタイルだが、そのゴルフの腕前は本物で、猿丸はあらゆる勝負で連戦連勝を続けていた。ゴルフ場オーナーの息子・剣崎は、猿丸の腕前に対抗意識を刺激され、彼に試合を申し込む。しかし、猿丸が厳しい自然のなかで培ってきたゴルフ技術を前に、剣崎は圧倒されるのだった。やがて猿丸の実力は、影のゴルフ組織の注目を集めることになってしまう。組織の首領・ミスターXは、猿丸を配下に加えるべく、影のプロゴルファーを刺客として差し向けてくる。猿丸の行く手には、美貌の女子プロ・紅蜂や中国出身の武術家・竜とのゴルフ対決が待ち受けていた！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 緒方賢一
-  type: cast
-- !ruby/hash:TagHash
-  name: 野沢雅子
   type: cast
 - !ruby/hash:TagHash
   name: 屋良有作
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 鵜飼るみ子
   type: cast
 - !ruby/hash:TagHash
-  name: よこざわけい子
+  name: 青木和代
   type: cast
 - !ruby/hash:TagHash
-  name: 青木和代
+  name: よこざわけい子
   type: cast
 - !ruby/hash:TagHash
   name: 菅谷政子

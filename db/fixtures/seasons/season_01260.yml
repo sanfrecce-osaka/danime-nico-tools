@@ -6,6 +6,12 @@ outline: 2015年に初のストーリーアニメシリーズ『パンパカパ�
   WおNEW！』。第2弾もパンパカくんが更にありとあらゆる場所に行き、いろんなパンツに出会います！世界にはヘンテコな仲間、ゆかいな出来事、すてきなパンツがいーっぱい！さあパンパカくんといっしょにおでかけだ！ナイスパンツ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash

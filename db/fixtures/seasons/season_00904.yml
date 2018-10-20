@@ -6,6 +6,12 @@ outline: すでに解散していた獣戦機隊だったが,植物惑星ディ�
   かつての記憶を失いつつも,ディラドの女王・ディオレによって甦った彼はその手先として忍たちを襲撃するが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +21,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
-  name: 矢尾一樹
+  name: 池田勝
   type: cast
 - !ruby/hash:TagHash
-  name: 池田勝
+  name: 矢尾一樹
   type: cast
 - !ruby/hash:TagHash
   name: 中原茂
@@ -36,10 +42,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作：葦プロ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：只野和子
+  name: 音楽：いけたけし
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：いけたけし
+  name: キャラクターデザイン：只野和子
   type: staff
 - !ruby/hash:TagHash
   name: 超獣機神ダンクーガシリーズ

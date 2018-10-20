@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/57/0/10570_1_6.png?1
 outline: 心優しい総統率いる、間抜けな悪の秘密結社｢鷹の爪団｣が世界征服を目指して様々な作戦を考えるものの、最後には、非常識で正義の味方とは名ばかりのヒーロー、デラックスファイターに倒されてしまう。そんな日常を愉快に描いた脱力ギャグコメディ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: FROGMAN
   type: cast
 - !ruby/hash:TagHash

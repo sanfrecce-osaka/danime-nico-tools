@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/21/4/11214_1_6.png?1
 outline: 新西暦202年、地球は宇宙より来襲した、未知の知的生命体Ｓ・Ｅ、ＳＰＥＣＥ・ＥＭＩＧＲＡＮＴの手に落ちた。それから百年、Ｓ・Ｅの眼を逃れ海底都市に潜んだ人類は、密かに地球奪還のチャンスを狙っていた。そして今、大いなる使命と人類の希望とを胸に五人の電脳少女が動き出す。その名は―「電脳戦隊ヴギィ’ズ・エンジェル」！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
-  name: 塩沢兼人
+  name: 檜山修之
   type: cast
 - !ruby/hash:TagHash
-  name: 檜山修之
+  name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash
   name: 小杉十郎太

@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/9/11429_1_6.png?1
 outline: 危険で気持ち悪くて誰もやりたがらないエイリアン対策係になってしまった第9小学校6年の女の子、ゆり、くみ、かすみ。その活動とは、ボウグと呼ばれる共生型エイリアンを頭にかぶり、学校に出没するエイリアンを撃退・捕獲することだった！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 久川綾
   type: cast
 - !ruby/hash:TagHash
   name: 清水香里
   type: cast
 - !ruby/hash:TagHash
-  name: 中尾隆聖
+  name: 下屋則子
   type: cast
 - !ruby/hash:TagHash
-  name: 下屋則子
+  name: 中尾隆聖
   type: cast
 - !ruby/hash:TagHash
   name: 中山さら
@@ -29,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：蓜島邦明
   type: staff
 - !ruby/hash:TagHash
+  name: 監督：入江泰浩
+  type: staff
+- !ruby/hash:TagHash
   name: アニメーション制作：GENCO
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：入江泰浩
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：入江泰浩
   type: staff
 - !ruby/hash:TagHash
   name: 原作：富沢ひとし

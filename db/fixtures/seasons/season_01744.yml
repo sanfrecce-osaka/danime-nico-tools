@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/30/0/10300_1_6.png?1
 outline: 狙った獲物は必ず奪う神出鬼没の大泥棒・ルパン三世。彼はかの名高き怪盗ルパンの孫だ。早撃ち0.3秒のクールなガンマン・次元大介、特異の斬鉄剣でどんなものでも真っ二つのサムライ・十三代石川五右衛門、謎の美女・峰不二子たちの仲間とともに、彼を捕まえるのを生きがいとしている警視庁の敏腕・銭形警部や、白乾児や摩毛狂介たちの暗黒街の強敵を相手にしながら、今日も華麗にお宝を頂戴するのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash
   name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash
-  name: 山田康雄
+  name: 大塚周夫
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚周夫
+  name: 山田康雄
   type: cast
 - !ruby/hash:TagHash
   name: 二階堂有希子

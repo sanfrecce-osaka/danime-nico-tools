@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/25/3/20253_1_6.png?1
 outline: 1930年代の半ば頃の英国北部のヨークシャー州、炭鉱の麓にある小さな集落 グリノールブリッジ。愛情深い両親に恵まれたジョンは、ある日、村はずれで迷子になった仔犬・ラッシーに出会います。羊の群に囲まれ、怯えているラッシーをジョンは連れて帰り面倒をみることにしました。何にでも興味を持ち、とことこよちよち駆け回るラッシー。ジョンは、そんなラッシーにどんどん夢中になり…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田中真弓
   type: cast
 - !ruby/hash:TagHash
@@ -20,6 +23,9 @@ tags: !ruby/array:Hashie::Array
   name: 松倉羽鶴
   type: cast
 - !ruby/hash:TagHash
+  name: 監督：片渕須直
+  type: staff
+- !ruby/hash:TagHash
   name: 脚本：三井秀樹
   type: staff
 - !ruby/hash:TagHash
@@ -30,9 +36,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：笹路正徳
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：片渕須直
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：1990年代

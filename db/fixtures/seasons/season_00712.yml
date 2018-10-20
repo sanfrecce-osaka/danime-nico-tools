@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/56/4/20564_1_6.png?1
 outline: みんなが寝ている時間。かわいいモンスターたちが登場する！おっちょこちょいだけどかわいらしく、意地悪だけどピュアなスプーキッズのみんなに会ってみよう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: ソン・ユン
   type: cast
 - !ruby/hash:TagHash

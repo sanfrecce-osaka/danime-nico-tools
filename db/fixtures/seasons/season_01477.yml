@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/86/3/10863_1_6.png?1
 outline: サン=テグジュペリ原作『星の王子さま』をアニメ化したのが本作品で、1978年度第3回文化庁こども向けテレビ用優秀映画賞受賞した良作です。ピュアとメルヘンに満ちた世界をお楽しみください。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 松野太紀
   type: cast
 - !ruby/hash:TagHash

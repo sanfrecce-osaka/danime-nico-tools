@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/56/9/20569_1_6.png?1
 outline: "『“こんなの” 拾うんじゃなかった…。』スーパーからの買い物帰り、生ゴミを漁る奇妙な生物に話しかけられた【葉波ゆずか】。普通の人間には見えないその生物【ミトン】に魔法少女にならないかと誘われるが｢こんなおいしい話は他にないよ？｣｢ぶっちゃけお得だよ？｣という強引な説明があまりに怪しすぎてイマイチ現実味が感じられない…。『でも、今を逃したらきっと…、ずっと、気になってしまうと思う。』双見酔が描く｢魔法少女の日常｣、ゆるゆるスタート！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 西明日香
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤美来
   type: cast
 - !ruby/hash:TagHash
-  name: 若井友希
+  name: 藤田茜
   type: cast
 - !ruby/hash:TagHash
-  name: 藤田茜
+  name: 若井友希
   type: cast
 - !ruby/hash:TagHash
   name: 大森日雅

@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/47/9/21479_1_6.png?1
 outline: 歴史を変えようとする者たちから、正しい歴史を守るタイムパトロール隊。その隊員であるアターシャたち落ちこぼれ三人組は、謎の人物トンマノマントにそそのかされ、偉人として名を残すために悪の手先オジャママンとして歴史の改変を狙う。しかし、同じく隊員のヒカルとナナは、その野望を阻止するために正義の味方オタスケマンに変身。互いに正体を知らないまま、様々な時代で歴史を賭けた攻防を繰り広げる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 富山敬
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
   name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 富山敬
   type: cast
 - !ruby/hash:TagHash
   name: 滝口順平

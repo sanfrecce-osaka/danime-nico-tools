@@ -6,6 +6,12 @@ outline: オタク高校生「安芸倫也」が、ある日桜舞い散る坂�
   software”を立ち上げる。そこに音楽担当となる従姉妹「氷堂美智留」を加え、ようやく彼らのギャルゲーは一つのルート完成までこぎつける。2カ月後に冬コミを控えた倫也たち。果たして無事にゲームを完成させることができるのか！？本格的青春グラフィティ再び、ここに開幕―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash

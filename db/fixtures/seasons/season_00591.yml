@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/10/5/10105_1_6.png?1
 outline: バル・マスケとの戦いを終え、平和を取り戻した御崎市。シャナと悠二は町にとどまり、穏やかな日々を過ごす。だが、悠二を、宝具｢零時迷子｣を狙い新たな“徒”が現れる……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -62,10 +71,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2007年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2007年
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: 明田川仁

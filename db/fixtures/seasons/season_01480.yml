@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/0/11040_1_6.png?1
 outline: 私立斉東高等学校。その立地と由来の故から数多くの学校に関わる精霊や幽霊が集う場所である。「S東高聖徒会」の役員を務める生徒会長・北城遥都（教会の息子）、副会長・朝比奈睦月（神社の娘）、副会長・龍堂和御（寺の息子）の3人が学校霊と生徒たちとの仲立ちを行い「霊と人間の理想郷」をこの世に顕現するために奮闘するが…！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 青野武
   type: cast
 - !ruby/hash:TagHash

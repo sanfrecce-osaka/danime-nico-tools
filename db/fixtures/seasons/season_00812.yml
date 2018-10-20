@@ -6,6 +6,12 @@ outline: 美しい荒廃感が漂う未来都市。純粋無垢な機械少女�
   ｢護るために戦う｣ことの辛さ。ひとつひとつの出来事が、ソルティを確実に人間らしく成長させるが、同時にソルティが人間ではないという現実にも直面する。 そして、ソルティに秘められた謎が明らかになった時、大いなる陰謀の渦がソルティとソルティを取り巻く人々を巻き込んでゆく――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash

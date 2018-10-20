@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/51/2/21512_1_6.png?1
 outline: ここは、空に多くの島が漂う、空の世界。神秘を奉る島ザンクティンゼルに暮らす少年・グランと一緒に暮らす相棒のビィは、ある日、空から落ちてきた少女・ルリアと出会う。ルリアは、この空の世界を強大な軍事力によって支配しようとする軍事国家・エルステ帝国から逃れてきたのだった。グランとルリアは、帝国から逃れるため、そしてグランの父が残した｢星の島イスタルシアで待つ｣という手紙を手に、壮大な空へと旅立つ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

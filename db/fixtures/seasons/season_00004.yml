@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/78/4/21784_1_6.png?1
 outline: アイドルになりたいと思っていた夢川ゆいは、自分の住む町に「プリパラ」ができると知り、大喜び。そんな時、ゆいの通う学校に転校してきたのは、パラ宿でトップアイドルとして知られる真中らぁら。ところが、らぁらはシステムエラーでプリパラチェンジしても姿が変わらなくなっていた……。はたしてゆいは、自分が望むアイドルになれるのか？そして２人はパパラ宿のプリパラをアイドルでいっぱいにすることができるのか？！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash

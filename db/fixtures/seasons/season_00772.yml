@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/56/9/10569_1_6.png?1
 outline: 第六天魔王・織田信長との天下二分の死闘の後―。武田と上杉、両軍は川中島で激しい攻防を繰り広げ、その一方で、宿命に結ばれし蒼紅伊達政宗と真田幸村もまた、勝負の刻を迎えていた。だがそこに奇襲の報。謎の大軍勢によって、武田・上杉・伊達の三軍は川中島の地に包囲されることになる。それは、日ノ本に再び大乱呼ぶことになる戦国の覇王・豊臣秀吉、その人の出現であった。世は再び、乱世となる―!!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -17,22 +23,22 @@ tags: !ruby/array:Hashie::Array
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 保志総一朗
+  name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
-  name: 玄田哲章
+  name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
   name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 桑谷夏子
+  name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
   name: 朴璐美
   type: cast
 - !ruby/hash:TagHash
-  name: 中井和哉
+  name: 桑谷夏子
   type: cast
 - !ruby/hash:TagHash
   name: 森田成一

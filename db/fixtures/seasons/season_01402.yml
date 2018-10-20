@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/80/3/21803_1_6.png?1
 outline: ツンデレ・妹などなど、店員さんのいろんな「属性」が楽しめる喫茶店で、新人アルバイトの苺香が店長にリクエストされたのはなんと「ドS」キャラ!？一生懸命働くうちに、意外と「ドS」の才能が開花してしまい…。踏まれたって全部がご褒美、倒錯的ワーキングコメディ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash

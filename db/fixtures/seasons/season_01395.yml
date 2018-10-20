@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/38/0/10380_1_6.png?1
 outline: 沖縄から世界へ、駆け巡るハイパーアクション・バトルロードムービー!!その闘いは、時を超え、場所を変え、歴史の陰で絶え間なく続いていた。 翼手──異形の姿を持ちつつ人に擬態し、決して人間に気付かれることなく血を喰らう生きもの。翼手を追い、それを殲滅するため闘いを続ける謎の組織、──｢赤い盾｣。時代の中で、人々の闇を巻き込み、闘いはさらなる大きなものへと成長し続けた。─そして2005年、沖縄。この地に暮らす高校生、音無小夜は暖かい家族と平和な毎日をおくっていた。彼女に足りないものはただひとつ――1年以上前の記憶だけだった。しかし、平凡な暮らしはひとつの事件によってもろくも崩れ始める。倒すべき敵、果たすべき使命が闘いの渦に彼女を引き戻す。漆黒の服を身に纏い、チェロを奏でる青年、ハジ。運命を共にするハジから渡される刀を少女が手にしたとき、ついに歴史が動き始める。小夜は、失われた記憶、自分の存在を取り戻すことはできるのか。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -23,22 +26,22 @@ tags: !ruby/array:Hashie::Array
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
-  name: 中田譲治
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 遊佐浩二
   type: cast
 - !ruby/hash:TagHash
-  name: 吉野裕行
+  name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 名塚佳織
+  name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
   name: 原作：Production I.G

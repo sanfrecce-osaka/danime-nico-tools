@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/13/4/11134_1_6.png?1
 outline: "「ごめん…あなたを魔法使いにしてしまった」現実世界の高校生・七瀬武は、崩壊世界の少女・相羽六と出会ったことで魔法使いが繰り広げる壮大な闘いに巻き込まれることに。六を助けるために、世界を救うために、運命を変えるために。現代・本格魔法アクションの幕が上がる――。七瀬武はちょっと暗い過去を持ってはいるが普通の高校生だ。しかし、ある日彼は校内で、見たことのない制服を着た少女・相羽六が倒れているのを発見する。彼女は自分が「魔法使い」であると明かし、とあるきっかけにより武を「魔法使いにしてしまった」と告白する。この出会いにより、武の運命は大きく揺さぶられ、そして変化していくのだった。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -14,16 +23,16 @@ tags: !ruby/array:Hashie::Array
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 岡本信彦
-  type: cast
-- !ruby/hash:TagHash
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
   name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
   name: 中井和哉
@@ -44,13 +53,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：佐藤雄三
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：江畑諒真
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：スズキヒサシ
   type: staff
 - !ruby/hash:TagHash
   name: 原作：瑠奈璃亜
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：江畑諒真
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/61/6/21616_1_6.png?1
 outline: 舞台は、少子化の影響で女子高から共学となった私立桜才学園高等部。その男女比は28:524。圧倒的な女子高生天国の中、津田タカトシはひょんなことから生徒会副会長に就任する。彼は作中登場キャラの中でも、ゴクゴク普通な一般・常識人。堅いイメージの生徒会。だがそこは、想像を遥かに絶するメンバーがいた…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
-  name: 下田麻美
+  name: 白石稔
   type: cast
 - !ruby/hash:TagHash
-  name: 白石稔
+  name: 下田麻美
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：GoHands

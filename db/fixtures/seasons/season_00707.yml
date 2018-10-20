@@ -5,22 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/13/4/22134_1_6.png?1
 outline: 警視庁で「神の頭脳」と謳われながら、突如姿を消した兄。主人公･鳴海歩は、兄にも負けない頭脳を生かし、周囲で起こる事件に挑んでゆく。しかしそれは、「ブレード･チルドレン」と呼ばれる少年少女達と、そして、兄･鳴海清隆をめぐる謎の序章にすぎなかった…。スクウェア･エニックス「ガンガンコミックス」の大人気推理サスペンスをアニメ化。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
-  name: 井上和彦
-  type: cast
-- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 三石琴乃
+  name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
   name: 草尾毅
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 浅野真澄

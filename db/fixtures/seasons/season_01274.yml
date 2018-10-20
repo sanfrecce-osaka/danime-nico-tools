@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/4/20384_1_6.png?1
 outline: 東京武偵高校、そこは武力を行使する探偵――通称『武偵』を育成する特殊な教育機関。ここには「戦姉妹｛アミカ｝」という、先輩・後輩が一対一で長期訓練をする制度があった。憧れの最強武偵アリア先輩と戦姉妹契約を結ぶため、落ちこぼれの最弱武偵あかりがその小さな手に銃を取る！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: ブリドカットセーラ恵美
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽制作：フライングドッグ
+  name: アニメーション制作：動画工房
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：動画工房
+  name: 音楽制作：フライングドッグ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：大島美和
@@ -83,13 +89,13 @@ tags: !ruby/array:Hashie::Array
   name: 二重人格
   type: other
 - !ruby/hash:TagHash
-  name: 松原理恵
-  type: other
-- !ruby/hash:TagHash
   name: デルファイサウンド
   type: other
 - !ruby/hash:TagHash
   name: 志茂文彦
+  type: other
+- !ruby/hash:TagHash
+  name: 松原理恵
   type: other
 - !ruby/hash:TagHash
   name: えのもとたかひろ

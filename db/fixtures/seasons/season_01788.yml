@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/98/5/20985_1_6.png?1
 outline: 12年前、リムガルド王国で起こった事件は大きな謎を残したまま、人々の記憶から忘れ去られようとしていた。時は流れ、主人公ユイとレナの二人姉妹はエナストリア皇国で平穏な日常をおくっていた。ある日、1体の巨大メカがエナストリアを襲う。この日を境に少女達は運命の渦へと巻き込まれていくのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 佐倉綾音
-  type: cast
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
   name: 勝生真沙子
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 緒方恵美
   type: cast
 - !ruby/hash:TagHash
-  name: 家中宏
+  name: 久保ユリカ
   type: cast
 - !ruby/hash:TagHash
-  name: 久保ユリカ
+  name: 家中宏
   type: cast
 - !ruby/hash:TagHash
   name: 浅倉杏美

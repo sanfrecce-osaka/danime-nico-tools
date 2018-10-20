@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/44/3/11443_1_6.png?1
 outline: 千葉県にある総北高校に通う小野田坂道はちょっと気弱でアニメが大好きな高校一年生。坂道は高校に入ったらアニメ研究部に入部しようとしていたが、中学自転車界で名を馳せた今泉俊輔や、関西の自転車大会で賞を総なめにした鳴子章吉との出会いによって、自転車競技部に入部することになる。自転車競技部では激しいトレーニングや事件が待ち受けていたが、金城、田所、巻島といった個性的な先輩や、沢山の仲間に支えられて数々の試練を乗り越えていく坂道。そうした日々の中で坂道の中に眠る自転車選手(ロードレーサー)としての才能が目覚め始める…！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
   name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
-  name: 斉藤壮馬
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
   name: 山下大輝

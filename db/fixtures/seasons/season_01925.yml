@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/35/2/22352_1_6.png?1
 outline: 容姿端麗、成績優秀、スポーツ万能、誰もが憧れる完璧女子高生の土間うまる。ところが家に帰ると干物な妹“干物妹”(ひもうと)に！？漫画、アニメ、ゲーム、ネット、コーラ、ポテチ……好きなものに囲まれて、過ごす至高のグータラ時間。そんな姿を知っているのは、一緒に暮らすお兄ちゃん・タイヘイだけ。タイヘイに加え、クラスメイトの海老名、きりえ、シルフィンたちと織りなす、うまるの最強で最高な日常(パラダイス)がはじまる…！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
@@ -48,6 +51,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 集英社
+  type: other
+- !ruby/hash:TagHash
+  name: 主人公がかぶりもの
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

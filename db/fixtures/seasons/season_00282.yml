@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/63/1/20631_1_6.png?1
 outline: 初代ボンゴレファミリーによる奇跡的な試練を乗り越え、さらにパワーアップをして10年後の並盛町に戻ってきたツナたち。チョイスバトルから脱出した際、超炎リング転送システムにダメージを与えて時間稼ぎをしているものの、いつ白蘭たちが襲撃してきてもおかしくない状況だ。そんな緊張感の中、6つの光が現れる。真6弔花がついに現れたのだ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash

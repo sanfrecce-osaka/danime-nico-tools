@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/64/5/21645_1_6.png?1
 outline: 俺の名前は佐助。大学院生だったんだけど、ある日、戦国時代にタイムスリップしてしまった。しかも、教科書で学んだ歴史とはまったく違う戦国時代に……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 武内駿輔
   type: cast
 - !ruby/hash:TagHash
-  name: 新垣樽助
+  name: 山谷祥生
   type: cast
 - !ruby/hash:TagHash
-  name: 山谷祥生
+  name: 新垣樽助
   type: cast
 - !ruby/hash:TagHash
   name: 加藤和樹

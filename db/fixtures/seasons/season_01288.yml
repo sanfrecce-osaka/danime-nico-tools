@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/84/5/10845_1_6.png?1
 outline: 美しきサムライたちが織り成す、気高き魂の物語、ここに開幕！美しい国、『大日本』。その美しさを羨み、我が物にせんと列強諸国は幾度となくその地を侵す。だが、その度に立ち塞がる大日本の守護“サムライ”！『百花繚乱』、それは美しきサムライ達が織りなす、気高き魂の物語である。時は平誠二十某年。長きに渡り大日本を統治する徳川幕府が霊峰富士の裾野に開いた巨大学園“武應学園塾”では、武家の子女が集い、大日本の次世代を担うため日々勉学と武術に励んでいた。学園に通う高校生にして柳生道場の師範代・柳生宗朗の前に現れる少女たち。全裸のまま空から降ってきた少女、柳生十兵衛。生徒会に敵対する豊臣方の真田幸村と後藤又兵衛。生徒会長、徳川慶彦の実妹にして宗朗の幼馴染の徳川千こと千姫と、その付き人で生徒会風紀委員長のメガネっ娘忍者、服部半蔵。宗朗のもとに集う美しきサムライたち。彼女たちとの出会いは偶然なのか？それとも必然なのか！？幸村が予知した“大日本を覆う黒い影”、時を同じくして、学生が次々と姿を消す“神隠し”、空から降ってきた少女“柳生十兵衛”の謎。学園の頂点にして絶対権力者である生徒会長、徳川慶彦の思惑。そして大日本に幾度と無く訪れた危機を、その絶対的な実力で救ってきた剣姫【マスターサムライ】とは！？宗朗と少女たちの出会いが、大日本の歴史を揺るがす、新たなる動乱の幕開けとなる！！今ここに、美しきサムライたちの戦いがはじまる！！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
@@ -59,10 +68,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 妹
+  name: 製作年：2010年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2010年
+  name: 妹
   type: other
 - !ruby/hash:TagHash
   name: 明田川仁

@@ -7,6 +7,12 @@ outline: |-
   二人を待ち受ける運命とは、そして「鬼」とは———。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -22,16 +28,16 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
-  type: cast
-- !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 木村良平
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
   type: cast
 - !ruby/hash:TagHash
   name: 逢坂良太
@@ -61,10 +67,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

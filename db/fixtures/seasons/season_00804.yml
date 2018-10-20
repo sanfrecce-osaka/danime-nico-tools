@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/7/11107_1_6.png?1
 outline: 世界一の俊足を誇るソニックと相棒のテイルス。彼らの元に大統領の危機を告げる使者が訪れる。新たな強敵ブラックエッグマン、メタルソニックを相手にソニックと仲間たちが立ち向かう。果たしてソニックは惑星フリーダムの平和を取り戻せるのか!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 松本保典
   type: cast
 - !ruby/hash:TagHash

@@ -6,6 +6,15 @@ outline: 数多くのヒーローを輩出している学校ー死神武器職�
   つぐみ、めめ、アーニャの3人が死武専を舞台に紡ぐ、殺伐だけどウキウキ学園ライフ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +24,10 @@ tags: !ruby/array:Hashie::Array
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 小松未可子
@@ -30,10 +39,10 @@ tags: !ruby/array:Hashie::Array
   name: 小見川千明
   type: cast
 - !ruby/hash:TagHash
-  name: 山下誠一郎
+  name: 小岩井ことり
   type: cast
 - !ruby/hash:TagHash
-  name: 小岩井ことり
+  name: 山下誠一郎
   type: cast
 - !ruby/hash:TagHash
   name: 千菅春香

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/11/2/10112_1_6.png?1
 outline: とある古びた一軒家で一人暮らしをしている高校生・夜知春亮。ある夜、台所からの怪しい気配に目を覚ましてみると、そこにいたのは全裸の煎餅泥棒女で!?フィアと名乗るその少女曰く、自分は｢呪われた道具｣であり、その呪いを解くために夜知家を訪れたという。呪いを受けつけない体質の春亮は押しかけ気味なその少女と同居することになるが・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash

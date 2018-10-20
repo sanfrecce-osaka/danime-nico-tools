@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/0/11470_1_6.png?1
 outline: マンガを愛する書店員たちの赤面青春★ラブコメディ！！「コミック専門店　うまのほね」そこではみんな何かのマニアだったり、コアなファンだったりと濃い目のキャラ多し。新刊を並べたり、シュリンク掛けたり、女子力の低さに戦慄したり、エロ本大好き人間なのかと問い正したりと、真面目（？）に楽しく働きつつ、あだ名で呼び合う男子と女子の仲も急接近しちゃったり！？イってるギャグと胸キュンな恋愛模様が止まらない、書店青春ラブコメ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 小林ゆう
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
 - !ruby/hash:TagHash
   name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
   name: 逢坂良太

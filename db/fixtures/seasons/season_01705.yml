@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/8/10038_1_6.png?1
 outline: 時は明治三十八年。前年より始まった日露戦争はいよいよ激しさを増していた。圧倒的な兵力もさることながら、日本軍を苦しめていたのはロシアの礼武軍団、『ファーデン騎士団』であった。それに立ち向かうのは新たな五人の乙女達とそれを率いる一人の青年将校。五人の心がひとつになる時、強志朗の想いは新たな歴史の幕を開ける…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
-  name: 門脇舞以
+  name: 後藤邑子
   type: cast
 - !ruby/hash:TagHash
-  name: 後藤邑子
+  name: 門脇舞以
   type: cast
 - !ruby/hash:TagHash
   name: こおろぎさとみ

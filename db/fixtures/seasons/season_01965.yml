@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/5/22415_1_6.png?1
 outline: 夜。逃げるように街を駆け抜ける蔵原走（くらはらかける）。その横に、不意に自転車が走り込んで来る。見知らぬ男が、走に向かって問いかける。「なあ！走るの好きか！」男の名は清瀬灰二（きよせはいじ）。走は、灰二に導かれるまま、竹青荘という古びたアパートに辿り着く。そこに暮らす個性豊かな９名の住人。最後の空室を勧められ、戸惑いながらも、押し切られていく走。まさか自分が、『１０人目の男』だとは、夢にも思っていなかった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
@@ -32,6 +38,9 @@ tags: !ruby/array:Hashie::Array
   name: 北沢力
   type: cast
 - !ruby/hash:TagHash
+  name: 大塚剛央
+  type: cast
+- !ruby/hash:TagHash
   name: 音楽：林ゆうき
   type: staff
 - !ruby/hash:TagHash
@@ -42,6 +51,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 原作：新潮文庫
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：千葉崇洋
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

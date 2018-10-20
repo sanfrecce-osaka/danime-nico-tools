@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/47/9/20479_1_6.png?1
 outline: ランボの10年バズーカのせいで、未来へ飛ばされてしまったツナたち。そこは、新興マフィアであるミルフィオーレが支配する変わり果てた並盛町だった。ボンゴレファミリーたちが壊滅的な打撃を被っているという絶望的状況の中、ツナは仲間のため、もといた時代に戻るべく立ち向かう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash

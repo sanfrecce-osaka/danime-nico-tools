@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/61/6/11616_1_6.png?1
 outline: スウェーデン南部の農村に住むいたずらっこのニルスは、ある日、妖精との約束を破ったために、魔法で体を小さくされてしまう。しかし、それがきっかけで動物と話ができるようになり、ガチョウのモルテン、ハムスターのキャロットと共に、ガンの群れの一員として旅立つことに。ニルスは冒険を通して、勇気や責任感、協調性を学んでいく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
-  name: 緒方賢一
+  name: 小山茉美
   type: cast
 - !ruby/hash:TagHash
-  name: 小山茉美
+  name: 緒方賢一
   type: cast
 - !ruby/hash:TagHash
   name: 富山敬
@@ -59,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: ニルスのふしぎな旅シリーズ
   type: other
 - !ruby/hash:TagHash
-  name: 製作年代：1980年代
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1983年

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/84/8/10848_1_6.png?1
 outline: 妖を目に映すことができた夏目レイコは、妖たちに勝負を挑み、隷属させる証として名前を書かせたという。その契約書の束｢友人帳｣を手にした孫の夏目貴志もまた、レイコの力を受け継ぎ、人にあらざるものを見ることができた。用心棒である妖怪・ニャンコ先生の力を借り、妖たちに名前を返していくことを決めた夏目。人の心、妖たちの想いをわかり始めた夏目の元には、さまざまな妖が集い始め…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
-  name: 藤村歩
+  name: 伊藤美紀
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤美紀
+  name: 藤村歩
   type: cast
 - !ruby/hash:TagHash
   name: 菅沼久義
@@ -38,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ブレインズ・ベース
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: 監督：大森貴弘
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：大森貴弘
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: 原作：緑川ゆき

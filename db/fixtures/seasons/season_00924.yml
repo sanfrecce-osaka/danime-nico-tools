@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/8/21888_1_6.png?1
 outline: つぶやき隊とは、身近にある物や動物たちがキモかわキャラクターとなり、普段、心の内に秘めている思いをつぶやく目的に結成された、とくしゅ部隊である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: つぶやきシロー
   type: cast
 - !ruby/hash:TagHash

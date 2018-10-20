@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/1/10431_1_6.png?1
 outline: S-1星は放射能に汚染され、地上では生活のできない星と化していた。軍部を牛耳るガットラーは、居住可能な惑星を侵略し移民してしまおうとクーデターを起こす。父をガットラーに殺された青年マリンは、亜空間戦闘機パルサバーンでガットラーに戦いを挑むが、船団のワープに巻き込まれ、西暦2100年の地球へと飛ばされてしまう。その地球は、まさにガットラーの理想とする惑星だった。侵略の魔の手より美しい地球を守るため、マリンはブルーフィクサーの主力メカ・バルディオスで戦いを挑む。マリンに弟を殺され、復讐心を燃やし、戦い続ける女性アフロディアとマリンとのエピソードを中心にテレビシリーズで描ききれなっかた部分を再構成した劇場長編版。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
@@ -44,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 宇宙戦士バルディオスシリーズ
   type: other
 - !ruby/hash:TagHash
-  name: 製作年代：1980年代
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
   name: 葦プロダクション

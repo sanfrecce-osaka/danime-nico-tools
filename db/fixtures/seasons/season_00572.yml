@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/3/11323_1_6.png?1
 outline: 里見義実の娘である伏姫は、妖女玉梓の怨霊から里見家を救うため自らの命と引き換えに八人の剣士を生み出した。過酷な運命に翻弄されながらも八つの珠に導かれ、八犬士たちは集結していくのだが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash

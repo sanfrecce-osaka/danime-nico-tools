@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/03/4/11034_1_6.png?1
 outline: 宇宙に憧れている15歳の少女、片瀬志麻は、宇宙ステーション・ファウンデーションII、通称ステルヴィアで宇宙学園に入学することを決めて、一人宇宙に向けて旅立った。仲間たちとともに憧れのオーバビスマシンに搭乗し、才能を発揮する志麻。しかし、ステルヴィアは次第に惑星圏同士の駆け引きに巻き込まれていって…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash
@@ -17,28 +26,28 @@ tags: !ruby/array:Hashie::Array
   name: 檜山修之
   type: cast
 - !ruby/hash:TagHash
-  name: 岸尾だいすけ
-  type: cast
-- !ruby/hash:TagHash
   name: 朴璐美
   type: cast
 - !ruby/hash:TagHash
-  name: 広橋涼
+  name: 岸尾だいすけ
   type: cast
 - !ruby/hash:TagHash
   name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
-  name: 野中藍
-  type: cast
-- !ruby/hash:TagHash
-  name: 斎賀みつき
+  name: 広橋涼
   type: cast
 - !ruby/hash:TagHash
   name: 松岡由貴
   type: cast
 - !ruby/hash:TagHash
+  name: 野中藍
+  type: cast
+- !ruby/hash:TagHash
   name: 根谷美智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：スターチャイルドレコード

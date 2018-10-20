@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/5/10285_1_6.png?1
 outline: フレンチドッグのフレディーが、離ればなれになった大好きな飼い主・愛ちゃんを探す冒険物語。弱虫で臆病なフレディーは、旅先で出会ったちょっと物知りなダックスフンド・ドッチと食いしん坊なボクサー犬・マックスと一緒に旅を続けることに…。たくさんの犬たちと出会い、別れを繰り返しながら、ものごとを恐れない強い心を身につけていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 小林由美子
   type: cast
 - !ruby/hash:TagHash

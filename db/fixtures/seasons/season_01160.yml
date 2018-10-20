@@ -6,6 +6,15 @@ outline: 銀髪の美少女が意味不明なキャッチフレーズととも�
   真尋は平和に暮らすことができるのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -15,16 +24,16 @@ tags: !ruby/array:Hashie::Array
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 久川綾
-  type: cast
-- !ruby/hash:TagHash
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 松来未祐
+  name: 久川綾
   type: cast
 - !ruby/hash:TagHash
   name: 草尾毅
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
   name: 新井里美
@@ -33,10 +42,10 @@ tags: !ruby/array:Hashie::Array
   name: 大坪由佳
   type: cast
 - !ruby/hash:TagHash
-  name: 國府田マリ子
+  name: 島田敏
   type: cast
 - !ruby/hash:TagHash
-  name: 島田敏
+  name: 國府田マリ子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：XEBEC
@@ -45,10 +54,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：DIVE II entertainment
+  name: 監督：長澤剛
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：長澤剛
+  name: 音楽制作：DIVE II entertainment
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：滝山真哲

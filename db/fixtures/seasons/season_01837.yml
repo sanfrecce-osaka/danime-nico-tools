@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/93/4/10934_1_6.png?1
 outline: 時は21世紀初頭。ある団地の公園で、2人の男子と1人の女子が戯れていた。強い絆で結ばれたすばると、プロキオン、そしてミラの3人。が、大人になった3人の中でプロキオンとミラの2人が結ばれ、すばる1人が取り残された。すばるは胸の痛みを秘めながら、愛するミラと旧友プロキオンへの変わらぬ友情を心に誓う。ある夜、電子技師のプロキオンは宇宙港に降り立った連絡船が持ち運んだ宇宙ビールスに感染してしまい、新妻ミラの元に帰宅した彼の肉体は溶け落ちてしまう。そしてミラにも感染の恐れが。病原体の活動を停止するには零度以下にする必要がある。若さを保ったままビールスと一緒に冷凍保存された地球を、ミラを救うためすばるはビールスの源を捜し求める…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 勝生真沙子
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 富山敬
+  name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
   name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
   name: 鈴置洋孝
+  type: cast
+- !ruby/hash:TagHash
+  name: 富山敬
   type: cast
 - !ruby/hash:TagHash
   name: 青野武

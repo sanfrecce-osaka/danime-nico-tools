@@ -5,7 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/82/3/10823_1_6.png?1
 outline: 22世紀前半に起こった世界規模の大戦争“ビッグウォー”は、長期化、泥沼化し、20年後の地殻兵器の乱用によって勝利者のいないまま終結していた。人口は激減し、国家機構は消滅し、スーパーテクノロジーは、その生産手段さえも失っている有様だった。空には電子雲と呼ばれる不気味な雲が立ち込め、地にはコントロールを失った大量のオートウェポンが殺戮を求めて彷徨っていた。そして100年余りが過ぎ去った。過酷な状況は変わっていなかったが、人々は各地で小規模な街を作り、世界には新たな秩序が生まれようとしていた。人々は、希望を込めてこの世界をこう呼んだ……ガイアースと。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

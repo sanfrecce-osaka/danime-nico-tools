@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/86/5/10865_1_6.png?1
 outline: ピクピク、シルシル、コロコロは｢妖精の森｣に住む小さな妖精さん。森のおうちに集まって仲良くお話したり・・・自由に魔法を使えちゃう｢メンタルとタイムのルーム｣で思いっきり遊んだり・・・他の世界を覗き見できちゃう｢アフレ湖｣や、他にも新たに妄想をかきたてる新ネタコーナーの登場と…とにかく楽しいことがい～っぱい！みんなも妖精たちとgdgdな時間を過ごしちゃおう！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash

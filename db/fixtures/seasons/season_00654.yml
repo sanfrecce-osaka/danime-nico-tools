@@ -6,6 +6,12 @@ outline: 無い！ 無いったら無い！！ 銀鈴の戦闘チャイナが見
   そして囚われの銀鈴の目の前に現れた謎のBF団エージェントとは！？ これでいいのか～っっっ！？ の結末に向かって、物語は風雲急を告げる！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -87,13 +93,13 @@ tags: !ruby/array:Hashie::Array
   name: 山木泰人
   type: other
 - !ruby/hash:TagHash
-  name: 渡辺繁
-  type: other
-- !ruby/hash:TagHash
   name: 鉄羅紀明
   type: other
 - !ruby/hash:TagHash
   name: 天野正道
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺繁
   type: other
 - !ruby/hash:TagHash
   name: 片山一良

@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/14/7/20147_1_6.png?1
 outline: 古くから営まれる街の喫茶店で、八坂が出会った年上の女子高生・あらし。自らを幽霊と称する彼女は、八坂と手をつなぐことで過去へと飛べる不思議な少女だった。いわくつきのマスター、あらしを追うグラサン男。八坂と同じ中学１年の上賀茂。そして、ドイツ人の少女・カヤ──…。ノスタルジック溢れる喫茶店・方舟を舞台に、少年と少女達の忘れられない夏休みが始まる!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 名塚佳織
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 白石涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 野中藍
+  name: 三瓶由布子
   type: cast
 - !ruby/hash:TagHash
-  name: 三瓶由布子
+  name: 野中藍
   type: cast
 - !ruby/hash:TagHash
   name: 小見川千明

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/96/3/10963_1_6.png?1
 outline: 高校漫研部の愛は漫画家を目指し真面目に原稿に取り組むが、麻衣とミイの激し過ぎるボケに振り回され……。侵略者の襲来や、逆立ちし回転しながらおしっこをしたら花が咲いたなど、予測不能な展開が続々。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash

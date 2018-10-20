@@ -6,6 +6,9 @@ outline: U900(ゆーきゅうひゃく)はあみぐるみのウクレレ・デ�
   ウクレレなんか知らない人も、だれでも楽しめる番組なので 絶対見てね～!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：木原庸佐
   type: staff
 - !ruby/hash:TagHash

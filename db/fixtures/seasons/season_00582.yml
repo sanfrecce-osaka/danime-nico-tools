@@ -6,6 +6,12 @@ outline: ギャルだけど初恋も未経験なjk・柚子は、親が再婚し
   affair、始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
@@ -45,10 +51,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：パッショーネ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：サブロウタ
+  name: キャラクターデザイン：伊集院いづろ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：伊集院いづろ
+  name: 原作：サブロウタ
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

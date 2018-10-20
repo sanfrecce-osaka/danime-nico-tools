@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/29/6/10296_1_6.png?1
 outline: ヴァルハラ8大皇女の長メームは、一向に進展しないワるきゅーレと和人の関係に業を煮やし、2人に花嫁修行を課す。そこへ秋菜とハイドラ、ライネとリカ、遂には白や丸まで巻き込まれ、七転八倒の大騒動へ発展してしまう!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash

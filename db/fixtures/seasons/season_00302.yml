@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/33/6/20336_1_6.png?1
 outline: 新たなる愚か者として、フールに選ばれた少女、ロゼッタ。そらとの「幻の大技」を夢見てきた少女は、遂に憧れの人との共演で主役に抜擢される。ひょんなことからカレイドステージに届けられた1枚の絵画をもとに描き下ろされた新作公演。かつて、ディアボロマシーンと呼ばれ、笑顔を失ったロゼッタが演じるのは「笑わないお姫様」。「彼女のことなら私が一番分かってる」と意気込むロゼッタだが、何故か空回り。周囲から浴びせられる叱咤。そして・・・。一枚の絵画に隠された古(いにしえ)の秘密とは？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
-  name: 折笠富美子
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
   name: 広橋涼

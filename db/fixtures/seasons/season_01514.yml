@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/17/9/20179_1_6.png?1
 outline: 疲れた心を癒す完全一人称目線の新感覚アニメーションが発表された。今回公開されたキャラを含め、合計12人の個性あふれるキャラクターたちが週替わりで登場。毎回、タイプの違う男子が、それぞれのスタイルで新たな「添い寝」を演出してくれる。なかには、「これが添い寝！？」と驚くようなシチュエーションも。そんな彼らの共通点は、星空が綺麗に見える街に住んでいるということ。お気に入りの男子を見つけて、癒しのひとときを過ごそう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: アニメーション制作：feel.
   type: staff
 - !ruby/hash:TagHash

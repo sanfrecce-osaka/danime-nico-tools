@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/24/3/22243_1_6.png?1
 outline: 四人もの≪王≫が交錯した“学園島事件”。その事件以降ずっと、白銀のクランズマンである夜刀神狗朗とネコは主であるシロの行方を探していた。その日もシロに関する手がかりを得ることが出来ずに気を落としていた二人だったが、街中で≪吠舞羅≫のメンバーである鎌本力夫と櫛名アンナが何者かに追い回されている場面に遭遇する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -60,6 +63,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

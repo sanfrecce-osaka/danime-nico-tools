@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/34/4/10344_1_6.png?1
 outline: あの日のあなたが此処にいる。青春よりも純粋で、純愛よりも残酷なひと夏の思春期グラフィティ。幼少期に母親と死別して以来、心に傷を負った少年 弘瀬琢磨。療養の為、亡き母の郷里に転校してきた彼は、そこで三人の少女に出会う。光が死んだあの夏。僕らは限りなく透明な少女たちに出遭った。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 成瀬未亜
   type: cast
 - !ruby/hash:TagHash
-  name: 川津泰彦
+  name: 本多陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 本多陽子
+  name: 川津泰彦
   type: cast
 - !ruby/hash:TagHash
   name: 長克巳

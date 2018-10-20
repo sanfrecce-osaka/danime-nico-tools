@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/56/2/10562_1_6.png?1
 outline: 美大受験に落ちてしまった主人公・千堂和樹は、目指す道が途絶えた目標のない日々を送っていた。そこに目をつけた幼なじみの九品仏大志が、和樹を強引に同人誌作家の道へ引きずり込んでしまう。なにかと世話好きな高瀬瑞希や同人誌作家の猪名川由宇&大場詠美、こみっくパーティースタッフの牧村南といったヒロイン達を巻き込んで、壮大かつコミカルな同人界のサクセスストーリーが展開!・・・・・・その先にあるのは果たして!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: こおろぎさとみ
   type: cast
 - !ruby/hash:TagHash

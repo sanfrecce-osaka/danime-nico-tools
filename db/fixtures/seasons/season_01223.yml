@@ -6,6 +6,9 @@ outline: 涙を流すマリア像、信徒の肉体に浮かび上がる聖痕�
   強い信頼関係で結ばれた二人は、調査のために訪れた先で奇怪な事件に巻き込まれながらも、奇跡の真偽を見定めていく。 天才神父コンビの行く手に待ち受けるのは、神の導きか、悪魔の囁きか――!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash

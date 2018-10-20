@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/25/1/10251_1_6.png?1
 outline: 西暦2026年、死刑が廃止となったこの時代、増加した凶悪犯罪者たちは核実験施設跡地に造られた巨大刑務所群ネオ・パガトリィに収監されていた。マキ・アオバを中心とする女性だけで構成された民間の弱小警備会社“ガード・オブ・ローズ”はそんな刑務所の警備を担当している。ある日、マキの親友シーラたち3人の社員がいつも通り警備飛行を行っていると、彼女たちの乗ったヘリが突然ミサイル攻撃を受け巨大刑務所の中に墜落してしまった。周りは男ばかりの凶悪犯罪者たち。事態を知ったマキは急いで世界警察の担当部署に救助を要請するが、契約上の理由で断られてしまう……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: キャラクターデザイン：加藤裕美
   type: staff
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/2/22082_1_6.png?1
 outline: 数千年後の未来、宇宙空間に進出した人類は、銀河帝国と、自由惑星同盟という“専制政治”と“民主主義”の２つの異なる政治体制を持つ二国に分かれた。この二国家の抗争は実に150年に及び、際限なく広がる銀河を舞台に、絶えることなく戦闘を繰り返されてきた。長らく戦争を続ける両国家。銀河帝国は門閥貴族社会による腐敗が、自由惑星同盟では民主主義の弊害とも言える衆愚政治が両国家を蝕んでいた。そして、宇宙暦8世紀末、ふたりの天才の登場によって歴史は動く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

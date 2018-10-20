@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/31/4/10314_1_6.png?1
 outline: 時は、後漢も末の頃――。この世は乱れに乱れておりました　そんな中、力を蓄え、ひそかに野心を研ぎ澄ます者――　己の力を試さんとさすらう者――　守るべきもののために闘おうとする者――　そうした、様々な思いを胸にいだく者たちがあやなす運命の糸がからみ、結ばれる……　乱れた世を平和にしようと立ち上がる関羽と張飛。そして、二人の志しに惹かれ集う乙女たち。彼女たちの新たな戦いが始まろうとしていた――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 後藤麻衣
   type: cast
 - !ruby/hash:TagHash

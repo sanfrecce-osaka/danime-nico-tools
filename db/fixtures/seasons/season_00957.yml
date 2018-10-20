@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/4/10044_1_6.png?1
 outline: 14歳の誕生日に大助は、初恋の梨紗に告白するが玉砕。しかしその夜、梨紗のことを強く思うと大助の体に異変が…。好きな女の子への恋愛感情が高まると、恋愛遺伝子の副作用で“伝説の大怪盗”ダークに変身してしまう体質となったのだ。大助の普通の中学生&数々の美術品を華麗に盗んでいく大怪盗の二重生活が始まった!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
-  name: 置鮎龍太郎
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
   name: 草尾毅
@@ -26,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: てらそままさき
   type: cast
 - !ruby/hash:TagHash
-  name: 玉川砂記子
-  type: cast
-- !ruby/hash:TagHash
   name: 青野武
   type: cast
 - !ruby/hash:TagHash
   name: 白石稔
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
   type: cast
 - !ruby/hash:TagHash
   name: 小菅真美

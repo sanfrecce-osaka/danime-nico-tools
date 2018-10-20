@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/47/3/20473_1_6.png?1
 outline: "｢渋谷サイキック・リサーチ(SPR)｣とは、渋谷一也(通称ナル)が所長を務める心霊現象調査事務所。依頼人から持ち込まれた心霊現象を科学的に調査している。高校生の谷山麻衣はある日、ナルの助手のリンに怪我をさせたことがきっかけでナルと知り合い、SPRでアルバイトをすることに。怨霊、祟り、幽霊、呪い……、相次ぐ事件をSPRのメンバーと、僧、エクソシスト、霊媒、巫女ら霊能者たちが解明する本格ミステリーホラー。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash

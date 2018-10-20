@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/00/4/21004_1_6.png?1
 outline: "【呪紋】それぞれの固有の物質『トリガー』を充填することで起動し、『印者(シールド)』と呼ばれる操者の身体的な能力を飛躍的に高め、超常的な現象を発現させることができる超科学兵器―――。赤塚正義(通称：セーギ)は、不良に絡まれていた男性を助けた際、礼として渡された謎の石を手にした瞬間、掌に不思議なタトゥーが刻まれる。｢その呪紋、どこで手に入れたの？｣翌日、学校からの帰宅途中に、季節外れのコート姿の少女“イジー”に突如襲われたセーギは、祖父から教え込まれていた柔術で反撃するものの圧倒的な力の差に押され、命の危機に晒される・・・。偶然にも｢呪紋｣を手にしてしまった赤塚正義を中心に、様々な人々の思惑が渦巻く争いが、いま始まる。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -26,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 井澤詩織
   type: cast
 - !ruby/hash:TagHash
+  name: 古川慎
+  type: cast
+- !ruby/hash:TagHash
   name: 安済知佳
   type: cast
 - !ruby/hash:TagHash
   name: 鬼頭明里
-  type: cast
-- !ruby/hash:TagHash
-  name: 古川慎
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：J.C.STAFF

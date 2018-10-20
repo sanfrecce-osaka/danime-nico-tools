@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/01/2/10012_1_6.png?1
 outline: 星歴672年、壬申の乱-世は乱れ、貴族達の権力争いの犠牲となった農民達は貧窮にあえいでいた。そのさなかに生を受けた｢宇宙皇子｣。神の子の証である角を持ち、その霊力と熱い心をもって、強大な権力や妖魔達の渦巻く闇に立ち向かう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 古谷徹
   type: cast
 - !ruby/hash:TagHash
   name: 日髙のり子
   type: cast
 - !ruby/hash:TagHash
   name: 島本須美
-  type: cast
-- !ruby/hash:TagHash
-  name: 古谷徹
   type: cast
 - !ruby/hash:TagHash
   name: 池田秀一
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 山田栄子
   type: cast
 - !ruby/hash:TagHash
-  name: 石田太郎
+  name: 磯部勉
   type: cast
 - !ruby/hash:TagHash
-  name: 磯部勉
+  name: 石田太郎
   type: cast
 - !ruby/hash:TagHash
   name: 羽村京子
@@ -62,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：藤川桂介
   type: staff
 - !ruby/hash:TagHash
-  name: 製作年代：1980年代
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
   name: 角川書店

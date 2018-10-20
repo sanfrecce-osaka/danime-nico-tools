@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/34/7/11347_1_6.png?1
 outline: 常に新たなチャレンジを続ける、闘う漫画家・江川達也。連載の『DEADMAN』を始め、そのテーマ性や筆力は見る者を魅了する。彼の原作を自ら監修したアニメーションがついにOVAで登場。お勉強を求めて全国を自転車で行脚する大江錦太郎の奮闘記！監督・北久保弘之と総作画監督・川元利浩の最強コンビが描く、気持ち良～い超アニメーション、とくとご覧あれ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
+  name: 鶴ひろみ
+  type: cast
+- !ruby/hash:TagHash
   name: 高木渉
   type: cast
 - !ruby/hash:TagHash
-  name: 納谷悟朗
+  name: 根谷美智子
   type: cast
 - !ruby/hash:TagHash
-  name: 根谷美智子
+  name: 納谷悟朗
   type: cast
 - !ruby/hash:TagHash
   name: 岩田光央
@@ -29,16 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 榊原良子
   type: cast
 - !ruby/hash:TagHash
-  name: 水谷優子
-  type: cast
-- !ruby/hash:TagHash
   name: かないみか
   type: cast
 - !ruby/hash:TagHash
-  name: 玉川砂記子
+  name: 水谷優子
   type: cast
 - !ruby/hash:TagHash
-  name: 鶴ひろみ
+  name: 玉川砂記子
   type: cast
 - !ruby/hash:TagHash
   name: キャラクターデザイン：川元利浩

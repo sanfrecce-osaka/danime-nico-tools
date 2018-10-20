@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/47/3/21473_1_6.png?1
 outline: 再び訪れる、世界崩壊の危機。ある日、“魔王因子”を持つ魔王候補・春日アラタが、トリニティセブンの一人・浅見リリスの魔道書『ヘルメス外典』に何の気なしに触れた瞬間、眩い光に包まれ、目の前には謎の少女が姿をあらわす。｢リリム｣と名付けられ、アラタとリリスを親と慕う少女。だが、少女の出現と同時に、世界に異変が。目覚める禁忌の“悠久図書館”。そこには、錬金術の究極の産物　人の手によって造られし“白き魔王”が封じられていた。“白き魔王”は、真の魔王へ至るため、アラタとトリニティセブンたちの抹殺を企てる。かつてない強大な力を持つ“白き魔王”を前に、世界の崩壊と、絶体絶命の危機がアラタたちを襲う。アラタとトリニティセブンたちは、この世界を守れるのか？彼らの最後の戦いが今、始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +23,16 @@ tags: !ruby/array:Hashie::Array
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 佐倉綾音
-  type: cast
-- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
   name: 島﨑信長
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
   name: M・A・O
@@ -29,16 +41,13 @@ tags: !ruby/array:Hashie::Array
   name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
-  type: cast
-- !ruby/hash:TagHash
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
   name: 内田彩
   type: cast
 - !ruby/hash:TagHash
-  name: 柚木涼香
+  name: 赤﨑千夏
   type: cast
 - !ruby/hash:TagHash
   name: 監督：錦織博
@@ -65,10 +74,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2017年
   type: other
 - !ruby/hash:TagHash
-  name: KADOKAWA
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: KADOKAWA
   type: other
 - !ruby/hash:TagHash
   name: えびなやすのり

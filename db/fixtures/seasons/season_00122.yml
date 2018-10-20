@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/0/10160_1_6.png?1
 outline: 平凡な生活を送っていた皐月駆だが、ある日幼なじみの水奈瀬ゆかと共に、突然不気味な異世界へ迷い込んでしまう事に…。血の色にも似た不気味に赤く染まる空に、漆黒の巨大な月。そんな『赤い夜』の世界に、呆気にとられる駆とゆか…。さらに、二人の周りに異形の怪物が現れ、襲いかかる。駆たちの命をかけた戦いが始まる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash

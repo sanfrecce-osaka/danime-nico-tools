@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/08/4/20084_1_6.png?1
 outline: 美しい国『大日本』。その美しさは時に邪な者たちの嗜虐心を煽る。だが君よ、案ずるなかれ！　君よ、恐るるなかれ！大日本に守護神“サムライ”あり！！『百花繚乱』それは美しきサムライ達が織りなす、気高き魂の物語である！！己の「将」の力をさらに高めるため修行の旅に出ていた宗朗。柳生義仙との戦いで消滅したと思われながらも、柳生道場へと帰還した柳生十兵衛。宗朗と契りを交わし、“剣姫（マスターサムライ）”となった徳川千と真田幸村。その従者、服部半蔵と後藤又兵衛。刺客として宗朗を狙うも、今は柳生道場に住み着いている直江兼続。天草四朗の復活を阻止した宗朗たちは、自らが取り戻した平和の中に生きていた…。だが、武應学園塾に、大日本に新たな敵が襲い掛かる！！宮本武蔵、佐々木小次郎、宝蔵院胤舜、荒木又右衛門。蘇りし“四剣鬼（ダークサムライ）”。徳川を恨み、結界によって封印されていたはずの彼女たちが再び現世に現れた理由とは？そして、“柳生十兵衛”を執拗に狙う彼女たちの目的とは！？剣姫と剣鬼。今ここに、美しきサムライたちの新たなる戦いはじまる！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 能登麻美子
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 日笠陽子
@@ -20,16 +29,16 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
-  type: cast
-- !ruby/hash:TagHash
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤聡美

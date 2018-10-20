@@ -7,6 +7,12 @@ outline: 少年は、少女に出会う。そして冒険が始まる。 遥か�
   無責任ギャラクシーコメディの幕が上がる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
@@ -31,13 +37,13 @@ tags: !ruby/array:Hashie::Array
   name: 原作：吉岡平
   type: staff
 - !ruby/hash:TagHash
+  name: アニメーション制作：アニメーションスタジオ・セブン
+  type: staff
+- !ruby/hash:TagHash
   name: キャラクターデザイン：北奈つき
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：加藤賢二
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：アニメーションスタジオ・セブン
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

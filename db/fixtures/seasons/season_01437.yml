@@ -6,6 +6,12 @@ outline: 春休みを控えた女子高生・魔神英子(A子)は今度こそ�
   本作の見どころは、A子たち登場人物の多くが何着もの普段着やドレスを披露する点。通常のアニメではなかなか見られない試みだが、これは本作の脚本家・川崎智子の意向で実現したもの。川崎はシリーズ初の女性脚本家ということもあり、今までとは少し違ったロマンス要素が盛り込まれている。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：飛澤宏元
   type: staff
 - !ruby/hash:TagHash

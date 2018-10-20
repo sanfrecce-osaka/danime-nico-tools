@@ -5,25 +5,31 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/37/0/20370_1_6.png?1
 outline: 己の魂を魔剣に変えて戦う現代の魔法使い≪魔導騎士≫　魔導騎士の養成学校「破軍学園」に通う黒鉄一輝（くろがねいっき）は、能力値が低すぎて留年した≪落第騎士（ワーストワン）≫だった。そんな彼は、ある日、ヴァーミリオン皇国の皇女、ステラ・ヴァーミリオンから「敗者は一生服従」という決闘を一方的に挑まれる。十年に一人の天才と呼ばれるステラとの勝負の結果は誰の目にも明らかのはずであったが、しかし、彼は勝利してしまう。一輝は魔法の代わりに剣技を極めた、異端の実力者だったのだ。才能の不足を圧倒的な努力で克服し、騎士の高みを目指す一輝の姿に、ステラは次第に惹かれ初めていく…。この出会いをきっかけに、一輝は、並み居る強敵をなぎ倒し、最底辺から頂点へと駆け上がる！熱血学園ソードアクションここに開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 細谷佳正
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
-  name: 小林ゆう
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
   name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
   name: 金元寿子
@@ -53,13 +59,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：大沼心
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：Nexus
+  name: 監督：玉村仁
   type: staff
 - !ruby/hash:TagHash
   name: 原作販売元：SBクリエイティブ
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：玉村仁
+  name: アニメーション制作：Nexus
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：小松原聖

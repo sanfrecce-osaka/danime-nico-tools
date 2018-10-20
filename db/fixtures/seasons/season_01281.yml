@@ -5,19 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/94/0/21940_1_6.png?1
 outline: "【羅天大ショウ篇】平凡な大学生である主人公・張楚嵐は、自身が特殊能力を持つ「異人」であることを隠しながら日々を送っていた。そんな張楚嵐の前に、同じ異人である女性・馮宝宝が現れ、自らが属する異人の組織に入るように告げる。それを機に、張楚嵐を奪おうと次々に異人たちが現れるようになる。彼が持つ能力に重大な秘密が隠されているためだという。馮宝宝は張楚嵐と共にそうした組織と戦うのだが、不老不死である馮宝宝の秘密を解けるカギを彼が握っているからだった。ふたりは互いの抱える秘密の真相を掴むために、異人界の頂点を競い合う武闘大会・「羅天大醮(らてんたいしょう)」に出場することになるのだった。【全性篇】異人界の頂点を競い合う羅天大醮で勝者となった張楚嵐は、次期天師になる権利を手に入れた。しかし、天師になるための「天師法」を受けることに抵抗感を持つ張楚嵐は、老天師の怒りを買うことになる。その一方で、８つの秘術を狙う異人の組織「全性」が張霊玉を襲い、大きな争いに発展していく。この争いを鎮めるために張楚嵐は、それぞれの戦場へと向かうことになる。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 日笠陽子
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 早見沙織
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 野島健児
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
   type: cast
 - !ruby/hash:TagHash
   name: 興津和幸
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 赤羽根健治
   type: cast
 - !ruby/hash:TagHash
-  name: 田丸篤志
+  name: 河西健吾
   type: cast
 - !ruby/hash:TagHash
-  name: 河西健吾
+  name: 田丸篤志
   type: cast
 - !ruby/hash:TagHash
   name: 森下由樹子

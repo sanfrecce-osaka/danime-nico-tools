@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/36/3/22363_1_6.png?1
 outline: "「そこには、僕にしか見えない景色がある――」幼少の頃からひたむきに飛び込みを続けてきた14歳の少年・坂井知季。はじまりは3つ年上の天才ダイバー・富士谷要一との出会いだった。仲間とともにミズキダイビングクラブ・通称MDCに通う知季だったが、ある日、新任コーチとして麻木夏陽子という女性が現れる。「この中の誰かがオリンピックに行かなければ、クラブは潰れるわ」夏陽子が告げたMDC存続への条件はあまりにも厳しいものだった。身体一つを武器に宙を舞い、その一瞬にすべてを賭けた、少年達の熱く長い闘いがいま幕を開ける！！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
-  name: 杉田智和
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 梶裕貴
+  name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
   name: 木村良平

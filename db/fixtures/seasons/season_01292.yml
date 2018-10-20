@@ -5,19 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/07/6/10076_1_6.png?1
 outline: 企業が3人で編成したチーム同士を戦わせ、機密文書の入ったDISCを奪い合う｢BUS GAME｣。それに参加する美柴、中条、斉藤の3人はお互いの素性も良く知らぬまま、それぞれの目的の為、チームメイトとしてゲームに参加していた。負ければ｢死｣がまっている過酷なゲーム。望みを叶える為、そして生きる残る為に、彼らは勝ち続けなければならない・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 諏訪部順一
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
 - !ruby/hash:TagHash
   name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 高橋広樹
   type: cast
 - !ruby/hash:TagHash
-  name: 原作：峰倉かずや
+  name: 監督：葛谷直行
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：葛谷直行
+  name: 原作：峰倉かずや
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2000年代

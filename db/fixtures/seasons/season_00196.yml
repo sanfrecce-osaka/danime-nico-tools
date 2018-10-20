@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/15/1/20151_1_6.png?1
 outline: 超お金持ちのご令息・ご令嬢が通う名門校・桜蘭学院高校に、奨学特待生として入学した庶民の藤岡ハルヒ。母を亡くし男手ひとつで育てられたハルヒは、おしゃれに興味がなく、何事にも無頓着で男の子のような格好で学校に通っていた。ある日、ハルヒは、ホスト部の部室に迷い込み、部室内の800万円の花瓶を割ってしまう。部員からその代金を請求されるが、庶民のハルヒは払えるわけがない・・。ところが、ホスト部部長・環は「100人の指名客を集められたら800万円はチャラにしてやる」と宣言。こうしてハルヒは、7人目のホスト部員として、女生徒たちを接待することになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 松風雅也
+  name: 齋藤彩夏
   type: cast
 - !ruby/hash:TagHash
-  name: 齋藤彩夏
+  name: 松風雅也
   type: cast
 - !ruby/hash:TagHash
   name: 桐井大介
@@ -53,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: メガネ
   type: other
 - !ruby/hash:TagHash
-  name: 二重人格
+  name: 白泉社
   type: other
 - !ruby/hash:TagHash
-  name: 白泉社
+  name: 二重人格
   type: other
 - !ruby/hash:TagHash
   name: 少女漫画原作

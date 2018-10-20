@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/2/11072_1_6.png?1
 outline: 時は幕末、三河の国の蓬莱村にからくり技術を使う“機の民”がいた。一族の少年ヒヲウは、好奇心旺盛な８歳の少年。ある日彼は、からくりの使い方で長老に叱られ、家を飛び出してしまう。村の神社にやってきたヒヲウは、ご神体で巨大からくりロボットの炎（ほむら）を見つける。丁度その頃、蓬莱村は風陣と呼ばれる忍者集団の襲撃に見舞われ、機の民を滅ぼそうとする風陣の手によって蓬莱村は焼き払われ、村の大人達は皆連れ去られてしまった。炎（ほむら）を動かすことに成功したヒヲウたちは、村を脱出するが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash

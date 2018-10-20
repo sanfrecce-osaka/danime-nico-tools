@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/41/1/10411_1_6.png?1
 outline: アタゴオルのトラブルメイカー、ヒデヨシは、ある日、親友のテンプラ(内田朝陽)やツキミ姫の制止を振り切り、封印された謎の箱を開けてしまう。中から現れたのは、何千年もの眠りから覚めた植物の女王ピレア。ピレアは美しい歌声でアタゴオルの住人をたちまちとりこにするが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：西久保瑞穂
   type: staff
 - !ruby/hash:TagHash

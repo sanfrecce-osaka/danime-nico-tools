@@ -6,6 +6,12 @@ outline: その昔、人間は皆、海に住んでいた。でも、陸に憧�
   光、向井戸まなか、比良平ちさき、伊佐木 要と地上に暮らす木原 紡。海と陸。中学二年生という同じ年代を過ごしながら今まで出会うことのなかった彼らが出会った時、潮の満ち引きのように彼らの心も揺れ動く。ちょっと不思議な世界で繰り広げられる少年少女たちの青の御伽話
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -70,6 +76,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: アーティスト：Ray
+  type: other
+- !ruby/hash:TagHash
+  name: 時を越える
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

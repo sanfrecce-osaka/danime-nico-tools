@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/64/4/21644_1_6.png?1
 outline: オフィス街に程近い商店街の一角、雑居ビルの地下一階にある、猫の絵が描かれた看板が目印の「洋食のねこや」。どこにでもありそうなこの洋食屋の扉は、週に一度“特別営業”の土曜日にだけ「異世界」とつながる。向こうの世界の様々な場所に現れる扉を通じてやってくる、文化も、種族すらもバラバラな「向こうの世界」の客たちが舌鼓を打ってしまう、不思議な“魅力”を持った料理がここ「異世界食堂」にはある。この店で生まれる異世界と現代、食堂に集う人々と店主、そして料理との一期一会を描く、温かい出会いの物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -47,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：佐野恵一
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：エナミカツミ
+  name: 原作：犬塚惇平
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：犬塚惇平
+  name: 原作：エナミカツミ
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：辻林美穂

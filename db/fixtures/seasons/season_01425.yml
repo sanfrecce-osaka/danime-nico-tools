@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/11/9/10119_1_6.png?1
 outline: "｢卵の章｣(1～13話)と｢雛の章｣(14～26話)で構成されたTVアニメで、｢雛の章｣は最終話を除き前後編で放送された。金冠学園でバレエを勉強している落ちこぼれの女の子・あひる。その夢は憧れのみゅうとと一緒に踊ること。そんな彼の失くした心を取り戻すため、あひるはプリンセスチュチュへと変身して…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

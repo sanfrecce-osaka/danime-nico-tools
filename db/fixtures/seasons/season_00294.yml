@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/89/7/20897_1_6.png?1
 outline: 今や世の中の出来事はすべてプログラム化されており、“プロミン”と呼ばれる不思議なモンスターのおかげでこの世の中の仕組みは動いていた！実は身の回りで起こる不具合(バグ)は、プロミンがバグ化した“バグミン”の仕業だったのだ！このままバグミンを放っておけば、いつか大事になるかもしれない…。少年ユートは突然現れた宇宙犬ワンダと出会い、カメラ型をはじめ様々なキーアイテムを駆使して様々なバグミンの捕獲に乗り出す！プロミンはそれぞれ、｢モノを加速させる｣｢炎を出す｣｢モノを作り出す｣など、“カミワザ”と言われる特別な能力をもっており、迫り来るバグミンに“カミワザ”を繰り出して対抗する！最初は身の回りのイタズラ程度だったバグミンによる被害も、どんどん大きくなってやがて地球規模に…果たして1人と1匹は地球を救う事が出来るのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 加藤英美里
+  name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
-  name: 山口勝平
+  name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
   name: 久野美咲

@@ -6,6 +6,12 @@ outline: 桜舞う四月。俺-支倉孝平-は、記念すべき10回目の転�
   気力体力ともに溢れる副会長、はかなげで清楚な後輩、ミステリアスなクラスメート、常識から大きく外れた寮長、気苦労の絶えない幼なじみ、知り合ったのは個性的すぎる人ばかり。賑やかにならないはずがない。転校ばかりの過去に置き忘れたものも得ることができなかったものもここでなら、取り戻せる気がする。今はまだ、おぼろげな形しか見えないけれど。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash

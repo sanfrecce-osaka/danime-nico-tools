@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/88/3/20883_1_6.png?1
 outline: "“負の業”すなわち不幸を背負った生徒たちが集められたクラス、天之御船学園1年7組に入学した、不運の花小泉杏(はなこ)、悲恋の雲雀丘瑠璃(ヒバリ)、不健康の久米川牡丹(ぼたん)、方向オンチの萩生響(ヒビキ)、女難の江古田蓮(レン)。｢しあわせ｣になるべく高校生活を送ることになるが――"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 原由実
   type: cast
 - !ruby/hash:TagHash

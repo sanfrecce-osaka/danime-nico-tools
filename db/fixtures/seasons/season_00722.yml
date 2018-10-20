@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/09/2/22092_1_6.png?1
 outline: 高校三年生の筒井光（つつい・ひかり）はいわゆるオタク少年。ゲームやアニメの二次元の女の子さえいれば一人で生きていけると思っていた…。ところが、超絶３Ｄ（リアル）美少女・五十嵐色葉（いがらし・いろは）から、いきなり告白されて、お付き合いをすることに！奔放な色葉に振り回されながらどんどん好きになってしまう筒井だけど…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
@@ -38,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

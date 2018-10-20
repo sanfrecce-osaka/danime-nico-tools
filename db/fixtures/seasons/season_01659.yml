@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/33/6/11336_1_6.png?1
 outline: 勇者試験を目の前にして魔王が倒され、勇者になれなかったラウルは、王都にある小さな電気店、マジックショップ・レオンに就職。勇者から電気店店員となったラウルは忙しい毎日を送っていた。そんなラウルの平凡な毎日は、バイト希望でやって来た少女との出会いをきっかけに、大きく変わってしまった。彼女の名はフィノ。実は倒された魔王の娘だった⁉
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田所あずさ
   type: cast
 - !ruby/hash:TagHash

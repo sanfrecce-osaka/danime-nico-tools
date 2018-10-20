@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/16/2/21162_1_6.png?1
 outline: 彼は死ぬために、探偵の道を選ぶ……時は2030年代。謎の探偵、明智小五郎の下に集う『少年探偵団』。彼らは大小様々な事件を持ち前の行動力で解決に導いてきた。ある日、メンバーの花崎健介は謎の少年、小林芳雄と出会う。『正体不明の靄』により｢死ねない｣身体となってしまった小林は、自身の死を望み、他人との接触を拒んでいた。そんな彼の存在に興味を抱いた花崎は｢『少年探偵団』へ入らないか｣と持ちかける・・・小林と花崎。彼らの出会いはやがて、世紀の犯罪者である怪人二十面相と明智小五郎の因縁と絡み合い、二人の運命を動かしていく・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 木戸衣吹
   type: cast
 - !ruby/hash:TagHash
-  name: 田所あずさ
+  name: 山谷祥生
   type: cast
 - !ruby/hash:TagHash
-  name: 山谷祥生
+  name: 田所あずさ
   type: cast
 - !ruby/hash:TagHash
   name: 古川慎

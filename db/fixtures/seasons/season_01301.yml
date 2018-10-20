@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/38/4/21384_1_6.png?1
 outline: 色とりどりの美味しい料理に、甘いドルチェが並ぶイタリア料理店―トラットリア「フェスタ」。そこでアルバイトをする七瀬萌里菜は、今日もイタリア料理のことを勉強しながら、お仕事に励んでいます。小学生で店長代理の北原マロ率いる、個性派揃いのスタッフたちと一緒に、トラットリア「フェスタ」は、皆様のご来店をお待ちしております。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

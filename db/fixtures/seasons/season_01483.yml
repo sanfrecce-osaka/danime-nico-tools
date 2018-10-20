@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/1/10221_1_6.png?1
 outline: 普通の中学2年生である草壁桜(以降、桜)の机の引き出しから突然現れた天使・ドクロちゃん。桜を想うがあまり魔法のアイテム｢エスカリボルグ｣で撲殺してしまい、その度に謎の擬音(魔法?)｢ぴぴるぴるぴるぴぴるぴ～♪｣によって復活させる愛と涙の血みどろ物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
   name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 川澄綾子
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 立花慎之介
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
+  name: 森田成一
   type: cast
 - !ruby/hash:TagHash
-  name: 森田成一
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 岩田光央

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/36/6/21366_1_6.png?1
 outline: 平凡な日々を送っていた天王寺瑚太朗は、オカ研の仲間とともに風祭で起こる不可解な出来事を調査していた。そんな中“鍵”である篝との出会いによって、人類の存亡をかけた運命と対峙することになる。一度「終焉」を迎えた世界をやり直し、星を救うため瑚太朗は滅びの運命に立ち向かうのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

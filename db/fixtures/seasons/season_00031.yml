@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/29/4/21294_1_6.png?1
 outline: ウェブ上の仮想世界で行われるオンライン型対戦格闘ゲーム≪ブレイン・バースト≫。プレイヤーである《バーストリンカー》たちは、現実の1000倍に≪加速≫した世界で、戦いを楽しんでいた。私立梅郷中学に通う有田春雪（ハルユキ）もそのひとり。高円寺を拠点とする≪ネガ・ネビュラス≫に所属する彼は、≪軍団≫の長である黒雪姫と共に、渋谷エリアでの≪領土戦≫を戦っていた。そこに訪れた≪変遷≫と漆黒の巨大な竜巻、そして突然の回線切断。本来、起こるはずのない不可思議な現象は、≪加速世界≫を徐々に侵食し、竜巻に包まれたエリアでは、≪加速≫することができなくなってしまっていた。いったい、≪加速世界≫に何が起こっているのか？原因を突き止めるべく、ハルユキと仲間たちは、黒い竜巻に立ち向かう――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash
-  name: 浅沼晋太郎
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 日高里菜
+  name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash
   name: 赤﨑千夏
@@ -47,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：小原正和
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：椛島洋介
+  name: 原作：川原礫
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：川原礫
+  name: キャラクターデザイン：椛島洋介
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：大嶋啓之
@@ -65,10 +74,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2016年
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: 鶴岡陽太

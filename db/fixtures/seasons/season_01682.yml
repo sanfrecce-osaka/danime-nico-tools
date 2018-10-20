@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/12/8/22128_1_6.png?1
 outline: 寂れた漁港の町・日無町（ひなしちょう）に住む中学生の少年・カイは、父親と日傘職人の祖父との3人で暮らしている。もともとは東京に住んでいたが、両親の離婚によって父と母の故郷である日無町に居を移したのだ。父や母に対する複雑な想いを口にできず、鬱屈した気持ちを抱えたまま学校生活にも後ろ向きのカイ。唯一の心の拠り所は、自ら作曲した音楽をネットにアップすることだった。ある日、クラスメイトの国夫と遊歩に、彼らが組んでいるバンド「セイレーン」に入らないかと誘われる。しぶしぶ練習場所である人魚島に行くと、人魚の少女・ルーが3人の前に現れた。楽しそうに歌い、無邪気に踊るルー。カイは、そんなルーと日々行動を共にすることで、少しずつ自分の気持ちを口に出せるようになっていく。しかし、古来より日無町では、人魚は災いをもたらす存在。ふとしたことから、ルーと町の住人たちとの間に大きな溝が生まれてしまう。そして訪れる町の危機。カイは心からの叫びで町を救うことができるのだろうか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
@@ -48,6 +54,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: アーティスト：斉藤和義

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/4/10164_1_6.png?1
 outline: 怪力元気娘の摩神英子(A子)、彼女を慕う天然ボケの寿詩子(C子)、英子のライバル大徳寺美子(B子)の3人が繰り広げるハチャメチャ学園SF。｢うる星やつら｣の監督西島克彦とキャラクターデザインもりやまゆうじによるギャグアニメの名作の劇場版だ。近禾来の地球のグラビトン学園の転校生A子は、超人的パワーの持ち主。今日も遅刻ギリギリで、親友のC子を引きずりつつ、猛スピードで登校だ。そんな彼女たちを、大財閥令嬢のB子が見ていた。彼女は、C子を自分のものにしたいと狙っていたのだ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：西島克彦
   type: staff
 - !ruby/hash:TagHash
@@ -33,6 +39,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: プロジェクトA子シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：1980年代

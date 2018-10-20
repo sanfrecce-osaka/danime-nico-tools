@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/55/6/11556_1_6.png?1
 outline: 北アルプス山中で母犬・桜と貧しいながらも穏やかな日々を過ごす主人公：秋田犬ウィード。しかし、幸せな日々は長くは続かなかった・・・。母：桜が病に倒れてしまったのだ。なんとウィードは、巨熊赤カブトを倒した奥羽軍団の総大将、勇気とカリスマを兼ね備えた伝説のオトコ「銀」の一人息子であるというのだ。父の偉大さを知ったウィードは、まだ見ぬ父に会うため偶然出会ったイングリッシュセッターのＧＢとともに遠く奥羽へと旅立つことを決意する。勇気一つを胸に秘め、ウィードの冒険が今始まる!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中尾隆聖
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 國立幸
   type: cast
 - !ruby/hash:TagHash
-  name: 高塚正也
+  name: 川本成
   type: cast
 - !ruby/hash:TagHash
-  name: 川本成
+  name: 高塚正也
   type: cast
 - !ruby/hash:TagHash
   name: 小川輝晃

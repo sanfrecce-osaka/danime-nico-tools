@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/14/4/11144_1_6.png?1
 outline: 連合地球暦１９２年。地球は謎の異星生命体ラダムの襲撃を受け、滅亡の危機に瀕していた。ある日、外宇宙開発機構の特殊チーム・スペースナイツのノアルとアキは、重傷を負った正体不明の青年を保護する。記憶を失い自分の名前すら忘れたと言うその青年は、Ｄボウイと名付けられた。その青年こそが唯一ラダムに対抗しうる力を持つ、宇宙を駆ける超人テッカマンブレードであった。しかし、ラダム側にもテッカマンが存在し、人類の新たな敵として現われる。人類を守るために戦う唯一のテッカマンと、人類の敵である複数のテッカマンとの地球存亡をかけた運命の戦いが始まる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 松本保典
   type: cast
 - !ruby/hash:TagHash
-  name: 水谷優子
+  name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴置洋孝
+  name: 水谷優子
   type: cast
 - !ruby/hash:TagHash
   name: 横山智佐

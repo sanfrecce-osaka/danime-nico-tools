@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/12/6/10126_1_6.png?1
 outline: 憎しみに揺れる魂を目覚めさせたのは誰?それは――闇の街を彷徨う、哀しみに暮れる迷い人。運命の絆で繋がれた二人は――――宿命の鎖を断ち切り、悪霊を討つ
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 石森達幸
+  name: 松元惠
   type: cast
 - !ruby/hash:TagHash
-  name: 松元惠
+  name: 石森達幸
   type: cast
 - !ruby/hash:TagHash
   name: 高橋伸也
@@ -74,10 +80,10 @@ tags: !ruby/array:Hashie::Array
   name: カドカワコミックス・エース
   type: other
 - !ruby/hash:TagHash
-  name: 少年エース
+  name: 楽音舎
   type: other
 - !ruby/hash:TagHash
-  name: 楽音舎
+  name: 少年エース
   type: other
 - !ruby/hash:TagHash
   name: 女の子主人公

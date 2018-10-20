@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/14/6/21146_1_6.png?1
 outline: 高校の入学式の日、同人ゲームを作る部活｢SNS部｣と出会った本田珠輝。やりたいことを見つけたと思って入部したものの、絵もプログラムもシナリオも音楽も、一から自分たちで作るのって大変！先輩や幼なじみと一緒に、完成を目指して頑張ります！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
-  name: 村川梨衣
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 長縄まりあ

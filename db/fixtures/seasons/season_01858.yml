@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/92/1/10921_1_6.png?1
 outline: キングクーロンいちのすご腕くじら捕りグループ、エイハブ船長たちの元に、自分の故郷・惑星モアドを助けてほしいと頼みにやってきたラッキー。ラッキーが訴えたのは、モアドを襲う惑星消滅弾、真っ白で、空恐ろしいほど美しい、巨大な“白鯨”の脅威。しかし、エイハブは白鯨を知っていた!その白い悪魔は、エイハブから片目、片足を奪った宿敵だったのだ…!ならず者のくじら捕りたちのモアドへ向けた旅が始まった。出崎統監督によるSF冒険ロマン!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 大塚明夫
-  type: cast
+  name: ドラマ/青春
+  type: genre
 - !ruby/hash:TagHash
   name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 関俊彦
@@ -26,19 +29,19 @@ tags: !ruby/array:Hashie::Array
   name: 大友龍三郎
   type: cast
 - !ruby/hash:TagHash
+  name: 安原義人
+  type: cast
+- !ruby/hash:TagHash
   name: 内田直哉
   type: cast
 - !ruby/hash:TagHash
   name: 宝亀克寿
   type: cast
 - !ruby/hash:TagHash
-  name: 安原義人
-  type: cast
-- !ruby/hash:TagHash
   name: 園部啓一
   type: cast
 - !ruby/hash:TagHash
-  name: 柏倉つとむ
+  name: 大本眞基子
   type: cast
 - !ruby/hash:TagHash
   name: 監督：出崎統

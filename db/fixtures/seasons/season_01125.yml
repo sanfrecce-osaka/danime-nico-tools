@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/4/10604_1_6.png?1
 outline: ネコの弁士が身近なものを面白おかしく解説しちゃいます!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 坂本頼光
   type: cast
 - !ruby/hash:TagHash

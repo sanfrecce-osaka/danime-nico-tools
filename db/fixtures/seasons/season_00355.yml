@@ -5,13 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/34/7/10347_1_6.png?1
 outline: 星歴0379年…今から500年ほど未来の銀河系。GTOと呼ばれる銀河系政府のおかたーいお役所で働く2人の少女。明るく元気なアスクールとちょっぴり真面目なク・フィーユ。実は、2人はGTOの誇る特殊能力を秘めた秘密のエージェント｢ESメンバー｣!!……の見習いでした…(汗)。メインスタッフは後藤圭二他、前作｢キディ・グレイド｣のメンバーを中心に、TVアニメ｢マクロスF(フロンティア)｣で名を馳せた新進気鋭の制作スタジオ｢サテライト｣のスタッフ陣が贈る、痛快なSF作品です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
   name: 福山潤
-  type: cast
-- !ruby/hash:TagHash
-  name: ゆかな
   type: cast
 - !ruby/hash:TagHash
   name: 平野綾
@@ -20,13 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
+  name: ゆかな
+  type: cast
+- !ruby/hash:TagHash
+  name: 中井和哉
+  type: cast
+- !ruby/hash:TagHash
   name: 桑谷夏子
   type: cast
 - !ruby/hash:TagHash
   name: 飛田展男
-  type: cast
-- !ruby/hash:TagHash
-  name: 中井和哉
   type: cast
 - !ruby/hash:TagHash
   name: 内田彩

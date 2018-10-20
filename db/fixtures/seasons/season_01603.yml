@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/27/6/11276_1_6.png?1
 outline: "｢英雄伝説 空の軌跡｣のエステル、ヨシュアや｢イースシリーズ｣の主人公アドルなど、ファルコム作品のキャラクター達が何故か次々と召喚されてしまう異世界《ザナドゥ》。そこは善人が悪人に、変人が更に変人になってしまうという“理の歪んだ世界”だった……!家畜の姿になってしまった大魔導師ミッシェルことラッピィ校長と、性格が反転し、生真面目で善良な魔物となってしまった｢イースⅠ｣のラスボス、ダルク=ファクト先生は英雄たちを元に戻すべく、異世界に｢ファルコム学園｣を設立し、そこで英雄たちと学園生活を送る事になったのだが…!?"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash

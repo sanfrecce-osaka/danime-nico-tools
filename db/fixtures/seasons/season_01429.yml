@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/1/10391_1_6.png?1
 outline: 墨谷二中野球部キャプテンだった谷口は、指の負傷のせいで野球を続けることが出来なくなってしまった。墨谷高校に進学し、サッカー部で頭角を現し始めた谷口だが、野球への想いを捨てきれず、野球部に入部するのだった。グラウンドを舞台に、野球を通じて谷口と墨高ナインの友情と成長を描く感動巨編、遂に登場!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash

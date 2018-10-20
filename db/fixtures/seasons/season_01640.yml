@@ -7,6 +7,15 @@ outline: 世界に飽きていた逆廻十六夜(さかまき いざよい)に�
   そんなこと黒ウサギは頼んでないのですがっ!! 弱小コミュニティ“ノーネーム”再建のため、3人の問題児たちが魔王に挑む!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -37,10 +46,10 @@ tags: !ruby/array:Hashie::Array
   name: ブリドカットセーラ恵美
   type: cast
 - !ruby/hash:TagHash
-  name: 三上枝織
+  name: 石井康嗣
   type: cast
 - !ruby/hash:TagHash
-  name: 石井康嗣
+  name: 西明日香
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：フライングドッグ
@@ -52,10 +61,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ディオメディア
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：草川啓造
+  name: 音楽：浜口史郎
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：浜口史郎
+  name: 監督：草川啓造
   type: staff
 - !ruby/hash:TagHash
   name: 監督：山本靖貴
@@ -91,13 +100,13 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤康行
   type: other
 - !ruby/hash:TagHash
-  name: 野水いおり
+  name: アーティスト：野水いおり
   type: other
 - !ruby/hash:TagHash
   name: 小島真喜子
   type: other
 - !ruby/hash:TagHash
-  name: 草川啓造
+  name: 石川雅一
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

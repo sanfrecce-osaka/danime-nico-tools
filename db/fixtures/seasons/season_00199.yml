@@ -6,6 +6,12 @@ outline: 見栄っ張りなエリカは、友達相手に彼氏とのラブラ�
   弱みを握られたエリカは佐田くんの犬を命じられてしまう…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -24,16 +30,16 @@ tags: !ruby/array:Hashie::Array
   name: 久川綾
   type: cast
 - !ruby/hash:TagHash
-  name: 島﨑信長
-  type: cast
-- !ruby/hash:TagHash
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤かな恵
+  name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
   name: 伊瀬茉莉也
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
   name: 村瀬歩

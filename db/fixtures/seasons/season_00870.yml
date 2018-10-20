@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/95/1/10951_1_6.png?1
 outline: 一年中、桜の花が咲いている初音島。そこにある風見学園に通う桜内義之は、学園長・芳及さくらの家で暮らしながら、学園ではクラスメイトとともに充実した日々を過ごしていた。そんな中、ふとしたことから彼の甘く切ない恋物語が始まる。家族のような存在である姉妹、朝倉音姫と朝倉由夢。幼馴染みの月島小恋に、クラスメイトの雪村杏。そして、学園のアイドル・白河ななかや、謎の少女・天枷美夏。さまざまな少女たちが、義之の物語に花を添える。いつまでも変わらない桜の木に見守られながら、彼の日常が少しずつ変わろうとしていた……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -20,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
   name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 岸尾だいすけ

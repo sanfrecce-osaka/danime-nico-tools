@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/45/1/20451_1_6.png?1
 outline: 1967年制作、幻の白黒アニメ作品が、発掘された！？というコンセプトのもと、キャラクターデザイン、ストーリー構成、楽曲など細部にこだわって制作された、新作アニメーション作品。さらに、豊富なアーカイブ映像を活用し、昭和の九州の風景をそのままアニメ背景に使用！産業革命遺産の一つ、軍艦島(長崎県・端島)をはじめ、高度成長期当時の九州を舞台に、キャラクターたちが活躍する映像は必見。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash

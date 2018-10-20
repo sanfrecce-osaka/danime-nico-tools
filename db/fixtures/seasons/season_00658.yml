@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/55/8/11558_1_6.png?1
 outline: ゲタバキの元気少女・竹本チエは、浪花の小学生。自由きままに生きている父親のテツは仕事もせずにバクチに明け暮れ、母親のヨシ江は別居中で、おジイはん、おバアはんや、テツの恩師・花井先生に心配をかけている。「ウチは日本一不幸な少女や」が口グセのチエだが、店の仕入れ金を盗もうとするテツをゲタでドツキつつ、ネコの小鉄とともに、家業のホルモン焼き屋をきりもりしているのだ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 永井一郎
   type: cast
 - !ruby/hash:TagHash

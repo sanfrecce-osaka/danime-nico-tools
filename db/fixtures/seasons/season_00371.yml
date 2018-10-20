@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/94/3/10943_1_6.png?1
 outline: 野球の名門青葉学院中等部。そこから墨谷二中に転校して来た谷口タカオは、同校・弱小野球部に入部する。チームメート達は否が応でも谷口に期待を寄せるが、谷口は青葉では2軍の補欠だった事を言い出せない。しかし、谷口は陰の努力で次第に実力をつけていく。そして次期キャプテンに指名された。当惑する谷口だが、持ち前の責任感とファイトでチームの実力を懸命に底上げしていく。やがて墨谷二中の野球部は、青葉と互角に戦えるチームへと成長。谷口の卒業後も、彼が燃やした情熱は、情に弱い丸井、天才肌のイガラシら後輩たちに受け継がれていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 中尾隆聖
   type: cast
 - !ruby/hash:TagHash

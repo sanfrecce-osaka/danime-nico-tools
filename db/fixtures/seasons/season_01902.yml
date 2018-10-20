@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/22/1/22221_1_6.png?1
 outline: 頭が良くて、正義感が強い、優等生タイプのブロッサム。思いやりに溢れ、時にナイーブな甘えん坊のバブルス。そして、一番のタフで口よりも先に手が出ちゃうおてんばのバターカップ。そんな正義の味方3人組が、美しく活気あふれる大都会「タウンズヴィル」を守るスーパーヒロインとして街にはびこる悪と戦います！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: パワーパフ ガールズシリーズ
   type: other
 - !ruby/hash:TagHash

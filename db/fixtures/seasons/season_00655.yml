@@ -6,6 +6,12 @@ outline: 果てしなくつづく熱砂の辺境でのBF団対BF団の死闘。�
   果たしてそれはBF団の陰謀なのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -87,13 +93,13 @@ tags: !ruby/array:Hashie::Array
   name: 山木泰人
   type: other
 - !ruby/hash:TagHash
-  name: 渡辺繁
-  type: other
-- !ruby/hash:TagHash
   name: 鉄羅紀明
   type: other
 - !ruby/hash:TagHash
   name: 天野正道
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺繁
   type: other
 - !ruby/hash:TagHash
   name: 片山一良

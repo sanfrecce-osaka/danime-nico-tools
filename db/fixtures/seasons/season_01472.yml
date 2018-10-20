@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/47/8/10478_1_6.png?1
 outline: "『北斗神拳』の伝承者でありながら、ケンシロウは『南斗弧鷲拳』伝承者のシンに敗れた。胸に七つの傷を穿(うが)たれ、最愛の女(ひと)ユリアをも奪われたケンシロウ。彼の心には胸の傷よりも深く惨めな敗北の傷が残った。一年後、暴力の巨大な波に翻弄され、ただ奇跡を待ち続けるしかない人々の前にケンシロウは再び現れた。死神という名の救世主として……。ユリアとの愛に生きていたケンシロウが、地上の愛のために生きることに覚醒した一年。今、明らかにされる物語の空白の真実を目撃せよ。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 阿部寛
   type: cast
 - !ruby/hash:TagHash

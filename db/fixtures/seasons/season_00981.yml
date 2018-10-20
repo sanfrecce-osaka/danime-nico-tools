@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/59/5/11595_1_6.png?1
 outline: 池袋の街を巻き込んだ抗争から半年――。街は平穏を取り戻し、変わらぬ日常を過ごしていた。高校生は青春を謳歌し、池袋最凶は仕事に勤しみ、情報屋は新たな画策に心躍らせ、都市伝説・首なしライダーは街を駆っては白バイ警官に追われ……。しかしそこには非日常が紛れ込む。徐々に色を濃くしていく異分子達によって、街はさらなる混沌に陥っていき……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -17,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
-  type: cast
-- !ruby/hash:TagHash
-  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
   name: 喜多村英梨
@@ -32,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 小西克幸

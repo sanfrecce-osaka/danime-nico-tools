@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/58/8/11588_1_6.png?1
 outline: 衝撃のアイドルデビューを飾ったST☆RISHの6人と、作曲家としての道を歩み始めた七海春歌。彼らはシャイニング事務所のマスターコースに所属し、一流のアイドルや作曲家を目指して本格的なレッスンを続ける傍ら、芸能活動を始めることになった。しかしその前には、ひと癖もふた癖もある異国のアイドル候補生や、教育係の先輩アイドルが登場し、果ては「幻の新人賞レース」にも巻き込まれてゆくことに…。ST☆RISHは、そして春歌は、この芸能界で夢を叶えることができるのか？！一億のキスよりもかがやく歌が奏でる、全力全開2000％ラブ☆コメディ♪
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 製作：A-1 Pictures
+  name: 音楽：Elements Garden
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：Elements Garden
+  name: 製作：A-1 Pictures
   type: staff
 - !ruby/hash:TagHash
   name: 監督：紅優

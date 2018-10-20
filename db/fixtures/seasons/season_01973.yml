@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/39/0/22390_1_6.png?1
 outline: テニスの名門校・青春学園中等部に入学してきた越前リョ－マは、伝説のテニスプレーヤー・越前南次郎を父に持ち、アメリカ各州のJr.大会で4連続優勝の経歴を持つ天才少年。テニス部入部早々、そのクールで生意気な態度を誤解され先輩達から試合を挑まれるはめになるが、圧倒的なテニスセンスで戦い抜く。一筋縄ではいかない青学(せいがく）レギュラー陣との校内ランキング戦や、強豪校との激戦が繰り広げられる地区大会など、ライバルとの対戦を通じて、リョ－マをはじめとする登場人物の成長を描いていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash

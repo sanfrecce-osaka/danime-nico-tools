@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/95/4/10954_1_6.png?1
 outline: 昭和58年夏。昼にはセミの、夕暮れにはひぐらしの合唱が暑さの訪れの早い今年の6月を歓迎するかのように、雛見沢に木霊していた。都会から遠く離れた山奥にある寒村、雛見沢。人口2千に満たないこの村に、最近都会から引っ越してきた前原圭一。明るくて話上手な圭一は、学校でもすぐに周りのクラスメートと仲良くなった。一番の仲良しで世話好きなレナ、リーダー格で委員長の魅音、トラップの達人で下級生の沙都子、古手神社の娘であり、不思議な雰囲気の持ち主の梨花・・・仲間との他愛のない日常を過ごしていた。それは、永遠に続くかに思えた。毎年6月に行われる祭、｢綿流し｣。そう、その日も楽しい一日になるはずだった。雛見沢にまつわる、ひとつの謎を知るまでは・・・。祭りの日に、繰り返される惨劇。毎年、一人が死に、一人が行方不明になるという、数年前から始まる連続怪死事件。事件の真相は？犯人は?圭一は、好奇心から村の闇へと足を踏み入れてしまう。その日を境に、圭一の周りが少しづつ、だが、確実に変わりはじめる。そう、すべてが・・・ひぐらしのなく声だけが変わらず、雛見沢に、少し、早めの夏を告げていた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 保志総一朗
   type: cast
 - !ruby/hash:TagHash
-  name: 関俊彦
+  name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 折笠富美子
+  name: 関俊彦
   type: cast
 - !ruby/hash:TagHash
   name: ゆきのさつき

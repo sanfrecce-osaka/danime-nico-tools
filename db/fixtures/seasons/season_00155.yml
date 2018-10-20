@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/88/5/20885_1_6.png?1
 outline: この銀河系の中心にあるという、宇宙パトロール本部。そこより指定された、銀河指定宇宙移民特区OGIKUBO。移民がはじまって20年、宇宙偏差値も最低の宇宙スラム街が出来上がった。宇宙パトロールの刑事を父に持つ普通の女子中学生ルル子は、ある日、突然フリーズしてしまった父を助けてもらうために訪れた宇宙パトロールOGIKUBO支部で、オーバージャスティス本部長に、成り行きで宇宙パトロールに任命されてしまう。一風変わった機能を持つ宇宙パトロールスーツに身をつつみ、ルル子は父を救い、宇宙犯罪者の魔の手からOGIKUBOの平和を守り、そして中学生の本分である｢恋｣や｢学業｣を全うできるのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：末廣健一郎
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：今石洋之
+  name: アニメーション制作：TRIGGER
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：TRIGGER
+  name: 監督：今石洋之
   type: staff
 - !ruby/hash:TagHash
   name: 原作：TRIGGER

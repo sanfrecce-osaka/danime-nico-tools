@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/60/5/20605_1_6.png?1
 outline: 時は大海賊時代。かつて、この世の全てを手に入れた男がいた。その名は海賊王ゴールド・ロジャー。遥かな大海原グランドラインには、彼が遺した“ひとつなぎの大秘宝(ワンピース)”が隠されているという・・・。伝説の秘宝を求め、人々は競うように海へと漕ぎ出してゆく。そして、ここにもグランドラインを目指す者が一人。悪魔の実と呼ばれる不思議な実の一つ｢ゴムゴムの実｣を食べ、全身がゴムのように伸びるゴム人間になったモンキー・D・ルフィだ。幼い頃に赤髪のシャンクスから麦わら帽子を託された彼は、海賊王になるという壮大な野望を抱いていた。海へと乗り出したルフィは、航海の中で大冒険を繰り返し、様々な人々と出会ってゆく。信頼できる個性的な仲間、悪党どもや海軍など立ちふさがる強大な敵・・・さあ、まだ見ぬ世界へ向けて帆を立てろ！歴史を変える大航海が、今、出航の時を迎える！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
@@ -42,6 +48,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 赤髪
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

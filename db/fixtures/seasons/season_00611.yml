@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/03/5/22035_1_6.png?1
 outline: 凛々しく素敵な男装の少女・天上ウテナは、生徒会副会長の西園寺と決闘することになってしまった。誘われるままに「決闘の森」に足を踏み入れたウテナを待っていたのは、見たこともない不思議な世界。そして、西園寺に寄り添う「薔薇の花嫁」と呼ばれる少女・姫宮アンシー。「世界を革命する力」をめぐる物語が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 久川綾
   type: cast
 - !ruby/hash:TagHash
-  name: 三石琴乃
+  name: 草尾毅
   type: cast
 - !ruby/hash:TagHash
-  name: 草尾毅
+  name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
   name: 小杉十郎太
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 折笠愛
   type: cast
 - !ruby/hash:TagHash
-  name: 今井由香
+  name: 白鳥由里
   type: cast
 - !ruby/hash:TagHash
-  name: 白鳥由里
+  name: 今井由香
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：光宗信吉

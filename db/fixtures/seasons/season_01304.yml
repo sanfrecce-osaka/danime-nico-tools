@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/58/7/10587_1_6.png?1
 outline: オドロキ!ヒラメキ!ピテカント!サルよりかしこい原始人。ぶっつけドタバタおおさわぎ。怖いマンモスなんのその、獲物をさがして大地を駆ける。困った時には力を合わせ。アイデア閃く、ピテカント!人類はじめのその瞬間。発明発見大進化?!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：青池良輔
   type: staff
 - !ruby/hash:TagHash

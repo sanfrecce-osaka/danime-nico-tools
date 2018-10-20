@@ -7,16 +7,19 @@ outline: 私立アミティーエ学園に通う長瀬準一は、ある日男�
   劇的な再会と、【ジェノキラー伝説】に新たな1ページを残した優姫と準一。これから甘くせつない関係が…。と思いきや、大変な出来事が二人を待ち受ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 加藤英美里

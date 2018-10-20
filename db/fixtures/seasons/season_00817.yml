@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/42/2/11422_1_6.png?1
 outline: クジラが見たいというユイのために《ALO》での水中クエストに挑むことになったキリトたち。しかしここで驚愕の事実が。以外にもリーファ……直葉は水が苦手だったのだ。アスナたち女性陣は、現実世界のプールで直葉の水泳特訓をすることに。一方同じ頃、キリトはある人物と対面していた―――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,19 @@ tags: !ruby/array:Hashie::Array
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: ソードアート・オンラインシリーズ
-  type: other
+  name: 原作：川原礫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：伊藤智彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：足立慎吾
+  type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
   type: other
 - !ruby/hash:TagHash
   name: 電撃

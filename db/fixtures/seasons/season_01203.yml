@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/35/7/11357_1_6.png?1
 outline: あの衝撃のラストは、始まりに過ぎなかった…！多くの謎と衝撃に包まれた前シリーズの最終回。横浜の街が大混乱に陥ったあの事件から三か月が経ち、カフェ・ノーウェアの面々にも日常が戻っていた。そんな中、ムラサキは、はじめとコンビを組み、再び探偵を初めていた。まさかの再登場を遂げたと思えば、旧友のナイスに銃口を向けたアートの真意とは…！？アートとハマトラの関係はどうなっていくのか…！？前シリーズで、悩みや葛藤を抱えたキャラクターたちが辿り着く応え(リプライ)、そして闇に包まれた謎が、遂に明らかになる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -44,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：岸誠二
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：吉森信
+  name: アニメーション制作：Lerche
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：Lerche
+  name: 音楽：吉森信
   type: staff
 - !ruby/hash:TagHash
   name: 音楽制作：ダックスプロダクション

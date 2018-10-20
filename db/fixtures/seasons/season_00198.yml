@@ -7,6 +7,9 @@ outline: 人助けの依頼を受けて貸しを作り、有事の際は強制�
   世直し(?)のために戦う、熱血人情ラブコメディーがついにアニメに登場!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

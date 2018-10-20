@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/26/3/10263_1_6.png?1
 outline: 時は現代。売れないお笑いコンビ｢ラブフェロモン｣は、日々大スターになることを夢見ていた。そんな二人には大きな切り札があった。実は、二人はもう一つの顔を持っていたのだ!それは……正義の味方(笑)!｢代々科学を利用し戦ってきた正義の味方の血を生かせば世界的に有名になれる!そうしたら、お笑いでブロードウェイに立つことも夢じゃない!｣かくして、漫才活動のかたわら“正義の味方”をやり、世間に名前を売ろうとするラブフェロモン!しかし、二人の戦いはムチャクチャなものばっかり…。自分たちで勝手に悪を決めつけ、｢正義のためならなにをしてもいいのだぁ!(by良澄愛美)｣という大義名分のもとに、暴れまくるのだが……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：RADIX
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：赤尾でこ
+  name: キャラクターデザイン：石野聡
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：石野聡
+  name: 脚本：赤尾でこ
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：長谷川勝己

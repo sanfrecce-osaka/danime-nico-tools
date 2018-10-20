@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/47/4/20474_1_6.png?1
 outline: 人類が太陽系を植民地化している22世紀。華やかな惑星開発事業の陰で、汚職役人と結びついて強大な権力を手にした地下組織“コネクション”が悪の限りを尽くしていた。アイザック、キッド、お町、ボウィーのアウトサイダー4人は“コズモレンジャーJ9”を結成。変形戦闘メカ“ブライガー”を駆り、莫大な報酬と引き換えに、悪人の犠牲になった人々の無念を晴らす始末屋稼業に乗り出す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash

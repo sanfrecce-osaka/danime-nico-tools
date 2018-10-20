@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/27/8/10278_1_6.png?1
 outline: 千年前の降魔戦争以来、大陸を覆っていた結界がリナたちが、ヘルマスター・フィブリゾを倒したことにより、消滅し、外との行き来が可能になった。外の世界からやってきたフィリアから、滅びの神託による世界の危機を救って欲しいとの依頼を受け、リナたちの旅がまた、始まるのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

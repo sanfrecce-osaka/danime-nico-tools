@@ -6,6 +6,12 @@ outline: 放射能汚染により、絶滅の危機に瀕したS-1星。レー�
   それは、父を殺したガットラーへの復讐心だけでなく、地球が幼い頃より憧れていた美しい自然の残っている惑星だったからである。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/70/6/20706_1_6.png?1
 outline: 黒いジャージにスカーフ姿の“夜ト（やと）”　は、祀られる社の一つもない貧乏でマイナーな神様。自分の社を築くべく、自分の携帯番号を街なかやトイレの壁に書き込み、賽銭＜５円＞で人助けをする、自称“デリバリーゴッド”である。良家の令嬢・壱岐ひよりは、交通事故に遭いそうになった夜トを助けようとして、代わりに自分が交通事故に巻き込まれてしまう。それがきっかけで“半妖（はんよう＝魂が抜けやすい体質）”となったひよりは、その体質を治してもらうために夜トを追いかけ、次第に行動を共にするようになる。さらに、夜トに拾われ、神様が使う道具“神器（しんき）”となった少年“雪音（ゆきね）”も仲間に加わり、人間に害を与える“妖（あやかし）”と戦いを繰り広げる一方で、夜トの秘められた過去がひもとかれていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
-  type: cast
-- !ruby/hash:TagHash
-  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
@@ -59,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2014年
+  name: 講談社
   type: other
 - !ruby/hash:TagHash
   name: 実写化・舞台化

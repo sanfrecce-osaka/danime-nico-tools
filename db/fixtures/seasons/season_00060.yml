@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/01/4/20014_1_6.png?1
 outline: うつ・ＥＤ・認知症～えっちなお悩みまでわかりやすく解説する臨床心理士・療と、突飛な方向へ誤解しがちなナース・あすながお届けする最先端のメンタル治療？！心療内科にて扱う症例等をテーマに、“笑えて学べる”異色の心療内科ギャグアニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/02/1/11021_1_6.png?1
 outline: 颯爽と駆ける馬・・己の限界に挑む騎士たち・・・華麗にして、勇壮な戦い、馬上槍試合｢ジョスト｣。多くの人々を魅了するこの誇り高き競技に魅了された者の一人でもある少年、水野貴弘はその馬上の騎士を支えるべグライター(騎士補佐)としてウィンフォード学園でどこか退屈な日々を送っていた。そんな貴弘と少女騎士たちの熱く気高き戦いの物語。―恋する少女騎士(おとめ)は奇跡を起こす―
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 新井里美
   type: cast
 - !ruby/hash:TagHash
-  name: 柚木涼香
+  name: 内山夕実
   type: cast
 - !ruby/hash:TagHash
-  name: 内山夕実
+  name: 柚木涼香
   type: cast
 - !ruby/hash:TagHash
   name: 清水愛

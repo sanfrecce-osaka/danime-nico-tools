@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/24/6/20246_1_6.png?1
 outline: トムはいたずら好きの腕白少年。親友のハックと一緒に、森で野豚を捕まえたり、ミシシッピー川で海賊ごっこをしたり、気球に乗ったりと、ワクワクするような冒険を楽しみます。ある日トムとハックはインジャン・ジョーが人を殺すのを目撃します。インジャンが恐ろしい二人は、そのことを誰にも話さないでおこうと思っていましたが、それでも勇気を出して裁判所で真実を話そうと決心します…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 野沢雅子
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/40/2/11402_1_6.png?1
 outline: 大陸を支配する女王を決める四年に一度の闘技会、クイーンズブレイド。逢魔の女王アルドラはついに破れ、かつてない激闘が繰り広げられた30回目のクイーンズブレイドは幕を閉じた。だが、優勝した美闘士レイナは女王の座に就くことなく去り、代わりに雷雲の将クローデットが女王の座に就くことになった。誰からも尊敬される人格者であった彼女に対し、民衆は期待をもって受け入れた。そして、貴族制や重税の廃止、女王直轄軍による各地の紛争の鎮圧など、民衆の期待に応えるかのようにその成果を出していった。しかしそれも束の間、雷雲の女王クローデットは豹変し、前女王以上の軍事大国化へ突き進み、反対するものは力でねじ伏せる恐怖政治を断行した。大陸には戦火が広まり、また急速に世界に浸透し始めた魔導石と呼ばれる錬金技術により”力の格差社会”へと変わりつつあった。そして遂にクローデットはクイーンズブレイドを廃止し、｢自分こそが大陸を支配する永遠の女王である｣と宣言するのであった。しかし、それに叛逆するものが現れた。叛乱の騎士姫アンネロッテである。そして彼女の元には、彼女を慕い美闘士たちが次々と集っていく。その前に立ちはだかるのは、鋼鉄参謀ユーミル、牙を統べるものエリナ、異端審問官シギィら女王の精鋭たる美闘士達であった…。どちらが勝つのか、それは戦ってみなければわからない!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 竹達彩奈
@@ -29,16 +35,16 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
-  name: 茅原実里
-  type: cast
-- !ruby/hash:TagHash
   name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 寿美菜子
+  name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
   name: 遠藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿美菜子
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：横山克

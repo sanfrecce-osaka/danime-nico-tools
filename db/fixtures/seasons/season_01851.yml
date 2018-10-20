@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/26/0/22260_1_6.png?1
 outline: 帝愛グループ会長・兵藤和尊の命で、債務者たちによる「死のゲーム」の企画を任された幹部・利根川幸雄!!早速、企画会議を開く利根川を待っていたのは、受難‥!!煩悶‥!!そして絶望‥!!会長と黒服の間で苦悩する利根川を描く、悪魔的スピンオフ、アニメ化始動････!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚明夫
+  name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
-  name: 津田健次郎
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也
@@ -62,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

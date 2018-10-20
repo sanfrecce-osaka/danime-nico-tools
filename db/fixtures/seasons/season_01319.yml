@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/54/2/11542_1_6.png?1
 outline: 中間テストの勉強のためにコータの家に集まったショータとコータ。ふとテレビをつけると、「怪獣出現」の臨時ニュースが流れていた。驚く二人の近くで爆発音が響き、外に飛び出る。怪獣出現という絶望的な状況に焦りながらも、「こんな時は必ずヒーローが助けに来る」、そう言って二人はヒーローの登場を切に願うのであった。しかし、肝心のヒーローたちはいつも通りの日常を過ごしていた・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash

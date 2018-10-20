@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/20/6/20206_1_6.png?1
 outline: かつて――融合症例と呼ばれた少女は、世界終焉の真際に奇跡を掴み、ガングニールのシンフォギアと適合を果たす。地球霊長存続の名目で執行されようとしていた人類淘汰――「フロンティア事変」と称される一連の騒乱は、歌に血を通わせた少女たちの活躍によって終止符が打たれたが、新たな物語は、それから程なくして幕を開けるのであった。亜宇宙を弧を描いて引き裂く超音速の落下物体。それは、ラグランジュ点での大気圏外活動を終え、地球に帰還しようとしていた国連所属のスペースシャトルであった。システムトラブルから機能不全と陥り、このままでは機体の空中分解、あるいは地表ヘの激突は免れないという緊急事態に、息を飲むばかりの各国指導者たち。遡る事、二度に渡り、世界を未曽有の危機より救ってきたシンフォギア装者たちも、その力を日本政府保有の軍備とみなされる以上、たとえ人道的救護支援であっても国外での活動はかなわず、待機を余儀なくされるのであった。それから経過する１００日余り。フロンティア事変以降、認定特異災害「ノイズ」の観測は一例としてなく、事の顛末を知る誰もがノイズの根絶と被害の終息を予感していた頃。本部にてモニターへと向かっていた藤尭朔也は、ノイズとは異なる、だが近似した反応波形を確認する。場所は、横浜港大さん橋ふ頭付近。そこには、小さな匣をかかえ、逃げるように駆ける黒衣――＜廃棄物１１号＞の姿が見られた。世界を壊す、歌がある。今はまだ、やがて訪れるその脅威に気づく者はなく、夏の夜空に、ただ赤き粉塵が舞い踊るのみであった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 悠木碧
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
-  name: 瀬戸麻沙美
+  name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash
-  name: 水瀬いのり
+  name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：サテライト
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：Elements Garden
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：上松範康
+  name: 監督：小野勝巳
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：小野勝巳
+  name: 原作：上松範康
   type: staff
 - !ruby/hash:TagHash
   name: 原作：金子彰史

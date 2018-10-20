@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/5/11095_1_6.png?1
 outline: ゲームで大人気を博した『サクラ大戦３』のヒロインたちを新たに描くサクラ大戦OVA第３期シリーズ。彼女たちの見た都市崩壊の悪夢が現実となる日がやってきた。果たして結成まもない巴里華撃団は、巴里の街を救えるのか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 高山みなみ
   type: cast
 - !ruby/hash:TagHash
-  name: 小桜エツ子
+  name: 日髙のり子
   type: cast
 - !ruby/hash:TagHash
-  name: 日髙のり子
+  name: 小桜エツ子
   type: cast
 - !ruby/hash:TagHash
   name: 鷹森淑乃

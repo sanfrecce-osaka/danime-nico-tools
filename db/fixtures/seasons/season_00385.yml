@@ -6,6 +6,12 @@ outline: 織田信長・豊臣秀吉・徳川家康 戦国時代の覇者であ�
   直江兼続 ―前田慶次 酒語り―』をベースに、原作者監修のオリジナルエピソードを加えた戦国大河アニメーションの決定版！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -18,19 +24,19 @@ tags: !ruby/array:Hashie::Array
   name: 上田燿司
   type: cast
 - !ruby/hash:TagHash
-  name: 郷田ほづみ
+  name: 佐藤拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤拓也
+  name: 郷田ほづみ
   type: cast
 - !ruby/hash:TagHash
   name: 加藤和樹
   type: cast
 - !ruby/hash:TagHash
-  name: 廣田行生
+  name: 川本成
   type: cast
 - !ruby/hash:TagHash
-  name: 川本成
+  name: 廣田行生
   type: cast
 - !ruby/hash:TagHash
   name: 吉川晃司

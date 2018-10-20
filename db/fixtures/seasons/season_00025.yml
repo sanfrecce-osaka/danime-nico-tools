@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/32/9/21329_1_6.png?1
 outline: 秋葉原では、謎の敵・”破繰者（バグリモノ）”が出没するという都市伝説が広まっていた。破繰者に噛み付かれると、体を乗っ取られ、自我を失い、自分の意志で行動できなくなるという。妹のにわかと共に秋葉原に来ていたタモツは、たまたま破繰者との戦いに巻き込まれ、瀕死の重傷を負ってしまう。謎の少女・まとめの不思議な力によって一命を取り留めるが、助けられた影響で秋葉原の街から出られなくなる。まとめや有紗やにわか、かげさん達と共に自警団を結成し、秋葉原の自由を守る戦い、破繰者と秋葉原の関係の謎を追う戦いに、仲間と共に挑んでいく――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 高野麻里佳
   type: cast
 - !ruby/hash:TagHash
-  name: 長久友紀
+  name: 石谷春貴
   type: cast
 - !ruby/hash:TagHash
-  name: 石谷春貴
+  name: 長久友紀
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：GONZO

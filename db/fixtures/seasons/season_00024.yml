@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/37/8/11378_1_6.png?1
 outline: 帝国の圧政によって苦しむとある村の少年剣士・タツミは、村を救う希望とお守りを胸に、幼馴染みと共に帝都へ出稼ぎに出発する。道中、夜盗の襲撃に遭い散り散りになりながらも、たった1人帝都に辿り着いたタツミを待ち受けていたのは、絶句するほどに腐敗しきった帝都の真の姿だった。｢最近、帝都の重役や富裕層の人間を狙う恐るべき殺し屋集団がいる。｣一方でそういった噂を耳にしたタツミは、身をよせた貴族の家で闇夜に潜む彼らの存在に気がつく。殺し屋集団――――――ナイトレイドたちの存在に。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
-  name: 明坂聡美
+  name: 雨宮天
   type: cast
 - !ruby/hash:TagHash
-  name: 雨宮天
+  name: 明坂聡美
   type: cast
 - !ruby/hash:TagHash
   name: 水野理紗
@@ -41,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：タカヒロ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：田代哲也
+  name: キャラクターデザイン：中村和久
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：中村和久
+  name: 原作：田代哲也
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：岩崎

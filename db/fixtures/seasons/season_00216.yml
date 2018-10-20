@@ -6,13 +6,16 @@ outline: 平凡なサラリーマンと専業主婦の夫婦の間に生まれ�
   抱腹絶倒のギャグと、時にホロリとさせられる、赤塚不二夫の傑作同名マンガを22年ぶりにアニメ化したシリーズ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
   name: 松井菜桜子
-  type: cast
-- !ruby/hash:TagHash
-  name: 田中真弓
   type: cast
 - !ruby/hash:TagHash
   name: 肝付兼太
@@ -39,10 +42,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：鴫野彰
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：本間勇輔
+  name: 原作：赤塚不二夫
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：赤塚不二夫
+  name: 音楽：本間勇輔
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：岸義之

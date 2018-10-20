@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/70/7/20707_1_6.png?1
 outline: 黒いジャージにスカーフ姿の“夜ト”は、祀られる社の一つもない貧乏でマイナーな神様。自分の社を築くべく、賽銭＜5円＞で人助けをする、自称”デリバリーゴッド”である。交通事故に遭いそうになった夜トを助けようとしたことがきっかけで、”半妖(はんよう=魂が抜けやすい体質)”となった良家の令嬢・壱岐ひより、さらに、夜トに拾われ、神様が使う道具“神器”となった少年“雪音”と共に、人間に害を与える”妖”と戦いを繰り広げながらも、その三人の絆は深まっていた。一方で、七福神の一柱(ひとり)で最強武神である“毘沙門”から命を執拗に狙われ続けている夜ト。ふたりの間に秘められた過去、そして、因縁の対決の行方は…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 梶裕貴
-  type: cast
-- !ruby/hash:TagHash
-  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
   name: 井上和彦

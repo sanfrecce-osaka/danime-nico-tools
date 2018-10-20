@@ -7,6 +7,9 @@ outline: 東北代表として出場した「アイドルの祭典」での活�
   Up, Girls！」とアイドルたちを大きなうねりへと巻き込んでいく。敗れて尚あきらめられないもの。アイドルとは何か。その答を求めて、物語は再び「アイドルの祭典」へと収束する。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田中美海
   type: cast
 - !ruby/hash:TagHash
@@ -28,10 +31,10 @@ tags: !ruby/array:Hashie::Array
   name: 永野愛理
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：神前暁
+  name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：MONACA
+  name: 音楽：神前暁
   type: staff
 - !ruby/hash:TagHash
   name: 監督：山本寛

@@ -5,22 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/1/21521_1_6.png?1
 outline: 桜木ひな子は口下手で人と話すことが苦手な女の子｡人前に出るとかかしのようにかたまってしまう自分を変えるため、憧れの演劇部がある高校への進学をきっかけに田舎から出てきたひな子は、下宿先のひととせ荘へとやってくる｡そこには本と食べることが大好きなくいな、年上だけど小さくて料理上手な真雪、無口でスタイル抜群の大家さんの千秋たちが住んでいて……！？少し変わっているけど、とっても魅力的なひととせ荘の住人たちと元かかし少女が繰り広げる可愛くて楽しい演劇コメディが今、幕を開ける！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
   name: 小倉唯
   type: cast
 - !ruby/hash:TagHash
-  name: 高野麻里佳
+  name: 富田美憂
   type: cast
 - !ruby/hash:TagHash
   name: 東城日沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 吉田有里
+  name: 高野麻里佳
   type: cast
 - !ruby/hash:TagHash
-  name: 富田美憂
+  name: 吉田有里
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：橋本由香利

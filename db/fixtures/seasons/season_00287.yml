@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/33/1/21331_1_6.png?1
 outline: 天使学校首席の天使が人間界にやってきた！……が、人間界に馴染みすぎて学校サボりまくりのネトゲ三昧、自堕落生活。怠惰な駄目天使、略して｢駄天使｣と化したガヴリールは、すべての人類を幸せにする目標はどこへやら。娯楽を満喫し続けると誓うのであった――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/19/4/22194_1_6.png?1
 outline: 刑務所の落語慰問会で見た大名人・八雲の「死神」が忘れられず、出所した与太郎が真っ先に向かった先は、寄席だった。拝み倒して八雲の住み込みの弟子となり、芸を磨いた与太郎はついに真打へと昇進する。継いだ名跡は三代目助六。八雲師匠の為め、小夏の為め、二人の中の助六を変える為め、与太郎が見出す己の落語とは…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

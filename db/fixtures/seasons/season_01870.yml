@@ -5,7 +5,37 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/46/6/11466_1_6.png?1
 outline: 2001年に手塚治虫原作のインターネットアニメなどを配信するサイト｢TezukaOsamu@Cinema｣にて配信されたブロードバンドコンテンツ。声優として宇多田ヒカルをピノコ役に起用したことも話題となった作品。本作は原作を忠実に再現されている作品で、原作が好きなファンにとっては待ちに待った作品である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 掛川裕彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 宇多田ヒカル
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：手塚治虫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：本田ちさと
+  type: staff
+- !ruby/hash:TagHash
   name: ブラック・ジャックシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

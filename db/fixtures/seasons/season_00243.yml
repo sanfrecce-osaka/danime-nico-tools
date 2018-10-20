@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/95/0/10950_1_6.png?1
 outline: 平凡で穏やかな日々を過ごしていた男子高校生・高坂京介。だが、彼の日常は妹・桐乃の｢人生相談｣で急変する。人生勝ち組でリア充な桐乃は、実はアニメやゲームが大好きなオタク趣味の持ち主だったのだ。そんな桐乃の｢人生相談｣を真摯に受けとめる京介。そこに、SNSで知り合った黒猫や沙織バジーナ、桐乃の友達のあやせと加奈子、京介の幼馴染みの麻奈実と人々が加わり冷え切っていた兄妹関係に変化が訪れる。桐乃の突然の留学という事件を乗り越え今度はどんな｢人生相談｣がハプニングを巻き起こすのか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 製作：A-1 Pictures
   type: staff
 - !ruby/hash:TagHash

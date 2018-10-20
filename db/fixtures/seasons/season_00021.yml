@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/5/11475_1_6.png?1
 outline: 建国神話・四龍伝説が伝わる高華王国。緋龍城では当時、王の他には世継ぎの王子も、世継ぎを産むお妃も無くただ齢十五の王女・ヨナが、大切に大切に育てられていた――。そして迎えた十六歳の誕生日。武器を厭う心優しい父王・イル、幼馴染で護衛のハクや、ヨナが想いを寄せていた従兄のスウォンと共に、幸せな一日を過ごす…はずだった。宴の夜、スウォンとの婚姻を反対するイルに、ヨナは自分の気持ちを伝えに行く。しかし、イルの部屋で彼女が遭遇したのは思いもよらぬ過酷な現実で…!?ヨナと四龍、それぞれの運命が絡みあう、激動の大河ファンタジー・ロマン――！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash

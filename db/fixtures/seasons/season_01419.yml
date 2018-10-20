@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/47/1/21471_1_6.png?1
 outline: 誰でもアイドルになれるアイドルテーマパーク「プリパラ」。主人公・真中らぁら、チームメイトのみれぃ、そふぃはそこで人気急上昇中のアイドルチーム「SoLaMi　SMILE（そらみスマイル）」として活躍している。そのプリパラに久々に新ゾーンが開園した！「ドリームシアター」と名付けられたそのライブ会場で、チャームが導く運命の5人チームが最高のライブをすると、プリパラ最大級イベント「プリパラドリームパレード」が開催されるという。プリパラアイドルたちはこの新しいイベントに興味津々！運命の5人とはいったい誰か？どのチームが「ドリームシアター」で最高のライブを見せるのか？新アイドルも登場する、アイドルテーマパーク「プリパラ」の新シーズンがいよいよ開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 牧野由依
   type: cast
 - !ruby/hash:TagHash
-  name: 山本希望
+  name: 芹澤優
   type: cast
 - !ruby/hash:TagHash
-  name: 芹澤優
+  name: 山本希望
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木千尋
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 茜屋日海夏
   type: cast
 - !ruby/hash:TagHash
-  name: 渡部優衣
+  name: 高乃麗
   type: cast
 - !ruby/hash:TagHash
-  name: 高乃麗
+  name: 渡部優衣
   type: cast
 - !ruby/hash:TagHash
   name: 久保田未夢

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/33/2/21332_1_6.png?1
 outline: この世界のどこかにつくられた超巨大総合動物園｢ジャパリパーク｣。そこでは神秘の物質｢サンドスター｣の力で、動物たちが次々とヒトの姿をした｢アニマルガール｣へと変身――！訪れた人々と賑やかに楽しむようになりました。しかし、時は流れ……。ある日、パークに困った様子の迷子の姿が。帰路を目指すための旅路が始まるかと思いきや、アニマルガールたちも加わって、大冒険になっちゃった！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
-  name: 野中藍
+  name: 内田彩
   type: cast
 - !ruby/hash:TagHash
-  name: 内田彩
+  name: 野中藍
   type: cast
 - !ruby/hash:TagHash
   name: 津田美波
@@ -32,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 三上枝織
   type: cast
 - !ruby/hash:TagHash
-  name: 國府田マリ子
+  name: 佐々木未来
   type: cast
 - !ruby/hash:TagHash
-  name: 佐々木未来
+  name: 國府田マリ子
   type: cast
 - !ruby/hash:TagHash
   name: 大空直美

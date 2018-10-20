@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/93/3/10933_1_6.png?1
 outline: いつとも知れない未来。私立探偵のヒゲオヤジとケンイチ少年は、ある事件を追って、人間とロボットが共に暮らす超近代的な巨大都市国家「メトロポリス」へやってきた。生体を使った人造人間の開発で問題となり、国際指名手配になっているロートン博士を探すためだ。ところが、ロートンの秘密研究所が何者かに放火され、捜索中で現場近くにいたケンイチは、逃げ遅れた不思議な少女ティマを救った。記憶を無くしたのか「ワタシハ、ダレ…」そうつぶやくティマ。ロボットと人間の、そしてメトロポリスの運命が自分に託されていることを、ティマはまだ知らない…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 若本規夫
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 江原正士
   type: cast
 - !ruby/hash:TagHash
-  name: 富田耕生
+  name: 土師孝也
   type: cast
 - !ruby/hash:TagHash
-  name: 土師孝也
+  name: 富田耕生
   type: cast
 - !ruby/hash:TagHash
   name: 滝口順平
@@ -65,10 +68,10 @@ tags: !ruby/array:Hashie::Array
   name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 三間雅文
+  name: 製作年：2001年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2001年
+  name: 三間雅文
   type: other
 - !ruby/hash:TagHash
   name: 丸山正雄

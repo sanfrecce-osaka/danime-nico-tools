@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/09/6/10096_1_6.png?1
 outline: 文芸部に所属する井上心葉の望みは、何事もない平和な毎日。“文学少女”を名乗る物語を食べる風変わりな先輩、天野遠子に振り回されながらも穏やかな毎日を過ごしていた。幼なじみの少女・美羽と偶然、再会するまでは・・・・・・。謎めいた美羽の言動に翻弄される心葉。彼女が投げかけた｢カムパネルラの望み｣とは何なのか?過去の闇にとらわれた少女。過去の闇に立ち向かおうとする少年。進むべき道に迷い、立ちすくみ傷つけあうふたりに、“文学少女”遠子が優しく温かく語り始める。二人を待つ｢本当の幸い｣とは何かを----。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

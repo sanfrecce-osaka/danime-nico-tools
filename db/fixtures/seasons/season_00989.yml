@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/23/5/11235_1_6.png?1
 outline: 精霊――無垢なる少女の姿をした異界の存在。そして、その可憐なる外見とは裏腹に、絶大な力を有する畏怖の対象。彼女たちを無力化するには、ふたつの方法があった。武力をもって殲滅する、もしくは――デートしてデレさせる！来禅高校に通う、普通の高校生だった五河士道は、最初の精霊〈十香〉との遭遇をきっかけに、「精霊の力を封印する」という能力に目覚める。強大な戦闘力を持つがゆえ、忌み、恐れられる存在であっても、ずっと一人ぼっちで戦いと死しか知らなかった精霊たち。この世界でただひとり、精霊の力を封印する能力を持った士道は、彼女たちを救うため、美しき精霊たちとの生死をかけた戦争〈デート〉に身を投じていく――。精霊を殲滅しようとする者、救おうとする者。憎しみに駆られる者、利用しようとする者。様々な思惑が交錯する中、やがて世界を真に回す者たちが闇の底からその姿を現す。そして士道もまた、自らの真実の姿を知ることに！加速する物語が帰結するその先にあるものは！？「〈王国〉が、反転した。さあ、控えろ人類」
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤静
-  type: cast
-- !ruby/hash:TagHash
-  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 置鮎龍太郎
@@ -20,13 +26,16 @@ tags: !ruby/array:Hashie::Array
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
-  name: 島﨑信長
+  name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 内田真礼
+  name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
   name: 茅原実里

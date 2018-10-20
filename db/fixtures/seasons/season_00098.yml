@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/47/2/10472_1_6.png?1
 outline: "｢ジェミナー｣と呼ばれる異世界を舞台に数十メートルを超える巨人が闊歩する!強力な亜法動力で動く巨大な人型兵器｢聖機人｣。それを動かすパイロットとして一人の少年が地球より召喚される。その名は｢柾木剣士｣...彼こそが梶島ワールドの名を継ぐ最強の少年、そして運命の少年であった…。｢天地無用!GXP｣(’02年)発表以前から梶島正樹が構想し、梶島ファンの間でその存在が噂されていた｢異世界の聖機師物語｣がついにそのベールを脱ぐ!アクションあり、恋愛あり、温泉あり?!の学園コメディ、乞うご期待!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash

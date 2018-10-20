@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/1/11511_1_6.png?1
 outline: "｢ブラックinc.｣を名乗る組織の先兵・DTは再び3姉妹の前に姿を現す。3姉妹が夢で見たネコからの頼みごと、そして現実に起こってしまったヒロイン劇・・・。だが、なりゆきの決意が巨大な影を覚醒させてしまう――。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash

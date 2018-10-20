@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/73/4/10734_1_6.png?1
 outline: "｢ぷちどる｣は、765プロダクション所属のアイドルたちにそっくりな姿をした謎の生き物。個性豊かなアイドルやプロデューサー、事務員たちが活動している事務所を舞台に、アイドル&ぷちどるの笑いとハプニングに満ちた日常をゆるりと描く！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
-  name: 下田麻美
+  name: 原由実
   type: cast
 - !ruby/hash:TagHash
-  name: 原由実
+  name: 下田麻美
   type: cast
 - !ruby/hash:TagHash
   name: たかはし智秋

@@ -7,6 +7,9 @@ outline: エリート小学校・田園調布学園に転校してきた、御�
   たいぞう／通称｢びんぼっちゃま｣)などなど、そのキャラの濃～い同級生たちとおくる小学校を舞台にした、奇想天外でハチャメチャな上流階級ギャグアニメ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 佐々木望
   type: cast
 - !ruby/hash:TagHash

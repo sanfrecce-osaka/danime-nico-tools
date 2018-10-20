@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/03/6/22036_1_6.png?1
 outline: 紀元前11世紀の中国、殷王朝の時代――――。時の皇帝・紂王は文武両道とうたわれた名君の誉れ高い人物だったが、絶世の美女・妲己をその妃に迎えて以来、魂の抜殻のような状態になってしまう。実は妲己は邪心を持つ仙女であり、誘惑術（テンプテーション）によって皇帝を操り、仲間の妖怪仙人たちをも王宮に引き込んで贅沢三昧の日々を送っていた。一方、はるか天空に浮かぶ仙人界・崑崙山脈の教主・元始天尊は、人間界が妲己の魔手により荒廃していくことを憂慮し、人間界・仙人界にまたがるビッグプロジェクト「封神計画」を実行に移すこととし、その実行者として道士・太公望を任命する。元始天尊は太公望に「封神計画」とは、悪しき仙人や道士の魂を新たに創設する「神界」に封じこめる計画であるといい、宝貝・打神鞭と霊獣・四不象を与えた。かくして太公望は計画実行のため人間界におもむくことになり、次々と襲ってくる妖怪仙人たちと戦うことになるのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 柚木涼香
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 柚木涼香
   type: cast
 - !ruby/hash:TagHash
   name: こおろぎさとみ
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 緒方恵美
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉進歩
+  name: 宮田幸季
   type: cast
 - !ruby/hash:TagHash
-  name: 宮田幸季
+  name: 千葉進歩
   type: cast
 - !ruby/hash:TagHash
   name: 大木民夫
@@ -56,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1990年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 集英社
   type: other
 - !ruby/hash:TagHash
-  name: 集英社
+  name: 講談社
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1999年

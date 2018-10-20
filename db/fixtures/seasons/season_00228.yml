@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/34/0/11340_1_6.png?1
 outline: 父親が再婚して、変なお姉ちゃんができた朋也(13歳中学生)は、そのお姉ちゃんの愛に困惑中!また、そのお姉ちゃん一香(17歳高校生)は困惑する朋也の表情もかわいいっといい、写真を撮ったり、後をつけまわして学校などに行くのだが…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash

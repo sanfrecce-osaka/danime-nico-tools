@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/27/7/10277_1_6.png?1
 outline: 赤の龍神スィーフィードと赤眼の魔王・シャブラニグドゥが覇権を争う、剣と魔法のファンタジーワールド。その世界を縦横無尽に暴れ回る、リナ=インバース。千年前の降魔戦争以来、なりを潜めていたシャブラニグドゥの配下の魔族たちが動き出し、何故かリナの行く手に絡んでくる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

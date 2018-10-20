@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/22/8/11228_1_6.png?1
 outline: 舞台となるミョウジョウ学園10年黒組は、たったひとりの標的（ターゲット）とそれを狙う女子高生暗殺者12人で構成されていた。ひとり命を狙われながらも必ず生きて卒業すると誓う一ノ瀬晴。彼女が標的だと気づきつつも、距離が縮まるにつれ、晴がもつあたたかさに次第に惹かれていく東兎角。クラスメイトが刃を剥くとき、兎角は晴の守護者として立ち向かうのか、それとも……？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 金元寿子
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 沼倉愛美
@@ -56,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：横谷昌宏
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：井出直美
+  name: 脚本：吉村清子
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：吉村清子
+  name: キャラクターデザイン：井出直美
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：藤咲あゆな

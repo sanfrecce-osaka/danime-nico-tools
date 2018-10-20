@@ -5,7 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/70/1/10701_1_6.png?1
 outline: お待たせっ! ご好評にお応えして、帰って参りました!!神奈川県川崎市高津区溝の口、首都でもないこの地で、相も変わらず世界征服を狙う悪の組織・フロシャイムの川崎支部の怪人たちと、ご当地のヒーロー・天体戦士サンレッドが繰り広げる戦いの日々を描いたギャグアニメ!ヒモで粗暴なヒーロー・サンレッド、カリスマ主夫かつ理想の上司・ヴァンプ将軍、そしてとても世界征服を企んでるとは思えない、小市民的なフロシャイム怪人の面々。相変わらずの面々に加えて新キャラも続々登場!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 斧アツシ
+  type: cast
+- !ruby/hash:TagHash
+  name: 髙木俊
   type: cast
 - !ruby/hash:TagHash
   name: 間宮くるみ
@@ -15,9 +24,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 鍋井まき子
-  type: cast
-- !ruby/hash:TagHash
-  name: 髙木俊
   type: cast
 - !ruby/hash:TagHash
   name: 山田ルイ53世

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/36/2/21362_1_6.png?1
 outline: 高校入学をきっかけに長崎から鎌倉へ引っ越してきた女の子、舞春ひろみ。新しい土地に新しい学校、そして新しいともだち。そんなわくわくな日常との出会いはいつも自転車といっしょ！南鎌倉を舞台に、女子高生たちの自転車のある青春がはじまる――！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 上田麗奈
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/85/7/20857_1_6.png?1
 outline: フロンティアを旅する拓也たちは、デジタルワールドの外れで人型と獣型デジモンの闘いに巻き込まれてしまう。それぞれのデジモンたちに手厚い歓迎を受ける一行は、しばらくして、島の人型族と獣型族が激しく対立していることを知る。対立の理由を調査していくうちに明らかになる驚くべき事実と敵の正体…。拓也たちは永きにわたる闘いに終止符を打つことができるのだろうか！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
@@ -39,6 +45,9 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2002年

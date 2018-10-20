@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/42/2/21422_1_6.png?1
 outline: 元気でトラブルメーカー的存在の馬鹿野郎日本代表、次女の夏奈。毒舌だが実は姉が大好きな三女の千秋。そんな妹たちを笑顔で見守るしっかりものの長女の春香を中心としたほのぼのストーリー。彼女たちの周りには、いつも個性的な友人たちがいっぱい。時にはケンカしたり、時にはみんなでのんびりしてみたり……。そんな三姉妹たちの平凡な日常を淡々と描いた作品です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
-  name: 茅原実里
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 浅沼晋太郎

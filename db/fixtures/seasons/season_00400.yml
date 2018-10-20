@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/50/4/20504_1_6.png?1
 outline: 30世紀、太陽系には50の惑星があり、それぞれが独立した国家を営んでいる。若き大富豪ブルースは、アステロイドのカジノ地区でルーレット勝負に興じるうち、暗黒シンジケートの大ボス、ブラディ・ゴッドと世紀の大勝負をすることになる。タイムリミット1年間で全惑星を踏破することができたら、1200億ボールもの大金が手に入る。しかし負ければ無一文になるのだ。ブルースはカジノで知り合ったロック、バーディ、ビートらと、蒸気機関車型の自家用宇宙トレイン“J9-III号”に乗り込み、闇の組織“ブラディ・シンジケート”の妨害を戦いながら、365日間太陽系1周の壮大なレースに旅立つ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash

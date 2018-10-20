@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/27/4/20274_1_6.png?1
 outline: なかなか寝付けない夏の夜、何気なくつけていたテレビから一風変わった気味の悪いアニメが流れ始めて、ついつい見入ってしまう…それはまるで“都市伝説”かのように若者たちの間で噂になっていく――。「闇芝居」とは、今無くなりつつある昭和の風景“紙芝居”に最先端デジタル技術を加え、日本中にある至極の都市伝説的ストーリーをのせて贈る、恐怖の新感覚アニメーションです。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 村井良大
   type: cast
 - !ruby/hash:TagHash

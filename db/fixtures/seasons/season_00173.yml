@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/13/0/22130_1_6.png?1
 outline: 今日もSNSにはびこる極悪犯とたたかうSNSポリス。「投稿の中身も見ずに『いいね！』を連発する」などSNSをやったことがある人なら一度は感じたことのある「あるある」ネタを警部とその仲間たちが面白おかしく指摘する短編アニメ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: ゆうたろう
   type: cast
 - !ruby/hash:TagHash

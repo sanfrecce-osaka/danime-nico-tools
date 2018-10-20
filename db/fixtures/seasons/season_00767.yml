@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/90/3/21903_1_6.png?1
 outline: 戦国時代に似た、だが女の子しかいない世界……。現代の女子中学生・ヒデヨシ (本名 日出佳乃)は、ある日突然、そんな摩訶不思議な場所へと飛ばされ、織田ノブナガはじめ名立たる戦国武将らと出会う。ノブナガは天下統一を目指し、「伝説の深紅の甲冑」を集めており、ヒデヨシは何故かその手伝いをすることに……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

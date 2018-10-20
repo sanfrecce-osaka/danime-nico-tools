@@ -6,6 +6,15 @@ outline: 第1回GA文庫大賞優秀賞受賞作｢這いよれ!ニャル子さ�
   乞うご期待!!(特にエンディングはがんばりました(゜∀゜＊)ノ ウハ-)
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

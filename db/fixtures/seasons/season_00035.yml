@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/55/7/11557_1_6.png?1
 outline: 力石徹の死後、逃げるようにリングを離れ、街から街へ流れ続けた矢吹丈。しかしかつてのライバルたちに出会うことで、再びリングに立つことを決意する。カーロス・リベラ、金　竜飛といった数々の世界ランカーと死闘を繰り広げ、遂にチャンピオンに君臨するホセ・メンドーサとのタイトルマッチにまでたどり着く。ボクシングに青春をかけたハングリーな生き様を描いた不朽の名作。真っ白に燃え尽きる感動のラストシーンは、見る者の心に深い感動を焼き付ける。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中尾隆聖
   type: cast
 - !ruby/hash:TagHash

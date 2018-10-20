@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/11/1/10111_1_6.png?1
 outline: とある雑居ビルの308号室。その部屋の扉には、こう書かれている。《NEET探偵事務所》It’s the only NEET thing to do.そこを根城とするのは自らを“ニート探偵”と呼ぶ少女・アリス。部屋から出ないひきこもりで、ネットを駆使して真実を暴きだし、事件を解決する。そのもとに集うのは、16歳の高校生ナルミとニート探偵団。多くの人にとってはどうでもよくて、でもほんの少しの人にとってはかけがえのない事件。これはそんな事件をめぐる、ちっぽけだけど温かな物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 小倉唯

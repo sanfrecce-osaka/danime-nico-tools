@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/45/9/10459_1_6.png?1
 outline: ローゼンベルグ騎士養成学校の｢プリーシア｣は容姿端麗、才色兼備、剣を持てば向かう所敵なしの超天才つん?美少女。学園内では王の忘れ形見と噂されている――。ある日、謎の天然君｢ハヤウェイ｣に突然手を握られた挙句、全校生徒の前で剣を交え負けてしまうという屈辱を味わう。更に、ハイテンションでトラブルメーカーな｢フェル｣、ミステリアスな巫女さん｢神楽｣、ドジっ子｢ブリジット｣……と、異様に個性的なクラスメートにペースを乱され、さらにブラコンなハヤウェイの妹｢フィーリア｣には一方的に恋敵扱いされて、大騒ぎの学校生活を送るはめに。。。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 寺島拓篤
+  name: 速水奨
   type: cast
 - !ruby/hash:TagHash
-  name: 速水奨
+  name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
   name: 水橋かおり
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 浅野真澄
   type: cast
 - !ruby/hash:TagHash
-  name: 松井菜桜子
+  name: こやまきみこ
   type: cast
 - !ruby/hash:TagHash
-  name: こやまきみこ
+  name: 松井菜桜子
   type: cast
 - !ruby/hash:TagHash
   name: 桃井はるこ

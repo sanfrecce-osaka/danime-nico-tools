@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/02/0/10020_1_6.png?1
 outline: 1969年のパラレル日本を舞台に、ゲートキーパーズの活躍を描くサイキック・アクション。｢青の6号｣で注目を集めたGONZOが原作・アニメーション制作を手がけた。原案・シリーズ構成は｢新世紀エヴァンゲリオン｣の山口宏、キャラクター・デザインは｢機動戦艦ナデシコ｣の後藤圭二。女子高生・生沢ルリ子は、異空間から膨大なエネルギーを呼びこむ門“ゲート”を管理するゲートキーパーの一人。地球防衛機構イージスに所属する彼女は、地球を襲う球体インベーダーと戦っていた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash

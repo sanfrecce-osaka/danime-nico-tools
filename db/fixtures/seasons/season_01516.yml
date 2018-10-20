@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/13/0/10130_1_6.png?1
 outline: 名門・天日(てんぴ)学園は、不思議な力を持つ“マケン”を使って授業を行う、一風変わった学園。｢今年から共学化=女の子達の花園!｣なんて安易な考えで入学した主人公・大山武(タケル)は、“マケン”を使って決闘する美少女たちの姿にたじたじに・・・さらに、なんだかんだで決まってしまった、幼馴染みの天谷春恋(あまやはるこ)、自称許嫁の櫛八イナホ、ミステリアスな姫神コダマら、3人の美少女たちとの同居生活も、タケルが期待していた｢ムフフ｣なことよりも、｢イタタ｣なことの方が山積みな日常。そんななか、タケルは春恋の薦めで、学園内の事故や事件の解決を担う『魔導検警機構・通称マケンキ』に入部することに。―――恋にバトルに大忙しの学園生活の行方は果たして!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：日本コロムビア
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：AIC スピリッツ
+  name: キャラクターデザイン：結城信輝
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：結城信輝
+  name: アニメーション制作：AIC スピリッツ
   type: staff
 - !ruby/hash:TagHash
   name: 監督：大畑晃一

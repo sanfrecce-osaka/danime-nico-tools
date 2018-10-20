@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/87/0/10870_1_6.png?1
 outline: 今回の「お茶犬」はお茶犬たちが、街角や公園、ベランダ、リビングに現れて、町の人たちと交流する姿を描く、心和むアニメーション。忙しい毎日に紛れて忘れていた、大切なことを思い出させてくれる、そんな”ちょっと良いお話”。あなたも「お茶犬」を見て、「ほっ」とひと息つきませんか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 伊藤かずえ
+  type: cast
+- !ruby/hash:TagHash
   name: お茶犬シリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

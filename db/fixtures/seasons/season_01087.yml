@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/16/9/22169_1_6.png?1
 outline: この世界は魔王たちによる「七つの大罪」が蔓延し始めていた。天界はこの状況を打破すべく、七人の天使たちを地上に遣わせた！しかしこの天使たちは相当なポンコツ揃いであったのだ・・・地上に降臨した天使たちは、街のあちこちで救世主候補を探しているのだが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
-  name: 井澤詩織
+  name: Lynn
   type: cast
 - !ruby/hash:TagHash
-  name: Lynn
+  name: 井澤詩織
   type: cast
 - !ruby/hash:TagHash
   name: 中村桜

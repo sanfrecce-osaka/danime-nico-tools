@@ -6,6 +6,12 @@ outline: 赤ん坊にしか見えない新人刑事・めめたんが鳥取と�
   by とっとり100%(※)　※鳥取県制作×鳥取県出身の漫画家×アニメを鳥取県内企業で制作×出演者×ロケ地など！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 古原奈々
   type: cast
 - !ruby/hash:TagHash

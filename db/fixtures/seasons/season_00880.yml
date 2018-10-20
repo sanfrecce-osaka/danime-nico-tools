@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/17/1/20171_1_6.png?1
 outline: とある団地で暮らす仲野晴輝(高1)には姉が一人、妹が3人いる。才色兼備でまじめだけど、弟・晴輝と二人きりのときだけ『隙』を見せる長女の夢月(高2)。兄・晴輝のことが気になるけど、いつも素直になれない次女の弥生(中3)。晴輝にかまってほしいのか、イタズラばかりする三女・羽月(小3)。漫画・アニメが好きで、趣味の近い晴輝とはオタク仲間の四女・咲月(小3)。そんな4女1男の『自然にそこにある』団地暮らし――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash

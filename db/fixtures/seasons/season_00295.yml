@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/2/10062_1_6.png?1
 outline: その昔、海賊の黄金時代に、七つの海を暴れまくったキャプテン・キッドが、生涯をかけて世界中から集めた莫大な財宝は、謎につつまれたまま、いずこかに眠っていた……。そして、時は幕末。尊王攘夷の声はいよいよ高まり、日本はその歴史の中で大きな転換期を迎えようとしていた。その頃、本州の北端、陸奥の国、佐井ノ村に一つの事件がおこった。村の旅籠“佐井屋”のお女将つゆとその娘さゆりが何者かに惨殺され、息子の次郎が親殺しの罪を着せられて山奥へと追い詰められていた。“次郎”彼こそ、この物語の主人公、運命に操られ、波乱の生涯を歩む時代の落とし子……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 塩沢兼人
   type: cast
 - !ruby/hash:TagHash
@@ -20,7 +26,7 @@ tags: !ruby/array:Hashie::Array
   name: 永井一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 羽佐間道夫
+  name: 山本百合子
   type: cast
 - !ruby/hash:TagHash
   name: 家弓家正
@@ -29,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 堀江美都子
   type: cast
 - !ruby/hash:TagHash
-  name: 山本百合子
+  name: 池田昌子
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽佐間道夫
   type: cast
 - !ruby/hash:TagHash
   name: 曽我部和恭
-  type: cast
-- !ruby/hash:TagHash
-  name: 池田昌子
   type: cast
 - !ruby/hash:TagHash
   name: 石田太郎

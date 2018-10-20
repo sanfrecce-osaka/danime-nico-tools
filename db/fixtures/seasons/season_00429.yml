@@ -6,6 +6,9 @@ outline: ガラス工房を営む一家の娘・深水透子は、友人の家�
   駆は、透子に、自分には未来の声が聴こえると語りかける。もし、あらかじめ未来を知ることができるのなら、自分は何を望むのだろう? 感じたことのない動揺を覚えながらも、透子は胸の中に、放っておけない感情が生まれていることに気が付く...。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
@@ -21,10 +24,10 @@ tags: !ruby/array:Hashie::Array
   name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 種田梨沙
+  name: 山下大輝
   type: cast
 - !ruby/hash:TagHash
-  name: 山下大輝
+  name: 種田梨沙
   type: cast
 - !ruby/hash:TagHash
   name: 深川芹亜

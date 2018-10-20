@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/10/0/10100_1_6.png?1
 outline: 進級テストの成績で厳しくクラス分けされる先進的な進学校｢文月学園｣。秀才が集まる設備も整ったAクラスに対して、最底辺のFクラスの設備はボロい卓袱台や腐った畳だけ。そんなFクラスの生徒である吉井明久たちは、学園が開発したシステムを使ったクラス争奪バトル｢試験召喚戦争｣に挑戦したり、｢学園祭｣に参加したりと、ある意味刺激ある学園生活をおくっていた。そして夏がやってきた--
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash

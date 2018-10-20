@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/04/6/20046_1_6.png?1
 outline: 私立リリアン女学園には清く正しい学園生活を受け継いでいくため、“姉妹（スール）”と呼ばれる姉妹制度が存在している。そんな学園での憧れの的は山百合会と呼ばれる生徒会を運営する薔薇さま達。ある日、主人公祐巳は山百合会のお姉さまと姉妹関係である“紅薔薇のつぼみ”こと祥子から突然の姉妹宣言をされ・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
@@ -32,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 檜山修之
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
-  type: cast
-- !ruby/hash:TagHash
   name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン

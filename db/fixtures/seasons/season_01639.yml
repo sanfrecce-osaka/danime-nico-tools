@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/20/5/20205_1_6.png?1
 outline: "「他種族間交流法」の施行により、人間以外の種族との交流が認められた日本。ある手違いにより、主人公・来留主公人のもとに他種族の女の子（モンスター娘）たちが続々と転がり込んできて、共同生活を送ることに…！？モテモテハーレム状態だけど、他種族とのふか～い交流は、法律で厳しく禁止されていて…？可愛いけれど、ちょっとちがうモンスター娘たちと過ごす、少し変わった毎日がはじまる…"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 雨宮天
   type: cast
 - !ruby/hash:TagHash
-  name: 雨宮天
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 中村桜

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/53/4/20534_1_6.png?1
 outline: 就職を機に6畳風呂なしのアパートで一人暮らしを始めた前田さんと、そのアパートの女子中学生・大家さんとの日常を描くピュアほっこりな半同居コメディ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash

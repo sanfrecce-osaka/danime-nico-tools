@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/62/9/10629_1_6.png?1
 outline: 大学受験のために上京してきた浪人生・相田ゆるめ。ゆるめの下宿先は、ベテラン浪人生しか住んでいないアパートだった。しかも、そのアパートからは合格者が出たことがないという。ゆるめにどんな生活が待ち受けているのか!??疲れた現代人に贈る、ゆるく生きることに勇気をくれる衝撃のギャグアニメ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash
@@ -23,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：C2C
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：小田武士
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：saxyun
   type: staff
 - !ruby/hash:TagHash
   name: 監督：月見里智弘
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：小田武士
   type: staff
 - !ruby/hash:TagHash
   name: 監督：夕澄慶英

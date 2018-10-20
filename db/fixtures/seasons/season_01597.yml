@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/20/5/10205_1_6.png?1
 outline: 昔は地上に存在していた魔法の国フェナリナーサ、しかし人々が夢と希望を失って行くにつれて地上を離れて行ってしまった。王様はそれがさびしくてなりません。そこで、娘の“ミンキーモモ”を地球へ送り出したのです。地上でモモが人々に夢を与えることにより、王宮の王冠にハッピーティアと呼ばれる宝石が一つはまり、それが12個そろえばフェナリナーサは地上に戻って来る事が出来るのです。フェナリナーサのプリンセス・ミンキーモモが人々に夢と希望を与えるため、シンドブック、モチャー、ピピルと共に、大人になる魔法を使って夢を叶えてゆきます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 千葉繁
   type: cast
 - !ruby/hash:TagHash

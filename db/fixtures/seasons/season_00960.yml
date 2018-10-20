@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/12/0/11120_1_6.png?1
 outline: 府上高校でも有名な不良の風間堅次がひょんな事からゲーム製作部の部室を覗いてみると、その中では小火災が発生していた。中にいた部員たちと消火する事には成功するものの、火災を隠蔽するために堅次たちの記憶を奪おうと部員たちに襲われてしまう。必死に逃げる堅次だったが、部長・柴崎芦花に助けられた事をきっかけにゲーム製作部に入部する事になってしまう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

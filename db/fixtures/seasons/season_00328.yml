@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/59/6/10596_1_6.png?1
 outline: 銀河の中心でこの宇宙を支配する貴族連合艦隊と、貴族連合軍の中で頭角を現してきたヴェッティ率いる新貴族艦隊が激突した。宇宙の命運をかけた戦いは激闘の末、新貴族艦隊の勝利で幕を閉じた。その後、ヴェッティは神聖帝国を樹立し、初代皇帝となる。だがこの戦いは、平和の幕開けではなく、新たな圧政の始まりだった…。そしてそのヴェッティ政権打倒の為に立ち上がったのが、ミシェル率いる人民軍である。ある日彼らは、貴族の結婚式に潜入し、領土戦艦の争奪に成功するが、マコネ率いる神聖皇帝軍艦隊の追撃にあってしまう。ミシェルが降伏の人身御供となるその時、宇宙の闇を切り裂く光がマコネの巨大艦を貫く。その光、クレオが駆るガラスの戦艦の圧倒的強さ。王家の血を引き、王家復興を目指すため、この戦艦一隻で天下を取るのだと堂々と言い放つ、この艦の艦長クレオに、ミシェルは新たな時代の救世主の姿を見るのだった。一方、ヴェッティは、十字星教法王ゴルナから彼の娘レイチェルとの婚姻を持ちかけられるものの、時期尚早とはねつける。だが、その夜の仮面舞踏会で互いの素性を知らぬまま、ヴェッティはある女性と接触する。それぞれの出会いが導く、彼らの運命とは…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 大川透
+  name: 白石涼子
   type: cast
 - !ruby/hash:TagHash
-  name: 白石涼子
+  name: 大川透
   type: cast
 - !ruby/hash:TagHash
   name: 柚木涼香

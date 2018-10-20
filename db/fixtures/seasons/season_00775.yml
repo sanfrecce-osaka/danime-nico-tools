@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/0/10430_1_6.png?1
 outline: 人気TVアニメ｢戦国魔神ゴーショーグン｣の劇場版。第17話と第20話を中心に再編集・作成された番外編。宇宙戦国時代を迎えた2001年。地球を支配しようと企むドクーガと、地球を守るグッドサンダーチームが激しい攻防を繰り返していた。そこに新しい敵サントスが出現、地球の未来は?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
@@ -56,6 +62,9 @@ tags: !ruby/array:Hashie::Array
   name: 戦国魔神ゴーショーグンシリーズ
   type: other
 - !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
@@ -78,9 +87,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 松浦典良
-  type: other
-- !ruby/hash:TagHash
-  name: 福田岳志
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

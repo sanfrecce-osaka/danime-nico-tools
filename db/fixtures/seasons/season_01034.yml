@@ -5,7 +5,61 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/49/2/11492_1_6.png?1
 outline: サイバトロンとデストロンによる「マスターフォース戦争」も終結し、宇宙は一時の平和を取り戻していた。サイバトロンは平和を愛する異星人たちと宇宙平和連合を設立、地球も連合の一員に加わっていた。Ｖ惑星に本部を置く平和連合は、新たに結成した宇宙防衛軍の総司令官にサイバトロンの勇者・スターセイバーを任命する。一方のデストロンでは、ブレストフォースのリーダーであるデスザラスが新破壊大帝として実権を掌握していた。デスザラスは宇宙の覇権を制するためにも、かつてスターセイバーによって暗黒星雲に封印された要塞を取り戻そうと、各所でエネルギーの強奪を始める。かくして両軍の争いは、因縁の地となった地球へと舞台を移した。正義のブレインマスターと悪のブレストフォースの間で勃発したトランスフォーマー同士の熾烈な戦いは、いつ果てることなく続いてゆく。はたしてその結末は!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪脩
+  type: cast
+- !ruby/hash:TagHash
+  name: 広中雅志
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸谷公次
+  type: cast
+- !ruby/hash:TagHash
+  name: 頓宮恭子
+  type: cast
+- !ruby/hash:TagHash
+  name: 掛川裕彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 丸尾知子
+  type: cast
+- !ruby/hash:TagHash
+  name: 金丸日向子
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野義和
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤浩之
+  type: cast
+- !ruby/hash:TagHash
+  name: 里内信夫
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：まがみばん
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：石田勝範
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：金田益美
+  type: staff
+- !ruby/hash:TagHash
   name: トランスフォーマーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

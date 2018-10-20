@@ -7,7 +7,40 @@ outline: |-
   【にゃ～めん】猫型天使たちが、がんば・・・・らない自由気ままな日々。天界にあるという女子高校、天界第一女子高校(略して天一)の第104期生8人は、神の手よるものか事故なのか、とつぜん地上へ遣わされることとなった!そして、彼女たちの身体を襲う異変。神は彼女たちに何をさせようというのか?彼女たちの学校の単位はどうなるのか?天界へ帰る方法や地上に遣わされた目的をもとめて、彼女たちのユルい自分探しの旅がはじまった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 小倉唯
+  type: cast
+- !ruby/hash:TagHash
+  name: 西明日香
+  type: cast
+- !ruby/hash:TagHash
+  name: 田所あずさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 松嵜麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 小堀友里絵
+  type: cast
+- !ruby/hash:TagHash
+  name: 野村真悠華
+  type: cast
+- !ruby/hash:TagHash
+  name: 森千早都
+  type: cast
+- !ruby/hash:TagHash
+  name: 中隈志保
+  type: cast
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/3/11073_1_6.png?1
 outline: 妹の宮河ひかげと、姉の宮河ひなたは仲良し姉妹。でも姉の浪費癖（おたく愛）のおかげで毎日空腹の日々…。そんなちょっとせつないのに、ちょっと笑える!?優しい姉妹愛を描いたハートフル物語♪あの「らき☆すた」がスピンオフ企画で帰って来た！「ああ…なにもかもなつかしい…」「『らき☆すた』はあと十年は戦える」　（泉こなた　談）
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 福原香織
   type: cast
 - !ruby/hash:TagHash
-  name: くじら
+  name: 今野宏美
   type: cast
 - !ruby/hash:TagHash
-  name: 今野宏美
+  name: くじら
   type: cast
 - !ruby/hash:TagHash
   name: 山田奈都美

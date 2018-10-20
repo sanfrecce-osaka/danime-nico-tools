@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/87/1/20871_1_6.png?1
 outline: "｢母危篤｣という知らせに騙されて海外に来るハメになった高校生の海棠晴(かいどう はる)は、そこで突然｢お前の弟だ！｣と零(れん)という男の子に引き合わされる。野生児で誰の言うことも聞かない零を必死で世話する晴だったが、どうも零には出生について秘密がある模様。おまけに、ようやく零が自分だけに懐き始めた矢先、ある悲劇が晴を襲う。―――そして5年後、東京で成長した零に再会した晴だったが…？"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash

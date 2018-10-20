@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/93/2/10932_1_6.png?1
 outline: 凶悪化する犯罪に対抗するため、武力で問題の解決にあたる探偵、通称「武偵」。遠山キンジは、武偵の育成施設である武偵高校の生徒だったが、とある事件が元で、武偵高をやめて一般の学校に移るつもりでいた。そんなある日、なぜかキンジは登校中に爆弾魔に命をねらわれてしまう。だが追い詰められたキンジの前に、突然空から美少女が舞い降りてきた。彼女の名は神崎・Ｈ・アリア。小柄で可憐な外見からは想像のつかないような優秀な凄腕武偵で……狂暴で攻撃的な女の子だった。この出会いが、キンジとアリア、２人の今後を大きく変えていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -41,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：渡部高志
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：白根秀樹
+  name: キャラクターデザイン：岩倉和憲
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：岩倉和憲
+  name: 脚本：白根秀樹
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：ヤスカワショウゴ
@@ -53,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：尾澤拓実
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：平林佐和子
+  name: 原作：赤松中学
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：赤松中学
+  name: 脚本：平林佐和子
   type: staff
 - !ruby/hash:TagHash
   name: 緋弾のアリアシリーズ

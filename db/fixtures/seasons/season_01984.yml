@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/47/6/11476_1_6.png?1
 outline: 謎の美少女転校生・千斗いすずから強引に遊園地デートの誘いを受けた可児江西也。わけもわからず連れて来られたのは、さびれたアトラクション、ダメダメなサービスの日本一残念な遊園地・甘城ブリリアントパーク。その支配人だという“本物の”お姫様・ラティファに引き合わされた西也は、なぜか突然、閉園の危機にあるパークの再建を託されてしまう。そして、そこはただの遊園地ではなく――！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash

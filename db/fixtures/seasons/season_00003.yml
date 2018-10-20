@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/32/8/21328_1_6.png?1
 outline: 舞台は現代の日本に良く似た、パラレルワールド的な[ニッポン]広がる所得格差、しのび寄る環境汚染、打つ手なしのゴミ問題、当事者不在の議論が続く待機児童、繰り返される汚職の数々…あふれる問題や不満に対し何一つ対策を打つことのできない既得権益にまみれた政府。そんな八方ふさがりな状況のニッポンでついに“アイドル”たちが立ち上がった！ヒロイン党、賛来党、スターライ党、美少女党、わかば党、サブカル新党、SOS党、７つのアイドル政党から、各都道府県の代表として国会議員となったアイドルは、ニッポンを覆う閉塞感を歌とダンスで正面突破！！国民の笑顔を取り戻し、輝きのオーラでニッポンを包み込んでいく！！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 赤﨑千夏
   type: cast
 - !ruby/hash:TagHash
-  name: 上田麗奈
+  name: 久保ユリカ
   type: cast
 - !ruby/hash:TagHash
-  name: 久保ユリカ
+  name: 上田麗奈
   type: cast
 - !ruby/hash:TagHash
   name: 渕上舞
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 山本希望
   type: cast
 - !ruby/hash:TagHash
-  name: 石井康嗣
+  name: Lynn
   type: cast
 - !ruby/hash:TagHash
-  name: Lynn
+  name: 石井康嗣
   type: cast
 - !ruby/hash:TagHash
   name: 仲谷明香

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/20/4/11204_1_6.png?1
 outline: 週刊｢JIDAI｣の編集者松方弘子(28歳)、寝食忘れ、凄まじい勢いで仕事に没頭する彼女は人呼んで｢働きマン｣。仕事人間の松方だけでなく、個性豊かな編集部員、周りの様々な人間を通じて｢働くとは何か｣を問う。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash

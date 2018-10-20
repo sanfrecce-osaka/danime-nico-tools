@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/42/7/10427_1_6.png?1
 outline: 500年に一度、人間が持つ美しい心を“かぎ”として、美しく生まれ変わるという地球の守り神、フェニックス。その節目を迎える老フェニックスのトートーのために、マリーベルはユーリとケンを彼に会わせますが、転生する兆しは見えません。そこに突如現れたジートが持つ“マイナスのかぎ”によってトートーは悪魔の鳥に変化し、マリーベルを襲ってしまいます。はたしてトートーは真の転生を遂げることが出来るのでしょうか?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 三石琴乃
   type: cast
 - !ruby/hash:TagHash
@@ -26,19 +29,19 @@ tags: !ruby/array:Hashie::Array
   name: 京田尚子
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本千夏
+  name: 辻谷耕史
   type: cast
 - !ruby/hash:TagHash
   name: 本多知恵子
   type: cast
 - !ruby/hash:TagHash
-  name: 辻谷耕史
-  type: cast
-- !ruby/hash:TagHash
-  name: 小野健一
+  name: 坂本千夏
   type: cast
 - !ruby/hash:TagHash
   name: 塩屋浩三
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野健一
   type: cast
 - !ruby/hash:TagHash
   name: 監督：遠藤徹哉

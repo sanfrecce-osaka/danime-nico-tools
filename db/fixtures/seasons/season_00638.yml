@@ -6,16 +6,22 @@ outline: 週刊少年チャンピオンで連載中の人気漫画｢侵略!イ�
   努と第2期監督・山本靖貴に加え、数々の実績を誇る池端隆史が演出をそれぞれ担当する個性きわまる3エピソード!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 金元寿子
@@ -64,6 +70,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 主人公がかぶりもの
   type: other
 - !ruby/hash:TagHash
   name: 秋田書店

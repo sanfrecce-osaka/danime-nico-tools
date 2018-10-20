@@ -5,16 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/72/5/10725_1_6.png?1
 outline: 作家・水野良とグループSNEが構築した異世界フォーセリアの物語の内、大陸クリスタニアを舞台とした英雄譚が独立して劇場版アニメになったもの。■神獣たちが住まう外界から隔絶された大地・クリスタニア。謎の声に導かれるがままその地へと向かう青年・レードンの胸中に渦巻くのは、両親を暗殺した宰相たちへの復讐心。力を得るための旅を続ける彼はやがて、クリスタニアへと誘う声の主が邪神バルバスであることを知った。大切な仲間を連れ去っていった邪神を相手に初心を貫き屈するか、それとも抗うか……。決断を迫られたレードンの進むべき道とは。■剣と魔法の世界で獣人や妖精が躍動する、まさに王道のファンタジー映画。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：佐橋俊彦
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：大島ミチル
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：水野良
+  name: 監督：中村隆太郎
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：中村隆太郎
+  name: 原作：水野良
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：遠藤明範

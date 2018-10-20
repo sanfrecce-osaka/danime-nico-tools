@@ -5,22 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/6/10046_1_6.png?1
 outline: 話題の謎の大富豪:クライン・サンドマンや、新キャラクター:フェイに注目せよ! サンドマンとサンジェルマン城の謎。対ゼラバイアに対して地球統合政府EFAの反撃。敵｢ゼラバイア｣の真の目的とその正体が、遂に明かされる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 福山潤
-  type: cast
+  name: ロボット/メカ
+  type: genre
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 福山潤
   type: cast
 - !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
+  name: 諏訪部順一
+  type: cast
+- !ruby/hash:TagHash
   name: 桑島法子
   type: cast
 - !ruby/hash:TagHash
-  name: 中原麻衣
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 緑川光
+  name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
   name: 速水奨
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
+  name: 堀内賢雄
   type: cast
 - !ruby/hash:TagHash
-  name: 堀内賢雄
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 池澤春菜

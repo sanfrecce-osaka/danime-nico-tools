@@ -5,22 +5,28 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/97/8/10978_1_6.png?1
 outline: 切ない想いと失われた記憶が交錯する ミステリアス学園ドラマ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
   name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
-  type: cast
-- !ruby/hash:TagHash
   name: 新谷良子
   type: cast
 - !ruby/hash:TagHash
-  name: 清水愛
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水愛
   type: cast
 - !ruby/hash:TagHash
   name: 南里侑香

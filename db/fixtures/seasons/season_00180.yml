@@ -6,16 +6,22 @@ outline: 物理学者ハインツ・シュナイダー殺害の容疑で追わ�
   そこに行けば、自分の知らない過去がわかるはずだーそう確信するエリスだが、手がかりは運命を導くといわれるインカ ローズの原石と、｢ウィニャイマルカ｣という謎の言葉だけ。途方に暮れるエリスに案内役を買って出たのは、彼女を追っていたはずのナディだった。かくして賞金首と賞金稼ぎの、奇妙な逃避行が始まることになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 久川綾

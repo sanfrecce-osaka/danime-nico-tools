@@ -7,6 +7,12 @@ outline: 高校を卒業し、水泳でつないだ絆を胸にそれぞれの�
   to the Future-』で、ひとつになる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
@@ -34,10 +40,10 @@ tags: !ruby/array:Hashie::Array
   name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 豊永利行
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 平川大輔
+  name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
   name: 野島健児

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/81/0/21810_1_6.png?1
 outline: 触れたものを溶かす猛毒を全身に宿した少女・カルディア。怪物と恐れられ、周囲と隔絶した日々を送っていた。ある夜、英国軍に捕らわれる寸前、泥棒紳士と名乗る男、アルセーヌ・ルパンと出会う。彼に導かれ、少女は機鋼都市・ロンドンに赴くが、様々な人物たちと出会い、思わぬ冒険を繰り広げることとなる。やがて彼女は、ルパンたちと行動を共にする中で、自らの身体と失われた記憶の謎に迫っていく。怪物と呼ばれた少女が辿り着く、真実とその願いとは――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash

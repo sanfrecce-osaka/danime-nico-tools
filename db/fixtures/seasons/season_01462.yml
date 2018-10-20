@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/82/8/21828_1_6.png?1
 outline: これは、成長の物語　宝石たちの中で最年少のフォスフォフィライトは、硬度三半とひときわ脆く、靭性も弱くて戦闘に向かない。また、他の仕事の適性もない。そのくせ口だけは一丁前という、まさに正真正銘の落ちこぼれだった。そんなフォスに、三百歳を目前にしてやっと初めての仕事が与えられる。それは、博物誌編纂という仕事。地味な仕事に不満なフォスだったが、彼はその目で世界を見、様々なことを経験する中で、しだいに大きなうねりに飲み込まれてゆく。そしてついに、彼は望まぬかたちで、欲しかった“強さ”を手にするのだが──。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 釘宮理恵
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 茅野愛衣
@@ -17,22 +23,22 @@ tags: !ruby/array:Hashie::Array
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
-  type: cast
-- !ruby/hash:TagHash
   name: 桑島法子
-  type: cast
-- !ruby/hash:TagHash
-  name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
-  name: 小松未可子
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
   name: 高垣彩陽

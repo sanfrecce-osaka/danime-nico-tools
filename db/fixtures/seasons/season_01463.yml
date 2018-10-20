@@ -5,19 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/20/5/11205_1_6.png?1
 outline: "｢女の子になりたい男の子｣二鳥修一は、転校先の小学校で背が高くてかっこいい女の子、高槻よしのと出会う。そんなよしのも｢男の子になりたい女の子｣で、時々男装して遠くの街へ出かけていることを修一に告白する。それをきっかけに二人はお互いの秘密を共有し、近い存在になっていく。中学生なった二人は、お互いをとりまく新たな人間関係の中、思春期真っただ中の葛藤や悩みとぶつかり合いながら、それぞれの進む道を見つけていく――。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 堀江由衣
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 豊崎愛生
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
   name: 南條愛乃
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
-  name: 水原薫
+  name: 本田貴子
   type: cast
 - !ruby/hash:TagHash
-  name: 本田貴子
+  name: 水原薫
   type: cast
 - !ruby/hash:TagHash
   name: 南里侑香

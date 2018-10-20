@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/00/3/22003_1_6.png?1
 outline: "「プリパラ太陽系の惑星をめぐって、プリパラの素晴らしさを広めよう！」というミッションを受けたらぁら御一行。ピュスカバリー号に乗り、様々な惑星に立ち寄ると、奇妙なぷちゅうじんが彼女たちを出迎える。しかしどの惑星もミッションをクリアするには一筋縄ではいかない。はたしてらぁら御一行はぷちゅうじんにプリパラの素晴らしさを無事に伝えることができるのか？"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 芹澤優
   type: cast
 - !ruby/hash:TagHash

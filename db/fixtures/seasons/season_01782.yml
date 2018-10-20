@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/44/2/10442_1_6.png?1
 outline: 正義のため時空間の旅を続けるレイナ・ストールは剣狼を託され、仲間とわかれ地球に転生。稲妻が走り、一本の剣狼と美少女レイナが横たわっていた。転生したためまだ記憶がおぼろげながら、退屈な現代に生きる思春期の少女たちの未来を蝕む存在を感じ、翻弄される少女たちを応援し救うために女学院に転校。そこでエイリスの伝説を語り現実に鬱屈した少女小島ナミに出会う。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 音楽：渡辺宙明
   type: staff
 - !ruby/hash:TagHash
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1980年代
   type: other
 - !ruby/hash:TagHash
-  name: 清水勝則
+  name: 製作年：1988年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1988年
+  name: 清水勝則
   type: other
 - !ruby/hash:TagHash
   name: 下地志直

@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/44/5/20445_1_6.png?1
 outline: ミスターXから猿あてに届いた一通のエアメール。それはアメリカが誇る天才ゴルフ少年・レッドホークとの対戦を促す招待状だった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 田中真弓
   type: cast
 - !ruby/hash:TagHash
   name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 永井一郎
   type: cast
 - !ruby/hash:TagHash
   name: 富田耕生
@@ -17,7 +23,7 @@ tags: !ruby/array:Hashie::Array
   name: 中尾隆聖
   type: cast
 - !ruby/hash:TagHash
-  name: 永井一郎
+  name: 江森浩子
   type: cast
 - !ruby/hash:TagHash
   name: 堀江美都子
@@ -29,16 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 平野文
   type: cast
 - !ruby/hash:TagHash
-  name: 江森浩子
+  name: 頓宮恭子
   type: cast
 - !ruby/hash:TagHash
   name: 鵜飼るみ子
   type: cast
 - !ruby/hash:TagHash
   name: 野島昭生
-  type: cast
-- !ruby/hash:TagHash
-  name: 頓宮恭子
   type: cast
 - !ruby/hash:TagHash
   name: 脚本：城山昇

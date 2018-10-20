@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/07/7/10077_1_6.png?1
 outline: 一般庶民からいきなり超セレブに!突然社交界におデビューすることになった少年の、華々しい生活と素敵な少女たちとのゴージャスな恋物語……のハズが!?2008年6月に発売され、デビューブランドとしては異例の大ヒットを記録したPC用ゲーム｢プリンセスラバー!｣がついにTVアニメーション化!制作はこちらも本作がスタジオデビュー作ながら、数々の作品で活躍した実力派クリエイターが集結した新進気鋭の大阪主戦制作集団｢GoHands｣。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

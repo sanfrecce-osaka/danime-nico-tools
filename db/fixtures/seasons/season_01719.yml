@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/02/3/22023_1_6.png?1
 outline: 幼い頃に海沿いのこの町へ引っ越してきた主人公・友坂健次。目の前に広がる海は夏の日差しを照り返してラムネ色に輝いていた。健次はその海で一人の少女と出会う。少女の名前は近衛七海、健次の新しい家のすぐ隣に住んでいた。ベランダを挟んで、１、２メートルの距離、二人の部屋は手を伸ばせば届くほど近かった。季節は巡り、時間は流れ、二人の思い出はその年月と共に積み重ねられていく。なんでもない日常、あたりまえの関係……二人にはそれがとても尊いものだった。日差しが強くなり、蝉の鳴き声が聞こえ、空は青く澄み渡る――今年も夏が来た。健次と七海にとって当たり前の、だけど特別になる夏が。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 谷山紀章
   type: cast
 - !ruby/hash:TagHash

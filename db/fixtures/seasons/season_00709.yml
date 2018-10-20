@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/35/6/21356_1_6.png?1
 outline: 貧乏な青年楊敬華は交通事故にあった。再び目覚めた彼は、10歳も若くに見え、みずみずしい少年となった！生まれ変わった自分がこれからようやく人生の勝ち組に入れると思った時、その彼の前に髪の白い、いわゆるお金持ちの超絶イケメンが現れた。この｢陽冥司｣と自称したイケメンは、｢お前はもう死んでいる｣と楊敬華に伝えたうえ、怪しく｢少年よ、私と契約を結ばないか？｣と彼を誘った。それから、二人は男同士の情に溢れた、お互いを支える旅に立った。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 大久保瑠美
   type: cast
 - !ruby/hash:TagHash

@@ -7,6 +7,9 @@ outline: 女性に罵倒されたり嗜虐されたりすると気持ち良く�
   がんばれ太郎! そこで喜んじゃダメなんだ!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -22,10 +25,10 @@ tags: !ruby/array:Hashie::Array
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
+  name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 阿澄佳奈
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 代永翼

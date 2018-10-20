@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/6/11046_1_6.png?1
 outline: 人類を滅亡に追いやる異次元体『ノヴァ』との戦いで姉を失った少年カズヤは、ある学園に編入生としてやってきた。そこは、ノヴァに対抗できる力を持つ、女子生徒しかなれない戦士【パンドラ】、そしてパンドラを補佐し無二のパートナーとなる男子生徒【リミッター】を育成する『ウェストゼネティックス』という学園だった。その学園もまた、ノヴァとの戦いに備え、少年少女たちが能力を開花するべく、日々互いにしのぎを削るバトルフィールド。そして下級生は、絶対無敵の上級生に対し絶対服従でなければならない。その秩序を乱すのが、他人が触れることを決して許さない「接触禁止の女王」と恐れられる最強の二年、サテライザー＝エル＝ブリジット。カズヤは彼女に、亡き姉の面影を見る。サテライザーを疎む上級生たちが、学園の「秩序」を盾に彼女を組み伏すべく、熾烈な闘いがはじまる。恋と闘争の学園ＳＦアクション、ここに開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 桑谷夏子
   type: cast
 - !ruby/hash:TagHash
-  name: 浅川悠
+  name: 内田彩
   type: cast
 - !ruby/hash:TagHash
-  name: 内田彩
+  name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：横山克
@@ -56,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：A・C・G・T
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：金光鉉
+  name: 原作：林達永
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：林達永
+  name: 原作：金光鉉
   type: staff
 - !ruby/hash:TagHash
   name: フリージングシリーズ

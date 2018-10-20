@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/06/9/10069_1_6.png?1
 outline: 時の果てとも言うべき遠い未来。世界は“汚染物質”に覆われ、人々は自らの意志で動く移動都市(レギオス)で暮らしていた。数ある移動都市の1つ ｢学園都市ツェルニ｣にやってきた少年・レイフォンは、入学式で他生徒の起こしたトラブルに巻き込まれ、ツェルニを守る“第十七小隊”に入隊するはめになる。ところがそこは、とんでもない“落ちこぼれ部隊”だった!個性的な“第十七小隊”のメンバーに囲まれた、レイフォンの新たなる学園生活。そして過去を語りたがらないレイフォン自身と、《移動都市》に隠された秘密とは・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

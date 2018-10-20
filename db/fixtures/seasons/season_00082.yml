@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/8/10988_1_6.png?1
 outline: アルムの山に一人で住むおじいさんに引き取られることになった少女、ハイジ。そして、その純粋で天真爛漫なハイジは偏屈で知られるおじいさんの心をなごませ、すぐに打ち解けます。アルプスの大自然に初めて触れるハイジには見る物全てが珍しくて、驚くことばかり。今日もハイジは山々を思い切りかけめぐります。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 宮内幸平
+  type: cast
+- !ruby/hash:TagHash
   name: 肝付兼太
   type: cast
 - !ruby/hash:TagHash
@@ -21,9 +27,6 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: つかせのりこ
-  type: cast
-- !ruby/hash:TagHash
-  name: 宮内幸平
   type: cast
 - !ruby/hash:TagHash
   name: 麻生美代子

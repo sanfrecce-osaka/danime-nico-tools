@@ -5,16 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/6/11096_1_6.png?1
 outline: 隊長・大神一郎が帰国した後の「巴里華撃団」の活躍を描いたＯＶＡ第4弾！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 井上喜久子
   type: cast
 - !ruby/hash:TagHash
   name: かないみか
   type: cast
 - !ruby/hash:TagHash
-  name: 小桜エツ子
+  name: 日髙のり子
   type: cast
 - !ruby/hash:TagHash
-  name: 日髙のり子
+  name: 小桜エツ子
   type: cast
 - !ruby/hash:TagHash
   name: 鷹森淑乃

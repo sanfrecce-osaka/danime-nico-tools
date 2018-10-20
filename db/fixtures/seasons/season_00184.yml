@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/23/7/10237_1_6.png?1
 outline: 人気イラストレーター、岡崎武士原作によるファンタジー・アニメ。麻美を水の精霊使い・支葵に奪われた覚羅は、それをきっかけに自らも精霊使いとして目覚める。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 折笠愛
   type: cast
 - !ruby/hash:TagHash
-  name: 柴田秀勝
+  name: 皆口裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 皆口裕子
+  name: 柴田秀勝
   type: cast
 - !ruby/hash:TagHash
   name: 岩男潤子

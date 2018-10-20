@@ -5,22 +5,25 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/4/21414_1_6.png?1
 outline: 大人気TVアニメ｢無責任艦長タイラー｣の新OVAシリーズ。これは、アザリン、コジロー、アンドレセン、タイラー、ユリコ、ヤマモト、それぞれが紡ぎ出す物語である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 三石琴乃
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 速水奨
-  type: cast
-- !ruby/hash:TagHash
-  name: 関俊彦
   type: cast
 - !ruby/hash:TagHash
   name: 草尾毅
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
   type: cast
 - !ruby/hash:TagHash
   name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 天野由梨
@@ -29,16 +32,16 @@ tags: !ruby/array:Hashie::Array
   name: かないみか
   type: cast
 - !ruby/hash:TagHash
-  name: 成田剣
+  name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: 大木民夫
+  name: 成田剣
   type: cast
 - !ruby/hash:TagHash
   name: 岡本麻弥
   type: cast
 - !ruby/hash:TagHash
-  name: 中田和宏
+  name: 辻谷耕史
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン

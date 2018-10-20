@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/5/11455_1_6.png?1
 outline: 石から生まれた無類の暴れ者・石ザル悟空。山猿の盗賊団を率いて人間を襲い、仙術を習得して天帝にまで反逆、ついにお釈迦様に封印されてしまう。救ってくれたのはナヨナヨの三蔵法師。旅に付き合い天竺を目指す悟空だが、仲間は守銭奴の沙悟浄に大食漢の八戒、おてんば竜子とてんでバラバラ。次々襲い来る怪物やピンチに、さて一行の運命は?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 増山江威子
   type: cast
 - !ruby/hash:TagHash

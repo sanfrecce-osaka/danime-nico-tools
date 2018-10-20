@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/8/10168_1_6.png?1
 outline: 宇宙船や宇宙人がふつううに往来する、未来の地球。羽衣市にあるごくふつうの銭湯「時乃湯」では、とっても照れ屋の青年・和人と小さなトラブルメーカー“ワるきゅーレ”、ヴァルハラ星のお姫様“ワルキューレ”が一緒に暮らす。みんなは来る日も来る日もワるきゅーレが起こすトラブルに巻き込まれる!!!そんなドタバタ喜劇のはじまりはじまり。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
@@ -17,16 +20,16 @@ tags: !ruby/array:Hashie::Array
   name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
-  type: cast
-- !ruby/hash:TagHash
   name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉紗子
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 門脇舞以
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 緒方恵美

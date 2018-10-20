@@ -6,6 +6,12 @@ outline: アイドルグループ・ST☆RISHと作曲家・七海春歌がひ�
   NIGHTが提案したある考えにより、3グループはあらたなステージを目指してゆくこととなる。リベンジを誓うHE★VENS、完全勝利を目指すQUARTET NIGHT、そしてST☆RISHが目指す未来に待つものとは果たして…？愛の大革命を巻き起こしたアイドルたちが、今、伝説になる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -21,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
@@ -54,10 +60,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：金春智子
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：藤岡真紀
+  name: 監督：古田丈司
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：古田丈司
+  name: キャラクターデザイン：藤岡真紀
   type: staff
 - !ruby/hash:TagHash
   name: 音楽制作：ブロッコリー

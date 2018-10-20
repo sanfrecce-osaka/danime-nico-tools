@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/9/21989_1_6.png?1
 outline: Fate×料理が織りなす美味しく優しい世界───そこは少し賑やかなどこにでもある食卓の光景。春も、夏も、秋も、冬も、衛宮さんちでは毎日美味しい料理がふるまわれる。さて今日は何を作ろうか
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash

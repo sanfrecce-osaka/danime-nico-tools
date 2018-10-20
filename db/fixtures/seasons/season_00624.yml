@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/03/0/22030_1_6.png?1
 outline: 新幹線超進化研究所は「漆黒の新幹線」が生み出す巨大怪物体から日本の未来を守るため、「新幹線変形ロボ シンカリオン」を開発した。シンカリオンとの高い適合率を持つ子供たちが運転士となり、研究所員たちはたちと力を合わせて強大な敵に立ち向かう！果たして「漆黒の新幹線」の目的は…。子供たちは日本の未来を守れるのか…。チェンジ!シンカリオン!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 緑川光
+  name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
-  name: 佐倉綾音
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
   name: 逢坂良太

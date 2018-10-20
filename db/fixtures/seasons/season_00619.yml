@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/10/8/21108_1_6.png?1
 outline: シアンが去った後、平和な日々が続いていたMIDICITY。だが、音楽を殲滅しすべてを支配しようとする｢闇の女王｣の出現により、かつてない最大の危機が迫っていた。―――――　一方、現実世界に戻ったシアンこと聖川詩杏は、学校の音楽活動でグダグダと悩んでいた。ふとした瞬間、MIDICITYでの楽しかった日々を思い出す詩杏。そんな彼女の元に、得体の知れない何者かが迫る。シアン達の運命やいかに！？―――――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 佐倉綾音
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 谷山紀章
   type: cast
 - !ruby/hash:TagHash
-  name: 沼倉愛美
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
-  name: 潘めぐみ
+  name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：高梨康治

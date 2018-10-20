@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/85/7/10857_1_6.png?1
 outline: 世界遺産に認定される熊野古道、そこにひっそりとたつ玉倉神社。鈴原泉水子は、神社の宮司である祖父に育てられ、外の世界をほとんど知らない。長いお下げ髪、めがね、引っ込み思案。泉水子がさわるとパソコンも携帯もなぜかフリーズしてしまう。｢もっと、普通の女の子になりたい｣周りと違う自分に悩んでいた、そんなある日、幼なじみの相楽深行が玉倉神社に現れて、泉水子の通う中学校に転校してくることになるが―――!?―――泉水子自身もまだ知らない大きな運命が、静かに動き始める!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

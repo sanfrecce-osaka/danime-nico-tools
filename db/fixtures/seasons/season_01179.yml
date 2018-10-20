@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/88/0/21880_1_6.png?1
 outline: 中沢啓治の同名コミックをアニメ化した作品。昭和20年、原子爆弾によって焼け野原となった広島市を舞台に、主人公・ゲンが家族を失いながらも、逞しく生き抜いていく姿を描く。公開当時、全国のさまざまな市民団体や自治体などが協力して、「１０００ヶ所草の根上映運動」が行われた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 青野武
   type: cast
 - !ruby/hash:TagHash

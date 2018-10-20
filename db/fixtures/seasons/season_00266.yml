@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/3/10033_1_6.png?1
 outline: 1996年にPC-98版で登場し、のちにセガサターン版、98年Windows版が発売された、エルフの大ヒット恋愛SLG『下級生』が原作。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 園崎未恵
   type: cast
 - !ruby/hash:TagHash

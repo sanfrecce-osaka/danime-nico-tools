@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/17/9/21179_1_6.png?1
 outline: 俵宗太は、東京在住のウェブデザイナー。父親の死をきっかけに故郷に帰った宗太は実家のうどん屋で、釜の中で眠りこける子どもを見つける。一見ふつうの人間の子どものように見えるが、実はその子は人間の姿に化けたタヌキだった！？ゆったりと時間が流れる通称“うどん県”こと香川県を舞台に、やさしくてあたたかい、ちょっと変わった家族の物語が始まる――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash

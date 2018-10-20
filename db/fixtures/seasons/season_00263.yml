@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/33/0/21330_1_6.png?1
 outline: 2015年、渋谷。6年前に起きた大災害、渋谷地震から復興した街に新設された私立高校『碧朋学園』(へきほうがくえん)に通う少年、宮代拓留は、自身が設立した新聞部の活動の一環として『ニュージェネレーションの狂気の再来』と称される連続殺人事件を追っていた…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
@@ -32,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: くじら
   type: cast
 - !ruby/hash:TagHash
-  name: 仲谷明香
+  name: 加藤将之
   type: cast
 - !ruby/hash:TagHash
-  name: 加藤将之
+  name: 仲谷明香
   type: cast
 - !ruby/hash:TagHash
   name: 志村知幸

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/21/8/20218_1_6.png?1
 outline: 果たして憧れの永遠の17歳アイドル、KIKUKOに近づく事は出来るのか!?トップアイドルになる為、ミス・モノクロームの型に捕われない飽くことなき挑戦が再び始まる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

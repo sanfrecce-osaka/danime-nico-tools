@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/25/5/11255_1_6.png?1
 outline: その復讐は終わるのか―圧倒的な打撃感とスピード感が生み出す「舞闘」。武術と魂が織り成す千年世界で紡がれる「物語」。「リネージュ」で知られる、エヌシージャパンが贈る超大型オンラインRPG「ブレイドアンドソウル」、日本サービス開始と同時期にアニメ化！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
-  name: 井上麻里奈
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 井上麻里奈
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也

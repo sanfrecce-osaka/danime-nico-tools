@@ -6,6 +6,9 @@ outline: 日本政府のNoa-80’ (=non of after80’) プロジェクトによ�
   AIR EAST)は、まるで、21世紀の渋谷に蘇った、古代ローマのコロセウムようだった。そんなある日、Pray中のタスクの前に、過去の記憶、“好悪の感情”を持たない美少女ショーコが舞い降りる。そんな、タスクとショーコに、渋谷に蠢く巨大な陰謀が姿を現し始める。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田中敦子
   type: cast
 - !ruby/hash:TagHash

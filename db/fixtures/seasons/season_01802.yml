@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/62/5/11625_1_6.png?1
 outline: 横浜のネリス女学院に通う女子高生・森田ゆかりは、この夏休みに秘密の計画を立てていた。新婚旅行中に南の島で行方不明になった父・寛を探しに、ひとりでソロモン諸島に行こうと言うのだ。一方、アクシオ島にあるソロモン宇宙協会(SSA)では、新型ロケットLS7の打ち上げがまたもや失敗。本年度中に有人ロケットの打ち上げに成功しなければ、予算打ち切りというピンチにおちいっていた。脱走宇宙飛行士・安川とSSAのヘリとのカーチェイスに巻き込まれたゆかりは、SSA所長の那須田勲と出会う。そのときゆかりを見つめる那須田の目にあやしい光が…。厚さ2ミリ!スキンタイト宇宙服に身を包み、小柄な美少女達が贈る本格宇宙開発ストーリー!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash

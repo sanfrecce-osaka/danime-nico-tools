@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/24/7/21247_1_6.png?1
 outline: 舞台は日本海に面した“綾凪市”。10年前に発生した“同時多発無気力症”による災害から復興を遂げた未来型新興都市である。高校生の神郷慎(カンザト シン/17歳)は、弟の洵(ジュン/14歳)と共に、長男で綾凪市の若き警察署長である諒(リョウ/28歳)と10年ぶりに再会する。その頃、綾凪市ではある怪奇事件に襲われていた。潜水艇の中から忽然と姿を消した乗組員。10年ぶりに世間を騒がせる無気力症。学生が無惨な姿となって殺されていく表裏反転死体事件。一連の事件に潜む組織を追う諒。そして事件に巻き込まれた事から、異形の姿をした“ペルソナ”を覚醒させる慎。兄弟達の運命の歯車が今回り始める――。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash

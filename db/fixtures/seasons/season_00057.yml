@@ -5,13 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/38/0/20380_1_6.png?1
 outline: 腕立て・腹筋・背筋・ダンス・ヨガ・ストレッチ・体幹トレーニング・太極拳など、各回バラエティ豊かな種目がズラリ！アイドルを目指す5人の可愛いキャラクター達があなたと一緒にエクササイズして、気になるその体脂肪率を1クールで1000％下げちゃいます…！？最近使っていない筋肉はないですか？アニメで一緒に楽しく運動して、気持ちいい汗を流しちゃおう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 長縄まりあ
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤美来
+  name: 和氣あず未
   type: cast
 - !ruby/hash:TagHash
-  name: 和氣あず未
+  name: 伊藤美来
   type: cast
 - !ruby/hash:TagHash
   name: 高尾奏音

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/19/5/11195_1_6.png?1
 outline: 鬼才・久正人が送るスタイリッシュアクションコミックついにアニメ化！時は1582年、所は本能寺。明智光秀の謀反のさなか、織田信長は炎に取りまかれながら、遮光器土偶にも似た謎の生命体に遭遇する。時は流れ、現代。修学旅行で台湾に来ていた女子高生、小椋しお。ミリタリー好きで人付合いの苦手な彼女はクラスでもちょっと浮いた存在。その彼女が、突如現われた謎の巨大怪獣〝進化侵略体〟の襲来に遭遇する。逃げまどう人びとの中で、しおはE遺伝子(ジーン)ホルダー〝切り裂きジャック〟が戦う姿を目撃する。最新鋭の戦闘機や戦車ですら歯が立たない進化侵略体を追いつめていく切り裂きジャック。しかし、ジャックは隙をつかれて大ピンチ！もはや為す術がないと思われた時、しおの中の眠れる織田信長のE遺伝子が目覚めた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 武藤志織
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：ブリッジ
+  name: 監督：近藤信宏
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：近藤信宏
+  name: アニメーション制作：ブリッジ
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：KAZZ・T

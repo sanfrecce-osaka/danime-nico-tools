@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/39/9/10399_1_6.png?1
 outline: 宮阪高校1年生、鉄大兎。彼の毎日は、平凡に消費されると思っていた。でも彼は忘れていた。“彼女”の笑顔。交わした“約束”。血肉に溶けた“呪い”。｢私の毒をあなたに入れる。決して離れられなくなるように｣大兎がヒメアの記憶を失くし、平凡に堕ちている間、ヒメアを巡るいくつもの陰謀が蠢いていた。“15分に7回”。大兎がヒメアとの“約束”を思い出したその時、平凡だった彼の日常は、大きく歪み始める。死よりも重い、その“約束”を、もう二度と違えないために、大兎は想像を絶する戦いに足を踏み入れていく!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -29,6 +35,9 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：ZEXCS
   type: staff
 - !ruby/hash:TagHash
+  name: 脚本：吉村清子
+  type: staff
+- !ruby/hash:TagHash
   name: 脚本：あみやまさはる
   type: staff
 - !ruby/hash:TagHash
@@ -36,9 +45,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 監督：山本天志
-  type: staff
-- !ruby/hash:TagHash
-  name: 脚本：吉村清子
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：小森茂生

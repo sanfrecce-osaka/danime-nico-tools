@@ -5,10 +5,16 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/16/9/20169_1_6.png?1
 outline: 闇の底から『魔神』が目覚めるとき、運命の神は六人の勇者を選び出し、世界を救う力を授ける。地上最強を自称するアドレットは、その六人『六花の勇者』に選ばれ、魔神復活を阻止するため、戦いの地へ向かう。だが、約束の地に集った勇者はなぜか七人いた。七人のうちの一人が敵であることに気付いた勇者たちは疑心暗鬼に陥る。そして、その嫌疑がまっさきにかかったのはアドレットであった。伝説に挑み、謎が謎を呼ぶ圧倒的ファンタジー＆アドベンチャーが遂に始動する!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 日笠陽子
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤利奈

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/32/7/21327_1_6.png?1
 outline: ハンドシェイカー― 手を繋ぎ、深層心理から生まれた武器“ニムロデ”をもって互いに戦う者達。己が「願い」を叶えるため、“神”にまみえ、“神”を打ち破らんと数多のハンドシェイカー達がその頂点を目指し、競い争う。その果てにあるものとは―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
-  name: 斉藤壮馬
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
   name: 上坂すみれ

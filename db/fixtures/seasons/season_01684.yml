@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/50/1/11501_1_6.png?1
 outline: ごくごく普通の街「さくらニュータウン」に暮らす、ごくごく普通の小学5年生「天野景太（ケータ）」は、ある夏の日に白い奇妙な生き物「ウィスパー」に遭遇した。それからケータにつきまとうようになったウィスパーは、なんと妖怪だったのだ！不思議な時計「妖怪ウォッチ」をウィスパーから渡されたケータは、その日から街のいたるところに現れる妖怪たちが見えるようになってしまった・・・！日常にあふれる困ったことは、すべて妖怪の仕業だった！？ケータは困ったことを引き起こす妖怪を説得し、時には戦って問題を解決する。そして、その妖怪と友達になるんだ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
@@ -57,6 +63,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 日野晃博
+  type: other
+- !ruby/hash:TagHash
+  name: アイスが食べたくなる
   type: other
 - !ruby/hash:TagHash
   name: 加藤陽一

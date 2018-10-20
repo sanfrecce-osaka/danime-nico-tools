@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/2/11042_1_6.png?1
 outline: パソコン、PS用とゲームでも発展した『竜機伝承』がDVDアニメーションソフトとして待望の復活！ミュウを巡る熱い戦いをLegend１～３まで一挙に収録しました。この物語は、弱者を守るために決意したセディの成長を体感してください。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

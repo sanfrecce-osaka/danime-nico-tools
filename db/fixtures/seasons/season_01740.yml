@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/46/0/21460_1_6.png?1
 outline: 彼の国には龍が棲んでいる──神話によれば、古の人々との契約により、龍は人を助け、人は龍を助けるという…舞台は “龍の国”。主人公は、国の守護神 “龍”を虫歯菌から守る新米・歯医者の野ノ子。隣国との戦争が激化する中、ある日彼女は、龍の歯の上で気絶した敵国の少年兵を見つける。少年の名はベル。大きな災いの前に龍が起こすと言われる不思議な現象で、巨大な歯の中から生き返ったものだった。自らが置かれた状況に戸惑うベル。そして彼を励まし、彼を龍の歯医者として受け入れる野ノ子。激しい戦いに巻き込まれながら、二人はやがて自らの運命を受け入れて行くことに…かつてない壮大なスケールで描かれる冒険ファンタジー！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 高木渉
   type: cast
 - !ruby/hash:TagHash
-  name: 清水富美加
+  name: 松尾スズキ
   type: cast
 - !ruby/hash:TagHash
-  name: 松尾スズキ
+  name: 清水富美加
   type: cast
 - !ruby/hash:TagHash
   name: 徳本恭敏

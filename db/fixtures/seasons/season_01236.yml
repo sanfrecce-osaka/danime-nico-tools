@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/28/7/20287_1_6.png?1
 outline: 女性の生血が吸われる殺人事件が連続発生していた古都。この町を訪れた霊媒師の瀬一三子は、決して目を覚まさない「眠り姫」こと、寝沢藍子の治療を試みる。治療が失敗して寝沢家を出る一三子の前に、ナイフを手にした少年・都人が出現。彼は自分の恋人・梁子を襲った吸血鬼が寝沢家にいると考えていたのだ。梁子の殺害現場の神社へ赴く一三子だが、彼女を不気味な白い布を付けた吸血鬼が襲撃。そんな一三子の危機を不思議な光が救い、鳥居に座っていた少女＝美夕とその従者ラヴァはこれ以上関わらないほうがいいと一三子に促し、闇の中へ消えていった……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
@@ -17,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 堀川りょう
   type: cast
 - !ruby/hash:TagHash
-  name: 三ツ矢雄二
+  name: 渡辺菜生子
   type: cast
 - !ruby/hash:TagHash
   name: 荘真由美
   type: cast
 - !ruby/hash:TagHash
-  name: 渡辺菜生子
+  name: 三ツ矢雄二
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：川井憲次

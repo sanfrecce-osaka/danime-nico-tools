@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/00/6/11006_1_6.png?1
 outline: 私の描く人生のシナリオは完璧! そう豪語するお嬢様・加賀香子と出会った多田万里のままならない青春の行方は!?アニメ化もされ大ヒットとなった｢とらドラ!｣の竹宮ゆゆこの新シリーズが遂にアニメ化!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

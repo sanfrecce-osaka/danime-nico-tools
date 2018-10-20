@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/83/5/10835_1_6.png?1
 outline: 勤務先の会社が倒産してしまった田波洋一は、｢神楽総合警備保障｣という警備会社に就職することになる。ところがこの会社、実は｢化け猫退治｣がお仕事。現代の化け猫は｢動く磁気情報｣であり、その｢霊体｣を専用の封印プログラムを使ってフロッピーディスクに封印するのだ。とはいえ毎度繰り広げられる｢化け猫｣との死闘は命がけ。仕事のたびに｢こんな会社やめてやる！｣と叫ぶ田波だが、神楽の美少女社員たちのペースに、いつしか巻き込まれていってしまう。一方、化け猫たちを統括する｢黒猫｣の指示により、化け猫たちは組織的なテロ活動を展開しはじめる。原発占拠、兵器研究所への侵入と激しさを増す化け猫たちの攻勢に立ち向かう神楽。厚生省の秘密武装機関｢ハインド｣も出動して、ついに舞台である綾金市は戦場となる…！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚明夫
+  name: 久川綾
   type: cast
 - !ruby/hash:TagHash
-  name: 久川綾
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 山寺宏一

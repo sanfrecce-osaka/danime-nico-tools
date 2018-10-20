@@ -6,6 +6,9 @@ outline: かつて憧れていた先輩・鴻野唯がLemon Angelの生みの親
   Angelオーディション。そんな中からライバルであり、友情で結ばれた仲間たちが智の周りに集まり出す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +18,10 @@ tags: !ruby/array:Hashie::Array
   name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
-  name: 清水香里
+  name: 門脇舞以
   type: cast
 - !ruby/hash:TagHash
-  name: 門脇舞以
+  name: 清水香里
   type: cast
 - !ruby/hash:TagHash
   name: 丸山美紀

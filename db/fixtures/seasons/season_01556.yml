@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/93/4/21934_1_6.png?1
 outline: ある日飼い主さんのもとへやってきた、やんちゃな姉御肌なあずき（♀）と食いしん坊でおっとりのだいず（♂）。かわいい！けど、なぜか関西弁のボケとツッコミで、とっても仲良しコンビです。「肌色」「もじゃ」「メガネ」「座敷おやじ」など、おもしろ家族の登場に2匹もてんやわんやの大騒ぎ。そこに豆柴犬の「豆之介」も加わり…。賢そうな犬だけど、何か変！？犬なのに猫と一緒にいるほうが心地いい…そんな豆之介にあずきとだいずのいたずら心がくすぐられ、ひと騒動の予感！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 明坂聡美
   type: cast
 - !ruby/hash:TagHash

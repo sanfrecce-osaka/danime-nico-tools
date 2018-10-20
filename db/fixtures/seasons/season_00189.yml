@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/68/5/21685_1_6.png?1
 outline: 妖怪と人間が共存し、愛し合える世界。人の寿命には限りがある。愛する人間が死んでも妖怪は命尽きることなくき続けていた。人は輪廻転生し、生まれ変わることができても、前世の記憶は失われてしまう。そんな背景の中、妖怪の間では、ある「サービス」が普及していた。生まれ変わった人間に、かつての恋人の記憶を蘇らせることのできる「妖狐仲人」。愛する人が死んでもなおその人を愛し続ける妖怪は、「妖狐仲人」が販売する「サービス」を買い、転生したかつての恋人と再び愛しき日々を送らんとする。この物語は、そんな仲人の仕事をする妖狐が繰り広げる縁結びのストーリーなのである。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash

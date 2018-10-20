@@ -6,10 +6,16 @@ outline: "『プロジェクトA子』シリーズの外伝として制作され
   SIDE』、『BLUE SIDE』の2作品にて完結。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 篠原恵美
-  type: cast
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
   name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 富沢美智恵

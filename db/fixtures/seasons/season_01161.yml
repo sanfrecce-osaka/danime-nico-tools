@@ -6,6 +6,15 @@ outline: 高校生の少年、八坂真尋の前に突然現れた銀髪碧眼�
   これも日本のクトゥルーだ!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -15,10 +24,10 @@ tags: !ruby/array:Hashie::Array
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 久川綾
+  name: 阿澄佳奈
   type: cast
 - !ruby/hash:TagHash
-  name: 阿澄佳奈
+  name: 久川綾
   type: cast
 - !ruby/hash:TagHash
   name: 松来未祐
@@ -39,10 +48,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：MONACA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：DIVE II entertainment
+  name: 監督：長澤剛
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：長澤剛
+  name: 音楽制作：DIVE II entertainment
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：滝山真哲

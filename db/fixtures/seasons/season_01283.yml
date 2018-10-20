@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/08/5/22085_1_6.png?1
 outline: ヤクザ×サイキック少女のアーバンライフ・コメディー！芦川組を支える若きインテリヤクザ、新田義史は大好きな壺に囲まれ、悠々自適な独身生活を送っていた。ところがある日、謎の物体に入った少女ヒナがやってきたことで生活が一変。念動力が使えるヒナに脅され、同居を余儀なくされてしまったのだ！暴走しがちなヒナは組関係でも学校でもやりたい放題。頭を抱える新田だが、気のいい性格が災いしていつも面倒を見る羽目に。一体、この生活はどうなってしまうのか？お人好しなアウトローと気ままなサイキック少女の危険で賑やかな日常が始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
-  name: 村川梨衣
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 本渡楓
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: KADOKAWA
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: KADOKAWA
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

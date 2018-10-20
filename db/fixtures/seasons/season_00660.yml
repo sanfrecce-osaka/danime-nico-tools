@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/93/7/20937_1_6.png?1
 outline: アフリカのサバンナで幼い頃両親に捨てられ、偶然通りかかったチンパンジーのエテ吉に育てられた“ジャングルの王者ターちゃん”。そのため彼は、さまざまな動物の言葉を話すことができ、動物たちの能力をまねてパワーアップすることができる超人であった！今日もまたターちゃんは、自然と動物、そして、愛するヂェーンのために闘い続けるのだ！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
@@ -20,6 +26,9 @@ tags: !ruby/array:Hashie::Array
   name: ならはしみき
   type: cast
 - !ruby/hash:TagHash
+  name: 岸谷五朗
+  type: cast
+- !ruby/hash:TagHash
   name: キャラクターデザイン：工藤裕加
   type: staff
 - !ruby/hash:TagHash
@@ -29,31 +38,19 @@ tags: !ruby/array:Hashie::Array
   name: 監督：難波日登志
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：鳥海尽三
-  type: staff
-- !ruby/hash:TagHash
-  name: 製作：読売広告社
-  type: staff
-- !ruby/hash:TagHash
   name: 原作：徳弘正也
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：山田直毅
   type: staff
 - !ruby/hash:TagHash
-  name: 製作：アミューズ
-  type: staff
-- !ruby/hash:TagHash
-  name: 製作：テレビ東京
-  type: staff
-- !ruby/hash:TagHash
-  name: 少年ジャンプ
+  name: 製作年代：1990年代
   type: other
 - !ruby/hash:TagHash
-  name: グループ・タック
+  name: 集英社
   type: other
 - !ruby/hash:TagHash
-  name: 岸谷五朗
+  name: 製作年：1993年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

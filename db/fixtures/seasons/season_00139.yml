@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/88/2/20882_1_6.png?1
 outline: 兎亀高校テニス部に所属する4人の少女、田中きなこ・鈴木あやこ・佐藤くるみ・西新井大師西が、それぞれの夢や憧れを追い求める…青春群像コメディっぽいなにか。ここに開幕♪ハイテンションコメディ『てーきゅう』の公式ライバル『うさかめ』は、部活にいそしむ少女たちの、ありきたりでどこかヘンテコな日常をとってだしで描きます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 中島由貴
   type: cast
 - !ruby/hash:TagHash

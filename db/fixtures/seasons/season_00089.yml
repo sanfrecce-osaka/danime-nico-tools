@@ -6,6 +6,9 @@ outline: 芥川丈途には、秘密がひとつあるのです。それは新�
   エロトラブル満載の禁断の学園生活が始まる!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 野水伊織
   type: cast
 - !ruby/hash:TagHash
@@ -87,7 +90,7 @@ tags: !ruby/array:Hashie::Array
   name: 井口光隆
   type: other
 - !ruby/hash:TagHash
-  name: 古川英樹
+  name: 河野悦隆
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

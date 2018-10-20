@@ -8,6 +8,12 @@ outline: 人間界より遠く離れた黄泉比良坂。そこには神代に�
   神々の力とともに日本中に発生する“マガツヒ”に立ち向かうために、日夜奔走することになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 山口勝平
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
-  name: 千葉繁
+  name: 新井里美
   type: cast
 - !ruby/hash:TagHash
-  name: 新井里美
+  name: 千葉繁
   type: cast
 - !ruby/hash:TagHash
   name: 新谷良子

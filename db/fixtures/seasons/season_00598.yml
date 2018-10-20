@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/34/5/10345_1_6.png?1
 outline: "｢地球温暖化｣の影響で近未来の｢東京｣は熱帯都市へと変貌した!一面の森となった東京で、特権市民はタワー状の積層都市アトラスに住み、庶民は地上でスコールと地盤沈下の脅威におびえ生活していた。危険なジャングルと化した森で武装ゲリラを率いる18歳の主人公、北条國子は、誰もが幸せに暮らせる未来を手に入れるため、カーボンファイバーでできた巨大ブーメランを手に、庶民を置き去りにした一方的な“森林化”を進める政府軍に対して真っ向から戦いを挑む!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋美佳子
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 平川大輔
+  name: 高橋美佳子
   type: cast
 - !ruby/hash:TagHash
   name: 堀内賢雄
@@ -53,10 +62,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：黒石ひとみ
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：別所誠人
+  name: キャラクターデザイン：村田蓮爾
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：村田蓮爾
+  name: 監督：別所誠人
   type: staff
 - !ruby/hash:TagHash
   name: 原作：池上永一

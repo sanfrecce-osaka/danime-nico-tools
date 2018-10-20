@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/16/3/10163_1_6.png?1
 outline: お兄ちゃんのことが大好きな12人の妹達。お兄ちゃんと妹達は、ある事情があって、全員が離れ離れになって暮らしています。妹達はみんなお兄ちゃんのことが大好きで、お兄ちゃんに会える瞬間をいつもドキドキしながら待っているのです・・・。そんな妹達のさりげない日常を｢ストーリーズパート｣と｢キャラクターズパート｣という2つの切り口で描きます。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: シスター・プリンセスシリーズ
   type: other
 - !ruby/hash:TagHash
@@ -15,6 +18,12 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 妹
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: アスキー・メディアワークス
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

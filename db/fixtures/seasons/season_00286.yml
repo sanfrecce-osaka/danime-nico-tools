@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/51/1/21511_1_6.png?1
 outline: 歌舞伎大好きな高校1年生、来栖黒悟の夢は、部活で歌舞伎をすること。けれど、入学した高校にそんな部は存在しない。「それなら、自分たちで作っちゃえばいいんじゃない？」親友のトンボと一緒に、まずはメンバー集めに奔走するけれど……！？青春歌舞伎物語、開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 山本和臣
   type: cast
 - !ruby/hash:TagHash
-  name: 朝井彩加
+  name: 河西健吾
   type: cast
 - !ruby/hash:TagHash
-  name: 河西健吾
+  name: 朝井彩加
   type: cast
 - !ruby/hash:TagHash
   name: 市川太一

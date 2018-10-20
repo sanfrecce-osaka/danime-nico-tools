@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/37/1/11371_1_6.png?1
 outline: 宇佐美奈々子は地方の田舎都市・流川市に住む高校1年生。高校生活にも慣れはじめた頃、市営プールがリニューアルオープンするので、仲良しの友達たちと遊びにいく約束をする。せっかくなので、新しい水着で遊びに行きたいっ!と、母親におねだりするも、けんもほろろに断られてしまう。そんなある日、市役所に勤める叔父の太田がアルバイト話を持ち掛けてくる。簡単なイベントの手伝いという太田の言葉を信じて、これで水着を買える!と嬉々としてアルバイトを引き受ける奈々子だったのだが、その裏では奈々子が想像もつかない計画が進行していた。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤美来
   type: cast
 - !ruby/hash:TagHash
-  name: 室園丈裕
+  name: 井澤美香子
   type: cast
 - !ruby/hash:TagHash
-  name: 井澤美香子
+  name: 室園丈裕
   type: cast
 - !ruby/hash:TagHash
   name: 吉岡麻耶

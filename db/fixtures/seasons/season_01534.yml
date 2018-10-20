@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/04/5/10045_1_6.png?1
 outline: 女子高生の大堂寺繭良は｢燕雀探偵社｣の探偵で、ロキという少年と知り合い、押しかけ助手になってしまう。ロキは実は人間ではなく、神々の世界での素行の悪さを咎められ、最高神オーディンによって人間界に追放された北欧の邪神ロキが化身した姿だった。繭良とロキをどんな事件が待ち受けているのだろうか…?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

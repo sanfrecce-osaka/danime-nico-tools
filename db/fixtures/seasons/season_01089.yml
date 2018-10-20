@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/02/3/20023_1_6.png?1
 outline: 主人公「なめこ」を中心に、なめこ達が家族を演じるホームドラマです。 クスっとしたり驚いたり、たまにほろっとする家族の“日常”を描いていきます。 家族をテーマにしたわかりやすい内容で、「んふんふ」だけの全編セリフのないセミ・サイレントで構成され、なめこ達の動き、表情そして音楽などで｢なめこ一家｣の日常を表現しており、大人から子供まで楽しめるアニメです。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 監督：高松明子
   type: staff
 - !ruby/hash:TagHash

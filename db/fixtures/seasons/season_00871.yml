@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/95/2/10952_1_6.png?1
 outline: 一年中枯れない桜の木に、雪が舞い降りる頃。桜内義之は、かつて気持がすれ違ってしまった月島小恋と、良きクラスメイトとして笑顔で言葉を交わせるようになっていた。そんな彼女とともに風見学園で行われるクリスマスパーティーの準備に励みながら、義之は朝倉音姫や朝倉由夢と新たな物語を紡ぎだす。それは、幸せと希望に満ちた未来へと進む物語。だが一方で、芳及さくらはある異変に気付き、ひとり表情を曇らせていた。どんなに温かい夢もいつかは覚める。それはわかっていたはずなのに……。彼女が感じた異変は、義之たちの日常にどんな影響をもたらすのか……?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -20,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 南條愛乃
+  name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
   name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
-  name: 水橋かおり
+  name: 南條愛乃
   type: cast
 - !ruby/hash:TagHash
   name: 岸尾だいすけ

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/30/6/10306_1_6.png?1
 outline: 超強力なビーム銃“サイコガン”を左腕に仕込んだダンディな宇宙海賊・コブラは、悪には強いが美女には弱い“おたずね者”。財宝の地図の秘密を解くカギを持つ三人の美女を海賊ギルドの魔の手から守るため、相棒のアーマノイド・レディとともに愛機タートル号で宇宙を駆け巡る!寺沢武一の大人気コミックをベースに、壮大なストーリーをハードボイルド・タッチで描かれたスペースアドベンチャー。出崎統、竹内啓雄のスタイリッシュな演出や、ジャズ・テイスト溢れる羽田健太郎の音楽など、大人の魅力を数多く持った大ヒットSFアクションだ。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 小林清志
   type: cast
 - !ruby/hash:TagHash

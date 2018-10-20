@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/24/8/20248_1_6.png?1
 outline: 孤児のジュディは、匿名の後見人「あしながおじさん」の援助で高校へ進学することに。作家になることを夢みる彼女は、親友となるサリーやジュリア、その伯父のジャーヴィスと知合い、楽しい高校生活を満喫していました。しかし、孤児院出身であることを隠し続けることは常にジュディの心に影を落としていました。そうした不安を援助者である「あしながおじさん」への手紙につづりますが、答えが得られることはありませんでした。そんなとき、ジャーヴィスにプロポーズされたジュディは…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash

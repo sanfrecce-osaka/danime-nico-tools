@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/00/8/22008_1_6.png?1
 outline: サキュバス、デュラハン、雪女、そしてバンパイア――。僕ら人間とちょっとだけ違う、それが「亜人（あじん）」。最近じゃデミと呼ばれてます。そんな個性的な「亜人（デミ）」ちゃんたちと、彼女たちに興味津々な高校生物教師・高橋鉄男が繰り広げる、ちょっと刺激的でハートフルな学園亜人コメディ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 本渡楓
+  name: Lynn
   type: cast
 - !ruby/hash:TagHash
-  name: Lynn
+  name: 本渡楓
   type: cast
 - !ruby/hash:TagHash
   name: 夏川椎菜

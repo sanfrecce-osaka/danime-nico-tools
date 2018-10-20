@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/65/5/10655_1_6.png?1
 outline: 学園の問題児の巣窟｢さくら荘｣に住む高校2年生の神田空太は、変人たちに振り回されながら、｢脱・さくら荘!!｣を誓う毎日。そんなある日、｢さくら荘｣に、可愛くて清楚で、しかも世界的な天才画家である椎名ましろが越してくる。彼女を寮の変人たちから守らねば!と考える空太だったが、ましろにはとんでもない秘密があった。なんと彼女は外に出れば必ず道に迷い、部屋はめちゃくちゃ、ぱんつすら自分で選べないし、穿けない、生活破綻少女だったのだ!空太は寮生たちによってましろの“飼い主”に任命されてしまう。こうして凡人・空太と天才少女・ましろの“飼い主とペット”生活が幕を開け・・・?この物語は、変人と天才と凡人が織りなす青春学園ラブコメである。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -38,19 +44,19 @@ tags: !ruby/array:Hashie::Array
   name: 監督：いしづかあつこ
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：林有三
+  name: 原作：鴨志田一
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：鴨志田一
+  name: 音楽：林有三
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 電撃
+  name: 製作年：2012年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2012年
+  name: 電撃
   type: other
 - !ruby/hash:TagHash
   name: 妹

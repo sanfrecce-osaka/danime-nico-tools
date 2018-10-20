@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/01/3/21013_1_6.png?1
 outline: 現実とは少し異なった地球。そこは｢紅(あか)の世界｣よりの侵略者【ナイトフライオノート】の脅威にさらされていた。人類は彼らに対抗するため、対位相外防衛機関【LAG(ラグ)】を設立、対ナイトフライオノート戦闘ユニット【スカーレッドライダー】を結成し、過去五回の全滅を繰り返しながら戦い続けていた。やがて一人の少女、麻黄アキラが教官兼指揮官としてLAGへ着任すると、止まっていたナイトフライオノートの侵攻が再び始まる。第六戦闘ユニット【スカーレッドライダーゼクス】のメンバー達は、アキラと共に世界を守るため、戦いに身を投じていく。これは彼女と少年たちの、愛と友情と、戦いの物語である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
@@ -23,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 遊佐浩二
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 小山力也
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: 近藤隆

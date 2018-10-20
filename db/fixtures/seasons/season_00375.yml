@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/18/9/10189_1_6.png?1
 outline: 人類最大の危機、大崩壊から10年後の世界。舞台は復興のシンボルである巨大学園都市｢アカデミア｣学生生活を楽しみながらも、変わらない、変えられない自分にどこか虚しさを感じながら日々を送る女子高生｢白鳥空(しらとりくう)｣彼女は時々同じ“夢”を見る。自分を迎えに来てくれる王子様の“夢”……。学園中の生徒たちが学園祭に向け、期待に胸を膨らませる中、彼女の前に、幾度となく“夢”に見た王子様が現れる。今度は“夢”でなく、“現実”で。｢綾小路(あやのこうじ)京四郎｣と名乗る彼は｢空｣に夢と同じ言葉を掛ける。｢行こう……一緒に｣2人の出逢いは一体何を意味するのか…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash

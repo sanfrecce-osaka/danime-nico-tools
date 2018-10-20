@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/57/5/10575_1_6.png?1
 outline: サブカル向けコンテンツを打ち出し注目されている｢コミックビーム｣連載作品で、コミックス各巻平均7万部を誇るロングセラー作品｢砂ぼうず｣のアニメ化。独創的なストーリーの切り口、アイロニカルなヒーロー像、破天荒かつアクロバティックなアクションが楽しめる本作。作中登場するリアルな銃器描写もこの作品の魅力のひとつで、サバイバルゲームマニア、兵器・銃器ファンを虜にしている。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 斎藤千和
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：GONZO
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：吉松孝博
+  name: 音楽：田中公平
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：田中公平
+  name: キャラクターデザイン：吉松孝博
   type: staff
 - !ruby/hash:TagHash
   name: 監督：稲垣隆行

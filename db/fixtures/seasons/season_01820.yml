@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/91/4/20914_1_6.png?1
 outline: "｢女子高生｣になれば自然とモテると思っていた主人公“黒木智子”。しかし現実は違っていた…。高校に入学して2ヶ月経っても彼氏どころかクラスメイトともまともに会話もできず、無残な現実が襲い来る！この状況に焦った智子はモテるための行動を開始した。だが…、クラスの中でも目立たず、極度の人見知りで他人とコミュニケーションをとるのが苦手な智子は、家族以外の人間と会話をすることから始めなければならなかった…。モテない女子高生“黒木智子”がモテるようになる為に孤軍奮闘するのだが…。智子に明るい未来は待っているのか！？モテない女子高生の苦悩が始まる！！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash

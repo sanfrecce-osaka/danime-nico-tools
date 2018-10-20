@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/09/4/11094_1_6.png?1
 outline: 帝国華撃団・花組の活躍を描く、ファン待望のオリジナルシリーズ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 折笠愛
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
   type: cast
 - !ruby/hash:TagHash
   name: 横山智佐

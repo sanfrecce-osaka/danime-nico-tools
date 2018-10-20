@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/37/9/11379_1_6.png?1
 outline: 清らかな乙女にのみ許された特権、精霊契約。元素精霊界(アストラル・ゼロ)より精霊を召喚し、その力を自在に使役する姫巫女たちを人々は精霊使いと呼んだ。男にして唯一その特権を有するカゼハヤ・カミトは、過去の因縁から、精霊使いとして訓練を積む姫巫女たちが集められたアレイシア精霊学院へとやってくる。そこで告げられたのは学院に編入し、姫巫女たちとチームを組んで、最強の精霊使いを決める《精霊剣舞祭(ブレイドダンス)》に出場し、優勝すること。優勝すればどんな願いも一つだけ叶えられるという《精霊剣舞祭(ブレイドダンス)》を巡り、それぞれの願いを胸に秘めた姫巫女たちと過去に抗う一人の少年の運命の物語が動き出す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 古川慎
   type: cast
 - !ruby/hash:TagHash
-  name: 田中真奈美
+  name: 優木かな
   type: cast
 - !ruby/hash:TagHash
-  name: 優木かな
+  name: 田中真奈美
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：メディアファクトリー

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/26/9/20269_1_6.png?1
 outline: "「とにかく臭いがダメ」「食べることすら躊躇われる」「子どもに嫌われる」などの悩みを抱えた野菜キャラクターが店を訪れ、同じ悩みを持つ仲間と語り合い、明日を前向きに生きるために杯を交わすショートアニメーション。静岡限定地上波放送のアニメがdアニメストアで配信！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 藤原啓治
   type: cast
 - !ruby/hash:TagHash

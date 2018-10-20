@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/59/1/10591_1_6.png?1
 outline: サンプラザ中野くんによるアニメ作品。主役はトロ太郎。ライバルはアボガドボーイ。そして先生役のオクトパス・タコ8世伯爵。みんなボケキャラ。しかしこの3人を中心に話は始まっていくのである。。。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: サンプラザ中野くん
   type: cast
 - !ruby/hash:TagHash

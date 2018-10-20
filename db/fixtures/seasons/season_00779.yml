@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/10/4/11104_1_6.png?1
 outline: 犯罪者や軍規違反者などで構成される懲罰部隊｢名無しの部隊(ネームレス)｣。1935年8月、彼らは造反の疑いを掛けられ、帝国軍のみならず味方であったガリア軍にも追われていた。補給を受けられず糧食にも事欠く中、村が帝国軍に占拠され、からくも逃げ出した少女と出会う。銃に込める弾も残り僅かな状況で、彼らが下した決断とは。同じ頃、ガリア中部では首都ランドグリーズに、帝国軍の拠点であるディルスバーグ橋頭堡の脅威が迫っていた。義勇軍第7小隊を含むガリア軍は、攻略作戦に入る。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
@@ -50,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: 脚本：大野木寛
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：只野和子
+  name: 音楽：崎元仁
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：崎元仁
+  name: キャラクターデザイン：只野和子
   type: staff
 - !ruby/hash:TagHash
   name: 戦場のヴァルキュリアシリーズ

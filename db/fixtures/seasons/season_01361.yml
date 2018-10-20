@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/94/8/20948_1_6.png?1
 outline: 相棒学園初等部6年生・未門牙王は、不思議なタマゴから生まれたモンスター｢太陽の竜バルドラゴン｣(バル)とバディを組むことに。モンスターを相棒にしてともに戦うカードゲーム、バディファイトの世界最強の称号『バディチャンピオン』をめざし、WBCカップに挑む牙王とバル。ライバルは元少年バディポリスの龍炎寺タスク、自らを最強コンビと呼ぶ黒渦ガイト、バディモンスターの黒き死竜アビゲールなど強豪ぞろい。その一方、バルがもつ特別な力を狙う敵も動き始める。日本有数のお金持ちにして世界最強のバディファイターともウワサされる臥炎キョウヤと、世界を滅ぼす力をもつと言う終焉魔竜アジ・ダハーカ。彼らが狙う『究極の竜の力』とは何か？必殺コールのかけ声とともに、新たなるカード｢必殺モンスター｣の力がいま示される！オープン・ザ・フラッグ！バディファイト！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬
@@ -26,9 +35,6 @@ tags: !ruby/array:Hashie::Array
   name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
-  name: 斎賀みつき
-  type: cast
-- !ruby/hash:TagHash
   name: 高木渉
   type: cast
 - !ruby/hash:TagHash
@@ -38,7 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 増田俊樹
   type: cast
 - !ruby/hash:TagHash
-  name: 木内秀信
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 江原正士
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：XEBEC

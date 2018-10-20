@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/60/0/10600_1_6.png?1
 outline: 故郷であるタラークとメジェールに刈り取りの危機が迫っていることを知ったニル・ヴァーナの乗員達。彼らは危機を救うため、故郷への旅を急ぐ。途中、回収した脱出ポッドの中には奔放な少女｢ミスティ｣がコールドスリープしていた。彼女の乗っていたポッドに隠されていたメッセージにより、明らかになる驚くべき地球の現状と刈り取りの真実!はたして彼らは故郷を救えるのだろうか…そして地球人の本当の目的は…?!前作で明かされなったペークシスの謎を機軸にますます盛り上がる｢セカンドステージ｣、いよいよ開幕!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
@@ -47,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：黒田和也
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：もりたけし
+  name: 音楽：岩崎文紀
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：岩崎文紀
+  name: 監督：もりたけし
   type: staff
 - !ruby/hash:TagHash
   name: 原作：もりたけし

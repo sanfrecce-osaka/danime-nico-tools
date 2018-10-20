@@ -5,10 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/57/7/21577_1_6.png?1
 outline: 地球につながる様々な異世界(ワールド)、その頂点に立つワールドナンバー1を決める時がついに来た！相棒学園初等部6年生・未門牙王は自分が『ワールドバディマスターズ』のドラゴンワールド代表に選ばれたことを知らされる。セイントホーリーソード・ドラゴンを名乗る使者に案内されバディ探しに出かけた牙王は、封印されていた禁断のモンスターを解き放つ。それはかつてドラゴンワールドを滅ぼしかけたとして恐れられる魔王竜バッツ。暴れん坊で他人の言うことを聞こうとしないバッツだが、牙王はバッツとなら相棒(バディ)になれるという自分の勘を信じ大会に出場する。各ワールド代表の強豪ファイターたち、そして優勝者に贈られる伝説の『ミラージュカード』を狙う一団を率いる男、ウィズダム。牙王とバッツの戦いはやがて思いがけない事件へとつながって行く…！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 安元洋貴
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也
@@ -26,16 +35,16 @@ tags: !ruby/array:Hashie::Array
   name: 徳井青空
   type: cast
 - !ruby/hash:TagHash
-  name: 蒼井翔太
-  type: cast
-- !ruby/hash:TagHash
   name: 水島大宙
   type: cast
 - !ruby/hash:TagHash
-  name: 黒田崇矢
+  name: 蒼井翔太
   type: cast
 - !ruby/hash:TagHash
   name: 森嶋秀太
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒田崇矢
   type: cast
 - !ruby/hash:TagHash
   name: 齋藤彩夏

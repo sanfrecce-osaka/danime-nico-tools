@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/33/7/10337_1_6.png?1
 outline: ひきこもり歴4年の佐藤達広の前に立ちふさがるのは、悪の巨大組織N・H・K.(=日本・ひきこもり・協会)!?謎の美少女・中原岬ちゃんの協力で、なるか社会復帰!?青春を後ろむきに駆け抜ける驚愕の｢ノンストップひきこもりアクション｣今ここに開幕!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash

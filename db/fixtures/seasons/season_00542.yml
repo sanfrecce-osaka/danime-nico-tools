@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/61/1/11611_1_6.png?1
 outline: オタク高校生の「安芸倫也」は桜舞い散る坂道で、ある少女と運命的な出会いをする。インスピレーションを受けた倫也は、その少女をメインヒロインにしたギャルゲーの制作を思いつき、同学年の美術部エース「澤村・スペンサー・英梨々」と学年一位の優等生の先輩「霞ヶ丘詩羽」をスタッフに迎えようと邁進する。そんなある時、倫也は運命的な出会いをした少女が毎日クラスで顔を合わせている同級生で特に目立たない普通の女子「加藤恵」だったことを知り愕然とする。倫也は加藤恵をゲーム中で絶対的なヒロインにしようと決意するのだが・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
@@ -43,6 +49,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 脚本：丸戸史明
   type: staff
+- !ruby/hash:TagHash
+  name: 冴えない彼女の育てかたシリーズ
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other

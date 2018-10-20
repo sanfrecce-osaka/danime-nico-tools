@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/43/2/10432_1_6.png?1
 outline: 物語の舞台は国の中心にあるターミナルステーション。その駅でモモとモモは偶然出会い、再会を喜びます。しかし豪雨と雷鳴が鳴り響き、目を開けてみるとそこは先程まとは様子が異なっていました。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 土井美加
   type: cast
 - !ruby/hash:TagHash
-  name: 椎名へきる
+  name: 難波圭一
   type: cast
 - !ruby/hash:TagHash
-  name: 難波圭一
+  name: 椎名へきる
   type: cast
 - !ruby/hash:TagHash
   name: 松岡文雄

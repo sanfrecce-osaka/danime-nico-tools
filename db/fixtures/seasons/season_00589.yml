@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/10/3/10103_1_6.png?1
 outline: 悠二、おまえは私が護るから。 平凡な高校生、坂井悠二の日常は、ある日突然消滅した。異界から渡り来た、人の“存在”を灯りに変えて、喰らうという化け物“紅世の徒(ぐぜのともがら)”が悠二を襲う。逃げることも忘れ呆然と立ちすくむ悠二を救ったのは、紅蓮の髪と瞳をもつ謎の少女だった。そして──その少女は、悠二にこう告げた。｢おまえはもう【存在】していないのよ｣と。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -26,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 野島裕史
   type: cast
 - !ruby/hash:TagHash
-  name: 岩田光央
-  type: cast
-- !ruby/hash:TagHash
   name: こやまきみこ
   type: cast
 - !ruby/hash:TagHash
   name: 江原正士
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
   type: cast
 - !ruby/hash:TagHash
   name: 近藤孝行

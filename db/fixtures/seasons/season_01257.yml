@@ -6,6 +6,12 @@ outline: "｢お前の罪…それはお前の存在そのものだ｣ベザリ�
   ならば共に手を合わせようじゃないか――｣ オズの罪とは何か? アリスの目的とは? 今、運命の歯車が回り出す――!"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash

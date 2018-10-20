@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/83/1/21831_1_6.png?1
 outline: 平穏で退屈な田舎に暮らしている少年・近衛刀太の夢は、都へ行って一旗揚げること。刀太は都へ行くため、育ての親であり優れた魔法の使い手である雪姫に挑戦する日々を送っていた。だが、戦いながらも仲良く暮らしていた2人の前に現れた賞金稼ぎによって、田舎での平穏な日々は終わりを告げる。これは、ろくでもないモノになってしまった者達の物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -35,19 +44,19 @@ tags: !ruby/array:Hashie::Array
   name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
-  name: 桑谷夏子
+  name: 小倉唯
   type: cast
 - !ruby/hash:TagHash
-  name: 小倉唯
+  name: 桑谷夏子
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：藤井昌宏
+  name: 音楽：羽岡佳
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：羽岡佳
+  name: キャラクターデザイン：藤井昌宏
   type: staff
 - !ruby/hash:TagHash
   name: 原作：赤松健

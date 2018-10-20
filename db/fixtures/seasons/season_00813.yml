@@ -7,6 +7,12 @@ outline: 一ノ瀬双葉は、デビューしたての新人声優。けれど�
   あさのますみ／浅野真澄
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 高橋李依
   type: cast
 - !ruby/hash:TagHash

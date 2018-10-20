@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/07/4/11074_1_6.png?1
 outline: 人間の心と魔の力を合わせ持つヴァンパイア・紫藤龍彦。彼はナイトブリードが引き起こした、常識では解決できない連続変死事件や多発する怪奇現象、超常現象をヴァンパイアの力で解決していく。だが、彼はその戦いの最中に女子高生を巻き込んで彼女に重傷を負わせてしまうが…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 篠原恵美
+  name: 田中秀幸
   type: cast
 - !ruby/hash:TagHash
-  name: 田中秀幸
+  name: 篠原恵美
   type: cast
 - !ruby/hash:TagHash
   name: 大谷育江

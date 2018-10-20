@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/18/5/22185_1_6.png?1
 outline: 主人公は魔界の『謎』を全て喰いつくし、さらなる究極の『謎』を求めて人間界にやってきた魔人・脳噛ネウロ。自身の身代わりに女子高生・弥子を探偵に仕立て上げながら、魔界の道具を使って次々と難事件を解決することで『謎』を喰い尽くしていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/95/8/21958_1_6.png?1
 outline: 元気が取り柄の三毛猫・茶トラ沢タピオと、ややひねくれたロシアンブルー・ロシ原クエ彦。大学の同級生である二匹が様々な職場でのアルバイト経験を通して仕事の大変さや楽しさを学んでいく“猫の手を貸したい系アニメ”！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
   name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：高嶋友也
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：R・O・N
+  name: アニメーション制作：Tomovies
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：Tomovies
+  name: 音楽：R・O・N
   type: staff
 - !ruby/hash:TagHash
   name: 原作：GOOD SMILE COMPANY

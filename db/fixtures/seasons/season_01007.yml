@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/18/8/10188_1_6.png?1
 outline: 九角との戦いを終え、平和な日々を送っていた龍麻たち。だが、それは｢拳武十二神将｣に打ち破られる。龍麻たち《力持つ者》のみならず、周囲の人々にまで刃を向ける｢拳武十二神将｣。理由も判らず戦う龍麻たちの前に、やがて｢真の敵｣の姿が浮き彫りにされてゆく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash

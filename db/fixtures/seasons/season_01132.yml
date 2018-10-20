@@ -6,6 +6,12 @@ outline: ネトゲ内で女キャラに告白！→残念！ ネカマでした�
   本当にリアル女？｣｢ルシアンだ！ 本当にルシアンですよー！｣なんと本物の美少女でした！ しかも、リアルとネトゲの区別が付いてない……だと……！？ リアル世界でもネトゲ内と同じノリで急接近してくる残念美少女・アコをまともな人間へ更生させるため、英騎はギルドの仲間たちと動き出すが――残念で楽しい日常≒ネトゲライフが始まる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash

@@ -5,13 +5,19 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/47/8/21478_1_6.png?1
 outline: オーグオン・シティを騒がせる二人組の怪盗きらめきマン。その正体は警察署長の娘リップと、５００年後の未来からやって来た青年パフであった。未来世界の運命を左右するという謎の宝“ゴールドアイ”を探して、様々な場所へと忍び込む二人。そんな彼女たちを捕らえて名を上げようと、ルージュたち落ちこぼれ刑事三人組は、謎の存在ドグリンの力を借りてきらめきマン逮捕に執念を燃やす。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
   name: 小林由美子
   type: cast
 - !ruby/hash:TagHash
   name: 川上とも子
-  type: cast
-- !ruby/hash:TagHash
-  name: 八奈見乗児
   type: cast
 - !ruby/hash:TagHash
   name: 小桜エツ子
@@ -26,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: たてかべ和也
   type: cast
 - !ruby/hash:TagHash
-  name: 岡野浩介
+  name: 木村郁絵
   type: cast
 - !ruby/hash:TagHash
-  name: 木村郁絵
+  name: 岡野浩介
   type: cast
 - !ruby/hash:TagHash
   name: 青森伸

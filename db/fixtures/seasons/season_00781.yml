@@ -5,13 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/32/7/11327_1_6.png?1
 outline: "｢ゼオライマー｣の搭乗者として生まれた秋津マサトは、八卦衆との無情な戦いに巻き込まれていく…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
-  name: 勝生真沙子
+  name: 速水奨
   type: cast
 - !ruby/hash:TagHash
-  name: 速水奨
+  name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
   name: 関俊彦
@@ -29,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 本多知恵子
   type: cast
 - !ruby/hash:TagHash
-  name: 佐久間レイ
+  name: 荘真由美
   type: cast
 - !ruby/hash:TagHash
-  name: 荘真由美
+  name: 佐久間レイ
   type: cast
 - !ruby/hash:TagHash
   name: 辻村真人

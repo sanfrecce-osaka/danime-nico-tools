@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/0/10280_1_6.png?1
 outline: 遠い未来の地球、そこはモンスターや異形の者が闊歩する世界だった。その地を統括するマ王はフォースの強い子を産める、ヒト族の娘を探していた。ヒト族の娘ノンは、サル族騎馬隊に襲われていた村を救うため、自らの肉体をマ王に捧げ、双生児のルーフとジンを産み落とす。その後、マ王の元で育つルーフとノンの元で育つジン。この先、この双生児に、どの様な運命が待ち受けているのだろうか…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash

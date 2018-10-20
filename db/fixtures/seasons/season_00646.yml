@@ -6,13 +6,19 @@ outline: 日本の政治・経済を破滅に追い込む、化け猫たちの�
   四つ巴のバトルが、前作を凌駕するスケールで展開する！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚明夫
+  name: 久川綾
   type: cast
 - !ruby/hash:TagHash
-  name: 久川綾
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 山寺宏一
@@ -27,10 +33,10 @@ tags: !ruby/array:Hashie::Array
   name: こおろぎさとみ
   type: cast
 - !ruby/hash:TagHash
-  name: 今井由香
+  name: 冬馬由美
   type: cast
 - !ruby/hash:TagHash
-  name: 冬馬由美
+  name: 今井由香
   type: cast
 - !ruby/hash:TagHash
   name: 飯塚雅弓

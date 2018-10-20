@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/22/9/22229_1_6.png?1
 outline: A.D.2027。公安捜査の権謀術数に限界を覚える荒巻の前に現れた女、陸軍『501機関』所属・草薙素子三佐。最高度のフィジカルと電脳戦スキルを備える一方、向こうみずで世慣れぬ未熟さをあわせ持つ草薙は、荒巻と不即不離の関係をたもちつつ、次々と犯罪へと対処する。だがそれは、501機関との関係を問い直すことでもあった。困難な事件に立ち向かう中、個性的な人的資源と気脈を通じる草薙。荒巻といつしか共有していた目的である『犯罪に対し常に攻性の精鋭実力部隊』創設へ向け、草薙は彼らを糾合してゆくこととなる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -62,7 +71,13 @@ tags: !ruby/array:Hashie::Array
   name: 講談社
   type: other
 - !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
   name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: ゴリラ
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

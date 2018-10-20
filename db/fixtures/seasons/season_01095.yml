@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/17/3/22173_1_6.png?1
 outline: 花は求職活動中の25歳。突然の親戚からの依頼で、不登校の従妹・16歳の替え玉として学校に通うことになってしまった！見た目もソックリでバレないはず…と潜入した登校初日に、なんと高校の同級生・蟹江が先生として現れて、ソッコーでバレてしまう。黙っててほしい、そうお願いした花に、蟹江からのオトナな指導が始まって…!?
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 原田ひとみ
   type: cast
 - !ruby/hash:TagHash

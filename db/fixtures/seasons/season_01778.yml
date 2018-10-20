@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/52/5/21525_1_6.png?1
 outline: "｢あにトレ！EX｣｢枕男子｣のスマイラルアニメーションが手がけるバーチャルアニメ OneRoomに続いて、今回のテーマは“同居”！主人公は視聴者(あなた)！主観目線で憧れのあの人との擬似な日常を体験！ある洋館風マンションの管理人となったあなたは、そこに住む3人の男子と出会います。個性的な彼らとの楽しくも刺激的な日々と、揺れ動く甘く切ない関係性を、あなた目線でお届けします。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash

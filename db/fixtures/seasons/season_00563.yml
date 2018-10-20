@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/08/6/21086_1_6.png?1
 outline: 糸色望は、どのやうなこともネガティブにしかとれない青年である。横に繋げて書くと、とても切なくなるやうな名前を持つ彼は、ことあるごとに｢絶望した｣と死にたがり、でも本当は死ねないような、困った人間だ。彼が赴任した学校の二のへ組は、どのやうなことにもポジティブにしかとれない生徒、何事もきつちりとしていないと気がすまなひ生徒など、もしかしたら彼以上に厄介な人間が数多く在籍するやうな学級だった。どこまでも後ろ向きな考えの望の教へは、そんな生徒たちの人生にどのやうな波紋を投げかけるのだらうか。また逆に、望は生徒たちからどのやうな影響を受けるのだらうか。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -26,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 松来未祐
   type: cast
 - !ruby/hash:TagHash
-  name: 野中藍
+  name: 後藤邑子
   type: cast
 - !ruby/hash:TagHash
   name: 矢島晶子
   type: cast
 - !ruby/hash:TagHash
-  name: 後藤邑子
+  name: 野中藍
   type: cast
 - !ruby/hash:TagHash
   name: 新谷良子

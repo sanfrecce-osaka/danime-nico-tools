@@ -6,6 +6,15 @@ outline: そこは、地球温暖化がもたらした水位の上昇により�
   路頭に迷ったマイアは、ひょんなことから海洋都市でチェーン展開する零細民間オールラウンドサービス会社(所謂、なんでも屋)の【ネレイス カムチャッカ支店】に就職することに…。常夏の海洋都市。そして、少女たちの危険な職業-----
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
@@ -36,10 +45,10 @@ tags: !ruby/array:Hashie::Array
   name: 野川さくら
   type: cast
 - !ruby/hash:TagHash
-  name: 川田紳司
+  name: 乃村健次
   type: cast
 - !ruby/hash:TagHash
-  name: 乃村健次
+  name: 川田紳司
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：J.C.STAFF

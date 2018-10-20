@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/29/1/20291_1_6.png?1
 outline: これは世界が東と西、2つの星に分かたれていた時空の物語。世界が戦乱の渦中にあるなかで、西の星の少女、ジャンヌ・カグヤ・ダルクは、星を救う「救星王」誕生のビジョンを見る。東の星の若武者オダ・ノブナガは、矛盾に満ちた乱世を統一する力を欲していた。彼らが選択するのは、救済か、それとも破壊か。二人の運命が巡り会ったとき、世界変革の物語が幕を開ける！愛よ、世界を破壊せよ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
@@ -38,7 +47,7 @@ tags: !ruby/array:Hashie::Array
   name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 茅原実里
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：横山克

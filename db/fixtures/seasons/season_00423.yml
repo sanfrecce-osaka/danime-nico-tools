@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/35/3/11353_1_6.png?1
 outline: 街を賑わすサーカス団。しかし、彼らの移動とリンクするように街では子どもたちが消えていた。調査のためサーカス団に団員として潜入した、セバスチャンとシエル。そこで思いがけない人物に遭遇する。サーカス団の隠された目的とは！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 福山潤
   type: cast
 - !ruby/hash:TagHash
@@ -20,19 +29,19 @@ tags: !ruby/array:Hashie::Array
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 岡本信彦
+  name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 田村ゆかり
+  name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 遊佐浩二

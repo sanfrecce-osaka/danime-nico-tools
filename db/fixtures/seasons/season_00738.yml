@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/44/5/11445_1_6.png?1
 outline: 今回も大統領からの指令を受けて難事件を次々に解決!? 見た目のかわいさとはうらはらにブラックでアイロニカルなミルクちゃんが大活躍（？）☆シュールで脱力系、クールでバッドなパロディギャグにハマること間違いなし！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 飛田展男
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/80/3/10803_1_6.png?1
 outline: いじめられっ子だった幕之内一歩は、プロボクサー鷹村と出合いボクシングを始める。鴨川ジムに入門した一歩は鴨川会長の厳しい指導の下、日本チャンピオンにまで登りつめる。防衛第1戦で天才ボクサー真田を破った一歩の次の相手は、かつて鴨川ジムで一緒に汗を流した弟分、山田直道だった。昔の面影も無く高らかにベルト奪取宣言をする直道。一歩の気持ちは揺れる・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/11/4/21114_1_6.png?1
 outline: 人類と怪獣との長い戦いは終結し、平和が訪れた。そんな時代に、怪獣の魂を宿し、怪獣の姿に変身できる少女“怪獣娘”たちが現れる。そんな怪獣娘を集めて結成された特別組織“GIRLS”に、見習いとして配属されたアギラ、ミクラス、ウインダムの3人組。立派な怪獣娘になるべく訓練にはげむデコボコトリオの明日はどっちだ……！？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash

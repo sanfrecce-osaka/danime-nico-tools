@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/30/0/21300_1_6.png?1
 outline: 主人公、風祭将は、サッカーが大好きな中学生。夢はJリーガーとなり、世界でプレーすること。元はサッカーの名門校である武蔵森学園に通っていたが、そこでは3軍の選手であった。武蔵森では背が小さいことでプレーできないことを知った風祭将は武蔵森を退学、サッカーをやりたい一心で桜上水中学に転校するが、武蔵森からエースが来たと誤解され、皆の前から姿を消す。実は風祭将はサッカーがあまり上手くなく、小柄であったため、武蔵森では活躍できる場がなかったのだ。しかし、桜上水中学の水野やシゲ、不破といった仲間たちやライバルたちと戦うにつれ、次第にサッカー選手としても人間としても成長を遂げていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
   name: 立花慎之介
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 甲斐田ゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 山下誠一郎
+  name: 大畑伸太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 大畑伸太郎
+  name: 山下誠一郎
   type: cast
 - !ruby/hash:TagHash
   name: 堀江瞬

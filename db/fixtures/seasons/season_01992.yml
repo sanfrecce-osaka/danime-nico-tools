@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/74/6/21746_1_6.png?1
 outline: "「広がる世界で出会った君は、きっと失くした、もう一人の俺なんだ。例え、ここで世界が消滅しても。おめでとう、自分。おめでとう、俺。」少女＝運命と出会った少年は、「世界」を知るため旅立つ。新世代のための叙事詩が今、始まる。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash

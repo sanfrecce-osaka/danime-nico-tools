@@ -5,10 +5,13 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/01/1/22011_1_6.png?1
 outline: １年生のまさやは体が大きいのに泣き虫で、通学路の暗い坂道が怖くて１人で歩けません。そんなまさやと手をつないで歩いてくれるあきよは、背は小さいけれどしっかり者の２年生。あきよのようにしっかりしたい、とあこがれているまさやですが、ある日、あきよが涙をながす事件が起きてしまいます。まさやはあきよを元気づけるため、あきよが大好きなホタルブクロの花を探しに、はるか遠くの一本杉の森へと歩いて行くのでした。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 矢島晶子
-  type: cast
+  name: 日常/ほのぼの
+  type: genre
 - !ruby/hash:TagHash
   name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢島晶子
   type: cast
 - !ruby/hash:TagHash
   name: 久野美咲

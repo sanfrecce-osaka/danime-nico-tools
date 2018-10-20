@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/90/2/20902_1_6.png?1
 outline: この物語は、とあるクール、いや、クーレストな高校生・坂本の学園生活を綴ったものである――。 入学早々、クラスの、いや学校中の注目を集める一人の生徒がいた。その名は坂本(さかもと)。彼にかかれば、ただの反復横跳びは、秘技｢レペティションサイドステップ｣へと変貌し、上級生からの｢パシリ｣は、｢おもてなし｣へとクラスチェンジする。そんな彼のクールな一挙手一投足から、目が離せない。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -17,28 +20,28 @@ tags: !ruby/array:Hashie::Array
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
-  type: cast
-- !ruby/hash:TagHash
   name: 前野智昭
-  type: cast
-- !ruby/hash:TagHash
-  name: 中原麻衣
-  type: cast
-- !ruby/hash:TagHash
-  name: 緑川光
-  type: cast
-- !ruby/hash:TagHash
-  name: 遊佐浩二
   type: cast
 - !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 遊佐浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
   name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 植田佳奈
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン

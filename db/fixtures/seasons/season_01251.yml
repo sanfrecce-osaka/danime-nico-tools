@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/18/7/11187_1_6.png?1
 outline: 自分の可能性を信じなきゃ何も始まらないよ。たとえあたし達の辿る道がこの先交わらなくても…「矢澤芸術学院」を舞台に繰り広げられる恋と青春のハッピーストーリー
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浜田賢二
   type: cast
 - !ruby/hash:TagHash

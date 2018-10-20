@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/50/0/10500_1_6.png?1
 outline: "「這いよれ！ニャル子さん」のアニメ化第１作。クトゥルー神話に登場する無貌の神の名を持つニャルラトホテプ星人のニャル子が、八坂真尋の元に突然やってきた。真尋に一目惚れした彼女は何かと理由をつけ、あろうことか八坂家に居座ってしまう。そして真尋は宇宙規模なのにしょうもない事件に毎度巻き込まれる羽目に…。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash

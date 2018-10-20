@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/98/7/20987_1_6.png?1
 outline: "｢こういう時間がいつまでも続けばいいのに――｣。8枚目のクラスカードに宿る英霊との激闘を終えたイリヤたち。残り少ない夏休みをめいっぱい楽しもうと再びバカンスモードに♪しかし、そんな日常は、あまりにもあっけなく打ち破られてしまう。異変の起こった円蔵山に駆けつけたイリヤたちの前に現われる現実離れした人影。突然の交戦の後、空間が揺らぐ。そして、動きの後、イリヤが目覚めたのは、真冬の冬木市――平行世界。そこは、美遊が生まれ、育った世界だった。大切なものはすべて守る――。魔法少女の普通にして壮大な願いを叶える戦いが始まる！"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
@@ -50,13 +56,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：大沼心
   type: staff
 - !ruby/hash:TagHash
+  name: 音楽：TECHNOBOYS PULCRAFT GREEN-FUND
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：神保昌登
   type: staff
 - !ruby/hash:TagHash
   name: 原作：TYPE-MOON
-  type: staff
-- !ruby/hash:TagHash
-  name: 音楽：TECHNOBOYS PULCRAFT GREEN-FUND
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：ダックスプロダクション

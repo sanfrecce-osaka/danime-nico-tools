@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/91/7/20917_1_6.png?1
 outline: およそ2000年前の、世にしおう｢三国志｣の巨大な物語。この群雄割拠、天下平定が望まれる時代に、歴史は3人の男を世に送った。生まれは、蓆織りの男と、将軍の息子と、宦官の孫。後に、蜀の劉備、呉の孫権、魏の曹操と呼ばれる。主人公は、劉備ではなく、魏の初代帝王(武帝)・曹操。“乱世の奸雄”と呼ばれ、中国史上に巨大な悪名を残した英雄・曹操。だが、その破格な生き方は、天に愛された者のみが持つ輝きに満ちている。この物語は、その輝きによって照らし出される新たな｢三国志｣であり、曹操の幼年期からはじまり、曹操の死をもって終わる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash

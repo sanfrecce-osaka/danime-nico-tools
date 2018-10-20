@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/98/9/10989_1_6.png?1
 outline: 黒光産業に雇われたDXファイターは、再開発予定地から住民たちを立ち退かせるためDXボンバーを駆使して住民たちを次々と立ち退かせていた。お金のためと割り切り、全く罪悪感を感じていないDXファイター。しかし、そんなDXファイターが、どうしても立ち退きをさせられない１軒の小料理屋があった・・・。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: FROGMAN
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/0/10220_1_6.png?1
 outline: 故郷の学園に編入した丘野真とその妹のひなたは、友人たちとごく普通に楽しい学園生活を送っていた。ある日の放課後、ふいに真が耳にするハーモニカの音。なぜか懐かしい音色に誘われるまま、屋上に上がった真は幼馴染みの鳴風みなもと再会する。不思議な街を舞台に、彼らの物語が今、その始まりを告げようとしている…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 菅沼久義
   type: cast
 - !ruby/hash:TagHash

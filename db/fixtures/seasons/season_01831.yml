@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/89/2/21892_1_6.png?1
 outline: 新キャスター・高橋一太郎の加入後、それなりに！？平穏な日々を送っている「ワールドフールニュース」スタッフたち。だが、そんな彼らに新しい危機が迫って来ていた・・・
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 野田博史
   type: cast
 - !ruby/hash:TagHash
@@ -32,7 +38,7 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2012年
+  name: 製作年：2017年
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

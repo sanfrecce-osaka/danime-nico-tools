@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/36/1/21361_1_6.png?1
 outline: 主人公はあなた―――「あにトレ」シリーズ、「枕男子」を手がけたスマイラル・アニメーションのバーチャルアニメ最新作！今度は貴方（One）の部屋（Room）ではぐくむ３つの物語。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash

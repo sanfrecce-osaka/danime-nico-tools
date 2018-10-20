@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/14/4/22144_1_6.png?1
 outline: 平凡な少年「反田ノラ」は、ある春の日の登校途中、一人の美しい少女の姿を目にする。パトリシアという少女は冥界の皇女であり、地上の生物を滅ぼすためにやってきたのだった。ノラはとある出来事からパトリシアとキスをしてしまうと、ノラの体は一匹の黒猫の姿に変わり―
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 浅川悠
   type: cast
 - !ruby/hash:TagHash

@@ -7,6 +7,12 @@ outline: |-
   一方パリではマルチンベック財団による、ナポレオンが実際に用いた辞書を賞品にしたクラシックカーレースがスタート。これにルパンと次元も参加していた。その辞書は、かつてナポレオン３世の娘からルパン１世の元へ渡ったもので、ルパン帝国の財宝の場所が記されているという。日本からは銭形、ＣＩＡからは辣腕の捜査官ロバート・ホーク、そして各国のエージェントがルパンを巡って世界を股にかけた追跡行を繰り広げる。ルパン帝国の財宝とは一体……？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 速水奨
   type: cast
 - !ruby/hash:TagHash
@@ -28,10 +34,10 @@ tags: !ruby/array:Hashie::Array
   name: 戸田恵子
   type: cast
 - !ruby/hash:TagHash
-  name: 山田康雄
+  name: 大塚周夫
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚周夫
+  name: 山田康雄
   type: cast
 - !ruby/hash:TagHash
   name: 大平透

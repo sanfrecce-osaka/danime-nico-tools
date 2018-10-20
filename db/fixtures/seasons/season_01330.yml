@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/24/1/11241_1_6.png?1
 outline: '江戸後期、海外からやって来た黒船により未曾有の危機に立たされた日本。日本に古代から存在する巨大ロボット・オニガミにより、黒船は見事打ち払われ、攘夷は成されてしまう。維新の起こらなかった日本で、物語は始まる!天下無敵の童貞野郎が巻き起こす、巨大ロボット&恋愛活劇ついに起動!! '
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
@@ -14,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 川澄綾子
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 田村ゆかり
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
   name: ブリドカットセーラ恵美

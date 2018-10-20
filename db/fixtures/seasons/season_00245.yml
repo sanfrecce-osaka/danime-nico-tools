@@ -7,6 +7,9 @@ outline: 呪われた甘草奏の能力｢絶対選択肢｣。突然頭の中�
   彼女は神様から与えられるミッションをクリアするために遣わされたパートナーだというが――!? 学園ラブコメ生活を取り戻すために、奏は全力でアホミッションに立ち向かう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
@@ -25,10 +28,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐土原かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 味里
+  name: 松嵜麗
   type: cast
 - !ruby/hash:TagHash
-  name: 松嵜麗
+  name: 味里
   type: cast
 - !ruby/hash:TagHash
   name: 辻あゆみ

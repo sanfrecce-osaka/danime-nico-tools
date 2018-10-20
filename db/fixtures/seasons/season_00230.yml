@@ -5,16 +5,22 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/94/7/20947_1_6.png?1
 outline: ダークパワーの野望から人間界を守り、マリーランドに帰ってきたマイメロディ。しかし、またクロミとバクは、お城から｢メロディ・キー｣を盗んで人間界へと逃げてしまう。マイメロディは｢メロディ・タクト｣とお助けキャラを呼べるカードを授かり、ふたたび夢野歌の待つ人間界へと旅立つ。悪夢魔法から人間界を救うため、正体不明の｢ウサミミ仮面｣や個性的な新キャラクターを巻き込み新しいバトルが始まる！｢くるくるシャッフル！助けてね、ウサミミ仮面さん｣
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
   name: 置鮎龍太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 竹内順子

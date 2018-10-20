@@ -5,8 +5,8 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/89/5/10895_1_6.png?1
 outline: 西暦2050年。地球は異星生命体インビットの攻撃を受け、人類はその占領下に置かれてしまった。30年後、火星コロニーにて軍備を固めた人類は地球奪還作戦を行うが、再び大敗を喫してしまう。一人生き残った青年兵士スティックは、地上で出会った地球生まれの青年レイら新たな仲間たちと共に、敵の拠点である｢レフレックス・ポイント｣を目指す。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 西村知道
-  type: cast
+  name: SF/ファンタジー
+  type: genre
 - !ruby/hash:TagHash
   name: 大塚芳忠
   type: cast
@@ -14,13 +14,16 @@ tags: !ruby/array:Hashie::Array
   name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
+  name: 西村知道
+  type: cast
+- !ruby/hash:TagHash
+  name: 島田敏
+  type: cast
+- !ruby/hash:TagHash
   name: 土井美加
   type: cast
 - !ruby/hash:TagHash
   name: 小原乃梨子
-  type: cast
-- !ruby/hash:TagHash
-  name: 島田敏
   type: cast
 - !ruby/hash:TagHash
   name: 高橋美紀
@@ -44,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: フジテレビ
   type: other
 - !ruby/hash:TagHash
-  name: 荒牧伸志
+  name: 鈴木敏充
   type: other
 - !ruby/hash:TagHash
-  name: 鈴木敏充
+  name: 荒牧伸志
   type: other
 - !ruby/hash:TagHash
   name: タツノコプロ

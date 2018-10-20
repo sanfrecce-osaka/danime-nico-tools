@@ -5,6 +5,15 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/45/9/11459_1_6.png?1
 outline: 愛する息子・トビオを突然の死で失った天馬博士。後悔は「再び、トビオをこの世に戻したい」との思いに変わり、国家機密となっていた「デジタル人口頭脳・ゲノム」を持ち出し、火星へと向かわせます。いったい、火星に何が…そして、アトム誕生の瞬間は…
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 銀河万丈
   type: cast
 - !ruby/hash:TagHash

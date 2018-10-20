@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/17/8/10178_1_6.png?1
 outline: 辺境の地、頑強な砦に暮らす少女ヨナとその兄。不思議な力を持つヨナは、世界に心を閉ざし｢はなれ砦｣に兄と二人で生きてきた。日々、ヨナの力を求めるエージェントたちが、この砦を訪れたが、妹を守ろうとする兄により少女を連れ去ることなく消えていった。そんなある日、ヨナのもとに、一人の少年が現れる。初めて自分に心を開く少年との出会いに戸惑うヨナ。兄は妹を守るべく少年を抹殺しようとする。その兄に助言するのは謎のモンスター(?!)危険を顧みずヨナを連れ出そうとする少年。そのとき少女は、はかない想いの向こう、未来への階段を踏み出そうとする。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 竹内順子
   type: cast
 - !ruby/hash:TagHash
@@ -38,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 妹
+  name: 製作年：2006年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2006年
+  name: 妹
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

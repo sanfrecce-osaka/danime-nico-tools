@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/99/8/20998_1_6.png?1
 outline: 国民的な人気キャラクターになることを目指して自分たちでアニメを作ることを決意したうらら、はなび、いなほの3人！子供から大きなお友達まで幅広く人気を獲得するために選んだテーマは｢魔法少女｣！果たして、無事に魔法少女アニメをワンクール放送して人気キャラクターになることができるのか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
   name: 桑原由気
   type: cast
 - !ruby/hash:TagHash
@@ -17,16 +20,19 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：井上純一
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：山口正武
+  name: 監督：石ダテコー太郎
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：石ダテコー太郎
+  name: 脚本：山口正武
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：Hajime
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：平間邦修
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：バウンスィ
   type: staff
 - !ruby/hash:TagHash
   name: 音楽制作：ポニーキャニオンエンタープライズ
@@ -39,9 +45,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：味噌山おかず
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：バウンスィ
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

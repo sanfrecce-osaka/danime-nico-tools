@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/49/8/10498_1_6.png?1
 outline: 精霊と人の共存する世界。人々は精霊の起こす奇跡に頼り、精霊は人の奏でる音楽を糧としてこの世界に顕在する。指令は音楽家の奏でる音楽に操られ、その力を発揮する。特殊な音楽を奏でる彼らは『神曲楽士(ダンティスト)』と呼ばれ尊敬を集めていた。普段は姿を現さない精霊たちであるが、一部の力ある精霊は人や動物などの姿へと実体化し、人類の｢良き隣人｣として社会生活を送っていた。この作品は、人と精霊が暮らす大陸―ポリフォニカで精霊コーティカルテと新米神曲楽士フォロンの恋と成長が描かれる物語である。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
@@ -14,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
   name: 戸松遥

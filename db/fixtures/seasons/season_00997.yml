@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/26/0/10260_1_6.png?1
 outline: たくさんの時間が、オレたちの周りを駆け抜けていった。それは、時に優しく、時に激しく。時に冷たく―でもやがて、暖かく。めぐり来る季節は彩を重ね、オレたちもそれに包まれて、少しずつ変わりはじめていた。｢あっという間だね……もう、三年生なんだよ｣隣に並んで立つ、幼馴染のあかり。変わらないいつもの笑顔でさえ、どこか違って見える。それぞれの夢を持って、歩きはじめた仲間たち。動きつづける時間。新しい出会いと……別れ。いつまでも……変わらずにはいられない。そんな時。オレは……『彼女』と再会した―。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
@@ -26,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 飯塚雅弓
   type: cast
 - !ruby/hash:TagHash
-  name: 氷上恭子
+  name: 岩男潤子
   type: cast
 - !ruby/hash:TagHash
-  name: 岩男潤子
+  name: 氷上恭子
   type: cast
 - !ruby/hash:TagHash
   name: 笠原留美

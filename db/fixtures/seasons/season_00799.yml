@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/77/5/21775_1_6.png?1
 outline: 同窓会で再会した初恋相手は、「僧侶」で「野獣」でした！？――実家のお寺を継いで僧侶になっていた初恋相手の九条君。昔のままの紳士な彼に油断していると「僧侶の前に、俺だって男だよ」と迫られて…。一夜をともにした翌日から、婚約者のフリをさせられ、ゴーインに始まったお寺での同棲生活。僧侶なのに野獣な彼に迫られて、24時間ドキドキが止まらない…！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
   name: 原舞香
   type: cast
 - !ruby/hash:TagHash

@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/98/3/21983_1_6.png?1
 outline: 怒涛の海洋実習から1カ月―。中間考査を終え、迎えたテスト休み。「晴風」乗員達は思い思いに余暇を過ごす中、納沙幸子にはある任務が下される。その任務は陸にあがった「晴風」乗員達を再び"ピンチ!?"へと陥れるのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
@@ -17,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤かな恵
   type: cast
 - !ruby/hash:TagHash
-  name: 小澤亜李
+  name: 雨宮天
   type: cast
 - !ruby/hash:TagHash
-  name: 雨宮天
+  name: 小澤亜李
   type: cast
 - !ruby/hash:TagHash
   name: 久保ユリカ

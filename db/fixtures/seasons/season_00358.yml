@@ -5,6 +5,12 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/34/1/10341_1_6.png?1
 outline: 銀河を統べるノーヴルズの支配に反抗し、組織を脱したエクレールとリュミエールを、GOTT(銀河通商関税機構)のESメンバーが追撃する。かつての仲間との死闘の果て、ふたりは運命から逃げることを止め、反撃に転じた。ついにGOTTは瓦解し、エクリプスは表舞台から消える。新生GOTTの主となったのは、冷酷な女王に豹変したエクレールであった。しかし玉座に座る彼女を挑発するかのように、謎の少女が現れて……。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
@@ -35,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
-  name: 南央美
+  name: 鈴置洋孝
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴置洋孝
+  name: 南央美
   type: cast
 - !ruby/hash:TagHash
   name: 製作：GONZO
