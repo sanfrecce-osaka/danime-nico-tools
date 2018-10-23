@@ -13,6 +13,6 @@
           = render 'layouts/paginator', resources: @episodes
         %ul.list-group
           - @episodes.each do |episode|
-            = render 'episode', episode: episode
+            = render 'episode', episode: episode, with_season_title: true
         - if @search_form.keywords.present?
           = render 'layouts/paginator', resources: @episodes

@@ -42,11 +42,35 @@ class Episode < ApplicationRecord
   end
 
   def displayed_number_in_season
-    if season.title == title && number_in_season.blank?
+    if with_same_season_title? && number_in_season.blank?
       "##{overall_number}"
     else
       number_in_season
     end
+  end
+
+  def displayed_title
+    with_same_season_title? ? '' : title
+  end
+
+  def with_same_season_title?
+    season.title == title
+  end
+
+  def displayed_season_title(with_season_title)
+    if with_same_season_title?
+      season.title
+    else
+      with_season_title ? season.title : ''
+    end
+  end
+
+  def full_title(with_season_title)
+    [
+      displayed_season_title(with_season_title),
+      displayed_number_in_season,
+      displayed_title
+    ].select(&:present?).join('　')
   end
 
   def to_param
