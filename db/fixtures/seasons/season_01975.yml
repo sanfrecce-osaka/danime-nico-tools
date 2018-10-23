@@ -2,8 +2,10 @@
 title: でびどる！
 watchable: true
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/43/2/22432_1_6.png?1537509606000
-outline: 人間界で暮らす3人の悪魔少女アイラ、シマ、はな。努力と友情でキラキラした学園生活を過ごしながらアイドルを目指し、その階段をのぼる胸キュンアニメ……なんてことはなく、「アイドルって何？」とアイドルを知らない彼女たちが試行錯誤しつつ、アイドルへの道に迷走します。それを優しく（時に厳しく⁉
-  ）指導するロケット先生の一風変わったレクチャーで本当のアイドルになれる……はず、な物語です。
+outline: |-
+  人間界で暮らす3人の悪魔少女アイラ、シマ、はな。
+  努力と友情でキラキラした学園生活を過ごしながらアイドルを目指し、その階段をのぼる胸キュンアニメ……なんてことはなく、「アイドルって何？」とアイドルを知らない彼女たちが試行錯誤しつつ、アイドルへの道に迷走します。
+  それを優しく（時に厳しく⁉ ）指導する露血ッ斗（ロケット）先生の一風変わったレクチャーで本当のアイドルになれる……はず、な物語です。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: ショート
@@ -34,16 +36,36 @@ tags: !ruby/array:Hashie::Array
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
-  episode_no: 1じかんめ！
+  episode_no: 1時間目
   title: アイドルって食べ物?
-  description: アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／ロケット先生:ふかわりょう<br><br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／
-    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会
+  description: アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／露血ッ斗（ロケット）先生:ふかわりょう<br><br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／
+    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会<br><br>次話→so33995953
   length_seconds: 840
   content_id: so33963118
   default_thread_id: 1538615583
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=33963118
-cast: "[キャスト]<br>アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／ロケット先生:ふかわりょう"
+- !ruby/hash:EpisodeHash
+  episode_no: 2時間目
+  title: ラブラブマシーン
+  description: アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／露血ッ斗（ロケット）先生:ふかわりょう<br><br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／
+    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会<br><br>so33963118←前話｜次話→so34036620　第一話→so33963118
+  length_seconds: 840
+  content_id: so33995953
+  default_thread_id: 1539135903
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33995953.77194
+- !ruby/hash:EpisodeHash
+  episode_no: 4時間目
+  title: 行くぜ強盗少女
+  description: アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／露血ッ斗（ロケット）先生:ふかわりょう<br><br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／
+    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会<br><br>so33995953←前話　第一話→so33963118
+  length_seconds: 840
+  content_id: so34036620
+  default_thread_id: 1539825185
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34036620
+cast: "[キャスト]<br>アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／露血ッ斗（ロケット）先生:ふかわりょう"
 staff: "[スタッフ]<br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／ 脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat"
 produced_year: "[製作年]<br>2018年"
 copyright: "©コチンPa!製作委員会"
