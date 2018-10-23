@@ -70,6 +70,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1538723703
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=33968989
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 暗闇のステージ
+  description: 若手シンガーの頂点を決める大会「THE RISING STAR of CHINA」が開催される。そこで優勝することがフーリとコンチュエの使命だった。ＳＫＹの目をごまかすため、テレビ番組の大道具に紛れてテレビ局に潜入するフーリ。しかし不審者と間違われて追われることに。コンチュエの出番が刻一刻と迫る。フーリは間に合うのか…。<br><br>フーリ:河西健吾／コンチュエ:菅沼久義／ジーホティエン:日野聡／チュユン:香里有佐／キム社長:速水奨／ホンイェ:元吉有希子／シュアル:前田玲奈／ユシン:青木志貴／ジャンヤオ:木村昴<br><br>監督:於地紘仁／シリーズ構成:成田良美／キャラクターデザイン:つなきあき／アニメーション制作:ゆめ太カンパニー<br><br>©IQIYI/VOICE
+    OF FOX<br><br>so33968989←前話｜次話→so34026299　第一話→so33963160
+  length_seconds: 795
+  content_id: so34026300
+  default_thread_id: 1539651903
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34026300
 cast: "[キャスト]<br>フーリ:河西健吾／コンチュエ:菅沼久義／ジーホティエン:日野聡／チュユン:香里有佐／キム社長:速水奨／ホンイェ:元吉有希子／シュアル:前田玲奈／ユシン:青木志貴／ジャンヤオ:木村昴"
 staff: "[スタッフ]<br>監督:於地紘仁／シリーズ構成:成田良美／キャラクターデザイン:つなきあき／アニメーション制作:ゆめ太カンパニー"
 produced_year: "[製作年]<br>2018年"
