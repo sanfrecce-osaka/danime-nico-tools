@@ -15,7 +15,7 @@
     = render 'layouts/paginator', resources: @episodes
     %ul.list-group
       - @episodes.each do |episode|
-        = render 'episodes/episode', episode: episode
+        = render 'episodes/episode', episode: episode, with_season_title: false
     = render 'layouts/paginator', resources: @episodes
   .wrapper
     - if @season.cast.present? || @season.staff.present? || @season.produced_year.present? || @season.copyright.present?
