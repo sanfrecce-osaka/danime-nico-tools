@@ -1,3 +1,4 @@
-%header.d-flex.justify-content-start
-  %h1 danime-nico-tools
-  = render 'layouts/search_form', search_form: @search_form, path: animes_path
+%header.header
+  .col-11.d-flex.justify-content-start
+    %h1.header__title danime-nico-tools
+    = render 'search_form', search_form: @search_form
