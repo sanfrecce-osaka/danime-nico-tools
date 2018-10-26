@@ -12,11 +12,11 @@
       = @season.outline
   .wrapper
     %h3 動画一覧
-    = render 'layouts/paginator', resources: @episodes
+    = render 'paginator', resources: @episodes
     %ul.list-group
       - @episodes.each do |episode|
         = render 'episodes/episode', episode: episode, with_season_title: false
-    = render 'layouts/paginator', resources: @episodes
+    = render 'paginator', resources: @episodes
   .wrapper
     - if @season.cast.present? || @season.staff.present? || @season.produced_year.present? || @season.copyright.present?
       %h3.mb-2 キャスト・スタッフ

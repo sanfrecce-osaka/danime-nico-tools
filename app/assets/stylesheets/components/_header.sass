@@ -1,15 +1,50 @@
-main
-  header
-    display: flex
-    align-items: center
-    padding: 5px 20px
-    position: fixed
-    width: calc(100% - 84px)
-    background-color: darken($base-color, 70%)
-    color: lighten($base-color, 40%)
-    z-index: 2
+.header
+  display: flex
+  justify-content: center
+  align-items: center
+  padding: 10px 20px
+  position: fixed
+  width: calc(100% - #{$global-nav-width})
+  background-color: darken($base-color, 70%)
+  color: lighten($base-color, 40%)
+  z-index: 2
 
-    h1
-      font-size: 30px
-      margin-bottom: 0
-      margin-right: 10px
+  &__title
+    display: flex
+    width: $header-title-width
+    font-size: 26px
+    margin-bottom: 0
+    margin-right: 10px
+    align-items: center
+
+  &-search-form
+    width: calc(100% - #{$header-title-width} - #{$margin-md})
+
+    &__category
+      select
+        width: $search-form-category-width
+        border-radius: 5px 0 0 5px
+        padding: 5px 10px
+
+      .custom-select:focus
+        border-color: #ced4da
+        box-shadow: none
+
+    &__keywords
+      position: relative
+      width: calc(100% - #{$search-form-category-width})
+
+      &:before
+        position: absolute
+        top: 7px
+        right: 10px
+        font-family: "Font Awesome 5 Free"
+        content: '\f002'
+        font-weight: 900
+        color: $main-color
+
+      .form-control
+        width: 100%
+        height: 38px
+        padding: 0 10px 0 10px
+        border-radius: 0 5px 5px 0
