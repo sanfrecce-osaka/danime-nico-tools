@@ -58,6 +58,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2018年
   type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第1話
@@ -98,6 +101,19 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1539565625
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34021951.61370
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ウォーミング・デッド SAGA
+  description: グループ名は俺に何の断りもなく『フランシュシュ』になったらしい。リーダーもいつの間にか《サキ》に決まっていた。改めて俺がプロデューサーだと分からせた方がよさそうだ。とは言え、自主的に行動するようになったのは悪いことではない。ここはちょっぴりやる気を出したおしゃべりゾンビィ達に、がっつり稼いでもらうとしよう。というわけで、温泉へ営業に行かせます。メイクが取れてゾンビィバレでもしたら、一巻の終わりだな。―――――《巽幸太郎》の日記より<br><br>巽
+    幸太郎:宮野 真守／源 さくら:本渡 楓／二階堂 サキ:田野 アサミ／水野 愛:種田 梨沙／紺野 純子:河瀬 茉希／ゆうぎり:衣川 里佳／星川 リリィ:田中
+    美海／山田 たえ:三石 琴乃／警察官Ａ:吉野 裕行／ロメロ:高戸 靖広<br><br>原作:広報広聴課ゾンビ係／監督:境 宗久／シリーズ構成:村越 繋／キャラクターデザイン:深川
+    可純／美術監督:小倉 一男／撮影監督:柳田 貴志／色彩設計:佐々木 梓／編集:後藤 正浩／音楽:高梨 康治／音楽制作:エイベックス・ピクチャーズ／音響監督:境
+    宗久／音響制作:dugout／アニメーション制作:MAPPA<br><br>©ゾンビランドサガ製作委員会<br><br>so34021951←前話｜次話→so34063185　第一話→so33963154
+  length_seconds: 1420
+  content_id: so34063184
+  default_thread_id: 1540257485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34063184
 cast: "[キャスト]<br>巽 幸太郎:宮野 真守／源 さくら:本渡 楓／二階堂 サキ:田野 アサミ／水野 愛:種田 梨沙／紺野 純子:河瀬 茉希／ゆうぎり:衣川
   里佳／星川 リリィ:田中 美海／山田 たえ:三石 琴乃／警察官Ａ:吉野 裕行／ロメロ:高戸 靖広"
 staff: "[スタッフ]<br>原作:広報広聴課ゾンビ係／監督:境 宗久／シリーズ構成:村越 繋／キャラクターデザイン:深川 可純／美術監督:小倉 一男／撮影監督:柳田

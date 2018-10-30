@@ -49,6 +49,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2018年
   type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第1話
@@ -80,6 +83,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1539651903
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34026300
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 揺らぐ声
+  description: "「表舞台に立ちたくない？」ＳＫＹの言葉に心が揺れるフーリ。暗闇のステージで浴びた大歓声を思い出すと胸が締め付けられるようだった。コンチュエの次の対戦相手は優勝候補筆頭のリンルイジャだ。ＳＫＹのメールに心を乱されたままマイクの前に立つフーリ。心の乱れは歌声に乗り、それを聞き取ったルイジャは勝利を確信する。勝敗の行方は、果たして…。<br><br>フーリ:河西健吾／コンチュエ:菅沼久義／ジーホティエン:日野聡／チュユン:香里有佐／キム社長:速水奨／ホンイェ:元吉有希子／シュアル:前田玲奈／ユシン:青木志貴／ジャンヤオ:木村昴<br><br>監督:於地紘仁／シリーズ構成:成田良美／キャラクターデザイン:つなきあき／アニメーション制作:ゆめ太カンパニー<br><br>©IQIYI/VOICE
+    OF FOX<br><br>so34026300←前話｜次話→so34092307　第一話→so33963160"
+  length_seconds: 795
+  content_id: so34026299
+  default_thread_id: 1539652085
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34026299
 cast: "[キャスト]<br>フーリ:河西健吾／コンチュエ:菅沼久義／ジーホティエン:日野聡／チュユン:香里有佐／キム社長:速水奨／ホンイェ:元吉有希子／シュアル:前田玲奈／ユシン:青木志貴／ジャンヤオ:木村昴"
 staff: "[スタッフ]<br>監督:於地紘仁／シリーズ構成:成田良美／キャラクターデザイン:つなきあき／アニメーション制作:ゆめ太カンパニー"
 produced_year: "[製作年]<br>2018年"
