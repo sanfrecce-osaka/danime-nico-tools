@@ -53,6 +53,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
+  name: 異世界
+  type: other
+- !ruby/hash:TagHash
   name: ホビージャパン
   type: other
 episodes: !ruby/array:Hashie::Array

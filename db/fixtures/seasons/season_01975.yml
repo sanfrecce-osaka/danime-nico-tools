@@ -34,6 +34,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2018年
   type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 1時間目
@@ -59,12 +62,22 @@ episodes: !ruby/array:Hashie::Array
   episode_no: 4時間目
   title: 行くぜ強盗少女
   description: アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／露血ッ斗（ロケット）先生:ふかわりょう<br><br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／
-    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会<br><br>so33995953←前話　第一話→so33963118
+    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会<br><br>so33995953←前話｜次話→so34067669　第一話→so33963118
   length_seconds: 840
   content_id: so34036620
   default_thread_id: 1539825185
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34036620
+- !ruby/hash:EpisodeHash
+  episode_no: 3時間目
+  title: ブランチレポーター
+  description: アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／露血ッ斗（ロケット）先生:ふかわりょう<br><br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／
+    脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat<br><br>©コチンPa!製作委員会<br><br>so34036620←前話　第一話→so33963118
+  length_seconds: 840
+  content_id: so34067669
+  default_thread_id: 1540342447
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34067669
 cast: "[キャスト]<br>アイラ:三森 すずこ／シマ:井口 裕香／はな:花澤 香菜／露血ッ斗（ロケット）先生:ふかわりょう"
 staff: "[スタッフ]<br>監督:菅原そうた／原案:まさたかP・菅原そうた／企画・プロデューサー:まさたかＰ／ 脚本:長部一幸・まさたかP・菅原そうた／ キャラクターデザイン:Lat"
 produced_year: "[製作年]<br>2018年"
