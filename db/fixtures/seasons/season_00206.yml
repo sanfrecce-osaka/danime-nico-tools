@@ -231,12 +231,42 @@ episodes: !ruby/array:Hashie::Array
   episode_no: "＃22"
   title: 携帯に夢中！/ええっ、パパが仕事！？
   description: "＜携帯に夢中！＞携帯を購入したガムボールだが、誰からもかかってこないことにがっかり。携帯を渡されたダーウィンはオチョに番号を教え、２人は携帯依存症になってしまう。見かねたガムボールは・・・。＜ええっ、パパが仕事！？＞ひょんなことからパパがピザのデリバリーの仕事をはじめることになるが、なぜかママは素直に喜べない。ママの不安は的中。パパが仕事を始めたせいで宇宙のバランスが崩れてしまったのだった・・・。<br><br>TM
-    &amp; © 2018 Cartoon Network.<br><br>so33796328←前話　第一話→so32588496"
+    &amp; © 2018 Cartoon Network.<br><br>so33796328←前話｜次話→so33963148　第一話→so32588496"
   length_seconds: 1470
   content_id: so33949340
   default_thread_id: 1538378284
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=33949340
+- !ruby/hash:EpisodeHash
+  episode_no: "＃23"
+  title: お化け屋敷のハロウィーン・パーティ/ワタソン家の秘密の箱
+  description: "＜お化け屋敷のハロウィーン・パーティ＞ハロウィーンの夜、ガムボールたちはおばけになる薬を飲み、キャリーと一緒におばけのパーティに参加。しかし、夜中の12時までに人間に戻らなければならなかったことを知らず・・・。＜ワタソン家の秘密の箱＞アナイスたちは、家が貧しい理由を探偵のように調査しだす。見事に謎を解いて秘密の箱を見つけたところ、パパの驚くべき事実が明らかに・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33949340←前話｜次話→so33963159　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33963148
+  default_thread_id: 1538616786
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963148
+- !ruby/hash:EpisodeHash
+  episode_no: "＃24"
+  title: 邪悪なダーウィン/ピンチ！ミス・シーミアン
+  description: "＜邪悪なダーウィン＞相手に気を遣いすぎて言いたいことが言えないダーウインだったが、何でも言えてしまうガムボールに特訓してもらったところ、今度は言いたいことを言いすぎるようになってしまい・・・。＜ピンチ！ミス・シーミアン＞ガムボールとダーウィンに笑い物にされたと勘違いしたミス・シーミアンは、あの手この手を使って２人に嫌がらせをするが、そのたびに墓穴を掘ってしまい・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33963148←前話｜次話→so33963158　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33963159
+  default_thread_id: 1538616723
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963159
+- !ruby/hash:EpisodeHash
+  episode_no: "＃25"
+  title: ウソつきクレイトン/サンタさんなんていない！？
+  description: "＜ウソつきクレイトン＞学校のシャワーを浴びたくなかったガムボールたちは、それをごまかしてくれたウソの上手なクレイトンにつられ、ウソをつく癖がついてしまう。クレイトンの際限のないウソにみんな大混乱！？＜サンタさんなんていない！？＞クリスマスイブに、ワタソン家の車がはねてしまった男は記憶をなくしていた。ガムボールたちは男の正体はサンタさんだと確信し、彼の記憶を取り戻させようとするが・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33963159←前話　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so33963158
+  default_thread_id: 1538616543
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33963158
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
