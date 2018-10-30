@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: 叛逆性ミリオンアーサー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/41/3/22413_1_6.png?1539831607000
+outline: 聖剣『エクスカリバー』。ブリテンの統治を目指し、王を見定めるべく用意された選定の剣。それを抜いた者は『アーサー』と呼ばれ、強大な力を手にした。だが、エクスカリバーを引き抜いたのは一人ではなかった。力が大量に生み出されたことにより、伝説が氾濫、歴史の歪みへと繋がってしまう。歴史を正しく導くため、団長・鉄拳・山猫・閣下・錬金・流浪と呼ばれる六人のアーサーは、過去の地『ブリテン』へと降り立つ。彼らの使命は、歴史を歪めるエクスカリバーを全て叩き折ること。その数、およそ１００万。これは、過去への叛逆。そして、未来（いま）を守る戦いである――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 日高里菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 水瀬いのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋李依
+  type: cast
+- !ruby/hash:TagHash
+  name: 芹澤優
+  type: cast
+- !ruby/hash:TagHash
+  name: 茜屋日海夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：鈴木洋平
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：スクウェア・エニックス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：椎名豪
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：斎藤良成
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 過去への叛逆
+  description: 強大な力ゆえに歴史をも歪めてしまう聖剣『エクスカリバー』百万本を叩き折るため、団長・鉄拳・閣下・錬金・山猫・流浪ら６人のアーサーは過去のブリテンへと向かう。しかし、リーダーである団長の珍妙な行動に一同は困惑し、早くもチームは崩壊の危機。そんな中、現地のアーサーたちは団長らの行動を察知し、６人を返り討ちにするべく集結しようとしていた。その数、およそ１万――！<br><br>団長アーサー:雨宮
+    天／鉄拳アーサー:柿原 徹也／山猫アーサー:竹達 彩奈／閣下アーサー:花江 夏樹／錬金アーサー:水瀬 いのり／流浪アーサー:中村 悠一／ナックラヴィ:茜屋
+    日海夏／ティターニア:高橋 李依／クーピー:東山 奈央／ブリギッテ:芹澤 優／ボダッハ:三森 すずこ／ベトール:日高 里菜<br><br>監督:鈴木 洋平／原作:スクウェア・エニックス／脚本・シリーズ構成:玉井☆豪／音楽:椎名
+    豪／キャラクターデザイン:斎藤 良成／サブデザイン:小野田 将人／美術監督:内藤 健／色彩設計:溝江 詩帆／撮影監督:黒澤 豊／編集:近藤 勇二／音響監督:岩浪
+    美和<br><br>©叛逆性ミリオンアーサー製作委員会
+  length_seconds: 1420
+  content_id: so34072200
+  default_thread_id: 1540429266
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34072200
+cast: "[キャスト]<br>団長アーサー:雨宮 天／鉄拳アーサー:柿原 徹也／山猫アーサー:竹達 彩奈／閣下アーサー:花江 夏樹／錬金アーサー:水瀬 いのり／流浪アーサー:中村
+  悠一／ナックラヴィ:茜屋 日海夏／ティターニア:高橋 李依／クーピー:東山 奈央／ブリギッテ:芹澤 優／ボダッハ:三森 すずこ／ベトール:日高 里菜"
+staff: "[スタッフ]<br>監督:鈴木 洋平／原作:スクウェア・エニックス／脚本・シリーズ構成:玉井☆豪／音楽:椎名 豪／キャラクターデザイン:斎藤 良成／サブデザイン:小野田
+  将人／美術監督:内藤 健／色彩設計:溝江 詩帆／撮影監督:黒澤 豊／編集:近藤 勇二／音響監督:岩浪 美和"
+produced_year: "[製作年]<br>2018年"
+copyright: "©叛逆性ミリオンアーサー製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: おとなの防具屋さん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/45/4/22454_1_6.png?1538384583000
+outline: 青年・カウツは大量のスライムに追われているところを、謎の美少女・リリエッタに助けられる。リリエッタの落とし物を届けようと町の中を探すカウツは、運よく彼女の働く防具屋を見つけるが
+  …。 そこで目にした光景とは…？ 旅の冒険者たち。ようこそ、おとなの防具屋さんへ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井マーク
+  type: cast
+- !ruby/hash:TagHash
+  name: 森友莉世
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：井内啓二
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山元隼一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：岩永浩輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#3"
+  title: "「防具屋の鍵貸します」／「ライフ・イズ・防具フル」／「君の防具を食べたい」"
+  description: "#1：《このお店で取り扱っている防具は全て…！》青年・カウツは大量のスライムに追われているところを、謎の美少女・リリエッタに助けられる。リリエッタの落とし物を届けようと町の中を探すカウツは、運よく彼女の働く防具屋を見つけるが
+    …。 そこで目にした光景とは…？ 旅の冒険者たち。ようこそ、おとなの防具屋さんへ。／#2：赤字でつぶれそうな防具屋を立て直すべく、働き始めるカウツ。そこへ若い女性客がやってくる。颯爽と接客を始めるナーデンだったが…。そこで目にした光景とは…？旅の冒険者たち。ようこそ、おとなの防具屋さんへ。／#3：今日ぉ～の新入荷～♪フリフリフリルの～♪チラリズム～♪旅の冒険者たち。ようこそ、おとなの防具屋さんへ。<br><br>カウツ:石井マーク／ナーデン:櫻井孝宏／リリエッタ:東山奈央／フレアリカ:小松未可子／弓子:森友莉世<br><br>監督:山元隼一／シリーズ構成:どめし、山元隼一／キャラクターデザイン:岩永浩輔／ゲームキャラデザイン:きゃしー／色彩設計:宮脇裕美／美術監督:有馬ちなつ／背景美術:出村有利／特殊効果:石川高廣／撮影監督:今泉秀樹／撮影:颱風グラフィックス／音楽プロデューサー:福原慶匡、當眞一／音響監督:長崎行男／音響効果:中原隆太／録音調整:武藤雅人／音響制作:エスターセブン／音響制作担当:森川潤子／音楽:井内啓二／編集スタジオ:IMAGICA
+    Lab.／クリエイティブプロデューサー:福留　俊（コミックスマート）／チーフプロデューサー:岩澤朋也（IMAGICA Lab.）／アニメーションプロデューサー:加納秀紀（IMAGICA
+    Lab.）／制作担当:小林弘明（新潟アニメーション）／アニメーション協力:新潟アニメーション<br><br>©斐宮ふみ／COMICSMART INC."
+  length_seconds: 721
+  content_id: so34058477
+  default_thread_id: 1540170183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34058477
+cast: "[キャスト]<br>カウツ:石井マーク／ナーデン:櫻井孝宏／リリエッタ:東山奈央／フレアリカ:小松未可子／弓子:森友莉世"
+staff: "[スタッフ]<br>監督:山元隼一／シリーズ構成:どめし、山元隼一／キャラクターデザイン:岩永浩輔／ゲームキャラデザイン:きゃしー／色彩設計:宮脇裕美／美術監督:有馬ちなつ／背景美術:出村有利／特殊効果:石川高廣／撮影監督:今泉秀樹／撮影:颱風グラフィックス／音楽プロデューサー:福原慶匡、當眞一／音響監督:長崎行男／音響効果:中原隆太／録音調整:武藤雅人／音響制作:エスターセブン／音響制作担当:森川潤子／音楽:井内啓二／編集スタジオ:IMAGICA
+  Lab.／クリエイティブプロデューサー:福留　俊（コミックスマート）／チーフプロデューサー:岩澤朋也（IMAGICA Lab.）／アニメーションプロデューサー:加納秀紀（IMAGICA
+  Lab.）／制作担当:小林弘明（新潟アニメーション）／アニメーション協力:新潟アニメーション"
+produced_year: "[製作年]<br>2018年"
+copyright: "©斐宮ふみ／COMICSMART INC."
+related_seasons: !ruby/array:Hashie::Array []
