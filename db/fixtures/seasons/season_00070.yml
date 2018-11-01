@@ -1,6 +1,6 @@
 --- !ruby/hash:SeasonHash
 title: アマガミSS+ plus
-watchable: true
+watchable: false
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/44/8/20448_1_6.png?1445417946000
 outline: TVアニメ｢アマガミSS+ plus｣は第1期｢アマガミSS｣と同じくヒロインごとにストーリーを展開するオムニバス形式！前作よりもヒロインたちとより甘く、より深い関係を描きます！
 tags: !ruby/array:Hashie::Array
