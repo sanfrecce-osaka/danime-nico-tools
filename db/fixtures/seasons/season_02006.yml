@@ -21,10 +21,10 @@ tags: !ruby/array:Hashie::Array
   name: 加藤将之
   type: cast
 - !ruby/hash:TagHash
-  name: 原田彩楓
+  name: 白石晴香
   type: cast
 - !ruby/hash:TagHash
-  name: 白石晴香
+  name: 原田彩楓
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：動画工房

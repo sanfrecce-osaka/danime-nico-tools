@@ -25,10 +25,10 @@ tags: !ruby/array:Hashie::Array
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬
