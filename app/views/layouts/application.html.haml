@@ -16,4 +16,5 @@
         - flash.each do |type, msg|
           %div{class: "alert alert-#{type}"}
             = msg
-        = yield
+        .col-11
+          = yield
