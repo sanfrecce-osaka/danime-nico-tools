@@ -1,28 +1,25 @@
-.wrapper
-  .contents__header.mb-2
-    %h2 当サイトについて
-    %p danime-nico-toolsはdアニメストア ニコニコ支店の利用を便利にする（かもしれない）サイトです。
-    %p 各作品・動画のデータはdアニメストア 本店及びニコニコ支店から取得しています。
-    %p ※当サイトの運営は個人で行っており、dアニメストア及びニコニコの公式のサイトではありません。
-
-  .contents__body
-    %ul.capability-items
-      %li.capability-item
-        .capability-item__header
-          %h3 できること
-        %ul.list-group.capability-item__body
-          %li.list-group-item.text-main 作品のキーワードでの検索
-          %li.list-group-item.text-main 各話のキーワードでの検索
-      %li.capability-item
-        .capability-item__header
-          %h3 できないこと（今後実装予定）
-        %ul.list-group.capability-item__body
-          %li.list-group-item.text-main 作品のジャンルでの検索
-          %li.list-group-item.text-main 作品のタグでの検索
-          %li.list-group-item.text-main 各話のタグでの検索
-          %li.list-group-item.text-main Chrome拡張danime-another-commentとの連携
-      %li.capability-item
-        .capability-item__header
-          %h3 できないこと（今の所実装予定なし）
-        %ul.list-group.capability-item__body
-          %li.list-group-item.text-main 作品の50音での検索
+%section.seasons
+  .seasons__title-container
+    %h2.seasons__title 作品リスト
+  = render 'seasons/seasons', seasons: @seasons
+%section.episodes
+  .episodes__title-container
+    %h2.episodes__title 動画リスト
+  = render 'episodes/episodes', episodes: @episodes
+%section.seasons
+  .seasons__title-container
+    %h2.seasons__title 新着作品
+    %p
+      毎日
+      %strong AM4時頃
+      更新
+  = render 'seasons/seasons', seasons: @new_seasons
+%section.episodes
+  .episodes__title-container
+    %h2.episodes__title 新着動画
+    %p
+      毎日
+      %strong AM4時頃
+      更新
+  = render 'episodes/episodes', episodes: @new_episodes
+= render 'about'
