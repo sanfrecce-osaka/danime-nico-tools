@@ -1,0 +1,68 @@
+.episodes
+  +wrapper
+
+  &__title-container
+    display: flex
+    align-items: center
+    justify-content: flex-start
+    margin-bottom: 10px
+
+  &__title
+    padding-right: 10px
+    margin-bottom: 0
+
+  &-items
+    display: flex
+    justify-content: flex-start
+    flex-wrap: wrap
+    padding-left: 0
+
+    .episodes-item
+      padding: 0
+
+      &.list-group-item:last-child
+        margin-bottom: 10px
+
+      &__link
+        display: block
+        padding: 5px
+
+        &:hover
+          text-decoration: none
+
+          .episodes-item__thumbnail
+            opacity: 0.5
+
+          .episodes-item__title
+            text-decoration: underline
+
+      &__thumbnail
+        +thumbnail-container
+
+        img
+          +thumbnail-image
+
+      &__title-container
+        display: flex
+        justify-content: space-between
+        padding: 10px 5px 0
+
+      &__title
+        +clamp
+        padding-right: 10px
+
+      &__icon-container
+        display: flex
+        flex-direction: column
+        justify-content: center
+        align-items: center
+
+      &__icon
+        font-size: 1.6em
+
+      &__icon-label
+        font-size: 0.8rem
+
+      &__buttons
+        display: flex
+        justify-content: center
