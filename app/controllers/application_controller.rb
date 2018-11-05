@@ -10,7 +10,7 @@ class ApplicationController < ActionController::Base
 
   def search_params
     if params[:form_search].present?
-      params.require(:form_search).permit(:keywords)
+      params.require(:form_search).permit(:keywords, :category_type)
     else
       {}
     end
