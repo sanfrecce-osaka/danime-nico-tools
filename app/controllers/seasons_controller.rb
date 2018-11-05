@@ -2,12 +2,7 @@
 
 class SeasonsController < ApplicationController
   def index
-    @seasons =
-      if @search_form.keywords.present?
-        Season.search_by(@search_form).order(:title).page(page_params).per(10)
-      else
-        Season.random(10)
-      end
+    @seasons = Season.where(watchable: true).order(:title).page(page_params).per(20)
   end
 
   def show
