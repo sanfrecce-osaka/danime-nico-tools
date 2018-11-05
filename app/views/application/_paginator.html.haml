@@ -1,5 +1,5 @@
 - if resources.total_pages > 1
-  = paginate resources, total_count: resources.total_count
+  = paginate resources, total_count: resources.total_count, param_name: param_name
 - else
   .paginator
     .paginator__total-count

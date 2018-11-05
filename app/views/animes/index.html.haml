@@ -1,35 +1,30 @@
-.contents__header.with-search-field
-  %h2 検索
-  = render 'search_form', search_form: @search_form, path: animes_path
-.contents__body
-  %ul.target-items
-    %li.target-item
-      .target-item__header
-        - if @search_form.keywords.present?
-          %h3 作品の検索結果
+- if @search_form.keywords.present?
+  %section.search-results
+    %h2.search-results__title 検索結果
+    - if @search_form.category.include_season?
+      %section.seasons
+        - if @seasons.present?
+          .seasons__title-container
+            %h2.seasons__title 作品の検索結果
+          = render 'application/paginator', resources: @seasons, param_name: 'season_page'
+          = render 'seasons/seasons', seasons: @seasons
+          = render 'application/paginator', resources: @seasons, param_name: 'season_page'
         - else
-          %h3 作品一覧
-      %ul.list-group.target-item__body
-        - @seasons.each do |season|
-          = render 'seasons/season', season: season
-        %li.list-group-item.list-group-item-action
-          = link_to 'もっと作品を探す', [:seasons, form_search: { keywords: @search_form.keywords }]
-    %li.target-item
-      .target-item__header
-        - if @search_form.keywords.present?
-          %h3 動画の検索結果
+          %p 該当する作品はありませんでした。
+    - if @search_form.category.include_episode?
+      %section.episodes
+        - if @episodes.present?
+          .episodes__title-container
+            %h2.episodes__title 動画の検索結果
+          = render 'application/paginator', resources: @episodes, param_name: 'episode_page'
+          = render 'episodes/episodes', episodes: @episodes
+          = render 'application/paginator', resources: @episodes, param_name: 'episode_page'
         - else
-          %h3 動画一覧
-      %ul.list-group.target-item__body
-        %li.list-group-item
-          %ul.video-items
-            - @episodes.each do |episode|
-              %li.card.video-item
-                = link_to episode.nico_url, class: 'video-item__link-to-video' do
-                  .video-item__thumbnail
-                    = image_tag episode.thumbnail_url, alt: 'Card image cap'
-                  %h4.video-item__title
-                    = "#{episode.season.title}　#{episode.number_in_season}"
-                = link_to '詳細', episode, class: 'video-item__link-to-detail'
-        %li.list-group-item.list-group-item-action
-          = link_to 'もっと動画を探す', [:episodes, form_search: { keywords: @search_form.keywords }]
+          %p 該当する動画はありませんでした。
+%section.condition-search
+  %h2.condition-search__title 条件で探す
+  %section.lists
+    %h3.lists__title 一覧から探す
+    %ul.list-group.lists-items
+      %li.list-group-item.list-group-item-action.lists-item
+        = link_to '作品一覧', :seasons, class: 'lists-item__link'
