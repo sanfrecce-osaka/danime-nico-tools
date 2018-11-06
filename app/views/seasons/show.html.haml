@@ -1,44 +1,42 @@
-.contents__header
-  .wrapper
-    %h2
+.season
+  %section.season-title
+    %h2.season-title-container
       .season-title__image
-        = image_tag @season.thumbnail_url, alt: 'Card image cap'
-      .season-title__text
-        = @season.title
-.contents__body
-  .wrapper
+        = image_tag @season.thumbnail_url, alt: @season.title
+      .season-title__title
+        %p
+          = @season.title
+  %section.season-outline
     %h3 あらすじ
     %p
       = @season.outline
-  .wrapper
+  %section.season-episodes
     %h3 動画一覧
     = render 'paginator', resources: @episodes
-    %ul.list-group
-      - @episodes.each do |episode|
-        = render 'episodes/episode', episode: episode, with_season_title: false
+    = render 'seasons/episodes', episodes: @episodes
     = render 'paginator', resources: @episodes
-  .wrapper
+  %section.season-staff
     - if @season.cast.present? || @season.staff.present? || @season.produced_year.present? || @season.copyright.present?
-      %h3.mb-2 キャスト・スタッフ
-      %ul.pl-0
+      %h3.season-staff__title キャスト・スタッフ
+      %ul.season-staff-items
         - if @season.cast.present?
-          %li.mb-3
-            %h4.h6.mb-0
+          %li.season-staff-item
+            %h4.season-staff-item__title
               = @season.cast.split('<br>').first
-            %p
+            %p.season-staff-item__cast
               = @season.cast.split('<br>').last
         - if @season.staff.present?
-          %li.mb-3
-            %h4.h6.mb-0
+          %li.season-staff-item
+            %h4.season-staff-item__title
               = @season.staff.split('<br>').first
-            %p
+            %p.season-staff-item__staff
               = @season.staff.split('<br>').last
         - if @season.produced_year.present?
-          %li.mb-3
-            %h4.h6.mb-0 [製作年]
-            %p
+          %li.season-staff-item
+            %h4.season-staff-item__title [製作年]
+            %p.season-staff-item__produced-year
               = "#{@season.produced_year}年"
         - if @season.copyright.present?
-          %li.mb-3
-            %p
+          %li.season-staff-item
+            %p.season-staff-item__copyright
               = @season.copyright
