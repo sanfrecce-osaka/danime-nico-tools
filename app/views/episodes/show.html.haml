@@ -1,20 +1,23 @@
-.contents__header
-  .wrapper
-    %h2
-      .episode-title__image
-        = image_tag @episode.thumbnail_url, alt: 'Card image cap'
-      .episode-title__text
+.episode
+  %h2.episode-title
+    .col-2.pl-0
+      .episode-title__thumbnail
+        = image_tag @episode.thumbnail_url, alt: @episode.full_title(true), class: 'episode-title__image'
+    .col-10.pl-0
+      .episode-title__title
         = "#{@episode.season.title}　#{@episode.displayed_number_in_season}　#{@episode.title}"
-.contents__body
-  .wrapper
-    %h3 動画詳細
-    %p
+  %section.episode-description
+    %h3.episode-description__title 動画詳細
+    %p.episode-description__body
       = simple_format(description_with_converted_link(@episode))
-  .wrapper
-    .buttons
-      = link_to @episode.nico_url, class: 'btn primary-btn btn-block' do
-        .fas.fa-video
-        = '視聴する'
-      = link_to @episode.season, class: 'btn primary-btn btn-block' do
-        .fas.fa-arrow-circle-left
-        = '作品ページ'
+    %ul.episode-button-items
+      .col-6.pl-0
+        %li.episode-button-item
+          = link_to @episode.nico_url, class: 'btn primary-btn btn-block', target: '_blank' do
+            .fas.fa-video
+            = '視聴する'
+      .col-6.pr-0
+        %li.episode-button-item
+          = link_to @episode.season, class: 'btn primary-btn btn-block' do
+            .fas.fa-arrow-circle-left
+            = '作品ページ'
