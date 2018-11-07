@@ -5,7 +5,7 @@
       %section.seasons
         - if @seasons.present?
           .seasons__title-container
-            %h2.seasons__title 作品の検索結果
+            %h3.seasons__title 作品の検索結果
           = render 'application/paginator', resources: @seasons, param_name: 'season_page'
           = render 'seasons/seasons', seasons: @seasons
           = render 'application/paginator', resources: @seasons, param_name: 'season_page'
@@ -15,7 +15,7 @@
       %section.episodes
         - if @episodes.present?
           .episodes__title-container
-            %h2.episodes__title 動画の検索結果
+            %h3.episodes__title 動画の検索結果
           = render 'application/paginator', resources: @episodes, param_name: 'episode_page'
           = render 'episodes/episodes', episodes: @episodes
           = render 'application/paginator', resources: @episodes, param_name: 'episode_page'
