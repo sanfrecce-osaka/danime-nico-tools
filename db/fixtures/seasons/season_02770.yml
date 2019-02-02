@@ -1,0 +1,77 @@
+--- !ruby/hash:SeasonHash
+title: BanG Dream! 3rd Season
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/17/7/23177_1_8_8b.png?1577151042000
+outline: ポピパ主催ライブから4ヶ月。楽しい夏休みを経て、季節は秋。蔵練、バイト、生徒会――いつもの日々を過ごす香澄たちPoppin'Partyは、ライブハウスGalaxy
+  で、あるポスターを見つける。一方、運命のバンドメンバーを探す六花の元に、一通の招待状が届いて……再びはじまるキラキラドキドキなステージ！みんなと一緒なら、どんな夢だって撃ち抜ける！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤彩沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 相羽あいな
+  type: cast
+- !ruby/hash:TagHash
+  name: 西本りみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚紗英
+  type: cast
+- !ruby/hash:TagHash
+  name: 前島亜美
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：柿本広大
+  type: staff
+- !ruby/hash:TagHash
+  name: BanG Dream!シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#01"
+  title: 最高の夢――ですよね！
+  description: ポピパ主催ライブから４ヶ月。楽しい夏休みを経て、季節は秋。蔵練、バイト、生徒会ーーいつもの日々を過ごす香澄たちがGalaxyで見つけたものとは？<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project
+  length_seconds: 1420
+  content_id: so36290393
+  default_thread_id: 1580261943
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36290393/36290393.48162048
+cast: "[キャスト]<br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか"
+staff: "[スタッフ]<br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©BanG Dream! Project"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BanG Dream!
+- !ruby/hash:SeasonHash
+  title: BanG Dream! 2nd Season
+- !ruby/hash:SeasonHash
+  title: BanG Dream! ガルパ☆ピコ

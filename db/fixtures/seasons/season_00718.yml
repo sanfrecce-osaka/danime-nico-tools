@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 劇場版スラムダンク
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/05/3/11053_1_6.png?1427216400000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/05/3/11053_1_8_8b.png?1579231807000
 outline: 強豪・武園高校との練習試合に意気込んで望んだ湘北バスケ部。だが武園は女生徒が7割を占める学校で、その黄色い声援もプレッシャーの一つ。そんな中、桜木花道は中学時代にフラれた島村葉子と出会う。彼女は武園のエースセンター・小田竜政を慕って武園に来ていたのだった。その小田から、中学時代に遊んでいたおまえにバスケをやる資格はない、とののしられた花道は、試合が始まっても小田の前で無様な姿を晒すだけだった。だが、晴子の声援ですべてが変わる。「桜木君、ガンバッテ！」とたんに動きが良くなる花道。花道をナメていた小田をはじめとする武園のメンバーも俄然、熱くなっていく。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -41,19 +41,25 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1990年代
   type: other
 - !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+- !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
   name: メガネ
   type: other
 - !ruby/hash:TagHash
   name: 少年ジャンプ
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1994年
+  name: 赤髪
   type: other
 - !ruby/hash:TagHash
   name: ゴリラ
-  type: other
-- !ruby/hash:TagHash
-  name: 赤髪
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -68,7 +74,7 @@ episodes: !ruby/array:Hashie::Array
 cast: "[キャスト]<br>桜木花道:草尾毅／赤木晴子:平松晶子／赤木剛憲:梁田清之／流川楓:緑川光"
 staff: "[スタッフ]<br>原作:井上雄彦／監督:西沢信孝／脚本:菅良幸／音楽:増田隆宜"
 produced_year: "[製作年]<br>1994年"
-copyright: "(C)井上雄彦・アイティープランニング・東映アニメーション"
+copyright: "©井上雄彦・アイティープランニング・東映アニメーション"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: スラムダンク

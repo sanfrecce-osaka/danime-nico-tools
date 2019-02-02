@@ -1,0 +1,69 @@
+--- !ruby/hash:SeasonHash
+title: わすれなぐも
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/58/7/11587_1_8_8b.png?1579489255000
+outline: かつて上代に手練れの陰陽師が大蜘蛛を封印したと言われる一冊の本。それを入手した古書店の硯とビルのオーナーの孫娘・瑞紀の前に、身の丈20センチほどの小さな娘蜘蛛が現れた。寂しげに母を求める娘蜘蛛のいたいけな姿に、硯は自分の師匠からヒントをもらって、あるべき場所へ物の怪を返そうと試みる。だが行動をともにする瑞紀からは、硯はすでに娘蜘蛛に取りつかれたようにしか見えなかった……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 下田麻美
+  type: cast
+- !ruby/hash:TagHash
+  name: 土田大
+  type: cast
+- !ruby/hash:TagHash
+  name: 星野充昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：海谷敏久
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：杉林恭雄
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高橋英樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: わすれなぐも
+  description: かつて上代に手練れの陰陽師が大蜘蛛を封印したと言われる一冊の本。それを入手した古書店の硯とビルのオーナーの孫娘・瑞紀の前に、身の丈20センチほどの小さな娘蜘蛛が現れた。寂しげに母を求める娘蜘蛛のいたいけな姿に、硯は自分の師匠からヒントをもらって、あるべき場所へ物の怪を返そうと試みる。だが行動をともにする瑞紀からは、硯はすでに娘蜘蛛に取りつかれたようにしか見えなかった……。<br><br>硯
+    周:土田 大／辺見 瑞紀:下田 麻美／娘蜘蛛:金田 朋子／月吠庵:星野 充昭<br><br>監督・原案:海谷 敏久／脚本:谷村 大四郎／キャラクターデザイン・作画監督:高橋
+    英樹／作画監督補佐:山田 勝哉／中堅原画:山田 誠、秋山 一則、瀬口 泉／若手原画:津坂 美織、竹中 真吾、中山 知世、春日 広子、村山 章子、荒木 涼／動画検査:古林
+    美里／美術監督:岩熊 茜（小倉工房）／色彩設計:渡辺 陽子／撮影監督:古川 文男／音響監督:小泉 紀介（神南スタジオ）／音楽:杉林 恭雄／編集:植松 淳一／プロデューサー:寺川
+    英和／制作担当:岩瀬 隆文／制作進行:須之内 佑典<br><br>©海谷敏久／Production I.G／文化庁 H23アニメミライ
+  length_seconds: 1499
+  content_id: so36268361
+  default_thread_id: 1579840148
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36268361/36268361.70596790
+cast: "[キャスト]<br>硯 周:土田 大／辺見 瑞紀:下田 麻美／娘蜘蛛:金田 朋子／月吠庵:星野 充昭"
+staff: "[スタッフ]<br>監督・原案:海谷 敏久／脚本:谷村 大四郎／キャラクターデザイン・作画監督:高橋 英樹／作画監督補佐:山田 勝哉／中堅原画:山田
+  誠、秋山 一則、瀬口 泉／若手原画:津坂 美織、竹中 真吾、中山 知世、春日 広子、村山 章子、荒木 涼／動画検査:古林 美里／美術監督:岩熊 茜（小倉工房）／色彩設計:渡辺
+  陽子／撮影監督:古川 文男／音響監督:小泉 紀介（神南スタジオ）／音楽:杉林 恭雄／編集:植松 淳一／プロデューサー:寺川 英和／制作担当:岩瀬 隆文／制作進行:須之内
+  佑典"
+produced_year: "[製作年]<br>2012年"
+copyright: "©海谷敏久／Production I.G／文化庁 H23アニメミライ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: たんすわらし。

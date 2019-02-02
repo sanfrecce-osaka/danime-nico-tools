@@ -34,10 +34,10 @@ tags: !ruby/array:Hashie::Array
   name: 安済知佳
   type: cast
 - !ruby/hash:TagHash
-  name: 朝井彩加
+  name: 大空直美
   type: cast
 - !ruby/hash:TagHash
-  name: 大空直美
+  name: 朝井彩加
   type: cast
 - !ruby/hash:TagHash
   name: 篠原侑

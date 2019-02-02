@@ -23,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 雨宮天
   type: cast
 - !ruby/hash:TagHash
+  name: アニメーション制作：ファンワークス
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：ラレコ
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：イマジニア株式会社
-  type: staff
-- !ruby/hash:TagHash
-  name: アニメーション制作：ファンワークス
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：PlanetCartoon

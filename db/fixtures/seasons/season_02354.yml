@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
   name: 緑川光
@@ -41,7 +41,7 @@ tags: !ruby/array:Hashie::Array
   name: 石川界人
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：加藤達也

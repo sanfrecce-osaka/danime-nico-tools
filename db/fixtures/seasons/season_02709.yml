@@ -32,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
-  name: 遠藤綾
-  type: cast
-- !ruby/hash:TagHash
   name: 飛田展男
   type: cast
 - !ruby/hash:TagHash
   name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash
   name: 上田燿司

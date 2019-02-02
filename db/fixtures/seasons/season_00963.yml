@@ -1,17 +1,23 @@
 --- !ruby/hash:SeasonHash
 title: 劇場版 デジモンアドベンチャー
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/9/20419_1_6.png?1444268750000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/41/9/20419_1_8_8b.png?1551423412000
 outline: 真夜中のパソコン画面から奇妙な生物・ボタモンが生まれる。不安がる太一をよそに、大喜びの妹・ヒカリ。やがて、ボタモンは“コロモン”、“アグモン”へと進化する！そんな時、デジタルモンスターたちの住んでいるデジタルワールドが出現する。そこへ怪鳥型モンスターがアグモン目掛けて突進してくる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 坂本千夏
-  type: cast
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
   name: 藤田淑子
   type: cast
 - !ruby/hash:TagHash
-  name: 荒木香恵
+  name: 坂本千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒木香衣
   type: cast
 - !ruby/hash:TagHash
   name: 脚本：吉田玲子
@@ -29,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1990年代
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：1999年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：1999年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: デジモンシリーズ
@@ -55,9 +61,9 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: デジモンアドベンチャー
 - !ruby/hash:SeasonHash
-  title: デジモンアドベンチャー02
-- !ruby/hash:SeasonHash
   title: デジモンアドベンチャー　ぼくらのウォーゲーム
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02
 - !ruby/hash:SeasonHash
   title: デジモンアドベンチャー02 前編 デジモンハリケーン上陸！！ 後編 超絶進化！！黄金のデジメンタル
 - !ruby/hash:SeasonHash
@@ -68,7 +74,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: デジモンテイマーズ 暴走デジモン特急
 - !ruby/hash:SeasonHash
   title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
-- !ruby/hash:SeasonHash
-  title: デジモンユニバース アプリモンスターズ
 - !ruby/hash:SeasonHash
   title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～
