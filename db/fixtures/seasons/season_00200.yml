@@ -53,10 +53,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2008年
   type: other
 - !ruby/hash:TagHash
-  name: 高桑一
+  name: 旅に出たくなる
   type: other
 - !ruby/hash:TagHash
   name: 神南スタジオ
+  type: other
+- !ruby/hash:TagHash
+  name: 高桑一
   type: other
 - !ruby/hash:TagHash
   name: 塩澤良憲
@@ -66,9 +69,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 佐野ひとみ
-  type: other
-- !ruby/hash:TagHash
-  name: 清浦夏実
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -235,4 +235,4 @@ produced_year: "[製作年]<br>2008年"
 copyright: "(C)支倉凍砂/アスキー・メディアワークス/｢狼と香辛料｣製作委員会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: 狼と香辛料II
+  title: 狼と香辛料Ⅱ

@@ -20,6 +20,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
   name: 製作年：2004年
   type: other
 episodes: !ruby/array:Hashie::Array
@@ -40,4 +43,4 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: EX MACHINA-APPLESEED SAGA-
 - !ruby/hash:SeasonHash
-  title: アップルシードXIII
+  title: アップルシードⅩⅢ

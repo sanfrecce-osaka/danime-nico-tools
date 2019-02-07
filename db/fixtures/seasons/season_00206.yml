@@ -261,12 +261,122 @@ episodes: !ruby/array:Hashie::Array
   episode_no: "＃25"
   title: ウソつきクレイトン/サンタさんなんていない！？
   description: "＜ウソつきクレイトン＞学校のシャワーを浴びたくなかったガムボールたちは、それをごまかしてくれたウソの上手なクレイトンにつられ、ウソをつく癖がついてしまう。クレイトンの際限のないウソにみんな大混乱！？＜サンタさんなんていない！？＞クリスマスイブに、ワタソン家の車がはねてしまった男は記憶をなくしていた。ガムボールたちは男の正体はサンタさんだと確信し、彼の記憶を取り戻させようとするが・・・。<br><br>TM
-    &amp; © 2018 Cartoon Network.<br><br>so33963159←前話　第一話→so32588496"
+    &amp; © 2018 Cartoon Network.<br><br>so33963159←前話｜次話→so34111775　第一話→so32588496"
   length_seconds: 1470
   content_id: so33963158
   default_thread_id: 1538616543
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=33963158
+- !ruby/hash:EpisodeHash
+  episode_no: "＃26"
+  title: 家宝の時計を取り返せ！/ボバートの24時間ゲーム
+  description: "＜家宝の時計を取り返せ！＞パパからガムボールに手渡されたのは昔からワタソン家とフィンクルハイマー家が奪い合ってきたいわくつきの時計。ダーウィンはそれをこともあろうにマーヴィン・フィンクルハイマーに渡してしまい・・・。＜ボバートの24時間ゲーム＞負けたら２４時間勝った方の召使いになるゲームでスーパーロボットのボバートに勝ったガムボールは自由にハイテクロボを操れることになったと有頂天になり・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so33963158←前話｜次話→so34111789　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34111775
+  default_thread_id: 1541121425
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34111775
+- !ruby/hash:EpisodeHash
+  episode_no: "＃27"
+  title: 最高に幸せになる方法/裏切りっこなし！
+  description: "＜最高に幸せになる方法＞テレビも知らない素朴な生活をおくる少年アイダホは、ワタソン家で食べなれないジャンクフードを食べて騒いだせいで、具合が悪くなる。あわてた一家はアイダホを彼の実家に連れ帰るが・・・。＜裏切りっこなし！＞ママが仕事で留守の間、ガムボールたちは歯科医の麻酔の副作用で夢見心地のパパの世話と家事を任された。ところが３人がもめている間に、パパは町中で騒動を起こしていて・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so34111775←前話｜次話→so34263943　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34111789
+  default_thread_id: 1541121789
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34111789
+- !ruby/hash:EpisodeHash
+  episode_no: "＃28"
+  title: いい母親はどっち!?/ウイルスの攻撃に気をつけろ！
+  description: "＜いい母親はどっち！？＞パパがケガをして病院に運ばれ、パパの母親ジョジョおばあちゃんは、パパのケガはママの監督不行き届きのせいだと言い出し、家族の安全をはかるためにと様々な対策をしだすが・・・。＜ウイルスの攻撃に気をつけろ！＞ウイルスたちがガムボールをむしばもうとしていた寸前、テリに無理やりガムボールが手を洗わせたために仲間を失う。怒ったウイルスは復讐を誓い、突然変異して・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so34111789←前話｜次話→so34263960　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34263943
+  default_thread_id: 1543798869
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34263943
+- !ruby/hash:EpisodeHash
+  episode_no: "＃29"
+  title: アナイスとの約束/カンペキすぎる愛！？
+  description: "＜アナイスとの約束＞アナイスと、ポニーの映画を一緒に見ようと約束したガムボールとダーウィン。駄作だったがアナイスを悲しませたくなく、ＤＶＤを借りて家路を急ぐ。しかし途中で次々と邪魔が入ってしまい・・・。＜カンペキすぎる愛！？＞カルメンはアランとの恋愛のマンネリ化を打破しようと、ガムボールを使って嫉妬させようとするが、浮気を本気にしたアランはカルメンの元を去ってしまい・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so34263943←前話｜次話→so34263974　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34263960
+  default_thread_id: 1543799584
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34263960
+- !ruby/hash:EpisodeHash
+  episode_no: "＃30"
+  title: 悪夢のゆくえ/ボスはどっち！？
+  description: "＜悪夢のゆくえ＞ダーウィンがペニーとキスする夢を見て以来、ガムボールはダーウィンのことが許せない。アナイスの助言もあって、２人は原因となった夢の中に入っていき・・・。＜ボスはどっち！？＞ガムボールや周りの仲間から「サイドキック」として見られていることに納得がいかないダーウィン。ガムボールにこき使われることに嫌気がさしたダーウィンは「リーダーは自分だ」と言い出し・・・。<br><br>TM
+    &amp; © 2018 Cartoon Network.<br><br>so34263960←前話｜次話→so34386959　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34263974
+  default_thread_id: 1543799586
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34263974
+- !ruby/hash:EpisodeHash
+  episode_no: "＃31"
+  title: パパはヒーロー！？/かっこいい写真大作戦
+  description: "＜パパはヒーロー！？＞子どもたちが公園で自分のパパ自慢をしているが、ガムボールたちはパパが恥ずかしくて自慢できない。それを知ったパパは、ショックを受けて引きこもってしまい・・・。／＜かっこいい写真大作戦＞学校アルバム用の個人写真の撮影が始まった。どうしてもいいショットが撮れないガムボールは、写真写りのいいアランに嫉妬する。ダーウィンの協力で納得のいく顔を作れるようになったが・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34263974←前話｜次話→so34386967　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34386959
+  default_thread_id: 1545959345
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386959.77525
+- !ruby/hash:EpisodeHash
+  episode_no: "＃32"
+  title: 仲違いのゆくえ/ボクたち不良？
+  description: "＜仲違いのゆくえ＞ゴミ捨てを巡って派手なケンカを繰り広げた結果、警察に電子タグをつけられてしまったパパとＭｒ．ロビンソン。自宅から一歩でも外に出ると刑務所行きになるので、２人は外へ出ることが出来ず・・・。／＜ボクたち不良？＞算数のテストでカンニングして「居残り所」に収監されてしまったガムボールとダーウィン。２人は恐ろしいメンツばかりの居残り組の１人に目をつけられていまい・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34386959←前話｜次話→so34386966　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34386967
+  default_thread_id: 1545959347
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386967.25881
+- !ruby/hash:EpisodeHash
+  episode_no: "＃33"
+  title: ママ、限界をこえる！/命令ゲームを生きのこれ！
+  description: "＜ママ、限界をこえる！＞家族でスーパーにやってきたガムボール。子どもたちがどんなにお菓子がほしいと言ってもママは許してくれない。そこでパパが万引きという強硬手段に出て・・・。／＜命令ゲームを生きのこれ！＞部屋を整理していると、昔遊んでいた「命令ゲーム」が見つかる。つい家族で遊び始めてしまうが、一度始めると終わるまで恐ろしいことが起こり続けるというゲームで・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34386967←前話｜次話→so34386965　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34386966
+  default_thread_id: 1545959405
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386966.96481
+- !ruby/hash:EpisodeHash
+  episode_no: "＃34"
+  title: バナナ・ジョーとの約束/ナゾの宿敵
+  description: "＜バナナ・ジョーとの約束＞いじけているバナナジョーと遊ぶ約束をしたダーウィン。ところが、その週末は新しいゲームの発売日で、ガムボールとダーウィンは２人で遊ぶ約束をしていて・・・。／＜ナゾの宿敵＞ガムボールとダーウィンがネットで遊んでいると、「謝らなければひどい目に遭わせる」というコメントが入り、学校中の友達に謝る。しかし、コメントを書いた本人からの怒りを買ってしまい・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34386966←前話｜次話→so34386964　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34386965
+  default_thread_id: 1545959525
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386965.4629
+- !ruby/hash:EpisodeHash
+  episode_no: "＃35"
+  title: ジュークの言いたかったこと/ＮＯと言えないパパ
+  description: "＜ジュークの言いたかったこと＞発言を誰にも理解されないクラスメートのジューク。ジュークと意思疎通を取りたいガムボールとダーウィンは、彼が祖国で行われる儀式をやりたいと言っているのだと思い込んでしまい・・・。／＜ＮＯと言えないパパ＞今日は土曜日。ママが仕事でいない間に羽を伸ばすガムボールたち。ところが、パパが何も言わないことに目をつけた近所の人々が家にやってきて・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34386965←前話｜次話→so34577818　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34386964
+  default_thread_id: 1545959284
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386964.54487
+- !ruby/hash:EpisodeHash
+  episode_no: "＃36"
+  title: みんなのビデオ！/セーター野郎との決闘
+  description: "＜みんなのビデオ！＞ガムボールとダーウィンでホームビデオを撮影することに。家族やトバイアス、オチョなどを登場させ、ドキュメンタリー風のシーンやミュージカル風のシーンなどを撮影するが・・・。＜セーター野郎との決闘＞ある日、学校にアメコミ風のキザなキャラクター二人が登場し、ガムボールとダーウィンにケンカを売る。なんとか避けようとしたガムボールたちだが、結局は巻き込まれてしまい・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34386964←前話｜次話→so34577817　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34577818
+  default_thread_id: 1549242608
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577818.75736
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []

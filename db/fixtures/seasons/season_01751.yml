@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
-  name: 津嘉山正種
+  name: 山田康雄
   type: cast
 - !ruby/hash:TagHash
-  name: 山田康雄
+  name: 津嘉山正種
   type: cast
 - !ruby/hash:TagHash
   name: 幸田直子
@@ -62,7 +62,16 @@ tags: !ruby/array:Hashie::Array
   name: ルパン三世シリーズ
   type: other
 - !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: 愛すべき敵キャラ
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1989年
@@ -105,15 +114,13 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: ルパン三世 2nd series
 - !ruby/hash:SeasonHash
-  title: ルパン三世 PARTIII
+  title: ルパン三世 PARTⅢ
 - !ruby/hash:SeasonHash
   title: ルパン三世 PART4
 - !ruby/hash:SeasonHash
   title: ルパン三世 PART5
 - !ruby/hash:SeasonHash
   title: ルパン三世 ルパンVS複製人間
-- !ruby/hash:SeasonHash
-  title: ルパン三世　カリオストロの城
 - !ruby/hash:SeasonHash
   title: 'ルパン三世TVSP #02 ヘミングウェイ・ペーパーの謎'
 - !ruby/hash:SeasonHash
@@ -140,3 +147,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: 'ルパン三世TVSP #13 アルカトラズ コネクション'
 - !ruby/hash:SeasonHash
   title: 'ルパン三世TVSP #14 EPISODE：0 ファーストコンタクト'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #15 お宝返却大作戦!!'

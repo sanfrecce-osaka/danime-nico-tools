@@ -1,0 +1,122 @@
+--- !ruby/hash:SeasonHash
+title: BROTHERS CONFLICT
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/38/3/21383_1_6.png?1487055610000
+outline: 父親の再婚をきっかけに、朝日奈家で暮らすことになった女子高生・絵麻。東京、吉祥寺にあるマンション「サンライズ・レジデンス」で彼女を迎えたのは、たくさんの兄弟たちだった。「家族」として、兄弟たちと仲良くなりたいと願う絵麻。しかし、そんな想いとは裏腹に、兄弟たちは彼女への恋心を募らせていく。やがてそれは、彼女を奪い合う、兄弟たちの衝突へと発展して……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 諏訪部順一
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ブレインズ・ベース
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石井久美
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：松本淳
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ウダジョ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：水野隆志
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：叶瀬あつこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: ハーレム
+  type: other
+- !ruby/hash:TagHash
+  name: 高橋ナツコ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一衝突
+  title: 兄弟
+- !ruby/hash:EpisodeHash
+  episode_no: 第二衝突
+  title: 混乱
+- !ruby/hash:EpisodeHash
+  episode_no: 第三衝突
+  title: 約束
+- !ruby/hash:EpisodeHash
+  episode_no: 第四衝突
+  title: 嫉妬
+- !ruby/hash:EpisodeHash
+  episode_no: 第五衝突
+  title: 浸水
+- !ruby/hash:EpisodeHash
+  episode_no: 第六衝突
+  title: 写真
+- !ruby/hash:EpisodeHash
+  episode_no: 第七衝突
+  title: 限界
+- !ruby/hash:EpisodeHash
+  episode_no: 第八衝突
+  title: 悪夢
+- !ruby/hash:EpisodeHash
+  episode_no: 第九衝突
+  title: 夢幻
+- !ruby/hash:EpisodeHash
+  episode_no: 第十衝突
+  title: 彼岸
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一衝突
+  title: 愛憎
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二衝突
+  title: 恋愛
+cast: "[キャスト]<br>朝日奈絵麻:佐藤利奈／雅臣:興津和幸／右京:平川大輔／要:諏訪部順一／光:岡本信彦／椿:鈴村健一／梓:鳥海浩輔／棗:前野智昭／琉生:武内
+  健／昴:小野大輔／祈織:浪川大輔／侑介:細谷佳正／風斗:KENN／弥:梶 裕貴／ジュリ:神谷浩史"
+staff: "[スタッフ]<br>原作:ウダジョ・水野隆志（エム・ツー）・叶瀬あつこ／監督:松本淳／シリーズ構成:高橋ナツコ／キャラクターデザイン:石井久美／アニメーション制作:ブレインズ・ベース／製作:「ブラザーズ
+  コンフリクト」製作委員会／OP:Gero「BELOVED×SURVIVAL」／ED:ASAHINA Bros.+JULI「14 to 1」"
+produced_year: "[製作年]<br>2013年"
+copyright: "©ウダジョ／エム・ツー／アスキー・メディアワークス／ブラコン製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

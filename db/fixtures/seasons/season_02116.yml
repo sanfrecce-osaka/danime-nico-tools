@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: グリザイアの果実
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/50/9/11509_1_6.png?1436940390000
+outline: 私立美浜学園――。一見すると普通の学園だが、そこには『訳あり』の５人の学生しか在籍していない。その場所に、新たな６人目の学生――風見雄二――が転入することになった。個性と言うにはあまりにも異質な学生達と、彼女らに劣らぬほどのアクの強い自我を持った風見雄二。互いに触れあううちに理解を深め、少しずつ干渉しあうことで、それぞれの内面へと影響を与えていく。過去に囚われた彼女達の物語が今、動き出す――
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 田口宏子
+  type: cast
+- !ruby/hash:TagHash
+  name: たみやすともえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：Elements Garden
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：エイトビット
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：天衝
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：フロントウイング
+  type: staff
+- !ruby/hash:TagHash
+  name: グリザイアシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: ハーレム
+  type: other
+- !ruby/hash:TagHash
+  name: 二重人格
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:01
+  title: 普通の学園生活
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:02
+  title: スクールキラー由美子
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:03
+  title: 甘い食生活
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:04
+  title: 銀の弾丸で狙う場所
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:05
+  title: VOX IN BOX
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:06
+  title: レーゾン・デートル
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:07
+  title: 幸せの手紙
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:08
+  title: セカイ樹の種Ⅰ
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:09
+  title: セカイ樹の種Ⅱ
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:10
+  title: エンジェリック・ハゥルⅠ
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:11
+  title: エンジェリック・ハゥルⅡ
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:12
+  title: エンジェリック・ハゥルIII
+- !ruby/hash:EpisodeHash
+  episode_no: Episode:13
+  title: 射界10センチ
+cast: "[キャスト]<br>風見雄二:櫻井孝宏／榊 由美子:田中涼子／周防天音:田口宏子／松嶋みちる:水橋かおり／入巣蒔菜:たみやすともえ／小嶺 幸:清水 愛"
+staff: "[スタッフ]<br>原作:フロントウイング／監督:天衝／シリーズ構成:倉田英之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:越後光崇、桂
+  憲一郎／色彩設計:村上智美／撮影監督:熊澤祐哉／美術監督:井上一宏／美術設定:塩澤良憲／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:明田川 仁／音楽:Elements
+  Garden／アニメーション制作:エイトビット"
+produced_year: "[製作年]<br>2014年"
+copyright: "© Frontwing/Project GRISAIA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: グリザイアの迷宮
+- !ruby/hash:SeasonHash
+  title: グリザイアの楽園

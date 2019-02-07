@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
-  name: 石川界人
+  name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash
-  name: 遠藤綾
+  name: 石川界人
   type: cast
 - !ruby/hash:TagHash
   name: 江口拓也

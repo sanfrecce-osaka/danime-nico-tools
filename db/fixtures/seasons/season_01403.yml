@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：Production I.G
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：山田由香
+  name: 監督：多田俊介
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：多田俊介
+  name: 脚本：山田由香
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：松本圭太
@@ -96,8 +96,8 @@ produced_year: "[製作年]<br>2010年"
 copyright: "(C) 2010 Mizuki Nomura/PUBLISHED BY ENTERBRAIN, INC./“文学少女”製作委員会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: "“文学少女”メモワールIII 恋する乙女の狂想曲(ラプソディ)-"
+  title: "“文学少女” メモワールⅠ夢見る少女の前奏曲(プレリュード)-"
 - !ruby/hash:SeasonHash
-  title: "“文学少女”メモワールII ソラ舞う天使の鎮魂曲(レクイエム)-"
+  title: "“文学少女”メモワールⅡソラ舞う天使の鎮魂曲(レクイエム)-"
 - !ruby/hash:SeasonHash
-  title: "“文学少女” メモワールI 夢見る少女の前奏曲(プレリュード)-"
+  title: "“文学少女”メモワールⅢ恋する乙女の狂想曲(ラプソディ)-"

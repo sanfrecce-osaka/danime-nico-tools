@@ -1,6 +1,6 @@
 --- !ruby/hash:SeasonHash
 title: RAVE
-watchable: true
+watchable: false
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/30/7/21307_1_6.png?1481513532000
 outline: ハルはガラージュ島に住む優しく正義感の強い少年だ。世界では、魔石ダークブリングを持つ集団“デーモンカード”が勢力を伸ばしつつあったが、彼の住む島にまではまだその魔手は届かず、平和な日々を過ごしていた。そんなある日、ハルはひょんなことから聖石レイヴの２代目マスターとなる。
 tags: !ruby/array:Hashie::Array

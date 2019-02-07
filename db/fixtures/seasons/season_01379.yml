@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林沙苗
   type: cast
 - !ruby/hash:TagHash
-  name: 浅川悠
+  name: 伊藤美紀
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤美紀
+  name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
   name: 清水香里
@@ -56,6 +56,9 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：須賀重行
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：上遠野浩平
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：The Art Of Club Music For B.P.
   type: staff
 - !ruby/hash:TagHash
@@ -63,9 +66,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：野尻靖之
-  type: staff
-- !ruby/hash:TagHash
-  name: 原作：上遠野浩平
   type: staff
 - !ruby/hash:TagHash
   name: 製作：プロジェクト・ブギーポップ
@@ -77,16 +77,19 @@ tags: !ruby/array:Hashie::Array
   name: 電撃
   type: other
 - !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
   name: 実写化・舞台化
   type: other
 - !ruby/hash:TagHash
   name: 鶴岡陽太
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2000年
+  name: 楽音舎
   type: other
 - !ruby/hash:TagHash
-  name: 楽音舎
+  name: 製作年：2000年
   type: other
 - !ruby/hash:TagHash
   name: メディアワークス
@@ -96,9 +99,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 平間由香
-  type: other
-- !ruby/hash:TagHash
-  name: 安津畑隆
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -277,4 +277,6 @@ staff: "[スタッフ]<br>原作:上遠野浩平（アスキー・メディア�
   シカオ(キティエンタープライズ)／エンディングテーマ:｢未来世紀(秘)クラブ｣杏子(ポリドール)／音楽:｢The Art Of Club Music For B.P.｣オリジナル・サウンドトラック(メディアワークス)／企画・制作、製作・著作:プロジェクト・ブギーポップ"
 produced_year: "[製作年]<br>2000年"
 copyright: "（C）上遠野浩平/アスキー・メディアワークス、プロジェクト・ブギーポップ"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ブギーポップは笑わない

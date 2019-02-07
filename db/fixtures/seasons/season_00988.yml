@@ -74,7 +74,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
+  name: 聖地巡礼
+  type: other
+- !ruby/hash:TagHash
   name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: ハーレム
   type: other
 - !ruby/hash:TagHash
   name: カドカワコミックス・エース
@@ -90,12 +96,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 明貴美加
-  type: other
-- !ruby/hash:TagHash
-  name: ファンタジア文庫
-  type: other
-- !ruby/hash:TagHash
-  name: 鈴木貴昭
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -279,4 +279,8 @@ produced_year: "[製作年]<br>2013年"
 copyright: "©2013 橘公司・つなこ／富士見書房／｢デート・ア・ライブ｣製作委員会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: デート・ア・ライブII
+  title: デート・ア・ライブⅡ
+- !ruby/hash:SeasonHash
+  title: デート・ア・ライブⅢ
+- !ruby/hash:SeasonHash
+  title: 劇場版デート・ア・ライブ 万由里ジャッジメント

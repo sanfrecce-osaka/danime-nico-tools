@@ -1,0 +1,97 @@
+--- !ruby/hash:SeasonHash
+title: バミューダトライアングル ～カラフル・パストラーレ～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/56/6/22566_1_6.png?1545786012000
+outline: 光り輝くスポットライト。キラキラふわふわ、かわいい衣装。笑顔輝くダンスに魅惑のチャームボイス。大都会のステージで、まばゆい光が照らすのは、水中を自由自在に泳ぎ踊る“マーメイドアイドル”★　★　★そんな大都会から遠く離れた、のどかなパーレル村に集った少女たち。自分たちが将来そんなきらめく姿になるとは想像もしていない彼女らは、今日食べるおやつのケーキ一つで大騒ぎ。そんな、毎日に一生簡明なマーメイドたちの賑やかな日々のものがたり。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 武田羅梨沙多胡
+  type: cast
+- !ruby/hash:TagHash
+  name: 平栗萌香
+  type: cast
+- !ruby/hash:TagHash
+  name: 紡木吏佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠野ひかる
+  type: cast
+- !ruby/hash:TagHash
+  name: 進藤あまね
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：西村純二
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：セブン・アークス・ピクチャーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：橋本貴吉
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: パーレルへようこそ
+  description: のどかなパーレル村で日々を過ごすソナタ、フィナ、セレナ、キャロ、ポコの4人と1匹。ある日、アザラシ郵便で首長・アルディ宛に届けられたのは、カノンだった。<br><br>ソナタ:武田羅梨沙多胡／カノン:平栗萌香／フィナ:紡木吏佐／セレナ:遠野ひかる／キャロ:進藤あまね／アルディ:日髙のり子／フェルマ:井上喜久子　ほか<br><br>原作:ブシロード／キャラクター原案:藤真拓哉／監督:西村純二／シリーズ構成:横手美智子／キャラクターデザイン:橋本貴吉／アニメーション制作:セブン・アークス・ピクチャーズ<br><br>©CP△<br><br>次話→so34456723
+  length_seconds: 1420
+  content_id: so34386968
+  default_thread_id: 1545959285
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386968.53335
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: キネオーブがこんなに
+  description: 偶然発見した古びた映画館で、目の前に広がる映像に心を奪われる少女たち。アルディに立ち入りを禁止されてしまうが、映画館を諦めきれない5人は作戦を開始する。<br><br>ソナタ:武田羅梨沙多胡／カノン:平栗萌香／フィナ:紡木吏佐／セレナ:遠野ひかる／キャロ:進藤あまね／アルディ:日髙のり子／フェルマ:井上喜久子　ほか<br><br>原作:ブシロード／キャラクター原案:藤真拓哉／監督:西村純二／シリーズ構成:横手美智子／キャラクターデザイン:橋本貴吉／アニメーション制作:セブン・アークス・ピクチャーズ<br><br>©CP△<br><br>so34386968←前話｜次話→so34456724　第一話→so34386968
+  length_seconds: 1420
+  content_id: so34456723
+  default_thread_id: 1547170631
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34456723.35646
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ５人いっしょ
+  description: ボロボロの映画館の復興を目指す5人は、「みんなの心地良い場所」にしようと村中の意見を聞いてまわることに。だが集めた意見はとんでもない内容だった……<br><br>ソナタ:武田羅梨沙多胡／カノン:平栗萌香／フィナ:紡木吏佐／セレナ:遠野ひかる／キャロ:進藤あまね／アルディ:日髙のり子／フェルマ:井上喜久子　ほか<br><br>原作:ブシロード／キャラクター原案:藤真拓哉／監督:西村純二／シリーズ構成:横手美智子／キャラクターデザイン:橋本貴吉／アニメーション制作:セブン・アークス・ピクチャーズ<br><br>©CP△<br><br>so34456723←前話｜次話→so34506655　第一話→so34386968
+  length_seconds: 1420
+  content_id: so34456724
+  default_thread_id: 1547170627
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34456724.42633
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 大胆に思い切って
+  description: 映画の入ったキネオーブは見つかるが、再生されるのはお化け屋敷のような音声のみ。映写機の資料を求めて図書館に向かう途中、セレナはちびっこ3人組に遭遇する。<br><br>ソナタ:武田羅梨沙多胡／カノン:平栗萌香／フィナ:紡木吏佐／セレナ:遠野ひかる／キャロ:進藤あまね／アルディ:日髙のり子／フェルマ:井上喜久子　ほか<br><br>原作:ブシロード／キャラクター原案:藤真拓哉／監督:西村純二／シリーズ構成:横手美智子／キャラクターデザイン:橋本貴吉／アニメーション制作:セブン・アークス・ピクチャーズ<br><br>©CP△<br><br>so34456724←前話｜次話→so34545483　第一話→so34386968
+  length_seconds: 1420
+  content_id: so34506655
+  default_thread_id: 1548033423
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34506655.69107
+cast: "[キャスト]<br>ソナタ:武田羅梨沙多胡／カノン:平栗萌香／フィナ:紡木吏佐／セレナ:遠野ひかる／キャロ:進藤あまね／アルディ:日髙のり子／フェルマ:井上喜久子　ほか"
+staff: "[スタッフ]<br>原作:ブシロード／キャラクター原案:藤真拓哉／監督:西村純二／シリーズ構成:横手美智子／キャラクターデザイン:橋本貴吉／アニメーション制作:セブン・アークス・ピクチャーズ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©CP△"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: カードファイト!! ヴァンガード
+- !ruby/hash:SeasonHash
+  title: カードファイト!! ヴァンガード　アジアサーキット編

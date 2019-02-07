@@ -1,0 +1,156 @@
+--- !ruby/hash:SeasonHash
+title: SHOW BY ROCK!!しょ～と!!
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/97/0/20970_1_6.png?1467012648000
+outline: "「プラズマジカ」「シンガンクリムゾンズ」といったアニメ本編に登場したそれぞれのバンドの日常が垣間見れるオフショットエピソードが満載！？のゆる～く楽しい「SHOW
+  BY ROCK!!」スピンオフしょ～とストーリー。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 谷山紀章
+  type: cast
+- !ruby/hash:TagHash
+  name: 日高里菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高梨康治
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ボンズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サンリオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：池添隆博
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：永作友克
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大城 勝
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Funta7
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Rega Sound
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：SHOWBYROCK！！製作委員会
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
+- !ruby/hash:TagHash
+  name: 待田堂子
+  type: other
+- !ruby/hash:TagHash
+  name: 坂本久美子
+  type: other
+- !ruby/hash:TagHash
+  name: 倉橋静男
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: 解子のルルルルーム(プラズマジカ編)／打ち込め！俺達の紅蓮の炎を白球に込め(以下略)／解子のルルルルーム(クリティクリスタ編)／竹馬の友
+  description: 第1話：MIDICITYの超人気番組、白栖川解子（しろすがわときこ）の「解子のルルルルーム♡」にガールズバンド「プラズマジカ」のメンバーが初出演！はたしてどんなトークが展開されるのか？お楽しみに！／第2話：ミディシアンズ施設内で、くつろぐ「シンガンクリムゾンズ」のメンバー達。とあるキッカケから卓球勝負に！徐々に熱くなるメンバー達、果たして勝負の結果はいかに！！／第3話：MIDICITYの超人気番組、白栖川解子（しろすがわときこ）の「解子のルルルルーム♡」にＪＣアイドルバンド「クリティクリスタ」のメンバーが初出演！あざと学首席のロージアと解子のトークは成立するのか？お楽しみに！／第4話：「徒然なる操り霧幻庵」の結成秘話が遂に語られます。阿・吽たちの過去があれこれと・・・。<br><br>シアン:稲川英里／チュチュ:上坂すみれ／レトリー:沼倉愛美／モア:佐倉綾音／クロウ:谷山紀章／アイオーン:内山昻輝／ヤイバ:柿原徹也／ロム:細谷佳正／阿:早見沙織／吽:松井恵理子／ダル太夫:潘めぐみ／シュウ☆ゾー:宮野真守／リク:村瀬歩／カイ:逢坂良太／ロージア:日高里菜／ツキノ:茅野愛衣／ホルミー:五十嵐裕美／ジャクリン:村川梨衣／有栖川メイプル:うえだゆうじ<br><br>原作:サンリオ／監督:池添隆博／シリーズ構成（脚本）:待田堂子／キャラクターデザイン:大城
+    勝／サブキャラクター・プロップデザイン:ヒラタリョウ／コンセプト・メカデザイン:片貝文洋／メインアニメーター:永作友克／色彩設計:中尾総子／美術設定:小倉奈緒美／美術監督:熊野はつみ／撮影監督:神林
+    剛／編集:坂本久美子／音響監督:中嶋聡彦／音響効果:倉橋静男／音楽:高梨康治、Funta7、Rega Sound／音楽制作:ポニーキャニオン／アニメーション制作:ボンズ／製作:SHOWBYROCK!!製作委員会<br><br>©
+    2012,2016 SANRIO CO.,LTD.　SHOWBYROCK!! 製作委員会<br><br>次話→so34550712
+  length_seconds: 723
+  content_id: so34550711
+  default_thread_id: 1548813728
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34550711.88888
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第8話
+  title: 解子のルルルルーム☆(トライクロニカ編)／運命の出会い／解子のルルルルーム(シンガンクリムゾンズ編)／スパリゾートMIDIシアンズ CMメイキング
+  description: 第5話：MIDICITYの超人気番組、白栖川解子（しろすがわときこ）の「解子のルルルルーム♡」に、夢銀河アイドル「トライクロニカ」のメンバーが登場！今回3回目の出演となるシュウ☆ゾーくん＆解子さんの冴え渡るトークが展開される！？／第6話：「徒然なる操り霧幻庵」の結成秘話・続編！これまで語られる事の無かった、阿・吽たちと、ダル太夫の徒然なる出会いの真実が今、ここに明かされる！？／第7話：MIDICITYの超人気番組、白栖川解子（しろすがわときこ）の「解子のルルルルーム♡」に紅蓮のV系バンド「シンガンクリムゾンズ」のメンバーが初出演！自己紹介前のコマーシャルに激怒し、トークは次第にあらぬ方向へと・・・？／第8話：MIDICITYの超人気番組、白栖川解子(しろすがわときこ)の｢解子のルルルルーム♡｣(第1話)に｢プラズマジカ｣のメンバーが初出演した際、番組内で流れた｢スパリゾート｣CMのメイキング映像を紹介。彼女たちの素顔も観れちゃうかも♡<br><br>シアン:稲川英里／チュチュ:上坂すみれ／レトリー:沼倉愛美／モア:佐倉綾音／クロウ:谷山紀章／アイオーン:内山昻輝／ヤイバ:柿原徹也／ロム:細谷佳正／阿:早見沙織／吽:松井恵理子／ダル太夫:潘めぐみ／シュウ☆ゾー:宮野真守／リク:村瀬歩／カイ:逢坂良太／ロージア:日高里菜／ツキノ:茅野愛衣／ホルミー:五十嵐裕美／ジャクリン:村川梨衣／有栖川メイプル:うえだゆうじ<br><br>原作:サンリオ／監督:池添隆博／シリーズ構成（脚本）:待田堂子／キャラクターデザイン:大城
+    勝／サブキャラクター・プロップデザイン:ヒラタリョウ／コンセプト・メカデザイン:片貝文洋／メインアニメーター:永作友克／色彩設計:中尾総子／美術設定:小倉奈緒美／美術監督:熊野はつみ／撮影監督:神林
+    剛／編集:坂本久美子／音響監督:中嶋聡彦／音響効果:倉橋静男／音楽:高梨康治、Funta7、Rega Sound／音楽制作:ポニーキャニオン／アニメーション制作:ボンズ／製作:SHOWBYROCK!!製作委員会<br><br>©
+    2012,2016 SANRIO CO.,LTD.　SHOWBYROCK!! 製作委員会<br><br>so34550711←前話｜次話→so34550713　第一話→so34550711
+  length_seconds: 723
+  content_id: so34550712
+  default_thread_id: 1548813788
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34550712.41664
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話～第12話
+  title: シュウ☆ゾーの夢銀河☆とっても☆ダンススタジオ／解子のルルルルーム(徒然なる操り霧幻庵編)／聖MIDI女学園中等部 あざと学特別講義／MIDI-BOP落書きハイスクール
+  description: 第9話：｢シュウ☆ゾーの夢銀河☆とっても☆ダンススタジオ｣を紹介。初めて観る方でもダンスの基本から学べちゃいます。シュウ☆ゾーくんの掛け声に合わせて、みんなも一緒に踊ってねっ☆／第10話：MIDICITYの超人気番組、白栖川解子(しろすがわときこ)の｢解子のルルルルーム♡｣に、極東サウンドを世界に広める｢徒然なる操り霧幻庵｣のメンバーが初出演！解子も圧倒されるダル太夫の存在感！で、ありんすなぁ。／第11話：プラム講師による｢あざと学のスペシャル講義｣を受ける、JCアイドルバンド｢クリティクリスタ｣のメンバーたち。MIDI女あざと学首席・ロージアのパーフェクトなあざとさが全開！あざと学最強の座は誰の手に！？／第12話：転校生ロムの夢、それは｢拳で頂点を獲る｣事！学校最強とウワサされるあの男との出会いが、ロムの運命を大きく変える！SHOW
+    BY ROCK!!しょ～と!!感動の最終話！続編はあるのか！？乞うご期待！！<br><br>シアン:稲川英里／チュチュ:上坂すみれ／レトリー:沼倉愛美／モア:佐倉綾音／クロウ:谷山紀章／アイオーン:内山昻輝／ヤイバ:柿原徹也／ロム:細谷佳正／阿:早見沙織／吽:松井恵理子／ダル太夫:潘めぐみ／シュウ☆ゾー:宮野真守／リク:村瀬歩／カイ:逢坂良太／ロージア:日高里菜／ツキノ:茅野愛衣／ホルミー:五十嵐裕美／ジャクリン:村川梨衣／有栖川メイプル:うえだゆうじ<br><br>原作:サンリオ／監督:池添隆博／シリーズ構成（脚本）:待田堂子／キャラクターデザイン:大城
+    勝／サブキャラクター・プロップデザイン:ヒラタリョウ／コンセプト・メカデザイン:片貝文洋／メインアニメーター:永作友克／色彩設計:中尾総子／美術設定:小倉奈緒美／美術監督:熊野はつみ／撮影監督:神林
+    剛／編集:坂本久美子／音響監督:中嶋聡彦／音響効果:倉橋静男／音楽:高梨康治、Funta7、Rega Sound／音楽制作:ポニーキャニオン／アニメーション制作:ボンズ／製作:SHOWBYROCK!!製作委員会<br><br>©
+    2012,2016 SANRIO CO.,LTD.　SHOWBYROCK!! 製作委員会<br><br>so34550712←前話　第一話→so34550711
+  length_seconds: 723
+  content_id: so34550713
+  default_thread_id: 1548813726
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34550713.81283
+cast: "[キャスト]<br>シアン:稲川英里／チュチュ:上坂すみれ／レトリー:沼倉愛美／モア:佐倉綾音／クロウ:谷山紀章／アイオーン:内山昻輝／ヤイバ:柿原徹也／ロム:細谷佳正／阿:早見沙織／吽:松井恵理子／ダル太夫:潘めぐみ／シュウ☆ゾー:宮野真守／リク:村瀬歩／カイ:逢坂良太／ロージア:日高里菜／ツキノ:茅野愛衣／ホルミー:五十嵐裕美／ジャクリン:村川梨衣／有栖川メイプル:うえだゆうじ"
+staff: "[スタッフ]<br>原作:サンリオ／監督:池添隆博／シリーズ構成（脚本）:待田堂子／キャラクターデザイン:大城 勝／サブキャラクター・プロップデザイン:ヒラタリョウ／コンセプト・メカデザイン:片貝文洋／メインアニメーター:永作友克／色彩設計:中尾総子／美術設定:小倉奈緒美／美術監督:熊野はつみ／撮影監督:神林
+  剛／編集:坂本久美子／音響監督:中嶋聡彦／音響効果:倉橋静男／音楽:高梨康治、Funta7、Rega Sound／音楽制作:ポニーキャニオン／アニメーション制作:ボンズ／製作:SHOWBYROCK!!製作委員会"
+produced_year: "[製作年]<br>2016年"
+copyright: "© 2012,2016 SANRIO CO.,LTD.　SHOWBYROCK!! 製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK！！
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK!!#
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK！！ MUSICAL～唱え家畜共ッ！深紅色の堕天革命黙示録ッ！！
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」～THE FES Ⅱ-Thousand ⅩⅤⅡ～【Genesis】
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」～THE FES Ⅱ-Thousand ⅩⅤⅡ～【Destiny】（千秋楽公演）
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」―深淵のCrossAmbivalence―

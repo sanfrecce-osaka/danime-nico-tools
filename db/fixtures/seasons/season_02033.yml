@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: おこしやす、ちとせちゃん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/44/2/22442_1_6.png?1538017269000
+outline: 京都に住む子ペンギン、その名もちとせちゃん。もふもふした愛らしい子ペンギンのちとせちゃんは、おいしいものや楽しいことが大好き。人々と触れ合ったり、おいしいものを食べ（させてもらっ）たりーー好奇心のおもむくまま、京都の街をうろうろします。清水寺・銀閣寺・祇園…誰もが知っている京都の名所をペンギン視点から描きます。なつかしくてどこかあたたかい、ほっと心がやすらぐような癒しのペンギンショートアニメ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 遊佐浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 小岩井ことり
+  type: cast
+- !ruby/hash:TagHash
+  name: 堤真一
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ギャザリング
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：こぐま
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：矢立きょう
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：三田潤
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：夏目靫子
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1羽～第6羽
+  title: ''
+  description: 京都に住むコウテイペンギンのひな、ちとせちゃん。今日は嵐山に来ています。京都の人たちにはすっかりおなじみで、道行くみんなが声を掛けてくれるのですが…。／ほか<br><br>ナレーション:堤真一／キャスト:遊佐浩二、小岩井ことり<br><br>原作:夏目靫子（講談社「BE・LOVE」にて連載中）／監督・シリーズ構成:矢立きょう／キャラクターデザイン・作画監督:三田潤／色彩設計:のぼりはるこ／美術監督:山田ヨシノブ／音響監督:阿部信行／音楽:こぐま／アニメーション制作:ギャザリング<br><br>©夏目靫子・講談社／VAP<br><br>次話→so34349740
+  length_seconds: 1081
+  content_id: so34145975
+  default_thread_id: 1541725684
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34145975
+- !ruby/hash:EpisodeHash
+  episode_no: 第7羽～第12羽
+  title: ''
+  description: 素敵な舞妓さんに出会ったちとせちゃん。ガラスに映る自分を見て何だか落ち込んでいる様子。そんな時、音羽の滝の水を飲めば美人になれるという話を聞いて…？／ほか<br><br>ナレーション:堤真一／キャスト:遊佐浩二、小岩井ことり<br><br>原作:夏目靫子（講談社「BE・LOVE」にて連載中）／監督・シリーズ構成:矢立きょう／キャラクターデザイン・作画監督:三田潤／色彩設計:のぼりはるこ／美術監督:山田ヨシノブ／音響監督:阿部信行／音楽:こぐま／アニメーション制作:ギャザリング<br><br>©夏目靫子・講談社／VAP<br><br>so34145975←前話　第一話→so34145975
+  length_seconds: 1081
+  content_id: so34349740
+  default_thread_id: 1545356285
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34349740.4446
+cast: "[キャスト]<br>ナレーション:堤真一／キャスト:遊佐浩二、小岩井ことり"
+staff: "[スタッフ]<br>原作:夏目靫子（講談社「BE・LOVE」にて連載中）／監督・シリーズ構成:矢立きょう／キャラクターデザイン・作画監督:三田潤／色彩設計:のぼりはるこ／美術監督:山田ヨシノブ／音響監督:阿部信行／音楽:こぐま／アニメーション制作:ギャザリング"
+produced_year: "[製作年]<br>2018年"
+copyright: "©夏目靫子・講談社／VAP"
+related_seasons: !ruby/array:Hashie::Array []

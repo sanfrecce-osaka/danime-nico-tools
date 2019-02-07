@@ -18,10 +18,10 @@ tags: !ruby/array:Hashie::Array
   name: 勝生真沙子
   type: cast
 - !ruby/hash:TagHash
-  name: 佐々木望
+  name: 堀内賢雄
   type: cast
 - !ruby/hash:TagHash
-  name: 堀内賢雄
+  name: 佐々木望
   type: cast
 - !ruby/hash:TagHash
   name: 松井菜桜子
@@ -30,10 +30,10 @@ tags: !ruby/array:Hashie::Array
   name: 天野由梨
   type: cast
 - !ruby/hash:TagHash
-  name: 稲葉実
+  name: 二又一成
   type: cast
 - !ruby/hash:TagHash
-  name: 二又一成
+  name: 稲葉実
   type: cast
 - !ruby/hash:TagHash
   name: 幹本雄之
@@ -408,10 +408,10 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: マシンロボ クロノスの大逆襲｢戦場の記憶｣
 - !ruby/hash:SeasonHash
-  title: レイナ剣狼伝説I
+  title: レイナ剣狼伝説Ⅰ
 - !ruby/hash:SeasonHash
-  title: レイナ剣狼伝説II
+  title: レイナ剣狼伝説Ⅱ
 - !ruby/hash:SeasonHash
-  title: レイナ剣狼伝説III
+  title: レイナ剣狼伝説Ⅲ
 - !ruby/hash:SeasonHash
   title: LIGHTNING TRAP LEINA & LAIKA

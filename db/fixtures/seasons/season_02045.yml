@@ -1,0 +1,100 @@
+--- !ruby/hash:SeasonHash
+title: グリムノーツ The Animation
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/58/2/22582_1_6.png?1545296592000
+outline: 人々は生まれたとき1冊の本を与えられる。生まれてから死ぬまで"運命の書"に記載された脚本の通りに生きる宿命。そんな中、空っぽの脚本である“空白の書”をもって生まれたエクスは、同じように“空白の書”をもった仲間、レイナ、タオ、シェインと出会い、自らの役割を見つける旅に出る。これは繰り返し読まれた童話の物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 間島淳司
+  type: cast
+- !ruby/hash:TagHash
+  name: 水島大宙
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保田未夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：スクウェア・エニックス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：菅原静貴
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：未来古代楽団
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 赤ずきんの森
+  description: ひとつの物語を繰り返す世界～想区～をまたいで旅するエクス、レイナ、タオ、シェインたち。新たな想区へ足を踏み入れた矢先、怪物に襲われている幼い少女を見つける。村人の話によると、その少女は「赤ずきん」と呼ばれているのだという。エクスたちは、いずこかへ消えた赤ずきんを助けに森ヘ足を踏み入れるのだが……。<br><br>エクス:逢坂良太／レイナ:上田麗奈／タオ:江口拓也／シェイン:久保田未夢／ロキ:水島大宙／カーリー:上坂すみれ／アリス:久保田未夢／赤ずきん:種田梨沙／シンデレラ:上田麗奈／白雪姫:悠木碧／ロビン・フッド:間島淳司<br><br>監督:菅原静貴／原作:「グリムノーツ」（スクウェア・エニックス）／音楽:未来古代楽団<br><br>©SQUARE
+    ENIX/グリムノーツ The Animation製作委員会･TBS<br><br>次話→so34486217
+  length_seconds: 1445
+  content_id: so34452051
+  default_thread_id: 1547082609
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34452051.56425
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ドン・キホーテの信念
+  description: エクスたちがやって来たのは、「ドン・キホーテの想区」。だが、本来の物語とは異なり、恐ろしい悪魔の群れが人々を襲っていた。そして空は不気味に赤く染まり、想区そのものが崩壊しようとしている。それを阻止すべく、さっそく調査を開始するエクスたちだったが、その前に、意外な人物が現れ……。<br><br>エクス:逢坂良太／レイナ:上田麗奈／タオ:江口拓也／シェイン:久保田未夢／ロキ:水島大宙／カーリー:上坂すみれ／アリス:久保田未夢／赤ずきん:種田梨沙／シンデレラ:上田麗奈／白雪姫:悠木碧／ロビン・フッド:間島淳司<br><br>監督:菅原静貴／原作:「グリムノーツ」（スクウェア・エニックス）／音楽:未来古代楽団<br><br>©SQUARE
+    ENIX/グリムノーツ The Animation製作委員会･TBS<br><br>so34452051←前話｜次話→so34519915　第一話→so34452051
+  length_seconds: 1445
+  content_id: so34486217
+  default_thread_id: 1547687343
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34486217.17848
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 追憶のシンデレラ
+  description: ストーリーは過去へ遡る。生まれ故郷で、エクスは幼い頃からシンデレラという少女と日々を過ごしていた。早くに両親を亡くしたエクス。同じように、母を失ったシンデレラ。二人は互いに支え合い、成長していく。やがて、シンデレラの運命が叶う夜が近付いて来る。そんな時、エクスは森でレイナという少女と出会う。<br><br>エクス:逢坂良太／レイナ:上田麗奈／タオ:江口拓也／シェイン:久保田未夢／ロキ:水島大宙／カーリー:上坂すみれ／アリス:久保田未夢／赤ずきん:種田梨沙／シンデレラ:上田麗奈／白雪姫:悠木碧／ロビン・フッド:間島淳司<br><br>監督:菅原静貴／原作:「グリムノーツ」（スクウェア・エニックス）／音楽:未来古代楽団<br><br>©SQUARE
+    ENIX/グリムノーツ The Animation製作委員会･TBS<br><br>so34486217←前話｜次話→so34555646　第一話→so34452051
+  length_seconds: 1445
+  content_id: so34519915
+  default_thread_id: 1548292143
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34519915.97081
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: エクスの旅立ち
+  description: 幼なじみであるシンデレラの運命が、歪もうとしている……。レイナの口から、さまざまな事実を聞かされるエクス。それは彼にとって、今まで見たことも聞いたこともない事ばかりだった。そしてレイナは、エクスに戦うための力を与える。シンデレラの運命を守るために。エクスたちは、王城へと向かうのだが。<br><br>エクス:逢坂良太／レイナ:上田麗奈／タオ:江口拓也／シェイン:久保田未夢／ロキ:水島大宙／カーリー:上坂すみれ／アリス:久保田未夢／赤ずきん:種田梨沙／シンデレラ:上田麗奈／白雪姫:悠木碧／ロビン・フッド:間島淳司<br><br>監督:菅原静貴／原作:「グリムノーツ」（スクウェア・エニックス）／音楽:未来古代楽団<br><br>©SQUARE
+    ENIX/グリムノーツ The Animation製作委員会･TBS<br><br>so34519915←前話｜次話→so34592077　第一話→so34452051
+  length_seconds: 1445
+  content_id: so34555646
+  default_thread_id: 1548896886
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34555646.18816
+cast: "[キャスト]<br>エクス:逢坂良太／レイナ:上田麗奈／タオ:江口拓也／シェイン:久保田未夢／ロキ:水島大宙／カーリー:上坂すみれ／アリス:久保田未夢／赤ずきん:種田梨沙／シンデレラ:上田麗奈／白雪姫:悠木碧／ロビン・フッド:間島淳司"
+staff: "[スタッフ]<br>監督:菅原静貴／原作:「グリムノーツ」（スクウェア・エニックス）／音楽:未来古代楽団"
+produced_year: "[製作年]<br>2019年"
+copyright: "©SQUARE ENIX/グリムノーツ The Animation製作委員会･TBS"
+related_seasons: !ruby/array:Hashie::Array []

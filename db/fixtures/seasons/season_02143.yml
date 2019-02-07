@@ -1,0 +1,232 @@
+--- !ruby/hash:SeasonHash
+title: WORKING!!!
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/22/2/20222_1_6.png?1436163490000
+outline: 北海道某所に存在するファミリーレストラン「ワグナリア」。小鳥遊宗太（たかなしそうた）がひょんなことからバイトとして働くことになったこの店は、個性的すぎる店員達ばかりが働くファミレスだった。そんな小鳥遊と店員達が元気に危険に活躍（！？）するファミレスバイトコメディー！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 広橋涼
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：スクウェア・エニックス
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：足立慎吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：高津カリノ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鎌倉由実
+  type: staff
+- !ruby/hash:TagHash
+  name: WORKING!!シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: メガネ
+  type: other
+- !ruby/hash:TagHash
+  name: スクウェア・エニックス
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1品目
+  title: ワグナリア戦線異状なし
+  description: 北海道某所に存在する、ファミリーレストラン『ワグナリア』。いつも通りにぎやかなこの店に、以前助けた迷子の女の子がお店にやってきた！小鳥遊は有頂天だが、種島は…？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>次話→so34520317
+  length_seconds: 1416
+  content_id: so34520284
+  default_thread_id: 1548300304
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520284.93525
+- !ruby/hash:EpisodeHash
+  episode_no: 2品目
+  title: 愛の嵐！？
+  description: 休日の小鳥遊家に電話が鳴り、その電話に出た宗太は憂鬱模様。なずなの知らない「みねぎし」という彼は、どうやら小鳥遊家“母”の命により家の様子を聞きたいようで…？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520284←前話｜次話→so34520331　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520317
+  default_thread_id: 1548301030
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520317.28287
+- !ruby/hash:EpisodeHash
+  episode_no: 3品目
+  title: 史上最大の夜
+  description: 長年の八千代への想いを患った佐藤は、やっとのことで八千代を飲みに誘う。一方の八千代は、初めての〝飲みに行く〟に戸惑い、店に来ていた梢に指示を仰ぐが…！？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520317←前話｜次話→so34520329　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520331
+  default_thread_id: 1548301146
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520331.98867
+- !ruby/hash:EpisodeHash
+  episode_no: 4品目
+  title: ハート・ノッカー
+  description: 佐藤と二人で飲みに行った日から様子がおかしい八千代。めずらしく仕事でもミスをしてしまう彼女を見た種島は、何か力になれないかと一念発起してがんばるが…？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520331←前話｜次話→so34520328　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520329
+  default_thread_id: 1548301025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520329.62416
+- !ruby/hash:EpisodeHash
+  episode_no: 5品目
+  title: スーパーバッグ・イン・ザ・ハート
+  description: とある一言により伊波との関係がぎくしゃくしてしまった小鳥遊。その様子で姉妹は宗太が彼女と別れたと誤解！それを知った泉は、虚弱ながらについに行動を起こす！<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520329←前話｜次話→so34520327　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520328
+  default_thread_id: 1548301031
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520328.94769
+- !ruby/hash:EpisodeHash
+  episode_no: 6品目
+  title: 山田、やまーだ
+  description: 小鳥遊と伊波、そして佐藤と八千代に生じた関係の変化を楽しむ相馬と山田。皆がそれぞれの相手と思い思いに関わる中、種島だけはむすーっとしていて…？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520328←前話｜次話→so34520326　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520327
+  default_thread_id: 1548301026
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520327.44457
+- !ruby/hash:EpisodeHash
+  episode_no: 7品目
+  title: グッバイ山田（ガール）
+  description: ワグナリアから逃げ、小鳥遊家に居候する山田は、家出の理由を語り始める。それはなんとも悲しいような、なんというか。そんな中、ついにアノ人と出会ってしまうことに…！<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520327←前話｜次話→so34520325　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520326
+  default_thread_id: 1548301037
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520326.23336
+- !ruby/hash:EpisodeHash
+  episode_no: 8品目
+  title: ミスティック・シュガー
+  description: "〝山田〟家族問題も解決かと思われたが、新たに〝葵が桐生を兄と呼ばない〟問題が発生！桐生は葵の兄となるべく奮闘するも、なかなかうまくいかないようで…？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520326←前話｜次話→so34520324　第一話→so34520284"
+  length_seconds: 1416
+  content_id: so34520325
+  default_thread_id: 1548301150
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520325.25274
+- !ruby/hash:EpisodeHash
+  episode_no: 9品目
+  title: 危険な事情
+  description: 小鳥遊の母に調査を指示され、ワグナリアに来た峰岸は近くにいた伊波に声を掛けてしまう。知らない男性に動揺した伊波は反射的に峰岸を殴ってしまい…？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520325←前話｜次話→so34520323　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520324
+  default_thread_id: 1548301035
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520324.18193
+- !ruby/hash:EpisodeHash
+  episode_no: 10品目
+  title: その女シズカ
+  description: ついに小鳥遊家のあの人が帰ってくる！様々な想いを抱える小鳥遊兄妹達だったが、そんな中、梢のトラウマが蘇ったせいで美月達との関係が危うくなり…！？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520324←前話｜次話→so34520322　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520323
+  default_thread_id: 1548301027
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520323.96515
+- !ruby/hash:EpisodeHash
+  episode_no: 11品目
+  title: 愛と追憶のなにか
+  description: 八千代を変えてやれるのかと杏子に聞かれ、いよいよ腹をくくった佐藤。一方の八千代は、偶然佐藤がワグナリアを辞めるということを聞いてしまい、種島に相談するが…？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520323←前話｜次話→so34520321　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520322
+  default_thread_id: 1548301033
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520322.27286
+- !ruby/hash:EpisodeHash
+  episode_no: 12品目
+  title: ワーキング・ガール？
+  description: とうとう桐生にことりちゃんの正体がバレた！小鳥遊は桐生をダマしきる覚悟を決め、桐生にことりちゃんとして接する！そして、その結果…！？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520322←前話｜次話→so34520285　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520321
+  default_thread_id: 1548300966
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520321.32237
+- !ruby/hash:EpisodeHash
+  episode_no: 13品目
+  title: まひるの決闘
+  description: 小鳥遊と伊波のデート当日、なんと伊波家に例の父親が帰宅した！娘であるまひるを溺愛し、男性恐怖症の原因でもある父。その父の帰還にまひるは…！？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520321←前話｜次話→so34520286　第一話→so34520284
+  length_seconds: 1416
+  content_id: so34520285
+  default_thread_id: 1548300366
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520285.14861
+- !ruby/hash:EpisodeHash
+  episode_no: 14品目
+  title: ロード・オブ・ザ・小鳥遊
+  description: しばらくバイトを休んでいる小鳥遊。杏子の説得でひとまず復帰したものの、伊波を避けてしまっている。それを感じた伊波が起こした勇気ある行動とは…！？<br><br>小鳥遊宗太:福山
+    潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田 葵:広橋 涼　ほか<br><br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+    岳／音響監督:鶴岡陽太／制作:A-1 Pictures<br><br>©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会<br><br>so34520285←前話　第一話→so34520284
+  length_seconds: 2976
+  content_id: so34520286
+  default_thread_id: 1548300904
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520286.75083
+cast: "[キャスト]<br>小鳥遊宗太:福山 潤／種島ぽぷら:阿澄佳奈／伊波まひる:藤田 咲／轟八千代:喜多村英梨／白藤杏子:渡辺久美子／佐藤 潤:小野大輔／相馬博臣:神谷浩史／山田
+  葵:広橋 涼　ほか"
+staff: "[スタッフ]<br>原作:高津カリノ(掲載：『ヤングガンガン』スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:足立慎吾／美術監督:木下了香／編集:坪根健太郎／音楽:MONACA／シリーズ構成:吉岡たかを／色彩設計:坂本いづみ／撮影監督:廣岡
+  岳／音響監督:鶴岡陽太／制作:A-1 Pictures"
+produced_year: "[製作年]<br>2015年"
+copyright: "©高津カリノ／スクウェアエニックス・「WORKING!!3」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: WORKING!!
+- !ruby/hash:SeasonHash
+  title: WORKING’!!

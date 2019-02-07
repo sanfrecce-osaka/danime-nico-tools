@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: 月曜日のたわわ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/84/1/21841_1_6.png?1507001441000
+outline: Twitterにて月曜朝恒例のイラストシリーズ「月曜日のたわわ」が、原作者・比村奇石 協力でアニメになりました。月曜朝の憂鬱に、動いて喋る「たわわ」をどうぞ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 金元寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 間島淳司
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: 石上静香
+  type: cast
+- !ruby/hash:TagHash
+  name: 原田彩楓
+  type: cast
+- !ruby/hash:TagHash
+  name: 内匠靖明
+  type: cast
+- !ruby/hash:TagHash
+  name: 相馬康一
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：吉井弘幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：比村奇石
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：村山公輔
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：パインジャム
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: その1／その2／その3
+  title: "「月曜日のたわわ」／「しっかり者のつもりだがスキの多い後輩」／「TAWAWA SPORTS」"
+  description: アイちゃん:原田彩楓／お兄さん:間島淳司／後輩ちゃん:茅野愛衣／先輩:内匠靖明／トレーナーさん:津田美波／課長:相馬康一／バレー部ちゃん:石上静香／歯科衛生士さん:能登麻美子／徳森さん:金元寿子<br><br>原作:比村奇石／監督:村山公輔／キャラクターデザイン:吉井弘幸／美術監督:菊地明子、松本浩樹／色彩設計:坂上康治／撮影監督:中野遼太郎／音響監督:明田川仁／アニメーション制作:パインジャム<br><br>©比村奇石/PBM<br><br>次話→so34341210
+  length_seconds: 867
+  content_id: so34341209
+  default_thread_id: 1545193444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341209
+- !ruby/hash:EpisodeHash
+  episode_no: その4／その5／その6
+  title: "「ブルーマンデーの天使」／「アイちゃんと決戦の身体測定」／「身持ちの堅いつもりだがガードの緩い後輩」"
+  description: アイちゃん:原田彩楓／お兄さん:間島淳司／後輩ちゃん:茅野愛衣／先輩:内匠靖明／トレーナーさん:津田美波／課長:相馬康一／バレー部ちゃん:石上静香／歯科衛生士さん:能登麻美子／徳森さん:金元寿子<br><br>原作:比村奇石／監督:村山公輔／キャラクターデザイン:吉井弘幸／美術監督:菊地明子、松本浩樹／色彩設計:坂上康治／撮影監督:中野遼太郎／音響監督:明田川仁／アニメーション制作:パインジャム<br><br>©比村奇石/PBM<br><br>so34341209←前話｜次話→so34341211　第一話→so34341209
+  length_seconds: 923
+  content_id: so34341210
+  default_thread_id: 1545193565
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341210
+- !ruby/hash:EpisodeHash
+  episode_no: その7／その8／その9
+  title: "「アイちゃんと一夏の思い出」／「絶対によく効く鎮痛剤」／「アイちゃんとパン屋の制服」"
+  description: アイちゃん:原田彩楓／お兄さん:間島淳司／後輩ちゃん:茅野愛衣／先輩:内匠靖明／トレーナーさん:津田美波／課長:相馬康一／バレー部ちゃん:石上静香／歯科衛生士さん:能登麻美子／徳森さん:金元寿子<br><br>原作:比村奇石／監督:村山公輔／キャラクターデザイン:吉井弘幸／美術監督:菊地明子、松本浩樹／色彩設計:坂上康治／撮影監督:中野遼太郎／音響監督:明田川仁／アニメーション制作:パインジャム<br><br>©比村奇石/PBM<br><br>so34341210←前話｜次話→so34341212　第一話→so34341209
+  length_seconds: 809
+  content_id: so34341211
+  default_thread_id: 1545193447
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341211
+- !ruby/hash:EpisodeHash
+  episode_no: その10／その11／その12
+  title: "「アイちゃんとマラトンの戦い」／「丸々見逃した彼女のハイティーン時代を後悔と共に想像する遊び」／「アイちゃんと大人の階段」"
+  description: アイちゃん:原田彩楓／お兄さん:間島淳司／後輩ちゃん:茅野愛衣／先輩:内匠靖明／トレーナーさん:津田美波／課長:相馬康一／バレー部ちゃん:石上静香／歯科衛生士さん:能登麻美子／徳森さん:金元寿子<br><br>原作:比村奇石／監督:村山公輔／キャラクターデザイン:吉井弘幸／美術監督:菊地明子、松本浩樹／色彩設計:坂上康治／撮影監督:中野遼太郎／音響監督:明田川仁／アニメーション制作:パインジャム<br><br>©比村奇石/PBM<br><br>so34341211←前話　第一話→so34341209
+  length_seconds: 831
+  content_id: so34341212
+  default_thread_id: 1545193442
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341212
+cast: "[キャスト]<br>アイちゃん:原田彩楓／お兄さん:間島淳司／後輩ちゃん:茅野愛衣／先輩:内匠靖明／トレーナーさん:津田美波／課長:相馬康一／バレー部ちゃん:石上静香／歯科衛生士さん:能登麻美子／徳森さん:金元寿子"
+staff: "[スタッフ]<br>原作:比村奇石／監督:村山公輔／キャラクターデザイン:吉井弘幸／美術監督:菊地明子、松本浩樹／色彩設計:坂上康治／撮影監督:中野遼太郎／音響監督:明田川仁／アニメーション制作:パインジャム"
+produced_year: "[製作年]<br>2016年"
+copyright: "©比村奇石/PBM"
+related_seasons: !ruby/array:Hashie::Array []

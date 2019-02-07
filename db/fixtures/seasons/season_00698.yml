@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
-  name: 日高里菜
+  name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
-  name: 瀬戸麻沙美
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
   name: 種田梨沙
@@ -66,6 +66,18 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: ハーレム
+  type: other
+- !ruby/hash:TagHash
+  name: お母さん
+  type: other
+- !ruby/hash:TagHash
+  name: 主人公最強
   type: other
 - !ruby/hash:TagHash
   name: アスキー・メディアワークス
@@ -422,6 +434,6 @@ produced_year: "[製作年]<br>2013年"
 copyright: "(C)三雲岳斗/アスキー・メディアワークス/PROJECT STB"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: ストライク・ザ・ブラッドII OVA
-- !ruby/hash:SeasonHash
   title: ストライク・ザ・ブラッドOVA ｢ヴァルキュリアの王国篇｣
+- !ruby/hash:SeasonHash
+  title: ストライク・ザ・ブラッドⅡ OVA

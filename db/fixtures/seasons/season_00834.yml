@@ -138,9 +138,9 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: 秘密結社 鷹の爪 THE MOVIE～総統は二度死ぬ～
 - !ruby/hash:SeasonHash
-  title: 秘密結社 鷹の爪 THE MOVIE II～私を愛した黒烏龍茶～
+  title: 秘密結社 鷹の爪 THE MOVIE Ⅱ～私を愛した黒烏龍茶～
 - !ruby/hash:SeasonHash
-  title: 秘密結社 鷹の爪 THE MOVIE III～http://鷹の爪.jpは永遠に～
+  title: 秘密結社 鷹の爪 THE MOVIE Ⅲ～http://鷹の爪.jpは永遠に～
 - !ruby/hash:SeasonHash
   title: 鷹の爪 THE MOVIE 4 ～カスペルスキーを持つ男～
 - !ruby/hash:SeasonHash

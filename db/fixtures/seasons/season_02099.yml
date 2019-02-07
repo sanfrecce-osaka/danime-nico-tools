@@ -1,0 +1,1197 @@
+--- !ruby/hash:SeasonHash
+title: まんが世界昔ばなし
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/51/7/22517_1_6.png?1543300217000
+outline: さぁ、今日はどんな物語の主人公になりますか？世界各地・古今東西の物語を、お子様から大人までご家族揃ってお楽しみください！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 宮城まり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：伊部晴美
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1976年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: おおかみと七ひきの子やぎ
+  description: 買い物に出かけるお母さんやぎから「こわい狼がくるから絶対に戸をあけてはいけませんよ」と言われた七ひきの子やぎの兄弟たち。そんななか、子やぎを狙う狼がさっそくやぎの家にやってきました。「坊やたち、お母さんですよ」と狼は言いましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>次話→so34341006
+  length_seconds: 734
+  content_id: so34340978
+  default_thread_id: 1545188226
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340978
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: 美女と野獣
+  description: 美しい娘ベルは、宮殿に咲いていた薔薇を取ったお父さんの身代わりに、世にも恐ろしい姿をした野獣ベートと森の奥の屋敷で暮らすことになりました。毎日ベートは晩餐の時にベルにプロポーズをします。しかしベルがそれを受け入れることはありませんでした。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340978←前話｜次話→so34341034　第一話→so34340978
+  length_seconds: 732
+  content_id: so34341006
+  default_thread_id: 1545188763
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341006
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: にんぎょ姫
+  description: 深い海の底のお城に住む人魚姫の15歳のお誕生日。ようやく海の上に出ることを許された姫は、船の上にたたずむ美しい王子様を見て心を奪われました。嵐で船から投げ出された王子を助けた人魚姫は、憧れの人間になって王子のそばにいたいと願ったのです。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341006←前話｜次話→so34341064　第一話→so34340978
+  length_seconds: 731
+  content_id: so34341034
+  default_thread_id: 1545189363
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341034
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: うさぎのわるぢえ
+  description: ある年のこと。ひどい干ばつが続き、泉にも川にも水が一滴もなくなってしまいました。困り果てた森の動物たちが会議を開いていたところ、ずる賢いうさぎが現れ「井戸を掘ればいい」と言いました。動物たちはみんなで力を合わせて井戸を掘りましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341034←前話｜次話→so34341065　第一話→so34340978
+  length_seconds: 732
+  content_id: so34341064
+  default_thread_id: 1545190029
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341064
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: はだかの王様
+  description: 新しい服が大好きな王様のところに、二人組の布降り職人が現れました。彼らはなんと馬鹿には見えない不思議な布地を織る事が出来ると言うではありませんか。王様は大喜びで注文しましたが、実はこの二人組はサギ師だったのです。ついに新しい洋服が出来上がり…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341064←前話｜次話→so34341066　第一話→so34340978
+  length_seconds: 731
+  content_id: so34341065
+  default_thread_id: 1545190145
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341065
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: 二ひきのよくばり子ぐま
+  description: ガラスの森にお母さんグマと二匹の兄弟グマが住んでいました。何不自由のない幸せな暮らしに退屈していた子グマの兄弟は森の外の世界が見たいとお母さんグマにお願いしました。決して兄弟ゲンカをしないよう強く言い聞かせてお母さんグマは許しましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341065←前話｜次話→so34341067　第一話→so34340978
+  length_seconds: 732
+  content_id: so34341066
+  default_thread_id: 1545190027
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341066
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: ジャックとまめの木
+  description: ジャックは家で飼っていた牝牛を市場へ売りに行く途中、途中で会った男の豆と牝牛を交換しました。怒った母親はその豆を庭に捨ててしまいました。その夜、豆はニョキニョキ伸び、天に届くほどの大きな木へと成長しました。木を登ったジャックが見たものは…？<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341066←前話｜次話→so34341068　第一話→so34340978
+  length_seconds: 732
+  content_id: so34341067
+  default_thread_id: 1545190023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341067
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: 鐘をならしたきじ
+  description: ある山奥に心優しい木こりが住んでいました。ある日、きじの卵を狙った白いヘビと親きじが争っていたのを見た木こりは、きじの卵を救うためにヘビを殺してしまいました。それから数年後…。山奥で道に迷った木こりは、ある立派な屋敷へたどりついたのです。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341067←前話｜次話→so34341069　第一話→so34340978
+  length_seconds: 731
+  content_id: so34341068
+  default_thread_id: 1545189963
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341068
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: まほうのソーセージ
+  description: 村いちばんの怠け者のおじいさんは、おばあさんからガミガミ小言を言われてばかり。家を追い出されたおじいさんがトボトボ森の中を歩いていると、木の根本から助けを呼ぶ声が聞こえてきました。見ると、とても小さな馬車に可愛いお姫様が乗っていました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341068←前話｜次話→so34341070　第一話→so34340978
+  length_seconds: 732
+  content_id: so34341069
+  default_thread_id: 1545189965
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341069
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: みにくいあひるの子
+  description: ようやく卵から飛び出してきた可愛いアヒルの子たち。しかし最後に生まれた一羽は、ほかの兄弟たちとは姿も形も違う、みにくい子でした。優しいお母さんは、区別することなくみんなに愛情を注いでいましたが、みにくいあひるの子はいつもいじめられていました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341069←前話｜次話→so34341036　第一話→so34340978
+  length_seconds: 731
+  content_id: so34341070
+  default_thread_id: 1545190025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341070
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: ハメルンの笛ふき
+  description: 楽しい音楽を奏でながら、一人の笛吹きおじさんがハメルンの町にやってきました。しかし町の人たちは誰ひとり寄って来ません。この町ではネズミが大量に発生して、とんでもない騒ぎが巻き起こっていたのです。おじさんはネズミ退治を引き受けたのですが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341070←前話｜次話→so34341035　第一話→so34340978
+  length_seconds: 732
+  content_id: so34341036
+  default_thread_id: 1545189369
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341036
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: ウィリアム・テル
+  description: 美しいアルプスのふもとにウィリアム・テルという弓の名手が住んでいました。その頃、オーストリアの悪代官ゲスラーに重い税をかけられ、村人たちは苦しんでいました。そしてテルはゲスラーの命令に反発したため、ゲスラーの恨みを買ってしまったのです。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341036←前話｜次話→so34340974　第一話→so34340978
+  length_seconds: 732
+  content_id: so34341035
+  default_thread_id: 1545189367
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341035
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: 赤ずきんちゃん
+  description: いつも赤いビロードのずきんを被っていたため赤ずきんちゃんと呼ばれていた女の子がいました。赤ずきんちゃんはおかあさんのお使いで、おばあさんのお家へお見舞いに行く途中、お花ばたけでお花を摘んでいくよう悪いオオカミにそそのかされてしまって…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341035←前話｜次話→so34340973　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340974
+  default_thread_id: 1545188481
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340974
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: かしこいコヨーテ
+  description: ロッキー山脈のふもとに動物たちの街がありました。ある日、気のいいアヒルが街へやってきました。街からの帰り道、大きな岩の下から助けを呼ぶ声が聞こえてきました。アヒルが一生懸命助けてあげると、そこにいたのはお尋ね者のガラガラヘビでした。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340974←前話｜次話→so34340958　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340973
+  default_thread_id: 1545188475
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340973
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: ドン・キホーテ
+  description: スペインの片田舎ラ・マンチャ村に住むドン・アロンソ・キハーノ。キハーノは退屈な毎日を勇敢な騎士の物語を読むことで紛らわせていましたが、だんだん物語と現実の区別がつかなくなり、ある日サンチョ・パンサを従え悪魔退治の旅に出かけたのです。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340973←前話｜次話→so34340959　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340958
+  default_thread_id: 1545188470
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340958
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: 幸福の王子
+  description: 町中を見渡すことのできる丘に幸福の王子の銅像が立っていました。全身は金箔で覆われ、目にはサファイアが、剣には大きなルビーが輝いていました。ある秋の夜のこと。王子の像の足元で眠っていた一羽のツバメの頭に、王子の涙がこぼれ落ちてきました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340958←前話｜次話→so34340960　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340959
+  default_thread_id: 1545188493
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340959
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: 王様の耳はろばの耳
+  description: とてもわがままで心の冷たい王様は人々の言葉に耳を傾けることなどなく、たいそう嫌われていました。不思議なことに王様は大きな帽子を被っており、頭を人に見せたことがありません。ある日、若い床屋がお城に呼ばれました。床屋さんが見た王様の耳は…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340959←前話｜次話→so34340961　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340960
+  default_thread_id: 1545188462
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340960
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: 海の水はなぜからい
+  description: 昔むかし、海の水は塩からくありませんでした。なので、お塩の値段は金や宝石よりも高かったのです。その頃、ノルウェーの谷間の町に2人の兄弟が住んでいました。ある日、生活に困った貧乏な弟が、ケチで大金持ちの兄を頼って訪ねていきました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340960←前話｜次話→so34340962　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340961
+  default_thread_id: 1545188477
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340961
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: 青ひげ
+  description: フランスのある町に青ひげと呼ばれる貴族が住んでいました。彼には奇妙な噂がたえません。青ひげは６回も結婚をしたはずなのに奥さんが煙のように消えてしまったのでした。ある日、青ひげは公爵の美しい娘ソフィーと７回めの結婚をしましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340961←前話｜次話→so34340963　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340962
+  default_thread_id: 1545188465
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340962
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: フランダースのいぬ
+  description: フランダースの村に住む天涯孤独の少年ネロは、相棒の犬パトラッシュと牛乳を配って暮らしています。画家になる夢を叶えるため、一生懸命描いた絵をコンクールに応募したネロ。結果発表の朝、ネロは住んでいた家を家主さんに追い出されてしまったのです…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340962←前話｜次話→so34340964　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340963
+  default_thread_id: 1545188224
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340963
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: 金色のがちょう
+  description: ある農家にのろまと呼ばれる少年がいました。ケガをした２人の兄さんに替わって森に木を切りに行ったのろまは森で小人のじいさんにせがまれ、お弁当を分けてあげました。お礼にのろまは金色のガチョウを手に入れましたが、それが予期せぬことになって…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340963←前話｜次話→so34340965　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340964
+  default_thread_id: 1545188491
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340964
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: メドゥーサの首
+  description: 神話の時代のギリシャにペルセウスという立派な若者がいました。ある日、王ポリュデクテスが大宴会を開きましたが、貧しいペルセウスは勇気を贈り物に持ってきたと告げました。王は高笑いして、ペルセウスにメドゥーサの首を取ってこいと命じました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340964←前話｜次話→so34340966　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340965
+  default_thread_id: 1545188485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340965
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: 十一わのはくちょう
+  description: お妃を亡くしたデンマークの王様は新しいお妃を迎えました。ところがそのお妃は恐ろしい魔女だったのです。魔女は十一人いた王子様に魔法をかけ白鳥にしてしまいました。お城を抜けだした末の姫は、兄たちの魔法を解く方法を老婆に教えてもらいましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340965←前話｜次話→so34340967　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340966
+  default_thread_id: 1545188489
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340966
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: マッチうりの少女
+  description: 雪が降るとっても寒い日。今夜はクリスマスです。人々が楽しそうにプレゼントを抱えて家に帰るなか、一人の少女がマッチを売っていました。でも誰も少女に見向きもしません。少女は凍える手でマッチを擦りました。するとごちそうが浮かび上がりました…！<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340966←前話｜次話→so34340968　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340967
+  default_thread_id: 1545188479
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340967
+- !ruby/hash:EpisodeHash
+  episode_no: "#25"
+  title: 十二の月
+  description: いじわるな継母とわがままな義姉のフォレナに家の雑用を命じられても、愚痴も言わずに働く心優しく美しい少女マルーシカ。今日はフォレナの誕生日。マルーシカは真冬なのに継母とフォレナからすみれの花を摘んでくるよう言われ、仕方なく森へ向かいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340967←前話｜次話→so34340969　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340968
+  default_thread_id: 1545188495
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340968
+- !ruby/hash:EpisodeHash
+  episode_no: "#26"
+  title: 動物たちと火
+  description: 昔むかし、まだ人間が生まれる前のこと。動物たちは寒い冬を越すために暖かい火を欲しいと思っていました。火は高い頂にあって悪魔たちが番をしており、動物たちには分けてくれませんでした。ある日、頭のいいコヨーテが火を盗み出す作戦を考えついて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340968←前話｜次話→so34340970　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340969
+  default_thread_id: 1545188487
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340969
+- !ruby/hash:EpisodeHash
+  episode_no: "#27"
+  title: 長ぐつをはいたねこ
+  description: フランスの片田舎。カラバ少年は親を亡くし一人ぼっち。残されたものは赤い長靴と猫のペローだけでした。しょんぼりしているカラバにペローは心配するなと言って、長靴を履き袋を持って森の中へ入って行きました。ペローはウサギを捕まえ王様に献上しました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340969←前話｜次話→so34340971　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340970
+  default_thread_id: 1545188473
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340970
+- !ruby/hash:EpisodeHash
+  episode_no: "#28"
+  title: わがままな巨人
+  description: イギリスのある村に“巨人の庭”と呼ばれる美しい庭園がありました。巨人は長い長い旅を終え、自分の庭へ帰ってきました。巨人は何のために旅に出たのか思い出せません。帰ってきた巨人は、自分の庭が子どもたちの遊び場になっていたことを知って驚きました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340970←前話｜次話→so34340972　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340971
+  default_thread_id: 1545188497
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340971
+- !ruby/hash:EpisodeHash
+  episode_no: "#29"
+  title: さまよえるオランダ人
+  description: 何日も春の嵐が続き、どの船も出帆することが出来なかったある港で、オランダ人の船長は金儲けのために出帆することを決心しました。神聖な復活祭の日であるにもかかわらず出帆を強行した船長。その時、稲光がオランダ船を包み、勝手に走りだしたのです。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340971←前話｜次話→so34341071　第一話→so34340978
+  length_seconds: 731
+  content_id: so34340972
+  default_thread_id: 1545188468
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34340972
+- !ruby/hash:EpisodeHash
+  episode_no: "#30"
+  title: しりたがりやのとら
+  description: 中国の山奥になまけもので食いしん坊のトラがおりました。世間知らずのトラは、仲間のトラから牛の話を聞き、さっそく麓の村まで下りてみました。その時、雨が降ってきました。トラは人間たちが話す「あまもり」を恐ろしい動物だと勘違いしてしまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34340972←前話｜次話→so34477973　第一話→so34340978
+  length_seconds: 731
+  content_id: so34341071
+  default_thread_id: 1545189969
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34341071
+- !ruby/hash:EpisodeHash
+  episode_no: "#31"
+  title: ヘンゼルとグレーテル
+  description: 古い古い昔のこと。ある大きな森の近くに貧しい木こりの一家が暮らしていました。いじわるな継母は、ヘンゼルとグレーテルの兄妹を邪魔に思い、森の奥に置き去りにしてしまおうと考えました。その恐ろしい話をヘンゼルとグレーテルは聞いてしまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34341071←前話｜次話→so34477974　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477973
+  default_thread_id: 1547534049
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477973.8729
+- !ruby/hash:EpisodeHash
+  episode_no: "#32"
+  title: ブレーメンの音楽隊
+  description: ブレーメンという町に向かって旅をしている音楽家になる夢を持った一匹のろばがいました。その途中の道で、ろばは犬と猫とにわとりと仲間になり、彼らは一緒にブレーメンに向かうことになりました。ある夜、ねぐらを探していた彼らは一軒の家を見つけ…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477973←前話｜次話→so34477975　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477974
+  default_thread_id: 1547533922
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477974.74162
+- !ruby/hash:EpisodeHash
+  episode_no: "#33"
+  title: ロスタムとソホラーブ
+  description: イランの遠い昔、ロスタムという武芸に秀でた勇者がおりました。イランはトゥラーンという国と戦いを繰り返していました。ある日、ロスタムはサメンガンという国の王女と恋に落ち、王女は赤ちゃんを宿しましたが、ロスタムはイランに帰国することになり…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477974←前話｜次話→so34477976　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477975
+  default_thread_id: 1547534175
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477975.20953
+- !ruby/hash:EpisodeHash
+  episode_no: "#34"
+  title: いばら姫
+  description: 森と湖の囲まれた美しい国。その国では不思議なことに人や動物がみな眠っていました。そこにある国の王子様が通りかかり、森の妖精たちが王子に助けを求めました。100年前のこと、王女誕生の祝いの宴に呼ばれなかった魔王が呪いをかけたと言うのです…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477975←前話｜次話→so34477977　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477976
+  default_thread_id: 1547534047
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477976.10172
+- !ruby/hash:EpisodeHash
+  episode_no: "#35"
+  title: 洋服がごはんをたべた話
+  description: トルコの国のある小さな村にナスルという青年が子犬とにわとりと暮らしていました。今日は大地主のハリルの誕生日。ナスルは汚い仕事着のままハリルの誕生パーティーに参加しました。その姿を見たハリルは腹が立って客たちにナスルを無視するよう命じました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477976←前話｜次話→so34477978　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477977
+  default_thread_id: 1547534173
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477977.27580
+- !ruby/hash:EpisodeHash
+  episode_no: "#36"
+  title: にじの鳥
+  description: 昔むかし、あるところにあらゆる鳥が集まっている大きな森がありました。その頃、鳥たちはみな地味で目立たない色をしていました。鳥たちは美しい虹が大好きでした。そんなある日のこと、だんだんと虹が汚れ、色あせ始めました。鳥たちは心配でたまりません。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477977←前話｜次話→so34477979　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477978
+  default_thread_id: 1547533929
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477978.96196
+- !ruby/hash:EpisodeHash
+  episode_no: "#37"
+  title: 町のねずみといなかのねずみ
+  description: 人里から遠く離れた野原に一匹の野ねずみが住んでいました。そんなある日、町に住む家ねずみが訪ねてきました。町のねずみは都会の自慢を始めました。田舎のねずみは、立派な家に住み、美味しいものを食べている町のねずみがうらやましくて仕方ありません。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477978←前話｜次話→so34477980　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477979
+  default_thread_id: 1547534167
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477979.43486
+- !ruby/hash:EpisodeHash
+  episode_no: "#38"
+  title: ノアのはこ舟
+  description: 神様が人間をお作りになって間もない頃、人間は欲が深く、盗みや争い、人殺しが絶えませんでした。神様はそんな人間を創ったことを後悔しました。そして心正しいノアじいさんを呼んであるお告げをしたのです。ノアじいさんは、人々にお告げを伝えましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477979←前話｜次話→so34477981　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477980
+  default_thread_id: 1547534171
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477980.53884
+- !ruby/hash:EpisodeHash
+  episode_no: "#39"
+  title: ろばになった旅人
+  description: 今より先年以上前の中国は唐と呼ばれ、文化が栄えておりました。その唐の時代、板橋店という宿屋がありました。宿屋の主人は三娘子（さんにゃんつー）という女でしたが、どういうわけかたくさんのろばを飼っていました。ある日のこと趙（ちょう）という旅人が板橋店に泊まることになり…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477980←前話｜次話→so34477982　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477981
+  default_thread_id: 1547533988
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477981.77916
+- !ruby/hash:EpisodeHash
+  episode_no: "#40"
+  title: ナイチンゲールとばら
+  description: 貧しい学生シルビオが、綺麗でわがままな少女ユリアに恋をしました。ユリアは紅いバラを持ってきてくれたら、舞踏会で踊ってあげると言いましたが、紅いバラがありません。ナイチンゲールは大好きなシルビオのためにバラを探してあげようと思いました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477981←前話｜次話→so34477984　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477982
+  default_thread_id: 1547534162
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477982.29035
+- !ruby/hash:EpisodeHash
+  episode_no: "#41"
+  title: アリババと四十にんの盗賊
+  description: 果てしなく続く広い砂漠。そこには世界一恐ろしいと言われた40人の盗賊たちがいました。ある日のこと。薪を拾いにきた青年アリババは盗賊たちのお宝の隠し場所を偶然知ってしまいます。その隠し場所の岩戸は「開け、ゴマ！」という呪文で開くのでした…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477982←前話｜次話→so34477985　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477984
+  default_thread_id: 1547534179
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477984.96953
+- !ruby/hash:EpisodeHash
+  episode_no: "#42"
+  title: ジャンヌ・ダルク
+  description: イギリスとフランスの間で百年戦争という長い戦いが始まりました。そんなある日、フランスの片田舎に住むジャンヌという少女に神のお告げがもたらされました。信心深いジャンヌはシャルル皇太子に会い、戦場へ行かせて欲しいと願い、髪を切り落としました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477984←前話｜次話→so34477986　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477985
+  default_thread_id: 1547534283
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477985.38498
+- !ruby/hash:EpisodeHash
+  episode_no: "#43"
+  title: おじぞう様の赤い目
+  description: 荒れた世の中をお嘆きになったお釈迦様は、おじぞう様に下界を偵察するよう命じました。お坊様に姿を変えたおじぞう様はさまざまな町を訪ね歩き、不合格の町は滅ぼしてしまいました。朝鮮半島のある町で、おじぞう様は心優しいおばあさんに出会いました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477985←前話｜次話→so34477987　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477986
+  default_thread_id: 1547534169
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477986.1342
+- !ruby/hash:EpisodeHash
+  episode_no: "#44"
+  title: おやゆび姫
+  description: お花から生まれたおやゆびほどの小さな可愛い女の子、おやゆび姫。眠っていたおやゆび姫はガマガエルに連れ去られてしまいましたが、魚たちが助けてくれました。しかし、たどり着いたお花畑に寒い冬が訪れ、おやゆび姫は食べる物がなくなり倒れてしまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477986←前話｜次話→so34477988　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477987
+  default_thread_id: 1547534183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477987.40779
+- !ruby/hash:EpisodeHash
+  episode_no: "#45"
+  title: さるのきも
+  description: 昔むかし、ある大きな川のほとりにさるの国がありました。一方、川の中にわにの夫婦が暮らしていました。わにの奥さんは重い病気かかり、病気には「さるのきも」がきくと聞いたわにの夫は、食いしん坊でいたずらっこのおさるさんをだまして…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477987←前話｜次話→so34477989　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477988
+  default_thread_id: 1547533982
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477988.26864
+- !ruby/hash:EpisodeHash
+  episode_no: "#46"
+  title: ねこがごはんのあとに顔をあらうわけ
+  description: その年、ロシアは冬が長びき、飢え死にするものや凍死するものが大勢おりました。人間に飼われるしかねこが生き残る道はないと考えたねこの王様。それに反対したのは猫の王子ミーニャーでした。ミーニャーはねこも人間のように生きればいいと主張しました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477988←前話｜次話→so34477990　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477989
+  default_thread_id: 1547534181
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477989.15059
+- !ruby/hash:EpisodeHash
+  episode_no: "#47"
+  title: なんぱ船
+  description: イギリスのリバプールからイタリアのマルタ島へ向けて船出する船がありました。その船の中で、心やさしい少女ジュリエッタはみなしごの少年マリオに出会いました。ジュリエッタはマリオの孤独な境遇を知ります。そんななか船があらしでしずみかけて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477989←前話｜次話→so34477991　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477990
+  default_thread_id: 1547534165
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477990.67150
+- !ruby/hash:EpisodeHash
+  episode_no: "#48"
+  title: さいごの一葉
+  description: ニューヨークの片隅にジョンジーという重い病気の少女がお母さんと住んでいました。ジョンジーは生きる希望を失い、窓から見えるつたの葉が全部ちった時、自分も死ぬのだと思いこんでいました。それを知った同じアパートに住む画家のベイルマンさんは…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477990←前話｜次話→so34477992　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477991
+  default_thread_id: 1547533925
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477991.60547
+- !ruby/hash:EpisodeHash
+  episode_no: "#49"
+  title: おばあさんと白くま
+  description: エスキモーのある村に、動物の皮で服や敷物を作るおばあさんが暮らしていました。ある日のこと。白くまの子どもが人間に殺されてしまったお母さんぐまを恋しがって、おばあさんの家に迷い込んできました。おばあさんは白くまの子どもを育てることにしました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477991←前話｜次話→so34477993　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477992
+  default_thread_id: 1547534177
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477992.57055
+- !ruby/hash:EpisodeHash
+  episode_no: "#50"
+  title: トロイの木馬
+  description: ギリシア軍の２人の勇者、メネラオスとアキレスは年こそはなれていましたが、固い友情で結ばれていました。メネラオスの美しい妻ヘレンがトロイのパリスにさらわれ、ヘレンをとりもどすためギリシアはトロイを攻めます。戦いは長い間続きました…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477992←前話｜次話→so34477994　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477993
+  default_thread_id: 1547533985
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477993.99189
+- !ruby/hash:EpisodeHash
+  episode_no: "#51"
+  title: 魔弾の射手
+  description: 美しい森に囲まれたボヘミア地方。明日の射げき大会に優勝して、恋人アガーテと結婚することを夢見ていた射げきの名人マックス。そんななか、ライバルの嫉妬によりマックスは肩をけがしてしまいます。優勝は絶望的と思えたマックスの前に悪魔が現れて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477993←前話｜次話→so34477995　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477994
+  default_thread_id: 1547534044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477994.13393
+- !ruby/hash:EpisodeHash
+  episode_no: "#52"
+  title: 北風のくれたテーブルかけ
+  description: ノルウェーの谷間に貧しいお母さんと男の子が住んでいました。男の子は病気のお母さんのためにパンを作ってあげようと、小屋にあった粉を持って外に出ました。そのとたん、北風が吹いて粉を飛ばしてしまいました。怒った男の子は北風に抗議にでかけました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477994←前話｜次話→so34477996　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477995
+  default_thread_id: 1547533928
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477995.56114
+- !ruby/hash:EpisodeHash
+  episode_no: "#53"
+  title: にじの湖
+  description: イタリアのカレッツァ湖にオンディーナという可愛らしい水の妖精がすんでいました。ただ一つものたりないのは湖の中が青一色でほかの美しい色がないことでした。ある日、オンディーナの美しい歌声を聞いた魔法使いが彼女に一目ぼれし、彼女を追い回しました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477995←前話｜次話→so34478299　第一話→so34340978
+  length_seconds: 731
+  content_id: so34477996
+  default_thread_id: 1547534042
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477996.4478
+- !ruby/hash:EpisodeHash
+  episode_no: "#54"
+  title: シンデレラ
+  description: 昔あるところに美しくて気立てのいい娘がいました。娘は新しいお母さんと２人のお姉さんからシンデレラと呼ばれ、用事を言いつけられてばかりいました。ある日、お城で舞踏会が開かれました。家で留守番をしていたシンデレラの前に魔法使いが現れて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34477996←前話｜次話→so34478352　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478299
+  default_thread_id: 1547538727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478299.22654
+- !ruby/hash:EpisodeHash
+  episode_no: "#55"
+  title: うさぎにまけたとら
+  description: ある森に一匹のかしこいうさぎが住んでいました。そしてこの森には恐ろしいとらも一匹住んでいました。とらがうさぎを襲おうとした時のこと。うさぎは「僕を食べる代わりにおもちを10個さしあげます」とうそをついて、焼けた石をとらにふるまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478299←前話｜次話→so34478394　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478352
+  default_thread_id: 1547539026
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478352.27517
+- !ruby/hash:EpisodeHash
+  episode_no: "#56"
+  title: ライオンのおんがえし
+  description: アフリカのある国に心やさしい羊飼いの少年が住んでいました。ある日、羊飼いはライオンの前足に大きなトゲがささっているのを見つけて抜いてあげました。それから数年後、奴隷としてローマ帝国へ連れて行かれた羊飼いは、公開処刑されることになり…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478352←前話｜次話→so34478439　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478394
+  default_thread_id: 1547539442
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478394.22376
+- !ruby/hash:EpisodeHash
+  episode_no: "#57"
+  title: 医者になったおひゃくしょうさん
+  description: むかし、フランスの片田舎におかしなおひゃくしょうさん夫婦がいました。ある日のこと。のどに魚の骨がささったお姫さまを診ることができる医者を王様が探していることを知ったおかみさんはだんなさんをこらしめる良い機会とひらめき、夫をすいせんします。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478394←前話｜次話→so34478440　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478439
+  default_thread_id: 1547540102
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478439.97110
+- !ruby/hash:EpisodeHash
+  episode_no: "#58"
+  title: おおかみと少年
+  description: 山のふもとの小さな村にひとりの少年が住んでいました。毎日、丘の上に羊を連れていき、おおかみに襲われないよう番をしているのが少年の仕事です。ある日、少年は見まちがえておおかみが出たことを大人に伝えました。注目を浴びた少年は有頂天になって…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478439←前話｜次話→so34478441　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478440
+  default_thread_id: 1547540048
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478440.4646
+- !ruby/hash:EpisodeHash
+  episode_no: "#59"
+  title: おばけのびんづめ
+  description: 気がとおくなるほど遠い遠いむかし。天上の神様たちは、暴れん坊のおばけたいじを始めました。神様はおばけたちを小さな入れ物に入れて下界に捨てました。それからずいぶん時がたったある日のこと、木こりの息子は森のなかでおばけのびんづめを見つけました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478440←前話｜次話→so34478442　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478441
+  default_thread_id: 1547540223
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478441.95176
+- !ruby/hash:EpisodeHash
+  episode_no: "#60"
+  title: 赤いくつ
+  description: お母さんと２人で住んでいたカーレンという女の子。カーレンは町のくつ屋にある赤いくつに憧れ、眺めてばかりいました。お母さんのお葬式の日、見知らぬおばあさんがカーレンに赤いくつをくれました。カーレンは赤いくつを履いてお葬式に出席しましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478441←前話｜次話→so34478443　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478442
+  default_thread_id: 1547540228
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478442.90697
+- !ruby/hash:EpisodeHash
+  episode_no: "#61"
+  title: なかまはずれのこうもり
+  description: 遠い昔のことです。鳥たちとけものたちが戦争をはじめることになりました。鳥のようにつばさを持ち、けもののようにきばを持つこうもりはどちら側に行けばよいかわからず困っていました。ずる賢いこうもりは、勝ちそうなグループの味方になろうと考えました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478442←前話｜次話→so34478444　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478443
+  default_thread_id: 1547540347
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478443.2315
+- !ruby/hash:EpisodeHash
+  episode_no: "#62"
+  title: 七つの星
+  description: 北の空にひときわ美しく輝く七つの星、北斗七星の古い言い伝えを知っていますか？長い長い日照りにおそわれたロシアのある村に病気のお母さんと娘が住んでいました。少女は水をほしがるお母さんに飲ませるため、村じゅうの夜つゆを集めていましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478443←前話｜次話→so34478361　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478444
+  default_thread_id: 1547540342
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478444.63595
+- !ruby/hash:EpisodeHash
+  episode_no: "#63"
+  title: あざらしの皮
+  description: アイスランドの海のそばに一人の若者が住んでいました。ある日の朝、若者がさんぽをしていると、遠くから楽しそうな音楽が聞こえてきました。音楽につられて大きなどうくつの前に来た若者は、そこに置いてあったあざらしの皮をだまって持ってきてしまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478444←前話｜次話→so34478360　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478361
+  default_thread_id: 1547539022
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478361.82907
+- !ruby/hash:EpisodeHash
+  episode_no: "#64"
+  title: すずの兵隊さん
+  description: すずでできたおもちゃの兵隊さん。一本足の兵隊さんは踊り子のお人形さんが大好きでした。彼女に結婚を申し込もうとした兵隊さんでしたが、びっくり箱の鬼にじゃまされて窓の外に落とされてしまいました。通りかかった子供たちが兵隊さんを拾いあげて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478361←前話｜次話→so34478359　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478360
+  default_thread_id: 1547539148
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478360.46746
+- !ruby/hash:EpisodeHash
+  episode_no: "#65"
+  title: かめがのろのろあるくわけ
+  description: 昔、ライオンの王様はアフリカ中の動物たちに証明書を発行することに決めました。しかし、たった一匹だけ証明書をもらわない動物がいました。かめです。そんなかめがインパラに恋をしました。インパラは証明書がなければお嫁さんになれないと言いました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478360←前話｜次話→so34478358　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478359
+  default_thread_id: 1547539033
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478359.92173
+- !ruby/hash:EpisodeHash
+  episode_no: "#66"
+  title: 火うちばこと兵隊さん
+  description: ある小さな町へ続く道を一人の兵隊さんが歩いていました。その途中、水を飲ませてほしいと言うおばあさんに兵隊さんは自分の水をわけてあげました。おばあさんはお礼に火うちばこをくれました。火うちばこを開けるとそれはそれは大きな犬があらわれて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478359←前話｜次話→so34478357　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478358
+  default_thread_id: 1547538903
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478358.85519
+- !ruby/hash:EpisodeHash
+  episode_no: "#67"
+  title: がちょう番の娘
+  description: あるお城で同じ年、同じ日に生まれた二人の娘がいました。一人は天使から祝福されたお姫さま、もう一人は悪魔に祝福された魔女でした。月日がすぎ、お姫さまは遠い国の王子さまのところへお嫁に行くことになりました。その途中、魔女が姫に呪いをかけて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478358←前話｜次話→so34478355　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478357
+  default_thread_id: 1547539142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478357.17745
+- !ruby/hash:EpisodeHash
+  episode_no: "#68"
+  title: ガリバー旅行記
+  description: 嵐の海で船がなんぱし、ガリバーは知らない島の浜辺に打ち上げられました。ガリバーが目を覚ますと、身動きできないよう身体が縛りつけられていることに気づきました。なんとそこは小人たちの住む国でした。ガリバーは都で王様と面会することになりました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478357←前話｜次話→so34478354　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478355
+  default_thread_id: 1547539150
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478355.25758
+- !ruby/hash:EpisodeHash
+  episode_no: "#69"
+  title: オルペウスのたて琴
+  description: ギリシアのオリンポスの山に神々が住んでいた頃のお話です。そこにたて琴が上手なオルペウスという青年がいました。オルペウスはエウリュディケという美しい妻がおり、二人は深く愛しあっていましたが、エウリュディケは毒蛇にかまれ命を落としてしまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478355←前話｜次話→so34478353　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478354
+  default_thread_id: 1547539031
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478354.57471
+- !ruby/hash:EpisodeHash
+  episode_no: "#70"
+  title: きつねとうさぎのちえくらべ（1）
+  description: うさぎが森一番のりこう者と呼ばれるので、きつねはおもしろくありません。あの手この手でつかまえようとしますが、うさぎはきつねのたくらみを見ぬいて逆にやりこめてしまいました。ある日、きつねが死んだと聞いたうさぎはきつねの家を訪れましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478354←前話｜次話→so34478300　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478353
+  default_thread_id: 1547539157
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478353.11825
+- !ruby/hash:EpisodeHash
+  episode_no: "#71"
+  title: ファウスト
+  description: ドイツにファウストという偉い学者がいました。まだまだ何も知らないことを痛感したファウストは、若返って学問を続けるためメフィストフェレスという悪魔にたましいを売る約束をします。ファウストは美しい娘に恋をして本当に大切なものが何かを知ります。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478353←前話｜次話→so34478301　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478300
+  default_thread_id: 1547538725
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478300.38824
+- !ruby/hash:EpisodeHash
+  episode_no: "#72"
+  title: アラジンとまほうのランプ
+  description: 昔、アラビアにアラジンという若者がお母さんと住んでいました。ひょんなことから不思議なランプを手に入れたアラジン。そのランプをこすると大男が現れ、どんな望みもかなえてくれるのです。アラジンはまほうのランプのおかげでお金持ちになりましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478300←前話｜次話→so34478302　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478301
+  default_thread_id: 1547538723
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478301.24702
+- !ruby/hash:EpisodeHash
+  episode_no: "#73"
+  title: どうしていぬとねこは仲がわるいか
+  description: 中国のある村に貧乏なおじいさんとおばあさんと犬とねこが住んでいました。青ヘビの命を助けたおじいさんは、振るとお金がでてくるしっぽを貰いましたが、泥棒にそのしっぽを盗まれてしまいました。犬とねこは協力して宝物を取りもどしましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478301←前話｜次話→so34478303　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478302
+  default_thread_id: 1547538735
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478302.82791
+- !ruby/hash:EpisodeHash
+  episode_no: "#74"
+  title: まほうの子うま
+  description: 麦畑を荒らした白いうまを捕まえた少年イワン。イワンは白いうまからお詫びにと、二頭の美しいうまと一頭のみにくい子うまをもらいました。何とこのみにくい子うまは、まほうの子うまでした。イワンは王様からうまや係を命じられることになり…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478302←前話｜次話→so34478304　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478303
+  default_thread_id: 1547538729
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478303.7556
+- !ruby/hash:EpisodeHash
+  episode_no: "#75"
+  title: あるおかあさんの物語
+  description: ある貧しい家に一人のおかあさんが小さな男の子と住んでいました。ある時、おもいびょうきの息子は死神につれていかれてしまいました。おかあさんは必死に死神のあとを追いかけます。そのとちゅう、さまざまな試練がおかあさんに襲いかかりました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478303←前話｜次話→so34478305　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478304
+  default_thread_id: 1547538740
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478304.41427
+- !ruby/hash:EpisodeHash
+  episode_no: "#76"
+  title: しらゆき姫
+  description: 湖と森に囲まれた美しい国。その国のお妃様がしらゆき姫を産んですぐ死んでしまいました。新しく来たお妃様は冷たく気位の高い女で、不思議な鏡を持っていました。しらゆき姫は美しい娘に育ちましたが、その美しさを妬んだお妃様は姫を殺そうとしたのです。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478304←前話｜次話→so34478306　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478305
+  default_thread_id: 1547538731
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478305.37882
+- !ruby/hash:EpisodeHash
+  episode_no: "#77"
+  title: わらと炭とそらまめ
+  description: ある村に、おばあさんが住んでいました。おばあさんがかまどでそらまめを煮ようとした時のこと。ぐうぜんこぼれ落ちたそらまめとわらと炭がいました。命が助かったそらまめとわらと炭は幸せの国をめざして旅をはじめましたが、なかなか幸せの国は見つからず…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478305←前話｜次話→so34478307　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478306
+  default_thread_id: 1547538733
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478306.7302
+- !ruby/hash:EpisodeHash
+  episode_no: "#78"
+  title: たなばたさま
+  description: 昔むかし中国の片田舎に貧しい牛かいの若者がいました。働き者の若者けん牛は天からおりてきたおり姫にひと目で恋をします。けん牛はおり姫に結婚を申し込み、二人は結婚しました。しかし天界に住むおり姫には人間と結婚できないおきてがあったのです…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478306←前話｜次話→so34478222　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478307
+  default_thread_id: 1547538737
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478307.11979
+- !ruby/hash:EpisodeHash
+  episode_no: "#79"
+  title: ガリレオ・ガリレイ
+  description: 昔の人は地球が動いているとは思ってもいませんでした。そんななか科学者ガリレオは地球が太陽を中心に動いていると発表します。神にさからった考えだと怒った教会の人々は、ガリレオだけでなく家族や弟子までをも火あぶりにするとおどしました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478307←前話｜次話→so34478221　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478222
+  default_thread_id: 1547537524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478222.42198
+- !ruby/hash:EpisodeHash
+  episode_no: "#80"
+  title: 三びきの子ぶた
+  description: ある日のこと。おかあさんぶたは三びきの兄弟の子ぶたに自分の力で家を作ってごらんなさいといいます。一番上のおにいさんぶたは麦わらの家、二番目のおにいさんは木の家、末っ子はれんがの家をそれぞれ造るのですが、そこに怖いおおかみがやって来て…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478222←前話｜次話→so34478220　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478221
+  default_thread_id: 1547537582
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478221.8689
+- !ruby/hash:EpisodeHash
+  episode_no: "#81"
+  title: イワンのばか
+  description: むかし、ロシアのある片田舎に年老いた悪魔と小悪魔が住みついていました。おなじ町に住む正直ではたらき者のイワン。悪魔は、あの手この手でイワンをなまけものにしようとたくらみます。ある日、イワンに捕まった小悪魔は助けてほしいとこんがんして…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478221←前話｜次話→so34478219　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478220
+  default_thread_id: 1547537469
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478220.77229
+- !ruby/hash:EpisodeHash
+  episode_no: "#82"
+  title: きつねとうさぎのちえくらべ（2）
+  description: ある森にきつねとうさぎが住んでいました。自分こそが森で一番かしこいと思っているきつねとうさぎ。そんなある日、小鳥たちからきつねの話を聞いたうさぎは、きつねより僕のほうが知恵がある、うさぎはきつねを乗り馬にしているんだとじまんします。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478220←前話｜次話→so34478218　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478219
+  default_thread_id: 1547537471
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478219.91252
+- !ruby/hash:EpisodeHash
+  episode_no: "#83"
+  title: ドラキュラ
+  description: トランシルバニアという地方にいまも残る恐ろしくも悲しい言い伝えをご存知ですか？あるお城にドラキュラ族という人間の生き血を吸って生きている吸血鬼たちが棲んでいました。ある嵐の夜、馬車に乗っていたシャロンは山奥で転落事故に遭い、たった一人生き残り…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478219←前話｜次話→so34478217　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478218
+  default_thread_id: 1547537465
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478218.61507
+- !ruby/hash:EpisodeHash
+  episode_no: "#84"
+  title: 炎のうま
+  description: 隣同士でありながら長年にわたり険悪な関係だった２つの名家メッツェンガーシュタイン家とベルリフィッツイング家。ざんにんなフレデリックは、ウィルヘルムを愛馬と共に死なせてしまいます。ウィルヘルムのたましいは、フレデリックの馬の絵にのりうつり…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478218←前話｜次話→so34478216　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478217
+  default_thread_id: 1547537467
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478217.11552
+- !ruby/hash:EpisodeHash
+  episode_no: "#85"
+  title: 仕事をとりかえたおやじさん
+  description: がみがみおこってばかりのおやじさん。あきれた奥さんは、自分のやっている育児やごはんの支度、家畜の世話などの家の仕事とおやじさんの畑仕事をこうかんしようと提案しました。仕事をとりかえたおやじさんは上機嫌。家の仕事はらくちんと思っていましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478217←前話｜次話→so34478215　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478216
+  default_thread_id: 1547537475
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478216.14949
+- !ruby/hash:EpisodeHash
+  episode_no: "#86"
+  title: はくちょうの騎士
+  description: アントワープ地方の領主となった若きゴットフリートとエルザという仲の良い姉弟。エルザは不思議な夢を見ました。白鳥の騎士が現れ、困った時はラッパを吹いて助けを呼ぶようにと言うのです。そんなある日、罪に陥れられたエルザは白鳥の騎士を呼びますが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478216←前話｜次話→so34478214　第一話→so34340978
+  length_seconds: 732
+  content_id: so34478215
+  default_thread_id: 1547537307
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478215.59090
+- !ruby/hash:EpisodeHash
+  episode_no: "#87"
+  title: でこしろ
+  description: ロシアの田舎にたった一人で住んでいたおじいさんがいました。そのおじいさんの家には二頭の猟犬とでこしろという子犬がいました。ある日のこと、年老いたお母さん狼に子羊とまちがわれてさらわれたでこしろ。でこしろは狼の子どもたちと仲良く遊びはじめ…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478215←前話｜次話→so34478179　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478214
+  default_thread_id: 1547537463
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478214.4472
+- !ruby/hash:EpisodeHash
+  episode_no: "#88"
+  title: エミリーの赤いてぶくろ
+  description: イギリスのある農家にエミリーとお母さんが２人で住んでいました。お母さんに赤い手ぶくろを買ってもらったエミリーは大はしゃぎ。なのにエミリーは大切なてぶくろをかたほうなくしてしまいました。魔法使いとうわさのおじいさんの家に向かったエミリーは…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478214←前話｜次話→so34478178　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478179
+  default_thread_id: 1547536629
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478179.94798
+- !ruby/hash:EpisodeHash
+  episode_no: "#89"
+  title: きつねのさいばん
+  description: 動物たちをこまらせてばかりの乱暴でいじわるな悪いきつねがいました。ついに我慢できなくなった動物たちはライオンの王に訴え、きつねはさいばんにかけられることになりました。しかし肝心のきつねがさいばんに出席しないことにはさいばんになりません…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478179←前話｜次話→so34478177　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478178
+  default_thread_id: 1547536622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478178.90472
+- !ruby/hash:EpisodeHash
+  episode_no: "#90"
+  title: きつねとうさぎのちえくらべ（3）
+  description: 森のルールをやぶってみんながおひるねをしている間に池の魚を大量に釣り上げひとりじめしたきつね。うさぎはちえをしぼってきつねをこらしめます。だまされたきつねは、落とし穴をほったり、ほうちょうを持ってうさぎを追いかけまわしたりしますが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478178←前話｜次話→so34478176　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478177
+  default_thread_id: 1547536627
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478177.89198
+- !ruby/hash:EpisodeHash
+  episode_no: "#91"
+  title: フランケンシュタイン
+  description: フランケンシュタイン博士はお墓から盗んだ死んだ人の体を組みあわせて怪物をつくるという恐ろしい実験についに成功します。しかし、人々から恐れられ憎まれた怪物は、その怪力で彼らを殺さずにおられませんでした。そんななか、純粋な一人の少女と出会い…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478177←前話｜次話→so34478175　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478176
+  default_thread_id: 1547537042
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478176.55976
+- !ruby/hash:EpisodeHash
+  episode_no: "#92"
+  title: 金色のしか
+  description: 昔むかしあるところによくばりな王様が住んでいました。この王様は何よりも金が大好きでした。ある日、かりにでかけた王様は金色のしかを見つけます。しかにたのまれ、しかを逃がしたやさしいホセン。王様はそんなホセンにひどい命令を下すのでした。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478176←前話｜次話→so34478213　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478175
+  default_thread_id: 1547537044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478175.62056
+- !ruby/hash:EpisodeHash
+  episode_no: "#93"
+  title: かぜをひいたうさぎ
+  description: ビルマの国のジャングルの奥に自分勝手なライオンの王様がいました。おうぼうな王様のせいでけらいたちは困っていました。頭のよいうさぎは、ちえをしぼってある計画を思いつきました。うさぎは王様のもとへいって衣装をプレゼントしたいと申し出て…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478175←前話｜次話→so34478103　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478213
+  default_thread_id: 1547537305
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478213.31127
+- !ruby/hash:EpisodeHash
+  episode_no: "#94"
+  title: ロビンフッドのぼうけん
+  description: ノッティンガムのシャーウッドという森にロビンフッドという若者が仲間たちとともにかくれてくらしていました。重い税金に苦しむ人々を助けるロビンフッドたち。悪代官はノッティンガム一の弓の名手を決める試合にロビンフッドをおびき出そうとたくらみます。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478213←前話｜次話→so34478102　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478103
+  default_thread_id: 1547535967
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478103.97161
+- !ruby/hash:EpisodeHash
+  episode_no: "#95"
+  title: 魔法の木の葉
+  description: アフリカのジャングルの奥、川のほとりの村。村のかしらに双子の息子が生まれました。月日がたち、生まれつき体の弱かった弟のケヒンデは、虫けらのように嫌われ、悲しみのあまり村を出ました。ケヒンデはまほうにかけられ木の葉にされたお姫さまを助けて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478103←前話｜次話→so34478101　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478102
+  default_thread_id: 1547535963
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478102.47503
+- !ruby/hash:EpisodeHash
+  episode_no: "#96"
+  title: 死をかけた友情
+  description: 昔ある国にたいへんうたがいぶかい王様が住んでいました。王様は山むこうの牧場から友達に会いにやってきたひつじかいを自分の命をねらってきた者だと疑い、死刑を宣告しました。ひつじかいは身がわりになってくれた友人との約束のためけんめいに走ります。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478102←前話｜次話→so34478100　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478101
+  default_thread_id: 1547535727
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478101.76555
+- !ruby/hash:EpisodeHash
+  episode_no: "#97"
+  title: 水の精と少年
+  description: 湖のほとりに住んでいた三人兄弟の末っ子のペール。両親の形見としてもらったのは、たった一本のなわ。ペールはこの一本のなわを使ってえものをとらえようとします。その様子をみていた好奇心おうせいな水の精はペールに何をしているのか問いかけました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478101←前話｜次話→so34478099　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478100
+  default_thread_id: 1547535844
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478100.79550
+- !ruby/hash:EpisodeHash
+  episode_no: "#98"
+  title: そんごくう一の巻
+  description: 海の向こうにそびえ立つ花果山のてっぺんに乗っていた大きな石。その中から一匹の小猿が生まれました。暴れん坊のこの猿は、誰よりも強くなりたいと仙人にお願いして修行を始めました。筋斗雲という雲をあやつり広い世界へ旅立ったそんごくうは天帝さまに会い…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478100←前話｜次話→so34478097　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478099
+  default_thread_id: 1547535848
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478099.62940
+- !ruby/hash:EpisodeHash
+  episode_no: "#99"
+  title: なぜカラスはカッコウの卵のせわをするか
+  description: どろんこ玉がおしりにめりこんで痛がるふくろうを気の毒に思ったカラスは、医者のかっこうに診てもらったらどうかと提案します。病気が治ったとたん、ふくろうは治療代を踏み倒してしまいました。カラスはふくろうのせいで裁判にかけらることになり…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478099←前話｜次話→so34478096　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478097
+  default_thread_id: 1547536026
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478097.31097
+- !ruby/hash:EpisodeHash
+  episode_no: "#100"
+  title: そんごくう二の巻
+  description: そんごくうが山の下に閉じ込められてから500年後のある日。山のそばをさんぞう法師というえらいおぼう様が通りかかり、そんごくうはようやく助けだされました。そんごくうは天竺へ向かうさんぞう法師の弟子になり、いっしょに旅をすることになりました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478097←前話｜次話→so34478095　第一話→so34340978
+  length_seconds: 732
+  content_id: so34478096
+  default_thread_id: 1547535852
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478096.13314
+- !ruby/hash:EpisodeHash
+  episode_no: "#101"
+  title: ありときりぎりす
+  description: 遊ぶことが大好きなきりぎりすさんは毎日毎日パーティーをひらいていました。そんななか、冬にそなえてひっしに食べ物の準備をする、はたらき者のありさんたち。きりぎりすさんはありさんたちをバカにします。しかし、まもなくきびしい冬がやってきて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478096←前話｜次話→so34478094　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478095
+  default_thread_id: 1547535846
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478095.49520
+- !ruby/hash:EpisodeHash
+  episode_no: "#102"
+  title: リア王
+  description: ブリテンという国にリア王という王様がいました。王にはゴネリル、リーガン、コーディリアという娘がいました。王はやさしいコーディリアを追い出し、2人の姉に国を与えますが、姉たちに失望して荒野をさまよいます。コーディリアはリア王のために姉と戦い…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478095←前話｜次話→so34478093　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478094
+  default_thread_id: 1547535854
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478094.45068
+- !ruby/hash:EpisodeHash
+  episode_no: "#103"
+  title: 夜光の玉
+  description: 中国にアーターとアールという兄弟がいました。ある晩アールは川のほとりで待っている娘に結婚を申しこむよう夢のお告げを受けました。兄弟が川のほとりに行くと、本当に美しい娘がいて、竜王の宮殿から夜光の玉を取ってきてくれた人と結婚するとつげます。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478094←前話｜次話→so34478092　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478093
+  default_thread_id: 1547535851
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478093.99195
+- !ruby/hash:EpisodeHash
+  episode_no: "#104"
+  title: 若草物語（前編）
+  description: 1860年代、アメリカは南と北にわかれて激しい戦いを続けていました。マーチ家の長女メグ、次女ジョー、三女ベス、四女エミーは仲の良い四姉妹。戦地へ行ったお父さんの無事の帰還を祈り、やさしい母と暮らす姉妹たち。まもなくクリスマスがやってきます…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478093←前話｜次話→so34478091　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478092
+  default_thread_id: 1547535427
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478092.86409
+- !ruby/hash:EpisodeHash
+  episode_no: "#105"
+  title: 若草物語（後編）
+  description: 1860年代、アメリカは南と北にわかれて激しい戦いを続けていました。マーチ家の長女メグ、次女ジョー、三女ベス、四女エミーは仲の良い四姉妹。戦地へ行ったお父さんの無事の帰還を祈り、やさしい母と暮らす姉妹たち。まもなくクリスマスがやってきます…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478092←前話｜次話→so34478090　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478091
+  default_thread_id: 1547535673
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478091.66245
+- !ruby/hash:EpisodeHash
+  episode_no: "#106"
+  title: にんじん（前編）
+  description: フランスの片田舎にあるルピック家。赤い髪とそばかすを持つフランソワは、家族から「にんじん」とよばれてばかにされていました。愛してくれないお母さん、無関心なお父さん、いじわるなお兄さんとお姉さん。にんじんは家の仕事をおしつけられてばかりでした。そんなにんじんのたった一人の味方は、年老いた女中のオノリーヌだけでした。しかし、そのオノリーヌも仕事をやめることになってしまいました。ひとりぼっちのフランソワはさびしくて仕方ありません…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478091←前話｜次話→so34478089　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478090
+  default_thread_id: 1547535425
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478090.98904
+- !ruby/hash:EpisodeHash
+  episode_no: "#107"
+  title: にんじん（後編）
+  description: フランスの片田舎にあるルピック家。赤い髪とそばかすを持つフランソワは、家族から「にんじん」とよばれてばかにされていました。愛してくれないお母さん、無関心なお父さん、いじわるなお兄さんとお姉さん。にんじんは家の仕事をおしつけられてばかりでした。そんなにんじんのたった一人の味方は、年老いた女中のオノリーヌだけでした。しかし、そのオノリーヌも仕事をやめることになってしまいました。ひとりぼっちのフランソワはさびしくて仕方ありません…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478090←前話｜次話→so34478088　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478089
+  default_thread_id: 1547535484
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478089.19353
+- !ruby/hash:EpisodeHash
+  episode_no: "#108"
+  title: 家なき子（前編）
+  description: 今から100年ほど前のこと。フランスある村にレミという８さいになる少年がいました。ある日、パリに働きにいった父と初めて会ったレミは自分が捨て子だと聞かされます。無理やり孤児院に連れていかれそうになったレミは、やさしい旅芸人のビタリスじいさんとめぐり会い、いっしょにいろんな町をまわることになりました。おじいさんから楽器や勉強を教わったレミ。そんなある日、ビタリスじいさんが警察に連れて行かれてしまい、レミは途方にくれてしまいます。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478089←前話｜次話→so34478087　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478088
+  default_thread_id: 1547535482
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478088.59561
+- !ruby/hash:EpisodeHash
+  episode_no: "#109"
+  title: 家なき子（後編）
+  description: 今から100年ほど前のこと。フランスある村にレミという８さいになる少年がいました。ある日、パリに働きにいった父と初めて会ったレミは自分が捨て子だと聞かされます。無理やり孤児院に連れていかれそうになったレミは、やさしい旅芸人のビタリスじいさんとめぐり会い、いっしょにいろんな町をまわることになりました。おじいさんから楽器や勉強を教わったレミ。そんなある日、ビタリスじいさんが警察に連れて行かれてしまい、レミは途方にくれてしまいます。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478088←前話｜次話→so34478086　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478087
+  default_thread_id: 1547535605
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478087.25740
+- !ruby/hash:EpisodeHash
+  episode_no: "#110"
+  title: ナイチンゲール物語（前編）
+  description: 100年以上も昔のクリミア半島。イギリス、フランス、トルコの軍隊がロシアを相手に戦争を始めました。戦争は長くつづき、数多くの兵士たちが命を落としていきました。傷ついた兵隊のほとんどが手当を受けられず、戦場にほうっておかれました。そんなある日のこと、フローレンス・ナイチンゲール率いる38名のかんごふ部隊が戦地にやってきました。ナイチンゲールたちはひさんでふけつな戦地の病院の状況に驚きます。かんごふさんたちの中には泣き出す人もいましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478087←前話｜次話→so34478104　第一話→so34340978
+  length_seconds: 732
+  content_id: so34478086
+  default_thread_id: 1547535607
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478086.98179
+- !ruby/hash:EpisodeHash
+  episode_no: "#111"
+  title: ナイチンゲール物語（後編）
+  description: 100年以上も昔のクリミア半島。イギリス、フランス、トルコの軍隊がロシアを相手に戦争を始めました。戦争は長くつづき、数多くの兵士たちが命を落としていきました。傷ついた兵隊のほとんどが手当を受けられず、戦場にほうっておかれました。そんなある日のこと、フローレンス・ナイチンゲール率いる38名のかんごふ部隊が戦地にやってきました。ナイチンゲールたちはひさんでふけつな戦地の病院の状況に驚きます。かんごふさんたちの中には泣き出す人もいましたが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478086←前話｜次話→so34478105　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478104
+  default_thread_id: 1547535671
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478104.14060
+- !ruby/hash:EpisodeHash
+  episode_no: "#112"
+  title: 宝島（前編）
+  description: 18世紀のイギリス。ある港町のはずれにベンボーていとくという古い宿屋があり、おかみさんと息子のジムが２人で宿屋をきりもりしていました。ジムはゆうかんで冒険好きな少年でした。ある日のこと、ジムは顔に傷のある船長が持っていた宝島の地図を手に入れました。ジムは大地主のトレローニさんと医者のリブシー先生、そして船乗りのシルバーたちと、ぼうけんの旅にでかけることになりました。はたしてジムは無事に宝物をみつけることができるのでしょうか…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478104←前話｜次話→so34478223　第一話→so34340978
+  length_seconds: 732
+  content_id: so34478105
+  default_thread_id: 1547535667
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478105.86359
+- !ruby/hash:EpisodeHash
+  episode_no: "#113"
+  title: 宝島（後編）
+  description: 18世紀のイギリス。ある港町のはずれにベンボーていとくという古い宿屋があり、おかみさんと息子のジムが２人で宿屋をきりもりしていました。ジムはゆうかんで冒険好きな少年でした。ある日のこと、ジムは顔に傷のある船長が持っていた宝島の地図を手に入れました。ジムは大地主のトレローニさんと医者のリブシー先生、そして船乗りのシルバーたちと、ぼうけんの旅にでかけることになりました。はたしてジムは無事に宝物をみつけることができるのでしょうか…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478105←前話｜次話→so34478224　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478223
+  default_thread_id: 1547537282
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478223.1279
+- !ruby/hash:EpisodeHash
+  episode_no: "#114"
+  title: 少女コゼット（前編）
+  description: 工場で働いていたファンティーヌは幼い娘コゼットをたった一人のこして死んでしまいました。ファンティーヌの死をみとったジャン・バルジャンことマドレーヌ市長は、小さな安ホテルにあずけられているコゼットを迎えにいきました。その頃、コゼットはテナルディエ夫婦にこき使われながら暮らしていました。ある雪の降るさむい夜、森の泉に水をくみにいくよう言いつけられたコゼットはそこでマドレーヌ市長とであいました。マドレーヌ市長は少女の名前を聞いて驚きました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478223←前話｜次話→so34478308　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478224
+  default_thread_id: 1547537303
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478224.61304
+- !ruby/hash:EpisodeHash
+  episode_no: "#115"
+  title: 少女コゼット（後編）
+  description: 工場で働いていたファンティーヌは幼い娘コゼットをたった一人のこして死んでしまいました。ファンティーヌの死をみとったジャン・バルジャンことマドレーヌ市長は、小さな安ホテルにあずけられているコゼットを迎えにいきました。その頃、コゼットはテナルディエ夫婦にこき使われながら暮らしていました。ある雪の降るさむい夜、森の泉に水をくみにいくよう言いつけられたコゼットはそこでマドレーヌ市長とであいました。マドレーヌ市長は少女の名前を聞いて驚きました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478224←前話｜次話→so34478309　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478308
+  default_thread_id: 1547538425
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478308.42711
+- !ruby/hash:EpisodeHash
+  episode_no: "#116"
+  title: カルメン（前編）
+  description: スペインのセビリアにタバコ工場ではたらくカルメンという情熱的できまぐれなジプシーの娘がいました。若者や兵士は美しいカルメンに夢中でした。ですが、そんなカルメンに関心をしめさない男がいました。ドン・ホセという名前の兵士でした。その日の午後のこと、カルメンは工場でけんかさわぎを起こし捕らえられました。カルメンはホセに逃げないから縄をといてほしいとお願いします。カルメンを信じて言うことをきいたホセでしたが、カルメンはあっさり逃げてしまい…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478308←前話｜次話→so34478310　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478309
+  default_thread_id: 1547538424
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478309.50435
+- !ruby/hash:EpisodeHash
+  episode_no: "#117"
+  title: カルメン（後編）
+  description: スペインのセビリアにタバコ工場ではたらくカルメンという情熱的できまぐれなジプシーの娘がいました。若者や兵士は美しいカルメンに夢中でした。ですが、そんなカルメンに関心をしめさない男がいました。ドン・ホセという名前の兵士でした。その日の午後のこと、カルメンは工場でけんかさわぎを起こし捕らえられました。カルメンはホセに逃げないから縄をといてほしいとお願いします。カルメンを信じて言うことをきいたホセでしたが、カルメンはあっさり逃げてしまい…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478309←前話｜次話→so34478311　第一話→so34340978
+  length_seconds: 732
+  content_id: so34478310
+  default_thread_id: 1547538362
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478310.29121
+- !ruby/hash:EpisodeHash
+  episode_no: "#118"
+  title: 白鳥の湖（前編）
+  description: ずーっと昔のこと。森に囲まれたしずかな国に、うつくしい湖がありました。この湖に純白の白鳥が現れるようになったのはいつの頃のことでしょうか？この国にはジークフリートという王子がおりました。今日はお城で王子の成人のお祝いのパーティーがひらかれていました。王子は翌日の舞踏会で自分の花嫁が決まると言われてとまどいます。その夜、王子は湖で魔王にのろいをかけられたオデット姫に会います。王子はオデットを気に入り、姫を舞踏会に招待しますが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478310←前話｜次話→so34478312　第一話→so34340978
+  length_seconds: 732
+  content_id: so34478311
+  default_thread_id: 1547538366
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478311.99046
+- !ruby/hash:EpisodeHash
+  episode_no: "#119"
+  title: 白鳥の湖（後編）
+  description: ずーっと昔のこと。森に囲まれたしずかな国に、うつくしい湖がありました。この湖に純白の白鳥が現れるようになったのはいつの頃のことでしょうか？この国にはジークフリートという王子がおりました。今日はお城で王子の成人のお祝いのパーティーがひらかれていました。王子は翌日の舞踏会で自分の花嫁が決まると言われてとまどいます。その夜、王子は湖で魔王にのろいをかけられたオデット姫に会います。王子はオデットを気に入り、姫を舞踏会に招待しますが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478311←前話｜次話→so34478445　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478312
+  default_thread_id: 1547538741
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478312.82198
+- !ruby/hash:EpisodeHash
+  episode_no: "#120"
+  title: ロミオとジュリエット（前編）
+  description: ヴェローナにあるモンタギュー家とキュピレット家は昔から仲が悪く、争いがたえません。対立の続く両家の間で時には血が流れることもあり、ヴェローナの平和を乱していました。そんなある日のこと、キュピレット家では仮装舞踏会がひらかれ、モンタギュー家のロミオは親友のベンヴォーリオ、マキューシオとともに舞踏会にしのびこみ、キュピレット家のジュリエットと出会いひと目で恋に落ちました。二人はお互いの立場を知りつつも、愛をちかいあいますが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478312←前話｜次話→so34478228　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478445
+  default_thread_id: 1547540282
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478445.63040
+- !ruby/hash:EpisodeHash
+  episode_no: "#121"
+  title: ロミオとジュリエット（後編）
+  description: ヴェローナにあるモンタギュー家とキュピレット家は昔から仲が悪く、争いがたえません。対立の続く両家の間で時には血が流れることもあり、ヴェローナの平和を乱していました。そんなある日のこと、キュピレット家では仮装舞踏会がひらかれ、モンタギュー家のロミオは親友のベンヴォーリオ、マキューシオとともに舞踏会にしのびこみ、キュピレット家のジュリエットと出会いひと目で恋に落ちました。二人はお互いの立場を知りつつも、愛をちかいあいますが…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478445←前話｜次話→so34478227　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478228
+  default_thread_id: 1547537309
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478228.94519
+- !ruby/hash:EpisodeHash
+  episode_no: "#122"
+  title: 不思議の国のアリス（前編）
+  description: ある午後のひと時。アリスは退屈な時間を過ごしていました。一緒にいたお姉さんは難しい本に夢中で、ちっともアリスのことをかまってくれません。そんなアリスの前に時計を持って慌てているうさぎが現れました。うさぎを追いかけているうちにアリスは深い深い穴に落ちてしまいました。たどり着いたのは不思議な不思議な世界。扉の向こう側に行こうとしたアリスでしたが、通り抜けることができません。アリスは「私をのんで」と書かれた薬を飲み干しますが、身体が小さくなるどころかますます大きくなって…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478228←前話｜次話→so34478226　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478227
+  default_thread_id: 1547537299
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478227.41683
+- !ruby/hash:EpisodeHash
+  episode_no: "#123"
+  title: 不思議の国のアリス（後編）
+  description: ある午後のひと時。アリスは退屈な時間を過ごしていました。一緒にいたお姉さんは難しい本に夢中で、ちっともアリスのことをかまってくれません。そんなアリスの前に時計を持って慌てているうさぎが現れました。うさぎを追いかけているうちにアリスは深い深い穴に落ちてしまいました。たどり着いたのは不思議な不思議な世界。扉の向こう側に行こうとしたアリスでしたが、通り抜けることができません。アリスは「私をのんで」と書かれた薬を飲み干しますが、身体が小さくなるどころかますます大きくなって…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478227←前話｜次話→so34478225　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478226
+  default_thread_id: 1547537284
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478226.17572
+- !ruby/hash:EpisodeHash
+  episode_no: "#124"
+  title: アンクルトムの小屋（前編）
+  description: いまから100年ほど前のアメリカ。ケンタッキー州でわたを作っているシェルビーさんは事業に失敗して大きな借金をしてしまいました。そのシェルビー家に奴隷商人のヘイリーがやってきました。奴隷たちを家族のように思っていたシェルビーさんに向かって、ヘイリーは奴隷一人とまだ幼いハリー坊やを渡せば借金をなしにすると提案しました。それを知ったハリーの母親イライザは坊やを連れて逃げようと決心します。イライザは必死にオハイオ川の土手までやってきました。そこへヘイリーと手下が追いかけてきて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478226←前話｜次話→so34478211　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478225
+  default_thread_id: 1547537473
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478225.81899
+- !ruby/hash:EpisodeHash
+  episode_no: "#125"
+  title: アンクルトムの小屋（後編）
+  description: いまから100年ほど前のアメリカ。ケンタッキー州でわたを作っているシェルビーさんは事業に失敗して大きな借金をしてしまいました。そのシェルビー家に奴隷商人のヘイリーがやってきました。奴隷たちを家族のように思っていたシェルビーさんに向かって、ヘイリーは奴隷一人とまだ幼いハリー坊やを渡せば借金をなしにすると提案しました。それを知ったハリーの母親イライザは坊やを連れて逃げようと決心します。イライザは必死にオハイオ川の土手までやってきました。そこへヘイリーと手下が追いかけてきて…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478225←前話｜次話→so34478174　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478211
+  default_thread_id: 1547537105
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478211.72394
+- !ruby/hash:EpisodeHash
+  episode_no: "#126"
+  title: くるみわり人形（前編）
+  description: クララは小さいころ両親と死に別れ、お金持ちのおじさんの家に預けられました。でもおじさんの子どもたちはクララを毛虫でも見るように嫌いいじめていました。そんなクララのたった一人の話し相手は物言わぬくるみ割り人形でした。クララはくるみ割り人形が本当は王子様でガラスのドラゴンに乗って迎えに来てくれるのだと信じていました。あるクリスマスの夜のこと、おじさんの家ではパーティーが行われました。子どもたちはクララをパーティーから追いだそうと考え、くるみ割り人形を壊してしまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478211←前話｜次話→so34478108　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478174
+  default_thread_id: 1547536625
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478174.46377
+- !ruby/hash:EpisodeHash
+  episode_no: "#127"
+  title: くるみわり人形（後編）
+  description: クララは小さいころ両親と死に別れ、お金持ちのおじさんの家に預けられました。でもおじさんの子どもたちはクララを毛虫でも見るように嫌いいじめていました。そんなクララのたった一人の話し相手は物言わぬくるみ割り人形でした。クララはくるみ割り人形が本当は王子様でガラスのドラゴンに乗って迎えに来てくれるのだと信じていました。あるクリスマスの夜のこと、おじさんの家ではパーティーが行われました。子どもたちはクララをパーティーから追いだそうと考え、くるみ割り人形を壊してしまいました。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478174←前話｜次話→so34478107　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478108
+  default_thread_id: 1547535670
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478108.62570
+- !ruby/hash:EpisodeHash
+  episode_no: "#128"
+  title: 雪の女王（前編）
+  description: 悪魔が一枚の鏡を作りました。恐ろしいことにこの鏡はすべて正反対に写す鏡でした。醜いもの汚いものは美しく、美しいもの清らかな心の人間は醜く悪い心の人間に変えてしまうのです。怒った神様はその鏡を砕き、風で遠い海に捨てようとしました。しかし小さな破片が逸れ、心優しい少年、カイの目の中に入ってしまったのです。カイは急に別人のような乱暴な人間になってしまいました。クリスマスの日、カイは雪の女王に連れ去られてしまいます。カイがソリで空に連れて行かれる姿を目撃したゲルダは…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478108←前話｜次話→so34478106　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478107
+  default_thread_id: 1547535903
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478107.89927
+- !ruby/hash:EpisodeHash
+  episode_no: "#129"
+  title: 雪の女王（後編）
+  description: 悪魔が一枚の鏡を作りました。恐ろしいことにこの鏡はすべて正反対に写す鏡でした。醜いもの汚いものは美しく、美しいもの清らかな心の人間は醜く悪い心の人間に変えてしまうのです。怒った神様はその鏡を砕き、風で遠い海に捨てようとしました。しかし小さな破片が逸れ、心優しい少年、カイの目の中に入ってしまったのです。カイは急に別人のような乱暴な人間になってしまいました。クリスマスの日、カイは雪の女王に連れ去られてしまいます。カイがソリで空に連れて行かれる姿を目撃したゲルダは…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478107←前話｜次話→so34478085　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478106
+  default_thread_id: 1547535675
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478106.96175
+- !ruby/hash:EpisodeHash
+  episode_no: "#130"
+  title: 雪だるまの詩
+  description: 前日からの吹雪がやみ、家の前の庭には真っ白な雪が積もりました。姉のヴァイオレットと弟のピオニーは、雪遊びで大はしゃぎ。２人は女の子の人形を作り始めました。氷の瞳を入れたその時、夕方のばら色の雲から光が差し込み、不思議なことが起こりました…。<br><br>語り:宮城まり子<br><br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美<br><br>©WTV／TBSサービス<br><br>so34478106←前話　第一話→so34340978
+  length_seconds: 731
+  content_id: so34478085
+  default_thread_id: 1547535729
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34478085.86611
+cast: "[キャスト]<br>語り:宮城まり子"
+staff: "[スタッフ]<br>プロデューサー:丹野雄二、おおだ靖雄、小藤担、井上博（TBS）／音楽:伊部晴美"
+produced_year: "[製作年]<br>1976年"
+copyright: "©WTV／TBSサービス"
+related_seasons: !ruby/array:Hashie::Array []

@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
-  name: 山寺宏一
+  name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 高垣彩陽
+  name: 山寺宏一
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤かな恵
@@ -53,13 +53,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：アニプレックス
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：足立慎吾
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：川原礫
   type: staff
 - !ruby/hash:TagHash
   name: 監督：伊藤智彦
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：足立慎吾
   type: staff
 - !ruby/hash:TagHash
   name: 原作販売元：アスキー・メディアワークス
@@ -77,22 +77,22 @@ tags: !ruby/array:Hashie::Array
   name: 電撃
   type: other
 - !ruby/hash:TagHash
+  name: ハーレム
+  type: other
+- !ruby/hash:TagHash
   name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: 魔法使い
   type: other
 - !ruby/hash:TagHash
   name: ダックスプロダクション
   type: other
 - !ruby/hash:TagHash
-  name: 岩浪美和
+  name: 異世界
   type: other
 - !ruby/hash:TagHash
-  name: 西山茂
-  type: other
-- !ruby/hash:TagHash
-  name: GENCO
-  type: other
-- !ruby/hash:TagHash
-  name: 最強ヒーロー
+  name: お母さん
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -412,11 +412,11 @@ episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第25話
   title: 世界の種子
-  description: オベイロンと決着をつけた後、キリトはアスナと現実世界での再会を固く誓いあい、《ALO》からログアウトした。現実世界に戻るやいなや、明日奈が入院している病院へと急ぎ向かう和人。ところが、病院の入り口で和人を待っていたのは憎悪と痛みに顔を歪ませた須藤だった。復讐に駆られるまま、ナイフを手にした須藤は和人に襲いかかる。現実世界で初めて直面する命の危機に、和人は為す術もなく体を丸め……。<br><br>キリト:松岡禎丞／アスナ:戸松遥／リーファ:竹達彩奈／ユイ:伊藤かな恵／シリカ:日高里菜／リズベット:高垣彩陽／クライン:平田広明／エギル:安元洋貴／サチ:早見沙織／茅場晶彦:山寺宏一<br><br>原作:川原
+  description: オベイロンと決着をつけた後、キリトはアスナと現実世界での再会を固く誓いあい、《ALO》からログアウトした。現実世界に戻るやいなや、明日奈が入院している病院へと急ぎ向かう和人。ところが、病院の入り口で和人を待っていたのは憎悪と痛みに顔を歪ませた須郷だった。復讐に駆られるまま、ナイフを手にした須郷は和人に襲いかかる。現実世界で初めて直面する命の危機に、和人は為す術もなく体を丸め……。<br><br>キリト:松岡禎丞／アスナ:戸松遥／リーファ:竹達彩奈／ユイ:伊藤かな恵／シリカ:日高里菜／リズベット:高垣彩陽／クライン:平田広明／エギル:安元洋貴／サチ:早見沙織／茅場晶彦:山寺宏一<br><br>原作:川原
     礫(電撃文庫/アスキー・メディアワークス刊)／原作イラスト キャラクターデザイン原案:abec／監督:伊藤智彦／キャラクターデザイン:足立慎吾／サブキャラクターデザイン:川上哲也／総作画監督:足立慎吾､川上哲也／アクション作画監督:柳
     隆太､鹿間貴裕／メインアニメーター:斎藤敦史／モンスターデザイン:柳 隆太／プロップデザイン:土屋祐太､鹿間貴裕､千葉 茂／色彩設計:中島和子／美術監督:竹田悠介(Bamboo)､長島孝幸(Bamboo)
     ／美術設定:谷内優穂(KUSANAGI) ／コンセプトアート:堀壮太郎／撮影監督:廣岡 岳､臼田 睦／CG監督:雲藤隆太／編集:西山 茂／音響監督:岩浪美和／効果:今野康之／音響制作:ダックスプロダクション／音楽:梶浦由記／音楽制作:アニプレックス／プロジェクト統括:GENCO／アニメーション制作:A-1
-    Pictures／製作:SAO Project<br><br>so32270571←前話　第一話→so32268084
+    Pictures／製作:SAO Project<br><br>(C)川原 礫／アスキー・メディアワークス／SAO Project<br><br>so32270571←前話　第一話→so32268084
   length_seconds: 1420
   content_id: so32270572
   default_thread_id: 1510677057
@@ -431,8 +431,10 @@ produced_year: "[製作年]<br>2012年"
 copyright: "(C)川原 礫／アスキー・メディアワークス／SAO Project"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
+  title: ソードアート・オンライン Extra Edition
+- !ruby/hash:SeasonHash
+  title: ソードアート・オンラインⅡ
+- !ruby/hash:SeasonHash
   title: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン
 - !ruby/hash:SeasonHash
-  title: ソードアート・オンラインII
-- !ruby/hash:SeasonHash
-  title: ソードアート・オンライン Extra Edition
+  title: ソードアート・オンライン アリシゼーション

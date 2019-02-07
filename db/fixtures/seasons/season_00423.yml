@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 宮野真守
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
   name: 田村ゆかり
@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 木村良平
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
   name: 遊佐浩二
@@ -53,22 +53,22 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：A-1 Pictures
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：阿部記之
-  type: staff
-- !ruby/hash:TagHash
   name: キャラクターデザイン：芝美奈子
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：光田康典
   type: staff
 - !ruby/hash:TagHash
+  name: 監督：阿部記之
+  type: staff
+- !ruby/hash:TagHash
   name: 脚本：大河内一楼
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：吉野弘幸
+  name: 原作：枢やな
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：枢やな
+  name: 脚本：吉野弘幸
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：宮田由佳
@@ -83,10 +83,16 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
   name: メガネ
   type: other
 - !ruby/hash:TagHash
   name: スクウェア・エニックス
+  type: other
+- !ruby/hash:TagHash
+  name: 頼れる側近
   type: other
 - !ruby/hash:TagHash
   name: 後藤正浩
@@ -246,4 +252,8 @@ staff: "[スタッフ]<br>原作:枢やな(掲載 月刊「Gファンタジー�
   貴之／編集:後藤正浩／音楽:光田康典／音響監督:小林克良／制作:A-1 Pictures／製作:黒執事Project"
 produced_year: "[製作年]<br>2014年"
 copyright: "©枢やな/スクウェアエニックス・黒執事Project・MBS"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 黒執事
+- !ruby/hash:SeasonHash
+  title: 黒執事Ⅱ

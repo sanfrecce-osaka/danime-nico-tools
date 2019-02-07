@@ -1,0 +1,331 @@
+--- !ruby/hash:SeasonHash
+title: あたしンち(第53話～第78話)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/46/3/22463_1_6.png?1540861212000
+outline: "“タチバナ家”は日本のどこにでも存在し、誰でもが共感できる、等身大の幸せな家庭。料理がヘタでなまけものの母、トイレのドアを開けっ放しにする父、ちょっとマヌケな女子高生の娘・みかん、一見クールな中学生の息子・ユズヒコ。家族みんなで楽しむことのできるアニメの決定版をお届けします。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪口大助
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: あたしンちシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+- !ruby/hash:TagHash
+  name: お母さん
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第53話
+  title: 母、通販買うっ／要注意！春山ふぶき
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>次話→so34481905
+  length_seconds: 923
+  content_id: so34481889
+  default_thread_id: 1547602340
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481889.90734
+- !ruby/hash:EpisodeHash
+  episode_no: 第54話
+  title: おかずの法則／視線、ちらっ
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481889←前話｜次話→so34481906　第一話→so34481889
+  length_seconds: 911
+  content_id: so34481905
+  default_thread_id: 1547602328
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481905.34004
+- !ruby/hash:EpisodeHash
+  episode_no: 第55話
+  title: 父、うっかりと／お願い、ホメないでっ
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481905←前話｜次話→so34481907　第一話→so34481889
+  length_seconds: 975
+  content_id: so34481906
+  default_thread_id: 1547602342
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481906.62979
+- !ruby/hash:EpisodeHash
+  episode_no: 第56話
+  title: 毛穴パックっ／母、なんでも父にきく
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481906←前話｜次話→so34481908　第一話→so34481889
+  length_seconds: 852
+  content_id: so34481907
+  default_thread_id: 1547602338
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481907.80588
+- !ruby/hash:EpisodeHash
+  episode_no: 第57話
+  title: タチバナ家のお中元／みかん、水着買うっ
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481907←前話｜次話→so34481909　第一話→so34481889
+  length_seconds: 958
+  content_id: so34481908
+  default_thread_id: 1547602354
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481908.80348
+- !ruby/hash:EpisodeHash
+  episode_no: 第58話
+  title: ユズ、考えるっ／なんでも改造親子
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481908←前話｜次話→so34481910　第一話→so34481889
+  length_seconds: 924
+  content_id: so34481909
+  default_thread_id: 1547602444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481909.55526
+- !ruby/hash:EpisodeHash
+  episode_no: 第59話
+  title: 花火はどっちに？／ユズ、夜中に・・・
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481909←前話｜次話→so34481911　第一話→so34481889
+  length_seconds: 962
+  content_id: so34481910
+  default_thread_id: 1547602326
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481910.11894
+- !ruby/hash:EpisodeHash
+  episode_no: 第60話
+  title: ベア研、夏合宿っ
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481910←前話｜次話→so34481969　第一話→so34481889
+  length_seconds: 940
+  content_id: so34481911
+  default_thread_id: 1547602346
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481911.76245
+- !ruby/hash:EpisodeHash
+  episode_no: 第61話
+  title: 夏休みはせつないっ／みかん、夏休みの目標
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481911←前話｜次話→so34481970　第一話→so34481889
+  length_seconds: 961
+  content_id: so34481969
+  default_thread_id: 1547603523
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481969.3596
+- !ruby/hash:EpisodeHash
+  episode_no: 第62話
+  title: 理想のカレシ／ユズのパンツっ
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481969←前話｜次話→so34481971　第一話→so34481889
+  length_seconds: 951
+  content_id: so34481970
+  default_thread_id: 1547603531
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481970.31050
+- !ruby/hash:EpisodeHash
+  episode_no: 第63話
+  title: 冷蔵庫のあけかた／ハナ毛疑惑っ
+  description: 母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水
+    勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊 昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481970←前話｜次話→so34481972　第一話→so34481889
+  length_seconds: 935
+  content_id: so34481971
+  default_thread_id: 1547603525
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481971.89655
+- !ruby/hash:EpisodeHash
+  episode_no: 第64話
+  title: 川島、気になる／父、せっかちっ
+  description: ユズが好きな川島、ユズと仲が良い石田にヤキモチを焼く。二人が話していたどうでもいい話にまで、悔し涙をながすのだった。／何事も待てないせっかちな父、まだ焼けていないお好み焼きを食べ口を火傷したり・・・。そんな父だが、待つ時は微動だにせず、気の長い一面を見せる父でもあった。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481971←前話｜次話→so34481973　第一話→so34481889
+  length_seconds: 936
+  content_id: so34481972
+  default_thread_id: 1547603527
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481972.95874
+- !ruby/hash:EpisodeHash
+  episode_no: 第65話
+  title: 母、まとめたがりっ／吉岡の香水
+  description: 袋に入る物は、なんでも一つに纏めたがる母。たくさんの量のゴミを無理やり一まとめにしようとするが・・・。／好きな女性がつけている香水と同じ香水を付けている吉岡をからかうミカンとしみちゃん。あくる日、失恋した吉岡が香水を葬ってくれと渡されるが・・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481972←前話｜次話→so34481974　第一話→so34481889
+  length_seconds: 971
+  content_id: so34481973
+  default_thread_id: 1547603533
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481973.62853
+- !ruby/hash:EpisodeHash
+  episode_no: 第66話
+  title: 母、クロスワード／肩、もみもみっ
+  description: クロスワードで賞金をゲットしようとする母、しかし、まったく応えられ無い、ユズがやらされる事になったのだが、応募の締め切りは既に終わっていた。／おだててミカンに肩を揉ませる母。あまりの母の図々しさに怒るミカン。肩を揉む人の気持ちが分かるミカンで・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481973←前話｜次話→so34481904　第一話→so34481889
+  length_seconds: 962
+  content_id: so34481974
+  default_thread_id: 1547603529
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481974.18721
+- !ruby/hash:EpisodeHash
+  episode_no: 第67話
+  title: 母、買い物たのむっ／ふくらむ、ふくらむっ
+  description: 雨に弱い母、ミカンとユズを買いものに行かせるが、ちゃんと買って来れなかった事に怒る母。しかし、牛乳を頼まれた父は当たり前のようにヨーグルトを買ってくるが悪びれもしないマイペースな父で。／古い知り合いに「元気そうだ」と言われた事を「若い」という意味と思いこみ浮かれる母、あの性格なら老けないかもと、ある意味納得する家族で・・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481974←前話｜次話→so34481903　第一話→so34481889
+  length_seconds: 976
+  content_id: so34481904
+  default_thread_id: 1547602352
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481904.84659
+- !ruby/hash:EpisodeHash
+  episode_no: 第68話
+  title: みかんとナスの関係／父、雑巾がけっ
+  description: ナゼ家族で自分だけが色黒なのかと悩むミカンに、妊娠していた時「茄子」を食べていたからだと言う母。／お掃除スイッチが入った父、掃除してもらって喜ぶ母、ほどほどに家事をしている母にキレる父だが、スチーム掃除機を買う事で、旨く父に掃除をさせる事に成功する母で。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481904←前話｜次話→so34481890　第一話→so34481889
+  length_seconds: 953
+  content_id: so34481903
+  default_thread_id: 1547602448
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481903.32045
+- !ruby/hash:EpisodeHash
+  episode_no: 第69話
+  title: みかん、おこづかいアップ／ああ、まぶしいっ
+  description: お小遣いUPをせがむミカン。即却下され、母が温泉に行った事を責めるが、なんだかんだと無茶な言い訳をする母で・・・。／岩木君に恋をするミカン。なんとなく挙動不審なミカンにしみちゃんは・・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481903←前話｜次話→so34481891　第一話→so34481889
+  length_seconds: 945
+  content_id: so34481890
+  default_thread_id: 1547602330
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481890.81108
+- !ruby/hash:EpisodeHash
+  episode_no: 第70話
+  title: 石田、ウソつかないっ／機械は生きている！？
+  description: 歴史の答案用紙が帰ってくるユズヒコのクラス。むしろ０点の方がなかなか取れないという話題に、自分は０点だと明かす石田。何事も正直な石田を好感を持つクラスメートで・・・。／機械は知恵とヒラメキで治すものだと、ヘアクリップでラジカセを直した母、それを聞いたしみちゃんは・・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481890←前話｜次話→so34481892　第一話→so34481889
+  length_seconds: 946
+  content_id: so34481891
+  default_thread_id: 1547602334
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481891.10837
+- !ruby/hash:EpisodeHash
+  episode_no: 第71話
+  title: 父、母、温泉旅行！／ああ、恥ずかしいっ
+  description: 何年かぶりに温泉に行ったタチバナ夫婦、考えていたのとは随分違う温泉宿、かなり落ち込む二人。しかし、素晴らしい景色に見とれる二人で・・・。／岩木君に恋をしたため、女の子として変わろうとするミカン。しかし、よりによって岩木の前で吉岡に恥をかかされてしまい女心を傷つけられる。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481891←前話｜次話→so34481893　第一話→so34481889
+  length_seconds: 946
+  content_id: so34481892
+  default_thread_id: 1547602324
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481892.83325
+- !ruby/hash:EpisodeHash
+  episode_no: 第72話
+  title: 今時の子はっ／ユズ、マヨネーズ
+  description: 気持ちを理解せず「今時の子は」と、言いたい放題の母にキレるみかん。／深夜、試験勉強中にお腹がすくユズ、マヨネーズをパジャマ一面につけてしまい、母に見つかって怒られる<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481892←前話｜次話→so34481894　第一話→so34481889
+  length_seconds: 946
+  content_id: so34481893
+  default_thread_id: 1547602350
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481893.37204
+- !ruby/hash:EpisodeHash
+  episode_no: 第73話
+  title: 人生、皿まわしっ／いつの日か箱
+  description: 同時に幾つかの事をやるのが人生だと、みかんに家事を押し付ける母。／みかんが、何時の日か一人暮らしで使おうと、かわいいグッズを集めている箱に、女の子心が分からない母が自分の使わない物を放り込んでしまいイライラするみかん。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481893←前話｜次話→so34481895　第一話→so34481889
+  length_seconds: 811
+  content_id: so34481894
+  default_thread_id: 1547602336
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481894.33125
+- !ruby/hash:EpisodeHash
+  episode_no: 第74話
+  title: みかん、帽子に弱い／ああ、マツタケがっ
+  description: なりたい自分を手に入れる為、被らないのに帽子を買ってしまう、自分探し中のみかん、そして母の捜しているものとは・・・。／4000円の松茸を一本買ってしまう母。浮かれるタチバナ家だが、料理の仕方が分からず軽く焼いて食べたので旨みがいまいち分からず、そんな中、父だけが大満足な結果に・・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481894←前話｜次話→so34481896　第一話→so34481889
+  length_seconds: 956
+  content_id: so34481895
+  default_thread_id: 1547602345
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481895.58811
+- !ruby/hash:EpisodeHash
+  episode_no: 第75話
+  title: 母、へこむ／父、ちゃっかりと
+  description: 何をやっても、もう一歩のところでタイミングが悪く落ち込む母。／父には凄い間違え癖がある、他人の靴やカバンを持って帰ったり、しかし、そんな父に動じる事は無く、当たり前のように受け入れている母に驚くみかんで・・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481895←前話｜次話→so34481897　第一話→so34481889
+  length_seconds: 984
+  content_id: so34481896
+  default_thread_id: 1547602446
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481896.36683
+- !ruby/hash:EpisodeHash
+  episode_no: 第76話
+  title: ユズ、もやもやっ／母のおしゃれカンっ
+  description: 休日、押さえきれないモヤモヤ感にイライラするユズ、気晴らしに外出するが気が晴れない、そんな時友人と出会い楽しく会話するといつの間にか気が晴れていた、どうやら寂しさが原因だったらしいと気付く。／楽な服を選ぶ目は自信満々な母だか、お洒落な服を選ぶ時は目は何故か曇っている。お洒落な服を選ぶ物差しが欲しいとみかんに嘆く。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481896←前話｜次話→so34481898　第一話→so34481889
+  length_seconds: 946
+  content_id: so34481897
+  default_thread_id: 1547602348
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481897.76117
+- !ruby/hash:EpisodeHash
+  episode_no: 第77話
+  title: 下着といい女／父、母、おでかけっ
+  description: いい女になるために高価な下着が肝心だと聞き、ボロい下着で女が下がる実験するみかん。最終的に母で実験しようとするが・・・。／久しぶりに父と二人でデパートに出かける母。しかし、髪にカーラーを付けたままだったり、パンツの裾を捲ったままだったり、最後にはバスに忘れ物をしたり、そして、何も教えてくれなかった父に激怒。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481897←前話｜次話→so34481899　第一話→so34481889
+  length_seconds: 918
+  content_id: so34481898
+  default_thread_id: 1547602332
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481898.23863
+- !ruby/hash:EpisodeHash
+  episode_no: 第78話
+  title: とっさの小ウソ／川島、変身っ
+  description: 買い物をした事を母に内緒にしたり、自分も痴漢に会うと言ってみたり、知ったかぶりをしたりと、とっさに小嘘をついてしまう自分が嫌いなみかん、そして、小嘘のお陰で大損をするみかんで・・・。／学校のアイドルりなちゃんと自分を比べて落ち込む川島、りなちゃんのお洒落をマネしてユズに近づくが・・・。<br><br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一<br><br>監
+    督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+    昭(AUDIO PLANNING U)<br><br>©ママレード/Cork・シンエイ・ADK<br><br>so34481898←前話　第一話→so34481889
+  length_seconds: 945
+  content_id: so34481899
+  default_thread_id: 1547602450
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481899.62885
+cast: "[キャスト]<br>母:渡辺久美子／みかん:折笠富美子／ユズヒコ:阪口大助／父:緒方賢一"
+staff: "[スタッフ]<br>監 督:やすみ哲夫／シリーズ構成:高橋ナツコ／作画監督:大武正枝／美術監督:天水 勝 (スタジオユニ)／色彩設計:野中幸子／撮影監督:箭内光一(ライトフット)／音響監督:大熊
+  昭(AUDIO PLANNING U)"
+produced_year: "[製作年]<br>2002年"
+copyright: "©ママレード/Cork・シンエイ・ADK"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: あたしンち(第1話～第26話)
+- !ruby/hash:SeasonHash
+  title: あたしンち(第27話～第52話)
+- !ruby/hash:SeasonHash
+  title: 劇場版あたしンち｢情熱のちょ～超能力♪ 母大暴走！｣
+- !ruby/hash:SeasonHash
+  title: 映画あたしンち
+- !ruby/hash:SeasonHash
+  title: 新あたしンち

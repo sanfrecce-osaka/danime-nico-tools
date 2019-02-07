@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: ミニパト
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/36/6/10366_1_6.png?1427216400000
+outline: 第1話｢吼えろ リボルバーカノン!｣：イングラムの主要装備として開発された37mmリボルバーカノンについて後藤隊長が詳細に解説。その呼称、使用弾丸など銃火器に関するウンチク満載の一本。/第2話｢あヽ
+  栄光の98式AV!｣：ロボットアニメの歴史の観点からイングラムについて考察。整備班主任のシバシゲオが、警察任務上あるべき形態、さらには真の主役は誰であるべきか語り尽くす。/第3話｢特車二課の秘密!｣：第1小隊の南雲隊長が、これまで語られることの無かった特車二課の秘密について暴露する。特車二課の切迫した財政状況と食料事情を一挙に解決した後藤隊長の手口とは?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 榊原良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 大林隆介
+  type: cast
+- !ruby/hash:TagHash
+  name: 池水通洋
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西尾鉄也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神山健治
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：バンダイビジュアル
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：東北新社
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：押井守
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ヘッドギア
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 小倉宏昌
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺繁
+  type: other
+- !ruby/hash:TagHash
+  name: 石川吉元
+  type: other
+- !ruby/hash:TagHash
+  name: 押井守
+  type: other
+- !ruby/hash:TagHash
+  name: 杉田敦
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: ミニパト
+  description: 第1話｢吼えろ リボルバーカノン!｣：イングラムの主要装備として開発された37mmリボルバーカノンについて後藤隊長が詳細に解説。その呼称、使用弾丸など銃火器に関するウンチク満載の一本。/第2話｢あヽ
+    栄光の98式AV!｣：ロボットアニメの歴史の観点からイングラムについて考察。整備班主任のシバシゲオが、警察任務上あるべき形態、さらには真の主役は誰であるべきか語り尽くす。/第3話｢特車二課の秘密!｣：第1小隊の南雲隊長が、これまで語られることの無かった特車二課の秘密について暴露する。特車二課の切迫した財政状況と食料事情を一挙に解決した後藤隊長の手口とは?<br><br>後藤喜一:大林隆之介(現：大林隆介)／太田功
+    :池水通洋／シバシゲオ:千葉繁／南雲しのぶ:榊原良子<br><br>原作:ヘッドギア／企画:渡辺繁,川城和実,薬師寺衛／企画:小坂恵一,石川光久／脚本:押井守／キャラクターデザイン・作画:西尾鉄也／美術:小倉宏昌／音楽:川井憲次／音響プロデュース:押井守／音楽プロデューサー:石川吉元(ビクターエンタテインメント)／プロデューサー:杉田敦,福島正浩,三本隆二／監督:神山健治／アニメーション制作:Production
+    I.G／製作:バンダイビジュアル,東北新社／製作:Production I.G<br><br>©2002 HEADGEAR / BANDAI VISUAL
+    / TOHOKUSHINSHA / Production I.G
+  length_seconds: 1959
+  content_id: so34265128
+  default_thread_id: 1543823888
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34265128
+cast: "[キャスト]<br>後藤喜一:大林隆之介(現：大林隆介)／太田功 :池水通洋／シバシゲオ:千葉繁／南雲しのぶ:榊原良子"
+staff: "[スタッフ]<br>原作:ヘッドギア／企画:渡辺繁,川城和実,薬師寺衛／企画:小坂恵一,石川光久／脚本:押井守／キャラクターデザイン・作画:西尾鉄也／美術:小倉宏昌／音楽:川井憲次／音響プロデュース:押井守／音楽プロデューサー:石川吉元(ビクターエンタテインメント)／プロデューサー:杉田敦,福島正浩,三本隆二／監督:神山健治／アニメーション制作:Production
+  I.G／製作:バンダイビジュアル,東北新社／製作:Production I.G"
+produced_year: "[製作年]<br>2001年"
+copyright: "©2002 HEADGEAR / BANDAI VISUAL / TOHOKUSHINSHA / Production I.G"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 機動警察パトレイバー　アーリーデイズ
+- !ruby/hash:SeasonHash
+  title: 機動警察パトレイバー　ON TELEVISION
+- !ruby/hash:SeasonHash
+  title: 機動警察パトレイバー　NEW OVA

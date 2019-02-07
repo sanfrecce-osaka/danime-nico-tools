@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版　ひらがな男子～序～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/55/5/22555_1_6.png?1547602208000
+outline: 世の中から文字という文字が消え果てた時代の日本。人々は文字を使えない不自由な生活を送っていた。そんな中、立ち上がったひらがなの「あ」（cv.梶裕貴）は相棒のうり坊あんこ（cv.天野七瑠）と共に、仲間たちを探し求める旅にでる。最初に訪れた町でたまたま入った占いの館で偶然出会ったのが「う」だった。「う」によるとひらがな男子には必ず印となる文字のあざがあるという。そして思わぬところに自らのあざを見つける「あ」…。その後二人はあちこちの村や町を巡り歩き、紆余曲折ありながら他のひらがなたちと出会いを重ね、仲間を増やしていく。が、そんな一行の前に立ちはだかる黒い影が…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：水島精二
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：堀口悠紀子
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：古舘勝義
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：堀内基弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ロスプロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ディレクションズ
+  type: staff
+- !ruby/hash:TagHash
+  name: ひらがな男子シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 劇場版　ひらがな男子～序～
+  description: 世の中から文字という文字が消え果てた時代の日本。人々は文字を使えない不自由な生活を送っていた。そんな中、立ち上がったひらがなの「あ」（cv.梶裕貴）は相棒のうり坊あんこ（cv.天野七瑠）と共に、仲間たちを探し求める旅にでる。最初に訪れた町でたまたま入った占いの館で偶然出会ったのが「う」だった。「う」によるとひらがな男子には必ず印となる文字のあざがあるという。そして思わぬところに自らのあざを見つける「あ」…。その後二人はあちこちの村や町を巡り歩き、紆余曲折ありながら他のひらがなたちと出会いを重ね、仲間を増やしていく。が、そんな一行の前に立ちはだかる黒い影が…<br><br>「あ」:梶
+    裕貴／「ぬ」:杉田智和 ／「た」:鈴木達央／「ね」:緒方恵美／「ば」:下野紘／農夫:藤原啓治<br><br>監督:水島精二／脚本:バカリズム／キャラクターデザイン:堀口悠紀子／クリエイティブディレクター:長江努／演出:古舘勝義／協力プロデューサー:松浦裕暁（サンジゲン）／レイアウト監修:Chang
+    Soo Hyun（サンジゲン）／MMD制作:ポンポコP、井口健一、tommy、あひる@anatroccolo／モーション・スーパーバイザー:yurieP／エフェクト:ビームマンP、雷地ゆう／コンポジット:安喰秀一／背景美術:TRICK
+    BLOCK、青写真／イラスト:天野静香／キャラソンビデオ制作:サンジゲン、ariNO、卜部、S、KOMAO／レイアウト監修:横山貴央（サンジゲン）／撮影監督:奥村大輔（サンジゲン）／演出・編集:榎田美咲（サンジゲン）／振付:振付稼業air：man／音響監督:今泉雄一／音楽:堀内基弘／音楽制作:ロスプロジェクト／アニメーション制作:ディレクションズ／企画プロデュース:前田直敬（日本テレビ）／企画協力:マセキ芸能社／製作著作:日本テレビ<br><br>©NTV<br><br>次話→so34490598
+  length_seconds: 1564
+  content_id: so34490596
+  default_thread_id: 1547775126
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34490596.42881
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 劇場版　ひらがな男子～序～
+  description: 世の中から文字という文字が消え果てた時代の日本。人々は文字を使えない不自由な生活を送っていた。そんな中、立ち上がったひらがなの「あ」（cv.梶裕貴）は相棒のうり坊あんこ（cv.天野七瑠）と共に、仲間たちを探し求める旅にでる。最初に訪れた町でたまたま入った占いの館で偶然出会ったのが「う」だった。「う」によるとひらがな男子には必ず印となる文字のあざがあるという。そして思わぬところに自らのあざを見つける「あ」…。その後二人はあちこちの村や町を巡り歩き、紆余曲折ありながら他のひらがなたちと出会いを重ね、仲間を増やしていく。が、そんな一行の前に立ちはだかる黒い影が…<br><br>「あ」:梶
+    裕貴／「ぬ」:杉田智和 ／「た」:鈴木達央／「ね」:緒方恵美／「ば」:下野紘／農夫:藤原啓治<br><br>監督:水島精二／脚本:バカリズム／キャラクターデザイン:堀口悠紀子／クリエイティブディレクター:長江努／演出:古舘勝義／協力プロデューサー:松浦裕暁（サンジゲン）／レイアウト監修:Chang
+    Soo Hyun（サンジゲン）／MMD制作:ポンポコP、井口健一、tommy、あひる@anatroccolo／モーション・スーパーバイザー:yurieP／エフェクト:ビームマンP、雷地ゆう／コンポジット:安喰秀一／背景美術:TRICK
+    BLOCK、青写真／イラスト:天野静香／キャラソンビデオ制作:サンジゲン、ariNO、卜部、S、KOMAO／レイアウト監修:横山貴央（サンジゲン）／撮影監督:奥村大輔（サンジゲン）／演出・編集:榎田美咲（サンジゲン）／振付:振付稼業air：man／音響監督:今泉雄一／音楽:堀内基弘／音楽制作:ロスプロジェクト／アニメーション制作:ディレクションズ／企画プロデュース:前田直敬（日本テレビ）／企画協力:マセキ芸能社／製作著作:日本テレビ<br><br>©NTV<br><br>so34490596←前話　第一話→so34490596
+  length_seconds: 1885
+  content_id: so34490598
+  default_thread_id: 1547775244
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34490598.14112
+cast: "[キャスト]<br>「あ」:梶 裕貴／「ぬ」:杉田智和 ／「た」:鈴木達央／「ね」:緒方恵美／「ば」:下野紘／農夫:藤原啓治"
+staff: "[スタッフ]<br>監督:水島精二／脚本:バカリズム／キャラクターデザイン:堀口悠紀子／クリエイティブディレクター:長江努／演出:古舘勝義／協力プロデューサー:松浦裕暁（サンジゲン）／レイアウト監修:Chang
+  Soo Hyun（サンジゲン）／MMD制作:ポンポコP、井口健一、tommy、あひる@anatroccolo／モーション・スーパーバイザー:yurieP／エフェクト:ビームマンP、雷地ゆう／コンポジット:安喰秀一／背景美術:TRICK
+  BLOCK、青写真／イラスト:天野静香／キャラソンビデオ制作:サンジゲン、ariNO、卜部、S、KOMAO／レイアウト監修:横山貴央（サンジゲン）／撮影監督:奥村大輔（サンジゲン）／演出・編集:榎田美咲（サンジゲン）／振付:振付稼業air：man／音響監督:今泉雄一／音楽:堀内基弘／音楽制作:ロスプロジェクト／アニメーション制作:ディレクションズ／企画プロデュース:前田直敬（日本テレビ）／企画協力:マセキ芸能社／製作著作:日本テレビ"
+produced_year: "[製作年]<br>2018年"
+copyright: "©NTV"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 舞台「ひらがな男子」

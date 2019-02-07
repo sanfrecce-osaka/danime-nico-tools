@@ -29,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：Pie in the sky
   type: staff
 - !ruby/hash:TagHash
+  name: 音楽：カワイヒデヒロ
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：松本慶祐
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：植草航
-  type: staff
-- !ruby/hash:TagHash
-  name: 音楽：カワイヒデヒロ
   type: staff
 - !ruby/hash:TagHash
   name: せいぜいがんばれ！魔法少女くるみシリーズ
@@ -45,6 +45,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 魔法使い
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -194,4 +197,6 @@ staff: "[スタッフ]<br>原作・監督・脚本:松本慶祐（Pie in the sky
   校歌」（歌：キヨシ（CV.林勇）、イサム（CV.羽多野渉）、シゲル（CV.寺島拓篤））"
 produced_year: "[製作年]<br>2017年"
 copyright: "©SMK"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: せいぜいがんばれ！魔法少女くるみ（第2期）

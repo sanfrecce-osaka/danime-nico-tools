@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 朴璐美
   type: cast
 - !ruby/hash:TagHash
-  name: 小杉十郎太
+  name: 小林清志
   type: cast
 - !ruby/hash:TagHash
-  name: 小林清志
+  name: 小杉十郎太
   type: cast
 - !ruby/hash:TagHash
   name: 増山江威子
@@ -29,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 井上真樹夫
   type: cast
 - !ruby/hash:TagHash
-  name: 大木民夫
-  type: cast
-- !ruby/hash:TagHash
   name: 栗田貫一
   type: cast
 - !ruby/hash:TagHash
   name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 大木民夫
   type: cast
 - !ruby/hash:TagHash
   name: 池田勝
@@ -66,6 +66,15 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: 愛すべき敵キャラ
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2002年
@@ -108,15 +117,13 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: ルパン三世 2nd series
 - !ruby/hash:SeasonHash
-  title: ルパン三世 PARTIII
+  title: ルパン三世 PARTⅢ
 - !ruby/hash:SeasonHash
   title: ルパン三世 PART4
 - !ruby/hash:SeasonHash
   title: ルパン三世 PART5
 - !ruby/hash:SeasonHash
   title: ルパン三世 ルパンVS複製人間
-- !ruby/hash:SeasonHash
-  title: ルパン三世　カリオストロの城
 - !ruby/hash:SeasonHash
   title: 'ルパン三世TVSP #01 バイバイ・リバティー・危機一発！'
 - !ruby/hash:SeasonHash
@@ -143,3 +150,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: 'ルパン三世TVSP #12 １＄マネーウォーズ'
 - !ruby/hash:SeasonHash
   title: 'ルパン三世TVSP #13 アルカトラズ コネクション'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #15 お宝返却大作戦!!'
