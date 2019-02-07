@@ -104,7 +104,11 @@ class FixtureDataTask
     end
 
     def next_season_no
-      format('%05d', Dir.glob(FixtureDataTask::SEASONS_PATH).length + 1)
+      format('%05d', Dir.glob(FixtureDataTask::SEASONS_PATH).map { |path| pick_up_season_no(path) }.max + 1)
+    end
+
+    def pick_up_season_no(path)
+      path.split('/').last.slice(%r(\d+)).to_i
     end
 
     def update_watchable(season, watchable: false)
