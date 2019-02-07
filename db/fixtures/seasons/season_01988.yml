@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: ショート
   type: genre
 - !ruby/hash:TagHash
-  name: 喜多村英梨
+  name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 日笠陽子
+  name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤静
@@ -113,12 +113,108 @@ episodes: !ruby/array:Hashie::Array
   description: 本部主催の接客研修に出席することになった本田さん。しかし、それは参加者たちのマインドを根本から変革させる地獄の、否、あまりにも熱すぎる研修だった…<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
     静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
     本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
-    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34041549←前話　第一話→so33929509
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34041549←前話｜次話→so34111781　第一話→so33929509
   length_seconds: 690
   content_id: so34076714
   default_thread_id: 1540516446
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34076714
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: A「OTOIAWASE」／B「サイン本だよ!! 全員集合」／C「気になるエロの話」
+  description: 突然の爆買い、意外な作品の大ヒット。ニーズを読むのは難しい。しかし、書店員たるもの『常に臨機応変であれ』！たとえ、お客様からのお問い合わせが想定外の内容でも！<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34076714←前話｜次話→so34145985　第一話→so33929509
+  length_seconds: 690
+  content_id: so34111781
+  default_thread_id: 1541121365
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34111781
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: A「秘められし力を持つ者」／B「ぼくらのフェア戦争」
+  description: コミック売り場に新たなメンバー・ケンドウさんがやってきた！彼は、本の在庫を司る流通課の出身。そこには「生きた伝説」と呼ばれる名物係長が在籍していて…<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34111781←前話｜次話→so34179661　第一話→so33929509
+  length_seconds: 690
+  content_id: so34145985
+  default_thread_id: 1541725324
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34145985
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: A「おしえて！ 取次さん」／B「書店員ごった煮飲み会」
+  description: 面白い人や変な人が集まりがちな本田さんの職場。それは同僚に限った話だけではない。優秀な取引先にしてキラめきが止まらないオタク、取次さんとは何者だ！？<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34145985←前話｜次話→so34209036　第一話→so33929509
+  length_seconds: 690
+  content_id: so34179661
+  default_thread_id: 1542330246
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34179661
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: A「ホンヤハイイゾ」／B「入っていい棚 だめな棚」／C「それいけ！  アザラシさん～密かなる野望～」
+  description: いつでもどこでもネット通販や電子書籍で本を買えるようになった昨今、人は、なぜ本屋で本を買うのか。個性的なお客様のやりとりには、さまざまなドラマが垣間見える…？<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34179661←前話｜次話→so34248019　第一話→so33929509
+  length_seconds: 690
+  content_id: so34209036
+  default_thread_id: 1542849424
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209036
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "「生と死と再生の書」"
+  description: 発売早々在庫が全滅した人気作品に困惑する本田さん。一方、棚を圧迫する売れ残り在庫「死に筋」にも振り回されるハメになり…。新刊、返品、絶版、復刊。本はどのような一生を遂げるのか！？<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34209036←前話｜次話→so34281998　第一話→so33929509
+  length_seconds: 690
+  content_id: so34248019
+  default_thread_id: 1543539844
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34248019
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: A「本屋さんのITSUZAI」／B「棚の担当変更」
+  description: "「書店員に向いている人」について考える本田さん。答えにたどり着けず思い悩んでいると、売場で完璧に整頓された棚を発見！この棚の主こそが、本屋さんの逸材なのでは！！<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34248019←前話｜次話→so34316209　第一話→so33929509"
+  length_seconds: 690
+  content_id: so34281998
+  default_thread_id: 1544144643
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34281998
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: A「異説骸骨書店員 本田さん」／B「仕事なんかいつでも辞められるのだ」
+  description: 天国と地獄の狭間に存在するという「冥府書店」。新刊、名作、この世では決して手に入ることのないお宝を求め、今日も大勢の亡者たちが訪れる。そこに骸骨の姿をした書店員が一人。かの眼窩は何を捉えるのか。<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34281998←前話｜次話→so34349746　第一話→so33929509
+  length_seconds: 690
+  content_id: so34316209
+  default_thread_id: 1544749689
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34316209
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: A「本屋のメリークリスマス」／B「おしまいの時間です」
+  description: 世間はクリスマスムード！子どもたちや恋人たちの楽しげな様子とは裏腹に、書店員は理不尽なクレームやプレゼントの包装対応、そしてやりたくもない仮装に悩まされていた…<br><br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤
+    静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野 渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子<br><br>原作:本田「ガイコツ書店員
+    本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF
+    H・P STUDIO／音楽:TECHNOBOYS PULCRAFT GREEN-FUND／音楽制作:ランティス／アニメーション制作:DLE<br><br>©本田・KADOKAWA/ガイコツ書店員本田さん製作委員会<br><br>so34316209←前話　第一話→so33929509
+  length_seconds: 690
+  content_id: so34349746
+  default_thread_id: 1545356043
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34349746.69783
 cast: "[キャスト]<br>本田:斉藤壮馬／カミブクロ:三瓶由布子／ホウタイ:喜多村英梨／ランタン:斉藤貴美子／オキツネ:伊藤 静／コオモテ:遠藤 綾／ラビットヘッド:山本和臣／フルフェイス:安元洋貴／ガスマスク:羽多野
   渉／溶接マスク:増田俊樹／ケンドウ:西山宏太朗／アーマー:岡村明美／ペストマスク:日笠陽子"
 staff: "[スタッフ]<br>原作:本田「ガイコツ書店員 本田さん」（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:轟おうる／シリーズ構成:岡嶋心／キャラクターデザイン:柿木直子／音響監督:今泉雄一／音響制作:HALF

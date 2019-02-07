@@ -21,13 +21,13 @@ tags: !ruby/array:Hashie::Array
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 金元寿子
   type: cast
 - !ruby/hash:TagHash
   name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 金元寿子
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
   name: 豊永利行
@@ -42,7 +42,7 @@ tags: !ruby/array:Hashie::Array
   name: 増田俊樹
   type: cast
 - !ruby/hash:TagHash
-  name: 加藤和樹
+  name: 上村祐翔
   type: cast
 - !ruby/hash:TagHash
   name: 製作：A-1 Pictures
@@ -60,11 +60,14 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：中山真斗
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：B-PROJECT
+  type: staff
+- !ruby/hash:TagHash
   name: 製作：Team B-PRO
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：B-PROJECT
-  type: staff
+  name: B-PROJECTシリーズ
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
@@ -219,4 +222,6 @@ staff: "[スタッフ]<br>原作:｢B-PROJECT｣(MAGES.)／総合プロデュー
   Pictures／製作:Team B-PRO"
 produced_year: "[製作年]<br>2016年"
 copyright: "©MAGES.／Team B-PRO"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: B-PROJECT～絶頂＊エモーション～

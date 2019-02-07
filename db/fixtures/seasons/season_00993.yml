@@ -47,6 +47,12 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: 聖地巡礼
+  type: other
+- !ruby/hash:TagHash
   name: 電撃
   type: other
 - !ruby/hash:TagHash
@@ -73,10 +79,12 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: とある魔術の禁書目録
 - !ruby/hash:SeasonHash
-  title: とある魔術の禁書目録II
+  title: とある魔術の禁書目録Ⅱ
 - !ruby/hash:SeasonHash
   title: 劇場版「とある魔術の禁書目録－エンデュミオンの奇蹟－」
 - !ruby/hash:SeasonHash
   title: とある科学の超電磁砲
 - !ruby/hash:SeasonHash
   title: とある科学の超電磁砲S
+- !ruby/hash:SeasonHash
+  title: とある魔術の禁書目録Ⅲ

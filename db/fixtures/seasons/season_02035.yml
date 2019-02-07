@@ -1,0 +1,164 @@
+--- !ruby/hash:SeasonHash
+title: "「終物語」まよいヘル／ひたぎランデブー／おうぎダーク"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/45/5/22455_1_6.png?1539574224000
+outline: 3月13日、大学受験の日の朝。阿良々木暦は臥煙伊豆湖によって殺された。死後の世界で暦を待っていた八九寺真宵は、彼をどこかに案内し始める。そしてその先にいたのは、思いもかけない人物だった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎藤千和
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新房昭之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：西尾維新
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：板村智幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：羽岡佳
+  type: staff
+- !ruby/hash:TagHash
+  name: 物語シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: まよいヘル 其ノ壹
+  description: 暦が目を覚ましたとき、彼の前に現れたのは成仏したはずの八九寺真宵だった。真宵は自分たちがいるのは地獄の最下層、阿鼻地獄だと暦に伝える。なぜ自分が死ぬタイミングと落ちる地獄を、真宵が知っていたのかいぶかしむ暦。すると真宵は、自分はある人物の依頼で暦を迎えに来たと言い出すのだった。<br><br>阿良々木
+    暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか<br><br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+    健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>次話→so34032280
+  length_seconds: 1440
+  content_id: so34032279
+  default_thread_id: 1539754023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34032279
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: まよいヘル 其ノ貳
+  description: 真宵に案内された先で待っていたのは、かつて暦と敵対し、余接によって殺されたはずの専門家、手折正弦だった。驚き警戒する暦に対し、今は暦をねらう意志はないことを告げる正弦。さらに彼は、暦たちと相対して殺されることこそがあのときの自分の役割で、それはすべて、ここで暦に遭うためだったと語る。<br><br>阿良々木
+    暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか<br><br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+    健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so34032279←前話｜次話→so34032281　第一話→so34032279
+  length_seconds: 1440
+  content_id: so34032280
+  default_thread_id: 1539753977
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34032280
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ひたぎランデブー 其ノ壹
+  description: どうにか志望大学の試験を終えて家に戻ってきた暦を、恋人・戦場ヶ原ひたぎが待ち構えていた。彼女は、受験勉強の期間中はまるでできていなかったデートを、明日すると暦に告げる。こうして、入学試験の翌日にして卒業式の前日である３月14日のホワイトデーに、２人はおよそ半年ぶりのデートをすることになった。<br><br>阿良々木
+    暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか<br><br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+    健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so34032280←前話｜次話→so34032282　第一話→so34032279
+  length_seconds: 1440
+  content_id: so34032281
+  default_thread_id: 1539753968
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34032281
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ひたぎランデブー 其ノ貳
+  description: ひたぎとのデートで、暦はプラネタリウムを観賞していた。しかし気がつくとひたぎの姿はなく、暦の前にはただ忍野扇の姿だけがある。どうやら自分は演目の途中で眠ってしまい、夢を見ているのだと悟る暦。夢の中の扇は、プラネタリウムに表示された星座の中から、特に蛇にまつわるものをとりあげて語りだす。<br><br>阿良々木
+    暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか<br><br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+    健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so34032281←前話｜次話→so34032284　第一話→so34032279
+  length_seconds: 1440
+  content_id: so34032282
+  default_thread_id: 1539753963
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34032282
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: おうぎダーク 其ノ壹
+  description: 暦は余接とともに浪白公園を訪れる。そこでは臥煙伊豆湖、忍、真宵が既に集まっていて、暦が来るのを待っていた。５人がそろったところでブリーフィングが始まり、伊豆湖は自らが立てた計画を話し始める。そして５人それぞれの目的をすべて果たすための条件として、真宵に対してとある提案を持ちかける。<br><br>阿良々木
+    暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか<br><br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+    健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so34032282←前話｜次話→so34032285　第一話→so34032279
+  length_seconds: 1430
+  content_id: so34032284
+  default_thread_id: 1539753970
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34032284
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: おうぎダーク 其ノ貳
+  description: 怪異の専門家の元締めである伊豆湖は、扇が人間ではなく化物であると断じた。そう言われても釈然としない暦に、扇とは何者なのかについて語って聞かせる伊豆湖。正体不明である扇を退治するためには、その正体を暴けばいい。そして伊豆湖が語った扇の正体とは、暦がよく知る、意外な人物だった。<br><br>阿良々木
+    暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか<br><br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+    健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so34032284←前話｜次話→so34032286　第一話→so34032279
+  length_seconds: 1400
+  content_id: so34032285
+  default_thread_id: 1539753972
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34032285
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: おうぎダーク 其ノ参
+  description: 扇と対峙していた暦は、彼女が何者なのか、その正体を突きつける。伊豆湖の思惑どおり、道を踏み外した怪異を制裁する存在「くらやみ」が現れた。自らの消滅を悟りながら、いつも通りの薄笑いで言葉を紡ぎ続ける忍野扇。彼女に、暦が最後にかける言葉とは……。<br><br>阿良々木
+    暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか<br><br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+    健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト<br><br>©西尾維新／講談社・アニプレックス・シャフト<br><br>so34032285←前話　第一話→so34032279
+  length_seconds: 1480
+  content_id: so34032286
+  default_thread_id: 1539753975
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34032286
+cast: "[キャスト]<br>阿良々木 暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／忍野 扇:水橋かおり ほか"
+staff: "[スタッフ]<br>原作:西尾維新 『終物語』(講談社 BOX)／キャラクター原案:VOFAN／総監督:新房昭之／監督:板村智幸／シリーズ構成:東冨耶子・新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／総作画監督:岩崎たいすけ・宮井加奈／美術監督:内藤
+  健／色彩設計:日比野仁・渡辺康子／撮影監督:江上 怜／編集:松原理恵／音響監督:鶴岡陽太／音楽:羽岡 佳／アニメーション制作:シャフト"
+produced_year: "[製作年]<br>2017年"
+copyright: "©西尾維新／講談社・アニプレックス・シャフト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 化物語
+- !ruby/hash:SeasonHash
+  title: 偽物語
+- !ruby/hash:SeasonHash
+  title: 猫物語(黒)
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第1話～第5話） 猫物語(白)"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第7話～第10話） 傾物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第12話～第15話） 囮物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第17話～第20話） 鬼物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第21話～第26話） 恋物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第27話～第31話） 花物語"
+- !ruby/hash:SeasonHash
+  title: "<物語>シリーズ セカンドシーズン（第6話・第11話・第16話） 総集編"
+- !ruby/hash:SeasonHash
+  title: 憑物語
+- !ruby/hash:SeasonHash
+  title: 終物語
+- !ruby/hash:SeasonHash
+  title: 暦物語

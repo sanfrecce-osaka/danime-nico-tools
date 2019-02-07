@@ -88,7 +88,7 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: ルパン三世 2nd series
 - !ruby/hash:SeasonHash
-  title: ルパン三世 PARTIII
+  title: ルパン三世 PARTⅢ
 - !ruby/hash:SeasonHash
   title: ルパン三世 PART4
 - !ruby/hash:SeasonHash

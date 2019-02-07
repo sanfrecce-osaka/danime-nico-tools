@@ -20,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 川村万梨阿
   type: cast
 - !ruby/hash:TagHash
+  name: 冨永みーな
+  type: cast
+- !ruby/hash:TagHash
   name: 荘真由美
   type: cast
 - !ruby/hash:TagHash
   name: 三ツ矢雄二
-  type: cast
-- !ruby/hash:TagHash
-  name: 冨永みーな
   type: cast
 - !ruby/hash:TagHash
   name: 高木均
@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 久保田雅人
   type: cast
 - !ruby/hash:TagHash
-  name: 監督：石黒昇
+  name: 音楽：鷺巣詩郎
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：鷺巣詩郎
+  name: 監督：石黒昇
   type: staff
 - !ruby/hash:TagHash
   name: 演出：板野一郎
@@ -104,4 +104,4 @@ produced_year: "[製作年]<br>1985年"
 copyright: "(c) AIC"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: メガゾーン23 PART II 秘密く・だ・さ・い
+  title: メガゾーン23 PARTⅡ秘密く・だ・さ・い

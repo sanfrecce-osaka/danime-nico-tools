@@ -67,6 +67,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2003年
   type: other
 - !ruby/hash:TagHash
+  name: 桜
+  type: other
+- !ruby/hash:TagHash
   name: 楽音舎
   type: other
 - !ruby/hash:TagHash
@@ -346,8 +349,8 @@ produced_year: "[製作年]<br>2003年"
 copyright: "(C) CIRCUS/ダ・カーポ製作委員会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: D.C.II.S.S.～ダ・カーポII セカンドシーズン～
-- !ruby/hash:SeasonHash
-  title: D.C.II ～ダ・カーポII～
-- !ruby/hash:SeasonHash
   title: D.C.S.S.～ダ・カーポ セカンドシーズン～
+- !ruby/hash:SeasonHash
+  title: D.C.Ⅱ ～ダ・カーポⅡ～
+- !ruby/hash:SeasonHash
+  title: D.C.Ⅱ.S.S.～ダ・カーポⅡセカンドシーズン～

@@ -1,0 +1,504 @@
+--- !ruby/hash:SeasonHash
+title: 機動警察パトレイバー　ON TELEVISION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/36/3/10363_1_6.png?1427216400000
+outline: 汎用人間型機械“レイバー”があらゆる分野で活躍する近未来。警視庁は特殊車両二課、通称“パトレイバー”を新設し、続発するレイバー犯罪に対抗していた。ある日、太田巡査と遊馬は、新型レイバー“イングラム”を見に行く途中、若い婦警、泉野明に出会う。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 機動警察パトレイバーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: イングラム起動
+  description: 汎用人間型機械“レイバー”があらゆる分野で活躍している近未来。警視庁は特殊車両二課、通称“パトレイバー”を新設し、続発するレイバー犯罪に対抗していた。ある日、太田巡査と遊馬は、新型レイバー“イングラム”を見に行く途中、若い婦警、泉野明に出会う。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>次話→so34209245
+  length_seconds: 1480
+  content_id: so34209215
+  default_thread_id: 1542853995
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209215
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 香貫花が来た
+  description: 養成学校にて“イングラム”の研修を受けていた第二小隊の隊員たち。中でも野明は、最終日の模擬戦によって今後の配置が決まると聞いた途端、鼻息を荒くする。第一小隊の五味丘、ニューヨーク市警からやってきた香貫花らが立ちはだかる中、果たして野明はパイロットの座を勝ち取れるだろうか!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209215←前話｜次話→so34209272　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209245
+  default_thread_id: 1542854528
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209245
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: こちら特車二課
+  description: 特車二課が置かれているのは、人跡未踏の埋立地。故に、特車二課の隊員たちは、整備班の高速艇を漁船にして食糧難を解決していた。しかし、高速艇が漁の帰りに座礁、加えて太田が二号機の操縦をミスし、二重遭難してしまう。整備班長・榊に知られる前に何とかしなくては!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209245←前話｜次話→so34209306　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209272
+  default_thread_id: 1542855134
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209272
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 魔の山へ行けっ!
+  description: なぎ倒された木々と、激しく破損した“クラブマン”。そして、森にこだまする不気味な唸り声。通報を受けた第二小隊は、怪獣退治と色めき、早速捜索を開始。山林へと分け入るが、見つけ出した声の主の傍らには、思いがけないものが待ち受けていた!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209272←前話｜次話→so34209336　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209306
+  default_thread_id: 1542855795
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209306
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 暴走レイバーX10
+  description: 試作戦闘用レイバー“HAL-X10”が、評価試験中に暴走を始めてしまった!事態を極秘裡に処理すべく、尻拭い役が第二小隊に回ってきたが、重装備の軍用レイバーに正面から向かっても勝てるはずはない。果たして第二小隊は暴走を止めることができるだろうか!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209306←前話｜次話→so34209337　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209336
+  default_thread_id: 1542856264
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209336
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ザ・タワーSOS
+  description: 建設中の都市型高層建築物タワーシティで、大規模な火災が発生。加えて、視察中の某国外相一行が地上200メートルの地点に閉じこめられてしまう!救助命令を受けた第二小隊は、屋上に設置されているクレーンからイングラムを釣り降ろす作戦に出るが・・・。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209336←前話｜次話→so34209338　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209337
+  default_thread_id: 1542856262
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209337
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 栄光の97式改
+  description: 旧式レイバー“97式パイソン改”で、レイバー犯罪に挑み続ける第一小隊に、最新鋭のレイバー“SRX-70”の試験導入が舞い込んできた。しかし、この試験導入の背後には、軍需産業で有名な外資系企業、シャフト・エンタープライズ・ファーイーストの影が潜んでいた・・・!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209337←前話｜次話→so34209339　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209338
+  default_thread_id: 1542856205
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209338
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: まぼろしの緑
+  description: 渋滞解消の切り札、首都環状二十号線の建設現場が破壊された。調査に乗り出した野明たちは、東京近郊の鬼降村に向かうが、そこは古くから伝わる鬼伝説の舞台だった。これは本当に祟りなのか?捜査を進めていく内、野明達は意外な真相にたどり着く!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209338←前話｜次話→so34209340　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209339
+  default_thread_id: 1542856444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209339
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 上陸 赤いレイバー
+  description: 第二小隊に舞い込んだ依頼、それは、テロリスト・犬走一直によるソビエト軍最新鋭レイバー“ドシュカ”奪取の阻止だった。野明と遊馬は”ドシュカ”が隠されているという酒田に向かうが、その裏ではレイバー奪取を陽動にして、ソビエト高級将校の亡命が行われようとしていた!!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209339←前話｜次話→so34209341　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209340
+  default_thread_id: 1542856209
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209340
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: イヴの罠
+  description: 50年のクリスマスを探しに行く―クリスマス・イヴの夕刻、香貫花の祖母レイは、そうメッセージを残して姿を消した。一方、東京テレポートでは、すべての通信、交通が遮断され、調査に向かった第一小隊までも音信不通となってしまった。東京テレポートに何が起こったのか!?そしてレイに隠された秘密とは?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209340←前話｜次話→so34209312　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209341
+  default_thread_id: 1542856207
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209341
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: イヴの戦慄
+  description: 謎に包まれた敵レイバー“ファントム”の電磁波を正面から浴び、作動不能に陥る二号機。野明は一号機で奮闘するが、圧倒的な戦力差に苦戦、退却を強いられる。一方、松井と進士は米軍立川基地の跡地でレイを発見、彼女の口から“50年のクリスマス”の真相を聞くこととなる。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209341←前話｜次話→so34209311　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209312
+  default_thread_id: 1542855785
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209312
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 太田 惑いの午後
+  description: "“燃える正義の射撃バカ”、太田に見合い話が舞い込んだ。しかも相手は美人で良家のお嬢様!張り切って見合いに臨んだ太田は緊張のあまりドジを重ねるが、意外にもデートに誘われる。浮かれる太田を前に、仰天する第二小隊と整備班の面々。果たして太田に春が訪れるのだろうか!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209312←前話｜次話→so34209310　第一話→so34209215"
+  length_seconds: 1480
+  content_id: so34209311
+  default_thread_id: 1542855790
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209311
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 殿下 お手柔らかに
+  description: 中東の産油国・オアシスより、レイバーマニアの皇太子、ウル王子殿下がお忍びで来日する。第二小隊に体験入隊した殿下はイングラムを操縦して大はしゃぎ。しかし、盗難されていたレイバー“ブロッケン”が出現、殿下の身代わりを狙っているとの情報が入る!殿下を巻き込んだテロリスト退治が始まった!!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209311←前話｜次話→so34209309　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209310
+  default_thread_id: 1542855791
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209310
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: あんたの勝ち!
+  description: つまらない事件で大損害を出してしまったせいで、香貫花と野明が大激突する!隊の人間関係に問題あり!と南雲の説教をくらった後藤は、若い隊員たちを日本の伝統的トラブル解決法“屋台酒”へと誘う。果たして香貫花と野明は無事、和解することができるだろうか?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209310←前話｜次話→so34209273　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209309
+  default_thread_id: 1542855789
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209309
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 歌を唄ったクジラ
+  description: ある日、東京湾に一頭のザトウクジラが迷いこみ、第二小隊が野次馬整理のために動員された。汚れきった東京湾の水の中では、クジラはとても生きていけない。試行錯誤の末、山崎のアイディアでクジラは湾外に出たかに見えたが、なぜか再び戻ってきてしまう・・・。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209309←前話｜次話→so34209274　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209273
+  default_thread_id: 1542855130
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209273
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 小隊 海を渡る
+  description: 札幌の雪祭りの設営協力に駆り出され、はるばる北海道に来た野明たちは、レイバー嫌いの少年・サトルと出会う。そんな折、過激環境保護組織・地球防衛軍の下部組織による爆弾テロが予告された!野明達は雪像に仕掛けられた爆弾を回収できるだろうか!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209273←前話｜次話→so34209275　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209274
+  default_thread_id: 1542855126
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209274
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 目標は後藤隊長
+  description: 後藤隊長の身辺を騒がせる、何者かによる怨念がらみのイタズラ。隊員たちは後藤の過去に興味を持ち始めるが、何を試してもはぐらかされるばかり。野明と香貫花で尾行してもあっさり見つかってしまう。後藤隊長を付け狙う者の正体とは?そしてその目的とは一体なんだろうか!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209274←前話｜次話→so34209246　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209275
+  default_thread_id: 1542855123
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209275
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: スキスキ野明先輩
+  description: 第二小隊に、国民的アイドル“妹にしたいタレントNo.1”の松本加奈が一週間だけ訓練にやってきた。大ファンの太田をはじめ、熱狂的な歓迎ぶりを示す男子隊員に対し、野明はアルフォンスを転倒させられカンカン!それなのに加奈はどなりつけられた野明になついてしまい・・・。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209275←前話｜次話→so34209247　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209246
+  default_thread_id: 1542854534
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209246
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ジオフロントの影
+  description: 直径40キロにも及ぶ建設中の巨大地下都市、“東京ジオシティ”で爆弾テロが発生、犯人が残りの爆弾を抱え最下層に籠城した。後藤は、香貫花の二号機と野明の一号機に進入を命じるが、そこでふたりを待ち受けていたのは、かつて“竜神”と呼ばれた奇怪な巨大生物だった!!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209246←前話｜次話→so34209216　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209247
+  default_thread_id: 1542854644
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209247
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 黒い胎動
+  description: ひょんなことから野明と遊馬が仲違いを始めてしまった矢先、陸自レイバーが正体不明のレイバーに破壊された。東京テレポートに現れた“ファントム”らしいとの情報を受け、第二小隊は伊豆大島へと向かうが、そこに遊馬の姿はなかった。仲直りできずに別れていく野明と遊馬を待つ運命とは!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209247←前話｜次話→so34209217　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209216
+  default_thread_id: 1542853989
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209216
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 亡霊(ファントム)ふたたび
+  description: 海底から大島に再上陸し、海岸警備を突破して内陸に移動する“ファントム”。自衛隊と第二小隊による追撃が始まるが、不破の率いる空挺レイバー小隊も太田の操縦する二号機も返り討ちにあう。“ファントム”に追い詰められた絶体絶命の野明!その時、野明の前に現れたのは・・・!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209216←前話｜次話→so34209218　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209217
+  default_thread_id: 1542853993
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209217
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 花とレイバー
+  description: レイバーの安全運転の講習会に駆りだされた特車二課の前に、レイバーコレクターの極道の親分が現れた。彼のレイバーの初期設定を手伝ったことから、やたら組長になつかれてしまった野明。しかし、これはレイバーまでも動員した、仁義なき抗争の序章に過ぎなかった・・・。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209217←前話｜次話→so34209219　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209218
+  default_thread_id: 1542853985
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209218
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 香貫花レポート
+  description: 香貫花に内緒で送別会の準備をするべく、自宅に忍び込んだ第二小隊の面々は、香貫花がニューヨーク市警へ提出するためのレポートを見つけた。彼女がつけた小隊メンバーの評価に興味津々の隊員達は、いけないと知りつつも、ついページをめくってしまう・・・。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209218←前話｜次話→so34209220　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209219
+  default_thread_id: 1542853991
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209219
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: さらば香貫花
+  description: 帰国の日を迎えた香貫花を見送る第二小隊。しかし、香貫花が搭乗した飛行機が離陸直前にハイジャック!犯人らは、かつて第二小隊に逮捕されたテロリスト、犬走一直の解放を要求する。機内の香貫花と機外の第二小隊は、事件解決を目指して最後の共同作戦を開始する!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209219←前話｜次話→so34209248　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209220
+  default_thread_id: 1542853987
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209220
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 春の嵐
+  description: 太田の二号機を指揮するようになった進士は、胃痛に悩まされる日々を送る。自信を失っていた矢先、進士はヘッドハンティングによる転職の誘いを受ける。高待遇、自分を評価してくれる人間、そして愛すべき妻・・・。果たして進士が選ぶ道とは?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209220←前話｜次話→so34209250　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209248
+  default_thread_id: 1542854530
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209248
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 私が熊耳武緒です
+  description: 第二小隊に新たに配属された熊耳武緒は、容姿端麗、頭脳明晰、運動神経抜群の優等生。彼女に対しコンプレックスを抱く野明。そんな中、第二小隊に出動命令が下る。しかも熊耳が二号機を指揮することに・・・。野明は、無事任務を果たせるか?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209248←前話｜次話→so34209251　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209250
+  default_thread_id: 1542854536
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209250
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 闇に呼ぶ声
+  description: 特殊な状況下での作戦や災害救助の参考にもなると、老朽化した倒壊寸前のビルを訪れた第二小隊。そこは時代を超えて忌わしい事件が多発する、いわくつきの場所だった。隊員達が感じる薄気味悪さ、続発する怪奇現象は、本物の幽霊による仕業なのか?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209250←前話｜次話→so34209252　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209251
+  default_thread_id: 1542854646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209251
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 怪しいふたり
+  description: 休日のデート(?)でゲームセンターを訪れた野明と遊馬は、怪しい二人組みに遭遇する。見事なゲームテクニックを披露する陽気な中年、内海と無邪気な少年バドの二人組み。果たして彼らは何者なのか!?そして第二小隊に陰謀が忍び寄る!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209251←前話｜次話→so34209253　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209252
+  default_thread_id: 1542854524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209252
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 特車二課 壊滅す!
+  description: 食事、それは生命の維持に必要不可欠な行為。陸の孤島に存在するため、特車二課の食糧事情は困窮を極めた。食糧のライフラインに些細な綻びが生じたとき、彼らの日常は容易に崩壊を始める。食べるという行為への執着が生んだ悲劇と喜劇の物語。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209252←前話｜次話→so34209254　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209253
+  default_thread_id: 1542854526
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209253
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: グリフォン参上!
+  description: 小笠原で訓練していた自衛隊レイバー部隊が、謎の黒いレイバーにより全滅。何者の仕業か?一方、上層部が進める廉価版レイバー導入計画に納得できない特車二課の面々。そして舞台は東京国際レイバーショウへ…。最強の敵“グリフォン”が遂に現れる!!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209253←前話｜次話→so34209169　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209254
+  default_thread_id: 1542854532
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209254
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 雨の惨劇
+  description: 第二小隊が警備する国際レイバーショウには、警察上層部が次期機種候補と考える篠原重工“AVS-98 エコノミー”も出展されていた。ショウ終了後に“AVS-98”を試乗する遊馬は、“グリフォン”の奇襲を受ける!その圧倒的かつ脅威的な戦闘能力が野明たちに襲いかかる!!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209254←前話｜次話→so34209168　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209169
+  default_thread_id: 1542853387
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209169
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 再会
+  description: 国際レイバーショウを舞台としたグリフォンの奇襲攻撃により、深刻なダメージを負った第二小隊。そこに、“グリフォン”らしき機体が千葉に墜落したとの報告が入るが、その背後では内海率いる企画七課が暗躍していた。一方、苦しい状況の第二小隊に、アメリカから頼もしい助っ人が参入する。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209169←前話｜次話→so34209167　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209168
+  default_thread_id: 1542853029
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209168
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: シャフトの犬たち
+  description: シャフト・エンタープライズの専務、徳永は、企画七課の内海と“グリフォン”の保護をお抱えの警備組織、“SSS”に命じる。その手を逃れて海路から東京を目指す内海と“グリフォン”は、東京港大突堤、通称“バビロンの城門”にてSSSのレイバーと対決!その報を受け、第二小隊が出動する!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209168←前話｜次話→so34209166　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209167
+  default_thread_id: 1542852788
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209167
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 城門の戦い
+  description: "“バビロンの城門”では“グリフォン”と“イングラム”、そしてSSSのレイバー隊との混戦が続いていた。SSSの爆弾によりダメージを受ける“グリフォン”と“イングラム”。失神する野明に迫るバドが操る“グリフォン”。戦いの結末は如何に!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209167←前話｜次話→so34209165　第一話→so34209215"
+  length_seconds: 1480
+  content_id: so34209166
+  default_thread_id: 1542853390
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209166
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: グリフォン墜つ!
+  description: メインモニターが故障した野明の“イングラム”だが、太田とひろみの援護もあってバドの“グリフォン”と真っ向から殴り合う!遂に内海はバドに撤退を指示。そして、SSSのトップも内海の処遇について判断を下す。これで一件落着となるか…。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209166←前話｜次話→so34209164　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209165
+  default_thread_id: 1542852845
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209165
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 野明の冒険
+  description: "“グリフォン”との死闘を終え、第二小隊はレイバー隊員研修学校にて訓練を受けていた。達成感を得ぬまま“グリフォン”事件の終結を迎えた野明は、自分のポジションや能力に思い悩む。そのモヤモヤを晴らそうと、夜間の買出しに出掛けた野明だが…。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209165←前話｜次話→so34209163　第一話→so34209215"
+  length_seconds: 1480
+  content_id: so34209164
+  default_thread_id: 1542852843
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209164
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: 安心売ります
+  description: 街を壊して車両を破壊する、悪評高き第二小隊。その補償に絡んで、ついに保険会社から調査員が派遣される。戦々恐々とする隊員たち。“保険”をキーワードに、特車二課の存在と役割が改めて見つめ直される。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209164←前話｜次話→so34209162　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209163
+  default_thread_id: 1542853025
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209163
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 地下迷宮物件
+  description: 特車二課の“食糧事情”を起点にして描かれる彼らの日常における闘争。今度の舞台は地下ダンジョン!食料盗難事件の犯人を追って地下に下りた進士と太田から連絡が途絶えた!残りの隊員たちもパーティーを編成し、いざ魔の空間へ!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209163←前話｜次話→so34209161　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209162
+  default_thread_id: 1542852913
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209162
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: 量産機計画
+  description: 特車二課へ導入が検討される新型レイバー“AVS-98 MARKII”のテストに参加する野明、太田、第一小隊の五味丘。太田や五味丘の評価は好評の新型機だが、野明だけは異なる評価を下す。そして遂に、野明が操縦する“イングラム”との模擬格闘戦が行われることになるが…。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209162←前話｜次話→so34209160　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209161
+  default_thread_id: 1542852908
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209161
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 沿岸警備命令
+  description: 真夏の盛り、第二小隊は海岸地域の警備に出動していた。遥か古代に絶滅したはずの首長竜プレシオサウルスらしき海獣により、漁船が沈められたというのだ。漁師達が語る沖合いの御神体と、海獣“プレッシー”。何かを確信する後藤。果たして海獣の正体とは!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209161←前話｜次話→so34209159　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209160
+  default_thread_id: 1542852904
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209160
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: テロリストを救え
+  description: バビロン・プロジェクト・ディベロッパー・コンベンションが開かれている会場爆破を狙うテロリストたちは、あろうことか、自分たちのミスで倒壊の危機があるラウンジ最上階に取り残されてしまう。更なる大惨事を回避すべく、第二小隊の“テロリスト救出作戦”が始まる。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209160←前話｜次話→so34209158　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209159
+  default_thread_id: 1542852911
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209159
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 帰ってきた男たち
+  description: レイバーによるキャッシュディスペンサー強奪事件が続発。現場に残された落書きから、後藤の脳裏に過去の事件が思い浮かぶ。その事件には、犬走(TV第9話)、猫渡(TV第24話)、そして猿滑三吉のテロリスト三人組が関係していた。後藤率いる第二小隊の戦いが始まる!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209159←前話｜次話→so34209170　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209158
+  default_thread_id: 1542853023
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209158
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: はたらくお嬢さん
+  description: 野明がテレビ番組｢働くお嬢さん｣に出演することに。収録が始まり、せめて醜態だけは見せまいと悪戦苦闘する野明だが、どうも上手くいかない。そんな折、作業用レイバーを奪った男の自殺騒動が発生。突撃レポーター・桜山桃子と野明は現場へ急行する。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209158←前話｜次話→so34209171　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209170
+  default_thread_id: 1542853384
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209170
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: CLATよ永遠に
+  description: 香貫花を隊長とするニューヨーク市警レイバー隊へ最新の技術を伝えるため、整備班のシゲに渡米の辞令が下る。ニューヨークを訪れたシゲの前には、予想を上回る展開が待っていた。巨大ロボ・メガアイアンを操る女マッドサイエンティストから、世界を守れ!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209170←前話｜次話→so34209172　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209171
+  default_thread_id: 1542853388
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209171
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: 職業選択の自由
+  description: 空挺レイバー隊“99式ヘルダイバー”の演習を見学するため、自衛隊の総合火力演習を訪れた後藤以下第二小隊。彼らを呼びとめた自衛官の案内で向かった格納庫にいたのは、南雲隊長の学生時代の友人にしてヘルダイバー部隊の隊長を務めている不破だった。彼女の狙いとは!?<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209171←前話｜次話→so34209276　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209172
+  default_thread_id: 1542853027
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209172
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: その名はゼロ
+  description: 第一小隊に篠原重工の最新鋭レイバー“AV-0”の導入が決定した。あらゆる面で“イングラム”の能力を凌ぐ新型機。その姿を見る野明の胸の内に沸き起こるのは、いかなる感情か…。“アルフォンス”と名付けた愛機への想いが、今の野明には重い。<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209172←前話｜次話→so34209277　第一話→so34209215
+  length_seconds: 1480
+  content_id: so34209276
+  default_thread_id: 1542855186
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209276
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: コンディション・グリーン(最終話)
+  description: 出動するたびに評価が高まる、第一小隊の“AV-0”。それと相反するかのように沈んでいく野明の心。苫小牧に帰郷し、かつての愛犬、アルフォンスとの死別を思い返す野明。迎えに来た遊馬と共に東京へ戻る二人に、第一小隊援護のため、緊急出動の命令が下る!<br><br>©HEADGEAR
+    / BANDAI VISUAL / TOHOKUSHINSHA<br><br>so34209276←前話　第一話→so34209215
+  length_seconds: 1449
+  content_id: so34209277
+  default_thread_id: 1542855184
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209277
+produced_year: "[製作年]<br>1989年"
+copyright: "©HEADGEAR / BANDAI VISUAL / TOHOKUSHINSHA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 機動警察パトレイバー　アーリーデイズ
+- !ruby/hash:SeasonHash
+  title: 機動警察パトレイバー　NEW OVA
+- !ruby/hash:SeasonHash
+  title: ミニパト

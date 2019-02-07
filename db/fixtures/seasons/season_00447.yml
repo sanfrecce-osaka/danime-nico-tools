@@ -8,10 +8,10 @@ tags: !ruby/array:Hashie::Array
   name: コメディ/ギャグ
   type: genre
 - !ruby/hash:TagHash
-  name: 小林ゆう
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤かな恵
@@ -53,10 +53,16 @@ tags: !ruby/array:Hashie::Array
   name: 監督：たつき
   type: staff
 - !ruby/hash:TagHash
+  name: けものフレンズシリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 旅に出たくなる
   type: other
 - !ruby/hash:TagHash
   name: どこかにカレー
@@ -75,12 +81,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: オススメしたい
-  type: other
-- !ruby/hash:TagHash
-  name: 世界観が良かった
-  type: other
-- !ruby/hash:TagHash
-  name: アツかった
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -223,6 +223,6 @@ produced_year: "[製作年]<br>2017年"
 copyright: "©けものフレンズプロジェクトA"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: "『けものフレンズ』 ジャパリバスツアー ぐんまちほー行き"
+  title: けものフレンズ２
 - !ruby/hash:SeasonHash
-  title: 放送開始直前特番「けものだらけの新春！サマーパーティー」
+  title: 放送開始直前特番「けものフレンズ２　#0」〜尾崎由香、サーバルに会いに行く！〜

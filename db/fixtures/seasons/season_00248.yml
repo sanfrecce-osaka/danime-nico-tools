@@ -47,10 +47,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：片山修志
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：伊藤尚往
+  name: 音楽：Team-MAX
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：Team-MAX
+  name: 監督：伊藤尚往
   type: staff
 - !ruby/hash:TagHash
   name: 原作：丸山くがね
@@ -68,25 +68,25 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2015年
   type: other
 - !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: ハーレム
+  type: other
+- !ruby/hash:TagHash
   name: KADOKAWA
   type: other
 - !ruby/hash:TagHash
-  name: 最強ヒーロー
+  name: 魔法使い
   type: other
 - !ruby/hash:TagHash
-  name: 池田繁美
+  name: 異世界
   type: other
 - !ruby/hash:TagHash
-  name: 木村佳史子
+  name: 主人公最強
   type: other
 - !ruby/hash:TagHash
-  name: アトリエ・ムサ
-  type: other
-- !ruby/hash:TagHash
-  name: 川下裕樹
-  type: other
-- !ruby/hash:TagHash
-  name: 郷文裕貴
+  name: 頼れる側近
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -239,4 +239,6 @@ produced_year: "[製作年]<br>2015年"
 copyright: "© 丸山くがね・KADOKAWA刊／オーバーロード製作委員会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: オーバーロードII
+  title: オーバーロードⅡ
+- !ruby/hash:SeasonHash
+  title: オーバーロードⅢ

@@ -27,19 +27,19 @@ tags: !ruby/array:Hashie::Array
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
-  name: 佐倉綾音
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 谷山紀章
+  name: 新井里美
   type: cast
 - !ruby/hash:TagHash
-  name: 新井里美
+  name: 谷山紀章
   type: cast
 - !ruby/hash:TagHash
   name: 阿部敦
@@ -63,16 +63,22 @@ tags: !ruby/array:Hashie::Array
   name: 原作：鎌池和馬
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：吉野弘幸
+  name: キャラクターデザイン：はいむらきよたか
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：はいむらきよたか
+  name: 脚本：吉野弘幸
   type: staff
 - !ruby/hash:TagHash
   name: とあるシリーズ
   type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: 聖地巡礼
   type: other
 - !ruby/hash:TagHash
   name: 劇場公開作品
@@ -91,12 +97,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 西山茂
-  type: other
-- !ruby/hash:TagHash
-  name: メディアワークス
-  type: other
-- !ruby/hash:TagHash
-  name: 福世晋吾
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -175,10 +175,12 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: とある魔術の禁書目録
 - !ruby/hash:SeasonHash
-  title: とある魔術の禁書目録II
+  title: とある魔術の禁書目録Ⅱ
 - !ruby/hash:SeasonHash
   title: とある科学の超電磁砲
 - !ruby/hash:SeasonHash
   title: とある科学の超電磁砲 OVA
 - !ruby/hash:SeasonHash
   title: とある科学の超電磁砲S
+- !ruby/hash:SeasonHash
+  title: とある魔術の禁書目録Ⅲ

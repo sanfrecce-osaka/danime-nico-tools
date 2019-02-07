@@ -148,8 +148,8 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: 灼眼のシャナ SP｢恋と温泉の校外学習!｣
 - !ruby/hash:SeasonHash
-  title: 灼眼のシャナII(Second)
+  title: 灼眼のシャナⅡ(Second)
 - !ruby/hash:SeasonHash
-  title: 灼眼のシャナIII-FINAL-
+  title: 灼眼のシャナⅢ-FINAL-
 - !ruby/hash:SeasonHash
   title: 劇場版「灼眼のシャナ」

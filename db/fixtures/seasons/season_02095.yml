@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: TVアニメ「ペルソナ５」特番アニメーション
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/53/4/22534_1_6.png?1544497240000
+outline: 高校2年生の春、雨宮 蓮は東京の「秀尽学園」に転入する。ある出来事をきっかけに“ペルソナ”使いとして覚醒した蓮は、新たに出会った仲間達とともに「心の怪盗団」を結成。悪しき欲望に塗れた大人達の“歪んだ欲望”を盗んで改心させていく。一方、街では不可解な精神暴走事件が次々と起こっていた……。大都会“東京”を舞台に高校生として日常生活を送りながらも、放課後は「心の怪盗団」として暗躍する―。壮大なピカレスクロマンの幕が切って落とされる！衝撃のシーンで最終回のラストを飾ったTVアニメ「ペルソナ５」。年末特番「Dark
+  Sun...」は、第26話のその後を描く。漆黒の太陽が昇りゆく世界で絆を――輝きを取り戻せるのか…？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷育江
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：石浜真史
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石川智美
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：アトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：CloverWorks
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：目黒将司
+  type: staff
+- !ruby/hash:TagHash
+  name: ペルソナ5シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: SP
+  title: Dark Sun...
+  description: 蓮が怪盗団事件の容疑者として自殺したと報道される中、水面下で動き始める怪盗団。全ての事件を仕組んだと思われる人物を特定し改心させるため、怪盗団は新たなターゲットのパレスへ侵入し、オタカラを盗み出すことを決意する。<br><br>雨宮
+    蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木 碧／奥村 春:戸松 遥／明智吾郎:保志総一朗<br><br>原作:「ペルソナ５」（アトラス）／ストーリー原案:橋野
+    桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:CloverWorks<br><br>©ATLUS
+    ©SEGA/PERSONA5 the Animation Project
+  length_seconds: 3070
+  content_id: so34386961
+  default_thread_id: 1545959885
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386961.6259
+cast: "[キャスト]<br>雨宮 蓮:福山 潤／坂本竜司:宮野真守／高巻 杏:水樹奈々／モルガナ:大谷育江／喜多川祐介:杉田智和／新島 真:佐藤利奈／佐倉双葉:悠木
+  碧／奥村 春:戸松 遥／明智吾郎:保志総一朗"
+staff: "[スタッフ]<br>原作:「ペルソナ５」（アトラス）／ストーリー原案:橋野 桂／キャラクター原案:副島成記／悪魔デザイン原案:金子一馬／監督:石浜真史／シリーズ構成:猪爪慎一／キャラクターデザイン:石川智美／音楽:目黒将司／制作:CloverWorks"
+produced_year: "[製作年]<br>2018年"
+copyright: "©ATLUS ©SEGA/PERSONA5 the Animation Project"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ５」
+- !ruby/hash:SeasonHash
+  title: PERSONA -trinity soul-
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ４」
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ４ ザ・ゴールデン」

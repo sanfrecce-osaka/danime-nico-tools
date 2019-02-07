@@ -47,6 +47,12 @@ tags: !ruby/array:Hashie::Array
   name: 電撃
   type: other
 - !ruby/hash:TagHash
+  name: 異世界
+  type: other
+- !ruby/hash:TagHash
+  name: 頼れる側近
+  type: other
+- !ruby/hash:TagHash
   name: KADOKAWA アスキー・メディアワークス
   type: other
 episodes: !ruby/array:Hashie::Array
@@ -194,4 +200,6 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: ソードアート・オンライン Extra Edition
 - !ruby/hash:SeasonHash
-  title: ソードアート・オンラインII
+  title: ソードアート・オンラインⅡ
+- !ruby/hash:SeasonHash
+  title: ソードアート・オンライン アリシゼーション

@@ -65,6 +65,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2005年
   type: other
 - !ruby/hash:TagHash
+  name: 桜
+  type: other
+- !ruby/hash:TagHash
   name: 田熊純
   type: other
 - !ruby/hash:TagHash
@@ -81,9 +84,6 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 小坂部直子
-  type: other
-- !ruby/hash:TagHash
-  name: 宿利剛
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -433,8 +433,8 @@ produced_year: "[製作年]<br>2005年"
 copyright: "(C) CIRCUS/ダ・カーポSS製作委員会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: D.C.II.S.S.～ダ・カーポII セカンドシーズン～
-- !ruby/hash:SeasonHash
-  title: D.C.II ～ダ・カーポII～
-- !ruby/hash:SeasonHash
   title: D.C.～ダ・カーポ～
+- !ruby/hash:SeasonHash
+  title: D.C.Ⅱ ～ダ・カーポⅡ～
+- !ruby/hash:SeasonHash
+  title: D.C.Ⅱ.S.S.～ダ・カーポⅡセカンドシーズン～

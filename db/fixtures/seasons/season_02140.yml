@@ -1,0 +1,80 @@
+--- !ruby/hash:SeasonHash
+title: みにとじ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/54/7/22547_1_6.png?1545267662000
+outline: 少女たちの日常は戦ったり戦わなかったり？TVアニメ「刀使ノ巫女」とスマートフォンゲーム「刀使ノ巫女 刻みし一閃の燈火」のキャラクターがちいさくなって大集合！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 大西沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐裕美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石原夏織
+  type: cast
+- !ruby/hash:TagHash
+  name: 本渡楓
+  type: cast
+- !ruby/hash:TagHash
+  name: 茜屋日海夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木絵理
+  type: cast
+- !ruby/hash:TagHash
+  name: 和氣あず未
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田茜
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田利冴
+  type: cast
+- !ruby/hash:TagHash
+  name: 木野日菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：橋本由香利
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：信田ユウ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：伍箇伝計画
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：緒方浩美
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第0話～第3話
+  title: 可奈美・美炎の「とじみこ　胎動編」205秒で紹介特番！／とっくん／ぷれぜんと／よざくら
+  description: "「みにとじ」をより楽しんでいただくために、「刀使ノ巫女 胎動編」を可奈美と美炎が205秒でふり返ります！／折神紫を倒したことで注目される可奈美たちを観察するミルヤ。仲のよい可奈美たちを真似て、調査隊のチームワーク向上の特訓を始めるが･･･／明日は可奈美の誕生日！美炎と姫和と舞衣は、可奈美が最も喜ぶプレゼントを探しに出かける。最高の誕生日にするため、３人が考えたプレゼントの内容とは･･･？／折神紫と親衛隊の４人はお花見という束の間の休息を満喫していた。みんなと一緒に過ごすお花見に笑顔満開の結芽。でも楽しんでいたのは結芽だけではなかった。<br><br>衛藤可奈美:本渡楓／十条姫和:大西沙織／柳瀬舞衣:和氣あず未／糸見沙耶香:木野日菜／益子薫:松田利冴／古波蔵エレン:鈴木絵理／安桜美炎:茜屋日海夏／瀬戸内智恵:石原夏織／七之里呼吹:五十嵐裕美／六角清香:藤田茜／木寅ミルヤ:沼倉愛美<br><br>監督:信田ユウ／原作:伍箇伝計画／音楽:橋本由香利／シリーズ構成:朱白あおい（ミームミーム）／キャラクター原案:しずまよしのり／キャラクターデザイン・総作画監督:緒方浩美／美術監督:松下佳香（スタジオちゅーりっぷ）／プロデュース:ジェンコ<br><br>©伍箇伝計画／刀使ノ巫女製作委員会"
+  length_seconds: 843
+  content_id: so34540874
+  default_thread_id: 1548637447
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34540874.91754
+cast: "[キャスト]<br>衛藤可奈美:本渡楓／十条姫和:大西沙織／柳瀬舞衣:和氣あず未／糸見沙耶香:木野日菜／益子薫:松田利冴／古波蔵エレン:鈴木絵理／安桜美炎:茜屋日海夏／瀬戸内智恵:石原夏織／七之里呼吹:五十嵐裕美／六角清香:藤田茜／木寅ミルヤ:沼倉愛美"
+staff: "[スタッフ]<br>監督:信田ユウ／原作:伍箇伝計画／音楽:橋本由香利／シリーズ構成:朱白あおい（ミームミーム）／キャラクター原案:しずまよしのり／キャラクターデザイン・総作画監督:緒方浩美／美術監督:松下佳香（スタジオちゅーりっぷ）／プロデュース:ジェンコ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©伍箇伝計画／刀使ノ巫女製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 刀使ノ巫女

@@ -1,0 +1,124 @@
+--- !ruby/hash:SeasonHash
+title: 上野さんは不器用
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/52/8/22528_1_6.png?1545876022000
+outline: |-
+  ココは、とある中学校の理科室━━━━。
+  科学部部長の上野さんは、部活の後輩・田中に恋する乙女。
+  天才的すぎる奇想天外な発明品を使って、あの手この手で気を引くためのアピールを試みる。
+  1年生部員の山下も冷静沈着なアシストで上野さんをバックアップ！
+  果たして上野さんの恋は成就するのか！？
+  それとも・・・
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 井澤詩織
+  type: cast
+- !ruby/hash:TagHash
+  name: 芹澤優
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中あいみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 大森日雅
+  type: cast
+- !ruby/hash:TagHash
+  name: 影山灯
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：日本コロムビア
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：三澤康広
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：月見里智弘
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大和田彩乃
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：レスプリ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：tugeneko
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 実験その1「ロッカくん」／実験その2「クマタンダー2号」
+  description: ココは、とある中学校のとある理科室―。科学部部長・上野さんは、その天才的頭脳で究極の携帯型濾過装置「ロッカくん」を完成させた。性能を確かめるため、部活の後輩・田中に対し濾過した謎の液体を飲むようにすすめる。果たして、謎の液体の正体とは一体…！？<br><br>上野:芹澤
+    優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織<br><br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ<br><br>©
+    tugeneko・白泉社／上野さんは不器用製作委員会<br><br>次話→so34456721
+  length_seconds: 690
+  content_id: so34381976
+  default_thread_id: 1545872646
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34381976.79821
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 実験その3「ダッシュたん」／実験その4「一七六防護服」
+  description: "「田中のパンツくれ」上野さんは田中のパンツを要求した。新たに開発した、瞬間脱臭装置「ダッシュたん」の力を試すため、強力な臭い発生源が必要だという。自分だけ実験台になるのはイヤと言う田中。上野さん、山下も巻き込みお互いの衣類の臭いをかぎはじめるのだった。<br><br>上野:芹澤
+    優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織<br><br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ<br><br>©
+    tugeneko・白泉社／上野さんは不器用製作委員会<br><br>so34381976←前話｜次話→so34490705　第一話→so34381976"
+  length_seconds: 690
+  content_id: so34456721
+  default_thread_id: 1547170322
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34456721.3207
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 実験その5「キルトハイド」／実験その6「ガラクたん」
+  description: 水泳部部長・北長さんが訪ねてきた。最近、水泳部にのぞきが出るらしく、上野さんに対策のための発明品制作を依頼していたのだ。疑似立体映像投影装置「キルトハイド」―。それを受け取った北長さんは、おもむろに水着を脱ぎ始めて…！？<br><br>上野:芹澤
+    優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織<br><br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ<br><br>©
+    tugeneko・白泉社／上野さんは不器用製作委員会<br><br>so34456721←前話｜次話→so34490593　第一話→so34381976
+  length_seconds: 690
+  content_id: so34490705
+  default_thread_id: 1547776925
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34490705.95679
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 実験その7「ウエノ13号」／実験その8「サモンスタット」
+  description: いつもの放課後。どこかいつもと違う上野さん（？）…。田中をじっと見つめたり、ひざまくらを要求したりと、かなり積極的。秘めていた乙女心を解き放ち、ついには田中に頭をなでなでさせはじめる。<br><br>上野:芹澤
+    優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織<br><br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ<br><br>©
+    tugeneko・白泉社／上野さんは不器用製作委員会<br><br>so34490705←前話｜次話→so34545481　第一話→so34381976
+  length_seconds: 690
+  content_id: so34490593
+  default_thread_id: 1547774526
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34490593.25753
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 実験その9「ピースペクター」／実験その10「PEリザーバー」
+  description: 夜の中学校、理科室。学校に点在する怪しい噂・地獄八怪奇の正体を暴くため、上野さんは新たな発明品を作成した。「ピースペクター」 それは、人ならざるものの挙動を捕捉し、モニタに映し出す装置である。上野さんと田中、山下とウエノ13号のペアに分かれ、校内を探索しはじめるのだった。<br><br>上野:芹澤
+    優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織<br><br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ<br><br>©
+    tugeneko・白泉社／上野さんは不器用製作委員会<br><br>so34490593←前話　第一話→so34381976
+  length_seconds: 690
+  content_id: so34545481
+  default_thread_id: 1548723183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34545481.57798
+cast: "[キャスト]<br>上野:芹澤 優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織"
+staff: "[スタッフ]<br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ"
+produced_year: "[製作年]<br>2018年"
+copyright: "© tugeneko・白泉社／上野さんは不器用製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

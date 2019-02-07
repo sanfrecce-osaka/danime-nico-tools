@@ -1623,9 +1623,6 @@
   title: 最遊記外伝 特別篇 香花の章
   first_episode_url: http://www.nicovideo.jp/watch/so31970469
 - !ruby/hash:Hashie::Mash
-  title: 冴えない彼女の育てかた
-  first_episode_url: http://www.nicovideo.jp/watch/so32601654
-- !ruby/hash:Hashie::Mash
   title: 坂本ですが？
   first_episode_url: http://www.nicovideo.jp/watch/so33039101
 - !ruby/hash:Hashie::Mash
@@ -6077,3 +6074,375 @@
 - !ruby/hash:Hashie::Mash
   title: 闇芝居 六期
   first_episode_url: http://www.nicovideo.jp/watch/so33995950
+- !ruby/hash:Hashie::Mash
+  title: あたしンち(第53話～第78話)
+  first_episode_url: http://www.nicovideo.jp/watch/so34481889
+- !ruby/hash:Hashie::Mash
+  title: アップルシードⅩⅢ
+  first_episode_url: http://www.nicovideo.jp/watch/so32206498
+- !ruby/hash:Hashie::Mash
+  title: イナズマデリバリー　シーズン2
+  first_episode_url: http://www.nicovideo.jp/watch/so34234728
+- !ruby/hash:Hashie::Mash
+  title: いぬやしき
+  first_episode_url: http://www.nicovideo.jp/watch/so34209278
+- !ruby/hash:Hashie::Mash
+  title: 嫌な顔されながらおパンツ見せてもらいたい
+  first_episode_url: http://www.nicovideo.jp/watch/so34345896
+- !ruby/hash:Hashie::Mash
+  title: 上野さんは不器用
+  first_episode_url: http://www.nicovideo.jp/watch/so34381976
+- !ruby/hash:Hashie::Mash
+  title: うらら迷路帖
+  first_episode_url: http://www.nicovideo.jp/watch/so34345774
+- !ruby/hash:Hashie::Mash
+  title: エガオノダイカ
+  first_episode_url: http://www.nicovideo.jp/watch/so34386960
+- !ruby/hash:Hashie::Mash
+  title: えんどろ～！
+  first_episode_url: http://www.nicovideo.jp/watch/so34457228
+- !ruby/hash:Hashie::Mash
+  title: ヱヴァンゲリヲン新劇場版：序
+  first_episode_url: http://www.nicovideo.jp/watch/so34311823
+- !ruby/hash:Hashie::Mash
+  title: ヱヴァンゲリヲン新劇場版：破
+  first_episode_url: http://www.nicovideo.jp/watch/so34311821
+- !ruby/hash:Hashie::Mash
+  title: 狼と香辛料Ⅱ
+  first_episode_url: http://www.nicovideo.jp/watch/so32011491
+- !ruby/hash:Hashie::Mash
+  title: おこしやす、ちとせちゃん
+  first_episode_url: http://www.nicovideo.jp/watch/so34145975
+- !ruby/hash:Hashie::Mash
+  title: おたくの星座 Ⅰ・ⅡAN ADVENTURE IN THE OTAKU GALAXY
+  first_episode_url: http://www.nicovideo.jp/watch/so32230893
+- !ruby/hash:Hashie::Mash
+  title: "「終物語」まよいヘル／ひたぎランデブー／おうぎダーク"
+  first_episode_url: http://www.nicovideo.jp/watch/so34032279
+- !ruby/hash:Hashie::Mash
+  title: オーバーロードⅡ
+  first_episode_url: http://www.nicovideo.jp/watch/so32588360
+- !ruby/hash:Hashie::Mash
+  title: オーバーロードⅢ
+  first_episode_url: http://www.nicovideo.jp/watch/so33497771
+- !ruby/hash:Hashie::Mash
+  title: かぐや様は告らせたい～天才たちの恋愛頭脳戦～
+  first_episode_url: http://www.nicovideo.jp/watch/so34448543
+- !ruby/hash:Hashie::Mash
+  title: ガーリー・エアフォース
+  first_episode_url: http://www.nicovideo.jp/watch/so34456776
+- !ruby/hash:Hashie::Mash
+  title: キャッツ・アイ
+  first_episode_url: http://www.nicovideo.jp/watch/so32261930
+- !ruby/hash:Hashie::Mash
+  title: キャッツ・アイ 2nd season
+  first_episode_url: http://www.nicovideo.jp/watch/so32266184
+- !ruby/hash:Hashie::Mash
+  title: 銀の墓守りⅡ
+  first_episode_url: http://www.nicovideo.jp/watch/so32573163
+- !ruby/hash:Hashie::Mash
+  title: 黒執事
+  first_episode_url: http://www.nicovideo.jp/watch/so34195565
+- !ruby/hash:Hashie::Mash
+  title: 黒執事Ⅱ
+  first_episode_url: http://www.nicovideo.jp/watch/so34196071
+- !ruby/hash:Hashie::Mash
+  title: グリムノーツ The Animation
+  first_episode_url: http://www.nicovideo.jp/watch/so34452051
+- !ruby/hash:Hashie::Mash
+  title: 天元突破グレンラガン
+  first_episode_url: http://www.nicovideo.jp/watch/so34200366
+- !ruby/hash:Hashie::Mash
+  title: けものフレンズ２
+  first_episode_url: http://www.nicovideo.jp/watch/so34456720
+- !ruby/hash:Hashie::Mash
+  title: 月曜日のたわわ
+  first_episode_url: http://www.nicovideo.jp/watch/so34341209
+- !ruby/hash:Hashie::Mash
+  title: ココロコネクト
+  first_episode_url: http://www.nicovideo.jp/watch/so34264020
+- !ruby/hash:Hashie::Mash
+  title: 暦物語
+  first_episode_url: http://www.nicovideo.jp/watch/so34032287
+- !ruby/hash:Hashie::Mash
+  title: 五等分の花嫁
+  first_episode_url: http://www.nicovideo.jp/watch/so34452045
+- !ruby/hash:Hashie::Mash
+  title: 冴えない彼女の育てかた
+  first_episode_url: http://www.nicovideo.jp/watch/so34282050
+- !ruby/hash:Hashie::Mash
+  title: 三国志 Ⅱ 「天翔ける英雄たち」
+  first_episode_url: http://www.nicovideo.jp/watch/so32160192
+- !ruby/hash:Hashie::Mash
+  title: サークレット・プリンセス
+  first_episode_url: http://www.nicovideo.jp/watch/so34452050
+- !ruby/hash:Hashie::Mash
+  title: 灼眼のシャナⅡ(Second)
+  first_episode_url: http://www.nicovideo.jp/watch/so31960016
+- !ruby/hash:Hashie::Mash
+  title: 灼眼のシャナⅢ-FINAL-
+  first_episode_url: http://www.nicovideo.jp/watch/so32166811
+- !ruby/hash:Hashie::Mash
+  title: 終電後、カプセルホテルで、上司に微熱伝わる夜。
+  first_episode_url: http://www.nicovideo.jp/watch/so34381978
+- !ruby/hash:Hashie::Mash
+  title: 地獄少女
+  first_episode_url: http://www.nicovideo.jp/watch/so34195915
+- !ruby/hash:Hashie::Mash
+  title: 地獄少女 二籠
+  first_episode_url: http://www.nicovideo.jp/watch/so34447901
+- !ruby/hash:Hashie::Mash
+  title: Just Because！
+  first_episode_url: http://www.nicovideo.jp/watch/so34345895
+- !ruby/hash:Hashie::Mash
+  title: ストライク・ザ・ブラッドⅡ OVA
+  first_episode_url: http://www.nicovideo.jp/watch/so32367335
+- !ruby/hash:Hashie::Mash
+  title: ストリートファイターⅡ MOVIE
+  first_episode_url: http://www.nicovideo.jp/watch/so31939784
+- !ruby/hash:Hashie::Mash
+  title: ストリートファイターⅡV
+  first_episode_url: http://www.nicovideo.jp/watch/so31939785
+- !ruby/hash:Hashie::Mash
+  title: せいぜいがんばれ！魔法少女くるみ（第2期）
+  first_episode_url: http://www.nicovideo.jp/watch/so34072824
+- !ruby/hash:Hashie::Mash
+  title: セントールの悩み
+  first_episode_url: http://www.nicovideo.jp/watch/so34316186
+- !ruby/hash:Hashie::Mash
+  title: ソードアート・オンラインⅡ
+  first_episode_url: http://www.nicovideo.jp/watch/so32266721
+- !ruby/hash:Hashie::Mash
+  title: 秘密結社 鷹の爪 THE MOVIE Ⅱ～私を愛した黒烏龍茶～
+  first_episode_url: http://www.nicovideo.jp/watch/so32036447
+- !ruby/hash:Hashie::Mash
+  title: 秘密結社 鷹の爪 THE MOVIE Ⅲ～http://鷹の爪.jpは永遠に～
+  first_episode_url: http://www.nicovideo.jp/watch/so32036448
+- !ruby/hash:Hashie::Mash
+  title: 盾の勇者の成り上がり
+  first_episode_url: http://www.nicovideo.jp/watch/so34443640
+- !ruby/hash:Hashie::Mash
+  title: D.C.Ⅱ ～ダ・カーポⅡ～
+  first_episode_url: http://www.nicovideo.jp/watch/so32079933
+- !ruby/hash:Hashie::Mash
+  title: D.C.Ⅱ.S.S.～ダ・カーポⅡセカンドシーズン～
+  first_episode_url: http://www.nicovideo.jp/watch/so32079946
+- !ruby/hash:Hashie::Mash
+  title: 超次元革命アニメ『Dimensionハイスクール』
+  first_episode_url: http://www.nicovideo.jp/watch/so34457229
+- !ruby/hash:Hashie::Mash
+  title: デート・ア・ライブⅡ
+  first_episode_url: http://www.nicovideo.jp/watch/so32306333
+- !ruby/hash:Hashie::Mash
+  title: デート・ア・ライブⅢ
+  first_episode_url: http://www.nicovideo.jp/watch/so34448545
+- !ruby/hash:Hashie::Mash
+  title: 劇場版デート・ア・ライブ 万由里ジャッジメント
+  first_episode_url: http://www.nicovideo.jp/watch/so34345900
+- !ruby/hash:Hashie::Mash
+  title: とある魔術の禁書目録Ⅱ
+  first_episode_url: http://www.nicovideo.jp/watch/so32011815
+- !ruby/hash:Hashie::Mash
+  title: 同居人はひざ、時々、頭のうえ。
+  first_episode_url: http://www.nicovideo.jp/watch/so34452046
+- !ruby/hash:Hashie::Mash
+  title: ななついろ★ドロップス
+  first_episode_url: http://www.nicovideo.jp/watch/so34349784
+- !ruby/hash:Hashie::Mash
+  title: バミューダトライアングル ～カラフル・パストラーレ～
+  first_episode_url: http://www.nicovideo.jp/watch/so34386968
+- !ruby/hash:Hashie::Mash
+  title: BanG Dream! 2nd Season
+  first_episode_url: http://www.nicovideo.jp/watch/so34439414
+- !ruby/hash:Hashie::Mash
+  title: BanG Dream! ガルパ☆ピコ
+  first_episode_url: http://www.nicovideo.jp/watch/so34439409
+- !ruby/hash:Hashie::Mash
+  title: バーチャルさんはみている
+  first_episode_url: http://www.nicovideo.jp/watch/so34448455
+- !ruby/hash:Hashie::Mash
+  title: ぱすてるメモリーズ
+  first_episode_url: http://www.nicovideo.jp/watch/so34381975
+- !ruby/hash:Hashie::Mash
+  title: 機動警察パトレイバー　アーリーデイズ
+  first_episode_url: http://www.nicovideo.jp/watch/so34199880
+- !ruby/hash:Hashie::Mash
+  title: 機動警察パトレイバー　ON TELEVISION
+  first_episode_url: http://www.nicovideo.jp/watch/so34209215
+- !ruby/hash:Hashie::Mash
+  title: 機動警察パトレイバー　NEW OVA
+  first_episode_url: http://www.nicovideo.jp/watch/so34199966
+- !ruby/hash:Hashie::Mash
+  title: ミニパト
+  first_episode_url: http://www.nicovideo.jp/watch/so34265128
+- !ruby/hash:Hashie::Mash
+  title: ビキニ・ウォリアーズ
+  first_episode_url: http://www.nicovideo.jp/watch/so34316175
+- !ruby/hash:Hashie::Mash
+  title: B-PROJECT～絶頂＊エモーション～
+  first_episode_url: http://www.nicovideo.jp/watch/so34456777
+- !ruby/hash:Hashie::Mash
+  title: ブギーポップは笑わない
+  first_episode_url: http://www.nicovideo.jp/watch/so34443641
+- !ruby/hash:Hashie::Mash
+  title: "“文学少女” メモワールⅠ夢見る少女の前奏曲(プレリュード)-"
+  first_episode_url: http://www.nicovideo.jp/watch/so32011657
+- !ruby/hash:Hashie::Mash
+  title: "“文学少女”メモワールⅡソラ舞う天使の鎮魂曲(レクイエム)-"
+  first_episode_url: http://www.nicovideo.jp/watch/so32012080
+- !ruby/hash:Hashie::Mash
+  title: "“文学少女”メモワールⅢ恋する乙女の狂想曲(ラプソディ)-"
+  first_episode_url: http://www.nicovideo.jp/watch/so32012081
+- !ruby/hash:Hashie::Mash
+  title: ベルセルク　黄金時代篇 Ⅰ　覇王の卵
+  first_episode_url: http://www.nicovideo.jp/watch/so31982549
+- !ruby/hash:Hashie::Mash
+  title: TVアニメ「ペルソナ４」
+  first_episode_url: http://www.nicovideo.jp/watch/so34195809
+- !ruby/hash:Hashie::Mash
+  title: TVアニメ「ペルソナ５」特番アニメーション
+  first_episode_url: http://www.nicovideo.jp/watch/so34386961
+- !ruby/hash:Hashie::Mash
+  title: ほら、耳がみえてるよ！
+  first_episode_url: http://www.nicovideo.jp/watch/so34132717
+- !ruby/hash:Hashie::Mash
+  title: ボールルームへようこそ
+  first_episode_url: http://www.nicovideo.jp/watch/so34331926
+- !ruby/hash:Hashie::Mash
+  title: ママはぽよぽよザウルスがお好き
+  first_episode_url: http://www.nicovideo.jp/watch/so34195533
+- !ruby/hash:Hashie::Mash
+  title: まんが世界昔ばなし
+  first_episode_url: http://www.nicovideo.jp/watch/so34340978
+- !ruby/hash:Hashie::Mash
+  title: ムヒョとロージーの魔法律相談事務所
+  first_episode_url: http://www.nicovideo.jp/watch/so34179674
+- !ruby/hash:Hashie::Mash
+  title: 明治東亰恋伽
+  first_episode_url: http://www.nicovideo.jp/watch/so34443639
+- !ruby/hash:Hashie::Mash
+  title: メガゾーン23 PARTⅡ秘密く・だ・さ・い
+  first_episode_url: http://www.nicovideo.jp/watch/so32245000
+- !ruby/hash:Hashie::Mash
+  title: 妄想代理人
+  first_episode_url: http://www.nicovideo.jp/watch/so34265399
+- !ruby/hash:Hashie::Mash
+  title: 臨死!! 江古田ちゃん スペシャルロングVer.
+  first_episode_url: http://www.nicovideo.jp/watch/so34447795
+- !ruby/hash:Hashie::Mash
+  title: ルパン三世 PARTⅢ
+  first_episode_url: http://www.nicovideo.jp/watch/so32807905
+- !ruby/hash:Hashie::Mash
+  title: LUPIN THE ⅢRD 次元大介の墓標
+  first_episode_url: http://www.nicovideo.jp/watch/so31999765
+- !ruby/hash:Hashie::Mash
+  title: レイナ剣狼伝説Ⅰ
+  first_episode_url: http://www.nicovideo.jp/watch/so32151705
+- !ruby/hash:Hashie::Mash
+  title: レイナ剣狼伝説Ⅱ
+  first_episode_url: http://www.nicovideo.jp/watch/so32151704
+- !ruby/hash:Hashie::Mash
+  title: レイナ剣狼伝説Ⅲ
+  first_episode_url: http://www.nicovideo.jp/watch/so32151660
+- !ruby/hash:Hashie::Mash
+  title: 若おかみは小学生！
+  first_episode_url: http://www.nicovideo.jp/watch/so34092309
+- !ruby/hash:Hashie::Mash
+  title: 私に天使が舞い降りた！
+  first_episode_url: http://www.nicovideo.jp/watch/so34439470
+- !ruby/hash:Hashie::Mash
+  title: WORKING!!
+  first_episode_url: http://www.nicovideo.jp/watch/so34195918
+- !ruby/hash:Hashie::Mash
+  title: WORKING’!!
+  first_episode_url: http://www.nicovideo.jp/watch/so34311816
+- !ruby/hash:Hashie::Mash
+  title: ワールドフールニュース PART Ⅱ
+  first_episode_url: http://www.nicovideo.jp/watch/so32239967
+- !ruby/hash:Hashie::Mash
+  title: 怪獣娘（黒）～ウルトラ怪獣擬人化計画～
+  first_episode_url: http://www.nicovideo.jp/watch/so34477766
+- !ruby/hash:Hashie::Mash
+  title: グリザイアの果実
+  first_episode_url: http://www.nicovideo.jp/watch/so34515920
+- !ruby/hash:Hashie::Mash
+  title: グリザイアの迷宮
+  first_episode_url: http://www.nicovideo.jp/watch/so34516036
+- !ruby/hash:Hashie::Mash
+  title: グリザイアの楽園
+  first_episode_url: http://www.nicovideo.jp/watch/so34516035
+- !ruby/hash:Hashie::Mash
+  title: 荒野のコトブキ飛行隊
+  first_episode_url: http://www.nicovideo.jp/watch/so34452043
+- !ruby/hash:Hashie::Mash
+  title: 聖痕のクェイサー
+  first_episode_url: http://www.nicovideo.jp/watch/so34448542
+- !ruby/hash:Hashie::Mash
+  title: 聖痕のクェイサーⅡ
+  first_episode_url: http://www.nicovideo.jp/watch/so34448457
+- !ruby/hash:Hashie::Mash
+  title: チア男子!!
+  first_episode_url: http://www.nicovideo.jp/watch/so34519914
+- !ruby/hash:Hashie::Mash
+  title: 劇場版　ひらがな男子～序～
+  first_episode_url: http://www.nicovideo.jp/watch/so34490596
+- !ruby/hash:Hashie::Mash
+  title: BROTHERS CONFLICT
+  first_episode_url: http://www.nicovideo.jp/watch/so34515927
+- !ruby/hash:Hashie::Mash
+  title: マナリアフレンズ　エクストラパート付
+  first_episode_url: http://www.nicovideo.jp/watch/so34439415
+- !ruby/hash:Hashie::Mash
+  title: 甘い懲罰～私は看守専用ペット【通常版】
+  first_episode_url: http://www.nicovideo.jp/watch/so33591459
+- !ruby/hash:Hashie::Mash
+  title: エリア88
+  first_episode_url: http://www.nicovideo.jp/watch/so34551699
+- !ruby/hash:Hashie::Mash
+  title: お前はまだグンマを知らない
+  first_episode_url: http://www.nicovideo.jp/watch/so34540871
+- !ruby/hash:Hashie::Mash
+  title: お見合い相手は教え子、強気な、問題児。【通常版】
+  first_episode_url: http://www.nicovideo.jp/watch/so32601364
+- !ruby/hash:Hashie::Mash
+  title: 終電後、カプセルホテルで、上司に微熱伝わる夜。【通常版】
+  first_episode_url: http://www.nicovideo.jp/watch/so34381978
+- !ruby/hash:Hashie::Mash
+  title: SHOW BY ROCK!!しょ～と!!
+  first_episode_url: http://www.nicovideo.jp/watch/so34550711
+- !ruby/hash:Hashie::Mash
+  title: 地獄少女 三鼎
+  first_episode_url: http://www.nicovideo.jp/watch/so34520287
+- !ruby/hash:Hashie::Mash
+  title: じょしおちっ！～2階から女の子が…降ってきた！？～【通常版】
+  first_episode_url: http://www.nicovideo.jp/watch/so33806517
+- !ruby/hash:Hashie::Mash
+  title: スカートの中はケダモノでした。【通常版】
+  first_episode_url: http://www.nicovideo.jp/watch/so32592882
+- !ruby/hash:Hashie::Mash
+  title: 僧侶と交わる色欲の夜に…【通常版】
+  first_episode_url: http://www.nicovideo.jp/watch/so32052603
+- !ruby/hash:Hashie::Mash
+  title: 25歳の女子高生【通常版】
+  first_episode_url: http://www.nicovideo.jp/watch/so33182801
+- !ruby/hash:Hashie::Mash
+  title: 普通の女子校生が【ろこどる】やってみた。クリスマススペシャル
+  first_episode_url: http://www.nicovideo.jp/watch/so34550524
+- !ruby/hash:Hashie::Mash
+  title: フリクリ オルタナ
+  first_episode_url: http://www.nicovideo.jp/watch/so34521035
+- !ruby/hash:Hashie::Mash
+  title: フリクリ プログレ
+  first_episode_url: http://www.nicovideo.jp/watch/so34521042
+- !ruby/hash:Hashie::Mash
+  title: みにとじ
+  first_episode_url: http://www.nicovideo.jp/watch/so34540874
+- !ruby/hash:Hashie::Mash
+  title: 弱虫ペダル NEW GENERATION
+  first_episode_url: http://www.nicovideo.jp/watch/so34555918
+- !ruby/hash:Hashie::Mash
+  title: ロード・エルメロイⅡ世の事件簿　-魔眼蒐集列車 Grace note-
+  first_episode_url: http://www.nicovideo.jp/watch/so34521156
+- !ruby/hash:Hashie::Mash
+  title: WORKING!!!
+  first_episode_url: http://www.nicovideo.jp/watch/so34520284

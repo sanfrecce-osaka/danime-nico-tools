@@ -516,10 +516,10 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: マシンロボ ぶっちぎりバトルハッカーズ
 - !ruby/hash:SeasonHash
-  title: レイナ剣狼伝説I
+  title: レイナ剣狼伝説Ⅰ
 - !ruby/hash:SeasonHash
-  title: レイナ剣狼伝説II
+  title: レイナ剣狼伝説Ⅱ
 - !ruby/hash:SeasonHash
-  title: レイナ剣狼伝説III
+  title: レイナ剣狼伝説Ⅲ
 - !ruby/hash:SeasonHash
   title: LIGHTNING TRAP LEINA & LAIKA

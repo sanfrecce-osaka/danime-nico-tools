@@ -65,6 +65,15 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: 愛すべき敵キャラ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年：2003年
   type: other
 episodes: !ruby/array:Hashie::Array
@@ -105,15 +114,13 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: ルパン三世 2nd series
 - !ruby/hash:SeasonHash
-  title: ルパン三世 PARTIII
+  title: ルパン三世 PARTⅢ
 - !ruby/hash:SeasonHash
   title: ルパン三世 PART4
 - !ruby/hash:SeasonHash
   title: ルパン三世 PART5
 - !ruby/hash:SeasonHash
   title: ルパン三世 ルパンVS複製人間
-- !ruby/hash:SeasonHash
-  title: ルパン三世　カリオストロの城
 - !ruby/hash:SeasonHash
   title: 'ルパン三世TVSP #01 バイバイ・リバティー・危機一発！'
 - !ruby/hash:SeasonHash
@@ -140,3 +147,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: 'ルパン三世TVSP #12 １＄マネーウォーズ'
 - !ruby/hash:SeasonHash
   title: 'ルパン三世TVSP #13 アルカトラズ コネクション'
+- !ruby/hash:SeasonHash
+  title: 'ルパン三世TVSP #14 EPISODE：0 ファーストコンタクト'

@@ -32,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：足立慎吾
+  type: staff
+- !ruby/hash:TagHash
   name: 原作：川原礫
   type: staff
 - !ruby/hash:TagHash
   name: 監督：伊藤智彦
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：足立慎吾
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
@@ -48,6 +48,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 電撃
+  type: other
+- !ruby/hash:TagHash
+  name: 異世界
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -96,8 +99,10 @@ produced_year: "[製作年]<br>2013年"
 copyright: "(C)川原 礫／アスキー・メディアワークス／SAO Project"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
+  title: ソードアート・オンライン
+- !ruby/hash:SeasonHash
+  title: ソードアート・オンラインⅡ
+- !ruby/hash:SeasonHash
   title: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン
 - !ruby/hash:SeasonHash
-  title: ソードアート・オンラインII
-- !ruby/hash:SeasonHash
-  title: ソードアート・オンライン
+  title: ソードアート・オンライン アリシゼーション

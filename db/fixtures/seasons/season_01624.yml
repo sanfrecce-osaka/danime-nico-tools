@@ -41,9 +41,6 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：フッズエンタテインメント
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：カントク
-  type: staff
-- !ruby/hash:TagHash
   name: 原作：松智洋
   type: staff
 - !ruby/hash:TagHash
@@ -62,7 +59,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
+  name: 魔法使い
+  type: other
+- !ruby/hash:TagHash
   name: お母さん
+  type: other
+- !ruby/hash:TagHash
+  name: カントク
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

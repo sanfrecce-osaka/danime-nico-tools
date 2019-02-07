@@ -44,6 +44,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：1990年代
   type: other
 - !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
   name: 白泉社
   type: other
 - !ruby/hash:TagHash
@@ -350,10 +353,10 @@ produced_year: "[製作年]<br>1997年"
 copyright: "(C)三浦建太郎／白泉社・バップ・ＮＴＶ"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: 次篇降臨！ベルセルクTVシリーズ第2期スタート記念ウラ特番
-- !ruby/hash:SeasonHash
-  title: TVアニメ｢ベルセルク｣公式WEBラジオ　ベルセルクアワー｢狭間のラジオ｣
+  title: ベルセルク　黄金時代篇 Ⅰ　覇王の卵
 - !ruby/hash:SeasonHash
   title: ベルセルク
 - !ruby/hash:SeasonHash
-  title: ベルセルク　黄金時代篇 I　覇王の卵
+  title: TVアニメ｢ベルセルク｣公式WEBラジオ　ベルセルクアワー｢狭間のラジオ｣
+- !ruby/hash:SeasonHash
+  title: 次篇降臨！ベルセルクTVシリーズ第2期スタート記念ウラ特番

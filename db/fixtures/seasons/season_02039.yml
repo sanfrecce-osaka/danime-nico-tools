@@ -1,0 +1,121 @@
+--- !ruby/hash:SeasonHash
+title: ガーリー・エアフォース
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/56/7/22567_1_6.png?1546912831000
+outline: 突如出現した謎の飛翔体、ザイ。それは、人類の航空戦力を圧倒した。彼らに対抗すべく開発されたのが、既存の機体に改造を施したドーターと呼ばれる武器。操るのは、アニマという操縦機構。それは――少女の姿をしていた。鳴谷慧が出会ったのは真紅に輝く戦闘機、そしてそれを駆るアニマ、グリペンだった。人類の切り札の少女と、空に焦がれる少年の物語が始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 井澤詩織
+  type: cast
+- !ruby/hash:TagHash
+  name: 乃村健次
+  type: cast
+- !ruby/hash:TagHash
+  name: 大和田仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 森嶋優花
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：サテライト
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小野勝巳
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：エイベックス・ピクチャーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：電撃文庫
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：今西亨
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：I've sound
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：夏海公司
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ALT 01
+  title: 紅い翼
+  description: 人類の航空戦力を凌駕する正体不明の飛翔体『ザイ』。上海脱出船団に乗り合わせた鳴谷慧はザイによる襲撃を受けるが、赤く輝く謎の機体に命を救われる。避難先の小松市で慧はある日、
+    見覚えのある赤い機体を目にする。それが運ばれた先は……航空自衛隊の小松基地だった。<br><br>鳴谷 慧:逢坂良太／グリペン:森嶋優花／イーグル:大和田仁美／ファントム:井澤詩織／宋
+    明華:Lynn／八代通遥:乃村健次<br><br>原作:夏海公司『ガーリー・エアフォース』（電撃文庫刊）／原作イラスト:遠坂あさぎ／監督:小野勝巳／シリーズ構成:永井真吾／キャラクターデザイン・総作画監督:今西
+    亨／メカニックデザイン・戦闘監修:大河広行／ドーターデザイン原案:KuWa[FRAMEOUT MODELS]／デザインワークス:吉川美貴／美術設定:小山真由子／美術監督:菊地明子、松本浩樹／色彩設計:鈴木依里／撮影監督:志村豪(T2studio)／編集:松本秀治／CGディレクター:後藤浩幸／2Dワークス:中村倫子／音響監督:本山
+    哲／音楽制作:エイベックス・ピクチャーズ／音楽:I've sound／アニメーション制作:サテライト<br><br>©2018 夏海公司／KADOKAWA／GAF
+    Project<br><br>次話→so34486216
+  length_seconds: 1420
+  content_id: so34456776
+  default_thread_id: 1547172423
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34456776.16818
+- !ruby/hash:EpisodeHash
+  episode_no: ALT 02
+  title: コマツ・ランデブー
+  description: 自分を救ってくれた機体、「グリペン」と邂逅した慧。『ドーター』と呼ばれるその機体には、人工生命体『アニマ』が乗っており、それこそが慧の出会った少女・グリペンだと技官の八代通は言う。八代通から言われるままに、アニマのグリペンとの時間を過ごす慧。小松の街をめぐりながら、慧はグリペンとの交流を深めていく。<br><br>鳴谷
+    慧:逢坂良太／グリペン:森嶋優花／イーグル:大和田仁美／ファントム:井澤詩織／宋 明華:Lynn／八代通遥:乃村健次<br><br>原作:夏海公司『ガーリー・エアフォース』（電撃文庫刊）／原作イラスト:遠坂あさぎ／監督:小野勝巳／シリーズ構成:永井真吾／キャラクターデザイン・総作画監督:今西
+    亨／メカニックデザイン・戦闘監修:大河広行／ドーターデザイン原案:KuWa[FRAMEOUT MODELS]／デザインワークス:吉川美貴／美術設定:小山真由子／美術監督:菊地明子、松本浩樹／色彩設計:鈴木依里／撮影監督:志村豪(T2studio)／編集:松本秀治／CGディレクター:後藤浩幸／2Dワークス:中村倫子／音響監督:本山
+    哲／音楽制作:エイベックス・ピクチャーズ／音楽:I've sound／アニメーション制作:サテライト<br><br>©2018 夏海公司／KADOKAWA／GAF
+    Project<br><br>so34456776←前話｜次話→so34515118　第一話→so34456776
+  length_seconds: 1420
+  content_id: so34486216
+  default_thread_id: 1547687224
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34486216.7634
+- !ruby/hash:EpisodeHash
+  episode_no: ALT 03
+  title: アニマの本質
+  description: 理由は未解明のままながら、慧といることで安定を得るグリペン。二人はテストフライトに向け、シミュレータ訓練やトレーニングを続ける。テストフライトをクリアし、前線で戦うことが可能になれば、ザイを駆逐し切るのも遠い未来ではない。だがある日、思いがけないところから慧は、ドーターとアニマの真実を知るのだった。<br><br>鳴谷
+    慧:逢坂良太／グリペン:森嶋優花／イーグル:大和田仁美／ファントム:井澤詩織／宋 明華:Lynn／八代通遥:乃村健次<br><br>原作:夏海公司『ガーリー・エアフォース』（電撃文庫刊）／原作イラスト:遠坂あさぎ／監督:小野勝巳／シリーズ構成:永井真吾／キャラクターデザイン・総作画監督:今西
+    亨／メカニックデザイン・戦闘監修:大河広行／ドーターデザイン原案:KuWa[FRAMEOUT MODELS]／デザインワークス:吉川美貴／美術設定:小山真由子／美術監督:菊地明子、松本浩樹／色彩設計:鈴木依里／撮影監督:志村豪(T2studio)／編集:松本秀治／CGディレクター:後藤浩幸／2Dワークス:中村倫子／音響監督:本山
+    哲／音楽制作:エイベックス・ピクチャーズ／音楽:I've sound／アニメーション制作:サテライト<br><br>©2018 夏海公司／KADOKAWA／GAF
+    Project<br><br>so34486216←前話｜次話→so34550559　第一話→so34456776
+  length_seconds: 1420
+  content_id: so34515118
+  default_thread_id: 1548205685
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34515118.41747
+- !ruby/hash:EpisodeHash
+  episode_no: ALT 04
+  title: 君の見る世界
+  description: トラブルが生じて、中止となったテストフライト。グリペンが廃棄処分されると聞いた慧は基地へ忍び込み、グリペンを連れ出そうと試みる。しかしそこに、ザイ襲来のアラートが無情にも響く。グリペンが安定する条件は慧が近くにいること。悩み考えた末に慧は、グリペンと共に搭乗し、出撃することを決意するのだった。<br><br>鳴谷
+    慧:逢坂良太／グリペン:森嶋優花／イーグル:大和田仁美／ファントム:井澤詩織／宋 明華:Lynn／八代通遥:乃村健次<br><br>原作:夏海公司『ガーリー・エアフォース』（電撃文庫刊）／原作イラスト:遠坂あさぎ／監督:小野勝巳／シリーズ構成:永井真吾／キャラクターデザイン・総作画監督:今西
+    亨／メカニックデザイン・戦闘監修:大河広行／ドーターデザイン原案:KuWa[FRAMEOUT MODELS]／デザインワークス:吉川美貴／美術設定:小山真由子／美術監督:菊地明子、松本浩樹／色彩設計:鈴木依里／撮影監督:志村豪(T2studio)／編集:松本秀治／CGディレクター:後藤浩幸／2Dワークス:中村倫子／音響監督:本山
+    哲／音楽制作:エイベックス・ピクチャーズ／音楽:I've sound／アニメーション制作:サテライト<br><br>©2018 夏海公司／KADOKAWA／GAF
+    Project<br><br>so34515118←前話｜次話→so34591648　第一話→so34456776
+  length_seconds: 1420
+  content_id: so34550559
+  default_thread_id: 1548810488
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34550559.34226
+cast: "[キャスト]<br>鳴谷 慧:逢坂良太／グリペン:森嶋優花／イーグル:大和田仁美／ファントム:井澤詩織／宋 明華:Lynn／八代通遥:乃村健次"
+staff: "[スタッフ]<br>原作:夏海公司『ガーリー・エアフォース』（電撃文庫刊）／原作イラスト:遠坂あさぎ／監督:小野勝巳／シリーズ構成:永井真吾／キャラクターデザイン・総作画監督:今西
+  亨／メカニックデザイン・戦闘監修:大河広行／ドーターデザイン原案:KuWa[FRAMEOUT MODELS]／デザインワークス:吉川美貴／美術設定:小山真由子／美術監督:菊地明子、松本浩樹／色彩設計:鈴木依里／撮影監督:志村豪(T2studio)／編集:松本秀治／CGディレクター:後藤浩幸／2Dワークス:中村倫子／音響監督:本山
+  哲／音楽制作:エイベックス・ピクチャーズ／音楽:I've sound／アニメーション制作:サテライト"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2018 夏海公司／KADOKAWA／GAF Project"
+related_seasons: !ruby/array:Hashie::Array []

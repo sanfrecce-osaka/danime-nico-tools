@@ -1,0 +1,115 @@
+--- !ruby/hash:SeasonHash
+title: グリザイアの楽園
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/12/2/20122_1_6.png?1427216400000
+outline: 学園からふらっと姿を消した雄二。いつものように彼の帰りを待つ美浜学園の少女たちが次に彼の姿を認めたのは、テロ事件の首謀者として報じられるテレビ画面の中だった。以来、忽然と不明になる雄二の行方。彼の無事と無実を信じる彼女たちは、風見雄二奪還のため、自らの安寧の日々を捨てて立ち上がる。少女たち向かう先にあるのは、運命か、それとも──。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 友永朱音
+  type: cast
+- !ruby/hash:TagHash
+  name: 鶴岡聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 田口宏子
+  type: cast
+- !ruby/hash:TagHash
+  name: やなせなつみ
+  type: cast
+- !ruby/hash:TagHash
+  name: たみやすともえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳴海エリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 瑞沢渓
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：Elements Garden
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：エイトビット
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：天衝
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：フロントウイング
+  type: staff
+- !ruby/hash:TagHash
+  name: グリザイアシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: カプリスの繭Ⅰ
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: カプリスの繭Ⅱ
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: カプリスの繭Ⅲ
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: カプリスの繭Ⅳ
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ブランエールの種Ⅰ
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ブランエールの種Ⅱ
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ブランエールの種Ⅲ
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ブランエールの種Ⅳ
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ブランエールの種Ⅴ
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ブランエールの種Ⅵ
+cast: "[キャスト]<br>風見雄二:櫻井孝宏／榊 由美子:田中涼子／周防天音:田口宏子／松嶋みちる:水橋かおり／入巣蒔菜:たみやすともえ／小嶺 幸:清水 愛／橘
+  千鶴:やなせなつみ／春寺由梨亜:鳴海エリカ／風見一姫:友永朱音／日下部麻子:瑞沢 渓／ヒース・オスロ:鶴岡 聡"
+staff: "[スタッフ]<br>原作:フロントウイング／監督:天衝／シリーズ構成:倉田英之／キャラクターデザイン/総作画監督:渡辺明夫／総作画監督:桂 憲一郎・髙澤
+  美佳・米澤 優／色彩設計:村上智美／撮影監督:熊澤祐哉／美術監督:井上一宏／美術設定:塩澤良憲／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:明田川
+  仁／音楽:Elements Garden／アニメーション制作:エイトビット"
+produced_year: "[製作年]<br>2015年"
+copyright: "©Frontwing/Project GRISAIA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: グリザイアの果実
+- !ruby/hash:SeasonHash
+  title: グリザイアの迷宮

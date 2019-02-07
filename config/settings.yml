@@ -62,128 +62,197 @@ seasons_including_different_title_episodes:
           episode_no: '第15怪'
           title: '妖怪アパートの幽雅な日常'
   -
-      id: 2
-      title: 'ねこねこ日本史 第２期'
-      episodes:
-        -
-          id: 1
-          head:
-            episode_no: '第47話・第48話'
-            title: 'まるっとまとめて、毛利元就！／祝！？ねこねこ日本、開国！'
-          nico_branch:
-            episode_no: '第47話・第48話'
-            title: 'まるっとまとめて、毛利元就！'
+    id: 2
+    title: 'ねこねこ日本史 第２期'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '第47話・第48話'
+          title: 'まるっとまとめて、毛利元就！／祝！？ねこねこ日本、開国！'
+        nico_branch:
+          episode_no: '第47話・第48話'
+          title: 'まるっとまとめて、毛利元就！'
   -
-        id: 3
-        title: 'ダメプリ ANIME CARAVAN'
-        episodes:
-          -
-            id: 1
-            head:
-              episode_no: '第1話'
-              title: 'ダメ王子×登場'
-            nico_branch:
-              episode_no: '第1話'
-              title: 'ダメ王子 × 登場'
+    id: 3
+    title: 'ダメプリ ANIME CARAVAN'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '第1話'
+          title: 'ダメ王子×登場'
+        nico_branch:
+          episode_no: '第1話'
+          title: 'ダメ王子 × 登場'
   -
-        id: 4
-        title: 'つうかあ'
-        episodes:
-          -
-            id: 1
-            head:
-              episode_no: '第5話'
-              title: '『Reverse Grid』'
-            nico_branch:
-              episode_no: '第5話'
-              title: '『ReverseGrid』'
+    id: 4
+    title: 'つうかあ'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '第5話'
+          title: '『Reverse Grid』'
+        nico_branch:
+          episode_no: '第5話'
+          title: '『ReverseGrid』'
   -
-        id: 5
-        title: '少女終末旅行'
-        episodes:
-          -
-            id: 1
-            head:
-              episode_no: '第12話'
-              title: '「接続」「仲間」'
-            nico_branch:
-              episode_no: '第12話'
-              title: '少女終末旅行'
+    id: 5
+    title: '少女終末旅行'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '第12話'
+          title: '「接続」「仲間」'
+        nico_branch:
+          episode_no: '第12話'
+          title: '少女終末旅行'
   -
-        id: 6
-        title: 'ワンピース チョッパー登場・冬島編'
-        episodes:
-          -
-            id: 1
-            head:
-              episode_no: '第88話'
-              title: '動物<ゾオン>系悪魔の実！チョッパー七段変形'
-            nico_branch:
-              episode_no: '第88話'
-              title: '動物＜ゾオン＞系悪魔の実！チョッパー七段変形'
+    id: 6
+    title: 'ワンピース チョッパー登場・冬島編'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '第88話'
+          title: '動物<ゾオン>系悪魔の実！チョッパー七段変形'
+        nico_branch:
+          episode_no: '第88話'
+          title: '動物＜ゾオン＞系悪魔の実！チョッパー七段変形'
   -
-          id: 7
-          title: '妖怪ウォッチ シャドウサイド'
-          episodes:
-            -
-              id: 1
-              head:
-                episode_no: '第３話'
-                title: '略奪魔レッドヘッド'
-              nico_branch:
-                episode_no: '第３話'
-                title: '略奪魔 レッドヘッド'
-            -
-              id: 2
-              head:
-                episode_no: '第１４話'
-                title: '不動明王邪と天'
-              nico_branch:
-                episode_no: '第１４話'
-                title: '不動明王 邪と天'
+    id: 7
+    title: '妖怪ウォッチ シャドウサイド'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '第３話'
+          title: '略奪魔レッドヘッド'
+        nico_branch:
+          episode_no: '第３話'
+          title: '略奪魔 レッドヘッド'
+      -
+        id: 2
+        head:
+          episode_no: '第１４話'
+          title: '不動明王邪と天'
+        nico_branch:
+          episode_no: '第１４話'
+          title: '不動明王 邪と天'
   -
-            id: 8
-            title: 'TVアニメ「ペルソナ５」'
-            episodes:
-              -
-                id: 1
-                head:
-                  episode_no: '#21'
-                  title: 'You can call me "Noir"'
-                nico_branch:
-                  episode_no: '#21'
-                  title: 'You can call me ”Noir”'
+    id: 8
+    title: 'TVアニメ「ペルソナ５」'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '#21'
+          title: 'You can call me "Noir"'
+        nico_branch:
+          episode_no: '#21'
+          title: 'You can call me ”Noir”'
   -
-            id: 9
-            title: '君のいる町　OAD'
-            episodes:
-              -
-                id: 1
-                head:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～1 '
-                nico_branch:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～1 '
-              -
-                id: 2
-                head:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～2'
-                nico_branch:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』 ～黄昏交差点～2'
-              - id: 3
-                head:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』 ～ウチがきた町～ '
-                nico_branch:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』 ～ウチがきた町～ '
-              - id: 4
-                head:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』  ～約束の場所で～ '
-                nico_branch:
-                  episode_no: ''
-                  title: '『君のいる町 A town where you live 』  ～約束の場所で～ '
+    id: 9
+    title: '君のいる町　OAD'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』 ～黄昏交差点～1 '
+        nico_branch:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』 ～黄昏交差点～1 '
+      -
+        id: 2
+        head:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』 ～黄昏交差点～2'
+        nico_branch:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』 ～黄昏交差点～2'
+      - id: 3
+        head:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』 ～ウチがきた町～ '
+        nico_branch:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』 ～ウチがきた町～ '
+      - id: 4
+        head:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』  ～約束の場所で～ '
+        nico_branch:
+          episode_no: ''
+          title: '『君のいる町 A town where you live 』  ～約束の場所で～ '
+  - id: 10
+    title: 'ストリートファイターⅡV'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第25話'
+          title: '死闘<第一章> 壮絶､トリプルバトルコマンド'
+        nico_branch:
+          episode_no: '第25話'
+          title: '死闘＜第一章＞ 壮絶､トリプルバトルコマンド'
+      - id: 2
+        head:
+          episode_no: '第26話'
+          title: '死闘<第二章> 力尽きゆく親友の断末魔'
+        nico_branch:
+          episode_no: '第26話'
+          title: '死闘＜第二章＞ 力尽きゆく親友の断末魔'
+      - id: 3
+        head:
+          episode_no: '第27話'
+          title: '死闘<第三章> 臨界点､激突する波動エネルギーの極限'
+        nico_branch:
+          episode_no: '第27話'
+          title: '死闘＜第三章＞ 臨界点､激突する波動エネルギーの極限'
+      - id: 4
+        head:
+          episode_no: '第28話'
+          title: '死闘<第四章> 君臨者ベガ、その圧倒的破懐力'
+        nico_branch:
+          episode_no: '第28話'
+          title: '死闘＜第四章＞ 君臨者ベガ、その圧倒的破懐力'
+  - id: 11
+    title: 'TVアニメ「ペルソナ４」'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '#13'
+          title: 'A Stormy Summer Vacation 1/2'
+        nico_branch:
+          episode_no: '#13'
+          title: 'A Stormy  Summer Vacation 1/2'
+      - id: 2
+        head:
+          episode_no: '#14'
+          title: 'A Stormy Summer Vacation 2/2'
+        nico_branch:
+          episode_no: '#14'
+          title: 'A Stormy  Summer Vacation 2/2'
+  - id: 12
+    title: 'ガイコツ書店員 本田さん'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第8話'
+          title: 'A「ホンヤハイイゾ」／B「入っていい棚 だめな棚」／C「それいけ！ アザラシさん～密かなる野望～」'
+        nico_branch:
+          episode_no: '第8話'
+          title: 'A「ホンヤハイイゾ」／B「入っていい棚 だめな棚」／C「それいけ！  アザラシさん～密かなる野望～」'
+  - id: 13
+    title: 'エリア88'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第3話'
+          title: '蒼空のファインダー　Sin&Makoto'
+        nico_branch:
+          episode_no: '第3話'
+          title: '蒼空のファインダー　Sin＆Makoto'
+

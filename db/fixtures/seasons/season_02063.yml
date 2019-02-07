@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: せいぜいがんばれ！魔法少女くるみ（第2期）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/43/1/22431_1_6.png?1543802457000
+outline: "「安土桃山くるみ」は私立笑顔ヶ丘中学に通うごく普通の14歳。ある日突然タスマニアデビル型天使「デビるん」によって、美少女魔法少女恐竜天使戦士「プリマエンジェル」の一人に選ばれ、悪の組織「暗黒ホエールズ」と戦う事に。やたら血生臭い武器を駆使し、暗黒ホエールズの怪人達を次々と粛清するくるみ。そしてその様子をただ傍観するだけで、特に何もしない男子三人組（主人公）なのであった。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 林勇
+  type: cast
+- !ruby/hash:TagHash
+  name: 関太
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：松本慶祐
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Pie in the sky
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：カワイヒデヒロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：バンダイナムコアーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: せいぜいがんばれ！魔法少女くるみシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: そうです！私たちがプリマエンジェルです！
+  description: ある朝、鈴木キヨシ、高橋イサム、佐藤シゲルの三人が一緒に登校していたところに、偶然クラスメイトの安土桃山くるみ、三原色みずき、温州愛媛みかんが通りかかる。くるみのえげつない量の独り言の内容とは！？<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>次話→so34243604
+  length_seconds: 720
+  content_id: so34072824
+  default_thread_id: 1540445522
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34072824
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話／第28話
+  title: わかばとつばめ！プリポテセットでお願いします！／新たな仲間！５人揃って５エンジェル！
+  description: 第27話：怪人からクラスメイトの五月緑わかば、高円寺つばめを助けたプリマピンクだったが、ひょんなことから2人に正体がバレてしまう。このピンチをどう乗り切るのか！？／第28話：わかばとつばめが加わり、５人になったプリマエンジェル。新しい武器を手に、凶悪な怪人に挑む！<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>so34072824←前話｜次話→so34386962　第一話→so34072824
+  length_seconds: 1440
+  content_id: so34243604
+  default_thread_id: 1543455485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34243604
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話／第30話
+  title: 解き放て！１日分の野菜の力！／今こそ合わせろ！５人の力！（仮）
+  description: 第29話：怪人「中年パンツ男」を倒しきることができず、デビるんに説教を食らうプリマエンジェルたち。パワーアップのために授かった新たな力とは！？／第30話：暗黒ホエールズのアジトに乗り込んだプリマエンジェルたちだったが、風邪や欠席により、まともに動けるのは３人だけ！果たして究極の５人合体技は撃てるのか！？<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>so34243604←前話｜次話→so34520211　第一話→so34072824
+  length_seconds: 1440
+  content_id: so34386962
+  default_thread_id: 1545959287
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386962.15481
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話／第32話
+  title: 心眼開眼！俊足怪人に差をつけろ！／失神ＫＯ！姉弟喧嘩はフリースタイル！
+  description: 第31話：トレーニング中のつばめとくるみに、突如怪人が襲いかかる！怪人のスピードに翻弄されるつばめただったが、一体このピンチをどう乗り切る！？／第32話：くるみの弟、ももひとが初登場！姉弟喧嘩をしていた所を怪人に襲われる！くるみは正体を隠しつつ、ももひとを守れるのか！？<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>so34386962←前話　第一話→so34072824
+  length_seconds: 1440
+  content_id: so34520211
+  default_thread_id: 1548298991
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520211.27755
+cast: "[キャスト]<br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか"
+staff: "[スタッフ]<br>原案:Pie in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the
+  sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia
+  REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））"
+produced_year: "[製作年]<br>2018年"
+copyright: "©SMK"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: せいぜいがんばれ！魔法少女くるみ
