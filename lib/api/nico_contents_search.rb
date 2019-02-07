@@ -22,7 +22,12 @@ module Api
               targets: %w(title tags).join(',')
             )
           results = search(params)
-          episode = merge_episode(episode, find_episode(results, season, episode))
+          episode =
+            if results.length.zero?
+              episode
+            else
+              merge_episode(episode, find_episode(results, season, episode))
+            end
           season.add_before_episode(episode, overall_number)
           episode
         end
