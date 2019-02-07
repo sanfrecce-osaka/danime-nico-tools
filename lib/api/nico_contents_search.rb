@@ -96,9 +96,9 @@ module Api
 
       def target_title_for_regexp(season, episode)
         [season.title, episode.episode_no, episode.title]
-          .select(&:present?)
+          .reject(&:nil?)
           .map { |el| full_to_half(Regexp.escape(el).gsub("'", '.')) }
-          .join('[[:blank:]]')
+          .join('[[:blank:]]*')
       end
 
       def merge_episode(episode, result)
