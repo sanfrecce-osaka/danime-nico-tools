@@ -116,6 +116,7 @@ module Scraping
           end.flatten
         episodes.reject! { |episode| episode.nonexistent_episode?(@season) } if @season.has_nonexistent_episode?
         episodes.map! { |episode| episode.update_only_different_title(@season) } if @season.has_different_title_episode?
+        @season.episodes_before_updating = @season.episodes
         @season.episodes = episodes
       end
 

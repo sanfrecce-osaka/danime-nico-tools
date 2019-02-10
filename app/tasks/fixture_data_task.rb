@@ -93,7 +93,6 @@ class FixtureDataTask
       start_log(season.title)
       season = Scraping::DanimeHeadStore.execute(season, targets)
       season = Api::NicoContentsSearch.add_episode_info(season) if targets.include?(:others)
-      season.watchable = false unless season.episodes.all? { |episode| episode.has_key?(:description) }
       path = season.delete(:file_path)
       target_path = path ? path : new_season_path
       YAMLFile.write(target_path, season)
