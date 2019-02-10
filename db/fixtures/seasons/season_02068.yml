@@ -35,9 +35,6 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：キネマシトラス
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：薄葉カゲロー
-  type: staff
-- !ruby/hash:TagHash
   name: 監督：阿保孝雄
   type: staff
 - !ruby/hash:TagHash

@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 山下大輝
   type: cast
 - !ruby/hash:TagHash
-  name: 楠大典
+  name: 菅生隆之
   type: cast
 - !ruby/hash:TagHash
-  name: 菅生隆之
+  name: 楠大典
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：池頼広

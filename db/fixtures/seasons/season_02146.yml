@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: フライングベイビーズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/59/9/22599_1_6.png?1548997207000
+outline: いわきの温泉街の中学に通う１年生のすずとクラスメイトのふみは、思いつきでフラ部を結成するが、すぐに勢いが失せ、毎日ゆるーく過ごしていた。そんな彼女たちは、フィンランドからの転校生モナが入ったのをきっかけに仲間を集め、コンテストへ出るためフラダンスに青春をかける。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: ブリドカットセーラ恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木未来
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 佳村はるか
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口立花子
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊田萌絵
+  type: cast
+- !ruby/hash:TagHash
+  name: 小堀友里絵
+  type: cast
+- !ruby/hash:TagHash
+  name: うえだ星子
+  type: cast
+- !ruby/hash:TagHash
+  name: 國米天麻美
+  type: cast
+- !ruby/hash:TagHash
+  name: 春咲暖
+  type: cast
+- !ruby/hash:TagHash
+  name: 八重畑由希音
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：いこま
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：浅尾芳宣
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：奈良悠樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大湊良蔵
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: レッスン1～レッスン4
+  title: フラー！！！／やらない。／ふらぶ♡／交通安全ステッカー！？
+  description: レッスン1：いわきの温泉街の中学に通う１年生のすずとクラスメイトのふみは、思いつきでフラ部を結成するが、すぐに勢いが失せ、毎日ゆるーく過ごしていた。／レッスン2：転校生のモナがフラ部に興味を持ち、フラダンスの由来を知るために一緒にハワイアンズに行く。そこですずとふみの幼なじみのれいと出会う。／レッスン3：れいに冷たくあしらわれことでモナがれいにいきなり宣戦布告をする。しかし、フラ部結成のためには部員が足りず、生徒会の会計係のしいなにお願いをする。／レッスン4：しいなの実家は老舗旅館でお母さんがギックリ腰で入院中。その代わりに踊ることを頼まれ、担任の千鶴先生にフラの顧問をお願いするが、千鶴先生の過去には。。。<br><br>すず役:佳村はるか／しいな役:山口立花子／モナ役:三森すずこ／ふみ役:佐々木未来／なぎさ役:ブリドカットセーラ惠美／もえ役:豊田萌絵／みく役:伊藤美来／千鶴先生役:うえだ星子／れい役:國米天麻美／なつ役:春咲暖／キイ役:八重畑由希音／さや役:和泉七瀬／エミ役:大賀眞帆／もも役:廣瀬亜梨沙／りん役:冷水優果／みぎわ役:祖山桃子／小原先生役:小堀友里絵<br><br>監督:浅尾芳宣／プロデューサー:柏木豊／原作・脚本:いこま／音楽:奈良悠樹／キャラクターデザイン・作画監督・美術
+    ・色彩設計・コンテ:大湊良蔵／編集・撮影監督:佐藤貴雄／音響監督:小泉紀介<br><br>©フライングベイビーズ保護者会
+  length_seconds: 1143
+  content_id: so34550562
+  default_thread_id: 1548810422
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34550562.10411
+cast: "[キャスト]<br>すず役:佳村はるか／しいな役:山口立花子／モナ役:三森すずこ／ふみ役:佐々木未来／なぎさ役:ブリドカットセーラ惠美／もえ役:豊田萌絵／みく役:伊藤美来／千鶴先生役:うえだ星子／れい役:國米天麻美／なつ役:春咲暖／キイ役:八重畑由希音／さや役:和泉七瀬／エミ役:大賀眞帆／もも役:廣瀬亜梨沙／りん役:冷水優果／みぎわ役:祖山桃子／小原先生役:小堀友里絵"
+staff: "[スタッフ]<br>監督:浅尾芳宣／プロデューサー:柏木豊／原作・脚本:いこま／音楽:奈良悠樹／キャラクターデザイン・作画監督・美術 ・色彩設計・コンテ:大湊良蔵／編集・撮影監督:佐藤貴雄／音響監督:小泉紀介"
+produced_year: "[製作年]<br>2019年"
+copyright: "©フライングベイビーズ保護者会"
+related_seasons: !ruby/array:Hashie::Array []
