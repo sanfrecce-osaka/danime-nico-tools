@@ -14,7 +14,7 @@ module Api
         logger.debug('accessing nico contents search now...')
         return season unless season.watchable
         return season if season.not_begin_yet?
-        season.episodes = season.episodes.map.with_index(1) do |episode, overall_number|
+        episodes = season.episodes.map.with_index(1) do |episode, overall_number|
           season.add_next_content_id(episode, overall_number)
           params =
             create_params(
@@ -22,15 +22,14 @@ module Api
               targets: %w(title tags).join(',')
             )
           results = search(params)
-          episode =
-            if results.length.zero?
-              episode
-            else
-              merge_episode(episode, find_episode(results, season, episode))
-            end
+          episode = results.length.zero? ? nil : merge_episode(episode, find_episode(results, season, episode))
+          break if episode.nil?
           season.add_before_episode(episode, overall_number)
           episode
         end
+        episodes_before_updating = season.delete(:episodes_before_updating)
+        season.episodes = episodes.nil? ? episodes_before_updating : episodes
+        season.watchable = false if episodes.nil?
         season
       end
 
