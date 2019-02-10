@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 宮野真守
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
+  name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
   name: 竹内順子
@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
-  name: 斉藤壮馬
+  name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 三宅健太
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
   name: 村瀬歩

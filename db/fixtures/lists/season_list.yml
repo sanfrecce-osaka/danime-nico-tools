@@ -6446,3 +6446,33 @@
 - !ruby/hash:Hashie::Mash
   title: WORKING!!!
   first_episode_url: http://www.nicovideo.jp/watch/so34520284
+- !ruby/hash:Hashie::Mash
+  title: 鬼平
+  first_episode_url: http://www.nicovideo.jp/watch/so34541541
+- !ruby/hash:Hashie::Mash
+  title: 鬼平～その男、長谷川平蔵～
+  first_episode_url: http://www.nicovideo.jp/watch/so34541527
+- !ruby/hash:Hashie::Mash
+  title: フライングベイビーズ
+  first_episode_url: http://www.nicovideo.jp/watch/so34550562
+- !ruby/hash:Hashie::Mash
+  title: "〈物語〉シリーズ セカンドシーズン（第1話～第5話） 猫物語(白)"
+  first_episode_url: http://www.nicovideo.jp/watch/so32705040
+- !ruby/hash:Hashie::Mash
+  title: "〈物語〉シリーズ セカンドシーズン（第7話～第10話） 傾物語"
+  first_episode_url: http://www.nicovideo.jp/watch/so32705027
+- !ruby/hash:Hashie::Mash
+  title: "〈物語〉シリーズ セカンドシーズン（第12話～第15話） 囮物語"
+  first_episode_url: http://www.nicovideo.jp/watch/so32705088
+- !ruby/hash:Hashie::Mash
+  title: "〈物語〉シリーズ セカンドシーズン（第17話～第20話） 鬼物語"
+  first_episode_url: http://www.nicovideo.jp/watch/so32705084
+- !ruby/hash:Hashie::Mash
+  title: "〈物語〉シリーズ セカンドシーズン（第21話～第26話） 恋物語"
+  first_episode_url: http://www.nicovideo.jp/watch/so32705080
+- !ruby/hash:Hashie::Mash
+  title: "〈物語〉シリーズ セカンドシーズン（第6話・第11話・第16話） 総集編"
+  first_episode_url: http://www.nicovideo.jp/watch/so32705034
+- !ruby/hash:Hashie::Mash
+  title: "〈物語〉シリーズ セカンドシーズン（第27話～第31話） 花物語"
+  first_episode_url: http://www.nicovideo.jp/watch/so32705029
