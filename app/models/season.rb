@@ -10,6 +10,7 @@ class Season < ApplicationRecord
   validates :produced_year, numericality: { only_integer: true }, allow_nil: true
 
   scope :random, -> (number) { where(id: pluck(:id).sample(number)) }
+  scope :on_air, -> { where(title: YAMLFile.open(FixtureDataTask::ON_AIR_SEASON_LIST_PATH)) }
 
   class << self
     def target_columns_for_keyword_search

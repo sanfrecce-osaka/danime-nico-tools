@@ -17,7 +17,7 @@ class DBDataTask
 
     def update_on_air_seasons
       logger.debug('selecting seasons now...')
-      target_seasons = Season.all.select(&:on_air?)
+      target_seasons = Season.on_air
       target_seasons.each { |season| create_or_update_data(season.to_h) }
     end
 
