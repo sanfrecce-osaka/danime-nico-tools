@@ -52,6 +52,12 @@ namespace :data do
       execute_task(task.name, update_to_not_watchable)
     end
 
+    desc 'update renamed season yaml data'
+    task renamed_seasons: :setup do |task|
+      update_renamed_seasons = -> { FixtureDataTask.update_renamed_seasons }
+      execute_task(task.name, update_renamed_seasons)
+    end
+
     desc 'update tags on season yaml data'
     task tags: :setup do |task|
       update_tags = -> { FixtureDataTask.update_tags }
