@@ -377,6 +377,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1549242608
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34577818.75736
+- !ruby/hash:EpisodeHash
+  episode_no: "＃37"
+  title: インターネットの罠/ママを取り返せ！
+  description: "＜インターネットの罠＞ガムボールとダーウィンは、ネットサーフィンをしているうちに誤ってガムボールのヘン顔の動画をアップしてしまう。動画を取り消すべく、インターネットとの戦いが始まり・・・。＜ママを取り返せ！＞ガムボールたちがゴミをあさっていたところ、ママへのラブレターが見つかる。ママを取られては大変だとあせったガムボールたち３人は、相手の男性を撃退するための計画を練り始め・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34577818←前話｜次話→so34577816　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34577817
+  default_thread_id: 1549242725
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577817.93295
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
