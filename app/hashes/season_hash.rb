@@ -5,6 +5,11 @@ class SeasonHash < BaseHash
     def already_created
       Dir.glob(FixtureDataTask::SEASONS_PATH).map { |path| YAMLFile.open(path).merge(file_path: path) }
     end
+
+    def on_air
+      target_titles = YAMLFile.open(FixtureDataTask::ON_AIR_SEASON_LIST_PATH)
+      already_created.select { |season| target_titles.include?(season.title) }
+    end
   end
 
   def ==(object)

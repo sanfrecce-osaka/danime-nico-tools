@@ -8,6 +8,7 @@ class FixtureDataTask
   SEASON_LIST_PATH = "#{LISTS_DIR}/season_list.yml"
   UPDATED_TO_NOT_WATCHABLE_LIST_PATH = "#{LISTS_DIR}/updated_to_not_watchable_list.yml"
   RENAMED_SEASON_LIST_PATH = "#{LISTS_DIR}/renamed_season_list.yml"
+  ON_AIR_SEASON_LIST_PATH = "#{LISTS_DIR}/on_air_season_list.yml"
   SEASONS_DIR = "#{FIXTURES_DIR}/seasons"
   SEASONS_PATH = "#{SEASONS_DIR}/*.yml"
 
@@ -58,7 +59,7 @@ class FixtureDataTask
     def update_on_air_seasons
       initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
-      target_seasons = SeasonHash.already_created.select(&:on_air?)
+      target_seasons = SeasonHash.on_air
       target_seasons.each { |target_season| create_season(target_season) }
     end
 
