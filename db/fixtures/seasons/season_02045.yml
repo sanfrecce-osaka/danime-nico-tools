@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
   name: 上坂すみれ

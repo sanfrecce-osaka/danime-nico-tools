@@ -27,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 保志総一朗
