@@ -1,6 +1,0 @@
-= form_with model: search_form, url: :animes, method: :get, local: true, class: 'header-search-form' do |f|
-  .input-group
-    .header-search-form__category
-      = f.collection_select :category_type, SearchCategory.all, :type, :name, {}, class: 'custom-select header-search-form__category-select'
-    .header-search-form__keywords.input-group-append
-      = f.text_field :keywords, placeholder: 'タイトル/人物名/キャラクター名を入力', class: 'form-control header-search-form__keywords-text-field'
