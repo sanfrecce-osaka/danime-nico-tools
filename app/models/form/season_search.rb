@@ -1,17 +1,18 @@
 # frozen_string_literal: true
 
 module Form
-  class Search
+  class SeasonSearch
     include ActiveModel::Model
 
-    attr_accessor :keywords, :category_type
+    attr_accessor :keywords
+    attr_writer :keyword_type
 
     def split_keywords
       keywords.split(%r([[:blank:]]))
     end
 
-    def category
-      SearchCategory.find_by(type: category_type)
+    def keyword_type
+      SeasonSearchKeywordType.find_by(type: @keyword_type)
     end
   end
 end
