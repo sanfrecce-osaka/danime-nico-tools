@@ -1,0 +1,6 @@
+= form_with model: season_search_form, url: :seasons, method: :get, local: true, class: 'season-search-form' do |f|
+  .input-group
+    .season-search-form__keyword-type
+      = f.collection_select :keyword_type, SeasonSearchKeywordType.all, :type, :name, {}, class: 'custom-select season-search-form__keyword-type-select'
+    .season-search-form__keywords.input-group-append
+      = f.text_field :keywords, placeholder: 'タイトル/人物名/キャラクター名を入力', class: 'form-control season-search-form__keywords-text-field'

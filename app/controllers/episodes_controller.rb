@@ -3,10 +3,10 @@
 class EpisodesController < ApplicationController
   def index
     @episodes =
-      if @search_form.keywords.present?
+      if @season_search_form.keywords.present?
         Episode
           .joins(:season).eager_load(:season)
-          .search_by(@search_form)
+          .search_by(@season_search_form)
           .order('seasons.title ASC, overall_number ASC')
           .page(page_params).per(10)
       else
