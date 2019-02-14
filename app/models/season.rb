@@ -20,7 +20,16 @@ class Season < ApplicationRecord
     private
 
     def search_conditions(search_form)
-      { watchable_true: true, groupings: keyword_conditions(search_form) }
+      case search_form.keyword_type
+      when :season_title
+        { watchable_true: true, title_cont_all: search_form.split_keywords }
+      when :cast_name
+        { watchable_true: true, cast_cont_all: search_form.split_keywords }
+      when :staff_name
+        { watchable_true: true, staff_cont_all: search_form.split_keywords }
+      when :keyword
+        { watchable_true: true, groupings: keyword_conditions(search_form) }
+      end
     end
 
     def keyword_conditions(search_form)

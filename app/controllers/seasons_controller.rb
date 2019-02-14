@@ -2,7 +2,7 @@
 
 class SeasonsController < ApplicationController
   def index
-    @seasons = Season.where(watchable: true).order(:title).page(page_params).per(20)
+    @seasons = Season.search_by(@season_search_form).order(:title).page(page_params).per(20)
   end
 
   def show
