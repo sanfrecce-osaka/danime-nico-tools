@@ -8,6 +8,7 @@
     = javascript_pack_tag 'application'
     = stylesheet_pack_tag 'application'
     = analytics_init if Rails.env.production?
+    %link{href: 'https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;subset=japanese', rel: 'stylesheet'}
   %body
     = render 'application/navigation'
     %main
