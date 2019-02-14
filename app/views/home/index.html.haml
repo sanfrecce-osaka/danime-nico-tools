@@ -1,17 +1,6 @@
-%section.seasons
-  .seasons__title-container
-    %h2.seasons__title 作品リスト
-  = render 'seasons/seasons', seasons: @seasons
-%section.episodes
-  .episodes__title-container
-    %h2.episodes__title 動画リスト
-  = render 'episodes/episodes', episodes: @episodes
-%section.seasons
-  .seasons__title-container
-    %h2.seasons__title 新着作品
-    %p
-      毎日
-      %strong AM4時頃
-      更新
-  = render 'seasons/seasons', seasons: @new_seasons
-= render 'about'
+.home
+  .container
+    .home-logo
+      %h1.home-logo__title danime-nico-tools
+      %p.home-logo__description dアニメストア ニコニコ支店のための便利ツール
+    = render 'application/season_search_form', season_search_form: @season_search_form

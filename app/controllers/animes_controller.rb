@@ -3,17 +3,17 @@
 class AnimesController < ApplicationController
   def index
     @seasons =
-      if @search_form.keywords.present?
-        if @search_form.category.include_season?
-          Season.search_by(@search_form).order(:title).page(season_page_params).per(12)
+      if @season_search_form.keywords.present?
+        if @season_search_form.keyword_type.include_season?
+          Season.search_by(@season_search_form).order(:title).page(season_page_params).per(12)
         end
       end
     @episodes =
-      if @search_form.keywords.present?
-        if @search_form.category.include_episode?
+      if @season_search_form.keywords.present?
+        if @season_search_form.keyword_type.include_episode?
           Episode
             .joins(:season).eager_load(:season)
-            .search_by(@search_form)
+            .search_by(@season_search_form)
             .order('seasons.title ASC, overall_number ASC')
             .page(episode_page_params).per(12)
         end

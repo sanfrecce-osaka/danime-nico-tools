@@ -10,12 +10,8 @@
     = analytics_init if Rails.env.production?
     %link{href: 'https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;subset=japanese', rel: 'stylesheet'}
   %body
-    = render 'application/navigation'
     %main
-      = render 'application/header'
-      .contents
-        - flash.each do |type, msg|
-          %div{class: "alert alert-#{type}"}
-            = msg
-        .col-11
-          = yield
+      - flash.each do |type, msg|
+        %div{class: "alert alert-#{type}"}
+          = msg
+      = yield

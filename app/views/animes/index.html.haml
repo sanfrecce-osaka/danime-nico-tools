@@ -1,7 +1,7 @@
-- if @search_form.keywords.present?
+- if @season_search_form.keywords.present?
   %section.search-results
     %h2.search-results__title 検索結果
-    - if @search_form.category.include_season?
+    - if @season_search_form.keyword_type.include_season?
       %section.seasons
         - if @seasons.present?
           .seasons__title-container
@@ -11,7 +11,7 @@
           = render 'application/paginator', resources: @seasons, param_name: 'season_page'
         - else
           %p 該当する作品はありませんでした。
-    - if @search_form.category.include_episode?
+    - if @season_search_form.keyword_type.include_episode?
       %section.episodes
         - if @episodes.present?
           .episodes__title-container
