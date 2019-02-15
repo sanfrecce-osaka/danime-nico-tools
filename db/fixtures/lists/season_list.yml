@@ -6476,3 +6476,9 @@
 - !ruby/hash:Hashie::Mash
   title: "〈物語〉シリーズ セカンドシーズン（第27話～第31話） 花物語"
   first_episode_url: http://www.nicovideo.jp/watch/so32705029
+- !ruby/hash:Hashie::Mash
+  title: 君と僕。
+  first_episode_url: http://www.nicovideo.jp/watch/so34629810
+- !ruby/hash:Hashie::Mash
+  title: 君と僕。2
+  first_episode_url: http://www.nicovideo.jp/watch/so34629725
