@@ -12,7 +12,7 @@ module Form
     end
 
     def keyword_type
-      @keyword_type.to_sym
+      @keyword_type&.to_sym
     end
   end
 end
