@@ -10,6 +10,8 @@
     = analytics_init if Rails.env.production?
     %link{href: 'https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;subset=japanese', rel: 'stylesheet'}
   %body
+    - unless current_page?(root_path)
+      = render 'header'
     %main
       - flash.each do |type, msg|
         %div{class: "alert alert-#{type}"}
