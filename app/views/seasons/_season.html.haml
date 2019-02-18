@@ -1,5 +1,5 @@
-.col-3
-  %li.list-group-item.list-group-item-action.seasons-item
+%li.col-3.seasons-item
+  .list-group-item.list-group-item-action.seasons-item__container
     = link_to season, class: 'seasons-item__link' do
       .seasons-item__thumbnail
         = image_tag season.thumbnail_url, alt: season.title
