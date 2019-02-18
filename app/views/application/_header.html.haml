@@ -1,6 +1,7 @@
-%header.header
-  .col-11.d-flex.justify-content-start
-    .col-3
-      %h1.header__logo danime-nico-tools
-    .col-6
-      = render 'season_search_form', season_search_form: @season_search_form
+%header.header.row.m-0
+  .col-11
+    .row.d-flex.justify-content-start.m-0
+      .col-3
+        %h1.header__logo danime-nico-tools
+      .col-6
+        = render 'season_search_form', season_search_form: @season_search_form
