@@ -61,6 +61,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2018年
   type: other
+- !ruby/hash:TagHash
+  name: 2019年冬
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第1話
@@ -128,6 +131,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1549587844
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34596404.28212
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 実験その13「パンティロッティ」／実験その14「ガチャポーター」
+  description: 田中にパンツ食べさす計画会議、通称TPT会合が開催された。いくらなんでもパンツは食べないだろうと思われたが、入念な事前仕込みにより田中は究極の空腹状態を迎えていた。上野さんは、満を持して非常食兼用パンツ「パンティロッティ」を差し出した！！<br><br>上野:芹澤
+    優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織<br><br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ<br><br>©
+    tugeneko・白泉社／上野さんは不器用製作委員会<br><br>so34596404←前話　第一話→so34381976
+  length_seconds: 690
+  content_id: so34634807
+  default_thread_id: 1550192524
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34634807.10935
 cast: "[キャスト]<br>上野:芹澤 優／田中:田中 あいみ／山下:影山 灯／田中みずな:大森日雅／田中よもぎ:伊藤美来／タモン:井澤詩織"
 staff: "[スタッフ]<br>原作:tugeneko　「上野さんは不器用」(白泉社「ヤングアニマル」連載)／監督・シリーズ構成:月見里智弘／キャラクターデザイン・作画監督:大和田彩乃／美術監督:猿谷勝己／色彩設計:のぼりはるこ／音響監督:阿部信行／音楽:三澤康広／音楽制作:日本コロムビア／制作協力:ギャザリング／アニメーション制作:レスプリ"
 produced_year: "[製作年]<br>2018年"

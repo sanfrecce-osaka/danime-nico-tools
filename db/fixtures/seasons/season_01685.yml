@@ -70,6 +70,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2018年
   type: other
+- !ruby/hash:TagHash
+  name: 2018年春
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第１話
@@ -465,7 +468,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34509922
   default_thread_id: 1548120004
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34509922.38036
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34509922.18210
 - !ruby/hash:EpisodeHash
   episode_no: 第４０話
   title: 振り返れば暗黒騎士
@@ -475,7 +478,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34545480
   default_thread_id: 1548723543
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34545480.69400
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34545480.90932
 - !ruby/hash:EpisodeHash
   episode_no: 第４１話
   title: 魅惑のバニートラップ
@@ -485,7 +488,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34582376
   default_thread_id: 1549329182
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34582376.32130
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34582376.50463
 - !ruby/hash:EpisodeHash
   episode_no: 第４２話
   title: 怨みのバレンタイン
@@ -495,7 +498,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34619136
   default_thread_id: 1549933802
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34619136.30799
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34619136.80038
 cast: "[キャスト]<br>ケースケ:戸松　遥／ナツメ:悠木　碧／トウマ:長谷川芳明／アキノリ:田村睦心／ウィスパー:関 智一／ジバニャン:黒田崇矢／ミッチー:小野坂昌也／ハルヤ:遊佐浩二"
 staff: "[スタッフ]<br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:北條史也／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作:オー・エル・エム"
 produced_year: "[製作年]<br>2018年"

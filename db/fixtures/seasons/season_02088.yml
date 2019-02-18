@@ -73,6 +73,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
+  name: 2019年冬
+  type: other
+- !ruby/hash:TagHash
   name: 製作年：2019年
   type: other
 episodes: !ruby/array:Hashie::Array
@@ -137,6 +140,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1549588146
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34596400.51174
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: MOVING ON
+  description: 釈村のもとに突然、父親からあるメッセージが届く。その内容は釈村につらい選択をせまるものだった。苦悩しつつも父親に従わざるを得ない釈村であったが、その決断がMooNsやB-PROJECTを巻き込んだ大事件に発展する。果たしてMooNs、そしてB-PROJECTはこの困難を乗り越えられるのか!?<br><br>澄空つばさ:瀬戸麻沙美／北門倫毘沙:小野大輔／是国竜持:岸尾だいすけ／金城剛士:豊永利行／阿修悠太:花江夏樹／愛染健十:加藤和樹／増長和南:上村祐翔／音済百太郎:柿原徹也／王茶利
+    暉:森久保祥太郎／野目龍広:大河元気／釈村帝人:増田俊樹／寺光唯月:西山宏太朗／寺光遙日:八代 拓／不動明謙:千葉翔也／殿 弥勒:江口拓也／夜叉丸朔太郎:鳥海浩輔／大黒篤志:興津和幸／大黒修二:浪川大輔<br><br>原作:『B-PROJECT』（MAGES.)／総合プロデュース:西川貴教／企画・原作:志倉千代丸／原作イラスト:雪広うたこ／監督:森脇真琴／キャラクターデザイン:原
+    由美子／総作画監督:川島尚・安田京弘／美術監督:吉田ひとみ／色彩設計:上村修司／CGディレクター:町田政彌／CG:ドワンゴ／撮影監督:千葉洋之／編集:柳 圭介／音響監督:田中
+    亮／音楽:中西亮輔／制作:BN Pictures<br><br>©MAGES.／Team B-PRO2<br><br>so34596400←前話　第一話→so34456777
+  length_seconds: 1440
+  content_id: so34634811
+  default_thread_id: 1550192892
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34634811.24580
 cast: "[キャスト]<br>澄空つばさ:瀬戸麻沙美／北門倫毘沙:小野大輔／是国竜持:岸尾だいすけ／金城剛士:豊永利行／阿修悠太:花江夏樹／愛染健十:加藤和樹／増長和南:上村祐翔／音済百太郎:柿原徹也／王茶利
   暉:森久保祥太郎／野目龍広:大河元気／釈村帝人:増田俊樹／寺光唯月:西山宏太朗／寺光遙日:八代 拓／不動明謙:千葉翔也／殿 弥勒:江口拓也／夜叉丸朔太郎:鳥海浩輔／大黒篤志:興津和幸／大黒修二:浪川大輔"
 staff: "[スタッフ]<br>原作:『B-PROJECT』（MAGES.)／総合プロデュース:西川貴教／企画・原作:志倉千代丸／原作イラスト:雪広うたこ／監督:森脇真琴／キャラクターデザイン:原

@@ -50,6 +50,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2016年
   type: other
 - !ruby/hash:TagHash
+  name: 2016年春
+  type: other
+- !ruby/hash:TagHash
   name: アーティスト：モノブライト
   type: other
 episodes: !ruby/array:Hashie::Array
