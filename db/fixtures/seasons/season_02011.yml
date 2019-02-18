@@ -71,6 +71,9 @@ tags: !ruby/array:Hashie::Array
   name: 魔法使い
   type: other
 - !ruby/hash:TagHash
+  name: 2018年秋
+  type: other
+- !ruby/hash:TagHash
   name: 異世界
   type: other
 - !ruby/hash:TagHash
