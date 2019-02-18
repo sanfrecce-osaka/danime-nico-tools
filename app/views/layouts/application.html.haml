@@ -12,7 +12,7 @@
   %body
     - unless current_page?(root_path)
       = render 'header'
-    %main
+    %main.wrapper
       - flash.each do |type, msg|
         %div{class: "alert alert-#{type}"}
           = msg
