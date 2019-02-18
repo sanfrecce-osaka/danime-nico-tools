@@ -12,8 +12,9 @@
   %body
     - unless current_page?(root_path)
       = render 'header'
-    %main.wrapper
-      - flash.each do |type, msg|
-        %div{class: "alert alert-#{type}"}
-          = msg
-      = yield
+    %main
+      .wrapper.col-11
+        - flash.each do |type, msg|
+          %div{class: "alert alert-#{type}"}
+            = msg
+        = yield
