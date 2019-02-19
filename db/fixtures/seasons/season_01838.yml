@@ -56,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 2019年冬
   type: other
 - !ruby/hash:TagHash
-  name: 2019年冬
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
