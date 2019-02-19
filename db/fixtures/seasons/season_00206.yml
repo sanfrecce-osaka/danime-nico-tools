@@ -390,6 +390,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1549242725
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34577817.93295
+- !ruby/hash:EpisodeHash
+  episode_no: "＃38"
+  title: ステキな町、エルモア/ハッピーエンドじゃ終わらない
+  description: "＜ステキな町、エルモア＞普段は表に出てこないエルモアの町の「脇役」たちが賑やかに歌い出す。つまずいたテーブルに八つ当たりしようとしたガムボールは逆にテーブルに説教されてしまい・・・。＜ハッピーエンドじゃ終わらない＞家族のアルバムを見ながら過去の珍事件を振り返るワタソン一家。すると校長から「幼稚園からやり直せ」と言われたり、ヘクターの母から町の破損費用を請求されたりと不幸なことが次々起こり・・・。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34577817←前話｜次話→so34577815　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34577816
+  default_thread_id: 1549242603
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577816.52744
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
