@@ -6482,3 +6482,12 @@
 - !ruby/hash:Hashie::Mash
   title: 君と僕。2
   first_episode_url: http://www.nicovideo.jp/watch/so34629725
+- !ruby/hash:Hashie::Mash
+  title: DARKER THAN BLACK-黒の契約者-
+  first_episode_url: http://www.nicovideo.jp/watch/so34524783
+- !ruby/hash:Hashie::Mash
+  title: DARKER THAN BLACK-流星の双子(ジェミニ)-
+  first_episode_url: http://www.nicovideo.jp/watch/so34521030
+- !ruby/hash:Hashie::Mash
+  title: DARKER THAN BLACK-黒の契約者- 外伝
+  first_episode_url: http://www.nicovideo.jp/watch/so34620016
