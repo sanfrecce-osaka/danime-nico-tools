@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 杉山紀彰
+  name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
-  name: 小松未可子
+  name: 杉山紀彰
   type: cast
 - !ruby/hash:TagHash
   name: 石川界人
