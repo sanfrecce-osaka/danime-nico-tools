@@ -7,10 +7,6 @@
 -#    paginator:     the paginator that renders the pagination tags inside
 = paginator.render do
   .paginator
-    .paginator__total-count
-      全
-      = @options[:total_count]
-      件
     %nav
       %ul.pagination
         = first_page_tag
