@@ -2,8 +2,12 @@
   %h2.seasons__title
     - if @season_search_form.keywords.present?
       = "#{@season_search_form.keywords}の検索結果"
+      %span.seasons__count.badge.badge-pill
+        = @seasons.total_count
     - else
       作品一覧
+      %span.seasons__count.badge.badge-pill
+        = @seasons.total_count
   = render 'application/paginator', resources: @seasons
   = render 'seasons/seasons', seasons: @seasons
   = render 'application/paginator', resources: @seasons
