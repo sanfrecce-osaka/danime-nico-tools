@@ -60,7 +60,7 @@ tags: !ruby/array:Hashie::Array
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
-  episode_no: "#01"
+  episode_no: "#1"
   title: Happy Party!
   description: 高校2年生になった香澄達Poppin'Partyは生徒会や家の手伝い、塾やバイトと忙しく、拠点である蔵に集まったり、ライブをすることも少なくなっていた。そんなある日、Poppin'Partyのもとに1人の少女が現れ、リニューアルオープンしたばかりのライブハウス・ギャラクシーでライブをすることに……！<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来
     ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ／キャラクター原案:ひと和、Craft
@@ -72,7 +72,7 @@ episodes: !ruby/array:Hashie::Array
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34439414.10368
 - !ruby/hash:EpisodeHash
-  episode_no: "#02"
+  episode_no: "#2"
   title: 黒き咆哮
   description: ギャラクシーのライブで主催ライブをすることを宣言してしまったPoppin'Partyは、初めての主催ライブに何も分からない中、準備を始めようとする。有咲がRoseliaの氷川紗夜に教えを乞ううちに、Roseliaの主催ライブにゲストとして誘ってもらい…<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来
     ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ／キャラクター原案:ひと和、Craft
@@ -84,7 +84,7 @@ episodes: !ruby/array:Hashie::Array
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34448544.33124
 - !ruby/hash:EpisodeHash
-  episode_no: "#03"
+  episode_no: "#3"
   title: Sing Girls
   description: Roseliaの主催ライブに参加し、自分たちとの差を目の当たりした香澄達。友希那に言われた一言で自信が揺らいでしまう。メンバーそれぞれに主催ライブに対しての思いを巡らす中、ポピパのライブに触発された六花は、羽丘の校内でバンドメンバーを探していた。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来
     ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ／キャラクター原案:ひと和、Craft
@@ -96,7 +96,7 @@ episodes: !ruby/array:Hashie::Array
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34509923.14935
 - !ruby/hash:EpisodeHash
-  episode_no: "#04"
+  episode_no: "#4"
   title: ゴーカ！ごーかい！？のっびのびワールド！
   description: 主催ライブをする決意を固めたPoppin'Partyは、どんなライブにすべきか話し合う。こころは悩んでいるPoppin'Partyを笑顔にする為にハロー、ハッピーワールド！のメンバーを招集して作戦会議を開くことに。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来
     ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ／キャラクター原案:ひと和、Craft
@@ -108,7 +108,7 @@ episodes: !ruby/array:Hashie::Array
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34520210.61550
 - !ruby/hash:EpisodeHash
-  episode_no: "#05"
+  episode_no: "#5"
   title: 雨のRing-Dong-Dance
   description: 大きなライブイベントへの出演が決まったPastel＊Palettes。張り切る彩たちとは裏腹に浮かない表情の千聖。メンバー全員が揃わない日々が続く中、イヴはたえと密会をする千聖を目撃してしまう。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来
     ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ／キャラクター原案:ひと和、Craft
@@ -120,7 +120,7 @@ episodes: !ruby/array:Hashie::Array
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34577813.38125
 - !ruby/hash:EpisodeHash
-  episode_no: "#06"
+  episode_no: "#6"
   title: You Only Live Once
   description: 商店街のお祭り、すこやかゴーゴー祭りでライブをする事になったAfterglowとPoppin’Party。野外ステージにテンションが上がり、練習にも熱が入る。
     そして迎えたお祭り当日、ライブが始まろうとしたその瞬間ーー。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34619138.10227
 - !ruby/hash:EpisodeHash
-  episode_no: "#07"
+  episode_no: "#7"
   title: ナカナ　イナ　カナイ
   description: "「高校最後の文化祭でとびっきりの思い出を作りたい」と悩む彩。一方、昨年の文化祭にバンドを結成したPoppin’Partyは、一周年ライブだ！と主催ライブと合わせて盛り上がる。そんな中、主催ライブのために路上ライブで修行するたえの前に現れたのは…<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来
     ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ／キャラクター原案:ひと和、Craft
