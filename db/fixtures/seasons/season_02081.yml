@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34624380
   default_thread_id: 1550020262
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34624380.97064
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34672737.71772
 - !ruby/hash:EpisodeHash
   episode_no: "#7"
   title: おれは塩味
