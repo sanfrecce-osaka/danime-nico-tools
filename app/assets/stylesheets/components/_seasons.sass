@@ -9,6 +9,7 @@
 
   &__title
     padding-bottom: 5px
+    margin-bottom: 10px
     font-size: 20px
     border-bottom: 1px solid rgba(0, 0, 0, .125)
 
@@ -24,10 +25,14 @@
     justify-content: flex-start
     flex-wrap: wrap
     padding-left: 0
-    margin-bottom: 0
+    margin-bottom: 0.2rem
 
     +children_without_both_ends_padding($class: seasons-item)
     +children_with_margin_bottom($class: seasons-item)
+
+    &.row
+      margin-right: 0
+      margin-left: 0
     
     .seasons-item
       padding: 0 5px
