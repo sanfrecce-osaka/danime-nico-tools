@@ -400,6 +400,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1549242603
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34577816.52744
+- !ruby/hash:EpisodeHash
+  episode_no: "＃39"
+  title: ボクたち、大人！？/サラの幸せのシナリオ
+  description: "＜ボクたち大人！？＞突然声が低くなってきてしまったガムボールとダーウィン。声変わりだと判明したものの、自分たちが永遠に子供のままでいられると思っていたから大ショック！＜サラの幸せのシナリオ＞コーンアイスのサラにつきまとわれるガムボールとダーウィン。最初は彼女の悪ふざけだと思っていたが、自分たちのことを好きでいてくれることを知り、彼女が密かに書いていた3人の物語を実現させてあげようと奮闘することに…。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34577816←前話　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34577815
+  default_thread_id: 1549242723
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577815.38869
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
