@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: 日常/ほのぼの
   type: genre
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 朴璐美
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   title: 臨死!! 江古田ちゃん スペシャルロングVer.
   description: 江古田ちゃん:朴璐美、石田晴香、千葉千恵巳、巽悠衣子、三森すずこ、宍戸留美、小清水亜美、コショージメグミ、土井美加、伊瀬茉莉也、たむらぱん、小林愛<br><br>原作:瀧波ユカリ
     (「臨死‼ 江古田ちゃん」講談社『アフタヌーン』所載）／監督:杉井ギサブロー、大地丙太郎、望月智充、しぎのあきら、高橋良輔、米たにヨシトモ、高橋丈夫、コバヤシオサム、三沢伸、小島正幸、森本晃司、長濵博史<br><br>©瀧波ユカリ・講談社／臨死‼
-    江古田ちゃんアニメ製作委員会<br><br>so34624381←前話　第一話→so34447795
+    江古田ちゃんアニメ製作委員会<br><br>so34624381←前話｜次話→so34698536　第一話→so34447795
   length_seconds: 1590
   content_id: so34662780
   default_thread_id: 1550645524

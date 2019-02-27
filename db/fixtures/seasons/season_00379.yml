@@ -50,6 +50,9 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：満田一
   type: staff
 - !ruby/hash:TagHash
+  name: キラッとプリ☆チャンシリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
@@ -602,6 +605,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1550538722
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34656689.14396
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: みんなの想いを届けてみた！
+  description: 'アンジュに想いが届かず、落ち込むミラクル☆キラッツの三人。思い悩む三人はめが姉ぇのアドバイスを受けて、アンジュのファンを集めた応援番組を配信することに。その番組を見ながら、アンジュは、あいらに心に秘めた本当の思いを漏らす。<br><br>桃山みらい:林
+    鼓子／萌黄えも:久保田未夢／青葉りんか:厚木那奈美／赤城あんな:芹澤 優／緑川さら:若井友希　　他<br><br>原作:タカラトミーアーツ、シンソフィア／監督:博史池畠／助監督:川瀬まさお／チーフディレクター:
+    Park Chi Man／シリーズ構成:兵頭一歩／キャラクター原案:梨本裕美、内藤晶子（シンソフィア）／キャラクターデザイン:満田一／CGディレクター:乙部善弘／音楽:加藤達也／音響監督:長崎行男／アニメ―ション共同制作:タツノコプロ　DONGWOO
+    A&amp;E<br><br>©Ｔ－ＡＲＴＳ / syn Sophia / テレビ東京 / ＰＣＨ製作委員会<br><br>so34656689←前話　第一話→so33026190'
+  length_seconds: 1460
+  content_id: so34693670
+  default_thread_id: 1551148507
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34693670.55089
 cast: "[キャスト]<br>桃山みらい:林 鼓子／萌黄えも:久保田未夢／青葉りんか:厚木那奈美／赤城あんな:芹澤 優／緑川さら:若井友希　　他"
 staff: "[スタッフ]<br>原作:タカラトミーアーツ、シンソフィア／監督:博史池畠／助監督:川瀬まさお／チーフディレクター: Park Chi Man／シリーズ構成:兵頭一歩／キャラクター原案:梨本裕美、内藤晶子（シンソフィア）／キャラクターデザイン:満田一／CGディレクター:乙部善弘／音楽:加藤達也／音響監督:長崎行男／アニメ―ション共同制作:タツノコプロ　DONGWOO
   A&E"
