@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: TVアニメ「ペルソナ５」特番アニメーション
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/53/4/22534_1_6.png?1544497240000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/53/4/22534_1_6.png?1551421201000
 outline: 高校2年生の春、雨宮 蓮は東京の「秀尽学園」に転入する。ある出来事をきっかけに“ペルソナ”使いとして覚醒した蓮は、新たに出会った仲間達とともに「心の怪盗団」を結成。悪しき欲望に塗れた大人達の“歪んだ欲望”を盗んで改心させていく。一方、街では不可解な精神暴走事件が次々と起こっていた……。大都会“東京”を舞台に高校生として日常生活を送りながらも、放課後は「心の怪盗団」として暗躍する―。壮大なピカレスクロマンの幕が切って落とされる！衝撃のシーンで最終回のラストを飾ったTVアニメ「ペルソナ５」。特番アニメーションでは、第26話のその後を描く。漆黒の太陽が昇りゆく世界で絆を――輝きを取り戻せるのか…？そして心の怪盗団は最後の戦いに赴く…！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 悠木碧

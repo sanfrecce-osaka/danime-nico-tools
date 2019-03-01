@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: B-PROJECT～絶頂＊エモーション～
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/56/9/22569_1_6.png?1545269578000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/56/9/22569_1_6.png?1551353187000
 outline: 業界大手のレコード会社「ガンダーラミュージック」で、A&Rとして働く主人公・澄空つばさ。担当アイドルユニット「B-PROJECT」のメンバーとともに、様々なアクシデントを乗り越え
   夢のJAPANドームライブも大成功！次のステージへと向かうつばさと「キタコレ」「THRIVE」「MooNs」、そして訪れる「KiLLER KiNG」との出会い。「B-PROJECT」のemotionalなnext
   stageが今、幕を開ける――！
@@ -52,10 +52,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：森脇真琴
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：志倉千代丸
+  name: アニメーション制作：BN Pictures
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：BN Pictures
+  name: 原作：志倉千代丸
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：原由美子
@@ -158,7 +158,7 @@ episodes: !ruby/array:Hashie::Array
   description: 北海道のTV局が企画する音楽番組に出演することになったキタコレとMooNs。行きの飛行機ではまさかの手違いで、北門と増長の便が入れ替わってしまい、北門はMooNsの4人と、増長は是国と北海道へ向かう。この機会にと増長の正直な想いを聞いてみる是国であったが…<br><br>澄空つばさ:瀬戸麻沙美／北門倫毘沙:小野大輔／是国竜持:岸尾だいすけ／金城剛士:豊永利行／阿修悠太:花江夏樹／愛染健十:加藤和樹／増長和南:上村祐翔／音済百太郎:柿原徹也／王茶利
     暉:森久保祥太郎／野目龍広:大河元気／釈村帝人:増田俊樹／寺光唯月:西山宏太朗／寺光遙日:八代 拓／不動明謙:千葉翔也／殿 弥勒:江口拓也／夜叉丸朔太郎:鳥海浩輔／大黒篤志:興津和幸／大黒修二:浪川大輔<br><br>原作:『B-PROJECT』（MAGES.)／総合プロデュース:西川貴教／企画・原作:志倉千代丸／原作イラスト:雪広うたこ／監督:森脇真琴／キャラクターデザイン:原
     由美子／総作画監督:川島尚・安田京弘／美術監督:吉田ひとみ／色彩設計:上村修司／CGディレクター:町田政彌／CG:ドワンゴ／撮影監督:千葉洋之／編集:柳 圭介／音響監督:田中
-    亮／音楽:中西亮輔／制作:BN Pictures<br><br>©MAGES.／Team B-PRO2<br><br>so34634811←前話　第一話→so34456777
+    亮／音楽:中西亮輔／制作:BN Pictures<br><br>©MAGES.／Team B-PRO2<br><br>so34634811←前話｜次話→so34708986　第一話→so34456777
   length_seconds: 1440
   content_id: so34671737
   default_thread_id: 1550798230
