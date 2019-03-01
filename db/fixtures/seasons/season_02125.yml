@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: マナリアフレンズ　エクストラパート付
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/56/0/22560_1_6.png?1544774415000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/56/0/22560_1_6.png?1551353284000
 outline: ここは、《人》《神》《魔》あらゆる種族の入り混じる神秘の世界ミスタルシア 快活なマナリア王国のお姫さま“アン”内気な竜族のお姫さま“グレア”ふたりの出逢いからマナリア魔法学院の生活がはじまる
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
-  name: こやまきみこ
+  name: 内田雄馬
   type: cast
 - !ruby/hash:TagHash
-  name: 内田雄馬
+  name: こやまきみこ
   type: cast
 - !ruby/hash:TagHash
   name: 中博史

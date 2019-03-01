@@ -1,0 +1,245 @@
+--- !ruby/hash:SeasonHash
+title: WWW.WORKING!!
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/16/4/21164_1_6.png?1475031619000
+outline: 家計の財政難のためにファミレスでバイトをすることになった東田大輔。しかし、そこには料理音痴フロアチーフ、なんでも金にものを言わせるホールスタッフなど、まともな人間がいないファミレスだった……！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野賢章
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
+  name: 麻倉もも
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：横山克
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：スクウェア・エニックス
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：高津カリノ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中野繭子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鎌倉由実
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 2016年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢アルバイトは人生を変えてくれる｣"
+  description: 北海道のとある進学校に通う東田は、家庭の事情によりファミリーレストラン｢ワグナリア｣で働くことに。同い年でありながらフロアチーフを務める宮越が教育係となり、順調にアルバイトをスタートしたかのように見えたけれど…？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>次話→so34577877
+  length_seconds: 1416
+  content_id: so34577876
+  default_thread_id: 1549243507
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577876.54813
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢人生そんなに甘くない｣"
+  description: バレンタインデーで臨死体験をした東田。ただでさえやっかいな宮越や見えないものが見える村主に加え、店には彼女ら同様の個性的な店員達がいることを知る。一方キッチンの足立は、村主にあるものを見せられて…！？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577876←前話｜次話→so34577878　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577877
+  default_thread_id: 1549243509
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577877.15389
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "「君にしか頼めない」"
+  description: 村主から、最近“夏なのにマフラーをしている女子高生”が来店するという話を聞いた東田。半信半疑だったが、その制服が自分と同じ学校のものであり、その上、一度も学校では彼女を見かけた記憶がないことに気付き…！？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577877←前話｜次話→so34577879　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577878
+  default_thread_id: 1549243505
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577878.94621
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "「いけるきがする」"
+  description: バレンタインデーの一件で宮越の料理の腕が壊滅的だと知った東田は、なぜか宮越と神社にお参りにいく羽目に。一方、東田に恋心を寄せる(？)永田はそんな二人の仲睦まじい様子を見てしまい…？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577878←前話｜次話→so34577880　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577879
+  default_thread_id: 1549243513
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577879.83674
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢ふくしゅうしてみる｣"
+  description: ワグナリア店員達の愛憎関係をおさらいしようと妃・河野に相談するミリと、そわそわ気になってしまう永田。微妙に成り立ちつつあるそれぞれのカップルだが、それはいろいろな問題をはらんでいるようで…？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577879←前話｜次話→so34577810　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577880
+  default_thread_id: 1549243504
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577880.42817
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "「運命サバイバル」"
+  description: 今年もバレンタインがやってきた！もちろん宮越も東田にチョコを作ってきた様子で、今回のチョコは一味違うと言い張る。一方、村主からチョコを渡された足立は突然の出来事に動揺し、つい失言をしてしまい…？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577880←前話｜次話→so34577809　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577810
+  default_thread_id: 1549242491
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577810.7196
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "「料理は愛情」"
+  description: いつものように鎌倉から借金をネタにいびられる進藤。悔しさを滲ませながら休憩室にもどると、そこには妃と姫が。空腹のあまり、ついに姫にすがる進藤に姫が渡したものとは…？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577810←前話｜次話→so34577808　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577809
+  default_thread_id: 1549242363
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577809.85989
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "「おかしなはなし」"
+  description: 自分のチョコを食べて今までの所業を反省した宮越は、バレンチヌス様からの助言もあり、料理上手になるため東田に対してとんでもない提案をする！それによってなぜか村主と足立の関係に亀裂が入り…！？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577809←前話｜次話→so34577807　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577808
+  default_thread_id: 1549242303
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577808.93880
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "「僕らはみんな病んでいる」"
+  description: どことなくホラーな雰囲気がただよう店内。しばらく村主がバイトを休んでいるのが原因のよう。責任を感じた足立はそのお見舞いに村主家を訪れることにしたのだが、そこにはアクの強い村主母が待っていた！<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577808←前話｜次話→so34577806　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577807
+  default_thread_id: 1549242369
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577807.50536
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "「明日に向かって吼えろ」"
+  description: 先日、鎌倉の涙を見てから何か調子がおかしい進藤。ふと、なぜこんな関係になってしまったのか思いを巡らす。そして妃のアドバイスを受け、昔のようになれればととあることを実践してみるが…？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577807←前話｜次話→so34577805　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577806
+  default_thread_id: 1549242381
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577806.5033
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "「右の頬を殴られたら左腕でカウンター」"
+  description: 東田との付き合いに足りないものを感じた宮越は、村主や妃にアドバイスをもらおうとする。しかし結局答えは見つからず、とうとう最後の手段にでることにした！その結果、まさかの事態に･･････！！<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577806←前話｜次話→so34577804　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577805
+  default_thread_id: 1549242373
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577805.80607
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "「あらしの前の何か」"
+  description: 店では、宮越が東田を押し倒す場面を偶然見てしまった足立、進藤に借金を返させたい鎌倉、父親を家にかくまってしまった進藤など、何か調子のおかしいメンバー達が。足立を心配した村主は、彼を自宅に招くことに！<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577805←前話｜次話→so34577803　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577804
+  default_thread_id: 1549242379
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577804.31331
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: "｢全てのことには理由がある｣"
+  description: ここまで練習に付き合ってくれた東田のためにも、なんとか料理を成功させたいと思う宮越。そこで彼女は、成功させるため“料理に必要なもの”を一生懸命考える。そして辿り着いた答えは──！？<br><br>東田大輔:中村悠一／宮越
+    華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+    紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔<br><br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+    克／制作:A-1 Pictures<br><br>©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会<br><br>so34577804←前話　第一話→so34577876
+  length_seconds: 1416
+  content_id: so34577803
+  default_thread_id: 1549242385
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34577803.58770
+cast: "[キャスト]<br>東田大輔:中村悠一／宮越 華:戸松 遥／足立正広:内山昂輝／村主さゆり:日笠陽子／近藤 妃:水樹奈々／鎌倉志保:雨宮 天／進藤ユータ:小野賢章／柳葉ミリ:麻倉もも／永田るい:小澤亜李／河野拓哉:下野
+  紘／斉木恒輝:細谷佳正／榊研一郎:鳥海浩輔"
+staff: "[スタッフ]<br>原作:高津カリノ｢WEB版 WORKING!!｣(ヤングガンガンコミックス / スクウェア・エニックス刊)／監督:鎌倉由実／キャラクターデザイン・総作画監督:中野繭子／シリーズ構成:吉岡たかを／音楽:横山
+  克／制作:A-1 Pictures"
+produced_year: "[製作年]<br>2016年"
+copyright: "©高津カリノ/SQUARE ENIX・「WWW.WORKING!!」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: WORKING!!
+- !ruby/hash:SeasonHash
+  title: WORKING’!!
+- !ruby/hash:SeasonHash
+  title: WORKING!!!
