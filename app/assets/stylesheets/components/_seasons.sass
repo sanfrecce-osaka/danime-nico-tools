@@ -24,10 +24,12 @@
     justify-content: flex-start
     flex-wrap: wrap
     padding-left: 0
-    margin-bottom: 0.2rem
+    margin-bottom: -10px
 
     +children_without_both_ends_padding($class: seasons-item)
-    +children_with_margin_bottom($class: seasons-item)
+
+    &__container
+      margin-bottom: 10px
 
     &.row
       margin-right: 0
@@ -35,6 +37,7 @@
     
     .seasons-item
       padding: 0 5px
+      margin-bottom: 10px
 
       &__container
         padding: 0
