@@ -1,3 +1,4 @@
-%ul.seasons-items.row
-  - seasons.each do |season|
-    = render 'seasons/season', season: season
+.seasons-items__container
+  %ul.seasons-items.row
+    - seasons.each do |season|
+      = render 'seasons/season', season: season
