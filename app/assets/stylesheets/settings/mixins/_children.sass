@@ -7,9 +7,3 @@
     @if ($i % $per) == 0
       .#{$class}:nth-child(#{$i})
         padding-right: 0
-
-= children_with_margin_bottom($limit: 20, $per: 5, $width: 10px, $class: nil)
-  @for $i from 1 through $limit
-    @if $i <= $limit - $per
-      .#{$class}:nth-child(#{$i})
-        margin-bottom: $width
