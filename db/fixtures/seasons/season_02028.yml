@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
   name: 置鮎龍太郎
