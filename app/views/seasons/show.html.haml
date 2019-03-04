@@ -10,10 +10,6 @@
       .col-3
         .season-header__image
           = image_tag @season.thumbnail_url, alt: @season.title
-  %section.season-outline
-    %h3 あらすじ
-    %p
-      = @season.outline
   %section.season-episodes
     %h3 動画一覧
     = render 'paginator', resources: @episodes
