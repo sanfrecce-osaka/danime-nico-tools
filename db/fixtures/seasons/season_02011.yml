@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 茅野愛衣
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
   name: 戸松遥

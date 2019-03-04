@@ -50,9 +50,6 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：満田一
   type: staff
 - !ruby/hash:TagHash
-  name: キラッとプリ☆チャンシリーズ
-  type: other
-- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
