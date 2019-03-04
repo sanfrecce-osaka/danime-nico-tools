@@ -1,11 +1,15 @@
 .season
-  %section.season-title
-    %h2.season-title-container
-      .season-title__image
-        = image_tag @season.thumbnail_url, alt: @season.title
-      .season-title__title
-        %p
-          = @season.title
+  .season-header__container
+    %section.season-header.row.m-0
+      .col-9
+        .season-header__detail
+          %h2.season-header__title
+            = @season.title
+          %p.season-header__description
+            = @season.outline
+      .col-3
+        .season-header__image
+          = image_tag @season.thumbnail_url, alt: @season.title
   %section.season-outline
     %h3 あらすじ
     %p
