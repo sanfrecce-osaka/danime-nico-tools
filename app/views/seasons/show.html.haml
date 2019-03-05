@@ -11,7 +11,7 @@
         .season-header__image
           = image_tag @season.thumbnail_url, alt: @season.title
   %section.season-episodes
-    %h3
+    %h3.season-episodes__title
       動画一覧
       %span.season-episodes__count.badge.badge-pill
         = @episodes.total_count
