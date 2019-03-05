@@ -410,6 +410,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1549242723
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34577815.38869
+- !ruby/hash:EpisodeHash
+  episode_no: "＃40"
+  title: 体育のコーチが教えてくれたこと/シアワセの集団感染！
+  description: "＜体育のコーチが教えてくれたこと＞新しく体育の教師がやってきた。体育の嫌いなガムボールとダーウィンは保健室でウソの診断書をもらってサボることを計画するが、あっさりと見破られてしまい…。／＜シアワセの集団感染！＞学校に月曜日の憂うつな空気が漂っていることを確認し、ミス・シーミアンはひとりほくそ笑む。しかし、なぜかやたら幸せそうなガムボールとダーウィンを見て、凍りついてしまい…。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34577815←前話｜次話→so34724983　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34724970
+  default_thread_id: 1551661989
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34724970.52465
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
