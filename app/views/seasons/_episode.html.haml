@@ -1,19 +1,18 @@
-.col-6
-  %li.season-episodes-item.list-group-item.list-group-item-action
-    = link_to episode.nico_url, class: 'season-episodes-item__link', target: '_blank' do
-      .col-3.pl-0
-        .season-episodes-item__thumbnail
-          = image_tag episode.thumbnail_url, alt: 'Card image cap', class: 'season-episodes-item__image'
-      .col-8.pl-0
-        .season-episodes-item__title
-          = episode.full_title(false)
-      .col-1.p-0
-        .season-episodes-item__icon-container
-          %i.far.fa-play-circle.season-episodes-item__icon
-          %p.season-episodes-item__icon-label 視聴
-    .season-episodes-item__buttons
-      .col-12.p-2
-        .episodes-item__button
-          = link_to episode, class: 'btn primary-btn btn-block' do
-            %i.fas.fa-arrow-circle-right
-            = '詳細'
+%li.col-6.season-episodes-item.list-group-item.list-group-item-action
+  = link_to episode.nico_url, class: 'season-episodes-item__link', target: '_blank' do
+    .col-3.pl-0
+      .season-episodes-item__thumbnail
+        = image_tag episode.thumbnail_url, alt: 'Card image cap', class: 'season-episodes-item__image'
+    .col-8.pl-0
+      .season-episodes-item__title
+        = episode.full_title(false)
+    .col-1.p-0
+      .season-episodes-item__icon-container
+        %i.far.fa-play-circle.season-episodes-item__icon
+        %p.season-episodes-item__icon-label 視聴
+  .season-episodes-item__buttons
+    .col-12.p-2
+      .episodes-item__button
+        = link_to episode, class: 'btn primary-btn btn-block' do
+          %i.fas.fa-arrow-circle-right
+          = '詳細'
