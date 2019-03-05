@@ -8,5 +8,5 @@
       作品一覧
       %span.seasons__count.badge.badge-pill
         = @seasons.total_count
-  = render 'seasons/seasons', seasons: @seasons
+  = render 'seasons', seasons: @seasons
   = render 'application/paginator', resources: @seasons

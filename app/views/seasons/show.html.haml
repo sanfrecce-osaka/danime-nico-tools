@@ -15,9 +15,9 @@
       動画一覧
       %span.season-episodes__count.badge.badge-pill
         = @episodes.total_count
-    = render 'paginator', resources: @episodes
-    = render 'seasons/episodes', episodes: @episodes
-    = render 'paginator', resources: @episodes
+    = render 'application/paginator', resources: @episodes
+    = render 'episodes', episodes: @episodes
+    = render 'application/paginator', resources: @episodes
   %section.season-staff
     - if @season.cast.present? || @season.staff.present? || @season.produced_year.present? || @season.copyright.present?
       %h3.season-staff__title キャスト・スタッフ
