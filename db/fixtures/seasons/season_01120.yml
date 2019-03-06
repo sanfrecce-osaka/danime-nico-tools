@@ -236,4 +236,4 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: ねこねこ日本史
 - !ruby/hash:SeasonHash
-  title: ねこねこ日本史 第２期
+  title: ねこねこ日本史 第2期

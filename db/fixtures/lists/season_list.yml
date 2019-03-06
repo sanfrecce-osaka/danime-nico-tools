@@ -6506,3 +6506,6 @@
 - !ruby/hash:Hashie::Mash
   title: WWW.WORKING!!
   first_episode_url: http://www.nicovideo.jp/watch/so34577876
+- !ruby/hash:Hashie::Mash
+  title: ワンパンマン
+  first_episode_url: http://www.nicovideo.jp/watch/so34688405
