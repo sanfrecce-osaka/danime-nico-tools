@@ -27,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
-  name: 茅原実里
+  name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 内田真礼
+  name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長
