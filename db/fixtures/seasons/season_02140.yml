@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 石原夏織
   type: cast
 - !ruby/hash:TagHash
-  name: 本渡楓
+  name: 茜屋日海夏
   type: cast
 - !ruby/hash:TagHash
-  name: 茜屋日海夏
+  name: 本渡楓
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木絵理

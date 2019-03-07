@@ -98,7 +98,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34656698
   default_thread_id: 1550538783
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34656698.89534
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34734801.53683
 - !ruby/hash:EpisodeHash
   episode_no: "#8"
   title: シロいナミダ
@@ -109,6 +109,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1551230522
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34698535.2988
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: 流転する婆ぁの魂
+  description: 出演者:ミライアカリ/電脳少女シロ/猫宮ひなた/月ノ美兎/田中ヒメ/鈴木ヒナ/バーチャルグランドマザー小林幸子/夢咲楓/風見涼/桜樹みりあ/道明寺晴翔/シスター・クレア/ときのそら/ばあちゃる/バーチャルゴリラ/オシャレになりたい！ピーナッツくん/富士葵/ヤミクモケリン/大鳥こはく（ユニティちゃん）/家長むぎ/える/カルロ・ピノ/北上双葉/剣持刀也/金剛いろは/静凛/届木ウカ/樋口楓/もちひよこ/物述有栖　他<br><br>監督:阿部⼤護／統括プロデューサー:横澤⼤輔／制作プロデューサー:鈴⽊慎之介／アイデア協⼒:庵野秀明／アニメーション制作:株式会社リド／製作:株式会社ドワンゴ<br><br>©DWANGO
+    Co., Ltd. ©Lide, Inc.<br><br>so34698535←前話　第一話→so34448455
+  length_seconds: 1419
+  content_id: so34729560
+  default_thread_id: 1551753544
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34729560.24496
 cast: "[キャスト]<br>出演者:ミライアカリ/電脳少女シロ/猫宮ひなた/月ノ美兎/田中ヒメ/鈴木ヒナ/バーチャルグランドマザー小林幸子/夢咲楓/風見涼/桜樹みりあ/道明寺晴翔/シスター・クレア/ときのそら/ばあちゃる/バーチャルゴリラ/オシャレになりたい！ピーナッツくん/富士葵/ヤミクモケリン/大鳥こはく（ユニティちゃん）/家長むぎ/える/カルロ・ピノ/北上双葉/剣持刀也/金剛いろは/静凛/届木ウカ/樋口楓/もちひよこ/物述有栖　他"
 staff: "[スタッフ]<br>監督:阿部⼤護／統括プロデューサー:横澤⼤輔／制作プロデューサー:鈴⽊慎之介／アイデア協⼒:庵野秀明／アニメーション制作:株式会社リド／製作:株式会社ドワンゴ"
 produced_year: "[製作年]<br>2019年"
