@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
-  name: 豊口めぐみ
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 日高里菜
+  name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 江口拓也
