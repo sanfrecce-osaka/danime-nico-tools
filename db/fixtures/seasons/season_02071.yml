@@ -87,7 +87,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34481901
   default_thread_id: 1547602803
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34481901.94389
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34739320.94924
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: ダチ公

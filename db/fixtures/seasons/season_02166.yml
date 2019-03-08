@@ -1,0 +1,79 @@
+--- !ruby/hash:SeasonHash
+title: おとなの防具屋さん(裏面)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/63/5/22635_1_6.png?1550824227000
+outline: "『おとなの防具屋さん』の向かいにある日、謎の新店が現れる。それは異世界への入り口だった。GANMA!で大人気連載中の『リセット・ゲーム』、『外れたみんなの頭のネジ』からそれぞれ人気キャラクターも登場!?頭のネジの外れた恐怖の世界から抜け出し、殺人要塞から逃げ切ることは出来るのか!?可愛いアイドルも歌って踊る、ちょっぴりえっちで壮大なギャグアニメ。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小倉唯
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井マーク
+  type: cast
+- !ruby/hash:TagHash
+  name: 大森日雅
+  type: cast
+- !ruby/hash:TagHash
+  name: えなこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：井内啓二
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山元隼一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：岩永浩輔
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：IMAGICA Lab
+  type: staff
+- !ruby/hash:TagHash
+  name: おとなの防具屋さんシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 裏１
+  title: 裸のめがねを持つ男
+  description: 'お店の向かいにある日、『dアニメストア』という名の胡散臭いお店が現れる。そこで買った「裸めがね」を装備したカウツが、リリエッタを見てみると…？旅の冒険者たち。ようこそ、おとなの防具屋さんへ。<br><br>カウツ:石井マーク／リリエッタ:東山奈央／ナーデン:櫻井孝宏／フレアリカ:小松未可子／モクク:大森日雅／魔王＆予告:えなこ／アオツ・D・エミナ:小倉唯<br><br>監督:山元隼一／シリーズ構成:どめし、山元隼一／キャラクターデザイン:岩永浩輔／ドットデザイナー:きゃしー／色彩設計:宮脇裕美／美術監督:出村有利／背景美術:石川高廣・川原友莉子／特殊効果:WAKKO／撮影監督:今泉秀樹／撮影:颱風グラフィックス／編集:小口理菜／音響監督:長崎行男／音響制作:エスターセブン／音楽:井内啓二／アニメーション制作:IMAGICA
+    Lab.／製作:コミックスマート、ドコモ・アニメストア<br><br>©斐宮ふみ/吉開かんじ/洋介犬/むすあき/COMICSMART INC. '
+  length_seconds: 295
+  content_id: so34729709
+  default_thread_id: 1551753244
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34729709.49591
+cast: "[キャスト]<br>カウツ:石井マーク／リリエッタ:東山奈央／ナーデン:櫻井孝宏／フレアリカ:小松未可子／モクク:大森日雅／魔王＆予告:えなこ／アオツ・D・エミナ:小倉唯"
+staff: "[スタッフ]<br>監督:山元隼一／シリーズ構成:どめし、山元隼一／キャラクターデザイン:岩永浩輔／ドットデザイナー:きゃしー／色彩設計:宮脇裕美／美術監督:出村有利／背景美術:石川高廣・川原友莉子／特殊効果:WAKKO／撮影監督:今泉秀樹／撮影:颱風グラフィックス／編集:小口理菜／音響監督:長崎行男／音響制作:エスターセブン／音楽:井内啓二／アニメーション制作:IMAGICA
+  Lab.／製作:コミックスマート、ドコモ・アニメストア"
+produced_year: "[製作年]<br>2019年"
+copyright: "©斐宮ふみ/吉開かんじ/洋介犬/むすあき/COMICSMART INC."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: おとなの防具屋さん
