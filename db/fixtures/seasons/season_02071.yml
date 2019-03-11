@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 財木琢磨
   type: cast
 - !ruby/hash:TagHash
-  name: 石井孝英
+  name: 大塚剛央
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚剛央
+  name: 石井孝英
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：日本コロムビア
