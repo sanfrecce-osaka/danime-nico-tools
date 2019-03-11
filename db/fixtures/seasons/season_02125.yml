@@ -125,6 +125,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1551316569
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34703451.71711
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 祭演の裏
+  description: 今日は、マナリア魔法学院の学院祭。ふたりで舞台に立つことになった王子役のアンと王女役のグレア。緊張するグレア王女を落ち着かせようとするアン王子。いま、祭演の幕が上がる。放送版に加えエクストラパートを付けた特別版です。<br><br>アン:日笠陽子／グレア:福原綾香／ハンナ:水樹奈々／オーウェン:羽多野渉／ルゥ:こやまきみこ／ミランダ:井上喜久子／ウイリアム:内田雄馬／ハインライン:沢城千春／ジル:中博史<br><br>原作:Cygames／監督:岡本英樹／シリーズ構成:関根聡子／キャラクターデザイン:吉田南／音響監督:田中亮／音響制作:東北新社／アニメーション制作:CygamesPictures<br><br>©「マナリアフレンズ」製作委員会<br><br>so34703451←前話　第一話→so34439415
+  length_seconds: 839
+  content_id: so34729553
+  default_thread_id: 1551752823
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34729553.10899
 cast: "[キャスト]<br>アン:日笠陽子／グレア:福原綾香／ハンナ:水樹奈々／オーウェン:羽多野渉／ルゥ:こやまきみこ／ミランダ:井上喜久子／ウイリアム:内田雄馬／ハインライン:沢城千春／ジル:中博史"
 staff: "[スタッフ]<br>原作:Cygames／監督:岡本英樹／シリーズ構成:関根聡子／キャラクターデザイン:吉田南／音響監督:田中亮／音響制作:東北新社／アニメーション制作:CygamesPictures"
 produced_year: "[製作年]<br>2018年"
