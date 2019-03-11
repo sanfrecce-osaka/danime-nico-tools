@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 株元英彰
   type: cast
 - !ruby/hash:TagHash
-  name: 北沢力
+  name: 大塚剛央
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚剛央
+  name: 北沢力
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：林ゆうき
