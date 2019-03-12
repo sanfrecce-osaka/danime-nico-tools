@@ -420,6 +420,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1551661989
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34724970.52465
+- !ruby/hash:EpisodeHash
+  episode_no: "＃41"
+  title: アントンの秘密を探れ！/ペットに愛の手を!?
+  description: "＜アントンの秘密を探れ！＞パンのアントンがどんな形にくずれても必ず元の姿に戻ることに疑問を抱いたガムボールたちは、アントンがトースターで復活していることを知り…。／＜ペットに愛の手を!?＞犬を飼いたい子どもたちはパパを説得しようとするが、パパはなぜかカメを買ってくる。気を取り直してカメをかわいがろうとするが、あまりにも邪悪なため子どもたちの手に負えず…。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34724970←前話｜次話→so34724984　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34724983
+  default_thread_id: 1551661991
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34724983.82936
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []

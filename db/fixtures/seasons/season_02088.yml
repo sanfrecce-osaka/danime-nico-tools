@@ -22,10 +22,10 @@ tags: !ruby/array:Hashie::Array
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
   name: 豊永利行
