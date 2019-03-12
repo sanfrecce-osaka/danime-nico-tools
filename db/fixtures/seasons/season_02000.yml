@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 八代拓
+  name: 武内駿輔
   type: cast
 - !ruby/hash:TagHash
-  name: 武内駿輔
+  name: 八代拓
   type: cast
 - !ruby/hash:TagHash
   name: 木村昴
