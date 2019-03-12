@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 大西沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 宮田幸季
+  name: 諏訪彩花
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪彩花
+  name: 宮田幸季
   type: cast
 - !ruby/hash:TagHash
   name: 上田燿司
