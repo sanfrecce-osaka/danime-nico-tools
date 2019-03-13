@@ -20,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
   name: 種田梨沙
   type: cast
 - !ruby/hash:TagHash
   name: 間島淳司
-  type: cast
-- !ruby/hash:TagHash
-  name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
   name: 水島大宙
