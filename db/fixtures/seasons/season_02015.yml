@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: おとなの防具屋さん
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/45/4/22454_1_6.png?1538384583000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/45/4/22454_1_6.png?1551350707000
 outline: 青年・カウツは大量のスライムに追われているところを、謎の美少女・リリエッタに助けられる。リリエッタの落とし物を届けようと町の中を探すカウツは、運よく彼女の働く防具屋を見つけるが
   …。 そこで目にした光景とは…？ 旅の冒険者たち。ようこそ、おとなの防具屋さんへ。
 tags: !ruby/array:Hashie::Array
@@ -15,10 +15,10 @@ tags: !ruby/array:Hashie::Array
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 小松未可子
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
   name: 石井マーク
@@ -36,10 +36,16 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：岩永浩輔
   type: staff
 - !ruby/hash:TagHash
+  name: おとなの防具屋さんシリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2018年秋
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -94,4 +100,6 @@ staff: "[スタッフ]<br>監督:山元隼一／シリーズ構成:どめし、�
   Lab.）／制作担当:小林弘明（新潟アニメーション）／アニメーション協力:新潟アニメーション"
 produced_year: "[製作年]<br>2018年"
 copyright: "©斐宮ふみ／COMICSMART INC."
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: おとなの防具屋さん(裏面)
