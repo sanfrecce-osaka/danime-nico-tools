@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 劇場版FAIRY TAIL -鳳凰の巫女-
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/60/3/21603_1_6.png?1493344802000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/60/3/21603_1_6.png?1551262025000
 outline: ナツたちが所属する魔導士ギルド「妖精の尻尾（フェアリーテイル）」に、ある日飛び込んで来た依頼は、「とある港町に巣食う盗賊団のリーダー・ギースを捕まえてほしい」というもの。高額の報酬を期待して意気揚々と依頼に乗り出すナツたち･･･。しかし、ルーシィのミスから目の前でギースを取り逃がしてしまう。依頼の失敗に一人落ち込むルーシィ･･･その帰り道、彼女はエクレアという謎めいた少女と不思議な鳥・モモンに出会う。なんとエクレアは記憶をなくしていて、唯一覚えていることは、手元にある「鳳凰石」をどこかに届けなければならないということだけ!!魔法が嫌いというエクレア、そして「鳳凰石」に隠された秘密･･･。この出会いをキッカケに、「フェアリーテイル」にかつてなき強大な敵、そして邪悪な陰謀が立ちはだかる!!
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -65,13 +65,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2012年
   type: other
 - !ruby/hash:TagHash
   name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2012年
+  name: 講談社
   type: other
 - !ruby/hash:TagHash
   name: 少年マガジン
@@ -122,4 +122,8 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: FAIRY TAIL　第151話～第175話
 - !ruby/hash:SeasonHash
-  title: FAIRY TAIL　第176話～
+  title: FAIRY TAIL　第176話～第277話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL ファイナルシリーズ
+- !ruby/hash:SeasonHash
+  title: 劇場版 FAIRY TAIL -DRAGON CRY-

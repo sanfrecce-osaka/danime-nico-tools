@@ -255,4 +255,14 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第3話'
           title: '蒼空のファインダー　Sin＆Makoto'
+  - id: 14
+    title: 'FAIRY TAIL　第49話～第72話'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第51話'
+          title: 'LOVE & LUCKY'
+        nico_branch:
+          episode_no: '第51話'
+          title: 'LOVE ＆ LUCKY'
 
