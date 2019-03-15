@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 劇場版 FAIRY TAIL -DRAGON CRY-
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/30/3/22303_1_6.png?1532566893000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/30/3/22303_1_6.png?1551347717000
 outline: 人間たちに葬られたドラゴンたちの怒りが宿る杖・竜の涙（ドラゴンクライ）…。妖精の尻尾（フェアリーテイル）は、奪われた杖を取り戻し、世界を守ることが出来るのか――！？フィオーレ王国の神殿に祀られた魔法の杖・ドラゴンクライ。世界を滅ぼすほどの力を秘めるというこの杖が、王国の反逆者・ザッシュによって奪われ、ステラ王国の国王・アニムスの手に渡ってしまう。ドラゴンクライ奪還の依頼を受けた魔導士ギルド・フェアリーテイルのナツ、ルーシィ、ハッピー、グレイ、エルザ、ウェンディ、シャルルは、ザッシュを追ってステラ王国へと潜入する。そしてドラゴンクライを巡る攻防の中で、彼らはアニムスに仕える魔導士・ソーニャと出会うが…。ドラゴンクライを我が物にしようとするアニムスの狙いとは！？
   国を救いたいと願うソーニャの秘密とは！？様々な思惑が交錯する中、フェアリーテイルは世界の危機に立ち向かう！！そして、壮絶な戦いの中で、ナツの本能が目を覚ます――！？
 tags: !ruby/array:Hashie::Array
@@ -57,6 +57,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2017年
   type: other
 - !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
   name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
@@ -106,6 +109,8 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: FAIRY TAIL　第151話～第175話
 - !ruby/hash:SeasonHash
-  title: FAIRY TAIL　第176話～
+  title: FAIRY TAIL　第176話～第277話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL ファイナルシリーズ
 - !ruby/hash:SeasonHash
   title: 劇場版FAIRY TAIL -鳳凰の巫女-
