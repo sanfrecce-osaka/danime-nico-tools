@@ -12,7 +12,7 @@
   %body
     - unless current_page?(root_path)
       = render 'header'
-    %main.row.m-0
+    %main.row.m-0{class: [current_page?(root_path) ? 'bg-main' : nil]}
       .wrapper.col-9
         - flash.each do |type, msg|
           %div{class: "alert alert-#{type}"}
