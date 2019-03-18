@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 山村響
   type: cast
 - !ruby/hash:TagHash
-  name: 仲谷明香
+  name: 富田美憂
   type: cast
 - !ruby/hash:TagHash
-  name: 富田美憂
+  name: 仲谷明香
   type: cast
 - !ruby/hash:TagHash
   name: 鈴代紗弓
