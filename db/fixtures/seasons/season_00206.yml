@@ -430,6 +430,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1551661991
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34724983.82936
+- !ruby/hash:EpisodeHash
+  episode_no: "＃42"
+  title: ザックという男/ふりむけば僕らが・・・
+  description: "＜ザックという男＞自分の本名がザックだと知ったガムボール。その時から、自分の中の”ザック”が目覚めてしまい、もともとのガムボールの人格を乗っ取り始め…。／＜ふりむけば僕らが・・・＞普段影に隠れていた脇役たちが立ち上がり、自分たちの存在をアピールし歌い始める。普段は脚光を浴びることのないさまざまなキャラたちのミュージカル風物語。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34724983←前話｜次話→so34724985　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so34724984
+  default_thread_id: 1551661873
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34724984.95026
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
