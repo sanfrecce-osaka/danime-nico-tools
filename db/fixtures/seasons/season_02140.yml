@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 本渡楓
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木絵理
+  name: 和氣あず未
   type: cast
 - !ruby/hash:TagHash
-  name: 和氣あず未
+  name: 鈴木絵理
   type: cast
 - !ruby/hash:TagHash
   name: 藤田茜
