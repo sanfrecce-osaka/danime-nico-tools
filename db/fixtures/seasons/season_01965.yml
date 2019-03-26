@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
-  name: 入野自由
+  name: 興津和幸
   type: cast
 - !ruby/hash:TagHash
-  name: 興津和幸
+  name: 入野自由
   type: cast
 - !ruby/hash:TagHash
   name: 星野貴紀
