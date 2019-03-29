@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 小倉唯
   type: cast
 - !ruby/hash:TagHash
-  name: 石井マーク
+  name: 大森日雅
   type: cast
 - !ruby/hash:TagHash
-  name: 大森日雅
+  name: 石井マーク
   type: cast
 - !ruby/hash:TagHash
   name: えなこ
