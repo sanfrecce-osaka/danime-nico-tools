@@ -1,0 +1,171 @@
+--- !ruby/hash:SeasonHash
+title: パンチライン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/10/8/20108_1_6.png?1551181538000
+outline: とある事件をキッカケに幽体離脱してしまった高校生の伊里達遊太。自分が住んでいるアパート、古来館で目覚めた遊太は、突如現れた猫の幽霊、チラ之助から「肉体を取り戻したかったら、古来館のどこかにある聖典を見つけるのら～」と告げられる。かくして館内の捜索を始める遊太だったが、そこで住人である女子のおパンツ様を目撃した瞬間、地球にトンデモナイ災いが・・・！！遊太は特殊な霊力を使って住人達の暮らしに干渉。ときに秘められた謎を解き明かしていったりしながら、人類滅亡の運命に立ち向かっていくことになる。はたして彼らは最高にハッピーでピースフルな未来を迎えることができるのだろうか！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿美菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田有里
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：MAPPA
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：上村泰
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：小室哲哉
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：打越鋼太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：岩崎将大
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2015年春
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: パンツパニック
+  description: とある事件をキッカケに幽体離脱してしまった伊里達遊太。肉体を取り戻すべく古来館の中を飛び回るが、そのさなか、住人である女子のおパンツ様を目撃したことで、地球にトンデモナイ災いが・・・!!一体なぜ!?<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>次話→so34852825
+  length_seconds: 1380
+  content_id: so34852871
+  default_thread_id: 1553578982
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852871.14216
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 生類憐みのレース
+  description: "｢依頼された除霊に失敗した｣と落ち込む霊媒師のラブラ。見かねた明香はラブラを励ましてやろうと奇抜なアイディアを思いつく。一方、引きこもりの愛の部屋からは奇妙な叫び声が・・・。その声の正体とはなんと・・・!<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852871←前話｜次話→so34852824　第一話→so34852871"
+  length_seconds: 1380
+  content_id: so34852825
+  default_thread_id: 1553578503
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852825.73320
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 火星人、襲来！
+  description: みかたんの正体に気づき始めた愛。みかたんはそれを必死に隠そうとするが、そんな中、1人のインベーダー（侵入者）が姿を現わす。撃退したのは謎のお助けマン、宮沢賢治！一方、明香の正体も明らかになり・・・。<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852825←前話｜次話→so34852813　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852824
+  default_thread_id: 1553578627
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852824.6987
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 取り憑くシマ模様
+  description: 不穏な動画から愛の身に危険が迫っていると知った遊太。ラブラの体に憑依して、そのことをみんなに伝えようとする。そこにやって来たのはラブラが想いを寄せる男性、グリーゼ。彼の口から驚愕の事実が告げられる！<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852824←前話｜次話→so34852814　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852813
+  default_thread_id: 1553578628
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852813.96837
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 愛、死す
+  description: 動画の予告通り、遊太は最悪の結果を目の当たりに・・・。怒りに震える遊太に対し、チラ之助は『誰かを救いたいと願う気持ちがあれば、時を遡ることができる』と告げる。はたして遊太は歴史を変えることができるのか！？<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852813←前話｜次話→so34852815　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852814
+  default_thread_id: 1553578443
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852814.70631
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 大晦日だよ、明香えもん
+  description: 遊太の活躍によって一連の動画事件は無事に解決。だが人類滅亡への秒読みはすでに始まっていた。なにも知らずに大晦日の宴に興じる住人達。その様子を見守る遊太に対して、思いもよらぬ人物が真相を打ち明ける。<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852814←前話｜次話→so34852816　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852815
+  default_thread_id: 1553578563
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852815.77420
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 帰ってきた、パンツパニック
+  description: あのパンツパニックが帰って来たぞ！さあ、みんな一緒に！「パンツパニック！パンツパニック！わぁー！」人類滅亡とパンツの関係、遊太の秘められた過去等も明かされつつ、物語は怒涛の折り返し地点を迎える！<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852815←前話｜次話→so34852731　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852816
+  default_thread_id: 1553578622
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852816.60006
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: Panty Party！
+  description: 侵入者を追い詰め、尋問する遊太だったが、謎はますます深まるばかり。ラブラの弟、蘭堂からも話を聞くが、手がかりが掴めぬまま、古来館ではパーティが開かれることに・・・。その夜、みかたんの体にとある異変が・・・。<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852816←前話｜次話→so34852732　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852731
+  default_thread_id: 1553577256
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852731.34686
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ブラジリアンハイキック
+  description: みかたんの身を案じて｢もうヒーローにはなるな｣と告げる遊太だったが、彼女は聞く耳を持たない。そこで遊太は明香にみかたんの検査を依頼。翌日、グリーゼとの戦闘の末、遊太は驚くべき事実を目の当たりに・・・！<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852731←前話｜次話→so34852733　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852732
+  default_thread_id: 1553577242
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852732.27733
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 墜落
+  description: 人類保存計画は失敗に終わった。絶望感に苛まれる遊太。そんな時、愛が何者かによって連れ去られてしまう。スマホに届く脅迫文。遊太とみかたんは愛を救うべく神社に向かい、そこですべての真相を知ることになる。<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852732←前話｜次話→so34852734　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852733
+  default_thread_id: 1553577423
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852733.67903
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ジャスティスパンチ！
+  description: 人類の滅亡を阻止すべく、明香の協力を仰ぐ遊太。2人で立てた作戦『ピースメイカー作戦』を実行しようとするが、そのためには遊太が1人で古来館を守り抜かなければならない。そのことを知った他の住人達は・・・。<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852733←前話｜次話→so34852735　第一話→so34852871
+  length_seconds: 1380
+  content_id: so34852734
+  default_thread_id: 1553577253
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852734.80530
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: パンチライン
+  description: "“Punchline”とは『ジョークのオチ』のこと。はたしてこの物語はどんなオチへと辿り着くのか・・・。人類の運命は!?古来館の住人達は最高にハッピーでピースフルな未来を迎えることができるのだろうか!?<br><br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）<br><br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA<br><br>（C）パンチライン製作委員会<br><br>so34852734←前話　第一話→so34852871"
+  length_seconds: 1380
+  content_id: so34852735
+  default_thread_id: 1553577251
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852735.24335
+cast: "[キャスト]<br>伊里達遊太（CV:井上麻里奈）／成木野みかたん（CV:雨宮天）／曳尾谷愛（CV:寿美菜子）／台初明香（CV:釘宮理恵）／秩父ラブラ（CV:戸松遥）／チラ之助（CV:吉田有里）"
+staff: "[スタッフ]<br>■監督:上村泰／■脚本:打越鋼太郎／■キャラクターデザイン:岩崎将大／■音楽:小室哲哉／■アニメーション制作:MAPPA"
+produced_year: "[製作年]<br>2015年"
+copyright: "（C）パンチライン製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

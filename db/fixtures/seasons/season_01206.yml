@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: HUNTER×HUNTER
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/49/8/20498_1_6.png?1449802216000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/49/8/20498_1_6.png?1551270040000
 outline: くじら島で暮らす少年・ゴンの夢は、幼い頃に別れた父と同じ｢ハンター｣になること。 世界中に散らばる、財宝、秘宝、珍品、珍獣……｢未知｣への挑戦に命を賭けるプロハンターになる決意を胸に旅立つゴンは、同じハンター試験合格を目指す受験者のクラピカ、レオリオ、キルアと出会う。超難関で知られるハンター試験を見事突破し、｢世界一のハンター｣になれるのか！?
   ゴンの奇想天外、壮大苛烈な冒険の旅が、今始まる！！
 tags: !ruby/array:Hashie::Array
@@ -33,19 +33,25 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：吉松孝博
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：神志那弘志
+  name: 原作：冨樫義博
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：冨樫義博
+  name: 監督：神志那弘志
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 集英社
+  name: 製作年：2011年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2011年
+  name: 2011年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash

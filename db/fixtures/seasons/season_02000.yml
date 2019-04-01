@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 杉山紀彰
   type: cast
 - !ruby/hash:TagHash
-  name: 石川界人
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 石川界人
   type: cast
 - !ruby/hash:TagHash
   name: 阿部敦

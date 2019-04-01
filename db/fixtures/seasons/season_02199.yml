@@ -1,0 +1,213 @@
+--- !ruby/hash:SeasonHash
+title: xxxHOLiC◆継
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/16/0/22160_1_6.png?1553736608000
+outline: 人気ＴＶアニメの第2シリーズ。アヤカシが見える四月一日君尋は、ある日不思議な「ミセ」の主人・壱原侑子と出会った。「ここは願いを叶えるミセ」だと告げる侑子に「アヤカシ」が見えなくなるように依頼した彼は、その「対価」として彼女の元で働かされることとなる。四月一日と彼に関わる人たちの摩訶不思議な物語…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 中井和哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊地美香
+  type: cast
+- !ruby/hash:TagHash
+  name: 望月久代
+  type: cast
+- !ruby/hash:TagHash
+  name: こじまかずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：水島努
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：CLAMP
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：黄瀬和哉
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：S.E.N.S. Project
+  type: staff
+- !ruby/hash:TagHash
+  name: xxxHOLiCシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: 2008年春
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 蜘蛛 クモノス
+  description: 侑子のミセに、十字学園の制服を着た少女がやってきた。少女は怯えながら自分の家が怖いのだと侑子に訴える。誰もいないはずの家の中で物音がするのだと言う。侑子は「家が怖くなくなればいいのか」と少女に聞き、彼女に鈴を渡した。次の日、鈴をつけても物音が止まないと再び少女がミセにやってきて…。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>次話→so33221707
+  length_seconds: 1449
+  content_id: so33221708
+  default_thread_id: 1526531873
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221708
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 左眸 ヒダリメ
+  description: 百目鬼の代わりに、侑子に頼んで自分の右目を差し出した四月一日。それでは気がすまない百目鬼は、家の蔵で四月一日の右目を取り戻す方法を調べていた。百目鬼の祖父が書いたという書物にその方法が書かれていたが、読もうと思ったその時、
+    ひまわりから借りた本からアヤカシが現れる。<br><br>壱原侑子:大原さやか／ 四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／
+    マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221708←前話｜次話→so33221706　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221707
+  default_thread_id: 1526531875
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221707
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 朋分 ハンブン
+  description: 奪われた四月一日の右目は、あちらの世界では奪い合いになっていた。騒動に巻き込まれ捕らわれた座敷童を取り戻すため、四月一日はあちらの世界に向かう。廃墟から異界に入った四月一日だが、邪気にやられてなかなかたどりつくことができない。そのころ、百目鬼は侑子に会いに行くのだが…。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221707←前話｜次話→so33221705　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221706
+  default_thread_id: 1526531818
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221706
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 夢買 ユメカイ
+  description: 昨日見た夢の話をする四月一日とひまわり。夢の話を聞かせてくれたお礼にと、四月一日はひまわりにマドレーヌを渡す。すると、袋から煙のようなものが出てくる。ひまわりの代わりに残って委員会の手伝いをした四月一日は、学校帰りにアヤカシに追われることに。逃げ切れず喰われそうになった四月一日だったが、どこからか矢が飛んできてアヤカシが祓われた。その先には意外な人物が居た。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221706←前話｜次話→so33221703　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221705
+  default_thread_id: 1526531879
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221705
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 由縁 コハネ
+  description: 昼休み、いつものように集まってお弁当を食べる四月一日、百目鬼、ひまわり。下校時、大きな桜の木の下で四月一日は不思議な雰囲気の少女に出会う。近づこうとした四月一日だったが、少女の母親が出てきて凄い剣幕で怒り出した。ひまわりがその少女は昨日テレビで観た霊能師だと言う。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221705←前話｜次話→so33221702　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221703
+  default_thread_id: 1526531816
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221703
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 平和 コノハナ
+  description: 桜が散る中、百目鬼の寺で麻雀大会が始まった。麻雀のルールも知らない四月一日はわけがわからないまま参加するがあっという間に負けてしまう。モコナが吐き出した麻雀指南書を読みながら四月一日は再勝負に挑む。はたしてこの対局の行方は？<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221703←前話｜次話→so33221701　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221702
+  default_thread_id: 1526531848
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221702
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 水猫 ミズクミ
+  description: 暑い夏の日。庭で水浴びをしている侑子たちの元に猫娘がやってくる。猫娘は侑子にあるお屋敷の井戸の水を汲んで欲しいと依頼する。四月一日は水汲みを命じられ、わけもわからず古ぼけた洋館へ忍び込む。洋館の2階の窓に女性の影が見えて、見つかったと思った四月一日だったが、水汲みを終えてもその影は動くことはなかった。次の日、四月一日は今度はなぜか百目鬼と水汲みに向かうのだが・・・。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221702←前話｜次話→so33221700　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221701
+  default_thread_id: 1526532042
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221701
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 鈴音 ササヤキ
+  description: 侑子のミセに、十字学園の制服を着た少女がやってきた。少女は怯えながら自分の家が怖いのだと侑子に訴える。誰もいないはずの家の中で物音がするのだと言う。侑子は「家が怖くなくなればいいのか」と少女に聞き、彼女に鈴を渡した。次の日、鈴をつけても物音が止まないと再び少女がミセにやってきて…。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221701←前話｜次話→so33221699　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221700
+  default_thread_id: 1526532044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221700
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: 流噂 フウヒョウ
+  description: ネット上で小羽に関するうわさが広まっていると聞いた四月一日。侑子の部屋でＰＣを開くと、確かに小羽を誹謗中傷する書き込みが多数あった。心配になった四月一日は、お弁当を作って百目鬼とともに小羽の家へ向かう。小羽の家に着くと彼女をインチキだと落書きされた外壁や壊された門灯を目の当たりにする。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221700←前話｜次話→so33221698　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221699
+  default_thread_id: 1526532040
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221699
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: 不戻 キヅキヒトリ
+  description: 小羽に対する世間の眼はさらに厳しくなっていた。小羽が心配な四月一日は百目鬼とともに再び彼女の家を訪れる。小羽の家を取り囲むレポーターや野次馬の群れをかき分け、家の中に入っていく二人。奥から聞こえてきた激しい水音をたどり風呂場にやってきた二人は小羽が母親から冷水を浴びせられているのを目にしてしまい…。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221699←前話｜次話→so33221697　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221698
+  default_thread_id: 1526531850
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221698
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: 秘事 ヒトリ
+  description: ひまわりと一緒に楽しく下校する四月一日は、別れ際に小指に痛みを覚える。その夜、侑子に夕食を運んでいる途中にも小指が痛くなりお猪口を割ってしまう。侑子に小指で何かしたのかと問いただされた四月一日は、井戸の水を汲みに行った時にひまわりと指切りをしたことを思い出す。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221698←前話｜次話→so33221643　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221697
+  default_thread_id: 1526531877
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221697
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二話
+  title: 真実 ホントウ
+  description: 学校で大怪我を負った四月一日の見舞いに来たひまわりは、彼に自分の秘密とそれにまつわる悲しい過去を語り始めた。決して笑顔で語ることのできる内容ではないはずなだが、ひまわりは笑顔を絶やさない。ひまわりが四月一日に別れを告げ、その場を立ち去ろうとしたその時…。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221697←前話｜次話→so33221644　第一話→so33221708
+  length_seconds: 1449
+  content_id: so33221643
+  default_thread_id: 1526530592
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221643
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三話
+  title: 外伝　報恩 オカエシ
+  description: 夕飯のメニューを考えながら下校中の四月一日は漂う匂いに誘われた先で、風呂敷包み提げた仔狐の手が出ているのを見つけた。以前に会ったおでん屋の仔狐だった。夢カイからもらった風船をあげたお礼に、おでんを作ってくれたのだと言う。美味しくおでんを食べた翌日、四月一日と侑子は家電量販店に冷蔵庫を買いに行くのだが…。<br><br>壱原侑子:大原さやか／
+    四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香<br><br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+    Project／アニメーション制作:Production I.G／製作:アヤカシ研究会<br><br>©2008 CLAMP・講談社/アヤカシ研究会<br><br>so33221643←前話　第一話→so33221708
+  length_seconds: 1419
+  content_id: so33221644
+  default_thread_id: 1526530462
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221644
+cast: "[キャスト]<br>壱原侑子:大原さやか／ 四月一日君尋:福山 潤／ 百目鬼静:中井和哉／ 九軒ひまわり:伊藤 静／ マル:こじまかずこ／ モロ:望月久代／モコナ:菊地美香"
+staff: "[スタッフ]<br>原作:CLAMP「xxxHOLiC」／監督:水島努／シリーズ構成:横手美智子／大川七瀬／キャラクターデザイン:黄瀬和哉／小物デザイン:植田実／美術監督:小倉宏昌／色彩設定:佐藤真由美／撮影監督:小西庸平／音響監督:若林和弘／音響制作:フォニシア／編集:植松淳一／音楽:S.E.N.S.
+  Project／アニメーション制作:Production I.G／製作:アヤカシ研究会"
+produced_year: "[製作年]<br>2008年"
+copyright: "©2008 CLAMP・講談社/アヤカシ研究会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: xxxHOLiC

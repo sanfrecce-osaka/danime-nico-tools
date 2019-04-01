@@ -1,0 +1,273 @@
+--- !ruby/hash:SeasonHash
+title: サムライフラメンコ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/23/0/11230_1_6.png?1552445596000
+outline: 斬新!大胆!スリリングッ!な、オリジナルアニメーション、ここに誕生。 改造手術も受けず、特殊な能力も持たず“自力で”正義せいぎの味方になってしまった男・羽佐間正義。運命の悪戯でその正体を知り、以降彼の起こすトラブルに巻き込まれる警官・後藤英徳。
+  二人の関係を軸に、この世界で｢正義せいぎの味方として活動｣することの困難と意義、そこから生まれるドラマをときにコミカルに、ときにシリアスに、真のヒーロー誕生までの物語をドラマチックに描く!
+  監督は｢デュラララ!!｣｢夏目友人帳｣など、実写的な演出に定評のある実力派・大森貴弘、 構成は｢R.O.D｣｢ガン×ソード｣など、独創的なセンスを放つ倉田英之、キャラクター原案は｢うたの☆プリンスさまっ♪｣｢アクエリオンEVOL｣など、絶大な支持を誇る倉花千夏、そして、｢ミチコとハッチン｣｢サムライチャンプルー｣など、オリジナルアニメーションの新境地を追い求めるマングローブが制作を担当する!大人になりたくないなれないスタッフが、大人になりたくない“大人たち”へ贈る、愛と正義(せいぎ)の物語―――
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 増田俊樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：大森貴弘
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：manglobe
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 2013年秋
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 倉田英之
+  type: other
+- !ruby/hash:TagHash
+  name: manglobe
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: サムライフラメンコ、デビュー!
+  description: ヒーローに憧れ、自らもヒーローになることを決意した青年・羽佐間正義は、ある夜ついに正義の味方“サムライフラメンコ”としてデビューする!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>次話→so34852238
+  length_seconds: 1380
+  content_id: so34852189
+  default_thread_id: 1553570162
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852189.64906
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 傘がない
+  description: 偶然“サムライフラメンコ”の正体を知った警察官・後藤英徳。雨の中待ち合わせ場所に現れた正義は全身ずぶ濡れ!正義が傘をささない理由とは…。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852189←前話｜次話→so34852239　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852238
+  default_thread_id: 1553570898
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852238.10630
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: フラメンコ VS ニセフラメンコ
+  description: 動画投稿サイトのアクセス数も上昇し、熱い注目を浴びはじめた“サムライフラメンコ”。ある日、｢自分がサムライフラメンコだ｣と名乗る人物が現れる!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852238←前話｜次話→so34852240　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852239
+  default_thread_id: 1553570910
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852239.76573
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: アイドル蹂躙
+  description: 捕らえられてしまった“サムライフラメンコ”を、謎のヒーローが救う! しかし謎のヒーローは“サムライフラメンコ”にライバル意識を燃やしていて…。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852239←前話｜次話→so34852241　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852240
+  default_thread_id: 1553570908
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852240.53642
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 正義とは
+  description: 最近なんだか疲弊気味の“サムライフラメンコ”。警察にはヒーローの正義活動に対する苦情が集まっていた。｢自分が憧れるヒーローとは?｣正義は自問する。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852240←前話｜次話→so34852242　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852241
+  default_thread_id: 1553570906
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852241.96990
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: サムメンコを捕まえろ!
+  description: "“サムライフラメンコ”は町中を逃げ回る。暴徒と化す市民。迫りくる魔の手…。ある男は言った。｢サムライフラメンコ。…近いうちに、貴方は死にます｣<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852241←前話｜次話→so34852243　第一話→so34852189"
+  length_seconds: 1380
+  content_id: so34852242
+  default_thread_id: 1553570900
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852242.68136
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: チェンジ・ザ・ワールド
+  description: 町の犯罪発生率は下がり、芸能活動も順調。しかし正義はなぜだか煮え切らない。迷いを抱きながら手にしたのは、祖父の遺品である一冊のノートだった。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852242←前話｜次話→so34852244　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852243
+  default_thread_id: 1553570904
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852243.22105
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 猛攻!悪の軍団
+  description: 謎の怪人の出現に騒然となる日本全土。平和を脅かす怪人との対決…それは夢にまで見たヒーローの姿。正義は“フラメンコガールズ”達と共に敢然と立ち向かう!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852243←前話｜次話→so34852245　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852244
+  default_thread_id: 1553570892
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852244.38165
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 抗えぬノルマ
+  description: 怪人の襲来が日常化して暫く。怪人や世間が注目するのは“サムライフラメンコ”のことばかり。そんな現状が気に食わないまりは、思わぬ行動に出てしまう!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852244←前話｜次話→so34852246　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852245
+  default_thread_id: 1553570902
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852245.2487
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 決戦!敵の基地
+  description: "“キング・トーチャー”との戦いに決着をつけるため、敵のアジトへと単身向かう“サムライフラメンコ”。ついに悪の軍団の、真の目的が明かされる――!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852245←前話｜次話→so34852247　第一話→so34852189"
+  length_seconds: 1380
+  content_id: so34852246
+  default_thread_id: 1553571067
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852246.4120
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: フロム・ビヨンド
+  description: "“キング・トーチャー”との死闘を終え、日本を守り抜いた“サムライフラメンコ”だったが、突如東京湾に謎の巨大要塞が出現。新たな敵が立ちはだかる!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852246←前話｜次話→so34852248　第一話→so34852189"
+  length_seconds: 1380
+  content_id: so34852247
+  default_thread_id: 1553571303
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852247.32677
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ドキュメント!これがフラメンジャーだ!!
+  description: 新たな敵“フロム・ビヨンド”の野望を砕くため、正義は蒼一、碧、闇児、桜とともに“フラメンジャー”を結成するが、その活動は前途多難。正義は思い悩む。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852247←前話｜次話→so34852249　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852248
+  default_thread_id: 1553571250
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852248.68867
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 決戦前夜
+  description: 怪人達がある日忽然と姿を消した。これは総攻撃の前兆ではないかと予測を立てた“フラメンジャー”は対策に乗り出すが、その活動は思わぬ障害に阻まれ……。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852248←前話｜次話→so34852250　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852249
+  default_thread_id: 1553571189
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852249.89514
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: ニッポン壊滅
+  description: 日本中で鳴り響いた怪電話。それは姿を消していた怪人達からの総攻撃開始を告げる予告電話だった。ついに、“フロム・ビヨンド”による総攻撃が始まる――!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852249←前話｜次話→so34852251　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852250
+  default_thread_id: 1553571182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852250.7603
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: イミテーション・ジャスティス
+  description: 正義と瓜二つの顔をした怪人は、自らを“ビヨンドフラメンコ”と名乗った。動揺を隠せない正義を前に、“ビヨンドフラメンコ”は静かに語り始める……。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852250←前話｜次話→so34852252　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852251
+  default_thread_id: 1553571184
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852251.80552
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: さすらいのヒーロー
+  description: "“フロム・ビヨンド”テロ事件の犯人とされた“フラメンジャー”。政府は『非認可正義行動規制法』を国会に提出、ヒーロー達を次々に拘束していく。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852251←前話｜次話→so34852253　第一話→so34852189"
+  length_seconds: 1380
+  content_id: so34852252
+  default_thread_id: 1553571305
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852252.29706
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 最強総理
+  description: 後藤との再会に安堵したのも束の間、正義に新たな追手が迫る。“フラメンジャー”達に濡れ衣を着せた総理の狙いとは。正義は国会議事堂への突入を決行する!<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852252←前話｜次話→so34852304　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852253
+  default_thread_id: 1553571248
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852253.53604
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 宇宙でフラメンコ
+  description: 総理との戦いに決着をつけた正義。しかし本当の敵はフラメンコ星人だった。彼等は日本侵略の前に“サムライフラメンコ”単身で交渉に赴くことを要求する。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852253←前話｜次話→so34852305　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852304
+  default_thread_id: 1553571662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852304.76242
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 静かな生活
+  description: 地球に戻ってきた正義を待っていたのは、悪が一掃された平和な日常だった。後藤と彼女がデートすることを知った正義は、まりと共に尾行することになり……。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852304←前話｜次話→so34852306　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852305
+  default_thread_id: 1553571667
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852305.37090
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: いつか見た少年
+  description: 平和な日常を突如破壊した少年・澤田灰司。灰司は正義に向って、自分は｢この世界に残った最後の敵｣だと宣言。正義の周囲の人間を次々と襲っていく……。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852305←前話｜次話→so34852307　第一話→so34852189
+  length_seconds: 1379
+  content_id: so34852306
+  default_thread_id: 1553571671
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852306.20101
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 愛をおしえて
+  description: 次々と起きる事件に翻弄され、後藤との関係にも亀裂が生じた正義は、戸惑いを抱えながらも灰司の行方を追う。そして、灰司は次の一手を繰り出し……。<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852306←前話｜次話→so34852308　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852307
+  default_thread_id: 1553571423
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852307.42083
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: サムライフラメンコ・ネイキッド!!
+  description: 灰司に捕らわれた後藤のもとに正義は駆ける。自らヒーローとなることを望んだ正義が見い出したものとは。“サムライフラメンコ”の物語、遂にクライマックス！<br><br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)<br><br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe<br><br>(C)manglobe/Project
+    Samumenco<br><br>so34852307←前話　第一話→so34852189
+  length_seconds: 1380
+  content_id: so34852308
+  default_thread_id: 1553571669
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852308.46428
+cast: "[キャスト]<br>キャスト:羽佐間正義(CV：増田俊樹)、後藤英徳(CV：杉田智和)"
+staff: "[スタッフ]<br>監督:大森貴弘／シナリオ(シリーズ構成):倉田英之／スタジオ:manglobe／原作:manglobe"
+produced_year: "[製作年]<br>2013年"
+copyright: "(C)manglobe/Project Samumenco"
+related_seasons: !ruby/array:Hashie::Array []

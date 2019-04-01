@@ -1,0 +1,165 @@
+--- !ruby/hash:SeasonHash
+title: 残響のテロル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/36/7/11367_1_6.png?1552444362000
+outline: ある夏の日──突然、東京を襲った大規模な爆弾テロ。平穏なこの国を眠りから覚ました事件の犯人は、たったふたりの少年だった──。“スピンクス”と名乗る犯人たちの、日本中を巻き込んだ壮大なゲームがいま、始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 潘めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 種﨑敦美
+  type: cast
+- !ruby/hash:TagHash
+  name: 咲野俊介
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：菅野よう子
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：MAPPA
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡辺信一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中澤一登
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 2014年夏
+  type: other
+- !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 頭脳戦
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: FALLING
+  description: 核燃料再処理施設の壁に描かれた｢VON｣の文字。それが全ての始まりだった。そして夏、動画投稿サイトに謎めいたメッセージがアップされる。スピンクス1号・2号と名乗る二人は告げる。｢新宿方面ではところによりでっかい火花があがるでしょう・・・・・・｣<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>次話→so34852827
+  length_seconds: 1380
+  content_id: so34852812
+  default_thread_id: 1553578925
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852812.94410
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: CALL ＆ RESPONSE
+  description: 都庁を襲った爆弾テロ。その騒動に巻き込まれたリサは､自分が会ったあの二人――ツエルブとナインが犯人と知り狼狽する。混乱する警視庁を尻目にスピンクス1号・2号の新たなメッセージ動画がアップされる。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852812←前話｜次話→so34852870　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852827
+  default_thread_id: 1553578624
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852827.43566
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: SEARCH＆DESTROY
+  description: スピンクス1号・2号を追うため、文書課の刑事・柴崎が捜査に加わることになった。2つの事件の周辺を洗う中、スピンクスが第三の標的を発表する。柴崎の推理は爆弾のありかを突き止めることができるか。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852827←前話｜次話→so34852906　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852870
+  default_thread_id: 1553578928
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852870.66016
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: BREAK THROUGH
+  description: 犯人の手がかりを追って核燃料再処理施設のある青森を訪れた柴崎。東京に戻った柴崎を待っていたかのようにスピンクスから新たな謎が発表された。一方、家出をしたリサの前にツエルブが姿を見せる。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852870←前話｜次話→so34852907　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852906
+  default_thread_id: 1553579529
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852906.6110
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: HIDE＆SEEK
+  description: ナインとツエルブのアジトにつれてこられたリサ。だが、リサの処遇をめぐってナインとツエルブの意見は合わない。スピンクスのハッキングで捜査情報を流出させられた警視庁のもとにアメリカからある人物がやってくる。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852906←前話｜次話→so34852960　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852907
+  default_thread_id: 1553579523
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852907.89788
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: READY OR NOT
+  description: アメリカからやってきた少女ハイヴはスピンクスのテロの裏をかいてきた。ナインは、彼女が地下鉄のテロを妨害していたと直感する。ハイヴは自分たちを恨んでいるのか？と気に掛けるツエルブ。そんな中、スピンクスを名乗る何者かから、新たな犯行予告が届く。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852907←前話｜次話→so34852961　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852960
+  default_thread_id: 1553580242
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852960.1179
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: DEUCE
+  description: 羽田空港の電光掲示板に映し出されるチェスの問題。それはハイヴからナインにあてた“挑戦状”だ。ツエルブは監視カメラの死角を縫って反撃の準備を進める。さらに空港に駆けつける柴崎。爆弾を巡り、水面下で激しい攻防が行われる。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852960←前話｜次話→so34852876　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852961
+  default_thread_id: 1553580183
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852961.17312
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: My Fair Lady
+  description: 無期限の休職を言い渡された柴崎。だが、独自に捜査を続け、テロの標的に共通して関係のある団体｢新進平和塾｣の関係者を訊ねる。そのころ、ナインとツエルブはアジトを変えようとするが、古いアジトにいるリサに荷物が届き・・・・・・。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852961←前話｜次話→so34852874　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852876
+  default_thread_id: 1553579042
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852876.66956
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: HIGHS＆LOWS
+  description: リサをとらえたハイヴは、ナインとツエルブを呼び出す。リサを助けるべきかどうか。二人の時間は限られている。その一方、調査を続けていた柴崎はプロジェクト・アテネの存在を知る。プロジェクト・アテネとは一体何だったのか。ようやく探り当てた関係者の青木は、柴崎に重い口を開く。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852876←前話｜次話→so34852873　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852874
+  default_thread_id: 1553579172
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852874.19464
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: HELTER SKELTER
+  description: 警視庁に出頭したナイン。ナインは原子爆弾をセットしてきたことを伝え、爆発を止めるかわりにある要求をする。一方、柴崎はプロジェクト・アテネの中心人物、間宮俊造の元へと赴く。全ての真実が今、白日の下にさらされようとしている。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852874←前話｜次話→so34852872　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852873
+  default_thread_id: 1553579170
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852873.50561
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: VON
+  description: ハイヴの妨害により、記者会見にたどり着くことができなかったナイン。そのため自動で流れる最期の犯行予告とともに、原子爆弾の発射装置が動き始める。混乱し、人のいなくなった東京でナイン、ツエルブ、そしてリサは空を見上げる。<br><br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）<br><br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA<br><br>（C）残響のテロル製作委員会<br><br>so34852873←前話　第一話→so34852812
+  length_seconds: 1380
+  content_id: so34852872
+  default_thread_id: 1553579048
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852872.3141
+cast: "[キャスト]<br>ナイン:（CV：石川界人）／ツエルブ:（CV：斉藤壮馬）／リサ:（CV：種﨑敦美）／ハイヴ:（CV：潘めぐみ）／柴崎:（CV：咲野俊介）"
+staff: "[スタッフ]<br>■監督・原案:渡辺信一郎／■キャラクターデザイン:中澤一登／■音楽:菅野よう子／■アニメーション制作:MAPPA"
+produced_year: "[製作年]<br>2014年"
+copyright: "（C）残響のテロル製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

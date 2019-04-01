@@ -1,0 +1,100 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版『タッチ３　君が通り過ぎたあとに』
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/63/9/22639_1_6.png?1553672119000
+outline: 明青高校三年生の達也は最後のチャンスを悔いないものにするため、日々の猛練習に励んでいた。南も新体操部を退部し、野球部のマネージャー活動を再開して充実した毎日を送っていた。そんな時、野球部の西尾監督が入院することになり、代理監督として柏葉英二郎がやってきた。彼は狂気のようなシゴキで部員たちを苦しめ、明青野球部を潰すかのようだった。その真意は、兄で優秀な野球選手・英一郎の陰で、理不尽な思いをさせられた自らの野球人生に対する復讐だった。その標的にされた達也たちの運命は。そして、甲子園への予選大会が始まるのだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 銀河万丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 三ツ矢雄二
+  type: cast
+- !ruby/hash:TagHash
+  name: 小宮和枝
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：杉井ギサブロー
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あだち充
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：永丘昭典
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 劇場版『タッチ３　君が通り過ぎたあとに』
+  description: 明青高校三年生の達也は最後のチャンスを悔いないものにするため、日々の猛練習に励んでいた。南も新体操部を退部し、野球部のマネージャー活動を再開して充実した毎日を送っていた。そんな時、野球部の西尾監督が入院することになり、代理監督として柏葉英二郎がやってきた。彼は狂気のようなシゴキで部員たちを苦しめ、明青野球部を潰すかのようだった。その真意は、兄で優秀な野球選手・英一郎の陰で、理不尽な思いをさせられた自らの野球人生に対する復讐だった。その標的にされた達也たちの運命は。そして、甲子園への予選大会が始まるのだった。<br><br>上杉達也:三ツ矢雄二／浅倉南:日高のり子／柏葉英二郎:田中秀幸／柏葉英一郎:内海賢二／原田正平:銀河万丈／上杉の父:千葉繁／上杉の母:小宮和枝<br><br>原作:あだち充／総監督:杉井ギサブロー／監督:永丘昭典<br><br>©あだち充／小学館©1987　東宝
+    フジテレビジョン ADK　小学館<br><br>次話→so34858725
+  length_seconds: 1318
+  content_id: so34858724
+  default_thread_id: 1553648762
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34858724.13621
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 劇場版『タッチ３　君が通り過ぎたあとに』
+  description: 明青高校三年生の達也は最後のチャンスを悔いないものにするため、日々の猛練習に励んでいた。南も新体操部を退部し、野球部のマネージャー活動を再開して充実した毎日を送っていた。そんな時、野球部の西尾監督が入院することになり、代理監督として柏葉英二郎がやってきた。彼は狂気のようなシゴキで部員たちを苦しめ、明青野球部を潰すかのようだった。その真意は、兄で優秀な野球選手・英一郎の陰で、理不尽な思いをさせられた自らの野球人生に対する復讐だった。その標的にされた達也たちの運命は。そして、甲子園への予選大会が始まるのだった。<br><br>上杉達也:三ツ矢雄二／浅倉南:日高のり子／柏葉英二郎:田中秀幸／柏葉英一郎:内海賢二／原田正平:銀河万丈／上杉の父:千葉繁／上杉の母:小宮和枝<br><br>原作:あだち充／総監督:杉井ギサブロー／監督:永丘昭典<br><br>©あだち充／小学館©1987　東宝
+    フジテレビジョン ADK　小学館<br><br>so34858724←前話｜次話→so34858726　第一話→so34858724
+  length_seconds: 1304
+  content_id: so34858725
+  default_thread_id: 1553648768
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34858725.75218
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: 劇場版『タッチ３　君が通り過ぎたあとに』
+  description: 明青高校三年生の達也は最後のチャンスを悔いないものにするため、日々の猛練習に励んでいた。南も新体操部を退部し、野球部のマネージャー活動を再開して充実した毎日を送っていた。そんな時、野球部の西尾監督が入院することになり、代理監督として柏葉英二郎がやってきた。彼は狂気のようなシゴキで部員たちを苦しめ、明青野球部を潰すかのようだった。その真意は、兄で優秀な野球選手・英一郎の陰で、理不尽な思いをさせられた自らの野球人生に対する復讐だった。その標的にされた達也たちの運命は。そして、甲子園への予選大会が始まるのだった。<br><br>上杉達也:三ツ矢雄二／浅倉南:日高のり子／柏葉英二郎:田中秀幸／柏葉英一郎:内海賢二／原田正平:銀河万丈／上杉の父:千葉繁／上杉の母:小宮和枝<br><br>原作:あだち充／総監督:杉井ギサブロー／監督:永丘昭典<br><br>©あだち充／小学館©1987　東宝
+    フジテレビジョン ADK　小学館<br><br>so34858725←前話｜次話→so34858727　第一話→so34858724
+  length_seconds: 1178
+  content_id: so34858726
+  default_thread_id: 1553648766
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34858726.2983
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: 劇場版『タッチ３　君が通り過ぎたあとに』
+  description: 明青高校三年生の達也は最後のチャンスを悔いないものにするため、日々の猛練習に励んでいた。南も新体操部を退部し、野球部のマネージャー活動を再開して充実した毎日を送っていた。そんな時、野球部の西尾監督が入院することになり、代理監督として柏葉英二郎がやってきた。彼は狂気のようなシゴキで部員たちを苦しめ、明青野球部を潰すかのようだった。その真意は、兄で優秀な野球選手・英一郎の陰で、理不尽な思いをさせられた自らの野球人生に対する復讐だった。その標的にされた達也たちの運命は。そして、甲子園への予選大会が始まるのだった。<br><br>上杉達也:三ツ矢雄二／浅倉南:日高のり子／柏葉英二郎:田中秀幸／柏葉英一郎:内海賢二／原田正平:銀河万丈／上杉の父:千葉繁／上杉の母:小宮和枝<br><br>原作:あだち充／総監督:杉井ギサブロー／監督:永丘昭典<br><br>©あだち充／小学館©1987　東宝
+    フジテレビジョン ADK　小学館<br><br>so34858726←前話　第一話→so34858724
+  length_seconds: 1167
+  content_id: so34858727
+  default_thread_id: 1553648764
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34858727.95805
+cast: "[キャスト]<br>上杉達也:三ツ矢雄二／浅倉南:日高のり子／柏葉英二郎:田中秀幸／柏葉英一郎:内海賢二／原田正平:銀河万丈／上杉の父:千葉繁／上杉の母:小宮和枝"
+staff: "[スタッフ]<br>原作:あだち充／総監督:杉井ギサブロー／監督:永丘昭典"
+produced_year: "[製作年]<br>1987年"
+copyright: "©あだち充／小学館©1987　東宝 フジテレビジョン ADK　小学館"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "『タッチ』TVシリーズ"
+- !ruby/hash:SeasonHash
+  title: 劇場版『タッチ　背番号のないエース』
+- !ruby/hash:SeasonHash
+  title: 劇場版『タッチ２　さよならの贈り物』

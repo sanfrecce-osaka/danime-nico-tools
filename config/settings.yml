@@ -265,4 +265,34 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第51話'
           title: 'LOVE ＆ LUCKY'
-
+  - id: 15
+    title: '残響のテロル'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第2話'
+          title: 'CALL & RESPONSE'
+        nico_branch:
+          episode_no: '第2話'
+          title: 'CALL ＆ RESPONSE'
+      - id: 2
+        head:
+          episode_no: '第3話'
+          title: 'SEARCH&DESTROY'
+        nico_branch:
+          episode_no: '第3話'
+          title: 'SEARCH＆DESTROY'
+      - id: 3
+        head:
+          episode_no: '第5話'
+          title: 'HIDE&SEEK'
+        nico_branch:
+          episode_no: '第5話'
+          title: 'HIDE＆SEEK'
+      - id: 4
+        head:
+          episode_no: '第9話'
+          title: 'HIGHS&LOWS'
+        nico_branch:
+          episode_no: '第9話'
+          title: 'HIGHS＆LOWS'
