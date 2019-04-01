@@ -415,7 +415,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34870630
   default_thread_id: 1553823552
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34870630.42599
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34870630.39075
 cast: "[キャスト]<br>キリト:松岡禎丞／アスナ:戸松 遥／アリス:茅野愛衣／ユージオ:島﨑信長"
 staff: "[スタッフ]<br>原作:川原 礫（「電撃文庫」刊）／原作イラスト・キャラクターデザイン原案:abec／監督:小野 学／助監督:佐久間貴史／キャラクターデザイン:足立慎吾　鈴木
   豪　西口智也／総作画監督:鈴木 豪　西口智也／プロップデザイン:早川麻美　伊藤公規／モンスターデザイン:河野敏弥／アクション作画監督:菅野芳弘　竹内哲也／美術監督:小川友佳子　渡辺佳人／美術設定:森岡賢一　谷内優穂／色彩設計:中野尚美／CG監督:雲藤隆太／撮影監督:脇
@@ -430,5 +430,3 @@ related_seasons: !ruby/array:Hashie::Array
   title: ソードアート・オンライン Extra Edition
 - !ruby/hash:SeasonHash
   title: ソードアート・オンラインⅡ
-- !ruby/hash:SeasonHash
-  title: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン

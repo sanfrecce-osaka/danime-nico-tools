@@ -65,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：望月智充
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：高橋良輔
+  name: 監督：米たにヨシトモ
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：米たにヨシトモ
+  name: 監督：高橋良輔
   type: staff
 - !ruby/hash:TagHash
   name: 監督：小島正幸

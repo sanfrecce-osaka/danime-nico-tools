@@ -49,6 +49,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 2018年春
   type: other
+- !ruby/hash:TagHash
+  name: 探偵
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: "＃1"

@@ -1,0 +1,336 @@
+--- !ruby/hash:SeasonHash
+title: 行け！稲中卓球部
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/16/2/22162_1_6.png?1551353909000
+outline: "『週刊ヤングマガジン』で連載された、古谷実のギャグ漫画をアニメ化。原作は1996年の第20回講談社漫画賞一般部門受賞作品で、個性的な登場人物たちによる強烈なギャグと、思春期の青春模様をたくみに描いた内容で、一躍大人気となった。舞台は稲豊市立稲豊中学校・通称「稲中」。下品な主人公・前野と、その盟友であるバカの井沢をはじめ、ムッツリスケベの田中、体臭が殺人的な田辺、そして彼らに振り回される部長の竹田と、副部長の木之下。彼ら６人の部員で構成される「稲中卓球部」が、抱腹絶倒ものの大騒動を巻き起こしていく。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 山崎たくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 高戸靖広
+  type: cast
+- !ruby/hash:TagHash
+  name: 茂呂田かおる
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 長島雄一
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡野浩介
+  type: cast
+- !ruby/hash:TagHash
+  name: 四反田マイケル
+  type: cast
+- !ruby/hash:TagHash
+  name: タカヤマツトム
+  type: cast
+- !ruby/hash:TagHash
+  name: 上原さくら
+  type: cast
+- !ruby/hash:TagHash
+  name: 加瀬田進
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒崎奈那美
+  type: cast
+- !ruby/hash:TagHash
+  name: 丹羽紫保里
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：波多正美
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：古谷実
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：星勝
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+- !ruby/hash:TagHash
+  name: 1995年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 校舎の六人/地上げ教師の陰謀
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>次話→so33221535'
+  length_seconds: 1470
+  content_id: so33221536
+  default_thread_id: 1526528086
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221536
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 不完全燃焼男/虫けらの逆襲
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221536←前話｜次話→so33221534　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221535
+  default_thread_id: 1526528071
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221535
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ダンゴ虫のように/ツンツン娘
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221535←前話｜次話→so33221533　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221534
+  default_thread_id: 1526528100
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221534
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 買い物ブギ/夏い暑
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221534←前話｜次話→so33221532　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221533
+  default_thread_id: 1526528132
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221533
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: おサルな合宿/呪われたかもしれない竹田
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221533←前話｜次話→so33221531　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221532
+  default_thread_id: 1526528274
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221532
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 卓球歴六十年の技/それぞれのヤル気
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221532←前話｜次話→so33221530　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221531
+  default_thread_id: 1526528353
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221531
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 稲中VS岸中/フリーセックス券の行方
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221531←前話｜次話→so33221529　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221530
+  default_thread_id: 1526528317
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221530
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ラブコメ死ね死ね団登場（前編）/ラブコメ死ね死ね団登場（後編）
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221530←前話｜次話→so33221528　第一話→so33221536'
+  length_seconds: 1455
+  content_id: so33221529
+  default_thread_id: 1526528355
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221529
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: うばわれた初恋/ダメ人間共同体
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221529←前話｜次話→so33221543　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221528
+  default_thread_id: 1526528112
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221528
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 着せかえ人形/超人TANABE
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221528←前話｜次話→so33221544　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221543
+  default_thread_id: 1526528134
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221543
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 一攫千金男（前編）/一攫千金男（後編）
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221543←前話｜次話→so33221618　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221544
+  default_thread_id: 1526528084
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221544
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 柴ちゃんの部員更生計画/サバイバル
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221544←前話｜次話→so33221617　第一話→so33221536'
+  length_seconds: 1470
+  content_id: so33221618
+  default_thread_id: 1526530091
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221618
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 友情/ぼくの好きなつとむ君
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221618←前話｜次話→so33221616　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221617
+  default_thread_id: 1526530076
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221617
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 土曜のウサギ/腰抜け男
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221617←前話｜次話→so33221615　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221616
+  default_thread_id: 1526529812
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221616
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: おみそ/チビ
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221616←前話｜次話→so33221614　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221615
+  default_thread_id: 1526529996
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221615
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: ドクター前野 「オレがやらずに誰がやる」 大作戦（前編）/ドクター前野 「オレがやらずに誰がやる」 大作戦（後編）
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221615←前話｜次話→so33221613　第一話→so33221536'
+  length_seconds: 1447
+  content_id: so33221614
+  default_thread_id: 1526530044
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221614
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 前野、幸せをつかむ/前野、ひと皮むける
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221614←前話｜次話→so33221612　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221613
+  default_thread_id: 1526530027
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221613
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 相方はどこだ?（前編）/相方はどこだ?（後編）
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221613←前話｜次話→so33221599　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221612
+  default_thread_id: 1526529815
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221612
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 不幸な兄妹/それ、ください
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221612←前話｜次話→so33221550　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221599
+  default_thread_id: 1526529949
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221599
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 川/引退
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221599←前話｜次話→so33221549　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221550
+  default_thread_id: 1526528130
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221550
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 借金王/炎のレイパー
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221550←前話｜次話→so33221548　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221549
+  default_thread_id: 1526528315
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221549
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 侵略/大空に向かって
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221549←前話｜次話→so33221547　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221548
+  default_thread_id: 1526528351
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221548
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 根性あります/激写!
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221548←前話｜次話→so33221546　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221547
+  default_thread_id: 1526528108
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221547
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: にせドランカー/竹田、おっぱいをもむ
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221547←前話｜次話→so33221545　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221546
+  default_thread_id: 1526528342
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221546
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 急募（前編）/急募（後編）
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221546←前話｜次話→so33221527　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221545
+  default_thread_id: 1526528082
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221545
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: ダンディ校長/流れ者
+  description: '出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子<br><br>監督:波多正美／プロデューサー:
+    源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星 勝<br><br>©古谷 実／講談社・キティフィルム・TBS<br><br>so33221545←前話　第一話→so33221536'
+  length_seconds: 1462
+  content_id: so33221527
+  default_thread_id: 1526528319
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221527
+cast: "[キャスト]<br>出演者:岡野浩介／高山勉／上原さくら／山崎たくみ／加瀬田進／高戸靖広／天田真人／黒崎奈那美／長島雄一／茂呂田かおる／丹羽紫保里／小林優子"
+staff: "[スタッフ]<br>監督:波多正美／プロデューサー: 源生哲雄、山川紀生、波多野恒正／原作:古谷実／脚本: 冨田祐弘、佐々嘉泰、寺田憲史、伊藤恒久／音楽:星
+  勝"
+produced_year: "[製作年]<br>1995年"
+copyright: "©古谷 実／講談社・キティフィルム・TBS"
+related_seasons: !ruby/array:Hashie::Array []
