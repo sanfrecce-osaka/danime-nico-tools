@@ -1,6 +1,6 @@
 --- !ruby/hash:SeasonHash
 title: こみっくパーティー
-watchable: true
+watchable: false
 thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/03/1/10031_1_6.png?1427216400000
 outline: "｢こみパとは!!｣職業作家として商業誌にデビューするのが目的ではなく。同人誌を制作し、“こみっくパーティー(略してこみパ)”という同人誌即売会で同人誌キングを目指すのだ!"
 tags: !ruby/array:Hashie::Array
