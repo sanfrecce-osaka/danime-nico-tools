@@ -71,6 +71,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1549587902
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34596407.47457
+- !ruby/hash:EpisodeHash
+  episode_no: 第19羽～第24羽
+  title: ''
+  description: アイスきゅうりを食べに、お友達の千昭と三千院に行くことになったちとせちゃん。そんな中、ちとせちゃんはなぜかおじいさんとおばあさんに名前を間違えられて…？／ほか<br><br>ナレーション:堤真一／キャスト:遊佐浩二、小岩井ことり<br><br>原作:夏目靫子（講談社「BE・LOVE」にて連載中）／監督・シリーズ構成:矢立きょう／キャラクターデザイン・作画監督:三田潤／色彩設計:のぼりはるこ／美術監督:山田ヨシノブ／音響監督:阿部信行／音楽:こぐま／アニメーション制作:ギャザリング<br><br>©夏目靫子・講談社／VAP<br><br>so34596407←前話　第一話→so34145975
+  length_seconds: 1081
+  content_id: so34890495
+  default_thread_id: 1554083705
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34890495.86697
 cast: "[キャスト]<br>ナレーション:堤真一／キャスト:遊佐浩二、小岩井ことり"
 staff: "[スタッフ]<br>原作:夏目靫子（講談社「BE・LOVE」にて連載中）／監督・シリーズ構成:矢立きょう／キャラクターデザイン・作画監督:三田潤／色彩設計:のぼりはるこ／美術監督:山田ヨシノブ／音響監督:阿部信行／音楽:こぐま／アニメーション制作:ギャザリング"
 produced_year: "[製作年]<br>2018年"
