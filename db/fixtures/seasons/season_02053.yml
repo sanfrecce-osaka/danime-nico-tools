@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 水橋かおり
   type: cast
 - !ruby/hash:TagHash
-  name: 堀川りょう
+  name: 種﨑敦美
   type: cast
 - !ruby/hash:TagHash
-  name: 種﨑敦美
+  name: 堀川りょう
   type: cast
 - !ruby/hash:TagHash
   name: 後藤麻衣

@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 逢坂良太
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤かな恵
