@@ -32,6 +32,9 @@ tags: !ruby/array:Hashie::Array
   name: 原作：特雷西胡
   type: staff
 - !ruby/hash:TagHash
+  name: ほら、耳がみえてるよ！シリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
