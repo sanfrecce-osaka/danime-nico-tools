@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: テルマエ・ロマエ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/19/3/11193_1_6.png?1552447329000
+outline: 紀元前128年、第14代皇帝ハドリアヌスが統治し、かつてない活気に溢れているローマ。すべてに斬新さが求められるこの時代、古き良き浴場を愛する設計技師のルシウス・モデストゥスは、生真面目すぎる性格が時代の変化に合わず、職を失ってしまう。落ち込むルシウスは、友人に誘われて訪れた公衆浴場から、突然現代日本の銭湯にタイムスリップしてしまい……!?古代ローマと現代日本の“風呂”を巡る冒険を描く、空前絶後＆抱腹絶倒のタイムスリップ風呂アニメ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 東地宏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: FROGMAN
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：DLE
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：谷東
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ヤマザキマリ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作販売元：エンターブレイン
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 2012年冬
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: Ⅰ・Ⅱ
+  description: 古代ローマの浴場設計技師・ルシウスは、その生真面目すぎる性格が時代の変化に合わず、職を失ってしまう。落ち込むルシウスは、友人と訪れた公衆浴場から、突然現代日本の銭湯にタイムスリップしてしまい・・・。<br><br>ルシウス:（CV：FROGMAN）／マルクス:（CV：東地
+    宏樹 ）<br><br>監督:谷 東／シナリオ（シリーズ構成）:谷 東／スタジオ:DLE／原作:ヤマザキマリ（『テルマエ・ロマエ』エンターブレイン刊）<br><br>(c)
+    2012 Mari Yamazaki/PUBLISHED BY KADOKAWA CORPORATION ENTERBRAIN/アニメ｢テルマエ・ロマエ｣製作委員会<br><br>次話→so34846171
+  length_seconds: 1379
+  content_id: so34845820
+  default_thread_id: 1553484723
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845820.17716
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: Ⅲ・Ⅳ
+  description: 斬新的な浴場を設計し成功を収めたルシウスは、マルクスの師匠のために簡易的な家庭用風呂ができないかと考えていると、またしても現代日本へタイムスリップ。そこはまるで棺のような狭さの家庭用風呂だった・・・。<br><br>ルシウス:（CV：FROGMAN）／マルクス:（CV：東地
+    宏樹 ）<br><br>監督:谷 東／シナリオ（シリーズ構成）:谷 東／スタジオ:DLE／原作:ヤマザキマリ（『テルマエ・ロマエ』エンターブレイン刊）<br><br>(c)
+    2012 Mari Yamazaki/PUBLISHED BY KADOKAWA CORPORATION ENTERBRAIN/アニメ｢テルマエ・ロマエ｣製作委員会<br><br>so34845820←前話｜次話→so34846170　第一話→so34845820
+  length_seconds: 1380
+  content_id: so34846171
+  default_thread_id: 1553490842
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846171.43601
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: Ⅴ
+  description: ハドリアヌス帝より勅命を受け、ヴェスビオス山の麓に単身訪れたルシウス。荒れ果てた荒野に原泉を発見するが、山賊たちに囲まれてしまう。命の危険を感じながらも毅然とした態度で対峙しするルシウスだが・・・。<br><br>ルシウス:（CV：FROGMAN）／マルクス:（CV：東地
+    宏樹 ）<br><br>監督:谷 東／シナリオ（シリーズ構成）:谷 東／スタジオ:DLE／原作:ヤマザキマリ（『テルマエ・ロマエ』エンターブレイン刊）<br><br>(c)
+    2012 Mari Yamazaki/PUBLISHED BY KADOKAWA CORPORATION ENTERBRAIN/アニメ｢テルマエ・ロマエ｣製作委員会<br><br>so34846171←前話　第一話→so34845820
+  length_seconds: 1380
+  content_id: so34846170
+  default_thread_id: 1553490912
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846170.89213
+cast: "[キャスト]<br>ルシウス:（CV：FROGMAN）／マルクス:（CV：東地 宏樹 ）"
+staff: "[スタッフ]<br>監督:谷 東／シナリオ（シリーズ構成）:谷 東／スタジオ:DLE／原作:ヤマザキマリ（『テルマエ・ロマエ』エンターブレイン刊）"
+produced_year: "[製作年]<br>2012年"
+copyright: "(c) 2012 Mari Yamazaki/PUBLISHED BY KADOKAWA CORPORATION ENTERBRAIN/アニメ｢テルマエ・ロマエ｣製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

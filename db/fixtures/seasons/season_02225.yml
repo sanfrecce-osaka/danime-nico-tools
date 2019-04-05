@@ -1,0 +1,171 @@
+--- !ruby/hash:SeasonHash
+title: モノノ怪
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/0/11170_1_6.png?1552446121000
+outline: "「真（まこと）」「理（ことわり）」「形（かたち）」を見極め、モノノ怪を斬ることのできる退魔の剣を持つ、謎の男「薬売り」。真とは事の有様、理とは心の有様。そして、ものの形を為すのは、人の因果と縁（えにし）。剣に導かれてか、己の意思か、薬売りの行く手には必ずモノノ怪が剣が抜き放たれ、あまたの妖異と対峙するとき、浮かぶこの世のはれとは・・・？人の心とアヤカシが生み出す凄絶なる惨劇を、薬売りの悪露子"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：中村健治
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：東映アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 2007年夏
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 定番の人気作
+  type: other
+- !ruby/hash:TagHash
+  name: 小中千昭
+  type: other
+- !ruby/hash:TagHash
+  name: 石川学
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 座敷童子前編
+  description: ある雨の夜、宿場町の老舗宿に一人の女が訪れた。その女・志乃は一晩の投宿を願うが、宿の女将・久代は志乃にやっかいごとの臭いをかぎ取り、なかなか首を縦に振らない。「泊めてもらえないと自分とおなかの子は明くる日にも命を奪われてしまう」という志乃の必死の願いに根負けした久代は、志乃を普段は客を泊めない曰くありげな部屋に通すのだった。その部屋で怪異が起こる・・・。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>次話→so34845574
+  length_seconds: 1380
+  content_id: so34845561
+  default_thread_id: 1553482275
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845561.70638
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 座敷童子後編
+  description: あかずの間の怪異の原因はモノノ怪「座敷童子」だった。薬売りの男は退魔の剣を抜くために久代たちから座敷童子の真と理を得ようとする。女将の口から、かつてこの宿屋が女郎屋であったこと、多くの女郎たちが「開かずの間」でやや子を堕ろしたことが語られる。志乃とその胎内のややこを狙う座敷童子の理とは何か・・・？<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845561←前話｜次話→so34845575　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845574
+  default_thread_id: 1553482383
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845574.83802
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 海坊主序ノ幕
+  description: 江戸に向かう大型商船「そらりす丸」。その船上には、自称「呪術師」の柳幻殃斉を始め、一癖も二癖もある人々が集っていたある夜、そらりす丸は突然規定の航路を外れて居場所を見失ってしまう。何者かの手により羅針盤が狂わされていたのだ。そして、そらりす丸の数倍はあろうかという巨大な戦船（いくさぶね）が現れ、人の首の姿をしたアヤカシの群れが乗客たちに襲いかかった。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845574←前話｜次話→so34845576　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845575
+  default_thread_id: 1553482142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845575.16670
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 海坊主二ノ幕
+  description: 海坊主薬売りの男の機転により一度はアヤカシの群れを退けたそらりす丸だったが、アヤカシの海から脱出する手がかりは依然として得られない。そこへ新たなアヤカシ「海座頭」が現れ、乗客の一人一人に「恐ろしいものは何か？」と問いかける。海座頭により内なる本心を暴露されていく乗客たち。そして、羅針盤に細工をし、そらりす丸をアヤカシの海に誘った者の正体が明らかになる・・・。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845575←前話｜次話→so34845577　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845576
+  default_thread_id: 1553482082
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845576.44914
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 海坊主大詰め
+  description: そらりす丸が遭遇した一艘の虚ろ船。海に跋扈するアヤカシを鎮めるために人身御供の人間を閉じこめて流される船、それが虚ろ船だ。そらりす丸が遭遇した虚ろ船は５０年前源慧の妹・お庸が,本来虚ろ船に閉じこめられるはずだった源慧の代わりに乗り込んだ船だった。虚ろ船の中を改める一行だったが、中にはお庸の姿はおろか遺骸すら見あたらなかった。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845576←前話｜次話→so34845578　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845577
+  default_thread_id: 1553482502
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845577.75382
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: のっぺらぼう前編
+  description: 自らの夫、姑を始めとする佐々木家一家惨殺の咎で死罪を申しつけられ、牢につながれている女・お蝶。お蝶による佐々木家一家惨殺事件の背後にはモノノ怪が存在するとあたりをつけた薬売りの男は、お蝶が幽閉されている牢屋に姿を現わした。お蝶を追求する薬売り、しかし能面をまとった男が現れ、お蝶を牢屋から連れ出そうとする。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845577←前話｜次話→so34845579　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845578
+  default_thread_id: 1553481962
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845578.50308
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: のっぺらぼう後編
+  description: 再び仮面の男と対峙する薬売り。しかし、仮面の男はなかなかその本当の「形」を表わさない。業を煮やした薬売りは、仮面の男が執着する相手・お蝶の情念を仮面の男に突きつけることにより仮面の男の形を表わそうと試みる。お蝶の心を探るうちにお蝶が佐々木一家を惨殺するに至った原因があぶり出される。それは、お蝶とお蝶の母親の関係にあった。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845578←前話｜次話→so34845580　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845579
+  default_thread_id: 1553482150
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845579.93619
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 鵺　前編
+  description: 京の街のとある屋敷で、笛小路家の姫・瑠璃姫の婿を決するための聞香の会が催されていた。瑠璃姫の婿にならんと名乗りを上げたものは四人。しかし、その中の一人・実尊寺惟勢が現れない。残りの３人で聞香は開始された。瑠璃姫から課された想像以上の難題に翻弄される男たち。それぞれが回答を決し、結果を待っていたその時、屋敷の奥の間で実尊寺の死体が発見される。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845579←前話｜次話→so34845581　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845580
+  default_thread_id: 1553482388
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845580.76297
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 鵺　後編
+  description: 実尊寺に続き、瑠璃姫までが死体となって発見された。しかし残された大澤廬房・室町具慶・半井淡澄の三人は嫁となるべき瑠璃姫が死んでしまったにもかかわらず聞香を続行しようとする。その裏には笛小路家に宝として伝わる「東大寺」と呼ばれる香木の存在があった。「東大寺」を手に入れれようとする男たちの執念がさらなる悲劇を生んでゆく・・・。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845580←前話｜次話→so34845625　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845581
+  default_thread_id: 1553482267
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845581.43407
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 化猫　序ノ幕
+  description: 地下鉄の新路線の開通式。そこは大勢の人々でにぎわっていた。地下鉄開通の立役者である福田市長に市民が盛大な拍手を送る中、招待客たちを乗せた第1号列車が発車した。しかし、運行中の列車から、突然ほとんどの乗客が消失。残されたのは市長を含めた7人の乗客のみ。しかも、外の様子を伺おうとした福田市長は、地下鉄から転落してしまう<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845581←前話｜次話→so34845749　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845625
+  default_thread_id: 1553482566
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845625.42691
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 化猫　二ノ幕
+  description: 乗客たちの前に姿を現わした薬売りの男は、地下鉄に起こった怪現象がモノノ怪の仕業であると告げる。モノノ怪を切るために薬売りは、乗客たちがなぜこの車両に集められたのか？その理由を探ろうとする。薬売りの手により、一見無関係に見える乗客たちの間に隠された「地下鉄開通を巡る汚職と一人の女性新聞記者」の姿が浮かび上がってくる。<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845625←前話｜次話→so34845573　第一話→so34845561
+  length_seconds: 1380
+  content_id: so34845749
+  default_thread_id: 1553484192
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845749.68408
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 化猫　大詰め
+  description: 真実を語るたびに、乗客たちは化猫の手にかかり次々と車内から姿を消していった。後に残されたのは薬売りと新聞記者・森谷の二人だけだった。乗客たちの真を得た化猫はますます力を増し、地下鉄を押しつぶそうとするが、依然真と理を得ることのできない薬売りは退魔の剣を解き放つことが出来ずにいた。果たして、森谷と女性記者市川節子との間に隠された真の理とはなにか？<br><br>薬売り:櫻井孝宏<br><br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川
+    学／スタジオ:東映アニメーション<br><br>（Ｃ）モノノ怪製作委員会<br><br>so34845749←前話　第一話→so34845561
+  length_seconds: 1365
+  content_id: so34845573
+  default_thread_id: 1553482148
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845573.5994
+cast: "[キャスト]<br>薬売り:櫻井孝宏"
+staff: "[スタッフ]<br>監督:中村健治／シナリオ（シリーズ構成）:ヨコテミチコ、小中千昭、高橋郁子、石川 学／スタジオ:東映アニメーション"
+produced_year: "[製作年]<br>2007年"
+copyright: "（Ｃ）モノノ怪製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

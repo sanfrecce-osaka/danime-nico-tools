@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: "「パズドラ」第2シリーズ"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/73/0/22730_1_6.png?1553857206000
+outline: 世界一のたこ焼き屋になる夢を持つ少年・明石タイガは、モンスターのトラゴンと出会い『パズドラ』でもナンバーワンを目指す。トラゴンとともにチャレンジカップを勝ち抜き、ついにパズドラプロゲーマーの一員となったタイガ。憧れのプロゲーマーと同じ場所に立てたことに有頂天になるが、それは更なる強者との戦いの始まりでもあった……。激戦必至、達人ぞろいのプロゲーマー界で、タイガはナンバーワンになることができるのか！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林裕介
+  type: cast
+- !ruby/hash:TagHash
+  name: 神代知衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上ほの花
+  type: cast
+- !ruby/hash:TagHash
+  name: 泊明日菜
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：studioぴえろ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：和田薫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：亀垣一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ガンホー・オンライン・エンターテイメント
+  type: staff
+- !ruby/hash:TagHash
+  name: パズドラシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2018年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第52話
+  title: プロゲーマー！　新たなる挑戦！！
+  description: チャレンジカップを勝ち抜き、晴れてパズドラプロゲーマーの一員となったタイガと龍二（りゅうじ）。二人の次の目標は、近々開催されるプロの大会『チャンピオンズカップ』。もっと実力をつけるためにも、タイガと龍二の練習相手になってくれるプロゲーマーを探すさくら。ほのかの助力もあって、先輩プロゲーマーの「ハヤト」が相手をしてくれることになる。果たして、タイガのプロ初試合の行方は！？<br><br>明石タイガ:泊　明日菜／トラゴン:柿原　徹也／卯月さくら:井上　ほの花／松原龍二
+    :小林　裕介／徳沢諭吉:神代　知衣<br><br>原作:ガンホー・オンライン・エンターテイメント「パズル＆ドラゴンズ」／原案:森下一喜／漫画原作:井上桃太（小学館「月刊コロコロコミック」）／監督:亀垣
+    一／シリーズ構成:藤田伸三／音楽:和田 薫／アニメーション制作:studioぴえろ<br><br>©ガンホー・オンライン・エンターテイメント／パズドラプロジェクト2019・テレビ東京
+  length_seconds: 1435
+  content_id: so34896826
+  default_thread_id: 1554169142
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34896826.41841
+cast: "[キャスト]<br>明石タイガ:泊　明日菜／トラゴン:柿原　徹也／卯月さくら:井上　ほの花／松原龍二 :小林　裕介／徳沢諭吉:神代　知衣"
+staff: "[スタッフ]<br>原作:ガンホー・オンライン・エンターテイメント「パズル＆ドラゴンズ」／原案:森下一喜／漫画原作:井上桃太（小学館「月刊コロコロコミック」）／監督:亀垣
+  一／シリーズ構成:藤田伸三／音楽:和田 薫／アニメーション制作:studioぴえろ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ガンホー・オンライン・エンターテイメント／パズドラプロジェクト2019・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: パズドラクロス
+- !ruby/hash:SeasonHash
+  title: パズドラ
+- !ruby/hash:SeasonHash
+  title: パズドラ・チャレンジカップへの道　トラゴンのビクトリーロード

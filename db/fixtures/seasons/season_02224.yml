@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: ポプテピピック TVスペシャル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/66/6/22666_1_6.png?1553572807000
+outline: どうあがいても、クソ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 音楽：吟
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：キングレコード
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：大川ぶくぶ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：神風動画
+  type: staff
+- !ruby/hash:TagHash
+  name: ポプテピピックシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "＃13"
+  title: 玄武ver.
+  description: ポプテピピック TVスペシャル＃13　玄武ver.<br><br>ポプ子:？？？／ピピ美:？？？<br><br>原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）／アニメーション制作:神風動画／製作:キングレコード<br><br>©大川ぶくぶ／竹書房・キングレコード<br><br>次話→so34865902
+  length_seconds: 1419
+  content_id: so34865901
+  default_thread_id: 1553753945
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34865901.20573
+- !ruby/hash:EpisodeHash
+  episode_no: "＃14"
+  title: 玄武ver.
+  description: ポプテピピック TVスペシャル＃14　玄武ver.<br><br>ポプ子:？？？／ピピ美:？？？<br><br>原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）／アニメーション制作:神風動画／製作:キングレコード<br><br>©大川ぶくぶ／竹書房・キングレコード<br><br>so34865901←前話｜次話→so34865903　第一話→so34865901
+  length_seconds: 1424
+  content_id: so34865902
+  default_thread_id: 1553753947
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34865902.47632
+- !ruby/hash:EpisodeHash
+  episode_no: "＃13"
+  title: 青龍ver.
+  description: ポプテピピック TVスペシャル＃13　青龍ver.<br><br>ポプ子:？？？／ピピ美:？？？<br><br>原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）／アニメーション制作:神風動画／製作:キングレコード<br><br>©大川ぶくぶ／竹書房・キングレコード<br><br>so34865902←前話｜次話→so34865904　第一話→so34865901
+  length_seconds: 1419
+  content_id: so34865903
+  default_thread_id: 1553753950
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34865903.86066
+- !ruby/hash:EpisodeHash
+  episode_no: "＃14"
+  title: 青龍ver.
+  description: ポプテピピック TVスペシャル＃14　青龍ver.<br><br>ポプ子:？？？／ピピ美:？？？<br><br>原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+    ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）／アニメーション制作:神風動画／製作:キングレコード<br><br>©大川ぶくぶ／竹書房・キングレコード<br><br>so34865903←前話　第一話→so34865901
+  length_seconds: 1424
+  content_id: so34865904
+  default_thread_id: 1553753952
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34865904.72652
+cast: "[キャスト]<br>ポプ子:？？？／ピピ美:？？？"
+staff: "[スタッフ]<br>原作:大川ぶくぶ（竹書房「まんがライフWIN」）／企画・プロデュース:須藤孝太郎／シリーズ構成:青木純（スペースネコカンパニー）／音響監督:鐘江徹／音響効果:小山恭正／音響制作:グロービジョン／音楽:吟（BUSTED
+  ROSE）／音楽制作:キングレコード／シリーズディレクター:青木純（スペースネコカンパニー）／アニメーション制作:神風動画／製作:キングレコード"
+produced_year: "[製作年]<br>2019年"
+copyright: "©大川ぶくぶ／竹書房・キングレコード"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ポプテピピック

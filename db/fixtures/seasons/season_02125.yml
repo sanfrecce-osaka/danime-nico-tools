@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 中博史
   type: cast
 - !ruby/hash:TagHash
-  name: 沢城千春
+  name: 福原綾香
   type: cast
 - !ruby/hash:TagHash
-  name: 福原綾香
+  name: 沢城千春
   type: cast
 - !ruby/hash:TagHash
   name: 監督：岡本英樹

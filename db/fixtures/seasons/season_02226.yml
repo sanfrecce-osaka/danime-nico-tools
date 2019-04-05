@@ -1,0 +1,175 @@
+--- !ruby/hash:SeasonHash
+title: もやしもん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/19/2/11192_1_6.png?1552445882000
+outline: 菌が肉眼で見えるという不思議な能力をもつ主人公・沢木惣右衛門直保、その親友で、ある日忽然と姿を消す謎だらけな酒蔵の息子、学校の敷地内で発酵食品を作る名物老教授、酒を密造する先輩、常にボンデージファッションに身を包んだ女子院生など、個性的なキャラクターたちが登場する“農大”を舞台にした異色学園アニメ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 阪口大助
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：矢野雄一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：白組
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石川雅之
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：テレコム
+  type: staff
+- !ruby/hash:TagHash
+  name: もやしもんシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 2007年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: 実写化・舞台化
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 高橋ナツコ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 農大菌物語
+  description: 農大一年生の沢木直保はなぜか菌が見える体質。学校内で地中から大量に噴出している菌を発見、行方不明の女生徒・長谷川遥が埋まっている！と大騒ぎになる。そこへスコップを持った老人・樹慶蔵教授が現れた！<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>次話→so34845754
+  length_seconds: 1385
+  content_id: so34845753
+  default_thread_id: 1553484182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845753.65257
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 三億円の農大生
+  description: 日本酒の敵・ヒオチ菌が大量に噴出！沢木は、学校内で勝手にお酒を造っている犯人・川浜と美里に出くわす。密造に失敗し多額の借金を抱えた二人は、沢木の能力を使ってひと儲けを企む。<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845753←前話｜次話→so34845755　第一話→so34845753
+  length_seconds: 1384
+  content_id: so34845754
+  default_thread_id: 1553484124
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845754.4098
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 菌でかもすぞ！
+  description: 菌を培養してひと儲けを狙う川浜と美里だったが、除菌が趣味の及川葉月により菌は死滅してしまう。一方、樹教授は新しい発酵蔵の起工を祝ってお酒造りを実演、沢木は菌の活動で酒ができる仕組みを目の当たりにする。<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845754←前話｜次話→so34845756　第一話→so34845753
+  length_seconds: 1381
+  content_id: so34845755
+  default_thread_id: 1553484542
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845755.42492
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: あちこち菌祭り
+  description: 樹教授から農場の野菜をこっそり盗ってくるよう命じられた沢木と結城蛍。夜の畑の中で初体験のドロボーにビクビクする二人だが、実は新入生を使った学校ぐるみの野菜ドロボー撃退イベントだった！<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845755←前話｜次話→so34845757　第一話→so34845753
+  length_seconds: 1383
+  content_id: so34845756
+  default_thread_id: 1553484122
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845756.74449
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 怪奇！菌オバケ
+  description: 全身が菌だらけの「菌のオバケ」を目撃した沢木。それは樹先生御用達の酒屋の主・日吉菊二だった。菊二が語る日本酒の奥深さと菌の力に感心する沢木たち。そこへ大きな荷物を抱えた臭い女・武藤葵が現れた！<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845756←前話｜次話→so34845758　第一話→so34845753
+  length_seconds: 1380
+  content_id: so34845757
+  default_thread_id: 1553484249
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845757.90011
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 悩殺！ミス農大
+  description: 発酵食品を背負い陸路帰国した元ミス農大・武藤は、すっかり色気も清潔さもなくなっていた。ひさびさの日本にくつろぐ武藤だが、沢木はその体に見慣れない菌を発見。なんとそれはアジアトップ5の食中毒菌だった！<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845757←前話｜次話→so34845759　第一話→so34845753
+  length_seconds: 1381
+  content_id: so34845758
+  default_thread_id: 1553484302
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845758.35459
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 開幕！農大春祭
+  description: 全身黒タイツの怪しい団体・農士会が支配する「春祭」がいきなり開催！外部と隔絶された学内で自給自足の農大精神を強要されれる生徒たち。農士会が決めたルールの謎を解かないと春祭は終わらないという・・・<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845758←前話｜次話→so34845760　第一話→so34845753
+  length_seconds: 1381
+  content_id: so34845759
+  default_thread_id: 1553484190
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845759.59440
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 農大正門攻略戦
+  description: 春祭最終日。樹先生が開発した媚薬を手に入れようと息巻く美里と川浜。農士会の弱点を突き、自治寮レジスタンスの総攻撃がついに開始される。大乱戦を乗り越えた沢木は、巨大な農士会大将との戦いに挑む！<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845759←前話｜次話→so34845761　第一話→so34845753
+  length_seconds: 1385
+  content_id: so34845760
+  default_thread_id: 1553484246
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845760.12077
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 柔肌にとりつけ
+  description: 臭いに耐えながらも和気あいあいとシュールストレミングを試食する樹ゼミの一同。そんなおり父親から大学を辞めるよう説得される長谷川。自分の行く末を悩みつつ眠りに落ちた長谷川に、菌の影が迫る！<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845760←前話｜次話→so34845818　第一話→so34845753
+  length_seconds: 1383
+  content_id: so34845761
+  default_thread_id: 1553484547
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845761.38007
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ゴスロリキッス
+  description: 日吉酒店で見かけたゴスロリ少女が気になる沢木。ついに再会した少女の言葉から、その正体に気付き驚愕する。突然少女にキスをされパニックに陥った沢木は、驚きから菌が見えなくなってしまった！<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845761←前話｜次話→so34845819　第一話→so34845753
+  length_seconds: 1381
+  content_id: so34845818
+  default_thread_id: 1553484963
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845818.37888
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 輝く菌未来
+  description: 菌が見えない沢木をかばう美里と川浜。一方、「菌が見えなきゃただのチビ」と沢木を突き放す長谷川。親友・蛍に悩みを打ち明けたことをきっかけに自分の人生を見つめなおした沢木は、自分の思いを長谷川に伝える―<br><br>沢木
+    惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）<br><br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊<br><br>©石川雅之・講談社／もやしもん製作委員会<br><br>so34845818←前話　第一話→so34845753
+  length_seconds: 1375
+  content_id: so34845819
+  default_thread_id: 1553484851
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845819.40852
+cast: "[キャスト]<br>沢木 惣右衛門 直保:（ＣＶ：阪口 大助）／結城蛍:（ＣＶ：斎賀みつき）"
+staff: "[スタッフ]<br>監督:矢野雄一郎／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:白組、テレコム／原作:『もやしもん』石川雅之　講談社刊"
+produced_year: "[製作年]<br>2007年"
+copyright: "©石川雅之・講談社／もやしもん製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: もやしもんリターンズ
