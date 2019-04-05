@@ -99,7 +99,7 @@ module Api
       end
 
       def target_title_for_regexp(season, episode)
-        [season.title_for_regexp, episode.episode_no, episode.title]
+        [season.original_or_different_title, episode.episode_no, episode.title]
           .reject(&:nil?)
           .map { |el| full_to_half(Regexp.escape(el).gsub("'", '.')) }
           .join('[[:blank:]]*')
