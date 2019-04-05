@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 内山夕実
   type: cast
 - !ruby/hash:TagHash
-  name: 久保ユリカ
+  name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
-  name: 村川梨衣
+  name: 久保ユリカ
   type: cast
 - !ruby/hash:TagHash
   name: たかはし智秋

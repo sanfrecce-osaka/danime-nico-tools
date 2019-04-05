@@ -1,0 +1,167 @@
+--- !ruby/hash:SeasonHash
+title: NO.6
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/20/6/11206_1_6.png?1552444274000
+outline: すべてが約束されたエリートとして生まれた紫苑。12歳の誕生日、彼は偶然、部屋に転がり込んできた少年を助ける。翌日、ネズミと名乗ったその少年は、まるで幻のように姿を消した。だが、その出会いは紫苑の心にずっと残り続けていた……。そして４年後。紫苑の身の回りで次々と起こる奇怪な事件。宿主の身体を一気に老化させる謎の寄生バチ、二度と生きては外に出られないと言われる矯正施設の存在、そして次第に明らかになる“聖都市”の本当の姿……。友情というにはあまりに激しく、宿命というにはあまりに切ないふたりの物語が、静かに幕を開ける。少年は、窓を開け放つ。おのれの内なる“呼び声”が導くままに。その先に何が待っているかも知らないままに……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ボンズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長崎健司
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あさのあつこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 2011年夏
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: お母さん
+  type: other
+- !ruby/hash:TagHash
+  name: イケメン集団
+  type: other
+- !ruby/hash:TagHash
+  name: 水上清資
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "「びしょぬれネズミ」"
+  description: 管理社会“NO.6”の高級住宅街・クロノスでエリートとして暮らす紫苑。しかし日々の生活に物足りなさを感じていた。12歳の誕生日。台風がクロノスに近づく中、紫苑は抑えきれない衝動に駆られ部屋の窓を開け放つ。ふと振り向くと、そこには凶悪犯罪者として追われている少年“ネズミ”が立っていた。荒れ狂う風の中、運命的な出会いにより2人の物語が始まる。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>次話→so34846421
+  length_seconds: 1374
+  content_id: so34846430
+  default_thread_id: 1553495955
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846430.94744
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "「光をまとう街」"
+  description: ネズミとの出会い、そして別れから４年後。紫苑はクロノスの居住権を初めとした数々の特権を失い、母火藍と共にロストタウンで暮らしていた。そんな中、紫苑が管理作業に従事する公園で、一人の男の遺体が発見される。老人と思われたその遺体は、後に実は３０代である事が判明するが、市は何故かその事実を隠蔽。翌日、今度は紫苑の同僚の山勢も突如老人と化して死亡する。直後、紫苑は山勢の首筋から一匹のハチが這い出るのを目撃する。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846430←前話｜次話→so34846422　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846421
+  default_thread_id: 1553495290
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846421.76406
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "「生と死と」"
+  description: 全てを捨て、ネズミと共にNO.6を脱出した紫苑。ひとまずネズミの家に落ち着くが、間もなく紫苑の首筋から、山勢の時と同じ黒い水疱が浮き出てくる。激しい苦痛の中、ネズミの機転で何とか一命を取り留める紫苑だったが、彼の身体は驚くべき変異を遂げていた。やがて紫苑とネズミは黒い水疱を分析。それが人間の体内に寄生し、驚異的な速度で成長する特殊な“ハチ”のサナギである事を突き止める。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846421←前話｜次話→so34846423　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846422
+  default_thread_id: 1553495703
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846422.35917
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "「魔と聖」"
+  description: 火藍から渡されたメモの意味を探るため、元ラッチビル新聞の記者だった男の元を訪ねる事にした紫苑とネズミ。NO.6にいた頃は想像もつかなかった程の、殺伐とした壁の外の街の情景に戸惑いつつも、なんとか目的の男・力河と出会えた紫苑たちだったが、かつてNO.6の謎を探って活躍していたという力河は、NO.6の高官達へ女を斡旋して金を稼ぐという荒んだ生活を送っていた。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846422←前話｜次話→so34846424　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846423
+  default_thread_id: 1553495949
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846423.11964
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "「冥府の天使」"
+  description: NO.6で再び人が老人と化して死亡する事件が起こる。力河よりその話を聞いた紫苑は、ネズミへ伝えるべく彼が劇を催す劇場を訪れる。初めて見るネズミの舞台。だが途中、どこからともなく不思議な風と歌を感じたネズミは、突如舞台上で気を失ってしまう。同じ頃、NO.5の美術館で３匹の蜂をあしらった展示品を見ていた沙布も、ネズミと同様、不思議な風と歌を感じ取り、倒れてしまった。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846423←前話｜次話→so34846425　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846424
+  default_thread_id: 1553495961
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846424.29255
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "「密やかな危機」"
+  description: 祖母の死によりNO.6へ戻った沙布。だが祖母が残したとされる遺品を見て、NO.6に不審を抱くようになる。沙布は紫苑へ連絡を取ろうとするが、その時彼が重犯罪者として市庁舎より登録を抹消されている事を知る。すぐ火藍の所へ向かった沙布は、紫苑が現在NO.６の外の世界で生きている事を知り、会いにいくことを決意するが、そんな沙布の前に治安局の人間が現れ、どこかへと彼女を連行してしまった。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846424←前話｜次話→so34846426　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846425
+  default_thread_id: 1553495582
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846425.28301
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "「真実の嘘・虚構の真実」"
+  description: 火藍のメモから、沙布が治安局へ連れ去られた事を知ったネズミは、その事実を紫苑には知らせず、こっそり矯正施設に関する情報収集をイヌカシに依頼する。ところがそんなネズミの預かり知らぬ所で、紫苑は力河と入った古着屋で、矯正施設より横流しされた沙布のコートを発見してしまう。一方、沙布は連れ去られた施設で、研究者たちにより何かの“サンプル”としての扱いを受けていた。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846425←前話｜次話→so34846427　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846426
+  default_thread_id: 1553495711
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846426.43709
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "「そのわけは…」"
+  description: 沙布を救うため、西ブロック最果ての地を訪れた紫苑とネズミは、そこで多くの男たちを従えた、両足の無い一人の老人と会う。ネズミの名づけ親だというその老人、実は以前力河の所で見つけた写真に、若き頃の火藍と共に写っていた研究者の一人であった。その男から紫苑は、ネズミがかつてNO.６に滅ぼされた「森の民」ただ一人の生き残りである事、そしてＮＯ.６が「森の民」を滅ぼした要因である「エリウリアス」という存在について聞く。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846426←前話｜次話→so34846428　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846427
+  default_thread_id: 1553495298
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846427.7636
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "「災厄の舞台」"
+  description: 力河の協力で、NO.６の高官より矯正施設の内情を聞きだす事に成功した紫苑とネズミは、施設への侵入が思いのほか困難であること、そして来るべき“聖なる祝日”を前にNO.６が“清掃作業”と称して何かを行おうとしている事実を知る。その“聖なる祝日”の前日、紫苑とネズミは訪れた西ブロックの市場でNO.6の軍と遭遇。大規模な虐殺と拉致の嵐に巻き込まれでしまう。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846427←前話｜次話→so34846429　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846428
+  default_thread_id: 1553495462
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846428.90387
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "「奈落にあるもの」"
+  description: 矯正施設への侵入に成功した紫苑とネズミ。そこは、それまで紫苑が想像だにしなかったNO.６の暗部であった。多くの人の屍を乗り越え、イヌカシと力河の協力の元、沙布を救うべく先へ突き進む二人。そんな中ネズミは、紫苑の言動が徐々に変わってきている事に戸惑いを覚えていた。<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846428←前話｜次話→so34846441　第一話→so34846430
+  length_seconds: 1375
+  content_id: so34846429
+  default_thread_id: 1553495952
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846429.6682
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "「伝えてくれ、ありのままを」"
+  description: 数々の苦難を乗り越え、ついに沙布の元へ辿り着いた紫苑とネズミ。だが、既に沙布がエリウリアスと一体化させられていることを知り、紫苑はついにNO.６への怒りを爆発させてしまう。その頃NO.6市内では、「聖なる祝日」を祝う式典の最中、例の寄生バチが大量に発生し人々を襲っていた。果たしてNO.6存亡の行方は、そして紫苑とネズミたちの運命の行きつく先は？<br><br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）<br><br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ
+    講談社刊<br><br>©あさのあつこ・講談社／NO.6製作委員会<br><br>so34846429←前話　第一話→so34846430
+  length_seconds: 1374
+  content_id: so34846441
+  default_thread_id: 1553495464
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846441.80766
+cast: "[キャスト]<br>紫苑:（ＣＶ：梶裕貴）／ネズミ:（ＣＶ：細谷佳正）"
+staff: "[スタッフ]<br>監督:長崎健司／シナリオ（シリーズ構成）:水上清資／スタジオ:ボンズ／原作:『NO.6』あさのあつこ 講談社刊"
+produced_year: "[製作年]<br>2011年"
+copyright: "©あさのあつこ・講談社／NO.6製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,184 @@
+--- !ruby/hash:SeasonHash
+title: 刀語
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/21/1/11211_1_6.png?1552446341000
+outline: 伝説の刀鍜治、四季崎記紀がその人生を賭けて鍛えた十二本の“刀”を求め、無刀の剣士・鑢七花と美貌の奇策士・とがめが征く！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：西尾維新
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：WHITE FOX
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+- !ruby/hash:TagHash
+  name: 2010年冬
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 主人公最強
+  type: other
+- !ruby/hash:TagHash
+  name: 最強ヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: 上江洲誠
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社BOX
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 絶刀・鉋
+  description: 忍者 VS 無刀　刀を使わない剣術・虚刀流の七代目当主・鑢七花と、その姉・鑢七実は、地図にも載らない無人島・不承島で平和に暮らしていた。そこへ、奇策士を自称する、とがめという女性が訪ねてくる。幕府の役職者であるという彼女の目的は、伝説の刀鍛冶・四季崎記紀が、その人生をかけて完成させたという十二本の完成形変体刀の蒐集を、虚刀流の当主に依頼する事だった。長い間来訪者の無かった島への突然の来客と意外な依頼に戸惑う七花と七実。そして、そんな彼らに、暗殺専門の忍者集団「真庭忍軍」十二頭領の一人・真庭蝙蝠の影が忍び寄る…。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>次話→so34852042
+  length_seconds: 2790
+  content_id: so34852041
+  default_thread_id: 1553569279
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852041.4865
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 斬刀・鈍
+  description: 無刀 VS 居合　七花ととがめの、完成形変体刀蒐集の旅が始まった。まず彼らが蒐集に向かったのは、居合いの達人・宇練銀閣が所有するという斬刀・鈍。鳥取藩全土を飲み込んだ因幡砂漠にある下酷城に立てこもる宇練銀閣を訪ねる為、行けども行けども続く砂漠地帯をひた歩く二人。そして、体力の無いとがめの心が折れそうになるほど歩いた後に辿り着いた下酷城で、とがめと宇練銀閣との話し合いが始まった。
+    一見冷静な対応を見せる宇練銀閣であったが、果たして彼の返答とは…。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852041←前話｜次話→so34852043　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852042
+  default_thread_id: 1553568842
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852042.65747
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 千刀・鎩
+  description: 千刀 VS 無刀　神々の集う地とされる出雲の三途神社へと向かう二人。その神社の長である敦賀迷彩が所有する千刀・鎩が、彼らの蒐集対象である。特殊な事情で心に傷を負った女性達を保護しているという三途神社は、外界との関係に距離を置くかのごとく、千段もの階段の上に存在していた。そして、辿り着いた三途神社の境内で、とがめと敦賀迷彩の交渉が始まったのだが、敦賀迷彩は、刀を賭けた勝負に応じる条件として、とがめに対し、意外な申し出をする。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852042←前話｜次話→so34852044　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852043
+  default_thread_id: 1553568914
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852043.81861
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 薄刀・針
+  description: 最強 VS 無刀　蒐集対象である薄刀・針を所有するのは、かつてその回収をとがめから命じられながらも、刀の魅力に取り憑かれ彼女を裏切った日本最強の剣士・錆白兵。七花は、薄刀・針の蒐集の為、錆白兵と巌流島で決闘することとなる。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852043←前話｜次話→so34852045　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852044
+  default_thread_id: 1553569030
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852044.54656
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 賊刀・鎧
+  description: 海賊 VS 無刀　薩摩の濁音港の元締めである鎧海賊団の船長・校倉必は、賊刀・鎧を使い、闘技場で連戦連勝を重ねていた。その勝負に勝てば賊刀・鎧が手に入る決まりなのだが、その圧倒的な戦いぶりを見た七花ととがめは、宿に戻り、対策を練ることにする。だが、その宿へ突然、校倉必が現れる。果たして、彼の目的は…。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852044←前話｜次話→so34852046　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852045
+  default_thread_id: 1553568912
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852045.90187
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 双刀・鎚
+  description: 怪力 VS 無刀　双刀・鎚があるという、蝦夷の壱級災害指定地域である踊山を登る二人。だが、その危険度を軽視していた二人は、登頂の途中、激しい吹雪に遭難しかけてしまう。死を覚悟するほどまでに陥った二人であったが、彼らをある人物が救い出す。彼女の名は、凍空こなゆき。踊山に暮らす凍空一族の少女だった。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852045←前話｜次話→so34852047　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852046
+  default_thread_id: 1553569275
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852046.45412
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 悪刀・鐚
+  description: 天才 VS 無刀　悪刀・鐚を祀る陸奥の死霊山が、何者かによって壊滅されられ、悪刀・鐚も奪われてしまう。その何者かを追って、日本の剣士達の聖地である、土佐の清涼院護剣寺へと向かう七花ととがめ。そして、刀大仏と呼ばれる巨大な大仏のあるその寺に辿り着いた二人は、そこで起こっていた異常事態と、その原因である意外な人物に遭遇する。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852046←前話｜次話→so34852048　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852047
+  default_thread_id: 1553569271
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852047.81668
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 微刀・釵
+  description: 人形 VS 無刀　とがめと敵対する、幕府直轄内部監察所総監督・否定姫からの情報を頼りに、次なる刀を求め、江戸の不要湖へと向かう二人。そして二人は、辿り着いた不要湖で、微刀・釵を見つけたのだが、その所有者は、これまでの所有者とは全く違う、人ですらない者であった…。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852047←前話｜次話→so34852049　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852048
+  default_thread_id: 1553569273
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852048.85371
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 王刀・鋸
+  description: 木刀 VS 無刀　王刀・鋸を求め、出羽の将棋村へと向かう七花ととがめ。その名の通り将棋が盛んな村にある唯一の剣術道場・心王一鞘流の12代目当主である汽口慚愧がその所有者だ。交渉を始めるとがめであったが、七花との戦いすら拒否する汽口慚愧に手を焼いてしまう。そこでとがめは、ある奇策を思いつく。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852048←前話｜次話→so34852050　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852049
+  default_thread_id: 1553569022
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852049.80320
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 誠刀・銓
+  description: 仙人 VS 無刀　次なる刀に関するある情報を頼りに、陸奥の百刑場へと向かう二人。そこは、今は何も無い原っぱだが、とがめにとって因縁深い場所であった。そして二人はその百刑場で、誠刀・銓の所有者である彼我木輪廻に出会う。自らを仙人と呼ぶ彼は、とがめに対し、刀を渡すとある条件を言い渡す。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852049←前話｜次話→so34852051　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852050
+  default_thread_id: 1553569262
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852050.1479
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 毒刀・鍍
+  description: 刀工 VS 無刀　奥州から尾張へ戻る途中、七花ととがめは、ある人物から助けを求められる。そして、その者からの情報により、真庭忍軍の頭領・真庭鳳凰が、毒刀・鍍を手に入れた事を知る。二人は、真庭鳳凰が向かったという、伊賀の新・真庭の里へと急ぐ。だが、辿り着いたその場に待ち受けていたのは、予想外の事態であった…。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852050←前話｜次話→so34852052　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852051
+  default_thread_id: 1553568908
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852051.81753
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 炎刀・銃
+  description: 拳銃 VS 無刀　最後の完成形変体刀である炎刀・銃が、ある者の手により、尾張幕府へと謙譲されてしまう。そしてその場で、現将軍・家鳴匡綱語られた完成形変体刀の真実は、誰もが驚愕するものであった。そして、七花ととがめの旅の行方は、果たしてどこへ辿り着くのだろうか…。<br><br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）<br><br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE
+    FOX／原作:西尾維新「刀語」(講談社BOX)<br><br>©西尾維新・講談社 / 「刀語」製作委員会<br><br>so34852051←前話　第一話→so34852041
+  length_seconds: 2790
+  content_id: so34852052
+  default_thread_id: 1553569265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852052.32175
+cast: "[キャスト]<br>鑢七花:（ＣＶ：細谷佳正）／とがめ:（ＣＶ：田村ゆかり）"
+staff: "[スタッフ]<br>監督:元永慶太郎／シナリオ（シリーズ構成）:上江洲誠／スタジオ:WHITE FOX／原作:西尾維新「刀語」(講談社BOX)"
+produced_year: "[製作年]<br>2010年"
+copyright: "©西尾維新・講談社 / 「刀語」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

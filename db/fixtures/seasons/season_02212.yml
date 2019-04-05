@@ -1,0 +1,175 @@
+--- !ruby/hash:SeasonHash
+title: つり球
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/17/9/11179_1_6.png?1552445903000
+outline: 舞台は湘南・江の島。懐かしさと瑞々しさの同居した町。他人とのコミュニケーションが異常なほど苦手なため、これまでの人生でまともに友達がいた試しのない高校生・ユキ。自称宇宙人、ユキに釣りをさせようとする少年・ハル。生まれも育ちも江の島の地元っ子、周囲のいろんな事になんだかムカついているらしい少年・夏樹。青春をこじらせてしまっている4人が出会い、釣りをして、小さな島は、大きな物語の中心となり――。ここから始まる、SF(=青春フィッシング)物語!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 逢坂良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中村健治
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 2012年春
+  type: other
+- !ruby/hash:TagHash
+  name: 聖地巡礼
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 海がきれい
+  type: other
+- !ruby/hash:TagHash
+  name: チーム男子
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: テンパってフィッシング
+  description: 友達がいない少年・ユキは、転校してきた江の島で今度こそ友達を作ろうと意気込む。しかしそんなユキに｢友達になろう｣と現れたのは、 釣り竿と水鉄砲を手にした自称｢宇宙人｣・ハルだった……!<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>次話→so34845562
+  length_seconds: 1370
+  content_id: so34845572
+  default_thread_id: 1553481976
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845572.33099
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 悔しくてユニノット
+  description: ハルに強引に誘われて始めたものの、ちょっとだけ釣りに興味が出てきたユキ。 夏樹にまたレクチャーを受けるのだが、ユニノットという基本的な結び方が上手くできず途中で投げ出してしまい……。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845572←前話｜次話→so34845563　第一話→so34845572
+  length_seconds: 1369
+  content_id: so34845562
+  default_thread_id: 1553482265
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845562.77442
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 寂しくてキャスティング
+  description: 釣りの面白さに目覚めたユキだが、今度はキャスティングに苦戦する。今度は諦めず、特訓の毎日。そんなユキを応援するハルと夏樹。ずっと一人ぼっちだったユキに、誰かと一緒にいる時間が少しずつ増えてゆく。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845562←前話｜次話→so34845564　第一話→so34845572
+  length_seconds: 1370
+  content_id: so34845563
+  default_thread_id: 1553482158
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845563.29321
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ムカついてランディング
+  description: 江の島で｢元祖しらす亭｣を営む夏樹の家は、皆仲良し。だが一人、当の夏樹だけはその輪から外れてしまっているようだ。それをなんとなく感じとったハルは、ある行動に出るが……。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845563←前話｜次話→so34845565　第一話→so34845572
+  length_seconds: 1370
+  content_id: so34845564
+  default_thread_id: 1553482152
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845564.6287
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: へこたれてジャーキング
+  description: 夏休み。自分のタックルを買いたいと思うユキは、ハル・夏樹と一緒に 釣り船での短期バイトをする事に。しかコミュニケーションの下手なユキは、
+    客と上手く接する事ができず、初日から失敗ばかりしてしまい……。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845564←前話｜次話→so34845566　第一話→so34845572
+  length_seconds: 1370
+  content_id: so34845565
+  default_thread_id: 1553482154
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845565.42507
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 戦慄のスプラッシュ
+  description: 入院していたケイトが退院できる事になった。そのお祝いにマグロを釣ってプレゼントしようと決意するユキ。夏樹やハルにも協力してもらいマグロ釣りに挑戦するが、その道は険しく……。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845565←前話｜次話→so34845567　第一話→so34845572
+  length_seconds: 1369
+  content_id: so34845566
+  default_thread_id: 1553482160
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845566.89331
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 切なくてカウントダウン
+  description: マグロ釣りから戻ってからというもの、ハルの様子がおかしい。釣りを｢しない!｣と言い始めているのだ。何かが変化し始めていた。そんな中、夏樹の誕生日がやってくる。妹のサクラを始め、皆でお祝いするのだが当の夏樹は浮かない顔で……<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845566←前話｜次話→so34845568　第一話→so34845572
+  length_seconds: 1370
+  content_id: so34845567
+  default_thread_id: 1553481978
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845567.70319
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 嬉しくてファイティング
+  description: さくらが姿を消した。必死で探す一同。夏樹の家族のぶつかり合いと、絆を目の当たりにしたユキは、初めて自分がずっと抱えてきた気持ちに気付き、そしてそれを言葉にする。一方で、ハルも気付いていた。ずっとこのままではいられない事に……。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845567←前話｜次話→so34845569　第一話→so34845572
+  length_seconds: 1369
+  content_id: so34845568
+  default_thread_id: 1553482156
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845568.19939
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 衝撃のアンダーウォーター
+  description: "｢あいつ｣の力が増大し、人々に影響が出始めた。事態を受けDUCKの戦闘部隊が上陸する。騒然とする江の島。DUCKの目的は｢あいつ｣への攻撃とハルの捕獲。ハルをかばい、作戦から外されてしまうアキラ。禍中のハルはその頃、ケイトやユキに水鉄砲を向けていた……<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845568←前話｜次話→so34845570　第一話→so34845572"
+  length_seconds: 1370
+  content_id: so34845569
+  default_thread_id: 1553482277
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845569.20529
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 俺たちのタックル
+  description: 避難命令の出された江の島島内で、ハルは一人｢あいつ｣に立ち向かう決意をする。一方で、アキラ、夏樹たちは皆で一緒に｢あいつ｣捕獲へと行動を起こす。そしてユキも、ハルに真意を聞くため、江の島へ舞い戻ってきた。皆が再び揃い｢あいつ｣との釣り勝負に挑もうとしたその時…。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845569←前話｜次話→so34845571　第一話→so34845572
+  length_seconds: 1369
+  content_id: so34845570
+  default_thread_id: 1553482085
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845570.43075
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 伝説のビッグフィッシュ
+  description: 爆撃から歩が守り抜いたタックルを手に、4人は青春丸に乗り込み、＂あいつ＂を釣り上げに向かう。沖へ着いた彼らが見たものは、常識をはるかに超える巨大なナブラだった。だがユキはそれにもひるまず、ナブラヘ向けルアーを投げる。全ては友達のため。しかし……。<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845570←前話｜次話→so34845810　第一話→so34845572
+  length_seconds: 1370
+  content_id: so34845571
+  default_thread_id: 1553482273
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845571.8014
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: さよならのフィッシング
+  description: 神社から持ってきた伝説のルアーが壊れてしまった。窮地に立たされるユキたち。皆を巻き込まないため、一人で＂あいつ＂のところへ向かおうとするハルを制しながらも、ユキは対策を考える。結果浮かんだ答えは?そして4人のラストフィッシングの行方は……?!<br><br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)<br><br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1
+    Pictures<br><br>©tsuritama partners<br><br>so34845571←前話　第一話→so34845572
+  length_seconds: 1369
+  content_id: so34845810
+  default_thread_id: 1553484845
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34845810.33967
+cast: "[キャスト]<br>キャスト:真田ユキ(CV：逢坂良太)、ハル(CV：入野自由)"
+staff: "[スタッフ]<br>監督:中村健治／シナリオ(シリーズ構成):大野敏哉／スタジオ:A-1 Pictures"
+produced_year: "[製作年]<br>2012年"
+copyright: "©tsuritama partners"
+related_seasons: !ruby/array:Hashie::Array []

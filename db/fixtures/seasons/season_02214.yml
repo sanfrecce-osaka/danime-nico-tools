@@ -1,0 +1,149 @@
+--- !ruby/hash:SeasonHash
+title: 東京マグニチュード８．０
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/19/4/11194_1_6.png?1552445012000
+outline: 夏休みに入ったばかりのお台場。中学1年生の未来は、弟の悠貴に付き合わされロボット展を見に来ていた。はしゃぐ弟を横目に、反抗期真っ盛りの未来は退屈そうにケータイをいじっている。「毎日毎日ヤなことばっかり…。いっそのこと、こんな世界、壊れちゃえばいいのに」そう思った瞬間、突然地面が激しく揺れた。東京を襲った、マグニチュード8.0の海溝型大地震。連絡橋は崩れ落ち、東京タワーは倒壊―。一瞬にしてすべてが変わった東京。未来は悠貴の手をひき、お台場で出会ったバイク便ライダー・真理の力を借りながら世田谷にある自宅へ向かう。果たして3人は無事に家に帰ることができるのか―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アニメーション制作：ボンズ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：キネマシトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：橘正紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 2009年夏
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 高橋ナツコ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: お台場、沈む
+  description: 未来は中学1年生。なんとなく今の生活に満ち足りなさを感じている、どこにでもいる女の子。夏休みだというのに特に予定もなく、親には弟・悠貴の面倒を押しつけられる始末。だが二人で出かけたお台場で、姉弟はマグニチュード8.0の巨大地震に見舞われた！！<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>次話→so34846161
+  length_seconds: 1380
+  content_id: so34846160
+  default_thread_id: 1553490662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846160.22143
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 壊れる、世界
+  description: 被災後、離ればなれになってしまった悠貴を探して、未来は半壊した建物へ飛び込んでいく。逃げ惑う人々で入り乱れる中、真理の助けを借りながら探索をすすめるが、余震、火事、液状化と、立て続けに発生していく二次災害がそれを阻む。はたして二人は再会できるのか！？<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846160←前話｜次話→so34846162　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846161
+  default_thread_id: 1553490482
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846161.44084
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 燃える、橋
+  description: 途中知り合った真理とともに、自宅に向けて帰宅することとなった未来と悠貴。一晩あけて被害状況が明らかになっていく中、水上バスでお台場を脱出するべく、海上保安庁の誘導で桟橋へと移動する。余震によるパニックに巻き込まれながらも、三人はなんとか船に乗り込むことができたが…。<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846161←前話｜次話→so34846108　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846162
+  default_thread_id: 1553490905
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846162.41820
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 三人の、約束
+  description: 広域避難所となっている芝公園で、自治体や自衛隊、企業の支援を受ける三人。水や乾パンなどの支援物資をもらい一息つくのもつかの間、未来の不満は悠貴への八つ当たりとなり、大げんか。しかし、余震とともに東京タワー下に現れた活断層が、そのすべてを消し去っていく！！<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846162←前話｜次話→so34846109　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846108
+  default_thread_id: 1553489222
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846108.57267
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 慟哭の、学び舎
+  description: 未来の通っていた中学校に立ち寄ると、そこは帰宅困難者であふれかえっていた。冷たくなった遺体も多数運び込まれ、見慣れた学校の変貌ぶりに心を痛める。未来はそこで、ボランティアとして活動している老夫婦に優しくされ、真理を含めた大人達の見方を改め、自分にもできることを模索するのだった。<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846108←前話｜次話→so34846110　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846109
+  default_thread_id: 1553489224
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846109.80104
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 見捨てる、選択
+  description: 麻布十番を経由して世田谷を目指す一行。だが移動中、三軒茶屋焼失のニュースを耳にする。真理はより多くの情報を求めようとするが、都合良く手に入れる術も無いまま、体調を崩してしまう。そこで未来と悠貴は、真理が一刻も早く自宅に帰られるよう、一つのアイディアを実行に移す。<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846109←前話｜次話→so34846111　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846110
+  default_thread_id: 1553489227
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846110.1943
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 夏の夕暮れ
+  description: ハイパーレスキュー隊が用いる救助ロボを追い求める少年、健斗と知り合う未来と悠貴。最初はロボットオタクとバカにしていたが、将来のことを真剣に考えている彼の言動に、徐々に惹かれていく。そんな中、追いかけていた救助ロボと共に瓦礫の中に閉じ込められてしまう！<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846110←前話｜次話→so34846112　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846111
+  default_thread_id: 1553489042
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846111.9334
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: まっしろな朝
+  description: 突如、意識を失い倒れる悠貴。トリアージされ病院へと運ばれるが、症状は芳しくない。すぐに手術をすることとなり、気が気でないまま、未来と真理はひたすら待つことに。だが、目覚めた未来の目の前には、元気な姿の悠貴が現れる。再び自宅をめざし、旅を始める三人だが…。<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846111←前話｜次話→so34846085　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846112
+  default_thread_id: 1553488982
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846112.60568
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 今日、さよなら
+  description: たどり着いた三軒茶屋。しかし、火災による損害は真理の想像を遙かに超えていた。必死になって娘と母親を探し求めるが、様々な憶測や風評に惑わされ、居場所もわからなければ、生死も不明であった。そんなとき、未来と悠貴の機転が功を奏し、真理は二人と再会する。<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846112←前話｜次話→so34846084　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846085
+  default_thread_id: 1553488682
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846085.41385
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: おねえちゃん、あのね
+  description: 真理と別れた二人。自宅までもう一息というところで、悠貴の小学校へ立ち寄ることに。そこで未来は悠貴の足跡を見るが、それらを見るたびに、なぜか涙があふれ出てくる。悠貴はここに居るはずなのに、なぜ？
+    疑念を払拭できぬまま、未来は悠貴と共に自宅へと向かう。<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘 正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846085←前話｜次話→so34846083　第一話→so34846160
+  length_seconds: 1380
+  content_id: so34846084
+  default_thread_id: 1553488447
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846084.57406
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 悠貴へ…
+  description: ようやく到着した自宅。久しぶりの家族との再会。地震で多くを失った未来は心に空白を抱えたまま、時は過ぎていく。両親に挨拶に来た真理から、以前投げ捨てた携帯電話を手渡される未来。一ヶ月ぶりに電源をいれた携帯電話には、たくさんのメッセージが残されていた。<br><br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）<br><br>監督:橘
+    正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス<br><br>©東京マグニチュード8.0製作委員会<br><br>so34846084←前話　第一話→so34846160
+  length_seconds: 1375
+  content_id: so34846083
+  default_thread_id: 1553488454
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846083.9989
+cast: "[キャスト]<br>小野沢未来:（花村怜美）／小野沢悠貴:（小林由美子）"
+staff: "[スタッフ]<br>監督:橘 正紀／シナリオ（シリーズ構成）:高橋ナツコ／スタジオ:ボンズ/キネマシトラス"
+produced_year: "[製作年]<br>2009年"
+copyright: "©東京マグニチュード8.0製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

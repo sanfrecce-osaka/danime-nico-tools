@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: 爆丸バトルプラネット
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/70/0/22700_1_6.png?1552879884000
+outline: "『爆丸バトルプラネット』の物語は、謎多き惑星が、地球と衝突したところから始まる。その大事件から12年後、インターネットスターを目指すダンたちオーサムワンのメンバーは、地球と謎の惑星が衝突した場所にて、インターネットにあげる面白動画を撮ろうとしていると、大きな赤いドラゴンへと変身する「ドラゴ」と名乗る爆丸に出会う。各地で同じように、子供たちが爆丸を手に入れ様々なトラブルが起こる中、ダンとオーサムワンのメンバーは、パートナーとなった爆丸たちと絆を深めながらトラブルを解決していく。しかしその裏では、強大な力を持つ闇の存在が産声をあげようとしていた……。ダンとドラゴ、そしてその仲間たちの闘いがいま始まる！！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤﨑千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋李依
+  type: cast
+- !ruby/hash:TagHash
+  name: 武内駿輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 福島潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江瞬
+  type: cast
+- !ruby/hash:TagHash
+  name: 市川蒼
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶川翔平
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田アキ
+  type: cast
+- !ruby/hash:TagHash
+  name: 神原大地
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高梨康治
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：トムス・エンタテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：市川量也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：SPIN MASTER
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：髙田真理
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 爆丸ブロー！！／爆丸バトル！！
+  description: 'ダン、ウィントン、リアは動画サイトにおもしろ映像をＵＰするのが大好き！！　ある時、１２年前にあった大事件「グレートコリジョン」の謎を調べて映像に撮ろうとしたところ、爆丸という不思議な生き物と遭遇する。／爆丸と出会ったオーサムワンは大はしゃぎ！　爆丸について自分たちで色々調べていると、マグナスという謎の少年がダンに爆丸バトルを仕掛けてくる！<br><br>ダン:高橋李依／ウィントン:福島潤／リア:赤﨑千夏／シュン:内山夕実／ライトニング:金田アキ／マグナス:梶川翔平／ドラゴ:武内駿輔／トゥロックス:堀江瞬／ペガトリクス:名塚佳織／ハイドロス:市川蒼／ハウルカー:神原大地<br><br>原作:SPIN
+    MASTER／原案:杉本 道俊／監督:市川 量也／チーフライター:犬飼 和彦／キャラクターデザイン:髙田 真理／爆丸（モンスター）デザイン:大西 佑希／音響監督:はた
+    しょう二／音楽: 高梨 康治 (Team－MAX)／アニメーション制作:トムス・エンタテインメント／アニメーション制作協力:スタジオ雲雀<br><br>©S/T/N/BBP
+    PROJECT, TV TOKYO'
+  length_seconds: 1480
+  content_id: so34890498
+  default_thread_id: 1554083946
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34890498.70009
+cast: "[キャスト]<br>ダン:高橋李依／ウィントン:福島潤／リア:赤﨑千夏／シュン:内山夕実／ライトニング:金田アキ／マグナス:梶川翔平／ドラゴ:武内駿輔／トゥロックス:堀江瞬／ペガトリクス:名塚佳織／ハイドロス:市川蒼／ハウルカー:神原大地"
+staff: "[スタッフ]<br>原作:SPIN MASTER／原案:杉本 道俊／監督:市川 量也／チーフライター:犬飼 和彦／キャラクターデザイン:髙田 真理／爆丸（モンスター）デザイン:大西
+  佑希／音響監督:はた しょう二／音楽: 高梨 康治 (Team－MAX)／アニメーション制作:トムス・エンタテインメント／アニメーション制作協力:スタジオ雲雀"
+produced_year: "[製作年]<br>2019年"
+copyright: "©S/T/N/BBP PROJECT, TV TOKYO"
+related_seasons: !ruby/array:Hashie::Array []

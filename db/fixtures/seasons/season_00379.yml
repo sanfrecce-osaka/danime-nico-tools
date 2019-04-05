@@ -679,4 +679,10 @@ staff: "[スタッフ]<br>原作:タカラトミーアーツ、シンソフィ�
   A&E"
 produced_year: "[製作年]<br>2018年"
 copyright: "©Ｔ－ＡＲＴＳ / syn Sophia / テレビ東京 / ＰＣＨ製作委員会"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 劇場版 プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～ - プリティーリズム オーロラドリームのコース
+- !ruby/hash:SeasonHash
+  title: 劇場版 プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～ - プリティーリズム ディアマイフューチャーのコース
+- !ruby/hash:SeasonHash
+  title: 劇場版 プリパラ＆キラッとプリ☆チャン ～きらきらメモリアルライブ～ - プリティーリズム レインボーライブのコース
