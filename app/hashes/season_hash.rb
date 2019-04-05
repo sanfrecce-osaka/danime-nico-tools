@@ -59,10 +59,6 @@ class SeasonHash < BaseHash
     watchable && episodes.blank?
   end
 
-  def title_for_regexp
-    "(?:#{titles_with_pipe})"
-  end
-
   def original_or_different_title
     season_with_different_title = Scraping::DanimeNicoBranchStore.find_season_with_different_title(self)
     season_with_different_title.present? ? season_with_different_title.different_titlt : title
@@ -72,11 +68,5 @@ class SeasonHash < BaseHash
 
   def episode_without_episode_no_and_title?(episode)
     title == episode.title && episode.episode_no.blank?
-  end
-
-  def titles_with_pipe
-    [title, Scraping::DanimeNicoBranchStore.find_season_with_different_title(self)&.different_title]
-      .reject(&:nil?)
-      .join('|')
   end
 end
