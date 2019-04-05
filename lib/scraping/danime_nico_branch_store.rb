@@ -46,6 +46,11 @@ module Scraping
         initialize_season_including_different_title_episodes(season)
       end.freeze
 
+    SEASONS_WITH_DIFFERENT_TITLE =
+      Settings.seasons_with_different_title.map do |season|
+        initialize_season_with_different_title(season)
+      end.freeze
+
     class << self
       def find_season_including_nonexistent_episodes(season)
         Scraping::DanimeNicoBranchStore::SEASONS_INCLUDING_NONEXISTENT_EPISODES
