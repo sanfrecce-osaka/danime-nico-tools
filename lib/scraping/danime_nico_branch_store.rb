@@ -34,6 +34,13 @@ module Scraping
           end.freeze
         ).freeze
       end
+
+      def initialize_season_with_different_title(season)
+        SeasonHash.new(
+          title: season.title.freeze,
+          different_title: season.different_title.freeze
+        )
+      end
     end
 
     SEASONS_INCLUDING_NONEXISTENT_EPISODES =
