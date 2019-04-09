@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：サテライト
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：小野勝巳
+  name: 音楽制作：エイベックス・ピクチャーズ
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：エイベックス・ピクチャーズ
+  name: 監督：小野勝巳
   type: staff
 - !ruby/hash:TagHash
   name: 原作：電撃文庫

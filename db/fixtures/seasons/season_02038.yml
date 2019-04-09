@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 青山穣
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木崚汰
+  name: 古賀葵
   type: cast
 - !ruby/hash:TagHash
-  name: 古賀葵
+  name: 鈴木崚汰
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：A-1 Pictures

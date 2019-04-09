@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 津田美波
+  name: 上田麗奈
   type: cast
 - !ruby/hash:TagHash
-  name: 上田麗奈
+  name: 津田美波
   type: cast
 - !ruby/hash:TagHash
   name: 蒼井翔太
