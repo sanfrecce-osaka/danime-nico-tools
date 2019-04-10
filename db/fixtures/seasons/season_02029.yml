@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 赤尾ひかる
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：Studio五組
+  name: 音楽：藤澤慶昌
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：藤澤慶昌
+  name: アニメーション制作：Studio五組
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：飯塚晴子

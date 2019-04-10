@@ -23,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 蒼井翔太
   type: cast
 - !ruby/hash:TagHash
-  name: 染谷俊之
-  type: cast
-- !ruby/hash:TagHash
   name: 橋本祥平
   type: cast
 - !ruby/hash:TagHash
   name: 財木琢磨
+  type: cast
+- !ruby/hash:TagHash
+  name: 染谷俊之
   type: cast
 - !ruby/hash:TagHash
   name: 大塚剛央
