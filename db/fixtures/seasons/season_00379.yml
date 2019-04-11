@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: 徳井青空
   type: cast
 - !ruby/hash:TagHash
-  name: 芹澤優
+  name: 茜屋日海夏
   type: cast
 - !ruby/hash:TagHash
-  name: 茜屋日海夏
+  name: 芹澤優
   type: cast
 - !ruby/hash:TagHash
   name: 久保田未夢

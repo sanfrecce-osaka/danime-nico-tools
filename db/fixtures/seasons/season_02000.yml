@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 阿部敦
   type: cast
 - !ruby/hash:TagHash
-  name: 八代拓
+  name: 佐藤拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤拓也
+  name: 八代拓
   type: cast
 - !ruby/hash:TagHash
   name: 武内駿輔
