@@ -9,6 +9,7 @@
     = stylesheet_pack_tag 'application'
     = analytics_init if Rails.env.production?
     %link{href: 'https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;subset=japanese', rel: 'stylesheet'}
+    %meta{name: 'viewport',content:'width=device-width, initial-scale=1, shrink-to-fit=no'}
   %body
     - unless current_page?(root_path)
       = render 'header'
