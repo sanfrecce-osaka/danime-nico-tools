@@ -30,10 +30,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 茅原実里
+  name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 島﨑信長
+  name: 茅原実里
   type: cast
 - !ruby/hash:TagHash
   name: 野水伊織
