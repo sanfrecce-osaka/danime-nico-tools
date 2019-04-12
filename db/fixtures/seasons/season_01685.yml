@@ -576,3 +576,5 @@ copyright: "©LEVEL-5/妖怪ウォッチプロジェクト・テレビ東京"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: 妖怪ウォッチ
+- !ruby/hash:SeasonHash
+  title: 妖怪ウォッチ！
