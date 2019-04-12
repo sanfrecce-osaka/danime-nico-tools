@@ -7,4 +7,5 @@
         .d-md-none.d-lg-flex
           = render 'season_search_form', season_search_form: @season_search_form
         .d-lg-none.d-md-flex.justify-content-end.h-100
-          %i.fas.fa-search
+          = link_to '#season-search-form', class: 'btn header__search-btn', 'data-toggle': 'collapse', role: 'button', 'aria-expanded': 'false', 'aria-controls': 'season-search-form' do
+            %i.fas.fa-search
