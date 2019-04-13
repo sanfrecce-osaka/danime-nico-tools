@@ -68,4 +68,6 @@ cast: "[キャスト]<br>ミョウ:村瀬歩／ダイスウ:内田雄馬／ド�
 staff: "[スタッフ]<br>原作:特雷西胡（「漫漫漫画」連載）／監督・演出:菅野千愛／脚本:monofilmo／音響監督:近貞博／音響制作:アルケミーブラザース／アニメーション制作:monofilmo"
 produced_year: "[製作年]<br>2018年"
 copyright: "© 特雷西胡／「ほら耳」製作委員会"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ほら、耳がみえてるよ！第2期
