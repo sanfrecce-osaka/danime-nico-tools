@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: フルーツバスケット 1st season
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/68/0/22680_1_6.png?1553495408000
+outline: 高校生の本田透は、唯一の家族だった母親を亡くしてから一人でテント暮らしをしていた。ところが、テントを張ったその場所は由緒正しい『草摩家』の敷地内だった！草摩紫呉に家事の腕を買われた透は、学校の王子様的存在の草摩由希、そして由希を敵視する草摩夾と一緒に住むことに。しかし、透はまだ知らない。『草摩家』が何百年も前からある呪いに縛られていることを……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 島﨑信長
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 興津和幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 潘めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 種﨑敦美
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川慎
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：トムス・エンタテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：横山克
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：井端義秀
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：進藤優
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：高屋奈月
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：トムス・ミュージック
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "＃１"
+  title: 行ってきます
+  description: 高校生の本田透は、通りがかった家で十二支の置物を見つけて母親から聞いた昔話――子（ネズミ）に騙されて宴に参加できなかった可哀そうな猫のお話――を思い出す。それが縁で家主の草摩紫呉、そして紫呉の親戚で眉目秀麗な王子様的存在のクラスメイトである草摩由希と仲良くなるが、由希はどうしてか猫が嫌いなようで……。<br><br>本田透:石見舞菜香／草摩由希:島﨑信長／草摩夾:内田雄馬／草摩紫呉:中村悠一／草摩楽羅:釘宮理恵／草摩紅葉:潘めぐみ／草摩潑春:古川慎／草摩はとり:興津和幸／草摩綾女:櫻井孝宏／草摩慊人:坂本真綾／魚谷ありさ:種﨑敦美／花島咲:佐藤聡美／本田今日子:沢城みゆき
+    ほか<br><br>原作・総監修:高屋奈月「フルーツバスケット」（白泉社・花とゆめCOMICS）／監督:井端義秀／シリーズ構成:岸本 卓／キャラクターデザイン:進藤
+    優／美術監督:神山瑶子／色彩設計:菅原美佳／撮影監督:設楽 希／編集:肥田 文／音響監督:明田川 仁／音楽:横山 克／音楽制作:トムス・ミュージック／アニメーション制作:トムス・エンタテインメント／製作:フルーツバスケット製作委員会<br><br>©高屋奈月・白泉社／フルーツバスケット製作委員会<br><br>次話→so34932399
+  length_seconds: 1430
+  content_id: so34932400
+  default_thread_id: 1554686286
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34932400.38694
+cast: "[キャスト]<br>本田透:石見舞菜香／草摩由希:島﨑信長／草摩夾:内田雄馬／草摩紫呉:中村悠一／草摩楽羅:釘宮理恵／草摩紅葉:潘めぐみ／草摩潑春:古川慎／草摩はとり:興津和幸／草摩綾女:櫻井孝宏／草摩慊人:坂本真綾／魚谷ありさ:種﨑敦美／花島咲:佐藤聡美／本田今日子:沢城みゆき
+  ほか"
+staff: "[スタッフ]<br>原作・総監修:高屋奈月「フルーツバスケット」（白泉社・花とゆめCOMICS）／監督:井端義秀／シリーズ構成:岸本 卓／キャラクターデザイン:進藤
+  優／美術監督:神山瑶子／色彩設計:菅原美佳／撮影監督:設楽 希／編集:肥田 文／音響監督:明田川 仁／音楽:横山 克／音楽制作:トムス・ミュージック／アニメーション制作:トムス・エンタテインメント／製作:フルーツバスケット製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©高屋奈月・白泉社／フルーツバスケット製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: フルーツバスケット

@@ -1,0 +1,86 @@
+--- !ruby/hash:SeasonHash
+title: Fairy gone フェアリーゴーン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/67/6/22676_1_6.png?1553562168000
+outline: かつて妖精は、“兵器”だった―。この世界には、動物に憑依することで不思議な力を宿す妖精が存在していた。妖精が憑依した動物の臓器を摘出し、人間に移植することで、妖精を分身として出現させ、兵器として扱えるようになる。妖精を戦争の道具として自在に操る兵士たち、彼らは『妖精兵』と呼ばれた。だが、長きにわたる戦争が終結すると、彼らはその役目を果たし、行き場を失ってしまう。あるものは政府に、あるものはマフィアに、あるものはテロリストに、それぞれの生きる道を選択していった。戦争から9年の歳月が経つ。未だ不安定な政治情勢の中、戦争によって受けた傷や過去を持つ犯罪者が現れ、復讐のためテロを起こすようになっていた。主人公の少女マーリヤは、ある事件に関わった事から妖精に関連する事件を捜査・鎮圧する違法妖精取締機関『ドロテア』に入隊することとなる。これは、無秩序な戦後に抗い、それぞれの正義を求め戦う『妖精兵』たちの物語―。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 興津和幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿美菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 東地宏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 麦人
+  type: cast
+- !ruby/hash:TagHash
+  name: 諏訪彩花
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：清水貴子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鈴木健一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Five fairy scholars
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: "『灰かぶりの少女』"
+  description: 大戦が終わり９年。マーリヤ・ノエルは違法に妖精を取引するオークションで幼なじみ、ヴェロニカ・ソーンと再会する。だが彼女は、二人の故郷を焼いた男への復讐者となり果てていた。潜入捜査していた違法妖精取締機関『ドロテア』のフリー・アンダーバーと戦うヴェロニカを、マーリヤは止めようとし──<br><br>マーリヤ・ノエル:市ノ瀬加那／フリー・アンダーバー:前野智昭／ヴェロニカ・ソーン:福原綾香／ウルフラン・ロウ:細谷佳正／クラーラ・キセナリア:諏訪彩花／セルジュ・トーヴァ:中島ヨシキ／ネイン・アウラー:園崎未恵／ダミアン・カルメ:子安武人／マルコ・ベルウッド:大塚芳忠／レイ・ドーン:津田英三／リリー・ハイネマン:種﨑敦美／ロバート・チェイス:沖野晃司／エレノア・ニード:小松未可子／オズ・メア:間宮康弘／グリフ・マーサー:津田健次郎／カイン・ディスタロル:麦人／アクセル・ラブー:川田紳司／“スウィーティー”ビター・スウィート:寿美菜子／パトリシア・パール:井口裕香／ジョナサン・パスピエール:興津和幸／ビーヴィー・リスカー:江川央生／ソフィー:伊藤静／シュヴァルツ・ディーゼ:土師孝也／ジェット・グレイブ:東地宏樹／ユアン・ブリーズ:乃村健次／チマ:古賀葵<br><br>監督:鈴木健一／原作:Five
+    fairy scholars／脚本:十文字青／キャラクター原案・妖精原案:中田春彌／キャラクターデザイン:清水貴子／美術監督:東潤一／色彩設計:中野尚美／撮影監督:江間常高<br><br>©2019
+    Five fairy scholars ／ フェアリーゴーン製作委員会<br><br>次話→so34972155
+  length_seconds: 1420
+  content_id: so34932401
+  default_thread_id: 1554686546
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34932401.87341
+cast: "[キャスト]<br>マーリヤ・ノエル:市ノ瀬加那／フリー・アンダーバー:前野智昭／ヴェロニカ・ソーン:福原綾香／ウルフラン・ロウ:細谷佳正／クラーラ・キセナリア:諏訪彩花／セルジュ・トーヴァ:中島ヨシキ／ネイン・アウラー:園崎未恵／ダミアン・カルメ:子安武人／マルコ・ベルウッド:大塚芳忠／レイ・ドーン:津田英三／リリー・ハイネマン:種﨑敦美／ロバート・チェイス:沖野晃司／エレノア・ニード:小松未可子／オズ・メア:間宮康弘／グリフ・マーサー:津田健次郎／カイン・ディスタロル:麦人／アクセル・ラブー:川田紳司／“スウィーティー”ビター・スウィート:寿美菜子／パトリシア・パール:井口裕香／ジョナサン・パスピエール:興津和幸／ビーヴィー・リスカー:江川央生／ソフィー:伊藤静／シュヴァルツ・ディーゼ:土師孝也／ジェット・グレイブ:東地宏樹／ユアン・ブリーズ:乃村健次／チマ:古賀葵"
+staff: "[スタッフ]<br>監督:鈴木健一／原作:Five fairy scholars／脚本:十文字青／キャラクター原案・妖精原案:中田春彌／キャラクターデザイン:清水貴子／美術監督:東潤一／色彩設計:中野尚美／撮影監督:江間常高"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019 Five fairy scholars ／ フェアリーゴーン製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

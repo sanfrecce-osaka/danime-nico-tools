@@ -1,0 +1,97 @@
+--- !ruby/hash:SeasonHash
+title: BAKUMATSUクライシス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/69/1/22691_1_6.png?1553495437000
+outline: ある日、黒船が天（そら）から降ってきた――。One day, a black ship fell from the sky...
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 代永翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 武内駿輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 真堂圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下七海
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：坂部剛
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：島村秀一
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：川﨑龍
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：サトウ光敏
+  type: staff
+- !ruby/hash:TagHash
+  name: BAKUMATSUシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: クロフネ襲来　無限斎の帰還！
+  description: "「俺達にはまだやるべき事がある」萩にて吉田松陰の墓参りを終えた高杉晋作と桂小五郎。刻（とき）を操る秘宝・時辰儀によって狂った刻の流れを本来の正しき刻の流れに戻すべく、京の都に戻ってきた。その時、地響きとともに空が割れ、“時空の裂け目”から、破壊したはずの時辰儀が出現。“意志”を持ち始めた時辰儀が、制御不能の暴走を開始する！さらに因縁の好敵手として立ちはだかるのは、先の戦で副長・土方歳三を失った新撰組!!局長・近藤勇が口にしたのはなんと、新たな“無限斎（むげんさい）”の存在だった――。<br><br>高杉晋作:中村悠一／桂小五郎:江口拓也／坂本龍馬:三木眞一郎／岡田以蔵:松岡禎丞／土方歳三:染谷俊之／近藤
+    勇:佐藤拓也／沖田総司:代永 翼／斎藤 一:多田啓太／徳川慶喜:鈴木達央／山崎 烝:八代 拓／帝:武内駿輔／晴明:中島ヨシキ／霞:真堂 圭／雹:山下七海／森
+    蘭丸:花守ゆみり／二代目無限斎:？？？<br><br>原案:「恋愛幕末カレシ～時の彼方で花咲く恋～」（フリュー）／監督:サトウ光敏／シリーズ構成:横谷昌宏／アニメキャラクター原案:夏生／アニメキャラクターデザイン:島村秀一／色彩設計:桂木今里／美術監督:佐藤豪志／撮影監督:下崎
+    昭／編集:小池祐樹／音響監督:藤野貞義／音楽:川﨑 龍・坂部 剛／アニメーション制作:スタジオディーン<br><br>© FURYU／BAKUMATSU製作委員会<br><br>次話→so34932390"
+  length_seconds: 1445
+  content_id: so34932391
+  default_thread_id: 1554686404
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34932391.54539
+cast: "[キャスト]<br>高杉晋作:中村悠一／桂小五郎:江口拓也／坂本龍馬:三木眞一郎／岡田以蔵:松岡禎丞／土方歳三:染谷俊之／近藤 勇:佐藤拓也／沖田総司:代永
+  翼／斎藤 一:多田啓太／徳川慶喜:鈴木達央／山崎 烝:八代 拓／帝:武内駿輔／晴明:中島ヨシキ／霞:真堂 圭／雹:山下七海／森 蘭丸:花守ゆみり／二代目無限斎:？？？"
+staff: "[スタッフ]<br>原案:「恋愛幕末カレシ～時の彼方で花咲く恋～」（フリュー）／監督:サトウ光敏／シリーズ構成:横谷昌宏／アニメキャラクター原案:夏生／アニメキャラクターデザイン:島村秀一／色彩設計:桂木今里／美術監督:佐藤豪志／撮影監督:下崎
+  昭／編集:小池祐樹／音響監督:藤野貞義／音楽:川﨑 龍・坂部 剛／アニメーション制作:スタジオディーン"
+produced_year: "[製作年]<br>2019年"
+copyright: "© FURYU／BAKUMATSU製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BAKUMATSU

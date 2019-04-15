@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: 鬼滅の刃
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/67/5/22675_1_6.png?1553502608000
+outline: 時は大正、日本。炭を売る心優しき少年・炭治郎は、ある日鬼に家族を皆殺しにされてしまう。さらに唯一生き残った妹の襧豆子は鬼に変貌してしまった。絶望的な現実に打ちのめされる炭治郎だったが、妹を人間に戻し、家族を殺した鬼を討つため、“鬼狩り”の道を進む決意をする。人と鬼とが織りなす哀しき兄妹の物語が、今、始まる――！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚芳忠
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：梶浦由記
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ufotable
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：椎名豪
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松島晃
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：外崎春雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吾峠呼世晴
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+- !ruby/hash:TagHash
+  name: タイトルに鬼がつく
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 残酷
+  description: 時は大正。竈門炭治郎は、家族とともに山でつつましくも幸せな日々をおくっていた。ある日、町で炭を売りに出かけた炭治郎が山に戻ると、家族は鬼に襲われ血だまりの中で絶命していた。唯一、一命をとりとめていた妹・襧豆子を救うべく、降りしきる雪の中背中に背負い必死に雪山を下りる炭治郎。その途中、襧豆子は突然唸り声を上げ、炭治郎に襲いかかる。<br><br>竈門炭治郎:花江夏樹／竈門襧豆子:鬼頭明里／我妻善逸:下野
+    紘／嘴平伊之助:松岡禎丞／冨岡義勇:櫻井孝宏／鱗滝左近次:大塚芳忠／錆兎:梶 裕貴／真菰:加隈亜衣／玄弥:岡本信彦／産屋敷耀哉:森川智之／案内役・黒髪:悠木
+    碧／案内役・白髪:井澤詩織／鋼鐡塚:浪川大輔／鎹鴉:山崎たくみ／お堂の鬼:緑川 光／手鬼:子安武人<br><br>原作:吾峠呼世晴（集英社「週刊少年ジャンプ」連載）／監督:外崎春雄／キャラクターデザイン:松島
+    晃／サブキャラクターデザイン:佐藤美幸、梶山庸子、菊池美花／脚本制作:ufotable／コンセプトアート:衛藤功仁、矢中勝、竹内香純、樺澤侑里／撮影監督:寺尾優一／3D
+    監督:西脇一樹／色彩設計:大前祐子／編集:神野 学／音楽:梶浦由記、椎名 豪／制作プロデューサー:近藤 光／アニメーション制作:ufotable<br><br>©吾峠呼世晴／集英社・アニプレックス・ufotable<br><br>次話→so34954673
+  length_seconds: 1420
+  content_id: so34913720
+  default_thread_id: 1554440462
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913720.15846
+cast: "[キャスト]<br>竈門炭治郎:花江夏樹／竈門襧豆子:鬼頭明里／我妻善逸:下野 紘／嘴平伊之助:松岡禎丞／冨岡義勇:櫻井孝宏／鱗滝左近次:大塚芳忠／錆兎:梶
+  裕貴／真菰:加隈亜衣／玄弥:岡本信彦／産屋敷耀哉:森川智之／案内役・黒髪:悠木 碧／案内役・白髪:井澤詩織／鋼鐡塚:浪川大輔／鎹鴉:山崎たくみ／お堂の鬼:緑川
+  光／手鬼:子安武人"
+staff: "[スタッフ]<br>原作:吾峠呼世晴（集英社「週刊少年ジャンプ」連載）／監督:外崎春雄／キャラクターデザイン:松島 晃／サブキャラクターデザイン:佐藤美幸、梶山庸子、菊池美花／脚本制作:ufotable／コンセプトアート:衛藤功仁、矢中勝、竹内香純、樺澤侑里／撮影監督:寺尾優一／3D
+  監督:西脇一樹／色彩設計:大前祐子／編集:神野 学／音楽:梶浦由記、椎名 豪／制作プロデューサー:近藤 光／アニメーション制作:ufotable"
+produced_year: "[製作年]<br>2019年"
+copyright: "©吾峠呼世晴／集英社・アニプレックス・ufotable"
+related_seasons: !ruby/array:Hashie::Array []

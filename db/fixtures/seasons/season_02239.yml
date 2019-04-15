@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: 川柳少女
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/72/7/22727_1_6.png?1553650427000
+outline: 言いたいことは五七五の川柳で伝える女の子・雪白七々子と、見た目は怖いけど心優しい文芸部の毒島エイジ。 たった１７音で紡がれる二人の日常は、いつだって幸せいっぱい！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢作紗友里
+  type: cast
+- !ruby/hash:TagHash
+  name: 久野美咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 畠中祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 逢田梨香子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：立山秋航
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神保昌登
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：CONNECT
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：橋本真希
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：五十嵐正邦
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 五七五系女子
+  description: 桜咲く　君との出会いが　嬉しくて　季節は春、言いたいことは五・七・五で伝える雪白七々子。彼女の日常は少し変わっていて・・・目つきが悪い毒島エイジの為、笑顔の練習を提案してみるも上手くいかない。今日も部長の片桐アマネと一緒に川柳を詠むのだが・・・<br><br>雪白七々子:花澤香菜／毒島エイジ:畠中
+    祐／片桐アマネ:矢作 紗友里／大月琴:逢田梨香子／矢工部キノ:久野美咲／花買タオ:上坂すみれ<br><br>原作:五十嵐正邦『川柳少女』（講談社「週刊少年マガジン」連載）／監督・シリーズ構成:神保昌登／キャラクターデザイン:橋本真希／音楽:立山秋航／音響監督:土屋雅紀／音響制作:grooove／色彩設計:岡
+    亮子／美術監督:高橋 忍／撮影監督:佐藤 敦／編集:近藤勇二／アニメーション制作:CONNECT／製作:川柳少女製作委員会<br><br>©五十嵐正邦・講談社／川柳少女製作委員会<br><br>次話→so34943570
+  length_seconds: 733
+  content_id: so34913222
+  default_thread_id: 1554428653
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913222.39372
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 七々子のダイエット
+  description: ヤンキーの　姉キがどえらい　巨乳美人　エイジの幼馴染、大月琴も登場して更に賑やかになる七々子の周り。放課後になり部活では、周りから敬遠されるエイジの好感度を上げる会が開催されるが、どんどん話は脱線していって・・・<br><br>雪白七々子:花澤香菜／毒島エイジ:畠中
+    祐／片桐アマネ:矢作 紗友里／大月琴:逢田梨香子／矢工部キノ:久野美咲／花買タオ:上坂すみれ<br><br>原作:五十嵐正邦『川柳少女』（講談社「週刊少年マガジン」連載）／監督・シリーズ構成:神保昌登／キャラクターデザイン:橋本真希／音楽:立山秋航／音響監督:土屋雅紀／音響制作:grooove／色彩設計:岡
+    亮子／美術監督:高橋 忍／撮影監督:佐藤 敦／編集:近藤勇二／アニメーション制作:CONNECT／製作:川柳少女製作委員会<br><br>©五十嵐正邦・講談社／川柳少女製作委員会<br><br>so34913222←前話　第一話→so34913222
+  length_seconds: 733
+  content_id: so34943570
+  default_thread_id: 1554858182
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34943570.70757
+cast: "[キャスト]<br>雪白七々子:花澤香菜／毒島エイジ:畠中 祐／片桐アマネ:矢作 紗友里／大月琴:逢田梨香子／矢工部キノ:久野美咲／花買タオ:上坂すみれ"
+staff: "[スタッフ]<br>原作:五十嵐正邦『川柳少女』（講談社「週刊少年マガジン」連載）／監督・シリーズ構成:神保昌登／キャラクターデザイン:橋本真希／音楽:立山秋航／音響監督:土屋雅紀／音響制作:grooove／色彩設計:岡
+  亮子／美術監督:高橋 忍／撮影監督:佐藤 敦／編集:近藤勇二／アニメーション制作:CONNECT／製作:川柳少女製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©五十嵐正邦・講談社／川柳少女製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

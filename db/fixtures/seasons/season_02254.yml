@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: 八十亀ちゃんかんさつにっき dアニメストアスペシャルVer.
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/71/2/22712_1_6.png?1552271407000
+outline: 東京育ちの高校生、陣界斗（じんかいと）が転校した先の名古屋で出会ったのは方言丸出しの女子高生「八十亀最中（やとがめもなか」だった。ネコのような風貌と露骨な名古屋弁を操る八十亀ちゃんは全然懐いてくれず…。かわいい八十亀ちゃんを観察し、名古屋の地位を向上させる、大人気局地コメディ！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 市来光弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 東城日沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 若井友希
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：ひらさわひさよし
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：サエッタ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：早坂皐月
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：安藤正基
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: はじまり
+  description: '"東京から名古屋に引っ越してきた陣界斗。名古屋ならではの方言や食事に憧れていたが、周りのクラスメイトに訛っている人も何にでも味噌をかけている人もいなかった…。ここでも東京と同じ退屈な日々が続くのかと思った矢先、探し物をしている女子高生を見つける。「どこにもにゃあ」という訛り全開の発言を聞いた陣の心に名古屋の風が吹いた——。"<br><br>陣界斗:市来光弘／八十亀最中:戸松遥／只草舞衣:若井友希／笹津やん菜:小松未可子／陣繁華:東城日沙子<br><br>原作:安藤正基『八十亀ちゃんかんさつにっき』（「月刊ComicREX」連載中/一迅社刊）／総監督:ひらさわひさよし／キャラクターデザイン:早坂皐月／美術監督:青山央和／色彩設計:小山知子／撮影監督:林幸司／編集:櫻井崇／音響監督:ひらさわひさよし／シリーズ構成:WORDS
+    in STEREO／アニメーション制作:サエッタ／アニメーション制作協力:Creators in Pack / LEVELS<br><br>©安藤正基・一迅社／八十亀ちゃん製作委員会<br><br>次話→so34954667'
+  length_seconds: 1027
+  content_id: so34902433
+  default_thread_id: 1554254347
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34902433.93745
+cast: "[キャスト]<br>陣界斗:市来光弘／八十亀最中:戸松遥／只草舞衣:若井友希／笹津やん菜:小松未可子／陣繁華:東城日沙子"
+staff: "[スタッフ]<br>原作:安藤正基『八十亀ちゃんかんさつにっき』（「月刊ComicREX」連載中/一迅社刊）／総監督:ひらさわひさよし／キャラクターデザイン:早坂皐月／美術監督:青山央和／色彩設計:小山知子／撮影監督:林幸司／編集:櫻井崇／音響監督:ひらさわひさよし／シリーズ構成:WORDS
+  in STEREO／アニメーション制作:サエッタ／アニメーション制作協力:Creators in Pack / LEVELS"
+produced_year: "[製作年]<br>2019年"
+copyright: "©安藤正基・一迅社／八十亀ちゃん製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,74 @@
+--- !ruby/hash:SeasonHash
+title: 真夜中のオカルト公務員
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/69/4/22694_1_6.png?1554710462000
+outline: フツーの公務員になったはずの新宿区役所職員・宮古新が配属されたのは、東京23区すべての区役所に人知れず存在する「夜間地域交流課」だった。そのお仕事は、人ならざる者が関与するオカルト的事象の解決。先輩で課のリーダー榊京一、オカルトマニア姫塚セオに連れられて人の世の理を超越した存在と対峙しに、夜な夜な出勤する。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 遊佐浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本和臣
+  type: cast
+- !ruby/hash:TagHash
+  name: 土岐隼一
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：Evan Call
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡邊哲哉
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤依織子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：たもつ葉子
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: 新宿上空の天狗と天使
+  description: 春から新宿区役所「夜間地域交流課」に配属された宮古新。課の先輩となるのは、怪しげな実験に興じる姫塚セオと、元ホストで業務リーダーの榊京一。そして、今夜の現場という新宿で新が目にしたのは、妖精や天使や天狗といった人ならざる者たち「アナザー」だった。夜間地域交流課のお仕事は、アナザーが関与するオカルト的事象の解決。にらみ合う天使と天狗を見て、榊とセオは縄張り争いの激化を制そうとするが、新にはそんな争いには見えていなくて……。<br><br>宮古
+    新:福山 潤／榊 京一:前野智昭／姫塚セオ:入野自由／仙田礼二:遊佐浩二／狩野一悟:櫻井孝宏／ウェウェコヨトル:土岐隼一／ユキ:山本和臣<br><br>原作:たもつ葉子(KADOKAWA「コミックNewtype」連載）／監督:渡邊哲哉／シリーズ構成:樋口達人／助監督:大石康之／オカルト考証:三輪清宗／キャラクターデザイン:伊藤依織子／アナザーデザイン:伊藤依織子、鈴木勘太／プロップデザイン:伊藤依織子、江上夏樹／美術設定:青木智由紀、イノセユキエ、泉
+    寛／美術監督:三原伸明／色彩設計:小野寺笑子／撮影監督:田村  仁、姫野めぐみ／編  集:吉武将人／音響監督:鶴岡陽太／音響効果:山谷尚人／音楽:Evan
+    Call／ アニメーション制作:ライデンフィルム<br><br>©2019 たもつ葉子／KADOKAWA／「真夜中のオカルト公務員」製作委員会
+  length_seconds: 1415
+  content_id: so34948906
+  default_thread_id: 1554945422
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34948906.48609
+cast: "[キャスト]<br>宮古 新:福山 潤／榊 京一:前野智昭／姫塚セオ:入野自由／仙田礼二:遊佐浩二／狩野一悟:櫻井孝宏／ウェウェコヨトル:土岐隼一／ユキ:山本和臣"
+staff: "[スタッフ]<br>原作:たもつ葉子(KADOKAWA「コミックNewtype」連載）／監督:渡邊哲哉／シリーズ構成:樋口達人／助監督:大石康之／オカルト考証:三輪清宗／キャラクターデザイン:伊藤依織子／アナザーデザイン:伊藤依織子、鈴木勘太／プロップデザイン:伊藤依織子、江上夏樹／美術設定:青木智由紀、イノセユキエ、泉
+  寛／美術監督:三原伸明／色彩設計:小野寺笑子／撮影監督:田村 仁、姫野めぐみ／編 集:吉武将人／音響監督:鶴岡陽太／音響効果:山谷尚人／音楽:Evan Call／
+  アニメーション制作:ライデンフィルム"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019 たもつ葉子／KADOKAWA／「真夜中のオカルト公務員」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

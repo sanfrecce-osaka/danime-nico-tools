@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: ひとりぼっちの○○生活
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/69/3/22693_1_6.png?1553495425000
+outline: 極度の人見知り少女、一里ぼっち。小学校時代の友人は、ひとりだけ。そのたったひとりの幼なじみと、卒業を機に離ればなれになってしまったぼっちは、彼女と約束します。「中学卒業までにクラス全員と友達になる」できなければ……絶交!?でも、自分から人に話しかけられない、ぼっち。緊張すると足がつっちゃう、ぼっち。人の目を見られない、ぼっち。そもそも、友達になる方法がわからない……!!ぼっちが思いつく友達づくりは、ちょっと的外れで、いつも空回り。果たして、ぼっちの友達づくり作戦は成功するのか……？ぼっち少女、“脱ぼっち”がんばります！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 高橋未奈美
+  type: cast
+- !ruby/hash:TagHash
+  name: 鬼頭明里
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中美海
+  type: cast
+- !ruby/hash:TagHash
+  name: 小原好美
+  type: cast
+- !ruby/hash:TagHash
+  name: 市ノ瀬加那
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒瀬ゆうこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 森下千咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：C2C
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田中紀衣
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：高田龍一
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：田中秀和
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：KADOKAWA
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：安斎剛文
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：カツヲ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: はじめての告白
+  description: 4月。中学の校門前で挙動不審な動きをする女の子が1人……。一里ぼっち。今日からここに通う新1年生。そして、今日からクラス全員と友達になる……予定!?<br><br>一里ぼっち:森下千咲／砂尾なこ:田中美海／本庄アル:鬼頭明里／ソトカ・ラキター:黒瀬ゆうこ／倉井佳子:市ノ瀬加那／八原かい:小原好美／押江照代:高橋未奈美<br><br>原作:カツヲ(「コミック電撃だいおうじ」連載）／監督:安齋剛文／シリーズ構成・脚本:花田十輝／キャラクターデザイン:田中紀衣／衣装デザイン:今田
+    茜／助監督:池下博紀／総作画監督:田中紀衣、小田武士／プロップデザイン:水村良男／美術設定:池田祐二(スタジオワイエス)／美術ボード:一色美緒(スタジオワイエス)／美術監督:長岡志織(獏プロダクション)、一色美緒(スタジオワイエス)／背景:獏プロダクション、スタジオワイエス／色彩設計:高木雅人／3Dディレクター:向
+    純平／撮影監督:板倉あゆみ／撮影:スタジオシアン／編集:山岸歩奈実(REAL-T)／音響監督 :藤田亜紀子／音響制作:HALF H・P STUDIO／音楽:高田龍一(MONACA)、田中秀和(MONACA)／音楽プロデューサー:齋藤
+    滋(ハートカンパニー)／音楽制作:KADOKAWA／アニメーション制作:C2C／製作:ひとりぼっちの製作委員会<br><br>©2018 カツヲ／ＫＡＤＯＫＡＷＡ／ひとりぼっちの製作委員会
+  length_seconds: 1437
+  content_id: so34937998
+  default_thread_id: 1554775941
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34937998.48175
+cast: "[キャスト]<br>一里ぼっち:森下千咲／砂尾なこ:田中美海／本庄アル:鬼頭明里／ソトカ・ラキター:黒瀬ゆうこ／倉井佳子:市ノ瀬加那／八原かい:小原好美／押江照代:高橋未奈美"
+staff: "[スタッフ]<br>原作:カツヲ(「コミック電撃だいおうじ」連載）／監督:安齋剛文／シリーズ構成・脚本:花田十輝／キャラクターデザイン:田中紀衣／衣装デザイン:今田
+  茜／助監督:池下博紀／総作画監督:田中紀衣、小田武士／プロップデザイン:水村良男／美術設定:池田祐二(スタジオワイエス)／美術ボード:一色美緒(スタジオワイエス)／美術監督:長岡志織(獏プロダクション)、一色美緒(スタジオワイエス)／背景:獏プロダクション、スタジオワイエス／色彩設計:高木雅人／3Dディレクター:向
+  純平／撮影監督:板倉あゆみ／撮影:スタジオシアン／編集:山岸歩奈実(REAL-T)／音響監督 :藤田亜紀子／音響制作:HALF H・P STUDIO／音楽:高田龍一(MONACA)、田中秀和(MONACA)／音楽プロデューサー:齋藤
+  滋(ハートカンパニー)／音楽制作:KADOKAWA／アニメーション制作:C2C／製作:ひとりぼっちの製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2018 カツヲ／ＫＡＤＯＫＡＷＡ／ひとりぼっちの製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
