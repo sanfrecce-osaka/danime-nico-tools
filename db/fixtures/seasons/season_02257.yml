@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: "『ワンパンマン』第2期"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/67/4/22674_1_6.png?1553844659000
+outline: 趣味でヒーローを始めた男、サイタマ。3年間の特訓により無敵のパワーを手に入れ、あらゆる敵を一撃（ワンパン）で倒すヒーローである。ひょんなことから弟子となったジェノスと共にヒーロー協会で正式なヒーロー活動を開始する。怪人発生率が異常に高くなる中、大予言者シババワが遺した「地球がヤバい」予言を受けて、対策に乗り出そうとするヒーロー協会。そこにヒーロー狩りのガロウが現れる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 松風雅也
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川慎
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：久保田誓
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ONE
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：宮崎誠
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：櫻井親良
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：村田雄介
+  type: staff
+- !ruby/hash:TagHash
+  name: ワンパンマンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: ヒーローの帰還
+  description: ヒーロー協会に所属しヒーロー活動を開始したサイタマは、いつものようにジェノスを連れて買い物へ。そこで出会ったのは、ある組織から派遣されたという巨大ロボット鬼神G4と、それに対峙するキングだった。二人は戦いぶりを静観し、キングの実力を見極めようとする。同じ頃、ヒーロー協会は大予言者シババワが遺したメッセージを受け『地球がヤバい予言緊急対策チーム』を発足し、賞金首や荒くれ者からも戦力を集めようとするが…。<br><br>サイタマ:古川慎／ジェノス:石川界人／音速のソニック:梶裕貴／戦慄のタツマキ:悠木碧／キング:安元洋貴／地獄のフブキ:早見沙織／ガロウ:緑川光／スイリュー:松風雅也<br><br>原作:ONE・村田雄介「ワンパンマン」（集英社「となりのヤングジャンプ」連載）／監督:櫻井親良／シリーズ構成:鈴木智尋／キャラクターデザイン:久保田誓／美術監督:池田繁美、丸山由紀子／色彩設計:店橋真弓／撮影監督:大河内喜夫／編集:後藤正浩(REAL-T)／
+    音響監督:岩浪美和／音楽:宮崎誠／オープニング主題歌:JAM Project「静寂のアポストル」／エンディング主題歌:古川慎「地図が無くても戻るから」 ／アニメーション制作:J.C.STAFF<br><br>©ONE・村田雄介／集英社・ヒーロー協会本部
+  length_seconds: 1450
+  content_id: so34943566
+  default_thread_id: 1554858666
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34943566.51909
+cast: "[キャスト]<br>サイタマ:古川慎／ジェノス:石川界人／音速のソニック:梶裕貴／戦慄のタツマキ:悠木碧／キング:安元洋貴／地獄のフブキ:早見沙織／ガロウ:緑川光／スイリュー:松風雅也"
+staff: "[スタッフ]<br>原作:ONE・村田雄介「ワンパンマン」（集英社「となりのヤングジャンプ」連載）／監督:櫻井親良／シリーズ構成:鈴木智尋／キャラクターデザイン:久保田誓／美術監督:池田繁美、丸山由紀子／色彩設計:店橋真弓／撮影監督:大河内喜夫／編集:後藤正浩(REAL-T)／
+  音響監督:岩浪美和／音楽:宮崎誠／オープニング主題歌:JAM Project「静寂のアポストル」／エンディング主題歌:古川慎「地図が無くても戻るから」 ／アニメーション制作:J.C.STAFF"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ONE・村田雄介／集英社・ヒーロー協会本部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ワンパンマン

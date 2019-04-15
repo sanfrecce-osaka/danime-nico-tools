@@ -1,0 +1,71 @@
+--- !ruby/hash:SeasonHash
+title: 妖怪ウォッチ！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/69/8/22698_1_6.png?1554348687000
+outline: "「妖怪ウォッチ」+「！」=何が起きるかわからない！？あのケータと妖怪たちが帰ってきた！フツーの小学5年生『天野景太（ケータ）』と妖怪の『ウィスパー』や『ジバニャン』たちが繰り広げる、ドタバタ楽しくて、ちょっぴり奇妙な物語が、新要素満載で帰ってきた！新たな妖怪不祥事案件！　新たなともだち妖怪！　新たなコーナー目白押し！『妖怪アーク』に『ワンチャンサイド』！？いろんな「！」から目が離せない！「妖怪ウォッチ！」で今日も妖怪、新発見！！！！！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツコ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：OLM
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：レベルファイブ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：西郷憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山田俊也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：泉保良輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 妖怪ウォッチシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "「フツーすぎる人生」"
+  description: 何をしても「フツー」すぎる自分にうんざりしているケータ。ひとつぐらいフツーじゃないことが起きないかなぁ？…と考えていると、クローゼットが勝手に開いたり、妙な叫び声が聞こえたりするような…？　いやいや、フツーじゃないことなんて起こるわけがない、と自分に言い聞かせるケータだが、授業中猫っぽい赤い影がチラつくのを見た途端、オナラの臭いがしてきたり、給食の時間に変顔をするおかしなものが見えたり…やっぱこれってフツーじゃない!?　ケータのまわりでいったい何が起こっているのか…っていうか、ケータは妖怪を忘れてしまったのか!?他：「フツーじゃない人生」「４コマさん「都会の罠」」<br><br>天野ケータ:戸松
+    遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾<br><br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム<br><br>©LEVEL-5/妖怪ウォッチプロジェクト・テレビ東京
+  length_seconds: 1485
+  content_id: so34937996
+  default_thread_id: 1554775814
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34937996.39663
+cast: "[キャスト]<br>天野ケータ:戸松 遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾"
+staff: "[スタッフ]<br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム"
+produced_year: "[製作年]<br>2019年"
+copyright: "©LEVEL-5/妖怪ウォッチプロジェクト・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 妖怪ウォッチ
+- !ruby/hash:SeasonHash
+  title: 妖怪ウォッチ シャドウサイド

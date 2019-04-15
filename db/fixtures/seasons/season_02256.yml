@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: RobiHachi
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/71/4/22714_1_6.png?1552962716000
+outline: G.C.0051。NEO TOKYO　八百八町———。ロビーは、顔は悪くないが残念なアラサー。自称フリーのルポライターだが、仕事上の失敗から契約を切られ、女には振られ、交通事故で死にかけるなど、人生で思うにまかせぬ不運が続き、ついには借金取りに追われる身に。ある日、ひったくりに鞄を奪われたロビーは、一人の青年に助けられる。犯人を捕まえて鞄を取り戻してくれたそのフリーターの青年は、ハッチと名乗った。お礼にと飯を奢るロビー。「曲がった事は大嫌い」と言うハッチ。「楽して暮らせればそれでいい」と言うロビー。二人はまるで正反対。翌日、ロビーのところにやって来た借金取りはハッチだった。ハッチのバイトとは、ロビーが借金をした高利貸しのヤンのバイトだったのだ。間一髪、ロビーはピンチを切り抜けると宇宙船で大空へ。ロビーは、このまま宇宙へ出て「イセカンダル」に厄落としの旅に出ることを思いつく。「イセカンダル」とは、銀河の彼方にある行けば幸せになるという伝説の惑星だ。が、その時、ハッチがひょっこり顔を出す。一人で飛び立ったと思っていたロビーだが、ハッチを乗せたままだったのだ。こうしてひょんなことから二人は、一路「イセカンダル」を目指してギャラクシー街道を突き進むのだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 中井和哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪口大助
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村昴
+  type: cast
+- !ruby/hash:TagHash
+  name: 河本啓佑
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳留慎乃佑
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：高松信司
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：八尋裕子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：馬谷たいが
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 旅は道連れ Journey to the Star
+  description: 宇宙人とのファーストコンタクトから半世紀、人類が自由に宇宙旅行を楽しめるようになったNEO TOKYO――。顔は悪くないが美女とおいしい金の話に弱い残念アラサーのロビーは、今日も高利貸しのヤンから多額の借金を抱えていた。その取り立てに現れるバイトのハッチ。ロビーはヤン達から逃げようと一か八か、今や完全に住居となっている古い宇宙船で逃亡。何とかヤン達を振り切ったロビーは、
+    このまま『イセカンダル』に厄落としの宇宙旅行に出ることを思いつくのだが、実はその宇宙船にはハッチが乗ったままで……。<br><br>ロビー・ヤージ:中井和哉／ハッチ・キタ:河本啓佑／JPS-19（イック）:阪口大助／ヤン:杉田智和／アロ:木村
+    昴／グラ:徳留慎乃佑<br><br>原作:馬谷たいが／監督:高松信司（「銀魂」、「美男高校地球防衛部」シリーズ他）／シリーズ構成:金杉弘子（「DIABOLIK
+    LOVERS MORE,BLOOD」、「俺の脳内選択肢が、学園ラブコメを全力で邪魔している」他）／キャラクターデザイン:八尋裕子（「DIABOLIK LOVERS
+    」シリーズ、「進撃！巨人中学校 」、「刀使ノ巫女」他）／コンセプトデザイン:三沢 伸（「capeta」「頭文字D 」他）／アニメ−ション制作:スタジオコメット<br><br>©馬谷たいが／株式会社ドンツー<br><br>次話→so34943569
+  length_seconds: 1440
+  content_id: so34943568
+  default_thread_id: 1554858662
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34943568.50217
+cast: "[キャスト]<br>ロビー・ヤージ:中井和哉／ハッチ・キタ:河本啓佑／JPS-19（イック）:阪口大助／ヤン:杉田智和／アロ:木村 昴／グラ:徳留慎乃佑"
+staff: "[スタッフ]<br>原作:馬谷たいが／監督:高松信司（「銀魂」、「美男高校地球防衛部」シリーズ他）／シリーズ構成:金杉弘子（「DIABOLIK LOVERS
+  MORE,BLOOD」、「俺の脳内選択肢が、学園ラブコメを全力で邪魔している」他）／キャラクターデザイン:八尋裕子（「DIABOLIK LOVERS 」シリーズ、「進撃！巨人中学校
+  」、「刀使ノ巫女」他）／コンセプトデザイン:三沢 伸（「capeta」「頭文字D 」他）／アニメ−ション制作:スタジオコメット"
+produced_year: "[製作年]<br>2019年"
+copyright: "©馬谷たいが／株式会社ドンツー"
+related_seasons: !ruby/array:Hashie::Array []

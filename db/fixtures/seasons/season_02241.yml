@@ -1,0 +1,98 @@
+--- !ruby/hash:SeasonHash
+title: なむあみだ仏っ！-蓮台 UTENA-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/68/8/22688_1_6.png?1554166812000
+outline: 煩悩を、浄化せよ。人々を救うため煩悩に立ち向かう！現世に降臨した仏様のドタバタ共同生活！？釈迦如来の使命を受け、現世に降臨した帝釈天と梵天。その使命とは、煩悩の化身・マーラから人々を守ることだった！彼らは釈迦如来率いる十三尊の仏たちと共に梵納寺で共同生活を始める。顔を合わせては反発しあってばかりの帝釈天と梵天。過去に起きた「ある事件」のせいで二人の間には大きな溝が生まれている。煩悩から人々を救おうと奮闘する二大護法善神の帝釈天と梵天。そして、己の道を突き進む阿修羅の物語が今始まる！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 平川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 谷山紀章
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下大輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林裕介
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江瞬
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：藤澤慶昌
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：DMM GAMES
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：旭プロダクション
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：オグロアキラ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤真人
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Visualworks
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 煩悩の犬は追えども去らず
+  description: 煩悩の化身・マーラから人々を救う為、釈迦如来により天界から現世に呼ばれた帝釈天と梵天。仏たちの拠点である梵納寺にて十三仏との共同生活がはじまるも、天界と現世の違いに困惑してばかり。そんな中、帝釈天と梵天は釈迦如来からある命を受けて――。<br><br>帝釈天:水中雅章／梵　天:前野智昭／大日如来:柿原徹也／阿閦如来:小林裕介／阿弥陀如来:平川大輔／釈迦如来:森久保祥太郎／薬師如来:松岡禎丞／文殊菩薩:木島隆一／普賢菩薩:堀江
+    瞬／地蔵菩薩:八代 拓／弥勒菩薩:村瀬 歩／観音菩薩:内田雄馬／勢至菩薩:天﨑滉平／虚空蔵菩薩:谷山紀章／迦楼羅天:山下大輝／マーラ:大塚剛央<br><br>原作:DMM
+    GAMES/Visualｗorks／監督:オグロアキラ／シリーズ構成:吉田恵里香／キャラクターデザイン:加藤真人／サブキャラクターデザイン:鶴田　眸／美術監督:甲斐政俊／色彩設計:田中美穂／撮影監督:大島由貴／VFXディレクター:中西康祐／編集:本田優規／音楽:藤澤慶昌／音響監督:本山　哲／音響制作:Ai
+    Addiction／アニメーションプロデューサー:河内山隆／アニメーション制作:旭プロダクション／製作:DMM pictures<br><br>©DMM GAMES/Visualworks/なむあみうてなプロジェクト<br><br>次話→so34954669
+  length_seconds: 1419
+  content_id: so34938003
+  default_thread_id: 1554775686
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34938003.3883
+cast: "[キャスト]<br>帝釈天:水中雅章／梵　天:前野智昭／大日如来:柿原徹也／阿閦如来:小林裕介／阿弥陀如来:平川大輔／釈迦如来:森久保祥太郎／薬師如来:松岡禎丞／文殊菩薩:木島隆一／普賢菩薩:堀江
+  瞬／地蔵菩薩:八代 拓／弥勒菩薩:村瀬 歩／観音菩薩:内田雄馬／勢至菩薩:天﨑滉平／虚空蔵菩薩:谷山紀章／迦楼羅天:山下大輝／マーラ:大塚剛央"
+staff: "[スタッフ]<br>原作:DMM GAMES/Visualｗorks／監督:オグロアキラ／シリーズ構成:吉田恵里香／キャラクターデザイン:加藤真人／サブキャラクターデザイン:鶴田　眸／美術監督:甲斐政俊／色彩設計:田中美穂／撮影監督:大島由貴／VFXディレクター:中西康祐／編集:本田優規／音楽:藤澤慶昌／音響監督:本山　哲／音響制作:Ai
+  Addiction／アニメーションプロデューサー:河内山隆／アニメーション制作:旭プロダクション／製作:DMM pictures"
+produced_year: "[製作年]<br>2019年"
+copyright: "©DMM GAMES/Visualworks/なむあみうてなプロジェクト"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: 異世界かるてっと
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/69/5/22695_1_6.png?1553495483000
+outline: "「オーバーロード」「この素晴らしい世界に祝福を！」「Re:ゼロから始める異世界生活」「幼女戦記」。総シリーズ累計1600万部超え、BD＆DVDシリーズ総売上枚数50万枚超えを誇る4作品が、ぷちキャラアニメになって大暴れ！ある日突如として現れた謎のボタン。ポチっと押すと、なんとさらなる異世界へ転移してしまう！！そこには他世界から転移したキャラクターたちも大集合していて…！？監督・脚本≪芦名みのる≫、キャラクターデザイン・総作画監督≪たけはらみのる≫、アニメーション制作は≪スタジオぷYUKAI≫が担当。「ぷれぷれぷれあです」「Re:プチから始める異世界生活」「ようじょしぇんき」と、ぷちキャラアニメ界を牽引してきたスタッフ陣が、異世界系ライトノベル4作品のクロスオーバーアニメーションに挑む！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 三宅健太
+  type: cast
+- !ruby/hash:TagHash
+  name: 水瀬いのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 新井里美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：川田瑠夏
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：芦名みのる
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：KADOKAWA
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオぷYUKAI
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：たけはらみのる
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 集結！かるてっと
+  description: カズマたちはひょんな事から、異世界へ転移する謎のスイッチを押してしまう。アインズ、そしてターニャもスイッチを押してしまい、異世界へ転移！転移先はまさかの……！？<br><br>アインズ:日野
+    聡／アルべド:原 由実／シャルティア:上坂すみれ／アウラ:加藤英美里／マーレ:内山夕実／デミウルゴス:加藤将之／コキュートス:三宅健太／カズマ:福島 潤／アクア:雨宮
+    天／めぐみん:高橋李依／ダクネス:茅野愛衣／スバル:小林裕介／エミリア :高橋李依／パック :内山夕実／レム:水瀬いのり／ラム:村川梨衣／ベアトリス:新井里美／ロズワール:子安武人／ターニャ:悠木
+    碧／ヴィーシャ:早見沙織／ヴァイス:濱野大輝／グランツ:小林裕介／ケーニッヒ:笠間 淳／ノイマン:林 大地／レルゲン :三木眞一郎／ルーデルドルフ:玄田哲章／ゼートゥーア:大塚芳忠<br><br>監督・脚本:芦名みのる／キャラクターデザイン・総作画監督:たけはらみのる／美術監督・美術設定:戸杉奈津子／撮影監督:大久保潤一／音響監督:明田川
+    仁／音響制作:マジックカプセル／音楽:川田瑠夏／音楽制作:ＫＡＤＯＫＡＷＡ／アニメーション制作:スタジオぷYUKAI／製作:ＫＡＤＯＫＡＷＡ<br><br>©異世界かるてっと／ＫＡＤＯＫＡＷＡ<br><br>次話→so34972159
+  length_seconds: 710
+  content_id: so34933846
+  default_thread_id: 1554711782
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34933846.23763
+cast: "[キャスト]<br>アインズ:日野 聡／アルべド:原 由実／シャルティア:上坂すみれ／アウラ:加藤英美里／マーレ:内山夕実／デミウルゴス:加藤将之／コキュートス:三宅健太／カズマ:福島
+  潤／アクア:雨宮 天／めぐみん:高橋李依／ダクネス:茅野愛衣／スバル:小林裕介／エミリア :高橋李依／パック :内山夕実／レム:水瀬いのり／ラム:村川梨衣／ベアトリス:新井里美／ロズワール:子安武人／ターニャ:悠木
+  碧／ヴィーシャ:早見沙織／ヴァイス:濱野大輝／グランツ:小林裕介／ケーニッヒ:笠間 淳／ノイマン:林 大地／レルゲン :三木眞一郎／ルーデルドルフ:玄田哲章／ゼートゥーア:大塚芳忠"
+staff: "[スタッフ]<br>監督・脚本:芦名みのる／キャラクターデザイン・総作画監督:たけはらみのる／美術監督・美術設定:戸杉奈津子／撮影監督:大久保潤一／音響監督:明田川
+  仁／音響制作:マジックカプセル／音楽:川田瑠夏／音楽制作:ＫＡＤＯＫＡＷＡ／アニメーション制作:スタジオぷYUKAI／製作:ＫＡＤＯＫＡＷＡ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©異世界かるてっと／ＫＡＤＯＫＡＷＡ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: オーバーロード
+- !ruby/hash:SeasonHash
+  title: オーバーロードⅡ
+- !ruby/hash:SeasonHash
+  title: オーバーロードⅢ
+- !ruby/hash:SeasonHash
+  title: この素晴らしい世界に祝福を！
+- !ruby/hash:SeasonHash
+  title: この素晴らしい世界に祝福を！２
+- !ruby/hash:SeasonHash
+  title: Re：ゼロから始める異世界生活
+- !ruby/hash:SeasonHash
+  title: 幼女戦記

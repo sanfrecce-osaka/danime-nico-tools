@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: 世話やきキツネの仙狐さん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/65/9/22659_1_6.png?1552293008000
+outline: |-
+  日々、自宅とブラック会社を往復する会社員・中野のもとに押しかけてきた
+  神使のキツネ・仙狐さん（800歳・幼女）。
+  彼女は疲労困憊の中野を、食事、洗濯、特別サービス(？)でめいっぱい“お世話”して、潤してくれるのです。
+  突然始まる、仙狐さんと中野の共同生活。
+  現代社会に疲れた全ての人に届けたい、お世話系甘やかしコメディ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 諏訪部順一
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 和氣あず未
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：動画工房
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大島美和
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：藤澤慶昌
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：KADOKAWA
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：越田知明
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：リムコロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 存分に甘やかしてくれよう
+  description: ブラックな会社に勤め、疲労困憊の日々を過ごすサラリーマンの中野くん。ある日、残業の末疲れ果てて帰宅すると、何故か消したはずの部屋に明かりが。不思議に思いながら開いた扉の先にいたのは、温かい料理を作る狐耳と尻尾姿の少女でした。「仙狐」と名乗り、自らを800歳の神使の狐と高らかに謳う少女の出現に混乱を隠しきれない中野くん。仙狐さんは中野くんのことをお世話しに来た、と言うのですが……。<br><br>仙狐:和氣あず未／中野:諏訪部順一／シロ:内田真礼／高円寺:佐倉綾音／？？:喜多村英梨<br><br>原作:リムコロ(コミックNewtype／KADOKAWA刊)／監督:越田知明／シリーズ構成・脚本:中村能子／キャラクターデザイン:大島美和／総作画監督:大島美和、曾我篤史、熊谷勝弘／プロップデザイン:永田杏子／美術設定:佐南友理／美術監督:三宅昌和／色彩設計:竹内優太／撮影監督:呉健弘／編集:今井大介／音響監督:土屋雅紀／音響効果:和田俊也（スワラ・プロ）／音楽:藤澤慶昌／音楽制作:KADOKAWA／アニメーション制作:動画工房／製作:世話やきキツネの仙狐さん製作委員会<br><br>©2019
+    リムコロ／KADOKAWA／世話やきキツネの仙狐さん製作委員会
+  length_seconds: 1415
+  content_id: so34938005
+  default_thread_id: 1554775822
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34938005.85124
+cast: "[キャスト]<br>仙狐:和氣あず未／中野:諏訪部順一／シロ:内田真礼／高円寺:佐倉綾音／？？:喜多村英梨"
+staff: "[スタッフ]<br>原作:リムコロ(コミックNewtype／KADOKAWA刊)／監督:越田知明／シリーズ構成・脚本:中村能子／キャラクターデザイン:大島美和／総作画監督:大島美和、曾我篤史、熊谷勝弘／プロップデザイン:永田杏子／美術設定:佐南友理／美術監督:三宅昌和／色彩設計:竹内優太／撮影監督:呉健弘／編集:今井大介／音響監督:土屋雅紀／音響効果:和田俊也（スワラ・プロ）／音楽:藤澤慶昌／音楽制作:KADOKAWA／アニメーション制作:動画工房／製作:世話やきキツネの仙狐さん製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019 リムコロ／KADOKAWA／世話やきキツネの仙狐さん製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

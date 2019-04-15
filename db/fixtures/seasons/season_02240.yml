@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: 超可動ガール1/6
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/68/9/22689_1_6.png?1552879850000
+outline: 大好きなアニメヒロインのフィギュアを「つい」買ってしまったばっかりに、そしてソレが何故か動き出したばっかりに、愛すべきヒロインは【口うるさい押しかけ女房】に変貌を遂げた!?　動く美少女フィギュア「ノーナ」とオタク社会人「春人」の奇妙な夫婦生活ギャグ。純粋だから手に負えない「愛すべきちっちゃい」は無敵です!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳井青空
+  type: cast
+- !ruby/hash:TagHash
+  name: 河西健吾
+  type: cast
+- !ruby/hash:TagHash
+  name: 千本木彩花
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田利冴
+  type: cast
+- !ruby/hash:TagHash
+  name: 木下鈴奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原侑
+  type: cast
+- !ruby/hash:TagHash
+  name: 深町未紗
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：元永慶太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：studio A-CAT
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山名秀和
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ÖYSTER
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: "『君は超可動ガール』"
+  description: 在宅プログラマーの房伊田春人は自他共に認める“どマニア”。なかでもアニメ『少女→惑星探査』の大ファンだった。そんな彼が買ってきた1/6スケールのフィギュア・ノーナが、生きているかのように動き出して――。<br><br>房伊田春人:羽多野渉／ノーナ:木下鈴奈／ペルノア:千本木彩花／天乃原すばる:M・A・O／オズマ:森川智之／房伊田ミコト:松田利冴／冠成次郎:河西健吾／クサビ:徳井青空／リンドウ:深町未紗／比等間ルウ:篠原侑<br><br>原作:「超可動ガール1/6」「超可動ガールズ」（原作者：ÖYSTER・双葉社刊）／監督:元永慶太郎／シリーズ構成:日暮茶坊／キャラクターデザイン:山名秀和／音響監督:阿部信行／アニメーション制作:studio
+    A-CAT／音響制作:オンリード／製作:「超可動ガール1/6」製作委員会<br><br>©OYSTER/双葉社・「超可動ガール1/6」製作委員会<br><br>次話→so34938002
+  length_seconds: 750
+  content_id: so34913150
+  default_thread_id: 1554427502
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913150.2355
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: "『地球ロボット・オズマ』"
+  description: ノーナに続き、アニメのなかで彼女のサポート役だったオズマのフィギュアまでもが動き出してしまう。いったい、なぜ……!?　そんななか、自分がフィギュアであると知ってしまったノーナは――。<br><br>房伊田春人:羽多野渉／ノーナ:木下鈴奈／ペルノア:千本木彩花／天乃原すばる:M・A・O／オズマ:森川智之／房伊田ミコト:松田利冴／冠成次郎:河西健吾／クサビ:徳井青空／リンドウ:深町未紗／比等間ルウ:篠原侑<br><br>原作:「超可動ガール1/6」「超可動ガールズ」（原作者：ÖYSTER・双葉社刊）／監督:元永慶太郎／シリーズ構成:日暮茶坊／キャラクターデザイン:山名秀和／音響監督:阿部信行／アニメーション制作:studio
+    A-CAT／音響制作:オンリード／製作:「超可動ガール1/6」製作委員会<br><br>©OYSTER/双葉社・「超可動ガール1/6」製作委員会<br><br>so34913150←前話　第一話→so34913150
+  length_seconds: 750
+  content_id: so34938002
+  default_thread_id: 1554775444
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34938002.86474
+cast: "[キャスト]<br>房伊田春人:羽多野渉／ノーナ:木下鈴奈／ペルノア:千本木彩花／天乃原すばる:M・A・O／オズマ:森川智之／房伊田ミコト:松田利冴／冠成次郎:河西健吾／クサビ:徳井青空／リンドウ:深町未紗／比等間ルウ:篠原侑"
+staff: "[スタッフ]<br>原作:「超可動ガール1/6」「超可動ガールズ」（原作者：ÖYSTER・双葉社刊）／監督:元永慶太郎／シリーズ構成:日暮茶坊／キャラクターデザイン:山名秀和／音響監督:阿部信行／アニメーション制作:studio
+  A-CAT／音響制作:オンリード／製作:「超可動ガール1/6」製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©OYSTER/双葉社・「超可動ガール1/6」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
