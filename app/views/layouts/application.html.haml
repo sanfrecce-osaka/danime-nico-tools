@@ -14,7 +14,7 @@
     - unless current_page?(root_path)
       = render 'header'
     %main.row.m-0{class: current_page?(root_path) ? 'bg-main font-white' : nil}
-      .wrapper.col-xl-9.col-sm-11
+      .wrapper.col-xl-9.col-11
         - flash.each do |type, msg|
           %div{class: "alert alert-#{type}"}
             = msg
