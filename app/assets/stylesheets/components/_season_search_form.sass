@@ -15,10 +15,12 @@
 
   &__keyword-type
     select
-      width: $season-search-form-keyword-type-select-width
-      border-radius: 5px 0 0 5px
       border-color: black
       padding: 5px 10px
+
+      @media screen and (min-width: 576px)
+        width: $season-search-form-keyword-type-select-width
+        border-radius: 5px 0 0 5px
 
     .custom-select:focus
       border-color: black
