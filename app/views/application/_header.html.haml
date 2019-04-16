@@ -4,9 +4,9 @@
       .col-lg-3.col-sm-11.col-10
         %h1.header__logo danime-nico-tools
       .col-xl-6.col-lg-7.col-sm-1.col-2
-        .d-sm-none.d-lg-flex
+        .d-none.d-lg-flex
           = render 'season_search_form', season_search_form: @season_search_form
-        .d-lg-none.d-sm-flex.justify-content-end.h-100
+        .d-lg-none.d-flex.justify-content-end.h-100
           = link_to '#season-search-form', class: 'btn header__search-btn', 'data-toggle': 'collapse', role: 'button', 'aria-expanded': 'false', 'aria-controls': 'season-search-form' do
             %i.fas.fa-search
       .col-12.collapse#season-search-form
