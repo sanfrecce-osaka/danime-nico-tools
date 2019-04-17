@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
-  name: 中村悠一
+  name: 石田彰
   type: cast
 - !ruby/hash:TagHash
-  name: 石田彰
+  name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
   name: 釘宮理恵
