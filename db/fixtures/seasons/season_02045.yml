@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 種田梨沙
+  name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
-  name: 間島淳司
+  name: 種田梨沙
   type: cast
 - !ruby/hash:TagHash
   name: 上田麗奈
