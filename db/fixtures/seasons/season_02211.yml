@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
-  name: 島﨑信長
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
   name: 村瀬歩

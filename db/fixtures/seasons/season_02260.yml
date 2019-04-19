@@ -1,0 +1,284 @@
+--- !ruby/hash:SeasonHash
+title: ストリートファイター USA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/62/9/22629_1_6.png?1554096607000
+outline: 世界中の武術大会を渡り歩く格闘家、ウィリアム･ガイル大佐…彼は犯罪者と戦う国際的な機密組織『ストリートファイター』のリーダーである！力を合わせて悪の組織シャドルーに立ち向かえ…行け、ストリートファイター！！【※古い映像マスターのため、
+  一部映像の乱れる箇所がございます。予めご了承下さい】
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: THE ADVENTURE BEGINS
+  description: 国際的な機密組織“ストリートファイター”に所属するガイルに新たな任務が与えられた。感染1日で死ぬという、世界を滅ぼす恐怖のウイルスの拡散を防げ！目的を果たすため現地に向かったガイルたちを待ち受けていたのは、あのバイソンだった…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>次話→so34913159
+  length_seconds: 1207
+  content_id: so34913158
+  default_thread_id: 1554427634
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913158.26888
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: THE STRONGEST WOMAN IN THE WORLD
+  description: 任務で原子炉の防衛とテロ集団の排除に中国へ向かったガイル率いるストリートファイター。どうも春麗の様子がおかしい…彼女の父親はバイソンに殺されていた！？【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913158←前話｜次話→so34913211　第一話→so34913158
+  length_seconds: 1244
+  content_id: so34913159
+  default_thread_id: 1554427635
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913159.86940
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: CHUNNEL VISION
+  description: キャミィがかつて所属していた特殊部隊がバイソンを逮捕した！その直後、ロンドン中で爆発が立て続けに起こる。どうやら、バイソンの釈放と法外な金額を要求するために起こしているらしい。要求を飲まない場合には新たに爆弾を仕掛けるだと？【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913159←前話｜次話→so34913221　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913211
+  default_thread_id: 1554428716
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913211.48596
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: GETTING TO GUILE
+  description: ディージェイより、ガイルがバイソンとザンギエフに捕まったとの連絡！ストリートファイターたちは彼を助けに向かう。しかし、捕らえられてしまったガイルはバイソンからある洗脳を受けていた…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913211←前話｜次話→so34913220　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913221
+  default_thread_id: 1554428713
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913221.78692
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: THE HAND THAT FEEDS YOU
+  description: 麻薬捜査をしていたストリートファイターたち。香港で行方不明になった、いとこのサチの捜索を続けていたリュウとケンはある現場に遭遇する。一方ガイルは映画スターのフェイロンから協力を持ちかけられ…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913221←前話｜次話→so34913219　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913220
+  default_thread_id: 1554428643
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913220.62331
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: DEMON ISLAND
+  description: 完全に姿を消せる最高機密の新型ステルス機が、爆弾を積んだままバイソンに奪われてしまった！それを取り戻すためガイルたちは“悪魔の島”へと向かう。だが、島に上陸した彼らの前にはザンギエフが待ち構えていた…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913220←前話｜次話→so34913218　第一話→so34913158
+  length_seconds: 1244
+  content_id: so34913219
+  default_thread_id: 1554428711
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913219.26657
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: DARK HEART
+  description: 1000年に1度しか見られないという彗星が地球に接近していた！だが、謎の強力磁力のせいで予想の軌道からずれてきているという。磁力の発信源であるヒマラヤ山脈に向かったガイルたち、そこでは恐ろしい計画が…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913219←前話｜次話→so34913217　第一話→so34913158
+  length_seconds: 1246
+  content_id: so34913218
+  default_thread_id: 1554428702
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913218.58079
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: EYE OF THE BEHOLDER
+  description: ブランカの命が危ない！助ける方法は、科学者ドクター･カプーナが発見した老化抑制の治療薬だけだ。治療を受けるためにストリートファイターたちはハワイへと向かう！ブランカの治療を始めるその時、永遠の若さを求めるベガが現れ…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913218←前話｜次話→so34913216　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913217
+  default_thread_id: 1554428823
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913217.27105
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: THE MEDIUM IS THE MESSAGE
+  description: インドで開催されている格闘大会にバイソンが紛れ込んでいるという報告が！ガイルとストリートファイターたちは大会にエントリーすることに。しかし、その大会の裏では恐ろしい計画が動いていた…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913217←前話｜次話→so34913215　第一話→so34913158
+  length_seconds: 1246
+  content_id: so34913216
+  default_thread_id: 1554428704
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913216.65590
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: NO WAY OUT
+  description: サガットが支配する町でアメリカ大使館が攻撃を受けた！ヘリで救出に向かうストリートファイターたち…任務遂行中、ガイルはある少年と出会う。周りを敵に囲まれた窮地、ガイルの運命やいかに…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913216←前話｜次話→so34913214　第一話→so34913158
+  length_seconds: 1243
+  content_id: so34913215
+  default_thread_id: 1554428656
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913215.79223
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: DESERT THUNDER
+  description: 新型軍事レーザーが謎の科学者サテン･ハマーによって盗まれた！その協力者はなんと行方不明になっていたストリートファイター、Tホークだと？レーザーを取り返すためガイルとブランカはハマーを追うことに…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913215←前話｜次話→so34913213　第一話→so34913158
+  length_seconds: 1246
+  content_id: so34913214
+  default_thread_id: 1554428707
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913214.65471
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: KEEPING THE PEACE
+  description: かつてエメラルド産出で賑わったが、治安が悪化し無法地帯と化したイタリア辺境の町！バイソンの介入を防ぐため潜入したガイルは、そこでかつてのチームメンバーと再会する。しかし、そこには自らの利益のため、ある計画を企てている連中がいた…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913214←前話｜次話→so34913212　第一話→so34913158
+  length_seconds: 1244
+  content_id: so34913213
+  default_thread_id: 1554428709
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913213.63019
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: STRANGE BEDFELLOWS
+  description: ストリートファイター基地とシャドルー本部が何者かに襲撃された！ガイルとバイソンは互いに相手に攻撃されたと、怒りをあらわにする。ぶつかり合う双方、そこに現れたのは豪鬼だった…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913213←前話｜次話→so34913155　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913212
+  default_thread_id: 1554428647
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913212.17359
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: THE HAMMER STRIKES
+  description: 突然ブランカが苦しみ出した！苦しみの中、浮かんだのはダルシムとあのサテン・ハマーの姿。そこでダルシムの元へ向かったストリートファイターたちは、“あるもの”をハマーから守ってもらいたいと頼まれるが…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913212←前話｜次話→so34913154　第一話→so34913158
+  length_seconds: 1247
+  content_id: so34913155
+  default_thread_id: 1554427623
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913155.24184
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: CAMMY and the BACHELOR
+  description: ロンドンで連続強盗が多発！逮捕しようと向かった、キャミィがかつて所属していた特殊部隊メンバーも人質として捕まってしまった！彼らの救出に向かったガイルとキャミィ、だが戦いの最中キャミィがバイソンに洗脳されてしまい…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913155←前話｜次話→so34913153　第一話→so34913158
+  length_seconds: 1243
+  content_id: so34913154
+  default_thread_id: 1554427569
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913154.79115
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: NEW KIND of EVIL
+  description: 金融街で爆破強盗事件！取材をしていた春麗とテレビクルーは怪しい姿を目撃、だが追跡中にクルーが消えてしまう。春麗はガイルとブランカに助けを求め、謎の怪物を追いかけ下水道へ。たどり着いた先にいたのは…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913154←前話｜次話→so34913137　第一話→so34913158
+  length_seconds: 1247
+  content_id: so34913153
+  default_thread_id: 1554427573
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913153.14120
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: SO, YOU WANT TO BE IN PICTURES
+  description: ケンとフェイロンが映画製作することに！？しかし突然スポンサーが降板！このままでは映画を製作することができない！窮地の彼らはある資産家を訪ねる。そこから、ケンは予期せぬ事故で一躍時の人に。調子に乗ったケンは連日パーティ三昧…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913153←前話｜次話→so34913138　第一話→so34913158
+  length_seconds: 1247
+  content_id: so34913137
+  default_thread_id: 1554427630
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913137.90700
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: FACE OF FURY
+  description: 中東に向かったガイルとブランカ。パワーアップの代償に、感情を抑制できなくなったブランカは人々からの中傷に過剰反応し、突然攻撃を行う！収監されながらも、そのニュースを見たベガは復讐心に駆られて脱走しブランカを追う！そのころブランカは愛するマレの元を訪れていたが…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913137←前話｜次話→so34913139　第一話→so34913158
+  length_seconds: 1246
+  content_id: so34913138
+  default_thread_id: 1554427580
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913138.10379
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: THE WORLDS GREATEST WARRIOR
+  description: 瞬獄殺を会得した豪鬼が出現！兄であり、リュウとケンの師匠である剛拳から氣を奪い、彼らの氣をも奪おうという魂胆らしい。だが、リュウは特訓中の負傷で全力を出せない。果たして二人は豪鬼相手に勝つことが出来るのだろうか…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913138←前話｜次話→so34913140　第一話→so34913158
+  length_seconds: 1247
+  content_id: so34913139
+  default_thread_id: 1554427575
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913139.9515
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: CAMMY MUST DIE
+  description: 洗脳されたキャミィを抹殺すべく、かつての同僚である特殊部隊がカルカッタへ！ガイルとホンダは彼女を救出せんと、彼らを追う。その頃キャミィはラ･ルパとともにバイソンのため、強力な力を秘めたカーリー像を盗みにきていた。そこで特殊部隊と鉢合わせたキャミィは戦いの中で正気を取り戻したように見えたが…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913139←前話｜次話→so34913141　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913140
+  default_thread_id: 1554427578
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913140.41011
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: THE FLAME AND THE ROSE
+  description: 世界の危機を予知したローズ、その原因はブランカとケン！？ローズに連れ去られ、言い争いから戦い始めてしまう二人。だが諸悪の根源は別にあった…。一方、傷が癒えぬバイソンはキャミーの制止も聞かず、カーリー像の力を用い、より強大なパワーアップをしようと企て…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913140←前話｜次話→so34913142　第一話→so34913158
+  length_seconds: 1247
+  content_id: so34913141
+  default_thread_id: 1554427631
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913141.87230
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: THE WARRIOR KING
+  description: 砂漠の地ケンペルに、突然魔法のオーブが出現し奇跡を起こす！オーブの力に目をつけたバイソンは、ある計画を企てる。バイソンの悪巧みに気づいた春麗は戦いを挑んだが、そこである人物と出会い真実に触れる…。このオーブは異世界、戦士の国から時空を超えてやってきたものだって！？【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913141←前話｜次話→so34913143　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913142
+  default_thread_id: 1554427624
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913142.88450
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: FINAL FIGHT
+  description: メトロシティ市長、ハガーの娘ジェシカが誘拐された！ハガーに恨みを持つマッド･ギアの仕業に違いない。ジェシカの恋人で、ケンの知人のコーディーは自ら彼女を助けに行こうとするが、面が割れているために潜入できない。代わりに助けに行くことになったケンとリュウは、マッド･ギアの入団テストを受けることに…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913142←前話｜次話→so34913144　第一話→so34913158
+  length_seconds: 1243
+  content_id: so34913143
+  default_thread_id: 1554427565
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913143.74660
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: THE BEAST WITHIN
+  description: ブランカを探しにきたガイルとルシンダ。しかし安寧を求めてこの地を訪れていたはずのブランカは、村荒らしの犯人として捕まっていた！ブランカを助けようとした二人も村人に捕まってしまう。しかし村を荒らしていた真犯人は「ある」少年だった。なぜか彼はこの村に対して復讐心を燃やしていた…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913143←前話｜次話→so34913146　第一話→so34913158
+  length_seconds: 1247
+  content_id: so34913144
+  default_thread_id: 1554427572
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913144.1569
+- !ruby/hash:EpisodeHash
+  episode_no: "#25"
+  title: SECOND TO NONE
+  description: シャドルーの魔の手から逃れてきたサクラ！彼女は、リュウに強い憧れを持っていた。捕まってしまったサクラの師匠を救出するため、ガイルとリュウはシャドルーへ向かう。だが、リュウの様子がおかしい！実はリュウとサガットは過去に戦っており、今度こそ雌雄を決せんとしていた…【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913144←前話｜次話→so34913147　第一話→so34913158
+  length_seconds: 1245
+  content_id: so34913146
+  default_thread_id: 1554427567
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913146.43813
+- !ruby/hash:EpisodeHash
+  episode_no: "#26"
+  title: CAMMY TELL ME TRUE
+  description: キャミィがＭＩ５に潜入し最高機密を手に入れた！それによりＭＩ５はキャミィの抹殺命令を下す！バイソンに洗脳されているだけだと信じるガイルは、彼女の救出に向かう。はたしてキャミィの真実とは…？そして強力な力に支配されつつあるバイソンに裏切り者が現れる…！？【※古い映像マスターのため、
+    一部映像の乱れる箇所がございます。予めご了承下さい】<br><br>©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED.<br><br>so34913146←前話　第一話→so34913158
+  length_seconds: 1246
+  content_id: so34913147
+  default_thread_id: 1554427637
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34913147.69665
+produced_year: "[製作年]<br>1995年"
+copyright: "©CAPCOM U.S.A., INC. ALL RIGHTS RESERVED."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ストリートファイターⅡ MOVIE
+- !ruby/hash:SeasonHash
+  title: ストリートファイターⅡV

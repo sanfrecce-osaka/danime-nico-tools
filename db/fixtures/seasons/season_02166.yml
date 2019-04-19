@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 小松未可子
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
   name: 小倉唯
