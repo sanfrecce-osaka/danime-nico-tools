@@ -11,13 +11,13 @@ tags: !ruby/array:Hashie::Array
   name: ホラー/サスペンス/推理
   type: genre
 - !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
   name: 悠木碧
-  type: cast
-- !ruby/hash:TagHash
-  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 遊佐浩二
