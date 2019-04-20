@@ -56,10 +56,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：電撃文庫
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：上遠野浩平
+  name: 監督：夏目真悟
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：夏目真悟
+  name: 原作：上遠野浩平
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：澤田英彦
