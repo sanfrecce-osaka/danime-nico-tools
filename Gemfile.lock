@@ -83,6 +83,7 @@ GEM
       xpath (~> 3.1)
     childprocess (0.9.0)
       ffi (~> 1.0, >= 1.0.11)
+    choice (0.2.0)
     chromedriver-helper (2.1.0)
       archive-zip (~> 0.10)
       nokogiri (~> 1.8)
@@ -132,6 +133,9 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    erd (0.6.3)
+      nokogiri
+      rails-erd (>= 0.4.5)
     erubi (1.7.1)
     erubis (2.7.0)
     eventmachine (1.2.7)
@@ -272,6 +276,11 @@ GEM
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
+    rails-erd (1.5.2)
+      activerecord (>= 3.2)
+      activesupport (>= 3.2)
+      choice (~> 0.2.0)
+      ruby-graphviz (~> 1.2)
     rails-flog (1.4.0)
       anbt-sql-formatter
       awesome_print
@@ -325,6 +334,7 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.0, >= 1.0.1)
+    ruby-graphviz (1.2.4)
     ruby-progressbar (1.10.0)
     ruby_dep (1.5.0)
     ruby_parser (3.11.0)
@@ -404,6 +414,7 @@ DEPENDENCIES
   chromedriver-helper
   config
   devise
+  erd
   factory_bot_rails
   faker
   google-analytics-rails

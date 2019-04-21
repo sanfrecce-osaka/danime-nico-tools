@@ -42,6 +42,7 @@ group :development do
   gem 'bullet'
   gem 'rubocop', require: false
   gem 'guard-livereload', require: false
+  gem 'erd'
 end
 
 group :test do
