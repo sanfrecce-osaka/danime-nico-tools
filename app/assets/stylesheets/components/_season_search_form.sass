@@ -14,7 +14,7 @@
     margin: 0 auto
 
   &__keyword-type
-    @media screen and (max-width: 575px)
+    +media-breakpoint-down(sm)
       width: 100%
 
     select
@@ -25,7 +25,7 @@
         width: $season-search-form-keyword-type-select-width
         border-radius: 5px 0 0 5px
 
-      @media screen and (max-width: 575px)
+      +media-breakpoint-down(sm)
         width: 100%
 
     .custom-select:focus
@@ -42,10 +42,10 @@
   &__keywords
     position: relative
 
-    @media screen and (min-width: 576px)
+    +media-breakpoint-up(sm)
       width: calc(100% - #{$season-search-form-keyword-type-select-width})
 
-    @media screen and (max-width: 575px)
+    +media-breakpoint-down(sm)
       width: 100%
 
     &:before
@@ -63,5 +63,5 @@
       padding: 0 10px 0 10px
       border-color: black
 
-      @media screen and (min-width: 576px)
+      +media-breakpoint-up(sm)
         border-radius: 0 5px 5px 0
