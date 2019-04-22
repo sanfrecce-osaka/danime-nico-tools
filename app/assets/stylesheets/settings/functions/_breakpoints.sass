@@ -1,0 +1,7 @@
+@function breakpoint-min($breakpoint-name, $breakpoints: $grid-breakpoints)
+  $min: map-get($breakpoints, $breakpoint-name)
+  @return if($min != 0, $min, null)
+
+@function breakpoint-max($breakpoint-name, $breakpoints: $grid-breakpoints)
+  $max: breakpoint-min($breakpoint-name, $breakpoints) - 1px
+  @return if($max != 0, $max, null)
