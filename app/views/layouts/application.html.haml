@@ -14,8 +14,15 @@
     - unless current_page?(root_path)
       = render 'header'
     %main.row.m-0{class: current_page?(root_path) ? 'bg-main font-white' : nil}
-      .wrapper.col-xl-9.col-11
-        - flash.each do |type, msg|
-          %div{class: "alert alert-#{type}"}
-            = msg
-        = yield
+      - if current_page?(root_path)
+        .wrapper.col-xl-9.col-md-11.col-sm-12
+          - flash.each do |type, msg|
+            %div{class: "alert alert-#{type}"}
+              = msg
+          = yield
+      - else
+        .wrapper.col-xl-9.col-11
+          - flash.each do |type, msg|
+            %div{class: "alert alert-#{type}"}
+              = msg
+          = yield
