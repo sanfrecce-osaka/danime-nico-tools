@@ -116,6 +116,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1553218209
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34821709.44126
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話／第38話
+  title: 神出鬼没！ドブから飛び出てジャケ紳さん！／ゾンビ予防！うがい手洗いセンセーション！
+  description: 第37話：めちゃくちゃ硬い怪人「ダイヤモンド富士」に苦戦するプリマエンジェルたちの元に、ジャケット紳士が登場！しかし初対面のみかんはドン引き！一体どうなる！？／第38話：怪人によって、イサムがゾンビにされてしまった！そしてなんと困惑するキヨシたちの元に現れたプリマエンジェルも…！？ゾンビ化を治す方法はあるのか！？<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>so34821709←前話　第一話→so34072824
+  length_seconds: 1440
+  content_id: so34987549
+  default_thread_id: 1555549270
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34987549.51657
 cast: "[キャスト]<br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか"
 staff: "[スタッフ]<br>原案:Pie in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the
   sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia
