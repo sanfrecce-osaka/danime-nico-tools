@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 豊口めぐみ
+  name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 江口拓也
+  name: 豊口めぐみ
   type: cast
 - !ruby/hash:TagHash
   name: 大塚芳忠

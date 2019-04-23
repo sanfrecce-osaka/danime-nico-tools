@@ -37,10 +37,10 @@ tags: !ruby/array:Hashie::Array
   name: 岸尾だいすけ
   type: cast
 - !ruby/hash:TagHash
-  name: 瀬戸麻沙美
+  name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 江口拓也
+  name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
   name: 増田俊樹

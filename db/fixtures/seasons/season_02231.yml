@@ -53,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：川田瑠夏
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：芦名みのる
+  name: 音楽制作：KADOKAWA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：KADOKAWA
+  name: 監督：芦名みのる
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオぷYUKAI
