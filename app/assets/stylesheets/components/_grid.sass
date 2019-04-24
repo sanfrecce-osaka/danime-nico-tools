@@ -3,6 +3,5 @@
     padding-right: 0
     padding-left: 0
 
-.col-five-1
-  flex: 0 0 20%
-  max-width: 20%
+@for $i from 2 through 5
+  +make-grid-columns($columns: $i)
