@@ -7,7 +7,12 @@
 
     &__detail
       max-width: 800px
-      margin-right: 10%
+
+      +media-breakpoint-up(lg)
+        margin-right: 10%
+
+      +media-breakpoint-up(md)
+        margin-right: 2%
 
     &__title
       font-size: 24px
