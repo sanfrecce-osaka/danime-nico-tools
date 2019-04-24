@@ -13,3 +13,18 @@
       @content
   @else
     @content
+
+=media-breakpoint-between($breakpoint-name-from, $breakpoint-name-to, $breakpoints: $grid-breakpoints)
+  $breakpoint-from: breakpoint-min($breakpoint-name-from, $breakpoints)
+  $breakpoint-to: breakpoint-max($breakpoint-name-to, $breakpoints)
+
+  @if $breakpoint-from and $breakpoint-to
+    @media (min-width: $breakpoint-from)
+      @media (max-width: $breakpoint-to)
+        @content  
+  @else if $breakpoint-from
+    +media-breakpoint-up($breakpoint-from)
+  @else if $breakpoint-to
+    +media-breakpoint-down($breakpoint-to)
+  @else
+    @content
