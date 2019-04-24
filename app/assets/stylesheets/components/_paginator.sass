@@ -11,6 +11,11 @@
       .page-link
         color: $main-color
 
+        &.gap
+          +media-breakpoint-down(sm)
+            padding-left: 8px
+            padding-right: 8px
+
       &.disabled
         .page-link
           color: black
