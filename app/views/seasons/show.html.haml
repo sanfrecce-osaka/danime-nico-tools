@@ -1,13 +1,13 @@
 .season
   .season-header__container
     %section.season-header.row.m-0
-      .col-lg-9
+      .col-lg-9.col-md-8
         .season-header__detail
           %h2.season-header__title
             = @season.title
           %p.season-header__description
             = @season.outline
-      .col-lg-3
+      .col-lg-3.col-md-4
         .season-header__image
           = image_tag @season.thumbnail_url, alt: @season.title
   %section.season-episodes
