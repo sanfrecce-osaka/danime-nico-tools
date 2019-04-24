@@ -14,12 +14,24 @@
       +media-breakpoint-up(md)
         margin-right: 2%
 
+      .season-header__image
+        +media-breakpoint-up(md)
+          display: none
+
+        +media-breakpoint-down(md)
+          display: flex
+          margin-bottom: 15px
+
     &__title
       font-size: 24px
       margin-bottom: 15px
 
     &__image
-      padding: 15px 0 0 15px
+      +media-breakpoint-up(md)
+        padding: 15px 0 0 15px
+
+      +media-breakpoint-down(md)
+        padding: 0
 
   &-title
     +wrapper
