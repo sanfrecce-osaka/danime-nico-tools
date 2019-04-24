@@ -1,2 +1,5 @@
 - param_name = 'page' unless defined?(:param_name)
-= paginate resources, param_name: param_name
+.d-none.d-sm-flex
+  = paginate resources, param_name: param_name
+.d-sm-none.d-flex
+  = paginate resources, param_name: param_name, window: 1, outer_window: 3
