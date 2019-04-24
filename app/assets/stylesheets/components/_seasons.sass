@@ -25,7 +25,17 @@
     padding-left: 0
     margin-bottom: -10px
 
-    +children_without_both_ends_padding($class: seasons-item)
+    +media-breakpoint-down(sm)
+      +children_without_both_ends_padding($class: seasons-item, $per: 2)
+
+    +media-breakpoint-between(sm, md)
+      +children_without_both_ends_padding($class: seasons-item, $per: 3)
+
+    +media-breakpoint-between(md, lg)
+      +children_without_both_ends_padding($class: seasons-item, $per: 4)
+
+    +media-breakpoint-up(lg)
+      +children_without_both_ends_padding($class: seasons-item)
 
     &__container
       margin-bottom: 10px
