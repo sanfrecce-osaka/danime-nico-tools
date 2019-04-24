@@ -84,7 +84,11 @@
         margin-bottom: 5px
 
         &:nth-child(odd)
-          padding-right: 5px
+          +media-breakpoint-up(lg)
+            padding-right: 5px
+
+          +media-breakpoint-down(lg)
+            padding-right: 0
 
         &__container
           padding: 0
