@@ -12,9 +12,15 @@
         = first_page_tag
         = prev_page_tag
         - each_page do |page|
-          - if page.display_tag?
+          - if (page.left_outer? && current_page.left_outer?) || (page == (left + 1) && current_page < left)
             = page_tag page
-          - elsif !page.was_truncated?
+          - elsif (page.right_outer? && current_page.right_outer?) || (page == (total_pages - right) && current_page > (total_pages - right))
+            = page_tag page
+          - elsif page.inside_window?
+            = page_tag page
+          - elsif !page.was_truncated? && !page.inside_window? && page < current_page && !current_page.left_outer?
+            = gap_tag
+          - elsif !page.was_truncated? && !page.inside_window? && page > current_page && !current_page.right_outer?
             = gap_tag
         = next_page_tag
         = last_page_tag
