@@ -1,0 +1,19 @@
+=make-grid-columns($columns: $grid-columns, $gutter: $grid-gutter-width, $breakpoints: $grid-breakpoints)
+  @each $breakpoint-name in map-keys($breakpoints)
+    +media-breakpoint-up($breakpoint-name)
+      @for $i from 1 through $columns
+        +make-col-class($breakpoint-name: $breakpoint-name, $number-of-columns: $i, $total-of-columns: $columns)
+          flex: 0 0 $i / $columns * 100 + 0%
+          max-width: $i / $columns * 100 + 0%
+
+          @if $gutter > 0px
+            padding-right: $gutter
+            padding-left: $gutter
+
+=make-col-class($breakpoint-name: 'xs', $number-of-columns: 1, $total-of-columns: 12)
+  @if $breakpoint-name == 'xs'
+    .col-#{$number-of-columns}-of-#{$total-of-columns}
+      @content
+  @else
+    .col-#{$breakpoint-name}-#{$number-of-columns}-of-#{$total-of-columns}
+      @content
