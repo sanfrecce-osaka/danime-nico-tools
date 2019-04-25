@@ -8,6 +8,9 @@ tags: !ruby/array:Hashie::Array
   name: 恋愛/ラブコメ
   type: genre
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
