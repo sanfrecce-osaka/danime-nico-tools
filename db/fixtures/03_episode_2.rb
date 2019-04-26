@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-SeasonHash.already_created.each do |season|
+SeasonHash.already_created.select { |season| season.fixture_no.between?(1001, 2000) }.each do |season|
   if season.key?(:episodes)
     season.episodes.each.with_index(1) do |episode, overall_number|
       Episode.seed(:content_id) do |s|
