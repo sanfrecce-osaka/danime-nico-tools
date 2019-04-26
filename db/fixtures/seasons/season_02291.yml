@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: ONE OUTS
+watchable: false
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/67/9/21679_1_6.png?1551265996000
+outline: "「埼京彩珠リカオンズ」の児島弘道は、実力はありながらも一度も優勝をしたことがないという”不運の天才打者”。優勝するには何かが足りない…その何かを探すため沖縄で自主トレーニングに励んでいた。そこで児島が出会ったのは、渡久地東亜。”ワンナウト”と呼ばれる賭け野球で無敗を誇る伝説の男だった…！！二度のワンナウト勝負の末、気力で勝利を手にした児島は、東亜にリカオンズ優勝への光明を見出し、チームにスカウトする。そしてこの東亜の入団が、万年Bクラスの弱小球団「埼京彩珠リカオンズ」の運命を大きく変えることになる…！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 磯部勉
+  type: cast
+- !ruby/hash:TagHash
+  name: 萩原聖人
+  type: cast
+- !ruby/hash:TagHash
+  name: 窪田等
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐藤雄三
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：松本晃彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：梅原隆弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：甲斐谷忍
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: 2008年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
+  type: other
+- !ruby/hash:TagHash
+  name: ダークヒーロー
+  type: other
+- !ruby/hash:TagHash
+  name: 頭脳戦
+  type: other
+episodes: 
+cast: "[キャスト]<br>渡久地東亜:萩原聖人／児島弘道:磯部勉／彩川オーナー:内海賢二／ナレーション:窪田等"
+staff: "[スタッフ]<br>原作:甲斐谷忍（集英社　ヤングジャンプコミックスBJ刊）／監督:佐藤雄三／シリーズ構成:髙屋敷英夫／キャラクターデザイン:梅原隆弘／美術監督:上野秀行／音楽:松本晃彦／音響監督:本田保則／アニメーション制作:マッドハウス"
+produced_year: "[製作年]<br>2008年"
+copyright: "©甲斐谷忍／集英社・「ONE OUTS」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
