@@ -64,6 +64,10 @@ class SeasonHash < BaseHash
     season_with_different_title.present? ? season_with_different_title.different_titlt : title
   end
 
+  def fixture_no
+    path.slice(%r(\d+)).to_i
+  end
+
   private
 
   def episode_without_episode_no_and_title?(episode)
