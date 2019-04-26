@@ -65,7 +65,7 @@ class SeasonHash < BaseHash
   end
 
   def fixture_no
-    path.slice(%r(\d+)).to_i
+    file_path.slice(%r(\d+)).to_i
   end
 
   private
