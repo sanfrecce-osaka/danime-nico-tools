@@ -296,9 +296,23 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第9話'
           title: 'HIGHS＆LOWS'
+  - id: 16
+    title: 'ONE OUTS'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第7話'
+          title: '「Trick&Trap」'
+        nico_branch:
+          episode_no: '第2話'
+          title: '「Trick＆Trap」'
 seasons_with_different_title:
   -
     id: 1
     title: 'ReLIFE"完結編"'
     different_title: 'ReLIFE”完結編”'
 
+  -
+    id: 2
+    title: '犬猫アワー ｢47都道府犬R&にゃ～めん｣'
+    different_title: '犬猫アワー ｢47都道府犬R＆にゃ～めん｣'
