@@ -3,7 +3,9 @@
 class SeasonHash < BaseHash
   class << self
     def already_created
-      Dir.glob(FixtureDataTask::SEASONS_PATH).map { |path| YAMLFile.open(path).merge(file_path: path) }
+      Dir.glob(FixtureDataTask::SEASONS_PATH)
+        .map { |path| YAMLFile.open(path).merge(file_path: path) }
+        .sort_by(&:fixture_no)
     end
 
     def on_air
