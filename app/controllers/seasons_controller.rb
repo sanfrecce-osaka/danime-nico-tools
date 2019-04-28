@@ -18,6 +18,7 @@ class SeasonsController < ApplicationController
         .where(season_id: params[:id])
         .order(:overall_number)
         .page(page_params).per(10)
+    @title = @season.title
   end
 
   private
