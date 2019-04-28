@@ -2,7 +2,7 @@
 %html
   %head
     %meta{content: 'text/html; charset=UTF-8', 'http-equiv': 'Content-Type'}/
-    %title DanimeNicoTools
+    %title= [@title, 'danime-nico-tools - dアニメストア ニコニコ支店のための検索サイト'].compact.join(' | ')
     = csrf_meta_tags
     = stylesheet_link_tag 'application', media: 'all'
     = javascript_pack_tag 'application'
