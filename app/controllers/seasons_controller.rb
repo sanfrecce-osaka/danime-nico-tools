@@ -3,6 +3,12 @@
 class SeasonsController < ApplicationController
   def index
     @seasons = Season.search_by(@season_search_form).order(:title).page(page_params).per(20)
+    @title =
+      if @season_search_form.keywords.present?
+        "#{@season_search_form.keyword_type_name} × #{@season_search_form.keywords}の検索結果"
+      else
+        '作品一覧'
+      end
   end
 
   def show
