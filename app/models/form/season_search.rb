@@ -18,5 +18,9 @@ module Form
     def keyword_type_name
       SeasonSearchKeywordType.find_by(type: @keyword_type&.to_sym).name
     end
+
+    def season_list_title
+      keywords.present? ? "#{keyword_type_name} × #{keywords}の検索結果" : '作品一覧'
+    end
   end
 end
