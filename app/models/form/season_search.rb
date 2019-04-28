@@ -14,5 +14,9 @@ module Form
     def keyword_type
       @keyword_type&.to_sym
     end
+
+    def keyword_type_name
+      SeasonSearchKeywordType.find_by(type: @keyword_type&.to_sym).name
+    end
   end
 end
