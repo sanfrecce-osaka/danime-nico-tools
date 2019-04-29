@@ -17,5 +17,9 @@ FactoryBot.define do
     default_thread_id
     thumbnail_url
     content_id
+
+    trait :with_season do
+      season
+    end
   end
 end
