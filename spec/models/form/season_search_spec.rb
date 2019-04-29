@@ -75,5 +75,13 @@ RSpec.describe Form::SeasonSearch do
         expect(keyword_type_name).to eq 'スタッフ名'
       end
     end
+
+    context 'キーワードタイプがキーワード' do
+      let(:keyword_type_params) { :keyword }
+
+      it '"キーワード"を返す' do
+        expect(keyword_type_name).to eq 'キーワード'
+      end
+    end
   end
 end
