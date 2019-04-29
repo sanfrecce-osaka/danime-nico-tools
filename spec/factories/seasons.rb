@@ -13,7 +13,18 @@ FactoryBot.define do
 
     trait :with_episodes do
       after(:build) do |season|
-        12.times { season.episodes << build(:episode) }
+        12.times.with_index(1) do |n|
+          season.episodes << build(
+            :episode,
+            title: "エピソード#{n}",
+            description: "あらすじ#{n}",
+            overall_number: n,
+            number_in_season: "第#{n}話",
+            default_thread_id: n,
+            thumbnail_url: "http://dammy.com?i=#{n}",
+            content_id: "so#{n}"
+          )
+        end
       end
     end
   end
