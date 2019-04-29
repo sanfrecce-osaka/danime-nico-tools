@@ -59,5 +59,49 @@ RSpec.describe Episode, type: :model do
         end
       end
     end
+
+    context '作品タイトルと動画タイトルが異なるかつ作品タイトル表示フラグがtrue' do
+      context '話数が空' do
+        let(:title) { 'エピソード1' }
+        let(:number_in_season) { '' }
+        let(:with_season_title) { true }
+
+        it '作品タイトル+動画タイトルを返す' do
+          expect(full_title).to eq '愛少女ポリアンナ物語　エピソード1'
+        end
+      end
+
+      context '話数が空でない' do
+        let(:title) { 'エピソード1' }
+        let(:number_in_season) { '第1話' }
+        let(:with_season_title) { true }
+
+        it '作品タイトル+話数+動画タイトルを返す' do
+          expect(full_title).to eq '愛少女ポリアンナ物語　第1話　エピソード1'
+        end
+      end
+    end
+
+    context '作品タイトルと動画タイトルが異なるかつ作品タイトル表示フラグがfalse' do
+      context '話数が空' do
+        let(:title) { 'エピソード1' }
+        let(:number_in_season) { '' }
+        let(:with_season_title) { false }
+
+        it '動画タイトルを返す' do
+          expect(full_title).to eq 'エピソード1'
+        end
+      end
+
+      context '話数が空でない' do
+        let(:title) { 'エピソード1' }
+        let(:number_in_season) { '第1話' }
+        let(:with_season_title) { false }
+
+        it '話数+動画タイトルを返す' do
+          expect(full_title).to eq '第1話　エピソード1'
+        end
+      end
+    end
   end
 end
