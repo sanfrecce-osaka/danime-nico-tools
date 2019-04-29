@@ -12,5 +12,14 @@ RSpec.describe Season, type: :model do
         expect(season.not_begin_yet?).to be_falsey
       end
     end
+
+    context '作品が公開されていてEpisodeを持っていない' do
+      let(:season) { create(:season, watchable: watchable) }
+      let(:watchable) { true }
+
+      it 'trueを返す' do
+        expect(season.not_begin_yet?).to be_truthy
+      end
+    end
   end
 end
