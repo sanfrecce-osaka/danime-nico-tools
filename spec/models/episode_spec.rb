@@ -37,5 +37,17 @@ RSpec.describe Episode, type: :model do
         end
       end
     end
+
+    context '作品タイトルと動画タイトルが同じかつ作品タイトル表示フラグがfalse' do
+      context '話数が空' do
+        let(:title) { '愛少女ポリアンナ物語' }
+        let(:number_in_season) { '' }
+        let(:with_season_title) { false }
+
+        it '作品タイトル+#動画順を返す' do
+          expect(full_title).to eq '愛少女ポリアンナ物語　#1'
+        end
+      end
+    end
   end
 end
