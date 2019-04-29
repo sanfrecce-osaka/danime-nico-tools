@@ -47,4 +47,17 @@ RSpec.describe Form::SeasonSearch do
       expect(form.keyword_type.class).to eq Symbol
     end
   end
+
+  describe '#keyword_type_name' do
+    let(:params) { { keywords: 'マジンガーZ', keyword_type: keyword_type_params } }
+    let(:keyword_type_name) { form.keyword_type_name }
+
+    context 'キーワードタイプが作品タイトル' do
+      let(:keyword_type_params) { :season_title }
+
+      it '"作品タイトル"を返す' do
+        expect(keyword_type_name).to eq '作品タイトル'
+      end
+    end
+  end
 end
