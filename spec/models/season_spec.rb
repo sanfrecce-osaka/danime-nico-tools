@@ -40,4 +40,16 @@ RSpec.describe Season, type: :model do
       end
     end
   end
+
+  describe '#to_h' do
+    let(:season) { create(:season, :with_episodes) }
+    let(:season_hash) { season.to_h }
+
+    it 'SeasonとEpisodeがSeasonHashとEpisodeHashに変換される' do
+      expect(season_hash.class).to eq SeasonHash
+      season_hash.episodes.each do |episode|
+        expect(episode.class).to eq EpisodeHash
+      end
+    end
+  end
 end
