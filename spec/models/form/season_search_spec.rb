@@ -28,6 +28,15 @@ RSpec.describe Form::SeasonSearch do
           expect(keywords).to eq %w(マジンガーZ 暗黒大将軍)
         end
       end
+
+      context '全角スペース区切り' do
+        let(:keywords_params) { 'マジンガーZ　暗黒大将軍' }
+
+        it 'キーワードの配列を返す' do
+          expect(keywords.length).to eq 2
+          expect(keywords).to eq %w(マジンガーZ 暗黒大将軍)
+        end
+      end
     end
   end
 end
