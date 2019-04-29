@@ -26,6 +26,16 @@ RSpec.describe Episode, type: :model do
           expect(full_title).to eq '愛少女ポリアンナ物語　#1'
         end
       end
+
+      context '話数が空でない' do
+        let(:title) { '愛少女ポリアンナ物語' }
+        let(:number_in_season) { '第1話' }
+        let(:with_season_title) { true }
+
+        it '作品タイトル+話数を返す' do
+          expect(full_title).to eq '愛少女ポリアンナ物語　第1話'
+        end
+      end
     end
   end
 end
