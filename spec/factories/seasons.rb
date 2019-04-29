@@ -10,5 +10,11 @@ FactoryBot.define do
     staff { '[スタッフ]<br>原作者:エレナ・ホグマン・ポーター' }
     produced_year { 1986 }
     copyright { '©NIPPON ANIMATION CO.,LTD.' }
+
+    trait :with_episodes do
+      after(:build) do |season|
+        12.times { season.episodes << build(:episode) }
+      end
+    end
   end
 end
