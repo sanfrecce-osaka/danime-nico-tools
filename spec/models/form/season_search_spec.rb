@@ -84,4 +84,17 @@ RSpec.describe Form::SeasonSearch do
       end
     end
   end
+
+  describe '#season_list_title' do
+    let(:params) { { keywords: keywords_params, keyword_type: :season_title } }
+    let(:title) { form.season_list_title }
+
+    context 'キーワードが空' do
+      let(:keywords_params) { '' }
+
+      it '作品一覧を返す' do
+        expect(title).to eq '作品一覧'
+      end
+    end
+  end
 end
