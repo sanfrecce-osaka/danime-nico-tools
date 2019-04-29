@@ -96,5 +96,13 @@ RSpec.describe Form::SeasonSearch do
         expect(title).to eq '作品一覧'
       end
     end
+
+    context 'キーワードが空でない' do
+      let(:keywords_params) { 'マジンガーZ' }
+
+      it '"キーワードタイプ × キーワードの検索結果"を返す' do
+        expect(title).to eq '作品タイトル × マジンガーZの検索結果'
+      end
+    end
   end
 end
