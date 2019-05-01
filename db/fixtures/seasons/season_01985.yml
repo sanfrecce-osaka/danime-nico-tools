@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
-  name: 吉野裕行
+  name: 竹内順子
   type: cast
 - !ruby/hash:TagHash
-  name: 竹内順子
+  name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
   name: 三宅健太

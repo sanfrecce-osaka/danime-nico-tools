@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash
-  name: 日高里菜
+  name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 浅沼晋太郎
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
   name: 赤﨑千夏
@@ -53,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：愛敬由紀子
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：小原正和
+  name: 原作：川原礫
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：川原礫
+  name: 監督：小原正和
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：椛島洋介

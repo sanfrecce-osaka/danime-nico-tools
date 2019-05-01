@@ -8,10 +8,10 @@ tags: !ruby/array:Hashie::Array
   name: ショート
   type: genre
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 三森すずこ
   type: cast
 - !ruby/hash:TagHash
-  name: 三森すずこ
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
   name: 朴璐美

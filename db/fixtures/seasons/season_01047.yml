@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 東京喰種トーキョーグール：re
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/7/22107_1_6.png?1522125015000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/7/22107_1_6.png?1551348549000
 outline: 群衆に紛れ、ヒトの肉を喰らう。ヒトの形をしながら、ヒトとは異なる存在…“喰種（グール）”。“喰種”を駆逐・研究する〔ＣＣＧ〕は、あるひとつの命題を果たすため、実験体集団を新設する。──その名は「クインクス(Qs)」。「まともな人間」ではない彼らと、佐々木琲世一等捜査官が“
   東京（このまち）” で向き合うものとは──！？「東京喰種√Ａ」の２年後を描く新章「東京喰種：re」いよいよ始動。
 tags: !ruby/array:Hashie::Array
@@ -36,10 +36,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：中嶋敦子
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：やまだ豊
+  name: 原作：石田スイ
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：石田スイ
+  name: 音楽：やまだ豊
   type: staff
 - !ruby/hash:TagHash
   name: 監督：渡部穏寛
@@ -51,10 +51,16 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2018年春
+  type: other
+- !ruby/hash:TagHash
   name: 集英社
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: ダークヒーロー
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -192,3 +198,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: OVA東京喰種トーキョーグール【JACK】
 - !ruby/hash:SeasonHash
   title: OVA東京喰種トーキョーグール【PINTO】
+- !ruby/hash:SeasonHash
+  title: "「東京喰種トーキョーグール:re」（第2期）"
