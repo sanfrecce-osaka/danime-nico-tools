@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
-  name: 関智一
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 関智一
   type: cast
 - !ruby/hash:TagHash
   name: 遊佐浩二
@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
-  name: 黒田崇矢
+  name: 小野坂昌也
   type: cast
 - !ruby/hash:TagHash
-  name: 小野坂昌也
+  name: 黒田崇矢
   type: cast
 - !ruby/hash:TagHash
   name: 長谷川芳明
