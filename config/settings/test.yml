@@ -1,2 +1,11 @@
 paths:
   fixtures: './spec/fixtures'
+seasons_including_nonexistent_episodes:
+  -
+    id: 1
+    title: '愛少女ポリアンナ物語'
+    episodes:
+      -
+        id: 1
+        episode_no: ''
+        title: 'ニコニコ支店には存在しないエピソード'
