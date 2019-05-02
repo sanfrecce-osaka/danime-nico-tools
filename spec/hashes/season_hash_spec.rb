@@ -24,4 +24,10 @@ RSpec.describe SeasonHash do
       expect(already_created.map(&:file_path)).to eq expected
     end
   end
+
+  describe '.on_air' do
+    it '放送中作品リストに記載されている作品のみが抽出される' do
+      expect(SeasonHash.on_air.map(&:title)).to eq ['アイドル事変', 'アイドル天使 ようこそようこ']
+    end
+  end
 end
