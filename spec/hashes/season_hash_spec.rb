@@ -7,7 +7,7 @@ RSpec.describe SeasonHash do
     let(:already_created) { SeasonHash.already_created }
 
     it '作品の全てのfixtureを読み込んでいる' do
-      expect(already_created.length).to eq 3
+      expect(already_created.length).to eq 4
     end
 
     it '全てのfixtureが読み込み元のpathを持っている' do
@@ -20,6 +20,7 @@ RSpec.describe SeasonHash do
         ./spec/fixtures/seasons/season_00001.yml
         ./spec/fixtures/seasons/season_00003.yml
         ./spec/fixtures/seasons/season_00005.yml
+        ./spec/fixtures/seasons/season_01958.yml
       )
       expect(already_created.map(&:file_path)).to eq expected
     end
