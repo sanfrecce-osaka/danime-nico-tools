@@ -39,5 +39,13 @@ RSpec.describe SeasonHash do
         expect(only_title).to eq with_description
       end
     end
+
+    context '作品タイトルが異なる' do
+      it '別の作品と判定される' do
+        original_title = SeasonHash.new(title: 'アイドル事変', description: 'あらすじ1')
+        different_title = SeasonHash.new(title: 'アイドル事変2', description: 'あらすじ1')
+        expect(original_title).not_to eq different_title
+      end
+    end
   end
 end
