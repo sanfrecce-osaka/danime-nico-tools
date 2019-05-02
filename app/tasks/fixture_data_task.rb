@@ -3,7 +3,7 @@
 class FixtureDataTask
   include HashieCreatable
 
-  FIXTURES_DIR = './db/fixtures'
+  FIXTURES_DIR = Settings.paths.fixtures
   LISTS_DIR = "#{FIXTURES_DIR}/lists"
   SEASON_LIST_PATH = "#{LISTS_DIR}/season_list.yml"
   UPDATED_TO_NOT_WATCHABLE_LIST_PATH = "#{LISTS_DIR}/updated_to_not_watchable_list.yml"
