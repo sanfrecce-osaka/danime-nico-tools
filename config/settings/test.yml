@@ -9,3 +9,16 @@ seasons_including_nonexistent_episodes:
         id: 1
         episode_no: ''
         title: 'ニコニコ支店には存在しないエピソード'
+seasons_including_different_title_episodes:
+  -
+    id: 1
+    title: 'アイドル事変'
+    episodes:
+      -
+        id: 1
+        head:
+          episode_no: '事変01'
+          title: '私が国会議員になっても'
+        nico_branch:
+          episode_no: '事変01'
+          title: '私が市会議員になっても'
