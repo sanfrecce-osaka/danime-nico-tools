@@ -99,6 +99,16 @@ RSpec.describe SeasonHash do
           expect(different_title_episode.nico_branch).to eq expected_of_nico_branch
         end
       end
+
+      context '渡したエピソードがニコニコ支店の情報' do
+        let(:target_season_title) { 'アイドル事変' }
+        let(:target_episode_no) { '事変01' }
+        let(:target_episode_title) { '私が市会議員になっても' }
+
+        it 'nilを返す' do
+          expect(different_title_episode).to eq nil
+        end
+      end
     end
   end
 end
