@@ -89,7 +89,7 @@ RSpec.describe SeasonHash do
         let(:target_episode_title) { '私が国会議員になっても' }
 
         it '本店とニコニコ支店のエピソードの情報を格納したHashを返す' do
-          expect(different_title_episode.class).to eq SeasonHash
+          expect(different_title_episode.class).to eq Hashie::Mash
           expect(different_title_episode.keys).to eq %w(head nico_branch)
 
           expected_of_head = EpisodeHash.new(episode_no:'事変01',title:'私が国会議員になっても')

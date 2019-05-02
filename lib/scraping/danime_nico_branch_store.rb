@@ -21,7 +21,7 @@ module Scraping
         SeasonHash.new(
           title: season.title.freeze,
           episodes: season.episodes.map do |episode|
-            {
+            hashie(
               head: EpisodeHash.new(
                 episode_no: episode.head.episode_no.freeze,
                 title: episode.head.title.freeze
@@ -30,7 +30,7 @@ module Scraping
                 episode_no: episode.nico_branch.episode_no.freeze,
                 title: episode.nico_branch.title.freeze
               ).freeze
-            }
+            )
           end.freeze
         ).freeze
       end
