@@ -55,5 +55,11 @@ RSpec.describe SeasonHash do
         expect(SeasonHash.new(title: '愛少女ポリアンナ物語').has_nonexistent_episode?).to be_truthy
       end
     end
+
+    context '自身がニコニコ支店に存在しないエピソードがある作品として登録されていない' do
+      it 'falseを返す' do
+        expect(SeasonHash.new(title: 'アイドル事変').has_nonexistent_episode?).to be_falsey
+      end
+    end
   end
 end
