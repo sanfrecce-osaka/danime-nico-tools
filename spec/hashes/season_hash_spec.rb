@@ -30,4 +30,14 @@ RSpec.describe SeasonHash do
       expect(SeasonHash.on_air.map(&:title)).to eq ['アイドル事変', 'アイドル天使 ようこそようこ']
     end
   end
+
+  describe '#==' do
+    context '作品タイトルが同じ' do
+      it '同一の作品と判定される' do
+        only_title = SeasonHash.new(title: 'アイドル事変')
+        with_description = SeasonHash.new(title: 'アイドル事変', description: 'あらすじ1')
+        expect(only_title).to eq with_description
+      end
+    end
+  end
 end
