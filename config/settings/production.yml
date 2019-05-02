@@ -1,3 +1,5 @@
 database:
   username: danime-nico-tools
   password: <%= ENV['DANIME-NICO-TOOLS_DATABASE_PASSWORD'] %>
+paths:
+  fixtures: './db/fixtures'
