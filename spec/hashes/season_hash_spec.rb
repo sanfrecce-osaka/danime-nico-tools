@@ -110,5 +110,15 @@ RSpec.describe SeasonHash do
         end
       end
     end
+
+    context '引数として渡したエピソードを持つ作品が本店とニコニコ支店でタイトルの異なるエピソードを持つ作品として登録されていない' do
+      let(:target_season_title) { '愛少女ポリアンナ物語' }
+      let(:target_episode_no) { '事変01' }
+      let(:target_episode_title) { '私が国会議員になっても' }
+
+      it 'nilを返す' do
+        expect(different_title_episode).to eq nil
+      end
+    end
   end
 end
