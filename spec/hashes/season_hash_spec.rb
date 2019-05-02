@@ -76,4 +76,29 @@ RSpec.describe SeasonHash do
       end
     end
   end
+
+  describe '#find_different_title_episode' do
+    let(:target_season) { SeasonHash.new(title: target_season_title) }
+    let(:target_episode) { EpisodeHash.new(episode_no: target_episode_no, title: target_episode_title) }
+    let(:different_title_episode) { target_season.find_different_title_episode(target_episode) }
+
+    context '引数として渡したエピソードを持つ作品が本店とニコニコ支店でタイトルの異なるエピソードを持つ作品として登録されている' do
+      context '渡したエピソードが本店の情報' do
+        let(:target_season_title) { 'アイドル事変' }
+        let(:target_episode_no) { '事変01' }
+        let(:target_episode_title) { '私が国会議員になっても' }
+
+        it '本店とニコニコ支店のエピソードの情報を格納したHashを返す' do
+          expect(different_title_episode.class).to eq SeasonHash
+          expect(different_title_episode.keys).to eq %w(head nico_branch)
+
+          expected_of_head = EpisodeHash.new(episode_no:'事変01',title:'私が国会議員になっても')
+          expect(different_title_episode.head).to eq expected_of_head
+
+          expected_of_nico_branch = EpisodeHash.new(episode_no:'事変01',title:'私が市会議員になっても')
+          expect(different_title_episode.nico_branch).to eq expected_of_nico_branch
+        end
+      end
+    end
+  end
 end
