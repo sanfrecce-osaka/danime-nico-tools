@@ -62,4 +62,12 @@ RSpec.describe SeasonHash do
       end
     end
   end
+
+  describe '#has_different_title_episode?' do
+    context '自身が本店とニコニコ支店でタイトルの異なるエピソードがある作品として登録されている' do
+      it 'trueを返す' do
+        expect(SeasonHash.new(title: 'アイドル事変').has_different_title_episode?).to be_truthy
+      end
+    end
+  end
 end
