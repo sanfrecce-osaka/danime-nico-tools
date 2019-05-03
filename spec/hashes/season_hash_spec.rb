@@ -244,6 +244,26 @@ RSpec.describe SeasonHash do
             expect(season.before_episode.description).to eq current_episode.description
           end
         end
+
+        context '引数で渡されたエピソードが作品の現在公開されている最後のエピソード' do
+          let(:season_params) do
+            {
+              title: '異世界魔王と芹澤優と和氣あず未 クライマックス直前直後特番　-マジで最終回も来るとはな-',
+              episodes: [current_episode]
+            }
+          end
+          let(:current_episode_params) do
+            {
+              episode_no: '',
+              title: '異世界魔王と芹澤優と和氣あず未 クライマックス直前直後特番　-マジで最終回も来るとはな-',
+            }
+          end
+          let(:current_overall_number) { 1 }
+
+          it '作品にbefore_episodeが追加されない' do
+            expect(season.key?(:before_episode)).to be_falsey
+          end
+        end
       end
     end
   end
