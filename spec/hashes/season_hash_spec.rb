@@ -325,4 +325,20 @@ RSpec.describe SeasonHash do
       end
     end
   end
+
+  describe '#not_begin_yet?' do
+    let(:season) { SeasonHash.new(title: '愛少女ポリアンナ物語', watchable: watchable, episodes: episodes) }
+    let(:episode) { EpisodeHash.new(episode_no: '第1話', title: '教会の小さな娘') }
+
+    context '作品が公開されている' do
+      context 'エピソードを持っていない' do
+        let(:watchable) { true }
+        let(:episodes) { [] }
+
+        it 'trueを返す' do
+          expect(season.not_begin_yet?).to be_truthy
+        end
+      end
+    end
+  end
 end
