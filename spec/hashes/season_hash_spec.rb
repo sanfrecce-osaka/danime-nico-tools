@@ -193,5 +193,15 @@ RSpec.describe SeasonHash do
         end
       end
     end
+
+    context '作品タイトルとエピソードのタイトルが異なる' do
+      let(:season_params) { { title: '愛少女ポリアンナ物語' } }
+      let(:current_episode_params) { { episode_no: '第1話', title: '教会の小さな娘' } }
+      let(:current_overall_number) { 1 }
+
+      it '作品にnext_content_idが追加されない' do
+        expect(season.key?(:next_content_id)).to be_falsey
+      end
+    end
   end
 end
