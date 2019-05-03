@@ -177,6 +177,21 @@ RSpec.describe SeasonHash do
           end
         end
       end
+
+      context '話数が空でない' do
+        let(:season_params) { { title: '異世界魔王と芹澤優と和氣あず未 クライマックス直前直後特番　-マジで最終回も来るとはな-' } }
+        let(:current_episode_params) do
+          {
+            episode_no: '#1',
+            title: '異世界魔王と芹澤優と和氣あず未 クライマックス直前直後特番　-マジで最終回も来るとはな-'
+          }
+        end
+        let(:current_overall_number) { 1 }
+
+        it '作品にnext_content_idが追加されない' do
+          expect(season.key?(:next_content_id)).to be_falsey
+        end
+      end
     end
   end
 end
