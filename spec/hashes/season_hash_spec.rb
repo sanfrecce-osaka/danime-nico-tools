@@ -123,12 +123,12 @@ RSpec.describe SeasonHash do
     end
   end
 
-  describe '#add_next_content_id' do
+  describe '#add_current_content_id' do
     let(:season) { SeasonHash.new(season_params) }
     let(:current_episode) { EpisodeHash.new(current_episode_params) }
 
     before(:each) do
-      season.add_next_content_id(current_episode, current_overall_number)
+      season.add_current_content_id(current_episode, current_overall_number)
     end
 
     context '作品タイトルとエピソードのタイトルが同じ' do
@@ -143,9 +143,9 @@ RSpec.describe SeasonHash do
           end
           let(:current_overall_number) { 1 }
 
-          it '1つ目のエピソードのcontent_idが作品のnext_content_idに追加される' do
-            expect(season.key?(:next_content_id)).to be_truthy
-            expect(season.next_content_id).to eq 'so33925822'
+          it '1つ目のエピソードのcontent_idが作品のcurrent_content_idに追加される' do
+            expect(season.key?(:current_content_id)).to be_truthy
+            expect(season.current_content_id).to eq 'so33925822'
           end
         end
 
@@ -171,9 +171,9 @@ RSpec.describe SeasonHash do
           end
           let(:current_overall_number) { 2 }
 
-          it '2つ目のエピソードのcontent_idが作品のnext_content_idに追加される' do
-            expect(season.key?(:next_content_id)).to be_truthy
-            expect(season.next_content_id).to eq 'so33925821'
+          it '2つ目のエピソードのcontent_idが作品のcurrent_content_idに追加される' do
+            expect(season.key?(:current_content_id)).to be_truthy
+            expect(season.current_content_id).to eq 'so33925821'
           end
         end
       end
@@ -188,8 +188,8 @@ RSpec.describe SeasonHash do
         end
         let(:current_overall_number) { 1 }
 
-        it '作品にnext_content_idが追加されない' do
-          expect(season.key?(:next_content_id)).to be_falsey
+        it '作品にcurrent_content_idが追加されない' do
+          expect(season.key?(:current_content_id)).to be_falsey
         end
       end
     end
@@ -199,8 +199,8 @@ RSpec.describe SeasonHash do
       let(:current_episode_params) { { episode_no: '第1話', title: '教会の小さな娘' } }
       let(:current_overall_number) { 1 }
 
-      it '作品にnext_content_idが追加されない' do
-        expect(season.key?(:next_content_id)).to be_falsey
+      it '作品にcurrent_content_idが追加されない' do
+        expect(season.key?(:current_content_id)).to be_falsey
       end
     end
   end
