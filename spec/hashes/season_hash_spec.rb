@@ -295,5 +295,34 @@ RSpec.describe SeasonHash do
         end
       end
     end
+    
+    context '作品タイトルとエピソードのタイトルが異なる' do
+      let(:season_params) do
+        {
+          title: '愛少女ポリアンナ物語',
+          episodes: [current_episode, next_episode]
+        }
+      end
+      let(:current_episode_params) do
+        {
+          episode_no: '第1話',
+          title: '教会の小さな娘',
+          description: 'あらすじ1'
+        }
+      end
+      let(:next_episode) { EpisodeHash.new(next_episode_params) }
+      let(:next_episode_params) do
+        {
+          episode_no: '第2話',
+          title: '死なないで父さん',
+          description: 'あらすじ2'
+        }
+      end
+      let(:current_overall_number) { 1 }
+
+      it '作品にbefore_episodeが追加されない' do
+        expect(season.key?(:before_episode)).to be_falsey
+      end
+    end
   end
 end
