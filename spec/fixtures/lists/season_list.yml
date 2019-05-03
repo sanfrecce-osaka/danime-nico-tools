@@ -1,0 +1,13 @@
+---
+- !ruby/hash:Hashie::Mash
+  title: 愛少女ポリアンナ物語
+  first_episode_url: http://www.nicovideo.jp/watch/so32171478
+- !ruby/hash:Hashie::Mash
+  title: アイドル事変
+  first_episode_url: http://www.nicovideo.jp/watch/so32046155
+- !ruby/hash:Hashie::Mash
+  title: アイドル天使 ようこそようこ
+  first_episode_url: http://www.nicovideo.jp/watch/so32150148
+- !ruby/hash:Hashie::Mash
+  title: 異世界魔王と芹澤優と和氣あず未 クライマックス直前直後特番　-マジで最終回も来るとはな-
+  first_episode_url: http://www.nicovideo.jp/watch/so33925822
