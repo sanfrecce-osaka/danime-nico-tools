@@ -349,5 +349,14 @@ RSpec.describe SeasonHash do
         end
       end
     end
+
+    context '作品が公開されていない' do
+      let(:watchable) { false }
+      let(:episodes) { [] }
+
+      it 'falseを返す' do
+        expect(season.not_begin_yet?).to be_falsey
+      end
+    end
   end
 end
