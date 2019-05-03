@@ -122,4 +122,33 @@ RSpec.describe SeasonHash do
       end
     end
   end
+
+  describe '#add_next_content_id' do
+    let(:season) { SeasonHash.new(season_params) }
+    let(:current_episode) { EpisodeHash.new(current_episode_params) }
+
+    before(:each) do
+      season.add_next_content_id(current_episode, current_overall_number)
+    end
+
+    context '作品タイトルとエピソードのタイトルが同じ' do
+      context '話数が空' do
+        context '引数で渡されたエピソードが作品の1つ目のエピソード' do
+          let(:season_params) { { title: '異世界魔王と芹澤優と和氣あず未 クライマックス直前直後特番　-マジで最終回も来るとはな-' } }
+          let(:current_episode_params) do
+            {
+              episode_no: '',
+              title: '異世界魔王と芹澤優と和氣あず未 クライマックス直前直後特番　-マジで最終回も来るとはな-'
+            }
+          end
+          let(:current_overall_number) { 1 }
+
+          it '1つ目のエピソードのcontent_idが作品のnext_content_idに追加される' do
+            expect(season.key?(:next_content_id)).to be_truthy
+            expect(season.next_content_id).to eq 'so33925822'
+          end
+        end
+      end
+    end
+  end
 end
