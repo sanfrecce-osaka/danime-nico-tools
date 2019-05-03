@@ -339,6 +339,15 @@ RSpec.describe SeasonHash do
           expect(season.not_begin_yet?).to be_truthy
         end
       end
+
+      context 'エピソードを持っている' do
+        let(:watchable) { true }
+        let(:episodes) { [episode] }
+
+        it 'falseを返す' do
+          expect(season.not_begin_yet?).to be_falsey
+        end
+      end
     end
   end
 end
