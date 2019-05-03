@@ -15,7 +15,7 @@ module Api
         return season unless season.watchable
         return season if season.not_begin_yet?
         episodes = season.episodes.map.with_index(1) do |episode, overall_number|
-          season.add_next_content_id(episode, overall_number)
+          season.add_current_content_id(episode, overall_number)
           params =
             create_params(
               q: [season.title, episode.episode_no, episode.title, 'dアニメ'].select(&:present?).join('　'),
@@ -77,8 +77,8 @@ module Api
 
       def find_episode(results, season, episode)
         found_result =
-          if season.key?(:next_content_id)
-            target_content_id = season.delete(:next_content_id)
+          if season.key?(:current_content_id)
+            target_content_id = season.delete(:current_content_id)
             results.find { |result| result.contentId == target_content_id }
           else
             results.find { |result| full_to_half(result.title) =~ %r(#{target_title_for_regexp(season, episode)}$) }
