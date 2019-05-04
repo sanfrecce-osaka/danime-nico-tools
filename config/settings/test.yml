@@ -22,3 +22,8 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '事変01'
           title: '私が市会議員になっても'
+seasons_with_different_title:
+  -
+    id: 1
+    title: 'ReLIFE"完結編"'
+    different_title: 'ReLIFE”完結編”'
