@@ -63,7 +63,7 @@ class SeasonHash < BaseHash
 
   def original_or_different_title
     season_with_different_title = Scraping::DanimeNicoBranchStore.find_season_with_different_title(self)
-    season_with_different_title.present? ? season_with_different_title.different_titlt : title
+    season_with_different_title.present? ? season_with_different_title.different_title : title
   end
 
   def fixture_no
