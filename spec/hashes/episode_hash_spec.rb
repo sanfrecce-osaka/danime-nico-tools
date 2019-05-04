@@ -52,6 +52,15 @@ RSpec.describe EpisodeHash do
           expect(is_nonexistent_episode).to be_truthy
         end
       end
+
+      context '本店のみに存在するエピソードとして登録されていない' do
+        let(:season_params) { { title: '愛少女ポリアンナ物語', episodes: [existent_episode] } }
+        let(:target_episode) { existent_episode }
+
+        it 'falseを返す' do
+          expect(is_nonexistent_episode).to be_falsey
+        end
+      end
     end
   end
 end
