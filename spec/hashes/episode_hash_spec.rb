@@ -97,5 +97,13 @@ RSpec.describe EpisodeHash do
           .to change{target_episode.title}.from('私が国会議員になっても').to('私が市会議員になっても')
       end
     end
+
+    context '本店と支店で異なるタイトルを持つエピソードとして登録されていない' do
+      let(:target_episode) { episode_with_same_title.dup }
+
+      it '話数・タイトルともに実行前と変わらない' do
+        expect(update_only_different_title).to eq episode_with_same_title
+      end
+    end
   end
 end
