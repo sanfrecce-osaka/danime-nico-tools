@@ -73,4 +73,29 @@ RSpec.describe EpisodeHash do
       end
     end
   end
+
+  describe '#update_only_different_title' do
+    let(:season) do
+      SeasonHash.new(
+        title: 'アイドル事変',
+        episodes: [episode_with_same_title.dup, episode_with_different_title.dup]
+      )
+    end
+    let(:episode_with_different_title) { EpisodeHash.new(episode_no: '事変01', title: '私が国会議員になっても') }
+    let(:episode_with_same_title) { EpisodeHash.new(episode_no: '事変02', title: '少女S') }
+    let(:update_only_different_title) { target_episode.update_only_different_title(season) }
+
+    context '本店と支店で異なるタイトルを持つエピソードとして登録されている' do
+      let(:target_episode) { episode_with_different_title.dup }
+
+      it '話数が支店のものに更新される' do
+        expect{ update_only_different_title }.to change{ target_episode.episode_no }.from('事変01').to('#01')
+      end
+
+      it 'エピソードのタイトルが支店のものに更新される' do
+        expect{ update_only_different_title }
+          .to change{target_episode.title}.from('私が国会議員になっても').to('私が市会議員になっても')
+      end
+    end
+  end
 end
