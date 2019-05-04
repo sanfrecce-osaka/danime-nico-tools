@@ -96,7 +96,7 @@ RSpec.describe SeasonHash do
           expected_of_head = EpisodeHash.new(episode_no:'事変01',title:'私が国会議員になっても')
           expect(different_title_episode.head).to eq expected_of_head
 
-          expected_of_nico_branch = EpisodeHash.new(episode_no:'事変01',title:'私が市会議員になっても')
+          expected_of_nico_branch = EpisodeHash.new(episode_no:'#01',title:'私が市会議員になっても')
           expect(different_title_episode.nico_branch).to eq expected_of_nico_branch
         end
       end
