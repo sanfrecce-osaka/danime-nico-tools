@@ -359,4 +359,17 @@ RSpec.describe SeasonHash do
       end
     end
   end
+
+  describe '#original_or_different_title' do
+    let(:season) { SeasonHash.new(title: title) }
+    let(:original_or_different_title) { season.original_or_different_title }
+
+    context '本店とエピソードで作品タイトルが異なる作品として登録されている' do
+      let(:title) { 'ReLIFE"完結編"' }
+
+      it '登録されている変換後のタイトルを返す' do
+        expect(original_or_different_title).to eq 'ReLIFE”完結編”'
+      end
+    end
+  end
 end
