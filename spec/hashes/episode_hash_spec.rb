@@ -16,6 +16,15 @@ RSpec.describe EpisodeHash do
           expect(comparing).to eq compared
         end
       end
+
+      context 'タイトルが異なる' do
+        let(:comparing_params) { { episode_no: '第1話', title: '教会の小さな娘' } }
+        let(:compared_params) { { episode_no: '第1話', title: '教会の大きな娘' } }
+
+        it '別のエピソードと判定される' do
+          expect(comparing).not_to eq compared
+        end
+      end
     end
   end
 end
