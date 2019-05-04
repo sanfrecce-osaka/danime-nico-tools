@@ -380,4 +380,13 @@ RSpec.describe SeasonHash do
       end
     end
   end
+
+  describe '#fixture_no' do
+    let(:season) { SeasonHash.already_created.find { |e| e.file_path.include?('season_00003.yml') } }
+    let(:fixture_no) { season.fixture_no }
+
+    it 'ファイル名に含まれるfixtureの番号を数値で返す' do
+      expect(fixture_no).to eq 3
+    end
+  end
 end
