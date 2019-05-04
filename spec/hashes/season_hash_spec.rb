@@ -371,5 +371,13 @@ RSpec.describe SeasonHash do
         expect(original_or_different_title).to eq 'ReLIFE”完結編”'
       end
     end
+
+    context '本店とエピソードで作品タイトルが異なる作品として登録されていない' do
+      let(:title) { '愛少女ポリアンナ物語' }
+
+      it '実行したインスタンスが持つタイトルを返す' do
+        expect(original_or_different_title).to eq '愛少女ポリアンナ物語'
+      end
+    end
   end
 end
