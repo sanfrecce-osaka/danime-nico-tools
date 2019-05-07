@@ -65,7 +65,7 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 2019年春
+  name: 2018年秋
   type: other
 - !ruby/hash:TagHash
   name: 頼れる側近
