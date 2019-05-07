@@ -450,6 +450,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1551661993
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34724985.15308
+- !ruby/hash:EpisodeHash
+  episode_no: "＃44"
+  title: ブラウン校長の苦悩/世界から忘れられて
+  description: "＜ブラウン校長の苦悩＞実は校長の免許をもっていないことが、ガムボールとダーウィンにバレたブラウン校長。バラさないでもらおうと２人に取り入ろうとするが、なかなかうまくいかず、追い詰められた校長は…。／＜世界から忘れられて＞友達のモリーがいなくなっていることに気付いたガムボールとダーウィン。しかしみんなはモリーの存在すら忘れている様子。２人はスモール先生とモリーを探しに出るが…。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so34724985←前話｜次話→so35026974　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so35026975
+  default_thread_id: 1556241245
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35026975.12143
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
