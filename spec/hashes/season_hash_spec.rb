@@ -421,6 +421,14 @@ RSpec.describe SeasonHash do
         )
       end
     end
+
+    context '本店とエピソードで作品タイトルが異なる作品として登録されていない' do
+      let(:original_title) { '愛少女ポリアンナ物語' }
+
+      it 'nilを返す' do
+        expect(different_titles).to eq nil
+      end
+    end
   end
 
   describe '#original_or_different_title' do
