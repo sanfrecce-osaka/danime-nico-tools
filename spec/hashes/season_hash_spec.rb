@@ -407,6 +407,22 @@ RSpec.describe SeasonHash do
     end
   end
 
+  describe '#different_titles' do
+    let(:season) { SeasonHash.new(title: original_title) }
+    let(:different_titles) { season.different_titles }
+
+    context '本店とエピソードで作品タイトルが異なる作品として登録されている' do
+      let(:original_title) { 'ReLIFE"完結編"' }
+
+      it '本店と異なるタイトルを格納したHashを返す' do
+        expect(different_titles).to eq Hashie::Mash.new(
+          lineup: nil,
+          episode: 'ReLIFE”完結編”'
+        )
+      end
+    end
+  end
+
   describe '#original_or_different_title' do
     let(:season) { SeasonHash.new(title: title) }
     let(:original_or_different_title) { season.original_or_different_title }
