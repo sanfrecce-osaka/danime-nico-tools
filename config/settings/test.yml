@@ -26,4 +26,6 @@ seasons_with_different_title:
   -
     id: 1
     title: 'ReLIFE"完結編"'
-    different_title: 'ReLIFE”完結編”'
+    different_titles:
+      lineup:
+      episode: 'ReLIFE”完結編”'
