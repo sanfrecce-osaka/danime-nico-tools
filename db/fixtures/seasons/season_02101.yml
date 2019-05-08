@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
   name: 鳥海浩輔
