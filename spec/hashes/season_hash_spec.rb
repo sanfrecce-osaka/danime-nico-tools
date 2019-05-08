@@ -71,6 +71,24 @@ RSpec.describe SeasonHash do
     end
   end
 
+  describe '#different_title_episodes' do
+    let(:season) { SeasonHash.new(title: season_title) }
+    let(:different_title_episodes) { season.different_title_episodes }
+
+    context '本店と支店で異なるタイトルを持つエピソードがある作品として登録されている' do
+      let(:season_title) { 'アイドル事変' }
+
+      it '本店と支店で異なるタイトルを持つエピソードの配列を返す' do
+        expect(different_title_episodes).to eq [
+          Hashie::Mash.new(
+            head: EpisodeHash.new(episode_no: '事変01', title: '私が国会議員になっても'),
+            nico_branch: EpisodeHash.new(episode_no: '#01', title: '私が市会議員になっても')
+          )
+        ]
+      end
+    end
+  end
+
   describe '#has_nonexistent_episode?' do
     context '自身がニコニコ支店に存在しないエピソードがある作品として登録されている' do
       it 'trueを返す' do
