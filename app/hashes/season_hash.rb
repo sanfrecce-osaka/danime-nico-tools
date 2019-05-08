@@ -68,9 +68,13 @@ class SeasonHash < BaseHash
     watchable && episodes.blank?
   end
 
+  def different_titles
+    Scraping::DanimeNicoBranchStore::SEASONS_WITH_DIFFERENT_TITLE.find { |season| season == self }&.differences&.titles
+  end
+
   def original_or_different_title
-    season_with_different_title = Scraping::DanimeNicoBranchStore.find_season_with_different_title(self)
-    season_with_different_title.present? ? season_with_different_title.different_title : title
+    nico_episode_title = different_titles&.episode
+    nico_episode_title.presence || title
   end
 
   def fixture_no
