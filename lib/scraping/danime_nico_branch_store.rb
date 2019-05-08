@@ -59,11 +59,6 @@ module Scraping
       end.freeze
 
     class << self
-      def find_season_including_nonexistent_episodes(season)
-        Scraping::DanimeNicoBranchStore::SEASONS_INCLUDING_NONEXISTENT_EPISODES
-          .find { |season_including_nonexistent_episode| season_including_nonexistent_episode == season }
-      end
-
       def find_season_including_different_title_episode(season)
         Scraping::DanimeNicoBranchStore::SEASONS_INCLUDING_DIFFERENT_TITLE_EPISODES
           .find { |season_including_different_title_episode| season_including_different_title_episode == season }
