@@ -6,7 +6,7 @@ class EpisodeHash < BaseHash
   end
 
   def nonexistent_episode?(season)
-    Scraping::DanimeNicoBranchStore.find_season_including_nonexistent_episodes(season)&.episodes&.include?(self)
+    season.nonexistent_episodes&.include?(self)
   end
 
   def update_only_different_title(season)
