@@ -50,6 +50,19 @@ RSpec.describe SeasonHash do
     end
   end
 
+  describe '#nonexistent_episodes' do
+    let(:season) { SeasonHash.new(title: season_title) }
+    let(:nonexistent_episodes) { season.nonexistent_episodes }
+
+    context '本店のみに存在するエピソードを持つ作品として登録されている' do
+      let(:season_title) { '愛少女ポリアンナ物語' }
+
+      it '本店のみに存在するエピソードの配列を返す' do
+        expect(nonexistent_episodes).to eq [EpisodeHash.new(episode_no: '', title: 'ニコニコ支店には存在しないエピソード')]
+      end
+    end
+  end
+
   describe '#has_nonexistent_episode?' do
     context '自身がニコニコ支店に存在しないエピソードがある作品として登録されている' do
       it 'trueを返す' do
