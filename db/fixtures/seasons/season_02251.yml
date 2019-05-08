@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: Lynn
   type: cast
 - !ruby/hash:TagHash
-  name: 富田美憂
+  name: 白石晴香
   type: cast
 - !ruby/hash:TagHash
-  name: 白石晴香
+  name: 富田美憂
   type: cast
 - !ruby/hash:TagHash
   name: 朝日奈丸佳
