@@ -87,6 +87,14 @@ RSpec.describe SeasonHash do
         ]
       end
     end
+
+    context '本店と支店で異なるタイトルを持つエピソードとして登録されていない' do
+      let(:season_title) { '愛少女ポリアンナ物語' }
+
+      it 'nilを返す' do
+        expect(different_title_episodes).to eq nil
+      end
+    end
   end
 
   describe '#has_nonexistent_episode?' do
