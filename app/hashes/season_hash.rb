@@ -18,6 +18,10 @@ class SeasonHash < BaseHash
     self.title == object.title
   end
 
+  def nonexistent_episodes
+    Scraping::DanimeNicoBranchStore::SEASONS_INCLUDING_NONEXISTENT_EPISODES.find { |season| season == self }&.episodes
+  end
+
   def has_nonexistent_episode?
     Scraping::DanimeNicoBranchStore::SEASONS_INCLUDING_NONEXISTENT_EPISODES.include?(self)
   end
