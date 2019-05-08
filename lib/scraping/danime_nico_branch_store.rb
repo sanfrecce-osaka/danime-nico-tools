@@ -38,8 +38,13 @@ module Scraping
       def initialize_season_with_different_title(season)
         SeasonHash.new(
           title: season.title.freeze,
-          different_title: season.different_title.freeze
-        )
+          differences: hashie(
+            titles: hashie(
+              lineup: season.different_titles.lineup.freeze,
+              episode: season.different_titles.episode.freeze
+            ).freeze
+          ).freeze
+        ).freeze
       end
     end
 
@@ -57,12 +62,5 @@ module Scraping
       Settings.seasons_with_different_title.map do |season|
         initialize_season_with_different_title(season)
       end.freeze
-
-    class << self
-      def find_season_with_different_title(season)
-        Scraping::DanimeNicoBranchStore::SEASONS_WITH_DIFFERENT_TITLE
-          .find { |season_with_different_title| season_with_different_title == season }
-      end
-    end
   end
 end
