@@ -59,11 +59,6 @@ module Scraping
       end.freeze
 
     class << self
-      def find_season_including_different_title_episode(season)
-        Scraping::DanimeNicoBranchStore::SEASONS_INCLUDING_DIFFERENT_TITLE_EPISODES
-          .find { |season_including_different_title_episode| season_including_different_title_episode == season }
-      end
-
       def find_season_with_different_title(season)
         Scraping::DanimeNicoBranchStore::SEASONS_WITH_DIFFERENT_TITLE
           .find { |season_with_different_title| season_with_different_title == season }
