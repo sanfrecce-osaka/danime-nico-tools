@@ -1,0 +1,139 @@
+--- !ruby/hash:SeasonHash
+title: グリザイア：ファントムトリガー THE ANIMATION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/71/0/22710_1_6.png?1553673626000
+outline: "“国の組織ＣＩＲＳ(サーズ)”によって新たに作られた、特殊技能訓練校「美浜学園」…様々な理由で行き場を失くした少女たちに与えられたのは、銃と実弾。拳銃を使用するレナ、狙撃を得意とするトーカ、爆弾と情報処理のクリス、諜報活動担当の忍者ムラサキ。彼女たちは、日々、ＳＯＲＤ(ソード)のメンバーとして、警察や自衛隊には解決できない事件にあたり、危険な活動を繰り返す。Ｋ県Ｕ港――。入国予定だった要人が突如として姿を消した。ＳＯＲＤのメンバーは失踪事件の捜索を開始するが、消えた“荷物”を捉えようとする度に、もう少しの所で逃げていく。姉妹校『京船桜が丘』のＳＯＲＤメンバーである、双子姉妹との協力、および確執。そして――夜の街を疾走する謎の女ライダー「ソウルスピード」・マキの噂――。追跡はやがて壮絶な死闘となり、心身ともに引き裂かれてゆく。…しかしそれは、レナたちの出逢いにまで遡る過去への旅でもあった。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 代永翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 種﨑敦美
+  type: cast
+- !ruby/hash:TagHash
+  name: 井澤美香子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：Elements Garden
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡辺明夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：天衝
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：フロントウイング
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：藤間仁
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：バイブリーアニメーションスタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：松本文紀
+  type: staff
+- !ruby/hash:TagHash
+  name: グリザイアシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: SORD
+  description: 廃校後、施設の解体費用もままならぬまま放置されていた「美浜学園」は個人に買い取られ、新たに「特殊技能訓練校」としての役目を得た。そんな学園で、様々な理由で行き場を失くした少女達に与えられたのは銃と実弾。国防の名目のもとに、彼女達は命すらも顧みられることのない危険な超法規的活動を繰り返す。どうせ磨り潰される命なら、銃を手にして戦うことを選んだ少女達の未来は…<br><br>レナ:内田真礼／トーカ:佐倉綾音／クリス:名塚佳織／ムラサキ:種﨑敦美／マキ:南條愛乃／有坂秋桜里:井澤美香子／ハルト:代永翼<br><br>原作:フロントウイング／企画・プロデューサー:山川竜一郎／原案:藤崎竜太／監督・シリーズ構成・脚本:天衝／キャラクターデザイン・総作画監督:渡辺明夫／副監督:村山公輔／色彩設計:林可奈子／美術設定:塩澤良憲／美術監督:後藤俊彦／撮影監督:熊澤祐哉／CGIプロデューサー:根本繁樹／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:濱野高年／音響制作:マジックカプセル／音楽:藤間仁（Elements
+    Garden）、松本文紀／楽曲プロデューサー:西村潤(NBC Universal)／PV・公式サイト制作:須藤大輔(.MP)／アソシエイトプロデューサー:小林亨庸尊、跡部泰広／アニメーション制作:バイブリーアニメーションスタジオ／配給:角川ANIMATION、MBSアニメーション／製作:©Frontwing<br><br>©Frontwing<br><br>次話→so34992275
+  length_seconds: 838
+  content_id: so34992274
+  default_thread_id: 1555637583
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992274.60326
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: SORD
+  description: 廃校後、施設の解体費用もままならぬまま放置されていた「美浜学園」は個人に買い取られ、新たに「特殊技能訓練校」としての役目を得た。そんな学園で、様々な理由で行き場を失くした少女達に与えられたのは銃と実弾。国防の名目のもとに、彼女達は命すらも顧みられることのない危険な超法規的活動を繰り返す。どうせ磨り潰される命なら、銃を手にして戦うことを選んだ少女達の未来は…<br><br>レナ:内田真礼／トーカ:佐倉綾音／クリス:名塚佳織／ムラサキ:種﨑敦美／マキ:南條愛乃／有坂秋桜里:井澤美香子／ハルト:代永翼<br><br>原作:フロントウイング／企画・プロデューサー:山川竜一郎／原案:藤崎竜太／監督・シリーズ構成・脚本:天衝／キャラクターデザイン・総作画監督:渡辺明夫／副監督:村山公輔／色彩設計:林可奈子／美術設定:塩澤良憲／美術監督:後藤俊彦／撮影監督:熊澤祐哉／CGIプロデューサー:根本繁樹／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:濱野高年／音響制作:マジックカプセル／音楽:藤間仁（Elements
+    Garden）、松本文紀／楽曲プロデューサー:西村潤(NBC Universal)／PV・公式サイト制作:須藤大輔(.MP)／アソシエイトプロデューサー:小林亨庸尊、跡部泰広／アニメーション制作:バイブリーアニメーションスタジオ／配給:角川ANIMATION、MBSアニメーション／製作:©Frontwing<br><br>©Frontwing<br><br>so34992274←前話｜次話→so34992276　第一話→so34992274
+  length_seconds: 836
+  content_id: so34992275
+  default_thread_id: 1555637586
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992275.92819
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: SORD
+  description: 廃校後、施設の解体費用もままならぬまま放置されていた「美浜学園」は個人に買い取られ、新たに「特殊技能訓練校」としての役目を得た。そんな学園で、様々な理由で行き場を失くした少女達に与えられたのは銃と実弾。国防の名目のもとに、彼女達は命すらも顧みられることのない危険な超法規的活動を繰り返す。どうせ磨り潰される命なら、銃を手にして戦うことを選んだ少女達の未来は…<br><br>レナ:内田真礼／トーカ:佐倉綾音／クリス:名塚佳織／ムラサキ:種﨑敦美／マキ:南條愛乃／有坂秋桜里:井澤美香子／ハルト:代永翼<br><br>原作:フロントウイング／企画・プロデューサー:山川竜一郎／原案:藤崎竜太／監督・シリーズ構成・脚本:天衝／キャラクターデザイン・総作画監督:渡辺明夫／副監督:村山公輔／色彩設計:林可奈子／美術設定:塩澤良憲／美術監督:後藤俊彦／撮影監督:熊澤祐哉／CGIプロデューサー:根本繁樹／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:濱野高年／音響制作:マジックカプセル／音楽:藤間仁（Elements
+    Garden）、松本文紀／楽曲プロデューサー:西村潤(NBC Universal)／PV・公式サイト制作:須藤大輔(.MP)／アソシエイトプロデューサー:小林亨庸尊、跡部泰広／アニメーション制作:バイブリーアニメーションスタジオ／配給:角川ANIMATION、MBSアニメーション／製作:©Frontwing<br><br>©Frontwing<br><br>so34992275←前話｜次話→so34992249　第一話→so34992274
+  length_seconds: 883
+  content_id: so34992276
+  default_thread_id: 1555637703
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992276.10932
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ソウル・スピード
+  description: 日本へ入国予定だった海外からの要人が突如として姿を消した。美浜学園・SORD(ソード)のメンバーたちは失踪事件の捜索支援を開始する。美浜の姉妹校「京船桜が丘」に在籍する双子姉妹との協力、および確執。謎の女ライダー「ソウル・スピード」の噂。追跡はやがて壮絶な死闘となり、心身ともに引き裂かれてゆく。それは、レナとハルトの出逢いにまで遡る過去への旅でもあった。<br><br>レナ:内田真礼／トーカ:佐倉綾音／クリス:名塚佳織／ムラサキ:種﨑敦美／マキ:南條愛乃／有坂秋桜里:井澤美香子／ハルト:代永翼<br><br>原作:フロントウイング／企画・プロデューサー:山川竜一郎／原案:藤崎竜太／監督・シリーズ構成・脚本:天衝／キャラクターデザイン・総作画監督:渡辺明夫／副監督:村山公輔／色彩設計:林可奈子／美術設定:塩澤良憲／美術監督:後藤俊彦／撮影監督:熊澤祐哉／CGIプロデューサー:根本繁樹／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:濱野高年／音響制作:マジックカプセル／音楽:藤間仁（Elements
+    Garden）、松本文紀／楽曲プロデューサー:西村潤(NBC Universal)／PV・公式サイト制作:須藤大輔(.MP)／アソシエイトプロデューサー:小林亨庸尊、跡部泰広／アニメーション制作:バイブリーアニメーションスタジオ／配給:角川ANIMATION、MBSアニメーション／製作:©Frontwing<br><br>©Frontwing<br><br>so34992276←前話｜次話→so34992248　第一話→so34992274
+  length_seconds: 985
+  content_id: so34992249
+  default_thread_id: 1555637103
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992249.53075
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ソウル・スピード
+  description: 日本へ入国予定だった海外からの要人が突如として姿を消した。美浜学園・SORD(ソード)のメンバーたちは失踪事件の捜索支援を開始する。美浜の姉妹校「京船桜が丘」に在籍する双子姉妹との協力、および確執。謎の女ライダー「ソウル・スピード」の噂。追跡はやがて壮絶な死闘となり、心身ともに引き裂かれてゆく。それは、レナとハルトの出逢いにまで遡る過去への旅でもあった。<br><br>レナ:内田真礼／トーカ:佐倉綾音／クリス:名塚佳織／ムラサキ:種﨑敦美／マキ:南條愛乃／有坂秋桜里:井澤美香子／ハルト:代永翼<br><br>原作:フロントウイング／企画・プロデューサー:山川竜一郎／原案:藤崎竜太／監督・シリーズ構成・脚本:天衝／キャラクターデザイン・総作画監督:渡辺明夫／副監督:村山公輔／色彩設計:林可奈子／美術設定:塩澤良憲／美術監督:後藤俊彦／撮影監督:熊澤祐哉／CGIプロデューサー:根本繁樹／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:濱野高年／音響制作:マジックカプセル／音楽:藤間仁（Elements
+    Garden）、松本文紀／楽曲プロデューサー:西村潤(NBC Universal)／PV・公式サイト制作:須藤大輔(.MP)／アソシエイトプロデューサー:小林亨庸尊、跡部泰広／アニメーション制作:バイブリーアニメーションスタジオ／配給:角川ANIMATION、MBSアニメーション／製作:©Frontwing<br><br>©Frontwing<br><br>so34992249←前話｜次話→so34992247　第一話→so34992274
+  length_seconds: 1129
+  content_id: so34992248
+  default_thread_id: 1555637109
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992248.69319
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: ソウル・スピード
+  description: 日本へ入国予定だった海外からの要人が突如として姿を消した。美浜学園・SORD(ソード)のメンバーたちは失踪事件の捜索支援を開始する。美浜の姉妹校「京船桜が丘」に在籍する双子姉妹との協力、および確執。謎の女ライダー「ソウル・スピード」の噂。追跡はやがて壮絶な死闘となり、心身ともに引き裂かれてゆく。それは、レナとハルトの出逢いにまで遡る過去への旅でもあった。<br><br>レナ:内田真礼／トーカ:佐倉綾音／クリス:名塚佳織／ムラサキ:種﨑敦美／マキ:南條愛乃／有坂秋桜里:井澤美香子／ハルト:代永翼<br><br>原作:フロントウイング／企画・プロデューサー:山川竜一郎／原案:藤崎竜太／監督・シリーズ構成・脚本:天衝／キャラクターデザイン・総作画監督:渡辺明夫／副監督:村山公輔／色彩設計:林可奈子／美術設定:塩澤良憲／美術監督:後藤俊彦／撮影監督:熊澤祐哉／CGIプロデューサー:根本繁樹／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:濱野高年／音響制作:マジックカプセル／音楽:藤間仁（Elements
+    Garden）、松本文紀／楽曲プロデューサー:西村潤(NBC Universal)／PV・公式サイト制作:須藤大輔(.MP)／アソシエイトプロデューサー:小林亨庸尊、跡部泰広／アニメーション制作:バイブリーアニメーションスタジオ／配給:角川ANIMATION、MBSアニメーション／製作:©Frontwing<br><br>©Frontwing<br><br>so34992248←前話　第一話→so34992274
+  length_seconds: 1126
+  content_id: so34992247
+  default_thread_id: 1555637105
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992247.51530
+cast: "[キャスト]<br>レナ:内田真礼／トーカ:佐倉綾音／クリス:名塚佳織／ムラサキ:種﨑敦美／マキ:南條愛乃／有坂秋桜里:井澤美香子／ハルト:代永翼"
+staff: "[スタッフ]<br>原作:フロントウイング／企画・プロデューサー:山川竜一郎／原案:藤崎竜太／監督・シリーズ構成・脚本:天衝／キャラクターデザイン・総作画監督:渡辺明夫／副監督:村山公輔／色彩設計:林可奈子／美術設定:塩澤良憲／美術監督:後藤俊彦／撮影監督:熊澤祐哉／CGIプロデューサー:根本繁樹／CGIディレクター:高橋将人／編集:武宮むつみ／音響監督:濱野高年／音響制作:マジックカプセル／音楽:藤間仁（Elements
+  Garden）、松本文紀／楽曲プロデューサー:西村潤(NBC Universal)／PV・公式サイト制作:須藤大輔(.MP)／アソシエイトプロデューサー:小林亨庸尊、跡部泰広／アニメーション制作:バイブリーアニメーションスタジオ／配給:角川ANIMATION、MBSアニメーション／製作:©Frontwing"
+produced_year: "[製作年]<br>2019年"
+copyright: "©Frontwing"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: グリザイアの果実
+- !ruby/hash:SeasonHash
+  title: グリザイアの迷宮
+- !ruby/hash:SeasonHash
+  title: グリザイアの楽園
