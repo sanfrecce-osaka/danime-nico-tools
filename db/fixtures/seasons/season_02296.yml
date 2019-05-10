@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: 女子かう生
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/69/7/22697_1_6.png?1552879862000
+outline: 残念美人のもも子を中心に、クール系メガネのしぶ美&癒し系ちびっ子まゆみの3人が過ごす楽しい高校生活♪１人でも楽しい、みんなと一緒でも楽しい、ちょいバカでぐうかわな彼女たちの日常
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 立花理香
+  type: cast
+- !ruby/hash:TagHash
+  name: 嶺内ともみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：佐々木勅嘉
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：アニメーションスタジオ・セブン
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：若井ケン
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山本恭平
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: 女子かう生とふともも／女子かう生と不幸な一日／女子かう生と眠気／女子かう生とファミレス
+  description: 第1話：女子高生・富戸もも子が教室で寝ていると、親友の古井まゆみと渋沢しぶ美がやってくる。その後、もも子が教室で一人リラックスしていると、一匹の蚊が入ってきて……。／第2話：朝のテレビの占いで、もも子は自分の星座が最下位になっているのを見てしまう。嫌な予感を覚えながらも、家を出るもも子だが、もも子の身に次々と不幸な出来事が降りかる。／第3話：深郷田正が眠そうに電車に乗ると、目の前にもも子が座っていた。自分をよく見せようとするが、空回りする深郷田。挙句の果てにガムをもも子の太ももに落としてしまい……。／第4話：ファミレスにやって来た、もも子、しぶ美、まゆみの三人。もも子は二人が料理を食べる中、金欠で料理を食べられずにいると、テーブルナプキンで動物を作って遊び始める。<br><br>富戸もも子:立花理香／渋沢しぶみ:嶺内ともみ／古井まゆみ:久保ユリカ　ほか<br><br>原作:「女子かう生」（原作者：若井ケン・双葉社）／監督・シリーズ構成:佐々木勅嘉／キャラクターデザイン:山本恭平／音響監督:長崎行男／音響制作:BloomZ／アニメーション制作:アニメーションスタジオ・セブン／製作:「女子かう生」製作委員会<br><br>©若井ケン/双葉社・「女子かう生」製作委員会
+  length_seconds: 843
+  content_id: so35012773
+  default_thread_id: 1555981623
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012773.13111
+cast: "[キャスト]<br>富戸もも子:立花理香／渋沢しぶみ:嶺内ともみ／古井まゆみ:久保ユリカ　ほか"
+staff: "[スタッフ]<br>原作:「女子かう生」（原作者：若井ケン・双葉社）／監督・シリーズ構成:佐々木勅嘉／キャラクターデザイン:山本恭平／音響監督:長崎行男／音響制作:BloomZ／アニメーション制作:アニメーションスタジオ・セブン／製作:「女子かう生」製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©若井ケン/双葉社・「女子かう生」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
