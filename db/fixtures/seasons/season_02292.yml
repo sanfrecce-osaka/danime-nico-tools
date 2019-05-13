@@ -86,6 +86,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1556068803
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=35017438.47952
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 友達と敵
+  description: カイリがチームを離れ、鬼天盟の拠点に連れてこられたジンとシドウゲン。シドウゲンはキコテンチュウに説得されて鬼天盟に入ることに。ジンは鬼天盟に不信感を抱き、カイリは友達でキコテンチュウが言うような新人暗殺者ではないと信じる。鬼天盟の拠点に潜り込んだカイリはジンとシドウゲンを連れ出すが、2人はキコテンチュウにGPSを仕込まれていた。3人の居場所がばれ、ジンとシドウゲンに裏切られたと思い込んだカイリは大喧嘩の末に立ち去る。<br><br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり<br><br>監督:周亮／脚本家:云落／原作者:7DOC<br><br>©7DOC<br><br>so35017438←前話｜次話→so35037847　第一話→so35017434
+  length_seconds: 1420
+  content_id: so35037846
+  default_thread_id: 1556419742
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35037846.41360
 cast: "[キャスト]<br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり"
 staff: "[スタッフ]<br>監督:周亮／脚本家:云落／原作者:7DOC"
 produced_year: "[製作年]<br>2019年"
