@@ -238,7 +238,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35028739
   default_thread_id: 1556271123
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35028739.12411
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35102895.97728
 - !ruby/hash:EpisodeHash
   episode_no: 第51話
   title: 雷槍
