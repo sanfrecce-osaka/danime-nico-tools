@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 近藤隆
   type: cast
 - !ruby/hash:TagHash
-  name: 和氣あず未
+  name: 白井悠介
   type: cast
 - !ruby/hash:TagHash
-  name: 白井悠介
+  name: 和氣あず未
   type: cast
 - !ruby/hash:TagHash
   name: 寺島惇太
