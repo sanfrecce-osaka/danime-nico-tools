@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: ほら、耳がみえてるよ！第2期
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/74/1/22741_1_6.png?1554253233000
+outline: 養護施設で育てられてきた売れない漫画家・ダイスウは、周囲との交流も持たない、孤独で退屈な毎日を漫然と過ごしていた。しかしある日、謎めいた“猫耳を生やした少年"—ミョウの出現によってダイスウの生活が一変される。いつもトラブルばかり起こすミョウだが、ダイスウの心は今までの孤独な生活では感じられなかった“暖かさ”で満たされてゆく。猫耳が生えた少年・ミョウと、孤独で売れない漫画家・ダイスウのコミカルな日常を描きつつ、謎に包まれたミョウの正体が徐々に明らかになっていく、新感覚日常系作品です。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝間田啓吾
+  type: cast
+- !ruby/hash:TagHash
+  name: 章翔サリナ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：菅野千愛
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：菅野千愛
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：monofilmo
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：特雷西胡
+  type: staff
+- !ruby/hash:TagHash
+  name: ほら、耳がみえてるよ！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話～第18話
+  title: ただいま、おかえり。／金髪男の正体／眠りに落ちている間に…／ずっと大切にしたいこと/引っ越し相談／追試への猛特訓/ずっと一緒にいてくれる？／大切な人と、メリークリスマス
+  description: 第13話：2週間の日本旅行でミョウに対する特別な想いに気付いてしまったダイスウ。中国に戻った二人だったが、何と向かいの部屋にドンドンが引っ越していた。そしてドンドンの部屋に入ると、そこにいたのは…。／第14話：ミョウとダイスウが日本旅行に行っている間、バスケの試合を観戦していたドンドン。すると、一際バスケがうまい選手がいる。彼の正体を知るべく、ドンドンはロッカールームに潜り込む…。／第15話：ドンドンの家にバスケの試合を観にやってきたイヴァン。応援していたチームが負けてしまい、落ち込むドンドンは、自分の秘密をイヴァンに知られることになる…。／第16話：キンシュウにミョウへの想いを打ち明けるダイスウ。しかし、キンシュウはとっくにダイスウの気持ちに気付いていた。一方、イヴァンが引っ越し先を探していることがわかり…。／第17話：追試を受けることになったドンドン。イヴァンが付きっきりで勉強を教えてくれたのだが、いつの間にか眠りについてしまい…。一方、ダイスウはミョウに自分の想いを打ち明けるのだが…。／第18話：クリスマスの日に映画館に行ったミョウとダイスウ。映画終わりにダイスウのサプライズに、ミョウが思わず…。一方、ドンドンはイヴァンを喜ばせようと盛大なクリスマスパーティーを開催するのだが…<br><br>ミョウ:村瀬歩／ダイスウ:内田雄馬／ドンドン:勝間田啓吾／キンシュウ:章翔サリナ<br><br>原作:特雷西胡（「漫漫漫画」連載）／監督・演出:菅野千愛／脚本:monofilmo／音響監督:近貞博／音響制作:アルケミーブラザース／アニメーション制作:monofilmo<br><br>©
+    特雷西胡／「ほら耳」製作委員会
+  length_seconds: 1085
+  content_id: so35017534
+  default_thread_id: 1556070542
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35017534.97555
+cast: "[キャスト]<br>ミョウ:村瀬歩／ダイスウ:内田雄馬／ドンドン:勝間田啓吾／キンシュウ:章翔サリナ"
+staff: "[スタッフ]<br>原作:特雷西胡（「漫漫漫画」連載）／監督・演出:菅野千愛／脚本:monofilmo／音響監督:近貞博／音響制作:アルケミーブラザース／アニメーション制作:monofilmo"
+produced_year: "[製作年]<br>2019年"
+copyright: "© 特雷西胡／「ほら耳」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ほら、耳がみえてるよ！

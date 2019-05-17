@@ -1,0 +1,63 @@
+--- !ruby/hash:SeasonHash
+title: みるタイツ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/71/5/22715_1_6.png?1552879873000
+outline: ４月。雨の朝。散り始めた桜が雨に打たれ、水たまりに浮かんでいる。生徒たちが色とりどりの傘が高校の校門をくぐり抜けていく。「おはよ、レン」。下駄箱の前で、濡れたタイツのレンにユアが話しかける。憂鬱そうに振り向くレンに、そこにいっそうびしょ濡れのホミが、跳ねるようにやってきて話に花を咲かせる。他愛無い３人の女子生徒の会話が、新学期の訪れを教室に告げる。少女たちのかけがえのない時間が駆け抜けて、季節が移り変わっていく……
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 洲崎綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：小川優樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：よむ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：日比野ゆかり
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Shade
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：横浜アニメーションラボ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 通学タイツ
+  description: 新学期最初の朝は雨。下駄箱の前で、濡れたタイツが少し憂鬱な藍川レンに、中紅ユアがくすっと笑いながら話しかける。そこに、いっそうびしょ濡れな萌黄ホミも話に加わる。一度しかない高校2年生の一年が始まる。<br><br>藍川レン:戸松遥／中紅ユア:日笠陽子／萌黄ホミ:洲崎綾／奥墨ユイコ:茅野愛衣<br><br>原作・ストーリー原案:よむ／監督:小川優樹／シリーズ構成・脚本:丸戸史明／キャラクターデザイン:日比野ゆかり／色彩設計:中尾総子／美術監督:栫ヒロツグ／撮影監督:佐藤光洋／編集:吉武将人／音響監督:明田川仁／音楽:Shade／制作:横浜アニメーションラボ／製作:TRUSS<br><br>©よむ/TRUSS<br><br>次話→so35121559
+  length_seconds: 250
+  content_id: so35093909
+  default_thread_id: 1557277803
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35093909.63346
+cast: "[キャスト]<br>藍川レン:戸松遥／中紅ユア:日笠陽子／萌黄ホミ:洲崎綾／奥墨ユイコ:茅野愛衣"
+staff: "[スタッフ]<br>原作・ストーリー原案:よむ／監督:小川優樹／シリーズ構成・脚本:丸戸史明／キャラクターデザイン:日比野ゆかり／色彩設計:中尾総子／美術監督:栫ヒロツグ／撮影監督:佐藤光洋／編集:吉武将人／音響監督:明田川仁／音楽:Shade／制作:横浜アニメーションラボ／製作:TRUSS"
+produced_year: "[製作年]<br>2019年"
+copyright: "©よむ/TRUSS"
+related_seasons: !ruby/array:Hashie::Array []
