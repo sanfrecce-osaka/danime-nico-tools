@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: カードファイト!! ヴァンガード2019
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/70/5/22705_1_6.png?1557459009000
+outline: 遊星ブラントの侵略の脅威から、「惑星クレイ」と「ヴァンガード」を護り抜いた先導アイチとその仲間達。だが、運命力の修正によってコーリンとの出会いと、ブラントとの戦いの記憶を失ってしまう。高校生ファイター達の大型大会「ヴァンガード甲子園」の開催が迫る中、失った“何か”を取り戻すための先導者達の戦いが幕を開ける。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 代永翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿部敦
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 橘田いずみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 奈良徹
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：OLM
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川崎逸朗
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：伊藤彰
+  type: staff
+- !ruby/hash:TagHash
+  name: カードファイト!! ヴァンガードシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ディメンジョン1
+  title: 廃部!!
+  description: ヴァンガード甲子園の出場を目指す先導アイチ達宮地学園カードファイト部。しかし、所属する部員の人数が足りず、生徒会から廃部を通告されてしまう。<br><br>先導アイチ:代永翼／石田ナオキ:奈良徹／立凪コーリン:三森すずこ／戸倉ミサキ:橘田いずみ／小茂井シンゴ:吉野裕行／櫂トシキ:佐藤拓也／伊吹コウジ:宮野真守／雀ヶ森レン:阿部敦／立凪レッカ:南條愛乃／立凪スイコ:愛美<br><br>原作:ブシロード、伊藤彰／製作総指揮・原案:木谷高明／監督:川崎逸朗／シリーズ構成:赤星政尚／
+    キャラクターデザイン:磯野智／美術監督:丹伊田輝彦／音響監督:今泉雄一／アニメーション制作:オー・エル・エム／製作:Project Vanguard2019<br><br>©Project
+    Vanguard2019/Aichi Television<br><br>次話→so35117377
+  length_seconds: 1485
+  content_id: so35117378
+  default_thread_id: 1557710471
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117378.99885
+cast: "[キャスト]<br>先導アイチ:代永翼／石田ナオキ:奈良徹／立凪コーリン:三森すずこ／戸倉ミサキ:橘田いずみ／小茂井シンゴ:吉野裕行／櫂トシキ:佐藤拓也／伊吹コウジ:宮野真守／雀ヶ森レン:阿部敦／立凪レッカ:南條愛乃／立凪スイコ:愛美"
+staff: "[スタッフ]<br>原作:ブシロード、伊藤彰／製作総指揮・原案:木谷高明／監督:川崎逸朗／シリーズ構成:赤星政尚／ キャラクターデザイン:磯野智／美術監督:丹伊田輝彦／音響監督:今泉雄一／アニメーション制作:オー・エル・エム／製作:Project
+  Vanguard2019"
+produced_year: "[製作年]<br>2019年"
+copyright: "©Project Vanguard2019/Aichi Television"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: カードファイト!! ヴァンガード
+- !ruby/hash:SeasonHash
+  title: カードファイト!! ヴァンガード　アジアサーキット編
+- !ruby/hash:SeasonHash
+  title: バミューダトライアングル ～カラフル・パストラーレ～
