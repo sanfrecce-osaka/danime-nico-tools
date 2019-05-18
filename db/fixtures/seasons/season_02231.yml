@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 早見沙織
+  name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 茅野愛衣
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 三木眞一郎

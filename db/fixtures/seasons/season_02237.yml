@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 野川さくら
   type: cast
 - !ruby/hash:TagHash
-  name: 世戸さおり
+  name: 大橋歩夕
   type: cast
 - !ruby/hash:TagHash
-  name: 大橋歩夕
+  name: 世戸さおり
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：日本コロムビア
