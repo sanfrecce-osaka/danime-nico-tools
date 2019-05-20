@@ -70,6 +70,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 2019年春
   type: other
+- !ruby/hash:TagHash
+  name: 野球
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第1話

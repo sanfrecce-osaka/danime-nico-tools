@@ -68,6 +68,9 @@ tags: !ruby/array:Hashie::Array
   name: ダークヒーロー
   type: other
 - !ruby/hash:TagHash
+  name: ハーレム
+  type: other
+- !ruby/hash:TagHash
   name: 吉野弘幸
   type: other
 - !ruby/hash:TagHash
