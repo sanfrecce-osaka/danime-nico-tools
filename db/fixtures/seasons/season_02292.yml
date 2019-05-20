@@ -95,6 +95,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1556419742
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=35037846.41360
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 距離
+  description: 鬼天盟のモンスター狩りイベントに参加したジンとシドウゲン。イベントを通して二人の実力を試したキコテンチュウは、ジンのポテンシャルは高いが、シドウゲンはイマイチとの評価を下す。鬼天盟の加入試験で2人の能力差が大きいことが判明し、コンプレックスを感じ始めたシドウゲンはジンとギクシャクしてしまう。一方、鬼天盟に姿を現したグレイはジンを返せとキコテンチュウを脅す。カイリにも不信感を抱くグレイは、号哭の洞窟の真相を吐かせようとカイリを攻撃する。<br><br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり<br><br>監督:周亮／脚本家:云落／原作者:7DOC<br><br>©7DOC<br><br>so35037846←前話｜次話→so35149872　第一話→so35017434
+  length_seconds: 1420
+  content_id: so35037847
+  default_thread_id: 1556419865
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35037847.99298
 cast: "[キャスト]<br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり"
 staff: "[スタッフ]<br>監督:周亮／脚本家:云落／原作者:7DOC"
 produced_year: "[製作年]<br>2019年"
