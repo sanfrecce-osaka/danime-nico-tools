@@ -130,6 +130,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1555549270
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=34987549.51657
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話／第40話
+  title: みんなで食べよう！食戟！衝撃！大惨劇‼／バロン再び！貴族と執事の卑劣な罠！
+  description: 第39話：ある日の昼休み、屋上で弁当を広げるくるみたち。どうやらその日は各々自分で弁当を作ってきたという。プリマエンジェル５人の、衝撃的な手料理とは！？／第40話：今日も公園でトレーニング中のつばめとくるみ。そこへ現れたのは暗黒ホエールズの幹部バロンとその執事！彼らの卑劣な罠がくるみたちを襲う！<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>so34987549←前話　第一話→so34072824
+  length_seconds: 1440
+  content_id: so35134439
+  default_thread_id: 1558055539
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35134439.23364
 cast: "[キャスト]<br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか"
 staff: "[スタッフ]<br>原案:Pie in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the
   sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia

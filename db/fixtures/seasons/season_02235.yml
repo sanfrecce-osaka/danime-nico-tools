@@ -38,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 山口愛
   type: cast
 - !ruby/hash:TagHash
+  name: 志田有彩
+  type: cast
+- !ruby/hash:TagHash
   name: 小林千晃
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤沙耶
-  type: cast
-- !ruby/hash:TagHash
-  name: 志田有彩
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：SILVER LINK.
