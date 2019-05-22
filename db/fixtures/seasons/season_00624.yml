@@ -50,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：OLM
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：渡辺俊幸
+  name: アニメーション制作：亜細亜堂
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：亜細亜堂
+  name: 音楽：渡辺俊幸
   type: staff
 - !ruby/hash:TagHash
   name: 監督：池添隆博
