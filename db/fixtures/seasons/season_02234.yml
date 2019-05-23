@@ -149,7 +149,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117379
   default_thread_id: 1557710643
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117379.69578
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35159251/35159251.76115389
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: "「プーじろーとうじょう！」／「プーじろーは毛にいらね～！」"

@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 赤﨑千夏
+  name: 原由実
   type: cast
 - !ruby/hash:TagHash
-  name: 原由実
+  name: 赤﨑千夏
   type: cast
 - !ruby/hash:TagHash
   name: 三澤紗千香
