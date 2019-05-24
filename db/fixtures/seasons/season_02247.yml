@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
-  name: 代永翼
+  name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
-  name: 江口拓也
+  name: 代永翼
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤拓也
