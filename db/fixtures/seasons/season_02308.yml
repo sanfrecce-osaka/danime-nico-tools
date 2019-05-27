@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: ポンコツクエスト～魔王と派遣の魔物たち～　シーズン5
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/77/6/22776_1_6.png?1557298807000
+outline: 魔王に仕えるポンコツな魔物「カク」と「イムラ」の、グダグダな日常を描いたコメディアニメ。魔王様に言われるがまま、さまざまな場所に派遣社員の様に飛ばされる二人。その度文句を言ったり、ケンカしたり…。RPGのようなファンタジーの世界で、現代人のようなグチをこぼす彼らは、果たして立派な魔物になれるのか！？監督脚本は「ヤイヤイ森のコミー」の松本慶祐。プロデュースは「かよえ！チュー学」などの会話劇アニメを得意とし、様々なキャラクターコンテンツを手がけるPie
+  in the sky。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 松本慶祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：松本慶祐
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Pie in the sky
+  type: staff
+- !ruby/hash:TagHash
+  name: ポンコツクエストシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2013年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第四十九章～第五十四章
+  title: 第5シーズン前半
+  description: 第四十九章「監視」／第五十章「遭難」／第五十一章「胞子」／第五十二章「謎」／第五十三章「手下」／第五十四章「砂漠」<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと／プロデューサー:ほりこし だい、えんどう じゅんいち／アニメーションせいさく:Pie in the
+    sky／せいさく:VAP<br><br>© VAP<br><br>次話→so35125855
+  length_seconds: 1439
+  content_id: so35125854
+  default_thread_id: 1557882482
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35125854.95671
+- !ruby/hash:EpisodeHash
+  episode_no: 第五十五章～第六十章
+  title: 第5シーズン後半
+  description: 第五十五章「故障」／第五十六章「深海」／第五十七章「交換」／第五十八章「風邪」／第五十九章「錬金」／第六十章「成長」<br><br>かんとく・きゃくほん・せいゆう:まつもと
+    けいすけ／きかく:まつもと けいすけ、しんかい たけと／プロデューサー:ほりこし だい、えんどう じゅんいち／アニメーションせいさく:Pie in the
+    sky／せいさく:VAP<br><br>© VAP<br><br>so35125854←前話　第一話→so35125854
+  length_seconds: 1439
+  content_id: so35125855
+  default_thread_id: 1557882485
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35125855.41811
+staff: "[スタッフ]<br>かんとく・きゃくほん・せいゆう:まつもと けいすけ／きかく:まつもと けいすけ、しんかい たけと／プロデューサー:ほりこし だい、えんどう
+  じゅんいち／アニメーションせいさく:Pie in the sky／せいさく:VAP"
+produced_year: "[製作年]<br>2018年"
+copyright: "© VAP"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ポンコツクエスト～魔王と派遣の魔物たち～
+- !ruby/hash:SeasonHash
+  title: ポンコツクエスト～魔王と派遣の魔物たち～　シーズン3
+- !ruby/hash:SeasonHash
+  title: ポンコツクエスト～魔王と派遣の魔物たち～　シーズン4

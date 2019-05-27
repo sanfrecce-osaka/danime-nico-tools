@@ -120,6 +120,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1557969363
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=35130242.25916
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: アキバじゃにゃあ
+  description: '"写真部に入ったんだし、カメラが欲しい。そう言いだした陣。次の日に写真部みんなで大須に陣のカメラを買いに行くことになった。待ち合わせ場所についたものの居るのは陣と八十亀だけ…。しばらく経っても只草とやん菜が来ないので先に八十亀とコメ兵へ向かうと…。"<br><br>陣界斗:市来光弘／八十亀最中:戸松遥／只草舞衣:若井友希／笹津やん菜:小松未可子／陣繁華:東城日沙子<br><br>原作:安藤正基『八十亀ちゃんかんさつにっき』（「月刊ComicREX」連載中/一迅社刊）／総監督:ひらさわひさよし／キャラクターデザイン:早坂皐月／美術監督:青山央和／色彩設計:小山知子／撮影監督:林幸司／編集:櫻井崇／音響監督:ひらさわひさよし／シリーズ構成:WORDS
+    in STEREO／アニメーション制作:サエッタ／アニメーション制作協力:Creators in Pack / LEVELS<br><br>©安藤正基・一迅社／八十亀ちゃん製作委員会<br><br>so35130242←前話　第一話→so34902433'
+  length_seconds: 787
+  content_id: so35163852
+  default_thread_id: 1558601222
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35163852/35163852.25288866
 cast: "[キャスト]<br>陣界斗:市来光弘／八十亀最中:戸松遥／只草舞衣:若井友希／笹津やん菜:小松未可子／陣繁華:東城日沙子"
 staff: "[スタッフ]<br>原作:安藤正基『八十亀ちゃんかんさつにっき』（「月刊ComicREX」連載中/一迅社刊）／総監督:ひらさわひさよし／キャラクターデザイン:早坂皐月／美術監督:青山央和／色彩設計:小山知子／撮影監督:林幸司／編集:櫻井崇／音響監督:ひらさわひさよし／シリーズ構成:WORDS
   in STEREO／アニメーション制作:サエッタ／アニメーション制作協力:Creators in Pack / LEVELS"

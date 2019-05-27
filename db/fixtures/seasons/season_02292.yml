@@ -104,6 +104,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1556419865
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=35037847.99298
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: グレイVSガドロス
+  description: グレイとカイリが戦っている最中、鬼天盟よりメッセージを受け取ったガドロスが姿を見せ、グレイに襲いかかる。煽りを受けたカイリは鬼天盟に捕まってしまう。激しい戦いを繰り広げるガドロスとグレイは拮抗状態で遂にはどちらも武器が壊れてしまう。キコテンチュウはガドロスを自分の配下に収め、強者との提携を企むが、ガドロスはキコテンチュウの汚いやり方を一蹴する。その頃、ライシーが海賊団を率いて鬼天盟の拠点に到着する。<br><br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり<br><br>監督:周亮／脚本家:云落／原作者:7DOC<br><br>©7DOC<br><br>so35037847←前話｜次話→so35149873　第一話→so35017434
+  length_seconds: 1420
+  content_id: so35149872
+  default_thread_id: 1558314625
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35149872.50170
 cast: "[キャスト]<br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり"
 staff: "[スタッフ]<br>監督:周亮／脚本家:云落／原作者:7DOC"
 produced_year: "[製作年]<br>2019年"
