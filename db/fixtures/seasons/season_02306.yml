@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版「王室教師ハイネ」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/79/9/22799_1_6.png?1557901808000
+outline: グランツライヒ王国最大の危機！？ドSな双子王子に悪戦苦闘…！ハイネと王子たちの「合同授業」が今、始まります。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 蒼井翔太
+  type: cast
+- !ruby/hash:TagHash
+  name: 植田圭輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 安里勇哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 安達勇人
+  type: cast
+- !ruby/hash:TagHash
+  name: 廣瀬大介
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：スクウェア・エニックス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：井内啓二
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：菊池カツヤ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：奥山鈴奈
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：赤井ヒガサ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ティアスタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 王室教師ハイネシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 劇場版「王室教師ハイネ」
+  description: グランツライヒ王国最大の危機！？ドSな双子王子に悪戦苦闘…！ハイネと王子たちの「合同授業」が今、始まります。<br><br>ハイネ:植田圭輔／カイ:安里勇哉／ブルーノ:安達勇人／レオンハルト:廣瀬大介／リヒト:蒼井翔太<br><br>原作:赤井ヒガサ（掲載　月刊「Gファンタジー」
+    スクウェア・エニックス刊）／監督:菊池カツヤ／脚本:うえのきみこ・相内美生／アニメーションキャラクターデザイン・総作画監督:奥山鈴奈／ 音響監督:郷田ほづみ／音楽:井内啓二／アニメーション制作:ティアスタジオ<br><br>©赤井ヒガサ／SQUARE
+    ENIX・劇場版「王室教師ハイネ」製作委員会<br><br>次話→so35162619
+  length_seconds: 1190
+  content_id: so35162620
+  default_thread_id: 1558574283
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162620/35162620.32219042
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 劇場版「王室教師ハイネ」
+  description: グランツライヒ王国最大の危機！？ドSな双子王子に悪戦苦闘…！ハイネと王子たちの「合同授業」が今、始まります。<br><br>ハイネ:植田圭輔／カイ:安里勇哉／ブルーノ:安達勇人／レオンハルト:廣瀬大介／リヒト:蒼井翔太<br><br>原作:赤井ヒガサ（掲載　月刊「Gファンタジー」
+    スクウェア・エニックス刊）／監督:菊池カツヤ／脚本:うえのきみこ・相内美生／アニメーションキャラクターデザイン・総作画監督:奥山鈴奈／ 音響監督:郷田ほづみ／音楽:井内啓二／アニメーション制作:ティアスタジオ<br><br>©赤井ヒガサ／SQUARE
+    ENIX・劇場版「王室教師ハイネ」製作委員会<br><br>so35162620←前話｜次話→so35162630　第一話→so35162620
+  length_seconds: 1336
+  content_id: so35162619
+  default_thread_id: 1558574528
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162619/35162619.68388616
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: 劇場版「王室教師ハイネ」
+  description: グランツライヒ王国最大の危機！？ドSな双子王子に悪戦苦闘…！ハイネと王子たちの「合同授業」が今、始まります。<br><br>ハイネ:植田圭輔／カイ:安里勇哉／ブルーノ:安達勇人／レオンハルト:廣瀬大介／リヒト:蒼井翔太<br><br>原作:赤井ヒガサ（掲載　月刊「Gファンタジー」
+    スクウェア・エニックス刊）／監督:菊池カツヤ／脚本:うえのきみこ・相内美生／アニメーションキャラクターデザイン・総作画監督:奥山鈴奈／ 音響監督:郷田ほづみ／音楽:井内啓二／アニメーション制作:ティアスタジオ<br><br>©赤井ヒガサ／SQUARE
+    ENIX・劇場版「王室教師ハイネ」製作委員会<br><br>so35162619←前話　第一話→so35162620
+  length_seconds: 1075
+  content_id: so35162630
+  default_thread_id: 1558574103
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162630/35162630.80084678
+cast: "[キャスト]<br>ハイネ:植田圭輔／カイ:安里勇哉／ブルーノ:安達勇人／レオンハルト:廣瀬大介／リヒト:蒼井翔太"
+staff: "[スタッフ]<br>原作:赤井ヒガサ（掲載　月刊「Gファンタジー」 スクウェア・エニックス刊）／監督:菊池カツヤ／脚本:うえのきみこ・相内美生／アニメーションキャラクターデザイン・総作画監督:奥山鈴奈／
+  音響監督:郷田ほづみ／音楽:井内啓二／アニメーション制作:ティアスタジオ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©赤井ヒガサ／SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 王室教師ハイネ
+- !ruby/hash:SeasonHash
+  title: "「王室教師ハイネ －THE MUSICAL－」"
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2017
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2018
