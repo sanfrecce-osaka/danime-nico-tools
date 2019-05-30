@@ -112,4 +112,13 @@ RSpec.describe Episode, type: :model do
       end
     end
   end
+
+  describe '#thumbnail_https_url' do
+    let(:episode) { build(:episode) }
+    let(:thumbnail_https_url) { episode.thumbnail_https_url }
+
+    it 'httpsに変換されたサムネイルのURLを返す' do
+      expect(thumbnail_https_url).to eq 'https://dammy.com?i=1'
+    end
+  end
 end
