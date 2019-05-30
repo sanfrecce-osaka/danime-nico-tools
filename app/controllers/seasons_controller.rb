@@ -3,7 +3,6 @@
 class SeasonsController < ApplicationController
   def index
     @seasons = Season.search_by(@season_search_form).order(:title).page(page_params).per(20)
-    @title = @season_search_form.season_list_title
   end
 
   def show
@@ -18,7 +17,6 @@ class SeasonsController < ApplicationController
         .where(season_id: params[:id])
         .order(:overall_number)
         .page(page_params).per(10)
-    @title = @season.title
   end
 
   private
