@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 梶裕貴
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
