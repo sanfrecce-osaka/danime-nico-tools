@@ -140,10 +140,10 @@ RSpec.describe SeasonHash do
           expect(different_title_episode.class).to eq Hashie::Mash
           expect(different_title_episode.keys).to eq %w(head nico_branch)
 
-          expected_of_head = EpisodeHash.new(episode_no:'事変01',title:'私が国会議員になっても')
+          expected_of_head = EpisodeHash.new(episode_no: '事変01', title: '私が国会議員になっても')
           expect(different_title_episode.head).to eq expected_of_head
 
-          expected_of_nico_branch = EpisodeHash.new(episode_no:'#01',title:'私が市会議員になっても')
+          expected_of_nico_branch = EpisodeHash.new(episode_no: '#01', title: '私が市会議員になっても')
           expect(different_title_episode.nico_branch).to eq expected_of_nico_branch
         end
       end
@@ -342,7 +342,7 @@ RSpec.describe SeasonHash do
         end
       end
     end
-    
+
     context '作品タイトルとエピソードのタイトルが異なる' do
       let(:season_params) do
         {
