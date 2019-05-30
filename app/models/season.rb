@@ -58,4 +58,8 @@ class Season < ApplicationRecord
     season.episodes = episodes.map { |episode| EpisodeHash.new(episode.attributes) }
     season
   end
+
+  def to_meta_tags
+    { title: title, description: outline }
+  end
 end
