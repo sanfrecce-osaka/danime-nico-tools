@@ -73,6 +73,10 @@ class Episode < ApplicationRecord
     ].select(&:present?).join('　')
   end
 
+  def thumbnail_https_url
+    thumbnail_url.gsub('http:', 'https:')
+  end
+
   def to_param
     content_id
   end

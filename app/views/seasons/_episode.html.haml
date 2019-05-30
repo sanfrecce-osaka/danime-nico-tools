@@ -4,7 +4,7 @@
       .col-sm-11.col-12.pl-0
         .season-episodes-item__title-container
           .season-episodes-item__thumbnail
-            = image_tag episode.thumbnail_url, alt: 'Card image cap', class: 'season-episodes-item__image'
+            = image_tag episode.thumbnail_https_url, alt: 'Card image cap', class: 'season-episodes-item__image'
           .season-episodes-item__title
             = episode.full_title(false)
       .d-none.d-sm-flex.col-sm-1.p-0
