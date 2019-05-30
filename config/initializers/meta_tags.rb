@@ -22,7 +22,7 @@ MetaTags.configure do |config|
 
   # When true, keywords will be converted to lowercase, otherwise they will
   # appear on the page as is. Default is true.
-  # config.keywords_lowercase = true
+  config.keywords_lowercase = false
 
   # When true, the output will not include new line characters between meta tags.
   # Default is false.
