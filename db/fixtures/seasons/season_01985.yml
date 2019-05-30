@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷浩史
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 梶裕貴
+  name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
   name: 宮野真守
