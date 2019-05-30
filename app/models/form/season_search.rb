@@ -22,5 +22,9 @@ module Form
     def season_list_title
       keywords.present? ? "#{keyword_type_name} × #{keywords}の検索結果" : '作品一覧'
     end
+
+    def to_meta_tags
+      { title: season_list_title }
+    end
   end
 end
