@@ -1,8 +1,7 @@
 !!!
 %html
   %head
-    %meta{content: 'text/html; charset=UTF-8', 'http-equiv': 'Content-Type'}/
-    %title= [@title, 'danime-nico-tools - dアニメストア ニコニコ支店のための検索サイト'].compact.join(' | ')
+    = display_meta_tags default_meta_tags
     = csrf_meta_tags
     = stylesheet_link_tag 'application', media: 'all'
     = javascript_pack_tag 'application'
@@ -10,7 +9,6 @@
     = render 'application/favicons'
     = analytics_init if Rails.env.production?
     %link{href: 'https://fonts.googleapis.com/css?family=Noto+Sans+JP&amp;subset=japanese', rel: 'stylesheet'}
-    %meta{name: 'viewport',content:'width=device-width, initial-scale=1, shrink-to-fit=no'}
   %body
     - unless current_page?(root_path)
       = render 'header'
