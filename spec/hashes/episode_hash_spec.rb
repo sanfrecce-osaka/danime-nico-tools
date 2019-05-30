@@ -89,12 +89,12 @@ RSpec.describe EpisodeHash do
       let(:target_episode) { episode_with_different_title.dup }
 
       it '話数が支店のものに更新される' do
-        expect{ update_only_different_title }.to change{ target_episode.episode_no }.from('事変01').to('#01')
+        expect { update_only_different_title }.to change { target_episode.episode_no }.from('事変01').to('#01')
       end
 
       it 'エピソードのタイトルが支店のものに更新される' do
-        expect{ update_only_different_title }
-          .to change{target_episode.title}.from('私が国会議員になっても').to('私が市会議員になっても')
+        expect { update_only_different_title }
+          .to change { target_episode.title }.from('私が国会議員になっても').to('私が市会議員になっても')
       end
     end
 
