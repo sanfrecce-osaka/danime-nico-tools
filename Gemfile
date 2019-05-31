@@ -9,7 +9,7 @@ ruby '2.5.1'
 gem 'rails'
 gem 'pg'
 gem 'puma'
-gem 'sass-rails'
+gem 'sassc-rails'
 
 gem 'jbuilder'
 # gem 'redis', '~> 4.0'
