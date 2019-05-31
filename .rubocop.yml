@@ -1,3 +1,7 @@
+require:
+  - rubocop-rails
+  - rubocop-performance
+
 Rails:
   Enabled: true
 
@@ -14,6 +18,10 @@ AllCops:
     - 'railties/test/fixtures/tmp/**/*'
     - 'db/schema.rb'
 
+Performance:
+  Exclude:
+    - '**/test/**/*'
+
 Style/Documentation:
   Enabled: false
 
@@ -21,12 +29,12 @@ Metrics/LineLength:
   Max: 120
 
 # Prefer assert_not_x over refute_x
-CustomCops/RefuteNot:
+Rails/RefuteMethods:
   Include:
     - '**/test/**/*'
 
 # Prefer assert_not over assert !
-CustomCops/AssertNot:
+Rails/AssertNot:
   Include:
     - '**/test/**/*'
 
@@ -61,6 +69,9 @@ Layout/EndAlignment:
 Layout/EmptyLineAfterMagicComment:
   Enabled: true
 
+Layout/EmptyLinesAroundBlockBody:
+  Enabled: true
+
 # In a regular class definition, no empty lines around the body.
 Layout/EmptyLinesAroundClassBody:
   Enabled: true
@@ -73,7 +84,7 @@ Layout/EmptyLinesAroundMethodBody:
 Layout/EmptyLinesAroundModuleBody:
   Enabled: true
 
-Layout/FirstParameterIndentation:
+Layout/IndentFirstArgument:
   Enabled: true
 
 # Use Ruby >= 1.9 syntax for hashes. Prefer { a: :b } over { :a => :b }.
@@ -98,6 +109,9 @@ Layout/SpaceAfterColon:
 Layout/SpaceAfterComma:
   Enabled: true
 
+Layout/SpaceAfterSemicolon:
+  Enabled: true
+
 Layout/SpaceAroundEqualsInParameterDefault:
   Enabled: true
 
@@ -108,10 +122,13 @@ Layout/SpaceAroundOperators:
   Enabled: true
 
 Layout/SpaceBeforeComma:
-    Enabled: true
+  Enabled: true
+
+Layout/SpaceBeforeComment:
+  Enabled: true
 
 Layout/SpaceBeforeFirstArg:
-    Enabled: true
+  Enabled: true
 
 Style/DefWithParentheses:
   Enabled: true
@@ -131,6 +148,9 @@ Style/FrozenStringLiteralComment:
     - 'activestorage/db/migrate/**/*.rb'
     - 'bin/**'
 
+Style/RedundantFreeze:
+  Enabled: true
+
 # Use `foo {}` not `foo{}`.
 Layout/SpaceBeforeBlockBraces:
   Enabled: true
@@ -138,6 +158,7 @@ Layout/SpaceBeforeBlockBraces:
 # Use `foo { bar }` not `foo {bar}`.
 Layout/SpaceInsideBlockBraces:
   Enabled: true
+  EnforcedStyleForEmptyBraces: space
 
 # Use `{ a: 1 }` not `{a:1}`.
 Layout/SpaceInsideHashLiteralBraces:
@@ -169,8 +190,38 @@ Layout/TrailingWhitespace:
 Style/UnneededPercentQ:
   Enabled: true
 
+Lint/AmbiguousOperator:
+  Enabled: true
+
+Lint/AmbiguousRegexpLiteral:
+  Enabled: true
+
+Lint/ErbNewArguments:
+  Enabled: true
+
 # Use my_method(my_arg) not my_method( my_arg ) or my_method my_arg.
 Lint/RequireParentheses:
+  Enabled: true
+
+Lint/ShadowingOuterLocalVariable:
+  Enabled: true
+
+Lint/StringConversionInInterpolation:
+  Enabled: true
+
+Lint/UriEscapeUnescape:
+  Enabled: true
+
+Lint/UselessAssignment:
+  Enabled: true
+
+Lint/DeprecatedClassMethods:
+  Enabled: true
+
+Style/ParenthesesAroundCondition:
+  Enabled: true
+
+Style/RedundantBegin:
   Enabled: true
 
 Style/RedundantReturn:
@@ -183,4 +234,28 @@ Style/Semicolon:
 
 # Prefer Foo.method over Foo::method
 Style/ColonMethodCall:
+  Enabled: true
+
+Style/TrivialAccessors:
+  Enabled: true
+
+Performance/FlatMap:
+  Enabled: true
+
+Performance/RedundantMerge:
+  Enabled: true
+
+Performance/StartWith:
+  Enabled: true
+
+Performance/EndWith:
+  Enabled: true
+
+Performance/RegexpMatch:
+  Enabled: true
+
+Performance/ReverseEach:
+  Enabled: true
+
+Performance/UnfreezeString:
   Enabled: true
