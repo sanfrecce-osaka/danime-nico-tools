@@ -6,9 +6,9 @@
   version "5.8.2"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-5.8.2.tgz#fae4112c4fb47086f6ae167e32524b280000abd5"
 
-"@rails/webpacker@^3.5.3":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@rails/webpacker/-/webpacker-3.6.0.tgz#89f50421934a40cad7193cd62756a18fa5027251"
+"@rails/webpacker@3.5.5":
+  version "3.5.5"
+  resolved "https://registry.yarnpkg.com/@rails/webpacker/-/webpacker-3.5.5.tgz#8911c66bcefc8bc6b91270e92f0d39e3c2d43116"
   dependencies:
     babel-core "^6.26.3"
     babel-loader "^7.1.5"
