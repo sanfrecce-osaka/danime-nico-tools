@@ -437,7 +437,7 @@ DEPENDENCIES
   pry-rails
   pry-stack_explorer
   puma
-  rails
+  rails (= 5.2.1)
   rails-flog
   ransack
   rein
