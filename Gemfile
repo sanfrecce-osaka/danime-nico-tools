@@ -41,6 +41,8 @@ group :development do
   gem 'spring-commands-rspec'
   gem 'bullet'
   gem 'rubocop', require: false
+  gem 'rubocop-rails'
+  gem 'rubocop-performance'
   gem 'guard-livereload', require: false
   gem 'erd'
 end
