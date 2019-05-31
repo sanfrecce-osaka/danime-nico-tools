@@ -2,6 +2,6 @@
 
 class BaseHash < Hashie::Mash
   def update_by(hash)
-    hash.each { |key, value| eval "self.#{key.to_s} = '#{value}'" }
+    hash.each { |key, value| eval "self.#{key} = '#{value}'" }
   end
 end

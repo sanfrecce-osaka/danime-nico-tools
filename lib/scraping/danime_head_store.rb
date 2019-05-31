@@ -102,7 +102,7 @@ module Scraping
         return unless @season.watchable
         begin
           episode_wrapper = @driver.find_element(:class, 'episodeWrapper')
-        rescue Selenium::WebDriver::Error::NoSuchElementError => e
+        rescue Selenium::WebDriver::Error::NoSuchElementError
           @season.episodes = []
           return
         end
@@ -159,7 +159,7 @@ module Scraping
       def fetch_tags_other_than_genre
         begin
           tag_area = @driver.find_element(:class, 'tagArea')
-        rescue Selenium::WebDriver::Error::NoSuchElementError => e
+        rescue Selenium::WebDriver::Error::NoSuchElementError
           return @season.tags
         end
         tag_captions = tag_area.find_elements(:class, 'tagCaption')
@@ -182,7 +182,7 @@ module Scraping
         links = []
         begin
           series_related = @driver.find_element(:id, 'seriesRelated')
-        rescue Selenium::WebDriver::Error::NoSuchElementError => e
+        rescue Selenium::WebDriver::Error::NoSuchElementError
           return @season.related_season_links = links
         end
         related_seasons = series_related.find_elements(:class, 'itemModule')
