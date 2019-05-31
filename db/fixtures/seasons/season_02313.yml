@@ -1,0 +1,44 @@
+--- !ruby/hash:SeasonHash
+title: 腐女子の品格
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/63/1/22631_1_6.png?1557478879000
+outline: "「腐女子の品格」とは・・・ 腐女子の知恵を大公開！ふじょこ(24歳・新米腐女子)と貴代(29歳・ツワモノ腐女子)を中心に、腐女子を100倍楽しめるコミックエッセイとして描かれた原作が、オリジナルFLASHアニメとして登場です！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 真堂圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第13話
+  title: ''
+  description: キャスト:真堂圭、松岡由貴、下野紘、三木眞一郎<br><br>©2010 「腐女子の品格」製作委員会(リバプール/パンダ工場)
+  length_seconds: 1914
+  content_id: so35194273
+  default_thread_id: 1559178857
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194273/35194273.13037289
+cast: "[キャスト]<br>キャスト:真堂圭、松岡由貴、下野紘、三木眞一郎"
+produced_year: "[製作年]<br>2010年"
+copyright: "©2010 「腐女子の品格」製作委員会(リバプール/パンダ工場)"
+related_seasons: !ruby/array:Hashie::Array []
