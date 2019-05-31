@@ -1,0 +1,45 @@
+--- !ruby/hash:SeasonHash
+title: カエル王子といもむしヘンリー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/75/9/22759_1_6.png?1557478863000
+outline: 魔女にカエルにさせられた元人間の王子。呪いを解くにはお姫様にキスをされなければならないと告げられるが最近はカエルでいいかなと思い、家来代わりのイモムシのヘンリーと気ままなカエルライフを送っている。口癖は「まぁ、いっか」。原作者はアリムラモハ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 監督：日野トミー
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：helo music creative
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：アリムラモハ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: カエル王子とヘンリーの「まぁいっか」な日常
+  description: 魔女にカエルにさせられた元人間の王子。呪いを解くにはお姫様にキスをされなければならないと告げられるが最近はカエルでいいかなと思い、家来代わりのイモムシのヘンリーと気ままなカエルライフを送っている。口癖は「まぁ、いっか」。<br><br>監督:日野トミー／音楽:helo
+    music creative／プロデューサー:須藤雄穀／原作:アリムラモハ（wwwaap/helo）／製作:アニメカエル王子製作委員会<br><br>©アニメカエル王子製作委員会
+  length_seconds: 1319
+  content_id: so35194336
+  default_thread_id: 1559180226
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194336/35194336.80542023
+staff: "[スタッフ]<br>監督:日野トミー／音楽:helo music creative／プロデューサー:須藤雄穀／原作:アリムラモハ（wwwaap/helo）／製作:アニメカエル王子製作委員会"
+produced_year: "[製作年]<br>2018年"
+copyright: "©アニメカエル王子製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
