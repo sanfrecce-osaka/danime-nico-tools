@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 森久保祥太郎
