@@ -10,8 +10,9 @@ dアニメストア ニコニコ支店用検索サイトです。<br>
 
 ## Requirement
 
-- Ruby 2.5.1
-- Rails 5.2.0
+- Ruby 2.6.3
+- Rails 5.2.3
+- Node.js v12.3.1
 
 ## Setup
 
