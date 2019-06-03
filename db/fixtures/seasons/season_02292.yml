@@ -113,6 +113,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1558314625
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=35149872.50170
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 百死百生
+  description: 鬼天盟は「百死百生」という暗殺計画を企んでいた。トップ100の参加者を全員殺すべく行動に移す。アホ毛姉弟は鬼天盟の倉庫に潜入し、偶然カイリの使いである「老いぼれ」を放す。老いぼれは倉庫のほとんどのものを呑み込んで、アホ毛姉弟を「宝探し」に誘う。時を同じくして、ライシーはグレイとガドロスの居場所へ向かう。<br><br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり<br><br>監督:周亮／脚本家:云落／原作者:7DOC<br><br>©7DOC<br><br>so35149872←前話　第一話→so35017434
+  length_seconds: 1420
+  content_id: so35149873
+  default_thread_id: 1558314603
+  channel_id: 2632720
+  thumbnail_url: http://tn.smilevideo.jp/smile?i=35149873.12795
 cast: "[キャスト]<br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり"
 staff: "[スタッフ]<br>監督:周亮／脚本家:云落／原作者:7DOC"
 produced_year: "[製作年]<br>2019年"
