@@ -286,7 +286,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35182434
   default_thread_id: 1558935727
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35182434/35182434.60345260
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35218132/35218132.27153096
 - !ruby/hash:EpisodeHash
   episode_no: 第55話
   title: 白夜
