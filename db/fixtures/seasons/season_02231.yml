@@ -206,6 +206,8 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: オーバーロードⅢ
 - !ruby/hash:SeasonHash
+  title: ぷれぷれぷれあです
+- !ruby/hash:SeasonHash
   title: この素晴らしい世界に祝福を！
 - !ruby/hash:SeasonHash
   title: この素晴らしい世界に祝福を！２
