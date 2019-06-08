@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 中村悠一
+  name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 沢城みゆき
+  name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
   name: 釘宮理恵

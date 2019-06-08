@@ -10,10 +10,10 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 浪川大輔
+  name: 杉田智和
   type: cast
 - !ruby/hash:TagHash
-  name: 杉田智和
+  name: 浪川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 三木眞一郎
