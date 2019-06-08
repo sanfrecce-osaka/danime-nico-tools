@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 内山昂輝
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 内山昂輝
   type: cast
 - !ruby/hash:TagHash
   name: 堀江瞬
