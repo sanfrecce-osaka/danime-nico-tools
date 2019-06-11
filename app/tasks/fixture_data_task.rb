@@ -27,7 +27,7 @@ class FixtureDataTask
     def create_season_list(target_path = FixtureDataTask::SEASON_LIST_PATH)
       initialize_dir(FixtureDataTask::LISTS_DIR)
       initialize_yaml(target_path)
-      season_list = Scraping::SeasonLineup.execute(YAMLFile.open(target_path))
+      season_list = Scraping::V2::SeasonLineup.execute(YAMLFile.open(target_path))
       YAMLFile.write(target_path, season_list)
     end
 
