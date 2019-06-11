@@ -50,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: 大塚芳忠
   type: cast
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：清水貴子
+  name: 監督：鈴木健一
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：鈴木健一
+  name: キャラクターデザイン：清水貴子
   type: staff
 - !ruby/hash:TagHash
   name: 原作：Five fairy scholars
