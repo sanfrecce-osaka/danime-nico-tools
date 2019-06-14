@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 伊藤静
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
   name: 井口裕香
