@@ -6977,3 +6977,9 @@
 - !ruby/hash:Hashie::Mash
   title: ぷれぷれぷれあです
   first_episode_url: http://www.nicovideo.jp/watch/so35190339
+- !ruby/hash:Hashie::Mash
+  title: オトッペ
+  first_episode_url: http://www.nicovideo.jp/watch/so35194296
+- !ruby/hash:Hashie::Mash
+  title: DRIFTERS
+  first_episode_url: http://www.nicovideo.jp/watch/so35226329
