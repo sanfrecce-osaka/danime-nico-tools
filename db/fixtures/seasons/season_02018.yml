@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
   name: 水瀬いのり
