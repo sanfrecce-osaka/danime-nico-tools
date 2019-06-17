@@ -131,6 +131,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1559880429
   channel_id: 2632720
   thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230458/35230458.59803684
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 正体
+  description: ジンたちは脱獄を試みるが、それに気づいたシドウゲンが戻るよう説得する。シドウゲンは折を見て自分が逃してやると言うが、カイリはその言葉を信じない。一方、ライシーと海賊団はガドロスに遭遇し、激闘を繰り広げる。牢屋から逃げたジンたちはキコテンチュウに追いつかれ、キコテンチュウは自分の元力スキル「ボイドミラー」を使ってグレイのスキルをコピーする。ここで、カイリがキコテンチュウの正体を暴く。<br><br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり<br><br>監督:周亮／脚本家:云落／原作者:7DOC<br><br>©7DOC<br><br>so35230458←前話｜次話→so35252935　第一話→so35017434
+  length_seconds: 1420
+  content_id: so35244710
+  default_thread_id: 1560131285
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35244710/35244710.33492033
 cast: "[キャスト]<br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり"
 staff: "[スタッフ]<br>監督:周亮／脚本家:云落／原作者:7DOC"
 produced_year: "[製作年]<br>2019年"
