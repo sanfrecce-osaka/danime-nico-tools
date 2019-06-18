@@ -141,6 +141,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1558055539
   channel_id: 2632720
   thumbnail_url: http://tn.smilevideo.jp/smile?i=35134439.23364
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話／第42話
+  title: 大混乱！犬！金！怪人！青木山！／ももひと危うし！ボストンバッグ高速詰め！
+  description: 第41話：くるみと青木山しんじがまたも衝突事故！？くるみの大流血をきっかけに、辺りはかつてないほどのカオスに包まれる！／第42話：突如現れた怪人「ボストンバッグ男」に捕まっていたのは、なんとくるみの弟ももひとだった！果たしてくるみたちは正体がバレないように、ももひと救うことはできるのか！？<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>so35134439←前話　第一話→so34072824
+  length_seconds: 1440
+  content_id: so35275970
+  default_thread_id: 1560735125
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275970/35275970.64405035
 cast: "[キャスト]<br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか"
 staff: "[スタッフ]<br>原案:Pie in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the
   sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia
