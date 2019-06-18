@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
-  name: 釘宮理恵
+  name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 能登麻美子
+  name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
   name: 大原さやか
