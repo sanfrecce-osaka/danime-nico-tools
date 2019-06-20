@@ -165,6 +165,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1560314225
   channel_id: 2632720
   thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35253422/35253422.20737147
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: RobiHachi
+  description: ロビー・ヤージ:中井和哉／ハッチ・キタ:河本啓佑／JPS-19（イック）:阪口大助／ヤン:杉田智和／アロ:木村 昴／グラ:徳留慎乃佑<br><br>原作:馬谷たいが／監督:高松信司（「銀魂」、「美男高校地球防衛部」シリーズ他）／シリーズ構成:金杉弘子（「DIABOLIK
+    LOVERS MORE,BLOOD」、「俺の脳内選択肢が、学園ラブコメを全力で邪魔している」他）／キャラクターデザイン:八尋裕子（「DIABOLIK LOVERS
+    」シリーズ、「進撃！巨人中学校 」、「刀使ノ巫女」他）／コンセプトデザイン:三沢 伸（「capeta」「頭文字D 」他）／アニメ−ション制作:スタジオコメット<br><br>©馬谷たいが／株式会社ドンツー<br><br>so35253422←前話　第一話→so34943568
+  length_seconds: 1440
+  content_id: so35284364
+  default_thread_id: 1560910265
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35284364/35284364.13374337
 cast: "[キャスト]<br>ロビー・ヤージ:中井和哉／ハッチ・キタ:河本啓佑／JPS-19（イック）:阪口大助／ヤン:杉田智和／アロ:木村 昴／グラ:徳留慎乃佑"
 staff: "[スタッフ]<br>原作:馬谷たいが／監督:高松信司（「銀魂」、「美男高校地球防衛部」シリーズ他）／シリーズ構成:金杉弘子（「DIABOLIK LOVERS
   MORE,BLOOD」、「俺の脳内選択肢が、学園ラブコメを全力で邪魔している」他）／キャラクターデザイン:八尋裕子（「DIABOLIK LOVERS 」シリーズ、「進撃！巨人中学校
