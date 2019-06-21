@@ -86,7 +86,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34933846
   default_thread_id: 1554711782
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34933846.23763
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34933846/34933846.81265461
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 緊迫！じこしょうかい
@@ -99,7 +99,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34972159
   default_thread_id: 1555290785
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34972159.54910
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34972159/34972159.33005709
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 膠着！くらすめいと
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35008190
   default_thread_id: 1555894992
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35008190.32506
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35008190/35008190.76170401
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 邂逅！くらすめいと
@@ -125,7 +125,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35008191
   default_thread_id: 1555894988
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35008191.9642
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35008191/35008191.82162168
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 炸裂！こんしんかい
@@ -138,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35008192
   default_thread_id: 1555894990
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35008192.3364
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35008192/35008192.81709718
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 決定！いいんかい
@@ -151,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35097980
   default_thread_id: 1557363191
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35097980.23427
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35097980/35097980.25980491
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 遂行！いいんかい
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134436
   default_thread_id: 1558054985
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35134436.67037
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134436/35134436.86961168
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 準備！りんかいがっこう
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186004
   default_thread_id: 1559005443
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186004/35186004.49769774
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186004/35186004.72191674
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 満喫！りんかいがっこう
@@ -190,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198114
   default_thread_id: 1559265364
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198114/35198114.89583368
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198114/35198114.35353768
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 参戦！らいばるたち
@@ -203,19 +203,19 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248777
   default_thread_id: 1560215052
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248777/35248777.17960066
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248777/35248777.72844397
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 協力！たいいくさい
   description: ついに、クラス対抗の体育祭が開幕！一進一退の攻防が続く中、まさかの参戦者が…！？<br><br>アインズ:日野 聡／アルべド:原 由実／シャルティア:上坂すみれ／アウラ:加藤英美里／マーレ:内山夕実／デミウルゴス:加藤将之／コキュートス:三宅健太／カズマ:福島
     潤／アクア:雨宮 天／めぐみん:高橋李依／ダクネス:茅野愛衣／スバル:小林裕介／エミリア :高橋李依／パック :内山夕実／レム:水瀬いのり／ラム:村川梨衣／ベアトリス:新井里美／ロズワール:子安武人／ターニャ:悠木
     碧／ヴィーシャ:早見沙織／ヴァイス:濱野大輝／グランツ:小林裕介／ケーニッヒ:笠間 淳／ノイマン:林 大地／レルゲン :三木眞一郎／ルーデルドルフ:玄田哲章／ゼートゥーア:大塚芳忠<br><br>監督・脚本:芦名みのる／キャラクターデザイン・総作画監督:たけはらみのる／美術監督・美術設定:戸杉奈津子／撮影監督:大久保潤一／音響監督:明田川
-    仁／音響制作:マジックカプセル／音楽:川田瑠夏／音楽制作:ＫＡＤＯＫＡＷＡ／アニメーション制作:スタジオぷYUKAI／製作:ＫＡＤＯＫＡＷＡ<br><br>©異世界かるてっと／ＫＡＤＯＫＡＷＡ<br><br>so35248777←前話　第一話→so34933846
+    仁／音響制作:マジックカプセル／音楽:川田瑠夏／音楽制作:ＫＡＤＯＫＡＷＡ／アニメーション制作:スタジオぷYUKAI／製作:ＫＡＤＯＫＡＷＡ<br><br>©異世界かるてっと／ＫＡＤＯＫＡＷＡ<br><br>so35248777←前話｜次話→so35292200　第一話→so34933846
   length_seconds: 710
   content_id: so35276046
   default_thread_id: 1560736449
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276046/35276046.97401490
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276046/35276046.19132153
 cast: "[キャスト]<br>アインズ:日野 聡／アルべド:原 由実／シャルティア:上坂すみれ／アウラ:加藤英美里／マーレ:内山夕実／デミウルゴス:加藤将之／コキュートス:三宅健太／カズマ:福島
   潤／アクア:雨宮 天／めぐみん:高橋李依／ダクネス:茅野愛衣／スバル:小林裕介／エミリア :高橋李依／パック :内山夕実／レム:水瀬いのり／ラム:村川梨衣／ベアトリス:新井里美／ロズワール:子安武人／ターニャ:悠木
   碧／ヴィーシャ:早見沙織／ヴァイス:濱野大輝／グランツ:小林裕介／ケーニッヒ:笠間 淳／ノイマン:林 大地／レルゲン :三木眞一郎／ルーデルドルフ:玄田哲章／ゼートゥーア:大塚芳忠"

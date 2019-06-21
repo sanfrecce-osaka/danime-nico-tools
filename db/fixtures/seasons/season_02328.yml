@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: 龍 -RYO-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/80/5/22805_1_6.png?1558510256000
+outline: 慶応2年（1866年）尊皇攘夷、倒幕、佐幕さまざまな思想・主義に日本が揺れていた時代。恩人である坂本龍馬と中岡慎太郎を護れなかった事を強く悔やむ少年RYOは、嵐の蝦夷・江差沖にて座礁した五稜郭政府旗艦・開陽の傾く甲板で土方歳三と対峙する。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿美菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋伸也
+  type: cast
+- !ruby/hash:TagHash
+  name: 西川貴教
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：千明孝一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 龍-RYO-
+  description: 慶応2年（1866年）尊皇攘夷、倒幕、佐幕さまざまな思想・主義に日本が揺れていた時代。恩人である坂本龍馬と中岡慎太郎を護れなかった事を強く悔やむ少年RYOは、嵐の蝦夷・江差沖にて座礁した五稜郭政府旗艦・開陽の傾く甲板で土方歳三と対峙する。<br><br>RYO:悠木碧／黒:寿美菜子／坂本龍馬:藤原啓治／お龍:茅野愛衣／土方歳三:森川智之／中岡慎太郎:高橋伸也／大久保一蔵:西川貴教（アニメミライ広報大使）<br><br>監督・脚本:千明孝一／
+    キャラクターデザイン・作画指導:高岡じゅんいち／ 音楽:黒石ひとみ／作画監督:渋谷秀、高瀬さやか／ 美術設定:菊地正典／美術監督:ミキミチヨ／撮影監督:田中宏侍／編集:肥田文／原画:板井寛樹、岩田景子、大里咲憂梨、武智敏光、手塚響平、中尾高之、新妻瑠維、増田優紗、持田愛／
+    動画検査:湯本真央／アニメーション制作:GONZO<br><br>©千明 孝一/株式会社ゴンゾ/文化庁 アニメミライ2013
+  length_seconds: 1586
+  content_id: so35194297
+  default_thread_id: 1559178859
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194297/35194297.73043620
+cast: "[キャスト]<br>RYO:悠木碧／黒:寿美菜子／坂本龍馬:藤原啓治／お龍:茅野愛衣／土方歳三:森川智之／中岡慎太郎:高橋伸也／大久保一蔵:西川貴教（アニメミライ広報大使）"
+staff: "[スタッフ]<br>監督・脚本:千明孝一／ キャラクターデザイン・作画指導:高岡じゅんいち／ 音楽:黒石ひとみ／作画監督:渋谷秀、高瀬さやか／ 美術設定:菊地正典／美術監督:ミキミチヨ／撮影監督:田中宏侍／編集:肥田文／原画:板井寛樹、岩田景子、大里咲憂梨、武智敏光、手塚響平、中尾高之、新妻瑠維、増田優紗、持田愛／
+  動画検査:湯本真央／アニメーション制作:GONZO"
+produced_year: "[製作年]<br>2013年"
+copyright: "©千明 孝一/株式会社ゴンゾ/文化庁 アニメミライ2013"
+related_seasons: !ruby/array:Hashie::Array []

@@ -68,7 +68,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34443640
   default_thread_id: 1546910104
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34443640.90074
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34443640/34443640.63488176
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 奴隷の少女
@@ -81,7 +81,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34477144
   default_thread_id: 1547514429
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477144.7867
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34477144/34477144.50779346
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 災厄の波
@@ -94,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34509927
   default_thread_id: 1548119882
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34509927.35213
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34509927/34509927.55606280
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 暁の子守唄
@@ -107,7 +107,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34545484
   default_thread_id: 1548723425
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34545484.22594
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34545484/34545484.25509503
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: フィーロ
@@ -120,7 +120,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34582381
   default_thread_id: 1549329003
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34582381.93207
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34582381/34582381.32221427
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 新しい仲間
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34624379
   default_thread_id: 1550020027
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34624379.47040
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34624379/34624379.17221570
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 神鳥の聖人
@@ -146,7 +146,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34656691
   default_thread_id: 1550538548
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34656691.38914
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34656691/34656691.30750009
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 呪いの盾
@@ -159,7 +159,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34698534
   default_thread_id: 1551230466
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34698534.1621
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34698534/34698534.38405455
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: メルティ
@@ -172,7 +172,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34764322
   default_thread_id: 1552353487
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34764322.3440
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34764322/34764322.32113720
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 混迷の中で
@@ -185,7 +185,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34764321
   default_thread_id: 1552353482
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34764321.80146
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34764321/34764321.87782868
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 災厄、再び
@@ -198,7 +198,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34801971
   default_thread_id: 1552957809
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34801971.81495
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34801971/34801971.20690146
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 漆黒の異邦者
@@ -211,7 +211,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34858733
   default_thread_id: 1553649002
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34858733.14373
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34858733/34858733.61210798
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 盾の悪魔
@@ -224,7 +224,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34896825
   default_thread_id: 1554169083
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34896825.32391
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34896825/34896825.49656255
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: 消せない記憶
@@ -237,7 +237,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938006
   default_thread_id: 1554775682
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34938006.30545
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938006/34938006.16803026
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: ラフタリア
@@ -250,7 +250,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977481
   default_thread_id: 1555377743
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34977481.16205
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977481/34977481.84856839
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: フィロリアルの女王
@@ -263,7 +263,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017444
   default_thread_id: 1556069049
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35017444.68020
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017444/35017444.26474615
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: 紡がれる約束
@@ -276,7 +276,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017445
   default_thread_id: 1556069405
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35017445.25910
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017445/35017445.21740806
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: 連なる陰謀
@@ -289,7 +289,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35089830
   default_thread_id: 1557196743
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35089830.33914
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35089830/35089830.32942358
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: 四聖勇者
@@ -302,7 +302,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117384
   default_thread_id: 1557710469
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117384.28881
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117384/35117384.77979401
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: 聖邪決戦
@@ -315,7 +315,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35154453
   default_thread_id: 1558401663
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35154453.58993
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35154453/35154453.31382114
 - !ruby/hash:EpisodeHash
   episode_no: 第21話
   title: 尚文の凱旋
@@ -328,7 +328,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35190345
   default_thread_id: 1559092084
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190345/35190345.2678548
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190345/35190345.62227711
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: 勇者会議
@@ -341,7 +341,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217712
   default_thread_id: 1559611869
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217712/35217712.57751431
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217712/35217712.13750454
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: カルミラ島
@@ -354,7 +354,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35244708
   default_thread_id: 1560131287
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35244708/35244708.97414290
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35244708/35244708.79388342
 cast: "[キャスト]<br>岩谷尚文:石川界人／ラフタリア:瀬戸麻沙美／フィーロ:日高里菜／天木 錬:松岡禎丞／北村元康:高橋 信／川澄 樹:山谷祥生／メルティ:内田真礼"
 staff: "[スタッフ]<br>原作:アネコユサギ(MFブックス『盾の勇者の成り上がり』／KADOKAWA刊)／原作イラスト:弥南せいら／監督:阿保孝雄／シリーズ構成:小柳啓伍／キャラクターデザイン・総作画監督:諏訪真弘／デザインリーダー:高倉武史／デザインアシスタント:和田慎平／モンスターデザイン:森
   賢(ぎふとアニメーション)／アクション設計:黒田結花／プロップデザイン:杉村絢子／色彩設計:岡松杏奈(キネマシトラス)／ビジュアルアドバイザー:増山 修(インスパイアード)／美術:木下晋輔(インスパイアード)、西口早智子(インスパイアード)、明石聖子(スタジオ・ユニ)／3DCGディレクター:越田祐史(オレンジ)／2Dアーティスト:hydekick／モーショングラフィックス:上村秀勝(サブリメイション)／撮影監督:梶原幸代(T2スタジオ)／編集:須藤

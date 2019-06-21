@@ -86,7 +86,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34902434
   default_thread_id: 1554254406
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35009174.64784
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34902434/34902434.65807284
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 早く立ちたい
@@ -99,7 +99,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938004
   default_thread_id: 1554775742
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35009202.92805
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938004/34938004.23390120
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 野球の申し子
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977479
   default_thread_id: 1555377546
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34977479.66383
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977479/34977479.34900449
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: はじまりの日
@@ -125,7 +125,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35008188
   default_thread_id: 1555895346
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35008188.56366
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35008188/35008188.33626116
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 合流
@@ -138,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026970
   default_thread_id: 1556240948
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35026970.3454
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026970/35026970.79259435
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: Go Straight
@@ -151,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35090105
   default_thread_id: 1557204602
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35090105.74238
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35090105/35090105.39567001
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: ＫＩＮＧ
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121565
   default_thread_id: 1557797470
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35121565.19803
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121565/35121565.36650423
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: カンフル剤
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149887
   default_thread_id: 1558314607
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35149887.50094
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149887/35149887.9590877
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: バトル×バトル
@@ -190,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186003
   default_thread_id: 1559005870
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186003/35186003.41129462
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186003/35186003.76577778
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 初陣
@@ -203,7 +203,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217968
   default_thread_id: 1559618883
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217968/35217968.24680573
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217968/35217968.39008739
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 視線の先
@@ -217,7 +217,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248781
   default_thread_id: 1560215344
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248781/35248781.95061244
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248781/35248781.51782664
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: ワガママ

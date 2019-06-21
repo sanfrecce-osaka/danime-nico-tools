@@ -64,7 +64,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34948906
   default_thread_id: 1554945422
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34948906.48609
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34948906/34948906.32961109
 - !ruby/hash:EpisodeHash
   episode_no: "#2"
   title: 神楽坂の白い猫又
@@ -76,7 +76,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992272
   default_thread_id: 1555637884
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992272.53342
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992272/34992272.33230271
 - !ruby/hash:EpisodeHash
   episode_no: "#3"
   title: 琥珀の瞳のトリックスター
@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012775
   default_thread_id: 1555981864
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012775.18592
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012775/35012775.52296508
 - !ruby/hash:EpisodeHash
   episode_no: "#4"
   title: 歌舞伎町の定点観測
@@ -100,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012774
   default_thread_id: 1555981997
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012774.95692
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012774/35012774.80747506
 - !ruby/hash:EpisodeHash
   episode_no: "#5"
   title: 都庁展望室の異世界エレベーター
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026963
   default_thread_id: 1556240946
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35026963.51909
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026963/35026963.40098113
 - !ruby/hash:EpisodeHash
   episode_no: "#6"
   title: 悪魔と喪失感
@@ -124,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134435
   default_thread_id: 1558055412
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35134435.7576
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134435/35134435.52158524
 - !ruby/hash:EpisodeHash
   episode_no: "#7"
   title: 喪失感と絶望の証明
@@ -136,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162625
   default_thread_id: 1558574535
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162625/35162625.84166463
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162625/35162625.6807087
 - !ruby/hash:EpisodeHash
   episode_no: "#8"
   title: 老いたコヨーテと星降る庭
@@ -148,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198116
   default_thread_id: 1559267405
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198116/35198116.71627210
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198116/35198116.66024468
 - !ruby/hash:EpisodeHash
   episode_no: "#9"
   title: 幽霊団地の夢魔(ナイトメア)
@@ -160,7 +160,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198115
   default_thread_id: 1559267343
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198115/35198115.61228928
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198115/35198115.44452001
 - !ruby/hash:EpisodeHash
   episode_no: "#10"
   title: 白い繭と青い炎
@@ -172,7 +172,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35261059
   default_thread_id: 1560474664
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261059/35261059.13464365
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261059/35261059.54104223
 cast: "[キャスト]<br>宮古 新:福山 潤／榊 京一:前野智昭／姫塚セオ:入野自由／仙田礼二:遊佐浩二／狩野一悟:櫻井孝宏／ウェウェコヨトル:土岐隼一／ユキ:山本和臣"
 staff: "[スタッフ]<br>原作:たもつ葉子(KADOKAWA「コミックNewtype」連載）／監督:渡邊哲哉／シリーズ構成:樋口達人／助監督:大石康之／オカルト考証:三輪清宗／キャラクターデザイン:伊藤依織子／アナザーデザイン:伊藤依織子、鈴木勘太／プロップデザイン:伊藤依織子、江上夏樹／美術設定:青木智由紀、イノセユキエ、泉
   寛／美術監督:三原伸明／色彩設計:小野寺笑子／撮影監督:田村 仁、姫野めぐみ／編 集:吉武将人／音響監督:鶴岡陽太／音響効果:山谷尚人／音楽:Evan Call／

@@ -63,7 +63,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34072824
   default_thread_id: 1540445522
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34072824
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34072824/34072824.59165244
 - !ruby/hash:EpisodeHash
   episode_no: 第27話／第28話
   title: わかばとつばめ！プリポテセットでお願いします！／新たな仲間！５人揃って５エンジェル！
@@ -74,7 +74,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34243604
   default_thread_id: 1543455485
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34243604
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34243604/34243604.22524424
 - !ruby/hash:EpisodeHash
   episode_no: 第29話／第30話
   title: 解き放て！１日分の野菜の力！／今こそ合わせろ！５人の力！（仮）
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34386962
   default_thread_id: 1545959287
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34386962.15481
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34386962/34386962.65945787
 - !ruby/hash:EpisodeHash
   episode_no: 第31話／第32話
   title: 心眼開眼！俊足怪人に差をつけろ！／失神ＫＯ！姉弟喧嘩はフリースタイル！
@@ -96,7 +96,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34520211
   default_thread_id: 1548298991
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34520211.27755
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34520211/34520211.45746316
 - !ruby/hash:EpisodeHash
   episode_no: 第33話／第34話
   title: どうするパイレイト！うちでは鳥は飼えません！／吸収せよ！若葉マークの必殺技！
@@ -107,7 +107,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34688394
   default_thread_id: 1551057188
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34688394.93250
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34688394/34688394.4248004
 - !ruby/hash:EpisodeHash
   episode_no: 第35話／第36話
   title: みずき豹変！プリマダークシアン誕生！？／第３の幹部！残虐貴族バロン登場！
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34821709
   default_thread_id: 1553218209
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34821709.44126
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34821709/34821709.7368341
 - !ruby/hash:EpisodeHash
   episode_no: 第37話／第38話
   title: 神出鬼没！ドブから飛び出てジャケ紳さん！／ゾンビ予防！うがい手洗いセンセーション！
@@ -129,7 +129,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34987549
   default_thread_id: 1555549270
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34987549.51657
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34987549/34987549.67101971
 - !ruby/hash:EpisodeHash
   episode_no: 第39話／第40話
   title: みんなで食べよう！食戟！衝撃！大惨劇‼／バロン再び！貴族と執事の卑劣な罠！
@@ -140,7 +140,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134439
   default_thread_id: 1558055539
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35134439.23364
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134439/35134439.7948190
 - !ruby/hash:EpisodeHash
   episode_no: 第41話／第42話
   title: 大混乱！犬！金！怪人！青木山！／ももひと危うし！ボストンバッグ高速詰め！
@@ -151,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35275970
   default_thread_id: 1560735125
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275970/35275970.64405035
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275970/35275970.31508933
 cast: "[キャスト]<br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか"
 staff: "[スタッフ]<br>原案:Pie in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the
   sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia

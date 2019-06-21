@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/07/6/22076_1_6.png?1522990948000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/07/6/22076_1_6.png?1551349596000
 outline: 銃と鋼鉄の世界《ガンゲイル・オンライン》でソロプレイを満喫している女性プレイヤー・レン。可愛いものが大好きな彼女は全身をピンクの装備で統一し、コツコツと地道にプレイを重ね、実力をつけていた。そしてとあることからPK――プレイヤー狩りの面白さに目覚めたレンはPKにのめり込み、ついには「ピンクの悪魔」と呼ばれるまでになる。そんなレンは美人でミステリアスなプレイヤー・ピトフーイと出会い、意気投合。彼女に言われるがまま、チーム戦イベント《スクワッド・ジャム》に参加することになる。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -44,6 +44,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
+  name: 2018年春
+  type: other
+- !ruby/hash:TagHash
   name: 電撃
   type: other
 - !ruby/hash:TagHash
@@ -66,7 +69,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33030898
   default_thread_id: 1523349271
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33030898.37516
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33030898/33030898.60972831
 - !ruby/hash:EpisodeHash
   episode_no: "#02"
   title: GGO
@@ -77,7 +80,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33079387
   default_thread_id: 1524187660
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33079387
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33079387/33079387.61433688
 - !ruby/hash:EpisodeHash
   episode_no: "#03"
   title: ファンレター
@@ -88,7 +91,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33097032
   default_thread_id: 1524472480
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33097032
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33097032/33097032.45151627
 - !ruby/hash:EpisodeHash
   episode_no: "#04"
   title: デスゲーム
@@ -99,7 +102,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33138032
   default_thread_id: 1525147713
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33138032
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33138032/33138032.51825060
 - !ruby/hash:EpisodeHash
   episode_no: "#05"
   title: ラストバトルは私に
@@ -110,7 +113,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33186540
   default_thread_id: 1525925818
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33186540
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33186540/33186540.55834119
 - !ruby/hash:EpisodeHash
   episode_no: "#06"
   title: SAO失敗者
@@ -121,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33252026
   default_thread_id: 1527049593
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33252026
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33252026/33252026.14172026
 - !ruby/hash:EpisodeHash
   episode_no: "#07"
   title: セカンド・スクワッド・ジャム
@@ -132,7 +135,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33297291
   default_thread_id: 1527831333
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33297291
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33297291/33297291.55826385
 - !ruby/hash:EpisodeHash
   episode_no: "#08"
   title: ブービートラップ
@@ -143,7 +146,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33298156
   default_thread_id: 1527845152
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33425590
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33298156/33298156.95030443
 - !ruby/hash:EpisodeHash
   episode_no: "#09"
   title: 十分間の鏖殺
@@ -154,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33368225
   default_thread_id: 1529028042
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33368225
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33368225/33368225.14755075
 - !ruby/hash:EpisodeHash
   episode_no: "#10"
   title: 魔王復活
@@ -165,7 +168,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33402654
   default_thread_id: 1529630199
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33402654
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33402654/33402654.58391837
 - !ruby/hash:EpisodeHash
   episode_no: "#11"
   title: イカれたレン
@@ -177,7 +180,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33439677
   default_thread_id: 1530235687
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33462729
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33439677/33439677.99024988
 - !ruby/hash:EpisodeHash
   episode_no: "#12"
   title: 拍手
@@ -188,7 +191,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33479168
   default_thread_id: 1530842287
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33479168
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33479168/33479168.9696380
 cast: "[キャスト]<br>レン:楠木ともり／ピトフーイ:日笠陽子／エム:興津和幸／フカ次郎:赤﨑千夏"
 staff: "[スタッフ]<br>原作:時雨沢恵一（電撃文庫 刊）／原作イラスト・キャラクターデザイン原案:黒星紅白／監督:迫井政行／シリーズ構成:黒田洋介／キャラクターデザイン:小堺能夫／制作:Studio
   3Hz／製作:GGO Project"
