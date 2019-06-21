@@ -94,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33990658
   default_thread_id: 1539048423
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33990658.98846
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33990658/33990658.96795563
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 失われた最終兵器
@@ -106,7 +106,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34026298
   default_thread_id: 1539652204
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34026298
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34026298/34026298.53540134
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 刻印を持つ者
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34063187
   default_thread_id: 1540257546
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34063187
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34063187/34063187.41153157
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 笑う一星
@@ -130,7 +130,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34096937
   default_thread_id: 1540861685
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34096937
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34096937/34096937.22700158
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: トロイの木馬
@@ -142,7 +142,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34132716
   default_thread_id: 1541465886
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34780543.57289
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34132716/34132716.31344980
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 鬼道の反撃
@@ -154,7 +154,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34166219
   default_thread_id: 1542070686
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34780566.3496
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34166219/34166219.12184966
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 仕組まれた罠
@@ -166,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34199794
   default_thread_id: 1542676215
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34780578.96838
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34199794/34199794.64995887
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: イナズマジャパン最大の危機
@@ -178,7 +178,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34268748
   default_thread_id: 1543886287
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34780596.73987
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34268748/34268748.32666487
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 皇帝の帰還
@@ -190,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34336292
   default_thread_id: 1545095463
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34780616.74533
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34336292/34336292.87113020
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 皇帝の逆襲
@@ -202,7 +202,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34372201
   default_thread_id: 1545700563
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34372201.98769
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34372201/34372201.99737515
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 皇帝のシナリオ
@@ -214,7 +214,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34443638
   default_thread_id: 1546909685
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34780630.69494
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34443638/34443638.25254465
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 一星、最後の選択
@@ -227,7 +227,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34477143
   default_thread_id: 1547514425
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34780643.60532
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34477143/34477143.42260655
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: ジャパン、新たな輝き
@@ -239,7 +239,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34510013
   default_thread_id: 1548121622
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34510013.45755
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34510013/34510013.53167235
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: キラキラ☆サッカーボーイ
@@ -251,7 +251,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34545501
   default_thread_id: 1548724082
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34545501.93347
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34545501/34545501.97917614
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: 趙金雲の弟子
@@ -263,7 +263,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34582378
   default_thread_id: 1549329005
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34582378.58324
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34582378/34582378.28296488
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: 俺はチームの中に
@@ -275,7 +275,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34619137
   default_thread_id: 1549933622
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34619137.44496
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34619137/34619137.455230
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: 驚愕のトリプルキーパー
@@ -287,7 +287,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34656695
   default_thread_id: 1550538550
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34656695.19205
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34656695/34656695.61481863
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: 剛陣、フィールドに立つ
@@ -299,7 +299,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34693686
   default_thread_id: 1551148391
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34693686.16028
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34693686/34693686.12021563
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: 目指せ、大舞台！
@@ -311,7 +311,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34729556
   default_thread_id: 1551752831
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34729556.27368
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34729556/34729556.57788132
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: 新たなる旅立ちの宴
@@ -323,7 +323,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34764326
   default_thread_id: 1552353485
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34764326.84720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34764326/34764326.31244820
 - !ruby/hash:EpisodeHash
   episode_no: 第21話
   title: 大海への想いを馳せて
@@ -335,7 +335,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34796594
   default_thread_id: 1552871223
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34796594.5806
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34796594/34796594.62075807
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: ビバ！世界上空！
@@ -347,7 +347,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851756
   default_thread_id: 1553563682
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851756.32260
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34851756/34851756.42927290
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: 世界の壁
@@ -359,7 +359,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34896823
   default_thread_id: 1554169202
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34896823.10990
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34896823/34896823.14742533
 - !ruby/hash:EpisodeHash
   episode_no: 第24話
   title: ロシアを歩こう
@@ -371,7 +371,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938007
   default_thread_id: 1554775749
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34938007.83459
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938007/34938007.79600208
 - !ruby/hash:EpisodeHash
   episode_no: 第25話
   title: 立ちはだかる巨神
@@ -383,7 +383,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977482
   default_thread_id: 1555377741
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34977482.65518
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977482/34977482.40298829
 - !ruby/hash:EpisodeHash
   episode_no: 第26話
   title: ジェネラルの煌き
@@ -395,7 +395,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012784
   default_thread_id: 1555982227
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012784.4869
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012784/35012784.14833554
 - !ruby/hash:EpisodeHash
   episode_no: 第27話
   title: 明日人！勝利に向かって走れ！
@@ -407,7 +407,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037560
   default_thread_id: 1556414883
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35037560.21085
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037560/35037560.35964506
 - !ruby/hash:EpisodeHash
   episode_no: 第28話
   title: 一之瀬、クーデターに沈む
@@ -419,7 +419,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121569
   default_thread_id: 1557797474
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35121569.51711
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121569/35121569.79729849
 - !ruby/hash:EpisodeHash
   episode_no: 第29話
   title: アフロディ降臨
@@ -431,7 +431,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121568
   default_thread_id: 1557797403
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35121568.8959
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121568/35121568.33848919
 - !ruby/hash:EpisodeHash
   episode_no: 第30話
   title: 神の目
@@ -443,7 +443,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149881
   default_thread_id: 1558314848
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35149881.10541
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149881/35149881.47875492
 - !ruby/hash:EpisodeHash
   episode_no: 第31話
   title: GGG線上のアリア
@@ -455,7 +455,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186001
   default_thread_id: 1559006541
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186001/35186001.37462103
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186001/35186001.57227816
 - !ruby/hash:EpisodeHash
   episode_no: 第32話
   title: 甦れ！　フェニックス
@@ -467,7 +467,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217713
   default_thread_id: 1559612051
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217713/35217713.19960967
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217713/35217713.55490327
 - !ruby/hash:EpisodeHash
   episode_no: 第33話
   title: 消えた明日人
@@ -479,7 +479,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248783
   default_thread_id: 1560215529
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248783/35248783.59907014
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248783/35248783.25709817
 - !ruby/hash:EpisodeHash
   episode_no: 第34話
   title: 衝撃の追加メンバー
@@ -491,7 +491,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35275987
   default_thread_id: 1560735663
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275987/35275987.48002681
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275987/35275987.43980412
 cast: "[キャスト]<br>稲森明日人:村瀬 歩／灰崎凌兵:神谷浩史／野坂悠馬:福山 潤／円堂守:竹内順子／豪炎寺修也:野島裕史／鬼道有人:吉野裕行／一星充:大町知広／吉良ヒロト:増田俊樹／剛陣鉄之助:武内駿輔／氷浦貴利名:斉藤壮馬／基山タツヤ:水島大宙／不動明王:梶
   裕貴／風丸一郎太:西墻由香／万作雄一郎:櫻井孝宏／吹雪士郎:宮野真守／坂野上昇:高橋李依／岩戸高志:三宅健太／西蔭政也:鈴村健一／砂木沼治:疋田高志／趙金雲:中村悠一"
 staff: "[スタッフ]<br>総監督／原案・シリーズ構成:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／チーフディレクター:かまくらゆみ／キャラクターデザイン原案:長野拓造／アートコンセプト:荒川政子／キャラクターデザイン:池田裕治・中野繭子・井ノ上ユウ子／音響監督:三好慶一郎・原口

@@ -44,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 真堂圭
   type: cast
 - !ruby/hash:TagHash
-  name: 山下七海
+  name: 中島ヨシキ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932391
   default_thread_id: 1554686404
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34932391.54539
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932391/34932391.96432054
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 京都炎上！　鬼火のナゾ
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932390
   default_thread_id: 1554686544
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34932390.13428
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932390/34932390.49775527
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 幕末怪異譚　トラを見た！
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34983156
   default_thread_id: 1555462878
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34983156.88295
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34983156/34983156.75325702
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 再会の土方　イケダヤ事変！
@@ -121,7 +121,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012779
   default_thread_id: 1555981985
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012779.69293
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012779/35012779.30673179
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 来たのは誰だ？　夜空のコンペイトウ
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026965
   default_thread_id: 1556241195
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35026965.28590
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026965/35026965.37609915
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 時辰儀暴走！　京都のセイシする日
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35102421
   default_thread_id: 1557451567
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35102421.64339
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35102421/35102421.97841085
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 時辰儀誕生！　運命のキョウダイ
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35130240
   default_thread_id: 1557969606
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35130240.27057
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35130240/35130240.49448253
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 慶喜のオモイ　近藤のオモイ
@@ -169,7 +169,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35158831
   default_thread_id: 1558486682
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35158831/35158831.99018583
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35158831/35158831.92757430
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 秘めたる想い！　仮面のコクハク！
@@ -181,7 +181,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35190343
   default_thread_id: 1559092266
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190343/35190343.14237354
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190343/35190343.61450269
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 消滅！　巨城スサノオ！
@@ -193,7 +193,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35221686
   default_thread_id: 1559697543
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35221686/35221686.404890
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35221686/35221686.16667031
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 誕生！　巨神スサノオ！
@@ -206,7 +206,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35252932
   default_thread_id: 1560302531
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35252932/35252932.34233532
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35252932/35252932.98854694
 cast: "[キャスト]<br>高杉晋作:中村悠一／桂小五郎:江口拓也／坂本龍馬:三木眞一郎／岡田以蔵:松岡禎丞／土方歳三:染谷俊之／近藤 勇:佐藤拓也／沖田総司:代永
   翼／斎藤 一:多田啓太／徳川慶喜:鈴木達央／山崎 烝:八代 拓／帝:武内駿輔／晴明:中島ヨシキ／霞:真堂 圭／雹:山下七海／森 蘭丸:花守ゆみり／二代目無限斎:染谷俊之"
 staff: "[スタッフ]<br>原案:「恋愛幕末カレシ～時の彼方で花咲く恋～」（フリュー）／監督:サトウ光敏／シリーズ構成:横谷昌宏／アニメキャラクター原案:夏生／アニメキャラクターデザイン:島村秀一／色彩設計:桂木今里／美術監督:佐藤豪志／撮影監督:下崎

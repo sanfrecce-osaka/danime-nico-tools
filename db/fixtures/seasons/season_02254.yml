@@ -56,7 +56,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34902433
   default_thread_id: 1554254347
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992966.26161
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34902433/34902433.5906939
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: トーキョーもん
@@ -66,7 +66,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34954667
   default_thread_id: 1555031104
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992969.65539
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34954667/34954667.91969756
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 認めにゃあ
@@ -76,7 +76,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992246
   default_thread_id: 1555637107
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34992246.46313
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992246/34992246.73959342
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 撮れてにゃあ
@@ -87,7 +87,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022066
   default_thread_id: 1556154845
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35022066.44575
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022066/35022066.72488928
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 教えにゃあ
@@ -98,7 +98,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022065
   default_thread_id: 1556154853
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35022065.27305
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022065/35022065.81544103
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: スガキヤいこみゃあ
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35102422
   default_thread_id: 1557451207
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35102422.58813
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35102422/35102422.52217826
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: そっちじゃにゃあ
@@ -119,7 +119,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35130242
   default_thread_id: 1557969363
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35130242.25916
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35130242/35130242.89755004
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: アキバじゃにゃあ
@@ -129,7 +129,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35163852
   default_thread_id: 1558601222
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35163852/35163852.25288866
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35163852/35163852.48159414
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 関係にゃあ
@@ -139,7 +139,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198594
   default_thread_id: 1559277371
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198594/35198594.54230298
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198594/35198594.10782893
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: かけるしかにゃあ
@@ -149,17 +149,17 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230139
   default_thread_id: 1559871851
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230139/35230139.51518147
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230139/35230139.64887965
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 涼しくにゃあ
   description: '"陣が名古屋に来て初めての夏が来た。ムシムシしたまとわりつくような暑さに徐々に視界が暗くなっていった。次に起きた時には地下にいて只草と八十亀に見守られていた。どうやら気を失っていたらしい…。「夏に名古屋の地上を歩くなんて……死にたゃあの？」と言う八十亀に、陣はたじろいだ。"<br><br>陣界斗:市来光弘／八十亀最中:戸松遥／只草舞衣:若井友希／笹津やん菜:小松未可子／陣繁華:東城日沙子<br><br>原作:安藤正基『八十亀ちゃんかんさつにっき』（「月刊ComicREX」連載中/一迅社刊）／総監督:ひらさわひさよし／キャラクターデザイン:早坂皐月／美術監督:青山央和／色彩設計:小山知子／撮影監督:林幸司／編集:櫻井崇／音響監督:ひらさわひさよし／シリーズ構成:WORDS
-    in STEREO／アニメーション制作:サエッタ／アニメーション制作協力:Creators in Pack / LEVELS<br><br>©安藤正基・一迅社／八十亀ちゃん製作委員会<br><br>so35230139←前話　第一話→so34902433'
+    in STEREO／アニメーション制作:サエッタ／アニメーション制作協力:Creators in Pack / LEVELS<br><br>©安藤正基・一迅社／八十亀ちゃん製作委員会<br><br>so35230139←前話｜次話→so35292201　第一話→so34902433'
   length_seconds: 860
   content_id: so35261056
   default_thread_id: 1560474424
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261056/35261056.98753422
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261056/35261056.97903460
 cast: "[キャスト]<br>陣界斗:市来光弘／八十亀最中:戸松遥／只草舞衣:若井友希／笹津やん菜:小松未可子／陣繁華:東城日沙子"
 staff: "[スタッフ]<br>原作:安藤正基『八十亀ちゃんかんさつにっき』（「月刊ComicREX」連載中/一迅社刊）／総監督:ひらさわひさよし／キャラクターデザイン:早坂皐月／美術監督:青山央和／色彩設計:小山知子／撮影監督:林幸司／編集:櫻井崇／音響監督:ひらさわひさよし／シリーズ構成:WORDS
   in STEREO／アニメーション制作:サエッタ／アニメーション制作協力:Creators in Pack / LEVELS"

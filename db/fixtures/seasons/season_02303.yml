@@ -44,7 +44,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117376
   default_thread_id: 1557710703
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117376.77332
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117376/35117376.85311982
 - !ruby/hash:EpisodeHash
   episode_no: "＃２"
   title: "「雑貨屋戦争」／「嘘はだめよ」"
@@ -54,7 +54,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117375
   default_thread_id: 1557710467
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117375.15529
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117375/35117375.62953835
 - !ruby/hash:EpisodeHash
   episode_no: "＃３"
   title: "「帰ってきたダンナ」"
@@ -64,7 +64,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117374
   default_thread_id: 1557710587
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117374.41259
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117374/35117374.64698739
 - !ruby/hash:EpisodeHash
   episode_no: "＃４"
   title: "「魔女の恋」／「不吉な女」"
@@ -74,7 +74,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117373
   default_thread_id: 1557710403
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117373.1535
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117373/35117373.52562812
 - !ruby/hash:EpisodeHash
   episode_no: "＃５"
   title: "「砂漠の女王」"
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117372
   default_thread_id: 1557710591
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117372.19916
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117372/35117372.26338495
 - !ruby/hash:EpisodeHash
   episode_no: "＃６"
   title: "「占い、信じる？」／「グローバルビレッジ」"
@@ -95,7 +95,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117386
   default_thread_id: 1557710583
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117386.34107
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117386/35117386.76021682
 - !ruby/hash:EpisodeHash
   episode_no: "＃７"
   title: "「いたずらっ子、登場」／「昔はよかった？」"
@@ -105,7 +105,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121572
   default_thread_id: 1557797587
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121572/35121572.33067297
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121572/35121572.99029831
 - !ruby/hash:EpisodeHash
   episode_no: "＃８"
   title: "「転職は無理」／「大変身」"
@@ -116,7 +116,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149874
   default_thread_id: 1558314732
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149874/35149874.23669596
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149874/35149874.18686026
 - !ruby/hash:EpisodeHash
   episode_no: "＃９"
   title: "「おとぎ話の中へ」／「私はキャスター」"
@@ -126,7 +126,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149875
   default_thread_id: 1558314851
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149875/35149875.97991954
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149875/35149875.90449755
 - !ruby/hash:EpisodeHash
   episode_no: "＃１０"
   title: "「余命10日？」／「夢の海外旅行」"
@@ -136,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149876
   default_thread_id: 1558314846
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149876/35149876.85749032
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149876/35149876.59519340
 - !ruby/hash:EpisodeHash
   episode_no: "＃１１"
   title: "「９９歳、再婚？」／「じゃじゃ馬ならし」"
@@ -146,7 +146,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149877
   default_thread_id: 1558314609
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149877/35149877.4039706
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149877/35149877.71366218
 - !ruby/hash:EpisodeHash
   episode_no: "＃１２"
   title: "「あたしは、シンデレラ？」／「寿司って何？」"
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149878
   default_thread_id: 1558314605
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149878/35149878.69266884
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149878/35149878.17583827
 cast: "[キャスト]<br>ウム・サイード:高畑淳子／ウム・サルーム:野沢由香里／ウム・アラウィ:小林さやか／ウム・ハマス:片岡富枝／アブード:若月佑美"
 staff: "[スタッフ]<br>監督:モハメド・サイード・ハリブ"
 produced_year: "[製作年]<br>2018年"

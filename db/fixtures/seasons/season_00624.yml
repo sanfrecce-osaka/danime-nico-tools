@@ -80,7 +80,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781672
   default_thread_id: 1519351053
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781672
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781672/32781672.1247694
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: "「対決!!シンカリオンVS巨大怪物体」"
@@ -90,7 +90,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781671
   default_thread_id: 1519351009
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781671
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781671/32781671.32125163
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: "「来たれ!!秋田からのスナイパー」"
@@ -100,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781670
   default_thread_id: 1519351051
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781670
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781670/32781670.866322
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: "「撃て!!シンカリオン E6こまち」"
@@ -110,7 +110,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781669
   default_thread_id: 1519351049
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781669
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781669/32781669.10728156
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: "「激突!!アイアンスチーマー」"
@@ -120,7 +120,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781668
   default_thread_id: 1519351010
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781668
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781668/32781668.18858046
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: "「貫け!!シンカリオン Ｅ７かがやき」"
@@ -130,7 +130,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781667
   default_thread_id: 1519351289
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781667
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781667/32781667.72427122
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: "「協力！！ハヤトは孝行息子」"
@@ -140,7 +140,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781666
   default_thread_id: 1519351284
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781666
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781666/32781666.33439424
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: "「連結!!初めてのリンク合体」"
@@ -150,7 +150,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32781678
   default_thread_id: 1519351008
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32781678
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32781678/32781678.67423856
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: "「熱闘!! 超進化研究所温泉旅行」"
@@ -160,7 +160,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32818603
   default_thread_id: 1519958242
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32818603
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32818603/32818603.94275143
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: "「忍べ!!シンカリオン E3つばさ」"
@@ -170,7 +170,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32855485
   default_thread_id: 1520558805
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32855485
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32855485/32855485.92001482
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 磨け!! 研究所の老メカニック
@@ -180,7 +180,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32893057
   default_thread_id: 1521178117
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32893057.40550
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32893057/32893057.81122874
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 衝撃!! シンカリオンN700Aのぞみ
@@ -191,7 +191,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32930911
   default_thread_id: 1521780922
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32930911
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32930911/32930911.9819208
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 決戦!!シンカリオンVSゲンブ
@@ -202,7 +202,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32968337
   default_thread_id: 1522374399
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32968337.57819
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32968337/32968337.74421672
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: 登場!!新たなるエージェント スザク
@@ -213,7 +213,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33043901
   default_thread_id: 1523584754
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33043901
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33043901/33043901.93171504
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: 北へ!!シンカリオン H5はやぶさ
@@ -224,7 +224,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33079386
   default_thread_id: 1524187532
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33079386
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33079386/33079386.97777344
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: 炸裂!!ミクとハヤトのダブルカイサツソード
@@ -235,7 +235,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33111468
   default_thread_id: 1524732862
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33111468
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33111468/33111468.27031619
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: 西へ!!シンカリオンVS大阪名物!?
@@ -246,7 +246,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33142751
   default_thread_id: 1525224365
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33297208
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33142751/33142751.56865362
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: 漆黒!!ブラックシンカリオン現る
@@ -257,7 +257,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33190853
   default_thread_id: 1526003075
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33190853
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33190853/33190853.77346403
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: 決闘!!シンカリオンVSブラックシンカリオン
@@ -269,7 +269,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33225756
   default_thread_id: 1526608524
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33225756
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33225756/33225756.75970020
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: 逃亡!!操られたシャショット
@@ -280,7 +280,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33256657
   default_thread_id: 1527135811
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33256657
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33256657/33256657.37371399
 - !ruby/hash:EpisodeHash
   episode_no: 第21話
   title: はばたけ！シンカリオン800つばめ
@@ -291,7 +291,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33296690
   default_thread_id: 1527815854
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33296690
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33296690/33296690.92157775
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: 空へ!!E5はやぶさ＋800つばめ
@@ -303,7 +303,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33332520
   default_thread_id: 1528420677
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33332520
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33332520/33332520.80015202
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: 出動!!シンカリオン 500こだま
@@ -314,7 +314,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33368224
   default_thread_id: 1529027926
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33368224
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33368224/33368224.84370456
 - !ruby/hash:EpisodeHash
   episode_no: 第24話
   title: 侵入!!ミクロの巨大怪物体
@@ -325,7 +325,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33402653
   default_thread_id: 1529630075
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33402653
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33402653/33402653.60173589
 - !ruby/hash:EpisodeHash
   episode_no: 第25話
   title: 再戦!!シンカリオンVSブラックシンカリオン
@@ -336,7 +336,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33439676
   default_thread_id: 1530235804
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33439676
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33439676/33439676.30451712
 - !ruby/hash:EpisodeHash
   episode_no: 第26話
   title: 脅威!!ブラックシンカリオン・バーサーカーモード
@@ -349,7 +349,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33479167
   default_thread_id: 1530842524
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33512479
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33479167/33479167.6060782
 - !ruby/hash:EpisodeHash
   episode_no: 第27話
   title: 反撃!! E5×500
@@ -360,7 +360,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33516346
   default_thread_id: 1531444924
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33516346
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33516346/33516346.58133033
 - !ruby/hash:EpisodeHash
   episode_no: 第28話
   title: 名古屋!!出水指令長の過去
@@ -371,7 +371,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33555480
   default_thread_id: 1532059804
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33555480
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33555480/33555480.18364362
 - !ruby/hash:EpisodeHash
   episode_no: 第29話
   title: 海へ!!敵の電波信号を探れ
@@ -382,7 +382,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33592346
   default_thread_id: 1532682547
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33592346
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33592346/33592346.37822236
 - !ruby/hash:EpisodeHash
   episode_no: 第30話
   title: 京都!!ハヤトとアズサの二人旅
@@ -393,7 +393,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33627825
   default_thread_id: 1533258484
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33627825
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33627825/33627825.14181516
 - !ruby/hash:EpisodeHash
   episode_no: 第31話
   title: 発進!!シンカリオン 500 TYPE EVA
@@ -405,7 +405,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33681511
   default_thread_id: 1534122667
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33681511
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33681511/33681511.29223221
 - !ruby/hash:EpisodeHash
   episode_no: 第32話
   title: キャンプ!!見えない巨大怪物体
@@ -416,7 +416,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33703409
   default_thread_id: 1534467608
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33703409
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33703409/33703409.24819831
 - !ruby/hash:EpisodeHash
   episode_no: 第33話
   title: 宿題!!ハヤトの絵日記大作戦
@@ -427,7 +427,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33740013
   default_thread_id: 1535074157
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33740013
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33740013/33740013.44034443
 - !ruby/hash:EpisodeHash
   episode_no: 第34話
   title: 対立!!シンカリオン 700シリーズ
@@ -438,7 +438,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33778334
   default_thread_id: 1535680205
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33778334
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33778334/33778334.45886756
 - !ruby/hash:EpisodeHash
   episode_no: 第35話
   title: 団結!!シンカリオン 700トリニティー
@@ -449,7 +449,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33833623
   default_thread_id: 1536555482
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33882124
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33833623/33833623.97640887
 - !ruby/hash:EpisodeHash
   episode_no: 第36話
   title: 南へ!!桜島の敵アジトを探せ
@@ -460,7 +460,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33852609
   default_thread_id: 1536887947
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33852609
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33852609/33852609.86742798
 - !ruby/hash:EpisodeHash
   episode_no: 第37話
   title: 遭遇!!ハヤトとセイリュウ!?
@@ -471,7 +471,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33914252
   default_thread_id: 1537838346
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33914252
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33914252/33914252.83215274
 - !ruby/hash:EpisodeHash
   episode_no: 第38話
   title: 救援!!シンカリオン ドクターイエロー
@@ -482,7 +482,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33948333
   default_thread_id: 1538360469
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33948333
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33948333/33948333.45677428
 - !ruby/hash:EpisodeHash
   episode_no: 第39話
   title: 対話!!ハヤトとリュウジの空手修行
@@ -493,7 +493,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33990656
   default_thread_id: 1539048491
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33990656
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33990656/33990656.4498072
 - !ruby/hash:EpisodeHash
   episode_no: 第40話
   title: 地下へ!!シンカリオンVSビャッコ
@@ -504,7 +504,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34005673
   default_thread_id: 1539306606
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34005673
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34005673/34005673.93481217
 - !ruby/hash:EpisodeHash
   episode_no: 第41話
   title: 会議!!ハヤトの誕生日を祝え
@@ -515,7 +515,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34058474
   default_thread_id: 1540170425
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34058474
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34058474/34058474.72977119
 - !ruby/hash:EpisodeHash
   episode_no: 第42話
   title: 東へ!!初めてのグランクラス
@@ -526,7 +526,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34092821
   default_thread_id: 1540788425
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34092821
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34092821/34092821.86923241
 - !ruby/hash:EpisodeHash
   episode_no: 第43話
   title: 交流!!ゲンブとの対話を探れ
@@ -537,7 +537,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34128103
   default_thread_id: 1541379491
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34128103
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34128103/34128103.20541902
 - !ruby/hash:EpisodeHash
   episode_no: 第44話
   title: 家族!!アキタと思い出のケーキ
@@ -548,7 +548,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34161633
   default_thread_id: 1541984286
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34161633
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34161633/34161633.49878546
 - !ruby/hash:EpisodeHash
   episode_no: 第45話
   title: 山形!!シノブが運転士脱退!?
@@ -559,7 +559,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34195326
   default_thread_id: 1542589327
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34195326
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34195326/34195326.12867746
 - !ruby/hash:EpisodeHash
   episode_no: 第46話
   title: 襲来!!怒りのブラックシンカリオン
@@ -570,7 +570,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34230085
   default_thread_id: 1543194008
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34230085
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34230085/34230085.40725542
 - !ruby/hash:EpisodeHash
   episode_no: 第47話
   title: 適合!!Ｅ５×ドクターイエロー
@@ -581,7 +581,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34263944
   default_thread_id: 1543798871
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34263944
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34263944/34263944.77012975
 - !ruby/hash:EpisodeHash
   episode_no: 第48話
   title: 師走!!超進化研究所大忘年会
@@ -592,7 +592,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34299756
   default_thread_id: 1544412483
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34299756
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34299756/34299756.69197799
 - !ruby/hash:EpisodeHash
   episode_no: 第49話
   title: 疾風!!E3つばさアイアンウィング
@@ -603,7 +603,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34331826
   default_thread_id: 1545009791
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34331826
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34331826/34331826.60908151
 - !ruby/hash:EpisodeHash
   episode_no: 第50話
   title: 共闘!!ブラックシンカリオンＶＳトラメ
@@ -614,7 +614,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34350783
   default_thread_id: 1545379683
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34350783.93507
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34350783/34350783.57034510
 - !ruby/hash:EpisodeHash
   episode_no: 第51話
   title: 更新!!フタバの業務日誌
@@ -625,7 +625,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34443635
   default_thread_id: 1546909742
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34443635.30376
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34443635/34443635.1992474
 - !ruby/hash:EpisodeHash
   episode_no: 第52話
   title: 集え!!シンカリオン運転士新年会
@@ -636,7 +636,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34443636
   default_thread_id: 1546909683
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34443636.1198
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34443636/34443636.46142681
 - !ruby/hash:EpisodeHash
   episode_no: 第53話
   title: クイズ!!ブラックシンカリオンとペンギン
@@ -647,7 +647,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34477692
   default_thread_id: 1547527623
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34477692.44834
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34477692/34477692.22148542
 - !ruby/hash:EpisodeHash
   episode_no: 第54話
   title: 押忍!!Ｎ７００Ａとリュウジのブルース
@@ -658,7 +658,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34507167
   default_thread_id: 1548046026
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34507167.39924
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34507167/34507167.2707046
 - !ruby/hash:EpisodeHash
   episode_no: 第55話
   title: 超・超・超加速!!ブラックシンカリオン紅
@@ -669,7 +669,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34541526
   default_thread_id: 1548652751
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34541526.23897
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34541526/34541526.59187296
 - !ruby/hash:EpisodeHash
   episode_no: 第56話
   title: 豆!!鬼のセイリュウ
@@ -680,7 +680,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34578516
   default_thread_id: 1549258742
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34635415.47561
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34578516/34578516.701704
 - !ruby/hash:EpisodeHash
   episode_no: 第57話
   title: 密着!!キトラルザス24時
@@ -691,7 +691,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34619793
   default_thread_id: 1549946885
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34619793.44095
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34619793/34619793.77993899
 - !ruby/hash:EpisodeHash
   episode_no: 第58話
   title: ファイト!!エクスプレスと青春のＥ２系
@@ -702,7 +702,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34651945
   default_thread_id: 1550461082
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34651945.9153
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34651945/34651945.84939917
 - !ruby/hash:EpisodeHash
   episode_no: 第59話
   title: 繋げ!!シンカリオンと鍋の力
@@ -713,7 +713,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34688957
   default_thread_id: 1551066483
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34688957.57657
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34688957/34688957.71995871
 - !ruby/hash:EpisodeHash
   episode_no: 第60話
   title: 大作戦!!団結チームシンカリオン
@@ -724,7 +724,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34725367
   default_thread_id: 1551670022
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34725367.14546
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34725367/34725367.46140966
 - !ruby/hash:EpisodeHash
   episode_no: 第61話
   title: 大激戦!!Ｅ５×５００ VSカイレン
@@ -736,7 +736,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34759393
   default_thread_id: 1552267262
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34759393.63580
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34759393/34759393.28314181
 - !ruby/hash:EpisodeHash
   episode_no: 第62話
   title: さらば!!シャショットよ永遠に…
@@ -747,7 +747,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34796596
   default_thread_id: 1552871402
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34796596.16876
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34796596/34796596.31027685
 - !ruby/hash:EpisodeHash
   episode_no: 第63話
   title: 巨大展開!!東京駅・中央迎撃システム
@@ -759,7 +759,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34846278
   default_thread_id: 1553491742
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34846278.56215
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34846278/34846278.81806487
 - !ruby/hash:EpisodeHash
   episode_no: 第64話
   title: 超絶進化!!Ｅ５はやぶさ ＭｋⅡ
@@ -771,7 +771,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34891300
   default_thread_id: 1554096063
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34891300.28584
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34891300/34891300.4520443
 - !ruby/hash:EpisodeHash
   episode_no: 第65話
   title: 新学期　新展開!!!謎の新幹線祭り
@@ -782,7 +782,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932960
   default_thread_id: 1554699066
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34932960.63010
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932960/34932960.64381499
 - !ruby/hash:EpisodeHash
   episode_no: 第66話
   title: 大炸裂!!オオマガリグランクロス
@@ -793,7 +793,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35008465
   default_thread_id: 1555903743
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35008465.46402
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35008465/35008465.47296730
 - !ruby/hash:EpisodeHash
   episode_no: 第67話
   title: 続け!!シャリンドリルもＭｋⅡ
@@ -804,7 +804,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037557
   default_thread_id: 1556415125
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35037557.9223
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037557/35037557.75753261
 - !ruby/hash:EpisodeHash
   episode_no: 第68話
   title: 謎の敵!!ブラックシンカリオン ナンバーズ
@@ -815,7 +815,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35093904
   default_thread_id: 1557278343
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35093904.72956
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35093904/35093904.59698718
 - !ruby/hash:EpisodeHash
   episode_no: 第69話
   title: チェンジ!!シンカライザー
@@ -826,7 +826,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117371
   default_thread_id: 1557710589
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35117371.35530
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117371/35117371.7664834
 - !ruby/hash:EpisodeHash
   episode_no: 第70話
   title: ショック!!悲しみのセイリュウ
@@ -837,7 +837,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149870
   default_thread_id: 1558314623
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35149870.94038
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149870/35149870.37027618
 - !ruby/hash:EpisodeHash
   episode_no: 第71話
   title: 最強!!ブラックシンカリオンオーガ
@@ -848,7 +848,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35182380
   default_thread_id: 1558934463
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35182380/35182380.67108211
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35182380/35182380.57237095
 - !ruby/hash:EpisodeHash
   episode_no: 第72話
   title: 共存!!ヒトとキトラルザス
@@ -859,7 +859,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35213947
   default_thread_id: 1559532546
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213947/35213947.95537557
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213947/35213947.82607557
 - !ruby/hash:EpisodeHash
   episode_no: 第73話
   title: 究極のオーバークロス!!９２３ドクターイエロー
@@ -870,7 +870,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35245269
   default_thread_id: 1560145925
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35245269/35245269.23082881
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35245269/35245269.7557063
 - !ruby/hash:EpisodeHash
   episode_no: 第74話
   title: 大爆発!!漆黒の決闘
@@ -881,7 +881,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276440
   default_thread_id: 1560746946
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276440/35276440.18961110
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276440/35276440.73545143
 cast: "[キャスト]<br>速杉ハヤト:佐倉綾音／男鹿アキタ:沼倉愛美／大門山ツラヌキ:村川梨衣／シャショット:うえだゆうじ／上田アズサ:竹達彩奈／速杉ホクト:杉田智和／三原フタバ:雨宮天／出水シンペイ:緑川光／月山シノブ:吉村那奈美／清洲リュウジ:逢坂良太／ビャッコ:細谷佳正／ゲンブ:マックスウェル・パワーズ／セイリュウ:真堂
   圭"
 staff: "[スタッフ]<br>監督:池添隆博／シリーズ構成:下山健人／キャラクターデザイン:あおのゆか／メカニックデザイン:服部恵大／音楽:渡辺俊幸／音響監督:三間雅文／アニメーション制作:ＯＬＭ／アニメーション制作協力:亜細亜堂／ＣＧアニメーション制作:ＳＭＤＥ／制作:小学館集英社プロダクション"

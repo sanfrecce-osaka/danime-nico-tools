@@ -76,7 +76,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134438
   default_thread_id: 1558055469
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134438/35134438.94349268
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134438/35134438.22173611
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: こよみリバース 其ノ貳
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162622
   default_thread_id: 1558574529
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162622/35162622.40552501
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162622/35162622.92650041
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: こよみリバース 其ノ参
@@ -94,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35190342
   default_thread_id: 1559092268
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190342/35190342.20029189
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190342/35190342.57207865
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: こよみリバース 其ノ肆
@@ -103,7 +103,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230340
   default_thread_id: 1559878024
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230340/35230340.52210796
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230340/35230340.74547664
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: こよみリバース 其ノ伍
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35261057
   default_thread_id: 1560474666
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261057/35261057.93168965
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261057/35261057.22832483
 cast: "[キャスト]<br>阿良々木暦:神谷浩史／戦場ヶ原ひたぎ:斎藤千和／八九寺真宵:加藤英美里／神原駿河:沢城みゆき／千石撫子:花澤香菜／羽川翼:堀江由衣／阿良々木火憐:喜多村英梨／阿良々木月火:井口裕香／斧乃木余接:早見沙織／老倉育:井上麻里奈"
 staff: "[スタッフ]<br>原作:西尾維新（『続・終物語』講談社BOX）／キャラクター原案:VOFAN／監督:新房昭之／シリーズ構成:東冨耶子、新房昭之／キャラクターデザイン・総作画監督:渡辺明夫／アニメーション制作:シャフト"
 produced_year: "[製作年]<br>2018年"

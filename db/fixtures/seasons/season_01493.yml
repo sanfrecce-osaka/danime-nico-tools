@@ -65,7 +65,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085443
   default_thread_id: 1507772722
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085443
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085443/32085443.25694843
 - !ruby/hash:EpisodeHash
   episode_no: 第5話～第8話
   title: 夢ってへんだなぁ／アライグマくんは決心した／ボクの島ができたぞ／ボクとおとうさんの家
@@ -75,7 +75,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085141
   default_thread_id: 1507764441
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085141
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085141/32085141.83978872
 - !ruby/hash:EpisodeHash
   episode_no: 第9話～第13話
   title: みんなでカミーニョ／カゼはどうやって治るのだろう／ボクは今日お留守番をする／大切なものが盗まれた／こわい考えはこわい
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085444
   default_thread_id: 1507773267
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085444
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085444/32085444.58893941
 - !ruby/hash:EpisodeHash
   episode_no: 第14話～第16話
   title: ボクの石が割れた／さびしくなる時がある／ボクはよく歩く
@@ -95,7 +95,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085096
   default_thread_id: 1507762357
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085096
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085096/32085096.18853765
 - !ruby/hash:EpisodeHash
   episode_no: 第17話～第20話
   title: シマリスくんのおねえさん／ボクたちのおもしろいこと／ボクの中の景色／スナドリネコさんの遊び
@@ -105,7 +105,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085095
   default_thread_id: 1507763633
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085095
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085095/32085095.29403033
 - !ruby/hash:EpisodeHash
   episode_no: 第21話～第24話
   title: シマリスくんが決闘だ／ボクが昔持っていたもの／フェネギーくんのあ～あ／石の木の大きな石
@@ -115,7 +115,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085094
   default_thread_id: 1507763610
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085094
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085094/32085094.93135596
 - !ruby/hash:EpisodeHash
   episode_no: 第25話～第28話
   title: 雲が運んでくるもの／またおねえさんがやってきた／コウモリのこと／スナドリネコさんの楽しみ
@@ -125,7 +125,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085093
   default_thread_id: 1507763616
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085093
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085093/32085093.20040408
 - !ruby/hash:EpisodeHash
   episode_no: 第29話～第32話
   title: アナグマくんてヘン？／道を歩いて行こう／シマリスくんの犯人さがし／最近楽しいかなぁ
@@ -135,7 +135,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085092
   default_thread_id: 1507763636
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085092
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085092/32085092.74126506
 - !ruby/hash:EpisodeHash
   episode_no: 第33話～第36話
   title: おとうさんは旅に出る／ボクは魚をとれない／崖崩れが見てみたい／おねえさんのおつかい
@@ -146,7 +146,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085032
   default_thread_id: 1507761844
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085032
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085032/32085032.43835072
 - !ruby/hash:EpisodeHash
   episode_no: 第37話～第40話
   title: ジリツってどうするのかなぁ／シマリスくんのわかったこと／天誅ごっこをしよう／そっくりな子に会ってみたい
@@ -156,7 +156,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32085031
   default_thread_id: 1507761824
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085031
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32085031/32085031.59101568
 - !ruby/hash:EpisodeHash
   episode_no: 第41話～第44話
   title: コドモにはないしょのこと／シマリスくんとタネをまこう／芽が出たぞ／つまらない話のこと
@@ -166,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32122707
   default_thread_id: 1508392780
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32122707
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32122707/32122707.38869615
 - !ruby/hash:EpisodeHash
   episode_no: 第45話～第48話
   title: 趣味ってなんだろう／おとうさんのともだち／スナドリネコさんがいなくなった／スナドリネコさんを探せ
@@ -176,7 +176,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32122708
   default_thread_id: 1508392754
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32122708
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32122708/32122708.75743095
 - !ruby/hash:EpisodeHash
   episode_no: 第49話～第52話
   title: ボクは散歩が好きだなぁ／おねえさんはなやんでる／退屈なアライグマくん／そっくりな子に会いに行こう
@@ -186,7 +186,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32122709
   default_thread_id: 1508392720
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32122709
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32122709/32122709.35263969
 - !ruby/hash:EpisodeHash
   episode_no: 第53話～第56話
   title: スナドリネコさんがきた日／たいへんなことがおきる／たいへんなことがおきる日／フェネギーくんが不良になった
@@ -196,7 +196,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32240018
   default_thread_id: 1510196420
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32240018
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32240018/32240018.7299323
 - !ruby/hash:EpisodeHash
   episode_no: 第57話～第60話
   title: 落とし物は捨てた物？／みんなでノジュク／滝ってスゴイなぁ／父親はたいへんだ
@@ -206,7 +206,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32240046
   default_thread_id: 1510197335
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32240046
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32240046/32240046.47685152
 - !ruby/hash:EpisodeHash
   episode_no: 第61話～第64話
   title: アライグマくんの家探し／ニクキュウを見に行こう／ポツポツと穴があく
@@ -216,7 +216,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32240048
   default_thread_id: 1510197443
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32240048
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32240048/32240048.23309730
 - !ruby/hash:EpisodeHash
   episode_no: 第65話～第68話
   title: キロキロムシのこと／アライグマくんはまた決心した／みんなヘンないきもの／あぁ夏だなぁ
@@ -226,7 +226,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32160795
   default_thread_id: 1508964438
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160795
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32160795/32160795.20202569
 - !ruby/hash:EpisodeHash
   episode_no: 第69話～第72話
   title: 大将がきた／魚がとれた／ものすごくおもしろい話／ユーレイが出たぞ
@@ -236,7 +236,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32160796
   default_thread_id: 1508964987
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160796
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32160796/32160796.93710226
 - !ruby/hash:EpisodeHash
   episode_no: 第73話～第76話
   title: 新しい遊びを考えよう／ポポスくんのこと／ボクは旅に出る／シマリスくんのライバル
@@ -246,7 +246,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32160797
   default_thread_id: 1508964985
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32160797
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32160797/32160797.50880051
 - !ruby/hash:EpisodeHash
   episode_no: 第77話～第80話
   title: 耳カキはいいなぁ／風となかよくしよう／いるものといらないもの／こまったぞ
@@ -256,7 +256,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32128839
   default_thread_id: 1508492539
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32128839
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32128839/32128839.79859456
 - !ruby/hash:EpisodeHash
   episode_no: 第81話～第84話
   title: ぼのちゃん～たってみよう／シマリスくんは名探偵／お料理してみよう／おなかがいたい
@@ -266,7 +266,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32281997
   default_thread_id: 1510910401
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32281997
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32281997/32281997.97528168
 - !ruby/hash:EpisodeHash
   episode_no: 第85話～第88話
   title: かいぶつのいる山／アライグマくんが負けた／アライグマくんとアカカくん／おねえさんが帰らない
@@ -276,7 +276,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32602843
   default_thread_id: 1516266022
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32602843
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32602843/32602843.64729893
 - !ruby/hash:EpisodeHash
   episode_no: 第89話～第92話
   title: どうしてぶつかるんだろう／とまらない歌／しあわせのテントウムシ／ヤマビーくんの顔
@@ -288,7 +288,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32571752
   default_thread_id: 1515724059
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32571752.72294
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32571752/32571752.14497133
 - !ruby/hash:EpisodeHash
   episode_no: 第93話～第96話
   title: しまっちゃうおじさんのヒミツ／ぼのちゃん～およいでみよう／どーんと音がして／魚がおいてある
@@ -298,7 +298,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32709520
   default_thread_id: 1518138710
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32709520
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32709520/32709520.18415774
 - !ruby/hash:EpisodeHash
   episode_no: 第97話～第100話
   title: マボロシの葉っぱ／おねえさんをさがせ／ウマちゃんのこと／何を考えてるかわかる？
@@ -308,7 +308,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32855477
   default_thread_id: 1520558669
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32855477
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32855477/32855477.20989138
 - !ruby/hash:EpisodeHash
   episode_no: 第101話～第104話
   title: シマリスくんは虫がキライ／太ってみたら／プレゼント遊びをしよう／プレゼントのゆくえ
@@ -318,7 +318,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33043905
   default_thread_id: 1523584736
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33043905
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33043905/33043905.81656708
 - !ruby/hash:EpisodeHash
   episode_no: 第105話～第108話
   title: 大将がたいへんだ／アライグマくんのヒマつぶし／ぼのちゃん～みんなで遊ぼう～／おねえさんとおとうさん
@@ -329,7 +329,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33177372
   default_thread_id: 1525754683
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33177372
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33177372/33177372.2945219
 - !ruby/hash:EpisodeHash
   episode_no: 第109話～第112話
   title: フェネギーくんのイヤなこと／言葉がひらめいた／ボクは怒ってる／くっついてはなれない
@@ -339,7 +339,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33257419
   default_thread_id: 1527150870
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33257419
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33257419/33257419.65984841
 - !ruby/hash:EpisodeHash
   episode_no: 第113話～第116話
   title: シマリスくんのユーウツ／コヒグマくんがカゼをひいた／まっすぐ歩こう／ヤマビーくんの相方さがし
@@ -349,7 +349,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33441226
   default_thread_id: 1530264006
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33441226
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33441226/33441226.253578
 - !ruby/hash:EpisodeHash
   episode_no: 第117話～第120話
   title: プレーリードッグくんがいない／ものすごいケンカ／ぼのちゃん～おうちにきたよ／うたうたいになりたい
@@ -359,7 +359,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33607829
   default_thread_id: 1532919561
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33607829
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33607829/33607829.9399557
 - !ruby/hash:EpisodeHash
   episode_no: 第121話～第124話
   title: 誰かにバッタリ／おねえさんができた／こわいぞこわいぞ／飛べ！シマリスくん
@@ -369,7 +369,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33734979
   default_thread_id: 1535007607
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33734979
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33734979/33734979.4272228
 - !ruby/hash:EpisodeHash
   episode_no: 第125話～第128話
   title: こわいカシラがやってくる／こわいカシラがやってきた／クズリくんと行こう／ボクが見てないとき
@@ -379,7 +379,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33811170
   default_thread_id: 1536198555
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33811170
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33811170/33811170.4455210
 - !ruby/hash:EpisodeHash
   episode_no: 第129話～第132話
   title: 川はふしぎだ／ものはいつからゴミになる／ひみつきちをつくろう／ぼのちゃん～こわくないよ
@@ -389,7 +389,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34058495
   default_thread_id: 1540171143
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34058495.29900
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34058495/34058495.47577477
 - !ruby/hash:EpisodeHash
   episode_no: 第133話～第136話
   title: アライグマくんの大発明／ミンナ虫のこと／ポポくんの挑戦／アナグマくんを怒らせろ
@@ -399,7 +399,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34209133
   default_thread_id: 1542852363
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34209133
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34209133/34209133.52215685
 - !ruby/hash:EpisodeHash
   episode_no: 第137話～第140話
   title: 地平線はいいよ／手を入れてみよう／カシラとゴンゾ／ピッポさんとシマリスくん
@@ -409,7 +409,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34277529
   default_thread_id: 1544058491
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34277529
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34277529/34277529.87718570
 - !ruby/hash:EpisodeHash
   episode_no: 第141話～第144話
   title: 大将がおりてきた／なんでも古くなる／おねえさんは名探偵／シマリスくんとケンカした
@@ -419,7 +419,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34439405
   default_thread_id: 1546825207
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34439405.79117
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34439405/34439405.46877829
 - !ruby/hash:EpisodeHash
   episode_no: 第145話～第148話
   title: ぼのちゃん～アライグマちゃん／アライグマくんは止まらない／大将はくやしい／おねえさんのこいびと
@@ -429,7 +429,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34619135
   default_thread_id: 1549933682
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34619135.22029
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34619135/34619135.64930969
 - !ruby/hash:EpisodeHash
   episode_no: 第149話～第152話
   title: あぁ冬だなぁ／アライグマくんのおかあさん／夫婦のはなし／クズリくんが立った
@@ -439,7 +439,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34729550
   default_thread_id: 1551752833
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34729550.45632
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34729550/34729550.84193565
 - !ruby/hash:EpisodeHash
   episode_no: 第153話～第156話
   title: ぼくたちはもそもそ／フェネギーくんの引っ越し／アライグマくんの恋／だれかが見てる
@@ -449,7 +449,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34890494
   default_thread_id: 1554083942
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34890494.47459
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34890494/34890494.72079877
 - !ruby/hash:EpisodeHash
   episode_no: 第157話～第160話
   title: シマリスくんとジョボくん／ぼのちゃん～おこってるの？／かくれんぼしよう／もののあわれ
@@ -459,7 +459,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017441
   default_thread_id: 1556069166
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35017441.34637
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017441/35017441.37291548
 - !ruby/hash:EpisodeHash
   episode_no: 第161話～第164話
   title: おねえさんといっしょ／待ちあわせはどこ？／ひろったタマゴ／スナドリネコさんと大将さん
@@ -469,7 +469,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35213733
   default_thread_id: 1559525944
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213733/35213733.5055881
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213733/35213733.6127943
 cast: "[キャスト]<br>ぼのぼの:雪深山福子／シマリス:雄賀多あや／アライグマくん:高野慎平／スナドリネコさん:黒藤結軌／ぼのぼののおとうさん:伊東孝明／アライグマくんのおとうさん:粟津高嗣　ほか"
 staff: "[スタッフ]<br>原作:いがらしみきお(竹書房｢まんがライフ｣｢まんがくらぶ｣)／プロデューサー:原大輔(フジテレビジョン)、松下洋子／監督:山口秀憲／シリーズ構成:広田光毅／脚本:広田光毅、中園勇也／キャラクターデザイン:関口優花／作画監督:根岸真知子／美術監督:小日向乃理子／色彩設計:千代間由佳／撮影監督:坂本裕一／音響監督:横田知加子／音響制作:グロービジョン／音楽:若林タカツグ／主題歌:｢bonobonoする｣歌：モノブライト、作詞・作曲：桃野陽介(kiraku
   records) ／制作:フジテレビ・エイケン"

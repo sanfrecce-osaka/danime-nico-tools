@@ -73,7 +73,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34937998
   default_thread_id: 1554775941
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34937998.48175
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34937998/34937998.43131907
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 本当はありがとう
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977477
   default_thread_id: 1555377548
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34977477.20608
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977477/34977477.11880650
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: つたわる空回り
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012778
   default_thread_id: 1555981999
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012778.25870
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012778/35012778.95693595
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 弟子になります
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012777
   default_thread_id: 1555981989
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012777.59633
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012777/35012777.52644532
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: アルアルあるある
@@ -121,7 +121,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012776
   default_thread_id: 1555981987
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012776.97467
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012776/35012776.22059955
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 五七五で夏が来る
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121561
   default_thread_id: 1557797472
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35121561.4718
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121561/35121561.67487139
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: やわらかい涙
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35154449
   default_thread_id: 1558401543
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35154449.8314
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35154449/35154449.11953953
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 外からおかえり
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186000
   default_thread_id: 1559005868
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186000/35186000.92174193
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186000/35186000.1950423
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 絶好のカレーパンケーキ
@@ -169,7 +169,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217709
   default_thread_id: 1559611863
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217709/35217709.95831209
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217709/35217709.30628289
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: はじめて言われたこと
@@ -181,7 +181,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248778
   default_thread_id: 1560215288
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248778/35248778.10259269
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248778/35248778.84967214
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: たぷたぷからプリプリまで

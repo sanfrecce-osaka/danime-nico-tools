@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938003
   default_thread_id: 1554775686
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34938003.3883
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938003/34938003.40031652
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 友に勝る財宝なし
@@ -100,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34954669
   default_thread_id: 1555031346
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34954669.57065
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34954669/34954669.99843880
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 当然の陰に咲く花を見よ
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012780
   default_thread_id: 1555981991
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35012780.87318
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012780/35012780.64649603
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 地に足つかねば願い達せず
@@ -124,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017429
   default_thread_id: 1556069168
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35017429.54684
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017429/35017429.15817425
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: ひとつの嘘が百の嘘に通ずる
@@ -136,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35094434
   default_thread_id: 1557292683
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35094434.63779
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35094434/35094434.468079
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 過ちを赦すなら、罪人の顔をみよ
@@ -148,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121564
   default_thread_id: 1557797405
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35121564.8407
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121564/35121564.54311146
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 過去へは戻れぬが、未来は進める
@@ -160,7 +160,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35154450
   default_thread_id: 1558401797
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=35154450.94100
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35154450/35154450.75816506
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 見ぬと消失は同意にあらず
@@ -172,7 +172,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186142
   default_thread_id: 1559008942
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186142/35186142.35086841
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186142/35186142.89270051
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 無明の夜こそ、笑みを燃べよ
@@ -184,7 +184,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35213716
   default_thread_id: 1559525405
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213716/35213716.31017049
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213716/35213716.94408510
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 疑心の果実に種はなし
@@ -196,7 +196,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248779
   default_thread_id: 1560215536
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248779/35248779.26737988
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248779/35248779.919777
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 煩悩なければ悟りもまたなし
@@ -208,7 +208,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276047
   default_thread_id: 1560736743
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276047/35276047.85301190
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276047/35276047.5530998
 cast: "[キャスト]<br>帝釈天:水中雅章／梵　天:前野智昭／大日如来:柿原徹也／阿閦如来:小林裕介／阿弥陀如来:平川大輔／釈迦如来:森久保祥太郎／薬師如来:松岡禎丞／文殊菩薩:木島隆一／普賢菩薩:堀江
   瞬／地蔵菩薩:八代 拓／弥勒菩薩:村瀬 歩／観音菩薩:内田雄馬／勢至菩薩:天﨑滉平／虚空蔵菩薩:谷山紀章／迦楼羅天:山下大輝／マーラ:大塚剛央"
 staff: "[スタッフ]<br>原作:DMM GAMES/Visualｗorks／監督:オグロアキラ／シリーズ構成:吉田恵里香／キャラクターデザイン:加藤真人／サブキャラクターデザイン:鶴田　眸／美術監督:甲斐政俊／色彩設計:田中美穂／撮影監督:大島由貴／VFXディレクター:中西康祐／編集:本田優規／音楽:藤澤慶昌／音響監督:本山　哲／音響制作:Ai
