@@ -34,10 +34,10 @@ tags: !ruby/array:Hashie::Array
   name: 関俊彦
   type: cast
 - !ruby/hash:TagHash
-  name: 増田俊樹
+  name: 内田雄馬
   type: cast
 - !ruby/hash:TagHash
-  name: 内田雄馬
+  name: 増田俊樹
   type: cast
 - !ruby/hash:TagHash
   name: 蒼井翔太
