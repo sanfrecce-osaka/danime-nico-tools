@@ -41,6 +41,9 @@ tags: !ruby/array:Hashie::Array
   name: 原作：7DOC
   type: staff
 - !ruby/hash:TagHash
+  name: 凹凸世界シリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
@@ -140,6 +143,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1560131285
   channel_id: 2632720
   thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35244710/35244710.95617663
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 終わりと始まり
+  description: カイリに正体を暴かれたキコテンチュウは仮面を外し、牙を剥く。鬼天盟メンバーのエネルギーを吸収していくキコテンチュウを見て騙されたと目が覚めるメンバーたち。その中で唯一、ライナだけがキコテンチュウに味方する。仲間がキコテンチュウに殺されかけるのを目の当たりにしたジンは未知の力を爆発させ、キコテンチュウとの戦いに勝利する。100名近い参加者たちは皆回収され、元力の種も永遠に凸凹大会に封印された。波乱続きだった予選が終わり、いよいよ本当の戦いが始まる―。<br><br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり<br><br>監督:周亮／脚本家:云落／原作者:7DOC<br><br>©7DOC<br><br>so35244710←前話　第一話→so35017434
+  length_seconds: 1420
+  content_id: so35252935
+  default_thread_id: 1560302345
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35252935/35252935.4725158
 cast: "[キャスト]<br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり"
 staff: "[スタッフ]<br>監督:周亮／脚本家:云落／原作者:7DOC"
 produced_year: "[製作年]<br>2019年"
