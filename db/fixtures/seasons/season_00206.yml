@@ -470,6 +470,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1556241189
   channel_id: 2632720
   thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026974/35026974.59236275
+- !ruby/hash:EpisodeHash
+  episode_no: "＃46"
+  title: ドーナツ警官のカッコいい１日/おバカアレルギーをとめて！
+  description: "＜ドーナツ警官のカッコいい１日＞ガムボールたちから「警官なんてカッコ悪い」と言われたドーナツ警官は二人にカッコいいところを見せようとするが、どんどんエスカレートしていってしまい…。／＜おバカアレルギーをとめて！＞ダーウィンのくしゃみが朝から止まらない。どうやら誰かがバカなことを言ったりするとそれに反応するおバカアレルギーらしい。とうとうダーウィンをこわすものが何もない砂漠まで連れて行くが…。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so35026974←前話　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so35306932
+  default_thread_id: 1561339203
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35306932/35306932.30757255
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
