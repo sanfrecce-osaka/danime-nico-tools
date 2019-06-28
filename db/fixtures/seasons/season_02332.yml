@@ -1,0 +1,662 @@
+--- !ruby/hash:SeasonHash
+title: 姫ちゃんのリボン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/80/8/22808_1_6.png?1559887312000
+outline: 元気いっぱいの野々原姫子の前に、顔がそっくりな魔法の国の王女エリカが現れる。エリカは王位継承権を引き継ぐために、姫子を1年間観察する修行を姫子にお願いする。その代わりに貸してもらった赤いリボンは、誰にでも変身できる魔法のリボンだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 大谷育江
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 真山亜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 大輝ゆう
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤春日
+  type: cast
+- !ruby/hash:TagHash
+  name: 草彅剛
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：辻初樹
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAS
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+- !ruby/hash:TagHash
+  name: 1992年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: １話
+  title: 魔法使いになっちゃった
+  description: 魔法の国の王女エリカは、自分以外に変身できる「魔法のリボン」を、人間界に住むおてんばな野々原姫子に試してもらうことにした。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>次話→so35315811
+  length_seconds: 1475
+  content_id: so35315812
+  default_thread_id: 1561516568
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315812/35315812.18742992
+- !ruby/hash:EpisodeHash
+  episode_no: ２話
+  title: ショック！先輩の告白
+  description: 演劇部の支倉先輩に好意を寄せる姫子。合格祈願のお守りを、愛子お姉ちゃんに変身して渡そうとするのだが、先輩が好きだったのは…<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315812←前話｜次話→so35315810　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315811
+  default_thread_id: 1561516566
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315811/35315811.21662008
+- !ruby/hash:EpisodeHash
+  episode_no: ３話
+  title: あこがれの先輩に変身
+  description: 支倉先輩は、お姉ちゃんに変身した姫子に告白。そのことを知らない愛子。二人に責任を感じた姫子はある計画を思いつくのだった。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315811←前話｜次話→so35315809　第一話→so35315812
+  length_seconds: 1474
+  content_id: so35315810
+  default_thread_id: 1561516805
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315810/35315810.9686793
+- !ruby/hash:EpisodeHash
+  episode_no: ４話
+  title: 姫ちゃん校長になる！
+  description: 支倉先輩に変身して愛子お姉ちゃんに告白した姫子。一方、思わぬケガで主役ができなくなった支倉先輩のため、姫子は校長に変身。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315810←前話｜次話→so35315808　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315809
+  default_thread_id: 1561516803
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315809/35315809.54608441
+- !ruby/hash:EpisodeHash
+  episode_no: ５話
+  title: ぶっとび少女ひかる登場
+  description: 魔法のリボンを破いてしまい、ポコ太と話せなくなって落ち込む姫子。「小林大地ファンクラブ会長」を名乗る日比野ひかるが登場。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315809←前話｜次話→so35315785　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315808
+  default_thread_id: 1561516564
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315808/35315808.94713468
+- !ruby/hash:EpisodeHash
+  episode_no: ６話
+  title: バッタリ！大地と大地
+  description: ひかるの誤解を解くために大地に変身した姫子は、元に戻れなくなった。空腹のまま町をさまよう姫子は本物の大地に出会ってしまう。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315808←前話｜次話→so35315784　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315785
+  default_thread_id: 1561515968
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315785/35315785.77239441
+- !ruby/hash:EpisodeHash
+  episode_no: ７話
+  title: 秘密がバレちゃう？！
+  description: 姫子は風邪で寝込んでしまった。お見舞いにやってきた大地は変身に気づいてる！？秘密を守るため、姫子とポコ太は新作戦を展開。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315785←前話｜次話→so35315782　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315784
+  default_thread_id: 1561516341
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315784/35315784.96702984
+- !ruby/hash:EpisodeHash
+  episode_no: ８話
+  title: 誘拐犯になぁーれ！
+  description: 大地の弟、森太郎が誘拐された。犯人を追いつめたが、人質の身が危うくて救出できない。姫子は大地の前で森太郎に変身し…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315784←前話｜次話→so35315780　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315782
+  default_thread_id: 1561516345
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315782/35315782.27678230
+- !ruby/hash:EpisodeHash
+  episode_no: ９話
+  title: ピンチ！記憶が消される
+  description: 大地の前で魔法を見せた姫子。魔法の王国の掟に従えば、記憶が消されてしまう！全てを打ち明けられた大地は秘密厳守を約束した。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315782←前話｜次話→so35315779　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315780
+  default_thread_id: 1561516336
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315780/35315780.6002969
+- !ruby/hash:EpisodeHash
+  episode_no: １０話
+  title: 肉まんよりも君が好き！
+  description: 姫子のクラスに美少年、有坂が転校してきて、女の子の人気を集めまくった。そんな彼が肉まんをパクつく姫子に近づき、好意を告白！<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315780←前話｜次話→so35315778　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315779
+  default_thread_id: 1561515975
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315779/35315779.72154330
+- !ruby/hash:EpisodeHash
+  episode_no: １１話
+  title: リボンがあぶない！
+  description: 有坂が転校してきて以来、おかしなことが連発。大地は彼を疑うが、有坂からの告白に舞い上がる姫子は大地とケンカになってしまう。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315779←前話｜次話→so35315777　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315778
+  default_thread_id: 1561516339
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315778/35315778.91664495
+- !ruby/hash:EpisodeHash
+  episode_no: １２話
+  title: 好きだっていったのに
+  description: 有坂への疑惑を持ち始めた姫子は、夢子に変身して尾行する。だが変身は簡単に見破られてしまう。まさか有坂も魔法の国の住人？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315778←前話｜次話→so35315776　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315777
+  default_thread_id: 1561516333
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315777/35315777.71836212
+- !ruby/hash:EpisodeHash
+  episode_no: １３話
+  title: SMAPがやって来た
+  description: クリスマス演芸大会に出演予定の演劇部員、支倉先輩が引退して部員が激減。姫子はSMAPに変身し、舞台を盛り上げようとするが…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315777←前話｜次話→so35315775　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315776
+  default_thread_id: 1561516337
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315776/35315776.79980765
+- !ruby/hash:EpisodeHash
+  episode_no: １４話
+  title: ぶっとびひかるの名推理
+  description: SMAPの草彅君に変身した姫子は、ひかるに追い回され、写真週刊誌にツーショットを撮られてしまう。これは大スクープだ！<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315776←前話｜次話→so35315774　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315775
+  default_thread_id: 1561516335
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315775/35315775.50741591
+- !ruby/hash:EpisodeHash
+  episode_no: １５話
+  title: ポコ太雪山からSOS
+  description: 2泊3日の雪山スキー学級で、姫子たちは大はしゃぎ。しかし、連れてきたポコ太が話しているところをひかるに見られてしまう。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315775←前話｜次話→so35315752　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315774
+  default_thread_id: 1561516343
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315774/35315774.16809601
+- !ruby/hash:EpisodeHash
+  episode_no: １６話
+  title: ひかるは何でもお見通し
+  description: 大地は姫子に授業の代返を頼んで旅に出た。仕方なく大地に変身するシーンをひかるにが目撃！ひかるは姫子が妖怪なのではと疑う。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315774←前話｜次話→so35315751　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315752
+  default_thread_id: 1561515363
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315752/35315752.17098274
+- !ruby/hash:EpisodeHash
+  episode_no: １７話
+  title: エッ！変身がもどらない
+  description: 姫子の秘密を暴きたいひかるは、週刊誌カメラマンと二人で姫子を罠へと追い込んだ。姫子がひかるに変身した瞬間、シャッターが…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315752←前話｜次話→so35315734　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315751
+  default_thread_id: 1561515303
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315751/35315751.48376940
+- !ruby/hash:EpisodeHash
+  episode_no: １８話
+  title: 君には笑顔がにあってる
+  description: 姫子のピンチは、エリカが時間を止めてくれたおかげで切り抜けられた。だけど、リボンが壊れて変身がとけなくなってしまう。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315751←前話｜次話→so35315733　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315734
+  default_thread_id: 1561514763
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315734/35315734.22223982
+- !ruby/hash:EpisodeHash
+  episode_no: １９話
+  title: チョコレートがいっぱい
+  description: 女の子の勝負の日、バレンタインデー！たまたま大地に変身した時、チョコを山ほど受け取ってしまう姫子。自分の分のチョコの行方は？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315734←前話｜次話→so35315732　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315733
+  default_thread_id: 1561514765
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315733/35315733.53119372
+- !ruby/hash:EpisodeHash
+  episode_no: ２０話
+  title: アイドルはたいへんだぁ
+  description: 姫子の父が超アイドル「星野まゆり」映画の監督になった。撮影現場では、スタッフたちが星野まゆりのわがままに困りきっていた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315733←前話｜次話→so35315731　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315732
+  default_thread_id: 1561514825
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315732/35315732.10304946
+- !ruby/hash:EpisodeHash
+  episode_no: ２１話
+  title: 夢に向かって走れ！
+  description: 競走馬ドリーム号の調教師、さゆりと大地は知り合いだった。さゆりが怪我をしたため、姫子はさゆりに変身して調教に挑んだが…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315732←前話｜次話→so35315730　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315731
+  default_thread_id: 1561515069
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315731/35315731.99064332
+- !ruby/hash:EpisodeHash
+  episode_no: ２２話
+  title: GOGOおばあちゃん
+  description: 祖父が参加するゲートボール大会を手伝う大地。姫子はおばあさんにこっそり変身して、大地や老人たちとゲートボールを楽しんだ。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315731←前話｜次話→so35315729　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315730
+  default_thread_id: 1561514834
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315730/35315730.89817849
+- !ruby/hash:EpisodeHash
+  episode_no: ２３話
+  title: 初恋にさようなら
+  description: 愛子は姫子の部屋で「支倉先輩ノート」を発見してしまう。先輩の前から身を引こうとする愛子を引き止めるため、姫子は変身して…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315730←前話｜次話→so35315728　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315729
+  default_thread_id: 1561514823
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315729/35315729.79905393
+- !ruby/hash:EpisodeHash
+  episode_no: ２４話
+  title: 魔法の国へようこそ
+  description: エリカの誕生日パーティに招待され、はじめて魔法の国を訪れた姫子とポコ太。ポコ太は猫のピンクちゃんに一目惚れしてしまう。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315729←前話｜次話→so35315727　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315728
+  default_thread_id: 1561515063
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315728/35315728.976440
+- !ruby/hash:EpisodeHash
+  episode_no: ２５話
+  title: それゆけボクの無敵パパ
+  description: 分身できるという「魔法のパレット」。試してみると、姫子に見た目はそっくりなのに、とてもおとなしい分身が現れた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315728←前話｜次話→so35315656　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315727
+  default_thread_id: 1561515073
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315727/35315727.23928284
+- !ruby/hash:EpisodeHash
+  episode_no: ２６話
+  title: 気になる彼女は転校生
+  description: 新学期を迎えて姫子は中学2年生に。クラスには大地、ひかる、有坂がせいぞろい。大地の幼なじみという聖結花も転校してきた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315727←前話｜次話→so35315669　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315656
+  default_thread_id: 1561513807
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315656/35315656.41650804
+- !ruby/hash:EpisodeHash
+  episode_no: ２７話
+  title: 大地の初恋物語！？
+  description: 新入生歓迎会でピーターパンを演じることになった姫子。結花は大地にキスを迫るなど、好意をアピール。演劇部にも入部してきた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315656←前話｜次話→so35315670　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315669
+  default_thread_id: 1561513815
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315669/35315669.14127350
+- !ruby/hash:EpisodeHash
+  episode_no: ２８話
+  title: 仁義なき姫ちゃん！
+  description: 姫子は人気者のアイドル結花にコンプレックスを感じてしまう。そんな結花もクラスで孤立したり、ヤクザにさらわれたりと…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315669←前話｜次話→so35315671　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315670
+  default_thread_id: 1561513804
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315670/35315670.14844765
+- !ruby/hash:EpisodeHash
+  episode_no: ２９話
+  title: 心をつなぐ遠い約束
+  description: 姫子と仲直りしたのに、再び転校することになった結花。彼女の誕生日をおぼえていた大地は、二人の間の約束も思い出せるか？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315670←前話｜次話→so35315672　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315671
+  default_thread_id: 1561513819
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315671/35315671.81118755
+- !ruby/hash:EpisodeHash
+  episode_no: ３０話
+  title: ポコ太！愛のために走れ
+  description: カミルが作った魔法の薬がピンクちゃんに誤ってかかってしまい、眠りこけてしまう。目覚めさせる唯一の方法は愛のこもったキス！<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315671←前話｜次話→so35315674　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315672
+  default_thread_id: 1561513812
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315672/35315672.93033943
+- !ruby/hash:EpisodeHash
+  episode_no: ３１話
+  title: 母の日にクッキーを
+  description: 母の日に姫子は心のこもった手作りクッキーをプレゼントしたかった。だけど、クッキーを焼くには不器用すぎるという現実が…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315672←前話｜次話→so35315726　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315674
+  default_thread_id: 1561513824
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315674/35315674.67330751
+- !ruby/hash:EpisodeHash
+  episode_no: ３２話
+  title: ひかる！大地と衝撃キス
+  description: "「風立の母」ひかるのトランプ占いが大盛況。一週間以内に大地と彼女がキスをする？占いの行方が気になってたまらない姫子だった。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315674←前話｜次話→so35315725　第一話→so35315812"
+  length_seconds: 1475
+  content_id: so35315726
+  default_thread_id: 1561514827
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315726/35315726.37106537
+- !ruby/hash:EpisodeHash
+  episode_no: ３３話
+  title: お気楽カミルに大迷惑
+  description: 魔法の国からカミルが人間界にやってきて、有坂と勝負をすることに。大地と顔が似ていることを利用したカミルの作戦とは？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315726←前話｜次話→so35315701　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315725
+  default_thread_id: 1561514837
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315725/35315725.62899614
+- !ruby/hash:EpisodeHash
+  episode_no: ３４話
+  title: 負けるな！半熟先生
+  description: 姫子のクラスに美人の教育実習生がやってきた。男子生徒の人気急上昇と反対にひかるたち女生徒は不愉快になっていった。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315725←前話｜次話→so35315702　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315701
+  default_thread_id: 1561514106
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315701/35315701.87853060
+- !ruby/hash:EpisodeHash
+  episode_no: ３５話
+  title: 迷犬ポチにご用心！
+  description: 学校からの帰り道、姫子は迷子の子犬をひろってきた。ポチと名付けられた子犬は姫子になついて野々原家の一員となるが…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315701←前話｜次話→so35315703　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315702
+  default_thread_id: 1561514108
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315702/35315702.49950351
+- !ruby/hash:EpisodeHash
+  episode_no: ３６話
+  title: 支倉先輩！青春の旅立ち
+  description: 最近、元気のない愛子お姉ちゃん。支倉先輩がブロンドの年上美人と英語でデートしてる？二人を目撃した姫子は本気で怒った。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315702←前話｜次話→so35315668　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315703
+  default_thread_id: 1561514104
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315703/35315703.21031415
+- !ruby/hash:EpisodeHash
+  episode_no: ３７話
+  title: 隠れ家がなくなる日…
+  description: 姫子と大地の秘密の隠れ家は、捨てられない大切なものの保管場所。そんな家を取り壊そうとやって来たのは五利先生？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315703←前話｜次話→so35315667　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315668
+  default_thread_id: 1561513813
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315668/35315668.29744511
+- !ruby/hash:EpisodeHash
+  episode_no: ３８話
+  title: いたずら妖精大騒動！
+  description: 魔法の国のお城の中、カミルたちは不思議なビンを発見。そのビンの中から逃げ出したのは、イタズラ好きな双子の妖精だった。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315668←前話｜次話→so35315657　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315667
+  default_thread_id: 1561513821
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315667/35315667.23480727
+- !ruby/hash:EpisodeHash
+  episode_no: ３９話
+  title: ホットケーキは甘い罠
+  description: 人間界でイタズラをしまくる妖精、マッシ―とホッシー。捕まえるために用意したのは、妖精が好きなエッセンス入りのホットケーキ。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315667←前話｜次話→so35315658　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315657
+  default_thread_id: 1561513827
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315657/35315657.50567833
+- !ruby/hash:EpisodeHash
+  episode_no: ４０話
+  title: ハチャメチャ友情大作戦
+  description: 友情に燃える姫子たち仲良しトリオ。ひかるに「女の友情なんてもろいものよ」と言われムキになって、友情をアピールすることに。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315657←前話｜次話→so35315659　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315658
+  default_thread_id: 1561513820
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315658/35315658.47748393
+- !ruby/hash:EpisodeHash
+  episode_no: ４１話
+  title: 小さな恋人たち
+  description: 大地の弟、森太郎と姫子の妹、夢子を仲良しにしたい姫子。大地兄弟と姫子姉妹のダブルデート作戦ははたして成功するか？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315658←前話｜次話→so35315660　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315659
+  default_thread_id: 1561513625
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315659/35315659.50902594
+- !ruby/hash:EpisodeHash
+  episode_no: ４２話
+  title: キャンプでUFO！
+  description: 夏の夜空に不思議な光が！UFOかもと興味を持った姫子や大地たち。謎の光を追跡し、郊外でキャンプをすることになった。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315659←前話｜次話→so35315661　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315660
+  default_thread_id: 1561513825
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315660/35315660.88789064
+- !ruby/hash:EpisodeHash
+  episode_no: ４３話
+  title: プールでドッキリ！
+  description: 水着を買ってハワイへ行こう！お店の福引で招待券が当たった姫子や大地たちはプールへ行くことに。先約があった姫子は分身して…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315660←前話｜次話→so35315662　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315661
+  default_thread_id: 1561513809
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315661/35315661.6382653
+- !ruby/hash:EpisodeHash
+  episode_no: ４４話
+  title: ひかるの懲りない夏休み
+  description: 夏休み、姫子たちは五利先生の田舎へ泊りに行くことに。そこで、近くの別荘へきていたひかりとバッタリ会ってしまった。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315661←前話｜次話→so35315663　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315662
+  default_thread_id: 1561513627
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315662/35315662.89298565
+- !ruby/hash:EpisodeHash
+  episode_no: ４５話
+  title: 初恋メモワール
+  description: 支倉先輩がアメリカ留学に発つ日が近づいた。姫子は、先輩にひそかに憧れていた頃のことを一つずつ思い出していた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315662←前話｜次話→so35315664　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315663
+  default_thread_id: 1561513629
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315663/35315663.66027117
+- !ruby/hash:EpisodeHash
+  episode_no: ４６話
+  title: 支倉先輩…さようなら
+  description: 支倉先輩と愛子お姉ちゃんのキューピット役をつとめる姫子。出発の日、空港ではなく、自分の部屋の窓から姫子は彼を見送った。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315663←前話｜次話→so35315665　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315664
+  default_thread_id: 1561513623
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315664/35315664.22832850
+- !ruby/hash:EpisodeHash
+  episode_no: ４７話
+  title: 大地のいない夏休み
+  description: 夏休みになり、大地はひとりで自転車旅行へ出かけてしまった。姫子は大地に変身して町を歩いてみた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315664←前話｜次話→so35315666　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315665
+  default_thread_id: 1561513865
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315665/35315665.28378886
+- !ruby/hash:EpisodeHash
+  episode_no: ４８話
+  title: 狙われたおかあさん
+  description: 姫子の母の小説がベストセラーとなり、パーティを開いた。しかし、脅迫状が届いたり、怪しい男が現れたりと事件が起こる。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315665←前話｜次話→so35315704　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315666
+  default_thread_id: 1561513863
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315666/35315666.95607167
+- !ruby/hash:EpisodeHash
+  episode_no: ４９話
+  title: ハートタクトで大あばれ
+  description: 夢子が誘拐？母が書いた小説とそっくり同じ事が起きている。姫子は魔法の新アイテム、ハートタクトを使って…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315666←前話｜次話→so35315724　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315704
+  default_thread_id: 1561514223
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315704/35315704.67043806
+- !ruby/hash:EpisodeHash
+  episode_no: ５０話
+  title: スモール姫ちゃん大失敗
+  description: 演劇部の発表会。姫子は出演予定の人形を壊してしまう。ハートタクトで変身し、自分が人形の代役をつとめたのだが…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315704←前話｜次話→so35315723　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315724
+  default_thread_id: 1561514831
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315724/35315724.24403264
+- !ruby/hash:EpisodeHash
+  episode_no: ５１話
+  title: リボンの約束
+  description: 魔法の国の王女、エリカに魔法のリボンを預けられてから1年…。そろそろリボンを返す日が近づいてきた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315724←前話｜次話→so35315722　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315723
+  default_thread_id: 1561514829
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315723/35315723.41020966
+- !ruby/hash:EpisodeHash
+  episode_no: ５２話
+  title: ポコ太とお別れ？
+  description: エリカが王位を継承するための審査発表会がやってきた。結果発表を聞くため姫子は魔法の国へと向かう。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315723←前話｜次話→so35315721　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315722
+  default_thread_id: 1561515067
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315722/35315722.15667718
+- !ruby/hash:EpisodeHash
+  episode_no: ５３話
+  title: ラブストーリーはつらいヨ
+  description: 文化祭で演劇部はオリジナル劇に挑戦。脚本は姫子。ラブストーリーのために男子を観察しようとする姫子は…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315722←前話｜次話→so35315750　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315721
+  default_thread_id: 1561515075
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315721/35315721.97678129
+- !ruby/hash:EpisodeHash
+  episode_no: ５４話
+  title: 愛美の剣道一直線
+  description: 姫子の親友、愛美が作った料理を食べた部員がお腹を壊してしまった。責任を感じた愛美たちは助っ人をかって出る。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315721←前話｜次話→so35315749　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315750
+  default_thread_id: 1561515425
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315750/35315750.31890092
+- !ruby/hash:EpisodeHash
+  episode_no: ５５話
+  title: 姫子のドタバタ恋愛講座
+  description: 愛美が剣道部の高田君に恋をしてしまった。それって初恋？姫子は愛のキューピットとしてはりきるのだった。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315750←前話｜次話→so35315748　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315749
+  default_thread_id: 1561515427
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315749/35315749.38633905
+- !ruby/hash:EpisodeHash
+  episode_no: ５６話
+  title: 思い出プレイバック
+  description: 今までいろいろな秘密を共有してきた姫子と大地。大地は自分にとって何なのだろう。姫子は色々な出来事を思い出していた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315749←前話｜次話→so35315807　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315748
+  default_thread_id: 1561515431
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315748/35315748.99489734
+- !ruby/hash:EpisodeHash
+  episode_no: ５７話
+  title: ちょっとだけ恋の予感
+  description: 秘密の隠れ家は姫子と大地のふたりだけの場所。たくさんの思い出とともにかけがえのない存在になっていく大地のことが…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315748←前話｜次話→so35315806　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315807
+  default_thread_id: 1561516743
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315807/35315807.82074914
+- !ruby/hash:EpisodeHash
+  episode_no: ５８話
+  title: 私を未来に連れてって
+  description: 有坂から“未来が見える時計”を借りて3年後の世界へ行ってみた姫子。高校生になっている姫子と大地の関係は？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315807←前話｜次話→so35315862　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315806
+  default_thread_id: 1561516748
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315806/35315806.307251
+- !ruby/hash:EpisodeHash
+  episode_no: ５９話
+  title: さよならがいっぱい
+  description: 有坂が魔法の国へ帰ることになり、エリカも王位継承の修行を終えた。いくつかの別れが、姫子や大地に近づいていた。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315806←前話｜次話→so35315863　第一話→so35315812
+  length_seconds: 1475
+  content_id: so35315862
+  default_thread_id: 1561517823
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315862/35315862.98585556
+- !ruby/hash:EpisodeHash
+  episode_no: ６０話
+  title: 大地が大好き
+  description: 大地が転校することになった。明るく振舞う姫子だったが、自分の気持ちを伝えようと大地のもとへ…。<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315862←前話｜次話→so35315864　第一話→so35315812
+  length_seconds: 1476
+  content_id: so35315863
+  default_thread_id: 1561518065
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315863/35315863.15852983
+- !ruby/hash:EpisodeHash
+  episode_no: ６１話
+  title: 魔法の国は大騒動
+  description: エリカの王位継承合格のパーティーが盛大に催された。姫子も大地と一緒に招待された。そこに日比野ひかるが！？<br><br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+    剛　他<br><br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS<br><br>Ⓒ水沢めぐみ/集英社・NAS<br><br>so35315863←前話　第一話→so35315812
+  length_seconds: 1448
+  content_id: so35315864
+  default_thread_id: 1561517717
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315864/35315864.20529490
+cast: "[キャスト]<br>野々原姫子/エリカ:大谷育江／小林大地:大輝ゆう／ポコ太:伊倉一寿／チャッピー:佐藤春日／日比野ひかる:水原リン／支倉浩一:草彅
+  剛　他"
+staff: "[スタッフ]<br>監督:辻 初樹／総作画監督:渡辺はじめ／シリーズ構成:山田隆司／制作:NAS"
+produced_year: "[製作年]<br>1992年"
+copyright: Ⓒ水沢めぐみ/集英社・NAS
+related_seasons: !ruby/array:Hashie::Array []

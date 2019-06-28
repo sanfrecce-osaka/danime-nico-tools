@@ -1,0 +1,534 @@
+--- !ruby/hash:SeasonHash
+title: メダロット魂
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/80/7/22807_1_6.png?1559887235000
+outline: コクリュウを社長とする新進企業が生み出した新しいメダロット、デスメダロット―――。子供たちと共に戦う友達だった「メダロット」に対し、ただロボトルに勝利することのみを目的として作られた攻撃的で冷徹な「デスメダロット」が、子供達の間で流行し始めた。これまで通りの楽しいロボトルを続けていたイッキとメタビーに、デスメダロットたちが襲いかかる。イッキとメタビーの勇気と絆による魂のロボトルが始まった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 竹内順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 仙台エリ
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木真仁
+  type: cast
+- !ruby/hash:TagHash
+  name: かかずゆみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹本英史
+  type: cast
+- !ruby/hash:TagHash
+  name: 水野理紗
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎樹範
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎みちる
+  type: cast
+- !ruby/hash:TagHash
+  name: 井関佳子
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松竹徳幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：荒川真嗣
+  type: staff
+- !ruby/hash:TagHash
+  name: メダロットシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 2000年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１"
+  title: 爆走！新型メタビー
+  description: メダロット社が開発した、新型メダロッチが発売された。しかし予約を忘れたイッキとメタビーは、手に入れることが出来ずふさぎこんでいた。一方、新型メダロッチを手に入れ、性能を確かめようとしていたキクヒメたちの前に、自称デスメダロッター・ギンカイが現れた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>次話→so35315608
+  length_seconds: 1474
+  content_id: so35315607
+  default_thread_id: 1561512366
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315607/35315607.85061937
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２"
+  title: 禁じられた戦い！
+  description: イッキは、ナエからメタビーの新しいパーツを預からせてほしいと頼まれた。そして、パーツの修理が終わるまで、絶対にギンカイのデスメダロットとは戦ってはいけないと忠告される。しかし、イッキとメタビーの前に、ギンカイがコクリュウと共に現れ、戦いを挑んできた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315607←前話｜次話→so35315609　第一話→so35315607
+  length_seconds: 1474
+  content_id: so35315608
+  default_thread_id: 1561512548
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315608/35315608.26746213
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３"
+  title: 謎のドークス使い
+  description: コクリュウはデスメダロットによるメダロット一斉襲撃作戦を決行した。アリカがデスメダロット軍団に攻撃されようとしていた時、ドークスという名のメダロットを連れた謎のメダロッターが現れ、一瞬のうちにデスメダロット軍団を倒してしまう。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315608←前話｜次話→so35315610　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315609
+  default_thread_id: 1561512550
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315609/35315609.10293117
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４"
+  title: 届けもの大騒動
+  description: イッキとメタビーは、大事な書類を父の会社まで届ける途中、偶然にもギンカイと遭遇。ひょんなことからギンカイを怒らせてしまう。デスメダロットでロボトル勝負を迫るギンカイから逃げ出すが…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315609←前話｜次話→so35315611　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315610
+  default_thread_id: 1561512552
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315610/35315610.83188226
+- !ruby/hash:EpisodeHash
+  episode_no: "♯５"
+  title: 激突！スクープ合戦
+  description: 学校側から、アリカひとりの新聞部は放送部との合併を提案されるが、どちらも譲らず、人気投票で決めることになった。早速アリカは、スクープを探しに飛び出していく。そんなとき、放送部の満寿泉に、コクリュウがデスメダルを渡した。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315610←前話｜次話→so35315612　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315611
+  default_thread_id: 1561512305
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315611/35315611.80653751
+- !ruby/hash:EpisodeHash
+  episode_no: "♯６"
+  title: 怪談・夜の理科室
+  description: コクリュウは、ロボトルで負けて落ち込んでいた少年に、メダロットを最強にしてあげると言って家に誘う。アリカは夜な夜なメダロットを襲っている謎の怪物が出没し、襲われたメダロットはパワーダウンし。ゾンビ化してしまうと言う噂を聞きつけてきた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315611←前話｜次話→so35315613　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315612
+  default_thread_id: 1561512303
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315612/35315612.94234214
+- !ruby/hash:EpisodeHash
+  episode_no: "♯７"
+  title: プールでロボトル！
+  description: 人気番組？突撃!!こどもショー？に出演が決まったイッキとメタビー。それを知ったコクリュウとギンカイは、テレビ中継を利用して、デスメダロットの強さを全国に見せつけようと企てる。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315612←前話｜次話→so35315614　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315613
+  default_thread_id: 1561512431
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315613/35315613.45499652
+- !ruby/hash:EpisodeHash
+  episode_no: "♯８"
+  title: 戦士の絆・前編
+  description: コクリュウは、ギンカイに最強のデスメダロット・ユニトリスを与えた。謎のメダロッターに敗れたギンカイは、ユニトリスの力を試すため、イッキとメタビーにロボトルを迫る。しかし、メタビーはバッテリー切れ寸前!!<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315613←前話｜次話→so35315615　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315614
+  default_thread_id: 1561512427
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315614/35315614.80566200
+- !ruby/hash:EpisodeHash
+  episode_no: "♯９"
+  title: 戦士の絆・後編
+  description: ドークスを捨て、デスメダロット・エクサイズのマスターとなった謎のメダロッターは、ロボトル精神を無視し、ギンカイとメタビーを攻撃。デスメダロットを破壊することが仕事だという謎のメダロッターは、本当にデスメダロッターとなってしまったのか…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315614←前話｜次話→so35315616　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315615
+  default_thread_id: 1561512435
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315615/35315615.21811987
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１０"
+  title: 暴走！赤い悪魔
+  description: 嵐の夜、最強のデスメダロットのひとつ、ブロッソメイルが輸送中の事故で逃走。開発中のミスから、敵とみなした者には、破壊するまで攻撃を止めなくなったブロッソメイルは、町中で大暴れ！<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315615←前話｜次話→so35315617　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315616
+  default_thread_id: 1561512433
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315616/35315616.63005668
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１１"
+  title: アリカの花園
+  description: アリカは、イッキたちに内緒でブラスと一緒に、秘密の花園を懸命に手入れしていた。しかし、その花園で、謎のメダロッターを囲んでロボトルが始まり、花園が台無しになってしまった。花たちを大切にしない謎のメダロッターに、アリカは幻滅する。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315616←前話｜次話→so35315618　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315617
+  default_thread_id: 1561512429
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315617/35315617.62924585
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１２"
+  title: 盗まれたメタビー
+  description: メダロット博士は、イッキたちを呼んでメタビーの記憶装置を再生し、ブロッソメイルとの戦いのデータを分析した。そして、博士は、危険なブロッソメイルに対抗すべく、新型メダロット・アークビートルダッシュを披露する。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315617←前話｜次話→so35315619　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315618
+  default_thread_id: 1561512437
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315618/35315618.25290018
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１３"
+  title: ハニー救出大作戦
+  description: ハニーは、ナエが修理したメダロットを配達途中にいなくなってしまった。探しに行ったナエとイッキたちは、様子がおかしいギンカイを見つけ、後をつけると、ギンカイは、ハニーのデータを初期化し、記憶を消そうとしていた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315618←前話｜次話→so35315620　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315619
+  default_thread_id: 1561512545
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315619/35315619.15333472
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１４"
+  title: メダロット墓場
+  description: 最近のカガミヤマとキースタートルは、ロボトルで負け続けている。責任を感じたキースタートルは、カガミヤマのもとから去っていく。キースタートルは、街を彷徨い、たどりついた先は、マスターに捨てられたメダロットのゴミ捨て場だった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315619←前話｜次話→so35315831　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315620
+  default_thread_id: 1561512307
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315620/35315620.58613178
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１５"
+  title: 立て！ギンカイ
+  description: ギンカイは、小さい頃、ベイヤニットと一緒に楽しくロボトルしていた時のことを思い出し、ブロッソメイルが完成したらエクサイズは用済みだというコクリュウに対し、どこかで疑問を感じていた。しかし、そんな気持ちを押し殺し、町内ロボトル大会に出場し、決勝戦でイッキと戦うことになる。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315620←前話｜次話→so35315858　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315831
+  default_thread_id: 1561517044
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315831/35315831.28912988
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１６"
+  title: コクリュウの逆襲
+  description: コクリュウを裏切ることになったギンカイ。コクリュウの最強のブロッソメイルがギンカイのユニトリスを襲ってきた。制御不能となってしまったユニトリス。ギンカイは悲しみをこらえ、ユニトリスに別れを告げる。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315831←前話｜次話→so35315900　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315858
+  default_thread_id: 1561517713
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315858/35315858.36280303
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１７"
+  title: 大空の戦い！
+  description: ナエの複葉機を飛ばしていたイッキ。そこにコクリュウが飛行テストをしていた新型デスメダロット・スカイファルコンが衝突。複葉機は壊れ、故障したスカイファルコンはメタビーを連れ、飛んで行ってしまった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315858←前話｜次話→so35315921　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315900
+  default_thread_id: 1561518184
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315900/35315900.55111491
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１８"
+  title: カンニング大作戦
+  description: イッキはゴミ箱に隠した20点の答案用紙を両親に発見されてしまい、堂々と見せられるような点数が取れるまで、ロボトル禁止となってしまう。なかなかいい点数が取れないイッキはユウヅルを巻き込んで、カンニングしようと企んだ。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315900←前話｜次話→so35315922　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315921
+  default_thread_id: 1561518788
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315921/35315921.40416476
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１９"
+  title: 守れ！男のプライド
+  description: ワカバは負けず嫌いのメダロッター。子供相手のロボトルに勝利しても、しつこく攻撃を止めないワカバに、ギンカイはアークダッシュでワカバのプットキャットを攻撃した。執念深いワカバは、コクリュウの入れ知恵で、ギンカイに仕返しをする。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315921←前話｜次話→so35315923　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315922
+  default_thread_id: 1561518849
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315922/35315922.3043813
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２０"
+  title: 仕掛けられた罠
+  description: ついに、デスメダロット社のユニトリスとエクサイズが発売された。また街の郊外にはデスメダロットショップが建設されている。危機を感じるイッキたち。そんな中、コクリュウはデスメダロット時代到来のため、ある計画を企てていた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315922←前話｜次話→so35315924　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315923
+  default_thread_id: 1561518808
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315923/35315923.4783613
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２１"
+  title: トリックをあばけ！
+  description: コクリュウに落とし入れられ、悪者となってしまったイッキとメタビー。ＴＶ中継された映像のなかに仕掛けられたトリックを暴くため、アリカは放送部の満寿泉にも協力をしてもらい、立ち上がった！<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315923←前話｜次話→so35315925　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315924
+  default_thread_id: 1561518806
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315924/35315924.67368065
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２２"
+  title: ユウヅルの正体
+  description: バンショウは、コクリュウからドークス使いの正体を暴くため、力を貸してほしいと頼まれた。条件付きで引き受けたバンショウは、ブラッソメイルを操り、次々とメダロットを襲い始めた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315924←前話｜次話→so35315926　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315925
+  default_thread_id: 1561518851
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315925/35315925.92134823
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２３"
+  title: ナエのお見合い
+  description: あこがれのナエが、お見合いすると知ったイッキとメタビーは猛反対!!相手は、ナエがあこがれるメダロット研究者らしいのだが、その男はイッキたちにデスメダロットでロボトルを仕掛けてきた。ナエは騙されているのか？<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315925←前話｜次話→so35315907　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315926
+  default_thread_id: 1561518846
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315926/35315926.35013190
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２４"
+  title: ドークスの奇跡
+  description: コクリュウは、再びバンショウに、ギンカイのアークダッシュと謎のメダロッターのティレルビートルを倒してほしいと頼んだ。ナエは、謎のメダロッターであるユウヅルに、バンショウ操るブラッソメイルに勝つためには、ドークスのメダフォースを発動すべきだと忠告する。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315926←前話｜次話→so35315906　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315907
+  default_thread_id: 1561518303
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315907/35315907.51305540
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２５"
+  title: ワカバの誘惑
+  description: 何でも言うことをきく子分が欲しくなったワカバは、ロボトル初心者で強くなりたいと悩むタテヤマくんに、イッキにも負けないくらい強いデスメダロットを貸してあげると言ってそそのかす。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315907←前話｜次話→so35315905　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315906
+  default_thread_id: 1561518192
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315906/35315906.9597948
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２６"
+  title: 燃えろ!熱き魂
+  description: アリカは今年を振り返り、甘酒新聞にロボトルにまつわる記事を載せるため、イッキとギンカイにインタビューする。イッキは平和なギンジョウ町にデスメダロッターが現れたことが一番の出来事だと話し、ギンカイとの出会いを思い出す。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315906←前話｜次話→so35315904　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315905
+  default_thread_id: 1561518186
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315905/35315905.87306670
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２７"
+  title: 男イワノイ大勝負
+  description: デスメダロッター・ハナビシ、キントラとのロボトルで、キクヒメに恥をかかせてしまったイワノイは、責任を感じ、ブルースドックとリベンジを誓った。自分だけのロボトルスタイルがあると、ナエから助言されたイワノイは、まずイッキの強さの秘訣を研究しようと考えた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315905←前話｜次話→so35315903　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315904
+  default_thread_id: 1561518194
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315904/35315904.96985939
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２８"
+  title: 激走!一直線レース
+  description: メタビーは、ナエから借りた本の中に地図を見つけた。それは、ギンジョウ町の子供たちに受け継がれてきた、メダロット対抗一直線レースの地図だった。そこでワカバは、自分がこのレースで優勝し、甘酒新聞の一面に載ろうと企んだ。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315904←前話｜次話→so35315902　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315903
+  default_thread_id: 1561518188
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315903/35315903.88906697
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２９"
+  title: メタビーの大特訓
+  description: ちょっとした口げんかから、イッキとギンカイはナエの作った新しいロボトル場で勝負することになった。しかし、イッキはお小遣いを使い果たし、弾の補給が出来ないことに気がついた。弾の無いイッキとメタビーに、ナエは古いパーツを貸してくれた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315903←前話｜次話→so35315901　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315902
+  default_thread_id: 1561518206
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315902/35315902.57594268
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３０"
+  title: アリカ一発逆転！
+  description: アリカからギンジョウ遊園地に誘われたイッキは、古臭くて子供だましみたいだと文句ばかり。そこへ、ハナビシとキントラが突然やってきて、コクリュウに自分たちの強さを認めてもらうため。イッキにロボトルを挑んできた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315902←前話｜次話→so35315873　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315901
+  default_thread_id: 1561518196
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315901/35315901.28547374
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３１"
+  title: 炎のアークダッシュ
+  description: キクヒメは、秘密の特訓のおかげで、デスメダロット２体相手に快勝！一方、敗れたハナビシ、キントラは、コクリュウから最後のチャンスをもらい、キクヒメにドブロク山でのロボトル勝負の果たし状を手渡した。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315901←前話｜次話→so35315859　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315873
+  default_thread_id: 1561517710
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315873/35315873.52484626
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３２"
+  title: 失われた友情
+  description: コクリュウは、メダフォースを解析するため、ハナビシ、キントラをおとりにして、ドークスを誘拐してしまう。そして、ドークスとブラックビートルの感情回路をつなげ、お互いのメダルのデータをリンクさせ、メダフォースのパワーを取り込もうとする。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315873←前話｜次話→so35315860　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315859
+  default_thread_id: 1561517585
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315859/35315859.20126389
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３３"
+  title: ナエさんMy Love
+  description: 久しぶりのクラス会に出席したナエ。高校時代、マドンナだったナエをみんな楽しみに待っていたが、仕事着のままオシャレもしないでやって来たナエの変貌に驚く一同だった。親友のモモコは、そんなナエが心配になり、工場へやって来た。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315859←前話｜次話→so35315832　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315860
+  default_thread_id: 1561517589
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315860/35315860.52289510
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３４"
+  title: 父への想い
+  description: ギンジョウ町に次々と、デスメダロッターが増えていった。そして、謎のメダロッターはデスメダロットを破壊すべく、容赦なくデスメダロッター狩りを始めた。父を変貌させたデスメダロットを恨む、謎のメダロッターであるユウヅルに、ナエはお父さんと正面から向き合うようアドバイスするが…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315860←前話｜次話→so35315833　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315832
+  default_thread_id: 1561516987
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315832/35315832.40742122
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３５"
+  title: メダロットは友達
+  description: 自ら正体を明かしてしまった謎のメダロッター・ユウヅルを心配したナエは、ユウヅルの父・マイヅル博士に会いに行く。マイヅル博士は、強さのみを追求する自分の考えは間違いなかったと主張。ナエは、博士が昔、ユウヅルに語りかけた素敵な言葉を思い出してほしいと頼んだ。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315832←前話｜次話→so35315834　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315833
+  default_thread_id: 1561516993
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315833/35315833.73104131
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３６"
+  title: たった一人の逃亡者
+  description: コクリュウは、アークダッシュに敗れたブラックビートルを廃棄処分するようウラガスミに命じた。しかしウラガスミは、ブラックビートルにもう一度チャンスを与えるよう助言した。コクリュウは、負けたら解体する条件で、メタビーと戦わせることにした。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315833←前話｜次話→so35315835　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315834
+  default_thread_id: 1561516989
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315834/35315834.50573185
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３７"
+  title: 禁断のデスメダル
+  description: 最強デスメダロット・グレインは、暴れだすと制御不能になってしまう問題があった。ブラックビートルはグレインと同化した時、自分が自分でなくなる恐怖を感じていた。そしてウラガスミの助けでコクリュウのもとから脱出した。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315834←前話｜次話→so35315836　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315835
+  default_thread_id: 1561516983
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315835/35315835.23584835
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３８"
+  title: コクリュウの過去
+  description: グレインが完成した。マイヅル博士をはじめ、イッキたちはブラックビートルがグレインに装着される前に、なんとか救出しようとする。しかしその前に、ナエは自分にできる事があるかもしれない…とウラガスミのところへ行く。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315835←前話｜次話→so35315861　第一話→so35315607
+  length_seconds: 1475
+  content_id: so35315836
+  default_thread_id: 1561516991
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315836/35315836.34072209
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３９"
+  title: 輝け！希望の魂
+  description: デスメダロット研究所に侵入したイッキ、メタビー、ギンカイ、ユウヅルは、廃棄処分されるデスメダロットの置き場でブラックビートルを見つけた。そこにコクリュウがやって来て、イッキたちがグレインと戦い、勝利したらネオデスメダルをブラックビートルに返してもいいと言う。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／カガミヤマ:井関
+    佳子　他<br><br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999
+    NAS/講談社<br><br>so35315836←前話　第一話→so35315607
+  length_seconds: 1445
+  content_id: so35315861
+  default_thread_id: 1561517587
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315861/35315861.39419539
+cast: "[キャスト]<br>イッキ:山崎 みちる／メタビー:竹内 順子／アリカ:仙台 エリ／ナエ:水野 理紗／コクリュウ:かかず ゆみ／ギンカイ:竹本 英史／キクヒメ:鈴木
+  真仁／イワノイ:山崎 樹範／カガミヤマ:井関 佳子　他"
+staff: "[スタッフ]<br>監督:荒川真嗣／シリーズ構成:中川陽介／キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他"
+produced_year: "[製作年]<br>2000年"
+copyright: "©IMAGINEER ©1999 NAS/講談社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: メダロット
