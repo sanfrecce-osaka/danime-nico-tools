@@ -1,0 +1,629 @@
+--- !ruby/hash:SeasonHash
+title: メダロット
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/80/6/22806_1_6.png?1559887292000
+outline: 人間とロボットが共存する近未来。子供達の間では、「ロボトル」というメダロットを戦わせる競技が流行していた。イッキは、ふとしたきっかけでメダロットの頭脳となるレアメダルを拾い、“メタビー”というメダロットにめぐり合うことに。二人が、知恵・勇気・友情でロボットバトルに立ち向かっていく友情と成長の物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 竹内順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 仙台エリ
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木真仁
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎樹範
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎みちる
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷亮介
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：岡村天斎
+  type: staff
+- !ruby/hash:TagHash
+  name: メダロットシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: 1999年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１"
+  title: うごけ！ポンコツメダロット
+  description: ある夜、メダルハンター・怪盗レトルトが、レアメダルを奪っていった…。イッキとアリカの学校の校庭では、スクリューズの親分・キクヒメと生徒会長のメダロットがロボットバトル・ロボトルを始めていた。メダロットを１台ももっていないイッキは偶然、川の中からメダルを拾った。そしてコンビニの店員・ヒカルから、初期型のメダロット・メタビーを売ってもらった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>次話→so35276042
+  length_seconds: 1475
+  content_id: so35276043
+  default_thread_id: 1560736457
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276043/35276043.7214972
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２"
+  title: 逆襲のスクリューズ
+  description: やっと自分のメダロット・メタビーを持つことができたイッキだが、メタビーは、マスターであるイッキの言うことをきかない。イッキは、不良品だとヒカルに文句を言うが、メダロットとマスターの性格の不一致は、メダルに原因があるらしい。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276043←前話｜次話→so35276041　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276042
+  default_thread_id: 1560736454
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276042/35276042.65599417
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３"
+  title: 男の夢は体力だ
+  description: ミスターマッスルと呼ばれるオトコヤマは、メダロットを目の敵にしている。ロボトルなんかやっている暇があったら体を鍛えろ！とばかりに、地獄のしごきを課す。ある日、イッキはテストでどうしようもない点数を取り、オトコヤマの楽しいクラブ活動に招待される…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276042←前話｜次話→so35276040　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276041
+  default_thread_id: 1560736563
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276041/35276041.55452323
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４"
+  title: 伝説のメダロッター
+  description: 負け知らずのメダロットを操る、伝説のメダロッターが花園学園にいるらしい？という噂をアリカは聞きつけた。早速アリカは、どんな奴かを調べるため、イッキとメタビーとともに花園学園へ乗り込んだが…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276041←前話｜次話→so35276021　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276040
+  default_thread_id: 1560736443
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276040/35276040.93391006
+- !ruby/hash:EpisodeHash
+  episode_no: "♯５"
+  title: 海よ今日もありがとう
+  description: メタビーを連れて、海へやって来たイッキとアリカ。海水が塩水であることを知らなかったメタビーは、錆びてしまうとイッキに文句を言い、ふたりはケンカになる。そこへ地元の３人組がやってきて、この海岸には怪物が出て危険だから、よそ者は帰れ！と言って去って行った。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276040←前話｜次話→so35276020　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276021
+  default_thread_id: 1560735851
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276021/35276021.56789151
+- !ruby/hash:EpisodeHash
+  episode_no: "♯６"
+  title: 宇宙人だロボ!!
+  description: 特ダネを探して、ブラスと歩いていたアリカは、宇宙人を目撃。その証拠写真をイッキに見せるが、うそ臭いと信じてもらえない。そこで、アリカはメタビーをおとりにして、“宇宙人おとりホイホイ作戦”で、宇宙人を生け捕りにしようと考えた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276021←前話｜次話→so35276019　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276020
+  default_thread_id: 1560735853
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276020/35276020.45866035
+- !ruby/hash:EpisodeHash
+  episode_no: "♯７"
+  title: 暗闇に消えたメダル
+  description: コレクターからメダルを奪っていく怪盗レトルトは、真夜中にメダルをおいてけ～と言って現れる“おいてけ幽霊”だと言われている。イッキとアリカのところに、カリンちゃんが、コウジが“おいてけ幽霊”の被害にあったと相談に来た。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276020←前話｜次話→so35276004　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276019
+  default_thread_id: 1560735855
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276019/35276019.15259854
+- !ruby/hash:EpisodeHash
+  episode_no: "♯８"
+  title: 迷子のメダロット
+  description: 夏休みの宿題の自由研究で、メダロッターの生態を研究しようと、アリカに誘われたイッキは、カリンちゃんもメダロッターだと言って、カリンちゃんの家へ行こうと提案する。行く途中、メタビーがマーメイドメダルを拾った。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276019←前話｜次話→so35276003　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276004
+  default_thread_id: 1560735324
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276004/35276004.42799003
+- !ruby/hash:EpisodeHash
+  episode_no: "♯９"
+  title: 吠えろ！シアンドッグ
+  description: ロボトルで黒星ばかりのイワノイは、キクヒメからスクリューズをクビになってしまった。イワノイは、絶対に勝てる相手だと思い、砂場で遊ぶ幼稚園児にロボトルを挑んだが、あっさり負けてしまう。イワノイはシアンドックと共に、町を出る決意をする。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276004←前話｜次話→so35276002　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276003
+  default_thread_id: 1560735326
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276003/35276003.7694810
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１０"
+  title: 嵐のロボトルトーナメント
+  description: ロボトル世界大会のTV中継を見ていたイッキをメタビーが挑発し、いつものように喧嘩になった。TVを壊してしまったイッキはお小遣い無しに…。そんな時、町内ロボトル大会が開催されることを聞いたイッキは、初出場、初優勝に意気込む！<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276003←前話｜次話→so35275988　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276002
+  default_thread_id: 1560735334
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276002/35276002.37656587
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１１"
+  title: メタビー、グレる
+  description: イッキは、ロボトル試合会場で、メダルを無くしてしまい、メタビーは動かなくなってしまった。そのメタビーのメダルは、ロボロボ団に拾われ、ア・ゲダマーとなって、イッキの前に現れる。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276002←前話｜次話→so35275971　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275988
+  default_thread_id: 1560735310
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275988/35275988.41976916
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１２"
+  title: その名はロクショウ
+  description: イッキとアリカは、嵐の日に、通りかかった川辺で、飼い犬が川に流されてしまい、助けを呼んでいる女の子を見つけた。イッキは助けに行くが、雨風が強すぎて身動きがとれない。その時、橋の上から、流されている犬を助けたのは、謎のメダロットだった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275988←前話｜次話→so35275972　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275971
+  default_thread_id: 1560734650
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275971/35275971.76940433
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１３"
+  title: キクヒメの恋
+  description: イッキと幼なじみのサッカー部の川中島くんは、最近、人気急上昇中の美少年！彼に目をつけ、恋心を抱いたキクヒメに、アリカは独占インタビューを条件に、ラブラブ作戦をアドバイスする。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275971←前話｜次話→so35275973　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275972
+  default_thread_id: 1560734654
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275972/35275972.58601474
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１４"
+  title: 忍びが通る
+  description: イッキはくじ引きで、シノビックパークの入場チケットが当たり、カリンちゃんを誘おうとしたが、なぜかアリカといくことになってしまう。楽しみにしていた“忍者ショー”には間に合わず、また“忍者屋敷”は工事中と、ついてないことが重なり、ふたりはケンカばかり。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275972←前話｜次話→so35275974　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275973
+  default_thread_id: 1560734647
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275973/35275973.52680445
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１５"
+  title: キン・タロー注意報
+  description: ある日、イッキの家に、日本一のメダロッターを目指し、修行しているという、クマゴロウとメダロットのキン・タローが突然やって来た。面識もないイッキは、なぜ自分のところへ来たのかと尋ねると、クマゴロウは“ある日”のことを語り始める。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275973←前話｜次話→so35275989　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275974
+  default_thread_id: 1560734651
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275974/35275974.15376850
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１６"
+  title: 花ことばはロボトル
+  description: 花屋の陸雲さんが、真澄先生に恋をしてしまった。オトコヤマもまた、猛アタック真澄先生にしかけていた。控えめすぎる陸雲さんには、高嶺の花なのか…。その頃、真澄先生をつけ回すストーカーが出現!?一体誰なのか。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275974←前話｜次話→so35275990　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275989
+  default_thread_id: 1560735306
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275989/35275989.54629826
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１７"
+  title: レトルト危機一髪！
+  description: 怪盗レトルトが、再び現れた。メダロット博物館のレアメダルを奪い、逃走するレトルトの前に、ロクショウが立ちはだかるが、レトルトは“ロクショウのレアメダルに用がある。また会おう”と言い残し、空に消えていった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275989←前話｜次話→so35275991　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275990
+  default_thread_id: 1560735318
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275990/35275990.34478401
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１８"
+  title: ロボトル禁止令！
+  description: ロボロボ団の暴走行為が、メダロットに対する苦情となり、学校に持ち込まれたメダロットは没収！ロボトルは全面禁止となってしまった。イッキたちは、そんな理不尽なことを決めた教育委員会。PTAと戦うことに…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275990←前話｜次話→so35275992　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275991
+  default_thread_id: 1560735332
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275991/35275991.93679874
+- !ruby/hash:EpisodeHash
+  episode_no: "♯１９"
+  title: ピンゲン南へ…
+  description: 町内に動物園ができた。早速、入ってみたイッキとアリカだったが、よく見ると、どの動物も寝ていて様子が変だ。すると動物の中から、ペンギンたちが次々と、暑さのあまり出てきた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275991←前話｜次話→so35275993　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275992
+  default_thread_id: 1560735303
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275992/35275992.29499471
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２０"
+  title: レアメダルを奪え！
+  description: ロボロボ団のサラミは、世界征服を企む悪の秘密結社・真のボスである首領と密かにコンタクトを取っていた。首領から、レアメダルを探し出し、奪い取れとの、新たな指令を受けたサラミは…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275992←前話｜次話→so35275994　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275993
+  default_thread_id: 1560735314
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275993/35275993.77632098
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２１"
+  title: 潜入！メダロット社
+  description: カリンちゃんから手紙をもらったイッキは大はしゃぎ！てっきりデートの誘いだと思っていたら、カリンちゃんと一緒に現れたのは、メダロット博士だった。ふたりをメダロット社へ案内してくれるという。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275993←前話｜次話→so35275995　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275994
+  default_thread_id: 1560735336
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275994/35275994.60622617
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２２"
+  title: 翔べ！メタビー
+  description: 怪盗レトルトは、メタビーを捕まえ、メダルを奪おうとした。その時、ロクショウが現れメタビーは助けられた。ある日、メダロット博士から空中飛行の練習をするメダロット・レディジェットを見せられたメタビーは、自分も練習したいと申し出る。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275994←前話｜次話→so35275996　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275995
+  default_thread_id: 1560735312
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275995/35275995.89303544
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２３"
+  title: 風と火の記憶
+  description: けやきの木を守り、ひとり大きな屋敷で暮らす藍香さんは、近所でも変わり者で、宝を隠していると噂されている。その藍香さんの家からロクショウが出てきた。ロクショウもまた、けやきの木に昔の思い出があった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275995←前話｜次話→so35275922　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275996
+  default_thread_id: 1560735330
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275996/35275996.42137609
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２４"
+  title: ロボトル舞踏会
+  description: コウジは近頃、イッキとカリンちゃんがべたべたしていることに、不満をもっていた。一方、イッキはカリンちゃんから、花園学園仮装パーティーに招待された。ご機嫌なイッキだったが、アリカとメタビーまでついてくることに…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275996←前話｜次話→so35275921　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275922
+  default_thread_id: 1560734003
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275922/35275922.76867350
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２５"
+  title: 激突！メタビー対ロクショウ
+  description: ロボロボ団は、首領からの指令に従い、子供たちを襲ってメダルを奪おうとするが、ロクショウが現れ手も足も出ない。ロクショウの名を聞いた首領は、ロクショウこそが真のレアメダルだといい、抱いていた計画を進め始めた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275922←前話｜次話→so35275920　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275921
+  default_thread_id: 1560734009
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275921/35275921.26087446
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２６"
+  title: メダフォース発動
+  description: ロボロボ団のメダロット、ヴィーナスマスターが現れ、力を使い果たしたロクショウは捕らえられてしまう。とどめをさされたロクショウは、メダルと共に連れて行かれた。イッキはレアメダルのことを詳しく知りたいと、メダロット博士からその歴史を教わる。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275921←前話｜次話→so35275919　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275920
+  default_thread_id: 1560733445
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275920/35275920.7381221
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２７"
+  title: 発表！ロボトルランキング
+  description: 世界ロボトル選手権大会、日本代表選手の選考を兼ねた、全国ロボトルランキングの途中経過が発表された。なんとイッキが第３位にランクされ、大喜びしたものの、第２位がコウジだと知ると、激しい闘志を燃やす。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275920←前話｜次話→so35275918　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275919
+  default_thread_id: 1560733943
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275919/35275919.41008152
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２８"
+  title: たこ焼き大作戦！
+  description: イッキは、いいにおいに誘われて、行ってみると、そこにはイッキの大好物、たこ焼き屋があった。大阪一！いや世界一と豪語するたこ焼き屋のナダコに、たこ焼きマニアのイッキは、タコが大きすぎると言って納得しない。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275919←前話｜次話→so35275917　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275918
+  default_thread_id: 1560733686
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275918/35275918.56323220
+- !ruby/hash:EpisodeHash
+  episode_no: "♯２９"
+  title: 雪だるまが来た
+  description: ひと晩で雪が降り積もった翌朝、イッキたちは学校へ行く途中、キクヒメから雪合戦の挑戦を受けた。本気で戦い、夢中になってしまったため、慌てて学校へ行き、裏口から入るが、学校は臨時休校になっていた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275918←前話｜次話→so35275916　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275917
+  default_thread_id: 1560733930
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275917/35275917.77601233
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３０"
+  title: 捨て犬のブルース
+  description: イッキは、河原で行き倒れになっていたイワノイを発見。シアンドックが置手紙を残して家出したのだ。今週もロボトルランキング最下位のへなちょこマスターのイワノイに、失望したからだと、キクヒメに言われるが、シアンドックには理由があった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275917←前話｜次話→so35275915　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275916
+  default_thread_id: 1560733683
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275916/35275916.51101615
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３１"
+  title: りんたろう参上！
+  description: メタビーのレアメダルを狙っている、謎のメダロットが現れた。しかし一方で、メタビーが町内のメダロットを襲っているというのだ。身に覚えのないイッキとメタビーは、ニセモノがいるのではないかと考えた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275916←前話｜次話→so35275914　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275915
+  default_thread_id: 1560733999
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275915/35275915.38482297
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３２"
+  title: 宇宙からの使者？
+  description: メタビーのレアメダルが、サラミに奪われようとした時、謎のメダロットが姿を現した。彼こそ全国ロボトルランキング第１位、宇宙メダロッターX。イッキたちが、手も足も出せなかったサラミをあっさり倒してしまった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275915←前話｜次話→so35275913　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275914
+  default_thread_id: 1560733928
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275914/35275914.57469243
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３３"
+  title: ロボトルに架ける橋
+  description: コウジはメダロット博士にメダフォースを伝授してほしいと頼んだ。しかし、レアメダルではない限り、メダフォースを引き出すことは無理だと言われてしまう。落胆するコウジの前に、宇宙メダロッターXが現れ、メダフォースがなくてもレアメダルの相手と戦える方法があると伝えた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275914←前話｜次話→so35275912　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275913
+  default_thread_id: 1560734004
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275913/35275913.69984397
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３４"
+  title: 奥義！シャドウソード
+  description: 宇宙メダロッターXは、いまやコウジの師匠、メダフォース封じの早技・相手の次の手を封じ込めることができるシャドウソードを教えてほしいと願い出たコウジは、苦手な山奥で荒行に取り組んでいた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275913←前話｜次話→so35275911　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275912
+  default_thread_id: 1560733945
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275912/35275912.77046678
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３５"
+  title: 囚われたチドリ！
+  description: イッキの母、チドリがロボロボ団に誘拐された。ロボロボ団の目的はメタビーのレアメダル。イッキはロボトル世界大会に出場するために、あと２勝しなければならない。その残り時間は３時間…。しかし、イッキは大切な母をメタビーとともに助けに行く。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275912←前話｜次話→so35275910　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275911
+  default_thread_id: 1560733951
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275911/35275911.7120942
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３６"
+  title: さらば宇宙メダロッターＸ
+  description: 世界大会出場まで、あと１勝しなければならないイッキは、宇宙メダロッターXと戦うことを決意する。ライバルであるにもかかわらず、コウジ、りんたろうはメダロットバーツを、そしてアリカは特別な贈り物を…?!みんなの応援を受け、ロボトルが始まった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275911←前話｜次話→so35275923　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275910
+  default_thread_id: 1560733947
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275910/35275910.13268536
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３７"
+  title: 決戦！ミヤマ遺跡
+  description: ロボロボ団首領のもとへ、メタビーが連れ去られてしまった。イッキとコウジは、メタビーを奪還すべく、仲間に裏切られたサラミにロボロボ団のアジトへ案内させる。そこはミヤマ遺跡、メダロットの絵が描かれ、メダルが埋まっていた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275910←前話｜次話→so35275924　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275923
+  default_thread_id: 1560733934
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275923/35275923.21778455
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３８"
+  title: メタビーをとり戻せ！
+  description: イッキたちの前に、ロクショウが現れる。ロクショウはメタビーが捕らえられていることを知らず、ロボロボ団の悪事を叩き潰すために来たという。一方、博士たちはロボロボ団が発する怪電波の場所を特定した。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275923←前話｜次話→so35275997　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275924
+  default_thread_id: 1560733506
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275924/35275924.50295942
+- !ruby/hash:EpisodeHash
+  episode_no: "♯３９"
+  title: 灼熱の最終ロボトル
+  description: ミヤマ遺跡から、巨大なメダロットが現れた。イッキたちは逃げ場を失ってしまう。カリンちゃんがメダロット博士に助けを求めるが、ヘリポートも破壊され、救助に行けない。怪盗レトルト、ロクショウと共に、メタビーは巨大メダロットに立ち向かう。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275924←前話｜次話→so35275998　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275997
+  default_thread_id: 1560735316
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275997/35275997.57431757
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４０"
+  title: 開幕！世界大会
+  description: ロボトル世界大会まで一週間。ミスターうるちは、メダロット協会から首席審判を任命されるが、新しい重大な決定を聞き、絶句する。一体その決定とは…。選手村では、世界チャンピオンのヴィクトルが到着した。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275997←前話｜次話→so35275999　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275998
+  default_thread_id: 1560735320
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275998/35275998.71453919
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４１"
+  title: 一回戦から大波乱！
+  description: カリンちゃんの車で、試合会場へ向かうイッキたちの前に、カルアという女の子が倒れこんできた。カリブ代表、キャプテン・ジンの大好物のチョコレートを食べてしまい、追われているという。しかし、カルアの本当の正体とは？<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275998←前話｜次話→so35276000　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275999
+  default_thread_id: 1560735322
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275999/35275999.99560993
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４２"
+  title: ルパン三兄弟七変化
+  description: メタビーのメダルが盗まれた！今日の二回戦の相手はフランスチーム。今までの試合をすべて不戦勝で勝ち進んできたというルパン三兄弟だ。敵は、日本チームの妨害を企んでいる。次はコウジとカリンちゃんが狙われる…。、<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275999←前話｜次話→so35276001　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276000
+  default_thread_id: 1560735308
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276000/35276000.47634264
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４３"
+  title: 踊る！大おやびん
+  description: キクヒメは一週間後のバレエ発表会に出ることになった。また、同じ時、イッキたち日本代表は、三回戦で手ごわい相手、メキシコ代表と対戦することが決まっている。メダロッターXとして、共に出場しているキクヒメは、両立すると宣言するが…。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276000←前話｜次話→so35276049　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35276001
+  default_thread_id: 1560735328
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276001/35276001.17942248
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４４"
+  title: アイドルにご用心！
+  description: スウェーデン代表チームのチャーミング娘は、今や男たちの視線を釘付け、メダロット界のアイドルだ。イッキもまた、彼女たちの虜となり、お小遣いを全てつぎ込んで写真集を購入し、大事なメタビーの予備パーツが買えなくなってしまった。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276001←前話｜次話→so35275931　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35276049
+  default_thread_id: 1560736459
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276049/35276049.77205983
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４５"
+  title: 強敵！エジプトの女王
+  description: ついにベストエイトが出揃い、準々決勝の組み合わせが発表された。イッキたちは、次の対戦相手、エジプト代表・砂漠の女王と呼ばれるタワラーマから、日本チームには重大な弱点があり、勝利はない！と言われる。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35276049←前話｜次話→so35275930　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275931
+  default_thread_id: 1560733932
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275931/35275931.61833110
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４６"
+  title: 華麗なるジョー
+  description: イッキは、ジョースイハンから、８年前の悪夢の世界大会、その後の魔の１０日間の話を聞いた。その時の日本代表のメダロットで、メタビーと同じ名前を付けてくれたヒカルに、詳しく話を聞きたいと思ったイッキは、ヒカルが働くコンビニへ行ったが、ヒカルは、すでに辞めてしまっていた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275931←前話｜次話→so35275929　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275930
+  default_thread_id: 1560733939
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275930/35275930.85974353
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４７"
+  title: 北から来た少年
+  description: アリカの今日の取材相手は、アイスランドチーム。特訓場所に行ってみると、チームリーダーのベルモットは、練習するわけでもなく、温泉を掘り、夕食を作っていた。試合前は、心を落ちつけ、平常心でいたいというベルモットに、アリカは惹かれていく。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275930←前話｜次話→so35275928　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275929
+  default_thread_id: 1560734000
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275929/35275929.21064739
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４８"
+  title: 孤独なライオン
+  description: メダロット協会がロボロボ団に乗っ取られていた。今大会の新ルールによって奪われたメダルを、イッキは明日の決勝戦、ヴィクトル率いるケニア代表対日本代表の試合で、必ず取り戻すと決意する。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275929←前話｜次話→so35275927　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275928
+  default_thread_id: 1560733941
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275928/35275928.88253685
+- !ruby/hash:EpisodeHash
+  episode_no: "♯４９"
+  title: 世界大会決勝
+  description: 決勝戦、イッキ、コウジの前にカラスミがメダロッターＸとしてやって来た。みんな、それぞれの想いを胸に、気合を入れる。さあ、ヴィクトルたちとのロボトル開始だ！<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275928←前話｜次話→so35275926　第一話→so35276043
+  length_seconds: 1475
+  content_id: so35275927
+  default_thread_id: 1560733926
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275927/35275927.79340673
+- !ruby/hash:EpisodeHash
+  episode_no: "♯５０"
+  title: よみがえる悪夢
+  description: メダフォース同士の激突。動きが止まってしまったメタビーたちに、何が起きているのか？怪盗レトルトとロクショウは、会場の地下に、ロボロボ団のアジトを見つける。そこは、メダロットたちを共鳴させる、巨大なアンテナになっていた。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275927←前話｜次話→so35275925　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275926
+  default_thread_id: 1560733954
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275926/35275926.71882817
+- !ruby/hash:EpisodeHash
+  episode_no: "♯５１"
+  title: 夢の途中
+  description: メタビーは、目が覚めると見覚えのない町、見知らぬ人々、しかし確かに知っている遠い昔の記憶の中にいた。首領は、超古代文明を築いたメダロ人の末裔、レアメダルは肉体を捨てた、超古代文明人の魂だという。<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275926←前話｜次話→so35275909　第一話→so35276043
+  length_seconds: 1474
+  content_id: so35275925
+  default_thread_id: 1560733505
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275925/35275925.74745384
+- !ruby/hash:EpisodeHash
+  episode_no: "♯５２"
+  title: 史上最大のロボトル
+  description: ヘベレケ博士の切り札、プリミティーベビーに対抗すべく、メダロット博士が極秘に開発していたジャイアントメタビーが登場！イッキとメタビーで世界を救うのだ！<br><br>イッキ:山崎
+    みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷 亮介　他<br><br>監督:岡村天斎／シリーズ構成:山口亮太／
+    キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他<br><br>©IMAGINEER  ©1999 NAS/講談社<br><br>so35275925←前話　第一話→so35276043
+  length_seconds: 1445
+  content_id: so35275909
+  default_thread_id: 1560733937
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35275909/35275909.20775134
+cast: "[キャスト]<br>イッキ:山崎 みちる／メタビー:竹内 順子／アリカ:仙台 エリ／カリン:坂本 真綾／キクヒメ:鈴木 真仁／イワノイ:山崎 樹範／メダロット博士:大谷
+  亮介　他"
+staff: "[スタッフ]<br>監督:岡村天斎／シリーズ構成:山口亮太／ キャラクターデザイン:松竹徳幸／メカデザイン:鈴木博文　他"
+produced_year: "[製作年]<br>1999年"
+copyright: "©IMAGINEER ©1999 NAS/講談社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: メダロット魂

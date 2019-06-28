@@ -1,0 +1,168 @@
+--- !ruby/hash:SeasonHash
+title: ヲタクに恋は難しい
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/83/3/22833_1_6.png?0
+outline: 2014年4月、イラストSNS・pixivに投稿された、ふじたによるマンガ『ヲタクに恋は難しい』。隠れ腐女子のOL・成海と、重度のゲームヲタク・宏嵩。そんなふたりの恋愛は、ヲタクなら思わずクスッとする笑いあり、そうじゃない人もキュンキュンするシチュエーションあり。ヲタクの恋愛をポジティブに描写した新しいラブコメが読者の心を掴み、pixiv内オリジナルマンガ作品でのブックマーク数歴代1位を記録。同年創設された「次にくるマンガ大賞」では“本にしてほしいWebマンガ部門”1位を受賞。翌2015年4月に書籍化が実現し、同年12月に発表された「このマンガがすごい！2016」では“オンナ編”1位を獲得するなど、ファンの応援とともに展開を広げてきた「ヲタ恋」。シリーズ5巻発売時点のコミックス累計発行部数は、550万部を突破！ここまで応援していただいたファンの皆さまのおかげを持ちまして・・・！TVアニメ『ヲタクに恋は難しい』2018年4月、放送開始！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊達朱里紗
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊東健人
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：平池芳正
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：本間昭光
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：安田京弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2018年春
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#01"
+  title: 成海と宏嵩の再会。そして・・・
+  description: 失恋をきっかけに、転職を決めた桃瀬成海（隠れ腐女子）。転職先で、かつての幼馴染である二藤宏嵩（重度のゲーヲタ）と偶然再会する。宏嵩のことをヲタク友達と言う成海に対し、宏嵩は何か言いたげな様子で。<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>次話→so35287917
+  length_seconds: 1378
+  content_id: so35287915
+  default_thread_id: 1561003989
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287915/35287915.63657815
+- !ruby/hash:EpisodeHash
+  episode_no: "#02"
+  title: 恋人？始めました
+  description: ヲタ友から恋人関係になった二人。なんとなく気まずさを感じた成海は、宏嵩を避けてしまう。二人の様子を見た会社の先輩・小柳花子（コスプレイヤー）と樺倉太郎（ライトヲタ）は、アドバイスをするけれど・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287915←前話｜次話→so35287918　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287917
+  default_thread_id: 1561003204
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287917/35287917.56831532
+- !ruby/hash:EpisodeHash
+  episode_no: "#03"
+  title: 即売会とゲーム会
+  description: 仕事終わりに宏嵩宅に誘われた成海は、思わず挙動不審になってしまう。家に向かう途中で幼いころの話をする成海だが、仲良くなったきっかけは思い出せないと言う。それを聞いた宏嵩はどこか寂しげで・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287917←前話｜次話→so35287919　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287918
+  default_thread_id: 1561003509
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287918/35287918.91209866
+- !ruby/hash:EpisodeHash
+  episode_no: "#04"
+  title: オトナの恋も難しい？
+  description: ある日の仕事帰り、花子と樺倉は飲み会でケンカをしてしまう。ヲタク同士で楽だから付き合っているのではないかと不安に思う花子。そんな様子を見て、自分たちのことを重ねて考える成海で。<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287918←前話｜次話→so35287920　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287919
+  default_thread_id: 1561003983
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287919/35287919.75438966
+- !ruby/hash:EpisodeHash
+  episode_no: "#05"
+  title: 尚哉登場とゲーム会PartII
+  description: 成海がスタボの店員と親しく会話するのを見かけ、勘ぐる花子と樺倉。実はその好青年は、宏嵩の弟・二藤尚哉だった。その後みんな揃って宏嵩の家に遊びに行くことになり・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287919←前話｜次話→so35287921　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287920
+  default_thread_id: 1561003274
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287920/35287920.27590301
+- !ruby/hash:EpisodeHash
+  episode_no: "#06"
+  title: 憂鬱なクリスマス
+  description: 年末に向けて何かと忙しい中、近づいてきたクリスマス。「去年のクリスマスは史上最悪だった」と話す花子は、特に期待をしていない様子。一方の樺倉はバリバリ仕事をこなしていて・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287920←前話｜次話→so35287922　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287921
+  default_thread_id: 1561003208
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287921/35287921.38377350
+- !ruby/hash:EpisodeHash
+  episode_no: "#07"
+  title: ネトゲと、それぞれの夜
+  description: みんなでネトゲをすることになり、次々にゲーム内で集まり始めた一同。残りは宏嵩を待つのみ、というところで突然レアエネミーが登場！戦力不足でピンチの成海・花子・樺倉の目の前に救世主（？）が現れて・・・。<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287921←前話｜次話→so35287923　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287922
+  default_thread_id: 1561003991
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287922/35287922.53167543
+- !ruby/hash:EpisodeHash
+  episode_no: "#08"
+  title: 苦手な雷と、気になるお年頃
+  description: 花子と樺倉に二人でいるときの様子を尋ねる宏嵩。「お前らと同じようなもの」と言う樺倉だが、何かが違うと感じている様子。その日の帰り道、成海にある提案をして・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287922←前話｜次話→so35287924　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287923
+  default_thread_id: 1561003513
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287923/35287923.82276813
+- !ruby/hash:EpisodeHash
+  episode_no: "#09"
+  title: デートへ行こうよ！
+  description: 宏嵩からのお誘いでデートに出かけた二人。非ヲタモードに切り替えきれない成海に対し、「いつもよりちょっとだけ緊張してほしい」と言う宏嵩。こうしてヲタク封印縛りデートが始まって・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287923←前話｜次話→so35287925　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287924
+  default_thread_id: 1561003333
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287924/35287924.42356852
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: 光くん登場とネトゲリベンジ
+  description: バイト中、尚哉は黙々とゲームに集中しているお客さんを見かける。よく見ると、そのゲームは以前プレイしたネトゲだった。気になった尚哉がお客さんに声をかけると、勢いよく謝りながら立ち去ってしまい・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287924←前話｜次話→so35288091　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35287925
+  default_thread_id: 1561003505
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287925/35287925.65862838
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: ヲタクに恋は難しい
+  description: 連休最終日、宏嵩の家に向かう成海。アポなしの訪問に宏嵩がどんな反応をするか妄想がふくらむ中、家にたどり着いてチャイムを鳴らしても何も反応がなく・・・？<br><br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧<br><br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+    Pictures／制作:「ヲタ恋」製作委員会<br><br>©ふじた・一迅社／「ヲタ恋」製作委員会<br><br>so35287925←前話　第一話→so35287915
+  length_seconds: 1378
+  content_id: so35288091
+  default_thread_id: 1561004823
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35288091/35288091.54268861
+cast: "[キャスト]<br>桃瀬成海:伊達朱里紗／二藤宏嵩:伊東健人／小柳花子:沢城みゆき／樺倉太郎:杉田智和／二藤尚哉:梶裕貴／桜城光:悠木碧"
+staff: "[スタッフ]<br>監督・シリーズ構成:平池芳正／キャラクターデザイン:安田京弘／音楽:本間昭光／オープニング・テーマ:sumika「フィクション」／エンディング・テーマ:halca「キミの隣」／アニメーション制作:A-1
+  Pictures／制作:「ヲタ恋」製作委員会"
+produced_year: "[製作年]<br>2018年"
+copyright: "©ふじた・一迅社／「ヲタ恋」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
