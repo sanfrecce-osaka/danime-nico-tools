@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞

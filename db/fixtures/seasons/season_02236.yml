@@ -11,19 +11,19 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 宮野真守
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 内山昂輝
   type: cast
 - !ruby/hash:TagHash
-  name: 内山昂輝
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
   name: 堀江瞬
