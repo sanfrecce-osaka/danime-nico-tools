@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 安元洋貴
+  name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 緑川光
+  name: 安元洋貴
   type: cast
 - !ruby/hash:TagHash
   name: 石川界人

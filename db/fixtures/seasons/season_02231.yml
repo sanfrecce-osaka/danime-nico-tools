@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
-  name: 日野聡
+  name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
-  name: 玄田哲章
+  name: 日野聡
   type: cast
 - !ruby/hash:TagHash
   name: 上坂すみれ
