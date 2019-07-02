@@ -114,7 +114,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121560
   default_thread_id: 1557797583
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121560/35121560.66251450
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121560/35121560.70350558
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: "「妖怪でんじん」／妖魔一武道会『極オロチ』」"
@@ -124,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149879
   default_thread_id: 1558314737
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149879/35149879.34230656
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149879/35149879.30200093
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: "「妖怪ギュウ汁（じる）」／「あの妖怪は今 ～ざしきわらし～」"
@@ -135,7 +135,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186155
   default_thread_id: 1559009834
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186155/35186155.67423510
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186155/35186155.97347653
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: "「妖怪やめたい師」／「アイドルいっぱい！ ジバニャン芸能事務所！ 第３話」"
@@ -146,7 +146,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217708
   default_thread_id: 1559611867
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217708/35217708.33265232
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217708/35217708.45424556
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: "「妖怪シラ切りスズメ」／「ジバニャンと桜の木」"
@@ -156,7 +156,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248776
   default_thread_id: 1560215534
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248776/35248776.32531554
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248776/35248776.28042170
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: "「妖怪おすべり様」/「ドクターＦ　＃1」"
@@ -166,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276045
   default_thread_id: 1560736750
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276045/35276045.40681242
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276045/35276045.47492328
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: "「妖怪しろく魔」／「魔女っ子フミちゃん」"
