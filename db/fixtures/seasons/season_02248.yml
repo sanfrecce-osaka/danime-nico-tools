@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：C2C
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：田中紀衣
+  name: 音楽制作：KADOKAWA
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽制作：KADOKAWA
+  name: キャラクターデザイン：田中紀衣
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：高田龍一

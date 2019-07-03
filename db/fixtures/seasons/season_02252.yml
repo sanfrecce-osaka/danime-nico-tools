@@ -32,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 土岐隼一
   type: cast
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤依織子
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：Evan Call
   type: staff
 - !ruby/hash:TagHash
   name: 監督：渡邊哲哉
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：伊藤依織子
   type: staff
 - !ruby/hash:TagHash
   name: 原作：たもつ葉子

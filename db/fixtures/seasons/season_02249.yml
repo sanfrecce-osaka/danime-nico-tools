@@ -188,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276039
   default_thread_id: 1560736747
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276039/35276039.74117963
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35348700/35348700.70144299
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: "『無力な兵隊』"
