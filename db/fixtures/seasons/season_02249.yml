@@ -44,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 東地宏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 大塚芳忠
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚芳忠
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
   name: 監督：鈴木健一
