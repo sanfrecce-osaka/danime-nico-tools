@@ -1,0 +1,85 @@
+--- !ruby/hash:SeasonHash
+title: 磯部磯兵衛物語
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/69/5/21695_1_6.png?1552446951000
+outline: 時は江戸時代。花のお江戸で立派な武士になるべく、武士道学校に通い≪自称≫日々精進する若き青年・磯部磯兵衛。しかし不真面目な性格が災いして立派な武士への道のりは遠く…とにもかくにも磯兵衛が江戸を舞台に大活躍するようでしないような、ぐだぐだシンプル江戸ライフの幕開けで候。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下大輝
+  type: cast
+- !ruby/hash:TagHash
+  name: たかはし智秋
+  type: cast
+- !ruby/hash:TagHash
+  name: 松山タカシ
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本頼光
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：まんきゅう
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ギャザリング
+  type: staff
+- !ruby/hash:TagHash
+  name: 磯部磯兵衛物語シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2015年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
+  type: other
+- !ruby/hash:TagHash
+  name: 少年ジャンプ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "（磯部磯兵衛で候　他）"
+  title: 磯部磯兵衛で候／春画で候／平賀源内で候／人相書きで候／銭湯で候／酒で候／徳川家で候／虫歯で候／将棋で候／恋文で候
+  description: クソッ、なんて日曜日だっ！／いざ参らん 春画の世界へ／名付けて、『スズシクナッテル』！／遅刻で候、嗚呼行きたくない／混浴だから来たわけではないで候、決して！／うわ酒くっせ、うわ酒くっせ、うわ酒くっせ／なあみんな、江戸に足りないものってなんだろう？／虫歯ぁああああ
+    死ぬぅ～～！／状況判断 状況判断！／看板娘に恋文(ラブレター)を書いてみるでそう～ろう～♪<br><br>磯部磯兵衛:山下大輝／中島襄:村瀬歩／母上:たかはし智秋／平賀源内:松山鷹志／ナレーション:坂本頼光<br><br>監督:まんきゅう／アニメーション制作:ギャザリング<br><br>©仲間りょう／集英社・磯豆奉行所<br><br>次話→so35307933
+  length_seconds: 340
+  content_id: so35307932
+  default_thread_id: 1561430287
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35307932/35307932.12584553
+- !ruby/hash:EpisodeHash
+  episode_no: "（百物語で候 他）"
+  title: 百物語で候／相撲で候／しおひがりで候／カップルで候／犬で候／井戸端会議で候／バレンタインで候／生類憐れみで候／火消しで候／掃除で候／目安箱で候／看板娘で候
+  description: アレを消したら、ホンモノの幽霊が…／サバンナにいる雄ライオンのそれさ／ふんどしびょーーーーん／磯兵衛、カップルってどう思う？／あら犬ね、すごく犬／うちの磯兵衛なめすぎよ／よかったら食べてください、チョコ団子…／拙者武士！歌舞伎俳優じゃない！／火消しは江戸っ子の象徴だからね／せ、せいっ、せいっ、せいっ。せいっ、せーーい。／江戸をよくするためにはどうしたらいいのだろう…／あぁ～～～、かわいい～～～！<br><br>磯部磯兵衛:山下大輝／中島襄:村瀬歩／母上:たかはし智秋／平賀源内:松山鷹志／ナレーション:坂本頼光<br><br>監督:まんきゅう／アニメーション制作:ギャザリング<br><br>©仲間りょう／集英社・磯豆奉行所<br><br>so35307932←前話｜次話→so35307934　第一話→so35307932
+  length_seconds: 372
+  content_id: so35307933
+  default_thread_id: 1561430284
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35307933/35307933.61765233
+- !ruby/hash:EpisodeHash
+  episode_no: "（日記で候　他）"
+  title: 日記で候／三文の得で候／子どもで候／コーヒーで候／譲り合いで候／桃太郎で候／ダンスで候／さや当てで候／筋トレで候／富士登山で候／二度寝で候／スマホで候／クラブで候
+  description: 文章ヘタか！／その顔はヤッてる！／子どもっていいなあ…悩みとか、なくて！／グローバルがわかる男、世界的な男、ビッグな男／何だよ、その目は！／おじいさんとおばあさんと磯兵衛が住んでいました／SA・SHI・SU・SE・処す　処する時／オランダ人じゃないよ！／三日でギブさ／とくに何もしてないけど、拙者、お疲れ！／このフィット感は二度と再現できないで候…／スマート　スマート　わっしょい　わっしょい／武士とDJって同じだったで候！<br><br>磯部磯兵衛:山下大輝／中島襄:村瀬歩／母上:たかはし智秋／平賀源内:松山鷹志／ナレーション:坂本頼光<br><br>監督:まんきゅう／アニメーション制作:ギャザリング<br><br>©仲間りょう／集英社・磯豆奉行所<br><br>so35307933←前話　第一話→so35307932
+  length_seconds: 433
+  content_id: so35307934
+  default_thread_id: 1561430345
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35307934/35307934.51230999
+cast: "[キャスト]<br>磯部磯兵衛:山下大輝／中島襄:村瀬歩／母上:たかはし智秋／平賀源内:松山鷹志／ナレーション:坂本頼光"
+staff: "[スタッフ]<br>監督:まんきゅう／アニメーション制作:ギャザリング"
+produced_year: "[製作年]<br>2015年"
+copyright: "©仲間りょう／集英社・磯豆奉行所"
+related_seasons: !ruby/array:Hashie::Array []

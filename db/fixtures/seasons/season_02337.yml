@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: RS計画　-Rebirth Storage-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/98/1/20981_1_6.png?1551270185000
+outline: 西暦2025年――突如出現した未知の脅威｢機巧｣は人類への攻撃を展開し、多くの都市がなすすべもなく破壊された。窮地に立たされた人類だったが、日本で機巧の残骸が発見されたことをきっかけに設立された｢東京機巧研究所｣(東機研)を拠点に、機巧の兵器利用の研究が進められていく。毒をもって毒を制すべく、機巧をもって機巧に対抗せんとするその方策は、人類に残された唯一の希望だった。そして9年後。発見された残骸を手がかりに開発された主力機巧｢むっつ｣の実戦投入が近づいていた。｢むっつ｣搭乗パイロットの候補生として選ばれた少年・佐神凛(さがみ・りん)と少女・御堂結絃(みどう・ゆづる)は、人類の未来という大きすぎる希望を背負いながら、課せられた任務に果敢に立ち向かっていく。だが、ふたりを待ち受けていたのは、あまりにも過酷な運命だった――
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 星野貴紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：岸本みゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ロール
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：亀井治
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 2016年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: RS計画　-Rebirth Storage-
+  description: 西暦2025年――突如出現した未知の脅威｢機巧｣は人類への攻撃を展開し、多くの都市がなすすべもなく破壊された。窮地に立たされた人類だったが、日本で機巧の残骸が発見されたことをきっかけに設立された｢東京機巧研究所｣(東機研)を拠点に、機巧の兵器利用の研究が進められていく。毒をもって毒を制すべく、機巧をもって機巧に対抗せんとするその方策は、人類に残された唯一の希望だった。そして9年後。発見された残骸を手がかりに開発された主力機巧｢むっつ｣の実戦投入が近づいていた。｢むっつ｣搭乗パイロットの候補生として選ばれた少年・佐神凛(さがみ・りん)と少女・御堂結絃(みどう・ゆづる)は、人類の未来という大きすぎる希望を背負いながら、課せられた任務に果敢に立ち向かっていく。だが、ふたりを待ち受けていたのは、あまりにも過酷な運命だった――<br><br>佐神凛:内山昂輝／御堂結絃:上坂すみれ／三島雪:中原麻衣／六車譲治:日野聡／志水佳織:佐倉綾音／沢渡雄一郎:星野貴紀<br><br>原案:ロール／脚本:岸本みゆき／監督:亀井治／メカニックデザイン:佐藤周一郎／キャラクターデザイン:政尾翼(DeNA)／プロデューサー:松尾拓(フジテレビ)
+    / 野上雄一郎(DeNA)<br><br>©R.S.PROJECT
+  length_seconds: 1294
+  content_id: so35276131
+  default_thread_id: 1560739446
+  channel_id: 2632720
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276131/35276131.97434607
+cast: "[キャスト]<br>佐神凛:内山昂輝／御堂結絃:上坂すみれ／三島雪:中原麻衣／六車譲治:日野聡／志水佳織:佐倉綾音／沢渡雄一郎:星野貴紀"
+staff: "[スタッフ]<br>原案:ロール／脚本:岸本みゆき／監督:亀井治／メカニックデザイン:佐藤周一郎／キャラクターデザイン:政尾翼(DeNA)／プロデューサー:松尾拓(フジテレビ)
+  / 野上雄一郎(DeNA)"
+produced_year: "[製作年]<br>2016年"
+copyright: "©R.S.PROJECT"
+related_seasons: !ruby/array:Hashie::Array []
