@@ -14,19 +14,19 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 小野大輔
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
-  name: 梶裕貴
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
   name: 井上麻里奈
@@ -346,7 +346,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35324454
   default_thread_id: 1561691943
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35324454/35324454.71729590
+  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35324454/35324454.20702868
 cast: "[キャスト]<br>エレン:梶裕貴／ミカサ:石川由依／アルミン:井上麻里奈／コニー:下野紘／サシャ:小林ゆう／クリスタ:三上枝織／ジャン:谷山紀章／ライナー:細谷佳正／ベルトルト:橋詰知久／ハンジ:朴璐美／エルヴィン:小野大輔／リヴァイ:神谷浩史／ケニー・アッカーマン:山路和弘／ロッド・レイス:屋良有作"
 staff: "[スタッフ]<br>原作:諫山 創（別冊少年マガジン連載／講談社）／総監督:荒木哲郎／監督:肥塚正史／シリーズ構成:小林靖子／キャラクターデザイン:浅野恭司／総作画監督:浅野恭司、門脇
   聡／助監督:田中洋之／アクション作画監督:今井有文、世良悠子、胡拓磨／美術設定:谷内優穂、藤井一志／巨人設定:千葉崇明／プロップデザイン:胡拓磨／色彩設計:橋本
