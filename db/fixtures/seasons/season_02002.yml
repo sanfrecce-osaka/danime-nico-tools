@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
-  name: 中村悠一
+  name: 石田彰
   type: cast
 - !ruby/hash:TagHash
-  name: 石田彰
+  name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
   name: 能登麻美子
@@ -92,7 +92,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33963152
   default_thread_id: 1538616488
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33963152/33963152.5590438
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33963152/33963152.5590438
 - !ruby/hash:EpisodeHash
   episode_no: 第279話
   title: 愛しているから
@@ -105,7 +105,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34005680
   default_thread_id: 1539306552
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34005680/34005680.23147915
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34005680/34005680.23147915
 - !ruby/hash:EpisodeHash
   episode_no: 第280話
   title: 黒魔術教団 (アヴァタール)
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34041550
   default_thread_id: 1539911285
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34041550/34041550.54157462
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34041550/34041550.54157462
 - !ruby/hash:EpisodeHash
   episode_no: 第281話
   title: 地下の激闘
@@ -131,7 +131,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34076713
   default_thread_id: 1540516687
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34076713/34076713.2611015
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34076713/34076713.2611015
 - !ruby/hash:EpisodeHash
   episode_no: 第282話
   title: 浄化作戦
@@ -144,7 +144,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34111779
   default_thread_id: 1541121547
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34111779/34111779.19386035
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34111779/34111779.19386035
 - !ruby/hash:EpisodeHash
   episode_no: 第283話
   title: イクサツナギ
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34145984
   default_thread_id: 1541725748
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34145984/34145984.81492764
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34145984/34145984.81492764
 - !ruby/hash:EpisodeHash
   episode_no: 第284話
   title: 回想録
@@ -170,7 +170,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34179660
   default_thread_id: 1542330488
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34179660/34179660.56785368
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34179660/34179660.56785368
 - !ruby/hash:EpisodeHash
   episode_no: 第285話
   title: 七代目ギルドマスター
@@ -183,7 +183,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34209028
   default_thread_id: 1542849547
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34209028/34209028.1100043
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34209028/34209028.1100043
 - !ruby/hash:EpisodeHash
   episode_no: 第286話
   title: 空間の掟
@@ -196,7 +196,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34248020
   default_thread_id: 1543540088
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34248020/34248020.30059116
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34248020/34248020.30059116
 - !ruby/hash:EpisodeHash
   episode_no: 第287話
   title: 皇帝スプリガン
@@ -209,7 +209,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34281997
   default_thread_id: 1544144945
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34281997/34281997.55876322
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34281997/34281997.55876322
 - !ruby/hash:EpisodeHash
   episode_no: 第288話
   title: 神に見捨てられた地へ
@@ -222,7 +222,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34316207
   default_thread_id: 1544749992
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34316207/34316207.51660427
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34316207/34316207.51660427
 - !ruby/hash:EpisodeHash
   episode_no: 第289話
   title: メイビスとゼレフ
@@ -235,7 +235,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34349744
   default_thread_id: 1545356344
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34349744/34349744.31884939
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34349744/34349744.31884939
 - !ruby/hash:EpisodeHash
   episode_no: 第290話
   title: 妖精の心臓
@@ -248,7 +248,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34381983
   default_thread_id: 1545872951
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34381983/34381983.92938634
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34381983/34381983.92938634
 - !ruby/hash:EpisodeHash
   episode_no: 第291話
   title: マグノリア防衛戦
@@ -261,7 +261,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34456774
   default_thread_id: 1547172425
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34456774/34456774.72527685
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34456774/34456774.72527685
 - !ruby/hash:EpisodeHash
   episode_no: 第292話
   title: 明星
@@ -274,7 +274,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34490592
   default_thread_id: 1547774946
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34490592/34490592.39868432
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34490592/34490592.39868432
 - !ruby/hash:EpisodeHash
   episode_no: 第293話
   title: その香り(パルファム)は誰がために
@@ -287,7 +287,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34524794
   default_thread_id: 1548378550
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34524794/34524794.1225600
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34524794/34524794.1225600
 - !ruby/hash:EpisodeHash
   episode_no: 第294話
   title: ナツ vs. ゼレフ
@@ -300,7 +300,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34560821
   default_thread_id: 1548983889
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34560821/34560821.40348409
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34560821/34560821.40348409
 - !ruby/hash:EpisodeHash
   episode_no: 第295話
   title: 400年の時を超え
@@ -313,7 +313,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34596408
   default_thread_id: 1549588143
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34596408/34596408.94937384
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34596408/34596408.94937384
 - !ruby/hash:EpisodeHash
   episode_no: 第296話
   title: あたしのしたい事
@@ -326,7 +326,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34634806
   default_thread_id: 1550192882
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34634806/34634806.94796425
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34634806/34634806.94796425
 - !ruby/hash:EpisodeHash
   episode_no: 第297話
   title: 戦いが終わるまでは
@@ -339,7 +339,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34671732
   default_thread_id: 1550798282
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34671732/34671732.31122007
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34671732/34671732.31122007
 - !ruby/hash:EpisodeHash
   episode_no: 第298話
   title: 静かなる時の中で
@@ -352,7 +352,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34708983
   default_thread_id: 1551403684
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34708983/34708983.69051637
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34708983/34708983.69051637
 - !ruby/hash:EpisodeHash
   episode_no: 第299話
   title: 復活のナツ!!
@@ -365,7 +365,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34743050
   default_thread_id: 1552007344
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34743050/34743050.52562954
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34743050/34743050.52562954
 - !ruby/hash:EpisodeHash
   episode_no: 第300話
   title: 屍のヒストリア
@@ -378,7 +378,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34779264
   default_thread_id: 1552614002
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34779264/34779264.94632002
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34779264/34779264.94632002
 - !ruby/hash:EpisodeHash
   episode_no: 第301話
   title: 気魄
@@ -391,7 +391,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34821708
   default_thread_id: 1553218202
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34821708/34821708.85624498
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34821708/34821708.85624498
 - !ruby/hash:EpisodeHash
   episode_no: 第302話
   title: 第三の印
@@ -404,7 +404,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34870629
   default_thread_id: 1553823570
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34870629/34870629.82928951
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34870629/34870629.82928951
 - !ruby/hash:EpisodeHash
   episode_no: 第303話
   title: ずっと二人で
@@ -417,7 +417,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34913157
   default_thread_id: 1554427864
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34913157/34913157.74203995
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34913157/34913157.74203995
 - !ruby/hash:EpisodeHash
   episode_no: 第304話
   title: フェアリーテイル　ＺＥＲＯ
@@ -430,7 +430,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34954666
   default_thread_id: 1555031404
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34954666/34954666.2994875
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34954666/34954666.2994875
 - !ruby/hash:EpisodeHash
   episode_no: 第305話
   title: 白きドラグニル
@@ -443,7 +443,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992211
   default_thread_id: 1555636326
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992211/34992211.14536306
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992211/34992211.14536306
 - !ruby/hash:EpisodeHash
   episode_no: 第306話
   title: 冬の魔導士
@@ -456,7 +456,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012785
   default_thread_id: 1555982222
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012785/35012785.40171685
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012785/35012785.40171685
 - !ruby/hash:EpisodeHash
   episode_no: 第307話
   title: グレイとジュビア
@@ -469,7 +469,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35028023
   default_thread_id: 1556262003
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35028023/35028023.42667141
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35028023/35028023.42667141
 - !ruby/hash:EpisodeHash
   episode_no: 第308話
   title: ゼレフ書最強の悪魔
@@ -482,7 +482,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35102402
   default_thread_id: 1557451274
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35102402/35102402.25006875
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35102402/35102402.25006875
 - !ruby/hash:EpisodeHash
   episode_no: 第309話
   title: 壊れた絆を
@@ -495,7 +495,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134440
   default_thread_id: 1558056143
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134440/35134440.5504280
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35134440/35134440.5504280
 - !ruby/hash:EpisodeHash
   episode_no: 第310話
   title: 快楽と苦痛
@@ -508,7 +508,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162629
   default_thread_id: 1558574532
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162629/35162629.4240127
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35162629/35162629.4240127
 - !ruby/hash:EpisodeHash
   episode_no: 第311話
   title: ナツノココロ
@@ -521,7 +521,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198123
   default_thread_id: 1559268482
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198123/35198123.52260155
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198123/35198123.52260155
 - !ruby/hash:EpisodeHash
   episode_no: 第312話
   title: 白影竜のスティング
@@ -534,7 +534,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230133
   default_thread_id: 1559872337
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230133/35230133.65285080
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230133/35230133.65285080
 - !ruby/hash:EpisodeHash
   episode_no: 第313話
   title: 竜の種
@@ -547,7 +547,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35261065
   default_thread_id: 1560474668
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261065/35261065.50291737
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35261065/35261065.50291737
 - !ruby/hash:EpisodeHash
   episode_no: 第314話
   title: 極限付加術（マスターエンチャント）
@@ -560,7 +560,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35292198
   default_thread_id: 1561079944
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35292198/35292198.37610780
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35292198/35292198.37610780
 - !ruby/hash:EpisodeHash
   episode_no: 第315話
   title: 竜か悪魔か
@@ -573,7 +573,20 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35319829
   default_thread_id: 1561598592
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35319829/35319829.26219962
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35319829/35319829.26219962
+- !ruby/hash:EpisodeHash
+  episode_no: 第316話
+  title: グレイの切り札
+  description: ユニバースワンが解除され、マグノリアはあるべき姿を取り戻した。各地に散らばりながらも勝利への手ごたえを感じた妖精の面々は、軍師メイビスによる指揮の下、ギルドへの道を突き進む。しかし、そんな彼らを静かに見据えていた男がいた。その名は、12（トゥエルブ）筆頭、「厄災」の異名を持つオーガストだった。<br><br>ナツ:柿原徹也／ルーシィ:平野
+    綾／ハッピー:釘宮理恵／グレイ:中村悠一／エルザ:大原さやか／ウェンディ:佐藤聡美／シャルル:堀江由衣／マカロフ:辻 親八／ミラジェーン:小野涼子／ガジル:羽多野
+    渉／パンサーリリー:東地宏樹／ジュビア:中原麻衣／ラクサス:小西克幸／メイビス:能登麻美子／ゼレフ:石田 彰  ほか<br><br>原作:真島ヒロ（講談社「週刊少年マガジン」所載）／監督:石平信司／シリーズ構成:十川誠志／キャラクターデザイン:竹内進二
+    / 佐野聡彦／総作画監督:佐野聡彦 / 中山初絵 / 森本由布希 / 福島 勇／デザインワークス:黒崎隼人／美術監督:川口正明／美術設定:川井 憲／色彩設計:川上善美／撮影監督:岩崎
+    敦／編集:邊見俊夫／音響監督:はたしょう二／音楽:高梨康治／アニメーション制作:A-1 Pictures / ブリッジ／製作:フェアリーテイル製作委員会<br><br>©真島ヒロ・講談社／フェアリーテイル製作委員会・テレビ東京<br><br>so35319829←前話　第一話→so33963152
+  length_seconds: 1430
+  content_id: so35356501
+  default_thread_id: 1562292248
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35356501/35356501.58056954
 cast: "[キャスト]<br>ナツ:柿原徹也／ルーシィ:平野 綾／ハッピー:釘宮理恵／グレイ:中村悠一／エルザ:大原さやか／ウェンディ:佐藤聡美／シャルル:堀江由衣／マカロフ:辻
   親八／ミラジェーン:小野涼子／ガジル:羽多野 渉／パンサーリリー:東地宏樹／ジュビア:中原麻衣／ラクサス:小西克幸／メイビス:能登麻美子／ゼレフ:石田 彰 ほか"
 staff: "[スタッフ]<br>原作:真島ヒロ（講談社「週刊少年マガジン」所載）／監督:石平信司／シリーズ構成:十川誠志／キャラクターデザイン:竹内進二 / 佐野聡彦／総作画監督:佐野聡彦
