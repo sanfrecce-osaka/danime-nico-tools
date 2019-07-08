@@ -95,7 +95,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852641
   default_thread_id: 1553575270
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852641.98898
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852641/34852641.74853307
 - !ruby/hash:EpisodeHash
   episode_no: ページ2
   title: 少年の誓い
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852640
   default_thread_id: 1553575262
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852640.52003
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852640/34852640.89421501
 - !ruby/hash:EpisodeHash
   episode_no: ページ3
   title: クローバー王国、王都へ！
@@ -122,7 +122,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852639
   default_thread_id: 1553575275
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852639.29513
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852639/34852639.80065064
 - !ruby/hash:EpisodeHash
   episode_no: ページ4
   title: 魔法騎士団入団試験
@@ -135,7 +135,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852638
   default_thread_id: 1553575283
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852638.59663
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852638/34852638.36504827
 - !ruby/hash:EpisodeHash
   episode_no: ページ5
   title: 魔法帝への道
@@ -148,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852637
   default_thread_id: 1553575271
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852637.42333
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852637/34852637.85718466
 - !ruby/hash:EpisodeHash
   episode_no: ページ6
   title: 黒の暴牛
@@ -162,7 +162,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852602
   default_thread_id: 1553574736
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852602.43363
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852602/34852602.71009261
 - !ruby/hash:EpisodeHash
   episode_no: ページ7
   title: もう一人の新入団員
@@ -175,7 +175,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852601
   default_thread_id: 1553574734
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852601.31198
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852601/34852601.36134494
 - !ruby/hash:EpisodeHash
   episode_no: ページ8
   title: ゴーゴー初任務
@@ -188,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852509
   default_thread_id: 1553573343
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852509.95826
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852509/34852509.15800376
 - !ruby/hash:EpisodeHash
   episode_no: ページ9
   title: 獣（けもの）
@@ -201,7 +201,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852600
   default_thread_id: 1553574732
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852600.11722
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852600/34852600.23161777
 - !ruby/hash:EpisodeHash
   episode_no: ページ10
   title: 護る者（まもるもの）
@@ -214,7 +214,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852599
   default_thread_id: 1553574730
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852599.64965
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852599/34852599.44653144
 - !ruby/hash:EpisodeHash
   episode_no: ページ11
   title: とある日の城下町での出来事
@@ -227,7 +227,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852598
   default_thread_id: 1553574740
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852598.20156
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852598/34852598.50354703
 - !ruby/hash:EpisodeHash
   episode_no: ページ12
   title: 魔法帝は見た
@@ -240,7 +240,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852468
   default_thread_id: 1553572875
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852468.62175
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852468/34852468.23567683
 - !ruby/hash:EpisodeHash
   episode_no: ページ13
   title: 続・魔法帝は見た
@@ -253,7 +253,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852597
   default_thread_id: 1553574739
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852597.49966
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852597/34852597.11342333
 - !ruby/hash:EpisodeHash
   episode_no: ページ14
   title: 魔宮（ダンジョン）
@@ -266,7 +266,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852596
   default_thread_id: 1553574744
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852596.57283
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852596/34852596.56053591
 - !ruby/hash:EpisodeHash
   episode_no: ページ15
   title: ダイヤモンドの魔導戦士
@@ -279,7 +279,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852594
   default_thread_id: 1553574727
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852594.67028
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852594/34852594.82979410
 - !ruby/hash:EpisodeHash
   episode_no: ページ16
   title: 仲間
@@ -292,7 +292,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852593
   default_thread_id: 1553574728
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852593.92699
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852593/34852593.56854335
 - !ruby/hash:EpisodeHash
   episode_no: ページ17
   title: 破壊者
@@ -305,7 +305,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852555
   default_thread_id: 1553574302
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852555.21843
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852555/34852555.20785141
 - !ruby/hash:EpisodeHash
   episode_no: ページ18
   title: 追憶の君
@@ -318,7 +318,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852547
   default_thread_id: 1553574004
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852547.75475
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852547/34852547.78977935
 - !ruby/hash:EpisodeHash
   episode_no: ページ19
   title: 崩壊と救済
@@ -331,7 +331,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852548
   default_thread_id: 1553574012
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852548.18861
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852548/34852548.33143029
 - !ruby/hash:EpisodeHash
   episode_no: ページ20
   title: 王都集結
@@ -344,7 +344,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852549
   default_thread_id: 1553573822
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852549.77514
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852549/34852549.15511069
 - !ruby/hash:EpisodeHash
   episode_no: ページ21
   title: 王都騒乱
@@ -357,7 +357,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852510
   default_thread_id: 1553573346
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852510.50227
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852510/34852510.64620224
 - !ruby/hash:EpisodeHash
   episode_no: ページ22
   title: 魔法乱舞
@@ -370,7 +370,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852511
   default_thread_id: 1553573466
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852511.35535
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852511/34852511.29011001
 - !ruby/hash:EpisodeHash
   episode_no: ページ23
   title: 紅蓮の獅子王
@@ -383,7 +383,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852512
   default_thread_id: 1553573344
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852512.91487
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852512/34852512.8648753
 - !ruby/hash:EpisodeHash
   episode_no: ページ24
   title: ブラックアウト
@@ -396,7 +396,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852513
   default_thread_id: 1553573467
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852513.2415
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852513/34852513.37733417
 - !ruby/hash:EpisodeHash
   episode_no: ページ25
   title: 逆境
@@ -409,7 +409,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852469
   default_thread_id: 1553572802
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852469.55775
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852469/34852469.36743583
 - !ruby/hash:EpisodeHash
   episode_no: ページ26
   title: 手負いの獣
@@ -422,7 +422,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852470
   default_thread_id: 1553572870
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852470.42746
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852470/34852470.75439815
 - !ruby/hash:EpisodeHash
   episode_no: ページ27
   title: 光
@@ -435,7 +435,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852471
   default_thread_id: 1553572804
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852471.23262
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852471/34852471.53696456
 - !ruby/hash:EpisodeHash
   episode_no: ページ28
   title: 心に決めた人
@@ -448,7 +448,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852472
   default_thread_id: 1553572750
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852472.49308
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852472/34852472.39005794
 - !ruby/hash:EpisodeHash
   episode_no: ページ29
   title: 道
@@ -461,7 +461,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852473
   default_thread_id: 1553572751
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852473.51826
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852473/34852473.66832930
 - !ruby/hash:EpisodeHash
   episode_no: ページ30
   title: 鏡の魔道士
@@ -474,7 +474,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852474
   default_thread_id: 1553572753
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852474.30393
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852474/34852474.27985914
 - !ruby/hash:EpisodeHash
   episode_no: ページ31
   title: 雪上の追跡
@@ -487,7 +487,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852475
   default_thread_id: 1553572742
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852475.8727
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852475/34852475.76022997
 - !ruby/hash:EpisodeHash
   episode_no: ページ32
   title: 三つ葉の芽
@@ -500,7 +500,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852476
   default_thread_id: 1553572747
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852476.93422
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852476/34852476.94828743
 - !ruby/hash:EpisodeHash
   episode_no: ページ33
   title: いつか誰かの為になる
@@ -513,7 +513,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852550
   default_thread_id: 1553574011
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852550.58427
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852550/34852550.78192771
 - !ruby/hash:EpisodeHash
   episode_no: ページ34
   title: 光魔法VS闇魔法
@@ -526,7 +526,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852551
   default_thread_id: 1553574002
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852551.92289
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852551/34852551.41072746
 - !ruby/hash:EpisodeHash
   episode_no: ページ35
   title: 裁きの光
@@ -539,7 +539,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852552
   default_thread_id: 1553574067
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852552.8852
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852552/34852552.55126082
 - !ruby/hash:EpisodeHash
   episode_no: ページ36
   title: 三つの眼
@@ -552,7 +552,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852553
   default_thread_id: 1553574008
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852553.60038
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852553/34852553.82806902
 - !ruby/hash:EpisodeHash
   episode_no: ページ37
   title: 魔力無き者
@@ -565,7 +565,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852554
   default_thread_id: 1553574065
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852554.37064
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852554/34852554.67049004
 - !ruby/hash:EpisodeHash
   episode_no: ページ38
   title: 魔法騎士団団長会議
@@ -578,7 +578,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852592
   default_thread_id: 1553574743
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852592.9242
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852592/34852592.10096605
 - !ruby/hash:EpisodeHash
   episode_no: ページ39
   title: 三つ葉の敬礼
@@ -591,7 +591,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852636
   default_thread_id: 1553575273
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852636.7599
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852636/34852636.69431337
 - !ruby/hash:EpisodeHash
   episode_no: ページ40
   title: 黒の海岸物語
@@ -604,7 +604,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852635
   default_thread_id: 1553575278
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852635.47797
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852635/34852635.68413879
 - !ruby/hash:EpisodeHash
   episode_no: ページ41
   title: 水の娘成長物語
@@ -617,7 +617,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851925
   default_thread_id: 1553566458
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851925.43740
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851925/34851925.72932664
 - !ruby/hash:EpisodeHash
   episode_no: ページ42
   title: 海底神殿
@@ -630,7 +630,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851924
   default_thread_id: 1553566442
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851924.17906
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851924/34851924.2871210
 - !ruby/hash:EpisodeHash
   episode_no: ページ43
   title: 神殿バトルロワイヤル
@@ -643,7 +643,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851922
   default_thread_id: 1553566322
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851922.46263
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851922/34851922.4923478
 - !ruby/hash:EpisodeHash
   episode_no: ページ44
   title: 愚直な火球と奔放な稲妻
@@ -656,7 +656,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851921
   default_thread_id: 1553566448
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851921.30702
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851921/34851921.67340934
 - !ruby/hash:EpisodeHash
   episode_no: ページ45
   title: 諦めの悪い男
@@ -669,7 +669,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851920
   default_thread_id: 1553566590
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851920.65798
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851920/34851920.87181301
 - !ruby/hash:EpisodeHash
   episode_no: ページ46
   title: 覚醒
@@ -682,7 +682,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851919
   default_thread_id: 1553566505
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851919.39378
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851919/34851919.74366009
 - !ruby/hash:EpisodeHash
   episode_no: ページ47
   title: 唯一の武器
@@ -696,7 +696,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851918
   default_thread_id: 1553566618
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851918.21813
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851918/34851918.55154729
 - !ruby/hash:EpisodeHash
   episode_no: ページ48
   title: 絶望ＶＳ（バーサス）希望
@@ -710,7 +710,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851917
   default_thread_id: 1553566680
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851917.31956
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851917/34851917.35797416
 - !ruby/hash:EpisodeHash
   episode_no: ページ49
   title: 限界の先
@@ -724,7 +724,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851916
   default_thread_id: 1553566503
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851916.17293
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851916/34851916.62631044
 - !ruby/hash:EpisodeHash
   episode_no: ページ50
   title: 戦いの果て　絶望の終わり
@@ -737,7 +737,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851915
   default_thread_id: 1553566509
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851915.32280
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851915/34851915.86239764
 - !ruby/hash:EpisodeHash
   episode_no: ページ51
   title: 正しさの証明
@@ -750,7 +750,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851914
   default_thread_id: 1553566456
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851914.34959
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851914/34851914.26524523
 - !ruby/hash:EpisodeHash
   episode_no: ページ52
   title: 強い方が勝つ
@@ -763,7 +763,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851913
   default_thread_id: 1553566331
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851913.1484
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851913/34851913.10601527
 - !ruby/hash:EpisodeHash
   episode_no: ページ53
   title: 仮面の奥
@@ -776,7 +776,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851912
   default_thread_id: 1553566450
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851912.99956
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851912/34851912.87446130
 - !ruby/hash:EpisodeHash
   episode_no: ページ54
   title: もう二度と
@@ -789,7 +789,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851911
   default_thread_id: 1553566454
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851911.37840
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851911/34851911.79869009
 - !ruby/hash:EpisodeHash
   episode_no: ページ55
   title: ファンゼルという男
@@ -803,7 +803,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851910
   default_thread_id: 1553566327
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851910.46031
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851910/34851910.51631622
 - !ruby/hash:EpisodeHash
   episode_no: ページ56
   title: 続・ファンゼルという男
@@ -817,7 +817,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851909
   default_thread_id: 1553566324
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851909.67169
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851909/34851909.51267058
 - !ruby/hash:EpisodeHash
   episode_no: ページ57
   title: 潜入
@@ -830,7 +830,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851908
   default_thread_id: 1553566460
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851908.33132
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851908/34851908.17879292
 - !ruby/hash:EpisodeHash
   episode_no: ページ58
   title: 戦場の決断
@@ -844,7 +844,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851926
   default_thread_id: 1553566446
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851926.97510
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851926/34851926.43999585
 - !ruby/hash:EpisodeHash
   episode_no: ページ59
   title: 憎悪の炎
@@ -857,7 +857,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851927
   default_thread_id: 1553566511
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851927.65056
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851927/34851927.56546010
 - !ruby/hash:EpisodeHash
   episode_no: ページ60
   title: 離反者の贖罪
@@ -870,7 +870,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852675
   default_thread_id: 1553576223
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852675.15566
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852675/34852675.57193343
 - !ruby/hash:EpisodeHash
   episode_no: ''
   title: JSAF2018スペシャルアニメ「オール魔法騎士感謝祭」
@@ -883,7 +883,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852703
   default_thread_id: 1553576642
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852703.28719
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852703/34852703.99365696
 - !ruby/hash:EpisodeHash
   episode_no: ページ61
   title: 約束の世界
@@ -896,7 +896,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852737
   default_thread_id: 1553576942
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852737.78077
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852737/34852737.79157730
 - !ruby/hash:EpisodeHash
   episode_no: ページ62
   title: 高め合う存在
@@ -909,7 +909,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852738
   default_thread_id: 1553577002
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852738.64716
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852738/34852738.47506243
 - !ruby/hash:EpisodeHash
   episode_no: ページ63
   title: 何でも無い
@@ -922,7 +922,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852739
   default_thread_id: 1553577062
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852739.19021
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852739/34852739.77985741
 - !ruby/hash:EpisodeHash
   episode_no: ページ64
   title: 運命の赤い糸
@@ -935,7 +935,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852817
   default_thread_id: 1553578391
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852817.87377
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852817/34852817.23373761
 - !ruby/hash:EpisodeHash
   episode_no: ページ65
   title: ただいま
@@ -948,7 +948,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852818
   default_thread_id: 1553578393
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852818.97033
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852818/34852818.71777191
 - !ruby/hash:EpisodeHash
   episode_no: ページ66
   title: 白夜の魔眼のひみつ
@@ -961,7 +961,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852819
   default_thread_id: 1553578382
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852819.92815
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852819/34852819.13181710
 - !ruby/hash:EpisodeHash
   episode_no: ページ67
   title: 楽しいお祭りＷデート
@@ -974,7 +974,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852820
   default_thread_id: 1553578385
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852820.40538
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852820/34852820.96887654
 - !ruby/hash:EpisodeHash
   episode_no: ページ68
   title: 死闘!? ヤミVSジャック
@@ -987,7 +987,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852821
   default_thread_id: 1553578395
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852821.22953
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852821/34852821.85601975
 - !ruby/hash:EpisodeHash
   episode_no: ページ69
   title: 荊乙女の憂鬱
@@ -1000,7 +1000,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852822
   default_thread_id: 1553578386
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852822.75700
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852822/34852822.99305498
 - !ruby/hash:EpisodeHash
   episode_no: ページ70
   title: 二つの新星
@@ -1013,7 +1013,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852823
   default_thread_id: 1553578397
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852823.74222
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852823/34852823.46587770
 - !ruby/hash:EpisodeHash
   episode_no: ページ71
   title: 無冠無敗の女獅子（おんなしし）
@@ -1027,7 +1027,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852962
   default_thread_id: 1553579942
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852962.2066
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852962/34852962.20516103
 - !ruby/hash:EpisodeHash
   episode_no: ページ72
   title: セントエルモの火
@@ -1041,7 +1041,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34852693
   default_thread_id: 1553576644
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34852693.79959
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34852693/34852693.99911057
 - !ruby/hash:EpisodeHash
   episode_no: ページ73
   title: 王撰騎士団（ロイヤルナイツ）選抜試験
@@ -1054,7 +1054,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851930
   default_thread_id: 1553566203
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851930.32148
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851930/34851930.63187646
 - !ruby/hash:EpisodeHash
   episode_no: ページ74
   title: 誓いの花
@@ -1067,7 +1067,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851929
   default_thread_id: 1553566627
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851929.64629
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851929/34851929.26045376
 - !ruby/hash:EpisodeHash
   episode_no: ページ75
   title: 激戦
@@ -1080,7 +1080,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851928
   default_thread_id: 1553566452
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851928.42108
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851928/34851928.40123428
 - !ruby/hash:EpisodeHash
   episode_no: ページ76
   title: 魔道士Ｘ（エックス）
@@ -1088,12 +1088,197 @@ episodes: !ruby/array:Hashie::Array
     岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
     奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
     一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
-    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so34851928←前話　第一話→so34852641"
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so34851928←前話｜次話→so34896820　第一話→so34852641"
   length_seconds: 1430
   content_id: so34851907
   default_thread_id: 1553566329
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=34851907.38981
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851907/34851907.53666600
+- !ruby/hash:EpisodeHash
+  episode_no: ページ77
+  title: 因縁
+  description: "“金色の夜明け”団のクラウスと“碧の野薔薇”団のプーリ・エンジェルとチームを組むラックの試合が始まった。　心配性のクラウスは、バトルマニアのラックの暴走や楽観的でハイテンションなプーリに不安を抱くが、三人は互いに協力しあって好勝負を繰り広げてゆく。そして、ユノ、ノエル、“翠緑の蟷螂”団のエン・リンガードは、ユノを敵視する
+    “金色の夜明け”団のアレクドラ・サンドラー、妹ノエルを蔑む兄で、“銀翼の大鷲（ぎんよく　の　おおわし）”団のソリドたちと戦う一回戦最終試合に挑む！<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so34851907←前話｜次話→so34913136　第一話→so34852641"
+  length_seconds: 1430
+  content_id: so34896820
+  default_thread_id: 1554169204
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34896820/34896820.4473632
+- !ruby/hash:EpisodeHash
+  episode_no: ページ78
+  title: 下民（げみん）の罠
+  description: 王撰騎士団（ロイヤルナイツ）選抜試験一回戦が終わり、試合は二回戦に突入。アスタ、ミモザ、ザクスのチームＶＳマグナ、キルシュ、ソルのチームの戦いが始まった。相変わらずのナルシストぶりで周りを振り回してはいるものの、膨大な魔力を持ち、意外にも戦略家であるキルシュを相手に苦戦すると考えたアスタは、“紅蓮の獅子王”団との合宿後に特訓を積み、自分自身の意志でコントロールできるようになった“ブラックアスタ”の力を解放。キルシュの魔法を打ち破るが……？<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so34896820←前話｜次話→so34977484　第一話→so34852641
+  length_seconds: 1430
+  content_id: so34913136
+  default_thread_id: 1554427942
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34913136/34913136.6589037
+- !ruby/hash:EpisodeHash
+  episode_no: ページ79
+  title: ヤンキー先輩VS筋肉バカ
+  description: ザクスと協力しキルシュの動きを封じたアスタだったが、その目の前にマグナが現れる。もともと独創的で器用に魔法をコントロールできるマグナは、数々の任務と特訓を経て新たな魔法を会得
+    。マグナの新魔法によってアスタたちのチームの魔晶石（クリスタル）はダメージを受けてしまう。焦るアスタだがそんなアスタにザクスは？一方ミモザは、ソルが創り出したゴーレムの中に相手チームの魔晶石（クリスタル）があることを魔法で確かめると、自分自身が考えた作戦を仕掛けることに。<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so34913136←前話｜次話→so35026960　第一話→so34852641
+  length_seconds: 1430
+  content_id: so34977484
+  default_thread_id: 1555377731
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977484/34977484.35030266
+- !ruby/hash:EpisodeHash
+  episode_no: ページ80
+  title: 優等生の弟ＶＳ不出来の兄
+  description: 一回戦を勝ち抜いたフィンラルが、いよいよ弟ランギルスと試合で戦うときがやってきた。相手チームの魔晶石（クリスタル）の破壊を同じチームのレオポルドとハモンに任せたフィンラルは、単身ランギルスに立ち向かうが、幼い頃から魔道士としての才能に恵まれた弟に勝つのは簡単なことではない。それでも闘志を失わず正々堂々と弟に勝負を挑むフィンラルだが、ランギルスのほうはそんな兄の態度に苛立ちと激しい憎悪を募らせてゆき……!?<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so34977484←前話｜次話→so35026976　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35026960
+  default_thread_id: 1556241187
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026960/35026960.98840203
+- !ruby/hash:EpisodeHash
+  episode_no: ページ81
+  title: ある一人の男の生き方
+  description: 魔法帝の判断で試合の順番が変更となり、急遽アスタたちのチームとランギルスたちのチームによる試合が始まった。　激しい憎悪のためか凶々しい魔力を放ち、いつも以上に好戦的な態度を見せるランギルスと、懸命に戦った兄フィンラルをバカにするランギルスへの怒りに燃えるアスタ。アスタに頼まれ援護に回ったザクスは、激闘を続けるアスタを見ながらある人物のことを思い出していた。　一方、魔法帝ユリウスは、以前から気になっていたことを確かめるため、両チームの戦いを静かに見守ることにする。<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35026960←前話｜次話→so35037844　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35026976
+  default_thread_id: 1556241193
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026976/35026976.65332795
+- !ruby/hash:EpisodeHash
+  episode_no: ページ82
+  title: プチット・クローバー！悪夢のチャーミーＳＰ！
+  description: 王撰騎士団（ロイヤルナイツ）選抜試験では、“黒の暴牛”団のメンバーの思いがけない活躍もあり、息をつく暇もないほどの熱戦が続いている。　その頃、“黒の暴牛”団のチャーミーは、憧れの“救食の王子（きゅうしょく　の　おうじ）”ユノやみんなにおいしいものを食べてもらおうと食材を探していたが、食いしん坊のチャーミーは、その最中うっかり毒キノコをかじってしまい、おかしな“夢”を見る羽目に。　夢の世界では、ちっちゃなアスタや仲間たちが暮らしていて――!?大好評の“プチット・クローバー”をたっぷり詰め合わせた特別編!!<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35026976←前話｜次話→so35121571　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35037844
+  default_thread_id: 1556419863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037844/35037844.49270672
+- !ruby/hash:EpisodeHash
+  episode_no: ページ83
+  title: 今、焼き付ける
+  description: ザクス渾身の“カウンター魔法”もランギルスにダメージを与えることができず窮地に立たされたアスタたち。そんなアスタたちを見て勝ち誇るランギルスに
+    、負けられないアスタは、“ブラックアスタ”の力を解放し立ち向かう！　果たしてアスタたちは、すさまじい魔力を持つランギルスに勝利することができるのか!?そして、白熱の選抜試験は、ラック、クラウス、プーリと“水色の幻鹿（みずいろ　の　げんろく）”団の団長リル・ボワモルティエを擁する“Ｉチーム”との対戦、さらにユノ、ノエル、エンの二回戦へと続いてゆく――。<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35037844←前話｜次話→so35154443　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35121571
+  default_thread_id: 1557797468
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121571/35121571.84808363
+- !ruby/hash:EpisodeHash
+  episode_no: ページ84
+  title: 勝者
+  description: 王撰騎士団（ロイヤルナイツ）選抜試験はついに、ユノ、ノエル、エンのチームＶＳリル擁する“Ｉチーム”による決勝戦へと突入。ノエルとエンに魔晶石（クリスタル）を守る役目を託したユノが、“水色の幻鹿”団の団長リルを相手に新たに手にした力を解放し本気で立ち向かう！　並外れたセンスと魔力を持つふたりの魔法がぶつかり合うすさまじい戦いを誰もが息を呑んで見つめる中、アスタはただひとり、悔しさを噛み締めていた……。<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35121571←前話｜次話→so35186055　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35154443
+  default_thread_id: 1558401603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35154443/35154443.39915926
+- !ruby/hash:EpisodeHash
+  episode_no: ページ85
+  title: 裸の付き合い
+  description: ヤミ団長のひとことで、なぜか“黒の暴牛”団の仲間たちが、そろって大浴場で汗を流すことになった。王撰騎士団（ロイヤルナイツ）選抜試験でユノと戦うことができなかったばかりか、圧倒的な力を見せつけられ放心状態のアスタは気乗りしないが、ヤミ団長はおかまいなしで……。　そんな中、昔のことを思い出したというヤミ団長が、団員たちに、当時まだ魔法騎士団の一団員だったヤミが武者修行先でかかわった事件について話し始める。<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35154443←前話｜次話→so35217715　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35186055
+  default_thread_id: 1559006823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186055/35186055.23293918
+- !ruby/hash:EpisodeHash
+  episode_no: ページ86
+  title: ヤミとヴァンジャンス
+  description: まだ魔法騎士団の一団員だった若き日のヤミが、同時期に入団したヴァンジャンスとともに盗賊に襲撃された村を救ってから数年後、ふたりは魔法帝になったユリウスからある任務を言い渡される。それは、盗賊たちと結託して人々の生活を脅かしている魔法騎士団員を突き止めるというものだった。計画を立て、手分けして任務を行うふたり。そんな中ついにヤミが、ターゲットの盗賊団と遭遇する！<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35186055←前話｜次話→so35261055　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35217715
+  default_thread_id: 1559612403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217715/35217715.3715150
+- !ruby/hash:EpisodeHash
+  episode_no: ページ87
+  title: 王撰騎士団（ロイヤルナイツ）結成
+  description: アスタ、ノエル、ラックの３人が、突然“黒の暴牛”団のアジトを訪れたメレオレオナ団長に連行されてしまった!?　実は３人は王撰騎士団（ロイヤルナイツ）選抜試験の合格者だった。ほかの合格者たちとともに招集されたアスタたちだが、そこには、決勝戦で激闘を繰り広げたユノと“水色の幻鹿”団の団長リルもいた。さらに、“黒の暴牛”団のもうひとりの合格者も遅れて現れるが、それは……？　“銀翼の大鷲”団の団長ノゼルらも急遽メンバーに加わり、王撰騎士団（ロイヤルナイツ）団長となったメレオレオナの下、選ばれし精鋭たちが“白夜の魔眼”殲滅に乗り出す！<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35217715←前話｜次話→so35284356　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35261055
+  default_thread_id: 1560474484
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35261055/35261055.45543226
+- !ruby/hash:EpisodeHash
+  episode_no: ページ88
+  title: 白夜の魔眼アジト　突入!!!
+  description: それぞれの思いを胸に、ついに王撰騎士団（ロイヤルナイツ）が、白夜の魔眼のアジトである、“グラビト岩石帯（がんせきたい）”の“浮遊魔宮（ふゆうダンジョン）”にたどり着いた。メンバーは王撰騎士団（ロイヤルナイツ）団長メレオレオナの指示により、５組に分かれそれぞれ魔宮（ダンジョン）への突入を開始。アスタはメレオレオナ団長と、選抜試験で「ザクス」と名乗っていた“黒の暴牛”団の先輩団員ゾラ・イデアーレとともに奥へと進んで行く。一方、これまで白夜の魔眼によってたびたび苦い思いをしてきた“銀翼の大鷲”団のノゼル団長も、雪辱を誓い先へと進む。<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35261055←前話｜次話→so35315600　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35284356
+  default_thread_id: 1560910331
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35284356/35284356.18708647
+- !ruby/hash:EpisodeHash
+  episode_no: ページ89
+  title: 黒の暴牛アジト
+  description: 王撰騎士団（ロイヤルナイツ）が、敵地、浮遊魔宮（ふゆうダンジョン）への突入を開始した頃、“黒の暴牛”団のアジトが白夜の魔眼のラデス、ヴァルトス、サリーの襲撃を受ける。だが、ヤミ団長をはじめほとんどの団員が出かけており、アジトに残っていたゴーシュ、ゴードン、グレイの３人で戦うことに。ゴーシュは自分の“鏡魔法（かがみ　まほう）”とサリーが使う“ゲル魔法”との相性の悪さが気になるが、大切なアジト守る決意をしたゴードン、グレイと協力し、“裏魔導具（うらまどうぐ）”を駆使するサリーや、パワーアップした“屍霊魔法（しりょう　まほう）”を使うラデスを迎え撃つ！<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35284356←前話｜次話→so35344082　第一話→so34852641
+  length_seconds: 1430
+  content_id: so35315600
+  default_thread_id: 1561512666
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35315600/35315600.59347000
+- !ruby/hash:EpisodeHash
+  episode_no: ページ90
+  title: ムチャクチャな魔法戦
+  description: "“黒の暴牛”団のアジトでの戦いの最中、突如変形したアジトから現れた人物に驚くゴーシュたち。彼こそ“黒の暴牛”団の仲間たちがたびたび噂していた“幽霊”の正体で、この屋敷の本当の主、ヘンリー・レゴラントだった。自分自身の特異な体質に悩まされながらも、魔法でアジトの屋敷を自在に変形、移動させることができるヘンリーが、かつてヤミ団長から渡された“黒の暴牛”団のローブを纏い、見守り続けてきた大切な“仲間”とともに襲撃者たちとの戦いに挑む！<br><br>アスタ:梶原
+    岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野 聡／バネッサ:水樹
+    奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之<br><br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安
+    一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永 久美子／プロップデザイン:髙橋 恒星／美術監督:前田　有紀／撮影監督:國井 智行／色彩設計:篠原
+    愛子／編集:奥田 浩史／音楽:関 美奈子／音響監督:髙桑 一／アニメーション制作:studioぴえろ／オープニングテーマ:感覚ピエロ「ハルカミライ」／エンディングテーマ:イトヲカシ「蒼い炎」／製作:ブラッククローバー製作委員会<br><br>©田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会<br><br>so35315600←前話｜次話→so35376158　第一話→so34852641"
+  length_seconds: 1430
+  content_id: so35344082
+  default_thread_id: 1562030943
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35344082/35344082.46978696
 cast: "[キャスト]<br>アスタ:梶原 岳人／ユノ:島﨑 信長／ノエル:優木 かな／ヤミ:諏訪部 順一／フィンラル:福山 潤／マグナ:室 元気／ラック:村瀬　歩／ゴーシュ:日野
   聡／バネッサ:水樹 奈々／チャーミー:安野 希世乃／ゴードン:松田 健一郎／ユリウス:森川 智之"
 staff: "[スタッフ]<br>原作:田畠 裕基（「週刊少年ジャンプ」連載）／監督:吉原 達矢／シリーズ構成:筆安 一幸／キャラクターデザイン:竹田 逸子／サブキャラクターデザイン:徳永
