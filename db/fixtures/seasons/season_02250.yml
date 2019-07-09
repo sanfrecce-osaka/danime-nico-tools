@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤聡美
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長
@@ -87,7 +87,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932400
   default_thread_id: 1554686286
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932400/34932400.39740715
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932400/34932400.39740715
 - !ruby/hash:EpisodeHash
   episode_no: "＃２"
   title: みなさんが動物なんです！
@@ -98,7 +98,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932399
   default_thread_id: 1554686294
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932399/34932399.72985862
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932399/34932399.72985862
 - !ruby/hash:EpisodeHash
   episode_no: "＃３"
   title: 大貧民をやりましょう
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932398
   default_thread_id: 1554686344
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932398/34932398.86414645
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932398/34932398.86414645
 - !ruby/hash:EpisodeHash
   episode_no: "＃４"
   title: なにどしの方なのですか？
@@ -120,7 +120,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932397
   default_thread_id: 1554686282
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932397/34932397.90379332
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932397/34932397.90379332
 - !ruby/hash:EpisodeHash
   episode_no: "＃５"
   title: 勘違いをしていました
@@ -131,7 +131,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932396
   default_thread_id: 1554686342
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932396/34932396.60854438
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932396/34932396.60854438
 - !ruby/hash:EpisodeHash
   episode_no: "＃６"
   title: お邪魔させてもらおうかしら
@@ -142,7 +142,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932395
   default_thread_id: 1554686537
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932395/34932395.24995675
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932395/34932395.24995675
 - !ruby/hash:EpisodeHash
   episode_no: "＃７"
   title: 春になりますね
@@ -153,7 +153,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932394
   default_thread_id: 1554686292
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932394/34932394.3474615
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932394/34932394.3474615
 - !ruby/hash:EpisodeHash
   episode_no: "＃８"
   title: 行ってらっしゃい
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017536
   default_thread_id: 1556070663
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017536/35017536.97346155
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017536/35017536.97346155
 - !ruby/hash:EpisodeHash
   episode_no: "＃９"
   title: 由希は俺の初恋だから
@@ -175,7 +175,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017535
   default_thread_id: 1556070735
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017535/35017535.68991655
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017535/35017535.68991655
 - !ruby/hash:EpisodeHash
   episode_no: "＃１０"
   title: だって、バレンタインだもん
@@ -186,7 +186,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017440
   default_thread_id: 1556069051
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017440/35017440.60828277
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017440/35017440.60828277
 - !ruby/hash:EpisodeHash
   episode_no: "＃１１"
   title: とってもステキなお宿です
@@ -197,7 +197,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017439
   default_thread_id: 1556069045
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017439/35017439.24247925
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017439/35017439.24247925
 - !ruby/hash:EpisodeHash
   episode_no: "＃１２"
   title: 楽しそうだね
@@ -209,7 +209,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017426
   default_thread_id: 1556069163
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017426/35017426.71221267
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017426/35017426.71221267
 - !ruby/hash:EpisodeHash
   episode_no: "＃１３"
   title: 元気でいたかな？ 我が弟よっ
@@ -220,7 +220,18 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017427
   default_thread_id: 1556069225
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017427/35017427.72520197
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017427/35017427.72520197
+- !ruby/hash:EpisodeHash
+  episode_no: "＃１４"
+  title: ヒミツだよ
+  description: 透は５月１日に外出してもいいか紫呉に尋ねる。その日は母親の一周忌にあたるのでお墓参りに行きたいというのだ。話を聞いていた由希は一緒に行きたいと申し出るが、夾は黙り込む。草摩の人からは両親の話をあまり聞かないと思った透は、紅葉に両親のどちらがドイツ人かと尋ねる。紅葉は笑顔で「Mutti！」と答えるが……。<br><br>本田透:石見舞菜香／草摩由希:島﨑信長／草摩夾:内田雄馬／草摩紫呉:中村悠一／草摩楽羅:釘宮理恵／草摩紅葉:潘めぐみ／草摩潑春:古川慎／草摩はとり:興津和幸／草摩綾女:櫻井孝宏／草摩慊人:坂本真綾／魚谷ありさ:種﨑敦美／花島咲:佐藤聡美／本田今日子:沢城みゆき
+    ほか<br><br>原作・総監修:高屋奈月「フルーツバスケット」（白泉社・花とゆめCOMICS）／監督:井端義秀／シリーズ構成:岸本 卓／キャラクターデザイン:進藤
+    優／美術監督:神山瑶子／色彩設計:菅原美佳／撮影監督:設楽 希／編集:肥田 文／音響監督:明田川 仁／音楽:横山 克／音楽制作:トムス・ミュージック／アニメーション制作:トムス・エンタテインメント／製作:フルーツバスケット製作委員会<br><br>©高屋奈月・白泉社／フルーツバスケット製作委員会<br><br>so35017427←前話　第一話→so34932400
+  length_seconds: 1430
+  content_id: so35017428
+  default_thread_id: 1556068982
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017428/35017428.73396005
 cast: "[キャスト]<br>本田透:石見舞菜香／草摩由希:島﨑信長／草摩夾:内田雄馬／草摩紫呉:中村悠一／草摩楽羅:釘宮理恵／草摩紅葉:潘めぐみ／草摩潑春:古川慎／草摩はとり:興津和幸／草摩綾女:櫻井孝宏／草摩慊人:坂本真綾／魚谷ありさ:種﨑敦美／花島咲:佐藤聡美／本田今日子:沢城みゆき
   ほか"
 staff: "[スタッフ]<br>原作・総監修:高屋奈月「フルーツバスケット」（白泉社・花とゆめCOMICS）／監督:井端義秀／シリーズ構成:岸本 卓／キャラクターデザイン:進藤

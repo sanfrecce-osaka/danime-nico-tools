@@ -92,7 +92,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34913720
   default_thread_id: 1554440462
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34913720/34913720.60861658
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34913720/34913720.60861658
 - !ruby/hash:EpisodeHash
   episode_no: 第二話
   title: 育手・鱗滝左近次
@@ -105,7 +105,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34954673
   default_thread_id: 1555031402
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34954673/34954673.84890522
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34954673/34954673.84890522
 - !ruby/hash:EpisodeHash
   episode_no: 第三話
   title: 錆兎と真菰
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992212
   default_thread_id: 1555636328
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992212/34992212.49641489
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992212/34992212.49641489
 - !ruby/hash:EpisodeHash
   episode_no: 第四話
   title: 最終選別
@@ -131,7 +131,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022069
   default_thread_id: 1556154963
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022069/35022069.75656595
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022069/35022069.75656595
 - !ruby/hash:EpisodeHash
   episode_no: 第五話
   title: 己の鋼
@@ -144,7 +144,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022070
   default_thread_id: 1556154662
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022070/35022070.29734636
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022070/35022070.29734636
 - !ruby/hash:EpisodeHash
   episode_no: 第六話
   title: 鬼を連れた剣士
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35102419
   default_thread_id: 1557451564
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35102419/35102419.31910906
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35102419/35102419.31910906
 - !ruby/hash:EpisodeHash
   episode_no: 第七話
   title: 鬼舞辻無慘
@@ -170,7 +170,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134427
   default_thread_id: 1558055471
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134427/35134427.48354877
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35134427/35134427.48354877
 - !ruby/hash:EpisodeHash
   episode_no: 第八話
   title: 幻惑の血の香り
@@ -183,7 +183,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35163529
   default_thread_id: 1558595886
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35163529/35163529.19036766
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35163529/35163529.19036766
 - !ruby/hash:EpisodeHash
   episode_no: 第九話
   title: 手毬鬼と矢印鬼
@@ -196,7 +196,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198119
   default_thread_id: 1559266085
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198119/35198119.68021077
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198119/35198119.68021077
 - !ruby/hash:EpisodeHash
   episode_no: 第十話
   title: ずっと一緒にいる
@@ -209,7 +209,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35225881
   default_thread_id: 1559785329
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35225881/35225881.45789934
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35225881/35225881.45789934
 - !ruby/hash:EpisodeHash
   episode_no: 第十一話
   title: 鼓の屋敷
@@ -222,7 +222,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35256979
   default_thread_id: 1560388337
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35256979/35256979.58652734
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35256979/35256979.58652734
 - !ruby/hash:EpisodeHash
   episode_no: 第十二話
   title: 猪は牙を剥き　善逸は眠る
@@ -235,7 +235,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35292199
   default_thread_id: 1561080134
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35292199/35292199.36567033
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35292199/35292199.36567033
 - !ruby/hash:EpisodeHash
   episode_no: 第十三話
   title: 命より大事なもの
@@ -248,7 +248,20 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35324157
   default_thread_id: 1561684869
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35324157/35324157.47799806
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35324157/35324157.47799806
+- !ruby/hash:EpisodeHash
+  episode_no: 第十四話
+  title: 藤の花の家紋の家
+  description: 死闘の末、響凱との戦いに勝った炭治郎。屋敷の外へ出ると、先に脱出していた善逸と出会う。だが、襧豆子の入った木箱を抱えボロボロになった善逸、そして二刃の日輪刀を抜いた猪頭を被った男が立ちはだかる異様な状況を目の前にする―。<br><br>竈門炭治郎:花江夏樹／竈門襧豆子:鬼頭明里／我妻善逸:下野
+    紘／嘴平伊之助:松岡禎丞／冨岡義勇:櫻井孝宏／鱗滝左近次:大塚芳忠／錆兎:梶 裕貴／真菰:加隈亜衣／玄弥:岡本信彦／産屋敷耀哉:森川智之／案内役・黒髪:悠木
+    碧／案内役・白髪:井澤詩織／鋼鐡塚:浪川大輔／鎹鴉:山崎たくみ／お堂の鬼:緑川 光／手鬼:子安武人<br><br>原作:吾峠呼世晴（集英社「週刊少年ジャンプ」連載）／監督:外崎春雄／キャラクターデザイン:松島
+    晃／サブキャラクターデザイン:佐藤美幸、梶山庸子、菊池美花／脚本制作:ufotable／コンセプトアート:衛藤功仁、矢中勝、竹内香純、樺澤侑里／撮影監督:寺尾優一／3D
+    監督:西脇一樹／色彩設計:大前祐子／編集:神野 学／音楽:梶浦由記、椎名 豪／制作プロデューサー:近藤 光／アニメーション制作:ufotable<br><br>©吾峠呼世晴／集英社・アニプレックス・ufotable<br><br>so35324157←前話　第一話→so34913720
+  length_seconds: 1420
+  content_id: so35352300
+  default_thread_id: 1562203810
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35352300/35352300.91793395
 cast: "[キャスト]<br>竈門炭治郎:花江夏樹／竈門襧豆子:鬼頭明里／我妻善逸:下野 紘／嘴平伊之助:松岡禎丞／冨岡義勇:櫻井孝宏／鱗滝左近次:大塚芳忠／錆兎:梶
   裕貴／真菰:加隈亜衣／玄弥:岡本信彦／産屋敷耀哉:森川智之／案内役・黒髪:悠木 碧／案内役・白髪:井澤詩織／鋼鐡塚:浪川大輔／鎹鴉:山崎たくみ／お堂の鬼:緑川
   光／手鬼:子安武人"

@@ -28,7 +28,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32588496
   default_thread_id: 1515999029
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32588496/32588496.52672932
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32588496/32588496.52672932
 - !ruby/hash:EpisodeHash
   episode_no: "＃2"
   title: 女子より仲間！？/家族改造プログラム
@@ -37,7 +37,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32587766
   default_thread_id: 1515980962
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32587766/32587766.20333420
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32587766/32587766.20333420
 - !ruby/hash:EpisodeHash
   episode_no: "＃3"
   title: 誰の責任？/ドレスのアイドル！？
@@ -46,7 +46,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32606424
   default_thread_id: 1516327173
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32606424/32606424.84487588
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32606424/32606424.84487588
 - !ruby/hash:EpisodeHash
   episode_no: "＃4"
   title: 究極のぐうたら対決/壮絶！食べすぎゴースト
@@ -55,7 +55,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32606534
   default_thread_id: 1516328843
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32606534/32606534.46229308
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32606534/32606534.46229308
 - !ruby/hash:EpisodeHash
   episode_no: "＃5"
   title: 真犯人を捜せ！/やりすぎイタズラ合戦
@@ -65,7 +65,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32691318
   default_thread_id: 1517792385
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32691318/32691318.85044811
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32691318/32691318.85044811
 - !ruby/hash:EpisodeHash
   episode_no: "＃6"
   title: 空手マスタードの夢/キョーフのキス！！
@@ -74,7 +74,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32709554
   default_thread_id: 1518138993
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32709554/32709554.98946063
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32709554/32709554.98946063
 - !ruby/hash:EpisodeHash
   episode_no: "＃7"
   title: あこがれのハイスクール・パーティ！/返品大騒動！
@@ -83,7 +83,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32762356
   default_thread_id: 1519002993
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32762356/32762356.97078030
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32762356/32762356.97078030
 - !ruby/hash:EpisodeHash
   episode_no: "＃8"
   title: ホンモノはどっち？/恐怖のサバイバル・ピクニック
@@ -93,7 +93,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32798039
   default_thread_id: 1519608097
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32798039/32798039.69098964
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32798039/32798039.69098964
 - !ruby/hash:EpisodeHash
   episode_no: "＃9"
   title: おバカさん対決！/ヒ・ミ・ツ！！
@@ -103,7 +103,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32835730
   default_thread_id: 1520216321
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32835730/32835730.25553673
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32835730/32835730.25553673
 - !ruby/hash:EpisodeHash
   episode_no: "＃10"
   title: 正直とウソの勉強/ダーウィンは天才？
@@ -113,7 +113,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32872472
   default_thread_id: 1520816900
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32872472/32872472.33391983
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32872472/32872472.33391983
 - !ruby/hash:EpisodeHash
   episode_no: "＃11"
   title: 大人サプリメント！/ガムボールの初デート？
@@ -123,7 +123,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32909357
   default_thread_id: 1521421709
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32909357/32909357.75360741
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32909357/32909357.75360741
 - !ruby/hash:EpisodeHash
   episode_no: "＃12"
   title: のけものクラブの復讐/魔法使いリチャード！？
@@ -134,7 +134,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32947625
   default_thread_id: 1522026405
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/32947625/32947625.2208441
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32947625/32947625.2208441
 - !ruby/hash:EpisodeHash
   episode_no: "＃13"
   title: ミス・シーミアンの友達作戦/ミスター・ロビンソンの苦悩
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33004478
   default_thread_id: 1522917336
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33004478/33004478.8196258
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33004478/33004478.8196258
 - !ruby/hash:EpisodeHash
   episode_no: "＃14"
   title: お兄ちゃん、デイジーを取りかえして！/ママの誕生日とスプーン強盗
@@ -155,7 +155,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33004479
   default_thread_id: 1522917341
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33004479/33004479.87815155
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33004479/33004479.87815155
 - !ruby/hash:EpisodeHash
   episode_no: "＃15"
   title: ミスター・ロビンソンの車のナゾ/とてもアンラッキーな１日
@@ -166,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33095939
   default_thread_id: 1524447339
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33095939/33095939.18164024
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33095939/33095939.18164024
 - !ruby/hash:EpisodeHash
   episode_no: "＃16"
   title: 人食いモンスター、ケネス/余計なことしないで、ママ
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33101881
   default_thread_id: 1524559620
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33101881/33101881.37420034
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33101881/33101881.37420034
 - !ruby/hash:EpisodeHash
   episode_no: "＃17"
   title: ヘルメット争奪戦！/対決！ティナVSガムボール
@@ -188,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33419786
   default_thread_id: 1529890774
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33419786/33419786.69015735
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33419786/33419786.69015735
 - !ruby/hash:EpisodeHash
   episode_no: "＃18"
   title: 世界の終わり！？/覚悟を決めて！？
@@ -199,7 +199,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33480201
   default_thread_id: 1530867308
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33480201/33480201.62598459
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33480201/33480201.62598459
 - !ruby/hash:EpisodeHash
   episode_no: "＃19"
   title: ペニー姫は渡さない！/巨人ヘクターと友達リクエスト
@@ -209,7 +209,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33480203
   default_thread_id: 1530867306
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33480203/33480203.6162359
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33480203/33480203.6162359
 - !ruby/hash:EpisodeHash
   episode_no: "＃20"
   title: 勝ち組サバイバル/リモコン争奪戦
@@ -219,7 +219,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33796327
   default_thread_id: 1535941882
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33796327/33796327.70577593
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33796327/33796327.70577593
 - !ruby/hash:EpisodeHash
   episode_no: "＃21"
   title: やきもちガムボール/正義のペン
@@ -229,7 +229,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33796328
   default_thread_id: 1535941982
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33796328/33796328.80537762
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33796328/33796328.80537762
 - !ruby/hash:EpisodeHash
   episode_no: "＃22"
   title: 携帯に夢中！/ええっ、パパが仕事！？
@@ -239,7 +239,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33949340
   default_thread_id: 1538378284
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33949340/33949340.1651681
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33949340/33949340.1651681
 - !ruby/hash:EpisodeHash
   episode_no: "＃23"
   title: お化け屋敷のハロウィーン・パーティ/ワタソン家の秘密の箱
@@ -249,7 +249,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33963148
   default_thread_id: 1538616786
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33963148/33963148.48122491
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33963148/33963148.48122491
 - !ruby/hash:EpisodeHash
   episode_no: "＃24"
   title: 邪悪なダーウィン/ピンチ！ミス・シーミアン
@@ -259,7 +259,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33963159
   default_thread_id: 1538616723
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33963159/33963159.14524438
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33963159/33963159.14524438
 - !ruby/hash:EpisodeHash
   episode_no: "＃25"
   title: ウソつきクレイトン/サンタさんなんていない！？
@@ -269,7 +269,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33963158
   default_thread_id: 1538616543
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33963158/33963158.10833651
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33963158/33963158.10833651
 - !ruby/hash:EpisodeHash
   episode_no: "＃26"
   title: 家宝の時計を取り返せ！/ボバートの24時間ゲーム
@@ -279,7 +279,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34111775
   default_thread_id: 1541121425
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34111775/34111775.79576644
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34111775/34111775.79576644
 - !ruby/hash:EpisodeHash
   episode_no: "＃27"
   title: 最高に幸せになる方法/裏切りっこなし！
@@ -289,7 +289,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34111789
   default_thread_id: 1541121789
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34111789/34111789.7251318
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34111789/34111789.7251318
 - !ruby/hash:EpisodeHash
   episode_no: "＃28"
   title: いい母親はどっち!?/ウイルスの攻撃に気をつけろ！
@@ -299,7 +299,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34263943
   default_thread_id: 1543798869
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34263943/34263943.48514368
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34263943/34263943.48514368
 - !ruby/hash:EpisodeHash
   episode_no: "＃29"
   title: アナイスとの約束/カンペキすぎる愛！？
@@ -309,7 +309,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34263960
   default_thread_id: 1543799584
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34263960/34263960.32476403
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34263960/34263960.32476403
 - !ruby/hash:EpisodeHash
   episode_no: "＃30"
   title: 悪夢のゆくえ/ボスはどっち！？
@@ -319,7 +319,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34263974
   default_thread_id: 1543799586
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34263974/34263974.12405669
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34263974/34263974.12405669
 - !ruby/hash:EpisodeHash
   episode_no: "＃31"
   title: パパはヒーロー！？/かっこいい写真大作戦
@@ -329,7 +329,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34386959
   default_thread_id: 1545959345
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34386959/34386959.38781527
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34386959/34386959.38781527
 - !ruby/hash:EpisodeHash
   episode_no: "＃32"
   title: 仲違いのゆくえ/ボクたち不良？
@@ -339,7 +339,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34386967
   default_thread_id: 1545959347
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34386967/34386967.10315431
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34386967/34386967.10315431
 - !ruby/hash:EpisodeHash
   episode_no: "＃33"
   title: ママ、限界をこえる！/命令ゲームを生きのこれ！
@@ -349,7 +349,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34386966
   default_thread_id: 1545959405
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34386966/34386966.39550513
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34386966/34386966.39550513
 - !ruby/hash:EpisodeHash
   episode_no: "＃34"
   title: バナナ・ジョーとの約束/ナゾの宿敵
@@ -359,7 +359,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34386965
   default_thread_id: 1545959525
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34386965/34386965.6232541
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34386965/34386965.6232541
 - !ruby/hash:EpisodeHash
   episode_no: "＃35"
   title: ジュークの言いたかったこと/ＮＯと言えないパパ
@@ -369,7 +369,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34386964
   default_thread_id: 1545959284
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34386964/34386964.67320309
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34386964/34386964.67320309
 - !ruby/hash:EpisodeHash
   episode_no: "＃36"
   title: みんなのビデオ！/セーター野郎との決闘
@@ -379,7 +379,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34577818
   default_thread_id: 1549242608
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34577818/34577818.15751197
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34577818/34577818.15751197
 - !ruby/hash:EpisodeHash
   episode_no: "＃37"
   title: インターネットの罠/ママを取り返せ！
@@ -389,7 +389,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34577817
   default_thread_id: 1549242725
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34577817/34577817.75527148
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34577817/34577817.75527148
 - !ruby/hash:EpisodeHash
   episode_no: "＃38"
   title: ステキな町、エルモア/ハッピーエンドじゃ終わらない
@@ -399,7 +399,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34577816
   default_thread_id: 1549242603
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34577816/34577816.96409726
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34577816/34577816.96409726
 - !ruby/hash:EpisodeHash
   episode_no: "＃39"
   title: ボクたち、大人！？/サラの幸せのシナリオ
@@ -409,7 +409,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34577815
   default_thread_id: 1549242723
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34577815/34577815.80576012
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34577815/34577815.80576012
 - !ruby/hash:EpisodeHash
   episode_no: "＃40"
   title: 体育のコーチが教えてくれたこと/シアワセの集団感染！
@@ -419,7 +419,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34724970
   default_thread_id: 1551661989
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34724970/34724970.63696643
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34724970/34724970.63696643
 - !ruby/hash:EpisodeHash
   episode_no: "＃41"
   title: アントンの秘密を探れ！/ペットに愛の手を!?
@@ -429,7 +429,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34724983
   default_thread_id: 1551661991
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34724983/34724983.20567945
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34724983/34724983.20567945
 - !ruby/hash:EpisodeHash
   episode_no: "＃42"
   title: ザックという男/ふりむけば僕らが・・・
@@ -439,7 +439,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34724984
   default_thread_id: 1551661873
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34724984/34724984.28536133
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34724984/34724984.28536133
 - !ruby/hash:EpisodeHash
   episode_no: "＃43"
   title: 勘違いの結末/恐怖の家族旅行！
@@ -449,7 +449,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34724985
   default_thread_id: 1551661993
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34724985/34724985.94762794
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34724985/34724985.94762794
 - !ruby/hash:EpisodeHash
   episode_no: "＃44"
   title: ブラウン校長の苦悩/世界から忘れられて
@@ -459,7 +459,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026975
   default_thread_id: 1556241245
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026975/35026975.1366380
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026975/35026975.1366380
 - !ruby/hash:EpisodeHash
   episode_no: "＃45"
   title: ロッキーは哀しきサラリーマン/ウソつきクレイトンの真実
@@ -469,17 +469,27 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026974
   default_thread_id: 1556241189
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026974/35026974.59236275
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026974/35026974.59236275
 - !ruby/hash:EpisodeHash
   episode_no: "＃46"
   title: ドーナツ警官のカッコいい１日/おバカアレルギーをとめて！
   description: "＜ドーナツ警官のカッコいい１日＞ガムボールたちから「警官なんてカッコ悪い」と言われたドーナツ警官は二人にカッコいいところを見せようとするが、どんどんエスカレートしていってしまい…。／＜おバカアレルギーをとめて！＞ダーウィンのくしゃみが朝から止まらない。どうやら誰かがバカなことを言ったりするとそれに反応するおバカアレルギーらしい。とうとうダーウィンをこわすものが何もない砂漠まで連れて行くが…。<br><br>TM
-    &amp; © 2019 Cartoon Network.<br><br>so35026974←前話　第一話→so32588496"
+    &amp; © 2019 Cartoon Network.<br><br>so35026974←前話｜次話→so35371842　第一話→so32588496"
   length_seconds: 1470
   content_id: so35306932
   default_thread_id: 1561339203
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35306932/35306932.30757255
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35306932/35306932.30757255
+- !ruby/hash:EpisodeHash
+  episode_no: "＃47"
+  title: 世界一すばらしいママへ/一番のお気に入りは誰！？
+  description: "＜世界一すばらしいママへ＞母の日。ガムボールたちはトバイアスとバナナジョーとママたちには内緒でママ・バトルを展開することに。ガムボールのママが優勝するが…。／＜一番のお気に入りは誰！？＞パソコンのパスワードのヒントが「お気に入りの子供」で答えが「アナイス」だったことにショックを受けるガムボールたち。２人はパパの一番になりたいと画策するがなかなかうまくいかず…。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so35306932←前話｜次話→so35371865　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so35371842
+  default_thread_id: 1562550791
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371842/35371842.11782464
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []

@@ -79,7 +79,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34890498
   default_thread_id: 1554083946
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34890498/34890498.6349047
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34890498/34890498.6349047
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: バーガーパニック！／ラウディーレッズ
@@ -91,7 +91,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932403
   default_thread_id: 1554686542
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932403/34932403.46274351
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932403/34932403.46274351
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: シンディウス／パートナー
@@ -103,7 +103,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34948886
   default_thread_id: 1554944948
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34948886/34948886.82286677
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34948886/34948886.82286677
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 爆丸禁止令！／ぺガトリクス
@@ -115,7 +115,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992273
   default_thread_id: 1555637942
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992273/34992273.50648355
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992273/34992273.50648355
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 新しいメンバー／爆丸を狩る男！
@@ -127,7 +127,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022112
   default_thread_id: 1556156170
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022112/35022112.85244883
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022112/35022112.85244883
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: おしゃべりアーチュリーン／スター誕生！
@@ -139,7 +139,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022113
   default_thread_id: 1556155935
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022113/35022113.19519225
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022113/35022113.19519225
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: エグジット／とりもどせ！僕たちの場所
@@ -151,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117381
   default_thread_id: 1557710463
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117381/35117381.49760081
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117381/35117381.49760081
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: ルピセオン／どうしたんだ、ダン！？
@@ -163,7 +163,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134437
   default_thread_id: 1558055658
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134437/35134437.38043462
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35134437/35134437.38043462
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: ドロームの光／爆丸家庭教師
@@ -175,7 +175,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162623
   default_thread_id: 1558574533
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162623/35162623.31333443
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35162623/35162623.31333443
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: マグナス／謎のＳＯＳ
@@ -187,7 +187,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35194294
   default_thread_id: 1559179031
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194294/35194294.51431704
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35194294/35194294.51431704
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: カザミからの使者／サムライ・シャルゴ
@@ -199,7 +199,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230137
   default_thread_id: 1559872446
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230137/35230137.97038393
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230137/35230137.97038393
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 真夜中の秘密／シュンは渡さない！
@@ -211,7 +211,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35256993
   default_thread_id: 1560388335
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35256993/35256993.70569622
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35256993/35256993.70569622
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 不敵な挑戦者／巨大な陰謀
@@ -223,7 +223,19 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35287931
   default_thread_id: 1561003446
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287931/35287931.61326771
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35287931/35287931.61326771
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: メイズへ／謎の生命体
+  description: 'ある日、オーサム・ワンはフィダラスという爆丸から、メイズという地下の迷宮に数多くの爆丸が捕まっているという話を聞かされ、救出へと向かう事に。／巨大な地下迷宮・メイズの中で、迷ってしまったダンたちは出口を求めてさまようが、次々と奇想天外なエリアが現れてダンたちは大混乱！<br><br>ダン:高橋李依／ウィントン:福島潤／リア:赤﨑千夏／シュン:内山夕実／ライトニング:金田アキ／マグナス:梶川翔平／ドラゴ:武内駿輔／トゥロックス:堀江瞬／ペガトリクス:名塚佳織／ハイドロス:市川蒼／ハウルカー:神原大地<br><br>原作:SPIN
+    MASTER／原案:杉本 道俊／監督:市川 量也／チーフライター:犬飼 和彦／キャラクターデザイン:髙田 真理／爆丸（モンスター）デザイン:大西 佑希／音響監督:はた
+    しょう二／音楽: 高梨 康治 (Team－MAX)／アニメーション制作:トムス・エンタテインメント／アニメーション制作協力:スタジオ雲雀<br><br>©S/T/N/BBP
+    PROJECT, TV TOKYO<br><br>so35287931←前話　第一話→so34890498'
+  length_seconds: 1480
+  content_id: so35356500
+  default_thread_id: 1562292125
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35356500/35356500.89868019
 cast: "[キャスト]<br>ダン:高橋李依／ウィントン:福島潤／リア:赤﨑千夏／シュン:内山夕実／ライトニング:金田アキ／マグナス:梶川翔平／ドラゴ:武内駿輔／トゥロックス:堀江瞬／ペガトリクス:名塚佳織／ハイドロス:市川蒼／ハウルカー:神原大地"
 staff: "[スタッフ]<br>原作:SPIN MASTER／原案:杉本 道俊／監督:市川 量也／チーフライター:犬飼 和彦／キャラクターデザイン:髙田 真理／爆丸（モンスター）デザイン:大西
   佑希／音響監督:はた しょう二／音楽: 高梨 康治 (Team－MAX)／アニメーション制作:トムス・エンタテインメント／アニメーション制作協力:スタジオ雲雀"

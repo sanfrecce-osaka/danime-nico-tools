@@ -89,7 +89,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34913151
   default_thread_id: 1554427935
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34913151/34913151.76315624
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34913151/34913151.76315624
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: "「へやのそうじはケケケの毛～」／「オイラってつよいの毛？」"
@@ -101,7 +101,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34954668
   default_thread_id: 1555031344
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34954668/34954668.26154303
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34954668/34954668.26154303
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: "「オイラをみつけられるの毛？」／「せんせいってこわいの毛？」"
@@ -113,7 +113,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977475
   default_thread_id: 1555377605
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977475/34977475.21118178
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977475/34977475.21118178
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: "「ボタンはたいせつなの毛？」／「はしれゴンじろー！」"
@@ -125,7 +125,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017432
   default_thread_id: 1556069224
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017432/35017432.70010002
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017432/35017432.70010002
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: "「かぞくりょこうは毛んきゅうじたい」／「うちにかえるのも毛んきゅうじたい」"
@@ -137,7 +137,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117380
   default_thread_id: 1557710343
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117380/35117380.69895844
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117380/35117380.69895844
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: "「たまごはやさしくはこぶの毛？」／「３つぼしシェフはほっと毛ねー！」"
@@ -149,7 +149,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117379
   default_thread_id: 1557710643
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117379/35117379.44654382
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117379/35117379.44654382
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: "「プーじろーとうじょう！」／「プーじろーは毛にいらね～！」"
@@ -161,7 +161,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149871
   default_thread_id: 1558314733
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149871/35149871.69200291
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149871/35149871.69200291
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: "「ホームランバッターになっちゃうの毛？」／「けんちゃん は毛っこうやっかい」"
@@ -174,7 +174,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35182653
   default_thread_id: 1558940344
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35182653/35182653.35487748
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35182653/35182653.35487748
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: "「バーベキューぶぎょうふとっしー」／「やきそばパンをたす毛だせ！」"
@@ -187,7 +187,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35214179
   default_thread_id: 1559539022
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35214179/35214179.38318535
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35214179/35214179.38318535
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: "「こだいのボタンとうじょう！」／「さんかんびだいさくせん！」"
@@ -199,7 +199,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35245751
   default_thread_id: 1560155883
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35245751/35245751.43005457
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35245751/35245751.43005457
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: "「すげーぞ毛リュウケン」／「もうそうがぼうそう？」"
@@ -211,7 +211,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276044
   default_thread_id: 1560736745
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276044/35276044.26175017
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35276044/35276044.26175017
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: "「しげちんかいぞうけいかく」／「ふたつめのこだいのボタン」"
@@ -223,19 +223,31 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35307271
   default_thread_id: 1561349944
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35307271/35307271.27975100
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35307271/35307271.27975100
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: "「こだいのボタンでみずあそび！」／「たっつんのひみつ」"
   description: "「こだいのボタンでみずあそび！」家族で水族館に来たマコトとゴンじろー。イルカショーを観て盛り上がっていたが、ゴンじろーが自分も参加したいと言い出し勝手にステージへ！しかし水が苦手なゴンじろーはたちまちプールでおぼれてしまう。とそこへタイゾーが現れ、マコトに『チャプチャプ』ボタンを使えと促す。チャプチャプボタンを付けたことで水濡れもへっちゃらになったゴンじろーはさらにショーを盛り上げようとするが･･････。／「たっつんのひみつ」毛陵町の大金持ちでクラスメイトのたっつんの家に招待されたゴンじろー。興味本位でマコトや他のクラスメイトもついていくことに。ついてきたマコト達を疎ましく思ったたっつんは、ゴンじろーをさらい、広大な庭にハンターを放った……！！たっつんの家の厳重なセキュリティにより一人、また一人と仲間を失いながらもゴンじろーの救出を目指すマコト。果たしてゴンじろーを救出することは出来るのか？そして、たっつんの目的とは！？<br><br>ゴンじろー:松重　慎／前神マコト:石上静香／しげちん:柚木
     尚子／ふとっしー:八百屋 杏／けんちゃん:野上 翔／たっつん:室 元気／おじょお:白石 晴香／ぶちょう:川村 海乃／マコト父:間島 淳司／マコト母:園崎 未恵／タイゾー:石原
     凡／たわしあご:木内 太郎／ぴかっちょ:宮澤 正／ネコ:うのちひろ／ナレーター:江川 央生<br><br>原作:ソニー・インタラクティブエンタテインメント(SIE)、ソニー・ミュージックエンタテインメント、アニプレックス、小学館／キャラクター原案:大窪宏昌(SIE)／アートディレクション:中井俊彦(SIE)／キャラクターデザイン:加藤初重／シリーズディレクター:森井ケンシロウ(ダブトゥーンスタジオ)／シリーズ構成:市川十億衛門／音楽:山本茂(OLMミュージック)／音響監督:濱野高年／アニメーション制作:OLM、WIT
-    STUDIO<br><br>©SIE・SME・ANX・小学館 ©ゴンじろープロジェクト<br><br>so35307271←前話　第一話→so34913151"
+    STUDIO<br><br>©SIE・SME・ANX・小学館 ©ゴンじろープロジェクト<br><br>so35307271←前話｜次話→so35371954　第一話→so34913151"
   length_seconds: 1460
   content_id: so35324159
   default_thread_id: 1561684867
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35324159/35324159.11513109
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35324159/35324159.11513109
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: "「しょうぼうしはむてきなの毛？」／「むかしむかしの毛毛たろう」"
+  description: "「しょうぼうしはむてきなの毛？」消防訓練に来たマコトたち。火と水に強そうな消防士のボタンをゲットすれば無敵になれると思ったゴンじろーは、教官の消防士・火桶三蔵（ひおけさんぞう）のボタンを手に入れるため奮闘する。しかし三蔵の訓練は常軌を逸しており……。そんな時、町で本当の火事が発生しているとの報せが！出動した先にマコトたちが見た驚きの光景とは！？／「むかしむかしの毛毛たろう」いつもの日常とはちょっと違う、毛玉類の目線で日本の昔話をお送りする『毛が二本昔話』。今回は桃から生まれた桃太郎ならぬ毛毛（もうもう）から生まれた毛毛太郎の物語。おじいさんとおばあさんのもとですくすくと育った毛毛太郎は、3匹のお供を連れていざ鬼毛島へ！<br><br>ゴンじろー:松重　慎／前神マコト:石上静香／しげちん:柚木
+    尚子／ふとっしー:八百屋 杏／けんちゃん:野上 翔／たっつん:室 元気／おじょお:白石 晴香／ぶちょう:川村 海乃／マコト父:間島 淳司／マコト母:園崎 未恵／タイゾー:石原
+    凡／たわしあご:木内 太郎／ぴかっちょ:宮澤 正／ネコ:うのちひろ／ナレーター:江川 央生<br><br>原作:ソニー・インタラクティブエンタテインメント(SIE)、ソニー・ミュージックエンタテインメント、アニプレックス、小学館／キャラクター原案:大窪宏昌(SIE)／アートディレクション:中井俊彦(SIE)／キャラクターデザイン:加藤初重／シリーズディレクター:森井ケンシロウ(ダブトゥーンスタジオ)／シリーズ構成:市川十億衛門／音楽:山本茂(OLMミュージック)／音響監督:濱野高年／アニメーション制作:OLM、WIT
+    STUDIO<br><br>©SIE・SME・ANX・小学館 ©ゴンじろープロジェクト<br><br>so35324159←前話　第一話→so34913151"
+  length_seconds: 1460
+  content_id: so35371954
+  default_thread_id: 1562553124
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371954/35371954.77315786
 cast: "[キャスト]<br>ゴンじろー:松重　慎／前神マコト:石上静香／しげちん:柚木 尚子／ふとっしー:八百屋 杏／けんちゃん:野上 翔／たっつん:室 元気／おじょお:白石
   晴香／ぶちょう:川村 海乃／マコト父:間島 淳司／マコト母:園崎 未恵／タイゾー:石原 凡／たわしあご:木内 太郎／ぴかっちょ:宮澤 正／ネコ:うのちひろ／ナレーター:江川
   央生"
