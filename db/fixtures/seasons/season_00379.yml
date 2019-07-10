@@ -73,7 +73,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33026190
   default_thread_id: 1523264791
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33026190/33026190.2725447
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33026190/33026190.2725447
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: フラワーショップでプリ☆チャンやってみた！
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065323
   default_thread_id: 1523929232
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33065323/33065323.73438203
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065323/33065323.73438203
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: アイドルソングつくってみた！
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33097034
   default_thread_id: 1524472501
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33097034/33097034.98882092
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33097034/33097034.98882092
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: スイーツをアピールしてみた！
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33137602
   default_thread_id: 1525139736
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33137602/33137602.668965
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33137602/33137602.668965
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: ガッツでアツくなってみた！
@@ -121,7 +121,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33172547
   default_thread_id: 1525664324
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33172547/33172547.94979863
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33172547/33172547.94979863
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: エール、送ってみた！
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33207485
   default_thread_id: 1526261301
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33207485/33207485.61129360
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33207485/33207485.61129360
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: ねこ動画を撮ってみた！
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33247271
   default_thread_id: 1526966154
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33247271/33247271.14473513
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33247271/33247271.14473513
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: ヘア＆メイクでおしゃれしてみた！
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33282233
   default_thread_id: 1527558023
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33282233/33282233.84863584
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33282233/33282233.84863584
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: ワタクシ、チャレンジしてみましたわ！
@@ -169,7 +169,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33318906
   default_thread_id: 1528180474
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33318906/33318906.67094977
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33318906/33318906.67094977
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: ライバルとデートしてみた！
@@ -181,7 +181,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33333395
   default_thread_id: 1528441301
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33333395/33333395.80532802
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33333395/33333395.80532802
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: はじめてスペシャルやってみた！
@@ -193,7 +193,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33389146
   default_thread_id: 1529386002
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33389146/33389146.69390361
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33389146/33389146.69390361
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: ハートを燃やしてみた！
@@ -205,7 +205,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33424943
   default_thread_id: 1529983869
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33424943/33424943.44100158
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33424943/33424943.44100158
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 桃山みらいが、とんでみた！
@@ -217,7 +217,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33439995
   default_thread_id: 1530243130
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33439995/33439995.29774032
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33439995/33439995.29774032
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: ファンだって盛りあがってみた！
@@ -229,7 +229,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33497773
   default_thread_id: 1531118465
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33497773/33497773.28164346
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33497773/33497773.28164346
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: りんか、やってみた！
@@ -241,7 +241,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33540405
   default_thread_id: 1531790297
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33540405/33540405.38498291
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33540405/33540405.38498291
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: 心の迷いを抜けてみた！
@@ -253,7 +253,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33572109
   default_thread_id: 1532310609
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33572109/33572109.94654890
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33572109/33572109.94654890
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: 笑顔でさよならしてみた！
@@ -265,7 +265,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33612668
   default_thread_id: 1533000609
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33612668/33612668.7201336
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33612668/33612668.7201336
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: サマーなスペシャルやってみた！
@@ -277,7 +277,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33650020
   default_thread_id: 1533609127
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33650020/33650020.98932834
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33650020/33650020.98932834
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: 夏だ！ビーチだ！行ってみた！
@@ -289,7 +289,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33686834
   default_thread_id: 1534209064
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33686834/33686834.59351140
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33686834/33686834.59351140
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: ヤッホー！山のぼってみた！
@@ -301,7 +301,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33720292
   default_thread_id: 1534727645
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33720292/33720292.75691959
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33720292/33720292.75691959
 - !ruby/hash:EpisodeHash
   episode_no: 第21話
   title: 真夏のフェスでやってみた！
@@ -313,7 +313,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33762308
   default_thread_id: 1535420945
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33762308/33762308.79352253
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33762308/33762308.79352253
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: わたくし、イルカと翔んでみましたわ！
@@ -325,7 +325,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33801122
   default_thread_id: 1536024397
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33801122/33801122.91078784
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33801122/33801122.91078784
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: めるめると出会ってみた！
@@ -337,7 +337,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33837987
   default_thread_id: 1536628865
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33837987/33837987.20349348
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33837987/33837987.20349348
 - !ruby/hash:EpisodeHash
   episode_no: 第24話
   title: 星の願いかなえてみた！
@@ -349,7 +349,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33875928
   default_thread_id: 1537233604
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33875928/33875928.55856270
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33875928/33875928.55856270
 - !ruby/hash:EpisodeHash
   episode_no: 第25話
   title: めるが探偵やってみた！
@@ -361,7 +361,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33914253
   default_thread_id: 1537838405
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33914253/33914253.769490
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33914253/33914253.769490
 - !ruby/hash:EpisodeHash
   episode_no: 第26話
   title: おかしなイタズラやってみた！
@@ -373,7 +373,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33953209
   default_thread_id: 1538443205
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33953209/33953209.60969998
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33953209/33953209.60969998
 - !ruby/hash:EpisodeHash
   episode_no: 第27話
   title: 笑顔で決めてみましたわ！
@@ -385,7 +385,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33968986
   default_thread_id: 1538724186
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33968986/33968986.75839041
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33968986/33968986.75839041
 - !ruby/hash:EpisodeHash
   episode_no: 第28話
   title: セレブなパーティ行ってみた！
@@ -397,7 +397,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34026296
   default_thread_id: 1539652207
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34026296/34026296.75297027
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34026296/34026296.75297027
 - !ruby/hash:EpisodeHash
   episode_no: 第29話
   title: キラキラ、さがしてみた！
@@ -409,7 +409,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34063181
   default_thread_id: 1540257543
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34063181/34063181.33419467
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34063181/34063181.33419467
 - !ruby/hash:EpisodeHash
   episode_no: 第30話
   title: おジャマハロウィンやってみた！
@@ -421,7 +421,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34092277
   default_thread_id: 1540775469
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34092277/34092277.20444828
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34092277/34092277.20444828
 - !ruby/hash:EpisodeHash
   episode_no: 第31話
   title: マンガの現場いってみた！
@@ -433,7 +433,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34128111
   default_thread_id: 1541379483
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34128111/34128111.474758
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34128111/34128111.474758
 - !ruby/hash:EpisodeHash
   episode_no: 第32話
   title: 気になるウワサ追ってみた！
@@ -445,7 +445,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34166218
   default_thread_id: 1542070684
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34166218/34166218.69878409
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34166218/34166218.69878409
 - !ruby/hash:EpisodeHash
   episode_no: 第33話
   title: さらちゃんがモフモフしてみた！
@@ -457,7 +457,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34199958
   default_thread_id: 1542680043
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34199958/34199958.82690935
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34199958/34199958.82690935
 - !ruby/hash:EpisodeHash
   episode_no: 第34話
   title: 俺たち解散してみた！
@@ -469,7 +469,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34235148
   default_thread_id: 1543291924
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34235148/34235148.66686500
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34235148/34235148.66686500
 - !ruby/hash:EpisodeHash
   episode_no: 第35話
   title: 友情、時をこえてみた！
@@ -481,7 +481,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34268744
   default_thread_id: 1543886347
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34268744/34268744.63892446
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34268744/34268744.63892446
 - !ruby/hash:EpisodeHash
   episode_no: 第36話
   title: 100点めざしてみましたわ！
@@ -493,7 +493,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34303512
   default_thread_id: 1544490663
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34303512/34303512.14796255
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34303512/34303512.14796255
 - !ruby/hash:EpisodeHash
   episode_no: 第37話
   title: ウィンターなスペシャルやってみた！
@@ -505,7 +505,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34336290
   default_thread_id: 1545095465
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34336290/34336290.94836807
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34336290/34336290.94836807
 - !ruby/hash:EpisodeHash
   episode_no: 第38話
   title: あいらさんとやってみた！
@@ -517,7 +517,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34372198
   default_thread_id: 1545700806
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34372198/34372198.61644736
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34372198/34372198.61644736
 - !ruby/hash:EpisodeHash
   episode_no: 第39話
   title: アンジュの島にいってみた！
@@ -529,7 +529,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34439421
   default_thread_id: 1546825387
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34439421/34439421.38693839
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34439421/34439421.38693839
 - !ruby/hash:EpisodeHash
   episode_no: 第40話
   title: さららの家に泊ってみた！
@@ -541,7 +541,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34477140
   default_thread_id: 1547514482
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34477140/34477140.55870146
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34477140/34477140.55870146
 - !ruby/hash:EpisodeHash
   episode_no: 第41話
   title: 春太のデート応援してみた！
@@ -553,7 +553,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34510011
   default_thread_id: 1548121803
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34510011/34510011.76828591
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34510011/34510011.76828591
 - !ruby/hash:EpisodeHash
   episode_no: 第42話
   title: りんか？がりんかやってみた！?
@@ -565,7 +565,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34545500
   default_thread_id: 1548724204
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34545500/34545500.4194956
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34545500/34545500.4194956
 - !ruby/hash:EpisodeHash
   episode_no: 第43話
   title: チョコ作ってみた！
@@ -577,7 +577,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34582374
   default_thread_id: 1549329064
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34582374/34582374.7144804
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34582374/34582374.7144804
 - !ruby/hash:EpisodeHash
   episode_no: 第44話
   title: ファッションショー手伝ってみた！
@@ -589,7 +589,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34619109
   default_thread_id: 1549933142
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34619109/34619109.23257608
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34619109/34619109.23257608
 - !ruby/hash:EpisodeHash
   episode_no: 第45話
   title: アンジュさんのホンネ聞いてみた！
@@ -601,7 +601,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34656689
   default_thread_id: 1550538722
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34656689/34656689.40437900
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34656689/34656689.40437900
 - !ruby/hash:EpisodeHash
   episode_no: 第46話
   title: みんなの想いを届けてみた！
@@ -613,7 +613,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34693670
   default_thread_id: 1551148507
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34693670/34693670.31973697
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34693670/34693670.31973697
 - !ruby/hash:EpisodeHash
   episode_no: 第47話
   title: "「わからない」からやってみた！"
@@ -625,7 +625,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34729559
   default_thread_id: 1551752829
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34729559/34729559.58762101
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34729559/34729559.58762101
 - !ruby/hash:EpisodeHash
   episode_no: 第48話
   title: 決着　つけてみましたわ！
@@ -637,7 +637,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34764318
   default_thread_id: 1552353784
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34764318/34764318.8434227
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34764318/34764318.8434227
 - !ruby/hash:EpisodeHash
   episode_no: 第49話
   title: さがして、さがして、さがしてみた！
@@ -649,7 +649,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34801968
   default_thread_id: 1552957927
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34801968/34801968.72561128
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34801968/34801968.72561128
 - !ruby/hash:EpisodeHash
   episode_no: 第50話
   title: 夢のプリ☆チャン、やってみた！
@@ -661,7 +661,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851752
   default_thread_id: 1553563985
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34851752/34851752.55916561
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851752/34851752.55916561
 - !ruby/hash:EpisodeHash
   episode_no: 第51話
   title: キラッとお別れ、やってみた！
@@ -673,7 +673,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34897579
   default_thread_id: 1554184922
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34897579/34897579.1403808
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34897579/34897579.1403808
 - !ruby/hash:EpisodeHash
   episode_no: 第52話
   title: ドキドキ！　わくわく！ジュエルオーディション開幕だもん！
@@ -685,7 +685,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34937995
   default_thread_id: 1554776162
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34937995/34937995.95570285
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34937995/34937995.95570285
 - !ruby/hash:EpisodeHash
   episode_no: 第53話
   title: まりあちゃんがやって来た！かわいい向上委員会だもん！
@@ -697,7 +697,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977483
   default_thread_id: 1555377966
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977483/34977483.31685577
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977483/34977483.31685577
 - !ruby/hash:EpisodeHash
   episode_no: 第54話
   title: ジュエルチャンス？みらいがチャレンジだもん！
@@ -709,7 +709,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012770
   default_thread_id: 1555982043
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012770/35012770.48508323
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012770/35012770.48508323
 - !ruby/hash:EpisodeHash
   episode_no: 第55話
   title: キラッとときめき！これがジュエルコーデだもん！
@@ -721,7 +721,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026973
   default_thread_id: 1556241422
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026973/35026973.15185010
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026973/35026973.15185010
 - !ruby/hash:EpisodeHash
   episode_no: 第56話
   title: まりあが宣言！かわいいは世界を救うんだもん！
@@ -733,7 +733,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037558
   default_thread_id: 1556415003
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037558/35037558.95779711
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037558/35037558.95779711
 - !ruby/hash:EpisodeHash
   episode_no: 第57話
   title: まりあちゃん！すずちゃん！２人で初めての番組だもん！
@@ -745,7 +745,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121570
   default_thread_id: 1557797463
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121570/35121570.90543318
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121570/35121570.90543318
 - !ruby/hash:EpisodeHash
   episode_no: 第58話
   title: めが姉ぇ大ピンチ！りんかちゃんが１日店長なんだもん！
@@ -757,7 +757,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35154455
   default_thread_id: 1558401667
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35154455/35154455.25562006
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35154455/35154455.25562006
 - !ruby/hash:EpisodeHash
   episode_no: 第59話
   title: 絵本がいっぱい！おしゃれブックカフェはじめました　だもん！
@@ -769,7 +769,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35154454
   default_thread_id: 1558401799
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35154454/35154454.94468996
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35154454/35154454.94468996
 - !ruby/hash:EpisodeHash
   episode_no: 第60話
   title: ステキに楽しく！デザインパレットだもん！
@@ -781,7 +781,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217714
   default_thread_id: 1559612047
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217714/35217714.18726061
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217714/35217714.18726061
 - !ruby/hash:EpisodeHash
   episode_no: 第61話
   title: ビックリドッキリ！メルティックスターが帰ってくる？だもん！
@@ -793,7 +793,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248775
   default_thread_id: 1560215532
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248775/35248775.9377357
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35248775/35248775.9377357
 - !ruby/hash:EpisodeHash
   episode_no: 第62話
   title: まりあとすず！メルティックスターとこんにちはだもん！
@@ -805,7 +805,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35280216
   default_thread_id: 1560822189
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35280216/35280216.24904773
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35280216/35280216.24904773
 - !ruby/hash:EpisodeHash
   episode_no: 第63話
   title: めるちゃんと！仲良し合宿してみたんだもん！
@@ -817,19 +817,31 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35311279
   default_thread_id: 1561425737
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35311279/35311279.1925855
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35311279/35311279.1925855
 - !ruby/hash:EpisodeHash
   episode_no: 第64話
   title: だいあフェス！いよいよカラッとはじまるんだもん！
   description: 'ジュエルアイドルのみが出演できるイベント、『だいあフェス』の開催がだいあから宣言される。フェスに向けて、練習をはじめるみらいとめる。すると、プリズムストーンでその様子を伺う、アイドルマニアの女の子が現れる。その顔にまりあは見覚えがあり……<br><br>桃山みらい:林
     鼓子／萌黄えも:久保田未夢／青葉りんか:厚木那奈美／赤城あんな:芹澤 優／緑川さら:若井友希／紫藤める:森嶋優花／金森まりあ:茜屋日海夏／黒川すず:徳井青空／だいあ:佐々木李子　他　<br><br>原作:タカラトミーアーツ、シンソフィア／監督:博史池畠／助監督:川瀬まさお／チーフディレクター:
     Park Chi Man／シリーズ構成:兵頭一歩／キャラクター原案:梨本裕美、内藤晶子（シンソフィア）／キャラクターデザイン:満田一／CGディレクター:乙部善弘／音楽:加藤達也／音響監督:長崎行男／アニメ―ション共同制作:タツノコプロ　DONGWOO
-    A&amp;E<br><br>© Ｔ－ＡＲＴＳ / syn Sophia / テレビ東京 / PCH2製作委員会<br><br>so35311279←前話　第一話→so33026190'
+    A&amp;E<br><br>© Ｔ－ＡＲＴＳ / syn Sophia / テレビ東京 / PCH2製作委員会<br><br>so35311279←前話｜次話→so35376168　第一話→so33026190'
   length_seconds: 1459
   content_id: so35344091
   default_thread_id: 1562031605
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35344091/35344091.13141753
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35344091/35344091.13141753
+- !ruby/hash:EpisodeHash
+  episode_no: 第65話
+  title: すずがカッコよくきめてみた！　だもん！
+  description: 'メルティックスターと話し、プリ☆チャンへのモチベーションを高めていくすず。だが、すずはライブで歌うことにまだ強い苦手意識があった。そこには、すずの憧れている兄マイケルと、それを目指していた自身の苦い体験が関係していて……<br><br>桃山みらい:林
+    鼓子／萌黄えも:久保田未夢／青葉りんか:厚木那奈美／赤城あんな:芹澤 優／緑川さら:若井友希／紫藤める:森嶋優花／金森まりあ:茜屋日海夏／黒川すず:徳井青空／だいあ:佐々木李子　他　<br><br>原作:タカラトミーアーツ、シンソフィア／監督:博史池畠／助監督:川瀬まさお／チーフディレクター:
+    Park Chi Man／シリーズ構成:兵頭一歩／キャラクター原案:梨本裕美、内藤晶子（シンソフィア）／キャラクターデザイン:満田一／CGディレクター:乙部善弘／音楽:加藤達也／音響監督:長崎行男／アニメ―ション共同制作:タツノコプロ　DONGWOO
+    A&amp;E<br><br>© Ｔ－ＡＲＴＳ / syn Sophia / テレビ東京 / PCH2製作委員会<br><br>so35344091←前話　第一話→so33026190'
+  length_seconds: 1460
+  content_id: so35376168
+  default_thread_id: 1562634965
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35376168/35376168.69718127
 cast: "[キャスト]<br>桃山みらい:林 鼓子／萌黄えも:久保田未夢／青葉りんか:厚木那奈美／赤城あんな:芹澤 優／緑川さら:若井友希／紫藤める:森嶋優花／金森まりあ:茜屋日海夏／黒川すず:徳井青空／だいあ:佐々木李子　他"
 staff: "[スタッフ]<br>原作:タカラトミーアーツ、シンソフィア／監督:博史池畠／助監督:川瀬まさお／チーフディレクター: Park Chi Man／シリーズ構成:兵頭一歩／キャラクター原案:梨本裕美、内藤晶子（シンソフィア）／キャラクターデザイン:満田一／CGディレクター:乙部善弘／音楽:加藤達也／音響監督:長崎行男／アニメ―ション共同制作:タツノコプロ　DONGWOO
   A&E"
