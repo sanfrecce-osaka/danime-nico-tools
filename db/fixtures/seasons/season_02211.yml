@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 花江夏樹
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
   name: 浅沼晋太郎
@@ -86,7 +86,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34902434
   default_thread_id: 1554254406
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34902434/34902434.65807284
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34902434/34902434.65807284
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 早く立ちたい
@@ -99,7 +99,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938004
   default_thread_id: 1554775742
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938004/34938004.23390120
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34938004/34938004.23390120
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 野球の申し子
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977479
   default_thread_id: 1555377546
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977479/34977479.34900449
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977479/34977479.34900449
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: はじまりの日
@@ -125,7 +125,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35008188
   default_thread_id: 1555895346
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35008188/35008188.33626116
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35008188/35008188.33626116
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 合流
@@ -138,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026970
   default_thread_id: 1556240948
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026970/35026970.79259435
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026970/35026970.79259435
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: Go Straight
@@ -151,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35090105
   default_thread_id: 1557204602
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35090105/35090105.39567001
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35090105/35090105.39567001
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: ＫＩＮＧ
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121565
   default_thread_id: 1557797470
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121565/35121565.36650423
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121565/35121565.36650423
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: カンフル剤
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149887
   default_thread_id: 1558314607
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149887/35149887.9590877
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149887/35149887.9590877
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: バトル×バトル
@@ -190,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186003
   default_thread_id: 1559005870
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186003/35186003.76577778
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186003/35186003.76577778
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 初陣
@@ -203,7 +203,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217968
   default_thread_id: 1559618883
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217968/35217968.39008739
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217968/35217968.39008739
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 視線の先
@@ -217,7 +217,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248781
   default_thread_id: 1560215344
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248781/35248781.51782664
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35248781/35248781.51782664
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: ワガママ
@@ -230,7 +230,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35280364
   default_thread_id: 1560826627
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35280364/35280364.6376785
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35280364/35280364.6376785
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 先攻
@@ -243,7 +243,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35311651
   default_thread_id: 1561433837
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35311651/35311651.5460290
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35311651/35311651.5460290
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: 気配
@@ -251,12 +251,25 @@ episodes: !ruby/array:Hashie::Array
     暁:島﨑信長／御幸一也:櫻井孝宏／奥村光舟:内田雄馬／倉持洋一:浅沼晋太郎／小湊春市:花江夏樹／結城将司:武内駿輔／瀬戸拓馬:山下大輝／由井 薫:村瀬 歩／浅田浩文:畠中
     祐<br><br>原作:寺嶋裕二「ダイヤのA actⅡ」（週刊少年マガジン／講談社刊）／監督:増原光幸／シリーズ構成:古怒田健志／キャラクターデザイン:田﨑
     聡、植田 実／総作画監督:小林 亮、吉川真一／アクション作画監督:佐藤雄三、千光士海登、戸倉紀元／副監督:いわたかずや／美術監督:高木佐和子／色彩設計:今野成美／撮影監督:井上洋志／編集:塚常真理子／音響監督:髙桑一／音楽:百石
-    元／アニメーション制作:MADHOUSE<br><br>©寺嶋裕二・講談社／「ダイヤのA actⅡ」製作委員会・テレビ東京<br><br>so35311651←前話　第一話→so34902434
+    元／アニメーション制作:MADHOUSE<br><br>©寺嶋裕二・講談社／「ダイヤのA actⅡ」製作委員会・テレビ東京<br><br>so35311651←前話｜次話→so35376167　第一話→so34902434
   length_seconds: 1460
   content_id: so35344346
   default_thread_id: 1562038143
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35344346/35344346.26556081
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35344346/35344346.26556081
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 自分の役割
+  description: 春大準決勝市大三高戦。２対０とリードした５回、市大の反撃を受ける青道先発・降谷。なかなか制球が定まらず、乗り切れないピッチングが続く。御幸はそんな降谷のエースとしての自覚を信じ必死にリードする。しかしこの回３つ目のフォアボールを出したところで落合から助言を受け片岡はようやくある決断をする。その決断とは──。<br><br>沢村栄純:逢坂良太／降谷
+    暁:島﨑信長／御幸一也:櫻井孝宏／奥村光舟:内田雄馬／倉持洋一:浅沼晋太郎／小湊春市:花江夏樹／結城将司:武内駿輔／瀬戸拓馬:山下大輝／由井 薫:村瀬 歩／浅田浩文:畠中
+    祐<br><br>原作:寺嶋裕二「ダイヤのA actⅡ」（週刊少年マガジン／講談社刊）／監督:増原光幸／シリーズ構成:古怒田健志／キャラクターデザイン:田﨑
+    聡、植田 実／総作画監督:小林 亮、吉川真一／アクション作画監督:佐藤雄三、千光士海登、戸倉紀元／副監督:いわたかずや／美術監督:高木佐和子／色彩設計:今野成美／撮影監督:井上洋志／編集:塚常真理子／音響監督:髙桑一／音楽:百石
+    元／アニメーション制作:MADHOUSE<br><br>©寺嶋裕二・講談社／「ダイヤのA actⅡ」製作委員会・テレビ東京<br><br>so35344346←前話　第一話→so34902434
+  length_seconds: 1460
+  content_id: so35376167
+  default_thread_id: 1562634545
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35376167/35376167.93898926
 cast: "[キャスト]<br>沢村栄純:逢坂良太／降谷 暁:島﨑信長／御幸一也:櫻井孝宏／奥村光舟:内田雄馬／倉持洋一:浅沼晋太郎／小湊春市:花江夏樹／結城将司:武内駿輔／瀬戸拓馬:山下大輝／由井
   薫:村瀬 歩／浅田浩文:畠中 祐"
 staff: "[スタッフ]<br>原作:寺嶋裕二「ダイヤのA actⅡ」（週刊少年マガジン／講談社刊）／監督:増原光幸／シリーズ構成:古怒田健志／キャラクターデザイン:田﨑

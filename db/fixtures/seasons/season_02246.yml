@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938001
   default_thread_id: 1554775812
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938001/34938001.37958636
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34938001/34938001.37958636
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: できる、できない
@@ -98,7 +98,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34972158
   default_thread_id: 1555291146
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34972158/34972158.83868951
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34972158/34972158.83868951
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 気持ちよく汗をかこう
@@ -110,7 +110,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992244
   default_thread_id: 1555637403
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992244/34992244.73778473
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992244/34992244.73778473
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 分かれ道に立っても
@@ -122,7 +122,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022111
   default_thread_id: 1556155983
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022111/35022111.37615200
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022111/35022111.37615200
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: はじめての試合！
@@ -134,7 +134,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037562
   default_thread_id: 1556414949
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037562/35037562.56940018
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037562/35037562.56940018
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: これからの私たち
@@ -146,7 +146,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121562
   default_thread_id: 1557797407
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121562/35121562.85039072
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121562/35121562.85039072
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 笑顔の迷子
@@ -158,7 +158,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134430
   default_thread_id: 1558055463
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134430/35134430.98633168
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35134430/35134430.98633168
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 夏に向かって
@@ -170,7 +170,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198117
   default_thread_id: 1559266083
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198117/35198117.38312670
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198117/35198117.38312670
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: みんなでつないで、楽しんで
@@ -183,7 +183,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35261060
   default_thread_id: 1560474735
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261060/35261060.6932209
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35261060/35261060.6932209
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 背中に翼
@@ -195,19 +195,31 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35306936
   default_thread_id: 1561339397
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35306936/35306936.85620134
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35306936/35306936.85620134
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 全国大会がはじまる
   description: いよいよ始まる全国大会。前日、会場近くの合宿所にやって来た里高野球部のもとに、トーナメントの抽選結果が届く。対戦相手はなんと――清城高校。そこに、偶然同じ合宿所に来ていた清城のメンバーも現れ、二校はなりゆきでバーベキューを囲む。それぞれが、それぞれの気持ちを胸に抱いて、大会前夜は更けていき……。ついに当日。里高野球部は、万感の想いでグラウンドに整列する。<br><br>有原
     翼:西田望見／東雲 龍:近藤玲奈／野崎夕姫:南早紀／河北智恵:井上ほの花／宇喜多 茜:花守ゆみり／鈴木和香:緑川優美／中野綾香:高木友梨香／岩城良美:山下七海／倉敷舞子:佐伯伊織／九十九
     伽奈:白石晴香／初瀬 麻里安:八島さらら／阿佐田あおい:立花理香<br><br>原作:アカツキ／監督:工藤進／シリーズ構成:田中仁／アニメーションキャラクターデザイン:野口孝行／音楽:小畑貴裕／アニメーション制作:トムス・エンタテインメント<br><br>©Akatsuki
-    Inc./アニメ「八月のシンデレラナイン」製作委員会<br><br>so35306936←前話　第一話→so34938001
+    Inc./アニメ「八月のシンデレラナイン」製作委員会<br><br>so35306936←前話｜次話→so35371867　第一話→so34938001
   length_seconds: 1430
   content_id: so35324158
   default_thread_id: 1561684866
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35324158/35324158.89429026
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35324158/35324158.89429026
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 世界で一番あつい夏
+  description: 夕姫のエラーで、同点に追いつかれてしまった里ヶ浜。しかし、それでもまだ同点――さらに気を引き締め、三回表の攻撃にうつる。一方、清城高校・神宮寺小也香は焦っていた。彼女の異常な気迫の正体は、翼とはまた別の、キャプテンとしての責任感……。その焦燥が解かれたとき、二つのチームは好敵手として並び立つ。青空の下で試合は続く。白球を追い、少女たちは熱くなる――<br><br>有原
+    翼:西田望見／東雲 龍:近藤玲奈／野崎夕姫:南早紀／河北智恵:井上ほの花／宇喜多 茜:花守ゆみり／鈴木和香:緑川優美／中野綾香:高木友梨香／岩城良美:山下七海／倉敷舞子:佐伯伊織／九十九
+    伽奈:白石晴香／初瀬 麻里安:八島さらら／阿佐田あおい:立花理香<br><br>原作:アカツキ／監督:工藤進／シリーズ構成:田中仁／アニメーションキャラクターデザイン:野口孝行／音楽:小畑貴裕／アニメーション制作:トムス・エンタテインメント<br><br>©Akatsuki
+    Inc./アニメ「八月のシンデレラナイン」製作委員会<br><br>so35324158←前話　第一話→so34938001
+  length_seconds: 1430
+  content_id: so35371867
+  default_thread_id: 1562551269
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371867/35371867.85295337
 cast: "[キャスト]<br>有原 翼:西田望見／東雲 龍:近藤玲奈／野崎夕姫:南早紀／河北智恵:井上ほの花／宇喜多 茜:花守ゆみり／鈴木和香:緑川優美／中野綾香:高木友梨香／岩城良美:山下七海／倉敷舞子:佐伯伊織／九十九
   伽奈:白石晴香／初瀬 麻里安:八島さらら／阿佐田あおい:立花理香"
 staff: "[スタッフ]<br>原作:アカツキ／監督:工藤進／シリーズ構成:田中仁／アニメーションキャラクターデザイン:野口孝行／音楽:小畑貴裕／アニメーション制作:トムス・エンタテインメント"
