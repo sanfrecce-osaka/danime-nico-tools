@@ -83,6 +83,8 @@ GEM
       deep_merge (~> 1.2.1)
       dry-validation (>= 0.12.2)
     connection_pool (2.2.2)
+    crack (0.4.3)
+      safe_yaml (~> 1.0.0)
     crass (1.0.4)
     debug_inspector (0.0.3)
     deep_merge (1.2.1)
@@ -169,6 +171,7 @@ GEM
       haml (>= 4.0.6, < 6.0)
       html2haml (>= 1.0.1)
       railties (>= 5.1)
+    hashdiff (0.4.0)
     hashie (3.6.0)
     hashie-forbidden_attributes (0.1.1)
       hashie (>= 3.0)
@@ -356,6 +359,7 @@ GEM
     ruby_parser (3.13.1)
       sexp_processor (~> 4.9)
     rubyzip (1.2.3)
+    safe_yaml (1.0.5)
     sassc (2.0.1)
       ffi (~> 1.9)
       rake
@@ -403,6 +407,7 @@ GEM
     unf_ext (0.0.7.6)
     unicode-display_width (1.6.0)
     uniform_notifier (1.12.1)
+    vcr (5.0.0)
     warden (1.2.8)
       rack (>= 2.0.6)
     web-console (3.7.0)
@@ -414,6 +419,10 @@ GEM
       nokogiri (~> 1.6)
       rubyzip (~> 1.0)
       selenium-webdriver (~> 3.0)
+    webmock (3.6.0)
+      addressable (>= 2.3.6)
+      crack (>= 0.3.2)
+      hashdiff (>= 0.4.0, < 2.0.0)
     webpacker (4.0.6)
       activesupport (>= 4.2)
       rack-proxy (>= 0.6.1)
@@ -480,8 +489,10 @@ DEPENDENCIES
   test-queue
   tzinfo-data
   uglifier
+  vcr
   web-console
   webdrivers
+  webmock
   webpacker
 
 RUBY VERSION
