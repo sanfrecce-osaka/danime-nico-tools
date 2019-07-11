@@ -52,7 +52,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34902444
   default_thread_id: 1554254282
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34902444/34902444.21456126
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34902444/34902444.21456126
 - !ruby/hash:EpisodeHash
   episode_no: 第99話・第100話
   title: "「ニャンとかせんと、遷都物語！」／「強いぞ！強いの！？つわもの加藤清正！」"
@@ -64,7 +64,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012772
   default_thread_id: 1555981993
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012772/35012772.12554617
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012772/35012772.12554617
 - !ruby/hash:EpisodeHash
   episode_no: 第101話・第102話
   title: "「私は人気脚本家、近松門左衛門！」／「ノンストップ好奇心、徳川光圀！」"
@@ -76,7 +76,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012771
   default_thread_id: 1555981995
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012771/35012771.90838817
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012771/35012771.90838817
 - !ruby/hash:EpisodeHash
   episode_no: 第103話・第104話
   title: "「尼将軍はアマくない、北条政子！」／「いざ出陣、ビフォー関ヶ原！」"
@@ -86,7 +86,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35158832
   default_thread_id: 1558486623
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35158832/35158832.14468376
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35158832/35158832.14468376
 - !ruby/hash:EpisodeHash
   episode_no: 第105話・第106話
   title: "「あぁ大変、アフター関ヶ原！」／「私は幕末の宝だ、佐久間象山大先生！」"
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35280231
   default_thread_id: 1560822007
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35280231/35280231.31652019
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35280231/35280231.31652019
 - !ruby/hash:EpisodeHash
   episode_no: 第107話・第108話
   title: "「万葉集きっての歌姫、額田王！」／「幸村ヒーロー伝説、真田十勇士！」"
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35348141
   default_thread_id: 1562116023
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35348141/35348141.13013028
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35348141/35348141.13013028
 cast: "[キャスト]<br>出演:山寺宏一、小林ゆう"
 staff: "[スタッフ]<br>原作:そにしけんじ／プロデューサー:山田 周、宮本 未来／監督:河村 友宏／シリーズ構成:清水 匡／脚本:平林 佐和子／キャラクターデザイン:河村友宏、蝦名芙美"
 produced_year: "[製作年]<br>2019年"

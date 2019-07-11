@@ -57,7 +57,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34896826
   default_thread_id: 1554169142
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34896826/34896826.31227637
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34896826/34896826.31227637
 - !ruby/hash:EpisodeHash
   episode_no: 第53話
   title: プロチーム入団！？
@@ -68,7 +68,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938008
   default_thread_id: 1554775943
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938008/34938008.24830631
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34938008/34938008.24830631
 - !ruby/hash:EpisodeHash
   episode_no: 第54話
   title: チャンピオンズカップ・デビュー戦！
@@ -79,7 +79,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977485
   default_thread_id: 1555377542
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977485/34977485.1967136
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977485/34977485.1967136
 - !ruby/hash:EpisodeHash
   episode_no: 第55話
   title: 涙の別れ！　トラゴン故郷に帰る
@@ -90,7 +90,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35008193
   default_thread_id: 1555895343
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35008193/35008193.68821271
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35008193/35008193.68821271
 - !ruby/hash:EpisodeHash
   episode_no: 第56話
   title: 新たな力！　燃えよトラゴン
@@ -101,7 +101,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35027661
   default_thread_id: 1556254743
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35027661/35027661.271674
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35027661/35027661.271674
 - !ruby/hash:EpisodeHash
   episode_no: 第57話
   title: ライバル商店街！？　プロゲーマー・ムサシ！
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35093910
   default_thread_id: 1557278467
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35093910/35093910.78857509
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35093910/35093910.78857509
 - !ruby/hash:EpisodeHash
   episode_no: 第58話
   title: 出たっ！　幽霊温泉のよし子ちゃん
@@ -123,7 +123,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121556
   default_thread_id: 1557797345
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121556/35121556.33883651
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121556/35121556.33883651
 - !ruby/hash:EpisodeHash
   episode_no: 第59話
   title: 激突！　二つの龍
@@ -134,7 +134,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35154446
   default_thread_id: 1558401605
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35154446/35154446.32703582
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35154446/35154446.32703582
 - !ruby/hash:EpisodeHash
   episode_no: 第60話
   title: Ｕｌｔｉｍａｔｅ　Ｔｒａｉｎｉｎｇ！
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186169
   default_thread_id: 1559009466
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186169/35186169.65193148
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186169/35186169.65193148
 - !ruby/hash:EpisodeHash
   episode_no: 第61話
   title: 強豪・新鮮組（しんせんぐみ）！　総司（そうじ）対タイガ
@@ -156,7 +156,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217707
   default_thread_id: 1559611930
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217707/35217707.76486340
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217707/35217707.76486340
 - !ruby/hash:EpisodeHash
   episode_no: 第62話
   title: 花草商店街お・も・て・な・し大作戦！
@@ -167,7 +167,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248784
   default_thread_id: 1560215285
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248784/35248784.63700184
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35248784/35248784.63700184
 - !ruby/hash:EpisodeHash
   episode_no: 第63話
   title: パズドラAI！　タイガVSロボタイガ
@@ -178,7 +178,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35284361
   default_thread_id: 1560910263
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35284361/35284361.21772169
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35284361/35284361.21772169
 - !ruby/hash:EpisodeHash
   episode_no: 第64話
   title: トラゴンはつらいよ　初恋奮闘編
@@ -189,18 +189,29 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35311283
   default_thread_id: 1561425544
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35311283/35311283.42516335
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35311283/35311283.42516335
 - !ruby/hash:EpisodeHash
   episode_no: 第65話
   title: まいっちゃうぜユキコ先生！
   description: ついにユキコ先生がパズドラを始めた！タイガたちは大喜びで、さっそくユキコ先生と放課後に遊ぶ約束をする。しかし、ユキコ先生を心配してやってきた友人・静香（しずか）はなぜか「絶対にユキコにパズドラをさせてはいけない」と言う。だがその時すでに、ユキコ先生と源さんは対戦を始めていたのだった。そしてタイガたちは、信じられない事態に巻き込まれる！ユキコ先生の知られざる一面が今明らかに――！<br><br>明石タイガ:泊　明日菜／トラゴン:柿原　徹也／卯月さくら:井上　ほの花／松原龍二
     :小林　裕介／徳沢諭吉:神代　知衣<br><br>原作:ガンホー・オンライン・エンターテイメント「パズル＆ドラゴンズ」／原案:森下一喜／漫画原作:井上桃太（小学館「月刊コロコロコミック」）／監督:亀垣
-    一／シリーズ構成:藤田伸三／音楽:和田 薫／アニメーション制作:studioぴえろ<br><br>©ガンホー・オンライン・エンターテイメント／パズドラプロジェクト2019・テレビ東京<br><br>so35311283←前話　第一話→so34896826
+    一／シリーズ構成:藤田伸三／音楽:和田 薫／アニメーション制作:studioぴえろ<br><br>©ガンホー・オンライン・エンターテイメント／パズドラプロジェクト2019・テレビ東京<br><br>so35311283←前話｜次話→so35371955　第一話→so34896826
   length_seconds: 1435
   content_id: so35344090
   default_thread_id: 1562031063
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35344090/35344090.20687021
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35344090/35344090.20687021
+- !ruby/hash:EpisodeHash
+  episode_no: 第66話
+  title: 龍二の旅立ち
+  description: プロゲーマーとしての更なる強さを求めて、龍二はずっと悩み続けていた。そんな時、パズドラ部メンバーはアメリカにいる王城（おうじょう）つかさとビデオチャットで通話する。アメリカにも強豪パズドラプロゲーマーが数多くいることを王城から聞き、広い世界への憧れを持つ龍二。そして、ある決意をした龍二は、タイガにパズドラの真剣勝負を持ちかける！バトルを制するのは果たして――！？<br><br>明石タイガ:泊　明日菜／トラゴン:柿原　徹也／卯月さくら:井上　ほの花／松原龍二
+    :小林　裕介／徳沢諭吉:神代　知衣<br><br>原作:ガンホー・オンライン・エンターテイメント「パズル＆ドラゴンズ」／原案:森下一喜／漫画原作:井上桃太（小学館「月刊コロコロコミック」）／監督:亀垣
+    一／シリーズ構成:藤田伸三／音楽:和田 薫／アニメーション制作:studioぴえろ<br><br>©ガンホー・オンライン・エンターテイメント／パズドラプロジェクト2019・テレビ東京<br><br>so35344090←前話　第一話→so34896826
+  length_seconds: 1435
+  content_id: so35371955
+  default_thread_id: 1562552886
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371955/35371955.18595626
 cast: "[キャスト]<br>明石タイガ:泊　明日菜／トラゴン:柿原　徹也／卯月さくら:井上　ほの花／松原龍二 :小林　裕介／徳沢諭吉:神代　知衣"
 staff: "[スタッフ]<br>原作:ガンホー・オンライン・エンターテイメント「パズル＆ドラゴンズ」／原案:森下一喜／漫画原作:井上桃太（小学館「月刊コロコロコミック」）／監督:亀垣
   一／シリーズ構成:藤田伸三／音楽:和田 薫／アニメーション制作:studioぴえろ"

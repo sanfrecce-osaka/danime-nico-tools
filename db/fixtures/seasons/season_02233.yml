@@ -19,10 +19,10 @@ tags: !ruby/array:Hashie::Array
   name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 森久保祥太郎
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932393
   default_thread_id: 1554686548
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932393/34932393.26040021
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932393/34932393.26040021
 - !ruby/hash:EpisodeHash
   episode_no: "＃1"
   title: 虹を越えたその先に
@@ -110,7 +110,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34972156
   default_thread_id: 1555291263
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34972156/34972156.87046810
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34972156/34972156.87046810
 - !ruby/hash:EpisodeHash
   episode_no: "＃2"
   title: 太刀花ユキノジョウ　いざ、参る！
@@ -123,7 +123,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992213
   default_thread_id: 1555636445
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992213/34992213.71141863
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992213/34992213.71141863
 - !ruby/hash:EpisodeHash
   episode_no: "＃3"
   title: 香賀美タイガ　祭りなら！俺の中にある！
@@ -136,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012781
   default_thread_id: 1555982225
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012781/35012781.47515998
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012781/35012781.47515998
 - !ruby/hash:EpisodeHash
   episode_no: "＃4"
   title: 十王院カケル　愛と共に翔ける
@@ -149,7 +149,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026969
   default_thread_id: 1556241191
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026969/35026969.14406505
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026969/35026969.14406505
 - !ruby/hash:EpisodeHash
   episode_no: "＃5"
   title: THE シャッフル　ジョージの唄
@@ -163,7 +163,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117382
   default_thread_id: 1557710405
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117382/35117382.33628953
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117382/35117382.33628953
 - !ruby/hash:EpisodeHash
   episode_no: "＃6"
   title: 鷹梁ミナト　心は大っきな太平洋
@@ -176,7 +176,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149888
   default_thread_id: 1558314619
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149888/35149888.57666357
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149888/35149888.57666357
 - !ruby/hash:EpisodeHash
   episode_no: "＃7"
   title: 西園寺レオ　心の花を咲かせましょう♡
@@ -189,7 +189,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35181799
   default_thread_id: 1558918743
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35181799/35181799.16351661
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35181799/35181799.16351661
 - !ruby/hash:EpisodeHash
   episode_no: "＃8"
   title: 涼野ユウ　アイアム ゼウス☆彡
@@ -202,7 +202,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35213715
   default_thread_id: 1559525403
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213715/35213715.91895394
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35213715/35213715.91895394
 - !ruby/hash:EpisodeHash
   episode_no: "＃9"
   title: 大和アレクサンダー　The Charisma of STREET
@@ -215,7 +215,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230134
   default_thread_id: 1559872335
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230134/35230134.40733504
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230134/35230134.40733504
 - !ruby/hash:EpisodeHash
   episode_no: "＃10"
   title: 如月ルヰ　プリズムの使者
@@ -228,7 +228,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276048
   default_thread_id: 1560736926
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276048/35276048.27431481
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35276048/35276048.27431481
 - !ruby/hash:EpisodeHash
   episode_no: "＃11"
   title: 一条シン　SIN
@@ -241,7 +241,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35306935
   default_thread_id: 1561339264
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35306935/35306935.83010104
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35306935/35306935.83010104
 - !ruby/hash:EpisodeHash
   episode_no: "＃12"
   title: Shiny Seven Stars Forever!
@@ -254,7 +254,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35339853
   default_thread_id: 1561944006
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35339853/35339853.25089051
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35339853/35339853.25089051
 cast: "[キャスト]<br>一条シン:寺島惇太／太刀花ユキノジョウ:斉藤壮馬／香賀美タイガ:畠中 祐／十王院カケル:八代 拓／鷹梁ミナト:五十嵐雅／西園寺レオ:永塚拓馬／涼野ユウ:内田雄馬／如月ルヰ:蒼井翔太／大和アレクサンダー:武内駿輔／高田馬場ジョージ:杉田智和／神浜コウジ:柿原徹也／速水ヒロ:前野智昭／仁科カヅキ:増田俊樹／高田馬場ジョージGS／池袋エィス:小林竜之／氷室
   聖:関 俊彦／黒川 冷:森久保祥太郎／山田リョウ:浪川大輔／法月 仁:三木眞一郎"
 staff: "[スタッフ]<br>原作:タカラトミーアーツ、シンソフィア、エイベックス・ピクチャーズ、タツノコプロ／監督:菱田正和／助監督:渡邊 葉／シリーズ構成:青葉

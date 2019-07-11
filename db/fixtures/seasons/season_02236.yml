@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 宮野真守
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
@@ -65,7 +65,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34948885
   default_thread_id: 1554944945
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34948885/34948885.97597860
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34948885/34948885.97597860
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: つながりたいけど、奪いたい
@@ -75,7 +75,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34987548
   default_thread_id: 1555549274
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34987548/34987548.73356419
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34987548/34987548.73356419
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: つながりたいけど、報われない
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017524
   default_thread_id: 1556070860
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017524/35017524.73829837
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017524/35017524.73829837
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: つながりたいけど、そばにいない
@@ -95,7 +95,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35028340
   default_thread_id: 1556266803
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35028340/35028340.6745772
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35028340/35028340.6745772
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: つながりたいけど、許されない
@@ -105,7 +105,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35097976
   default_thread_id: 1557363496
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35097976/35097976.34216511
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35097976/35097976.34216511
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: つながりたいから、諦めない
@@ -115,7 +115,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35130238
   default_thread_id: 1557969483
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35130238/35130238.1208472
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35130238/35130238.1208472
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: つながりたいけど、裏切りたい
@@ -125,7 +125,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162627
   default_thread_id: 1558574643
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162627/35162627.52315182
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35162627/35162627.52315182
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: つながりたいけど、もう会えない
@@ -135,7 +135,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35194287
   default_thread_id: 1559178604
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194287/35194287.35683781
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35194287/35194287.35683781
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: つながりたいけど、伝わらない
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35225897
   default_thread_id: 1559785104
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35225897/35225897.18671566
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35225897/35225897.18671566
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: つながりたいけど、つながれない
@@ -155,7 +155,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35256994
   default_thread_id: 1560388149
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35256994/35256994.25313231
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35256994/35256994.25313231
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: つながりたいから、さらざんまい
@@ -165,7 +165,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35288040
   default_thread_id: 1561004297
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35288040/35288040.30514684
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35288040/35288040.30514684
 cast: "[キャスト]<br>矢逆一稀:村瀬歩／久慈悠:内山昂輝／陣内燕太:堀江瞬／ケッピ:諏訪部順一／新星玲央:宮野真守／阿久津真武:細谷佳正"
 staff: "[スタッフ]<br>監督:幾原邦彦／シリーズ構成:幾原邦彦、内海照子／キャラクター原案:ミギー／キャラクターデザイン・総作画監督:石川佳代子／衣装デザイン:石川佳代子／プロップデザイン:石川佳代子／イメージデザイン:石川佳代子／美術設定:藤井綾香（スタジオPablo）／美術監督:藤井綾香（スタジオPablo）／色彩設計:辻田邦夫／撮影監督:荻原猛夫／編集:黒澤雅之／音響監督:山田陽／音楽:橋本由香利／アニメーションプロデューサー:大塚学、渡部正和／オープニング・テーマ:KANA-BOON「まっさら」／エンディング・テーマ:the
   peggies「スタンドバイミー」／アニメーション制作:MAPPA、ラパントラック"

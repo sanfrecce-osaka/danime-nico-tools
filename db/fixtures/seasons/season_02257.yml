@@ -77,7 +77,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34943566
   default_thread_id: 1554858666
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34943566/34943566.51219225
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34943566/34943566.51219225
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: 人間の怪人
@@ -87,7 +87,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34983154
   default_thread_id: 1555462874
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34983154/34983154.70515914
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34983154/34983154.70515914
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: 狩りの始まり
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017501
   default_thread_id: 1556070184
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017501/35017501.12016435
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017501/35017501.12016435
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: 金属のバット
@@ -107,7 +107,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35038353
   default_thread_id: 1556428263
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35038353/35038353.10047450
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35038353/35038353.10047450
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: 武術の大会
@@ -117,7 +117,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35093905
   default_thread_id: 1557278463
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35093905/35093905.88907441
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35093905/35093905.88907441
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: 怪人の蜂起
@@ -127,7 +127,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35125852
   default_thread_id: 1557882543
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35125852/35125852.32584444
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35125852/35125852.32584444
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: Ｓ級のヒーロー
@@ -137,7 +137,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35158829
   default_thread_id: 1558486745
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35158829/35158829.19024045
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35158829/35158829.19024045
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: 強い奴の抵抗
@@ -147,7 +147,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35190344
   default_thread_id: 1559092333
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190344/35190344.66274729
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35190344/35190344.66274729
 - !ruby/hash:EpisodeHash
   episode_no: 第21話
   title: 最強の悩み
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217710
   default_thread_id: 1559612060
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217710/35217710.38403297
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217710/35217710.38403297
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: 正義の包囲網
@@ -167,7 +167,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276018
   default_thread_id: 1560736263
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276018/35276018.68394222
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35276018/35276018.68394222
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: それぞれの矜持
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35315603
   default_thread_id: 1561512783
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315603/35315603.17666463
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35315603/35315603.17666463
 - !ruby/hash:EpisodeHash
   episode_no: 第24話
   title: 弟子の尻拭い
@@ -187,7 +187,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35348140
   default_thread_id: 1562116450
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35348140/35348140.58179905
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35348140/35348140.52813141
 cast: "[キャスト]<br>サイタマ:古川慎／ジェノス:石川界人／音速のソニック:梶裕貴／戦慄のタツマキ:悠木碧／キング:安元洋貴／地獄のフブキ:早見沙織／ガロウ:緑川光／スイリュー:松風雅也"
 staff: "[スタッフ]<br>原作:ONE・村田雄介「ワンパンマン」（集英社「となりのヤングジャンプ」連載）／監督:櫻井親良／シリーズ構成:鈴木智尋／キャラクターデザイン:久保田誓／美術監督:池田繁美、丸山由紀子／色彩設計:店橋真弓／撮影監督:大河内喜夫／編集:後藤正浩(REAL-T)／
   音響監督:岩浪美和／音楽:宮崎誠／オープニング主題歌:JAM Project「静寂のアポストル」／エンディング主題歌:古川慎「地図が無くても戻るから」 ／アニメーション制作:J.C.STAFF"

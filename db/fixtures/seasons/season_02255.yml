@@ -59,7 +59,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34937996
   default_thread_id: 1554775814
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34937996/34937996.56796470
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34937996/34937996.56796470
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: "「妖怪フクリュウ」／「妖怪リー夫人」"
@@ -70,7 +70,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977476
   default_thread_id: 1555377608
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977476/34977476.30478901
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977476/34977476.30478901
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: "「妖怪てのひらがえし」／「ニャーキングデッド ～極限状態の妖怪たち～　エピソード１」"
@@ -81,7 +81,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34983157
   default_thread_id: 1555463007
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34983157/34983157.42484048
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34983157/34983157.42484048
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: "「現代のお金ナイダー」／「妖怪三国志 其ノ壱」"
@@ -92,7 +92,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017431
   default_thread_id: 1556069043
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017431/35017431.29520208
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017431/35017431.29520208
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: "「妖怪モテヌス」／「ニッポン全国 コマみ探しの旅！ 両国編」"
@@ -103,7 +103,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037563
   default_thread_id: 1556415123
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037563/35037563.52317449
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037563/35037563.52317449
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: "「妖怪とどろき獅子」／「ニッポン全国 コマみ探しの旅！ 富士山編」"
@@ -114,7 +114,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121560
   default_thread_id: 1557797583
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121560/35121560.70350558
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121560/35121560.70350558
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: "「妖怪でんじん」／妖魔一武道会『極オロチ』」"
@@ -124,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149879
   default_thread_id: 1558314737
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149879/35149879.30200093
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149879/35149879.30200093
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: "「妖怪ギュウ汁（じる）」／「あの妖怪は今 ～ざしきわらし～」"
@@ -135,7 +135,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186155
   default_thread_id: 1559009834
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186155/35186155.97347653
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186155/35186155.97347653
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: "「妖怪やめたい師」／「アイドルいっぱい！ ジバニャン芸能事務所！ 第３話」"
@@ -146,7 +146,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217708
   default_thread_id: 1559611867
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217708/35217708.45424556
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217708/35217708.45424556
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: "「妖怪シラ切りスズメ」／「ジバニャンと桜の木」"
@@ -156,7 +156,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248776
   default_thread_id: 1560215534
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248776/35248776.28042170
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35248776/35248776.28042170
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: "「妖怪おすべり様」/「ドクターＦ　＃1」"
@@ -166,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276045
   default_thread_id: 1560736750
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35276045/35276045.47492328
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35276045/35276045.47492328
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: "「妖怪しろく魔」／「魔女っ子フミちゃん」"
@@ -176,17 +176,17 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35306937
   default_thread_id: 1561339331
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35306937/35306937.2840219
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35306937/35306937.2840219
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: "「妖怪ナガバナナ」／「ドクターＦ　＃3」"
   description: "「妖怪ナガバナナ」おなかが空いたケータがバナナを食べようとすると、昨日買ったばかりなのにバナナが真っ黒になっていた。「一日で黒くなるなんておかしい！」と、ケータが妖怪ウォッチであたりを照らしてみると、そこにはバナナをいつの間にか真っ黒にしてしまう妖怪“ナガバナナ”がいた！ジバニャンを召喚し、追い払ってもらおうとするが、ナガバナナには戦う意思はないようで…？／「ドクターＦ　＃3」ある日、本物のドクターFが新聞に載ってしまい、副院長のじんめん犬は大慌てで病院中の新聞を回収する。そんななか、「妖怪くっつく病」という、妖怪が勝手にくっついて別の妖怪になってしまう病気が大流行し、カンファレンスが開かれる。すると、失敗しかしないドクターFのふぶき姫が「私なら手術で治せます」と手を挙げる…。<br><br>天野ケータ:戸松
-    遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾<br><br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム<br><br>©LEVEL-5/妖怪ウォッチプロジェクト・テレビ東京<br><br>so35306937←前話　第一話→so34937996"
+    遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾<br><br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム<br><br>©LEVEL-5/妖怪ウォッチプロジェクト・テレビ東京<br><br>so35306937←前話｜次話→so35371928　第一話→so34937996"
   length_seconds: 1485
   content_id: so35339854
   default_thread_id: 1561944126
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35339854/35339854.17411407
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35339854/35339854.17411407
 cast: "[キャスト]<br>天野ケータ:戸松 遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾"
 staff: "[スタッフ]<br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム"
 produced_year: "[製作年]<br>2019年"

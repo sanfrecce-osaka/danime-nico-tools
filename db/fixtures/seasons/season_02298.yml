@@ -72,7 +72,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117378
   default_thread_id: 1557710471
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117378/35117378.7989097
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117378/35117378.7989097
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン2
   title: コーチはアイチ!?
@@ -83,7 +83,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117377
   default_thread_id: 1557710593
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117377/35117377.19072948
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117377/35117377.19072948
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン3
   title: 異世界転生した邪眼の王子は、最強勇者と愛を謳う
@@ -94,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35130241
   default_thread_id: 1557969602
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35130241/35130241.59022795
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35130241/35130241.59022795
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン4
   title: グローバルを超えろ!!
@@ -105,7 +105,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35181800
   default_thread_id: 1558918745
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35181800/35181800.94725671
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35181800/35181800.94725671
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン5
   title: 失われたイメージ
@@ -116,7 +116,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35221656
   default_thread_id: 1559696343
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35221656/35221656.34049386
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35221656/35221656.34049386
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン6
   title: はじまりのジ・エンド
@@ -127,7 +127,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230138
   default_thread_id: 1559872203
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230138/35230138.35312948
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230138/35230138.35312948
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン7
   title: グレイヲンの囁き
@@ -138,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35256992
   default_thread_id: 1560388565
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35256992/35256992.8569319
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35256992/35256992.8569319
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン8
   title: The…ラスト・デリートエンド
@@ -149,7 +149,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35320066
   default_thread_id: 1561605134
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35320066/35320066.75633461
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35320066/35320066.75633461
 cast: "[キャスト]<br>先導アイチ:代永翼／石田ナオキ:奈良徹／立凪コーリン:三森すずこ／戸倉ミサキ:橘田いずみ／小茂井シンゴ:吉野裕行／櫂トシキ:佐藤拓也／伊吹コウジ:宮野真守／雀ヶ森レン:阿部敦／立凪レッカ:南條愛乃／立凪スイコ:愛美"
 staff: "[スタッフ]<br>原作:ブシロード、伊藤彰／製作総指揮・原案:木谷高明／監督:川崎逸朗／シリーズ構成:赤星政尚／ キャラクターデザイン:磯野智／美術監督:丹伊田輝彦／音響監督:今泉雄一／アニメーション制作:オー・エル・エム／製作:Project
   Vanguard2019"

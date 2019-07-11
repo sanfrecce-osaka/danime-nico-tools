@@ -63,7 +63,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34913222
   default_thread_id: 1554428653
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34913222/34913222.71461159
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34913222/34913222.71461159
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 七々子のダイエット
@@ -74,7 +74,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34943570
   default_thread_id: 1554858182
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34943570/34943570.99598479
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34943570/34943570.99598479
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 遊園地に行こう
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34983287
   default_thread_id: 1555464143
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34983287/34983287.11666496
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34983287/34983287.11666496
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: キャンバス少女
@@ -96,7 +96,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992209
   default_thread_id: 1555636143
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992209/34992209.6778882
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992209/34992209.6778882
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 占い少女
@@ -107,7 +107,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022064
   default_thread_id: 1556154362
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022064/35022064.71867677
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022064/35022064.71867677
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 七々子の反抗期
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35102424
   default_thread_id: 1557451085
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35102424/35102424.78371254
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35102424/35102424.78371254
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 七々子と雨の七不思議
@@ -129,7 +129,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35130243
   default_thread_id: 1557969243
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35130243/35130243.58615919
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35130243/35130243.58615919
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 七々子が水着に着替えたら
@@ -140,7 +140,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35158834
   default_thread_id: 1558486393
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35158834/35158834.43376746
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35158834/35158834.43376746
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: エイジと七々子のお父さん
@@ -151,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35190340
   default_thread_id: 1559091844
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190340/35190340.32464935
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35190340/35190340.32464935
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 七々子と蛍と肝試し
@@ -162,7 +162,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35221688
   default_thread_id: 1559697184
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35221688/35221688.67907647
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35221688/35221688.67907647
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: あなたと花火を
@@ -173,7 +173,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35252934
   default_thread_id: 1560302045
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35252934/35252934.9700019
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35252934/35252934.9700019
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 七々子とエイジ
@@ -184,7 +184,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35284362
   default_thread_id: 1560909785
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35284362/35284362.94985326
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35284362/35284362.94985326
 cast: "[キャスト]<br>雪白七々子:花澤香菜／毒島エイジ:畠中 祐／片桐アマネ:矢作 紗友里／大月琴:逢田梨香子／矢工部キノ:久野美咲／花買タオ:上坂すみれ"
 staff: "[スタッフ]<br>原作:五十嵐正邦『川柳少女』（講談社「週刊少年マガジン」連載）／監督・シリーズ構成:神保昌登／キャラクターデザイン:橋本真希／音楽:立山秋航／音響監督:土屋雅紀／音響制作:grooove／色彩設計:岡
   亮子／美術監督:高橋 忍／撮影監督:佐藤 敦／編集:近藤勇二／アニメーション制作:CONNECT／製作:川柳少女製作委員会"

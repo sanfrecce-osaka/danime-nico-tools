@@ -56,7 +56,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34943568
   default_thread_id: 1554858662
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34943568/34943568.80299410
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34943568/34943568.80299410
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: タコから出た真実（まこと)
@@ -68,7 +68,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34943569
   default_thread_id: 1554858484
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34943569/34943569.7540175
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34943569/34943569.7540175
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 冥王星の惑星（ほし)恨み
@@ -80,7 +80,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012786
   default_thread_id: 1555982045
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012786/35012786.37934060
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012786/35012786.37934060
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: "「竿の先に半魚人」"
@@ -92,7 +92,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026962
   default_thread_id: 1556240954
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026962/35026962.70960824
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026962/35026962.70960824
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: "「地獄の沙汰もドン次第」"
@@ -104,7 +104,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026961
   default_thread_id: 1556241183
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026961/35026961.55980759
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026961/35026961.55980759
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: "「寝耳にウナギ」"
@@ -116,7 +116,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35125853
   default_thread_id: 1557882545
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35125853/35125853.47031706
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35125853/35125853.47031706
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 一寸先は夢の国
@@ -128,7 +128,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35158833
   default_thread_id: 1558486684
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35158833/35158833.59428118
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35158833/35158833.59428118
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: メカるが勝ち
@@ -140,7 +140,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35190341
   default_thread_id: 1559092331
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190341/35190341.9758087
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35190341/35190341.9758087
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 亭主の好きなヒザクリガー
@@ -152,7 +152,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35221687
   default_thread_id: 1559697486
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35221687/35221687.25848610
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35221687/35221687.25848610
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 相棒（バディ）喧嘩は犬も喰わない
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35253422
   default_thread_id: 1560314225
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35253422/35253422.53084752
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35253422/35253422.53084752
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 聞いて極楽、イセカンダル
@@ -176,7 +176,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35284364
   default_thread_id: 1560910265
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35284364/35284364.94740641
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35284364/35284364.94740641
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 月の夢、地球の夢
@@ -188,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35315605
   default_thread_id: 1561512669
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35315605/35315605.33921780
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35315605/35315605.33921780
 cast: "[キャスト]<br>ロビー・ヤージ:中井和哉／ハッチ・キタ:河本啓佑／JPS-19（イック）:阪口大助／ヤン:杉田智和／アロ:木村 昴／グラ:徳留慎乃佑"
 staff: "[スタッフ]<br>原作:馬谷たいが／監督:高松信司（「銀魂」、「美男高校地球防衛部」シリーズ他）／シリーズ構成:金杉弘子（「DIABOLIK LOVERS
   MORE,BLOOD」、「俺の脳内選択肢が、学園ラブコメを全力で邪魔している」他）／キャラクターデザイン:八尋裕子（「DIABOLIK LOVERS 」シリーズ、「進撃！巨人中学校

@@ -83,7 +83,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34072200
   default_thread_id: 1540429266
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34072200/34072200.3134226
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34072200/34072200.3134226
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 禁断の聖剣
@@ -96,7 +96,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34101873
   default_thread_id: 1540947545
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34101873/34101873.61571606
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34101873/34101873.61571606
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 怒りの鉄拳
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34137344
   default_thread_id: 1541554090
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34137344/34137344.45203341
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34137344/34137344.45203341
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 聖地より愛をこめて
@@ -122,7 +122,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34170747
   default_thread_id: 1542158409
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34170747/34170747.87955503
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34170747/34170747.87955503
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 腐った芸術
@@ -135,7 +135,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34209029
   default_thread_id: 1542849548
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34209029/34209029.10809562
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34209029/34209029.10809562
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 星を釣ったアーサー
@@ -148,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34243538
   default_thread_id: 1543453688
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34243538/34243538.54182816
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34243538/34243538.54182816
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 薔薇の蕾
@@ -161,7 +161,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34277531
   default_thread_id: 1544058489
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34277531/34277531.89588479
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34277531/34277531.89588479
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 魔法少女と呼ばれて
@@ -174,7 +174,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34311789
   default_thread_id: 1544663705
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34311789/34311789.30751565
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34311789/34311789.30751565
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: いとうつくしき光の中で
@@ -187,7 +187,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34345067
   default_thread_id: 1545268083
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34345067/34345067.57017400
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34345067/34345067.57017400
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 未来への絶望
@@ -200,7 +200,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34377148
   default_thread_id: 1545786431
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34377148/34377148.20691044
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34377148/34377148.20691044
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 伝承の妖精
@@ -213,7 +213,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34907806
   default_thread_id: 1554339545
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34907806/34907806.63518997
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34907806/34907806.63518997
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 団長失格
@@ -226,7 +226,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34948884
   default_thread_id: 1554944942
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34948884/34948884.53466095
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34948884/34948884.53466095
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: さよなら、山ちゃん
@@ -239,7 +239,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34987537
   default_thread_id: 1555549268
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34987537/34987537.2881105
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34987537/34987537.2881105
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: 戦慄の秘湯！！
@@ -252,7 +252,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017443
   default_thread_id: 1556069048
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017443/35017443.62401966
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017443/35017443.62401966
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: おいしいのがお好き
@@ -265,7 +265,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026972
   default_thread_id: 1556241063
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026972/35026972.63798825
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026972/35026972.63798825
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: 歌姫がやって来るヤァ！ヤァ！ヤァ！
@@ -278,7 +278,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35097973
   default_thread_id: 1557363483
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35097973/35097973.10223415
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35097973/35097973.10223415
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: キャプテン団長
@@ -291,7 +291,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35130236
   default_thread_id: 1557969604
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35130236/35130236.70807452
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35130236/35130236.70807452
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: 歴史の改竄
@@ -304,7 +304,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162628
   default_thread_id: 1558574537
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162628/35162628.71594427
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35162628/35162628.71594427
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: 奪われたエクスカリバー
@@ -317,7 +317,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35190346
   default_thread_id: 1559092264
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35190346/35190346.13672713
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35190346/35190346.13672713
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: 赤ずきんちゃん気をつけて
@@ -330,7 +330,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35221684
   default_thread_id: 1559697484
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35221684/35221684.67438349
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35221684/35221684.67438349
 - !ruby/hash:EpisodeHash
   episode_no: 第21話
   title: 合体への道のり
@@ -343,7 +343,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35252931
   default_thread_id: 1560302343
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35252931/35252931.97858339
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35252931/35252931.97858339
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: 伝承の終焉
@@ -356,7 +356,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35287928
   default_thread_id: 1561003330
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35287928/35287928.20405122
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35287928/35287928.20405122
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: 叛逆の未来へ
@@ -369,7 +369,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35319844
   default_thread_id: 1561598530
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35319844/35319844.32969420
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35319844/35319844.32969420
 cast: "[キャスト]<br>団長アーサー:雨宮 天／鉄拳アーサー:柿原 徹也／山猫アーサー:竹達 彩奈／閣下アーサー:花江 夏樹／錬金アーサー:水瀬 いのり／流浪アーサー:中村
   悠一／ナックラヴィ:茜屋 日海夏／ティターニア:高橋 李依／クーピー:東山 奈央／ブリギッテ:芹澤 優／ボダッハ:三森 すずこ／ベトール:日高 里菜"
 staff: "[スタッフ]<br>監督:鈴木 洋平／原作:スクウェア・エニックス／脚本・シリーズ構成:玉井☆豪／音楽:椎名 豪／キャラクターデザイン:斎藤 良成／サブデザイン:小野田

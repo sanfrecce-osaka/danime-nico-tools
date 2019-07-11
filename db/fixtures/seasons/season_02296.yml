@@ -52,7 +52,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012773
   default_thread_id: 1555981623
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012773/35012773.87851758
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012773/35012773.87851758
 - !ruby/hash:EpisodeHash
   episode_no: 第5話～第8話
   title: 女子かう生とスケボー／女子かう生と筋トレ／女子かう生と曇り窓／女子かう生と雨宿り
@@ -61,7 +61,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162624
   default_thread_id: 1558574044
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162624/35162624.13365268
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35162624/35162624.13365268
 - !ruby/hash:EpisodeHash
   episode_no: 第9話～第12話
   title: 女子かう生と影絵／女子かう生と髪留め／女子かう生とコタツ／女子かう生と帰り道
@@ -70,7 +70,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35292328
   default_thread_id: 1561082643
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35292328/35292328.96288878
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35292328/35292328.96288878
 cast: "[キャスト]<br>富戸もも子:立花理香／渋沢しぶみ:嶺内ともみ／古井まゆみ:久保ユリカ　ほか"
 staff: "[スタッフ]<br>原作:「女子かう生」（原作者：若井ケン・双葉社）／監督・シリーズ構成:佐々木勅嘉／キャラクターデザイン:山本恭平／音響監督:長崎行男／音響制作:BloomZ／アニメーション制作:アニメーションスタジオ・セブン／製作:「女子かう生」製作委員会"
 produced_year: "[製作年]<br>2019年"
