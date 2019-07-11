@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
-  name: 佐倉綾音
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
   name: 小松未可子
@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198111
   default_thread_id: 1559266624
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198111/35198111.22828456
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198111/35198111.17695776
 - !ruby/hash:EpisodeHash
   episode_no: Chapter.2
   title: ガールズ＆パンツァー 最終章 第1話
@@ -103,7 +103,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198110
   default_thread_id: 1559266343
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198110/35198110.59043079
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198110/35198110.6852836
 cast: "[キャスト]<br>西住みほ:渕上舞／武部沙織:茅野愛衣／五十鈴華:尾崎真実／秋山優花里:中上育実／冷泉麻子:井口裕香／角谷 杏:福圓美里／小山柚子:高橋美佳子／河嶋
   桃:植田佳奈／磯辺典子:菊地美香／近藤妙子:吉岡麻耶／河西 忍:桐村まり／佐々木あけび:中村 桜／カエサル:仙台エリ／エルヴィン:森谷里美／左衛門佐:井上優佳／おりょう:大橋歩夕／澤
   梓:竹内仁美／山郷あゆみ:中里 望／丸山紗希:小松未可子／阪口桂利奈:多田このみ／宇津木優季:山岡ゆり／大野あや:秋奈／園みどり子:井澤詩織／ナカジマ:山本希望／ねこにゃー:葉山いくみ／蝶野亜美:椎名へきる／マリー:原
