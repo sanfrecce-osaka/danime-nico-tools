@@ -176,6 +176,7 @@ GEM
       nokogiri (>= 1.6.0)
       ruby_parser (~> 3.5)
     http_parser.rb (0.6.0)
+    hurricane_trimar (0.1.0)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
     jaro_winkler (1.5.2)
@@ -423,6 +424,7 @@ DEPENDENCIES
   hashie
   hashie-forbidden_attributes
   hirb
+  hurricane_trimar
   jbuilder
   kaminari
   launchy
