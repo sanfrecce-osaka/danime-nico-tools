@@ -52,6 +52,8 @@ group :test do
   gem 'launchy'
   gem 'shoulda-matchers'
   gem 'webdrivers'
+  gem 'vcr'
+  gem 'webmock'
 end
 
 group :production do
