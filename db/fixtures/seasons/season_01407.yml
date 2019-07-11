@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 宮野真守
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
   name: 鈴村健一
@@ -113,7 +113,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31964949
   default_thread_id: 1505967763
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31964949/31964949.3155682
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31964949/31964949.3155682
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 或る爆弾
@@ -129,7 +129,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31964969
   default_thread_id: 1505967729
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31964969/31964969.12143134
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31964969/31964969.12143134
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: ヨコハマ ギャングスタア パラダヰス
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965122
   default_thread_id: 1505969811
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965122/31965122.12186533
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965122/31965122.12186533
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 運命論者の悲み
@@ -161,7 +161,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965123
   default_thread_id: 1505969857
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965123/31965123.33801452
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965123/31965123.33801452
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: Murder on D Street
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965124
   default_thread_id: 1505969830
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965124/31965124.80250967
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965124/31965124.80250967
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 蒼の使徒
@@ -193,7 +193,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965125
   default_thread_id: 1505967641
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965125/31965125.57371056
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965125/31965125.57371056
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 理想という病を愛す
@@ -209,7 +209,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965126
   default_thread_id: 1505967700
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965126/31965126.58427456
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965126/31965126.58427456
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 人を殺して死ねよとて
@@ -225,7 +225,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965127
   default_thread_id: 1505969900
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965127/31965127.51371507
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965127/31965127.51371507
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: うつくしき人は寂として石像の如く
@@ -241,7 +241,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965128
   default_thread_id: 1505969881
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965128/31965128.29075301
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965128/31965128.29075301
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 羅生門と虎
@@ -257,7 +257,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965129
   default_thread_id: 1505969885
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965129/31965129.25847339
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965129/31965129.25847339
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 其の一『彼女には向かない職業』　其の二『有頂天探偵社』
@@ -273,7 +273,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965130
   default_thread_id: 1505967663
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965130/31965130.26940029
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965130/31965130.26940029
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: たえまなく過去へ押し戻されながら
@@ -289,7 +289,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965131
   default_thread_id: 1505967658
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965131/31965131.58853250
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965131/31965131.58853250
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 黒の時代
@@ -305,7 +305,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965132
   default_thread_id: 1505969860
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965132/31965132.38362846
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965132/31965132.38362846
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: 戻れない場所
@@ -321,7 +321,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965133
   default_thread_id: 1505967669
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965133/31965133.51703163
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965133/31965133.51703163
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: いつか海の見える部屋で
@@ -337,7 +337,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965134
   default_thread_id: 1505969855
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965134/31965134.87308366
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965134/31965134.87308366
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: 文豪ストレイドッグ
@@ -353,7 +353,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965135
   default_thread_id: 1505969838
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965135/31965135.96503504
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965135/31965135.96503504
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: 三社鼎立(ていりつ)
@@ -369,7 +369,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965136
   default_thread_id: 1505967635
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965136/31965136.4143948
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965136/31965136.4143948
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: The strategy of conflict
@@ -385,7 +385,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965137
   default_thread_id: 1505969883
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965137/31965137.89186797
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965137/31965137.89186797
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: ウィル・オブ・タイクーン
@@ -401,7 +401,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965138
   default_thread_id: 1505969802
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965138/31965138.69754285
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965138/31965138.69754285
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: 頭は間違うことがあっても
@@ -417,7 +417,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965139
   default_thread_id: 1505969862
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965139/31965139.52869587
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965139/31965139.52869587
 - !ruby/hash:EpisodeHash
   episode_no: 第21話
   title: 双(ふた)つの黒
@@ -433,7 +433,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965140
   default_thread_id: 1505969832
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965140/31965140.63088941
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965140/31965140.63088941
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: 其の一『ポオと乱歩』　其の二『天(あま)の海をゆく白鯨のありて』
@@ -449,7 +449,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965141
   default_thread_id: 1505969836
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965141/31965141.75109016
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965141/31965141.75109016
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: 羅生門と虎と最後の大君(たいくん)
@@ -465,7 +465,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965142
   default_thread_id: 1505969809
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965142/31965142.79151937
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965142/31965142.79151937
 - !ruby/hash:EpisodeHash
   episode_no: 第24話
   title: 若し今日この荷物を降ろして善いのなら
@@ -481,7 +481,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31965143
   default_thread_id: 1505969804
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/31965143/31965143.1310189
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31965143/31965143.1310189
 - !ruby/hash:EpisodeHash
   episode_no: 第25話
   title: 独り歩む
@@ -497,7 +497,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34807643
   default_thread_id: 1553044026
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34807643/34807643.98456042
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34807643/34807643.98456042
 - !ruby/hash:EpisodeHash
   episode_no: 第26話
   title: 太宰、中也、十五歳
@@ -513,7 +513,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932389
   default_thread_id: 1554686290
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932389/34932389.56442925
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932389/34932389.56442925
 - !ruby/hash:EpisodeHash
   episode_no: 第27話
   title: 荒神は今
@@ -529,7 +529,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977474
   default_thread_id: 1555377602
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977474/34977474.91619942
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977474/34977474.91619942
 - !ruby/hash:EpisodeHash
   episode_no: 第28話
   title: ダイヤはダイヤでしか
@@ -545,7 +545,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992191
   default_thread_id: 1555636443
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992191/34992191.8408326
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992191/34992191.8408326
 - !ruby/hash:EpisodeHash
   episode_no: 第29話
   title: 咎与うるは神の業
@@ -561,7 +561,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017425
   default_thread_id: 1556068987
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017425/35017425.12527079
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017425/35017425.12527079
 - !ruby/hash:EpisodeHash
   episode_no: 第30話
   title: Ｓｌａｐ　ｔｈｅ　Ｓｔｉｃｋ　＆　Ａｄｄｉｃｔ
@@ -577,7 +577,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35093903
   default_thread_id: 1557278283
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35093903/35093903.56004456
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35093903/35093903.56004456
 - !ruby/hash:EpisodeHash
   episode_no: 第31話
   title: 其の一「ヘルリス！」　其の二「父の肖像」
@@ -593,7 +593,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121555
   default_thread_id: 1557797467
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121555/35121555.63872957
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121555/35121555.63872957
 - !ruby/hash:EpisodeHash
   episode_no: 第32話
   title: フィッツジェラルド・ライジング
@@ -609,7 +609,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35163209
   default_thread_id: 1558589223
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35163209/35163209.59852807
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35163209/35163209.59852807
 - !ruby/hash:EpisodeHash
   episode_no: 第33話
   title: 仮面ノ暗殺者
@@ -625,7 +625,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35194574
   default_thread_id: 1559188147
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194574/35194574.96924249
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35194574/35194574.96924249
 - !ruby/hash:EpisodeHash
   episode_no: 第34話
   title: 共喰い（其の一）
@@ -641,7 +641,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35226318
   default_thread_id: 1559796547
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35226318/35226318.4525927
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35226318/35226318.4525927
 - !ruby/hash:EpisodeHash
   episode_no: 第35話
   title: 共喰い（其の二）
@@ -657,7 +657,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35258002
   default_thread_id: 1560415090
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35258002/35258002.20438151
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35258002/35258002.20438151
 - !ruby/hash:EpisodeHash
   episode_no: 第36話
   title: 共喰い（其の三）
@@ -673,7 +673,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35292327
   default_thread_id: 1561082883
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35292327/35292327.20160461
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35292327/35292327.20160461
 - !ruby/hash:EpisodeHash
   episode_no: 第37話
   title: 回向(ECHO)
@@ -689,7 +689,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35324705
   default_thread_id: 1561698012
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35324705/35324705.21574806
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35324705/35324705.21574806
 cast: "[キャスト]<br>中島 敦:上村祐翔／太宰 治:宮野真守／国木田独歩:細谷佳正／江戸川乱歩:神谷浩史／谷崎潤一郎:豊永利行／宮沢賢治:花倉洸幸／与謝野晶子:嶋村
   侑／谷崎ナオミ:小見川千明／福沢諭吉:小山力也／芥川龍之介:小野賢章／中原中也:谷山紀章／梶井基次郎:羽多野渉／樋口一葉:瀬戸麻沙美／泉 鏡花:諸星すみれ／織田
   作之助:諏訪部順一／坂口 安吾:福山 潤／森 鴎外:宮本 充／田山花袋:鈴村健一／尾崎紅葉:小清水亜美／エリス:雨宮 天／フランシス・F:櫻井孝宏／ナサニエル・H:新垣樽助／ポオ:森川智之／ルイーザ・Ａ:植田ひかる／ルーシー・Ｍ:花澤香菜／フョードル・Ｄ:石田

@@ -73,7 +73,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34937998
   default_thread_id: 1554775941
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34937998/34937998.43131907
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34937998/34937998.43131907
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 本当はありがとう
@@ -85,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977477
   default_thread_id: 1555377548
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977477/34977477.11880650
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977477/34977477.11880650
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: つたわる空回り
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012778
   default_thread_id: 1555981999
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012778/35012778.95693595
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012778/35012778.95693595
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 弟子になります
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012777
   default_thread_id: 1555981989
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012777/35012777.52644532
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012777/35012777.52644532
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: アルアルあるある
@@ -121,7 +121,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012776
   default_thread_id: 1555981987
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012776/35012776.22059955
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012776/35012776.22059955
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 五七五で夏が来る
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121561
   default_thread_id: 1557797472
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121561/35121561.67487139
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121561/35121561.67487139
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: やわらかい涙
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35154449
   default_thread_id: 1558401543
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35154449/35154449.11953953
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35154449/35154449.11953953
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 外からおかえり
@@ -157,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186000
   default_thread_id: 1559005868
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186000/35186000.1950423
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186000/35186000.1950423
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 絶好のカレーパンケーキ
@@ -169,7 +169,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217709
   default_thread_id: 1559611863
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35217709/35217709.30628289
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217709/35217709.30628289
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: はじめて言われたこと
@@ -181,7 +181,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35248778
   default_thread_id: 1560215288
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35248778/35248778.84967214
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35248778/35248778.84967214
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: たぷたぷからプリプリまで
@@ -193,7 +193,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35280232
   default_thread_id: 1560822012
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35280232/35280232.30787591
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35280232/35280232.30787591
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: もしかしたらきっと
@@ -205,7 +205,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35311282
   default_thread_id: 1561425488
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35311282/35311282.7518734
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35311282/35311282.7518734
 cast: "[キャスト]<br>一里ぼっち:森下千咲／砂尾なこ:田中美海／本庄アル:鬼頭明里／ソトカ・ラキター:黒瀬ゆうこ／倉井佳子:市ノ瀬加那／八原かい:小原好美／押江照代:高橋未奈美"
 staff: "[スタッフ]<br>原作:カツヲ(「コミック電撃だいおうじ」連載）／監督:安齋剛文／シリーズ構成・脚本:花田十輝／キャラクターデザイン:田中紀衣／衣装デザイン:今田
   茜／助監督:池下博紀／総作画監督:田中紀衣、小田武士／プロップデザイン:水村良男／美術設定:池田祐二(スタジオワイエス)／美術ボード:一色美緒(スタジオワイエス)／美術監督:長岡志織(獏プロダクション)、一色美緒(スタジオワイエス)／背景:獏プロダクション、スタジオワイエス／色彩設計:高木雅人／3Dディレクター:向

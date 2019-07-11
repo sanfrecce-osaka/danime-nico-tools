@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 井口裕香
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
   name: 津田健次郎
@@ -44,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 東地宏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 大塚芳忠
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 大塚芳忠
   type: cast
 - !ruby/hash:TagHash
   name: 監督：鈴木健一
@@ -78,7 +78,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932401
   default_thread_id: 1554686546
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932401/34932401.14942179
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932401/34932401.14942179
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: "『狼の首輪と白鳥の羽』"
@@ -89,7 +89,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34972155
   default_thread_id: 1555291142
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34972155/34972155.99328621
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34972155/34972155.99328621
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: "『欲ばりキツネと嘘つきカラス』"
@@ -100,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012782
   default_thread_id: 1555981862
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35012782/35012782.44736302
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012782/35012782.44736302
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: "『せっかち家政婦とわがまま芸術家』"
@@ -111,7 +111,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022071
   default_thread_id: 1556154862
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022071/35022071.67186225
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022071/35022071.67186225
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: "『黒い月と迷い子の唄』"
@@ -122,7 +122,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037561
   default_thread_id: 1556414943
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037561/35037561.15894377
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037561/35037561.15894377
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: "『旅の道連れ』"
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117383
   default_thread_id: 1557710465
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117383/35117383.69142010
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117383/35117383.69142010
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: "『がんこな鍛冶屋と偏屈ウサギ』"
@@ -144,7 +144,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149886
   default_thread_id: 1558314621
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149886/35149886.18788288
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149886/35149886.18788288
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: "『舞台そでの笛吹き』"
@@ -155,7 +155,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186074
   default_thread_id: 1559007674
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35186074/35186074.91444408
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186074/35186074.91444408
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: "『転がる石と七人の騎士』"
@@ -166,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35213714
   default_thread_id: 1559525222
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213714/35213714.19498548
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35213714/35213714.19498548
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: "『災いの子』"
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35244709
   default_thread_id: 1560131224
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35244709/35244709.43091968
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35244709/35244709.43091968
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: "『招かざる音楽隊』"
@@ -188,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35276039
   default_thread_id: 1560736747
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35348700/35348700.70144299
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35348700/35348700.70144299
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: "『無力な兵隊』"
@@ -199,7 +199,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35311280
   default_thread_id: 1561425485
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35311280/35311280.280808
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35311280/35311280.280808
 cast: "[キャスト]<br>マーリヤ・ノエル:市ノ瀬加那／フリー・アンダーバー:前野智昭／ヴェロニカ・ソーン:福原綾香／ウルフラン・ロウ:細谷佳正／クラーラ・キセナリア:諏訪彩花／セルジュ・トーヴァ:中島ヨシキ／ネイン・アウラー:園崎未恵／ダミアン・カルメ:子安武人／マルコ・ベルウッド:大塚芳忠／レイ・ドーン:津田英三／リリー・ハイネマン:種﨑敦美／ロバート・チェイス:沖野晃司／エレノア・ニード:小松未可子／オズ・メア:間宮康弘／グリフ・マーサー:津田健次郎／カイン・ディスタロル:麦人／アクセル・ラブー:川田紳司／“スウィーティー”ビター・スウィート:寿美菜子／パトリシア・パール:井口裕香／ジョナサン・パスピエール:興津和幸／ビーヴィー・リスカー:江川央生／ソフィー:伊藤静／シュヴァルツ・ディーゼ:土師孝也／ジェット・グレイブ:東地宏樹／ユアン・ブリーズ:乃村健次／チマ:古賀葵"
 staff: "[スタッフ]<br>監督:鈴木健一／原作:Five fairy scholars／脚本:十文字青／キャラクター原案・妖精原案:中田春彌／キャラクターデザイン:清水貴子／美術監督:東潤一／色彩設計:中野尚美／撮影監督:江間常高"
 produced_year: "[製作年]<br>2019年"

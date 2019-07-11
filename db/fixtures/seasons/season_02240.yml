@@ -74,7 +74,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34913150
   default_thread_id: 1554427502
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34913150/34913150.44771974
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34913150/34913150.44771974
 - !ruby/hash:EpisodeHash
   episode_no: 第二話
   title: "『地球ロボット・オズマ』"
@@ -84,7 +84,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938002
   default_thread_id: 1554775444
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34938002/34938002.84669582
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34938002/34938002.84669582
 - !ruby/hash:EpisodeHash
   episode_no: 第三話
   title: "『今日知ったことは明日覆る』『ふたりのクリスマス』"
@@ -94,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977478
   default_thread_id: 1555377243
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34977478/34977478.46138741
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977478/34977478.46138741
 - !ruby/hash:EpisodeHash
   episode_no: 第四話
   title: "『勇者ベルノア』"
@@ -104,7 +104,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34983155
   default_thread_id: 1555462452
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34983155/34983155.34211177
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34983155/34983155.34211177
 - !ruby/hash:EpisodeHash
   episode_no: 第五話
   title: "『ドラグリウスサーガ』"
@@ -114,7 +114,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017430
   default_thread_id: 1556068682
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017430/35017430.33677251
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017430/35017430.33677251
 - !ruby/hash:EpisodeHash
   episode_no: 第六話
   title: "『ラブしても ラブしても』"
@@ -124,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037845
   default_thread_id: 1556419446
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037845/35037845.97453361
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037845/35037845.97453361
 - !ruby/hash:EpisodeHash
   episode_no: 第七話
   title: "『ナイショはヒミツにしておいて』"
@@ -134,7 +134,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121563
   default_thread_id: 1557797103
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35121563/35121563.44226592
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121563/35121563.44226592
 - !ruby/hash:EpisodeHash
   episode_no: 第八話
   title: "『ストライキング・フィスト』"
@@ -144,7 +144,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149880
   default_thread_id: 1558314363
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149880/35149880.21676310
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149880/35149880.21676310
 - !ruby/hash:EpisodeHash
   episode_no: 第九話
   title: "『死ぬまで愛して　ウソまで愛して』"
@@ -154,7 +154,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35194291
   default_thread_id: 1559178310
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194291/35194291.11971699
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35194291/35194291.11971699
 - !ruby/hash:EpisodeHash
   episode_no: 第十話
   title: "『別天地！ フィギュアと泊まれる温泉宿』"
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35194293
   default_thread_id: 1559178311
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194293/35194293.20859961
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35194293/35194293.20859961
 - !ruby/hash:EpisodeHash
   episode_no: 第十一話
   title: "『惑星探査機（うちゅうひこうし）の歌』"
@@ -174,7 +174,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230135
   default_thread_id: 1559871845
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230135/35230135.54144204
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230135/35230135.54144204
 - !ruby/hash:EpisodeHash
   episode_no: 第十二話
   title: "『君の宇宙を見せて』"
@@ -184,7 +184,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230136
   default_thread_id: 1559871847
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230136/35230136.92595404
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230136/35230136.92595404
 cast: "[キャスト]<br>房伊田春人:羽多野渉／ノーナ:木下鈴奈／ペルノア:千本木彩花／天乃原すばる:M・A・O／オズマ:森川智之／房伊田ミコト:松田利冴／冠成次郎:河西健吾／クサビ:徳井青空／リンドウ:深町未紗／比等間ルウ:篠原侑"
 staff: "[スタッフ]<br>原作:「超可動ガール1/6」「超可動ガールズ」（原作者：ÖYSTER・双葉社刊）／監督:元永慶太郎／シリーズ構成:日暮茶坊／キャラクターデザイン:山名秀和／音響監督:阿部信行／アニメーション制作:studio
   A-CAT／音響制作:オンリード／製作:「超可動ガール1/6」製作委員会"

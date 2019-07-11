@@ -61,7 +61,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017434
   default_thread_id: 1556068867
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017434/35017434.27047358
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017434/35017434.27047358
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: スキルGET！
@@ -70,7 +70,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017435
   default_thread_id: 1556068985
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017435/35017435.49851046
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017435/35017435.49851046
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 新しい仲間～謎の少女
@@ -79,7 +79,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017436
   default_thread_id: 1556068865
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017436/35017436.94679970
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017436/35017436.94679970
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 号哭の洞窟
@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017438
   default_thread_id: 1556068803
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017438/35017438.9340687
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017438/35017438.9340687
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 友達と敵
@@ -97,7 +97,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037846
   default_thread_id: 1556419742
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037846/35037846.97162959
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037846/35037846.97162959
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 距離
@@ -106,7 +106,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037847
   default_thread_id: 1556419865
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037847/35037847.8124520
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037847/35037847.8124520
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: グレイVSガドロス
@@ -115,7 +115,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149872
   default_thread_id: 1558314625
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149872/35149872.97999792
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149872/35149872.97999792
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 百死百生
@@ -124,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149873
   default_thread_id: 1558314603
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149873/35149873.43784646
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149873/35149873.43784646
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 行動開始
@@ -133,7 +133,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230458
   default_thread_id: 1559880429
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230458/35230458.26480406
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230458/35230458.26480406
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 正体
@@ -142,7 +142,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35244710
   default_thread_id: 1560131285
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35244710/35244710.95617663
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35244710/35244710.95617663
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 終わりと始まり
@@ -151,9 +151,11 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35252935
   default_thread_id: 1560302345
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35252935/35252935.4725158
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35252935/35252935.4725158
 cast: "[キャスト]<br>ジン:柿原徹也／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ダニエル:徳森圭辅／ブラック:M・A・O／ガドロス:前田誠二／モンテズマ:水口まつり"
 staff: "[スタッフ]<br>監督:周亮／脚本家:云落／原作者:7DOC"
 produced_year: "[製作年]<br>2019年"
 copyright: "©7DOC"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 凹凸世界　シーズン2

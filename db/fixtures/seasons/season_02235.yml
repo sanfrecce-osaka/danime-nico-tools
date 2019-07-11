@@ -86,7 +86,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34932402
   default_thread_id: 1554686540
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34932402/34932402.12768323
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34932402/34932402.12768323
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 常識破りの新入生
@@ -99,7 +99,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34954674
   default_thread_id: 1555031352
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34954674/34954674.98126706
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34954674/34954674.98126706
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 緊急事態発生！
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34983153
   default_thread_id: 1555462810
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34983153/34983153.6382182
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34983153/34983153.6382182
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 黒幕の名は
@@ -125,7 +125,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017446
   default_thread_id: 1556069404
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017446/35017446.63058420
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017446/35017446.63058420
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 破天荒な新英雄
@@ -138,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017447
   default_thread_id: 1556068989
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017447/35017447.74115849
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017447/35017447.74115849
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 開戦と合同訓練
@@ -151,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35097974
   default_thread_id: 1557363494
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35097974/35097974.32447048
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35097974/35097974.32447048
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 合宿に行こう！
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35097975
   default_thread_id: 1557363486
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35097975/35097975.22861301
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35097975/35097975.22861301
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 星空の誓い
@@ -177,7 +177,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149882
   default_thread_id: 1558314615
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149882/35149882.51723450
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149882/35149882.51723450
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 孫と魔道具と婚約披露
@@ -190,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149883
   default_thread_id: 1558314612
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149883/35149883.51079054
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149883/35149883.51079054
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 滅亡する帝国
@@ -203,7 +203,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198122
   default_thread_id: 1559266803
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198122/35198122.60138164
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198122/35198122.60138164
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 史上最強の魔法師集団
@@ -216,7 +216,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198121
   default_thread_id: 1559266565
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198121/35198121.33706000
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198121/35198121.33706000
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: そして、世界へ…
@@ -229,7 +229,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35198120
   default_thread_id: 1559267644
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35198120/35198120.42935817
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35198120/35198120.42935817
 cast: "[キャスト]<br>シン＝ウォルフォード:小林裕介／アウグスト＝フォン＝アールスハイド:小松昌平／シシリー＝フォン＝クロード:本泉莉奈／マリア＝フォン＝メッシーナ:若井友希／マーリン＝ウォルフォード:屋良有作／メリダ＝ボーウェン:高島雅羅／オリバー=シュトローム:森川智之／アリス＝コーナー:久保田未夢／トール＝フォン＝フレーゲル:志田有彩／リン＝ヒューズ:山口
   愛／ユーリ＝カールトン:長妻樹里／トニー＝フレイド:小林 千晃／ユリウス＝フォン＝リッテンハイム:河本啓佑／マーク＝ビーン:葉山翔太／オリビア＝ストーン:佐藤沙耶／ミランダ＝ウォーレス:吉七味。／メイ＝フォン＝アールスハイド:雛乃木まや"
 staff: "[スタッフ]<br>原作:吉岡 剛（ファミ通文庫「賢者の孫」/ KADOKAWA刊）／キャラクター原案:菊池政治　緒方俊輔／監督:田村正文／シリーズ構成:髙橋龍也／キャラクターデザイン:澤入祐樹／美術監督:三宅昌和／色彩設計:重冨英里／撮影監督:佐藤

@@ -72,7 +72,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34913149
   default_thread_id: 1554427383
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34913149/34913149.14343775
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34913149/34913149.14343775
 - !ruby/hash:EpisodeHash
   episode_no: 2時限目
   title: ''
@@ -83,7 +83,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34954670
   default_thread_id: 1555030983
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34954670/34954670.61481668
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34954670/34954670.61481668
 - !ruby/hash:EpisodeHash
   episode_no: 3時限目
   title: ''
@@ -94,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34992461
   default_thread_id: 1555642322
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34992461/34992461.85775201
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34992461/34992461.85775201
 - !ruby/hash:EpisodeHash
   episode_no: 4時限目
   title: ''
@@ -106,7 +106,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026968
   default_thread_id: 1556240582
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35026968/35026968.53407772
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026968/35026968.53407772
 - !ruby/hash:EpisodeHash
   episode_no: 5時限目
   title: ''
@@ -117,7 +117,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35028091
   default_thread_id: 1556262784
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35028091/35028091.17230915
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35028091/35028091.17230915
 - !ruby/hash:EpisodeHash
   episode_no: 6時限目
   title: ''
@@ -128,7 +128,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35093906
   default_thread_id: 1557277986
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35093906/35093906.45065679
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35093906/35093906.45065679
 - !ruby/hash:EpisodeHash
   episode_no: 7時限目
   title: ''
@@ -139,7 +139,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35134428
   default_thread_id: 1558054983
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35134428/35134428.94337209
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35134428/35134428.94337209
 - !ruby/hash:EpisodeHash
   episode_no: 8時限目
   title: ''
@@ -150,7 +150,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35162773
   default_thread_id: 1558577583
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35162773/35162773.73617072
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35162773/35162773.73617072
 - !ruby/hash:EpisodeHash
   episode_no: 9時限目
   title: ''
@@ -161,7 +161,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35194289
   default_thread_id: 1559178188
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35194289/35194289.84168394
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35194289/35194289.84168394
 - !ruby/hash:EpisodeHash
   episode_no: 10時限目
   title: ''
@@ -172,7 +172,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35225899
   default_thread_id: 1559784848
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35225899/35225899.84317563
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35225899/35225899.84317563
 - !ruby/hash:EpisodeHash
   episode_no: 11時限目
   title: ''
@@ -183,7 +183,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35261062
   default_thread_id: 1560474183
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261062/35261062.67327763
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35261062/35261062.67327763
 - !ruby/hash:EpisodeHash
   episode_no: 12時限目
   title: ''
@@ -194,7 +194,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35292730
   default_thread_id: 1561093325
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35292730/35292730.51096074
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35292730/35292730.51096074
 cast: "[キャスト]<br>児嶋加奈:上坂すみれ／佐藤一郎:鈴木崚汰／松風真由:後藤邑子／鈴木 凛:増田俊樹／葉桜ひかり:石上静香／高橋 隆:山本和臣／立花千鶴:山本希望／田中
   甲:小林裕介"
 staff: "[スタッフ]<br>原作:蘇募ロウ「なんでここに先生が!?」（講談社「ヤングマガジン」連載）／総監督:金子ひらく／監督:所俊克／キャラクターデザイン・総作画監督:たむらかずひこ／脚本:高林ユーキ・藤丸悠里／美術監督:hidehide／美術設定:椎野隆介／色彩設計:古川康一／コンポジットディレクター:みやがわよしかず／編集:柳圭介／音楽:吟(BUSTED

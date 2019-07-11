@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34864810
   default_thread_id: 1553735043
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34864810/34864810.36163950
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34864810/34864810.36163950
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 501汚部屋掃除します？
@@ -100,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34864809
   default_thread_id: 1553735164
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34864809/34864809.39622087
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34864809/34864809.39622087
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 501買い出しに出かけます？
@@ -112,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34864817
   default_thread_id: 1553735162
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/34864817/34864817.93927024
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34864817/34864817.93927024
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 501ハロウィンします？
@@ -124,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017448
   default_thread_id: 1556068863
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35017448/35017448.67183426
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017448/35017448.67183426
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 501散髪します？
@@ -136,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022067
   default_thread_id: 1556154364
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022067/35022067.42340919
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022067/35022067.42340919
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 501ストレスを感じます？
@@ -148,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35022068
   default_thread_id: 1556154422
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35022068/35022068.57832305
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35022068/35022068.57832305
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 501節分します？
@@ -160,7 +160,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149884
   default_thread_id: 1558314365
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149884/35149884.94862820
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149884/35149884.94862820
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 501夜間勤務します？
@@ -172,7 +172,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149885
   default_thread_id: 1558314243
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35149885/35149885.8985961
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149885/35149885.8985961
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 501飛べなくなります？
@@ -184,7 +184,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35213712
   default_thread_id: 1559525043
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213712/35213712.43605592
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35213712/35213712.43605592
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 501夏、感じちゃいます？
@@ -196,7 +196,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35213713
   default_thread_id: 1559525045
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35213713/35213713.6730055
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35213713/35213713.6730055
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 501人命救助します？
@@ -208,7 +208,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35261064
   default_thread_id: 1560474254
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35261064/35261064.42278699
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35261064/35261064.42278699
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 501解散します？
@@ -220,7 +220,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35280233
   default_thread_id: 1560821764
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35280233/35280233.42329338
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35280233/35280233.42329338
 cast: "[キャスト]<br>宮藤芳佳:福圓美里／坂本美緒:世戸さおり／リネット・ビショップ:名塚佳織／ペリーヌ・クロステルマン:沢城みゆき／ミーナ・ディートリンデ・ヴィルケ:田中理恵／ゲルトルート・バルクホルン:園崎未恵／エーリカ・ハルトマン:野川さくら／フランチェスカ・ルッキーニ:斎藤千和／シャーロット・E・イェーガー:小清水亜美／サーニャ・V・リトヴャク:門脇舞以／エイラ・イルマタル・ユーティライネン:大橋歩夕"
 staff: "[スタッフ]<br>原作:島田フミカネ&Projekt Kagonish／漫画:藤林真／監督:伊藤史夫／キャラクターデザイン:安食圭／シリーズ文芸:村上深夜／音楽:長岡成貢／音楽制作:日本コロムビア／音響監督:吉田知弘／音響制作:グロービジョン／プロデュース:立崎孝史／アニメーション制作:Acca
   effe 戯画プロダクション／アニメーション制作協力:プロダクションI.G アニメビーンズ／製作:第501統合戦闘航空団2019"

@@ -94,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33559270
   default_thread_id: 1532103546
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33559270/33559270.459503
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33559270/33559270.459503
 - !ruby/hash:EpisodeHash
   episode_no: 第39話
   title: 痛み
@@ -106,7 +106,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586564
   default_thread_id: 1532576406
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33586564/33586564.15037914
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586564/33586564.15037914
 - !ruby/hash:EpisodeHash
   episode_no: 第40話
   title: 昔話
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33607728
   default_thread_id: 1532917748
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33607728/33607728.6609532
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33607728/33607728.6609532
 - !ruby/hash:EpisodeHash
   episode_no: 第41話
   title: 信頼
@@ -130,7 +130,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33644569
   default_thread_id: 1533520804
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33644569/33644569.69322773
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33644569/33644569.69322773
 - !ruby/hash:EpisodeHash
   episode_no: 第42話
   title: 回答
@@ -142,7 +142,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33681551
   default_thread_id: 1534123267
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33681551/33681551.84651935
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33681551/33681551.84651935
 - !ruby/hash:EpisodeHash
   episode_no: 第43話
   title: 罪
@@ -154,7 +154,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33725251
   default_thread_id: 1534813748
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33725251/33725251.31642405
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33725251/33725251.31642405
 - !ruby/hash:EpisodeHash
   episode_no: 第44話
   title: 願い
@@ -166,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33778679
   default_thread_id: 1535687404
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33778679/33778679.63582950
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33778679/33778679.63582950
 - !ruby/hash:EpisodeHash
   episode_no: 第45話
   title: オルブド区外壁
@@ -178,7 +178,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33815810
   default_thread_id: 1536283926
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33815810/33815810.25225603
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33815810/33815810.25225603
 - !ruby/hash:EpisodeHash
   episode_no: 第46話
   title: 壁の王
@@ -190,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33853751
   default_thread_id: 1536910324
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33853751/33853751.75852104
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33853751/33853751.75852104
 - !ruby/hash:EpisodeHash
   episode_no: 第47話
   title: 友人
@@ -202,7 +202,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33893167
   default_thread_id: 1537516746
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33893167/33893167.22474101
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33893167/33893167.22474101
 - !ruby/hash:EpisodeHash
   episode_no: 第48話
   title: 傍観者
@@ -214,7 +214,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33941436
   default_thread_id: 1538270223
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33941436/33941436.49574672
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33941436/33941436.49574672
 - !ruby/hash:EpisodeHash
   episode_no: 第49話
   title: 奪還作戦の夜
@@ -226,7 +226,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33995942
   default_thread_id: 1539136147
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/33995942/33995942.37348298
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33995942/33995942.37348298
 - !ruby/hash:EpisodeHash
   episode_no: 第50話
   title: はじまりの街
@@ -238,7 +238,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35028739
   default_thread_id: 1556271123
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35028739/35028739.14832288
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35028739/35028739.14832288
 - !ruby/hash:EpisodeHash
   episode_no: 第51話
   title: 雷槍
@@ -250,7 +250,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037559
   default_thread_id: 1556415129
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35037559/35037559.52080741
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037559/35037559.52080741
 - !ruby/hash:EpisodeHash
   episode_no: 第52話
   title: 光臨
@@ -262,7 +262,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35038433
   default_thread_id: 1556429463
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35038433/35038433.31240169
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35038433/35038433.31240169
 - !ruby/hash:EpisodeHash
   episode_no: 第53話
   title: 完全試合（パーフェクトゲーム）
@@ -274,7 +274,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35117385
   default_thread_id: 1557710705
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35117385/35117385.67247628
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35117385/35117385.67247628
 - !ruby/hash:EpisodeHash
   episode_no: 第54話
   title: 勇者
@@ -286,7 +286,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35182434
   default_thread_id: 1558935727
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35182434/35182434.38321070
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35182434/35182434.38321070
 - !ruby/hash:EpisodeHash
   episode_no: 第55話
   title: 白夜
@@ -298,7 +298,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35199410
   default_thread_id: 1559291951
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35199410/35199410.51339268
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35199410/35199410.51339268
 - !ruby/hash:EpisodeHash
   episode_no: 第56話
   title: 地下室
@@ -310,7 +310,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35230941
   default_thread_id: 1559891947
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35230941/35230941.51929575
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35230941/35230941.51929575
 - !ruby/hash:EpisodeHash
   episode_no: 第57話
   title: あの日
@@ -322,7 +322,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35262077
   default_thread_id: 1560498427
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35262077/35262077.62892808
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35262077/35262077.62892808
 - !ruby/hash:EpisodeHash
   episode_no: 第58話
   title: 進撃の巨人
@@ -334,7 +334,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35292197
   default_thread_id: 1561080063
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35292197/35292197.77525522
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35292197/35292197.77525522
 - !ruby/hash:EpisodeHash
   episode_no: 第59話
   title: 壁の向こう側
@@ -346,7 +346,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35324454
   default_thread_id: 1561691943
   channel_id: 2632720
-  thumbnail_url: http://nicovideo.cdn.nimg.jp/thumbnails/35324454/35324454.20702868
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35324454/35324454.20702868
 cast: "[キャスト]<br>エレン:梶裕貴／ミカサ:石川由依／アルミン:井上麻里奈／コニー:下野紘／サシャ:小林ゆう／クリスタ:三上枝織／ジャン:谷山紀章／ライナー:細谷佳正／ベルトルト:橋詰知久／ハンジ:朴璐美／エルヴィン:小野大輔／リヴァイ:神谷浩史／ケニー・アッカーマン:山路和弘／ロッド・レイス:屋良有作"
 staff: "[スタッフ]<br>原作:諫山 創（別冊少年マガジン連載／講談社）／総監督:荒木哲郎／監督:肥塚正史／シリーズ構成:小林靖子／キャラクターデザイン:浅野恭司／総作画監督:浅野恭司、門脇
   聡／助監督:田中洋之／アクション作画監督:今井有文、世良悠子、胡拓磨／美術設定:谷内優穂、藤井一志／巨人設定:千葉崇明／プロップデザイン:胡拓磨／色彩設計:橋本
