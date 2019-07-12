@@ -1,0 +1,95 @@
+--- !ruby/hash:SeasonHash
+title: グランベルム
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/85/3/22853_1_6.png?1562043600000
+outline: 世界中の魔力が消失してから1000年近くの時間が過ぎ、すでに魔法は人々の記憶からもすっかり忘れられていた。そんな世界で生きる明るく元気な高校生、小日向満月は前向きに暮らしながらも、心のどこかに不安を抱えていた。自分には何もない――。勉強も運動も得意ではない彼女は、自分だけにできる“何か”に憧れていた。夜空の月がやけに大きく感じられた満月の晩。彼女はもうひとりの月の名を持つ少女、新月エルネスタ深海と出会う。それは魔法人形“アルマノクス”との遭遇でもあった。満月の運命の歯車が、軋んだ音を立てて今動き始める――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤﨑千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 種﨑敦美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石見舞菜香
+  type: cast
+- !ruby/hash:TagHash
+  name: 高野麻里佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村珠莉
+  type: cast
+- !ruby/hash:TagHash
+  name: 島袋美由利
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤尾ひかる
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：末廣健一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Nexus
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：渡邊政治
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：今中敬
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 世界で唯一の魔術師
+  description: 真っ赤な満月の夜。ごく普通の高校生活を送っていた小日向満月は、忘れ物を取りに戻った学校で世界で唯一の魔術師になるために行われる戦い“グランベルム”に巻き込まれてしまう。そこで出会った少女・新月からこの世界がかつて魔法で溢れていたことを説明され、戸惑い逃げる満月だが…⁉<br><br>小日向
+    満月:島袋 美由利／新月エルネスタ深海:種﨑 敦美／アンナ・フーゴ:日笠 陽子／林 寧々:久保 ユリカ／袴田 水晶:悠木 碧／ロサ:赤﨑 千夏／土御門 九音:石見舞菜香／小日向
+    希望:赤尾 ひかる／林 菜々:木村 珠莉／林 美々:春日 望／土御門 四翠:田村 ゆかり／サーシャ:内山 夕実／クレア・フーゴ:高野 麻里佳<br><br>原案:ProjectGRANBELM
+    ／監督:渡邊 政治／シリーズ構成:花田 十輝／キャラクター原案:大塚 真一郎／キャラクターデザイン:今中 敬／アルマノクスデザイン:ジミー ストーン／音楽:末廣
+    健一郎／プロデュース:infinite／制作:Nexus／OPテーマ:「月を追う真夜中」歌：藍井エイル／EDテーマ:「願い」歌：Uru<br><br>©ProjectGRANBELM
+    <br><br>次話→so35371956
+  length_seconds: 1470
+  content_id: so35339857
+  default_thread_id: 1561944130
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35339857/35339857.66122387
+cast: "[キャスト]<br>小日向 満月:島袋 美由利／新月エルネスタ深海:種﨑 敦美／アンナ・フーゴ:日笠 陽子／林 寧々:久保 ユリカ／袴田 水晶:悠木
+  碧／ロサ:赤﨑 千夏／土御門 九音:石見舞菜香／小日向 希望:赤尾 ひかる／林 菜々:木村 珠莉／林 美々:春日 望／土御門 四翠:田村 ゆかり／サーシャ:内山
+  夕実／クレア・フーゴ:高野 麻里佳"
+staff: "[スタッフ]<br>原案:ProjectGRANBELM ／監督:渡邊 政治／シリーズ構成:花田 十輝／キャラクター原案:大塚 真一郎／キャラクターデザイン:今中
+  敬／アルマノクスデザイン:ジミー ストーン／音楽:末廣 健一郎／プロデュース:infinite／制作:Nexus／OPテーマ:「月を追う真夜中」歌：藍井エイル／EDテーマ:「願い」歌：Uru"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ProjectGRANBELM"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,89 @@
+--- !ruby/hash:SeasonHash
+title: ナカノヒトゲノム【実況中】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/82/7/22827_1_6.png?1562043600000
+outline: "『ナカノヒトゲノム』。ゲーム実況者たちの間で話題の、謎のフリーゲーム。通称、失踪ゲーム。クリア直前で姿を消すプレイヤーが後を絶たないという。行方不明となったゲーム実況者たちは、外界とは隔離されたとある島に集められていた。そこで彼らに課されたのは、リアルでクリアしなければならない数々のゲームにおいて、再生数一億を達成すること。８人のカリスマ実況者たちによる、帰還を賭けたリアルゲーム『ナカノヒトゲノム』の実況が始まる－－"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下大輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 鬼頭明里
+  type: cast
+- !ruby/hash:TagHash
+  name: 畠中祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 石見舞菜香
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：SILVER LINK.
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大沼心
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：髙橋瑞紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：おそら
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：佐藤純一
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：TEAMWHIM
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ＡＲＥ　ＷＥ　ＦＲＩＥＮＤＳ
+  description: "――『これよりお迎えにあがります』。「ナカノヒトゲノム」の実況主・アカツキがゲームを終えた途端、画面に意味深な言葉が……。次に目を覚ますと、そこは見知らぬ山の中だった。倒れていた女子高生実況主・カリンを助けようとして鉄拳を食らわされたアカツキだが、二人で周囲を探索することになった。道に迷うその時、ありえないサイズの巨大パンダが現れ、二人に襲いかかる…！？<br><br>入出アカツキ:山下大輝／更屋敷カリン:鬼頭明里／鬼ヶ崎カイコク:佐藤拓也／駆堂アンヤ:畠中
+    祐／忍霧ザクロ:内山昂輝／伊奈葉ヒミコ:石見舞菜香／逢河マキノ:寺島拓篤／路々森ユズ:名塚佳織／パカ:津田健次郎<br><br>原作:おそら（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:大沼心／シリーズ構成:下山健人／キャラクターデザイン:髙橋瑞紀／プロップデザイン:佐藤秋子／メインアニメーター:藤田亜耶乃／美術監督:片平真司（スタジオアカンサス）／色彩設計:月野えりか／撮影監督:新谷優子、菊池優太郎／編集:近藤勇二（REAL-T）／音響監督:土屋雅紀／音響効果:倉橋裕宗／音響制作:ビットプロモーション／音楽:佐藤純一（fhána）、TEAM
+    WHIM／音楽プロデューサー:佐藤純之介、佐藤純一（fhána）／音楽制作:ランティス／アニメーション制作:SILVER LINK.／製作:ナカノヒトゲノム【実況中】製作委員会／OP主題歌:「not
+    GAME」畠中 祐／ED主題歌:「僕を見つけて」fhána<br><br>©2019 おそら／KADOKAWA／ナカノヒトゲノム【実況中】製作委員会<br><br>次話→so35388752"
+  length_seconds: 1420
+  content_id: so35356498
+  default_thread_id: 1562292010
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35356498/35356498.46208793
+cast: "[キャスト]<br>入出アカツキ:山下大輝／更屋敷カリン:鬼頭明里／鬼ヶ崎カイコク:佐藤拓也／駆堂アンヤ:畠中 祐／忍霧ザクロ:内山昂輝／伊奈葉ヒミコ:石見舞菜香／逢河マキノ:寺島拓篤／路々森ユズ:名塚佳織／パカ:津田健次郎"
+staff: "[スタッフ]<br>原作:おそら（MFCジーンピクシブシリーズ／KADOKAWA刊）／監督:大沼心／シリーズ構成:下山健人／キャラクターデザイン:髙橋瑞紀／プロップデザイン:佐藤秋子／メインアニメーター:藤田亜耶乃／美術監督:片平真司（スタジオアカンサス）／色彩設計:月野えりか／撮影監督:新谷優子、菊池優太郎／編集:近藤勇二（REAL-T）／音響監督:土屋雅紀／音響効果:倉橋裕宗／音響制作:ビットプロモーション／音楽:佐藤純一（fhána）、TEAM
+  WHIM／音楽プロデューサー:佐藤純之介、佐藤純一（fhána）／音楽制作:ランティス／アニメーション制作:SILVER LINK.／製作:ナカノヒトゲノム【実況中】製作委員会／OP主題歌:「not
+  GAME」畠中 祐／ED主題歌:「僕を見つけて」fhána"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019 おそら／KADOKAWA／ナカノヒトゲノム【実況中】製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: ダンベル何キロ持てる？
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/85/8/22858_1_6.png?1562043600000
+outline: "「ひびき……お前、また太った？」食べることが大好きな女子高生・紗倉 ひびき(さくら・ひびき)の心に突き刺さった友人の非情な一言。 夏休みまでに絶対に痩せてみせるとダイエットを決意したひびきだったが、
+  一人ではまともに運動も続けられない体たらく。こうなったらとひびきが足を運んだ先はトレーニングジムだった！そして入会したジムで同級生のカリスマ美少女生徒会長・奏流院朱美(そうりゅういん・あけみ)と出会ったひびきは、深くて楽しい筋トレの世界へ足を踏み入れることに……。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 石上静香
+  type: cast
+- !ruby/hash:TagHash
+  name: ファイルーズあい
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：動画工房
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：橋本由香利
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：菊池愛
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山﨑みつえ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サンドロビッチ・ヤバ子
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 筋トレやってみる？
+  description: 高校二年生の紗倉ひびきは、ある日ダイエットのため一念発起。近所のスポーツクラブ、シルバーマンジムの見学に訪れる。だがそこは、プロの格闘家やアスリートが通う超ハイレベルのガチなトレーニングジムだった。果たしてひびきのダイエットは成功するのか。そして行く手には、どんなトレーニングが待ち受けているのか？！<br><br>紗倉ひびき:ファイルーズあい／奏流院朱美:雨宮
+    天／街雄鳴造:石川界人／上原彩也香:石上静香／ジーナ・ボイド:東山奈央／立花里美:堀江由衣／ナレーション:玄田哲章<br><br>原作:サンドロビッチ・ヤバ子／作画:MAAM(小学館「マンガワン」連載中)／監督:山﨑みつえ／シリーズ構成・脚本:志茂文彦／キャラクターデザイン:菊池愛／プロップデザイン:中島千明・松本恵／美術監督:杉浦美穂／色彩設計:真壁源太／撮影監督:伊藤邦彦／イメージグラフィックデザイン:桒野貴文／編集:武宮むつみ／音楽:橋本由香利／音響効果:白石唯果／キャスティングマネージャー:谷村誠／アニメーション制作:動画工房／製作:シルバーマンジム<br><br>©2019
+    サンドロビッチ・ヤバ子，MAAM・小学館／シルバーマンジム<br><br>次話→so35384474
+  length_seconds: 1420
+  content_id: so35356493
+  default_thread_id: 1562291886
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35356493/35356493.60452773
+cast: "[キャスト]<br>紗倉ひびき:ファイルーズあい／奏流院朱美:雨宮 天／街雄鳴造:石川界人／上原彩也香:石上静香／ジーナ・ボイド:東山奈央／立花里美:堀江由衣／ナレーション:玄田哲章"
+staff: "[スタッフ]<br>原作:サンドロビッチ・ヤバ子／作画:MAAM(小学館「マンガワン」連載中)／監督:山﨑みつえ／シリーズ構成・脚本:志茂文彦／キャラクターデザイン:菊池愛／プロップデザイン:中島千明・松本恵／美術監督:杉浦美穂／色彩設計:真壁源太／撮影監督:伊藤邦彦／イメージグラフィックデザイン:桒野貴文／編集:武宮むつみ／音楽:橋本由香利／音響効果:白石唯果／キャスティングマネージャー:谷村誠／アニメーション制作:動画工房／製作:シルバーマンジム"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019 サンドロビッチ・ヤバ子，MAAM・小学館／シルバーマンジム"
+related_seasons: !ruby/array:Hashie::Array []

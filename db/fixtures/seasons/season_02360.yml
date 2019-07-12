@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: 凹凸世界　シーズン2
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/87/5/22875_1_6.png?1562043600000
+outline: 姉を探すために凹凸大会に出場したジンが、仲間と共に危機を乗り越え、ついに予選を突破した。しかし息つく暇もなく、ギリギリなトーナメント戦が始まる。一方、裏に隠された観戦者たちの正体も浮かび上がり、それぞれの悪巧みを抱え、残酷になりつつある試合を楽しんでいる。勝たなければならない試合。ジンたちに、どのような試練が待っているのか…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 内藤玲
+  type: cast
+- !ruby/hash:TagHash
+  name: 尾崎真実
+  type: cast
+- !ruby/hash:TagHash
+  name: 下山吉光
+  type: cast
+- !ruby/hash:TagHash
+  name: 芝崎典子
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤祐吾
+  type: cast
+- !ruby/hash:TagHash
+  name: 児玉卓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 峯田大夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 安部亮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：周亮
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：7DOC
+  type: staff
+- !ruby/hash:TagHash
+  name: 凹凸世界シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: トーナメント開始
+  description: 3日間の昏睡状態から目覚めたジンは自分と仲間たちが予選を通過したことを知る。次はいよいよトーナメント戦。危険に満ちたレースがジンたちを待ち受けていた―。<br><br>ジン:柿原徹也／ブラック:M・A・O／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ガドロス:前田誠ニ／アンミシュウ:小野友樹／アンリーチェ:伊藤美来／インチェ:峯田大夢／ダニエル:徳森圭輔／ペリー:伊東隼人／アイビー:尾崎真実／エイミー:櫻井菜々絵／パロス:ケンコー／カミル:田村昇三／ライシー:佐藤祐吾／レイド:下山吉光／ロードレ:三浦勝之／超能研究所所長:内藤玲<br><br>監督:周亮／脚本:云落／原作:7DOC<br><br>©7DOC<br><br>次話→so35388823
+  length_seconds: 1420
+  content_id: so35352292
+  default_thread_id: 1562203808
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35352292/35352292.1202302
+cast: "[キャスト]<br>ジン:柿原徹也／ブラック:M・A・O／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ガドロス:前田誠ニ／アンミシュウ:小野友樹／アンリーチェ:伊藤美来／インチェ:峯田大夢／ダニエル:徳森圭輔／ペリー:伊東隼人／アイビー:尾崎真実／エイミー:櫻井菜々絵／パロス:ケンコー／カミル:田村昇三／ライシー:佐藤祐吾／レイド:下山吉光／ロードレ:三浦勝之／超能研究所所長:内藤玲"
+staff: "[スタッフ]<br>監督:周亮／脚本:云落／原作:7DOC"
+produced_year: "[製作年]<br>2019年"
+copyright: "©7DOC"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 凹凸世界

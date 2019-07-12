@@ -50,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：studioぴえろ
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：関美奈子
+  name: 監督：吉原達矢
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：吉原達矢
+  name: 音楽：関美奈子
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：竹田逸子
@@ -1160,7 +1160,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35026976
   default_thread_id: 1556241193
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35026976/35026976.65332795
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35385084/35385084.77820170
 - !ruby/hash:EpisodeHash
   episode_no: ページ82
   title: プチット・クローバー！悪夢のチャーミーＳＰ！
@@ -1213,7 +1213,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186055
   default_thread_id: 1559006823
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186055/35186055.23293918
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35385087/35385087.86828170
 - !ruby/hash:EpisodeHash
   episode_no: ページ86
   title: ヤミとヴァンジャンス

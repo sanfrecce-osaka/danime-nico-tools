@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: RE:ステージ!ドリームデイズ♪
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/86/3/22863_1_6.png?1562043600000
+outline: 私立稀星学園 高尾校中等部。そこは芸能科のある本校と違ってごくごく普通の一般校。ある日、夢をあきらめた一人の少女が転校してくるところからこの物語は始まる。少女の名は式宮舞菜。抜群の歌と踊りのセンスを持ちながら、とある事情で本校から高尾校へとやってきた。ここで、平凡な毎日を過ごそうとしていた舞菜だったが、謡舞踊部という廃部寸前の部と出会う。もとは舞踊の活動をしていたその部は、廃部を免れるためにアイドル活動をしようとしていて――一度はあきらめようとした夢に、舞菜は仲間たちとともに再び歩み始める。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 鬼頭明里
+  type: cast
+- !ruby/hash:TagHash
+  name: 田澤茉純
+  type: cast
+- !ruby/hash:TagHash
+  name: 立花芽恵夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 空見ゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 牧野天音
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩橋由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：谷口元浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：片貝慎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ゆめ太カンパニー
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：グラフィニカ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: くっつけて、謡舞踊部
+  description: 遅咲きの桜がまだ残る頃、稀星学園高尾校に転校してきた舞菜は生徒会副会長の実に部活棟を案内されると、謡舞踊部という部に迷い込む。そこにいた瑞葉にサインを求められる舞菜だったが、よく見るとそれは入部届の紙で。瑞葉はもう一人の部員の紗由とともに部の存続のために部員を集めているのだった。しかし謡舞踊部の部活内容は、舞菜がやらないと決めたアイドルを目指す部活動で……<br><br>式宮舞菜（しきみや
+    まな）:牧野天音／月坂紗由（つきさか さゆ）:鬼頭明里／市杵島瑞葉（いちきしま みずは）:田澤茉純／柊かえ（ひいらぎ かえ）:立花芽恵夢／本城香澄（ほんじょう
+    かすみ）:岩橋由佳／長谷川みい（はせがわ みい）:空見ゆき<br><br>監督:片貝 慎（「アイシールド21」）／キャラクターデザイン:谷口元浩（「ゆるゆり
+    さん☆ハイ！」「劇場版 艦これ」）／キャラクター原案:和泉つばす（「あかね色に染まる坂」「ましろ色シンフォニー」）／シリーズ構成:team yoree.（冨田頼子（「ベルゼブブ嬢のお気に召すまま。」「ハイスコアガール」）、加茂靖子（「血界戦線
+    &amp; BEYOND」「だがしかし」）、浦畑達彦（「バキ」「徒然チルドレン」「咲-Saki-」）／制作:ゆめ太カンパニー（「ゆるゆり さん☆ハイ！」「ARIA
+    The AVVENIRE」）×グラフィニカ（「SSSS.GRIDMAN」「ガールズ&amp;パンツァー」「十二大戦」）<br><br>©Re:ステージ! ドリームデイズ♪
+    製作委員会<br><br>次話→so35388749
+  length_seconds: 1420
+  content_id: so35356502
+  default_thread_id: 1562292012
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35356502/35356502.54034417
+cast: "[キャスト]<br>式宮舞菜（しきみや まな）:牧野天音／月坂紗由（つきさか さゆ）:鬼頭明里／市杵島瑞葉（いちきしま みずは）:田澤茉純／柊かえ（ひいらぎ
+  かえ）:立花芽恵夢／本城香澄（ほんじょう かすみ）:岩橋由佳／長谷川みい（はせがわ みい）:空見ゆき"
+staff: "[スタッフ]<br>監督:片貝 慎（「アイシールド21」）／キャラクターデザイン:谷口元浩（「ゆるゆり さん☆ハイ！」「劇場版 艦これ」）／キャラクター原案:和泉つばす（「あかね色に染まる坂」「ましろ色シンフォニー」）／シリーズ構成:team
+  yoree.（冨田頼子（「ベルゼブブ嬢のお気に召すまま。」「ハイスコアガール」）、加茂靖子（「血界戦線 & BEYOND」「だがしかし」）、浦畑達彦（「バキ」「徒然チルドレン」「咲-Saki-」）／制作:ゆめ太カンパニー（「ゆるゆり
+  さん☆ハイ！」「ARIA The AVVENIRE」）×グラフィニカ（「SSSS.GRIDMAN」「ガールズ&パンツァー」「十二大戦」）"
+produced_year: "[製作年]<br>2019年"
+copyright: "©Re:ステージ! ドリームデイズ♪ 製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

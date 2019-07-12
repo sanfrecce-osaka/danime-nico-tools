@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: 胡蝶綺 ～若き信長～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/82/4/22824_1_6.png?1560132007000
+outline: 明日をも知れぬ戦国の時代を駆け抜けた織田信長。彼の元には常に乳兄弟であった池田恒興が控えていた。ただ生き残るために、ひたすらにあがき続ける。史実を点として押さえつつ、信長を中心としたキャラクターたちが、それを乗り越え新たな物語を紡ぎだしていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 立花慎之介
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林裕介
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 榎木淳弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木みのり
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：フライングドッグ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：阿部記之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中嶋敦子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：白戸佑輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 元服
+  description: 信長がまだ吉法師と呼ばれていた元服前のころ。吉法師は居心地の悪い城内から抜け出しては、領内の孤児達と盗賊の真似事をしていた。お目当ては三河守である父・信秀が手に入れた南蛮渡来のお宝。津島の湊でくすねたそれを売りさばき義賊を気取る吉法師だったが、あるとき彼が南蛮渡来の品々を隠し持っていることが城内で知られてしまう。父に問いただされた吉法師は……。<br><br>織田信長:小林裕介／池田恒興:内田雄馬／織田信勝:石川界人／帰蝶:花守ゆみり／前田利家:寺島拓篤／沢彦宗恩:立花慎之介／滝川一益:榎木淳弥／おはな:沼倉愛美／お市:東山奈央／生駒吉乃:鈴木みのり／佐々成政:高橋信／村井貞勝:前野智昭／津々木蔵人:日野聡<br><br>監督:阿部記之／キャラクターデザイン:中嶋敦子／シリーズ構成:山口亮太／脚本:笹野恵、澤田薫／音楽:白戸佑輔／音楽制作:フライングドッグ／OPテーマ:りぶ「疾走」／EDテーマ:May'n「牙と翼」／アニメーション制作:スタジオディーン<br><br>©揚羽母衣衆/胡蝶綺製作委員会<br><br>次話→so35339856
+  length_seconds: 1420
+  content_id: so35339855
+  default_thread_id: 1561943943
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35339855/35339855.18515375
+cast: "[キャスト]<br>織田信長:小林裕介／池田恒興:内田雄馬／織田信勝:石川界人／帰蝶:花守ゆみり／前田利家:寺島拓篤／沢彦宗恩:立花慎之介／滝川一益:榎木淳弥／おはな:沼倉愛美／お市:東山奈央／生駒吉乃:鈴木みのり／佐々成政:高橋信／村井貞勝:前野智昭／津々木蔵人:日野聡"
+staff: "[スタッフ]<br>監督:阿部記之／キャラクターデザイン:中嶋敦子／シリーズ構成:山口亮太／脚本:笹野恵、澤田薫／音楽:白戸佑輔／音楽制作:フライングドッグ／OPテーマ:りぶ「疾走」／EDテーマ:May'n「牙と翼」／アニメーション制作:スタジオディーン"
+produced_year: "[製作年]<br>2019年"
+copyright: "©揚羽母衣衆/胡蝶綺製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
