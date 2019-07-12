@@ -9,7 +9,8 @@ module Scraping
         'ジャイアント・ロボ THE ANIMATION 外伝 銀鈴 GinRei 青い瞳の銀鈴 GinRei with blue eyes',
         '秘密結社 鷹の爪 THE MOVIE～総統は二度死ぬ～',
         '秘密結社 鷹の爪 THE MOVIE II～私を愛した黒烏龍茶～',
-        '秘密結社 鷹の爪 THE MOVIE III～http://鷹の爪.jpは永遠に～'
+        '秘密結社 鷹の爪 THE MOVIE III～http://鷹の爪.jpは永遠に～',
+        '戦姫絶唱シンフォギアXV'
       ].map(&:freeze).freeze
 
     class_attribute :season, :targets
@@ -44,15 +45,22 @@ module Scraping
 
       def modify_title(different_title)
         words =
-          ['秘密結社 鷹の爪 ', 'ジャイアント・ロボ THE ANIMATION 外伝 銀鈴 GinRei '].map { |word| "(#{word})" }.join('|')
+          ['秘密結社 鷹の爪 ', 'ジャイアント・ロボ THE ANIMATION 外伝 銀鈴 GinRei ', '戦姫絶唱シンフォギア']
+            .map { |word| "(#{word})" }
+            .join('|')
         matches = different_title.match(%r((#{words})(.+)))
-        "#{matches[1]} #{matches[4]}" if matches
+        if matches[1] == '戦姫絶唱シンフォギア'
+          different_title.sub('XV', 'ＸＶ')
+        elsif matches
+          "#{matches[1]} #{matches[4]}"
+        end
       end
 
       def fetch_season_thumbnail_url_and_move_to_season_page
         logger.debug('getting thumbnail url now...')
         return @season.watchable = false if result_is_zero?
         sleep 1
+        @season.title = modify_title(@season.title) if DanimeHeadStore::DIFFERENT_SEASON_TITLES.include?(@season.title)
         target_item =
           @driver
             .find_elements(:class, 'itemModuleIn')
