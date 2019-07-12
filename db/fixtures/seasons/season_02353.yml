@@ -1,0 +1,77 @@
+--- !ruby/hash:SeasonHash
+title: ありふれた職業で世界最強
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/83/4/22834_1_6.png?1560306633000
+outline: "“いじめられっ子”の南雲ハジメは、クラスメイトと共に異世界へ召喚されてしまう。つぎつぎに戦闘向きのチート能力を発現するクラスメイトとは裏腹に、錬成師という地味な能力のハジメ。異世界でも最弱の彼は、あるクラスメイトの悪意によって迷宮の奈落に突き落とされてしまい――!?脱出方法が見つからない絶望の淵のなか、錬成師のまま最強へ至る道を見つけたハジメは、吸血鬼のユエと運命の出会いを果たす――。「俺がユエを、ユエが俺を守る。それで最強だ。全部薙ぎ倒して世界を越えよう」奈落の少年と最奥の吸血鬼による“最強”異世界ファンタジー、開幕！――そして、少年は“最強”を超える。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 大西沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 加隈亜衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋未奈美
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑原由気
+  type: cast
+- !ruby/hash:TagHash
+  name: 深町寿成
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高橋諒
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：よしもときんじ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小島智加
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：asread.×WHITEFOX
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：白米良
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 奈落の底の化け物
+  description: クラスメイトと共に異世界へ召喚された”いじめられっ子”の少年・南雲ハジメはクラスメイトの裏切りにより、迷宮の奈落へ突き落とされてしまう。奈落に潜む魔物に襲われ、必死に逃げるハジメ。しかし、錬成師という地味な能力では太刀打ちできるはずもなく、重傷を負ってしまう。異世界でも最弱の彼は心身共に絶望の淵に立たされ――。<br><br>南雲ハジメ:深町寿成／ユエ:桑原由気／シア・ハウリア:高橋未奈美／ティオ・クラルス:日笠陽子／白崎香織:大西沙織／八重樫雫:花守ゆみり／天之河光輝:柿原徹也／畑山愛子:加隈亜衣<br><br>原作:白米良（オーバーラップ文庫刊）／イラスト:たかやKi／監督:よしもときんじ／シリーズ構成・脚本:佐藤勝一・※本欣司（※「土」が上の「吉」）／キャラクターデザイン・総作画監督:小島智加／音楽:高橋諒／アニメーション制作:asread.×WHITE
+    FOX<br><br>©白米良・オーバーラップ/ありふれた製作委員会<br><br>次話→so35389389
+  length_seconds: 1415
+  content_id: so35356495
+  default_thread_id: 1562292004
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35385097/35385097.21413660
+cast: "[キャスト]<br>南雲ハジメ:深町寿成／ユエ:桑原由気／シア・ハウリア:高橋未奈美／ティオ・クラルス:日笠陽子／白崎香織:大西沙織／八重樫雫:花守ゆみり／天之河光輝:柿原徹也／畑山愛子:加隈亜衣"
+staff: "[スタッフ]<br>原作:白米良（オーバーラップ文庫刊）／イラスト:たかやKi／監督:よしもときんじ／シリーズ構成・脚本:佐藤勝一・※本欣司（※「土」が上の「吉」）／キャラクターデザイン・総作画監督:小島智加／音楽:高橋諒／アニメーション制作:asread.×WHITE
+  FOX"
+produced_year: "[製作年]<br>2019年"
+copyright: "©白米良・オーバーラップ/ありふれた製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

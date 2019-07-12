@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: 魔王様、リトライ！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/88/2/22882_1_6.png?1562043600000
+outline: 大野晶は自身が運営する「GAME」内のラスボス「魔王・九内伯斗」にログインしたまま異世界へと飛ばされてしまう。そこで出会った片足が不自由な少女と旅を始めるが、圧倒的な力を持つ「魔王」の存在を周囲が放っておくことはなかった。魔王を討伐しようとする国や聖女から狙われ、一行は行く先々で様々な騒動を巻き起こすことに…！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳井青空
+  type: cast
+- !ruby/hash:TagHash
+  name: 久保ユリカ
+  type: cast
+- !ruby/hash:TagHash
+  name: 石原夏織
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒浪和沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：木村寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：宝野聡史
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中山知世
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：EKACHI EPILKA
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：神埼黒音
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 魔王降臨
+  description: 普通の会社員、大野 晶は自らが運営するゲームのキャラ、魔王「九内伯斗」にログインしたまま異世界へと飛ばされてしまった。予想外の事態に混乱していたところ、悪魔への生贄にされた少女、アクと出会い親交を深める。彼女の案内で願いの祠へと向かうのだが―――。<br><br>九内伯斗:津田健次郎／アク:高尾奏音／ルナ・エレガント:石原夏織／キラー・クイーン:戸松
+    遥／エンジェル・ホワイト:豊崎愛生／桐野 悠:佐藤利奈／ミカン:生天目仁美／ユキカゼ:徳井青空／霧雨 零:森久保祥太郎／モモ:久保ユリカ／キョン:荒浪和沙／トロン:木下鈴奈／ミンク:桜咲千依／オルガン:M・A・O／田原
+    勇:関 智一<br><br>原作:神埼黒音　(『魔王様、リトライ！』/双葉社・Mノベルス)／監督:木村寛／シリーズ構成:谷崎央佳／キャラクター原案:飯野まこと／キャラクターデザイン・プロップデザイン:中山知世／美術設定:スタジオWHO／美術監督:下元智子／色彩設計:有尾由紀子／撮影監督:岡田由紀／編集:柳編集室／音響監督:阿部信行／録音:野川“ZILL”靖友／音響制作:オンリード／音楽:宝野聡史／アニメーション制作:EKACHI
+    EPILKA／製作:「魔王様、リトライ！」製作委員会<br><br>© 神埼黒音／双葉社・「魔王様、リトライ！」製作委員会<br><br>次話→so35380339
+  length_seconds: 1420
+  content_id: so35357385
+  default_thread_id: 1562312525
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35357385/35357385.53480839
+cast: "[キャスト]<br>九内伯斗:津田健次郎／アク:高尾奏音／ルナ・エレガント:石原夏織／キラー・クイーン:戸松 遥／エンジェル・ホワイト:豊崎愛生／桐野
+  悠:佐藤利奈／ミカン:生天目仁美／ユキカゼ:徳井青空／霧雨 零:森久保祥太郎／モモ:久保ユリカ／キョン:荒浪和沙／トロン:木下鈴奈／ミンク:桜咲千依／オルガン:M・A・O／田原
+  勇:関 智一"
+staff: "[スタッフ]<br>原作:神埼黒音　(『魔王様、リトライ！』/双葉社・Mノベルス)／監督:木村寛／シリーズ構成:谷崎央佳／キャラクター原案:飯野まこと／キャラクターデザイン・プロップデザイン:中山知世／美術設定:スタジオWHO／美術監督:下元智子／色彩設計:有尾由紀子／撮影監督:岡田由紀／編集:柳編集室／音響監督:阿部信行／録音:野川“ZILL”靖友／音響制作:オンリード／音楽:宝野聡史／アニメーション制作:EKACHI
+  EPILKA／製作:「魔王様、リトライ！」製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "© 神埼黒音／双葉社・「魔王様、リトライ！」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

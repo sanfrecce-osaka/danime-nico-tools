@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：KADOKAWA
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：田中紀衣
+  name: 音楽：高田龍一
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：高田龍一
+  name: キャラクターデザイン：田中紀衣
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：田中秀和

@@ -1,0 +1,87 @@
+--- !ruby/hash:SeasonHash
+title: うさぎのマシュー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/87/7/22877_1_6.png?1562115656000
+outline: 妄想癖のある心配性なうさぎのマシューと、おまじないが趣味でネガティブなカエルのケロン、無口でマイペースで歌が得意なハムスターのハム。不思議な森を舞台に、ちょっぴり自信がない三匹の、ちっちゃくて弱いけどなんだかんだ楽しく過ごしている日常を描いたコメディ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 明坂聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上千尋
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：カンザキジュン
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：クオン
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：MMDGP
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2018年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第13話
+  title: おまじない／かざぐるま／謎の穴／ハムの習性／ケロの見栄／横取り／ねぼすけ／お祝い／迷い道？／まんまる／緊急事態／ラスボス／マシューの発明
+  description: ぜんぜん大丈夫じゃないよ／時には嘘をついてもいいよね／そもそも入らないほうがいいね／たのしませるのもほどほどに／どうやって生活しているの？／念ずればきっと落ちるはず／そして繰り返される・・・／また繰り返される・・・／すてきなおうちでよかったね／また明日まで待とうね／なんでも入るケロのくち／ゲームのやりすぎにはご注意／意地でもこのままで大丈夫<br><br>マシュー:竹達彩奈／ケロン:川上千尋／ハム:明坂聡美<br><br>原作:クオン社/MMDGP／アニメーション制作:勝鬨スタジオ／監督:カンザキジュン／脚本:いざわひろし／音響制作:ダックスプロダクション／音響監督:大室正勝<br><br>©QUAN/MMDGP/マシュー<br><br>次話→so35352290
+  length_seconds: 793
+  content_id: so35352291
+  default_thread_id: 1562203449
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35352291/35352291.1324101
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話～第26話
+  title: マシューの耳／結果オーライ？／どした？／くしゃみ／想定外／よけいなお世話？／ふーふー／トラウマ／ケロの過去／指定席／ジャムづくり／個性／楽器
+  description: それぞれ違ってあたりまえ／次はみんなで行こうね／急にスイッチが入ったね／意地の張り合い／ケロの計画とは違った／いつも最悪のケースを考える／とりあえず落ち着こう／そんなことよりはやくおやつを／いまのままのケロでいて／指定席とは／しばらくりんごはいらない／でてくるでてくる／役に立つケロ（の棒）<br><br>マシュー:竹達彩奈／ケロン:川上千尋／ハム:明坂聡美<br><br>原作:クオン社/MMDGP／アニメーション制作:勝鬨スタジオ／監督:カンザキジュン／脚本:いざわひろし／音響制作:ダックスプロダクション／音響監督:大室正勝<br><br>©QUAN/MMDGP/マシュー<br><br>so35352291←前話｜次話→so35352289　第一話→so35352291
+  length_seconds: 793
+  content_id: so35352290
+  default_thread_id: 1562203446
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35352290/35352290.50146592
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話～第39話
+  title: さようならハム／ケロの呪い／ハムの一日／ひがいもうそう／知恵の輪／くるみ／マシューの発明2／好き嫌い／ころころおふとん／きらきらおほしさま／じゃがいもケロ／ケロの呪い2／居場所
+  description: 少し浮きはじめてから判断してもよかったね／いろいろとみんな災難／こうして一日が終わる／だれも悪くない世界／いつでも渡せるように持っておこう／みんなでおいしくいただきたい／みんなでおいしくいただきます／よろこんでよいのかよくないのか／すぐに改良をしようね／手に入らなくても幸せはころがってるね／いいからはやく助けてあげて／自分にも返ってくる禁断の呪い／どこにも行かないでね<br><br>マシュー:竹達彩奈／ケロン:川上千尋／ハム:明坂聡美<br><br>原作:クオン社/MMDGP／アニメーション制作:勝鬨スタジオ／監督:カンザキジュン／脚本:いざわひろし／音響制作:ダックスプロダクション／音響監督:大室正勝<br><br>©QUAN/MMDGP/マシュー<br><br>so35352290←前話｜次話→so35352288　第一話→so35352291
+  length_seconds: 793
+  content_id: so35352289
+  default_thread_id: 1562203444
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35352289/35352289.18485084
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話～第52話
+  title: かくれんぼ／ふわふわ／湖の休日／ハムのしっぽ／たのしいこと／風邪のマシュー／しあわせゲーム／カエルのくせに／それぞれの道／ゴーグル／そんたくマシュー／へんなやつら／今日も良い日
+  description: ちょっぴり大人のマシュー／ふわふわもほどほどに／おやすみは邪魔しないであげて／なんでも出てくるハムの口／とてもたのしそうにみえるけども／お願いだからそっとして／ルールがあいまいしあわせゲーム／呪いがケロの味方する／ケロは一匹でいいや／また改良をしようね／都合の良いおまじない／よくわからない状況のマシューたち／みんながいると楽しいね<br><br>マシュー:竹達彩奈／ケロン:川上千尋／ハム:明坂聡美<br><br>原作:クオン社/MMDGP／アニメーション制作:勝鬨スタジオ／監督:カンザキジュン／脚本:いざわひろし／音響制作:ダックスプロダクション／音響監督:大室正勝<br><br>©QUAN/MMDGP/マシュー<br><br>so35352289←前話　第一話→so35352291
+  length_seconds: 793
+  content_id: so35352288
+  default_thread_id: 1562203451
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35352288/35352288.55388327
+cast: "[キャスト]<br>マシュー:竹達彩奈／ケロン:川上千尋／ハム:明坂聡美"
+staff: "[スタッフ]<br>原作:クオン社/MMDGP／アニメーション制作:勝鬨スタジオ／監督:カンザキジュン／脚本:いざわひろし／音響制作:ダックスプロダクション／音響監督:大室正勝"
+produced_year: "[製作年]<br>2018年"
+copyright: "©QUAN/MMDGP/マシュー"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,67 @@
+--- !ruby/hash:SeasonHash
+title: 今日もツノがある
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/87/6/22876_1_6.png?1562115672000
+outline: ツノの生えた黄色いカエルの日常のお話。いつもワイワイ楽しくすごしてます。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 蒼井翔太
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：黒田賢一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：STUDY優作
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第13話
+  title: ものしり／かげのどりょく／伝説認定面接／だいじなツノ／わすれもの／寝ぐせ／ビリビリ／ばくしょう／ほしがり／もちネタ／振りかえると／せいちょう／イケメン
+  description: なぜアイスが冷たいかしってる？／どりょくが実をむすぶ／芸は身をたすける／ツノがないと力がでない／かわいいからつい／寝ぐせにごちゅうい／足のしびれにごちゅうい／地面をたたくといたいね／つぎの機会はきっとない／あとはテンポをよくしよう／振りかえればカワウソがいる／濡れたらよく乾かそうね／だってちがうから<br><br>ツノガエル:八代
+    拓／ネッシー:斉藤壮馬／モコザラシ:石川界人／エビフライ:内田雄馬／魚人:蒼井翔太／ナレーション・効果音:堀江由衣　他<br><br>原作・脚本:STUDY優作／原案:STUDY
+    YU-SAKU/MMDGP／アニメーション制作:勝鬨スタジオ／アニメーション監督:尾中たけし／音響制作:チャンスイン／音響監督:サイトウ ユウ／音楽:黒田賢一<br><br>©STUDY
+    YU-SAKU／MMDGP
+  length_seconds: 780
+  content_id: so35384462
+  default_thread_id: 1562809265
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35384462/35384462.30127984
+cast: "[キャスト]<br>ツノガエル:八代 拓／ネッシー:斉藤壮馬／モコザラシ:石川界人／エビフライ:内田雄馬／魚人:蒼井翔太／ナレーション・効果音:堀江由衣　他"
+staff: "[スタッフ]<br>原作・脚本:STUDY優作／原案:STUDY YU-SAKU/MMDGP／アニメーション制作:勝鬨スタジオ／アニメーション監督:尾中たけし／音響制作:チャンスイン／音響監督:サイトウ
+  ユウ／音楽:黒田賢一"
+produced_year: "[製作年]<br>2019年"
+copyright: "©STUDY YU-SAKU／MMDGP"
+related_seasons: !ruby/array:Hashie::Array []
