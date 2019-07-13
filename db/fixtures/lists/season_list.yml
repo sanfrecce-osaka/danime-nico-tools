@@ -7235,3 +7235,6 @@
 - !ruby/hash:Hashie::Mash
   title: ワンピース TVオリジナル編（2）
   first_episode_url: http://www.nicovideo.jp/watch/so35468891
+- !ruby/hash:Hashie::Mash
+  title: Re:ステージ! ドリームデイズ♪
+  first_episode_url: http://www.nicovideo.jp/watch/so35356502
