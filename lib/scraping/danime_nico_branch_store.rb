@@ -6,7 +6,7 @@ module Scraping
       def find_season_having_different_title(title_on_nico)
         SEASONS_WITH_DIFFERENT_TITLE.find { |season| season.differences.titles.lineup == title_on_nico }
       end
-      
+
       private
 
       def initialize_season_including_nonexistent_episodes(season)

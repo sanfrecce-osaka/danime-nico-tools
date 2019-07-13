@@ -5,7 +5,7 @@ module Scraping
     class SeasonLineup < Base
       include Loggable
 
-      SEASON_LINEUP_URL = 'http://site.nicovideo.jp/danime/all_contents_1201.html'.freeze
+      SEASON_LINEUP_URL = 'http://site.nicovideo.jp/danime/all_contents_1201.html'
 
       class << self
         def execute(old_season_list)
