@@ -79,4 +79,11 @@ RSpec.configure do |config|
       end
     end
   end
+
+  VCR.configure do |conf|
+    conf.cassette_library_dir = "#{::Rails.root}/spec/cassettes"
+    conf.hook_into :webmock
+    conf.ignore_localhost = true
+    conf.configure_rspec_metadata!
+  end
 end

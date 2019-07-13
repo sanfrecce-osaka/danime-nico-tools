@@ -52,6 +52,8 @@ group :test do
   gem 'launchy'
   gem 'shoulda-matchers'
   gem 'webdrivers'
+  gem 'vcr'
+  gem 'webmock'
 end
 
 group :production do
@@ -75,3 +77,4 @@ gem 'kaminari'
 gem 'active_hash'
 gem 'meta-tags'
 gem 'hurricane_trimar'
+gem 'mechanize'
