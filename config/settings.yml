@@ -319,3 +319,28 @@ seasons_with_different_title:
     different_titles:
       lineup:
       episode: '犬猫アワー ｢47都道府犬R＆にゃ～めん｣'
+  - id: 3
+    title: 'ジャイアント・ロボ THE ANIMATION 外伝 銀鈴 GinRei 素足のGinRei Episode.1 盗まれた戦闘チャイナを捜せ大作戦！！'
+    different_titles:
+      lineup: 'ジャイアント・ロボ THE ANIMATION 外伝 銀鈴 GinRei  素足のGinRei Episode.1 盗まれた戦闘チャイナを捜せ大作戦！！'
+      episode:
+  - id: 4
+    title: 'ジャイアント・ロボ THE ANIMATION 外伝 銀鈴 GinRei 青い瞳の銀鈴 GinRei with blue eyes'
+    different_titles:
+      lineup: 'ジャイアント・ロボ THE ANIMATION 外伝 銀鈴 GinRei  青い瞳の銀鈴 GinRei with blue eyes'
+      episode:
+  - id: 5
+    title: '秘密結社 鷹の爪 THE MOVIE～総統は二度死ぬ～'
+    different_titles:
+      lineup: '秘密結社 鷹の爪  THE MOVIE～総統は二度死ぬ～'
+      episode:
+  - id: 6
+    title: '秘密結社 鷹の爪 THE MOVIE Ⅱ～私を愛した黒烏龍茶～'
+    different_titles:
+      lineup: '秘密結社 鷹の爪  THE MOVIE Ⅱ～私を愛した黒烏龍茶～'
+      episode:
+  - id: 7
+    title: '秘密結社 鷹の爪 THE MOVIE Ⅲ～http://鷹の爪.jpは永遠に～'
+    different_titles:
+      lineup: '秘密結社 鷹の爪  THE MOVIE Ⅲ～http://鷹の爪.jpは永遠に～'
+      episode:
