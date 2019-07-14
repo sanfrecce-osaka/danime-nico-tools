@@ -15,11 +15,18 @@ module Scraping
           logger.debug("getting links now... #{index}/#{readboxes.length}")
           readbox
             .find_elements(:tag_name, 'a')
-            .map { |link| hashie(title: link.text.strip, first_episode_url: link.attribute('href')) }
+            .map { |link| hashie(title: title_on_head(link.text.strip), first_episode_url: link.attribute('href')) }
         end.flatten
         old_season_list.push(new_season_list.reject { |season| old_season_list.include?(season) }).flatten
       ensure
         @driver.quit
+      end
+
+      private
+
+      def title_on_head(link)
+        Scraping::DanimeNicoBranchStore::SEASONS_WITH_DIFFERENT_TITLE
+          .find { |season| season.differences.titles.lineup == link }&.title.presence || link
       end
     end
   end
