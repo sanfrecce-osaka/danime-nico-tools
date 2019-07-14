@@ -62,7 +62,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35344092
   default_thread_id: 1562030703
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35344092/35344092.83810310
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35532640/35532640.32657507
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: その１：曲げる先輩／その２：非貫通先輩／その３：責任転嫁先輩／その４：ヘタクソ手品おばさん／その５：本気先輩
@@ -72,7 +72,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35376166
   default_thread_id: 1562634486
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35376166/35376166.4883424
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35532644/35532644.52762441
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: その１：いやがる先輩／その２：抜き打ち先輩／その３：克服先輩／その４：和装先輩／その５：校外先輩
@@ -113,6 +113,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1565053448
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35499281/35499281.10771736
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: その１：作る先輩／その２：カンパ先輩／その３：プール先輩／その４：乗り越える先輩
+  description: 咲ちゃんは、そんなに大きくない。／働かざる者、奇術部にあらず！／スクール水着で大脱出!!／ハンサム助手ならアガらない先輩。<br><br>先輩:本渡
+    楓／助手:市川 蒼／咲ちゃん:喜多村英梨／斑さん:高橋李依／まーくん:浪川大輔／お姉ちゃん:茜屋日海夏<br><br>監督:臼井文明／シリーズ構成:池田臨太郎／キャラクターデザイン:伊藤依織子／プロップデザイン:林志保／美術設定:イノセユキエ／美術監督:齋藤幸洋／色彩設計:小野寺笑子／撮影監督:志良堂勝規／編集:吉武将人／音響監督:鶴岡陽太／音楽:はまたけし／アニメーション制作:ライデンフィルム／制作:NAS<br><br>©アズ・講談社／手品先輩製作委員会<br><br>so35499281←前話　第一話→so35344092
+  length_seconds: 750
+  content_id: so35531249
+  default_thread_id: 1565658243
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35531249/35531249.42391236
 cast: "[キャスト]<br>先輩:本渡 楓／助手:市川 蒼／咲ちゃん:喜多村英梨／斑さん:高橋李依／まーくん:浪川大輔／お姉ちゃん:茜屋日海夏"
 staff: "[スタッフ]<br>監督:臼井文明／シリーズ構成:池田臨太郎／キャラクターデザイン:伊藤依織子／プロップデザイン:林志保／美術設定:イノセユキエ／美術監督:齋藤幸洋／色彩設計:小野寺笑子／撮影監督:志良堂勝規／編集:吉武将人／音響監督:鶴岡陽太／音楽:はまたけし／アニメーション制作:ライデンフィルム／制作:NAS"
 produced_year: "[製作年]<br>2019年"
