@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 吉野裕行
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 三宅健太
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
   name: 斉藤壮馬

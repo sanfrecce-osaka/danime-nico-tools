@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 神谷浩史
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 井上麻里奈

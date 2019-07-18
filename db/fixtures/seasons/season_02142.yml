@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 上田麗奈
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 上田麗奈
   type: cast
 - !ruby/hash:TagHash
   name: 山下誠一郎
