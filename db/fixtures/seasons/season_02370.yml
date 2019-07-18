@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 麦人
   type: cast
 - !ruby/hash:TagHash
-  name: 上田麗奈
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 上田麗奈
   type: cast
 - !ruby/hash:TagHash
   name: 古川慎

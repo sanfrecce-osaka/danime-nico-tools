@@ -23,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 立花理香
   type: cast
 - !ruby/hash:TagHash
-  name: 西田望見
-  type: cast
-- !ruby/hash:TagHash
   name: 近藤玲奈
   type: cast
 - !ruby/hash:TagHash
   name: 井上ほの花
+  type: cast
+- !ruby/hash:TagHash
+  name: 西田望見
   type: cast
 - !ruby/hash:TagHash
   name: 八島さらら
