@@ -1,9 +1,15 @@
 --- !ruby/hash:SeasonHash
 title: 学校の怪談
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/08/2/21082_1_6.png?1470709878000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/08/2/21082_1_6.png?1562900595000
 outline: 母親の死をきっかけに、両親の故郷に引っ越してきた小学5年生の宮ノ下（みやのした）さつきと、弟で1年生の敬一郎（けいいちろう）は両親も通ったという「天の川小学校」に転入することになった。転入初日、名高い心霊スポットで今は使われていない旧校舎に、ふとしたきっかけで足を踏み入れてしまったさつきたちは、そこで母親の日記を発見する。それには昔、母親が「霊眠（成仏させ封じ込める事）」させた幽霊や妖怪のことが記されていた。だが、それらを封じ込めていた裏山の大杉の木が開発のため切り倒されてしまった！さつきたちは、解放され人間を襲い始めた妖怪たちをこの「オバケ日記」を元に再び霊眠させなければならなくなったが…。
 tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 本田貴子
+  type: cast
 - !ruby/hash:TagHash
   name: 川上とも子
   type: cast
@@ -11,16 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: 中尾隆聖
   type: cast
 - !ruby/hash:TagHash
-  name: 本田貴子
-  type: cast
-- !ruby/hash:TagHash
   name: 津村まこと
   type: cast
 - !ruby/hash:TagHash
-  name: 佐久間紅美
+  name: 間宮くるみ
   type: cast
 - !ruby/hash:TagHash
-  name: 間宮くるみ
+  name: 佐久間紅美
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：和田薫
@@ -35,10 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2000年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2000年
+  name: 2000年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -49,7 +55,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313820
   default_thread_id: 1528084187
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313820
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313820/33313820.87242989
 - !ruby/hash:EpisodeHash
   episode_no: 第2怪
   title: "「トイレから手首が…赤紙青紙」"
@@ -58,7 +64,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313840
   default_thread_id: 1528084291
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313840
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313840/33313840.47811102
 - !ruby/hash:EpisodeHash
   episode_no: 第3怪
   title: "「開演!!呪いの学芸会 くたべ」"
@@ -67,7 +73,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313841
   default_thread_id: 1528084308
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313841
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313841/33313841.62578696
 - !ruby/hash:EpisodeHash
   episode_no: 第4怪
   title: "「死者からの鎮魂歌　エリーゼ」"
@@ -76,7 +82,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313842
   default_thread_id: 1528084255
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313842
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313842/33313842.11136605
 - !ruby/hash:EpisodeHash
   episode_no: 第5怪
   title: "「血塗られた体育祭　だっと!!」"
@@ -85,7 +91,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313904
   default_thread_id: 1528086110
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313904
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313904/33313904.4690106
 - !ruby/hash:EpisodeHash
   episode_no: 第6怪
   title: "「扉を裂く悪魔の手　惨劇の夜」"
@@ -94,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313926
   default_thread_id: 1528086770
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313926
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313926/33313926.90227813
 - !ruby/hash:EpisodeHash
   episode_no: 第7怪
   title: "「鏡に盗まれた魂!!　うつしみ」"
@@ -103,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313927
   default_thread_id: 1528086773
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313927
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313927/33313927.12349825
 - !ruby/hash:EpisodeHash
   episode_no: 第8怪
   title: "「地獄へと続く回路　黄泉の鬼」"
@@ -112,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313928
   default_thread_id: 1528086768
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313928
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313928/33313928.4981577
 - !ruby/hash:EpisodeHash
   episode_no: 第9怪
   title: "「夜をさまよう死体　シロタビ」"
@@ -121,7 +127,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313929
   default_thread_id: 1528086775
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313929
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313929/33313929.67260221
 - !ruby/hash:EpisodeHash
   episode_no: 第10怪
   title: "「出口なきトンネル　穴まねき」"
@@ -130,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313930
   default_thread_id: 1528086573
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313930
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313930/33313930.48804386
 - !ruby/hash:EpisodeHash
   episode_no: 第11怪
   title: "「話すメリー人形!!　恐怖の影」"
@@ -139,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313931
   default_thread_id: 1528086872
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313931
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313931/33313931.13898340
 - !ruby/hash:EpisodeHash
   episode_no: 第12怪
   title: "「死を告げる看護婦　母の想い」"
@@ -148,7 +154,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313910
   default_thread_id: 1528086112
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313910
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313910/33313910.33588892
 - !ruby/hash:EpisodeHash
   episode_no: 第13怪
   title: "「人を飲み込む絵画　ダビンチ」"
@@ -157,7 +163,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313909
   default_thread_id: 1528085989
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313909
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313909/33313909.94382199
 - !ruby/hash:EpisodeHash
   episode_no: 第14怪
   title: "「命を奪う心霊写真　魔の踏切」"
@@ -166,7 +172,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313908
   default_thread_id: 1528086108
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313908
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313908/33313908.88958700
 - !ruby/hash:EpisodeHash
   episode_no: 第15怪
   title: "「悪魔のおまじない　闇の儀式」"
@@ -175,7 +181,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313907
   default_thread_id: 1528085986
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313907
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313907/33313907.2654971
 - !ruby/hash:EpisodeHash
   episode_no: 第16怪
   title: "「人を喰らう団地!!　悪霊の巣」"
@@ -184,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313906
   default_thread_id: 1528085984
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313906
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313906/33313906.13531088
 - !ruby/hash:EpisodeHash
   episode_no: 第17怪
   title: "「血染め湖の恐怖!!　雪の亡霊」"
@@ -193,7 +199,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313905
   default_thread_id: 1528086142
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313905
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313905/33313905.6013123
 - !ruby/hash:EpisodeHash
   episode_no: 第18怪
   title: "「放送室の茜さん!!　死者の声」"
@@ -202,7 +208,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313839
   default_thread_id: 1528084250
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313839
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313839/33313839.57675411
 - !ruby/hash:EpisodeHash
   episode_no: 第19怪
   title: "「首なしライダー!!　死の呪い」"
@@ -211,7 +217,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313838
   default_thread_id: 1528084269
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313838
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313838/33313838.17477579
 - !ruby/hash:EpisodeHash
   episode_no: 第20怪
   title: "「さらば天の邪鬼」"
@@ -220,7 +226,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33313837
   default_thread_id: 1528084235
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33313837
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33313837/33313837.14052466
 cast: "[キャスト]<br>宮ノ下さつき:川上とも子／宮ノ下敬一郎:間宮くるみ／青山ハジメ:本田貴子／柿ノ木レオ:津村まこと／恋ヶ窪桃子:佐久間紅美／天の邪鬼:中尾隆聖"
 staff: "[スタッフ]<br>原案:「学校の怪談」（講談社KK文庫）／監督:阿部記之／シリーズ構成:橋本裕志／キャラクターデザイン:大西雅也／美術監督:高田茂祝／撮影監督:福島敏行／音楽:和田　薫"
 produced_year: "[製作年]<br>2000年"
