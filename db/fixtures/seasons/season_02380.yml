@@ -1,0 +1,69 @@
+--- !ruby/hash:SeasonHash
+title: ビジネスフィッシュ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/86/6/22866_1_6.png?1562043600000
+outline: ここは東京にあるIT企業（株）SEA VISION。システム部営業課の中間管理職・魚脇タイは、頭が魚で体が人間な普通のサラリーマン。仕事は可もなく不可もなく、プライベートは不可多め、見ためは魚。そんなポジション的には「人生の脇役」なタイは、今日も今日とて出勤し、個性豊かな後輩や、同僚、上司に囲まれ、仕事や人間関係の海をユラユラと泳ぐのだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 小野賢章
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹井亮介
+  type: cast
+- !ruby/hash:TagHash
+  name: 上埜すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢井正棋
+  type: cast
+- !ruby/hash:TagHash
+  name: 永岡卓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 落合モトキ
+  type: cast
+- !ruby/hash:TagHash
+  name: 武田玲奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 大津尋葵
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石優愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井武美
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：クオン
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：住田崇
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第2話
+  title: "「脇役のトップ」／「別れタイ」"
+  description: "「脇役のトップ」魚脇タイは、何をやらせてもまずまずのどこにでいるサラリーマン。しかし、少し自意識が高い。パリピやインスタをやる人間を少しバカにしつつも本当は羨ましいし、たまに出来る風な男のスタンスをとって同僚の蛸山にダメ出しされる男。そんな魚脇がたまたま知り合った美しい女性・乙姫舞に恋をする。しかし、相手は高嶺の花中の高嶺の花。「これがドラマだったら自分はヒロイン確実、自分は脇役のような存在。好きになったところで実るわけがない。」そう自覚する。「しかし、脇役にも2種類ある！ただの脇役と主人公の為に全力を尽くし、その主人公が人生を前向きに進むきっかけになる脇役。だったら俺は主人公の役にたつ脇役になろう！」／「別れタイ」主役級のヒロイン乙姫と付き合うことになったタイは、主役にふさわしい脇役になるべく後輩のために動くがすべて空回り。この脇役のまま彼女を好きになってもしもフラれてしまったら必ずやストーキングしてただの変態になってしまう。それを危惧したタイは同僚の蛸山に相談して「俺の代わりに乙姫さんに『俺と別れるように』言ってくれと頼むが。。<br><br>キャスト:永岡卓也／竹井亮介／落合モトキ／武田玲奈／大津尋葵／白石優愛／藤井武美／小野賢章／沢井正棋／上埜すみれ<br><br>原作:クオン／監督:住田崇／脚本:オークラ、岩崎う大、土屋亮一<br><br>©ビジネスフィッシュ製作委員会<br><br>次話→so35388751"
+  length_seconds: 1440
+  content_id: so35388750
+  default_thread_id: 1562896985
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35388750/35388750.23185013
+cast: "[キャスト]<br>キャスト:永岡卓也／竹井亮介／落合モトキ／武田玲奈／大津尋葵／白石優愛／藤井武美／小野賢章／沢井正棋／上埜すみれ"
+staff: "[スタッフ]<br>原作:クオン／監督:住田崇／脚本:オークラ、岩崎う大、土屋亮一"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ビジネスフィッシュ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
