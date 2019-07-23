@@ -490,6 +490,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1562550791
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371842/35371842.11782464
+- !ruby/hash:EpisodeHash
+  episode_no: "＃48"
+  title: 先のばし症候群のワナ/飛びだせ、ペニー！
+  description: "＜先のばし症候群のワナ＞今できることをしない先延ばし症候群だと注意されるガムボールとダーウィン。ママの留守中にゴミ捨てを頼まれた２人は、例によってだらだらと先延ばしにしてしまい…。／＜飛びだせ、ペニー！＞学校の劇でペニーとのキスシーンに動揺したガムボールは、頭突きでペニーにヒビを入れてしまう。殻の中の正体が出てしまうことを心配したペニーのパパはペニーを外出禁止にするが…。<br><br>TM
+    &amp; © 2019 Cartoon Network.<br><br>so35371842←前話　第一話→so32588496"
+  length_seconds: 1470
+  content_id: so35371865
+  default_thread_id: 1562550843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371865/35371865.17186288
 produced_year: "[製作年]<br>2018年"
 copyright: TM & © 2018 Cartoon Network.
 related_seasons: !ruby/array:Hashie::Array []
