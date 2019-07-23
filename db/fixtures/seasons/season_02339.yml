@@ -15,10 +15,10 @@ tags: !ruby/array:Hashie::Array
   name: ホラー/サスペンス/推理
   type: genre
 - !ruby/hash:TagHash
-  name: 早見沙織
+  name: 細谷佳正
   type: cast
 - !ruby/hash:TagHash
-  name: 細谷佳正
+  name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長
