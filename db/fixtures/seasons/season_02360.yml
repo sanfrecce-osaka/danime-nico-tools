@@ -35,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 芝崎典子
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤祐吾
-  type: cast
-- !ruby/hash:TagHash
   name: 児玉卓也
   type: cast
 - !ruby/hash:TagHash
   name: 峯田大夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤祐吾
   type: cast
 - !ruby/hash:TagHash
   name: 安部亮馬
