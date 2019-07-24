@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 内田真礼
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
   name: M・A・O
