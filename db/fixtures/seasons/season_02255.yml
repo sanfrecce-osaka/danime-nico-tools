@@ -70,7 +70,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977476
   default_thread_id: 1555377608
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977476/34977476.30478901
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977476/34977476.41409525
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: "「妖怪てのひらがえし」／「ニャーキングデッド ～極限状態の妖怪たち～　エピソード１」"
@@ -81,7 +81,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34983157
   default_thread_id: 1555463007
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34983157/34983157.42484048
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34983157/34983157.51876297
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: "「現代のお金ナイダー」／「妖怪三国志 其ノ壱」"
@@ -92,7 +92,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35017431
   default_thread_id: 1556069043
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017431/35017431.29520208
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35017431/35017431.22641307
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: "「妖怪モテヌス」／「ニッポン全国 コマみ探しの旅！ 両国編」"
@@ -103,7 +103,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037563
   default_thread_id: 1556415123
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037563/35037563.52317449
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037563/35037563.58241549
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: "「妖怪とどろき獅子」／「ニッポン全国 コマみ探しの旅！ 富士山編」"
