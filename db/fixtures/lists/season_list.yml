@@ -7163,3 +7163,12 @@
 - !ruby/hash:Hashie::Mash
   title: まちカドまぞく
   first_episode_url: http://www.nicovideo.jp/watch/so35417076
+- !ruby/hash:Hashie::Mash
+  title: 韋駄天翔
+  first_episode_url: http://www.nicovideo.jp/watch/so35408811
+- !ruby/hash:Hashie::Mash
+  title: キョロちゃん
+  first_episode_url: http://www.nicovideo.jp/watch/so35408592
+- !ruby/hash:Hashie::Mash
+  title: 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？
+  first_episode_url: http://www.nicovideo.jp/watch/so35380287
