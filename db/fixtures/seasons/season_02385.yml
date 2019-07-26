@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/85/9/22859_1_6.png?1562209208000
+outline: "「マー君。これからお母さんと一緒にたくさん冒険しましょうね」夢にまでみたゲーム世界に転送された高校生、大好真人だが、なぜか真人を溺愛する母親の真々子もついてきて!?母親同伴の新感覚冒険コメディ開幕！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 新井里美
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 原田彩楓
+  type: cast
+- !ruby/hash:TagHash
+  name: 石谷春貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴代紗弓
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岩崎良明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：井内啓二
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：八重樫洋平
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：井中だちま
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 少年の壮大なる冒険が始まると思ってたら…え、どういうことだよこれ…。
+  description: 高校生の大好真人は、ゲーム内空間に「転移」してプレイする新しいMMO-RPGのテストプレイヤーに選ばれた。説明に訪れた白瀬女史の言葉もそこそこに、真人はさらばリアルとばかりにゲームの世界へ！　ところがゲームの世界には、母親の真々子もなぜか一緒に来ていた。驚く真人だが、真々子は大好きな息子と一緒に冒険が出来ると無邪気に大喜び。しかも彼女の通常攻撃はチート級の強さだ。真人の攻撃力は普通で、健全に親離れ進行中の彼としては、諸々イメージ台無しでガックリ。かくして母親同伴のRPGがスタートした。<br><br>大好真々子:茅野愛衣／大好真人:石谷春貴／ワイズ:鈴代紗弓／ポータ:原田彩楓／メディ:Lynn／白瀬:新井里美<br><br>原作:井中だちま（ファンタジア文庫／株式会社KADOKAWA）／原作イラスト:飯田ぽち。／監督:岩崎良明／キャラクターデザイン:八重樫洋平／シリーズ構成:赤尾でこ／音楽:井内啓二／アニメーション制作:J.C.STAFF<br><br>©2019
+    井中だちま・飯田ぽち。／株式会社ＫＡＤＯＫＡＷＡ／お母さんは好きですか？製作委員会<br><br>次話→so35437961
+  length_seconds: 1420
+  content_id: so35380287
+  default_thread_id: 1562723163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35380287/35380287.39938041
+cast: "[キャスト]<br>大好真々子:茅野愛衣／大好真人:石谷春貴／ワイズ:鈴代紗弓／ポータ:原田彩楓／メディ:Lynn／白瀬:新井里美"
+staff: "[スタッフ]<br>原作:井中だちま（ファンタジア文庫／株式会社KADOKAWA）／原作イラスト:飯田ぽち。／監督:岩崎良明／キャラクターデザイン:八重樫洋平／シリーズ構成:赤尾でこ／音楽:井内啓二／アニメーション制作:J.C.STAFF"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019 井中だちま・飯田ぽち。／株式会社ＫＡＤＯＫＡＷＡ／お母さんは好きですか？製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

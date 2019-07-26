@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木達央
