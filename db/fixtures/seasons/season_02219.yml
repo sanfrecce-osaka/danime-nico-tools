@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 市川蒼
   type: cast
 - !ruby/hash:TagHash
-  name: 梶川翔平
+  name: 金田アキ
   type: cast
 - !ruby/hash:TagHash
-  name: 金田アキ
+  name: 梶川翔平
   type: cast
 - !ruby/hash:TagHash
   name: 神原大地

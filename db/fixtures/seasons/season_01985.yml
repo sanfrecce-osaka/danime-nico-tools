@@ -41,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 三宅健太
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
-  name: 斉藤壮馬
+  name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：OLM
@@ -335,7 +335,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34796594
   default_thread_id: 1552871223
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34796594/34796594.62075807
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469130/35469130.62321642
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: ビバ！世界上空！
@@ -347,7 +347,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34851756
   default_thread_id: 1553563682
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34851756/34851756.42927290
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469139/35469139.85607275
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: 世界の壁
@@ -359,7 +359,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34896823
   default_thread_id: 1554169202
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34896823/34896823.14742533
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469166/35469166.26615730
 - !ruby/hash:EpisodeHash
   episode_no: 第24話
   title: ロシアを歩こう
@@ -371,7 +371,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34938007
   default_thread_id: 1554775749
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34938007/34938007.79600208
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469172/35469172.28365360
 - !ruby/hash:EpisodeHash
   episode_no: 第25話
   title: 立ちはだかる巨神
@@ -383,7 +383,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so34977482
   default_thread_id: 1555377741
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/34977482/34977482.40298829
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469181/35469181.30813335
 - !ruby/hash:EpisodeHash
   episode_no: 第26話
   title: ジェネラルの煌き
@@ -395,7 +395,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35012784
   default_thread_id: 1555982227
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35012784/35012784.14833554
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469191/35469191.24795851
 - !ruby/hash:EpisodeHash
   episode_no: 第27話
   title: 明日人！勝利に向かって走れ！
@@ -419,7 +419,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121569
   default_thread_id: 1557797474
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121569/35121569.79729849
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469198/35469198.72563929
 - !ruby/hash:EpisodeHash
   episode_no: 第29話
   title: アフロディ降臨
@@ -552,6 +552,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1563757930
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35433960/35433960.55197249
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 兄と弟
+  description: フランス代表の一件を追求すべく、兄・ベルナルドの元へ向かうフロイ。そんなフロイをひとりで行かせるわけにはいかないと、一星も同行することに。その道中、フロイはベルナルドとの思い出を語るのであった。サッカーだけでなく、何でも上手くやってのける完璧な兄を、フロイは心から尊敬していた。そんな憧れの兄に追いつきたい一心で、ひたすらボールを蹴り続けていたのだった。父親の手伝いで忙しくしていたベルナルドであったが、その合間でも練習にくじけそうになっていたフロイを励ましてくれる姿に尊敬の念はさらに強まっていったのだと言う。そんなベルナルドが、どうして今のように変わってしまったのかという一星の問いにフロイは顔を曇らせる。ベルナルドを変えたのは、ある人物の死がきっかけであった…。<br><br>稲森明日人:村瀬
+    歩／灰崎凌兵:神谷浩史／野坂悠馬:福山 潤／円堂守:竹内順子／豪炎寺修也:野島裕史／鬼道有人:吉野裕行／一星充:大町知広／吉良ヒロト:増田俊樹／剛陣鉄之助:武内駿輔／氷浦貴利名:斉藤壮馬／基山タツヤ:水島大宙／不動明王:梶
+    裕貴／風丸一郎太:西墻由香／万作雄一郎:櫻井孝宏／吹雪士郎:宮野真守／坂野上昇:高橋李依／岩戸高志:三宅健太／西蔭政也:鈴村健一／砂木沼治:疋田高志／趙金雲:中村悠一<br><br>総監督／原案・シリーズ構成:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／チーフディレクター:かまくらゆみ／キャラクターデザイン原案:長野拓造／アートコンセプト:荒川政子／キャラクターデザイン:池田裕治・中野繭子・井ノ上ユウ子／音響監督:三好慶一郎・原口
+    昇／音楽:光田康典／アニメーション制作:オー・エル・エム<br><br>©LEVEL-5／FCイナズマイレブン・テレビ東京<br><br>so35433960←前話　第一話→so33990658
+  length_seconds: 1375
+  content_id: so35464295
+  default_thread_id: 1564363145
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35464295/35464295.15332523
 cast: "[キャスト]<br>稲森明日人:村瀬 歩／灰崎凌兵:神谷浩史／野坂悠馬:福山 潤／円堂守:竹内順子／豪炎寺修也:野島裕史／鬼道有人:吉野裕行／一星充:大町知広／吉良ヒロト:増田俊樹／剛陣鉄之助:武内駿輔／氷浦貴利名:斉藤壮馬／基山タツヤ:水島大宙／不動明王:梶
   裕貴／風丸一郎太:西墻由香／万作雄一郎:櫻井孝宏／吹雪士郎:宮野真守／坂野上昇:高橋李依／岩戸高志:三宅健太／西蔭政也:鈴村健一／砂木沼治:疋田高志／趙金雲:中村悠一"
 staff: "[スタッフ]<br>総監督／原案・シリーズ構成:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／チーフディレクター:かまくらゆみ／キャラクターデザイン原案:長野拓造／アートコンセプト:荒川政子／キャラクターデザイン:池田裕治・中野繭子・井ノ上ユウ子／音響監督:三好慶一郎・原口

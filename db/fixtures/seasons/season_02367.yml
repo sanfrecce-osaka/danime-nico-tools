@@ -27,10 +27,10 @@ tags: !ruby/array:Hashie::Array
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
-  name: 高垣彩陽
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
   name: 保志総一朗

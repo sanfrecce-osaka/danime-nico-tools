@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 咲野俊介
   type: cast
 - !ruby/hash:TagHash
-  name: 土屋神葉
+  name: 広瀬裕也
   type: cast
 - !ruby/hash:TagHash
-  name: 広瀬裕也
+  name: 土屋神葉
   type: cast
 - !ruby/hash:TagHash
   name: 河野ひより
