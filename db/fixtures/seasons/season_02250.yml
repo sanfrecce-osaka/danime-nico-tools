@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤聡美
+  name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 島﨑信長
+  name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
   name: 興津和幸

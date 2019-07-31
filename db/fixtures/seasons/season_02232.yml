@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
-  name: 岡本信彦
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
   name: 悠木碧

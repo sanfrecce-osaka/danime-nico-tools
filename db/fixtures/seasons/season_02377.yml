@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤聡美
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: 佐藤聡美
   type: cast
 - !ruby/hash:TagHash
   name: 興津和幸

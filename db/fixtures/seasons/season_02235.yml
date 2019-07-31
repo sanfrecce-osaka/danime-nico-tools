@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 高島雅羅
   type: cast
 - !ruby/hash:TagHash
-  name: 若井友希
+  name: 河本啓佑
   type: cast
 - !ruby/hash:TagHash
-  name: 河本啓佑
+  name: 若井友希
   type: cast
 - !ruby/hash:TagHash
   name: 山口愛
