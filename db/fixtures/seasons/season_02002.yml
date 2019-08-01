@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
   name: 羽多野渉
