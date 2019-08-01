@@ -34,10 +34,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：動画工房
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：大島美和
+  name: 音楽：藤澤慶昌
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：藤澤慶昌
+  name: キャラクターデザイン：大島美和
   type: staff
 - !ruby/hash:TagHash
   name: 音楽制作：KADOKAWA

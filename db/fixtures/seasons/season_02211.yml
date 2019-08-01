@@ -44,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：マッドハウス
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：百石元
+  name: 監督：増原光幸
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：増原光幸
+  name: 音楽：百石元
   type: staff
 - !ruby/hash:TagHash
   name: 原作：寺嶋裕二
