@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: 台風のノルダ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/05/1/21051_1_6.png?1551422173000
+outline: 舞台はとある離島、文化祭前日の中学校。幼いころからずっと続けていた野球をやめたことがきっかけで親友の西条とケンカした東は、突如現れた赤い目をした不思議な少女ノルダと出会う。その頃、時を同じくして、観測史上最大級の台風が学校を襲おうとしていた──。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 音楽：浜渦正志
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新井陽次郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石田祐康
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 野球
+  type: other
+- !ruby/hash:TagHash
+  name: のぼりはるこ
+  type: other
+- !ruby/hash:TagHash
+  name: 野村周平
+  type: other
+- !ruby/hash:TagHash
+  name: 金子大地
+  type: other
+- !ruby/hash:TagHash
+  name: 清原果耶
+  type: other
+- !ruby/hash:TagHash
+  name: 三好紀彦
+  type: other
+- !ruby/hash:TagHash
+  name: 西村美香
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 台風のノルダ
+  description: 舞台はとある離島、文化祭前日の中学校。幼いころからずっと続けていた野球をやめたことがきっかけで親友の西条とケンカした東は、突如現れた赤い目をした不思議な少女ノルダと出会う。その頃、時を同じくして、観測史上最大級の台風が学校を襲おうとしていた──。<br><br>東シュウイチ:野村周平／西条ケンタ:金子大地／ノルダ:清原果耶<br><br>監督:新井陽次郎／キャラクターデザイン・作画監督:石田祐康／3DCG監督:三好紀彦／美術監督:西村美香／色彩設計:のぼりはるこ／撮影監督:佐藤光洋／音楽:浜渦正志／主題歌:Galileo
+    Galilei｢嵐のあとで｣<br><br>©2015 映画「台風のノルダ」製作委員会
+  length_seconds: 1599
+  content_id: so35438216
+  default_thread_id: 1563854225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35438216/35438216.38962144
+cast: "[キャスト]<br>東シュウイチ:野村周平／西条ケンタ:金子大地／ノルダ:清原果耶"
+staff: "[スタッフ]<br>監督:新井陽次郎／キャラクターデザイン・作画監督:石田祐康／3DCG監督:三好紀彦／美術監督:西村美香／色彩設計:のぼりはるこ／撮影監督:佐藤光洋／音楽:浜渦正志／主題歌:Galileo
+  Galilei｢嵐のあとで｣"
+produced_year: "[製作年]<br>2015年"
+copyright: "©2015 映画「台風のノルダ」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

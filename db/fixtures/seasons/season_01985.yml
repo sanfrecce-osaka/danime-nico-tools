@@ -407,7 +407,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35037560
   default_thread_id: 1556414883
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35037560/35037560.35964506
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35477752/35477752.18387856
 - !ruby/hash:EpisodeHash
   episode_no: 第28話
   title: 一之瀬、クーデターに沈む

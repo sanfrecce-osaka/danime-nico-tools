@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: トライナイツ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/86/1/22861_1_6.png?1563778854000
+outline: 未来がみえないまま高校に入学した遥馬理久 (はるまりく) は、グラウンドでふと目に入った、野生の獣のような動きに目を奪われる。誰よりも高く跳び、早く駆け、トライを決める。狩矢光
+  (かりやあきら) がプレーするのは、かつて理久が諦めたラグビーだった。粗削りな走りに、思わずアドバイスをする理久。その言葉で理久の中にあるラグビーへの熱を感じ取った光。頭脳＜タクティクス＞と肉体＜フィジカル＞、2人の出会いによって、理久の未来を新たな光が照らし始める…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: KENN
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 森嶋秀太
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島ヨシキ
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江瞬
+  type: cast
+- !ruby/hash:TagHash
+  name: 天﨑滉平
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋英則
+  type: cast
+- !ruby/hash:TagHash
+  name: 石谷春貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪本奨悟
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田誠二
+  type: cast
+- !ruby/hash:TagHash
+  name: 浦田わたる
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐々木勅嘉
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：R・O・N
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：そらもとかん
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：TRY KNIGHTS UNION
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 月と太陽
+  description: 頭脳明晰な高校生、遥馬理久。かつてはラグビーで世界を目指していた。ふと通りかかったグラウンドで、自身が持ち得なかったフィジカルをもつ狩矢光に出会う。アドバイスされたことをきっかけに光は理久をラグビー部へと誘うが……<br><br>遥馬理久:阪本奨悟／狩矢
+    光:KENN／宝立友未:前田誠二／冬原灯利:寺島拓篤／翔谷・ピアーズ・ヴァレンタイン:森嶋秀太／蘭堂槍也:天﨑滉平／小熊景太:高橋英則／灘 誠一郎:中島ヨシキ／有村凛斗:堀江瞬／天河将吾:石谷春貴／片城雪也:浦田わたる／駿河暁臣:福井巴也／朝宮怜皇:佐藤拓也<br><br>原作:TRY
+    KNIGHTS UNION／キャラクター原案:宝井理人／シナリオ原案:矢野俊策／監督:佐々木勅嘉／シリーズ構成:たかだ 誠／キャラクターデザイン:そらもと
+    かん／音響監督:納谷僚介／音楽:R·O·N／アニメーション制作:GONZO／監修:大畑大介／協力:公益財団法人 日本ラグビーフットボール協会<br><br>©蒼嵐高校ラグビー部
+  length_seconds: 1371
+  content_id: so35469738
+  default_thread_id: 1564476484
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35469738/35469738.3427964
+cast: "[キャスト]<br>遥馬理久:阪本奨悟／狩矢 光:KENN／宝立友未:前田誠二／冬原灯利:寺島拓篤／翔谷・ピアーズ・ヴァレンタイン:森嶋秀太／蘭堂槍也:天﨑滉平／小熊景太:高橋英則／灘
+  誠一郎:中島ヨシキ／有村凛斗:堀江瞬／天河将吾:石谷春貴／片城雪也:浦田わたる／駿河暁臣:福井巴也／朝宮怜皇:佐藤拓也"
+staff: "[スタッフ]<br>原作:TRY KNIGHTS UNION／キャラクター原案:宝井理人／シナリオ原案:矢野俊策／監督:佐々木勅嘉／シリーズ構成:たかだ
+  誠／キャラクターデザイン:そらもと かん／音響監督:納谷僚介／音楽:R·O·N／アニメーション制作:GONZO／監修:大畑大介／協力:公益財団法人 日本ラグビーフットボール協会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©蒼嵐高校ラグビー部"
+related_seasons: !ruby/array:Hashie::Array []
