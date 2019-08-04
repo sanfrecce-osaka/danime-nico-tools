@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 福山潤
+  name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
-  name: 花澤香菜
+  name: 福山潤
   type: cast
 - !ruby/hash:TagHash
   name: 石田彰

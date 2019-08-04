@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 梶裕貴
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 小野大輔
+  name: 梶裕貴
   type: cast
 - !ruby/hash:TagHash
   name: 神谷浩史

@@ -18,10 +18,10 @@ tags: !ruby/array:Hashie::Array
   name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 名塚佳織
+  name: 内田真礼
   type: cast
 - !ruby/hash:TagHash
-  name: 内田真礼
+  name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
   name: 江口拓也
