@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
+  name: 佐藤利奈
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤利奈
+  name: 戸松遥
   type: cast
 - !ruby/hash:TagHash
   name: 津田健次郎
