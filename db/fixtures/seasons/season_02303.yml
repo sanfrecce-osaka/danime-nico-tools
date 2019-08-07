@@ -221,6 +221,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1563847630
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35437963/35437963.2858223
+- !ruby/hash:EpisodeHash
+  episode_no: "＃１９"
+  title: "「革命」"
+  description: 今月はまだ12日だというのに、ウム・サイードの家の食糧はとぼしくなってきた。年金ももう底をつきそうだ。「あなた、年金落としたの？」「そんなわけないでしょ？アッガーが取り立てに来るのよ。」という話から、いかにアッガーが横暴な商売を４０年にもわたってやってきたのかに、4人が憤慨する。「ツケで買うと、値段が2倍になるのよ。」という話をきっかけに、町内の集会を開き、集団でアッガーに抗議にいくが、アッガーはそんなことはどこ吹く風。「なんとか不正を暴く必要があるわ」と立ち上がる４人。壮大な計画を練ってアッガー―に立ち向かう！作戦の結末は…いかに！<br><br>ウム・サイード:高畑淳子／ウム・サルーム:野沢由香里／ウム・アラウィ:小林さやか／ウム・ハマス:片岡富枝／アブード:若月佑美<br><br>監督:モハメド・サイード・ハリブ<br><br>© 2018
+    Lammtara Art Production. All rights reserved<br><br>so35437963←前話｜次話→so35472694　第一話→so35117376
+  length_seconds: 1440
+  content_id: so35472695
+  default_thread_id: 1564537332
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35472695/35472695.87779765
 cast: "[キャスト]<br>ウム・サイード:高畑淳子／ウム・サルーム:野沢由香里／ウム・アラウィ:小林さやか／ウム・ハマス:片岡富枝／アブード:若月佑美"
 staff: "[スタッフ]<br>監督:モハメド・サイード・ハリブ"
 produced_year: "[製作年]<br>2018年"
