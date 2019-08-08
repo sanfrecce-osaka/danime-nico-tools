@@ -41,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 峯田大夢
   type: cast
 - !ruby/hash:TagHash
-  name: 佐藤祐吾
+  name: 安部亮馬
   type: cast
 - !ruby/hash:TagHash
-  name: 安部亮馬
+  name: 徳森圭輔
   type: cast
 - !ruby/hash:TagHash
   name: 監督：周亮

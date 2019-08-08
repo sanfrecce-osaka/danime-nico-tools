@@ -5,6 +5,9 @@ thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/86/6/22866_1_6.png?1
 outline: ここは東京にあるIT企業（株）SEA VISION。システム部営業課の中間管理職・魚脇タイは、頭が魚で体が人間な普通のサラリーマン。仕事は可もなく不可もなく、プライベートは不可多め、見ためは魚。そんなポジション的には「人生の脇役」なタイは、今日も今日とて出勤し、個性豊かな後輩や、同僚、上司に囲まれ、仕事や人間関係の海をユラユラと泳ぐのだった。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
   name: コメディ/ギャグ
   type: genre
 - !ruby/hash:TagHash
