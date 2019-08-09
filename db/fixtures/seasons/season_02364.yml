@@ -59,6 +59,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1562809265
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35384462/35384462.30127984
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話～第25話
+  title: いきおい／川／かぎられた時間／おそくおきた朝は／しゃぼんだま／よういしゅうとう／エアコン／フォトジェニック／ジャンル／なにをみてるの／らーめん屋／かなしばり
+  description: 思ってたのとちがった／しぜんのきょうい／つづきはWEBでもなし／今日もがんばるぞ／それははかなきもの／こんなこともあるかと思って／だれも信じてくれない／げんじつはそう甘くないね／音楽性のちがいで解散します／しょうがないよね。だってブタウオだもの。／お湯の温度にはこだわってます／でも思い出にはのこった<br><br>ツノガエル:八代
+    拓／ネッシー:斉藤壮馬／モコザラシ:石川界人／エビフライ:内田雄馬／魚人:蒼井翔太／ナレーション・効果音:堀江由衣　他<br><br>原作・脚本:STUDY優作／原案:STUDY
+    YU-SAKU/MMDGP／アニメーション制作:勝鬨スタジオ／アニメーション監督:尾中たけし／音響制作:チャンスイン／音響監督:サイトウ ユウ／音楽:黒田賢一<br><br>©STUDY
+    YU-SAKU／MMDGP<br><br>so35384462←前話　第一話→so35384462
+  length_seconds: 661
+  content_id: so35507423
+  default_thread_id: 1565226189
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35507423/35507423.42156379
 cast: "[キャスト]<br>ツノガエル:八代 拓／ネッシー:斉藤壮馬／モコザラシ:石川界人／エビフライ:内田雄馬／魚人:蒼井翔太／ナレーション・効果音:堀江由衣　他"
 staff: "[スタッフ]<br>原作・脚本:STUDY優作／原案:STUDY YU-SAKU/MMDGP／アニメーション制作:勝鬨スタジオ／アニメーション監督:尾中たけし／音響制作:チャンスイン／音響監督:サイトウ
   ユウ／音楽:黒田賢一"
