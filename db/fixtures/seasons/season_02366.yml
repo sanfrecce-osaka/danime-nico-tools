@@ -53,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：フライングドッグ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：中嶋敦子
+  name: 監督：阿部記之
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：阿部記之
+  name: キャラクターデザイン：中嶋敦子
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：白戸佑輔

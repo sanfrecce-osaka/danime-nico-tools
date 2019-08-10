@@ -117,4 +117,6 @@ cast: "[キャスト]<br>先輩:本渡 楓／助手:市川 蒼／咲ちゃん:�
 staff: "[スタッフ]<br>監督:臼井文明／シリーズ構成:池田臨太郎／キャラクターデザイン:伊藤依織子／プロップデザイン:林志保／美術設定:イノセユキエ／美術監督:齋藤幸洋／色彩設計:小野寺笑子／撮影監督:志良堂勝規／編集:吉武将人／音響監督:鶴岡陽太／音楽:はまたけし／アニメーション制作:ライデンフィルム／制作:NAS"
 produced_year: "[製作年]<br>2019年"
 copyright: "©アズ・講談社／手品先輩製作委員会"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 手品挑戦動画dアニメストア番外編
