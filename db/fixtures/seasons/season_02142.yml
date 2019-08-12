@@ -156,3 +156,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: Fate/kaleid liner プリズマ☆イリヤ ドライ!!
 - !ruby/hash:SeasonHash
   title: 衛宮さんちの今日のごはん
+- !ruby/hash:SeasonHash
+  title: Fate/Grand Order -絶対魔獣戦線バビロニア-
