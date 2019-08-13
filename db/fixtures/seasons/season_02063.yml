@@ -163,6 +163,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1562896995
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35388754/35388754.74592524
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話／第46話
+  title: 修学旅行！海だ！水着だ！大喝だ！／ズッ友だよ！５人の友情はフォーエバー！
+  description: 第45話：修学旅行で沖縄に来たキヨシたち。興奮するイサムを筆頭に、ビーチでくるみたちの水着姿を拝もうと意気込むが…？／第46話：修学旅行で友情が深まったプリマエンジェルたち。突如現れた怪人「激強男」を相手に、５人の「フォーエバー友情」が炸裂する！<br><br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか<br><br>原案:Pie
+    in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie
+    in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia REGINA)／EDテーマ:「おいでよ笑顔ヶ丘市〜笑顔ヶ丘市に古くから伝わるわらべうた〜」（歌：鈴木キヨシ（CV.林勇）高橋イサム（CV.羽多野渉）佐藤シゲル（CV.寺島拓篤））<br><br>©SMK<br><br>so35388754←前話　第一話→so34072824
+  length_seconds: 1440
+  content_id: so35511810
+  default_thread_id: 1565314289
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35511810/35511810.75671811
 cast: "[キャスト]<br>鈴木キヨシ:林勇／高橋イサム:羽多野渉／佐藤シゲル:寺島拓篤／プリマピンク（安土桃山くるみ）:久保ユリカ／暗黒大明神:関太（タイムマシーン3号）ほか"
 staff: "[スタッフ]<br>原案:Pie in the sky／監督・脚本:松本慶祐（Pie in the sky）／イラスト:植草航（Pie in the
   sky）／音楽:カワイヒデヒロ／音楽制作:バンダイナムコアーツ／アニメーション制作:Pie in the sky／製作:プリマエンジェル製作委員会／OPテーマ:「魔法少女は止まらない」（歌：Mia

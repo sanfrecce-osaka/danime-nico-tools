@@ -47,6 +47,9 @@ tags: !ruby/array:Hashie::Array
   name: 監督：住田崇
   type: staff
 - !ruby/hash:TagHash
+  name: ビジネスフィッシュシリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
