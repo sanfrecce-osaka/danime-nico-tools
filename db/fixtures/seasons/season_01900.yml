@@ -41,10 +41,10 @@ tags: !ruby/array:Hashie::Array
   name: 谷山紀章
   type: cast
 - !ruby/hash:TagHash
-  name: 屋良有作
+  name: 石川由依
   type: cast
 - !ruby/hash:TagHash
-  name: 石川由依
+  name: 屋良有作
   type: cast
 - !ruby/hash:TagHash
   name: 三上枝織
