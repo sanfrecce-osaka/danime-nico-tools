@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: ファンタシースターオンライン２ ジ アニメーション
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/55/1/20551_1_6.png?1450673663000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/55/1/20551_1_6.png?1551270109000
 outline: 西暦2027年――　橘イツキが通う｢清雅学園｣ は、都心から少し離れた郊外にある共学の高等学校。文武に秀でた人材を育てることを目的とした全寮制の進学校である。2学期が始まり、イツキは、学園中の憧れの的である生徒会長の泉澄リナから生徒会室に呼び出される……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -23,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: M・A・O
   type: cast
 - !ruby/hash:TagHash
-  name: 村川梨衣
-  type: cast
-- !ruby/hash:TagHash
   name: 諏訪彩花
   type: cast
 - !ruby/hash:TagHash
   name: 蒼井翔太
+  type: cast
+- !ruby/hash:TagHash
+  name: 村川梨衣
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤拓也
@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀江瞬
   type: cast
 - !ruby/hash:TagHash
-  name: 樺山ミナミ
+  name: 金田アキ
   type: cast
 - !ruby/hash:TagHash
-  name: 金田アキ
+  name: 樺山ミナミ
   type: cast
 - !ruby/hash:TagHash
   name: 監督：川口敬一郎
@@ -64,6 +64,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2016年
   type: other
+- !ruby/hash:TagHash
+  name: 2016年冬
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: Quest 01
@@ -72,12 +75,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>次話→so32225011"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>次話→so32225011"
   length_seconds: 1449
   content_id: so32224995
   default_thread_id: 1509924084
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32224995
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32224995/32224995.72968298
 - !ruby/hash:EpisodeHash
   episode_no: Quest 02
   title: 孤高の戦士
@@ -85,12 +88,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32224995←前話｜次話→so32225047　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32224995←前話｜次話→so32225047　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225011
   default_thread_id: 1509924860
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225011
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225011/32225011.99910879
 - !ruby/hash:EpisodeHash
   episode_no: Quest 03
   title: ロールプレイ
@@ -98,12 +101,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225011←前話｜次話→so32225048　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225011←前話｜次話→so32225048　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225047
   default_thread_id: 1509926129
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225047
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225047/32225047.5455857
 - !ruby/hash:EpisodeHash
   episode_no: Quest 04
   title: ファンタシースターオフライン
@@ -111,12 +114,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225047←前話｜次話→so32225049　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225047←前話｜次話→so32225049　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225048
   default_thread_id: 1509925951
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225048
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225048/32225048.78838102
 - !ruby/hash:EpisodeHash
   episode_no: Quest 05
   title: アイカ
@@ -124,12 +127,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225048←前話｜次話→so32225050　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225048←前話｜次話→so32225050　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225049
   default_thread_id: 1509925949
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225049
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225049/32225049.72622029
 - !ruby/hash:EpisodeHash
   episode_no: Quest 06
   title: 禁じられたPSO2
@@ -137,12 +140,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225049←前話｜次話→so32225061　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225049←前話｜次話→so32225061　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225050
   default_thread_id: 1509926127
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225050
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225050/32225050.33491661
 - !ruby/hash:EpisodeHash
   episode_no: Quest 07
   title: 失踪
@@ -150,12 +153,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225050←前話｜次話→so32225076　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225050←前話｜次話→so32225076　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225061
   default_thread_id: 1509926488
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225061
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225061/32225061.57447694
 - !ruby/hash:EpisodeHash
   episode_no: Quest 08
   title: ターニングポイント
@@ -163,12 +166,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225061←前話｜次話→so32225114　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225061←前話｜次話→so32225114　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225076
   default_thread_id: 1509927272
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225076
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225076/32225076.34968148
 - !ruby/hash:EpisodeHash
   episode_no: Quest 09
   title: 戦力外通告
@@ -176,12 +179,12 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225076←前話｜次話→so32225115　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225076←前話｜次話→so32225115　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225114
   default_thread_id: 1509928483
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225114
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225114/32225114.38269962
 - !ruby/hash:EpisodeHash
   episode_no: Quest 10
   title: 依代
@@ -189,25 +192,25 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225114←前話｜次話→so32225116　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225114←前話｜次話→so32225116　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225115
   default_thread_id: 1509928366
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225115
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225115/32225115.24442947
 - !ruby/hash:EpisodeHash
-  episode_no: ''
+  episode_no: Quest 11
   title: ダークファルス
   description: "｢俺が先輩を連れて戻るまで、学園祭の事をお願いします！｣ダーカーの真の狙いは、橘イツキではなく、泉澄リナ。その事実に、イツキやアイカが気づいたときには、すでに遅かった。リナは、ダークファルスに支配され、その圧倒的な力をイツキやアイカに向ける。イツキの悲痛な呼びかけにも、一切応じずに。一時撤退し、清雅学園へと戻ってきたイツキ。自分に出来ることを自分自身に問いかけながら、生徒会室へと向かう。生徒会長の不在に、生徒会メンバーはこぞって浮き足立ち、イツキにその所在を問いかける。リナの念願は、学園祭の成功。戻ってきたときにがっかりさせたくない。その思いを胸に、イツキは生徒会メンバーに頭を下げる。リナは必ず連れて戻ってくると、告げて……<br><br>橘イツキ:蒼井
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225115←前話｜次話→so32225117　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225115←前話｜次話→so32225117　第一話→so32224995"
   length_seconds: 1449
   content_id: so32225116
   default_thread_id: 1509928464
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225116
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225116/32225116.52083701
 - !ruby/hash:EpisodeHash
   episode_no: Last Quest
   title: 境界を超えるRPG
@@ -215,16 +218,16 @@ episodes: !ruby/array:Hashie::Array
     翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川 梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江
     瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章<br><br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田
     光毅／キャラクターデザイン:高須 美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY
-    STAR PARTNERS<br><br>so32225116←前話　第一話→so32224995"
+    STAR PARTNERS<br><br>©SEGA/PHANTASY STAR PARTNERS<br><br>so32225116←前話　第一話→so32224995"
   length_seconds: 1419
   content_id: so32225117
   default_thread_id: 1509928346
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225117
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225117/32225117.22284757
 cast: "[キャスト]<br>橘イツキ:蒼井 翔太／泉澄リナ:諏訪 彩花／鈴来アイカ:M・A・O／茅野コウタ:島﨑 信長／工藤マサヤ:佐藤 拓也／近衛ミカ:村川
   梨衣／佐々木ユタカ:金田 アキ／瓜坂セイヤ:堀江 瞬／瓜坂マユ:樺山 ミナミ／SORO:玄田 哲章"
 staff: "[スタッフ]<br>原作:セガゲームス『PHANTASY STAR ONLINE2』／監督:川口 敬一郎／シリーズ構成:広田 光毅／キャラクターデザイン:高須
   美野子／音響監督:岩浪 美和／音楽:大間々 昂／アニメーション制作:テレコム・アニメーションフィルム／製作:PHANTASY STAR PARTNERS"
 produced_year: "[製作年]<br>2016年"
-copyright: "(C)SEGA/PHANTASY STAR PARTNERS"
+copyright: "©SEGA/PHANTASY STAR PARTNERS"
 related_seasons: !ruby/array:Hashie::Array []

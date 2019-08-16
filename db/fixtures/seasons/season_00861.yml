@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: DYNAMIC CHORD
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/83/2/21832_1_6.png?1507100424000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/83/2/21832_1_6.png?1551350568000
 outline: 今注目のアーティストが多数所属している音楽事務所兼レコード制作会社「DYNAMIC CHORD(ダイナミックコード) 」。その中でも特に人気を集めている4つのバンドが存在する。プログレッシブなロックサウンドで独特の世界観を表現する[rêve
   parfait]。静かな中にも激しさを感じさせるエモーショナルなロックサウンドのLiar-S。激しさを持ちつつも妖艶なロックサウンドと圧倒的な演奏力で魅せるKYOHSO。ダンスナンバーとロックをミックスさせたサウンドで若者に人気を誇るapple-polisher。華やかな世界に身を置く16人のバンドメンバーが、様々な出会いや別れを経て、それぞれが目指すステージに向けて奏でていく軌跡――。日本の四季を背景に彼らのリアルを描いたドキュメンタリームービーが、今、幕を開ける。
 tags: !ruby/array:Hashie::Array
@@ -12,13 +12,13 @@ tags: !ruby/array:Hashie::Array
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
   name: 柿原徹也
-  type: cast
-- !ruby/hash:TagHash
-  name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
   name: 木村良平
@@ -27,22 +27,22 @@ tags: !ruby/array:Hashie::Array
   name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 斉藤壮馬
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
-  name: 森久保祥太郎
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
   name: 石川界人
   type: cast
 - !ruby/hash:TagHash
-  name: 梅原裕一郎
+  name: 江口拓也
   type: cast
 - !ruby/hash:TagHash
   name: 立花慎之介
   type: cast
 - !ruby/hash:TagHash
-  name: 江口拓也
+  name: 梅原裕一郎
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：studioぴえろ
@@ -62,6 +62,12 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2017年
   type: other
+- !ruby/hash:TagHash
+  name: 2017年秋
+  type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: act.1
@@ -69,12 +75,13 @@ episodes: !ruby/array:Hashie::Array
   description: メジャーデビューを果たした[rêve parfait]だったが、最近の仕事はCM撮影などばかり。バンドの方向性に疑問を感じ始める玲音に、憧れのKYOHSOから“体調不良”の依都の代わりに練習に参加してほしいと依頼される。練習で刺激をもらう玲音だが、中々復帰しない依都を心配し始め…。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>次話→so32087028
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>次話→so32087028
   length_seconds: 1450
   content_id: so32085783
   default_thread_id: 1507781548
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32085783
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32085783/32085783.97251623
 - !ruby/hash:EpisodeHash
   episode_no: act.2
   title: "『Unreachable wish』"
@@ -82,108 +89,117 @@ episodes: !ruby/array:Hashie::Array
     CHORDメンバーを追うカメラマンの辰哉に心当たりを聞くと、彼は何かを思い出し急いでその場から去っていく。あとを追いかける玲音たちだが辿り着いたその先には――。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32085783←前話｜次話→so32127130　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32085783←前話｜次話→so32127130　第一話→so32085783
   length_seconds: 1450
   content_id: so32087028
   default_thread_id: 1507802042
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32087028.71915
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32087028/32087028.30356352
 - !ruby/hash:EpisodeHash
   episode_no: act.3
   title: "「Requiem」"
   description: 辰哉を追いかけ、辿り着いた場所は誰も知らないお墓の前だった。依都の居場所がますます分からなくなる玲音たちの一方で、辰哉と伊澄は過去にあった依都のゴシップについて話していた。その会話の中で辰哉は「ある場所」を思いつく。再び辰哉を追いかける玲音。果たして依都を見つけ出すことはできるのか…。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32087028←前話｜次話→so32201055　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32087028←前話｜次話→so32201055　第一話→so32085783
   length_seconds: 1450
   content_id: so32127130
   default_thread_id: 1508461178
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32127130
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32127130/32127130.72111998
 - !ruby/hash:EpisodeHash
   episode_no: act.4
   title: "「Summer holiday」"
   description: 部屋に引きこもっている玲音をみかねて、八雲は新曲づくりのため「合宿」を提案する。都会の喧騒から離れたコテージで合宿を始めるが、玲音は物思いにふけったまま。「ここまでひどいスランプは初めてだ」と心配する八雲。久遠と亜貴はどうにか玲音を元気づけようとする。そんな玲音のもとに訪ねてきた人とは…。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32127130←前話｜次話→so32245473　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32127130←前話｜次話→so32245473　第一話→so32085783
   length_seconds: 1450
   content_id: so32201055
   default_thread_id: 1509574493
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32201055
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32201055/32201055.96860424
 - !ruby/hash:EpisodeHash
   episode_no: act.5
   title: "「Spirits」"
   description: 合宿中にLiar-Sがいなくなったという知らせを聞いた玲音たち。しかし偶然にもLiar-Sは合宿所近くのとあるリゾートマンションに集まっていた。今後のLiar-Sを考えつつ近くの村まで歩いていく朔良。すると村は祭りの準備中で…。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32201055←前話｜次話→so32241217　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32201055←前話｜次話→so32241217　第一話→so32085783
   length_seconds: 1450
   content_id: so32245473
   default_thread_id: 1510292112
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32245473
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32245473/32245473.49692243
 - !ruby/hash:EpisodeHash
   episode_no: act.6
   title: "「Best memories」"
   description: とうとう居場所がばれてしまったLiar-S。レコーディングまでには戻ると約束するが、千哉以外が作った曲を歌うことに納得しきれていない朔良。そんな中、訪れていた近くの村がなくなるということを知り、最後ならばとライブの協力を申し出るが、村祭り当日はちょうどレコーディングの日でもあった。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32245473←前話｜次話→so32297076　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32245473←前話｜次話→so32297076　第一話→so32085783
   length_seconds: 1450
   content_id: so32241217
   default_thread_id: 1510218568
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32241217
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32241217/32241217.71123841
 - !ruby/hash:EpisodeHash
   episode_no: act.7
   title: "「Autumn breeze」"
   description: "［rêve parfait］とapple-polisherのツーマンライブが決定し、チケットも順調に売れている中、ロードバイクでサイクリング中に腕を怪我してしまった成海。雑誌の撮影中にその知らせを聞いた亜貴は、スタジオを飛び出し病院へ向かう。あとを追った玲音が目にしたのは、病室で思いつめた表情を浮かべて成海に対峙する亜貴の姿だった。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32241217←前話｜次話→so32307183　第一話→so32085783"
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32241217←前話｜次話→so32307183　第一話→so32085783"
   length_seconds: 1450
   content_id: so32297076
   default_thread_id: 1511151510
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32297076
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32297076/32297076.79074103
 - !ruby/hash:EpisodeHash
   episode_no: act.8
   title: "「Shook」"
   description: 京都に向かった［rêve parfait］だが、旅館に到着するとそこにはapple-polisherが。実は亜貴と成海の仲を懸念して計画したものであった。他のメンバーは旅館の食事や温泉を楽しむ中、2人はいまだに仲直りができずにいた。夜になり、旅館を歩いている成海の耳に入ってきたのは静かに響くピアノの音だった。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32297076←前話｜次話→so32345868　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32297076←前話｜次話→so32345868　第一話→so32085783
   length_seconds: 1450
   content_id: so32307183
   default_thread_id: 1511342964
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32307183.11101
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32307183/32307183.87587818
 - !ruby/hash:EpisodeHash
   episode_no: act.9
   title: "「Roots」"
   description: KYOHSOのライブを見て、刺激を受けた各バンドメンバーたち。忍はapple-polisherを連れて、ワイナリーへ向かう。最初は忍の意図が分からず、不満気味に手伝いをしていたメンバーだったが、次第にワインづくりを通して自分たちの音楽の原点とは何か考えさせられ始める。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32307183←前話｜次話→so32381597　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32307183←前話｜次話→so32381597　第一話→so32085783
   length_seconds: 1450
   content_id: so32345868
   default_thread_id: 1512004066
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32345868.32897
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32345868/32345868.55843626
 - !ruby/hash:EpisodeHash
   episode_no: act.10
   title: "「Cold winter」"
   description: "［rêve parfait］以外のバンドが順調に活動をする中、クリスマスライブへ向けて思うように新曲ができず、焦燥感を覚える玲音たち。何度演奏しても納得がいかず、八雲にあたってしまうこともしばしば。八雲はそんな彼らをなんとか元気づけようと奮闘するが…。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32345868←前話｜次話→so32417337　第一話→so32085783"
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32345868←前話｜次話→so32417337　第一話→so32085783"
   length_seconds: 1450
   content_id: so32381597
   default_thread_id: 1512616133
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32381597
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32381597/32381597.84430686
 - !ruby/hash:EpisodeHash
   episode_no: act.11
   title: "「Snowing」"
@@ -191,12 +207,13 @@ episodes: !ruby/array:Hashie::Array
     parfait］メンバーたち。なんとかして八雲の居場所を突き止めようとapple-polisherマネージャーの龍雄を問い詰め、聞き出した山奥にある禅寺に向かうのだった。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎
     芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷 優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32381597←前話｜次話→so32454182　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32381597←前話｜次話→so32454182　第一話→so32085783
   length_seconds: 1450
   content_id: so32417337
   default_thread_id: 1513218036
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32417337
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32417337/32417337.10072788
 - !ruby/hash:EpisodeHash
   episode_no: act.12
   title: "「Christmas Day」"
@@ -204,12 +221,13 @@ episodes: !ruby/array:Hashie::Array
     parfait]の姿は見えず――。<br><br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎 芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷
     優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
     時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎<br><br>原作:honeybee black（アスガルド）／監督・シリーズ構成・脚本:影山楙倫／キャラクターデザイン:梅津泰臣／脚本:勝冶京子／総作画監督:斉藤
-    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>so32417337←前話　第一話→so32085783
+    香／美術監督:片平真司／色彩設計:長尾朱美／音響監督:本田保則／撮影監督:菅原 徹／編集:佐々木紘実／スペシャルアニメーター:あおばみずき／助監督:安江菜津美／アニメーション制作:studioぴえろ／制作協力:studioぴえろ＋<br><br>©ASGARD/DYNAMIC
+    CHORD<br><br>so32417337←前話　第一話→so32085783
   length_seconds: 1430
   content_id: so32454182
   default_thread_id: 1513841250
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32454182
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32454182/32454182.24608789
 cast: "[キャスト]<br>香椎玲音:cv.江口拓也／月野原久遠:cv.鳥海浩輔／檜山朔良:cv.寺島拓篤／結崎 芹:cv.柿原徹也／城坂依都:cv.森久保祥太郎／黒谷
   優:cv.石川界人／天城成海:cv.蒼井翔太／青井有紀:cv.中島ヨシキ／百瀬つむぎ:cv.木村良平／香椎亜貴:cv.広瀬裕也／珠洲乃千哉:cv.岡本信彦／榛名宗太郎:cv.斉藤壮馬／英
   時明:cv.立花慎之介／諏宮篠宗:cv.八代 拓／音石夕星:cv.櫻井孝宏／黒沢 忍:cv.梅原裕一郎"
