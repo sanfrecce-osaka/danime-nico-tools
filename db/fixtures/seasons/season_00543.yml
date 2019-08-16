@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 坂本ですが？
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/90/2/20902_1_6.png?1460367003000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/90/2/20902_1_6.png?1551260055000
 outline: この物語は、とあるクール、いや、クーレストな高校生・坂本の学園生活を綴ったものである――。 入学早々、クラスの、いや学校中の注目を集める一人の生徒がいた。その名は坂本(さかもと)。彼にかかれば、ただの反復横跳びは、秘技｢レペティションサイドステップ｣へと変貌し、上級生からの｢パシリ｣は、｢おもてなし｣へとクラスチェンジする。そんな彼のクールな一挙手一投足から、目が離せない。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -23,25 +23,25 @@ tags: !ruby/array:Hashie::Array
   name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
+  name: 遊佐浩二
+  type: cast
+- !ruby/hash:TagHash
   name: 中田譲治
   type: cast
 - !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 生天目仁美
-  type: cast
-- !ruby/hash:TagHash
-  name: 遊佐浩二
-  type: cast
-- !ruby/hash:TagHash
   name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
-  name: 植田佳奈
+  name: 森久保祥太郎
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン
@@ -68,6 +68,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2016年
   type: other
 - !ruby/hash:TagHash
+  name: 2016年春
+  type: other
+- !ruby/hash:TagHash
   name: KADOKAWA
   type: other
 - !ruby/hash:TagHash
@@ -82,7 +85,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039101
   default_thread_id: 1523498756
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039101
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039101/33039101.7401635
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 守られるより守りたい／今日から使える恋愛心理術
@@ -91,7 +94,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039100
   default_thread_id: 1523499005
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039100
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039100/33039100.47258262
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: パシリスト坂本／恋のかくれんぼ
@@ -100,7 +103,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039099
   default_thread_id: 1523498807
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039099
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039099/33039099.52219922
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 坂本はすけべですか？／授業風景オムニバス／坂本が消えた夏
@@ -109,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039098
   default_thread_id: 1523498754
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039098
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039098/33039098.4388152
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: カリスマヤンキー8823先輩
@@ -118,7 +121,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039097
   default_thread_id: 1523498977
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039097
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039097/33039097.39047056
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 下校のルール／カメラ越しの恋
@@ -127,7 +130,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039096
   default_thread_id: 1523498557
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039096
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039096/33039096.80396309
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: やはり坂本はすけべですか？／瀬良のフランス革命
@@ -136,7 +139,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039095
   default_thread_id: 1523498559
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039095
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039095/33039095.54515015
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 文化祭はグルーミー
@@ -145,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039094
   default_thread_id: 1523499009
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039094
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039094/33039094.43027996
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 坂本君と私の出会い／一番近くて遠い人
@@ -154,7 +157,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039093
   default_thread_id: 1523498751
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039093
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039093/33039093.96388903
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 魔王／足りないもの
@@ -163,7 +166,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039091
   default_thread_id: 1523499063
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039091
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039091/33039091.13526099
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: ぬくもりはいらない／1－2メモリーズ
@@ -172,7 +175,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039102
   default_thread_id: 1523499060
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039102
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039102/33039102.5559714
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: さよなら坂本君
@@ -181,7 +184,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039103
   default_thread_id: 1523498780
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039103
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039103/33039103.35885632
 cast: "[キャスト]<br>坂本:緑川光／久保田吉伸:石田彰／あっちゃん:杉田智和／まりお:武内健／ケンケン:檜山修之／瀬良裕也:森久保祥太郎／黒沼あいな:堀江由衣／藤田恵:中原麻衣／カナちゃん:田村ゆかり／みーちゃん:植田佳奈／八木さん:生天目仁美／田中さん:藤田咲／エリカ:高橋美佳子／森田:前野智昭／安田:鈴木達央／小林茂:矢部雅史／角田先生:中田譲治／久保田茂美:くじら／丸山先輩:稲田徹／8823先輩:遊佐浩二／深瀬さん:岩田光央　他"
 staff: "[スタッフ]<br>原作:佐野菜見『坂本ですが？』(KADOKAWA刊)／監督:高松信司／キャラクターデザイン:中嶋敦子／撮影監督:酒井淳子／色彩設計:佐野ひとみ／美術監督:武藤正敏／編集:松原理恵／音楽:福田裕彦／音楽制作:キングレコード／音響制作:ダックスプロダクション／アニメーション制作:スタジオディーン"
 produced_year: "[製作年]<br>2016年"

@@ -1,0 +1,80 @@
+--- !ruby/hash:SeasonHash
+title: 博多明太！ぴりからこちゃん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/87/4/22874_1_6.png?1562043600000
+outline: ここは、博多のようで、博多でない街のとある商店街。今日も美味しそうな出来事が巻き起こる!?食べ物の妖精たちとのどたばた日常劇！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 茶風林
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江瞬
+  type: cast
+- !ruby/hash:TagHash
+  name: 大和田仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原夏海
+  type: cast
+- !ruby/hash:TagHash
+  name: 河野ひより
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮田浩徳
+  type: cast
+- !ruby/hash:TagHash
+  name: 大井麻利衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：小林哲也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ジーアングル
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石川健朝
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：石川健朝
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ジーアングル
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第6話
+  title: まかせて！おるすばん／壮絶！ラーメン戦争／もつ鍋おやじの恋／恐怖のうどん／走る！ゴマサバくん／あまおうくんのふるさと
+  description: 第1話：お店番を任されて、はりきるぴりからこちゃん。商店街の人々に、おいしい食べ物をどんどん紹介していくのだが……。／第2話：ラーメン店に足を運んだぴりからこちゃん一同。思いもよらず、博多VS久留米のラーメン代理戦争に巻き込まれ……。／第3話：水炊き屋のタキ子さんに恋をしたもつ鍋おやじ。恋のキューピッド・ぴりからこちゃんが立ち上がる！／第4話：「恐怖のうどん屋さん」のウワサを聞きつけたぴりからこちゃん。真相を確かめるため、恐怖のうどんに立ち向かう！／第5話：運動会のアンカーを探すぴりからこちゃん。かけっこが得意だというゴマサバくんを探し、商店街を全力疾走！／第6話：あまおうくんのふるさとにイチゴ狩りに来たぴりからこちゃん一同。キャビアくんとのイチゴ狩り対決に挑むが……。<br><br>ぴりからこちゃん:河野ひより／ソウスケおじさん:緒方賢一／もつ鍋おやじ:茶風林／バランくん:堀江瞬／あまおう:大和田仁美／キャビアくん:藤原夏海／しつじ:宮田浩徳／小春おばあちゃん:大井麻利衣／マヤ:内田真礼<br><br>原作:ジーアングル／監督・キャラクターデザイン・プロップデザイン:石川健朝／シリーズ構成・脚本:入江信吾／ロゴデザイン:ハイパーボール／美術ボード:景田学／美術監督:中村典史（スタジオなや）／色彩設計:手倉森咲子(Triple
+    A)／撮影監督:保坂友哉(旭プロダクション)／編集:本田優規(旭プロダクション)／音響監督:山崎詩織／音楽:小林哲也／音響制作:ジーアングル／制作:ジーアングル<br><br>©ぴりからこちゃん  製作委員会
+  length_seconds: 1445
+  content_id: so35503264
+  default_thread_id: 1565140267
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35503264/35503264.97231016
+cast: "[キャスト]<br>ぴりからこちゃん:河野ひより／ソウスケおじさん:緒方賢一／もつ鍋おやじ:茶風林／バランくん:堀江瞬／あまおう:大和田仁美／キャビアくん:藤原夏海／しつじ:宮田浩徳／小春おばあちゃん:大井麻利衣／マヤ:内田真礼"
+staff: "[スタッフ]<br>原作:ジーアングル／監督・キャラクターデザイン・プロップデザイン:石川健朝／シリーズ構成・脚本:入江信吾／ロゴデザイン:ハイパーボール／美術ボード:景田学／美術監督:中村典史（スタジオなや）／色彩設計:手倉森咲子(Triple
+  A)／撮影監督:保坂友哉(旭プロダクション)／編集:本田優規(旭プロダクション)／音響監督:山崎詩織／音楽:小林哲也／音響制作:ジーアングル／制作:ジーアングル"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ぴりからこちゃん 製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
