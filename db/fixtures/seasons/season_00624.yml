@@ -23,16 +23,16 @@ tags: !ruby/array:Hashie::Array
   name: 逢坂良太
   type: cast
 - !ruby/hash:TagHash
-  name: 竹達彩奈
-  type: cast
-- !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 雨宮天
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
   type: cast
 - !ruby/hash:TagHash
   name: 村川梨衣
