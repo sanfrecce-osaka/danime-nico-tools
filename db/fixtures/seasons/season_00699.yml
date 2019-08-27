@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
-  name: 大西沙織
+  name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
-  name: 稲田徹
+  name: 大西沙織
   type: cast
 - !ruby/hash:TagHash
   name: 種田梨沙
