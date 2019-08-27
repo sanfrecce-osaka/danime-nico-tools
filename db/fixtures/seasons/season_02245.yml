@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 木下鈴奈
   type: cast
 - !ruby/hash:TagHash
-  name: 酒井広大
+  name: 豊田萌絵
   type: cast
 - !ruby/hash:TagHash
-  name: 豊田萌絵
+  name: 酒井広大
   type: cast
 - !ruby/hash:TagHash
   name: 上原あかり

@@ -17,19 +17,19 @@ tags: !ruby/array:Hashie::Array
   name: 櫻井孝宏
   type: cast
 - !ruby/hash:TagHash
-  name: 中村悠一
+  name: 沢城みゆき
   type: cast
 - !ruby/hash:TagHash
-  name: 沢城みゆき
+  name: 中村悠一
   type: cast
 - !ruby/hash:TagHash
   name: 釘宮理恵
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 島﨑信長
   type: cast
 - !ruby/hash:TagHash
-  name: 島﨑信長
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤聡美
@@ -299,6 +299,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1563758462
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35433972/35433972.98080485
+- !ruby/hash:EpisodeHash
+  episode_no: "＃２１"
+  title: 売られた電波は買わなくちゃ
+  description: 透と魚谷は珍しい光景に足を止める。花島が由希のファンクラブ『プリンセスユキ』のメンバーに声をかけられていたのだ。聞いてみると、学校新聞で電波の特集を組みたいので家へ行ってもいいかと取材を申し込まれたという。花島は「売られた電波は買わなくちゃ」と了承するが、プリユキの真の目的は別にあって……。<br><br>本田透:石見舞菜香／草摩由希:島﨑信長／草摩夾:内田雄馬／草摩紫呉:中村悠一／草摩楽羅:釘宮理恵／草摩紅葉:潘めぐみ／草摩潑春:古川慎／草摩はとり:興津和幸／草摩綾女:櫻井孝宏／草摩慊人:坂本真綾／魚谷ありさ:種﨑敦美／花島咲:佐藤聡美／本田今日子:沢城みゆき
+    ほか<br><br>原作・総監修:高屋奈月「フルーツバスケット」（白泉社・花とゆめCOMICS）／監督:井端義秀／シリーズ構成:岸本 卓／キャラクターデザイン:進藤
+    優／美術監督:神山瑶子／色彩設計:菅原美佳／撮影監督:設楽 希／編集:肥田 文／音響監督:明田川 仁／音楽:横山 克／音楽制作:トムス・ミュージック／アニメーション制作:トムス・エンタテインメント／製作:フルーツバスケット製作委員会<br><br>©高屋奈月・白泉社／フルーツバスケット製作委員会<br><br>so35433972←前話｜次話→so35433970　第一話→so34932400
+  length_seconds: 1430
+  content_id: so35433971
+  default_thread_id: 1563757925
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35433971/35433971.47584844
 cast: "[キャスト]<br>本田透:石見舞菜香／草摩由希:島﨑信長／草摩夾:内田雄馬／草摩紫呉:中村悠一／草摩楽羅:釘宮理恵／草摩紅葉:潘めぐみ／草摩潑春:古川慎／草摩はとり:興津和幸／草摩綾女:櫻井孝宏／草摩慊人:坂本真綾／魚谷ありさ:種﨑敦美／花島咲:佐藤聡美／本田今日子:沢城みゆき
   ほか"
 staff: "[スタッフ]<br>原作・総監修:高屋奈月「フルーツバスケット」（白泉社・花とゆめCOMICS）／監督:井端義秀／シリーズ構成:岸本 卓／キャラクターデザイン:進藤

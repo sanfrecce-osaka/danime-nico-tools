@@ -193,7 +193,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35450131
   default_thread_id: 1564103404
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35450131/35450131.27407167
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35579931/35579931.76221307
 - !ruby/hash:EpisodeHash
   episode_no: ディメンジョン13
   title: 決着!!
