@@ -241,6 +241,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1564537265
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35472694/35472694.96687883
+- !ruby/hash:EpisodeHash
+  episode_no: "＃２１"
+  title: "「ラクダを買うぞ」"
+  description: テレビで「クローン技術の最先端」というドキュメンタリーを見ていると、ウム・サイードが「こんなのつまんない、チャンネル変えて」と言い出す。適当にチャンネルを変えると、ラクダレースの番組に出くわす。そこへ、料理の配達からもどったウム・ハマスが入ってきて「そういえば、今日、料理届けた人はさ、二十一億円で競争用のラクダを買ったのよ。たかがラクダよ。」という。さらに「あの商売、絶対に儲かるわよ」とラクダで大儲けをしようと悪知恵を働かせる。あの手この手で、高く売れるラクダを探すのだが、最後にとんでもないドンデン返しが待っていた！<br><br>ウム・サイード:高畑淳子／ウム・サルーム:野沢由香里／ウム・アラウィ:小林さやか／ウム・ハマス:片岡富枝／アブード:若月佑美<br><br>監督:モハメド・サイード・ハリブ<br><br>© 2018
+    Lammtara Art Production. All rights reserved<br><br>so35472694←前話｜次話→so35472692　第一話→so35117376
+  length_seconds: 1440
+  content_id: so35472693
+  default_thread_id: 1564537563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35472693/35472693.6889988
 cast: "[キャスト]<br>ウム・サイード:高畑淳子／ウム・サルーム:野沢由香里／ウム・アラウィ:小林さやか／ウム・ハマス:片岡富枝／アブード:若月佑美"
 staff: "[スタッフ]<br>監督:モハメド・サイード・ハリブ"
 produced_year: "[製作年]<br>2018年"
