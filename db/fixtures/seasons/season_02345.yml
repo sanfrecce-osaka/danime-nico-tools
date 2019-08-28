@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 高橋李依
   type: cast
 - !ruby/hash:TagHash
-  name: 茜屋日海夏
+  name: 本渡楓
   type: cast
 - !ruby/hash:TagHash
-  name: 本渡楓
+  name: 茜屋日海夏
   type: cast
 - !ruby/hash:TagHash
   name: 市川蒼
@@ -133,6 +133,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1566263769
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35565488/35565488.99166253
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: その１：偏見先輩／その２：追試先輩／その３：アイス先輩／その４：水着先輩
+  description: みんなのヒ・ミ・ツ♡／策士！策に溺れる！／アイスはおあずけ？／助手とまーくんの露出水着大作戦！<br><br>先輩:本渡 楓／助手:市川
+    蒼／咲ちゃん:喜多村英梨／斑さん:高橋李依／まーくん:浪川大輔／お姉ちゃん:茜屋日海夏<br><br>監督:臼井文明／シリーズ構成:池田臨太郎／キャラクターデザイン:伊藤依織子／プロップデザイン:林志保／美術設定:イノセユキエ／美術監督:齋藤幸洋／色彩設計:小野寺笑子／撮影監督:志良堂勝規／編集:吉武将人／音響監督:鶴岡陽太／音楽:はまたけし／アニメーション制作:ライデンフィルム／制作:NAS<br><br>©アズ・講談社／手品先輩製作委員会<br><br>so35565488←前話｜次話→so35631476　第一話→so35344092
+  length_seconds: 750
+  content_id: so35597957
+  default_thread_id: 1566870914
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35597957/35597957.12497635
 cast: "[キャスト]<br>先輩:本渡 楓／助手:市川 蒼／咲ちゃん:喜多村英梨／斑さん:高橋李依／まーくん:浪川大輔／お姉ちゃん:茜屋日海夏"
 staff: "[スタッフ]<br>監督:臼井文明／シリーズ構成:池田臨太郎／キャラクターデザイン:伊藤依織子／プロップデザイン:林志保／美術設定:イノセユキエ／美術監督:齋藤幸洋／色彩設計:小野寺笑子／撮影監督:志良堂勝規／編集:吉武将人／音響監督:鶴岡陽太／音楽:はまたけし／アニメーション制作:ライデンフィルム／制作:NAS"
 produced_year: "[製作年]<br>2019年"

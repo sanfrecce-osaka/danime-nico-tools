@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
-  name: 大塚明夫
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
   name: 安野希世乃
@@ -130,6 +130,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1565928845
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35546055/35546055.62494270
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ほまれのパパ
+  description: 夏場の強い紫外線から逃れるため、日焼け止めを求める一同。そこで、ほまれが獲ってきたのはイカと海藻だった…。虫刺されや汗臭さへの対処法など、サバイバルでの様々な問題に直面する中、ほまれは父の教えを思い出す。<br><br>鬼島ほまれ:Ｍ･Ａ･Ｏ／鈴森明日香:河野ひより／天谷睦:安野希世乃／九条紫音:和氣あず未／鬼島丈一:大塚明夫<br><br>監督:長山延好／シリーズ構成・脚本:待田堂子／キャラクターデザイン:西尾淳之介／プロップデザイン:佐藤玲子／コンセプトアート・美術設定:佐久間昇／美術監督:西倉
+    力／色彩設計:小川由美香／撮影監督:伊藤康行／編集:岡 祐司／音響監督:菅原輝明／音楽:立山秋航／アニメーション制作:Ezo'la／制作:NAS<br><br>©岡本健太郎・さがら梨々・講談社／ソウナンですか？製作委員会<br><br>so35546055←前話｜次話→so35611641　第一話→so35324160
+  length_seconds: 750
+  content_id: so35597958
+  default_thread_id: 1566870910
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35597958/35597958.97065900
 cast: "[キャスト]<br>鬼島ほまれ:Ｍ･Ａ･Ｏ／鈴森明日香:河野ひより／天谷睦:安野希世乃／九条紫音:和氣あず未／鬼島丈一:大塚明夫"
 staff: "[スタッフ]<br>監督:長山延好／シリーズ構成・脚本:待田堂子／キャラクターデザイン:西尾淳之介／プロップデザイン:佐藤玲子／コンセプトアート・美術設定:佐久間昇／美術監督:西倉
   力／色彩設計:小川由美香／撮影監督:伊藤康行／編集:岡 祐司／音響監督:菅原輝明／音楽:立山秋航／アニメーション制作:Ezo'la／制作:NAS"

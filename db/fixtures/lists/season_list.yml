@@ -7256,3 +7256,9 @@
 - !ruby/hash:Hashie::Mash
   title: 幽☆遊☆白書 冥界死闘篇 炎の絆
   first_episode_url: http://www.nicovideo.jp/watch/so35495212
+- !ruby/hash:Hashie::Mash
+  title: 劇場版 黒子のバスケ LAST GAME
+  first_episode_url: http://www.nicovideo.jp/watch/so35565504
+- !ruby/hash:Hashie::Mash
+  title: 貧乏神が！
+  first_episode_url: http://www.nicovideo.jp/watch/so35565553
