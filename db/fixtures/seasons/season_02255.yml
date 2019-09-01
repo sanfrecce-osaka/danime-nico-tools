@@ -176,7 +176,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35306937
   default_thread_id: 1561339331
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35306937/35306937.2840219
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35306937/35306937.76651342
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: "「妖怪ナガバナナ」／「ドクターＦ　＃3」"
@@ -186,7 +186,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35339854
   default_thread_id: 1561944126
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35339854/35339854.17411407
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35339854/35339854.12580896
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: "「妖怪ハリー」／「ニッポン全国 コマみ探しの旅！ 京都編」"
@@ -197,7 +197,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35371928
   default_thread_id: 1562552545
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371928/35371928.91989030
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35371928/35371928.21644862
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: "「妖怪たまのこし」／「課長ジバ耕作」"
@@ -207,7 +207,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35412622
   default_thread_id: 1563325864
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35412622/35412622.23238221
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35412622/35412622.94590405
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: "「妖怪マイマイペース」／「ふぶき姫のなつやすみ」"
@@ -217,7 +217,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35433963
   default_thread_id: 1563758466
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35433963/35433963.9113318
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35433963/35433963.2967806
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: "「妖怪らくてん童」／「夏の三本勝負！ カブトＶＳクワガタ！」"
@@ -228,7 +228,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35464299
   default_thread_id: 1564363205
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35464299/35464299.67399294
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35464299/35464299.86902749
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: "「妖怪じごくミミズク」／「ニッポン全国 コマみ探しの旅！ 湘南編」"
@@ -239,7 +239,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35495219
   default_thread_id: 1564967706
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35495219/35495219.58923959
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35495219/35495219.6650218
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: "「激情編 おっさんヅラ部」／「妖怪マスクドニャーン」"
@@ -249,7 +249,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35531247
   default_thread_id: 1565658609
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35531247/35531247.52564460
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35531247/35531247.67865357
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: "「エンマ王家の秘宝！狙われたブラックダイヤニャン！」"
@@ -259,7 +259,17 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35565489
   default_thread_id: 1566264262
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35565489/35565489.71271073
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35565489/35565489.69174034
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: "「妖怪ほむら天狗」／「妖魔一武道会『ブラックダイヤニャン』」"
+  description: "「妖怪ほむら天狗」今日はとにかくものすごく暑い！この猛暑も、もしかしたら妖怪のしわざかも？…と疑うケータ。いつものように否定するウィスパーだが、暑すぎてどんどん体が干からびていく…。いくらなんでもさすがにおかしい！するとそこには、大昔から日照りを起こしてきた妖怪“ほむら天狗”がいた。ほむら天狗が日照りを起こすのは、世の中が乱れたときだけだという。今ってそんなに世の中が乱れてたっけ？／「妖魔一武道会『ブラックダイヤニャン』」最強の妖怪を決定するガチバトル…、それが妖魔一武道会！今回の対決は、伝説の宝玉七将“ブラックダイヤニャン”VS同じく伝説の宝玉七将の“ルビーしゅらコマ”の戦いだ。宝玉七将同士の、最強決定戦がついに幕を開けようとするが…？<br><br>天野ケータ:戸松
+    遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾<br><br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム<br><br>©LEVEL-5/妖怪ウォッチプロジェクト・テレビ東京<br><br>so35565489←前話｜次話→so35627287　第一話→so34937996"
+  length_seconds: 1485
+  content_id: so35593340
+  default_thread_id: 1566782946
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35593340/35593340.97893857
 cast: "[キャスト]<br>天野ケータ:戸松 遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾"
 staff: "[スタッフ]<br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム"
 produced_year: "[製作年]<br>2019年"
