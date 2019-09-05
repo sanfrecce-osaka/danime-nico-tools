@@ -38,10 +38,10 @@ tags: !ruby/array:Hashie::Array
   name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
-  name: 小清水亜美
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 音楽制作：ランティス
