@@ -17,7 +17,8 @@ module Scraping
             .find_elements(:tag_name, 'a')
             .map { |link| hashie(title: title_on_head(link.text.strip), first_episode_url: link.attribute('href')) }
         end.flatten
-        old_season_list.push(new_season_list.reject { |season| old_season_list.include?(season) }).flatten
+        registered_titles = old_season_list.map(&:title)
+        old_season_list.push(new_season_list.reject { |season| registered_titles.include?(season.title) }).flatten
       ensure
         @driver.quit
       end
