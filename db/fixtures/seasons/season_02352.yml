@@ -20,25 +20,25 @@ tags: !ruby/array:Hashie::Array
   name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 黒沢ともよ
+  name: 安済知佳
   type: cast
 - !ruby/hash:TagHash
-  name: 安済知佳
+  name: 黒沢ともよ
   type: cast
 - !ruby/hash:TagHash
   name: 麻倉もも
   type: cast
 - !ruby/hash:TagHash
-  name: 咲野俊介
-  type: cast
-- !ruby/hash:TagHash
   name: 広瀬裕也
   type: cast
 - !ruby/hash:TagHash
-  name: 土屋神葉
+  name: 咲野俊介
   type: cast
 - !ruby/hash:TagHash
   name: 河野ひより
+  type: cast
+- !ruby/hash:TagHash
+  name: 土屋神葉
   type: cast
 - !ruby/hash:TagHash
   name: 監督：安藤真裕
@@ -180,6 +180,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1566871149
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35597960/35597960.82877916
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 穴
+  description: 天城と下校するり香の前を、ひと葉を乗せた山岸の車が走り去っていく。慌てて後を追う天城とり香。その頃、満員電車で、新菜は泉に思いがけない言葉をかける。そんな中、ついにひと葉は山岸を押し倒す。あっと言わせるため、一生忘れられない存在にするために。「本郷ちん、応答せよ！」<br><br>小野寺和紗:河野ひより／菅原新菜:安済知佳／須藤百々子:麻倉もも／本郷ひと葉:黒沢ともよ／曾根崎り香:上坂すみれ／典元
+    泉:土屋神葉／天城 駿:広瀬裕也／山岸知明:福山 潤／三枝 久:咲野俊介／十条園絵:戸松 遥／杉本 悟:花江夏樹<br><br>原作:『荒ぶる季節の乙女どもよ。』（講談社「別冊少年マガジン」連載）原作：岡田麿里　漫画：絵本奈央／監督:安藤真裕・塚田拓郎／脚本:岡田麿里／キャラクターデザイン・総作画監督:石井かおり／音楽:日向
+    萌／美術監督:中久木孝将・中尾陽子／色彩設計:山崎朋子／撮影監督:長田雄一郎／音響監督:郷 文裕貴／編集:髙橋 歩／プロデュース:斎藤俊輔／アニメーションプロデューサー:米内則智／アニメーション制作:Lay-duce／OPテーマ:「乙女どもよ。」歌：CHiCO
+    with HoneyWorks／EDテーマ:「ユメシンデレラ」歌：麻倉もも<br><br>© 岡田麿里・絵本奈央・講談社／荒乙製作委員会<br><br>so35597960←前話｜次話→so35666330　第一話→so35352746
+  length_seconds: 1422
+  content_id: so35631475
+  default_thread_id: 1567472950
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35631475/35631475.56201967
 cast: "[キャスト]<br>小野寺和紗:河野ひより／菅原新菜:安済知佳／須藤百々子:麻倉もも／本郷ひと葉:黒沢ともよ／曾根崎り香:上坂すみれ／典元 泉:土屋神葉／天城
   駿:広瀬裕也／山岸知明:福山 潤／三枝 久:咲野俊介／十条園絵:戸松 遥／杉本 悟:花江夏樹"
 staff: "[スタッフ]<br>原作:『荒ぶる季節の乙女どもよ。』（講談社「別冊少年マガジン」連載）原作：岡田麿里　漫画：絵本奈央／監督:安藤真裕・塚田拓郎／脚本:岡田麿里／キャラクターデザイン・総作画監督:石井かおり／音楽:日向
