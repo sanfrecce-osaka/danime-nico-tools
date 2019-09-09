@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 内藤玲
   type: cast
 - !ruby/hash:TagHash
-  name: 尾崎真実
+  name: 下山吉光
   type: cast
 - !ruby/hash:TagHash
-  name: 下山吉光
+  name: 尾崎真実
   type: cast
 - !ruby/hash:TagHash
   name: 芝崎典子
@@ -128,6 +128,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1566782954
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35593345/35593345.55700710
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 真・迷宮主登場
+  description: 手分けしてロードレの部品を探していたジンたちは、迷宮内の最大のボスである本物の“迷宮主”に遭遇する。ジンとアンリーチェは迷宮主の追撃を受け慌てて逃げるが、迷宮主もロードレの部品を集めているようで…？<br><br>ジン:柿原徹也／ブラック:M・A・O／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ガドロス:前田誠ニ／アンミシュウ:小野友樹／アンリーチェ:伊藤美来／インチェ:峯田大夢／ダニエル:徳森圭輔／ペリー:伊東隼人／アイビー:尾崎真実／エイミー:櫻井菜々絵／パロス:ケンコー／カミル:田村昇三／ライシー:佐藤祐吾／レイド:下山吉光／ロードレ:三浦勝之／超能研究所所長:内藤玲<br><br>監督:周亮／脚本:云落／原作:7DOC<br><br>©7DOC<br><br>so35593345←前話｜次話→so35593347　第一話→so35352292
+  length_seconds: 1420
+  content_id: so35593346
+  default_thread_id: 1566782409
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35593346/35593346.90166346
 cast: "[キャスト]<br>ジン:柿原徹也／ブラック:M・A・O／グレイ:安部亮馬／シドウゲン:児玉卓也／カイリ:芝崎典子／ガドロス:前田誠ニ／アンミシュウ:小野友樹／アンリーチェ:伊藤美来／インチェ:峯田大夢／ダニエル:徳森圭輔／ペリー:伊東隼人／アイビー:尾崎真実／エイミー:櫻井菜々絵／パロス:ケンコー／カミル:田村昇三／ライシー:佐藤祐吾／レイド:下山吉光／ロードレ:三浦勝之／超能研究所所長:内藤玲"
 staff: "[スタッフ]<br>監督:周亮／脚本:云落／原作:7DOC"
 produced_year: "[製作年]<br>2019年"
