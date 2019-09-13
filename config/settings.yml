@@ -381,6 +381,99 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第5話'
           title: "case7 Bullet ＆ Blade’s Ballad"
+  - id: 21
+    title: 'ケロロ軍曹 2ndシーズン'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第56話'
+          title: "夏美&小雪 テニスのプリンセス であります/ケロロ 侵略日和のさつき晴れ であります"
+        nico_branch:
+          episode_no: '第56話'
+          title: "夏美＆小雪 テニスのプリンセス であります/ケロロ 侵略日和のさつき晴れ であります"
+      - id: 2
+        head:
+          episode_no: '第61話'
+          title: "冬樹 謎の転校少女にナニが起こったか? であります/夏美&サブロー 戻れないフ・タ・リ であります"
+        nico_branch:
+          episode_no: '第61話'
+          title: "冬樹 謎の転校少女にナニが起こったか? であります/夏美＆サブロー 戻れないフ・タ・リ であります"
+      - id: 3
+        head:
+          episode_no: '第62話'
+          title: "桃華&夏美&モア 怪盗モアピーチサマー であります/ケロロ 必勝!水中大決戦 であります"
+        nico_branch:
+          episode_no: '第62話'
+          title: "桃華＆夏美＆モア 怪盗モアピーチサマー であります/ケロロ 必勝!水中大決戦 であります"
+      - id: 4
+        head:
+          episode_no: '第66話'
+          title: "ギロロ 愛の救出大作戦 であります/夏美&小雪 ドッキドッキ初デート であります"
+        nico_branch:
+          episode_no: '第66話'
+          title: "ギロロ 愛の救出大作戦 であります/夏美＆小雪 ドッキドッキ初デート であります"
+      - id: 5
+        head:
+          episode_no: '第67話'
+          title: "冬樹&桃華 ひみつのミステリーデート であります/ケロロ なあ､ゲームを作ろうじゃないか であります"
+        nico_branch:
+          episode_no: '第67話'
+          title: "冬樹＆桃華 ひみつのミステリーデート であります/ケロロ なあ､ゲームを作ろうじゃないか であります"
+      - id: 6
+        head:
+          episode_no: '第86話'
+          title: "冬樹&夏美 悪魔のすむ日向家 であります/ケロロ なれ!スーパーヒーローに であります"
+        nico_branch:
+          episode_no: '第86話'
+          title: "冬樹＆夏美 悪魔のすむ日向家 であります/ケロロ なれ!スーパーヒーローに であります"
+      - id: 7
+        head:
+          episode_no: '第94話'
+          title: "カララ&タルル ペコポンをもらっちゃおう! であります"
+        nico_branch:
+          episode_no: '第94話'
+          title: "カララ＆タルル ペコポンをもらっちゃおう! であります"
+      - id: 8
+        head:
+          episode_no: '第97話'
+          title: "桃華 強敵と書いて“とも”と読む であります/ケロロ&冬樹 ふたりで… であります"
+        nico_branch:
+          episode_no: '第97話'
+          title: "桃華 強敵と書いて“とも”と読む であります/ケロロ＆冬樹 ふたりで… であります"
+      - id: 9
+        head:
+          episode_no: '第98話'
+          title: "桃華 駆け落ち大作戦 であります/ドロロ&小雪 出会いの記憶 であります"
+        nico_branch:
+          episode_no: '第98話'
+          title: "桃華 駆け落ち大作戦 であります/ドロロ＆小雪 出会いの記憶 であります"
+  - id: 22
+    title: 'ケロロ軍曹 3rd シーズン'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第134話'
+          title: "ケロロ　風邪をひいたらアフレコだ!?　であります／冬樹&クルル　秋葉原を行く　であります"
+        nico_branch:
+          episode_no: '第134話'
+          title: "ケロロ　風邪をひいたらアフレコだ!?　であります／冬樹＆クルル　秋葉原を行く　であります"
+  - id: 23
+    title: 'ケロロ軍曹 5thシーズン'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第227話'
+          title: "ケロロ&夏美 ひとつの部屋 であります"
+        nico_branch:
+          episode_no: '第227話'
+          title: "ケロロ＆夏美 ひとつの部屋 であります"
+      - id: 2
+        head:
+          episode_no: '第229話'
+          title: "ケロロ コトバの必殺拳！ であります／サブロー&クルル 静かな戦い であります"
+        nico_branch:
+          episode_no: '第229話'
+          title: "ケロロ コトバの必殺拳！ であります／サブロー＆クルル 静かな戦い であります"
 
 seasons_with_different_title:
   -
