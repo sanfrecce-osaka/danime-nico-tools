@@ -32,19 +32,19 @@ tags: !ruby/array:Hashie::Array
   name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
   name: 竹内順子
   type: cast
 - !ruby/hash:TagHash
-  name: 吉野裕行
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
   name: 村瀬歩
   type: cast
 - !ruby/hash:TagHash
   name: 三宅健太
-  type: cast
-- !ruby/hash:TagHash
-  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：OLM
@@ -431,7 +431,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121568
   default_thread_id: 1557797403
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121568/35121568.33848919
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35607498/35607498.11593633
 - !ruby/hash:EpisodeHash
   episode_no: 第30話
   title: 神の目
@@ -443,7 +443,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35149881
   default_thread_id: 1558314848
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35149881/35149881.47875492
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35607508/35607508.44634814
 - !ruby/hash:EpisodeHash
   episode_no: 第31話
   title: GGG線上のアリア
@@ -455,7 +455,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35186001
   default_thread_id: 1559006541
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35186001/35186001.57227816
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35607515/35607515.1260043
 - !ruby/hash:EpisodeHash
   episode_no: 第32話
   title: 甦れ！　フェニックス
@@ -467,7 +467,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35217713
   default_thread_id: 1559612051
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35217713/35217713.55490327
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35607524/35607524.41875058
 - !ruby/hash:EpisodeHash
   episode_no: 第33話
   title: 消えた明日人
@@ -600,6 +600,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1566264085
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35565492/35565492.19183541
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 魔女の軍団
+  description: ついに準決勝を迎えるイナズマジャパン。対するは、「ガーディアンズオブクイーン」ことイタリア代表。彼らはオリオン財団と深い関係にある魔女と呼ばれる人物直属のチームだった。試合を勝ち進むためには、「ラストリゾート」の完成が必須だと言う趙金雲。「ラストリゾート」を完成させるため、特訓を重ねる明日人、灰崎、野坂だが完成には及ばないまま試合当日を迎えてしまう。一方、フィールドに現れたイタリア代表の選手たちは手足に謎の黒いサポーターをつけており…。<br><br>稲森明日人:村瀬
+    歩／灰崎凌兵:神谷浩史／野坂悠馬:福山 潤／円堂守:竹内順子／豪炎寺修也:野島裕史／鬼道有人:吉野裕行／一星充:大町知広／吉良ヒロト:増田俊樹／剛陣鉄之助:武内駿輔／氷浦貴利名:斉藤壮馬／基山タツヤ:水島大宙／不動明王:梶
+    裕貴／風丸一郎太:西墻由香／万作雄一郎:櫻井孝宏／吹雪士郎:宮野真守／坂野上昇:高橋李依／岩戸高志:三宅健太／西蔭政也:鈴村健一／砂木沼治:疋田高志／趙金雲:中村悠一<br><br>総監督／原案・シリーズ構成:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／チーフディレクター:かまくらゆみ／キャラクターデザイン原案:長野拓造／アートコンセプト:荒川政子／キャラクターデザイン:池田裕治・中野繭子・井ノ上ユウ子／音響監督:三好慶一郎・原口
+    昇／音楽:光田康典／アニメーション制作:オー・エル・エム<br><br>©LEVEL-5／FCイナズマイレブン・テレビ東京<br><br>so35565492←前話｜次話→so35627285　第一話→so33990658
+  length_seconds: 1375
+  content_id: so35593351
+  default_thread_id: 1566782958
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35593351/35593351.34351741
 cast: "[キャスト]<br>稲森明日人:村瀬 歩／灰崎凌兵:神谷浩史／野坂悠馬:福山 潤／円堂守:竹内順子／豪炎寺修也:野島裕史／鬼道有人:吉野裕行／一星充:大町知広／吉良ヒロト:増田俊樹／剛陣鉄之助:武内駿輔／氷浦貴利名:斉藤壮馬／基山タツヤ:水島大宙／不動明王:梶
   裕貴／風丸一郎太:西墻由香／万作雄一郎:櫻井孝宏／吹雪士郎:宮野真守／坂野上昇:高橋李依／岩戸高志:三宅健太／西蔭政也:鈴村健一／砂木沼治:疋田高志／趙金雲:中村悠一"
 staff: "[スタッフ]<br>総監督／原案・シリーズ構成:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／チーフディレクター:かまくらゆみ／キャラクターデザイン原案:長野拓造／アートコンセプト:荒川政子／キャラクターデザイン:池田裕治・中野繭子・井ノ上ユウ子／音響監督:三好慶一郎・原口
