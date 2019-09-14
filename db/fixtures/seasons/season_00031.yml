@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash
-  name: 浅沼晋太郎
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 日高里菜
+  name: 浅沼晋太郎
   type: cast
 - !ruby/hash:TagHash
   name: 赤﨑千夏
