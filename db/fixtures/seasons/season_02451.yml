@@ -1,0 +1,94 @@
+--- !ruby/hash:SeasonHash
+title: ギャラクシーエンジェルS
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/95/1/22951_1_6.png?1566896421000
+outline: 人気美少女アニメ「ギャラクシーエンジェル」の第3シリーズの特別番組。「フユーレイピューレジュレ」　「いどうどん」の2話構成。ミルフィーユがユ～レイに!?　エンジェル隊がうらめしや～!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 三瓶由布子
+  type: cast
+- !ruby/hash:TagHash
+  name: 新谷良子
+  type: cast
+- !ruby/hash:TagHash
+  name: かないみか
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口眞弓
+  type: cast
+- !ruby/hash:TagHash
+  name: サエキトモ
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：マッドハウス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：七瀬光
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ブロッコリー
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：藤田まり子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高柳滋仁
+  type: staff
+- !ruby/hash:TagHash
+  name: ギャラクシーエンジェルシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 2002年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: フユーレイピューレジュレ／いどうどん
+  description: "「フユーレイピューレジュレ」　エンジェル隊の基地が襲われた！懸命に防戦するも基地内まで侵入を許したエンジェル隊はミルフィーユの犠牲で救われる。故人をなつかしみ思い出話に花を咲かせるランファ達だったが･･･。／「いどうどん」　エンジェル隊とツインスター隊の隊長が入れ替わり、ツインスター隊の隊長を務めることになったウォルコット。何とか手柄を立てようと２人をおだてるが全く効果なし。それどころかココモにあることを指摘されて逆上してしまった。それは･･･。<br><br>ミルフィーユ･桜葉:新谷良子／蘭花･フランボワーズ:田村ゆかり／ミント･ブラマンシュ:沢城みゆき／フォルテ･シュトーレン:山口眞弓／ヴァニラ･Ｈ（アッシュ）＆ノーマッド:かないみか／ウォルコット:藤原啓治／ココモ・ペイロー:三瓶由布子／マリブ・ペイロー:サエキトモ／メアリー少佐:大原さやか　他
+    <br><br>原作:ブロッコリー／監督:高柳滋仁／シリーズ構成:井上敏樹／総監修:水野 良／キャラクター原案:かなん／キャラクターデザイン:藤田まり子／メカニックデザイン:高倉武史･戦船／音楽:七瀬
+    光／主題歌:「エンジェル★うっきー」エンジェル隊／アニメーション制作:マッドハウス　他<br><br>©ブロッコリー・バンダイビジュアル"
+  length_seconds: 1432
+  content_id: so35602361
+  default_thread_id: 1566955094
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602361/35602361.22974617
+cast: "[キャスト]<br>ミルフィーユ･桜葉:新谷良子／蘭花･フランボワーズ:田村ゆかり／ミント･ブラマンシュ:沢城みゆき／フォルテ･シュトーレン:山口眞弓／ヴァニラ･Ｈ（アッシュ）＆ノーマッド:かないみか／ウォルコット:藤原啓治／ココモ・ペイロー:三瓶由布子／マリブ・ペイロー:サエキトモ／メアリー少佐:大原さやか　他"
+staff: "[スタッフ]<br>原作:ブロッコリー／監督:高柳滋仁／シリーズ構成:井上敏樹／総監修:水野 良／キャラクター原案:かなん／キャラクターデザイン:藤田まり子／メカニックデザイン:高倉武史･戦船／音楽:七瀬
+  光／主題歌:「エンジェル★うっきー」エンジェル隊／アニメーション制作:マッドハウス　他"
+produced_year: "[製作年]<br>2003年"
+copyright: "©ブロッコリー・バンダイビジュアル"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ギャラクシーエンジェル
+- !ruby/hash:SeasonHash
+  title: ギャラクシーエンジェルZ
+- !ruby/hash:SeasonHash
+  title: ギャラクシーエンジェルA/AA
+- !ruby/hash:SeasonHash
+  title: ギャラクシーエンジェルX
+- !ruby/hash:SeasonHash
+  title: ギャラクシーエンジェる～ん
