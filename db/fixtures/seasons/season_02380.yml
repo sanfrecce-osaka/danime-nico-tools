@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 竹井亮介
   type: cast
 - !ruby/hash:TagHash
-  name: 上埜すみれ
+  name: 沢井正棋
   type: cast
 - !ruby/hash:TagHash
-  name: 沢井正棋
+  name: 上埜すみれ
   type: cast
 - !ruby/hash:TagHash
   name: 永岡卓也
@@ -121,4 +121,6 @@ cast: "[キャスト]<br>キャスト:永岡卓也／竹井亮介／落合モト
 staff: "[スタッフ]<br>原作:クオン／監督:住田崇／脚本:オークラ、岩崎う大、土屋亮一"
 produced_year: "[製作年]<br>2019年"
 copyright: "©ビジネスフィッシュ製作委員会"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ビジネスフィッシュ＋
