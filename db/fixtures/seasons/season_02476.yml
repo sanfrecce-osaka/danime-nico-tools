@@ -1,0 +1,636 @@
+--- !ruby/hash:SeasonHash
+title: バトルスピリッツ ダブルドライブ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/59/1/22591_1_6.png?1551342608000
+outline: TVアニメの第8シリーズ。全てのバトルスピリッツの始まりの世界、スピリッツワールド。かつて恐るべき邪神皇がスピリッツワールドを崩壊の危機におとしいれた時、時の勇者たちは十二神皇の力をもってその悪の力を封印した。それから長い時を経て、今再び、邪神皇を復活させんとする悪しき者が現れた……。「十二神皇に選ばれし勇者たちよ、共に世界を救ってください――」
+  バトスピ大好き少年の茂上駿太は、ある日、カードに導かれて異世界「スピリッツワールド」に召喚されてしまう。駿太を召喚した巫女のエトは、邪神皇の復活によるスピリッツワールド滅亡の危機を訴える。それを阻止するには、再び十二神皇の力を集結させなくてはならないという。駿太はエトに導かれ、同じく別世界から召喚された少年、ヨク・アルバトロサと共に世界に散った十二神皇を探す旅に出る。果たして彼らは世界を救うことができるのか!?
+  少年たちの冒険が、今始まる！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 諏訪部順一
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
+  name: 小岩井ことり
+  type: cast
+- !ruby/hash:TagHash
+  name: 秦佐和子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小市眞琴
+  type: cast
+- !ruby/hash:TagHash
+  name: 和多田美咲
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：湯本佳典
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：杉島邦久
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 2016年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 勇者誕生！
+  description: 茂上駿太はバトスピチャンピオンシップで優勝して、世界に一枚しかないXレアカード「午の十二神皇エグゼシード」を手に入れる。その夜、駿太は謎の声に導かれる。導かれた先はバトスピ始まりの世界、スピリッツワールド。異世界に呼び出された駿太は一体、どうなってしまうのか!?<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>次話→so35552242
+  length_seconds: 1434
+  content_id: so35552196
+  default_thread_id: 1566023463
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552196/35552196.95136608
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: あいつも勇者!?
+  description: 駿太とエトたちは、スピリッツワールドに現れた勇者のひとり、ヨク・アルバトロサと出会う。何でもバトスピで決めるというバルガルドから来たヨクに、エトは邪神皇復活阻止のため力を貸して欲しいと頼むが、断られてしまう。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552196←前話｜次話→so35552243　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552242
+  default_thread_id: 1566024189
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552242/35552242.79034258
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 強烈！ 異魔神ブレイヴ！
+  description: 十二神皇の一枚、「未の十二神皇グロリアス・シープ」が伝わる村を訪れた駿太たち。しかし、村は暗黒バトラーの襲撃を受けた後だった。村長から十二神皇をメイという少年に託して逃がした事を聞き、一行はメイを助けに向かう。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552242←前話｜次話→so35552244　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552243
+  default_thread_id: 1566024126
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552243/35552243.8684333
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 冒険のはじまり！
+  description: タツミが見せた異魔神ブレイヴの戦いぶりは凄かった。それぞれの属性の異魔神ブレイヴも存在すると知った駿太たちは、十二神皇と一緒に異魔神ブレイヴも探すことにする。村から出発する駿太はメイも一緒に行こうと旅に誘うが…。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552243←前話｜次話→so35552245　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552244
+  default_thread_id: 1566024183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552244/35552244.83517061
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: メイの決意！
+  description: 十二神皇を探す旅の途中、駿太たちは休息もかねて荒野で見つけた町に立ち寄ることにする。久しぶりに決闘ではないバトスピを楽しむ駿太たちを見て、ヨクはある行動にでる。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552244←前話｜次話→so35552246　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552245
+  default_thread_id: 1566024063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552245/35552245.85514331
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 激突！ 十二神皇！
+  description: 駿太とヨクは「未の十二神皇グロリアス・シープ」を取り返すため、どちらがケンゴーとバトルするかで揉め、駆けっこで勝負をつけることになった。一方、ケンゴーが赤の勇者に勝つと面子が保てないと悩むイヌイ将軍に、サンドラットが足止めを持ちかける。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552245←前話｜次話→so35552247　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552246
+  default_thread_id: 1566024187
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552246/35552246.55898496
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 仕組まれた罠！
+  description: 新たな十二神皇を探す駿太たちは、謎の男から、十二神皇の手がかりがあるという古い神殿を教えてもらう。その神殿に向かう途中で、駿太とヨクがまたまた喧嘩。二人は譲らず、二手に分かれて進むが…。それは十二神皇を狙う暗黒バトラーの罠だった。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552246←前話｜次話→so35552286　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552247
+  default_thread_id: 1566024123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552247/35552247.28610310
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 発見！ ソウルスポット！
+  description: 異魔神ブレイヴを求める駿太たちは、エトが見つけた、世界からバトスピカードが集まるというソウルスポットに向かう。辿り着いた不気味な大神殿で、駿太とヨクとメイはカードを手にする為の『厳しい試練』に挑むことになる。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552247←前話｜次話→so35552287　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552286
+  default_thread_id: 1566024861
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552286/35552286.52052864
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 風の異魔神！
+  description: 故郷のことを聞かれたヨクは、バルガルドの名門アルバトロサ家に生まれた生い立ちと思いをメイに語る。一方、駿太たち一行の十二神皇を狙う新たな暗黒バトラーが現れる。対決したヨクは、風の異魔神ブレイヴの真価を試すことになる！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552286←前話｜次話→so35552288　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552287
+  default_thread_id: 1566024605
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552287/35552287.16682354
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: バトスピ市場にいらっしゃい
+  description: 駿太は、こっそり船を抜け出して一人で異魔神ブレイヴを探しに行く。それを知ったサンドラットは、レアカードが集まるバトスピ市場へと駿太を誘う。喜ぶ駿太だが、空振りが続いてしまう。そこに怪しい占い師が近づいて…。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552287←前話｜次話→so35552289　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552288
+  default_thread_id: 1566024795
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552288/35552288.55450355
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 峠の決闘！
+  description: 山の前で通行止めに遭う駿太たち。ノブシーというバトラーがバトルで勝たなければ通さないと、道を塞いでいるという。ノブシーのせいで山向こうに出かけた両親と離ればなれになってしまった少年トワは、駿太のデッキを持ち去ってしまう。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552288←前話｜次話→so35552290　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552289
+  default_thread_id: 1566024802
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552289/35552289.9895550
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 挑戦！ ガイオーの壁！
+  description: 新たなソウルスポット、ガイオーの壁を見つけた駿太たちは、その前で同じく十二神皇を求めるイヌイ将軍と鉢合わせをする。決められたターンを耐え抜くという試練に挑む駿太、ヨク、イヌイ将軍。試練を通過するのは果たして!?<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552289←前話｜次話→so35552291　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552290
+  default_thread_id: 1566024846
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552290/35552290.52159544
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 突進！ 青の十二神皇
+  description: ヨクの前に、イヌイ将軍の頼みで駿太を探しているというサンドラットが現れる。駿太の替わりに自分を連れて行け、とサンドラットに迫ったヨクは、青の十二神皇の脅威に遭遇する。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552290←前話｜次話→so35552292　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552291
+  default_thread_id: 1566024798
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552291/35552291.45837502
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 邪神皇の鼓動
+  description: イヌイ将軍が手に入れた十二神皇は、バトルで勝った者に譲られることになった。張り切るカブトー達。勝者が決まったかと思われた時、また一人新たな暗黒バトラーが名乗りをあげた！
+    一方、駿太たちはエトからタツミの正体を明かされる。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦 佐和子／タツミ:福山
+    潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552291←前話｜次話→so35552293　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552292
+  default_thread_id: 1566024787
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552292/35552292.5692252
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 炎魔神VS天魔神！
+  description: 強い十二神皇のパワーを感じ、古城に向かった駿太たち。ヨクは十二神皇を手に入れるため、入口に立ちふさがる暗黒バトラー、ヨロイの相手を引き受ける。しかし、城内に進んだ駿太の前にもまた別の暗黒バトラー、キキが立ちふさがるのだった。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552292←前話｜次話→so35552294　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552293
+  default_thread_id: 1566024784
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552293/35552293.15855479
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 戦慄のウロヴォリアス！
+  description: タツミはソウルコアの力も、邪神皇も、全ての十二神皇の力も手に入れるという。駿太はタツミの計画を阻止しようとバトルを挑むが、なかなか攻めきれない。駿太のアタックを防ぎ切ったタツミは、「辰の十二神皇」を召喚する！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552293←前話｜次話→so35552295　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552294
+  default_thread_id: 1566024854
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552294/35552294.2913037
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 異世界からの牙
+  description: 落ち込むヨクは、かつて兄に言われた言葉を思い出す。そして、目を覚ました駿太もまた、決意を新たにするのだった。一方、新たな十二神皇の使い手をめぐって争う暗黒バトラーの中、シシはタツミに、エトたちをさらなる絶望に陥れるべく恐るべき提案をする。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552294←前話｜次話→so35552296　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552295
+  default_thread_id: 1566024800
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552295/35552295.68085
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 宿命の対決！
+  description: 駿太とヨクたち一行は、奪われた十二神皇を取り返すべくタツミの城に向かう途中、落石に行く手を阻まれて立ち往生してしまう。そこへ、駿太の良く知る人物が現れた。再会を喜ぶ駿太だが、相手は意外なカードを取り出してきて…？<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552295←前話｜次話→so35552297　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552296
+  default_thread_id: 1566024849
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552296/35552296.69101150
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ヨクの翼
+  description: エトから『赤き寅の勇者の伝説』を聞いた駿太は、伝説が伝わる『赤轟山』へ向かう。同じ頃、キキも「申の十二神皇」の気配がある西南西へ出発した。残されたヨロイはさらなる十二神皇を手に入れようとメイに狙いをつけるが、その前にヨクが立ちはだかる！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552296←前話｜次話→so35552298　第一話→so35552196
+  length_seconds: 1433
+  content_id: so35552297
+  default_thread_id: 1566024793
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552297/35552297.54775200
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 勇者の試練
+  description: 赤轟山の頂上に着いた駿太の前に現れたのは、かつて寅の勇者と呼ばれた仙人だった。寅の十二神皇を譲ってほしいと頼む駿太に「戦えない理由がある」ので「持っていけ」という仙人。あまりにあっさりと譲られ、喜ぶ駿太だが…？<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552297←前話｜次話→so35552299　第一話→so35552196
+  length_seconds: 1433
+  content_id: so35552298
+  default_thread_id: 1566024845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552298/35552298.44147536
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 砲撃！ リボル・ティーガ！
+  description: 赤轟山から戻った駿太はタツミへの再挑戦を急ごうとするが、キノトやメイは罠が心配。そんな一行へ協力を申し出たサンドラットは、元の世界に戻ろうとしていた和巳へ駿太からの挑戦を伝言する。そして駿太は新たに手に入れた力で再び和巳に立ち向かう！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552298←前話｜次話→so35552331　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552299
+  default_thread_id: 1566024791
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552299/35552299.49796394
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 海辺の決闘！
+  description: 十二神皇の噂を聞いて港町に向かう駿太とヨクたち一行。だがそこは十二神皇を狙うという悪者たちに荒らされたあとだった。悪者たちの仲間に間違われて慌てて逃げる駿太とヨク。そんな二人の前にまたサンドラットが現れて…。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552299←前話｜次話→so35552363　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552331
+  default_thread_id: 1566025214
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552331/35552331.11426364
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 守りし者
+  description: シシの予言で砂漠に向かったキキは、黄色の勇者ゆかりのキモン一族の地にたどり着く。長老ビヒはキキを三賢者のもとへと案内するが、三賢者は十二神皇は渡せないと拒絶。引き下がれないキキは十二神皇を手に入れるべくバトルを挑む！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552331←前話｜次話→so35552364　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552363
+  default_thread_id: 1566025813
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552363/35552363.24871900
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 勇者の末裔
+  description: 太古の昔、十二神皇の勇者が初めて集ったという遺跡に来た駿太とヨク達。手分けして十二神皇の手がかりを探すなか、メイは父から十二神皇を譲られた時のことを思い出す。そんなメイ前にキキが現れる。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552363←前話｜次話→so35552365　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552364
+  default_thread_id: 1566025806
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552364/35552364.39276916
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 出現！ 海魔神！
+  description: 駿太とヨクは新たなソウルスポット、ヒャッケツ岬に向かう。断崖にある無数の穴のどれかがソウルスポットに違いないと探索を始める二人。そこにサンドラットも現れて駿太とソウルスポット探しを競いだす。しかし、ようやく探し出したソウルスポットの前にはすでに和巳がいた！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552364←前話｜次話→so35552366　第一話→so35552196
+  length_seconds: 1433
+  content_id: so35552365
+  default_thread_id: 1566025818
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552365/35552365.31254233
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 神皇大決戦！
+  description: さらなる十二神皇を奪おうと、駿太とヨク達の前にキキが再び現れる。2枚の十二神皇を持つキキに対抗できるのは、同じく2枚の十二神皇を持つ駿太しか居ない。勇者同士の十二神皇VS十二神皇のバトルが始まった！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552365←前話｜次話→so35552367　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552366
+  default_thread_id: 1566025820
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552366/35552366.56358724
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 新たなる力 ミストラル・ビット！
+  description: タツミの信頼を回復する為にも、十二神皇獲得を決意するイヌイ将軍は、新たなソウルスポットで「卯の十二神皇」のカードを見つけた駿太とヨク達の前に立ちふさがる。イヌイ将軍に敗れた事があるヨクは、リベンジすべく「卯の十二神皇」を賭けたバトルを挑む。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552366←前話｜次話→so35552368　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552367
+  default_thread_id: 1566025810
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552367/35552367.91097810
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 不思議な試練
+  description: 突然、「卯の十二神皇ミストラル・ビット」のカードの試練が発生、メイや駿太達がバトスピカードに変えられてしまう！ ヨクは仲間を元に戻すべく、試練に挑むが、放り込まれた不思議の世界で待っていたのは、何故か変な姿になった駿太やエト達だった！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552367←前話｜次話→so35552369　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552368
+  default_thread_id: 1566025816
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552368/35552368.95031394
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: サンドラットの涙
+  description: エトがソウルスポットの反応を捉えた先は、サンドラットの故郷だった。1人でソウルスポットに挑んで失敗したサンドラットは、一行に母親の為に十二神皇を手に入れたいと訴える。協力して挑む駿太とヨクたちだが、果たして試練を突破することはできるのか!?<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552368←前話｜次話→so35552419　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552369
+  default_thread_id: 1566025807
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552369/35552369.69548314
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 電光石火！ 子の十二神皇！
+  description: 十二神皇を持ってサンドラットが逃げてしまった。駿太とヨクたちが追い付くが、どうしてもカードを取られたくないサンドラットは、十二神皇を賭けないバトルを提案する。負ければ自分が十二神皇を持つに相応しくないと分かるだろう、とバトルを始める駿太達だが…。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552369←前話｜次話→so35552420　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552419
+  default_thread_id: 1566026407
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552419/35552419.55549246
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 究極の牙！
+  description: 駿太とヨクに負けて悔しい和巳はタツミに挑むが、「辰の十二神皇ウロヴォリアス」の圧倒的な強さの前に敗北してしまう。勝てない苛立ちに、駿太への怒りをさらに募らせる和巳。それを見たシシは、和巳に十二神皇を超えるという禁断の力の存在を教える。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552419←前話｜次話→so35552422　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552420
+  default_thread_id: 1566026411
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552420/35552420.76322892
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 獄炎のブラム・ザンド！
+  description: シシは戦況を覆す切り札として、改めて和巳をタツミに紹介する。しかしイヌイ将軍は和巳を認めず、バトルを挑む。十二神皇でアタックするイヌイ将軍に、和巳の新たな究極のカード、スピリッツワールドで禁じられた忌まわしき力が、牙をむく！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552420←前話｜次話→so35552423　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552422
+  default_thread_id: 1566026403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552422/35552422.56770544
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: 倒せ！ 異魔神軍団！
+  description: ソウルスポットの反応を追ってやってきた荒野で、突然現れた光に飲み込まれてしまった駿太とヨク達。着いた先は『判定の地』。その地を司る者に与えられた「異魔神ブレイヴを、異魔神ブレイヴで打ち砕け」という試練に、駿太とヨクが立ち向かう！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552422←前話｜次話→so35552424　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552423
+  default_thread_id: 1566026463
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552423/35552423.6568639
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 白き要塞 アバランシュ・バイソン！
+  description: イヌイ将軍とキキは、アルティメットを手に入れた和巳を危険視するが、タツミは取り合わない。そんな中、異世界バスチャーナから巨漢の男イオが時空を超えて現れる。タツミの力になるという彼を認められずバトルを挑むキキの前に、イオの持つ「丑の十二神皇」が召喚される。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552423←前話｜次話→so35552425　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552424
+  default_thread_id: 1566026472
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552424/35552424.60448395
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: 目覚めし勇者の魂
+  description: タツミの為に更なる十二神皇を手に入れようと、サンドラットが持つ「子の十二神皇マウチュー」を狙ってやってきたイヌイ将軍。居合わせたメイにサンドラットは自分たちのスパイだとバラすが、メイは信じない。メイはサンドラットを守る為、自らイヌイ将軍にバトルを挑む！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552424←前話｜次話→so35552426　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552425
+  default_thread_id: 1566026524
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552425/35552425.79415941
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 男の意地
+  description: メイのバトルに感動し次は俺の番だと豪語するサンドラットは、現れたキキのバトルを否応なく受けることになってしまう。キキの巧妙な戦法に追い詰められてしまうが、メイの期待を裏切れないと奮起したサンドラットは、キキのアタックをソウルコアで受けて…!?<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552425←前話｜次話→so35552427　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552426
+  default_thread_id: 1566026705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552426/35552426.52575707
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: 炸裂！ ダブルドライブ！
+  description: ヨクは、駿太とメイを先に進める為、立ちふさがった暗黒バトラー軍団を引き受ける。一方駿太は白の勇者イオと出会うが、イオは異世界バスチャーナの白き一族の伝説に従い、タツミの仲間になっていた。そんなイオに十二神皇を渡しておく訳にはいかないと駿太はバトルを挑む！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552426←前話｜次話→so35552428　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552427
+  default_thread_id: 1566026584
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552427/35552427.27259148
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 対決！ ヨクVSタツミ
+  description: 暗黒バトラー軍団に対抗していたヨクの前に、タツミが現れた！ 異世界のバトスピはまがい物だと見下すタツミに、ヨクはバルガルドの誇りをかけてバトルを挑む。そんなヨクを、タツミは「辰の十二神皇ウロヴォリアス」の【呪縛】で追い詰めていくが…。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552427←前話｜次話→so35552429　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552428
+  default_thread_id: 1566026527
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552428/35552428.89310516
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: アルティメット襲来
+  description: 駿太とヨクたちの前に和巳が立ちふさがる。勝ったら駿太の強さを認めて二度と前には現れないと宣言する和巳。そんな和巳から逃げるわけにはいかないとバトルを受ける駿太だが、スピリットに対するどんな効果も通じないアルティメットに苦戦する。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552428←前話｜次話→so35552430　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552429
+  default_thread_id: 1566026465
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552429/35552429.86949540
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 獄風のヴァンディール！
+  description: "「午の十二神皇エグゼシード」の【走破】で駿太は勝負を決めようとするが、和巳に凌がれてしまう。再びめぐってきた自分のターンで、駿太は「超・炎魔神」に十二神皇をブレイヴさせ、【ダブルドライブ】を解放。今度こそ和巳を倒そうとするが…。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552429←前話｜次話→so35552431　第一話→so35552196"
+  length_seconds: 1434
+  content_id: so35552430
+  default_thread_id: 1566026766
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552430/35552430.97170114
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: 青い咆哮 グリードッグ！
+  description: 暗黒バトラーたちの元に、行方不明だったヨロイが「戌の十二神皇グリードッグ」を手に入れ戻ってくる。ヨロイの帰還を喜ぶキキだが、その様子に違和感を抱く。そんなヨロイに、シシは駿太たちから「辰の十二神皇ウロヴォリアス」を取り戻してくるように命じる。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552430←前話｜次話→so35552432　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552431
+  default_thread_id: 1566026474
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552431/35552431.19970632
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 最後の十二神皇！
+  description: 駿太とヨク達に、勝者が全ての十二神皇を手に入れる一対一のバトルを挑んできたタツミ。スピリッツワールドに来た意味を悟ったヨクは、十二神皇を奪われた駿太の分まで戦うと、タツミとのバトルを引き受ける。世界の命運をかけた戦いが始まった！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552431←前話｜次話→so35552463　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552432
+  default_thread_id: 1566026763
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552432/35552432.26498666
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: 邪神皇、復活
+  description: タツミが繰り出した「巳の十二神皇ティアマドー」。ヨクはその強力な《封印時》効果に圧倒されてしまう。そしてついに、全て揃った十二神皇に反応して邪神皇が復活する！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552432←前話｜次話→so35552511　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552463
+  default_thread_id: 1566027126
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552463/35552463.78770096
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 奪還！ 十二神皇！
+  description: 復活した邪神皇を止める為、駿太とヨクはクリスタルタワーに向かう。そこで二人が目にしたのは、石化した十二神皇とスピリッツワールドのソウルコアの力を吸い上げる邪神皇の姿だった。駿太とヨクは十二神皇を救おうとするが、二人の前にシシが立ちふさがった。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552463←前話｜次話→so35552512　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552511
+  default_thread_id: 1566027682
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552511/35552511.61220145
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: 反撃の狼煙！
+  description: 早く邪神皇を止めなければと焦る駿太を、ヨクは冷静に策を立てるべきだと諭す。一方、暗黒バトラーたちもまた、行方不明のタツミと、邪神皇復活による世界の行く末を案じていた。イヌイ将軍とキキは、駿太とヨクたちの前に現れ驚きの頼みを告げる。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552511←前話｜次話→so35552513　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552512
+  default_thread_id: 1566027726
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552512/35552512.94799338
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: その名はフォーミュラー！
+  description: 十二神皇の元に急ぐ駿太とヨクたちの前に、2枚の青の十二神皇を手にしたヨロイが立ち塞がった！ 立ち向かった駿太は「寅の十二神皇リボル・ティーガ」を召喚しヨロイを攻めるが、ヨロイは「海魔神」と「戌の十二神皇グリードッグ」を召喚して、駿太を圧倒する。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552512←前話｜次話→so35552514　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552513
+  default_thread_id: 1566027669
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552513/35552513.63646205
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: 新たな翼！
+  description: 先に進む駿太とヨクたち。今度は白の十二神皇2枚を手にしたイオが現れた。白き一族の伝説にこだわるイオは、邪神皇のつくる新たな世界を望んでいた。そんなイオに怒りを覚えてバトルを挑むヨク。速攻を仕掛けてイオのライフを削るが、白の十二神皇の鉄壁の防御に阻まれてしまう。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552513←前話｜次話→so35552515　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552514
+  default_thread_id: 1566027680
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552514/35552514.83268895
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: タツミの覚悟
+  description: キキ、イヌイ将軍と分断されてしまった駿太とヨクたちは、別々に十二神皇の元に向かうことにする。一方、十二神皇の元に辿りついたタツミは、邪神皇を復活させた責任を取る為、十二神皇に呼びかける。しかしそこにシシが現れ、十二神皇を賭けたバトルをタツミに持ちかけてきた！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552514←前話｜次話→so35552516　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552515
+  default_thread_id: 1566027673
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552515/35552515.5392672
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: 最後の決戦！
+  description: シシとのバトルに決着をつけたタツミの前に和巳が立ち塞がり、そこに駿太とヨク達も駆けつける。復活した「邪神皇デスピアズ」の力で、世界を滅ぼそうとする和巳を止めようとする駿太だが、和巳は聞き入れない。さらに異界への扉を開こうとするシシに、エトも必死で対抗するが…。<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552515←前話｜次話→so35552517　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552516
+  default_thread_id: 1566027671
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552516/35552516.35527734
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: 邪神皇デスピアズ！
+  description: 間違っているこの世界を自分が正すのだと告げる和巳に、駿太とヨクが立ち向かう。2人を相手にする和巳はライフが10個、対する駿太とヨクはライフへのダメージは二人同時という条件だ。仲間たちも暗黒バトラーたちも固唾をのんで見守る中、ついに世界の命運をかけた、最終最後のバトルが始まった！<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552516←前話｜次話→so35552518　第一話→so35552196
+  length_seconds: 1434
+  content_id: so35552517
+  default_thread_id: 1566027676
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552517/35552517.69315993
+- !ruby/hash:EpisodeHash
+  episode_no: 第51話
+  title: 光の勇者たち
+  description: "「邪神皇デスピアズ」の更なる力を発揮する和巳。強力な効果により追い詰められる駿太とヨクに、エトは只ならぬ様子の和巳の状況を伝える。バトルをしながらも、必死に和巳を救おうと語りかける駿太とヨクだが…。果たして最後のバトルの行方は!?<br><br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦
+    佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和<br><br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+    Pictures<br><br>©BNP/BANDAI, NAS, TV TOKYO<br><br>so35552517←前話　第一話→so35552196"
+  length_seconds: 1419
+  content_id: so35552518
+  default_thread_id: 1566027667
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35552518/35552518.94400935
+cast: "[キャスト]<br>茂上駿太:小市眞琴／ヨク・アルバトロサ:田村睦心／エト・エトシンモリ8世:秦 佐和子／タツミ:福山 潤／メイ・メリーハッダ:小岩井ことり／サンドラット:諏訪部順一／茂上健斗:和多田美咲／茂上年男:杉田智和"
+staff: "[スタッフ]<br>監督:杉島邦久／シリーズ構成:長谷川勝己／メインキャラクター原案:岩本直輝／アニメーションキャラクターデザイン:湯本佳典／制作:BN
+  Pictures"
+produced_year: "[製作年]<br>2016年"
+copyright: "©BNP/BANDAI, NAS, TV TOKYO"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: バトルスピリッツ 少年突破バシン
+- !ruby/hash:SeasonHash
+  title: バトルスピリッツ 少年激覇ダン
+- !ruby/hash:SeasonHash
+  title: バトルスピリッツ ブレイヴ
+- !ruby/hash:SeasonHash
+  title: バトルスピリッツ 覇王
+- !ruby/hash:SeasonHash
+  title: バトルスピリッツ ソードアイズ
+- !ruby/hash:SeasonHash
+  title: 最強銀河究極ゼロ　バトルスピリッツ
+- !ruby/hash:SeasonHash
+  title: バトルスピリッツ烈火魂＜バーニングソウル＞
