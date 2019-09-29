@@ -7445,3 +7445,6 @@
 - !ruby/hash:Hashie::Mash
   title: バトルスピリッツ ダブルドライブ
   first_episode_url: http://www.nicovideo.jp/watch/so35552196
+- !ruby/hash:Hashie::Mash
+  title: ハッピーシュガーライフ
+  first_episode_url: http://www.nicovideo.jp/watch/so35702859
