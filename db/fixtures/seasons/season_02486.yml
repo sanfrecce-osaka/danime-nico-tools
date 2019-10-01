@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: ひだまりスケッチ×SP
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/5/23045_1_6.png?1568968282000
+outline: 第3シリーズの放送終了後、2011年に新たに制作された特別編。私立やまぶき高校美術科に入学したゆのは、小さなアパート『ひだまり荘』で一人暮らしを始めた。そこで同級生の宮子、先輩の沙英とヒロの三人に出会うゆの。慣れない生活に戸惑いつつも、優しく温かい仲間に囲まれながら、ゆのは今ゆっくりと夢に向かって歩き出す…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 福圓美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 松来未祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 新谷良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤邑子
+  type: cast
+- !ruby/hash:TagHash
+  name: チョー
+  type: cast
+- !ruby/hash:TagHash
+  name: 原田ひとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 小見川千明
+  type: cast
+- !ruby/hash:TagHash
+  name: 蒼樹うめ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：新房昭之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：菊谷知樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：蒼樹うめ
+  type: staff
+- !ruby/hash:TagHash
+  name: ひだまりスケッチシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 2011年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: 感じるままに／プカリ
+  description: "「7月15日　感じるままに」試験休みを利用してひだまり荘のみんなで彫刻野原美術館に行ってきました！ お天気が良くて気持い～♪ あ、でも浮かれてないでしっかり勉強して帰らなきゃ！
+    色んな作品を観ていたら、みんな創作意欲が湧いてきたみたい。私もとっても何か作りたい気分だな♪／「8月28日　プカリ」夏休みの今日は宮ちゃん、乃莉ちゃん、なずなちゃんと屋内プールにやってきました。宮ちゃんも乃莉ちゃんも泳げてカッコイイなぁ。二人を見ていたら私も頑張ってみたくなって、宮ちゃんに練習に付き合ってもらいました。少しは上達したんだよ？
+    夜のパジャマパーティーでヒロさんと沙英さんにも報告しなくちゃ…。<br><br>ゆの:阿澄佳奈／宮子:水橋かおり／ヒロ:後藤邑子／沙英:新谷良子／乃莉:原田ひとみ／なずな:小見川千明／吉野屋先生:松来未祐／夏目:福圓美里／大家:沢城みゆき／校長:チョー／桑原先生:桑谷夏子／うめ先生:蒼樹うめ<br><br>原作:
+    蒼樹うめ「ひだまりスケッチ」／監督:新房昭之／プロデューサー:田中潤一朗,岩上敦宏,小林宏之,金庭こず恵／脚本:長谷川菜穂子、大嶋実句／音楽:菊谷知樹<br><br>©蒼樹うめ・芳文社／ひだまり荘管理組合<br><br>次話→so35737085"
+  length_seconds: 1449
+  content_id: so35737117
+  default_thread_id: 1569558724
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35737117/35737117.77324399
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: ザブザブザザー!!／らっしゃい!肉の里
+  description: "「5月9日　ザブザブザザー!!」朝起きてお庭を見たら布のかたまりがいて、びっくり！ でもそれはカーテンを洗おうとしているヒロさんでした。そしてビニールプールを出してみんなでザブザブカーテンを洗ったんです。洗剤入れたらあわあわになって、なんだかとても楽しかったです。あれ、でもこれ…どこに干すの？／「5月25日　らっしゃい！肉の里」学校から帰ったら大家さんがいて、なんとひだまり荘のみんなに焼き肉食べ放題をおごってくれることになったんです。お肉にお寿司、ケーキもあって、何から食べようか迷うなぁ♪
+    でも本当に、こんなにおごってもらっちゃっていいのかなぁ？<br><br>ゆの:阿澄佳奈／宮子:水橋かおり／ヒロ:後藤邑子／沙英:新谷良子／乃莉:原田ひとみ／なずな:小見川千明／吉野屋先生:松来未祐／夏目:福圓美里／大家:沢城みゆき／校長:チョー／桑原先生:桑谷夏子／うめ先生:蒼樹うめ<br><br>原作:
+    蒼樹うめ「ひだまりスケッチ」／監督:新房昭之／プロデューサー:田中潤一朗,岩上敦宏,小林宏之,金庭こず恵／脚本:長谷川菜穂子、大嶋実句／音楽:菊谷知樹<br><br>©蒼樹うめ・芳文社／ひだまり荘管理組合<br><br>so35737117←前話　第一話→so35737117"
+  length_seconds: 1419
+  content_id: so35737085
+  default_thread_id: 1569557826
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35737085/35737085.24017316
+cast: "[キャスト]<br>ゆの:阿澄佳奈／宮子:水橋かおり／ヒロ:後藤邑子／沙英:新谷良子／乃莉:原田ひとみ／なずな:小見川千明／吉野屋先生:松来未祐／夏目:福圓美里／大家:沢城みゆき／校長:チョー／桑原先生:桑谷夏子／うめ先生:蒼樹うめ"
+staff: "[スタッフ]<br>原作: 蒼樹うめ「ひだまりスケッチ」／監督:新房昭之／プロデューサー:田中潤一朗,岩上敦宏,小林宏之,金庭こず恵／脚本:長谷川菜穂子、大嶋実句／音楽:菊谷知樹"
+produced_year: "[製作年]<br>2011年"
+copyright: "©蒼樹うめ・芳文社／ひだまり荘管理組合"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ひだまりスケッチ
+- !ruby/hash:SeasonHash
+  title: ひだまりスケッチ×365
+- !ruby/hash:SeasonHash
+  title: ひだまりスケッチ×☆☆☆
+- !ruby/hash:SeasonHash
+  title: ひだまりスケッチ×ハニカム
