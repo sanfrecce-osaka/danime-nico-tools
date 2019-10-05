@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: アズールレーン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/3/23013_1_6.png?1569472233000
+outline: "「アズールレーン」の少女たちは、世界の外より訪れた謎の敵「セイレーン」の大攻勢を退けた。しかし、戦いはいつの世も変わることはない。かつて人類が海の覇権を争ったのと同じように、理念の違いから「アズールレーン」と「レッドアクシズ」は対立。そして時は流れ――"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 中原麻衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川由依
+  type: cast
+- !ruby/hash:TagHash
+  name: 長縄まりあ
+  type: cast
+- !ruby/hash:TagHash
+  name: 大地葉
+  type: cast
+- !ruby/hash:TagHash
+  name: 山根希美
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：天衝
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：野中正幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：西木康智
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：バイブリーアニメーションスタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ストレイキャッツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '01'
+  title: "【起動】海を駆ける少女たち"
+  description: 異世界より突如現れた、異形の敵「セイレーン」。一度は結束し外敵を退けたはずの人類は、理念の違いから二つの陣営に分裂していた。その一つ、アズールレーンの新基地に配属されたラフィー
+    とジャベリンは、マントに身を包んだ謎の少女・綾波と出会う。それは新たな戦いの予兆だった。<br><br>エンタープライズ:石川由依／ベルファスト:堀江由衣／赤城:中原麻衣／綾波:大地葉／ラフィー:長縄まりあ／ジャベリン:山根希美　ほか<br><br>原作:Manjuu
+    Co.,Ltd.,／Yongshi Co.,Ltd.「アズールレーン」（Android/iOS用スマートフォンアプリゲーム）／監督:天衝／シリーズ構成:鋼屋ジン／キャラクターデザイン／総作画監督:野中正幸／コンセプトデザイン:MAGNUM／美術監督:扇山秋仁／美術設定:塩澤良憲／色彩設計:林可奈子／CGディレクター:比嘉芳明／撮影監督:千葉大輔／編集:武宮むつみ／音響監督:土屋雅紀／音響制作:ダックスプロダクション／音楽:西木康智／音楽制作:ストレイキャッツ／音楽プロデューサー:木皿陽平／アニメーション制作:バイブリーアニメーションスタジオ<br><br>©Manjuu
+    Co.,Ltd., Yongshi Co.,Ltd.&amp;Yostar Inc.／アニメ「アズールレーン」製作委員会<br><br>次話→so35782028
+  length_seconds: 1430
+  content_id: so35763687
+  default_thread_id: 1570068005
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35763687/35763687.39010761
+cast: "[キャスト]<br>エンタープライズ:石川由依／ベルファスト:堀江由衣／赤城:中原麻衣／綾波:大地葉／ラフィー:長縄まりあ／ジャベリン:山根希美　ほか"
+staff: "[スタッフ]<br>原作:Manjuu Co.,Ltd.,／Yongshi Co.,Ltd.「アズールレーン」（Android/iOS用スマートフォンアプリゲーム）／監督:天衝／シリーズ構成:鋼屋ジン／キャラクターデザイン／総作画監督:野中正幸／コンセプトデザイン:MAGNUM／美術監督:扇山秋仁／美術設定:塩澤良憲／色彩設計:林可奈子／CGディレクター:比嘉芳明／撮影監督:千葉大輔／編集:武宮むつみ／音響監督:土屋雅紀／音響制作:ダックスプロダクション／音楽:西木康智／音楽制作:ストレイキャッツ／音楽プロデューサー:木皿陽平／アニメーション制作:バイブリーアニメーションスタジオ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©Manjuu Co.,Ltd., Yongshi Co.,Ltd.&Yostar Inc.／アニメ「アズールレーン」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

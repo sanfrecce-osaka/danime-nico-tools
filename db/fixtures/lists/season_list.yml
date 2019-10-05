@@ -7505,3 +7505,6 @@
 - !ruby/hash:Hashie::Mash
   title: 魔動王グランゾート
   first_episode_url: http://www.nicovideo.jp/watch/so35569344
+- !ruby/hash:Hashie::Mash
+  title: アズールレーン
+  first_episode_url: http://www.nicovideo.jp/watch/so35763687
