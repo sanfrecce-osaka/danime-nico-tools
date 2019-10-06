@@ -44,6 +44,9 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：stシルバー×アルボアニメーション
   type: staff
 - !ruby/hash:TagHash
+  name: ぼくたちは勉強ができないシリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash

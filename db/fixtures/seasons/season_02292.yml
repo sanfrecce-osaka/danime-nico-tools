@@ -23,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 児玉卓也
   type: cast
 - !ruby/hash:TagHash
+  name: 前田誠二
+  type: cast
+- !ruby/hash:TagHash
   name: 安部亮馬
   type: cast
 - !ruby/hash:TagHash
   name: 徳森圭輔
-  type: cast
-- !ruby/hash:TagHash
-  name: 前田誠二
   type: cast
 - !ruby/hash:TagHash
   name: 水口まつり
