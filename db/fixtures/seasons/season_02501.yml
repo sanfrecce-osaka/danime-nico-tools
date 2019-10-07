@@ -1,0 +1,94 @@
+--- !ruby/hash:SeasonHash
+title: ACTORS -Songs Connection-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/02/5/23025_1_6.png?1568696479000
+outline: 巨大学園都市群スライヴセントラル第７学区にある『私立天翔学園』。そこへ転入してきた音之宮朔は様々な悩みを抱えながらも個性豊かな歌唱部や考古学部の生徒たちと触れ合っていくことで大切な仲間たちとの時間に心地よさを感じていた。そして、不愛想な見た目だが面倒見のいい神楽蒼介と突拍子もない発言や掴みどころのない性格の往田詩と出会うことで“音楽”の楽しさを知る。泣いたり、笑ったり、時には喧嘩をしたり。何気ない毎日のなかで朔は自分の中に今までにない変化が生まれていることに気づく———。懸命に生きる「ACTORS」たちの青春ストーリー。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 保志総一朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉山紀彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村昴
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀川りょう
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪井智浩
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹内良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶原岳人
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：堤博明
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：西田亜沙子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ヤマサキオサム
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：木村秀彬
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：EXIT TUNES
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Drive
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: Adagio
+  description: 学園特区スライブセントラル第七学区にある私立天翔学園。その歌唱部に所属する光司陽太たちはコンテストで歌うための楽曲を探しているうちにひとつのボカロ曲に行きつく。歌唱の許可を取ろうと制作者の神樂蒼介にコンタクトを取る歌唱部の面々だったが、彼は音域の広さを考えるとボカロでなければ厳しいと難色を示す。そんな折、蒼介はその歌をアカペラで見事に歌いこなす転入生・音之宮朔と偶然遭遇して……。<br><br>音之宮
+    朔:梶原岳人／神樂蒼介:浦田わたる／往田 詩:保住有哉／光司陽太:保志総一朗／鑑香水月:野島健児／葛野大路颯馬:置鮎龍太郎／五月女 燎:坪井智浩／東本桂士:杉山紀彰／丸目千熊:木村
+    昴／円城寺三毛:小野友樹／秋月甲斐:江口拓也／臼杵鷲帆:竹内良太／小田原 牧:速水 奨／長野影虎:堀川りょう<br><br>原作:EXIT TUNES／キャラクター原案:めか／監督:ヤマサキオサム／キャラクターデザイン:西田亜沙子／シリーズ構成:ヤマサキオサム／美術:羽根広舟／色彩設計:庄司詩織／3D:栗林裕紀／撮影:EXPLOSION／音響監督:長崎行男／音楽:木村秀彬、大隈知宇、堤博明／音楽制作:ポニーキャニオン／アニメーション制作:Drive／製作:スライヴセントラル運営局<br><br>©EXIT
+    TUNES/スライヴセントラル運営局<br><br>次話→so35763765
+  length_seconds: 1420
+  content_id: so35763688
+  default_thread_id: 1570068003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35763688/35763688.76315917
+cast: "[キャスト]<br>音之宮 朔:梶原岳人／神樂蒼介:浦田わたる／往田 詩:保住有哉／光司陽太:保志総一朗／鑑香水月:野島健児／葛野大路颯馬:置鮎龍太郎／五月女
+  燎:坪井智浩／東本桂士:杉山紀彰／丸目千熊:木村 昴／円城寺三毛:小野友樹／秋月甲斐:江口拓也／臼杵鷲帆:竹内良太／小田原 牧:速水 奨／長野影虎:堀川りょう"
+staff: "[スタッフ]<br>原作:EXIT TUNES／キャラクター原案:めか／監督:ヤマサキオサム／キャラクターデザイン:西田亜沙子／シリーズ構成:ヤマサキオサム／美術:羽根広舟／色彩設計:庄司詩織／3D:栗林裕紀／撮影:EXPLOSION／音響監督:長崎行男／音楽:木村秀彬、大隈知宇、堤博明／音楽制作:ポニーキャニオン／アニメーション制作:Drive／製作:スライヴセントラル運営局"
+produced_year: "[製作年]<br>2019年"
+copyright: "©EXIT TUNES/スライヴセントラル運営局"
+related_seasons: !ruby/array:Hashie::Array []
