@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: ファンタシースターオンライン2 エピソード・オラクル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/02/4/23024_1_6.png?1569382208000
+outline: 新光歴238年。惑星間飛行船団、通称『オラクル』は外宇宙に進出し、銀河を渡っていた。『オラクル』では、新たに未知の惑星が発見されるたび、『アークス』が降下し、探索と発見を繰り返す。数多の星に潜む『ダーカー』と呼ばれる生命体を殲滅するために創設された組織である彼らは、宇宙に平穏が訪れる日まで、旅を続ける……
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：GONZO
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：橘正紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：鯉川慎平
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ずっとこの日を待っていた
+  description: 新光歴238年。ヒューマン、ニューマン、キャストの三種族により構成された惑星間飛行船団、通称『オラクル』。彼らは外宇宙に進出し、数多くの銀河を渡っていた。外宇宙にて、新たに発見された惑星には調査隊として組織された『アークス』が降下し、調査と交流を行う。数多の星に潜む『ダーカー』と呼ばれる生命体を殲滅するために創設された組織である彼らは、宇宙に平穏が訪れる日まで旅を続ける……そして今、新人アークス「アッシュ」は広大な宇宙へと足を踏み入れる――<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>次話→so35786144
+  length_seconds: 1420
+  content_id: so35755425
+  default_thread_id: 1569893405
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35755425/35755425.42258960
+cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
+staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+  Film／制作:PHANTASY STAR PARTNERS 2019"
+produced_year: "[製作年]<br>2019年"
+copyright: "©SEGA/PHANTASY STAR PARTNERS 2019"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ファンタシースターオンライン２ ジ アニメーション
