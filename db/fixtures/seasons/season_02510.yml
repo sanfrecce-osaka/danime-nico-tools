@@ -1,0 +1,64 @@
+--- !ruby/hash:SeasonHash
+title: スタンドマイヒーローズ　PIECE OF TRUTH
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/99/6/22996_1_6.png?1568696518000
+outline: "『スタンド（STand Alone National Department）』麻薬取締官、刑事、情報屋、著名人、名家の人間といった官民に関係なく適正のある者で構成された、薬物絡みの事件を取り扱う独立捜査機関。新人マトリである泉玲は、スタンドの候補者として選出されたメンバーのスカウト役に任命される。その候補者として選出されたメンバーを待ち受けていたのは、異なる正義を持つ組織間の対立と、謎のドラッグに紐付く未解決事件であった。彼らがたどりつく真実とは―――"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 村井美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：山本秀世
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：coly
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: PIECE1
+  description: 薬物絡みの未解決事件を扱う独立捜査機関「スタンド」。メンバー候補は厚生労働省麻薬取締部（マトリ）、警視庁捜査一課から民間人まで幅広い。所属の垣根を越えてメンバーをスカウトする、その重要な役に任命されたのは泉
+    玲。一部の薬物に対して耐性がある「薬効体質」の持ち主だ。泉はさっそく、捜査企画課のエース・青山 樹と共に警視庁を訪れ、捜査一課のスタンド候補者たちに協力を依頼することに。<br><br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里<br><br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ<br><br>©coly/スタマイ製作委員会<br><br>次話→so35797784
+  length_seconds: 1430
+  content_id: so35767860
+  default_thread_id: 1570154283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35767860/35767860.8560968
+cast: "[キャスト]<br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里"
+staff: "[スタッフ]<br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©coly/スタマイ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

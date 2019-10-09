@@ -7541,3 +7541,12 @@
 - !ruby/hash:Hashie::Mash
   title: ファンタシースターオンライン2 エピソード・オラクル
   first_episode_url: http://www.nicovideo.jp/watch/so35755425
+- !ruby/hash:Hashie::Mash
+  title: 神田川JET GIRLS
+  first_episode_url: http://www.nicovideo.jp/watch/so35782869
+- !ruby/hash:Hashie::Mash
+  title: スタンドマイヒーローズ　PIECE OF TRUTH
+  first_episode_url: http://www.nicovideo.jp/watch/so35767860
+- !ruby/hash:Hashie::Mash
+  title: アニメ「Z/X Code reunion」
+  first_episode_url: http://www.nicovideo.jp/watch/so35782029
