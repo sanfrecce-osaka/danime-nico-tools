@@ -1,0 +1,79 @@
+--- !ruby/hash:SeasonHash
+title: 旗揚！けものみち
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/98/8/22988_1_6.png?1569308407000
+outline: 最強覆面レスラー・ケモナーマスク。アリーナの大歓声に包まれて、宿敵MAOとの決着をつける世界タイトルマッチのゴングが今、鳴り響いた！はずだったのだが…試合の最中突如リングの上から異世界に召喚されたケモナーマスクこと柴田源蔵は、アルテナ姫から魔王と邪悪なる魔獣の退治を言い渡される。しかしケモノを愛する源蔵はその依頼を断固拒否！「魔獣だって愛情を持って接してやれば、無闇に人を襲ったりしない！」彼の真の夢は、ケモノに囲まれてペットショップを経営することだったのだ。源蔵はこの異世界で、輝かしい第二の人生をスタートすることができるのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲田徹
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田健一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 末柄里恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 櫻庭有紗
+  type: cast
+- !ruby/hash:TagHash
+  name: 八木侑紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 武虎
+  type: cast
+- !ruby/hash:TagHash
+  name: 関根明良
+  type: cast
+- !ruby/hash:TagHash
+  name: 集貝はな
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：暁なつめ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：三浦和也
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：能海知佳
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ENGI
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: レスラー×召喚
+  description: プロレスラーのケモナーマスクこと柴田源蔵は、宿敵MAOとのタイトルマッチの最中、突如として異世界に召喚されてしまう。エドガルド王国のアルテナ姫から魔王と邪悪な魔獣の討伐を依頼されるも、それを拒否して王国から追われる身となった源蔵は、逃げ込んだクラスタの街で狼の獣人であるシグレと出会う。<br><br>柴田源蔵－ケモナーマスク:小西克幸／シグレ:関根明良／花子:八木侑紀／カーミラ:櫻庭有紗／ＭＡＯ－マカデミアンオーガ:稲田徹／ひろゆき:末柄里恵／ミーシャ:集貝はな／ヴォルフガング:松田健一郎／エドガー:武虎<br><br>原作:暁なつめ／漫画:まったくモー助・夢唄／監督:三浦和也／シリーズ構成:待田堂子／キャラクターデザイン:能海知佳／アニメーション制作:ENGI／製作:けものみち製作委員会<br><br>©2019
+    暁なつめ／まったくモー助／夢唄／ＫＡＤＯＫＡＷＡ／けものみち製作委員会
+  length_seconds: 1420
+  content_id: so35759516
+  default_thread_id: 1569979388
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35759516/35759516.8236063
+cast: "[キャスト]<br>柴田源蔵－ケモナーマスク:小西克幸／シグレ:関根明良／花子:八木侑紀／カーミラ:櫻庭有紗／ＭＡＯ－マカデミアンオーガ:稲田徹／ひろゆき:末柄里恵／ミーシャ:集貝はな／ヴォルフガング:松田健一郎／エドガー:武虎"
+staff: "[スタッフ]<br>原作:暁なつめ／漫画:まったくモー助・夢唄／監督:三浦和也／シリーズ構成:待田堂子／キャラクターデザイン:能海知佳／アニメーション制作:ENGI／製作:けものみち製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019 暁なつめ／まったくモー助／夢唄／ＫＡＤＯＫＡＷＡ／けものみち製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
