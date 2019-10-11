@@ -492,6 +492,16 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第31話'
           title: "変わりゆくもの    金牛龍神ドラゴニック・タウラス！"
+  - id: 25
+    title: '勇者指令ダグオン'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第32話'
+          title: "噂の刑事エン&ゲキ／凶悪宇宙警官 デスコップ 登場"
+        nico_branch:
+          episode_no: '第32話'
+          title: "噂の刑事エン＆ゲキ／凶悪宇宙警官 デスコップ 登場"
 
 seasons_with_different_title:
   -

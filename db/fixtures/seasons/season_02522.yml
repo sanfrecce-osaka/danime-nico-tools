@@ -1,0 +1,515 @@
+--- !ruby/hash:SeasonHash
+title: 勇者エクスカイザー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/28/4/11284_1_6.png?1551184709000
+outline: 全宇宙の宝を狙う宇宙海賊ガイスターが地球に襲来、恐竜博の模型に融合し宝を奪おうと暴れはじめた。家族と一緒に恐竜博を見に来ていた星川コウタは、彼が宝物にしている古いカメラをガイスター4将のひとりホーンガイストに狙われる。そこにガイスターを追って地球にやってきた宇宙警察のエクスカイザーが現れた！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村大樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：谷田部勝義
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平岡正幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 勇者シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1990年
+  type: other
+- !ruby/hash:TagHash
+  name: 1990年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ボクんちの車は宇宙人！？
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>次話→so35567029
+  length_seconds: 1458
+  content_id: so35567028
+  default_thread_id: 1566293346
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567028/35567028.28551429
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: リニア・モーターカーを助けて！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567028←前話｜次話→so35567030　第一話→so35567028
+  length_seconds: 1457
+  content_id: so35567029
+  default_thread_id: 1566293284
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567029/35567029.62910091
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 大停電で大こんらん
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567029←前話｜次話→so35567136　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567030
+  default_thread_id: 1566293343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567030/35567030.8869062
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 火星行きロケットしゅっぱーつ！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567030←前話｜次話→so35567137　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567136
+  default_thread_id: 1566294363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567136/35567136.51568976
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 薬屋さんがカラッポ！？
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567136←前話｜次話→so35567138　第一話→so35567028
+  length_seconds: 1457
+  content_id: so35567137
+  default_thread_id: 1566294482
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567137/35567137.98730716
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ボクら沈没船たんけん隊
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567137←前話｜次話→so35567238　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567138
+  default_thread_id: 1566294604
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567138/35567138.30463164
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 遊園地でキケンがぐるぐる！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567138←前話｜次話→so35567239　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567238
+  default_thread_id: 1566295803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567238/35567238.70402712
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ボクはジェットパイロット
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567238←前話｜次話→so35567276　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35567239
+  default_thread_id: 1566295806
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567239/35567239.56938830
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: お花見山は大仏さわぎ
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567239←前話｜次話→so35567321　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567276
+  default_thread_id: 1566296462
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567276/35567276.4319947
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 大ゆれ！ドーム球場
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567276←前話｜次話→so35567322　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567321
+  default_thread_id: 1566296890
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567321/35567321.43240889
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 古代遺跡で大はっけん
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567321←前話｜次話→so35567421　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567322
+  default_thread_id: 1566296882
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567322/35567322.86143305
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ケーキのもとがない！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567322←前話｜次話→so35567422　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567421
+  default_thread_id: 1566298209
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567421/35567421.74346301
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 富士山大バクハツ！？
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567421←前話｜次話→so35567423　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567422
+  default_thread_id: 1566298143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567422/35567422.55747934
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: たいへんだ！ママが！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567422←前話｜次話→so35567529　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567423
+  default_thread_id: 1566298085
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567423/35567423.7167220
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 夢ドロボーにご用心
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567423←前話｜次話→so35567530　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567529
+  default_thread_id: 1566299403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567529/35567529.53962474
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 走れ！スーパーカー
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567529←前話｜次話→so35567582　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567530
+  default_thread_id: 1566299412
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567530/35567530.23606402
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: コンピュータを守れ
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567530←前話｜次話→so35567633　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567582
+  default_thread_id: 1566300035
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567582/35567582.20137531
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 時間がめちゃくちゃ
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567582←前話｜次話→so35567683　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567633
+  default_thread_id: 1566300424
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567633/35567633.59416028
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 虹の滝は大洪水
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567633←前話｜次話→so35567743　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567683
+  default_thread_id: 1566301269
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567683/35567683.92558074
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: ねらわれた花嫁
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567683←前話｜次話→so35567744　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35567743
+  default_thread_id: 1566301746
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567743/35567743.32946860
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 燃える映画村
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567743←前話｜次話→so35567853　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567744
+  default_thread_id: 1566301742
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567744/35567744.40212042
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: フーコの七夕物語
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567744←前話｜次話→so35567854　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35567853
+  default_thread_id: 1566302884
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567853/35567853.38798412
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: アイドルを探せ！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567853←前話｜次話→so35567855　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567854
+  default_thread_id: 1566303011
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567854/35567854.96178321
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: Go！Go！豪華客船
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567854←前話｜次話→so35567991　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567855
+  default_thread_id: 1566302948
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567855/35567855.32528575
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 海に消えた病原菌
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567855←前話｜次話→so35567992　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35567991
+  default_thread_id: 1566304205
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567991/35567991.4592145
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 子パンダ争奪戦
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567991←前話｜次話→so35568040　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35567992
+  default_thread_id: 1566304443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35567992/35567992.73080948
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 流星群をぶっとばせ！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35567992←前話｜次話→so35568101　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35568040
+  default_thread_id: 1566304864
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35568040/35568040.48832217
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 夏を取り戻せ！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35568040←前話｜次話→so35568154　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35568101
+  default_thread_id: 1566305706
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35568101/35568101.62080229
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 空に散った貯金箱
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35568101←前話｜次話→so35568210　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35568154
+  default_thread_id: 1566306064
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35568154/35568154.66045996
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: パパは禁煙中
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35568154←前話｜次話→so35569125　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35568210
+  default_thread_id: 1566306554
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35568210/35568210.59138941
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 地上絵のひみつ
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35568210←前話｜次話→so35569126　第一話→so35567028
+  length_seconds: 1458
+  content_id: so35569125
+  default_thread_id: 1566318063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569125/35569125.77845460
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 出た！超巨大合体
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569125←前話｜次話→so35569127　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569126
+  default_thread_id: 1566318123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569126/35569126.88182886
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: 友だちはカブキ小僧
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569126←前話｜次話→so35569128　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569127
+  default_thread_id: 1566318016
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569127/35569127.50321635
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: ぼくらのオリンピック
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569127←前話｜次話→so35569129　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569128
+  default_thread_id: 1566318065
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569128/35569128.53159679
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: 勇者に贈る音楽会
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569128←前話｜次話→so35569130　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569129
+  default_thread_id: 1566318071
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569129/35569129.86529478
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: ハロウィンの怪物
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569129←前話｜次話→so35569131　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569130
+  default_thread_id: 1566318005
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569130/35569130.98729184
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: かいぶつ図書館
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569130←前話｜次話→so35569132　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569131
+  default_thread_id: 1566318125
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569131/35569131.84209223
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 風になれ白い馬
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569131←前話｜次話→so35569133　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569132
+  default_thread_id: 1566318009
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569132/35569132.90377419
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: めざせ宇宙パイロット
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569132←前話｜次話→so35569134　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569133
+  default_thread_id: 1566318003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569133/35569133.87745075
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 壊滅！ガイスター基地
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569133←前話｜次話→so35569135　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569134
+  default_thread_id: 1566318012
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569134/35569134.75616071
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: マリオとジュリエット
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569134←前話｜次話→so35569136　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569135
+  default_thread_id: 1566318007
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569135/35569135.47312576
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 消防車出動せよ！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569135←前話｜次話→so35569137　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569136
+  default_thread_id: 1566318069
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569136/35569136.69491430
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: タクミは学校が好き？！
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569136←前話｜次話→so35569205　第一話→so35567028
+  length_seconds: 1460
+  content_id: so35569137
+  default_thread_id: 1566318014
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569137/35569137.47686818
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: サンタさんがいっぱい
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569137←前話｜次話→so35569206　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569205
+  default_thread_id: 1566319269
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569205/35569205.74063384
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: ピラミッドで大冒険
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569205←前話｜次話→so35569207　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569206
+  default_thread_id: 1566319267
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569206/35569206.67207395
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: 海底油田の罠
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569206←前話｜次話→so35569209　第一話→so35567028
+  length_seconds: 1460
+  content_id: so35569207
+  default_thread_id: 1566319203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569207/35569207.99514604
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: 雪国の決戦
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569207←前話｜次話→so35569210　第一話→so35567028
+  length_seconds: 1459
+  content_id: so35569209
+  default_thread_id: 1566319208
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569209/35569209.28226861
+- !ruby/hash:EpisodeHash
+  episode_no: 最終話
+  title: 本当の宝物
+  description: 星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三<br><br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平<br><br>©サンライズ<br><br>so35569209←前話　第一話→so35567028
+  length_seconds: 1429
+  content_id: so35569210
+  default_thread_id: 1566319265
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569210/35569210.28158893
+cast: "[キャスト]<br>星川コウタ:渡辺久美子／月山コトミ:横山智佐／エクスカイザー:速水奨／ウルトラレイカー:菊池正美／ゴッドマックス:中村大樹／ダイノガイスト:飯塚昭三"
+staff: "[スタッフ]<br>原作:矢立肇／監督:谷田部勝義／キャラクターデザイン:平岡正幸／メカニカルデザイン:大河原邦男／ゲストメカニカルデザイン:石垣純哉／音楽:田中公平"
+produced_year: "[製作年]<br>1990年"
+copyright: "©サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 太陽の勇者ファイバード
+- !ruby/hash:SeasonHash
+  title: 伝説の勇者ダ・ガーン
+- !ruby/hash:SeasonHash
+  title: 勇者特急マイトガイン
+- !ruby/hash:SeasonHash
+  title: 勇者警察ジェイデッカー
+- !ruby/hash:SeasonHash
+  title: 黄金勇者ゴルドラン
+- !ruby/hash:SeasonHash
+  title: 勇者指令ダグオン
+- !ruby/hash:SeasonHash
+  title: 勇者指令ダグオン 水晶の瞳の少年
+- !ruby/hash:SeasonHash
+  title: 勇者王ガオガイガー
+- !ruby/hash:SeasonHash
+  title: 勇者王ガオガイガーFINAL
+- !ruby/hash:SeasonHash
+  title: ベターマン
