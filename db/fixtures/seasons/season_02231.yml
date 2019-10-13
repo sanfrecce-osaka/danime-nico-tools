@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 上坂すみれ
+  name: 玄田哲章
   type: cast
 - !ruby/hash:TagHash
-  name: 玄田哲章
+  name: 上坂すみれ
   type: cast
 - !ruby/hash:TagHash
   name: 三宅健太

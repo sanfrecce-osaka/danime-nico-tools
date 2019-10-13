@@ -16,10 +16,10 @@ tags: !ruby/array:Hashie::Array
   name: SF/ファンタジー
   type: genre
 - !ruby/hash:TagHash
-  name: 喜多村英梨
+  name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 諏訪部順一
+  name: 喜多村英梨
   type: cast
 - !ruby/hash:TagHash
   name: 佐倉綾音

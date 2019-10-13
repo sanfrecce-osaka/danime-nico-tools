@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
-  name: 斉藤壮馬
+  name: 石川界人
   type: cast
 - !ruby/hash:TagHash
-  name: 石川界人
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
   name: 内田雄馬
