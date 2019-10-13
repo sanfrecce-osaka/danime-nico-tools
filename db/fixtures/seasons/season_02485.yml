@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: 夏目友人帳 陸　特別編２　夢幻のかけら
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/1/23041_1_6.png?1568964668000
+outline: ある日、女子高生のタマミは不思議な森に迷い込み、人間の言葉を喋る不思議な猫と出会う。猫は、ニャンコ先生と名乗り、自分は大妖怪だと話す。まるで不思議の国のアリスになったような気分のタマミ。すると、森の奥から悲鳴が聞こえ、ニャンコ先生は声が聞えて来た方へと姿を消す。心細くなったタマミは、ニャンコ先生を追いかけて森の奥へと進んでいくが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：大森貴弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：吉森信
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：緑川ゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAS
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：出合小都美
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：朱夏
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：髙田晃
+  type: staff
+- !ruby/hash:TagHash
+  name: 夏目友人帳シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 夏目友人帳 陸　特別編２　夢幻のかけら
+  description: ある日、女子高生のタマミは不思議な森に迷い込み、人間の言葉を喋る不思議な猫と出会う。猫は、ニャンコ先生と名乗り、自分は大妖怪だと話す。まるで不思議の国のアリスになったような気分のタマミ。すると、森の奥から悲鳴が聞こえ、ニャンコ先生は声が聞えて来た方へと姿を消す。心細くなったタマミは、ニャンコ先生を追いかけて森の奥へと進んでいくが…。<br><br>夏目貴志:神谷浩史／ニャンコ先生・斑:井上和彦　ほか<br><br>原作:緑川ゆき／月刊LaLa（白泉社）連載／総監督:大森貴弘／監督:出合小都美／シリーズ構成:村井さだゆき／キャラクターデザイン:髙田晃／サブキャラクターデザイン:萩原弘光／妖怪デザイン:山田起生／美術:渋谷幸弘／色彩設定:宮脇裕美／撮影:田村仁、川田哲矢／編集:関一彦／音楽:吉森信／アニメーション制作:朱夏／制作:NAS／製作:「夏目友人帳」製作委員会<br><br>©緑川ゆき・白泉社／「夏目友人帳」製作委員会
+  length_seconds: 1415
+  content_id: so35737151
+  default_thread_id: 1569559331
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35737151/35737151.69012342
+cast: "[キャスト]<br>夏目貴志:神谷浩史／ニャンコ先生・斑:井上和彦　ほか"
+staff: "[スタッフ]<br>原作:緑川ゆき／月刊LaLa（白泉社）連載／総監督:大森貴弘／監督:出合小都美／シリーズ構成:村井さだゆき／キャラクターデザイン:髙田晃／サブキャラクターデザイン:萩原弘光／妖怪デザイン:山田起生／美術:渋谷幸弘／色彩設定:宮脇裕美／撮影:田村仁、川田哲矢／編集:関一彦／音楽:吉森信／アニメーション制作:朱夏／制作:NAS／製作:「夏目友人帳」製作委員会"
+produced_year: "[製作年]<br>2017年"
+copyright: "©緑川ゆき・白泉社／「夏目友人帳」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳
+- !ruby/hash:SeasonHash
+  title: 続 夏目友人帳
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 参
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 肆
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳　いつかゆきのひに
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳　ニャンコ先生とはじめてのおつかい
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 伍
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 伍　特別編１　一夜盃（ひとよさかずき）
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 伍　特別編２　遊戯の宴
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 陸
+- !ruby/hash:SeasonHash
+  title: 夏目友人帳 陸　特別編１　鈴鳴るの切り株
+- !ruby/hash:SeasonHash
+  title: SOUND THEATRE × 夏目友人帳 ～集い 音劇の章～
+- !ruby/hash:SeasonHash
+  title: SOUND THEATRE × 夏目友人帳 ～集い 音劇の章・再び～

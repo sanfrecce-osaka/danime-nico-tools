@@ -1,0 +1,155 @@
+--- !ruby/hash:SeasonHash
+title: ガリレイドンナ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/21/2/11212_1_6.png?1552446371000
+outline: 時は西暦2061年。温暖化も今は昔、氷河期の初期環境が全世界を覆っていた。イタリアはトスカーナに住むガリレオ・ガリレイの末裔、星月・神月・葉月は、突然、謎の組織から襲撃を受け、挙句の果てに国際指名手配犯にされてしまう。そんな組織の目的は「ガリレオテゾロ」と呼ばれる何かだった。三人には全く心当たりがないものの、姉妹で力を合わせて、この危機を乗り越えなければ！…けれどもこの三人、性格がバラバラすぎて、心を一つに合わせるのは至難のワザだった。テゾロとは？組織とは？そして三姉妹の命運は…？三者三様の少女たちが繰り広げる、バトルアクションアドベンチャー！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日高里菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：梅津泰臣
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：梅津泰臣
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：teamGD
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 2013年秋
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ガリレオＤＮＡ
+  description: 星月・フェラーリは見知らぬ誰かに追われていた。同じ頃、彼女の二人の姉、神月と葉月も知らない男たちに襲われる。理由に心当たりのない三姉妹だったが、状況を重く見た警察は護衛のためフェラーリ家にやってくる。そこにあらわれた思いがけない訪問者とは…？<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>次話→so35602586
+  length_seconds: 1380
+  content_id: so35602560
+  default_thread_id: 1566960064
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602560/35602560.85287819
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: メシェ
+  description: 星月がシシーニョ達を撃退し安堵したのも束の間、警察は突然銃を出し連行、家族を留置場に収容する。警察から逃れた星月は、目の前に現れたガリレオマニアのアンナに事の真相を聞き、家族を助ける決心をするのだった。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602560←前話｜次話→so35602602　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602586
+  default_thread_id: 1566960663
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602586/35602586.68185626
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: キンギョ・ライフ
+  description: 国際指名手配犯となり、ガリレオ号で逃避の旅をする事になった三姉妹とアンナ。星月の才能にコンプレックスを感じている神月はそれがイヤでたまらない。ギクシャクした空気が流れる中、ロベルトを乗せたアザ・アイアンが現れる。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602586←前話｜次話→so35602603　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602602
+  default_thread_id: 1566960785
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602602/35602602.24636676
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: スノーギフト
+  description: 食料も、替えの下着もない。神月の怒りもあって雰囲気は最悪だ。その状況を打破し、ガリレオの書いた「月のスケッチ」を見つけるためにドイツにやってきた星月たち。変装して買い物をするが、ブラックガニメデ団に見つかってしまう。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602602←前話｜次話→so35602636　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602603
+  default_thread_id: 1566960783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602603/35602603.4223761
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 星座夢幻
+  description: オランダの寒村で三姉妹達は窃盗団「ブルーホーク」と出会った。星月はメンバーの少年・テオと意気投合する。テオは仲間の少女・カレンの誕生日プレゼントに望遠鏡を自作しており、星月はその恋の行方を見守っていたのだが…。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602603←前話｜次話→so35602653　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602636
+  default_thread_id: 1566961263
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602636/35602636.77183293
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ガリレオテゾロ
+  description: 葉月の薬を頂戴するために忍びこんだ病院。そこにはシシーニョとロベルトが対峙していた。交戦して相討ちになり不時着したのだ。激しいブリザードの中電力が切れ、わずかな自家発電のなか、建物に人々の不安が充満していく。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602636←前話｜次話→so35602654　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602653
+  default_thread_id: 1566961870
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602653/35602653.48574240
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ソルトフィッシュ
+  description: ガリレオテゾロは膨大なエネルギーだった。それは星月の持つ砂時計の中にある。三姉妹から奪うため、ロベルトはガリレオ号を捕まえる。三姉妹は必死に抵抗するが、本気を出したロベルトにとっては赤子も同然だった。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602653←前話｜次話→so35602656　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602654
+  default_thread_id: 1566961743
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602654/35602654.49478217
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ジャッポーネ
+  description: スケッチを探す旅を続ける三姉妹たち。次の目的地は日本。それぞれの気持ちは晴れないまま、京都の父の実家に顔を出す。祖父に迎えられ、束の間の安らぎを得た姉妹たち。星月は夏至生の作りかけの装置を完成させようとする。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602654←前話｜次話→so35602657　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602656
+  default_thread_id: 1566961868
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602656/35602656.12548732
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 時空金魚　前編
+  description: ５枚目のスケッチが指し示したのはリビアの砂漠。そこで６枚のスケッチが揃った。これを解読すれば、ガリレオテゾロが解明できる！そう思った瞬間、グランデロッソが敵襲を告げる。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602656←前話｜次話→so35602658　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602657
+  default_thread_id: 1566961874
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602657/35602657.14250458
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 時空金魚　後編
+  description: テゾロの強力な力によって星月が飛ばされたのは1581年のイタリア。ガリレオ・ガリレイの飛ばす飛行機の上だった。翼を破壊し実験を中断させてしまった星月は、もとの場所に戻る可能性にかけるため、新たな飛行機をガリレオと一緒に設計することになる。<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602657←前話｜次話→so35602659　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602658
+  default_thread_id: 1566961866
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602658/35602658.44467877
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ガリレオジャッジ
+  description: ガリレオの協力もあって元の世界に戻ることができた星月。そして、死地を脱したかに見えた三姉妹だったが、インターポールに捕まり、裁判にかけられてしまう。「ガリレオ裁判」だ。今までの破壊と逃走を罪として問われ、反論する事ができない三姉妹たちに最後の危機が訪れる！<br><br>星月・フェラーリ:（ＣＶ：日高里菜）<br><br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1
+    Pictures／原作:梅津泰臣・teamGD<br><br>©ガリレイドンナ製作委員会<br><br>so35602658←前話　第一話→so35602560
+  length_seconds: 1380
+  content_id: so35602659
+  default_thread_id: 1566961872
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35602659/35602659.31719653
+cast: "[キャスト]<br>星月・フェラーリ:（ＣＶ：日高里菜）"
+staff: "[スタッフ]<br>監督:梅津泰臣／シナリオ（シリーズ構成）:倉田英之、待田堂子、熊谷純、岡篤志／スタジオ:A-1 Pictures／原作:梅津泰臣・teamGD"
+produced_year: "[製作年]<br>2013年"
+copyright: "©ガリレイドンナ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
