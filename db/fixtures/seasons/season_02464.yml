@@ -1,0 +1,107 @@
+--- !ruby/hash:SeasonHash
+title: 薄墨桜-GARO-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/96/6/22966_1_6.png?1567413007000
+outline: 貴方に出逢わなければ――平安の世、栄華を誇る美しき都「京」。守りし者たち、雷吼、星明、金時は人知れず火羅と呼ばれる異形の者から人々を守る使命を遂行していた。或る日、彼らの前に現れる美しい女・明羅。そして闇の中で暗躍する時丸。美しい桜が1000年の時を経て咲き乱れる時、哀しくも儚い復讐劇が幕を開ける――
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田譲治
+  type: cast
+- !ruby/hash:TagHash
+  name: 朴璐美
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀内賢雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中敦子
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢島晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野村勝人
+  type: cast
+- !ruby/hash:TagHash
+  name: 鵜殿麻由
+  type: cast
+- !ruby/hash:TagHash
+  name: 中山麻聖
+  type: cast
+- !ruby/hash:TagHash
+  name: 東啓介
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：高田龍一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：西村聡
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：雨宮慶太
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：桂正和
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：横山愛
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：海老原雅夫
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオM2
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：studio VOLN
+  type: staff
+- !ruby/hash:TagHash
+  name: 牙狼シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 薄墨桜-GARO-
+  description: 貴方に出逢わなければ――平安の世、栄華を誇る美しき都「京」。守りし者たち、雷吼、星明、金時は人知れず火羅と呼ばれる異形の者から人々を守る使命を遂行していた。或る日、彼らの前に現れる美しい女・明羅。そして闇の中で暗躍する時丸。美しい桜が1000年の時を経て咲き乱れる時、哀しくも儚い復讐劇が幕を開ける――<br><br>雷吼:中山麻聖／星明:朴璐美／金時:矢島晶子／明羅:田中敦子／時丸:東啓介／藤原道長:堀内賢雄／藤原保輔:浪川大輔／源頼信:野村勝人／稲荷:鵜殿麻由／天狐:中田譲治／梟師（たける）:関智一<br><br>原作:雨宮慶太／監督:西村聡／脚本:小林靖子／メインキャラクターデザイン:桂正和／アニメーションキャラクターデザイン:横山愛、海老原雅夫／美術監督:橋本和幸／撮影監督:魚山真志／色彩設計:堀川佳典／CG監督:高橋将人／編集:神宮司由美／音楽:高田龍一・MONACA／音響監督:久保宗一郎／制作:スタジオM２、スタジオVOLN／製作:東北新社<br><br>©2018「薄墨桜」雨宮慶太／東北新社
+  length_seconds: 4923
+  content_id: so35631479
+  default_thread_id: 1567474683
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35631479/35631479.8252331
+cast: "[キャスト]<br>雷吼:中山麻聖／星明:朴璐美／金時:矢島晶子／明羅:田中敦子／時丸:東啓介／藤原道長:堀内賢雄／藤原保輔:浪川大輔／源頼信:野村勝人／稲荷:鵜殿麻由／天狐:中田譲治／梟師（たける）:関智一"
+staff: "[スタッフ]<br>原作:雨宮慶太／監督:西村聡／脚本:小林靖子／メインキャラクターデザイン:桂正和／アニメーションキャラクターデザイン:横山愛、海老原雅夫／美術監督:橋本和幸／撮影監督:魚山真志／色彩設計:堀川佳典／CG監督:高橋将人／編集:神宮司由美／音楽:高田龍一・MONACA／音響監督:久保宗一郎／制作:スタジオM２、スタジオVOLN／製作:東北新社"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2018「薄墨桜」雨宮慶太／東北新社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 牙狼＜GARO＞－炎の刻印－
+- !ruby/hash:SeasonHash
+  title: 牙狼＜GARO＞－DIVINE FLAME－
+- !ruby/hash:SeasonHash
+  title: 牙狼-紅蓮ノ月-
+- !ruby/hash:SeasonHash
+  title: 牙狼＜GARO＞－VANISHING LINE－
