@@ -1,0 +1,117 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版 のんのんびより ばけーしょん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/98/0/22980_1_6.png?1566532840000
+outline: "「旭丘分校」の生徒はたった5人。学年も性格も違うけれど、いつも一緒に春夏秋冬の変わりゆく田舎生活を楽しんでいます。ある日、デパートの福引で特賞の沖縄への旅行券を当てた「旭丘分校」の面々。夏休みを利用して、皆で沖縄に行く事になるのですが……。穏やかで何気ないけれど、笑えて、ほろっとして、心があたたかくなる。まったりゆるゆるなメンバーが送る日常の中の非日常に会いに来て下さい。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 福圓美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 新谷良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 村川梨衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 小岩井ことり
+  type: cast
+- !ruby/hash:TagHash
+  name: 下地紫野
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：SILVER LINK.
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大塚舞
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：水谷広実
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Team-MAX
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川面真也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あっと
+  type: staff
+- !ruby/hash:TagHash
+  name: のんのんびよりシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 劇場版 のんのんびより ばけーしょん
+  description: "「旭丘分校」の生徒はたった5人。学年も性格も違うけれど、いつも一緒に春夏秋冬の変わりゆく田舎生活を楽しんでいます。ある日、デパートの福引で特賞の沖縄への旅行券を当てた「旭丘分校」の面々。夏休みを利用して、皆で沖縄に行く事になるのですが……。穏やかで何気ないけれど、笑えて、ほろっとして、心があたたかくなる。まったりゆるゆるなメンバーが送る日常の中の非日常に会いに来て下さい。<br><br>宮内れんげ:小岩井ことり／一条
+    蛍:村川梨衣／越谷夏海:佐倉綾音／越谷小鞠:阿澄佳奈／越谷卓:？？？？／宮内一穂:名塚佳織／加賀山楓:佐藤利奈／宮内ひかげ:福圓美里／富士宮このみ:新谷良子／新里あおい:下地紫野<br><br>原作:あっと（月刊コミックアライブ連載『のんのんびより』／ＫＡＤＯＫＡＷＡ刊）／監督:川面真也／脚本:吉田玲子／キャラクターデザイン:大塚舞／色彩設計:重冨英里／美術監督:赤坂杏奈／美術:草薙／３D監督:濱村敏郎（ワイヤード）／撮影監督:佐藤
+    敦（スタジオシャムロック）／編集:坪根健太郎（REAL-T）／音響監督:亀山俊樹（grooove）／音楽:水谷広実（Team-MAX）／音楽制作:ランティス／オープニング主題歌:「あおのらくがき」nano.RIPE／エンディング主題歌:「おもいで」歌：宮内れんげ（CV.小岩井ことり）、一条蛍（CV.村川梨衣）、越谷夏海（CV.佐倉綾音）、越谷小鞠（CV.阿澄佳奈）／アニメーション制作:SILVER
+    LINK.／製作:旭丘分校管理組合劇場<br><br>©2018 あっと・KADOKAWA刊/旭丘分校管理組合劇場<br><br>次話→so35611304"
+  length_seconds: 1476
+  content_id: so35611305
+  default_thread_id: 1567128123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35611305/35611305.77478679
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 劇場版 のんのんびより ばけーしょん
+  description: "「旭丘分校」の生徒はたった5人。学年も性格も違うけれど、いつも一緒に春夏秋冬の変わりゆく田舎生活を楽しんでいます。ある日、デパートの福引で特賞の沖縄への旅行券を当てた「旭丘分校」の面々。夏休みを利用して、皆で沖縄に行く事になるのですが……。穏やかで何気ないけれど、笑えて、ほろっとして、心があたたかくなる。まったりゆるゆるなメンバーが送る日常の中の非日常に会いに来て下さい。<br><br>宮内れんげ:小岩井ことり／一条
+    蛍:村川梨衣／越谷夏海:佐倉綾音／越谷小鞠:阿澄佳奈／越谷卓:？？？？／宮内一穂:名塚佳織／加賀山楓:佐藤利奈／宮内ひかげ:福圓美里／富士宮このみ:新谷良子／新里あおい:下地紫野<br><br>原作:あっと（月刊コミックアライブ連載『のんのんびより』／ＫＡＤＯＫＡＷＡ刊）／監督:川面真也／脚本:吉田玲子／キャラクターデザイン:大塚舞／色彩設計:重冨英里／美術監督:赤坂杏奈／美術:草薙／３D監督:濱村敏郎（ワイヤード）／撮影監督:佐藤
+    敦（スタジオシャムロック）／編集:坪根健太郎（REAL-T）／音響監督:亀山俊樹（grooove）／音楽:水谷広実（Team-MAX）／音楽制作:ランティス／オープニング主題歌:「あおのらくがき」nano.RIPE／エンディング主題歌:「おもいで」歌：宮内れんげ（CV.小岩井ことり）、一条蛍（CV.村川梨衣）、越谷夏海（CV.佐倉綾音）、越谷小鞠（CV.阿澄佳奈）／アニメーション制作:SILVER
+    LINK.／製作:旭丘分校管理組合劇場<br><br>©2018 あっと・KADOKAWA刊/旭丘分校管理組合劇場<br><br>so35611305←前話｜次話→so35611284　第一話→so35611305"
+  length_seconds: 1365
+  content_id: so35611304
+  default_thread_id: 1567128126
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35611304/35611304.48448196
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: 劇場版 のんのんびより ばけーしょん
+  description: "「旭丘分校」の生徒はたった5人。学年も性格も違うけれど、いつも一緒に春夏秋冬の変わりゆく田舎生活を楽しんでいます。ある日、デパートの福引で特賞の沖縄への旅行券を当てた「旭丘分校」の面々。夏休みを利用して、皆で沖縄に行く事になるのですが……。穏やかで何気ないけれど、笑えて、ほろっとして、心があたたかくなる。まったりゆるゆるなメンバーが送る日常の中の非日常に会いに来て下さい。<br><br>宮内れんげ:小岩井ことり／一条
+    蛍:村川梨衣／越谷夏海:佐倉綾音／越谷小鞠:阿澄佳奈／越谷卓:？？？？／宮内一穂:名塚佳織／加賀山楓:佐藤利奈／宮内ひかげ:福圓美里／富士宮このみ:新谷良子／新里あおい:下地紫野<br><br>原作:あっと（月刊コミックアライブ連載『のんのんびより』／ＫＡＤＯＫＡＷＡ刊）／監督:川面真也／脚本:吉田玲子／キャラクターデザイン:大塚舞／色彩設計:重冨英里／美術監督:赤坂杏奈／美術:草薙／３D監督:濱村敏郎（ワイヤード）／撮影監督:佐藤
+    敦（スタジオシャムロック）／編集:坪根健太郎（REAL-T）／音響監督:亀山俊樹（grooove）／音楽:水谷広実（Team-MAX）／音楽制作:ランティス／オープニング主題歌:「あおのらくがき」nano.RIPE／エンディング主題歌:「おもいで」歌：宮内れんげ（CV.小岩井ことり）、一条蛍（CV.村川梨衣）、越谷夏海（CV.佐倉綾音）、越谷小鞠（CV.阿澄佳奈）／アニメーション制作:SILVER
+    LINK.／製作:旭丘分校管理組合劇場<br><br>©2018 あっと・KADOKAWA刊/旭丘分校管理組合劇場<br><br>so35611304←前話　第一話→so35611305"
+  length_seconds: 1424
+  content_id: so35611284
+  default_thread_id: 1567128127
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35611284/35611284.82378521
+cast: "[キャスト]<br>宮内れんげ:小岩井ことり／一条 蛍:村川梨衣／越谷夏海:佐倉綾音／越谷小鞠:阿澄佳奈／越谷卓:？？？？／宮内一穂:名塚佳織／加賀山楓:佐藤利奈／宮内ひかげ:福圓美里／富士宮このみ:新谷良子／新里あおい:下地紫野"
+staff: "[スタッフ]<br>原作:あっと（月刊コミックアライブ連載『のんのんびより』／ＫＡＤＯＫＡＷＡ刊）／監督:川面真也／脚本:吉田玲子／キャラクターデザイン:大塚舞／色彩設計:重冨英里／美術監督:赤坂杏奈／美術:草薙／３D監督:濱村敏郎（ワイヤード）／撮影監督:佐藤
+  敦（スタジオシャムロック）／編集:坪根健太郎（REAL-T）／音響監督:亀山俊樹（grooove）／音楽:水谷広実（Team-MAX）／音楽制作:ランティス／オープニング主題歌:「あおのらくがき」nano.RIPE／エンディング主題歌:「おもいで」歌：宮内れんげ（CV.小岩井ことり）、一条蛍（CV.村川梨衣）、越谷夏海（CV.佐倉綾音）、越谷小鞠（CV.阿澄佳奈）／アニメーション制作:SILVER
+  LINK.／製作:旭丘分校管理組合劇場"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2018 あっと・KADOKAWA刊/旭丘分校管理組合劇場"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: のんのんびより
+- !ruby/hash:SeasonHash
+  title: のんのんびより りぴーと

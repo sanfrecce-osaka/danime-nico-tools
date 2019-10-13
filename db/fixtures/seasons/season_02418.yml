@@ -1,0 +1,162 @@
+--- !ruby/hash:SeasonHash
+title: キルミーベイベー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/97/0/22970_1_6.png?1564642807000
+outline: ごく普通に学校に通う殺し屋ソーニャとおバカなやすな｡ふたりを中心に､可愛らしい絵柄からは想像できないちょっぴりバイオレンスな日常が繰り広げられる!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 赤﨑千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：長谷川眞也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山川吉樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：カヅホ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：EXPO
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 2012年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: キルその1
+  title: "｢いぬをしのびてさくらさく｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､いぬをしのびてさくらさくかんじでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>次話→so35535862
+  length_seconds: 1485
+  content_id: so35535846
+  default_thread_id: 1565746328
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535846/35535846.88633055
+- !ruby/hash:EpisodeHash
+  episode_no: キルその2
+  title: "｢わざぬんちゃくでくまふうせん｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､わざぬんちゃくでくまふうせんでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535846←前話｜次話→so35535863　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535862
+  default_thread_id: 1565746932
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535862/35535862.45916166
+- !ruby/hash:EpisodeHash
+  episode_no: キルその3
+  title: "｢えすぱのろえばあめずもう｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､えすぱのろえばあめずもうないちにちでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535862←前話｜次話→so35535864　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535863
+  default_thread_id: 1565746094
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535863/35535863.83495505
+- !ruby/hash:EpisodeHash
+  episode_no: キルその4
+  title: "｢あいするすいかよがしかく｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､あいするすいかよがしかくでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535863←前話｜次話→so35535865　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535864
+  default_thread_id: 1565746092
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535864/35535864.19104372
+- !ruby/hash:EpisodeHash
+  episode_no: キルその5
+  title: "｢むしをまつりてうみにんぎょう｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､むしをまつりてうみにんぎょうなかんじでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535864←前話｜次話→so35535866　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535865
+  default_thread_id: 1565746378
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535865/35535865.56468006
+- !ruby/hash:EpisodeHash
+  episode_no: キルその6
+  title: "｢へそからくりでてるごおり｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､へそからくりでてるごおりでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535865←前話｜次話→so35535867　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535866
+  default_thread_id: 1565746864
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535866/35535866.98212527
+- !ruby/hash:EpisodeHash
+  episode_no: キルその7
+  title: "｢ぶんかおてだま できばせん｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､ぶんかおてだまできばせんでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535866←前話｜次話→so35535907　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535867
+  default_thread_id: 1565746329
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535867/35535867.7664295
+- !ruby/hash:EpisodeHash
+  episode_no: キルその8
+  title: "｢はまりかなでりつきささり｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､はまりかなでりつきささりました｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535867←前話｜次話→so35535909　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535907
+  default_thread_id: 1565746803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535907/35535907.21660800
+- !ruby/hash:EpisodeHash
+  episode_no: キルその9
+  title: "｢つりつちのこしわすれえだ｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､つりつちのこしわすれえだでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535907←前話｜次話→so35535910　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535909
+  default_thread_id: 1565746808
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535909/35535909.14765288
+- !ruby/hash:EpisodeHash
+  episode_no: キルその10
+  title: "｢さんたつららてゆきだるむ｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､さんたつららてゆきだるむかのようでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535909←前話｜次話→so35535943　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535910
+  default_thread_id: 1565746805
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535910/35535910.27271697
+- !ruby/hash:EpisodeHash
+  episode_no: キルその11
+  title: "｢ふろたこもちてはつゆめし｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､ふろたこもちてはつゆめしました｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535910←前話｜次話→so35535861　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535943
+  default_thread_id: 1565747403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535943/35535943.68089458
+- !ruby/hash:EpisodeHash
+  episode_no: キルその12
+  title: "｢ちょこがねむけて けがしっぷ｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､ちょこがねむけてけがしっぷでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535943←前話｜次話→so35535860　第一話→so35535846
+  length_seconds: 1485
+  content_id: so35535861
+  default_thread_id: 1565746923
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535861/35535861.81085579
+- !ruby/hash:EpisodeHash
+  episode_no: キルその13
+  title: "｢きるがみーして べいべする｣"
+  description: きょうはあさおきてがっこうにいってソーニャちゃんとあそぼうとおもったらなぐられました｡きょうはぜんたいてきに､きるがみーしてべいべするでした｡<br><br>折部やすな:赤﨑千夏／ソーニャ:田村睦心<br><br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF<br><br>©カヅホ･芳文社/キルミーベイベー製作委員会<br><br>so35535861←前話　第一話→so35535846
+  length_seconds: 1455
+  content_id: so35535860
+  default_thread_id: 1565746930
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35535860/35535860.1841058
+cast: "[キャスト]<br>折部やすな:赤﨑千夏／ソーニャ:田村睦心"
+staff: "[スタッフ]<br>原作:カヅホ（芳文社「まんがタイムきららキャラット」連載）／監督:山川吉樹／シリーズ構成:白根秀樹／キャラクターデザイン:長谷川眞也／音楽:EXPO／アニメーション制作:J.C.STAFF"
+produced_year: "[製作年]<br>2012年"
+copyright: "©カヅホ･芳文社/キルミーベイベー製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

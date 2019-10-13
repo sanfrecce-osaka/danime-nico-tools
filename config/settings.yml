@@ -306,6 +306,82 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第7話'
           title: '「Trick＆Trap」'
+  - id: 17
+    title: '曇天に笑う＜外伝＞ ～決別、犲の誓い～'
+    episodes:
+      - id: 1
+        head:
+          episode_no: 'Chapter.1'
+          title: '曇天に笑う<外伝> ～決別、犲の誓い～'
+        nico_branch:
+          episode_no: 'Chapter.1'
+          title: '曇天に笑う＜外伝＞ ～決別、犲の誓い～'
+      - id: 2
+        head:
+          episode_no: 'Chapter.2'
+          title: '曇天に笑う<外伝> ～決別、犲の誓い～'
+        nico_branch:
+          episode_no: 'Chapter.2'
+          title: '曇天に笑う＜外伝＞ ～決別、犲の誓い～'
+  - id: 18
+    title: '曇天に笑う＜外伝＞ ～宿命、双頭の風魔～'
+    episodes:
+      - id: 1
+        head:
+          episode_no: 'Chapter.1'
+          title: '曇天に笑う<外伝> ～宿命、双頭の風魔～'
+        nico_branch:
+          episode_no: 'Chapter.1'
+          title: '曇天に笑う＜外伝＞ ～宿命、双頭の風魔～'
+      - id: 2
+        head:
+          episode_no: 'Chapter.2'
+          title: '曇天に笑う<外伝> ～宿命、双頭の風魔～'
+        nico_branch:
+          episode_no: 'Chapter.2'
+          title: '曇天に笑う＜外伝＞ ～宿命、双頭の風魔～'
+      - id: 3
+        head:
+          episode_no: 'Chapter.3'
+          title: '曇天に笑う<外伝> ～宿命、双頭の風魔～'
+        nico_branch:
+          episode_no: 'Chapter.3'
+          title: '曇天に笑う＜外伝＞ ～宿命、双頭の風魔～'
+  - id: 19
+    title: '曇天に笑う＜外伝＞ ～桜華、天望の架橋～'
+    episodes:
+      - id: 1
+        head:
+          episode_no: 'Chapter.1'
+          title: '曇天に笑う<外伝> ～桜華、天望の架橋～'
+        nico_branch:
+          episode_no: 'Chapter.1'
+          title: '曇天に笑う＜外伝＞ ～桜華、天望の架橋～'
+      - id: 2
+        head:
+          episode_no: 'Chapter.2'
+          title: '曇天に笑う<外伝> ～桜華、天望の架橋～'
+        nico_branch:
+          episode_no: 'Chapter.2'
+          title: '曇天に笑う＜外伝＞ ～桜華、天望の架橋～'
+      - id: 3
+        head:
+          episode_no: 'Chapter.3'
+          title: '曇天に笑う<外伝> ～桜華、天望の架橋～'
+        nico_branch:
+          episode_no: 'Chapter.3'
+          title: '曇天に笑う＜外伝＞ ～桜華、天望の架橋～'
+  - id: 20
+    title: 'プリンセス・プリンシパル'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第5話'
+          title: "case7 Bullet & Blade's Ballad"
+        nico_branch:
+          episode_no: '第5話'
+          title: "case7 Bullet ＆ Blade’s Ballad"
+
 seasons_with_different_title:
   -
     id: 1
