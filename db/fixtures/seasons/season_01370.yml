@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: フリージング
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/6/11046_1_6.png?1427216400000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/04/6/11046_1_6.png?1551175550000
 outline: 人類を滅亡に追いやる異次元体『ノヴァ』との戦いで姉を失った少年カズヤは、ある学園に編入生としてやってきた。そこは、ノヴァに対抗できる力を持つ、女子生徒しかなれない戦士【パンドラ】、そしてパンドラを補佐し無二のパートナーとなる男子生徒【リミッター】を育成する『ウェストゼネティックス』という学園だった。その学園もまた、ノヴァとの戦いに備え、少年少女たちが能力を開花するべく、日々互いにしのぎを削るバトルフィールド。そして下級生は、絶対無敵の上級生に対し絶対服従でなければならない。その秩序を乱すのが、他人が触れることを決して許さない「接触禁止の女王」と恐れられる最強の二年、サテライザー＝エル＝ブリジット。カズヤは彼女に、亡き姉の面影を見る。サテライザーを疎む上級生たちが、学園の「秩序」を盾に彼女を組み伏すべく、熾烈な闘いがはじまる。恋と闘争の学園ＳＦアクション、ここに開幕！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -32,19 +32,19 @@ tags: !ruby/array:Hashie::Array
   name: 小清水亜美
   type: cast
 - !ruby/hash:TagHash
-  name: 渡辺明乃
-  type: cast
-- !ruby/hash:TagHash
   name: 植田佳奈
   type: cast
 - !ruby/hash:TagHash
   name: 甲斐田裕子
   type: cast
 - !ruby/hash:TagHash
-  name: 桑谷夏子
+  name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
   name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
   type: cast
 - !ruby/hash:TagHash
   name: 浅川悠
@@ -65,10 +65,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：A・C・G・T
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：林達永
+  name: 原作：金光鉉
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：金光鉉
+  name: 原作：林達永
   type: staff
 - !ruby/hash:TagHash
   name: フリージングシリーズ
@@ -78,6 +78,9 @@ tags: !ruby/array:Hashie::Array
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 2011年冬
   type: other
 - !ruby/hash:TagHash
   name: ダックスプロダクション
@@ -97,9 +100,6 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 西表美智代
   type: other
-- !ruby/hash:TagHash
-  name: 須賀重行
-  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: Episode1
@@ -109,7 +109,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935481
   default_thread_id: 1505553447
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935481
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935481/31935481.30735072
 - !ruby/hash:EpisodeHash
   episode_no: Episode2
   title: Pandora Mode
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935482
   default_thread_id: 1505553688
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935482
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935482/31935482.29110649
 - !ruby/hash:EpisodeHash
   episode_no: Episode3
   title: Accelerating Turn
@@ -127,7 +127,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935483
   default_thread_id: 1505553512
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935483
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935483/31935483.62516691
 - !ruby/hash:EpisodeHash
   episode_no: Episode4
   title: Tempest Turn
@@ -136,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935484
   default_thread_id: 1505553489
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935484
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935484/31935484.23620985
 - !ruby/hash:EpisodeHash
   episode_no: Episode5
   title: She is Rana Linchen
@@ -145,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935485
   default_thread_id: 1505553686
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935485
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935485/31935485.7924997
 - !ruby/hash:EpisodeHash
   episode_no: Episode6
   title: Machination
@@ -154,7 +154,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935486
   default_thread_id: 1505553468
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935486
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935486/31935486.18049329
 - !ruby/hash:EpisodeHash
   episode_no: Episode7
   title: Sanction
@@ -164,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935487
   default_thread_id: 1505553932
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935487
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935487/31935487.36530860
 - !ruby/hash:EpisodeHash
   episode_no: Episode8
   title: Pandora Queen
@@ -173,7 +173,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935489
   default_thread_id: 1505553740
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935489
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935489/31935489.40677247
 - !ruby/hash:EpisodeHash
   episode_no: Episode9
   title: Godspeed of the East
@@ -182,7 +182,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935490
   default_thread_id: 1505553930
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935490
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935490/31935490.94557380
 - !ruby/hash:EpisodeHash
   episode_no: Episode10
   title: NOVA Form
@@ -191,7 +191,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935491
   default_thread_id: 1505553534
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935491
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935491/31935491.39811999
 - !ruby/hash:EpisodeHash
   episode_no: Episode11
   title: Ambush! Ravensborne Nucleochede
@@ -200,7 +200,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935492
   default_thread_id: 1505553737
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935492
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935492/31935492.86224150
 - !ruby/hash:EpisodeHash
   episode_no: Episode12
   title: Satellizer VS. Pandora
@@ -209,7 +209,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so31935493
   default_thread_id: 1505553708
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=31935493
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/31935493/31935493.24795792
 cast: "[キャスト]<br>サテライザー＝エル＝ブリジット:能登麻美子／ラナ＝リンチェン:花澤香菜／アオイ＝カズヤ:市来光弘／ガネッサ＝ローランド:喜多村英梨／アーサー＝クリプトン:岡本信彦／ヒイラギ＝カホ:大久保瑠美／シフォン＝フェアチャイルド:井上麻里奈／イングリッド＝バーンシュタイン:小清水亜美／レオ＝バーナード:椎橋和義／クレオ＝ブランド:橘田いずみ／アーネット＝マックミルラン:浅川悠／アティア＝シモンズ:植田佳奈／カンナヅキ＝ミヤビ:桑谷夏子／ティシー＝フェニール:内田彩／エリザベス＝メイブリー:甲斐田裕子／キム＝ユミ:渡辺明乃／エリズ＝シュミッツ:水沢史絵／シスター＝マーガレット:高橋理恵子"
 staff: "[スタッフ]<br>原作:林達永・金光鉉（コミックヴァルキリーWeb版連載中、キルタイムコミュニケーション刊）／監督:渡部高志／シリーズ構成:赤星政尚／キャラクターデザイン・総作画監督:渡辺真由美／アクション作画監督:須賀重行／美術監督:桑原悟／色彩設定:西表美智代／撮影監督:森下成一／編集:リアル・ティ／音響監督:辻谷耕史／音響制作:ダックスプロダクション／音楽:横山克／音楽制作:メディアファクトリー／プロデュース:エスウッド／アニメーション制作:A・C・G・T／製作:フリージング製作委員会"
 produced_year: "[製作年]<br>2011年"
