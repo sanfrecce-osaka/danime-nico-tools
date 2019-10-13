@@ -474,6 +474,16 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第229話'
           title: "ケロロ コトバの必殺拳！ であります／サブロー＆クルル 静かな戦い であります"
+  - id: 24
+    title: 'バトルスピリッツ ブレイヴ'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第31話'
+          title: "変わりゆくもの 金牛龍神ドラゴニック・タウラス！"
+        nico_branch:
+          episode_no: '第31話'
+          title: "変わりゆくもの    金牛龍神ドラゴニック・タウラス！"
 
 seasons_with_different_title:
   -

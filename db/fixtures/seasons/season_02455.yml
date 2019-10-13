@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: こんぷれっくす×コンプレックス
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/00/1/23001_1_6.png?1568172722000
+outline: 大人に対して憧れを抱く中学2年生の小谷ゆいは、男子のワキ毛への興味を抑えることができない。特にクラスで一番ワキ毛の濃い武尾マサトから目をそらせずにいたが、一方の武尾は自分のワキ毛の濃さが悩みの種だった。ふとしたきっかけで彼らは言葉を交わすようになり、少しずつ距離が近くなっていくが……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 春名風花
+  type: cast
+- !ruby/hash:TagHash
+  name: 林奏絵
+  type: cast
+- !ruby/hash:TagHash
+  name: 上妻成吾
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 広江美奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 武田直人
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡田昌宜
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：ふくだみゆき
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: こんぷれっくす×コンプレックス
+  description: 大人に対して憧れを抱く中学2年生の小谷ゆいは、男子のワキ毛への興味を抑えることができない。特にクラスで一番ワキ毛の濃い武尾マサトから目をそらせずにいたが、一方の武尾は自分のワキ毛の濃さが悩みの種だった。ふとしたきっかけで彼らは言葉を交わすようになり、少しずつ距離が近くなっていくが……。<br><br>小谷ゆい:林奏絵／武尾マサト:上妻成吾／中村ふみ:春名風花／ゆいの姉:山口遥／ゆいの母:広江美奈／ゆいの父:武田直人／先生:岡田昌宜<br><br>監督・脚本・アニメ:ふくだみゆき／プロデューサー・編集:上田慎一郎／背景:山口千尋、一條晶子／録音:吉川俊夫／配給:ガチンコ・フィルム／製作:PANPOKOPINA<br><br>©PANPOKOPINA
+  length_seconds: 1477
+  content_id: so35697919
+  default_thread_id: 1568776562
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35697919/35697919.81002402
+cast: "[キャスト]<br>小谷ゆい:林奏絵／武尾マサト:上妻成吾／中村ふみ:春名風花／ゆいの姉:山口遥／ゆいの母:広江美奈／ゆいの父:武田直人／先生:岡田昌宜"
+staff: "[スタッフ]<br>監督・脚本・アニメ:ふくだみゆき／プロデューサー・編集:上田慎一郎／背景:山口千尋、一條晶子／録音:吉川俊夫／配給:ガチンコ・フィルム／製作:PANPOKOPINA"
+produced_year: "[製作年]<br>2015年"
+copyright: "©PANPOKOPINA"
+related_seasons: !ruby/array:Hashie::Array []
