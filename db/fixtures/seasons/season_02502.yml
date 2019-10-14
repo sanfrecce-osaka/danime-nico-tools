@@ -65,6 +65,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1570167543
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768334/35768334.29096397
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: アフリカのサラリーマン
+  description: ライオン:大塚明夫／トカゲ:津田健次郎／オオハシ:下野 紘／カメ社長:石田 彰／殺傷ハムスター:木野日菜<br><br>原作:ガム（KADOKAWA／MFCジーンピクシブシリーズ）／監督・総作画監督・美術設定・美術監督・色彩設計・撮影監督:畳谷哲也／シリーズ構成／脚本:百瀬祐一郎／キャラクターデザイン:pHスタジオ／オリジナルキャラクターデザイン・プロップデザイン:HOTZIPANG／３DCGディレクター:坂本渉太／音響監督:稲葉順一／音響効果:白石唯果／録音:中野陽子／録音スタジオ:スタジオJumo／音響制作:Ai
+    Addiction／音響制作担当:金子森／音楽:山口たこ／音楽制作:ポニーキャニオン／アニメーション制作プロデューサー:奥谷洋規／アニメーション制作:HOTZIPANG<br><br>©Project
+    AFRICAN OFFICE WORKER 2019<br><br>so35768334←前話　第一話→so35768334
+  length_seconds: 1420
+  content_id: so35797786
+  default_thread_id: 1570757405
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35797786/35797786.71976012
 cast: "[キャスト]<br>ライオン:大塚明夫／トカゲ:津田健次郎／オオハシ:下野 紘／カメ社長:石田 彰／殺傷ハムスター:木野日菜"
 staff: "[スタッフ]<br>原作:ガム（KADOKAWA／MFCジーンピクシブシリーズ）／監督・総作画監督・美術設定・美術監督・色彩設計・撮影監督:畳谷哲也／シリーズ構成／脚本:百瀬祐一郎／キャラクターデザイン:pHスタジオ／オリジナルキャラクターデザイン・プロップデザイン:HOTZIPANG／３DCGディレクター:坂本渉太／音響監督:稲葉順一／音響効果:白石唯果／録音:中野陽子／録音スタジオ:スタジオJumo／音響制作:Ai
   Addiction／音響制作担当:金子森／音楽:山口たこ／音楽制作:ポニーキャニオン／アニメーション制作プロデューサー:奥谷洋規／アニメーション制作:HOTZIPANG"

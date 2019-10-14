@@ -23,7 +23,8 @@ class DBDataTask
 
     def update_not_watchable_seasons
       logger.debug('selecting seasons now...')
-      target_seasons = Season.where(watchable: false)
+      updated_season_titles = YAMLFile.open(FixtureDataTask::RENAMED_SEASON_LIST_PATH)
+      target_seasons = Season.where(watchable: false).where.not(title: updated_season_titles)
       target_seasons.each { |season| create_or_update_data(season.to_h) }
     end
 
