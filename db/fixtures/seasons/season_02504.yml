@@ -1,0 +1,101 @@
+--- !ruby/hash:SeasonHash
+title: GRANBLUE FANTASY The Animation Season2
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/0/23010_1_6.png?1569828608000
+outline: いま再び、広大な蒼の空へ―――空に憧れ、星の島を目指す少年は、蒼い髪の不思議な少女と、運命と生命を共にすることになった。空へと旅立った少年と少女が出会ったのは、信頼できる仲間たち、そして空を渡る騎空挺。帝国の追撃を躱し、星晶獣との邂逅を経て、二人は絆を深め、成長していく。だが、星の島への道程はまだ半ば。少年と少女は、仲間とともに次なる旅路へ進む。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 平田広明
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井麻美
+  type: cast
+- !ruby/hash:TagHash
+  name: 米澤円
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：MAPPA
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Cygames
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：西木康智
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：崔ふみひで
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：成田勤
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：梅本唯
+  type: staff
+- !ruby/hash:TagHash
+  name: GRANBLUE FANTASYシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#01"
+  title: 騎空士の空
+  description: 故郷のザンクティンゼルを飛び立ったグランは、星の島を目指し騎空団の仲間と共に旅を続ける。よろず屋シェロカルテからの依頼を受け、田舎の小さな島へ向かったグラン達。その島では少し前から轟音が続いており、ルリアはかすかに星晶獣の気配を感じ取る。音の正体を探る中で、グランは谷底に倒れているドラフの少女、アリーザを見つける。助け出したアリーザから話を聞くと、アリーザは島に響く轟音について心当たりがあるという。島の人々のためにも、グラン達がもう一度谷底へ向かうと……<br><br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
+    円／ノア:石川界人<br><br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
+    圭介／音楽:成田勤、西木康智／音響監督:梅本 唯／音響効果:和田俊也／音響制作:dugout／アニメーション制作:MAPPA／製作:GRANBLUE FANTASY
+    The Animation Project<br><br>©GRANBLUE FANTASY The Animation Project<br><br>次話→so35793816
+  length_seconds: 1420
+  content_id: so35763686
+  default_thread_id: 1570067643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35763686/35763686.63213229
+cast: "[キャスト]<br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
+  円／ノア:石川界人"
+staff: "[スタッフ]<br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
+  圭介／音楽:成田勤、西木康智／音響監督:梅本 唯／音響効果:和田俊也／音響制作:dugout／アニメーション制作:MAPPA／製作:GRANBLUE FANTASY
+  The Animation Project"
+produced_year: "[製作年]<br>2019年"
+copyright: "©GRANBLUE FANTASY The Animation Project"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: GRANBLUE FANTASY The Animation
