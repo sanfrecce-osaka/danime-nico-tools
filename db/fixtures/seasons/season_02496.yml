@@ -1,0 +1,438 @@
+--- !ruby/hash:SeasonHash
+title: 魔動王グランゾート
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/38/4/11384_1_6.png?1552446525000
+outline: "『魔神英雄伝ワタル』の後番組として制作された作品。小学5年生の遙大地が、福引きで月旅行を引き当てたところから物語は始まる。月の地下世界「ラビルーナ」で暮らす耳長族と出会った大地は、耳長族の少女グリグリや仲間の魔動戦士と共に、ラビルーナを支配するために異世界からやって来た「邪動族」と戦うことになる。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡洋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 龍田直樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 島香裕
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木れい子
+  type: cast
+- !ruby/hash:TagHash
+  name: 安達忍
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田辰也
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：広井王子
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：スタジオライブ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：井内秀治
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
+  type: other
+- !ruby/hash:TagHash
+  name: 1989年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 魔法の月から顔が出た！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>次話→so35569345
+  length_seconds: 1444
+  content_id: so35569344
+  default_thread_id: 1566321611
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569344/35569344.39718136
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: この弓引くのはだーれ？
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569344←前話｜次話→so35569346　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569345
+  default_thread_id: 1566321609
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569345/35569345.88993248
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ガスくん風にのる！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569345←前話｜次話→so35569347　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569346
+  default_thread_id: 1566321615
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569346/35569346.57329331
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: コマを回せば三人目！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569346←前話｜次話→so35569348　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569347
+  default_thread_id: 1566321604
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569347/35569347.91679083
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ドロボーにはドロボー!?
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569347←前話｜次話→so35569362　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569348
+  default_thread_id: 1566321607
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569348/35569348.38212379
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 一発勝負！水上コマ回し
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569348←前話｜次話→so35569363　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569362
+  default_thread_id: 1566322024
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569362/35569362.42855212
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 鏡よ鏡どっちが早い？
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569362←前話｜次話→so35569364　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569363
+  default_thread_id: 1566322029
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569363/35569363.5787058
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 竜巻爺さんがんばる！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569363←前話｜次話→so35569385　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569364
+  default_thread_id: 1566322027
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569364/35569364.38307891
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 初めまして！ラビルーナ
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569364←前話｜次話→so35569386　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569385
+  default_thread_id: 1566322987
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569385/35569385.9070511
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 森の秘密は何だ！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569385←前話｜次話→so35569387　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569386
+  default_thread_id: 1566323413
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569386/35569386.68017957
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 肝試しってコワイ！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569386←前話｜次話→so35569388　第一話→so35569344
+  length_seconds: 1444
+  content_id: so35569387
+  default_thread_id: 1566322743
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569387/35569387.93495671
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: これが噂のマジカルゴ？
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569387←前話｜次話→so35569389　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569388
+  default_thread_id: 1566322983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569388/35569388.21484732
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 世界樹が泣いている？
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569388←前話｜次話→so35569390　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569389
+  default_thread_id: 1566322989
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569389/35569389.47954329
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 笑ってよ！世界樹さん
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569389←前話｜次話→so35569391　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569390
+  default_thread_id: 1566322747
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569390/35569390.42618112
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: カメカメ島の大運動会
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569390←前話｜次話→so35569392　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569391
+  default_thread_id: 1566323404
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569391/35569391.47531724
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: のってうかんで大津波
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569391←前話｜次話→so35569393　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569392
+  default_thread_id: 1566323402
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569392/35569392.34700336
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: キケンがグルグル
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569392←前話｜次話→so35569394　第一話→so35569344
+  length_seconds: 1444
+  content_id: so35569393
+  default_thread_id: 1566323407
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569393/35569393.14746054
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: みんな一緒に滝登り！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569393←前話｜次話→so35569395　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569394
+  default_thread_id: 1566323409
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569394/35569394.87303412
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: シャボン玉もぐった！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569394←前話｜次話→so35569396　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569395
+  default_thread_id: 1566323415
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569395/35569395.90218697
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 潮ふけやれふけ大鯨
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569395←前話｜次話→so35569397　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569396
+  default_thread_id: 1566323411
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569396/35569396.32805564
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: やってきました大昔
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569396←前話｜次話→so35569398　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569397
+  default_thread_id: 1566322622
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569397/35569397.21435629
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 恐竜君はぼくらの味方
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569397←前話｜次話→so35569399　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569398
+  default_thread_id: 1566322749
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569398/35569398.2183699
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: お日さまが消えてゆく
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569398←前話｜次話→so35569432　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569399
+  default_thread_id: 1566322745
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569399/35569399.88186952
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: ふりだしにもどる！？
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569399←前話｜次話→so35569433　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569432
+  default_thread_id: 1566323827
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569432/35569432.70050248
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: かぐや姫をさがせ！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569432←前話｜次話→so35569434　第一話→so35569344
+  length_seconds: 1444
+  content_id: so35569433
+  default_thread_id: 1566323834
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569433/35569433.1169777
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: スーパーはつよい！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569433←前話｜次話→so35569435　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569434
+  default_thread_id: 1566323830
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569434/35569434.89108109
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: ただいま！ラビルーナ
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569434←前話｜次話→so35569436　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569435
+  default_thread_id: 1566323824
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569435/35569435.87137295
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 火あそびはタブー！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569435←前話｜次話→so35569437　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569436
+  default_thread_id: 1566323822
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569436/35569436.45363856
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: ぬいぐるみで歌おう！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569436←前話｜次話→so35569438　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569437
+  default_thread_id: 1566323828
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569437/35569437.15160142
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: モクモク山に風が吹く
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569437←前話｜次話→so35569439　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569438
+  default_thread_id: 1566323836
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569438/35569438.93745985
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: ドラゴン親子の大変身
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569438←前話｜次話→so35569455　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569439
+  default_thread_id: 1566323832
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569439/35569439.88934115
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: かき氷でスーイスイ！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569439←前話｜次話→so35569456　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569455
+  default_thread_id: 1566324426
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569455/35569455.49578767
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: この花はオレンダ！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569455←前話｜次話→so35569457　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569456
+  default_thread_id: 1566324430
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569456/35569456.23428182
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: スベッたら大人！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569456←前話｜次話→so35569458　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569457
+  default_thread_id: 1566324783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569457/35569457.24569860
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: ふしぎコンビ行きます
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569457←前話｜次話→so35569459　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569458
+  default_thread_id: 1566324428
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569458/35569458.90538067
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 手作りヒコーキ飛んだ！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569458←前話｜次話→so35569460　第一話→so35569344
+  length_seconds: 1446
+  content_id: so35569459
+  default_thread_id: 1566324364
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569459/35569459.73949474
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: とけない氷の謎をとけ
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569459←前話｜次話→so35569461　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569460
+  default_thread_id: 1566324432
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569460/35569460.32183644
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: ルナがおもーい！！
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569460←前話｜次話→so35569462　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569461
+  default_thread_id: 1566324363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569461/35569461.14941253
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: おめざめ！暗黒大邪神
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569461←前話｜次話→so35569463　第一話→so35569344
+  length_seconds: 1443
+  content_id: so35569462
+  default_thread_id: 1566324368
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569462/35569462.35622921
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: はじめましてお母さん
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569462←前話｜次話→so35569464　第一話→so35569344
+  length_seconds: 1445
+  content_id: so35569463
+  default_thread_id: 1566324424
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569463/35569463.38878706
+- !ruby/hash:EpisodeHash
+  episode_no: 最終話
+  title: ただいま！お母さん
+  description: 遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹<br><br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平<br><br>©サンライズ・R<br><br>so35569463←前話　第一話→so35569344
+  length_seconds: 1413
+  content_id: so35569464
+  default_thread_id: 1566324785
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35569464/35569464.692667
+cast: "[キャスト]<br>遙大地:松岡洋子／ヤマモト ガス:松田辰也／ラビ:安達忍／V-メイ:鈴木れい子／グリグリ:林原めぐみ／アグラマント:緒方賢一／シャマン:山寺宏一／ナブー:島香裕／ドクターバイブル:龍田直樹"
+staff: "[スタッフ]<br>原作:矢立肇、広井王子／総監督:井内秀治／キャラクターデザイン:スタジオライブ／メカニカルデザイン:大河原邦男／音楽:田中公平"
+produced_year: "[製作年]<br>1989年"
+copyright: "©サンライズ・R"
+related_seasons: !ruby/array:Hashie::Array []
