@@ -1,0 +1,98 @@
+--- !ruby/hash:SeasonHash
+title: あひるの空
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/6/23046_1_6.png?1569391207000
+outline: バスケットボールでは決して有利ではない小柄な体格の車谷 空。身長を理由に中学時代スタメンに選ばれることのなかった空は、高校バスケ部に期待を膨らませて九頭龍高校、通称クズ高に入学。ところがバスケ部はほとんど機能停止状態。とてもバスケをできる環境ではなかった。しかし、空はバスケへの熱量で、クズ高バスケ部メンバーとぶつかり合いながらも、共に成長していく。次々に直面するあらゆる困難に、クズ高バスケ部メンバーはどのように立ち向かって行くのか…！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮野真守
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 中井和哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 谷山紀章
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ディオメディア
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：草川啓造
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：堤博明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：キングレコード
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：玉木慎吾
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：本多美乃
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：日向武史
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: みにくいあひるの子
+  description: 約149cmと小柄ながら、バスケットボールが大好きな少年・車谷 空。彼は入学したばかりの九頭龍高校（クズ高）で、バスケ部に入部しようと張り切っていた。広い体育館で宝物のバッシュを履いて練習をしていると、そこに現れたのはいかにもガラの悪い生徒たち。その不良たちこそクズ高バスケ部の部員。男子バスケ部は荒れ果て、事実上機能停止状態となっていたのだった。主将の百春からバスケをしないよう脅され、部室に閉じ込めれられる空。同じバスケ部だという千秋の協力で何とか脱出し、体育館に向かうが、またも百春率いるバスケ部員が現れ…。<br><br>車谷
+    空:梶 裕貴／花園百春:内田雄馬／花園千秋:小西克幸／夏目健二:谷山紀章／茂吉 要:宮野真守／安原真一:八代 拓／鍋島竜平:堀井茶渡／茶木正広:KENN／薮内
+    円:千本木彩花／七尾奈緒:谷口夢奈／車谷由夏:遠藤 綾／千葉真一:中井和哉／常盤時貴:斉藤壮馬／蒲地太郎:福山 潤／香取真吾:古川 慎／高橋克己:浪川大輔／児島幸成:吉野裕行／白石
+    静:櫻井孝宏／八熊重信:梅原裕一郎／不破 豹:松岡禎丞／上木鷹山:上村祐翔<br><br>原作:日向武史（講談社『週刊少年マガジン』連載）／総監督:草川啓造／監督:玉木慎吾／シリーズ構成:雑破
+    業／キャラクターデザイン:本多美乃／プロップデザイン:槙田路子／バッシュデザイン:福島秀機／美術監督:高橋麻穂／色彩設計:砂子美幸／撮影監督:大竹洋子／編集:小島俊彦／音響監督:明田川仁／音楽:堤
+    博明／音楽制作:キングレコード／アニメーション制作:ディオメディア／製作:「あひるの空」製作委員会<br><br>©日向武史・講談社／「あひるの空」製作委員会・テレビ東京
+  length_seconds: 1414
+  content_id: so35782031
+  default_thread_id: 1570410425
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35782031/35782031.93030527
+cast: "[キャスト]<br>車谷 空:梶 裕貴／花園百春:内田雄馬／花園千秋:小西克幸／夏目健二:谷山紀章／茂吉 要:宮野真守／安原真一:八代 拓／鍋島竜平:堀井茶渡／茶木正広:KENN／薮内
+  円:千本木彩花／七尾奈緒:谷口夢奈／車谷由夏:遠藤 綾／千葉真一:中井和哉／常盤時貴:斉藤壮馬／蒲地太郎:福山 潤／香取真吾:古川 慎／高橋克己:浪川大輔／児島幸成:吉野裕行／白石
+  静:櫻井孝宏／八熊重信:梅原裕一郎／不破 豹:松岡禎丞／上木鷹山:上村祐翔"
+staff: "[スタッフ]<br>原作:日向武史（講談社『週刊少年マガジン』連載）／総監督:草川啓造／監督:玉木慎吾／シリーズ構成:雑破 業／キャラクターデザイン:本多美乃／プロップデザイン:槙田路子／バッシュデザイン:福島秀機／美術監督:高橋麻穂／色彩設計:砂子美幸／撮影監督:大竹洋子／編集:小島俊彦／音響監督:明田川仁／音楽:堤
+  博明／音楽制作:キングレコード／アニメーション制作:ディオメディア／製作:「あひるの空」製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©日向武史・講談社／「あひるの空」製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array []

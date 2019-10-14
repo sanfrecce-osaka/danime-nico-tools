@@ -1,0 +1,71 @@
+--- !ruby/hash:SeasonHash
+title: 星合の空
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/88/8/22888_1_6.png?1568862217000
+outline: 舞台は、廃部寸前の男子中学ソフトテニス部。様々な想いを抱く少年たちはソフトテニスを通してどこへ向かうのか。少年たちの等身大の青春ストーリー
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊永利行
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林裕介
+  type: cast
+- !ruby/hash:TagHash
+  name: 畠中祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 天﨑滉平
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤元
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤圭輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：赤根和樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：赤根和樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：jizue
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 第1話
+  description: 志城南中に転校してきたシングルペアレントの少年・桂木眞己は、幼馴染だった新城柊真と再会をする。働く母に代わって家事全般をこなす眞己。そんな眞己とは違い、男子ソフトテニス部で部長をしている柊真は、最近退部者が出たせいで７人だけになってしまった弱小チームを、なんとか立て直そうと奮闘していた。しかし、夏の大会で最低一勝しないと廃部になることが決定してしまい…。一縷の望みをかけ、柊真は眞己を部活に誘う。<br><br>桂木眞己:花江夏樹／新城柊真:畠中祐／雨野樹:松岡禎丞／布津凜太朗:佐藤元／曽我翅:豊永利行／竹ノ内晋吾:佐藤圭輔／月ノ瀬直央:小林
+    裕介／石上太洋:天﨑 滉平<br><br>原作・脚本・監督:赤根和樹／音楽:jizue<br><br>©赤根和樹・エイトビット/星合の空製作委員会
+  length_seconds: 1444
+  content_id: so35790013
+  default_thread_id: 1570584422
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35790013/35790013.78591905
+cast: "[キャスト]<br>桂木眞己:花江夏樹／新城柊真:畠中祐／雨野樹:松岡禎丞／布津凜太朗:佐藤元／曽我翅:豊永利行／竹ノ内晋吾:佐藤圭輔／月ノ瀬直央:小林
+  裕介／石上太洋:天﨑 滉平"
+staff: "[スタッフ]<br>原作・脚本・監督:赤根和樹／音楽:jizue"
+produced_year: "[製作年]<br>2019年"
+copyright: "©赤根和樹・エイトビット/星合の空製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
