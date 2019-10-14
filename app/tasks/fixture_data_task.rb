@@ -20,7 +20,12 @@ class FixtureDataTask
     def update_not_watchable_seasons
       initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
-      target_seasons = SeasonHash.already_created.reject(&:watchable)
+      updated_season_titles = YAMLFile.open(FixtureDataTask::RENAMED_SEASON_LIST_PATH)
+      target_seasons =
+          SeasonHash
+            .already_created
+            .reject(&:watchable)
+            .reject { |season| updated_season_titles.include?(season.title) }
       target_seasons.each { |target_season| create_season(target_season) }
     end
 
