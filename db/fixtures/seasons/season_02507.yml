@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: 兄に付ける薬はない！3-快把我哥帯走3-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/2/23012_1_6.png?1569308624000
+outline: 中国での合計閲覧数が約30億回の人気Web漫画のアニメ化。バイオレンスな妹が…おバカな兄を殴る蹴る！？兄弟愛！恋！グルメ…?　全部入りの学園コメディ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野賢章
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：ラレコ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：イマジニア株式会社
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ファンワークス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：PlanetCartoon
+  type: staff
+- !ruby/hash:TagHash
+  name: 兄に付ける薬はない！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: EPISODE1
+  title: 青春的潮騒
+  description: 目の前に広がる青い空と海にテンションが上がるメンバー。そんな中、時分だけは、ある事が気になって楽しめずにいた・・・。妹を思う兄の心とは!?<br><br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹<br><br>脚本・監督:ラレコ／プロデュース:Tencent
+    Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet Cartoon<br><br>©Tencent.
+    All Rights Reserved.<br><br>次話→so35782027
+  length_seconds: 210
+  content_id: so35767861
+  default_thread_id: 1570153803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35767861/35767861.41789681
+cast: "[キャスト]<br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹"
+staff: "[スタッフ]<br>脚本・監督:ラレコ／プロデュース:Tencent Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet
+  Cartoon"
+produced_year: "[製作年]<br>2019年"
+copyright: "©Tencent. All Rights Reserved."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 兄に付ける薬はない！-快把我哥帯走-
+- !ruby/hash:SeasonHash
+  title: 兄に付ける薬はない！2-快把我哥帯走2-
