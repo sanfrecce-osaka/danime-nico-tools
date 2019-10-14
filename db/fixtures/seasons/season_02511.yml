@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: アニメ「Z/X Code reunion」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/02/6/23026_1_6.png?1569308517000
+outline: 5つ異世界の門が開き、ゼクスと呼ばれるモノたちが世界に現れて数年。当初は争っていた人類やゼクス達との関係も安定を見せ始める。主人公各務原あづみは5つある異世界の1つ、「青の世界」より自らの病の治療の代償にリゲルと呼ばれるゼクスをパートナーとし、とある学園への入学を命じられる。その入学当日、学園は世界を滅ぼそうとする存在「イネルマ」との戦いに突入する。戦いの混乱の中、あづみは偶然学園が対イネルマ用として建設していたドライブシャフトで4人の生徒と出会い、彼女たちと協力して「イネルマ」と戦うも、ピンチに陥った彼女たちを救ったのは学園の生徒会チームであった。即席チームとして誕生した彼女たちは正式なチームとして学園の仲間たちと共に「イネルマ」との戦いに身を投じていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 小倉唯
+  type: cast
+- !ruby/hash:TagHash
+  name: 水瀬いのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田彩
+  type: cast
+- !ruby/hash:TagHash
+  name: 長縄まりあ
+  type: cast
+- !ruby/hash:TagHash
+  name: 富田美憂
+  type: cast
+- !ruby/hash:TagHash
+  name: 白井悠介
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木愛奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 祖山桃子
+  type: cast
+- !ruby/hash:TagHash
+  name: 星谷美緒
+  type: cast
+- !ruby/hash:TagHash
+  name: 春村奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：ブロッコリー
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：パッショーネ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：末田宜史
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：桑原聖
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：せれす
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：Arte Refact
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: アニメ「Z/X Code reunion」
+  description: 5つ異世界との門が開き、ゼクスと呼ばれるモノたちが世界に現れて数年。当初は争っていた人類やゼクス達との関係も安定を見せ始める。不治の病に侵されていた少女・各務原あづみは5つある異世界の内のひとつ「青の世界」から病の治療の代償にリゲルと呼ばれるゼクスと共にとある学園への入学を命じられる。あづみとリゲル、出会ったばかりでぎこちない2人は駅で天ノ川衣奈と出会う、彼女もまた学園に入学する生徒の一人だった。そしてその入学当日、学園は新たなる脅威に直面する。<br><br>各務原あづみ:小倉唯／リゲル:内田
+    彩／天ノ川衣奈:水瀬いのり／東雲纏:長縄まりあ／鬼神野シュリ:鈴木愛奈／月形由仁:富田美憂／ネフライト:白井悠介／ゾンネ:星谷美緒／ムラマサ:山口 愛／アムリタ:春村奈々／イラ:祖山桃子<br><br>原作:「Z/X
+    -Zillions of enemy X-」（ブロッコリー）／コミック原作:浦畑達彦（ハイスコアガール、ひなこのーと）／キャラクター原案:藤真拓哉（魔法少女リリカルなのはViVid）／監督:末田宜史／キャラクターデザイン:せれす／シリーズ構成:浦畑達彦／脚本:浦畑達彦、イシノアツオ／アニメーション制作:パッショーネ／音楽:桑原聖／音楽制作:Arte
+    Refact／OP、ED:Elements Garden<br><br>©Z/X Code reunion製作委員会<br><br>次話→so35797790
+  length_seconds: 1420
+  content_id: so35782029
+  default_thread_id: 1570410546
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35782029/35782029.50206759
+cast: "[キャスト]<br>各務原あづみ:小倉唯／リゲル:内田 彩／天ノ川衣奈:水瀬いのり／東雲纏:長縄まりあ／鬼神野シュリ:鈴木愛奈／月形由仁:富田美憂／ネフライト:白井悠介／ゾンネ:星谷美緒／ムラマサ:山口
+  愛／アムリタ:春村奈々／イラ:祖山桃子"
+staff: "[スタッフ]<br>原作:「Z/X -Zillions of enemy X-」（ブロッコリー）／コミック原作:浦畑達彦（ハイスコアガール、ひなこのーと）／キャラクター原案:藤真拓哉（魔法少女リリカルなのはViVid）／監督:末田宜史／キャラクターデザイン:せれす／シリーズ構成:浦畑達彦／脚本:浦畑達彦、イシノアツオ／アニメーション制作:パッショーネ／音楽:桑原聖／音楽制作:Arte
+  Refact／OP、ED:Elements Garden"
+produced_year: "[製作年]<br>2019年"
+copyright: "©Z/X Code reunion製作委員会"
+related_seasons: !ruby/array:Hashie::Array []
