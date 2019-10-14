@@ -44,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 監督：所俊克
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：ティアスタジオ
+  name: キャラクターデザイン：たむらかずひこ
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：たむらかずひこ
+  name: アニメーション制作：ティアスタジオ
   type: staff
 - !ruby/hash:TagHash
   name: 原作：蘇募ロウ

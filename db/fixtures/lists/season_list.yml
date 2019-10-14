@@ -7592,3 +7592,6 @@
 - !ruby/hash:Hashie::Mash
   title: 勇者特急マイトガイン
   first_episode_url: http://www.nicovideo.jp/watch/so35569945
+- !ruby/hash:Hashie::Mash
+  title: "「銀河英雄伝説 Die Neue These 邂逅」"
+  first_episode_url: http://www.nicovideo.jp/watch/so33008268

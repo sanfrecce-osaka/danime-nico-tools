@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 門脇舞以
   type: cast
 - !ruby/hash:TagHash
-  name: 野川さくら
+  name: 園崎未恵
   type: cast
 - !ruby/hash:TagHash
-  name: 園崎未恵
+  name: 野川さくら
   type: cast
 - !ruby/hash:TagHash
   name: 大橋歩夕

@@ -502,6 +502,26 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第32話'
           title: "噂の刑事エン＆ゲキ／凶悪宇宙警官 デスコップ 登場"
+  - id: 26
+    title: 'Get Backers'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第1話'
+          title: "イニシャルはG&B"
+        nico_branch:
+          episode_no: '第1話'
+          title: "イニシャルはG＆B"
+  - id: 27
+    title: 'RAVE'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第40話'
+          title: "0065プルー・レジェンド"
+        nico_branch:
+          episode_no: '第40話'
+          title: "0065プルー・レジェンド "
 
 seasons_with_different_title:
   -
