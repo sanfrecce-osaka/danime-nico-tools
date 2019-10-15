@@ -74,6 +74,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1569893405
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35755425/35755425.42258960
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 不気味なナベリウス
+  description: 多くの犠牲を出した新人訓練から、無事に生還したアッシュとアフィン。アークスとして初の任務に就くことになった二人は、新人訓練で助けた謎の少女、マトイと共に再びナベリウスに降り立つ。指揮官のコハナと共に、ナベリウスで活発化したダーカーたちを殲滅しようとする三人。しかし、そこで新たな脅威に直面する……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35755425←前話｜次話→so35797781　第一話→so35755425
+  length_seconds: 1420
+  content_id: so35786144
+  default_thread_id: 1570498149
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35786144/35786144.14920104
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"
