@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 稲田徹
+  name: 瀬戸麻沙美
   type: cast
 - !ruby/hash:TagHash
-  name: 瀬戸麻沙美
+  name: 稲田徹
   type: cast
 - !ruby/hash:TagHash
   name: 種田梨沙
