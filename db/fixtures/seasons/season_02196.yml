@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 諏訪部順一
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 水樹奈々
   type: cast
 - !ruby/hash:TagHash
-  name: 水樹奈々
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
   name: 日野聡
