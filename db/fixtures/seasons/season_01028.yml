@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: To LOVEる-とらぶる-ダークネス
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/91/3/20913_1_6.png?1460617342000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/91/3/20913_1_6.png?1551266915000
 outline: 今回のメインはモモとヤミ。モモが企む、ちょっとHな“楽園(ハーレム)計画”とは・・・？おなじみのヒロインたちももちろん登場、シリアス要素からサービスシーンまで、更にパワーアップ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -20,22 +20,22 @@ tags: !ruby/array:Hashie::Array
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 戸松遥
-  type: cast
-- !ruby/hash:TagHash
   name: 名塚佳織
   type: cast
 - !ruby/hash:TagHash
-  name: 渡辺明乃
+  name: 福圓美里
   type: cast
 - !ruby/hash:TagHash
-  name: 福圓美里
+  name: 渡辺明乃
   type: cast
 - !ruby/hash:TagHash
   name: 伊藤かな恵
@@ -49,6 +49,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 柚木涼香
   type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：XEBEC
+  type: staff
 - !ruby/hash:TagHash
   name: 音楽：渡辺剛
   type: staff
@@ -65,9 +68,6 @@ tags: !ruby/array:Hashie::Array
   name: 原作：長谷見沙貴
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：XEBEC
-  type: staff
-- !ruby/hash:TagHash
   name: 製作：とらぶるダークネス製作委員会
   type: staff
 - !ruby/hash:TagHash
@@ -77,10 +77,13 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 集英社
+  name: 製作年：2012年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2012年
+  name: 2012年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
   type: other
 - !ruby/hash:TagHash
   name: 妹
@@ -98,7 +101,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039104
   default_thread_id: 1523498556
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039104
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039104/33039104.94642648
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: Doubt and dish～疑惑と料理～
@@ -108,7 +111,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039223
   default_thread_id: 1523501132
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039223
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039223/33039223.48323201
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: Each speculation～それぞれの思惑～
@@ -118,7 +121,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039113
   default_thread_id: 1523498983
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039113
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039113/33039113.25615247
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: True smile～過去と友達と笑顔と～
@@ -128,7 +131,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039112
   default_thread_id: 1523499011
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039112
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039112/33039112.26576840
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: A man？ Woman～変わり行くもの達～
@@ -138,7 +141,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039111
   default_thread_id: 1523498826
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039111
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039111/33039111.47490292
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: Metamorphose～変わり行く時…～
@@ -148,7 +151,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039110
   default_thread_id: 1523498758
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039110
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039110/33039110.75754399
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: Sisters～幸せの発明品～
@@ -158,7 +161,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039109
   default_thread_id: 1523499048
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039109
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039109/33039109.14904225
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: Bad mood～幸せの絆～
@@ -168,7 +171,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039108
   default_thread_id: 1523499041
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039108
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039108/33039108.65596210
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: True self～闇の中の素顔～
@@ -178,7 +181,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039107
   default_thread_id: 1523499007
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039107
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039107/33039107.39467260
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: Past～明日につながる記憶～
@@ -188,7 +191,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039106
   default_thread_id: 1523498981
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039106
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039106/33039106.61230693
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: The right thing～生き方って何？～
@@ -198,7 +201,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039105
   default_thread_id: 1523499047
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039105
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039105/33039105.71546194
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: Room～乙女の想い～
@@ -208,7 +211,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039090
   default_thread_id: 1523498979
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039090
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039090/33039090.70927368
 cast: "[キャスト]<br>モモ・べリア・デビルーク:豊崎愛生／金色の闇:福圓美里／黒咲芽亜:井口裕香／結城リト:渡辺明乃／ララ・サタリン・デビルーク:戸松
   遥／西連寺春菜:矢作紗友里／ナナ・アスタ・デビルーク:伊藤かな恵／結城美柑:花澤香菜／古手川唯:名塚佳織／籾岡里紗&セリーヌ:柚木涼香／ペケ:新井里美／お静:能登麻美子"
 staff: "[スタッフ]<br>原作:矢吹健太朗・長谷見沙貴(集英社｢ジャンプスクエア｣連載)／監督・シリーズ構成:大槻敦史／キャラクターデザイン:岡勇一／音響監督:明田川仁／音楽:渡辺剛／アニメーション制作:XEBEC／製作:とらぶるダークネス製作委員会"
@@ -216,6 +219,6 @@ produced_year: "[製作年]<br>2012年"
 copyright: "©矢吹健太朗・長谷見沙貴／集英社・とらぶるダークネス製作委員会"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: もっと To LOVEる-とらぶる-
-- !ruby/hash:SeasonHash
   title: To LOVEる-とらぶる-
+- !ruby/hash:SeasonHash
+  title: もっと To LOVEる-とらぶる-
