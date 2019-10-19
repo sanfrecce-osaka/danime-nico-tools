@@ -36,13 +36,13 @@ tags: !ruby/array:Hashie::Array
   name: 石原凡
   type: cast
 - !ruby/hash:TagHash
+  name: 川村海乃
+  type: cast
+- !ruby/hash:TagHash
   name: 柚木尚子
   type: cast
 - !ruby/hash:TagHash
   name: 木内太郎
-  type: cast
-- !ruby/hash:TagHash
-  name: うのちひろ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：OLM

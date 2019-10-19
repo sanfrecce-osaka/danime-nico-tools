@@ -91,7 +91,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35786157
   default_thread_id: 1570498627
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35786157/35786157.42440269
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35821644/35821644.44614445
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 聖戦の記憶

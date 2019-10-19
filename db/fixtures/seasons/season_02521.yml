@@ -63,6 +63,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1570584422
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35790013/35790013.78591905
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 第2話
+  description: 柊真と“契約”を交わした眞己は、約束どおり柊真のペアとしてソフトテニス部に入部する。副部長の凜太朗や太洋、直央は概ね好意的に眞己を受け入れてくれるが、負けん気の強い晋吾をはじめとした翅や樹の３人は、あまりいい顔をしない。何を言われても気にしない眞己をよそに、そんな仲間の態度に、柊真は焦りつつ苛立ちを隠せないでいた。一方、そんな彼らの様子を夏南子と悠汰が見つめていた。<br><br>桂木眞己:花江夏樹／新城柊真:畠中祐／雨野樹:松岡禎丞／布津凜太朗:佐藤元／曽我翅:豊永利行／竹ノ内晋吾:佐藤圭輔／月ノ瀬直央:小林
+    裕介／石上太洋:天﨑 滉平<br><br>原作・脚本・監督:赤根和樹／音楽:jizue<br><br>©赤根和樹・エイトビット/星合の空製作委員会<br><br>so35790013←前話　第一話→so35790013
+  length_seconds: 1444
+  content_id: so35820973
+  default_thread_id: 1571189351
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35820973/35820973.22829573
 cast: "[キャスト]<br>桂木眞己:花江夏樹／新城柊真:畠中祐／雨野樹:松岡禎丞／布津凜太朗:佐藤元／曽我翅:豊永利行／竹ノ内晋吾:佐藤圭輔／月ノ瀬直央:小林
   裕介／石上太洋:天﨑 滉平"
 staff: "[スタッフ]<br>原作・脚本・監督:赤根和樹／音楽:jizue"
