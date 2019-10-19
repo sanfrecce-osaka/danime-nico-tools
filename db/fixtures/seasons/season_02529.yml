@@ -1,0 +1,62 @@
+--- !ruby/hash:SeasonHash
+title: 劇団スフィア
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/9/23049_1_6.png?1571209207000
+outline: 結成10周年を迎えた声優ユニット「スフィア」が小劇場界で活躍中の5人の脚本家&演出家とコラボする初主演ドラマ。各監督が制作する作品を前編+後編の2話完結。スフィアメンバーが、コメディー、サスペンス、SF、シリアス、ホラーなど様々なジャンルに挑戦し、与えられたシチュエーションの中で登場人物を演じきる。また劇作家ならではのノンストップの演出が、まるで演劇を観ているような新しいスタイルのドラマ。ドラマファンも舞台ファンも声優ファンも必見。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 高垣彩陽
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿美菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：徳尾浩司
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：岸本鮎佳
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：西条みつとし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山田佳奈
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：益山貴司
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 劇団スフィア
+  description: バンド練習をするためにユキが所有する非常用シェルターにやってきたミサ、アサコ、クルミの仲良し4人組。アルバム作りに没頭していた4人だったが、ある夜、激しい爆発音により状況は一変する――。外の世界と遮断されてしまった4人がパニックに陥る中、シェルターに警告ブザーが鳴り響く…。扉の向こうにいるのは何者なのか？
+    4人は無事にシェルターから無事に生還できるのか？ 新感覚のワンシュチュエーションドラマ。ノンストップの劇的ドラマが幕を開ける！<br><br>キャスト:寿
+    美菜子、高垣彩陽、戸松 遥、豊崎愛生<br><br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）<br><br>©2019「劇団スフィア」製作委員会
+  length_seconds: 1425
+  content_id: so35820976
+  default_thread_id: 1571189582
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35820976/35820976.68922466
+cast: "[キャスト]<br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生"
+staff: "[スタッフ]<br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）"
+produced_year: "[製作年]<br>2019年"
+copyright: "©2019「劇団スフィア」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: ライフル・イズ・ビューティフル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/4/23014_1_6.png?1569308586000
+outline: 距離10m、直径1mm、弾数60発、競技時間45分硬いジャケットを身にまとい、見た目よりもずっと気力を振り絞る過酷な勝負の世界──ビームライフル競技。……のはずが、誰もわかってくれないのが知名度の低いスポーツのつらいところ。でも私、世界を目指してます！千鳥高校に偶然集った、小倉ひかり、渋沢泉水、姪浜エリカ、五十嵐雪緒の女子高生4人がおくる、ゆるーいけどひたむきな射撃部ライフ!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋未奈美
+  type: cast
+- !ruby/hash:TagHash
+  name: 田所あずさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井ゆきよ
+  type: cast
+- !ruby/hash:TagHash
+  name: 石見舞菜香
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原夏海
+  type: cast
+- !ruby/hash:TagHash
+  name: 河野ひより
+  type: cast
+- !ruby/hash:TagHash
+  name: Machico
+  type: cast
+- !ruby/hash:TagHash
+  name: 南早紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 熊田茜音
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：宝野聡史
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高橋正典
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Studio 3Hz
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：向川原憲
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サルミアッキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "『ホワット・イズ・ビーム』"
+  description: 千鳥高校に入学したひかりは、射撃部の廃部を知って大ショック! だが幼なじみの泉水と共にエリカ、雪緒という新たな部員を見つけ、千鳥高校射撃部のゆるーいけどひたむきな射撃部ライフをスタートさせた。<br><br>小倉ひかり:Machico／渋沢泉水:熊田茜音／姪浜エリカ:南
+    早紀／五十嵐雪緒:八巻アンナ／東雲あきら:藤原夏海／黒井ミサ:上田麗奈／坂下花恋:高橋未奈美／望月涼子:石見舞菜香／朝倉零:M・A・O／鶴巻裕子:藤井ゆきよ／辻
+    まりな:田所あずさ／当麻あこ:河野ひより／小倉のどか:名塚佳織<br><br>原作:「ライフル・イズ・ビューティフル」サルミアッキ（集英社「となりのヤングジャンプ」「ヤンジャン！」「少年ジャンプ＋」連載）／監督:高橋正典／シリーズ構成・脚本:髙橋龍也／キャラクターデザイン・総作画監督:向川原
+    憲／プロップデザイン・美術デザイン:石口 十／美術監督:大西達朗（草薙）／色彩設計:井上あきこ（Wish）／編集:定松 剛／撮影監督:染谷和正（T2 studio）／ＨＯＡ:トライスラッシュ／グラフィックアート:荒木宏文／音響監督:明田川
+    仁／音楽:宝野聡史／アニメーション制作:Studio 3Hz／協力:公益社団法人日本ライフル射撃協会、興東電子株式会社、株式会社銀座銃砲店／取材協力:中央大学附属高等学校
+    ライフル射撃部<br><br>©サルミアッキ／集英社・千鳥高校射撃部<br><br>次話→so35824793
+  length_seconds: 1440
+  content_id: so35797782
+  default_thread_id: 1570757285
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35797782/35797782.61810197
+cast: "[キャスト]<br>小倉ひかり:Machico／渋沢泉水:熊田茜音／姪浜エリカ:南 早紀／五十嵐雪緒:八巻アンナ／東雲あきら:藤原夏海／黒井ミサ:上田麗奈／坂下花恋:高橋未奈美／望月涼子:石見舞菜香／朝倉零:M・A・O／鶴巻裕子:藤井ゆきよ／辻
+  まりな:田所あずさ／当麻あこ:河野ひより／小倉のどか:名塚佳織"
+staff: "[スタッフ]<br>原作:「ライフル・イズ・ビューティフル」サルミアッキ（集英社「となりのヤングジャンプ」「ヤンジャン！」「少年ジャンプ＋」連載）／監督:高橋正典／シリーズ構成・脚本:髙橋龍也／キャラクターデザイン・総作画監督:向川原
+  憲／プロップデザイン・美術デザイン:石口 十／美術監督:大西達朗（草薙）／色彩設計:井上あきこ（Wish）／編集:定松 剛／撮影監督:染谷和正（T2 studio）／ＨＯＡ:トライスラッシュ／グラフィックアート:荒木宏文／音響監督:明田川
+  仁／音楽:宝野聡史／アニメーション制作:Studio 3Hz／協力:公益社団法人日本ライフル射撃協会、興東電子株式会社、株式会社銀座銃砲店／取材協力:中央大学附属高等学校
+  ライフル射撃部"
+produced_year: "[製作年]<br>2019年"
+copyright: "©サルミアッキ／集英社・千鳥高校射撃部"
+related_seasons: !ruby/array:Hashie::Array []

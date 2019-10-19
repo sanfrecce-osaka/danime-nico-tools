@@ -1,0 +1,54 @@
+--- !ruby/hash:SeasonHash
+title: ぬるぺた
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/98/1/22981_1_6.png?1567994502000
+outline: 天才少女「ぬる」は、お姉ちゃんを事故で亡くしてしまう。でも大丈夫！持ち前の知識で、大好きだったお姉ちゃん「ぺた」をロボットとしてつくることに成功！ただ、ロボットとして復活したお姉ちゃんは生前よりも、ちょっとちがう？妹「ぬる」と、姉ロボ「ぺた」が繰り広げる、姉妹ドタバタコメディ！『お姉ちゃん！　コンセント抜けてるよ！』
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 和氣あず未
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：小倉宏文
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：板倉健
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：岸田勇気
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第3話
+  title: お姉ちゃん完成！／お姉ちゃんの完全栄養食！／お姉ちゃん学校行かなきゃダメ？
+  description: 第1話：事故で姉を亡くした少女ぬるは、生前の記憶と性格を持ったお姉ちゃんロボ「ぺた」を天才力で作り上げるが……、ちょっと待ってなんで飛行モードに変形するの！？／第2話：人類史上最も甘美な誘惑「二度寝」から目覚ましマシンで起こされたぬるを待っていたのは、お姉ちゃんの得意料理だった！わーいってコレ暗黒チャーハンだぁぁぁ！／第3話：学校にいかないぬるは今日も機械いじり。お風呂RTA勢のぬるを綺麗に洗ってゆっくりお風呂に浸からせたいぺたの殺人ヘッドスパが炸裂する！ほぇぇぇ……。<br><br>ぬる:和氣
+    あず未／ぺた:上田 麗奈<br><br>原案・脚本:はと／監督:小倉 宏文／キャラクター原案:竹嶋 えく／キャラクターデザイン:板倉 健／美術監督:森尾 麻紀／色彩設計:高橋
+    枝里／撮影監督:古川 貴之／音響監督:明田川 仁／音響制作:マジックカプセル／音楽:岸田 勇気（F.M.F）<br><br>©TOKYOTOON／シンエイ動画
+  length_seconds: 1008
+  content_id: so35824802
+  default_thread_id: 1571275214
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35824802/35824802.24598589
+cast: "[キャスト]<br>ぬる:和氣 あず未／ぺた:上田 麗奈"
+staff: "[スタッフ]<br>原案・脚本:はと／監督:小倉 宏文／キャラクター原案:竹嶋 えく／キャラクターデザイン:板倉 健／美術監督:森尾 麻紀／色彩設計:高橋
+  枝里／撮影監督:古川 貴之／音響監督:明田川 仁／音響制作:マジックカプセル／音楽:岸田 勇気（F.M.F）"
+produced_year: "[製作年]<br>2019年"
+copyright: "©TOKYOTOON／シンエイ動画"
+related_seasons: !ruby/array:Hashie::Array []
