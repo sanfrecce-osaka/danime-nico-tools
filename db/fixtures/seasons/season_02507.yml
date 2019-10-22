@@ -48,16 +48,16 @@ tags: !ruby/array:Hashie::Array
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
-  episode_no: EPISODE2
-  title: 感動的善行
-  description: 溺れている人を助けるために、自らの危険を顧みず、勇敢に川に飛び込んだ時分と開心。現場に居合わせた先生が感動して二人を称賛したものの・・・・。<br><br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹<br><br>脚本・監督:ラレコ／プロデュース:Tencent
+  episode_no: EPISODE3
+  title: 幸福的感冒
+  description: 風邪を引いた開心を心配して、時分と共にお見舞いに行く時秒。その様子を聞いた万歳は、うらやましくて必死になって自分も風邪を引いてみたけれど・・・。<br><br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹<br><br>脚本・監督:ラレコ／プロデュース:Tencent
     Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet Cartoon<br><br>©Tencent.
-    All Rights Reserved.<br><br>次話→so35820967
+    All Rights Reserved.
   length_seconds: 210
-  content_id: so35782027
-  default_thread_id: 1570410003
+  content_id: so35820967
+  default_thread_id: 1571188923
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35782027/35782027.8959665
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35820967/35820967.27309360
 cast: "[キャスト]<br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹"
 staff: "[スタッフ]<br>脚本・監督:ラレコ／プロデュース:Tencent Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet
   Cartoon"
