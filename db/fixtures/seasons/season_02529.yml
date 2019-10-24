@@ -55,6 +55,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1571189582
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35820976/35820976.68922466
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "「SHELTER」第二幕"
+  description: バンド練習をするためにユキが所有する非常用シェルターにやってきたミサ、アサコ、クルミの仲良し4人組。ある夜、激しい爆発音により状況は一変する――。区の職員だという男が現れ、シェルターの外は大惨事が起きているため生存確認を行っているという。そんな中NASAの子会社・NASAテックの営業マンまでやって来る。地球が壊滅的な状況に陥り、火星への移住計画が進んでいる話を聞かさせるのだが…。
+    4人組は新感覚のワンシュチュエーションドラマ！<br><br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生<br><br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO
+    MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）<br><br>©2019「劇団スフィア」製作委員会<br><br>so35820976←前話　第一話→so35820976
+  length_seconds: 1425
+  content_id: so35843423
+  default_thread_id: 1571625123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35843423/35843423.89716067
 cast: "[キャスト]<br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生"
 staff: "[スタッフ]<br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）"
 produced_year: "[製作年]<br>2019年"
