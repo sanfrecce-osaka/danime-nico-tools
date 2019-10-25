@@ -1,0 +1,94 @@
+--- !ruby/hash:SeasonHash
+title: ゾイドワイルド ZERO
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/7/23047_1_6.png?1569902456000
+outline: ゾイドとは、銀河の彼方に生息する、戦う意思を持った金属生命体である。惑星が最後を迎え、人類は第二の故郷として地球を目指すが、ゾイド因子の暴走と不慮のタイムワープで、突如、21世紀の地球にゾイドが出現。ゾイドによる破壊と度重なる地殻変動で地球は一度滅びた。レオは自ら発掘したビーストライガーを相棒に、地球の未来を左右する少女サリーと冒険の旅に出発した。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 増田俊樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 保村真
+  type: cast
+- !ruby/hash:TagHash
+  name: 野上翔
+  type: cast
+- !ruby/hash:TagHash
+  name: 千田葉月
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：OLM
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：平野義久
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：加戸誉夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：タカラトミー
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：坂﨑忠
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 誕生！ビーストライガー
+  description: 荒廃した地球で、レオ・コンラッドは相棒ゾイドのライガーや仲間のバズ・カニンガムと共に運び屋をしていた。レオたちは廃都市で帝国軍に追われるサリー・ランドという少女に出会う。サリーを守ろうとレオは帝国軍のゾイド、キャノンブルに立ち向かうが、返り討ちに。絶体絶命のその時、眩しい光が彼らを包み……！？<br><br>レオ・コンラッド:野上
+    翔／サリー・ランド:千田 葉月／バズ・カニンガム:保村 真／ジョー・アイセル:日笠 陽子／クリストファー・ギレル:増田 俊樹<br><br>原作:タカラトミー／監督:加戸
+    誉夫／シリーズ構成:荒木 憲一／キャラクターデザイン:坂﨑 忠／音響監督:松岡 裕紀／音楽:平野 義久／アニメ制作:OLM<br><br>© ＴＯＭＹ／ＺＷ製作委員会・テレビ東京<br><br>次話→so35824790
+  length_seconds: 1365
+  content_id: so35824791
+  default_thread_id: 1571275443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35824791/35824791.12910235
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 爆砕の武器庫！　バズートル
+  description: レオの左腕の金属化やサリーの体の変化、そしてビーストライガーへの進化は、惑星Zi（ズィー）から持ち込まれた「Ziフォーミング装置」に関係していた。サリーは自分が追われる理由と、荒廃した地球を再生させる方法を語る。一方、ビーストライガーに撃退された帝国軍は、新たな兵器ゾイドを差し向けようとしていた。<br><br>レオ・コンラッド:野上
+    翔／サリー・ランド:千田 葉月／バズ・カニンガム:保村 真／ジョー・アイセル:日笠 陽子／クリストファー・ギレル:増田 俊樹<br><br>原作:タカラトミー／監督:加戸
+    誉夫／シリーズ構成:荒木 憲一／キャラクターデザイン:坂﨑 忠／音響監督:松岡 裕紀／音楽:平野 義久／アニメ制作:OLM<br><br>© ＴＯＭＹ／ＺＷ製作委員会・テレビ東京<br><br>so35824791←前話｜次話→so35824789　第一話→so35824791
+  length_seconds: 1365
+  content_id: so35824790
+  default_thread_id: 1571275446
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35824790/35824790.56198482
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 飛べないライオン
+  description: サリーのペンダントに導かれ旅を続けるレオたちは帝国軍の演習場に侵入してしまう。演習場では帝国軍の「赤き死神」クリストファー・ギレルとスナイプテラが演習中だった。レオは初めて見た新鋭の飛行ゾイドに夢中だが、バズとサリーは捕まらないか気が気ではない。レオたちは赤き死神がいる演習場から無事に脱出できるか。<br><br>レオ・コンラッド:野上
+    翔／サリー・ランド:千田 葉月／バズ・カニンガム:保村 真／ジョー・アイセル:日笠 陽子／クリストファー・ギレル:増田 俊樹<br><br>原作:タカラトミー／監督:加戸
+    誉夫／シリーズ構成:荒木 憲一／キャラクターデザイン:坂﨑 忠／音響監督:松岡 裕紀／音楽:平野 義久／アニメ制作:OLM<br><br>© ＴＯＭＹ／ＺＷ製作委員会・テレビ東京<br><br>so35824790←前話｜次話→so35856411　第一話→so35824791
+  length_seconds: 1365
+  content_id: so35824789
+  default_thread_id: 1571275448
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35824789/35824789.14286526
+cast: "[キャスト]<br>レオ・コンラッド:野上 翔／サリー・ランド:千田 葉月／バズ・カニンガム:保村 真／ジョー・アイセル:日笠 陽子／クリストファー・ギレル:増田
+  俊樹"
+staff: "[スタッフ]<br>原作:タカラトミー／監督:加戸 誉夫／シリーズ構成:荒木 憲一／キャラクターデザイン:坂﨑 忠／音響監督:松岡 裕紀／音楽:平野
+  義久／アニメ制作:OLM"
+produced_year: "[製作年]<br>2019年"
+copyright: "© ＴＯＭＹ／ＺＷ製作委員会・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゾイドワイルド
