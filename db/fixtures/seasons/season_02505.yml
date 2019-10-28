@@ -19,10 +19,10 @@ tags: !ruby/array:Hashie::Array
   name: 下野紘
   type: cast
 - !ruby/hash:TagHash
-  name: 松岡禎丞
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 松岡禎丞
   type: cast
 - !ruby/hash:TagHash
   name: 津田健次郎
@@ -55,10 +55,10 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：飯島弘也
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：小坂春女
+  name: 監督：栗山貴行
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：栗山貴行
+  name: 監督：小坂春女
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：アニマ＆カンパニー
@@ -113,6 +113,19 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1571275218
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35824799/35824799.49371226
+- !ruby/hash:EpisodeHash
+  episode_no: File.04
+  title: 四人の家族
+  description: とある交通事故を捜査するトクナナ一同。自動車が発火するなど、不審な点が多くみられ、ナインが関わっている可能性があるためだった。運転手の江口晋太郎は軽傷だが息子は意識不明の重体。しかも息子にはなんと1億もの保険金がかかっているという。今回ある事情で二条と捜査を進めることになった七月。しかし一ノ瀬以上に何を考えているのか分からない二条と、果たして上手く捜査を進められるのか…。<br><br>七月清司:下野
+    紘／一ノ瀬 栞:津田健次郎／二条クジャク:鈴木達央／四季彩紅音:甲斐田裕子／ベルメール・サンク:小澤亜李／遠藤六輔:乃村健次／桐生院左近零衛門:森川智之／ウォーロック:平田広明／謎の男:松岡禎丞／黒真珠:島﨑信長<br><br>総監督:栗山貴行／監督:小坂春女／シリーズ構成:東出祐一郎／キャラクター原案:黒乃奈々絵／キャラクターデザイン:飯島弘也／総作画監督:滝川和男／プロップデザイン:ヒラタリョウ／美術監督:柏村明香／美術監督補佐:佐藤
+    勝／美術設定:福島孝喜、枝松 聖／色彩設計:日比智恵子／撮影監督:本台貴宏／編集:櫻井 崇／音楽:高橋 諒／音楽制作:ランティス／OP主題歌:「Take On
+    Fever」OLDCODEX／ED主題歌:「One Wish」SCREEN mode／音響監督:えびなやすのり／音響制作:Ai Addiction／アニメーション制作:アニマ＆カンパニー<br><br>©特殊凶悪犯対策室
+    第七課<br><br>so35824799←前話｜次話→so35892692　第一話→so35763684
+  length_seconds: 1420
+  content_id: so35860521
+  default_thread_id: 1571966283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35860521/35860521.23277311
 cast: "[キャスト]<br>七月清司:下野 紘／一ノ瀬 栞:津田健次郎／二条クジャク:鈴木達央／四季彩紅音:甲斐田裕子／ベルメール・サンク:小澤亜李／遠藤六輔:乃村健次／桐生院左近零衛門:森川智之／ウォーロック:平田広明／謎の男:松岡禎丞／黒真珠:島﨑信長"
 staff: "[スタッフ]<br>総監督:栗山貴行／監督:小坂春女／シリーズ構成:東出祐一郎／キャラクター原案:黒乃奈々絵／キャラクターデザイン:飯島弘也／総作画監督:滝川和男／プロップデザイン:ヒラタリョウ／美術監督:柏村明香／美術監督補佐:佐藤
   勝／美術設定:福島孝喜、枝松 聖／色彩設計:日比智恵子／撮影監督:本台貴宏／編集:櫻井 崇／音楽:高橋 諒／音楽制作:ランティス／OP主題歌:「Take On
