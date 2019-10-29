@@ -48,16 +48,16 @@ tags: !ruby/array:Hashie::Array
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
-  episode_no: EPISODE3
-  title: 幸福的感冒
-  description: 風邪を引いた開心を心配して、時分と共にお見舞いに行く時秒。その様子を聞いた万歳は、うらやましくて必死になって自分も風邪を引いてみたけれど・・・。<br><br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹<br><br>脚本・監督:ラレコ／プロデュース:Tencent
+  episode_no: EPISODE4
+  title: 長兄的責務
+  description: 時分が青いボールペンをポケットに入れたまま洗濯してしまい、制服に色移り。腹を立てる時秒。でも、幼いころに、兄が自分のためにしてくれた”ある出来事”を思い出して・・・。<br><br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹<br><br>脚本・監督:ラレコ／プロデュース:Tencent
     Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet Cartoon<br><br>©Tencent.
-    All Rights Reserved.<br><br>次話→so35856400
+    All Rights Reserved.<br><br>次話→so35879225
   length_seconds: 210
-  content_id: so35820967
-  default_thread_id: 1571188923
+  content_id: so35856400
+  default_thread_id: 1571878923
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35820967/35820967.27309360
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35856400/35856400.7094117
 cast: "[キャスト]<br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹"
 staff: "[スタッフ]<br>脚本・監督:ラレコ／プロデュース:Tencent Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet
   Cartoon"
