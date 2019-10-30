@@ -77,6 +77,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1571360823
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35828809/35828809.92070645
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: PIECE4
+  description: 居酒屋でスカウト状況の報告を受けるマトリのメンバー。スタンド候補者・都築 誠のスカウトは一時中断することに。同じくスタンド候補者で人気の若手俳優の弟・都築京介「通称＝きょんくん」の話題になり、京介から頻繁に連絡や食事の誘いを受けていると告白する泉。泉が超人気の若手俳優から口説かれていると知り、盛り上がる一同。翌日、警視庁へ届け物に行った泉を待っていたのは、京介だった。<br><br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里<br><br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ<br><br>©coly/スタマイ製作委員会<br><br>so35828809←前話｜次話→so35887942　第一話→so35767860
+  length_seconds: 1430
+  content_id: so35856401
+  default_thread_id: 1571879225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35856401/35856401.46495941
 cast: "[キャスト]<br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里"
 staff: "[スタッフ]<br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ"
 produced_year: "[製作年]<br>2019年"
