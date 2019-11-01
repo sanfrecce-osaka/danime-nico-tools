@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: "「えいがのおそ松さん」劇場公開記念特番　鈴村健一＆入野自由のおフランスに行くザンス！"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/66/8/22668_1_6.png?1551148341000
+outline: "「えいがのおそ松さん」劇場公開を直前にして特別番組を制作！スタッフみんなでレッドカーペットを歩きたい！という想いから、イヤミの故郷？「フランス」に行って“映画宣伝”を観光？！敢行！二人のおフランス宣伝活動記録をぜひご覧ください！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: "「えいがのおそ松さん」劇場公開記念特番　鈴村健一＆入野自由のおフランスに行くザンス！"
+  description: "「えいがのおそ松さん」劇場公開を直前にして特別番組を制作！スタッフみんなでレッドカーペットを歩きたい！という想いから、イヤミの故郷？「フランス」に行って“映画宣伝”を観光？！敢行！二人のおフランス宣伝活動記録をぜひご覧ください！<br><br>出演:鈴村健一（イヤミ役）・入野自由（松野トド松役）<br><br>©赤塚不二夫／えいがのおそ松さん製作委員会
+    2019<br><br>次話→so35768537"
+  length_seconds: 1807
+  content_id: so35768545
+  default_thread_id: 1570172883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768545/35768545.19913168
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: "「えいがのおそ松さん」劇場公開記念特番　鈴村健一＆入野自由のおフランスに行くザンス！"
+  description: "「えいがのおそ松さん」劇場公開を直前にして特別番組を制作！スタッフみんなでレッドカーペットを歩きたい！という想いから、イヤミの故郷？「フランス」に行って“映画宣伝”を観光？！敢行！二人のおフランス宣伝活動記録をぜひご覧ください！<br><br>出演:鈴村健一（イヤミ役）・入野自由（松野トド松役）<br><br>©赤塚不二夫／えいがのおそ松さん製作委員会
+    2019<br><br>so35768545←前話　第一話→so35768545"
+  length_seconds: 1805
+  content_id: so35768537
+  default_thread_id: 1570172885
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768537/35768537.22981504
+cast: "[キャスト]<br>出演:鈴村健一（イヤミ役）・入野自由（松野トド松役）"
+produced_year: "[製作年]<br>2019年"
+copyright: "©赤塚不二夫／えいがのおそ松さん製作委員会 2019"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: おそ松くん
+- !ruby/hash:SeasonHash
+  title: おそ松さん
+- !ruby/hash:SeasonHash
+  title: おそ松さん　第3.5話
+- !ruby/hash:SeasonHash
+  title: "「おそ松さん」おうまでこばなし"
+- !ruby/hash:SeasonHash
+  title: おそ松さん 第2期
+- !ruby/hash:SeasonHash
+  title: おそ松さん on STAGE ～SIX MEN'S SHOW TIME～ 配信版
+- !ruby/hash:SeasonHash
+  title: 舞台『おそ松さん on STAGE ～SIX MEN’S SHOW TIME 2～』
+- !ruby/hash:SeasonHash
+  title: F6 1st LIVEツアー「Satisfaction」
+- !ruby/hash:SeasonHash
+  title: 喜劇「おそ松さん」
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2017
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2018
