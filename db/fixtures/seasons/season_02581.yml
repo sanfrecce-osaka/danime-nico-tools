@@ -1,0 +1,123 @@
+--- !ruby/hash:SeasonHash
+title: 舞台「パタリロ！」★スターダスト計画★
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/14/5/22145_1_6.png?1551422595000
+outline: 1978年より連載中の魔夜峰央氏の人気作品「パタリロ！」。40年に渡って愛される本作の舞台化第2弾新作公演！持ち前の"美しさ"と唯一無二のキャラクターで殿下を体現した加藤諒はじめ、美少年かつ実力派の俳優が全員続投。さらに新たな美少年たちも登場。抜群のギャグセンスとダンス、歌で魅せる耽美な世界を、ゴ堪能アレ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐奈宏紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤銀平
+  type: cast
+- !ruby/hash:TagHash
+  name: 細貝圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 三津谷亮
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤諒
+  type: cast
+- !ruby/hash:TagHash
+  name: 石田隼
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉本恒生
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉川純広
+  type: cast
+- !ruby/hash:TagHash
+  name: 三上陽永
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴一平
+  type: cast
+- !ruby/hash:TagHash
+  name: 香取直登
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：魔夜峰央
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 舞台「パタリロ！」★スターダスト計画★
+  description: 1978年より連載中の魔夜峰央氏の人気作品「パタリロ！」。40年に渡って愛される本作の舞台化第2弾新作公演！持ち前の"美しさ"と唯一無二のキャラクターで殿下を体現した加藤諒はじめ、美少年かつ実力派の俳優が全員続投。さらに新たな美少年たちも登場。抜群のギャグセンスとダンス、歌で魅せる耽美な世界を、ゴ堪能アレ！<br><br>出演:＜パタリロ＞加藤
+    諒　＜マライヒ＞佐奈宏紀　＜ビョルン&amp;アンドレセン＞小林亮太　＜タマネギ部隊＞細貝 圭　金井成大　石田 隼　吉本恒生　蒼木 陣　＜魔夜メンズ＞佐藤銀平　吉川純広　富岡晃一郎　三上陽永　柴
+    一平　香取直登　掛川僚太　大澤信児　＜ロビー少尉＞三津谷 亮　＜バンコラン＞青木玄徳　＜声の出演＞大塚明夫　三田村賢二　大堀こういち　池田鉄洋<br><br>原作:「パタリロ！」魔夜峰央／脚本:池田テツヒロ／演出:小林顕作<br><br>©魔夜峰央／白泉社<br><br>次話→so35853064
+  length_seconds: 1268
+  content_id: so35853063
+  default_thread_id: 1571812862
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35853063/35853063.10092781
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 舞台「パタリロ！」★スターダスト計画★
+  description: 1978年より連載中の魔夜峰央氏の人気作品「パタリロ！」。40年に渡って愛される本作の舞台化第2弾新作公演！持ち前の"美しさ"と唯一無二のキャラクターで殿下を体現した加藤諒はじめ、美少年かつ実力派の俳優が全員続投。さらに新たな美少年たちも登場。抜群のギャグセンスとダンス、歌で魅せる耽美な世界を、ゴ堪能アレ！<br><br>出演:＜パタリロ＞加藤
+    諒　＜マライヒ＞佐奈宏紀　＜ビョルン&amp;アンドレセン＞小林亮太　＜タマネギ部隊＞細貝 圭　金井成大　石田 隼　吉本恒生　蒼木 陣　＜魔夜メンズ＞佐藤銀平　吉川純広　富岡晃一郎　三上陽永　柴
+    一平　香取直登　掛川僚太　大澤信児　＜ロビー少尉＞三津谷 亮　＜バンコラン＞青木玄徳　＜声の出演＞大塚明夫　三田村賢二　大堀こういち　池田鉄洋<br><br>原作:「パタリロ！」魔夜峰央／脚本:池田テツヒロ／演出:小林顕作<br><br>©魔夜峰央／白泉社<br><br>so35853063←前話｜次話→so35853065　第一話→so35853063
+  length_seconds: 1408
+  content_id: so35853064
+  default_thread_id: 1571812922
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35853064/35853064.36244243
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: 舞台「パタリロ！」★スターダスト計画★
+  description: 1978年より連載中の魔夜峰央氏の人気作品「パタリロ！」。40年に渡って愛される本作の舞台化第2弾新作公演！持ち前の"美しさ"と唯一無二のキャラクターで殿下を体現した加藤諒はじめ、美少年かつ実力派の俳優が全員続投。さらに新たな美少年たちも登場。抜群のギャグセンスとダンス、歌で魅せる耽美な世界を、ゴ堪能アレ！<br><br>出演:＜パタリロ＞加藤
+    諒　＜マライヒ＞佐奈宏紀　＜ビョルン&amp;アンドレセン＞小林亮太　＜タマネギ部隊＞細貝 圭　金井成大　石田 隼　吉本恒生　蒼木 陣　＜魔夜メンズ＞佐藤銀平　吉川純広　富岡晃一郎　三上陽永　柴
+    一平　香取直登　掛川僚太　大澤信児　＜ロビー少尉＞三津谷 亮　＜バンコラン＞青木玄徳　＜声の出演＞大塚明夫　三田村賢二　大堀こういち　池田鉄洋<br><br>原作:「パタリロ！」魔夜峰央／脚本:池田テツヒロ／演出:小林顕作<br><br>©魔夜峰央／白泉社<br><br>so35853064←前話｜次話→so35853066　第一話→so35853063
+  length_seconds: 813
+  content_id: so35853065
+  default_thread_id: 1571812865
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35853065/35853065.86741360
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: 舞台「パタリロ！」★スターダスト計画★
+  description: 1978年より連載中の魔夜峰央氏の人気作品「パタリロ！」。40年に渡って愛される本作の舞台化第2弾新作公演！持ち前の"美しさ"と唯一無二のキャラクターで殿下を体現した加藤諒はじめ、美少年かつ実力派の俳優が全員続投。さらに新たな美少年たちも登場。抜群のギャグセンスとダンス、歌で魅せる耽美な世界を、ゴ堪能アレ！<br><br>出演:＜パタリロ＞加藤
+    諒　＜マライヒ＞佐奈宏紀　＜ビョルン&amp;アンドレセン＞小林亮太　＜タマネギ部隊＞細貝 圭　金井成大　石田 隼　吉本恒生　蒼木 陣　＜魔夜メンズ＞佐藤銀平　吉川純広　富岡晃一郎　三上陽永　柴
+    一平　香取直登　掛川僚太　大澤信児　＜ロビー少尉＞三津谷 亮　＜バンコラン＞青木玄徳　＜声の出演＞大塚明夫　三田村賢二　大堀こういち　池田鉄洋<br><br>原作:「パタリロ！」魔夜峰央／脚本:池田テツヒロ／演出:小林顕作<br><br>©魔夜峰央／白泉社<br><br>so35853065←前話｜次話→so35853067　第一話→so35853063
+  length_seconds: 1509
+  content_id: so35853066
+  default_thread_id: 1571812928
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35853066/35853066.84244929
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: 舞台「パタリロ！」★スターダスト計画★
+  description: 1978年より連載中の魔夜峰央氏の人気作品「パタリロ！」。40年に渡って愛される本作の舞台化第2弾新作公演！持ち前の"美しさ"と唯一無二のキャラクターで殿下を体現した加藤諒はじめ、美少年かつ実力派の俳優が全員続投。さらに新たな美少年たちも登場。抜群のギャグセンスとダンス、歌で魅せる耽美な世界を、ゴ堪能アレ！<br><br>出演:＜パタリロ＞加藤
+    諒　＜マライヒ＞佐奈宏紀　＜ビョルン&amp;アンドレセン＞小林亮太　＜タマネギ部隊＞細貝 圭　金井成大　石田 隼　吉本恒生　蒼木 陣　＜魔夜メンズ＞佐藤銀平　吉川純広　富岡晃一郎　三上陽永　柴
+    一平　香取直登　掛川僚太　大澤信児　＜ロビー少尉＞三津谷 亮　＜バンコラン＞青木玄徳　＜声の出演＞大塚明夫　三田村賢二　大堀こういち　池田鉄洋<br><br>原作:「パタリロ！」魔夜峰央／脚本:池田テツヒロ／演出:小林顕作<br><br>©魔夜峰央／白泉社<br><br>so35853066←前話　第一話→so35853063
+  length_seconds: 1471
+  content_id: so35853067
+  default_thread_id: 1571813045
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35853067/35853067.70390083
+cast: "[キャスト]<br>出演:＜パタリロ＞加藤 諒　＜マライヒ＞佐奈宏紀　＜ビョルン&アンドレセン＞小林亮太　＜タマネギ部隊＞細貝 圭　金井成大　石田 隼　吉本恒生　蒼木
+  陣　＜魔夜メンズ＞佐藤銀平　吉川純広　富岡晃一郎　三上陽永　柴 一平　香取直登　掛川僚太　大澤信児　＜ロビー少尉＞三津谷 亮　＜バンコラン＞青木玄徳　＜声の出演＞大塚明夫　三田村賢二　大堀こういち　池田鉄洋"
+staff: "[スタッフ]<br>原作:「パタリロ！」魔夜峰央／脚本:池田テツヒロ／演出:小林顕作"
+produced_year: "[製作年]<br>2018年"
+copyright: "©魔夜峰央／白泉社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: パタリロ！
+- !ruby/hash:SeasonHash
+  title: 舞台「パタリロ！」

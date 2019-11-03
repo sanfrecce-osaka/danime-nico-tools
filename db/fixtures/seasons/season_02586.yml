@@ -1,0 +1,169 @@
+--- !ruby/hash:SeasonHash
+title: Run Girls, Run！のらんがばん！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/89/9/22899_1_6.png?1562225408000
+outline: 声優ユニットRun Girls, Run！（ランガールズラン！）が色々な企画に全力疾走でチャレンジする実写バラエティ
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 厚木那奈美
+  type: cast
+- !ruby/hash:TagHash
+  name: 林鼓子
+  type: cast
+- !ruby/hash:TagHash
+  name: 森嶋優花
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：井出雄介
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ランガールズラン！のらんがばん！　#1
+  description: ついにスタートした声優ユニット「Run Girls, Run！のらんがばん！」。初回は番組を放送しているTOKYO MXへ3人揃って挨拶へよーい、ドン！空気を読まず受付・オフィスを通り抜け、お偉いさんにゲリラパフォーマンスも！？目指せ、アニメ事業局！4月の上海上陸時レポートもお届け。<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>次話→so35768677
+  length_seconds: 1440
+  content_id: so35768634
+  default_thread_id: 1570174327
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768634/35768634.14917287
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ランガールズラン！のらんがばん！　#2
+  description: 第二回！今回はTOYO MX訪問の後編！前回局長にも会っちゃたし、こういう時は大体社員のみなさんへのご挨拶あたりで終わるパターンですが、今回はなんと社長へのご挨拶が実現！さすがみんなのTOKYO
+    MX！新コーナー「らんがちゃんと踊ってみた」もスタート。これでダンスの振付もみなさんGETだぜ！<br><br>Run Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA
+    TELEVISION<br><br>©avex pictures・81produce<br><br>so35768634←前話｜次話→so35768720　第一話→so35768634
+  length_seconds: 1440
+  content_id: so35768677
+  default_thread_id: 1570174566
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768677/35768677.91584837
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ランガールズラン！のらんがばん！　#3
+  description: 8月4日に迫ったユニット結成2周年ライブ！全力疾走で立ち向かうべく、今回は体力測定を実施します。怒りをぶつけながらの握力測定や無理矢理体前屈等、果たしてメンバー達は思い描く数値を記録することができるのでしょうか。ライブ映像はあの曲も披露。安定のジャージに身を包んだ第3回もぜひご覧ください。<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768677←前話｜次話→so35768719　第一話→so35768634
+  length_seconds: 1408
+  content_id: so35768720
+  default_thread_id: 1570174983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768720/35768720.89634060
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ランガールズラン！のらんがばん！　#4
+  description: らんがばん！的炎の体力測定後編！8月4日開催の2周年ライブ向けて、今回は肺活量測定や立ち幅跳び等の協議を行います。果たして最後まで乗り切ることができるのか？森嶋優花にとってデビューしてからの一番の出来事のヒントは帽子とメガネ！？ライブ映像ではみんな大好きあの曲を公開です！<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768720←前話｜次話→so35768789　第一話→so35768634
+  length_seconds: 1440
+  content_id: so35768719
+  default_thread_id: 1570175163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768719/35768719.74960935
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ランガールズラン！のらんがばん！　#5
+  description: なかなか普段お世話になっている作曲家の皆さんにじっくりお話を伺う機会というのは、番組や取材がない限り多くはありません。ということで、今回はMONACAの田中秀和さんと広川恵一さんによる作曲・編曲の音楽教室！BGMを聴くだけでも「あの曲だ」という名曲の数々が聴こえてくる第5回です。<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768719←前話｜次話→so35768790　第一話→so35768634
+  length_seconds: 1441
+  content_id: so35768789
+  default_thread_id: 1570176604
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768789/35768789.52045111
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ランガールズラン！のらんがばん！　#6
+  description: なかなか長調や短調など、言葉は知っていてもじっくり勉強をする機会は、多くはありません。今回は音楽基礎クイズを通して3人もお勉強タイム！最後林さんもあの○○○の演奏に挑戦です。そんなMONACA田中さんと広川さんによる音楽教室の後編、ぜひお楽しみ下さい。<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768789←前話｜次話→so35768791　第一話→so35768634
+  length_seconds: 1440
+  content_id: so35768790
+  default_thread_id: 1570176618
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768790/35768790.95813950
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ランガールズラン！のらんがばん！　#7
+  description: 猛暑が続く中、みなさんはお盆休みいかがお過ごしでしょうか。旅行に行く方、故郷に戻る方、お仕事の方いらっしゃるかと思います。そんなあなたには「らんがばん！」夜の放送ですので旅行先でもご覧頂けます。ということで、第7回のメンバーは皆さんの涼しさを捗らせる浴衣姿での登場です。<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768790←前話｜次話→so35768792　第一話→so35768634
+  length_seconds: 1439
+  content_id: so35768791
+  default_thread_id: 1570176608
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768791/35768791.22312920
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ランガールズラン！のらんがばん！　#8
+  description: 連休も明けてらんがばん！も夏祭り回後編！今回は射的やウナギのつかみ取り等風情が満載です。そしてもちろん怪談コーナーも用意！果たしてメンバーは最後までお話に耐えられるのか。「全日本らんがちゃんを見守る会」ではRun
+    Girls, Radio!!や新曲のMV撮影の様子もちょっとだけお届けです！<br><br>Run Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA
+    TELEVISION<br><br>©avex pictures・81produce<br><br>so35768791←前話｜次話→so35768897　第一話→so35768634
+  length_seconds: 1439
+  content_id: so35768792
+  default_thread_id: 1570176611
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768792/35768792.40703493
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ランガールズラン！のらんがばん！　#9
+  description: お待たせしました！今回のらんがばん！では先日開催の「Run Girls, Run！ 2nd Anniversary LIVE 1.2.3ジャンプ！！！」を大特集！当日の盛り上がりをお届けします。追加公演に行こうかどうか迷い中のあなたもこれを見てぜひ11月24日は京都へGOGOGO！<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768792←前話｜次話→so35768896　第一話→so35768634
+  length_seconds: 1439
+  content_id: so35768897
+  default_thread_id: 1570178403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768897/35768897.13521744
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ランガールズラン！のらんがばん！　#10
+  description: "「らんがばん！」は今回で終了へ！？今回は番組を乗っ取るべく、ピュアリーモンスターより富沢恵莉・石飛恵里花・今野優月の３名が刺客として出演。果たして番組はこのまま「ぴゅあもんばん」に変更になってしまうのか。メンバー同士の対決をお見逃しなく！<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768897←前話｜次話→so35768895　第一話→so35768634"
+  length_seconds: 1440
+  content_id: so35768896
+  default_thread_id: 1570178347
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768896/35768896.87865058
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ランガールズラン！のらんがばん！　#11
+  description: Run Girls, Run！VS.ピュアリーモンスター　後編！今回で白熱の対決も決着へ！果たしてメンバーは番組名を守ることができるのでしょうか…。いよいよ新曲「Share
+    the light」もMV冒頭約2分をここで初公開！見逃せない映像にあわせて、振り付け講座もぜひチェックです！<br><br>Run Girls, Run！:林
+    鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768896←前話｜次話→so35768894　第一話→so35768634
+  length_seconds: 1440
+  content_id: so35768895
+  default_thread_id: 1570178405
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768895/35768895.68310097
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ランガールズラン！のらんがばん！　#12
+  description: らんがばんFINAL！いよいよ今回で最終回です。最後は打ち上げで過去の番組での自分たちを振り返ります。バーベキューをしながらゆっくりと思い出に浸る予定・・・が！？最後までよろしくお願いします。<br><br>Run
+    Girls, Run！:林 鼓子・森嶋優花・厚木那奈美<br><br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION<br><br>©avex
+    pictures・81produce<br><br>so35768895←前話　第一話→so35768634
+  length_seconds: 1440
+  content_id: so35768894
+  default_thread_id: 1570178586
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768894/35768894.96988995
+cast: "[キャスト]<br>Run Girls, Run！:林 鼓子・森嶋優花・厚木那奈美"
+staff: "[スタッフ]<br>技術協力:千代田ビデオ／構成:伊藤公一／演出:井出雄介／制作協力:TSUKUBA TELEVISION"
+produced_year: "[製作年]<br>2019年"
+copyright: "©avex pictures・81produce"
+related_seasons: !ruby/array:Hashie::Array []

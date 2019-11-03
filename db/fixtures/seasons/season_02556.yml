@@ -1,0 +1,125 @@
+--- !ruby/hash:SeasonHash
+title: 舞台「十二大戦」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/21/1/22211_1_6.png?1551352128000
+outline: 十二年に一度開催される第十二回目の十二大戦。干支の名を宿す十二人の猛き戦士が互いの命と魂を賭けて戦う。最後に生き残る者は誰か？魂を揺さぶるバトルロイヤルが、ついに舞台上で開戦する！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 橋本祥平
+  type: cast
+- !ruby/hash:TagHash
+  name: 護あさな
+  type: cast
+- !ruby/hash:TagHash
+  name: 原勇弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 滝川広大
+  type: cast
+- !ruby/hash:TagHash
+  name: 和泉宗兵
+  type: cast
+- !ruby/hash:TagHash
+  name: 才川コージ
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅村結衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹内夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山真史
+  type: cast
+- !ruby/hash:TagHash
+  name: 今村美歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 長谷川慎也
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊阪達也
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：西尾維新
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：椎名豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 集英社
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 舞台「十二大戦」
+  description: 十二年に一度開催される第十二回目の十二大戦。干支の名を宿す十二人の猛き戦士が互いの命と魂を賭けて戦う。最後に生き残る者は誰か？魂を揺さぶるバトルロイヤルが、ついに舞台上で開戦する！<br><br>出演:【寝住】北村
+    諒　【失井】滝川広大　【妬良】今村美歩　【憂城】才川コージ【断罪兄弟・兄】橋本祥平　【断罪兄弟・弟】長谷川慎也　【迂々真】横山真史【必爺】原 勇弥　【砂粒】竹内
+    夢　【庭取】梅村結衣　【怒突】伊阪達也【異能肉】護 あさな　【ドゥデキャプル】和泉宗兵<br><br>原作:西尾維新「十二大戦」（集英社刊）／脚本／演出:伊勢直弘／音楽:椎名豪／主催:エイベックス・ピクチャーズ株式会社<br><br>©西尾維新・中村光／集英社　©エイベックス・ピクチャーズ株式会社<br><br>次話→so35768681
+  length_seconds: 1667
+  content_id: so35768682
+  default_thread_id: 1570174503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768682/35768682.28605420
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 舞台「十二大戦」
+  description: 十二年に一度開催される第十二回目の十二大戦。干支の名を宿す十二人の猛き戦士が互いの命と魂を賭けて戦う。最後に生き残る者は誰か？魂を揺さぶるバトルロイヤルが、ついに舞台上で開戦する！<br><br>出演:【寝住】北村
+    諒　【失井】滝川広大　【妬良】今村美歩　【憂城】才川コージ【断罪兄弟・兄】橋本祥平　【断罪兄弟・弟】長谷川慎也　【迂々真】横山真史【必爺】原 勇弥　【砂粒】竹内
+    夢　【庭取】梅村結衣　【怒突】伊阪達也【異能肉】護 あさな　【ドゥデキャプル】和泉宗兵<br><br>原作:西尾維新「十二大戦」（集英社刊）／脚本／演出:伊勢直弘／音楽:椎名豪／主催:エイベックス・ピクチャーズ株式会社<br><br>©西尾維新・中村光／集英社　©エイベックス・ピクチャーズ株式会社<br><br>so35768682←前話｜次話→so35768680　第一話→so35768682
+  length_seconds: 1820
+  content_id: so35768681
+  default_thread_id: 1570174505
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768681/35768681.17986523
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: 舞台「十二大戦」
+  description: 十二年に一度開催される第十二回目の十二大戦。干支の名を宿す十二人の猛き戦士が互いの命と魂を賭けて戦う。最後に生き残る者は誰か？魂を揺さぶるバトルロイヤルが、ついに舞台上で開戦する！<br><br>出演:【寝住】北村
+    諒　【失井】滝川広大　【妬良】今村美歩　【憂城】才川コージ【断罪兄弟・兄】橋本祥平　【断罪兄弟・弟】長谷川慎也　【迂々真】横山真史【必爺】原 勇弥　【砂粒】竹内
+    夢　【庭取】梅村結衣　【怒突】伊阪達也【異能肉】護 あさな　【ドゥデキャプル】和泉宗兵<br><br>原作:西尾維新「十二大戦」（集英社刊）／脚本／演出:伊勢直弘／音楽:椎名豪／主催:エイベックス・ピクチャーズ株式会社<br><br>©西尾維新・中村光／集英社　©エイベックス・ピクチャーズ株式会社<br><br>so35768681←前話｜次話→so35768679　第一話→so35768682
+  length_seconds: 1324
+  content_id: so35768680
+  default_thread_id: 1570174385
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768680/35768680.60155912
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: 舞台「十二大戦」
+  description: 十二年に一度開催される第十二回目の十二大戦。干支の名を宿す十二人の猛き戦士が互いの命と魂を賭けて戦う。最後に生き残る者は誰か？魂を揺さぶるバトルロイヤルが、ついに舞台上で開戦する！<br><br>出演:【寝住】北村
+    諒　【失井】滝川広大　【妬良】今村美歩　【憂城】才川コージ【断罪兄弟・兄】橋本祥平　【断罪兄弟・弟】長谷川慎也　【迂々真】横山真史【必爺】原 勇弥　【砂粒】竹内
+    夢　【庭取】梅村結衣　【怒突】伊阪達也【異能肉】護 あさな　【ドゥデキャプル】和泉宗兵<br><br>原作:西尾維新「十二大戦」（集英社刊）／脚本／演出:伊勢直弘／音楽:椎名豪／主催:エイベックス・ピクチャーズ株式会社<br><br>©西尾維新・中村光／集英社　©エイベックス・ピクチャーズ株式会社<br><br>so35768680←前話｜次話→so35768678　第一話→so35768682
+  length_seconds: 1068
+  content_id: so35768679
+  default_thread_id: 1570174325
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768679/35768679.5703094
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: 舞台「十二大戦」
+  description: 十二年に一度開催される第十二回目の十二大戦。干支の名を宿す十二人の猛き戦士が互いの命と魂を賭けて戦う。最後に生き残る者は誰か？魂を揺さぶるバトルロイヤルが、ついに舞台上で開戦する！<br><br>出演:【寝住】北村
+    諒　【失井】滝川広大　【妬良】今村美歩　【憂城】才川コージ【断罪兄弟・兄】橋本祥平　【断罪兄弟・弟】長谷川慎也　【迂々真】横山真史【必爺】原 勇弥　【砂粒】竹内
+    夢　【庭取】梅村結衣　【怒突】伊阪達也【異能肉】護 あさな　【ドゥデキャプル】和泉宗兵<br><br>原作:西尾維新「十二大戦」（集英社刊）／脚本／演出:伊勢直弘／音楽:椎名豪／主催:エイベックス・ピクチャーズ株式会社<br><br>©西尾維新・中村光／集英社　©エイベックス・ピクチャーズ株式会社<br><br>so35768679←前話　第一話→so35768682
+  length_seconds: 1136
+  content_id: so35768678
+  default_thread_id: 1570174323
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768678/35768678.2702423
+cast: "[キャスト]<br>出演:【寝住】北村 諒　【失井】滝川広大　【妬良】今村美歩　【憂城】才川コージ【断罪兄弟・兄】橋本祥平　【断罪兄弟・弟】長谷川慎也　【迂々真】横山真史【必爺】原
+  勇弥　【砂粒】竹内 夢　【庭取】梅村結衣　【怒突】伊阪達也【異能肉】護 あさな　【ドゥデキャプル】和泉宗兵"
+staff: "[スタッフ]<br>原作:西尾維新「十二大戦」（集英社刊）／脚本／演出:伊勢直弘／音楽:椎名豪／主催:エイベックス・ピクチャーズ株式会社"
+produced_year: "[製作年]<br>2018年"
+copyright: "©西尾維新・中村光／集英社　©エイベックス・ピクチャーズ株式会社"
+related_seasons: !ruby/array:Hashie::Array []

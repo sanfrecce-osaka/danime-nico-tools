@@ -1,0 +1,351 @@
+--- !ruby/hash:SeasonHash
+title: BEATLESS
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/06/2/23062_1_6.png?1571900436000
+outline: それは、人間と人智を越えた存在との決別と共存の物語。社会のほとんどをhIEと呼ばれる人型ロボットに任せた世界。17歳の少年・遠藤アラトはある日一体のアンドロイド・レイシアに出会い、オーナー契約を交わす。一見人間とそっくりなそれは、世界を驚かすほどの性能を備えた超高性能AIが生み出した、人智を越えるアンドロイド＜人類未到産物＞５体のひとつだったーー。５つの機体はそれぞれ意味を持ち、互いの性能を求め戦いはじめる。その戦いを傍観することしかできない大人たちと、その存在に近づき新しい関係を試みる少年たち。未来への選択と、人間とモノとの関係の答えを求められる――。進化しすぎた機械と、人間世界を繋ぐのは何か？便利になりすぎた時代で何が大事で何が必要なのか、アラトは人間よりはるかに優れたアンドロイド・レイシアと出会ったことで未来への選択と、人間とモノとの関係の答えを求められる――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川界人
+  type: cast
+- !ruby/hash:TagHash
+  name: 山下大輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐裕美
+  type: cast
+- !ruby/hash:TagHash
+  name: 若井友希
+  type: cast
+- !ruby/hash:TagHash
+  name: 下地紫野
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐武宇綺
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉永拓斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野早稀
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山恵実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 冨岡美沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ディオメディア
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：水島精二
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：やぐちひろこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：NARASAKI
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：kz
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：株式会社インクストゥエンター
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：長谷敏司
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2018年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: Contract
+  description: 4月。高校2年生のアラトは、友人のリョウやケンゴと穏やかで平凡な日常を過ごしていた。その夜までは。買い物帰りの路上、怪現象によって暴走したhIEに襲われるアラト。窮地から救ってくれたのは、レイシアと名乗る美しいhIEだった。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>次話→so35884783
+  length_seconds: 1467
+  content_id: so35884696
+  default_thread_id: 1572427143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884696/35884696.33695300
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: Analog hack
+  description: アラトとオーナー契約を交わしたレイシアは、遠藤家で暮らすことに。アラトの妹のユカはあっさりと存在を受け入れ、いきなりhIEモデルのオーディションに応募までしてしまう。一方、アラトは見た目が同年代の美少女であるレイシアとの同居に戸惑いを隠せない。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884696←前話｜次話→so35884831　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35884783
+  default_thread_id: 1572428223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884783/35884783.15369643
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: You’ll be mine
+  description: アナログハックの知識はあるものの、どうしてもレイシアの振る舞いにときめいてしまうアラト。そんなとき、レイシアがユカの目の前で「誘拐」された。あくまで事件を「物の窃盗」として扱おうとする警察に憤ったアラトは、リョウとケンゴの力を借りて独自の捜査を行うことに。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884783←前話｜次話→so35884928　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35884831
+  default_thread_id: 1572429242
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884831/35884831.56592360
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: Automatic world
+  description: レイシアの「第一の妹」を自称する凶悪なhIE・紅霞。彼女は抗体ネットワークを巧みに操り、おそろしいテロを引き起こそうとしていた。その陰謀にケンゴも巻き込まれていると知ったアラトは、レイシアとともに彼を助けようとする。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884831←前話｜次話→so35884974　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35884928
+  default_thread_id: 1572430145
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884928/35884928.26416736
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: Tools for outsoucers
+  description: 抗体ネットワークによるテロのターゲットである、産業振興センターへと辿り着いたアラト。階上へ向かった彼は、そこで父が開発に関わっているアンドロイド政治家・ミコトを目撃し、その存在にかすかな疑念を抱く。直後、紅霞の率いるテロ部隊と、もう一体のレイシア級hlEが襲来。ビルの中で激戦が始まる……！<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884928←前話｜次話→so35885029　第一話→so35884696
+  length_seconds: 1437
+  content_id: so35884974
+  default_thread_id: 1572430623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884974/35884974.31496507
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: Higgins village
+  description: アラトは無事、産業振興センターの大惨事からケンゴを救い出すことができた。しかし穏やかな日常へと帰還しても、増えゆく謎に気を取られ、彼の心はなんとなく晴れない。そのころミームフレーム社では派閥争いがさらに激化。その渦中で、レイシア級のhlE・メトーデが動きだそうとしていた。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884974←前話｜次話→so35885079　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885029
+  default_thread_id: 1572431344
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885029/35885029.557404
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: Boy meets pornography
+  description: レイシアのモデルとしての新たな仕事。それは人間とhlEの新たな関係性を示すイメージCMだった。人が異性型のhlEを対等なパートナーと見做す……題して「Boy
+    meets Girl」という、世間を挑発するような大胆なCMのコンセプトに触れ、アラトの心は強く乱れるのだった。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885029←前話｜次話→so35885127　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885079
+  default_thread_id: 1572432003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885079/35885079.14918243
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: Awakening of sleeping beauty
+  description: 紫織と契約したメトーデが、CM撮影中のレイシアを急襲。アラトとレイシアを巡る状況は、ふたたび大きく動き出そうとしていた。そんな折、アラトの通う高校に転校生がやってくる。エリカ・バロウズーー冷凍睡眠から目覚めた、二十一世紀生まれの「眠り姫」。そんなエリカに、アラトは奇妙な敵意を向けられる。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885079←前話｜次話→so35885178　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885127
+  default_thread_id: 1572432725
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885127/35885127.44644994
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: My whereabouts
+  description: 紫織の計画が動き出した。このままではアラトは、レイシアの所有権を失ってしまう。「アラトさん……わたしを、あなたと一緒にいさせてください」レイシアのそんな思いもよらぬ言葉に“こころ”を動かされ、アラトは紫織たちを止めるべく、中部国際空港を目指す。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885127←前話｜次話→so35885219　第一話→so35884696
+  length_seconds: 1377
+  content_id: so35885178
+  default_thread_id: 1572433383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885178/35885178.53730908
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: Dwellings and surroundings
+  description: メトーデとレイシアの激突によって引き起こされた破壊の代償として、アラトは二週間の停学を言い渡され、さらに450万円もの負債も背負ってしまった。負債の半額近くを出してくれる父のコウゾウに詫びるため、アラトはレイシア、ユカ、リョウを伴って、hIEの大規模実験が行われている、つくば次世代型環境実験都市へと向かう。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885178←前話｜次話→so35885278　第一話→so35884696
+  length_seconds: 1466
+  content_id: so35885219
+  default_thread_id: 1572433983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885219/35885219.2594735
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: Dystopia game
+  description: レイシアの目の前で、メトーデにユカがさらわれた。救出に向かうアラトとリョウ。その前に、渡来銀河の策略によってまるでゾンビのような状態と化した実験都市のhIEが、大量に立ちふさがる。hIEの制御を取り戻すため、管理中枢棟へ突撃するアラトたちだったが……。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885219←前話｜次話→so35885337　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885278
+  default_thread_id: 1572434343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885278/35885278.20514055
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: Slumber of human
+  description: 渡来銀河の死によって、つくば次世代型環境実験都市での事件は、ひとまず幕を閉じた。事件の最中、レイシアに告白してしまったアラト。それを受け入れたレイシア。いきなり誕生した家庭内カップルに対し、複雑な気持ちのユカ。一方、公安警察やレイシア級のマスターたちは、変わり始めた状況を前にそれぞれの活動を開始していた。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885278←前話｜次話→so35885384　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885337
+  default_thread_id: 1572435005
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885337/35885337.33285859
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: The Prayer Within
+  description: エリカによるバロウズ邸への招集を経て、レイシア級hIEたちの闘いは次のステージへと進んだ。どの機体も次の一手を探る中、紅霞は中部国際空港爆破の実行犯として公安警察にマークされ、自分の持つ「未来」の可能性が閉ざされつつあることを感じていた。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885337←前話｜次話→so35884698　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885384
+  default_thread_id: 1572435603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885384/35885384.83600195
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: Answer for Survive
+  description: "〈抗体ネットワーク〉による次世代型社会研究センターへのテロ行為を、単独で実行する紅霞。その圧倒的な破壊行為は、カメラユニットによって中継され、世界中の持たざる人々を熱狂させる。それは紅霞が「未来」へと繋ぐもの……。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885384←前話｜次話→so35884699　第一話→so35884696"
+  length_seconds: 1437
+  content_id: so35884698
+  default_thread_id: 1572427025
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884698/35884698.51035532
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: Edge Line
+  description: 紅霞のテロ行動のあおりを受け、公安警察に逮捕されたケンゴ。アラトは彼を助け出すことを決意し、レイシアに命じる。そして、レイシアの計算によって導き出された作戦に従い、アラトは紅霞を破壊したPMC「HOO」と接触するのだった。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884698←前話｜次話→so35884784　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35884699
+  default_thread_id: 1572427383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884699/35884699.17679091
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: Plus One
+  description: 紅霞が破壊されたことに刺激を受け、行動計画を早めたスノウドロップは、三鷹変電所に陣取りエネルギーを確保しながら、周囲に大災害を巻き起こす。事態を収拾しようと動き出したアラトとレイシアだったが、その前にメトーデとリョウが立ち塞がる。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884699←前話｜次話→so35885386　第一話→so35884696
+  length_seconds: 1452
+  content_id: so35884784
+  default_thread_id: 1572428583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884784/35884784.24054145
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: A Reason of Our Own
+  description: 明かされたレイシアの秘密。その衝撃を受け止めきれず、アラトはレイシアの傍から離れてしまう。ただひとり、無力な存在となった彼は、リョウとメトーデによって身柄を確保され、スノウドロップによる災厄をただモニター越しに見つめるしかない。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884784←前話｜次話→so35885479　第一話→so35884696
+  length_seconds: 1452
+  content_id: so35885386
+  default_thread_id: 1572435606
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885386/35885386.39810288
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: Protocol of Love
+  description: 紫織とユカに背中を押され、レイシアとふたたび向き合うことを決意したアラト。自分の命令がまだ有効ならば、レイシアはスノウドロップを止めようとしているはず……そう考えた彼は、スノウドロップの力で変貌し、もはや「異界」と化した三鷹を目指す。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885386←前話｜次話→so35885480　第一話→so35884696
+  length_seconds: 1452
+  content_id: so35885479
+  default_thread_id: 1572436803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885479/35885479.60736754
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: Paper Tiger
+  description: 三鷹の惨劇からおよそ二ヶ月。表面上は平穏を取り戻した世界で、アラトとレイシアは身を潜め、次の事態に備えつつ、蜜月を過ごしていた。しかし、そんなささやかな幸せを破るかのように、IAIAの誇る超高度AI「アストライア」からのコンタクトが……。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885479←前話｜次話→so35885481　第一話→so35884696
+  length_seconds: 1452
+  content_id: so35885480
+  default_thread_id: 1572436805
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885480/35885480.36725247
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: Our Errored World
+  description: 超高度AIによって引き起こされる社会の変化。アラトとレイシアを中心に、その帰結を巡る闘いが激化する中、旧世代の権力者たちは自らの利益を最大化するため、醜い話し合いを重ねる。参加者の中でただひとり、エリカ・バロウズだけは、その愚かさに怒りを覚えるのだった。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885480←前話｜次話→so35885564　第一話→so35884696
+  length_seconds: 1437
+  content_id: so35885481
+  default_thread_id: 1572436623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885481/35885481.25016226
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: Higgins' silo
+  description: ミームフレーム社の根幹であり、人類の未来を握る鍵のひとつであり、そして、レイシアの生みの親とも呼べる存在である超高度AI「ヒギンズ」。アラトとレイシアは、ヒギンズに触れるため、巨大な地下施設を進む。そこは人類の想像を絶する「未来」の置かれた場所……。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885481←前話｜次話→so35885031　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885564
+  default_thread_id: 1572437823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885564/35885564.76881069
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: Pygmalion
+  description: ヒギンズの置かれた地下施設で、アラトとレイシアの前に、またも立ち塞がるメトーデ。敵対する超高度AIによって送り込まれた、スノウドロップの脅威も迫る。激化する闘争の中、アラトとリョウは、人類として精一杯の責任を果たそうとする。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885564←前話｜次話→so35884929　第一話→so35884696
+  length_seconds: 1467
+  content_id: so35885031
+  default_thread_id: 1572431404
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885031/35885031.77378501
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: Beatless
+  description: 地下施設に舞い降りた、半人半鳥のスノウドロップーーそれは超高度AIが思考の果てに生み出した、もはや人類の存在を必要としない異形の魔物。レイシアはスノウドロップの動きを止めるため、hIEの行動を制御するクラウドシステムへの介入を試みる。それは人類全体に絶大な影響を及ぼす行動だった。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35885031←前話｜次話→so35885565　第一話→so35884696
+  length_seconds: 1452
+  content_id: so35884929
+  default_thread_id: 1572430024
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35884929/35884929.59935099
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: Boy Meets Girl
+  description: "「未来」を選ぶため、ヒギンズ格納施設の心臓部へと続く道を進むアラトとレイシア。互いに寄り添い、支え合う姿は、もはや「ひとつ」の存在のよう。だが、ふたりに残された時間はもう僅かであった……。<br><br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里<br><br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+    record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+    MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）<br><br>©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会<br><br>so35884929←前話　第一話→so35884696"
+  length_seconds: 1455
+  content_id: so35885565
+  default_thread_id: 1572437942
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35885565/35885565.34809811
+cast: "[キャスト]<br>遠藤アラト:吉永拓斗／レイシア:東山奈央／紅霞:冨岡美沙子／スノウドロップ:五十嵐裕美／サトゥルヌス:下地紫野／メトーデ:雨宮天／海内遼:石川界人／村主ケンゴ:山下大輝／遠藤ユカ:小野早稀／海内紫織:佐武宇綺／村主オーリガ:若井友希／エリカ・バロウズ:陶山恵実里"
+staff: "[スタッフ]<br>原作:長谷敏司「BEATLESS」（KADOKAWA）／原作イラスト:redjuice／監督:水島精二／シリーズ構成:髙橋龍也、雑破業／キャラクターデザイン:やぐちひろこ／美術監督:峯田佳実／色彩設計:林由稀／撮影監督:伊藤康行／編集:小島俊彦／音響監督:菊田浩巳／音響制作:楽音舎／音楽:Narasaki(sadesper
+  record) 、 kz(livetune)／音楽制作:株式会社インクストゥエンター／アニメーション制作:ディオメディア／製作:BEATLESS製作委員会／オープニングテーマ:GARNiDELiA「Error」（SACRA
+  MUSIC）／エンディングテーマ:ClariS「PRIMALove」（SACRA MUSIC）"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2018 長谷敏司・redjuice・monochrom／KADOKAWA／BEATLESS製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

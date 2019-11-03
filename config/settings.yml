@@ -522,6 +522,16 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第40話'
           title: "0065プルー・レジェンド "
+  - id: 28
+    title: '殺戮の天使'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第12話'
+          title: "Try to know everything about Her."
+        nico_branch:
+          episode_no: '第12話'
+          title: "Try to know  everything about Her."
 
 seasons_with_different_title:
   -
@@ -542,3 +552,9 @@ seasons_with_different_title:
     different_titles:
       lineup: '戦姫絶唱シンフォギアXV'
       episode:
+  -
+    id: 4
+    title: '血界戦線 & BEYOND'
+    different_titles:
+      lineup:
+      episode: '血界戦線 ＆ BEYOND'

@@ -1,0 +1,223 @@
+--- !ruby/hash:SeasonHash
+title: STAGE FES 2018
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/64/8/22648_1_6.png?1550642489000
+outline: |-
+  大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！
+  【出演キャスト】:舞台「おそ松さん on STAGE～SIX MEN'S SHOW TIME 2～」おそ松:高崎翔太、カラ松:柏木佑介、チョロ松:植田圭輔、一松:北村 諒、十四松:小澤 廉、トド松:赤澤遼太郎、おそ松/F6:井澤勇貴、カラ松/F6:和田雅成、チョロ松/F6:小野健斗、一松/F6:安里勇哉、十四松/F6:和合真一、トド松/F6:中山優貴
+  舞台「KING OF PRISM -Over the Sunshine!-」一条シン：橋本祥平、神浜コウジ：小南光司、仁科カヅキ：大見拓土、太刀花ユキノジョウ：横井翔二郎、香賀美タイガ：長江崚行、十王院カケル：村上喜紀、鷹梁ミナト：五十嵐雅、西園寺レオ：星元裕月、高田馬場ジョージ：古谷大和、氷室聖：栗田学武、法月仁：前内孝文
+  ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」ハイネ:植田圭輔、カイ:安里勇哉、ブルーノ:安達勇人、レオンハルト:廣瀬大介、ローゼンベルク:君沢ユウキ
+  舞台「俺たちマジ校デストロイ」（※二部のみ出演）皆瀬 友〈トモ〉：谷水 力、新名裕輝〈ニーナ〉：野口稜介、三栗 俊〈メグ〉：熊谷魁人、鈴城御由〈ミユ〉：小南光司、芹沢 純〈ジュン〉：堀 海登、加賀幸彦〈ユッキー〉：大橋典之
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 植田圭輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 安里勇哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 安達勇人
+  type: cast
+- !ruby/hash:TagHash
+  name: 廣瀬大介
+  type: cast
+- !ruby/hash:TagHash
+  name: 北村諒
+  type: cast
+- !ruby/hash:TagHash
+  name: 長江崚行
+  type: cast
+- !ruby/hash:TagHash
+  name: 高崎翔太
+  type: cast
+- !ruby/hash:TagHash
+  name: 和田雅成
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野健斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 橋本祥平
+  type: cast
+- !ruby/hash:TagHash
+  name: 和合真一
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤廉
+  type: cast
+- !ruby/hash:TagHash
+  name: STAGE FESシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: STAGE FES 2018
+  description: 大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE
+    FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF
+    PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！【コピーライト】:©stagefes2018©赤塚不二夫
+    ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING
+    OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero
+    Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ
+    / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+    / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>次話→so35768539
+  length_seconds: 1057
+  content_id: so35768538
+  default_thread_id: 1570172343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768538/35768538.37696551
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: STAGE FES 2018
+  description: 大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE
+    FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF
+    PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！【コピーライト】:©stagefes2018©赤塚不二夫
+    ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING
+    OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero
+    Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ
+    / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+    / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>so35768538←前話｜次話→so35768540　第一話→so35768538
+  length_seconds: 935
+  content_id: so35768539
+  default_thread_id: 1570172103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768539/35768539.36902736
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: STAGE FES 2018
+  description: 大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE
+    FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF
+    PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！【コピーライト】:©stagefes2018©赤塚不二夫
+    ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING
+    OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero
+    Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ
+    / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+    / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>so35768539←前話｜次話→so35768541　第一話→so35768538
+  length_seconds: 1097
+  content_id: so35768540
+  default_thread_id: 1570172404
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768540/35768540.24662421
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: STAGE FES 2018
+  description: 大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE
+    FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF
+    PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！【コピーライト】:©stagefes2018©赤塚不二夫
+    ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING
+    OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero
+    Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ
+    / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+    / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>so35768540←前話｜次話→so35768542　第一話→so35768538
+  length_seconds: 1172
+  content_id: so35768541
+  default_thread_id: 1570172583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768541/35768541.31542360
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: STAGE FES 2018
+  description: 大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE
+    FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF
+    PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！【コピーライト】:©stagefes2018©赤塚不二夫
+    ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING
+    OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero
+    Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ
+    / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+    / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>so35768541←前話｜次話→so35768543　第一話→so35768538
+  length_seconds: 1294
+  content_id: so35768542
+  default_thread_id: 1570172645
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768542/35768542.24384121
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: STAGE FES 2018
+  description: 大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE
+    FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF
+    PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！【コピーライト】:©stagefes2018©赤塚不二夫
+    ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING
+    OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero
+    Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ
+    / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+    / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>so35768542←前話｜次話→so35768544　第一話→so35768538
+  length_seconds: 1427
+  content_id: so35768543
+  default_thread_id: 1570172829
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768543/35768543.95201439
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.7
+  title: STAGE FES 2018
+  description: 大人気の舞台・ミュージカル作品の豪華キャスト陣が舞台（ステージ）での姿そのままに大晦日のステージに集結！各作品の人気楽曲怒涛のLIVE＆トークで夢の大晦日をお届けします！2017年に初開催となる「STAGE
+    FES 2017」が開催され、第2回目となる今回は舞台「おそ松さん on STAGE ～SIX MEN'S SHOW TIME 2～」舞台「KING OF
+    PRISM -Over the Sunshine!-」ミュージカル「王室教師ハイネ -THE MUSICAL Ⅱ-」が登場！第二部では新年へのカウントダウン＆舞台「俺たちマジ校デストロイ」お披露目ライブも。今年も忘れられない一夜をお届けします！【コピーライト】:©stagefes2018©赤塚不二夫
+    ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING
+    OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero
+    Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ
+    / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+    / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ<br><br>so35768543←前話　第一話→so35768538
+  length_seconds: 1288
+  content_id: so35768544
+  default_thread_id: 1570172838
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35768544/35768544.65597866
+staff: "[スタッフ]<br>【コピーライト】:©stagefes2018©赤塚不二夫 ／「おそ松さん」on STAGE製作委員会2018©Ｔ－ＡＲＴＳ /
+  syn Sophia / エイベックス・ピクチャーズ / タツノコプロ /「KING OF PRISM -Over the Sunshine!-」製作委員会2017©赤井ヒガサ
+  / SQUARE ENIX・劇場版「王室教師ハイネ」製作委員会©ミュージカル「王室教師ハイネ」製作委員会©Marumero Tanaka／KADOKAWA／エイベックス・ピクチャーズ"
+produced_year: "[製作年]<br>2018年"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2017
+- !ruby/hash:SeasonHash
+  title: 舞台『おそ松さん on STAGE ～SIX MEN’S SHOW TIME 2～』
+- !ruby/hash:SeasonHash
+  title: 舞台「KING OF PRISM －Over the Sunshine!－」
+- !ruby/hash:SeasonHash
+  title: "「王室教師ハイネ －THE MUSICAL－」"
+- !ruby/hash:SeasonHash
+  title: ミュージカル「Dance with Devils～Fermata（フェルマータ）～」
+- !ruby/hash:SeasonHash
+  title: "「王室教師ハイネ -THE MUSICAL Ⅱ-」"
+- !ruby/hash:SeasonHash
+  title: Dance with Devils
+- !ruby/hash:SeasonHash
+  title: 劇場版「Dance with Devils-Fortuna-」
+- !ruby/hash:SeasonHash
+  title: おそ松くん
+- !ruby/hash:SeasonHash
+  title: おそ松さん
+- !ruby/hash:SeasonHash
+  title: おそ松さん　第3.5話
+- !ruby/hash:SeasonHash
+  title: "「おそ松さん」おうまでこばなし"
+- !ruby/hash:SeasonHash
+  title: おそ松さん 第2期
+- !ruby/hash:SeasonHash
+  title: "「えいがのおそ松さん」劇場公開記念特番　鈴村健一＆入野自由のおフランスに行くザンス！"
+- !ruby/hash:SeasonHash
+  title: おそ松さん on STAGE ～SIX MEN'S SHOW TIME～ 配信版
+- !ruby/hash:SeasonHash
+  title: F6 1st LIVEツアー「Satisfaction」
+- !ruby/hash:SeasonHash
+  title: 喜劇「おそ松さん」
+- !ruby/hash:SeasonHash
+  title: 王室教師ハイネ
+- !ruby/hash:SeasonHash
+  title: 劇場版「王室教師ハイネ」
+- !ruby/hash:SeasonHash
+  title: "「KING OF PRISM by PrettyRhythm」"
