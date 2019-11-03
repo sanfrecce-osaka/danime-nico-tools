@@ -98,6 +98,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1570757403
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35797781/35797781.29658513
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 始まりの器
+  description: アークスシップで束の間の休息を楽しむアッシュたちは、アークスを目指す少女ウルクと出会う。彼女はアッシュたちの同期の中に、自分を置いて先にアークスになった幼馴染がいると言うが……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35797781←前話｜次話→so35892688　第一話→so35755425
+  length_seconds: 1420
+  content_id: so35860515
+  default_thread_id: 1571966529
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35860515/35860515.60920449
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"
