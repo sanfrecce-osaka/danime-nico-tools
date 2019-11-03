@@ -33,10 +33,10 @@ tags: !ruby/array:Hashie::Array
   name: 天﨑滉平
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋英則
+  name: 石谷春貴
   type: cast
 - !ruby/hash:TagHash
-  name: 石谷春貴
+  name: 高橋英則
   type: cast
 - !ruby/hash:TagHash
   name: 阪本奨悟

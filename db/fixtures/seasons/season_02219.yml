@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 武内駿輔
   type: cast
 - !ruby/hash:TagHash
-  name: 福島潤
+  name: 堀江瞬
   type: cast
 - !ruby/hash:TagHash
-  name: 堀江瞬
+  name: 福島潤
   type: cast
 - !ruby/hash:TagHash
   name: 市川蒼
