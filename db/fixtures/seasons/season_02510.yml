@@ -86,6 +86,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1571879225
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35856401/35856401.46495941
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: PIECE5
+  description: スタンドの力になるどころか、このままではお荷物になってしまうと落ち込む泉。そこへ追い打ちをかけるように、上層部からスカウト業務の一時中断が通達され、次のスカウト対象者の指定があるまで通常のマトリ業務へと戻ることに。仕事に没頭する泉だったが、カラ元気であることを察するマトリメンバー。そんな泉を自宅へ招待する青山の真意とは。<br><br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里<br><br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ<br><br>©coly/スタマイ製作委員会<br><br>so35856401←前話　第一話→so35767860
+  length_seconds: 1430
+  content_id: so35887942
+  default_thread_id: 1572487565
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35887942/35887942.79441059
 cast: "[キャスト]<br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里"
 staff: "[スタッフ]<br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ"
 produced_year: "[製作年]<br>2019年"
