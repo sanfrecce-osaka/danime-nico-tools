@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: アズールレーン
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/3/23013_1_6.png?1569472233000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/3/23013_1_8_8b.png?1569472233000
 outline: "「アズールレーン」の少女たちは、世界の外より訪れた謎の敵「セイレーン」の大攻勢を退けた。しかし、戦いはいつの世も変わることはない。かつて人類が海の覇権を争ったのと同じように、理念の違いから「アズールレーン」と「レッドアクシズ」は対立。そして時は流れ――"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -114,6 +114,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1572488403
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35887991/35887991.57334722
+- !ruby/hash:EpisodeHash
+  episode_no: '06'
+  title: "【羈絆】絆を繋ぐ、心を縛る"
+  description: レッドアクシスとセイレーンの繋がりに思い当たったアズールレーン司令部。分析を急ぐ中、黒いメンタルキューブは何故かエンタープライズに反応する。一方、皆で大浴場へと向かうアズールレーンの少女達だが、ユニコーンには気になることがあるようで……<br><br>エンタープライズ:石川由依／ベルファスト:堀江由衣／赤城:中原麻衣／綾波:大地葉／ラフィー:長縄まりあ／ジャベリン:山根希美　ほか<br><br>原作:Manjuu
+    Co.,Ltd.,／Yongshi Co.,Ltd.「アズールレーン」（Android/iOS用スマートフォンアプリゲーム）／監督:天衝／シリーズ構成:鋼屋ジン／キャラクターデザイン／総作画監督:野中正幸／コンセプトデザイン:MAGNUM／美術監督:扇山秋仁／美術設定:塩澤良憲／色彩設計:林可奈子／CGディレクター:比嘉芳明／撮影監督:千葉大輔／編集:武宮むつみ／音響監督:土屋雅紀／音響制作:ダックスプロダクション／音楽:西木康智／音楽制作:ストレイキャッツ／音楽プロデューサー:木皿陽平／アニメーション制作:バイブリーアニメーションスタジオ<br><br>©Manjuu
+    Co.,Ltd., Yongshi Co.,Ltd.&amp;Yostar Inc.／アニメ「アズールレーン」製作委員会<br><br>so35887991←前話　第一話→so35763687
+  length_seconds: 1430
+  content_id: so35920297
+  default_thread_id: 1573089063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35920297/35920297.44552252
 cast: "[キャスト]<br>エンタープライズ:石川由依／ベルファスト:堀江由衣／赤城:中原麻衣／綾波:大地葉／ラフィー:長縄まりあ／ジャベリン:山根希美　ほか"
 staff: "[スタッフ]<br>原作:Manjuu Co.,Ltd.,／Yongshi Co.,Ltd.「アズールレーン」（Android/iOS用スマートフォンアプリゲーム）／監督:天衝／シリーズ構成:鋼屋ジン／キャラクターデザイン／総作画監督:野中正幸／コンセプトデザイン:MAGNUM／美術監督:扇山秋仁／美術設定:塩澤良憲／色彩設計:林可奈子／CGディレクター:比嘉芳明／撮影監督:千葉大輔／編集:武宮むつみ／音響監督:土屋雅紀／音響制作:ダックスプロダクション／音楽:西木康智／音楽制作:ストレイキャッツ／音楽プロデューサー:木皿陽平／アニメーション制作:バイブリーアニメーションスタジオ"
 produced_year: "[製作年]<br>2019年"

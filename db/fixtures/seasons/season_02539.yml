@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: ゾイドワイルド ZERO
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/7/23047_1_6.png?1569902456000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/7/23047_1_8_8b.png?1569902456000
 outline: ゾイドとは、銀河の彼方に生息する、戦う意思を持った金属生命体である。惑星が最後を迎え、人類は第二の故郷として地球を目指すが、ゾイド因子の暴走と不慮のタイムワープで、突如、21世紀の地球にゾイドが出現。ゾイドによる破壊と度重なる地殻変動で地球は一度滅びた。レオは自ら発掘したビーストライガーを相棒に、地球の未来を左右する少女サリーと冒険の旅に出発した。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -105,6 +105,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1572487927
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35887933/35887933.45405654
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 悪魔の翼！スナイプテラ
+  description: レオたちは手掛かりを元にボーマンを探し始める。一方ギレルはゾイドクライシスで大暴れした超巨大ゾイド、ジェノスピノの極秘発掘作業の護衛につく。いずれは自分がジェノスピノを操縦する為にだ。だが発掘現場はレオとビーストライガーの進路上にあった。自らの目的の為に燃えるレオとギレルが、砂漠で再び激突する！<br><br>レオ・コンラッド:野上
+    翔／サリー・ランド:千田 葉月／バズ・カニンガム:保村 真／ジョー・アイセル:日笠 陽子／クリストファー・ギレル:増田 俊樹<br><br>原作:タカラトミー／監督:加戸
+    誉夫／シリーズ構成:荒木 憲一／キャラクターデザイン:坂﨑 忠／音響監督:松岡 裕紀／音楽:平野 義久／アニメ制作:OLM<br><br>© ＴＯＭＹ／ＺＷ製作委員会・テレビ東京<br><br>so35887933←前話｜次話→so35955688　第一話→so35824791
+  length_seconds: 1365
+  content_id: so35920299
+  default_thread_id: 1573089125
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35920299/35920299.6483174
 cast: "[キャスト]<br>レオ・コンラッド:野上 翔／サリー・ランド:千田 葉月／バズ・カニンガム:保村 真／ジョー・アイセル:日笠 陽子／クリストファー・ギレル:増田
   俊樹"
 staff: "[スタッフ]<br>原作:タカラトミー／監督:加戸 誉夫／シリーズ構成:荒木 憲一／キャラクターデザイン:坂﨑 忠／音響監督:松岡 裕紀／音楽:平野
