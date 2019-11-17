@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: GRANBLUE FANTASY The Animation Season2
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/0/23010_1_6.png?1569828608000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/0/23010_1_8_8b.png?1569828608000
 outline: いま再び、広大な蒼の空へ―――空に憧れ、星の島を目指す少年は、蒼い髪の不思議な少女と、運命と生命を共にすることになった。空へと旅立った少年と少女が出会ったのは、信頼できる仲間たち、そして空を渡る騎空挺。帝国の追撃を躱し、星晶獣との邂逅を経て、二人は絆を深め、成長していく。だが、星の島への道程はまだ半ば。少年と少女は、仲間とともに次なる旅路へ進む。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 加藤英美里
   type: cast
 - !ruby/hash:TagHash
-  name: 田中理恵
+  name: 東山奈央
   type: cast
 - !ruby/hash:TagHash
-  name: 東山奈央
+  name: 田中理恵
   type: cast
 - !ruby/hash:TagHash
   name: 石川界人
@@ -131,12 +131,24 @@ episodes: !ruby/array:Hashie::Array
   description: 星晶獣シュヴァリエの力を開放し、グラン達に襲いかかるヴィーラ。暴走するヴィーラの姿を目にしてカタリナは自責の念にかられる。そしてカタリナは、過去を清算するためヴィーラの気持ちに向き合うことを決意する。カタリナの願いを叶えるため、グラン達はヴィーラの猛攻を総力戦で迎え撃つ。ついに追い込まれ、シュヴァリエの力を展開できなくなったヴィーラだが、戦意はなお衰えない。その想いを受け止めようと、カタリナはヴィーラと対峙する。<br><br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
     円／ノア:石川界人<br><br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
     圭介／音楽:成田勤、西木康智／音響監督:梅本 唯／音響効果:和田俊也／音響制作:dugout／アニメーション制作:MAPPA／製作:GRANBLUE FANTASY
-    The Animation Project<br><br>©GRANBLUE FANTASY The Animation Project<br><br>so35860518←前話　第一話→so35763686
+    The Animation Project<br><br>©GRANBLUE FANTASY The Animation Project<br><br>so35860518←前話｜次話→so35924568　第一話→so35763686
   length_seconds: 1420
   content_id: so35892690
   default_thread_id: 1572571205
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35892690/35892690.43719513
+- !ruby/hash:EpisodeHash
+  episode_no: GRANBLUE FANTASY The Animation Extra 2
+  title: カボチャのランタン
+  description: カボチャのランタンに彩られた街――。ハロウィンのお祭りで賑わうとある島に訪れたジータ達は、お菓子の屋台が立ち並ぶ街の雰囲気を満喫していた。カリオストロもお祭りの風習に合わせた「世界一可愛い」仮装をしてご満悦の様子。そんな中フェリは「死者の魂が帰ってくる」というハロウィンの伝承に興味があるようで、お祭りの参加者から情報を集め始める。幽霊である彼女は、死者の魂の導き手に会って自分が何者なのかを訊ねたいようだ。フェリが訊いた話によると、死者を連れてくるのは「迷子のジャック」と呼ばれるカボチャ頭の怪人。さらに街を散策するうちに、ジータ達は今朝から姿が見えなくなった行方不明の少年の噂を耳にして……？<br><br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
+    円／ノア:石川界人<br><br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
+    圭介／音楽:成田勤、西木康智／音響監督:梅本 唯／音響効果:和田俊也／音響制作:dugout／アニメーション制作:MAPPA／製作:GRANBLUE FANTASY
+    The Animation Project<br><br>© アニメ「グランブルーファンタジー」製作委員会<br><br>so35892690←前話｜次話→so35955692　第一話→so35763686
+  length_seconds: 1420
+  content_id: so35924568
+  default_thread_id: 1573175406
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35924568/35924568.46871736
 cast: "[キャスト]<br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
   円／ノア:石川界人"
 staff: "[スタッフ]<br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
