@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: スタンドマイヒーローズ　PIECE OF TRUTH
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/99/6/22996_1_8_8b.png?1568696518000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/99/6/22996_1_6.png?1568696518000
 outline: "『スタンド（STand Alone National Department）』麻薬取締官、刑事、情報屋、著名人、名家の人間といった官民に関係なく適正のある者で構成された、薬物絡みの事件を取り扱う独立捜査機関。新人マトリである泉玲は、スタンドの候補者として選出されたメンバーのスカウト役に任命される。その候補者として選出されたメンバーを待ち受けていたのは、異なる正義を持つ組織間の対立と、謎のドラッグに紐付く未解決事件であった。彼らがたどりつく真実とは―――"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -104,6 +104,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1573455424
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35939811/35939811.71736941
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: PIECE7
+  description: ついにスカウト業務が再開された。スカウト対象者は大森製薬会社の役員であり、九条家の当主でもある九条壮馬。十数年前に出回り、最近また姿を現したドラッグ「プラス」と関与の疑いがある人物だ。アポイントを取り、青山と泉は共に九条邸へと赴く。九条家の面々の鋭い視線のなか、スタンドについて丁寧に説明を始めるものの、九条からの質問にうまく答えられない泉に青山も助け舟を出し、さらなる説得を試みるが……。<br><br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里<br><br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ<br><br>©coly/スタマイ製作委員会<br><br>so35939811←前話　第一話→so35767860
+  length_seconds: 1430
+  content_id: so35974356
+  default_thread_id: 1574125812
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35974356/35974356.39146730
 cast: "[キャスト]<br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里"
 staff: "[スタッフ]<br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ"
 produced_year: "[製作年]<br>2019年"

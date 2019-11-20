@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: TVアニメ「あんさんぶるスターズ！」
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/84/9/22849_1_8_8b.png?1568084408000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/84/9/22849_1_6.png?1568084408000
 outline: 男性アイドル育成に特化した私立夢ノ咲学院。氷鷹北斗・明星スバル・遊木真・衣更真緒の４人は『Trickstar』というユニットを組み、トップアイドルを目指し、日々レッスンに励んでいる。しかし、夢ノ咲学院が主催するアイドルたちがお互いの魅力を競いあうライブイベント、通称『ドリフェス』は、学院の秩序という名の権力に支配されていた。その中心となる生徒会に、『Trickstar』は改革を求めて挑んでいく―――
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -410,7 +410,7 @@ episodes: !ruby/array:Hashie::Array
     航／あんず:坂本真綾<br><br>原作:Happy Elements（カカリアスタジオ）／監督:菱田正和／シリーズディレクター:ソエジマヤスフミ／シリーズ構成:日日日／チーフライター:猪爪慎一／キャラクター原案:Happy
     Elements（カカリアスタジオ）／キャラクターデザイン:飯塚晴子・下谷智之・長田絵里／美術監督:山根左帆／色彩設計:鈴木依里／3Ｄ監督:日下大輔／撮影監督:上條智也／編集:長谷川
     舞／音楽プロデューサー:桑原 聖／音楽:加藤達也／音響監督:濱野高年／アニメーション制作:david production<br><br>©Happy Elements
-    K.K／あんスタ！アニメ製作委員会<br><br>so35916181←前話　第一話→so35376165
+    K.K／あんスタ！アニメ製作委員会<br><br>so35916181←前話｜次話→so35978435　第一話→so35376165
   length_seconds: 1442
   content_id: so35944089
   default_thread_id: 1573543023
