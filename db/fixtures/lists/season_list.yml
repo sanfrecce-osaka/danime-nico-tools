@@ -7799,3 +7799,9 @@
 - !ruby/hash:Hashie::Mash
   title: ルパン三世 PART2
   first_episode_url: http://www.nicovideo.jp/watch/so31886335
+- !ruby/hash:Hashie::Mash
+  title: 八百八町表裏　化粧師【デジタルリマスター版】
+  first_episode_url: http://www.nicovideo.jp/watch/so35952271
+- !ruby/hash:Hashie::Mash
+  title: バクマン。第3シリーズ
+  first_episode_url: http://www.nicovideo.jp/watch/so35763692
