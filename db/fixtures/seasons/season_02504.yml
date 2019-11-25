@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: GRANBLUE FANTASY The Animation Season2
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/0/23010_1_6.png?1569828608000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/01/0/23010_1_8_8b.png?1569828608000
 outline: いま再び、広大な蒼の空へ―――空に憧れ、星の島を目指す少年は、蒼い髪の不思議な少女と、運命と生命を共にすることになった。空へと旅立った少年と少女が出会ったのは、信頼できる仲間たち、そして空を渡る騎空挺。帝国の追撃を躱し、星晶獣との邂逅を経て、二人は絆を深め、成長していく。だが、星の島への道程はまだ半ば。少年と少女は、仲間とともに次なる旅路へ進む。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -148,19 +148,31 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35924568
   default_thread_id: 1573175406
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35924568/35924568.46871736
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35975189/35975189.16336689
 - !ruby/hash:EpisodeHash
   episode_no: "#06"
   title: 霧に包まれた島
   description: アルビオンを出たグランサイファーが辿り着いたのは、入ったら最後、二度と出られないと噂の深い霧に包まれた島。情報収集と食糧調達のため村を歩いていると、やつれた死に顔のゾンビ達に出会い、百年前に現れたという幽霊船の話を聞く。ゾンビの村人の家に招かれたグラン達は思わぬ再会を果たす。黒騎士と行動を共にしていた三人──傭兵コンビのドランクとスツルム、そしてルリアと似た力を持つオルキス。ドランクは、この島で起こっている現象は星晶獣が関係していると言い、グラン達に協力を依頼する。<br><br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
     円／ノア:石川界人<br><br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
     圭介／音楽:成田勤、西木康智／音響監督:梅本 唯／音響効果:和田俊也／音響制作:dugout／アニメーション制作:MAPPA／製作:GRANBLUE FANTASY
-    The Animation Project<br><br>©GRANBLUE FANTASY The Animation Project<br><br>so35924568←前話　第一話→so35763686
+    The Animation Project<br><br>©GRANBLUE FANTASY The Animation Project<br><br>so35924568←前話｜次話→so35987030　第一話→so35763686
   length_seconds: 1420
   content_id: so35955692
   default_thread_id: 1573780272
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35955692/35955692.70397008
+- !ruby/hash:EpisodeHash
+  episode_no: "#07"
+  title: 不死の星晶獣
+  description: セレストに飲み込まれてしまったルリア・イオ・オルキスの三人。残されたグラン達は、村で出会った幽霊少女フェリとともに、ルリア達を救う手立てを探す。一方のルリア達も、ただ助けを待つだけではなく、協力して試行錯誤しながら出口を探していた。少しずつ心を通わせるルリアとオルキス、そしてそれを微笑ましく見守るイオ。しかし、セレストの体内を進むにつれて、徐々にイオの様子がおかしくなっていってしまい……<br><br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
+    円／ノア:石川界人<br><br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
+    圭介／音楽:成田勤、西木康智／音響監督:梅本 唯／音響効果:和田俊也／音響制作:dugout／アニメーション制作:MAPPA／製作:GRANBLUE FANTASY
+    The Animation Project<br><br>©GRANBLUE FANTASY The Animation Project<br><br>so35955692←前話　第一話→so35763686
+  length_seconds: 1420
+  content_id: so35987030
+  default_thread_id: 1574395743
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35987030/35987030.51018023
 cast: "[キャスト]<br>グラン:小野友樹／ルリア:東山奈央／ビィ:釘宮理恵／カタリナ:沢城みゆき／ラカム:平田広明／イオ:田村ゆかり／オイゲン:藤原啓治／ロゼッタ:田中理恵／シェロカルテ:加藤英美里／ヴィーラ:今井麻美／フェリ:米澤
   円／ノア:石川界人"
 staff: "[スタッフ]<br>原作:Cygames／監督:梅本 唯／シリーズ構成:吉村清子(“吉”は上部首“土”)／キャラクターデザイン:崔ふみひで／色彩設計:野口幸恵／美術監督:須江信人／3Dディレクター:薄井俊作／撮影監督:大山佳久／編集:柳
