@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: ダイヤのA actⅡ
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/67/8/22678_1_6.png?1552879839000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/67/8/22678_1_8_8b.png?1552879839000
 outline: 2年生となる沢村栄純が、ついに春のセンバツ甲子園のデビューを果たす！ 目指すは全国の頂点のみ！！ 名門復活へ。青道高校野球部の快進撃が始まる！！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -505,7 +505,20 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35944082
   default_thread_id: 1573543327
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35944082/35944082.77901298
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35944082/35944082.96221458
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 競演
+  description: 東京選抜チームに参加するため御幸がチームを離れることになり、瀬戸とともに奥村の一軍合流が発表される。一方、前園、倉持らにチームを託し、東京選抜の練習会場となった稲城実業グラウンドに向かう御幸。各校の注目選手たちもグラウンドに続々と集結、ここに東京選抜として一堂に会する。<br><br>沢村栄純:逢坂良太／降谷
+    暁:島﨑信長／御幸一也:櫻井孝宏／奥村光舟:内田雄馬／倉持洋一:浅沼晋太郎／小湊春市:花江夏樹／結城将司:武内駿輔／瀬戸拓馬:山下大輝／由井 薫:村瀬 歩／浅田浩文:畠中
+    祐<br><br>原作:寺嶋裕二「ダイヤのA actⅡ」（週刊少年マガジン／講談社刊）／監督:増原光幸／シリーズ構成:古怒田健志／キャラクターデザイン:田﨑
+    聡、植田 実／総作画監督:小林 亮、吉川真一／アクション作画監督:佐藤雄三、千光士海登、戸倉紀元／副監督:いわたかずや／美術監督:高木佐和子／色彩設計:今野成美／撮影監督:井上洋志／編集:塚常真理子／音響監督:髙桑一／音楽:百石
+    元／アニメーション制作:MADHOUSE<br><br>©寺嶋裕二・講談社／「ダイヤのA actⅡ」製作委員会・テレビ東京<br><br>so35944082←前話｜次話→so36009165　第一話→so34902434
+  length_seconds: 1460
+  content_id: so35978432
+  default_thread_id: 1574213343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35978432/35978432.13400630
 cast: "[キャスト]<br>沢村栄純:逢坂良太／降谷 暁:島﨑信長／御幸一也:櫻井孝宏／奥村光舟:内田雄馬／倉持洋一:浅沼晋太郎／小湊春市:花江夏樹／結城将司:武内駿輔／瀬戸拓馬:山下大輝／由井
   薫:村瀬 歩／浅田浩文:畠中 祐"
 staff: "[スタッフ]<br>原作:寺嶋裕二「ダイヤのA actⅡ」（週刊少年マガジン／講談社刊）／監督:増原光幸／シリーズ構成:古怒田健志／キャラクターデザイン:田﨑

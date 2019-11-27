@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: みるタイツ
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/71/5/22715_1_6.png?1552879873000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/71/5/22715_1_8_8b.png?1552879873000
 outline: ４月。雨の朝。散り始めた桜が雨に打たれ、水たまりに浮かんでいる。生徒たちが色とりどりの傘が高校の校門をくぐり抜けていく。「おはよ、レン」。下駄箱の前で、濡れたタイツのレンにユアが話しかける。憂鬱そうに振り向くレンに、そこにいっそうびしょ濡れのホミが、跳ねるようにやってきて話に花を咲かせる。他愛無い３人の女子生徒の会話が、新学期の訪れを教室に告げる。少女たちのかけがえのない時間が駆け抜けて、季節が移り変わっていく……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -55,7 +55,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35121558
   default_thread_id: 1557796934
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121558/35121558.93748180
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35121558/35121558.3372885
 - !ruby/hash:EpisodeHash
   episode_no: 第4話～第6話
   title: はたらくタイツ／水着タイツ／畳とタイツ
@@ -64,7 +64,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35252933
   default_thread_id: 1560301927
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35252933/35252933.97998830
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35252933/35252933.93507202
 - !ruby/hash:EpisodeHash
   episode_no: 第7話～第9話
   title: 誘惑タイツ／足裏つぼタイツ／こたつでタイツ
@@ -73,7 +73,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35356499
   default_thread_id: 1562291539
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35356499/35356499.30510403
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35356499/35356499.53527968
 - !ruby/hash:EpisodeHash
   episode_no: 第10話～第12話
   title: 耳かきタイツ／バレンタイツ／旅タイツ
@@ -82,7 +82,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35416593
   default_thread_id: 1563413106
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35416593/35416593.77917900
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35416593/35416593.77522400
 cast: "[キャスト]<br>藍川レン:戸松遥／中紅ユア:日笠陽子／萌黄ホミ:洲崎綾／奥墨ユイコ:茅野愛衣"
 staff: "[スタッフ]<br>原作・ストーリー原案:よむ／監督:小川優樹／シリーズ構成・脚本:丸戸史明／キャラクターデザイン:日比野ゆかり／色彩設計:中尾総子／美術監督:栫ヒロツグ／撮影監督:佐藤光洋／編集:吉武将人／音響監督:明田川仁／音楽:Shade／制作:横浜アニメーションラボ／製作:TRUSS"
 produced_year: "[製作年]<br>2019年"
