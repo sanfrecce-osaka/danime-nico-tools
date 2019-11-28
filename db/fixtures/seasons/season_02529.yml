@@ -107,6 +107,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1574213703
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35978439/35978439.94669528
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "「渇望～三十路の祭りに～」第一幕"
+  description: 高校の同窓会に集まった、まあ子＋もっちー＋なかじ＋田中の4人。実家の料理店を継いだというまあ子。美容外科のスタッフとして働くもっちー。クラブで働いているキャバ嬢のなかじ。アイドルの追っかけのためにバイト掛け持ちしてお金を貯める田中。4人は三十路を迎え、それぞれ人生に葛藤していた。人生の岐路に立ちそれぞれに悩みを抱える女たちの本音がぶつかり合う。女の本質を鋭く描いた会話劇に注目！<br><br>キャスト:寿
+    美菜子、高垣彩陽、戸松 遥、豊崎愛生<br><br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）<br><br>©2019「劇団スフィア」製作委員会<br><br>so35978439←前話｜次話→so36039930　第一話→so35820976
+  length_seconds: 1425
+  content_id: so36005182
+  default_thread_id: 1574731268
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36005182/36005182.15605005
 cast: "[キャスト]<br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生"
 staff: "[スタッフ]<br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）"
 produced_year: "[製作年]<br>2019年"
