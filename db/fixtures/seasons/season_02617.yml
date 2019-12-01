@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: タマ＆フレンズ～うちのタマ知りませんか？～ シーズン2
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/12/5/23125_1_8_8b.png?1573632120000
+outline: "「タマ＆フレンズ ～うちのタマ知りませんか？～」のショートアニメ第2シーズン。主題歌も一新し、ますます3丁目のタマとフレンズのユーモアたっぷりかわいさ満点な日常をお届けします。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒浪和沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 礒部花凜
+  type: cast
+- !ruby/hash:TagHash
+  name: 津久井彩文
+  type: cast
+- !ruby/hash:TagHash
+  name: 海保えりか
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩出美彩希
+  type: cast
+- !ruby/hash:TagHash
+  name: 椿木はる
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村優紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 卯野春香
+  type: cast
+- !ruby/hash:TagHash
+  name: 北垣内春香
+  type: cast
+- !ruby/hash:TagHash
+  name: 國分絢一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：丸山公詳
+  type: staff
+- !ruby/hash:TagHash
+  name: タマ＆フレンズ～うちのタマ知りませんか？～シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2016年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第17話
+  title: ''
+  description: 第1話 コマのプレゼント 他、第2話～第17話を収録。<br><br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか／トラ:椿木はる／ノラ:木村優紀／コマ:荒浪
+    和沙／ベー:礒部花凜／クロ:卯野春香／ゴン:北垣内春香／ブル:國分絢一郎／岡本たけし:塩出 美彩希<br><br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／監督名:カンザキジュン／脚本家名:井沢ひろし／アニメーション制作:勝鬨スタジオ／音響監督:鹿志村聡／音響効果:宅間
+    麻姫（スワラ・プロ）／録音調整:森田 祐一／音楽:丸山 公詳／録音スタジオ:スリーエススタジオ／音響制作:スペルバウンド／製作:タマ＆フレンズ製作委員会<br><br>©Sony
+    Creative Products Inc./Tama &amp; Friends Project<br><br>次話→so35982456
+  length_seconds: 1036
+  content_id: so35982455
+  default_thread_id: 1574298963
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35982455/35982455.30274838
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話～第34話
+  title: ''
+  description: 第18話 ちっちゃな雪景色 他、第19話～第34話を収録。<br><br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか／トラ:椿木はる／ノラ:木村優紀／コマ:荒浪
+    和沙／ベー:礒部花凜／クロ:卯野春香／ゴン:北垣内春香／ブル:國分絢一郎／岡本たけし:塩出 美彩希<br><br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／監督名:カンザキジュン／脚本家名:井沢ひろし／アニメーション制作:勝鬨スタジオ／音響監督:鹿志村聡／音響効果:宅間
+    麻姫（スワラ・プロ）／録音調整:森田 祐一／音楽:丸山 公詳／録音スタジオ:スリーエススタジオ／音響制作:スペルバウンド／製作:タマ＆フレンズ製作委員会<br><br>©Sony
+    Creative Products Inc./Tama &amp; Friends Project<br><br>so35982455←前話｜次話→so35982517　第一話→so35982455
+  length_seconds: 1036
+  content_id: so35982456
+  default_thread_id: 1574298667
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35982456/35982456.5370999
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話～第52話
+  title: ''
+  description: 第35話 ゴンとロボット犬 他、第36話～第52話を収録。<br><br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか／トラ:椿木はる／ノラ:木村優紀／コマ:荒浪
+    和沙／ベー:礒部花凜／クロ:卯野春香／ゴン:北垣内春香／ブル:國分絢一郎／岡本たけし:塩出 美彩希<br><br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／監督名:カンザキジュン／脚本家名:井沢ひろし／アニメーション制作:勝鬨スタジオ／音響監督:鹿志村聡／音響効果:宅間
+    麻姫（スワラ・プロ）／録音調整:森田 祐一／音楽:丸山 公詳／録音スタジオ:スリーエススタジオ／音響制作:スペルバウンド／製作:タマ＆フレンズ製作委員会<br><br>©Sony
+    Creative Products Inc./Tama &amp; Friends Project<br><br>so35982456←前話　第一話→so35982455
+  length_seconds: 1097
+  content_id: so35982517
+  default_thread_id: 1574300166
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35982517/35982517.78544589
+cast: "[キャスト]<br>タマ:津久井彩文／モモ:南條愛乃／ポチ:海保えりか／トラ:椿木はる／ノラ:木村優紀／コマ:荒浪 和沙／ベー:礒部花凜／クロ:卯野春香／ゴン:北垣内春香／ブル:國分絢一郎／岡本たけし:塩出
+  美彩希"
+staff: "[スタッフ]<br>原案・キャラクターデザイン:株式会社ソニー・クリエイティブプロダクツ／監督名:カンザキジュン／脚本家名:井沢ひろし／アニメーション制作:勝鬨スタジオ／音響監督:鹿志村聡／音響効果:宅間
+  麻姫（スワラ・プロ）／録音調整:森田 祐一／音楽:丸山 公詳／録音スタジオ:スリーエススタジオ／音響制作:スペルバウンド／製作:タマ＆フレンズ製作委員会"
+produced_year: "[製作年]<br>2017年"
+copyright: "©Sony Creative Products Inc./Tama & Friends Project"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: タマ＆フレンズ～うちのタマ知りませんか？～
+- !ruby/hash:SeasonHash
+  title: ダヤンとタマと飛び猫と　～３つの猫の物語～

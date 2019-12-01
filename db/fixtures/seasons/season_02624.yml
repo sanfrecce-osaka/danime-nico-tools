@@ -1,0 +1,143 @@
+--- !ruby/hash:SeasonHash
+title: ミュージカル｢ヘタリア～Singin’in the World～｣
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/41/2/21412_1_8_8b.png?1551267956000
+outline: ある日の｢世界会議｣、真面目に会議を進めようとするドイツだったが、アメリカをはじめ、イギリス、フランスたちの発言で会議は混乱していく。業を煮やすドイツだったが、イタリアが更なる混乱を招くのだった・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 植田圭輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 廣瀬大介
+  type: cast
+- !ruby/hash:TagHash
+  name: 長江崚行
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉江大志
+  type: cast
+- !ruby/hash:TagHash
+  name: 磯貝龍虎
+  type: cast
+- !ruby/hash:TagHash
+  name: 山沖勇輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿里
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池卓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 近江陽一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：日丸屋秀和
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：tak
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+- !ruby/hash:TagHash
+  name: 幻冬舎
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ミュージカル｢ヘタリア～Singin’in the World～｣
+  description: ある日の｢世界会議｣、真面目に会議を進めようとするドイツだったが、アメリカをはじめ、イギリス、フランスたちの発言で会議は混乱していく。業を煮やすドイツだったが、イタリアが更なる混乱を招くのだった・・・。<br><br>イタリア:長江崚行／ドイツ:近江陽一郎／日本:植田圭輔／アメリカ:磯貝龍虎／イギリス:廣瀬大介／フランス:寿里／ロシア:山沖勇輝／中国:杉江大志／オーストリア:菊池卓也<br><br>原作:アニメ『ヘタリア
+    Axis Powers』／原作者:日丸屋秀和『ヘタリア Axis Powers』(幻冬舎コミックス刊）／演出:吉谷光太郎／脚本:なるせゆうせい／音楽:tak（SounDive
+    Orch.）／振付:MAMORU／企画・プロデュース:4cu（フロンティアワークス）／制作:ポリゴンマジック<br><br>©日丸屋秀和・幻冬舎コミックス／ヘタリア製作委員会　©ミュージカル「ヘタリア」製作委員会<br><br>次話→so35984531
+  length_seconds: 1473
+  content_id: so35984437
+  default_thread_id: 1574337423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35984437/35984437.64714249
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ミュージカル｢ヘタリア～Singin’in the World～｣
+  description: ある日の｢世界会議｣、真面目に会議を進めようとするドイツだったが、アメリカをはじめ、イギリス、フランスたちの発言で会議は混乱していく。業を煮やすドイツだったが、イタリアが更なる混乱を招くのだった・・・。<br><br>イタリア:長江崚行／ドイツ:近江陽一郎／日本:植田圭輔／アメリカ:磯貝龍虎／イギリス:廣瀬大介／フランス:寿里／ロシア:山沖勇輝／中国:杉江大志／オーストリア:菊池卓也<br><br>原作:アニメ『ヘタリア
+    Axis Powers』／原作者:日丸屋秀和『ヘタリア Axis Powers』(幻冬舎コミックス刊）／演出:吉谷光太郎／脚本:なるせゆうせい／音楽:tak（SounDive
+    Orch.）／振付:MAMORU／企画・プロデュース:4cu（フロンティアワークス）／制作:ポリゴンマジック<br><br>©日丸屋秀和・幻冬舎コミックス／ヘタリア製作委員会　©ミュージカル「ヘタリア」製作委員会<br><br>so35984437←前話｜次話→so35984642　第一話→so35984437
+  length_seconds: 1396
+  content_id: so35984531
+  default_thread_id: 1574339223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35984531/35984531.3357464
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ミュージカル｢ヘタリア～Singin’in the World～｣
+  description: ある日の｢世界会議｣、真面目に会議を進めようとするドイツだったが、アメリカをはじめ、イギリス、フランスたちの発言で会議は混乱していく。業を煮やすドイツだったが、イタリアが更なる混乱を招くのだった・・・。<br><br>イタリア:長江崚行／ドイツ:近江陽一郎／日本:植田圭輔／アメリカ:磯貝龍虎／イギリス:廣瀬大介／フランス:寿里／ロシア:山沖勇輝／中国:杉江大志／オーストリア:菊池卓也<br><br>原作:アニメ『ヘタリア
+    Axis Powers』／原作者:日丸屋秀和『ヘタリア Axis Powers』(幻冬舎コミックス刊）／演出:吉谷光太郎／脚本:なるせゆうせい／音楽:tak（SounDive
+    Orch.）／振付:MAMORU／企画・プロデュース:4cu（フロンティアワークス）／制作:ポリゴンマジック<br><br>©日丸屋秀和・幻冬舎コミックス／ヘタリア製作委員会　©ミュージカル「ヘタリア」製作委員会<br><br>so35984531←前話｜次話→so35984741　第一話→so35984437
+  length_seconds: 1339
+  content_id: so35984642
+  default_thread_id: 1574340063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35984642/35984642.48492360
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ミュージカル｢ヘタリア～Singin’in the World～｣
+  description: ある日の｢世界会議｣、真面目に会議を進めようとするドイツだったが、アメリカをはじめ、イギリス、フランスたちの発言で会議は混乱していく。業を煮やすドイツだったが、イタリアが更なる混乱を招くのだった・・・。<br><br>イタリア:長江崚行／ドイツ:近江陽一郎／日本:植田圭輔／アメリカ:磯貝龍虎／イギリス:廣瀬大介／フランス:寿里／ロシア:山沖勇輝／中国:杉江大志／オーストリア:菊池卓也<br><br>原作:アニメ『ヘタリア
+    Axis Powers』／原作者:日丸屋秀和『ヘタリア Axis Powers』(幻冬舎コミックス刊）／演出:吉谷光太郎／脚本:なるせゆうせい／音楽:tak（SounDive
+    Orch.）／振付:MAMORU／企画・プロデュース:4cu（フロンティアワークス）／制作:ポリゴンマジック<br><br>©日丸屋秀和・幻冬舎コミックス／ヘタリア製作委員会　©ミュージカル「ヘタリア」製作委員会<br><br>so35984642←前話｜次話→so35984788　第一話→so35984437
+  length_seconds: 1384
+  content_id: so35984741
+  default_thread_id: 1574340903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35984741/35984741.43622441
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ミュージカル｢ヘタリア～Singin’in the World～｣
+  description: ある日の｢世界会議｣、真面目に会議を進めようとするドイツだったが、アメリカをはじめ、イギリス、フランスたちの発言で会議は混乱していく。業を煮やすドイツだったが、イタリアが更なる混乱を招くのだった・・・。<br><br>イタリア:長江崚行／ドイツ:近江陽一郎／日本:植田圭輔／アメリカ:磯貝龍虎／イギリス:廣瀬大介／フランス:寿里／ロシア:山沖勇輝／中国:杉江大志／オーストリア:菊池卓也<br><br>原作:アニメ『ヘタリア
+    Axis Powers』／原作者:日丸屋秀和『ヘタリア Axis Powers』(幻冬舎コミックス刊）／演出:吉谷光太郎／脚本:なるせゆうせい／音楽:tak（SounDive
+    Orch.）／振付:MAMORU／企画・プロデュース:4cu（フロンティアワークス）／制作:ポリゴンマジック<br><br>©日丸屋秀和・幻冬舎コミックス／ヘタリア製作委員会　©ミュージカル「ヘタリア」製作委員会<br><br>so35984741←前話｜次話→so35984847　第一話→so35984437
+  length_seconds: 1245
+  content_id: so35984788
+  default_thread_id: 1574341563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35984788/35984788.70601632
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: ミュージカル｢ヘタリア～Singin’in the World～｣
+  description: ある日の｢世界会議｣、真面目に会議を進めようとするドイツだったが、アメリカをはじめ、イギリス、フランスたちの発言で会議は混乱していく。業を煮やすドイツだったが、イタリアが更なる混乱を招くのだった・・・。<br><br>イタリア:長江崚行／ドイツ:近江陽一郎／日本:植田圭輔／アメリカ:磯貝龍虎／イギリス:廣瀬大介／フランス:寿里／ロシア:山沖勇輝／中国:杉江大志／オーストリア:菊池卓也<br><br>原作:アニメ『ヘタリア
+    Axis Powers』／原作者:日丸屋秀和『ヘタリア Axis Powers』(幻冬舎コミックス刊）／演出:吉谷光太郎／脚本:なるせゆうせい／音楽:tak（SounDive
+    Orch.）／振付:MAMORU／企画・プロデュース:4cu（フロンティアワークス）／制作:ポリゴンマジック<br><br>©日丸屋秀和・幻冬舎コミックス／ヘタリア製作委員会　©ミュージカル「ヘタリア」製作委員会<br><br>so35984788←前話　第一話→so35984437
+  length_seconds: 1416
+  content_id: so35984847
+  default_thread_id: 1574342165
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35984847/35984847.33373290
+cast: "[キャスト]<br>イタリア:長江崚行／ドイツ:近江陽一郎／日本:植田圭輔／アメリカ:磯貝龍虎／イギリス:廣瀬大介／フランス:寿里／ロシア:山沖勇輝／中国:杉江大志／オーストリア:菊池卓也"
+staff: "[スタッフ]<br>原作:アニメ『ヘタリア Axis Powers』／原作者:日丸屋秀和『ヘタリア Axis Powers』(幻冬舎コミックス刊）／演出:吉谷光太郎／脚本:なるせゆうせい／音楽:tak（SounDive
+  Orch.）／振付:MAMORU／企画・プロデュース:4cu（フロンティアワークス）／制作:ポリゴンマジック"
+produced_year: "[製作年]<br>2015年"
+copyright: "©日丸屋秀和・幻冬舎コミックス／ヘタリア製作委員会　©ミュージカル「ヘタリア」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ヘタリア　Axis Powers
+- !ruby/hash:SeasonHash
+  title: 銀幕ヘタリア　Ａxis Ｐowers Ｐaint it, Ｗhite（白くぬれ！）
+- !ruby/hash:SeasonHash
+  title: ヘタリア　World Series
+- !ruby/hash:SeasonHash
+  title: ヘタリア　Ｔhe Ｂeautiful Ｗorld
+- !ruby/hash:SeasonHash
+  title: ヘタリア The World Twinkle
+- !ruby/hash:SeasonHash
+  title: ミュージカル「ヘタリア～in the new world～」大阪千秋楽ノーカット版
+- !ruby/hash:SeasonHash
+  title: ミュージカル「ヘタリア～The Great World～」
+- !ruby/hash:SeasonHash
+  title: ミュージカル「ヘタリア～in the new world～」東京大千秋楽版

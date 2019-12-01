@@ -20,19 +20,19 @@ tags: !ruby/array:Hashie::Array
   name: 福圓美里
   type: cast
 - !ruby/hash:TagHash
-  name: 平川大輔
+  name: 内山夕実
   type: cast
 - !ruby/hash:TagHash
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 内山夕実
-  type: cast
-- !ruby/hash:TagHash
-  name: 原由実
+  name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
   name: 加隈亜衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 原由実
   type: cast
 - !ruby/hash:TagHash
   name: 種﨑敦美
@@ -44,7 +44,7 @@ tags: !ruby/array:Hashie::Array
   name: 小岩井ことり
   type: cast
 - !ruby/hash:TagHash
-  name: 広瀬裕也
+  name: 逢田梨香子
   type: cast
 - !ruby/hash:TagHash
   name: 清水彩香
@@ -175,12 +175,25 @@ episodes: !ruby/array:Hashie::Array
     拓真:広瀬裕也／早乙女 七樹:本渡 楓／早乙女 五夜:加隈亜衣／早乙女 六海:日高里菜／早乙女 一千花:内山夕実／早乙女 二葉:原 由実／早乙女 三沙:清水彩香／早乙女
     四乃:逢田梨香子／早乙女 八雲:河瀬茉希／早乙女 九瑠璃:小岩井ことり／スー:新田ひより／犬飼 透:平川大輔／スクルド:種﨑敦美／レスクヴァ:M・A・O／ウル:福圓
     美里<br><br>原作:朝倉亮介(連載　月刊「少年ガンガン」スクウェア・エニックス刊）／監督:直谷たかし／シリーズ構成:髙橋龍也／キャラクターデザイン・総作画監督:立石聖／音響監督:森下広人／音楽:TECHNOBOYS
-    PULCRAFT GREEN-FUND／アニメーション制作:フッズエンタテインメント<br><br>©朝倉亮介／SQUARE ENIX・「戦×恋」製作委員会<br><br>so35955697←前話　第一話→so35767858
+    PULCRAFT GREEN-FUND／アニメーション制作:フッズエンタテインメント<br><br>©朝倉亮介／SQUARE ENIX・「戦×恋」製作委員会<br><br>so35955697←前話｜次話→so36013174　第一話→so35767858
   length_seconds: 1420
   content_id: so35986999
   default_thread_id: 1574395263
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35986999/35986999.41981933
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 触る乙女と触られる乙女
+  description: 五夜と拓真で戦恋「痴漢から乙女を守る」を成功させるため、七樹が痴漢役として協力することに。五夜の様々な場所を真剣に弄り続ける七樹。レベルアップのため、これに耐え続ける五夜だったが、我慢もいよいよ限界に。人間恐怖症の拓真は、人口密度の高い電車へ乗り込み五夜を助け出すことができるのか！？<br><br>亜久津
+    拓真:広瀬裕也／早乙女 七樹:本渡 楓／早乙女 五夜:加隈亜衣／早乙女 六海:日高里菜／早乙女 一千花:内山夕実／早乙女 二葉:原 由実／早乙女 三沙:清水彩香／早乙女
+    四乃:逢田梨香子／早乙女 八雲:河瀬茉希／早乙女 九瑠璃:小岩井ことり／スー:新田ひより／犬飼 透:平川大輔／スクルド:種﨑敦美／レスクヴァ:M・A・O／ウル:福圓
+    美里<br><br>原作:朝倉亮介(連載　月刊「少年ガンガン」スクウェア・エニックス刊）／監督:直谷たかし／シリーズ構成:髙橋龍也／キャラクターデザイン・総作画監督:立石聖／音響監督:森下広人／音楽:TECHNOBOYS
+    PULCRAFT GREEN-FUND／アニメーション制作:フッズエンタテインメント<br><br>©朝倉亮介／SQUARE ENIX・「戦×恋」製作委員会<br><br>so35986999←前話｜次話→so36044084　第一話→so35767858
+  length_seconds: 1420
+  content_id: so36013174
+  default_thread_id: 1574904256
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36013174/36013174.3942850
 cast: "[キャスト]<br>亜久津 拓真:広瀬裕也／早乙女 七樹:本渡 楓／早乙女 五夜:加隈亜衣／早乙女 六海:日高里菜／早乙女 一千花:内山夕実／早乙女
   二葉:原 由実／早乙女 三沙:清水彩香／早乙女 四乃:逢田梨香子／早乙女 八雲:河瀬茉希／早乙女 九瑠璃:小岩井ことり／スー:新田ひより／犬飼 透:平川大輔／スクルド:種﨑敦美／レスクヴァ:M・A・O／ウル:福圓
   美里"
