@@ -1,0 +1,120 @@
+--- !ruby/hash:SeasonHash
+title: 八百八町表裏　化粧師【デジタルリマスター版】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/07/8/23078_1_8_8b.png?1573448408000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 神谷明
+  type: cast
+- !ruby/hash:TagHash
+  name: 梁田清之
+  type: cast
+- !ruby/hash:TagHash
+  name: 龍田直樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 筈見純
+  type: cast
+- !ruby/hash:TagHash
+  name: 麻見順子
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂東尚樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 中沢みどり
+  type: cast
+- !ruby/hash:TagHash
+  name: 千堂あきほ
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田二郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：福富博
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石ノ森章太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1990年
+  type: other
+- !ruby/hash:TagHash
+  name: 1990年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 火焔花
+  description: 小三馬:神谷 明／花火:千堂あきほ／水野:筈見 純／両助:龍田直樹／男１:坂東尚樹／男２:梁田清之／女１:麻見順子／女２:中沢みどり／ナレーション:山田二郎<br><br>原作:石ノ森章太郎／総監督:福富
+    博／脚本:白州詠人／作画監督:木上益治／美術監督:宮野 隆<br><br>©石森プロ／シンエイ<br><br>次話→so35952272
+  length_seconds: 1691
+  content_id: so35952271
+  default_thread_id: 1573719843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35952271/35952271.59258821
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話～第3話
+  title: 恋の筋違橋／弘め屋
+  description: 小三馬:神谷 明／花火:千堂あきほ／水野:筈見 純／両助:龍田直樹／男１:坂東尚樹／男２:梁田清之／女１:麻見順子／女２:中沢みどり／ナレーション:山田二郎<br><br>原作:石ノ森章太郎／総監督:福富
+    博／脚本:白州詠人／作画監督:木上益治／美術監督:宮野 隆<br><br>©石森プロ／シンエイ<br><br>so35952271←前話｜次話→so35952273　第一話→so35952271
+  length_seconds: 1202
+  content_id: so35952272
+  default_thread_id: 1573719063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35952272/35952272.33401779
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話～第5話
+  title: 遊里の母／夜叉姫
+  description: 小三馬:神谷 明／花火:千堂あきほ／水野:筈見 純／両助:龍田直樹／男１:坂東尚樹／男２:梁田清之／女１:麻見順子／女２:中沢みどり／ナレーション:山田二郎<br><br>原作:石ノ森章太郎／総監督:福富
+    博／脚本:白州詠人／作画監督:木上益治／美術監督:宮野 隆<br><br>©石森プロ／シンエイ<br><br>so35952272←前話｜次話→so35952274　第一話→so35952271
+  length_seconds: 1202
+  content_id: so35952273
+  default_thread_id: 1573719123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35952273/35952273.746382
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話～第7話
+  title: 両の字／吉原被
+  description: 小三馬:神谷 明／花火:千堂あきほ／水野:筈見 純／両助:龍田直樹／男１:坂東尚樹／男２:梁田清之／女１:麻見順子／女２:中沢みどり／ナレーション:山田二郎<br><br>原作:石ノ森章太郎／総監督:福富
+    博／脚本:白州詠人／作画監督:木上益治／美術監督:宮野 隆<br><br>©石森プロ／シンエイ<br><br>so35952273←前話｜次話→so35952276　第一話→so35952271
+  length_seconds: 1202
+  content_id: so35952274
+  default_thread_id: 1573719243
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35952274/35952274.8266703
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話～第9話
+  title: 花より／惚れ薬
+  description: 小三馬:神谷 明／花火:千堂あきほ／水野:筈見 純／両助:龍田直樹／男１:坂東尚樹／男２:梁田清之／女１:麻見順子／女２:中沢みどり／ナレーション:山田二郎<br><br>原作:石ノ森章太郎／総監督:福富
+    博／脚本:白州詠人／作画監督:木上益治／美術監督:宮野 隆<br><br>©石森プロ／シンエイ<br><br>so35952274←前話｜次話→so35952277　第一話→so35952271
+  length_seconds: 1202
+  content_id: so35952276
+  default_thread_id: 1573719065
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35952276/35952276.20220897
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話～第11話
+  title: おやま玉五郎／端役者
+  description: 小三馬:神谷 明／花火:千堂あきほ／水野:筈見 純／両助:龍田直樹／男１:坂東尚樹／男２:梁田清之／女１:麻見順子／女２:中沢みどり／ナレーション:山田二郎<br><br>原作:石ノ森章太郎／総監督:福富
+    博／脚本:白州詠人／作画監督:木上益治／美術監督:宮野 隆<br><br>©石森プロ／シンエイ<br><br>so35952276←前話　第一話→so35952271
+  length_seconds: 1202
+  content_id: so35952277
+  default_thread_id: 1573719247
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35952277/35952277.56238082
+cast: "[キャスト]<br>小三馬:神谷 明／花火:千堂あきほ／水野:筈見 純／両助:龍田直樹／男１:坂東尚樹／男２:梁田清之／女１:麻見順子／女２:中沢みどり／ナレーション:山田二郎"
+staff: "[スタッフ]<br>原作:石ノ森章太郎／総監督:福富 博／脚本:白州詠人／作画監督:木上益治／美術監督:宮野 隆"
+produced_year: "[製作年]<br>1990年"
+copyright: "©石森プロ／シンエイ"
+related_seasons: !ruby/array:Hashie::Array []
