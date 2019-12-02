@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 劇団スフィア
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/9/23049_1_6.png?1571209207000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/04/9/23049_1_8_8b.png?1571209207000
 outline: 結成10周年を迎えた声優ユニット「スフィア」が小劇場界で活躍中の5人の脚本家&演出家とコラボする初主演ドラマ。各監督が制作する作品を前編+後編の2話完結。スフィアメンバーが、コメディー、サスペンス、SF、シリアス、ホラーなど様々なジャンルに挑戦し、与えられたシチュエーションの中で登場人物を演じきる。また劇作家ならではのノンストップの演出が、まるで演劇を観ているような新しいスタイルのドラマ。ドラマファンも舞台ファンも声優ファンも必見。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -97,6 +97,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1573543685
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35944091/35944091.3588207
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "「ラブホテル602」第二幕"
+  description: 9月15日、ラブホテル602号室で事件が起こった――。血だらけの女性は、デリヘル嬢・亜紀の友人・由美子が、亜紀の誕生日を祝ってサプライズを仕組んだはずが、とんでもない事件へと発展していく。そして二か月前に不倫関係にある一志の妻が殺害された事件の容疑者が、この事件の容疑者と同一人物でないかと嫌疑がかかる。時間と空間を交錯しながら、二つの殺人事件が解明される。犯人は一体誰なのか?!<br><br>キャスト:寿
+    美菜子、高垣彩陽、戸松 遥、豊崎愛生<br><br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）<br><br>©2019「劇団スフィア」製作委員会<br><br>so35944091←前話｜次話→so36005182　第一話→so35820976
+  length_seconds: 1425
+  content_id: so35978439
+  default_thread_id: 1574213703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35978439/35978439.94669528
 cast: "[キャスト]<br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生"
 staff: "[スタッフ]<br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）"
 produced_year: "[製作年]<br>2019年"
