@@ -152,12 +152,24 @@ episodes: !ruby/array:Hashie::Array
   description: "【巨躯】（エルダー）の強襲により、アークスたちは大きな犠牲を払うこととなった。ウルクを探そうとするテオドール、気丈に振る舞いながらも、ゼノを案じるエコー。そしてゲッテムハルトを失い、取り乱すメルフォンシーナは……<br><br>アッシュ:小野大輔／アフィン:下野
     紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
     正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
-    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35944083←前話　第一話→so35755425"
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35944083←前話｜次話→so36017614　第一話→so35755425"
   length_seconds: 1420
   content_id: so35987387
   default_thread_id: 1574404203
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35987387/35987387.63387136
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: アサシンと暴走龍
+  description: 撃破したはずの【巨躯】（エルダー）が生存していたと知り、思い悩むアッシュ。そんな中、ゼノを探すためにナベリウスに降りたアークスが暴走龍に襲われ、捜索が打ち切られたという情報が入り……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35987387←前話｜次話→so36044025　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36017614
+  default_thread_id: 1574996823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36017614/36017614.81152169
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"
