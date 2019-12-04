@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: 熱烈！アニソン魂『アニたまLive』Vol.2 at EAST
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/10/2/23102_1_8_8b.png?1574044241000
+outline: 懐かしの名曲アニメソングをオリジナルのアーティストたちが熱唱するファン待望のシリーズ第2弾。ドラゴンボールの「摩訶不思議アドベンチャー」をはじめ、キン肉マンの「キン肉マン
+  Go Fight!」、タッチの「タッチ」他、全26曲を堪能できる。収録曲/1. 摩訶不思議アドベンチャー (ドラゴンボール)/2. めざせ天下一 (ドラゴンボール)/3.
+  ドラゴンボール伝説 (ドラゴンボール)/4. ACE ATTACKER (スーパーロボット対戦α)/5. 雪のかなた (SNOW)/6. ふたりの足跡 (SNOW)/7.
+  SNOW (SNOW)/8. 微笑みの行方 (仮面ライダーZO)/9. Imaginary Girl (A.D.POLICE)/10. もう一度TENDERNESS
+  (機動戦士Vガンダム)/11. STAND UP TO THE VICTORY ~トゥ・ザ・ヴィクトリー~ (機動戦士Vガンダム)/12. 夢をとめないでいて
+  (名探偵コナン)/13. Fell Your Heart (名探偵コナン)/14. ルパン三世 その1 (ルパン三世)/15. オー・サンボーイ (荒野の少年イサム)/16.
+  ルパン三世 その2 (ルパン三世)/17. SEVENTH MOON (マクロス7)/18. ANGEL VOICE (マクロスダイナマイト7)/19. タッチ
+  (タッチ)/20. 青春 (タッチ)/21. チェッ! チェッ! チェッ! (タッチ)/22. キン肉マン旋風 (キン肉マン)/23. 肉・2×9・Rock’n
+  Roll (キン肉マン)/24. 炎のキン肉マン (キン肉マン)/25. キン肉マンGo Fight! (キン肉マン)
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 熱烈！アニソン魂『アニたまLive』シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: ライブ映像
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：福山芳樹
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：串田アキラ
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：infix
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：まつざわゆみ
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：アップルパイ
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：TSUKASA
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 出演:高橋洋樹／アップルパイ／まつざわゆみ／infix／TSUKASA（ex：KIX-S）／川添智久／VELVET GARDEN／チャーリー・コーセー（チャーリー・チェイ）／福山芳樹（Fire
+    Bomber／熱気バサラ）／岩崎良美／串田アキラ<br><br>©℗2005 from yellow to orange Inc. Made in Japan
+    Manufuctured by from yellow to orange Inc.<br><br>次話→so36035879
+  length_seconds: 1051
+  content_id: so36035878
+  default_thread_id: 1575334503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035878/36035878.91906748
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 出演:高橋洋樹／アップルパイ／まつざわゆみ／infix／TSUKASA（ex：KIX-S）／川添智久／VELVET GARDEN／チャーリー・コーセー（チャーリー・チェイ）／福山芳樹（Fire
+    Bomber／熱気バサラ）／岩崎良美／串田アキラ<br><br>©℗2005 from yellow to orange Inc. Made in Japan
+    Manufuctured by from yellow to orange Inc.<br><br>so36035878←前話｜次話→so36035880　第一話→so36035878
+  length_seconds: 1446
+  content_id: so36035879
+  default_thread_id: 1575334684
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035879/36035879.91812852
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 出演:高橋洋樹／アップルパイ／まつざわゆみ／infix／TSUKASA（ex：KIX-S）／川添智久／VELVET GARDEN／チャーリー・コーセー（チャーリー・チェイ）／福山芳樹（Fire
+    Bomber／熱気バサラ）／岩崎良美／串田アキラ<br><br>©℗2005 from yellow to orange Inc. Made in Japan
+    Manufuctured by from yellow to orange Inc.<br><br>so36035879←前話｜次話→so36035881　第一話→so36035878
+  length_seconds: 1760
+  content_id: so36035880
+  default_thread_id: 1575334983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035880/36035880.26956349
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 出演:高橋洋樹／アップルパイ／まつざわゆみ／infix／TSUKASA（ex：KIX-S）／川添智久／VELVET GARDEN／チャーリー・コーセー（チャーリー・チェイ）／福山芳樹（Fire
+    Bomber／熱気バサラ）／岩崎良美／串田アキラ<br><br>©℗2005 from yellow to orange Inc. Made in Japan
+    Manufuctured by from yellow to orange Inc.<br><br>so36035880←前話｜次話→so36035893　第一話→so36035878
+  length_seconds: 1373
+  content_id: so36035881
+  default_thread_id: 1575334685
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035881/36035881.37253693
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 出演:高橋洋樹／アップルパイ／まつざわゆみ／infix／TSUKASA（ex：KIX-S）／川添智久／VELVET GARDEN／チャーリー・コーセー（チャーリー・チェイ）／福山芳樹（Fire
+    Bomber／熱気バサラ）／岩崎良美／串田アキラ<br><br>©℗2005 from yellow to orange Inc. Made in Japan
+    Manufuctured by from yellow to orange Inc.<br><br>so36035881←前話　第一話→so36035878
+  length_seconds: 1210
+  content_id: so36035893
+  default_thread_id: 1575334568
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035893/36035893.20896487
+cast: "[キャスト]<br>出演:高橋洋樹／アップルパイ／まつざわゆみ／infix／TSUKASA（ex：KIX-S）／川添智久／VELVET GARDEN／チャーリー・コーセー（チャーリー・チェイ）／福山芳樹（Fire
+  Bomber／熱気バサラ）／岩崎良美／串田アキラ"
+produced_year: "[製作年]<br>2005年"
+copyright: "©℗2005 from yellow to orange Inc. Made in Japan Manufuctured by from yellow
+  to orange Inc."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 熱烈！アニソン魂『アニたまLive』Vol.1 in AJF 2004

@@ -20,13 +20,13 @@ tags: !ruby/array:Hashie::Array
   name: 内田彩
   type: cast
 - !ruby/hash:TagHash
-  name: 長縄まりあ
-  type: cast
-- !ruby/hash:TagHash
   name: 富田美憂
   type: cast
 - !ruby/hash:TagHash
   name: 白井悠介
+  type: cast
+- !ruby/hash:TagHash
+  name: 長縄まりあ
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木愛奈
@@ -161,12 +161,24 @@ episodes: !ruby/array:Hashie::Array
   description: イネルマとの戦いがひと段落し、再開された期末考査。結果は振るわなかったものの、イネルマ戦の功績を認められ退学を免れたあづみ達はひと時の休息を迎える。そんな時、月形由仁が海に行こうと提案する。不思議がるあづみ達、招かれたのは月形家が所有する別荘だった。最初は偶然から組まれたチームだったが、訓練や戦いを経るうちに絆が生まれていることをあづみは感じる。<br><br>各務原あづみ:小倉唯／リゲル:内田
     彩／天ノ川衣奈:水瀬いのり／東雲纏:長縄まりあ／鬼神野シュリ:鈴木愛奈／月形由仁:富田美憂／ネフライト:白井悠介／ゾンネ:星谷美緒／ムラマサ:山口 愛／アムリタ:春村奈々／イラ:祖山桃子<br><br>原作:「Z/X
     -Zillions of enemy X-」（ブロッコリー）／コミック原作:浦畑達彦（ハイスコアガール、ひなこのーと）／キャラクター原案:藤真拓哉（魔法少女リリカルなのはViVid）／監督:末田宜史／キャラクターデザイン:せれす／シリーズ構成:浦畑達彦／脚本:浦畑達彦、イシノアツオ／アニメーション制作:パッショーネ／音楽:桑原聖／音楽制作:Arte
-    Refact／OP、ED:Elements Garden<br><br>©Z/X Code reunion製作委員会<br><br>so35970112←前話　第一話→so35782029
+    Refact／OP、ED:Elements Garden<br><br>©Z/X Code reunion製作委員会<br><br>so35970112←前話｜次話→so36036037　第一話→so35782029
   length_seconds: 1420
   content_id: so36001243
   default_thread_id: 1574647207
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36001243/36001243.17296135
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: さよならは言わないよ？
+  description: ランクAチームを超える学園最強の生徒会チーム。そんな彼女達が突如学園を去ることを告げられたあづみ達。ランクAのリーダーである烏丸精華は清々した、これで自分たちが学園最強だと言うが、あづみはそんな言葉の中に寂しさを感じとる。素直になれない精華のためにあづみ達が企画したのは生徒会チームのお別れ会だった。<br><br>各務原あづみ:小倉唯／リゲル:内田
+    彩／天ノ川衣奈:水瀬いのり／東雲纏:長縄まりあ／鬼神野シュリ:鈴木愛奈／月形由仁:富田美憂／ネフライト:白井悠介／ゾンネ:星谷美緒／ムラマサ:山口 愛／アムリタ:春村奈々／イラ:祖山桃子<br><br>原作:「Z/X
+    -Zillions of enemy X-」（ブロッコリー）／コミック原作:浦畑達彦（ハイスコアガール、ひなこのーと）／キャラクター原案:藤真拓哉（魔法少女リリカルなのはViVid）／監督:末田宜史／キャラクターデザイン:せれす／シリーズ構成:浦畑達彦／脚本:浦畑達彦、イシノアツオ／アニメーション制作:パッショーネ／音楽:桑原聖／音楽制作:Arte
+    Refact／OP、ED:Elements Garden<br><br>©Z/X Code reunion製作委員会<br><br>so36001243←前話｜次話→so36062406　第一話→so35782029
+  length_seconds: 1420
+  content_id: so36036037
+  default_thread_id: 1575338885
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36036037/36036037.30087770
 cast: "[キャスト]<br>各務原あづみ:小倉唯／リゲル:内田 彩／天ノ川衣奈:水瀬いのり／東雲纏:長縄まりあ／鬼神野シュリ:鈴木愛奈／月形由仁:富田美憂／ネフライト:白井悠介／ゾンネ:星谷美緒／ムラマサ:山口
   愛／アムリタ:春村奈々／イラ:祖山桃子"
 staff: "[スタッフ]<br>原作:「Z/X -Zillions of enemy X-」（ブロッコリー）／コミック原作:浦畑達彦（ハイスコアガール、ひなこのーと）／キャラクター原案:藤真拓哉（魔法少女リリカルなのはViVid）／監督:末田宜史／キャラクターデザイン:せれす／シリーズ構成:浦畑達彦／脚本:浦畑達彦、イシノアツオ／アニメーション制作:パッショーネ／音楽:桑原聖／音楽制作:Arte

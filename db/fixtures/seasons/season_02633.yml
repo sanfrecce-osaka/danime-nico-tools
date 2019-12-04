@@ -1,0 +1,129 @@
+--- !ruby/hash:SeasonHash
+title: ROBONATION SUPER LIVE スーパーロボット魂 Vol.1
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/10/0/23100_1_8_8b.png?1574044259000
+outline: 一代ブームとなっているアニメソングライブイベント「スーパーロボット魂」の、97年8月のファーストライブの模様をお届け。水木一郎が歌う「マジンガーZ」「コン・バトラーVのテーマ」、影山ヒロノブの「ゲッターロボ」など、珠玉の全22曲が楽しめる。収録曲/1.
+  マジンガーZ(マジンガーZ)/2. 空飛ぶマジンガーZ(マジンガーZ)/3. コン・バトラーVのテーマ(超電磁ロボ コン・バトラーV)/4. ゲッターロボ!(ゲッターロボ)/5.
+  FLYING IN THE SKY(機動武闘伝Gガンダム)/6. 熱風!疾風!サイバスター(サイバスター)/7. ダンバイン とぶ(聖戦士ダンバイン)/8. エルガイム~TIME
+  FOR L-GAIM~(重戦機エルガイム)/9. ボルテスVの歌(超電磁マシン ボルテスV)/10. CROSS FIGHT(破邪大星ダンガイオー)/11. 熱き血が勇気に~ロボットジェネレーション讃歌~/12.
+  マジンカイザー(マジンカイザー)/13. バーニング・ラヴ(超獣機神ダンクーガ)/14. 水の星に愛をこめて(機動戦士Zガンダム)/15. 残酷な天使のテーゼ(新世紀エヴァンゲリオン)/16.
+  ゴーショーグン発進せよ!(戦国魔神ゴーショーグン)/17. ぼくらのマジンガーZ(マジンガーZ)/18. おれはグレートマジンガー(マジンガーZ)〈ENCORE〉/19.
+  熱き血が勇気に(~ロボットジェネレーション讃歌~)/20. 熱風!疾風!サイバスター(サイバスター)/21. ゲッターロボ!(ゲッターロボ)/22. マジンガーZ(マジンガーZ)
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江美都子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺宙明
+  type: staff
+- !ruby/hash:TagHash
+  name: スーパーロボット魂シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: ライブ映像
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：影山ヒロノブ
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：水木一郎
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：MIQ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 収録曲/1. マジンガーZ(マジンガーZ)/2. 空飛ぶマジンガーZ(マジンガーZ)/3. コン・バトラーVのテーマ(超電磁ロボ コン・バトラーV)/4.
+    ゲッターロボ!(ゲッターロボ)/5. FLYING IN THE SKY(機動武闘伝Gガンダム)/6. 熱風!疾風!サイバスター(サイバスター)/7. ダンバイン
+    とぶ(聖戦士ダンバイン)/8. エルガイム~TIME FOR L-GAIM~(重戦機エルガイム)/9. ボルテスVの歌(超電磁マシン ボルテスV)/10.
+    CROSS FIGHT(破邪大星ダンガイオー)/11. 熱き血が勇気に~ロボットジェネレーション讃歌~/12. マジンカイザー(マジンカイザー)/13. バーニング・ラヴ(超獣機神ダンクーガ)/14.
+    水の星に愛をこめて(機動戦士Zガンダム)/15. 残酷な天使のテーゼ(新世紀エヴァンゲリオン)/16. ゴーショーグン発進せよ!(戦国魔神ゴーショーグン)/17.
+    ぼくらのマジンガーZ(マジンガーZ)/18. おれはグレートマジンガー(マジンガーZ)〈ENCORE〉/19. 熱き血が勇気に(~ロボットジェネレーション讃歌~)/20.
+    熱風!疾風!サイバスター(サイバスター)/21. ゲッターロボ!(ゲッターロボ)/22. マジンガーZ(マジンガーZ)<br><br>出演:水木一郎／堀江美都子／影山ヒロノブ／MIQ／渡辺宙明<br><br>©2004
+    Be!smile,Ltd. Made in Japan Manufactured by Be!smile,Ltd.<br><br>次話→so36035889
+  length_seconds: 1237
+  content_id: so36035888
+  default_thread_id: 1575334931
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035888/36035888.72559977
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 収録曲/1. マジンガーZ(マジンガーZ)/2. 空飛ぶマジンガーZ(マジンガーZ)/3. コン・バトラーVのテーマ(超電磁ロボ コン・バトラーV)/4.
+    ゲッターロボ!(ゲッターロボ)/5. FLYING IN THE SKY(機動武闘伝Gガンダム)/6. 熱風!疾風!サイバスター(サイバスター)/7. ダンバイン
+    とぶ(聖戦士ダンバイン)/8. エルガイム~TIME FOR L-GAIM~(重戦機エルガイム)/9. ボルテスVの歌(超電磁マシン ボルテスV)/10.
+    CROSS FIGHT(破邪大星ダンガイオー)/11. 熱き血が勇気に~ロボットジェネレーション讃歌~/12. マジンカイザー(マジンカイザー)/13. バーニング・ラヴ(超獣機神ダンクーガ)/14.
+    水の星に愛をこめて(機動戦士Zガンダム)/15. 残酷な天使のテーゼ(新世紀エヴァンゲリオン)/16. ゴーショーグン発進せよ!(戦国魔神ゴーショーグン)/17.
+    ぼくらのマジンガーZ(マジンガーZ)/18. おれはグレートマジンガー(マジンガーZ)〈ENCORE〉/19. 熱き血が勇気に(~ロボットジェネレーション讃歌~)/20.
+    熱風!疾風!サイバスター(サイバスター)/21. ゲッターロボ!(ゲッターロボ)/22. マジンガーZ(マジンガーZ)<br><br>出演:水木一郎／堀江美都子／影山ヒロノブ／MIQ／渡辺宙明<br><br>©2004
+    Be!smile,Ltd. Made in Japan Manufactured by Be!smile,Ltd.<br><br>so36035888←前話｜次話→so36035890　第一話→so36035888
+  length_seconds: 1158
+  content_id: so36035889
+  default_thread_id: 1575334563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035889/36035889.64080634
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 収録曲/1. マジンガーZ(マジンガーZ)/2. 空飛ぶマジンガーZ(マジンガーZ)/3. コン・バトラーVのテーマ(超電磁ロボ コン・バトラーV)/4.
+    ゲッターロボ!(ゲッターロボ)/5. FLYING IN THE SKY(機動武闘伝Gガンダム)/6. 熱風!疾風!サイバスター(サイバスター)/7. ダンバイン
+    とぶ(聖戦士ダンバイン)/8. エルガイム~TIME FOR L-GAIM~(重戦機エルガイム)/9. ボルテスVの歌(超電磁マシン ボルテスV)/10.
+    CROSS FIGHT(破邪大星ダンガイオー)/11. 熱き血が勇気に~ロボットジェネレーション讃歌~/12. マジンカイザー(マジンカイザー)/13. バーニング・ラヴ(超獣機神ダンクーガ)/14.
+    水の星に愛をこめて(機動戦士Zガンダム)/15. 残酷な天使のテーゼ(新世紀エヴァンゲリオン)/16. ゴーショーグン発進せよ!(戦国魔神ゴーショーグン)/17.
+    ぼくらのマジンガーZ(マジンガーZ)/18. おれはグレートマジンガー(マジンガーZ)〈ENCORE〉/19. 熱き血が勇気に(~ロボットジェネレーション讃歌~)/20.
+    熱風!疾風!サイバスター(サイバスター)/21. ゲッターロボ!(ゲッターロボ)/22. マジンガーZ(マジンガーZ)<br><br>出演:水木一郎／堀江美都子／影山ヒロノブ／MIQ／渡辺宙明<br><br>©2004
+    Be!smile,Ltd. Made in Japan Manufactured by Be!smile,Ltd.<br><br>so36035889←前話｜次話→so36035892　第一話→so36035888
+  length_seconds: 1793
+  content_id: so36035890
+  default_thread_id: 1575335163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035890/36035890.33375450
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 収録曲/1. マジンガーZ(マジンガーZ)/2. 空飛ぶマジンガーZ(マジンガーZ)/3. コン・バトラーVのテーマ(超電磁ロボ コン・バトラーV)/4.
+    ゲッターロボ!(ゲッターロボ)/5. FLYING IN THE SKY(機動武闘伝Gガンダム)/6. 熱風!疾風!サイバスター(サイバスター)/7. ダンバイン
+    とぶ(聖戦士ダンバイン)/8. エルガイム~TIME FOR L-GAIM~(重戦機エルガイム)/9. ボルテスVの歌(超電磁マシン ボルテスV)/10.
+    CROSS FIGHT(破邪大星ダンガイオー)/11. 熱き血が勇気に~ロボットジェネレーション讃歌~/12. マジンカイザー(マジンカイザー)/13. バーニング・ラヴ(超獣機神ダンクーガ)/14.
+    水の星に愛をこめて(機動戦士Zガンダム)/15. 残酷な天使のテーゼ(新世紀エヴァンゲリオン)/16. ゴーショーグン発進せよ!(戦国魔神ゴーショーグン)/17.
+    ぼくらのマジンガーZ(マジンガーZ)/18. おれはグレートマジンガー(マジンガーZ)〈ENCORE〉/19. 熱き血が勇気に(~ロボットジェネレーション讃歌~)/20.
+    熱風!疾風!サイバスター(サイバスター)/21. ゲッターロボ!(ゲッターロボ)/22. マジンガーZ(マジンガーZ)<br><br>出演:水木一郎／堀江美都子／影山ヒロノブ／MIQ／渡辺宙明<br><br>©2004
+    Be!smile,Ltd. Made in Japan Manufactured by Be!smile,Ltd.<br><br>so36035890←前話｜次話→so36035883　第一話→so36035888
+  length_seconds: 1376
+  content_id: so36035892
+  default_thread_id: 1575334923
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035892/36035892.39715808
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 収録曲/1. マジンガーZ(マジンガーZ)/2. 空飛ぶマジンガーZ(マジンガーZ)/3. コン・バトラーVのテーマ(超電磁ロボ コン・バトラーV)/4.
+    ゲッターロボ!(ゲッターロボ)/5. FLYING IN THE SKY(機動武闘伝Gガンダム)/6. 熱風!疾風!サイバスター(サイバスター)/7. ダンバイン
+    とぶ(聖戦士ダンバイン)/8. エルガイム~TIME FOR L-GAIM~(重戦機エルガイム)/9. ボルテスVの歌(超電磁マシン ボルテスV)/10.
+    CROSS FIGHT(破邪大星ダンガイオー)/11. 熱き血が勇気に~ロボットジェネレーション讃歌~/12. マジンカイザー(マジンカイザー)/13. バーニング・ラヴ(超獣機神ダンクーガ)/14.
+    水の星に愛をこめて(機動戦士Zガンダム)/15. 残酷な天使のテーゼ(新世紀エヴァンゲリオン)/16. ゴーショーグン発進せよ!(戦国魔神ゴーショーグン)/17.
+    ぼくらのマジンガーZ(マジンガーZ)/18. おれはグレートマジンガー(マジンガーZ)〈ENCORE〉/19. 熱き血が勇気に(~ロボットジェネレーション讃歌~)/20.
+    熱風!疾風!サイバスター(サイバスター)/21. ゲッターロボ!(ゲッターロボ)/22. マジンガーZ(マジンガーZ)<br><br>出演:水木一郎／堀江美都子／影山ヒロノブ／MIQ／渡辺宙明<br><br>©2004
+    Be!smile,Ltd. Made in Japan Manufactured by Be!smile,Ltd.<br><br>so36035892←前話　第一話→so36035888
+  length_seconds: 1107
+  content_id: so36035883
+  default_thread_id: 1575334745
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035883/36035883.32435818
+cast: "[キャスト]<br>出演:水木一郎／堀江美都子／影山ヒロノブ／MIQ／渡辺宙明"
+produced_year: "[製作年]<br>2004年"
+copyright: "©2004 Be!smile,Ltd. Made in Japan Manufactured by Be!smile,Ltd."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: スーパーロボット魂2003　春の陣

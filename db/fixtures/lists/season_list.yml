@@ -7904,3 +7904,16 @@
 - !ruby/hash:Hashie::Mash
   title: 'ルパン三世TVSP #23 東方見聞録 ～アナザーページ～'
   first_episode_url: http://www.nicovideo.jp/watch/so35986660
+- !ruby/hash:Hashie::Mash
+  title: スーパーロボット魂2003　春の陣
+  first_episode_url: http://www.nicovideo.jp/watch/so36035873
+- !ruby/hash:Hashie::Mash
+  title: 熱烈！アニソン魂『アニたまLive』Vol.1 in AJF 2004
+  first_episode_url: http://www.nicovideo.jp/watch/so36035882
+- !ruby/hash:Hashie::Mash
+  title: 熱烈！アニソン魂『アニたまLive』Vol.2 at EAST
+  first_episode_url: http://www.nicovideo.jp/watch/so36035878
+- !ruby/hash:Hashie::Mash
+  title: ROBONATION SUPER LIVE スーパーロボット魂 Vol.1
+  first_episode_url: http://www.nicovideo.jp/watch/so36035888
+
