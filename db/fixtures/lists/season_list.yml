@@ -7925,3 +7925,6 @@
 - !ruby/hash:Hashie::Mash
   title: NARUTO-ナルト- 疾風伝　忍界大戦編(6)
   first_episode_url: http://www.nicovideo.jp/watch/so36044008
+- !ruby/hash:Hashie::Mash
+  title: 約束のネバーランド
+  first_episode_url: http://www.nicovideo.jp/watch/so35887922
