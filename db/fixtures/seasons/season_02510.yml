@@ -131,6 +131,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1575337685
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035999/36035999.55686754
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: PIECE10
+  description: 警視庁の上層部が「名無し事件」の解決を最優先にしているのは、身内の汚点を隠蔽するためだったことが明らかになった。事件の容疑者である伊田正義の情報を知っている可能性があるために拘束された誠だが、依然として黙秘を続ける。九条家が事件に関わっているのか不明な中、「もりのゆうえんち」で宮瀬と待ち合わせた泉は、15年前に起きた事故に宮瀬も居合わせていたことを知る。<br><br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里<br><br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ<br><br>©coly/スタマイ製作委員会<br><br>so36035999←前話｜次話→so36096829　第一話→so35767860
+  length_seconds: 1430
+  content_id: so36066356
+  default_thread_id: 1575945069
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36066356/36066356.99138409
 cast: "[キャスト]<br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里"
 staff: "[スタッフ]<br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ"
 produced_year: "[製作年]<br>2019年"
