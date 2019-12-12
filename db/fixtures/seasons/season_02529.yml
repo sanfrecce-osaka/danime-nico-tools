@@ -128,6 +128,16 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1575422703
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36039930/36039930.29587344
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "「コミック・オブ・ザ・デッド」第一幕"
+  description: 漫画家の笹塚パクチー（27才）は締切が迫る中、新作のアイデアが浮かばず、編集者（31才）の浜田山ケイコとアシスタント（23才）の烏山チトセと一緒に人里離れたコテージに籠り、試行錯誤するも、煮詰まるばかりで執筆は進まず焦るばかり。そこへ笹塚パクチーのファンであるコテージのアルバイト（21才）・長沼ツツジがやって来くる。そんな中、コテージに異変が起き、4人は絶体絶命のピンチに堕ちることに…。<br><br>キャスト:寿
+    美菜子、高垣彩陽、戸松 遥、豊崎愛生<br><br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）<br><br>©2019「劇団スフィア」製作委員会<br><br>so36039930←前話｜次話→so36100527　第一話→so35820976
+  length_seconds: 1425
+  content_id: so36070284
+  default_thread_id: 1576027685
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070284/36070284.71356998
 cast: "[キャスト]<br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生"
 staff: "[スタッフ]<br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）"
 produced_year: "[製作年]<br>2019年"
