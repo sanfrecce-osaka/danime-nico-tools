@@ -1,0 +1,97 @@
+--- !ruby/hash:SeasonHash
+title: サッカー水滸伝～決戦！宋江vs高俅 炎の神州カップ編～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/10/5/23105_1_8_8b.png?1573803067000
+outline: 物語は千年前の中国王朝。時の皇帝・徽宗（きそう）は、政治のことには全く興味がなく大好きなサッカーに興じているうちに、国は腐敗が進み不正がはびこる時代となった。中でも悪徳役人・高俅（こうきゅう）は、得意のサッカーで皇帝をたぶらかし、私利私欲の限りを尽くし朝廷の中でも絶大な権力を握っていた。しかしそこには、様々な理由で世間から弾き出されたが国のことを憂う、義に厚い108人の英雄たちがいた。ある日、皇帝は反逆者でも逃亡者でも誰でも参加できる神州カップの開催を決定。しかしその裏には、恐ろしい陰謀が隠されていた。自由を求める宋江率いる「水滸チーム」と、高俅率いる「皇室クラブ」。これは単なる試合ではない、正義を賭けた決戦となるに違いない…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 染谷俊之
+  type: cast
+- !ruby/hash:TagHash
+  name: 中野裕斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 輝山立
+  type: cast
+- !ruby/hash:TagHash
+  name: 真城まゆ
+  type: cast
+- !ruby/hash:TagHash
+  name: 掛川渚
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：TAKKIE Yeung Yat Tak
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 物語は千年前の中国王朝。時の皇帝・徽宗（きそう）は、政治のことには全く興味がなく大好きなサッカーに興じているうちに、国は腐敗が進み不正がはびこる時代となった。中でも悪徳役人・高俅（こうきゅう）は、得意のサッカーで皇帝をたぶらかし、私利私欲の限りを尽くし朝廷の中でも絶大な権力を握っていた。しかしそこには、様々な理由で世間から弾き出されたが国のことを憂う、義に厚い108人の英雄たちがいた。ある日、皇帝は反逆者でも逃亡者でも誰でも参加できる神州カップの開催を決定。しかしその裏には、恐ろしい陰謀が隠されていた。自由を求める宋江率いる「水滸チーム」と、高俅率いる「皇室クラブ」。これは単なる試合ではない、正義を賭けた決戦となるに違いない…。<br><br>宋江:染谷俊之／高俅:中野裕斗／林沖:輝山立／妻:真城まゆ（YOANI1年C組）／皇后:掛川渚（YOANI1年C組）　ほか<br><br>原題:「水滸足球」／監督・プロデューサー:TAKKIE
+    Yeung Yat Tak／監製・導演:楊逸德／ビデオ版スーパーバイザー:長田安正、五十嵐正男／発売・販売元:ユナイテッドエンタテインメント<br><br>©TAKKIE
+    YEUNG YAT TAK film<br><br>次話→so36049146
+  length_seconds: 1216
+  content_id: so36049145
+  default_thread_id: 1575616875
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36049145/36049145.63135628
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 物語は千年前の中国王朝。時の皇帝・徽宗（きそう）は、政治のことには全く興味がなく大好きなサッカーに興じているうちに、国は腐敗が進み不正がはびこる時代となった。中でも悪徳役人・高俅（こうきゅう）は、得意のサッカーで皇帝をたぶらかし、私利私欲の限りを尽くし朝廷の中でも絶大な権力を握っていた。しかしそこには、様々な理由で世間から弾き出されたが国のことを憂う、義に厚い108人の英雄たちがいた。ある日、皇帝は反逆者でも逃亡者でも誰でも参加できる神州カップの開催を決定。しかしその裏には、恐ろしい陰謀が隠されていた。自由を求める宋江率いる「水滸チーム」と、高俅率いる「皇室クラブ」。これは単なる試合ではない、正義を賭けた決戦となるに違いない…。<br><br>宋江:染谷俊之／高俅:中野裕斗／林沖:輝山立／妻:真城まゆ（YOANI1年C組）／皇后:掛川渚（YOANI1年C組）　ほか<br><br>原題:「水滸足球」／監督・プロデューサー:TAKKIE
+    Yeung Yat Tak／監製・導演:楊逸德／ビデオ版スーパーバイザー:長田安正、五十嵐正男／発売・販売元:ユナイテッドエンタテインメント<br><br>©TAKKIE
+    YEUNG YAT TAK film<br><br>so36049145←前話｜次話→so36049147　第一話→so36049145
+  length_seconds: 1040
+  content_id: so36049146
+  default_thread_id: 1575616879
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36049146/36049146.65826979
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 物語は千年前の中国王朝。時の皇帝・徽宗（きそう）は、政治のことには全く興味がなく大好きなサッカーに興じているうちに、国は腐敗が進み不正がはびこる時代となった。中でも悪徳役人・高俅（こうきゅう）は、得意のサッカーで皇帝をたぶらかし、私利私欲の限りを尽くし朝廷の中でも絶大な権力を握っていた。しかしそこには、様々な理由で世間から弾き出されたが国のことを憂う、義に厚い108人の英雄たちがいた。ある日、皇帝は反逆者でも逃亡者でも誰でも参加できる神州カップの開催を決定。しかしその裏には、恐ろしい陰謀が隠されていた。自由を求める宋江率いる「水滸チーム」と、高俅率いる「皇室クラブ」。これは単なる試合ではない、正義を賭けた決戦となるに違いない…。<br><br>宋江:染谷俊之／高俅:中野裕斗／林沖:輝山立／妻:真城まゆ（YOANI1年C組）／皇后:掛川渚（YOANI1年C組）　ほか<br><br>原題:「水滸足球」／監督・プロデューサー:TAKKIE
+    Yeung Yat Tak／監製・導演:楊逸德／ビデオ版スーパーバイザー:長田安正、五十嵐正男／発売・販売元:ユナイテッドエンタテインメント<br><br>©TAKKIE
+    YEUNG YAT TAK film<br><br>so36049146←前話｜次話→so36049148　第一話→so36049145
+  length_seconds: 1140
+  content_id: so36049147
+  default_thread_id: 1575616863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36049147/36049147.66449654
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 物語は千年前の中国王朝。時の皇帝・徽宗（きそう）は、政治のことには全く興味がなく大好きなサッカーに興じているうちに、国は腐敗が進み不正がはびこる時代となった。中でも悪徳役人・高俅（こうきゅう）は、得意のサッカーで皇帝をたぶらかし、私利私欲の限りを尽くし朝廷の中でも絶大な権力を握っていた。しかしそこには、様々な理由で世間から弾き出されたが国のことを憂う、義に厚い108人の英雄たちがいた。ある日、皇帝は反逆者でも逃亡者でも誰でも参加できる神州カップの開催を決定。しかしその裏には、恐ろしい陰謀が隠されていた。自由を求める宋江率いる「水滸チーム」と、高俅率いる「皇室クラブ」。これは単なる試合ではない、正義を賭けた決戦となるに違いない…。<br><br>宋江:染谷俊之／高俅:中野裕斗／林沖:輝山立／妻:真城まゆ（YOANI1年C組）／皇后:掛川渚（YOANI1年C組）　ほか<br><br>原題:「水滸足球」／監督・プロデューサー:TAKKIE
+    Yeung Yat Tak／監製・導演:楊逸德／ビデオ版スーパーバイザー:長田安正、五十嵐正男／発売・販売元:ユナイテッドエンタテインメント<br><br>©TAKKIE
+    YEUNG YAT TAK film<br><br>so36049147←前話｜次話→so36049149　第一話→so36049145
+  length_seconds: 1015
+  content_id: so36049148
+  default_thread_id: 1575616873
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36049148/36049148.68339686
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 物語は千年前の中国王朝。時の皇帝・徽宗（きそう）は、政治のことには全く興味がなく大好きなサッカーに興じているうちに、国は腐敗が進み不正がはびこる時代となった。中でも悪徳役人・高俅（こうきゅう）は、得意のサッカーで皇帝をたぶらかし、私利私欲の限りを尽くし朝廷の中でも絶大な権力を握っていた。しかしそこには、様々な理由で世間から弾き出されたが国のことを憂う、義に厚い108人の英雄たちがいた。ある日、皇帝は反逆者でも逃亡者でも誰でも参加できる神州カップの開催を決定。しかしその裏には、恐ろしい陰謀が隠されていた。自由を求める宋江率いる「水滸チーム」と、高俅率いる「皇室クラブ」。これは単なる試合ではない、正義を賭けた決戦となるに違いない…。<br><br>宋江:染谷俊之／高俅:中野裕斗／林沖:輝山立／妻:真城まゆ（YOANI1年C組）／皇后:掛川渚（YOANI1年C組）　ほか<br><br>原題:「水滸足球」／監督・プロデューサー:TAKKIE
+    Yeung Yat Tak／監製・導演:楊逸德／ビデオ版スーパーバイザー:長田安正、五十嵐正男／発売・販売元:ユナイテッドエンタテインメント<br><br>©TAKKIE
+    YEUNG YAT TAK film<br><br>so36049148←前話　第一話→so36049145
+  length_seconds: 643
+  content_id: so36049149
+  default_thread_id: 1575616871
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36049149/36049149.61588414
+cast: "[キャスト]<br>宋江:染谷俊之／高俅:中野裕斗／林沖:輝山立／妻:真城まゆ（YOANI1年C組）／皇后:掛川渚（YOANI1年C組）　ほか"
+staff: "[スタッフ]<br>原題:「水滸足球」／監督・プロデューサー:TAKKIE Yeung Yat Tak／監製・導演:楊逸德／ビデオ版スーパーバイザー:長田安正、五十嵐正男／発売・販売元:ユナイテッドエンタテインメント"
+produced_year: "[製作年]<br>2006年"
+copyright: "©TAKKIE YEUNG YAT TAK film"
+related_seasons: !ruby/array:Hashie::Array []

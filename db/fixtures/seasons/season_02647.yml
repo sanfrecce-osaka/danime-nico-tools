@@ -1,0 +1,107 @@
+--- !ruby/hash:SeasonHash
+title: みなみけ　べつばら
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/14/3/23143_1_8_8b.png?1575531062000
+outline: バレンタインに勝ちたいか～！つまりあげる相手にあまり知られてなくてもチャンスがあるんですねよくわからない奴に、急にチョコもらったら怖くないか？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉紗子
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤沙緒里
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木礼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：スターチャイルドレコード
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：三澤康広
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：アスリード
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：及川啓
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：桜場コハル
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田中誠輝
+  type: staff
+- !ruby/hash:TagHash
+  name: みなみけシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: いただこう／かもしれない／やる気／できること
+  description: いつものように、愛するハルカへの弁当について思い悩む保坂。その想いは留まるところを知らない。良くない方向に進んでいると感じた速水は、『今の保坂とハルカちゃんの料理は本質が違う』と一言。速水のその言葉に反発を思いながら、スーパーに向かう保坂。が、その頃チアキも同じスーパーにいて・・・・・・。／リビングでカナとマコちゃんが寛いでいると、吉野が遊びにやってきた。吉野は自分の正体を知っているんじゃないかと気が気でないマコちゃん。そんなマコちゃんに『吉野ドＳ説が、今の一番有力だ』と豪語するカナ。半信半疑ながら納得するマコちゃんだが、かえって吉野のことが気になってしまい……。／いつになくバレンタインに乗り気なカナ。チアキ、内田、トウマにチョコ作りのやる気を鼓舞するために、マキを講師に迎えバレンタインについて説くのだが、カナの突っ込みのせいで全員やる気がなくなってしまった。そこに藤岡が来てしまい……。／バレンタイン準備中に南家に来てしまった藤岡に男側の意見を聞こうとするマキ。チアキは「バレンタイン」という単語に反応した藤岡の態度から「男は心の中心では結構気にしているようだ」と言う。マキは「貰う相手を選べないと思い込んでない？そんなことはないよ！あがきなさい」と藤岡を煽り……。<br><br>南
+    春香:佐藤利奈／南 夏奈:井上麻里奈／南 千秋:茅原実里／南 冬馬:水樹奈々／マコト＆マコちゃん:森永理科／藤岡:柿原徹也／保坂:小野大輔／マキ:高木礼子／アツコ:小野涼子／速水:千葉紗子／南
+    ナツキ:吉野裕行／ケイコ:後藤沙緒里／内田:喜多村英梨／吉野:豊崎愛生<br><br>原作:桜場コハル／企画:入江祥雄・清水保雅・大月俊倫／監督:及川 啓／プロデューサー:松下卓也・田中誠・山中隆弘／アニメーションプロデューサー:平松巨規／シリーズ構成:小鹿りえ／キャラクターデザイン・総作画監督:田中誠輝／プロップデザイン:渡辺るりこ／美術監督:徳田俊之（スタジオ・イースター）／色彩設計:佐藤裕子（スタジオロン）／撮影監督:藤田智史（スタジオトゥインクル）／編集:伊藤潤一（ジェイ・フィルム）／音響制作:マジックカプセル／音響制作担当:濱野高年／音楽:三澤康広／音楽制作:スターチャイルドレコード／音楽制作協力:テレビ東京ミュージック／アニメーション制作:アスリード／製作:「みなみけ
+    おかえり」製作委員会<br><br>©桜場コハル・講談社／みなみけ べつばら製作委員会
+  length_seconds: 1502
+  content_id: so36048422
+  default_thread_id: 1575598689
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36048422/36048422.59018533
+cast: "[キャスト]<br>南 春香:佐藤利奈／南 夏奈:井上麻里奈／南 千秋:茅原実里／南 冬馬:水樹奈々／マコト＆マコちゃん:森永理科／藤岡:柿原徹也／保坂:小野大輔／マキ:高木礼子／アツコ:小野涼子／速水:千葉紗子／南
+  ナツキ:吉野裕行／ケイコ:後藤沙緒里／内田:喜多村英梨／吉野:豊崎愛生"
+staff: "[スタッフ]<br>原作:桜場コハル／企画:入江祥雄・清水保雅・大月俊倫／監督:及川 啓／プロデューサー:松下卓也・田中誠・山中隆弘／アニメーションプロデューサー:平松巨規／シリーズ構成:小鹿りえ／キャラクターデザイン・総作画監督:田中誠輝／プロップデザイン:渡辺るりこ／美術監督:徳田俊之（スタジオ・イースター）／色彩設計:佐藤裕子（スタジオロン）／撮影監督:藤田智史（スタジオトゥインクル）／編集:伊藤潤一（ジェイ・フィルム）／音響制作:マジックカプセル／音響制作担当:濱野高年／音楽:三澤康広／音楽制作:スターチャイルドレコード／音楽制作協力:テレビ東京ミュージック／アニメーション制作:アスリード／製作:「みなみけ
+  おかえり」製作委員会"
+produced_year: "[製作年]<br>2009年"
+copyright: "©桜場コハル・講談社／みなみけ べつばら製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: みなみけ
+- !ruby/hash:SeasonHash
+  title: みなみけ　おかわり
+- !ruby/hash:SeasonHash
+  title: みなみけ　おかえり
+- !ruby/hash:SeasonHash
+  title: みなみけ　おまたせ
+- !ruby/hash:SeasonHash
+  title: みなみけ　ただいま
+- !ruby/hash:SeasonHash
+  title: みなみけ　夏やすみ

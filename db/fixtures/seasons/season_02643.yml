@@ -1,0 +1,89 @@
+--- !ruby/hash:SeasonHash
+title: パパのいうことを聞きなさい！ 男女8人夏物語(OVA)
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/14/6/23146_1_8_8b.png?1575603036000
+outline: 3姉妹主演、豪華3本立て!「男女8人夏物語」いざ開幕!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 大原さやか
+  type: cast
+- !ruby/hash:TagHash
+  name: 井口裕香
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 間島淳司
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐裕美
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村桜
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：スターチャイルドレコード
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：feel.
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川崎逸朗
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：豆塚隆
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：松智洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：上杉洋史
+  type: staff
+- !ruby/hash:TagHash
+  name: パパのいうことを聞きなさい！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: 空ちゃん ていそうの危機！？／美羽ちゃん ファッション指南／ひなちゃん ひとりたび
+  description: 美羽にちょっと意地悪しようと莱香に相談した空だったが、二人してタンスに閉じ込められることに。何とか脱出しようと、いろいろ試みるが・・・だんだんと脱衣していくはめに・・・!!／美羽と栞、二人でお風呂に入ってガールズトーク。服が乾くまで栞にいろんな服を着せてみることになって…。「ジャジャーん!」と美羽のファッション指南のはじまりはじまり～!／朝目覚めたら、ひながいない!!探し回る姉妹と祐太をよそに、雨の街をどんどん進むひな。やがてそらは晴れて、虹がかかり、ひなは大喜び。雛が向かった先と、その理由は如何に??<br><br>瀬川祐太:羽多野渉／小鳥遊空:上坂すみれ／小鳥遊美羽:喜多村英梨／小鳥遊ひな:五十嵐裕美／北原栞:井口裕香／織田莱香:堀江由衣／仁村浩一:小野大輔／佐古俊太郎:間島淳司／小鳥遊祐理:大原さやか／女性:中村
+    桜<br><br>原作:松 智洋／イラスト:なかじまゆか（集英社スーパーダッシュ文庫）／監督:川崎逸朗／脚本:荒川稔久／キャラクターデザイン:豆塚 隆／美術監督:小濱俊裕／音響監督:岩浪美和／音響効果:小山恭正／録音スタジオ:スタジオマウス／音響制作:STUDIO
+    MAUSU／音楽:上杉洋史／音楽制作:スターチャイルドレコード／アニメーション制作:feel.／製作:パパ聞き!OVA製作委員会<br><br>©松智洋・なかじまゆか／集英社・PPO
+  length_seconds: 1517
+  content_id: so36050058
+  default_thread_id: 1575629883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36050058/36050058.59244874
+cast: "[キャスト]<br>瀬川祐太:羽多野渉／小鳥遊空:上坂すみれ／小鳥遊美羽:喜多村英梨／小鳥遊ひな:五十嵐裕美／北原栞:井口裕香／織田莱香:堀江由衣／仁村浩一:小野大輔／佐古俊太郎:間島淳司／小鳥遊祐理:大原さやか／女性:中村
+  桜"
+staff: "[スタッフ]<br>原作:松 智洋／イラスト:なかじまゆか（集英社スーパーダッシュ文庫）／監督:川崎逸朗／脚本:荒川稔久／キャラクターデザイン:豆塚
+  隆／美術監督:小濱俊裕／音響監督:岩浪美和／音響効果:小山恭正／録音スタジオ:スタジオマウス／音響制作:STUDIO MAUSU／音楽:上杉洋史／音楽制作:スターチャイルドレコード／アニメーション制作:feel.／製作:パパ聞き!OVA製作委員会"
+produced_year: "[製作年]<br>2013年"
+copyright: "©松智洋・なかじまゆか／集英社・PPO"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: パパのいうことを聞きなさい！
+- !ruby/hash:SeasonHash
+  title: パパのいうことを聞きなさい！ ～異人たちとの春～(OVA)
