@@ -182,6 +182,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1575509583
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36044025/36044025.88837969
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 改変
+  description: アフィンと共に、惑星ウォパルの調査任務に就いたアッシュ。現地で再会したエコーは、新たな決意を胸に戦いに身を投じようとしていた……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36044025←前話｜次話→so36123533　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36079716
+  default_thread_id: 1576214343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079716/36079716.84117631
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"
