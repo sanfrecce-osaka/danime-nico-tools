@@ -140,6 +140,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1575945069
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36066356/36066356.99138409
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: PIECE11
+  description: 九条がドラッグの取引に動いた可能性が浮上した。マトリは令状を請求するが、確証がないことを理由に却下されてしまう。取引場所を特定し九条を現行犯逮捕すべく、由井と夏目が九条家に乗り込む。動揺する九条家の面々を制して九条のPCを確認し、取引相手と思しき人物とのメールのやりとりを発見。すると、マトリが急行した現場には捜査一課の面々も駆けつけていて…。<br><br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里<br><br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ<br><br>©coly/スタマイ製作委員会<br><br>so36066356←前話｜次話→so36127325　第一話→so35767860
+  length_seconds: 1430
+  content_id: so36096829
+  default_thread_id: 1576545482
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36096829/36096829.62748919
 cast: "[キャスト]<br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里"
 staff: "[スタッフ]<br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ"
 produced_year: "[製作年]<br>2019年"
