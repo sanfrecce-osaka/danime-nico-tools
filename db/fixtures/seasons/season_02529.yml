@@ -138,6 +138,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1576027685
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070284/36070284.71356998
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "「コミック・オブ・ザ・デッド」第二幕"
+  description: 漫画家の笹塚パクチー（27才）、編集者（31才）の浜田山ケイコ、アシスタント（23才）の烏山チトセが、コテージで新作を執筆していたある夜、コテージのオーナーがゾンビなる異変が起きる。オーナーに襲われゾンビと化してしまうコテージのアルバイト・長沼…。命を狙われる絶体絶命のピンチの中、笹塚は命がけでゾンビとの死闘を漫画にする！
+    そこへ何も知らない編集長が差し入れにやって来るのだが…。<br><br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生<br><br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO
+    MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）<br><br>©2019「劇団スフィア」製作委員会<br><br>so36070284←前話　第一話→so35820976
+  length_seconds: 1410
+  content_id: so36100527
+  default_thread_id: 1576635783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100527/36100527.36950790
 cast: "[キャスト]<br>キャスト:寿 美菜子、高垣彩陽、戸松 遥、豊崎愛生"
 staff: "[スタッフ]<br>脚本・監督:徳尾浩司（とくお組）・岸本鮎佳（艶∞ポリス）・西条みつとし（TAIYO MAGIC FILM）・山田佳奈（□字ック）・益山貴司（劇団子供鉅人）"
 produced_year: "[製作年]<br>2019年"
