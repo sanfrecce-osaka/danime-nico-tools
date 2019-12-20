@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: ニセコイ:OVA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/18/1/23181_1_8_8b.png?1576045833000
+outline: TVアニメ「ニセコイ」のBD&DVDBOXに収録されていたOVA
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：新房昭之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：杉山延寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：龍輪直征
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：千葉"naotyu-"直樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：古味直志
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：石濱翔
+  type: staff
+- !ruby/hash:TagHash
+  name: ニセコイシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: シンコン／マジカルパティシエ小咲ちゃん!!(第2話)
+  description: "「シンコン」ヒロインたちの夢を描く!!／「マジカルパティシエ小咲ちゃん!!」（第2話）新しい魔法少女も登場するかも!?<br><br>一条楽:内山昂輝／桐崎千棘:東山奈央／小野寺小咲:花澤香菜／鶫誠士郎:小松未可子／橘万里花:阿澄佳奈／宮本るり:内山夕実／舞子集:梶裕貴／クロード:子安武人<br><br>原作:古味直志（集英社ジャンプ
+    コミックス刊）／総監督:新房昭之／シリーズ構成:東冨耶子・新房昭之／監督:龍輪直征／キャラクターデザイン:杉山延寛／総作画監督:潮月一也／ビジュアルエフェクト:酒井基／色彩設計:滝沢いづみ／撮影監督:江上怜／編集:松原理恵／音楽スーパーバイザー:神前
+    暁(MONACA)／音楽:千葉“naotyu-”直樹、石濱 翔(MONACA)／音響監督:亀山俊樹／アニメーション制作:シャフト<br><br>©古味直志／集英社・アニプレックス・シャフト・MBS"
+  length_seconds: 1608
+  content_id: so36071858
+  default_thread_id: 1576055406
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36071858/36071858.20078008
+cast: "[キャスト]<br>一条楽:内山昂輝／桐崎千棘:東山奈央／小野寺小咲:花澤香菜／鶫誠士郎:小松未可子／橘万里花:阿澄佳奈／宮本るり:内山夕実／舞子集:梶裕貴／クロード:子安武人"
+staff: "[スタッフ]<br>原作:古味直志（集英社ジャンプ コミックス刊）／総監督:新房昭之／シリーズ構成:東冨耶子・新房昭之／監督:龍輪直征／キャラクターデザイン:杉山延寛／総作画監督:潮月一也／ビジュアルエフェクト:酒井基／色彩設計:滝沢いづみ／撮影監督:江上怜／編集:松原理恵／音楽スーパーバイザー:神前
+  暁(MONACA)／音楽:千葉“naotyu-”直樹、石濱 翔(MONACA)／音響監督:亀山俊樹／アニメーション制作:シャフト"
+produced_year: "[製作年]<br>2015年"
+copyright: "©古味直志／集英社・アニプレックス・シャフト・MBS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ニセコイ
+- !ruby/hash:SeasonHash
+  title: ニセコイOVA
+- !ruby/hash:SeasonHash
+  title: 'ニセコイ:'
