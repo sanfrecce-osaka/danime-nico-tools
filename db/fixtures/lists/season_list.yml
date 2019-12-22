@@ -8036,4 +8036,7 @@
 - !ruby/hash:Hashie::Mash
   title: リーンの翼
   first_episode_url: http://www.nicovideo.jp/watch/so36044891
+- !ruby/hash:Hashie::Mash
+  title: どるふろ
+  first_episode_url: http://www.nicovideo.jp/watch/so36017368
 
