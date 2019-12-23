@@ -8039,4 +8039,7 @@
 - !ruby/hash:Hashie::Mash
   title: どるふろ
   first_episode_url: http://www.nicovideo.jp/watch/so36017368
+- !ruby/hash:Hashie::Mash
+  title: フォーカード　第28話～第39話
+  first_episode_url: http://www.nicovideo.jp/watch/so36096823
 
