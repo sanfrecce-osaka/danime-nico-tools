@@ -69,6 +69,17 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1574387164
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35986659/35986659.91772005
+- !ruby/hash:EpisodeHash
+  episode_no: EPISODE9～EPISODE12
+  title: 校内的清掃／班長的資格／節約的生活／不都合的優勝
+  description: 校内清掃の日。自分で掃除なんてしたことがないセレブ万歳は、見よう見まねで乗り切ろうとするが・・・・。／無謀にも班長選挙に立候補した時分。だが、独特のパフォーマンスで支持を集め、意外にも大善戦。迎えた投票日。その結果は!?／生活費を節約するために、日々、努力する兄妹。トイレットペーパーを豪快に巻き取る無駄使いを疑似体験してテンションが急上昇するも・・・。／クラス対抗リレーの賞品は、1位に高級レストランのお食事券、2位にはトイレットペーパー。誰しもがお食事券を欲しがる中、時分と時秒の狙いは、トイレットペーパーだった！<br><br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹<br><br>脚本・監督:ラレコ／プロデュース:Tencent
+    Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet Cartoon<br><br>©Tencent.
+    All Rights Reserved.<br><br>so35986659←前話　第一話→so35879225
+  length_seconds: 843
+  content_id: so36108828
+  default_thread_id: 1576805824
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36108828/36108828.42659913
 cast: "[キャスト]<br>時分役:中村悠一／時秒役:雨宮天／開心役:小野賢章／万歳役:花江夏樹"
 staff: "[スタッフ]<br>脚本・監督:ラレコ／プロデュース:Tencent Penguin Pictures／アニメーション制作:イマジニア株式会社/株式会社ファンワークス/Planet
   Cartoon"
