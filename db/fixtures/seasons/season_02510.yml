@@ -149,6 +149,15 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1576545482
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36096829/36096829.62748919
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: PIECE12
+  description: 九条の車から「プラス」と思しきものが押収された。しかし、九条は何者かに陥れられた可能性が高いと考えたマトリは、真犯人の特定を急ぐことに。一方、泉は九条家から姿を消した宮瀬を探していた。宮瀬は「もりのゆうえんち」に一人佇み、過去を思い起こしていく。母と九条家の別宅で暮らしていた宮瀬。優しい母とつつましやかに過ごしていたが…。<br><br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里<br><br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ<br><br>©coly/スタマイ製作委員会<br><br>so36096829←前話　第一話→so35767860
+  length_seconds: 1430
+  content_id: so36127325
+  default_thread_id: 1577151989
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36127325/36127325.94188093
 cast: "[キャスト]<br>青山樹:杉田智和／今大路峻:浪川大輔／夏目春:梶裕貴／関大輔:前野智昭／渡部悟:鳥海浩輔／由井孝太郎:花江夏樹／泉玲:村井美里"
 staff: "[スタッフ]<br>原作:coly／監督:山本秀世／脚本:ハラダサヤカ"
 produced_year: "[製作年]<br>2019年"
