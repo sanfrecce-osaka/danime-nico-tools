@@ -8045,3 +8045,7 @@
 - !ruby/hash:Hashie::Mash
   title: WHITE ALBUM
   first_episode_url: http://www.nicovideo.jp/watch/so36124016
+- !ruby/hash:Hashie::Mash
+  title: "「SHOW MUST GO ON」（9月21日 夜・大阪公演）"
+  first_episode_url: http://www.nicovideo.jp/watch/so36100807
+
