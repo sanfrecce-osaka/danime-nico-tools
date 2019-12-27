@@ -1,0 +1,54 @@
+--- !ruby/hash:SeasonHash
+title: いっしょにとれーにんぐ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/50/4/10504_1_8_8b.png?1576654316000
+outline: ひなこはアニメの世界に住んでいる16歳の女の子。画面を通じてひなこと出会ってしまったあなたは、彼女のペースに巻き込まれ、なぜか一緒に筋トレすることに…。最初はつらいかもしれませんが、誰もいない2人だけの筋トレタイムです。楽しみながらがんばってください!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオ雲雀
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鈴木行
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：アミサキリョウコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：来兎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：リサレコ
+  type: staff
+- !ruby/hash:TagHash
+  name: いっしょにシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編+特典映像
+  title: 1 初めてだよ／2 また来たよ／3 特典映像
+  description: 1 初めてだよ／2 また来たよ／3 特典映像：腕立て(キャミソール・ランジェリー・体操着・ユーロビート・アップA・アップB)、腹筋(キャミソール・ランジェリー・体操着・ひっこめおなか・アップA・アップB)
+    、スクワット(キャミソール・ランジェリー・体操着・ブレス音・アップA・アップB)、カウント(ベッドで・プルンと・ブルンと・じーっと)<br><br>企画・脚本・プロデュース:中川宗成／監督:鈴木行／キャラクターデザイン・作画監督:アミサキリョウコ／美術監督:土師勝弘／色彩設計:小杉麻菜美／撮影監督:芹澤直樹／編集:田村ゆり／音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+    g.d.s.)／製作:プリマステア<br><br>© 2009 PRIMASTEA
+  length_seconds: 1464
+  content_id: so36100803
+  default_thread_id: 1576642271
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100803/36100803.54795335
+staff: "[スタッフ]<br>企画・脚本・プロデュース:中川宗成／監督:鈴木行／キャラクターデザイン・作画監督:アミサキリョウコ／美術監督:土師勝弘／色彩設計:小杉麻菜美／撮影監督:芹澤直樹／編集:田村ゆり／音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+  g.d.s.)／製作:プリマステア"
+produced_year: "[製作年]<br>2009年"
+copyright: "© 2009 PRIMASTEA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: いっしょにすりーぴんぐ
+- !ruby/hash:SeasonHash
+  title: いっしょにとれーにんぐ026

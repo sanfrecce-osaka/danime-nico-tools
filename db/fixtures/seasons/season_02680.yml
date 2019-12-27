@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: いっしょにとれーにんぐ026
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/50/5/10505_1_8_8b.png?1576654295000
+outline: 第1弾「いっしょにとれーにんぐ」、第2弾「いっしょにすりーぴんぐ」に続く「いっしょに」シリーズ第3弾。アニメキャラのひなこと一緒にお風呂に入ることになったあなた。ハダカの2人がなにをするかといえば…もちろん、トレーニング！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオ雲雀
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：アミサキリョウコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村真一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：来兎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：リサレコ
+  type: staff
+- !ruby/hash:TagHash
+  name: いっしょにシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1　おふろ
+  title: 肩と腰に効く腕伸ばし/姿勢を良くする胸開き/お腹の引き締め 水中腹筋/むくみを解消 ボディツイスト/ひよこ登場/からだ洗いっこ/カウント100
+  description: バスタイムを楽しもう!おふろで出来るトレーニングをストーリー仕立てでご紹介。<br><br>企画・脚本・プロデュース:中川宗成／監督:木村真一郎／キャラクターデザイン:アミサキリョウコ／作画監督:杉本
+    功／美術監督:土師勝弘／色彩設計:加口大朗／撮影監督:芹澤直樹／編集:蔦宗咲枝,森田清次／音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+    g.d.s.)／製作:プリマステア<br><br>© 2010 PRIMASTEA<br><br>次話→so36100811
+  length_seconds: 1504
+  content_id: so36100812
+  default_thread_id: 1576642265
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100812/36100812.83704721
+- !ruby/hash:EpisodeHash
+  episode_no: 2　おふろあがり
+  title: ふたり DE ストレッチタイム/脚腰すっきり 柔軟体操/腰痛予防 膝抱え/肩こり解消 ネックツイスト/深呼吸/エンディング
+  description: お風呂上りにはストレッチ!トレーニングをストーリー仕立てでご紹介。<br><br>企画・脚本・プロデュース:中川宗成／監督:木村真一郎／キャラクターデザイン:アミサキリョウコ／作画監督:杉本
+    功／美術監督:土師勝弘／色彩設計:加口大朗／撮影監督:芹澤直樹／編集:蔦宗咲枝,森田清次／音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+    g.d.s.)／製作:プリマステア<br><br>© 2010 PRIMASTEA<br><br>so36100812←前話　第一話→so36100812
+  length_seconds: 621
+  content_id: so36100811
+  default_thread_id: 1576642268
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100811/36100811.59624332
+staff: "[スタッフ]<br>企画・脚本・プロデュース:中川宗成／監督:木村真一郎／キャラクターデザイン:アミサキリョウコ／作画監督:杉本 功／美術監督:土師勝弘／色彩設計:加口大朗／撮影監督:芹澤直樹／編集:蔦宗咲枝,森田清次／音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+  g.d.s.)／製作:プリマステア"
+produced_year: "[製作年]<br>2010年"
+copyright: "© 2010 PRIMASTEA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: いっしょにとれーにんぐ
+- !ruby/hash:SeasonHash
+  title: いっしょにすりーぴんぐ

@@ -1,0 +1,498 @@
+--- !ruby/hash:SeasonHash
+title: 機甲戦記ドラグナー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/49/0/20490_1_8_8b.png?1551270423000
+outline: 舞台は西暦2087年、月に本拠を置く｢統一帝国ギガノス｣は、地球に対して宣戦を布告。中立のスペースコロニー｢アルカード｣で暮らす青年ケーンは、ひょんなことからD兵器｢ドラグナー｣の搭乗員として登録されてしまい、ギガノスと戦うことになる。80年代最後のサンライズ・リアルロボットアニメ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚芳忠
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀内賢雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 小杉十郎太
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井佳代子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺俊幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：羽田健太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神田武幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1987年
+  type: other
+- !ruby/hash:TagHash
+  name: 1987年冬
+  type: other
+- !ruby/hash:TagHash
+  name: 大貫健一
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 炎の日
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>次話→so36128180
+  length_seconds: 1458
+  content_id: so36128179
+  default_thread_id: 1577168917
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128179/36128179.7480719
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 廃墟の死闘
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128179←前話｜次話→so36128181　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128180
+  default_thread_id: 1577168896
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128180/36128180.72949348
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ギガノスの蒼き鷹
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128180←前話｜次話→so36128182　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128181
+  default_thread_id: 1577168922
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128181/36128181.63386780
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 男たちの戦場
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128181←前話｜次話→so36128183　第一話→so36128179
+  length_seconds: 1460
+  content_id: so36128182
+  default_thread_id: 1577168885
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128182/36128182.58213407
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 誓いの出撃
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128182←前話｜次話→so36128184　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128183
+  default_thread_id: 1577168907
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128183/36128183.12940560
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 戦士への試練
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128183←前話｜次話→so36128185　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128184
+  default_thread_id: 1577168893
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128184/36128184.87700210
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: さらばチェホフ
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128184←前話｜次話→so36128186　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128185
+  default_thread_id: 1577168920
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128185/36128185.2236012
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 捕虜奪回作戦 前編
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128185←前話｜次話→so36128187　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128186
+  default_thread_id: 1577168905
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128186/36128186.67828304
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 捕虜奪回作戦 後編
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128186←前話｜次話→so36128188　第一話→so36128179
+  length_seconds: 1457
+  content_id: so36128187
+  default_thread_id: 1577168889
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128187/36128187.63968299
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 体あたりの防戦
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128187←前話｜次話→so36128189　第一話→so36128179
+  length_seconds: 1457
+  content_id: so36128188
+  default_thread_id: 1577168897
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128188/36128188.44452378
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 熱望の大地
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128188←前話｜次話→so36128191　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128189
+  default_thread_id: 1577168899
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128189/36128189.67662191
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: それぞれの帰還
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128189←前話｜次話→so36128192　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128191
+  default_thread_id: 1577168910
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128191/36128191.27148763
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: マスドライバー発射指令
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128191←前話｜次話→so36128193　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128192
+  default_thread_id: 1577168923
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128192/36128192.32875814
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 新たなる旅立ち
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128192←前話｜次話→so36128222　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128193
+  default_thread_id: 1577168911
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128193/36128193.20700377
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: D(ドラグナー)艦隊危機一髪
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128193←前話｜次話→so36128334　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128222
+  default_thread_id: 1577169783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128222/36128222.92998494
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 補給基地の罠
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128222←前話｜次話→so36128335　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128334
+  default_thread_id: 1577171487
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128334/36128334.38633626
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: ノーラッド破壊工作
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128334←前話｜次話→so36128336　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128335
+  default_thread_id: 1577172186
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128335/36128335.12266849
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 奇襲の蒼き鷹
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128335←前話｜次話→so36128337　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128336
+  default_thread_id: 1577171465
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128336/36128336.9128156
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 飛行兵器D(ドラグナー)
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128336←前話｜次話→so36128338　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128337
+  default_thread_id: 1577172191
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128337/36128337.75509455
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 洋上の再会
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128337←前話｜次話→so36128339　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128338
+  default_thread_id: 1577171481
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128338/36128338.73059664
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 敵MA(メタルアーマー)奪取作戦
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128338←前話｜次話→so36128340　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128339
+  default_thread_id: 1577171471
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128339/36128339.79509718
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: ギガノス要塞破壊命令
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128339←前話｜次話→so36128341　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128340
+  default_thread_id: 1577171479
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128340/36128340.73624604
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 対決マイヨ・プラート
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128340←前話｜次話→so36128342　第一話→so36128179
+  length_seconds: 1457
+  content_id: so36128341
+  default_thread_id: 1577171462
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128341/36128341.31057824
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 上海大逃走
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128341←前話｜次話→so36128343　第一話→so36128179
+  length_seconds: 1456
+  content_id: so36128342
+  default_thread_id: 1577171469
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128342/36128342.12535054
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: D(ディー)兵器改造計画
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128342←前話｜次話→so36128344　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128343
+  default_thread_id: 1577171483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128343/36128343.99669901
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 恐怖のグン ジェム
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128343←前話｜次話→so36128345　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128344
+  default_thread_id: 1577171475
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128344/36128344.11869616
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 見参！ドラグナー遊撃隊
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128344←前話｜次話→so36128346　第一話→so36128179
+  length_seconds: 1460
+  content_id: so36128345
+  default_thread_id: 1577172197
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128345/36128345.26625553
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 脅威の毒蛇部隊
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128345←前話｜次話→so36128347　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128346
+  default_thread_id: 1577172183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128346/36128346.20896674
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 潜入！リンダを救え
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128346←前話｜次話→so36128348　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128347
+  default_thread_id: 1577171485
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128347/36128347.99190348
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 必殺！チェーンソー・アタック
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128347←前話｜次話→so36128349　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128348
+  default_thread_id: 1577171467
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128348/36128348.80034685
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 月からの刺客
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128348←前話｜次話→so36128350　第一話→so36128179
+  length_seconds: 1460
+  content_id: so36128349
+  default_thread_id: 1577172201
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128349/36128349.62885929
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 復讐の狙撃兵(スナイパー)
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128349←前話｜次話→so36128351　第一話→so36128179
+  length_seconds: 1460
+  content_id: so36128350
+  default_thread_id: 1577172195
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128350/36128350.33381116
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: ギガノスの異変
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128350←前話｜次話→so36128352　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128351
+  default_thread_id: 1577171477
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128351/36128351.42864410
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 迫撃！土蜘蛛作戦
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128351←前話｜次話→so36128353　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128352
+  default_thread_id: 1577172200
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128352/36128352.47480380
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: 恐怖！無限機動砲
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128352←前話｜次話→so36128354　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128353
+  default_thread_id: 1577171473
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128353/36128353.2766838
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 猛攻！怒りのグンジェム
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128353←前話｜次話→so36128384　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128354
+  default_thread_id: 1577172194
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128354/36128354.32044301
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: 打倒！毒蛇の青竜刀
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128354←前話｜次話→so36128385　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128384
+  default_thread_id: 1577172603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128384/36128384.81467936
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 登場！究極のM・A(メタルアーマー)
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128384←前話｜次話→so36128665　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128385
+  default_thread_id: 1577172363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128385/36128385.66571883
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: 壮絶！グンジェムの最期
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128385←前話｜次話→so36128666　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128665
+  default_thread_id: 1577176104
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128665/36128665.37926059
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 狡猾！ハイデルネッケン少佐
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128665←前話｜次話→so36128667　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128666
+  default_thread_id: 1577176096
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128666/36128666.19567053
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: 復活！ギガノスの蒼き鷹
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128666←前話｜次話→so36128668　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128667
+  default_thread_id: 1577176098
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128667/36128667.48773362
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 発動！ギガノス無敵要塞
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128667←前話｜次話→so36128669　第一話→so36128179
+  length_seconds: 1460
+  content_id: so36128668
+  default_thread_id: 1577176266
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128668/36128668.12912684
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: 決断！巨大要塞攻撃指令
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128668←前話｜次話→so36128670　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128669
+  default_thread_id: 1577176083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128669/36128669.55286736
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 非情！ドラグナー対ドラグナー
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128669←前話｜次話→so36128671　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128670
+  default_thread_id: 1577176263
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128670/36128670.29035996
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: 特攻！復讐の蒼き鷹
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128670←前話｜次話→so36128672　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128671
+  default_thread_id: 1577176451
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128671/36128671.77133703
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: 突入！アオイワカバ救出
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128671←前話｜次話→so36128673　第一話→so36128179
+  length_seconds: 1458
+  content_id: so36128672
+  default_thread_id: 1577176090
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128672/36128672.84032471
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: 肉迫！ミン大尉の猛追
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128672←前話｜次話→so36128674　第一話→so36128179
+  length_seconds: 1459
+  content_id: so36128673
+  default_thread_id: 1577176106
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128673/36128673.50864429
+- !ruby/hash:EpisodeHash
+  episode_no: 最終話
+  title: 大宇宙(おおぞら)の凱歌
+  description: ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太<br><br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎<br><br>©創通・サンライズ<br><br>so36128673←前話　第一話→so36128179
+  length_seconds: 1429
+  content_id: so36128674
+  default_thread_id: 1577176100
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128674/36128674.38223997
+cast: "[キャスト]<br>ケーン・ワカバ:菊池正美／ライト・ニューマン:堀内賢雄／タップ・オセアノ:大塚芳忠／リンダ・プラート:藤井佳代子／ローズ・パテントン:平松晶子／ダイアン・ランス:勝生真沙子／マイヨ・プラート:小杉十郎太"
+staff: "[スタッフ]<br>原案:矢立肇／監督:神田武幸／キャラクターデザイン:大貫健一／メカニカルデザイン:大河原邦男／音楽:渡辺俊幸、羽田健太郎"
+produced_year: "[製作年]<br>1987年"
+copyright: "©創通・サンライズ"
+related_seasons: !ruby/array:Hashie::Array []
