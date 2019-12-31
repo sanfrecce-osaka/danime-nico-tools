@@ -206,6 +206,18 @@ episodes: !ruby/array:Hashie::Array
   default_thread_id: 1577080203
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36123533/36123533.2536176
+- !ruby/hash:EpisodeHash
+  episode_no: 第12.5話(総集編)
+  title: シャオ’ｓリポート
+  description: "『PSO2 エピソード・オラクル』のこれまでを、シャオがリポートする特別編。1話～12話でのアッシュたちの活躍を振り返りながら、シャオと共に彼らの物語の軌跡をたどる。<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36123533←前話　第一話→so35755425"
+  length_seconds: 1420
+  content_id: so36132774
+  default_thread_id: 1577241845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36132774/36132774.80907976
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"
