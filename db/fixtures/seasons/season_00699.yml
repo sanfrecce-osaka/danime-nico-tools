@@ -109,3 +109,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: ストライク・ザ・ブラッド
 - !ruby/hash:SeasonHash
   title: ストライク・ザ・ブラッドⅡ OVA
+- !ruby/hash:SeasonHash
+  title: ストライク・ザ・ブラッドⅢ OVA

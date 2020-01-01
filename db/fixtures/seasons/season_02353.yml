@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
-  name: 高橋未奈美
+  name: 花守ゆみり
   type: cast
 - !ruby/hash:TagHash
-  name: 花守ゆみり
+  name: 高橋未奈美
   type: cast
 - !ruby/hash:TagHash
   name: 桑原由気

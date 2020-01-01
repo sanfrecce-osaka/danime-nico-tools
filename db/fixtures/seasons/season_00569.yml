@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: サーバント×サービス
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/30/3/21303_1_6.png?1481513402000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/30/3/21303_1_8_8b.png?1551261273000
 outline: 北海道、某市、某区役所。 山神ルーシー…さんががひょんなことから配属されたこの区役所は、ちょっと個性的かもしれない職員達ばかりが働く区役所だった。
   そんな山神ルーシー…と職員達が元気に秘密に活躍（！？）するお役所〝WORK〟コメディー！！※実際の公務員とは、一切関係ありません☆
 tags: !ruby/array:Hashie::Array
@@ -18,6 +18,9 @@ tags: !ruby/array:Hashie::Array
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
@@ -27,19 +30,16 @@ tags: !ruby/array:Hashie::Array
   name: 中原麻衣
   type: cast
 - !ruby/hash:TagHash
-  name: 豊崎愛生
+  name: 鈴木達央
   type: cast
 - !ruby/hash:TagHash
   name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴木達央
+  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
   name: 高橋美佳子
-  type: cast
-- !ruby/hash:TagHash
-  name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
   name: 大久保瑠美
@@ -66,6 +66,9 @@ tags: !ruby/array:Hashie::Array
   name: 製作年：2013年
   type: other
 - !ruby/hash:TagHash
+  name: 2013年夏
+  type: other
+- !ruby/hash:TagHash
   name: スクウェア・エニックス
   type: other
 - !ruby/hash:TagHash
@@ -89,7 +92,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225517
   default_thread_id: 1509938212
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225517
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225517/32225517.69841711
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: "『お仕事は　慌てず騒がず　投げ出さず』"
@@ -101,7 +104,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225518
   default_thread_id: 1509938195
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225518
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225518/32225518.9264857
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: "『怠るな　職場の安全　身の安全』"
@@ -113,7 +116,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225519
   default_thread_id: 1509938398
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225519
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225519/32225519.47797969
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: "『来週の　見えない危険に　要注意』"
@@ -125,7 +128,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225521
   default_thread_id: 1509938445
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225521
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225521/32225521.33249943
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: "『皆が持ってる　ヒヤリの体験　活かして今日も　健全職場』"
@@ -137,7 +140,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225522
   default_thread_id: 1509938193
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225522
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225522/32225522.28792455
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: "『確かめて　思わぬ問題　かくれんぼ』"
@@ -149,7 +152,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225523
   default_thread_id: 1509938197
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225523
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225523/32225523.80113733
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: "『自己防止　見えない所に　人が居る』"
@@ -161,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225524
   default_thread_id: 1509938391
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225524
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225524/32225524.17274336
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: "『危険の芽　田中の孫に　御用心』"
@@ -173,7 +176,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225525
   default_thread_id: 1509938396
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225525
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225525/32225525.50999398
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: "『ありますか　心のゆとりと　積み重ね』"
@@ -185,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225526
   default_thread_id: 1509938435
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225526
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225526/32225526.14597975
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: "『あとで良い　ついでで良いは　大きな後悔』"
@@ -197,7 +200,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225705
   default_thread_id: 1509941254
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225705
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225705/32225705.41666834
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: "『アテンション　あなたを狙う　甘い罠』"
@@ -209,7 +212,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225726
   default_thread_id: 1509942331
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225726
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225726/32225726.25116402
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: "『一寸待て　慣れと油断が　命取り』"
@@ -221,7 +224,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225727
   default_thread_id: 1509942329
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225727
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225727/32225727.85596047
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: "『これで良し　明日につなぐ　楽しい職場』"
@@ -233,7 +236,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32225728
   default_thread_id: 1509942333
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225728
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225728/32225728.1902626
 cast: "[キャスト]<br>山神ルーシー(略):茅野愛衣／長谷部豊:鈴木達央／三好紗耶:中原麻衣／千早 恵:豊崎愛生／一宮大志:櫻井孝宏／一宮塔子:大久保瑠美／百井兼蔵:小山力也／百井花音:日高里菜／田中さん:高橋美佳子／田中譲二:柿原徹也／長谷部薫:小林ゆう
   ほか"
 staff: "[スタッフ]<br>原作:高津カリノ(掲載 月刊「ビッグガンガン」スクウェア・エニックス刊)／監督:山本靖貴／脚本:下山健人／キャラクターデザイン:西位輝実／音楽:MONACA／音響制作:HALF

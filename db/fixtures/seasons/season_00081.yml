@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: アルドノア・ゼロ
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/35/5/11355_1_6.png?1485163802000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/35/5/11355_1_8_8b.png?1551175411000
 outline: 宣戦を布告する　火星の騎士たちが空から降ってくる。鋼で作られた巨人を駆って。地球人類を殲滅するために。それが『アルドノア・ゼロ』。この壮大な物語を実現するために、圧倒的な力を持った作り手たちが集結した。心の奥底に踏み込む、強烈な筆力を持った書き手、虚淵玄。美麗かつ大胆な映像表現で、見る者の予想を遙かに超えてみせる、あおきえい。虚淵が原作、あおきが監督をつとめたアニメーション作品『Fate/Zero』以来、この二人が再びタッグを組む。アニメーション制作はA-1
   Pictures、そしてあおき自身も参画するTROYCAが務める。またキャラクター原案として志村貴子が名を連ねる。その繊細な人物の佇まいは、星間戦争を生きる人々の姿を切なく写し出すものだ。さらにメカニックデザインは新鋭、I-Ⅳが担当。音楽では澤野弘之が作品に重厚な趣を与える。彼らが描き出すのは、鮮烈なアクション、微に入り細にわたる設定、真に迫る戦争の恐怖、そして、真摯な思いが織りなす人々のドラマだ。それは王道の、しかし誰も見たことのない、全く新しいロボットアニメとなる。『アルドノア・ゼロ』。この作品は、僕たち地球人類に宣戦布告する。君は迎え撃たねばならない。　さやわか（物語評論家）
 tags: !ruby/array:Hashie::Array
@@ -18,16 +18,16 @@ tags: !ruby/array:Hashie::Array
   name: 能登麻美子
   type: cast
 - !ruby/hash:TagHash
-  name: 大原さやか
-  type: cast
-- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
-  name: 鳥海浩輔
+  name: 大原さやか
   type: cast
 - !ruby/hash:TagHash
   name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
   name: 安元洋貴
@@ -39,13 +39,13 @@ tags: !ruby/array:Hashie::Array
   name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
-  name: 斉藤壮馬
-  type: cast
-- !ruby/hash:TagHash
   name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
   name: 中井和哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：A-1 Pictures
@@ -57,34 +57,40 @@ tags: !ruby/array:Hashie::Array
   name: 監督：あおきえい
   type: staff
 - !ruby/hash:TagHash
+  name: アニメーション制作：TROYCA
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松本昌子
+  type: staff
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：2014年
   type: other
 - !ruby/hash:TagHash
+  name: 2014年夏
+  type: other
+- !ruby/hash:TagHash
   name: 明田川仁
   type: other
 - !ruby/hash:TagHash
+  name: 頭脳戦
+  type: other
+- !ruby/hash:TagHash
+  name: 主人公最強
+  type: other
+- !ruby/hash:TagHash
   name: マジックカプセル
+  type: other
+- !ruby/hash:TagHash
+  name: 頼れる側近
   type: other
 - !ruby/hash:TagHash
   name: 寺岡賢司
   type: other
 - !ruby/hash:TagHash
   name: 橋本敬史
-  type: other
-- !ruby/hash:TagHash
-  name: ニトロプラス
-  type: other
-- !ruby/hash:TagHash
-  name: 右山章太
-  type: other
-- !ruby/hash:TagHash
-  name: 高山カツヒコ
-  type: other
-- !ruby/hash:TagHash
-  name: 加藤友宜
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -99,12 +105,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>次話→so32807817'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>次話→so32807817'
   length_seconds: 1420
   content_id: so32808723
   default_thread_id: 1519797874
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32808723
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32808723/32808723.11972392
 - !ruby/hash:EpisodeHash
   episode_no: EP02
   title: 地球の一番長い日 —Beyond the Horizon—
@@ -117,12 +123,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32808723←前話｜次話→so32807816　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32808723←前話｜次話→so32807816　第一話→so32808723'
   length_seconds: 1419
   content_id: so32807817
   default_thread_id: 1519780702
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807817
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807817/32807817.69362750
 - !ruby/hash:EpisodeHash
   episode_no: EP03
   title: 戦場の少年たち -The Children’s Echelon-
@@ -135,12 +141,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807817←前話｜次話→so32807815　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807817←前話｜次話→so32807815　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807816
   default_thread_id: 1519780712
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807816
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807816/32807816.10979372
 - !ruby/hash:EpisodeHash
   episode_no: EP04
   title: 追撃の騎士 -Point of No Return-
@@ -153,12 +159,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807816←前話｜次話→so32807814　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807816←前話｜次話→so32807814　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807815
   default_thread_id: 1519780909
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807815
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807815/32807815.15652638
 - !ruby/hash:EpisodeHash
   episode_no: EP05
   title: 謁見の先で -Phantom of The Emperor-
@@ -171,12 +177,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807815←前話｜次話→so32807813　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807815←前話｜次話→so32807813　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807814
   default_thread_id: 1519780905
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807814
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807814/32807814.89636627
 - !ruby/hash:EpisodeHash
   episode_no: EP06
   title: 記憶の島 -Steel Step Suite-
@@ -189,12 +195,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807814←前話｜次話→so32807812　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807814←前話｜次話→so32807812　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807813
   default_thread_id: 1519780726
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807813
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807813/32807813.66911837
 - !ruby/hash:EpisodeHash
   episode_no: EP07
   title: 邂逅の二人 -The Boys of Earth-
@@ -207,12 +213,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807813←前話｜次話→so32807811　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807813←前話｜次話→so32807811　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807812
   default_thread_id: 1519780653
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807812
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807812/32807812.11090683
 - !ruby/hash:EpisodeHash
   episode_no: EP08
   title: 鳥を見た日 -Then and Now-
@@ -225,12 +231,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807812←前話｜次話→so32807810　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807812←前話｜次話→so32807810　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807811
   default_thread_id: 1519780912
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807811
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807811/32807811.92919129
 - !ruby/hash:EpisodeHash
   episode_no: EP09
   title: 追憶装置 -Darkness Visible-
@@ -243,12 +249,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807811←前話｜次話→so32807809　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807811←前話｜次話→so32807809　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807810
   default_thread_id: 1519780656
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807810
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807810/32807810.53229017
 - !ruby/hash:EpisodeHash
   episode_no: EP10
   title: 嵐になるまで —Before the War—
@@ -261,12 +267,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807810←前話｜次話→so32807808　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807810←前話｜次話→so32807808　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807809
   default_thread_id: 1519780729
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807809
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807809/32807809.79228145
 - !ruby/hash:EpisodeHash
   episode_no: EP11
   title: ノヴォスタリスクの攻防 -Wind, Snow and Stars-
@@ -279,12 +285,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807809←前話｜次話→so32807818　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807809←前話｜次話→so32807818　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807808
   default_thread_id: 1519780423
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807808
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807808/32807808.40084697
 - !ruby/hash:EpisodeHash
   episode_no: EP12
   title: たとえ天が堕ちるとも -Childhood's End-
@@ -297,12 +303,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807808←前話｜次話→so32807819　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807808←前話｜次話→so32807819　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807818
   default_thread_id: 1519780403
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807818
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807818/32807818.82345834
 - !ruby/hash:EpisodeHash
   episode_no: EP13
   title: 眠れる月の少女 -This Side of Paradise-
@@ -315,12 +321,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807818←前話｜次話→so32807829　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807818←前話｜次話→so32807829　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807819
   default_thread_id: 1519780649
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807819
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807819/32807819.12297459
 - !ruby/hash:EpisodeHash
   episode_no: EP14
   title: 異星の隣人たち -The Beautiful and Damned-
@@ -333,12 +339,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807819←前話｜次話→so32807828　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807819←前話｜次話→so32807828　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807829
   default_thread_id: 1519780686
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807829
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807829/32807829.27384229
 - !ruby/hash:EpisodeHash
   episode_no: EP15
   title: 旋転する罠 -Toll for the Brave-
@@ -351,12 +357,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807829←前話｜次話→so32807827　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807829←前話｜次話→so32807827　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807828
   default_thread_id: 1519780714
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807828
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807828/32807828.47382581
 - !ruby/hash:EpisodeHash
   episode_no: EP16
   title: 熱砂の進撃 -Soldiers’ Pay-
@@ -369,12 +375,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807828←前話｜次話→so32807826　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807828←前話｜次話→so32807826　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807827
   default_thread_id: 1519780658
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807827
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807827/32807827.89949394
 - !ruby/hash:EpisodeHash
   episode_no: EP17
   title: 謀略の夜明け -The Turning Wheel-
@@ -387,12 +393,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807827←前話｜次話→so32807825　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807827←前話｜次話→so32807825　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807826
   default_thread_id: 1519780679
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807826
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807826/32807826.68221208
 - !ruby/hash:EpisodeHash
   episode_no: EP18
   title: 深い森を抜けて -The Rose and the Ring-
@@ -405,12 +411,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807826←前話｜次話→so32807824　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807826←前話｜次話→so32807824　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807825
   default_thread_id: 1519780925
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807825
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807825/32807825.76037339
 - !ruby/hash:EpisodeHash
   episode_no: EP19
   title: 楽園の瑕 -Here to There-
@@ -423,12 +429,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807825←前話｜次話→so32807823　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807825←前話｜次話→so32807823　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807824
   default_thread_id: 1519780523
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807824
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807824/32807824.35615779
 - !ruby/hash:EpisodeHash
   episode_no: EP20
   title: 名誉の対価 -The Light of Day-
@@ -441,12 +447,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807824←前話｜次話→so32807822　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807824←前話｜次話→so32807822　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807823
   default_thread_id: 1519780945
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807823
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807823/32807823.51555460
 - !ruby/hash:EpisodeHash
   episode_no: EP21
   title: 夢幻の彼方 -The Fortune’s Fool-
@@ -459,12 +465,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807823←前話｜次話→so32807821　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807823←前話｜次話→so32807821　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807822
   default_thread_id: 1519780674
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807822
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807822/32807822.72465457
 - !ruby/hash:EpisodeHash
   episode_no: EP22
   title: 邂逅と訣別 -Out of the Past-
@@ -477,12 +483,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807822←前話｜次話→so32807820　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807822←前話｜次話→so32807820　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807821
   default_thread_id: 1519780708
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807821
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807821/32807821.14103149
 - !ruby/hash:EpisodeHash
   episode_no: EP23
   title: 祈りの空 -The Unvanquished-
@@ -495,12 +501,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807821←前話｜次話→so32807807　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807821←前話｜次話→so32807807　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807820
   default_thread_id: 1519780683
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807820
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807820/32807820.9650698
 - !ruby/hash:EpisodeHash
   episode_no: EP24
   title: いつか見た流星 -Inherit the Stars-
@@ -513,12 +519,12 @@ episodes: !ruby/array:Hashie::Array
     志村貴子／キャラクターデザイン・総作画監督: 松本昌子／メカニックデザイン: I-lV・寺岡賢司／メカ・エフェクトアニメーション: 橋本敬史／メインアニメーター:
     斉藤敦史・サトウミチオ／美術監督: 伊藤聖／美術設定: 児玉陽平・藤井祐太／色彩設計: 大内綾／CGディレクター: 那須信司(1クール)・町田政彌(2クール)／ビジュアルエフェクト:
     津田涼介／撮影監督: 加藤友宜／編集: 右山章太／音響監督: 明田川仁／音響制作: マジックカプセル／音楽: 澤野弘之／制作: A-1 Pictures+TROYCA／製作:
-    Project AZ<br><br>so32807820←前話　第一話→so32808723'
+    Project AZ<br><br>©Olympus Knights/Aniplex・Project AZ<br><br>so32807820←前話　第一話→so32808723'
   length_seconds: 1420
   content_id: so32807807
   default_thread_id: 1519780910
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32807807
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32807807/32807807.73503789
 cast: "[キャスト]<br>界塚伊奈帆: 花江夏樹／スレイン・トロイヤード: 小野賢章／アセイラム・ヴァース・アリューシア: 雨宮天／ライエ・アリアーシュ:
   三澤紗千香／網文韻子: 小松未可子／カーム・クラフトマン: 村田太志／ニーナ・クライン: 加隈亜衣／箕国起助: 山谷祥生／界塚ユキ: 大原さやか／鞠戸孝一郎:
   中井和哉／耶賀頼蒼真: 鳥海 浩輔／ダルザナ・マグバレッジ: 茅野愛衣／不見咲カオル: 嶋村侑／エデルリッゾ: 水瀬いのり／クルーテオ: 速水奨／ザーツバルム:
