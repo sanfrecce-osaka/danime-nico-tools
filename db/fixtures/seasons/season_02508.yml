@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: ファンタシースターオンライン2 エピソード・オラクル
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/02/4/23024_1_6.png?1569382208000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/02/4/23024_1_8_8b.png?1569382208000
 outline: 新光歴238年。惑星間飛行船団、通称『オラクル』は外宇宙に進出し、銀河を渡っていた。『オラクル』では、新たに未知の惑星が発見されるたび、『アークス』が降下し、探索と発見を繰り返す。数多の星に潜む『ダーカー』と呼ばれる生命体を殲滅するために創設された組織である彼らは、宇宙に平穏が訪れる日まで、旅を続ける……
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -140,12 +140,24 @@ episodes: !ruby/array:Hashie::Array
   description: ついに復活を果たしたダークファルス【巨躯】（エルダー）はオラクル船団を襲う。アークスたちは船団と宇宙を守るため、その恐るべき力に立ち向かう……<br><br>アッシュ:小野大輔／アフィン:下野
     紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
     正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
-    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35920298←前話　第一話→so35755425
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35920298←前話｜次話→so35987387　第一話→so35755425
   length_seconds: 1420
   content_id: so35944083
   default_thread_id: 1573543688
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35944083/35944083.14560561
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: もうそこにいないわたし
+  description: "【巨躯】（エルダー）の強襲により、アークスたちは大きな犠牲を払うこととなった。ウルクを探そうとするテオドール、気丈に振る舞いながらも、ゼノを案じるエコー。そしてゲッテムハルトを失い、取り乱すメルフォンシーナは……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35944083←前話　第一話→so35755425"
+  length_seconds: 1420
+  content_id: so35987387
+  default_thread_id: 1574404203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35987387/35987387.63387136
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"
