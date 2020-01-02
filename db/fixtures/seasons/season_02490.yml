@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 折笠富美子
   type: cast
 - !ruby/hash:TagHash
-  name: 内田彩
+  name: 田村睦心
   type: cast
 - !ruby/hash:TagHash
-  name: 田村睦心
+  name: 内田彩
   type: cast
 - !ruby/hash:TagHash
   name: 中博史
