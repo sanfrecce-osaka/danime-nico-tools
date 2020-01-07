@@ -54,6 +54,9 @@ tags: !ruby/array:Hashie::Array
   name: 原作：小学館
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤初重
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：山本茂
   type: staff
 - !ruby/hash:TagHash
@@ -64,9 +67,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: 原作：ソニー・ミュージックエンタテインメント
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：加藤初重
   type: staff
 - !ruby/hash:TagHash
   name: 原作：アニプレックス
