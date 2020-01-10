@@ -1,0 +1,99 @@
+--- !ruby/hash:SeasonHash
+title: 群れなせ！シートン学園
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/17/5/23175_1_8_8b.png?1575871469000
+outline: ここは様々な動物が共に生活する、動物たちの学園。その名も「私立シートン学園」生徒たちが弱肉強食の精神を育むための神聖なる檻。各々の生存を懸け、絶えず異なる種族間での争いが日々巻き起こる。動物嫌いの”人間”間様
+  人(マザマ ジン)と独りぼっちの”オオカミ少女”大狼ランカ（オオカミ ランカ）1人と1匹の運命的な出会いによって、ハチャメチャ学園ライフが始まる―！姿形は違っても、ペロペロすれば群れなせる！「ペロペロしたら仲間！私の群れへようこそ！！」
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳井青空
+  type: cast
+- !ruby/hash:TagHash
+  name: 久野美咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 小原好美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石谷春貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 木野日菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 青山吉能
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮本侑芽
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：Studio五組
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：佐々木政勝
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：博史池畠
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：加藤裕介
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：Cygames
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：山下文吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：山下洋介
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：川崎智哉
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: おおかみ親分(ボス)ランカ－ランカとジンとヒトミの話－
+  description: 間様人です。この春、シートン学園に入学しました。そこで出会った、清楚で優しく可憐な女性――牝野瞳さん。僕らはすぐに意気投合、二人で料理部をつくり、一緒にレシピを考える毎日です。これってもしかして、将来の予行演習！？そんなリア充スクールライフ！が、過ごせるはずだった。――ここが、ケダモノどもの学園でなければ。<br><br>大狼
+    ランカ:木野 日菜／間様 人:石谷 春貴／牝野 瞳:宮本 侑芽／子守 ユカリ:久野 美咲／獣生 ミユビ:小原 好美／猫米 クルミ:徳井 青空／馬縞 クロエ:青山
+    吉能／獅子野 キング:杉田 智和／寺野先生:玄田 哲章／各話♂動物:津田 健次郎<br><br>原作:山下 文吾「群れなせ！シートン学園」（「サイコミ」連載）／監督:博史池畠／シリーズ構成・脚本:村越
+    繁／キャラクターデザイン:佐々木 政勝（stシルバー）／総作画監督:酒井 孝裕／動物作画監督:永山 恵／美術監督:小木曽 宣久（草薙）／美術設定:綱頭 瑛子（草薙）／色彩設計:歌川
+    律子／撮影監督:竹沢 裕一（T2studio）／編集:三嶋 章紀／音響監督:郷 文裕貴／音楽:山下 洋介・加藤 裕介・川崎 智哉／音楽プロデューサー:佐藤
+    宏次／音楽制作:Cygames／アニメーション制作:Studio五組／製作:アニメ「群れなせ！シートン学園」製作委員会<br><br>©山下文吾・Cygames／アニメ「群れなせ！シートン学園」製作委員会
+  length_seconds: 1420
+  content_id: so36198361
+  default_thread_id: 1578446462
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36198361/36198361.33340786
+cast: "[キャスト]<br>大狼 ランカ:木野 日菜／間様 人:石谷 春貴／牝野 瞳:宮本 侑芽／子守 ユカリ:久野 美咲／獣生 ミユビ:小原 好美／猫米 クルミ:徳井
+  青空／馬縞 クロエ:青山 吉能／獅子野 キング:杉田 智和／寺野先生:玄田 哲章／各話♂動物:津田 健次郎"
+staff: "[スタッフ]<br>原作:山下 文吾「群れなせ！シートン学園」（「サイコミ」連載）／監督:博史池畠／シリーズ構成・脚本:村越 繁／キャラクターデザイン:佐々木
+  政勝（stシルバー）／総作画監督:酒井 孝裕／動物作画監督:永山 恵／美術監督:小木曽 宣久（草薙）／美術設定:綱頭 瑛子（草薙）／色彩設計:歌川 律子／撮影監督:竹沢
+  裕一（T2studio）／編集:三嶋 章紀／音響監督:郷 文裕貴／音楽:山下 洋介・加藤 裕介・川崎 智哉／音楽プロデューサー:佐藤 宏次／音楽制作:Cygames／アニメーション制作:Studio五組／製作:アニメ「群れなせ！シートン学園」製作委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©山下文吾・Cygames／アニメ「群れなせ！シートン学園」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

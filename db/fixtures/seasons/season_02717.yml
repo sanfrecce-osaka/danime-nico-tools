@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: プランダラ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/12/7/23127_1_8_8b.png?1575598238000
+outline: "「廃棄戦争」と呼ばれた未曾有の大戦後の世界、アルシア。そこは、強者が弱者から自らの存在を示す「数字(カウント)」を奪い取る、弱肉強食の世界。そんな世界で、2人は出逢う。仮面で素性を隠しながらも、エッチなことが大好きで、弱き者たちのために太刀を振るう青年・リヒトー。母の遺言を頼りに「伝説の撃墜王」を探して旅をする、健気でひたむきな少女・陽菜。2人の出逢いをきっかけに、「数字(カウント)」がすべてを支配する世界の謎が、少しずつ明らかになっていく---「そらのおとしもの」の水無月すうがおくる、渾身のヒロイックアクションファンタジー開幕！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 悠木碧
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 東地宏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅原裕一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島ヨシキ
+  type: cast
+- !ruby/hash:TagHash
+  name: 市川蒼
+  type: cast
+- !ruby/hash:TagHash
+  name: 本泉莉奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：日本コロムビア
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高品有桂
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神戸洋行
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：水無月すう
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ギークトイズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：松本淳一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 伝説の撃墜王
+  description: 母の遺言を頼りに、5年もの間ひたすらに世界を旅してきた少女・陽菜。300年前の大戦『廃棄戦争』を終結に導いた英雄『伝説の撃墜王』を探し求める彼女は、ある街で仮面の青年・リヒトー=バッハと運命的な出会いを果たす。そして、撃墜王を名乗る軍人・ダビが現れ、陽菜を軍部へと連れていくのだが……。<br><br>リヒトー＝バッハ:中島ヨシキ／陽菜:本泉莉奈／ジェイル＝マードック:梅原裕一郎／リィン＝メイ:小澤亜李／ペレ:市川
+    蒼／ナナ:伊藤 静／園原水花:悠木 碧／アレク:東地宏樹／シュメルマン:関 俊彦<br><br>原作:水無月すう（月刊少年エース連載）／監督:神戸洋行／副監督:西片康人／シリーズ構成:鈴木雅詞／キャラクターデザイン:高品有桂・福地友樹・福田裕樹／アクション・エフェクト作監:酒井智史・友田政晴／デザインワークス:津幡佳明・沼田
+    広／美術監督:坪井健太（草薙）／色彩設計:池田ひとみ／撮影監督:野澤圭輔（グラフィニカ）／特効・2Dワークス:益子典子／編集:吉武将人（グラフィニカ）／音響監督:えびなやすのり／音響効果:倉橋裕宗／音響制作:HALF
+    H・P STUDIO／音楽:松本淳一／音楽制作:日本コロムビア／アニメーション制作:GEEKTOYS／制作:プランダラ製作委員会<br><br>©2020
+    水無月すう／KADOKAWA／プランダラ製作委員会
+  length_seconds: 1360
+  content_id: so36137469
+  default_thread_id: 1577325423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137469/36137469.80638388
+cast: "[キャスト]<br>リヒトー＝バッハ:中島ヨシキ／陽菜:本泉莉奈／ジェイル＝マードック:梅原裕一郎／リィン＝メイ:小澤亜李／ペレ:市川 蒼／ナナ:伊藤
+  静／園原水花:悠木 碧／アレク:東地宏樹／シュメルマン:関 俊彦"
+staff: "[スタッフ]<br>原作:水無月すう（月刊少年エース連載）／監督:神戸洋行／副監督:西片康人／シリーズ構成:鈴木雅詞／キャラクターデザイン:高品有桂・福地友樹・福田裕樹／アクション・エフェクト作監:酒井智史・友田政晴／デザインワークス:津幡佳明・沼田
+  広／美術監督:坪井健太（草薙）／色彩設計:池田ひとみ／撮影監督:野澤圭輔（グラフィニカ）／特効・2Dワークス:益子典子／編集:吉武将人（グラフィニカ）／音響監督:えびなやすのり／音響効果:倉橋裕宗／音響制作:HALF
+  H・P STUDIO／音楽:松本淳一／音楽制作:日本コロムビア／アニメーション制作:GEEKTOYS／制作:プランダラ製作委員会"
+produced_year: "[製作年]<br>2020年"
+copyright: "©2020 水無月すう／KADOKAWA／プランダラ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: ネコぱら
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/16/4/23164_1_8_8b.png?1576641911000
+outline: 水無月嘉祥は伝統ある老舗和菓子屋である実家を出て、パティシエとして自身のケーキ屋『ラ・ソレイユ』の開店準備を進めていた。そこに送られてきた荷物の中に、実家で飼っていた人型ネコのショコラとバニラが紛れ込んでいた。追い返そうとするも二匹の必死の嘆願に嘉祥が折れ、いっしょにソレイユをオープンする。妹の時雨やショコラとバニラのお姉さんネコであるアズキ、メイプル、シナモン、ココナツといった実家ネコたちもお店に手伝いにきてくれ、楽しくもにぎやかな生活を送っていた。ある日、ショコラはおつかいの途中で見知らぬ仔ネコに出会う…。どこか気になる仔ネコとの出会いから始まるハートフルネコストーリーがここに開幕！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 立花慎之介
+  type: cast
+- !ruby/hash:TagHash
+  name: 井澤詩織
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 森嶋優花
+  type: cast
+- !ruby/hash:TagHash
+  name: 八木侑紀
+  type: cast
+- !ruby/hash:TagHash
+  name: のぐちゆり
+  type: cast
+- !ruby/hash:TagHash
+  name: 水谷麻鈴
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐伯伊織
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：立山秋航
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本靖貴
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平野勇一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：NEKO WORKs
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：FelixFilm
+  type: staff
+- !ruby/hash:TagHash
+  name: ネコぱらシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ようこそ、ラ・ソレイユヘ！
+  description: 水無月嘉祥は実家を出て、人型ネコのショコラとバニラとパティスリー『ラ・ソレイユ』をオープンした。妹の時雨や二匹のお姉さんネコであるアズキ、メイプル、シナモン、ココナツも手伝いにきてくれ、楽しくもにぎやかな生活を送っていた。ある日、ショコラはおつかいの途中で見知らぬ仔ネコに出会う…。<br><br>ショコラ:八木侑紀／バニラ:佐伯伊織／アズキ:井澤詩織／メイプル:伊藤美来／シナモン:のぐちゆり／ココナツ:水谷麻鈴／水無月時雨:Ｍ・Ａ・Ｏ／水無月嘉祥:立花慎之介／？？？:森嶋優花<br><br>原作:NEKO
+    WORKs／監督:山本靖貴／シリーズ構成:雑破業／キャラクターデザイン:平野勇一／音楽:立山秋航／アニメーション制作:FelixFilm<br><br>©NEKO
+    WORKs/ネコぱら製作委員会
+  length_seconds: 1305
+  content_id: so36137435
+  default_thread_id: 1577324824
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137435/36137435.48808377
+cast: "[キャスト]<br>ショコラ:八木侑紀／バニラ:佐伯伊織／アズキ:井澤詩織／メイプル:伊藤美来／シナモン:のぐちゆり／ココナツ:水谷麻鈴／水無月時雨:Ｍ・Ａ・Ｏ／水無月嘉祥:立花慎之介／？？？:森嶋優花"
+staff: "[スタッフ]<br>原作:NEKO WORKs／監督:山本靖貴／シリーズ構成:雑破業／キャラクターデザイン:平野勇一／音楽:立山秋航／アニメーション制作:FelixFilm"
+produced_year: "[製作年]<br>2020年"
+copyright: "©NEKO WORKs/ネコぱら製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ネコぱらOVA
+- !ruby/hash:SeasonHash
+  title: ネコぱらOVA　仔ネコの日の約束

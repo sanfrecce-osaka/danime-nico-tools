@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: 地縛少年花子くん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/15/9/23159_1_8_8b.png?1576641857000
+outline: ねえ、知ってる？　この学園にある七不思議の話……かもめ学園に伝わる一番有名な七不思議の噂。旧校舎3階女子トイレ3番目には花子さんがいて、呼び出した人の願いをなんでも叶えてくれるんだって。呼び出し方は簡単、ノックを3回。それから―――「花子さん、花子さん、いらっしゃいますか？」「はーあーい……」自分の願いをかなえてもらうため、花子さんを呼び出したオカルト少女の八尋寧々。しかし、彼女の前に現れたのは男の子の幽霊、”花子くん”だった。おばけなのにドSでちょっとエッチな花子くんに振りまわされて様々な怪談に巻き込まれていく寧々。果たして寧々は無事に学園生活をおくれるのか誰も見たことのないハートフル便所コメディが今、始まる
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 緒方恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 鬼頭明里
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉翔也
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Lerche
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：高木洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：安藤正臣
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あいだいろ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤麻由加
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一の怪
+  title: トイレの花子さん
+  description: かもめ学園高等部1年生の八尋寧々は、学園に伝わるとある噂話を耳にする。大切なものと引き替えに願いを叶えてくれるという『トイレの花子さん』。どうしても叶えたい願いのある寧々は、旧校舎の女子トイレで花子さんを呼び出す。だが、現れたのは男の子の幽霊で!?<br><br>花子くん:緒方恵美／八尋寧々:鬼頭明里／源光:千葉翔也<br><br>原作:あいだいろ／監督:安藤正臣／シリーズ構成・脚本:中西やすひろ／総作画監督・キャラクターデザイン:伊藤麻由加／助監督:仁昌寺義人／美術監督:栗林大貴（KUSANAGI)／色彩設定:多田早希／撮影監督:酒井淳子（MAD
+    BOX)／音響監督:飯田里樹／音響制作:HALF H・P STUDIO／音楽:高木洋／音楽制作:ポニーキャニオン／アニメーションプロデューサー:比嘉勇二／アニメーション制作:Lerche<br><br>©あいだいろ／SQUARE
+    ENIX・「地縛少年花子くん」製作委員会
+  length_seconds: 1445
+  content_id: so36202379
+  default_thread_id: 1578534011
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36202379/36202379.33179118
+cast: "[キャスト]<br>花子くん:緒方恵美／八尋寧々:鬼頭明里／源光:千葉翔也"
+staff: "[スタッフ]<br>原作:あいだいろ／監督:安藤正臣／シリーズ構成・脚本:中西やすひろ／総作画監督・キャラクターデザイン:伊藤麻由加／助監督:仁昌寺義人／美術監督:栗林大貴（KUSANAGI)／色彩設定:多田早希／撮影監督:酒井淳子（MAD
+  BOX)／音響監督:飯田里樹／音響制作:HALF H・P STUDIO／音楽:高木洋／音楽制作:ポニーキャニオン／アニメーションプロデューサー:比嘉勇二／アニメーション制作:Lerche"
+produced_year: "[製作年]<br>2020年"
+copyright: "©あいだいろ／SQUARE ENIX・「地縛少年花子くん」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,101 @@
+--- !ruby/hash:SeasonHash
+title: 妖怪学園Y ～Nとの遭遇～（妖怪ウォッチJam）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/19/4/23194_1_8_8b.png?1577253608000
+outline: これが妖怪ウォッチ！？ぶっ飛び妖怪冒険活劇、ここに誕生！超エリート校・Y学園には、多くの謎が存在する…。その謎に立ち向かうのが「YSPクラブ」。彼らはなんと「妖怪HERO」へと変身することができるのだ！そんな彼らに妖怪史上最大の謎解明ミッションが下される！！絶大な力を持つ生徒会、冷酷な風紀委員、更にはエイリアンの襲撃！？ジンペイたち「YSPクラブ」を待ち受けているのは、輝かしい未来か、それとも…？アッと驚くギャグ満載！ホロリと泣ける感動展開！まだ見ぬ新体験が、キミを待っている！Y学園…いや、この世界最大の謎を解明せよ！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 増田俊樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林千晃
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：OLM
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：レベルファイブ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：西郷憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山田俊也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：北條史也
+  type: staff
+- !ruby/hash:TagHash
+  name: 妖怪ウォッチシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 衝撃!!　初恋の人は○○だった
+  description: 毎日繰り返される日常生活のどこかに、不可思議な世界への入り口がある。これは「Y」の始まりの物語。ある日、寺刃ジンペイのクラスに転校生がやってきた。彼の名は小間サン太夫。二人は好きなアニメの話をきっかけにすぐに意気投合。すっかり打ち解けたジンペイは、コマに恋の悩みを相談する。なんでも、電車の中で会う女子高生に、なぜかドキドキしてしまうのだという。コマに協力してもらい、彼女に告白することを決意したジンペイ。次の日の放課後、声をかけるために彼女の後を追うが、何やら怪しい男が後をつけていることに気づき…<br><br>寺刃ジンペイ:田村睦心／玉田マタロウ:井上麻里奈／小間サン太夫:遠藤
+    綾／姫川フブキ:戸松 遥／雷堂メラ:増田俊樹／九尾リュウスケ:小林千晃／モモ:小桜エツコ／バケーラ:小野友樹／獅子黒カズマ:日野 聡／大王路エマ:竹達彩奈／臼見沢ハルヒコ:関
+    智一／霧隠ラント:福山 潤<br><br>クリエイティブプロデューサー／原案・シリーズ構成:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:北條史也／妖怪＆キャクターデザイン原案:長野拓造・田中美穂・板橋由里子／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:田中
+    亮／アニメーション制作:オー・エル・エム<br><br>©LEVEL-5/妖怪ウォッチプロジェクト・テレビ
+  length_seconds: 1477
+  content_id: so36202376
+  default_thread_id: 1578534015
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36202376/36202376.11689821
+cast: "[キャスト]<br>寺刃ジンペイ:田村睦心／玉田マタロウ:井上麻里奈／小間サン太夫:遠藤 綾／姫川フブキ:戸松 遥／雷堂メラ:増田俊樹／九尾リュウスケ:小林千晃／モモ:小桜エツコ／バケーラ:小野友樹／獅子黒カズマ:日野
+  聡／大王路エマ:竹達彩奈／臼見沢ハルヒコ:関 智一／霧隠ラント:福山 潤"
+staff: "[スタッフ]<br>クリエイティブプロデューサー／原案・シリーズ構成:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:北條史也／妖怪＆キャクターデザイン原案:長野拓造・田中美穂・板橋由里子／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:田中
+  亮／アニメーション制作:オー・エル・エム"
+produced_year: "[製作年]<br>2019年"
+copyright: "©LEVEL-5/妖怪ウォッチプロジェクト・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 妖怪ウォッチ
+- !ruby/hash:SeasonHash
+  title: 妖怪ウォッチ シャドウサイド
+- !ruby/hash:SeasonHash
+  title: 妖怪ウォッチ！

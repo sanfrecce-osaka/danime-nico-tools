@@ -1,0 +1,296 @@
+--- !ruby/hash:SeasonHash
+title: 蟲師 続章
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/8/11518_1_8_8b.png?1576571454000
+outline: およそ遠しとされしもの──下等で奇怪、見慣れた動植物とはまるで違うとおぼしきモノ達。それら異形の一群を、ヒトは古くから畏れを含み、いつしか総じて“蟲”と呼んだ。時に蟲はヒトに妖しき現象をもたらし、そしてヒトは初めてその幽玄なる存在を知る。ヒトと蟲との世を繋ぐ者──それが“蟲師”。すべての生命は、他を脅かすために在るのではない。みな、ただそれぞれが、在るように在るだけ──。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 中野裕斗
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：アートランド
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：馬越嘉彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長濵博史
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：漆原友紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 蟲師シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 2014年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 野末の宴（のずえのうたげ）
+  description: 地中深く流れる光──生命の素たる“光酒”。それが世の生命達に与える影響を知らずに扱った男がいた。他意なき故の危うさが何かを引き起こす前に、蟲師が追う。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>次話→so36100404
+  length_seconds: 1430
+  content_id: so36100369
+  default_thread_id: 1576632850
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100369/36100369.55930926
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 囀る貝（さえずるかい）
+  description: 貝殻に耳をあて、聞こえてきたのは──鳥の声。幾年も前の悲劇が癒えぬままの漁村で、妖しき“蟲”が凶兆を示す。異形のモノが告げる異変、ヒトにとってそれは──。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100369←前話｜次話→so36100444　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100404
+  default_thread_id: 1576633384
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100404/36100404.70194815
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 雪の下（ゆきのした）
+  description: その男の頭上には、常に雪が舞っている。凍える事も無く平然とする男を支配するものは、決して拭い去れない記憶──妹と共にした冬の想い出。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100404←前話｜次話→so36100445　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100444
+  default_thread_id: 1576633806
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100444/36100444.13926130
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: 夜を撫でる手（よるをなでるて）
+  description: 夜の山中、道具ひとつ使わずに狩りをする者があった。己の意のままに生命を摘み取り弄ぶ“それ”は──“ヒト”と“蟲”の境に在る、脆弱なる“モノ”。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100444←前話｜次話→so36100446　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100445
+  default_thread_id: 1576633865
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100445/36100445.31643663
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 鏡が淵（かがみがふち）
+  description: 覗き込んだ水面に映ったのは誰、或いは何──。虚と実が溶け合う時、己で在り続ける術を悟り得るのは、この世に生を刻む己のみ。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100445←前話｜次話→so36100447　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100446
+  default_thread_id: 1576634053
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100446/36100446.48330199
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 花惑い（はなまどい）
+  description: 枝先に溢れる無数の彩りは、ヒトを魅了する春の美景。それを欲して止まぬ者は、いつしか禁忌に歩み寄る。儚き花──咲き誇るは誰が為に。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100446←前話｜次話→so36100448　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100447
+  default_thread_id: 1576634047
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100447/36100447.24635311
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 日照る雨（ひてるあめ）
+  description: その女は、雨を告げながら旅をする。蒼天から注ぐ雫が呼び起こす女の過去──それは幾粒の涙でも償えぬ数奇な巡り合わせ。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100447←前話｜次話→so36100449　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100448
+  default_thread_id: 1576633803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100448/36100448.58649742
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 風巻立つ（しまきたつ）
+  description: 凪の海で帆を揺らす船。意のままに“蟲”を操り風を呼ぶ危うき少年は、己が為に往く──心に地平を見る為に。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100448←前話｜次話→so36100450　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100449
+  default_thread_id: 1576634043
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100449/36100449.36967655
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: 潮わく谷（うしおわくたに）
+  description: 雪の時節も青々と実りをたたえる里。眠りにつく事すら無く農事に精を出す男は、その脈動と共に何かを刻み続ける。家族が生きる地の為に、そして己の血が為に──。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100449←前話｜次話→so36100405　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100450
+  default_thread_id: 1576634051
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100450/36100450.88778466
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: 冬の底（ふゆのそこ）
+  description: 春の訪れを拒む山があった。降り止まぬ雪、冬眠から目覚めぬ生命達。それは山のヌシ自らの意思──死を待つが如く。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100450←前話｜次話→so36100381　第一話→so36100369
+  length_seconds: 1425
+  content_id: so36100405
+  default_thread_id: 1576633386
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100405/36100405.83087452
+- !ruby/hash:EpisodeHash
+  episode_no: 特別編
+  title: 棘のみち　前篇（おどろのみち）
+  description: 洞から闇が溢れたならば、ヒトと蟲との境は溶ける。やがて生命達は“死”を奪われ、理さえも崩れ去り──在り方を違えた世が開く。かの道に潜むは禍々しき異形、或いはヒトがヒトである故に宿した禁忌。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100405←前話｜次話→so36100380　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100381
+  default_thread_id: 1576632856
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100381/36100381.26678315
+- !ruby/hash:EpisodeHash
+  episode_no: 特別編
+  title: 棘のみち　後篇（おどろのみち）
+  description: 洞から闇が溢れたならば、ヒトと蟲との境は溶ける。やがて生命達は“死”を奪われ、理さえも崩れ去り──在り方を違えた世が開く。かの道に潜むは禍々しき異形、或いはヒトがヒトである故に宿した禁忌。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100381←前話｜次話→so36100370　第一話→so36100369
+  length_seconds: 1420
+  content_id: so36100380
+  default_thread_id: 1576632909
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100380/36100380.82177827
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: 草の茵(くさのしとね)
+  description: それは何処であったか、何時であったか。白き髪と緑の目を持つ少年は、世と生命の“理”を──そして己が居るべき処を照らす光を知った。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100380←前話｜次話→so36100371　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100370
+  default_thread_id: 1576632847
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100370/36100370.98417612
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二話
+  title: 香る闇(かおるやみ)
+  description: 遠い記憶に残るのは、幾年も先に訪れるはずの春。かの匂いを知る者は、未だそれを知らぬ己のみ。この世が現でないならば、重ねた歳月は誰の為──。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100370←前話｜次話→so36100372　第一話→so36100369
+  length_seconds: 1420
+  content_id: so36100371
+  default_thread_id: 1576632423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100371/36100371.99447455
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三話
+  title: 残り紅（のこりべに）
+  description: 昼でも夜でもない、不確かな刻──夕暮れ。地に長く延びたふたつの人影が重なる時、永く眠っていた闇が目を醒ます。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100371←前話｜次話→so36100373　第一話→so36100369
+  length_seconds: 1420
+  content_id: so36100372
+  default_thread_id: 1576632907
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100372/36100372.56872789
+- !ruby/hash:EpisodeHash
+  episode_no: 第十四話
+  title: 隠り江(こもりえ)
+  description: この世にはヒト知れぬ水路が在る。時にヒトは意識を任せ、望む相手への路を辿り──そして互いが、同時に想う。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100372←前話｜次話→so36100375　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100373
+  default_thread_id: 1576632852
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100373/36100373.55096232
+- !ruby/hash:EpisodeHash
+  episode_no: 第十五話
+  title: 光の緒(ひかりのお)
+  description: 寄る辺なき少年の心が見上げる空は、求めども触れられぬ温もり。時にヒトは、五識を超えて感応する──生命達の眩き息吹に、己を包む輝きに。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100373←前話｜次話→so36100376　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100375
+  default_thread_id: 1576632858
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100375/36100375.23037169
+- !ruby/hash:EpisodeHash
+  episode_no: 第十六話
+  title: 壷天の星(こてんのほし)
+  description: 輝きひとつ見えぬ夜空、しかし頭上にのみ散らばる幾多の星。独り、少女は見上げていた──異質な闇と懐かしき光を。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100375←前話｜次話→so36100377　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100376
+  default_thread_id: 1576632903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100376/36100376.19417288
+- !ruby/hash:EpisodeHash
+  episode_no: 第十七話
+  title: 水碧む(みずあおむ)
+  description: 水に誘われながら、そして自らも水を欲しながら──少年は脈動を刻む。胎内での記憶に呼ばれたかのように、しかし彷徨うように。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100376←前話｜次話→so36100378　第一話→so36100369
+  length_seconds: 1420
+  content_id: so36100377
+  default_thread_id: 1576632854
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100377/36100377.7319769
+- !ruby/hash:EpisodeHash
+  episode_no: 第十八話
+  title: 雷の袂(いかずちのたもと)
+  description: 叶わぬ願い、通じぬ想い──やがてヒトは道標を探す。空を分かつ閃光でさえも照らせぬ、鈍く沈んだ闇の中に。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100377←前話｜次話→so36100379　第一話→so36100369
+  length_seconds: 1430
+  content_id: so36100378
+  default_thread_id: 1576632844
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100378/36100378.67252419
+- !ruby/hash:EpisodeHash
+  episode_no: 第十九話
+  title: 泥の草(どろのくさ)
+  description: "“死した者は山へ帰る”──誰しもが沼に葬られる里で、奇妙な病が蔓延する。恐れを抱く人々は言う──“死が伝染った”のだと。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100378←前話｜次話→so36100451　第一話→so36100369"
+  length_seconds: 1430
+  content_id: so36100379
+  default_thread_id: 1576632862
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100379/36100379.20670949
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十話
+  title: 常の樹(とこしえのき)
+  description: それは、ただ、其処に在った。悠久の刻を重ねるが侭に、見渡すが侭に。やがてヒトは想いを重ね、その歩みを共にする──未だ知らぬ日々へと。<br><br>ギンコ:中野裕斗／声:土井美加<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36100379←前話　第一話→so36100369
+  length_seconds: 1415
+  content_id: so36100451
+  default_thread_id: 1576634049
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100451/36100451.68957088
+cast: "[キャスト]<br>ギンコ:中野裕斗／声:土井美加"
+staff: "[スタッフ]<br>原作:漆原友紀(講談社 月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+  by Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド"
+produced_year: "[製作年]<br>2014年"
+copyright: "©漆原友紀／講談社・アニプレックス"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 蟲師

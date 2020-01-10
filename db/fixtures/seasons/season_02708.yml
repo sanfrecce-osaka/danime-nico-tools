@@ -1,0 +1,95 @@
+--- !ruby/hash:SeasonHash
+title: うちタマ?! ～うちのタマ知りませんか？～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/16/1/23161_1_8_8b.png?1576812607000
+outline: 1983年にデビューをした「タマ&フレンズ　～うちのタマ知りませんか？～」文房具や雑貨で一度は目にしたことがある、おでこにブチがあり黄色い耳をしたみんなのご近所ねこ「タマ」がまさかの擬人化で登場！タマと個性豊かな仲間たちが織りなす癒し系アニメーションの新境地！かわいいってこういうこと？！とある町の3丁目にはある貼り紙が頻繁に貼られていた。そこに書いてあるのはかぎしっぽのねこの絵と「うちのタマ知りませんか？」の文字。その貼り紙を眺めている少年にはふわふわの耳とかぎしっぽが…！？3丁目のねこやいぬ達が人の姿で駆け回る！？タマとフレンズのニャンとワンダフルな毎日を覗いてみませんか？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 花澤香菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 梶裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽多野渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤壮馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野賢章
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅原裕一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒沢ともよ
+  type: cast
+- !ruby/hash:TagHash
+  name: 白井悠介
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大塚舞
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：MAPPA
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Tom-H@ck
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：株式会社ソニー・クリエイティブプロダクツ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：松田清
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ラパントラック
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: うちのタマ知りませんか？／犬会議／俺たちのワイハ
+  description: とある3丁目、岡本家のねこ・タマは個性豊かな仲間たちと平和な毎日を送っていた。ある日、昼寝から目を覚ましたタマは、通りかかった1匹の白ねこが気になり、思わず後を追ってしまう。タマを訪ねてきたいぬのポチも一緒に白ねこを追いかけるが…？<br><br>岡本タマ:斉藤壮馬／山田ポチ:小野賢章／木曽トラ:白井悠介／花咲モモ:花澤香菜／河原ベー:内田雄馬／桶谷コマ:黒沢ともよ／ノラ:梶
+    裕貴／三河クロ:梅原裕一郎／野田ゴン:羽多野渉／倉持ブル:前野智昭<br><br>原作:ソニー・クリエイティブプロダクツ「タマ＆フレンズ ～うちのタマ知りませんか？～」／監督:松田
+    清／シリーズ構成:うえのきみこ／キャラクターデザイン:大塚 舞／サブキャラクターデザイン:具志堅眞由／総作画監督:大塚 舞・具志堅眞由／美術監督:森川 篤／色彩設計:佐々木
+    梓／撮影監督:三舟桃子／編集:定松 剛／音楽:Tom-H@ck／音響監督:小泉紀介／アニメーション制作:MAPPA・ラパントラック<br><br>©ソニー・クリエイティブプロダクツ／「うちタマ?!」製作委員会
+  length_seconds: 1375
+  content_id: so36202378
+  default_thread_id: 1578534003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36202378/36202378.20142510
+cast: "[キャスト]<br>岡本タマ:斉藤壮馬／山田ポチ:小野賢章／木曽トラ:白井悠介／花咲モモ:花澤香菜／河原ベー:内田雄馬／桶谷コマ:黒沢ともよ／ノラ:梶
+  裕貴／三河クロ:梅原裕一郎／野田ゴン:羽多野渉／倉持ブル:前野智昭"
+staff: "[スタッフ]<br>原作:ソニー・クリエイティブプロダクツ「タマ＆フレンズ ～うちのタマ知りませんか？～」／監督:松田 清／シリーズ構成:うえのきみこ／キャラクターデザイン:大塚
+  舞／サブキャラクターデザイン:具志堅眞由／総作画監督:大塚 舞・具志堅眞由／美術監督:森川 篤／色彩設計:佐々木 梓／撮影監督:三舟桃子／編集:定松 剛／音楽:Tom-H@ck／音響監督:小泉紀介／アニメーション制作:MAPPA・ラパントラック"
+produced_year: "[製作年]<br>2020年"
+copyright: "©ソニー・クリエイティブプロダクツ／「うちタマ?!」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: タマ＆フレンズ～うちのタマ知りませんか？～
+- !ruby/hash:SeasonHash
+  title: タマ＆フレンズ～うちのタマ知りませんか？～ シーズン2
+- !ruby/hash:SeasonHash
+  title: ダヤンとタマと飛び猫と　～３つの猫の物語～

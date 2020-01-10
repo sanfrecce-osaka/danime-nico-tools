@@ -1,0 +1,103 @@
+--- !ruby/hash:SeasonHash
+title: 痛いのは嫌なので防御力に極振りしたいと思います。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/12/6/23126_1_8_8b.png?1575598181000
+outline: 人気のVRMMO「NewWorld Online」に超大型新人現る⁉あらゆる攻撃を無効化し、致死毒スキルでモンスターもプレイヤーも徹底蹂躙！異常な戦いぶりから「歩く要塞」とも「ラスボス」とも呼ばれるそのプレイヤーの正体は、ただの美少女初心者だった！何を隠そうこのメイプルは、友人のサリーに勧められてゲームをスタートさせたばかり。ゲーム知識に乏しく、ステータスポイントをVIT（防御力）に極振りしてしまい、最初はザコモンスターにすら翻弄される始末だったが……。痛っ......くない!?モンスターにどつき回されてもダメージゼロ、さらには運良く一撃必殺のカウンタースキルまで手に入れてしまう！ひと癖もふた癖もある仲間たちも加わり、ますます成長していくメイプル。ノーダメージな大冒険が幕を開ける！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉山紀彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 新井里美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野賢章
+  type: cast
+- !ruby/hash:TagHash
+  name: 加隈亜衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 本渡楓
+  type: cast
+- !ruby/hash:TagHash
+  name: 神奈延年
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：SILVER LINK.
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大沼心
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：MAGES.
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平田和也
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：湊未來
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：夕蜜柑
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 防御特化と初戦闘。
+  description: 友人の理沙に誘われ、最新ゲームであるVRMMO『NewWorld Online』をはじめることにした楓。自身のキャラ名をメイプルとし、ダメージを受けるのは嫌だからと全ステータスポイントを防御力に極振り！　力もなければ走りも遅い、敵の攻撃も避けられない――そんなありえないシチュエーションを逆手に取って、次々とレアスキルをゲット！　防御力特化の新米冒険者・メイプルの物語が、いま幕を開ける！<br><br>メイプル:本渡
+    楓／サリー:野口瑠璃子／カスミ:早見沙織／カナデ:新井里美／マイ:加隈亜衣／ユイ:諏訪ななか／クロム:杉山紀彰／イズ:佐藤聡美／ペイン:小野賢章／ドレッド:山崎たくみ／フレデリカ:竹達彩奈／ドラグ:神奈延年／ミィ:佐藤利奈／シン:山口勝平／マルクス:石田
+    彰／ミザリー:皆口裕子／ドラぞう:丹下 桜<br><br>原作:夕蜜柑 (カドカワBOOKS『痛いのは嫌なので防御力に極振りしたいと思います。』／KADOKAWA刊)／キャラクター原案:狐印／監督:大沼
+    心・湊 未來／シリーズ構成:志茂文彦／キャラクターデザイン・総作画監督:平田和也／プロップデザイン:澤入祐樹、佐藤香織／武器デザイン:青木慎平／クリーチャーデザイン:あぼしまこ、HB2P／美術監督:新城湧基／美術設定:上野比呂美／色彩設計:平間夏美／撮影監督:佐藤敦（スタジオシャムロック）／3D監督:北村浩久／編集:近藤勇二（REAL-T）／音響監督:小泉紀介／音響効果:川田清貴／音楽:増田太郎／音楽制作:MAGES.／アニメーション制作:SILVER
+    LINK.／製作:防振り製作委員会<br><br>©2020　夕蜜柑・狐印／KADOKAWA／防振り製作委員会
+  length_seconds: 1420
+  content_id: so36137468
+  default_thread_id: 1577325605
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137468/36137468.52594022
+cast: "[キャスト]<br>メイプル:本渡 楓／サリー:野口瑠璃子／カスミ:早見沙織／カナデ:新井里美／マイ:加隈亜衣／ユイ:諏訪ななか／クロム:杉山紀彰／イズ:佐藤聡美／ペイン:小野賢章／ドレッド:山崎たくみ／フレデリカ:竹達彩奈／ドラグ:神奈延年／ミィ:佐藤利奈／シン:山口勝平／マルクス:石田
+  彰／ミザリー:皆口裕子／ドラぞう:丹下 桜"
+staff: "[スタッフ]<br>原作:夕蜜柑 (カドカワBOOKS『痛いのは嫌なので防御力に極振りしたいと思います。』／KADOKAWA刊)／キャラクター原案:狐印／監督:大沼
+  心・湊 未來／シリーズ構成:志茂文彦／キャラクターデザイン・総作画監督:平田和也／プロップデザイン:澤入祐樹、佐藤香織／武器デザイン:青木慎平／クリーチャーデザイン:あぼしまこ、HB2P／美術監督:新城湧基／美術設定:上野比呂美／色彩設計:平間夏美／撮影監督:佐藤敦（スタジオシャムロック）／3D監督:北村浩久／編集:近藤勇二（REAL-T）／音響監督:小泉紀介／音響効果:川田清貴／音楽:増田太郎／音楽制作:MAGES.／アニメーション制作:SILVER
+  LINK.／製作:防振り製作委員会"
+produced_year: "[製作年]<br>2020年"
+copyright: "©2020　夕蜜柑・狐印／KADOKAWA／防振り製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -419,7 +419,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so36100343
   default_thread_id: 1576632253
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100343/36100343.8286398
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100343/36100343.95535322
 - !ruby/hash:EpisodeHash
   episode_no: 第36話
   title: "「ジバニャンがサンタクロース」／「妖魔一武道会『エンマ大王』」"
@@ -429,7 +429,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so36127331
   default_thread_id: 1577151981
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36127331/36127331.80598491
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36127331/36127331.99271701
 cast: "[キャスト]<br>天野ケータ:戸松 遥／ジバニャン:小桜エツコ／ウィスパー:関 智一／コマさん:遠藤 綾"
 staff: "[スタッフ]<br>クリエイティブプロデューサー／企画・シナリオ原案:日野晃博／原作:レベルファイブ／連載:月刊コロコロコミック／監督:泉保良輔／シリーズ構成:加藤陽一／妖怪＆キャラクターデザイン原案:長野拓造・田中美穂／キャラクターデザイン:山田俊也／音楽:西郷憲一郎／音響監督:はたしょう二／アニメーション制作協力:マジックバス／アニメーション制作:オー・エル・エム"
 produced_year: "[製作年]<br>2019年"
@@ -439,3 +439,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: 妖怪ウォッチ
 - !ruby/hash:SeasonHash
   title: 妖怪ウォッチ シャドウサイド
+- !ruby/hash:SeasonHash
+  title: 妖怪学園Y ～Nとの遭遇～（妖怪ウォッチJam）

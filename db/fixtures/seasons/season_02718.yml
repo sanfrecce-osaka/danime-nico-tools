@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: へやキャン△
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/15/1/23151_1_8_8b.png?1575872181000
+outline: 野クル、旅に出る！野外活動サークル、略して野クル。部員はたったの３人。山梨県の片隅に校舎を構える本栖高校、さらにその隅にある部室棟の、「うなぎのねどこ」みたいな一角を部室として使用するゆるーいアウトドアサークル。今日も今日とて各務原なでしこが狭い部室で暇を潰していたところ、大垣千明と犬山あおいが突然「今から旅に出るぞ！」と告げる。おろおろするなでしこを連れ回し、野クルメンバーたちが山梨中を東奔西走。各地の名物を味わい尽くして繰り広げる女子高生の珍道中、旅のゴールはどこだ！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋李依
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 原紗友里
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：立山秋航
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：MAGES.
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神保昌登
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：佐々木睦美
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：C-Station
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あfろ
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：神保昌登
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆるキャン△シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ツナ缶のなぞ
+  description: 野クル、旅に出る。なでしこが突然宣言された事とは？<br><br>各務原なでしこ:花守ゆみり／大垣千明:原 紗友里／犬山あおい:豊崎愛生／志摩リン:東山奈央／斉藤恵那:高橋李依／ナレーション:大塚明夫<br><br>原作:あｆろ（芳文社「COMIC
+    FUZ」掲載）／監督・コンテ・演出:神保昌登 ／シリーズ構成・脚本:伊藤睦美／キャラクターデザイン・総作画監督:佐々木睦美／プロップデザイン:山岡奈保子／スーパーバイザー:京極義昭／企画・プロデュース:堀田将市（DeNA）／色彩設計:水野多恵子（スタジオ・ロード）／美術監督:海野よしみ（プロダクション・アイ）
+    ／撮影監督:田中博章（スタジオ・トゥインクル）／デジタルワークス:半谷恵介／音響監督:高寺たけし／音響制作:HALF H・P STUDIO／音楽:立山秋航／音楽プロデューサー:村上　純／音楽制作:MAGES.／制作プロデュース:DeNAコンテンツ企画部／アニメーションプロデューサー:丸　亮二／アニメーション制作:C-Station／製作:野外活動委員会<br><br>©あfろ・芳文社／野外活動委員会
+  length_seconds: 210
+  content_id: so36137470
+  default_thread_id: 1577325124
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137470/36137470.85007499
+cast: "[キャスト]<br>各務原なでしこ:花守ゆみり／大垣千明:原 紗友里／犬山あおい:豊崎愛生／志摩リン:東山奈央／斉藤恵那:高橋李依／ナレーション:大塚明夫"
+staff: "[スタッフ]<br>原作:あｆろ（芳文社「COMIC FUZ」掲載）／監督・コンテ・演出:神保昌登 ／シリーズ構成・脚本:伊藤睦美／キャラクターデザイン・総作画監督:佐々木睦美／プロップデザイン:山岡奈保子／スーパーバイザー:京極義昭／企画・プロデュース:堀田将市（DeNA）／色彩設計:水野多恵子（スタジオ・ロード）／美術監督:海野よしみ（プロダクション・アイ）
+  ／撮影監督:田中博章（スタジオ・トゥインクル）／デジタルワークス:半谷恵介／音響監督:高寺たけし／音響制作:HALF H・P STUDIO／音楽:立山秋航／音楽プロデューサー:村上　純／音楽制作:MAGES.／制作プロデュース:DeNAコンテンツ企画部／アニメーションプロデューサー:丸　亮二／アニメーション制作:C-Station／製作:野外活動委員会"
+produced_year: "[製作年]<br>2019年"
+copyright: "©あfろ・芳文社／野外活動委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆるキャン△
