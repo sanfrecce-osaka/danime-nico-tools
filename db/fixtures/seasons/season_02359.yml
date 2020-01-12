@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
-  name: M・A・O
+  name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 日野聡
+  name: M・A・O
   type: cast
 - !ruby/hash:TagHash
   name: 中井和哉
