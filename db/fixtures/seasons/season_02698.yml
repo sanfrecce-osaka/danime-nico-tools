@@ -1,0 +1,101 @@
+--- !ruby/hash:SeasonHash
+title: 星界の戦旗Ⅲ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/46/9/20469_1_8_8b.png?1551265688000
+outline: ロブナスIIから生還を果たしたジンは、ラフィールとハイド星系を目指していた。狩人作戦によりジントの領地のハイド伯国、そして故郷である惑星マーティンが帝国領に復帰していたのだ。だが奪還されたばかりの惑星マーティンは、帝国からの独立を画策していた。ジントは故郷の未来のため、孤独な戦場へと赴く…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 大谷育江
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水香里
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 江川央生
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田みほ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：服部克久
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長岡康史
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡部圭祐
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：森岡浩之
+  type: staff
+- !ruby/hash:TagHash
+  name: 星界シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: めぐりあう星たち
+  description: "『狩人作戦』の中、ロブナスIIで反乱に巻き込まれ、捕らわれてしまうジント。そして生還を果たしたジントは一時的に軍を離れ、ラフィールとハイド星系を目指していた。それは帝国領に復帰した故郷の惑星マーティンを統治するためだった。一方、星界軍ではアトスリュアのもと、第一蹂躙艦隊が編成されていた…。<br><br>ラフィール:川澄綾子／ジント:今井由香／エクリュア:清水香里／ソバーシュ:斎賀みつき／サムソン:大塚明夫／アトスリュア:山田美穂／セールナイ:大谷育江／パーヴェリュア:江川央生<br><br>企画:渡辺
+    繁、海部正樹、内田健二／原作:森岡浩之／発行:ハヤカワ文庫／脚本:むとうやすゆき／ビジュアルコンセプト:赤井孝美／キャラクターデザイン・総作画監督:渡部圭祐／メカニカルデザイン:森木靖泰、今石
+    進、大輪 充／美術監督:長谷川弘行／色彩設計:横山さよ子／編集:瀬山武司／音響監督:小林克良／音楽:服部克久／監督:長岡康史／プロデューサー:湯川 淳、岩田幹宏、積
+    惟文／ED｢手のひらの夢｣歌:白鳥英美子<br><br>©森岡浩之・早川書房 ©サンライズ<br><br>次話→so36128178"
+  length_seconds: 1814
+  content_id: so36128177
+  default_thread_id: 1577169243
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128177/36128177.37270145
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 家族の食卓
+  description: 帝国領に復帰したジントの故郷である惑星マーティンは、帝国からの独立を画策していた。そんな中、ハイド星系では第一蹂躙艦隊による軍事演習が進行しつつあった。かつて突撃艦バースロイルの乗員だったソバージュが艦長を務める襲撃艦フリーゴウに便乗し、故郷に向かうジント。果たしてジントは故郷を救えるのか…？<br><br>ラフィール:川澄綾子／ジント:今井由香／エクリュア:清水香里／ソバーシュ:斎賀みつき／サムソン:大塚明夫／アトスリュア:山田美穂／セールナイ:大谷育江／パーヴェリュア:江川央生<br><br>企画:渡辺
+    繁、海部正樹、内田健二／原作:森岡浩之／発行:ハヤカワ文庫／脚本:むとうやすゆき／ビジュアルコンセプト:赤井孝美／キャラクターデザイン・総作画監督:渡部圭祐／メカニカルデザイン:森木靖泰、今石
+    進、大輪 充／美術監督:長谷川弘行／色彩設計:横山さよ子／編集:瀬山武司／音響監督:小林克良／音楽:服部克久／監督:長岡康史／プロデューサー:湯川 淳、岩田幹宏、積
+    惟文／ED｢手のひらの夢｣歌:白鳥英美子<br><br>©森岡浩之・早川書房 ©サンライズ<br><br>so36128177←前話　第一話→so36128177
+  length_seconds: 2679
+  content_id: so36128178
+  default_thread_id: 1577169843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128178/36128178.72921053
+cast: "[キャスト]<br>ラフィール:川澄綾子／ジント:今井由香／エクリュア:清水香里／ソバーシュ:斎賀みつき／サムソン:大塚明夫／アトスリュア:山田美穂／セールナイ:大谷育江／パーヴェリュア:江川央生"
+staff: "[スタッフ]<br>企画:渡辺 繁、海部正樹、内田健二／原作:森岡浩之／発行:ハヤカワ文庫／脚本:むとうやすゆき／ビジュアルコンセプト:赤井孝美／キャラクターデザイン・総作画監督:渡部圭祐／メカニカルデザイン:森木靖泰、今石
+  進、大輪 充／美術監督:長谷川弘行／色彩設計:横山さよ子／編集:瀬山武司／音響監督:小林克良／音楽:服部克久／監督:長岡康史／プロデューサー:湯川 淳、岩田幹宏、積
+  惟文／ED｢手のひらの夢｣歌:白鳥英美子"
+produced_year: "[製作年]<br>2005年"
+copyright: "©森岡浩之・早川書房 ©サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 星界の紋章
+- !ruby/hash:SeasonHash
+  title: 星界の紋章　特別編
+- !ruby/hash:SeasonHash
+  title: 星界の断章　誕生
+- !ruby/hash:SeasonHash
+  title: 星界の戦旗
+- !ruby/hash:SeasonHash
+  title: 星界の戦旗　特別編
+- !ruby/hash:SeasonHash
+  title: 星界の戦旗Ⅱ

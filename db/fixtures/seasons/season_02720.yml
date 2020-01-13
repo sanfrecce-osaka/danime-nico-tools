@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: まじもじるるも 完結編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/18/4/23184_1_8_8b.png?1577349007000
+outline: 召喚者との契約を完遂しなかったために地上世界で再修業を命じられた子魔女るるもと彼女の契約者・柴木耕太とのドタバタ日常コメディー『まじもじるるも』。2014年に放映されたTVシリーズの最終話で続編をにおわせながら語られなかった、るるもと耕太の契約と恋の行方を描く。るるもの500日の修業期限終了を目前にして、今更ながら彼女への気持ちを自覚した耕太が出した答えとは！？　原作の渡辺航完全監修でおくる、シリーズの総決算と言うべき衝撃展開とアクション満載の完結編！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 福圓美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 高森奈津美
+  type: cast
+- !ruby/hash:TagHash
+  name: 葉山いくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋信
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：岩倉和憲
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：マニュアル・オブ・エラーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：櫻井親良
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：梶井瀬賀
+  type: staff
+- !ruby/hash:TagHash
+  name: まじもじるるもシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "【前編】"
+  title: ''
+  description: 平和な日々を送っていたコウタと修業魔・るるもだが、「魔法のチケット」は残りわずかになり、るるもが人間界を去る期限がせまっていた。期限までにチケットを使いきればるるもは晴れて魔女に戻れるが、使い切らなければ一生魔女には戻れない。るるものためにチケットを使うべきか、コウタは悩んでいた。るるもは知らないが、チケットを使いきればコウタの命は失われてしまうのだ。何もできずに時間だけが経ち、とうとうるるもが魔界に戻る日がやってきて……。<br><br>るるも:三森すずこ／柴木
+    耕太:高橋 信／チロ:福圓美里／ハルリリ:高森奈津美／ミミ:葉山いくみ<br><br>監督:櫻井親良／脚本:水上清資／演出:梶井瀬賀／キャラクターデザイン:岩倉和憲／総作画監督:藤井昌宏／音響監督:本山哲／音楽:マニュアル・オブ・エラーズ／音楽制作:ポニーキャニオン／アニメーション制作:J.C.STAFF／製作:講談社<br><br>©渡辺航／講談社<br><br>次話→so36137442
+  length_seconds: 1501
+  content_id: so36137431
+  default_thread_id: 1577325127
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137431/36137431.42398476
+- !ruby/hash:EpisodeHash
+  episode_no: "【後編】"
+  title: ''
+  description: るるもの魔女への復帰と引き替えに、彼女の目の前で命を使い果たしてしまった耕太。そんな耕太に言えなかった「ありがとう」の言葉を伝えるために、ハルリリから聞いた耕太の魂の結晶たる「魂晶」が納められた魂晶室へとるるもは侵入する。しかし、それは魔界最大の禁忌だったのである……！！<br><br>るるも:三森すずこ／柴木
+    耕太:高橋 信／チロ:福圓美里／ハルリリ:高森奈津美／ミミ:葉山いくみ<br><br>監督:櫻井親良／脚本:水上清資／演出:梶井瀬賀／キャラクターデザイン:岩倉和憲／総作画監督:藤井昌宏／音響監督:本山哲／音楽:マニュアル・オブ・エラーズ／音楽制作:ポニーキャニオン／アニメーション制作:J.C.STAFF／製作:講談社<br><br>©渡辺航／講談社<br><br>so36137431←前話　第一話→so36137431
+  length_seconds: 1800
+  content_id: so36137442
+  default_thread_id: 1577325303
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137442/36137442.55572524
+cast: "[キャスト]<br>るるも:三森すずこ／柴木 耕太:高橋 信／チロ:福圓美里／ハルリリ:高森奈津美／ミミ:葉山いくみ"
+staff: "[スタッフ]<br>監督:櫻井親良／脚本:水上清資／演出:梶井瀬賀／キャラクターデザイン:岩倉和憲／総作画監督:藤井昌宏／音響監督:本山哲／音楽:マニュアル・オブ・エラーズ／音楽制作:ポニーキャニオン／アニメーション制作:J.C.STAFF／製作:講談社"
+produced_year: "[製作年]<br>2019年"
+copyright: "©渡辺航／講談社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: まじもじるるも

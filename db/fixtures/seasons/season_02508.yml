@@ -152,12 +152,84 @@ episodes: !ruby/array:Hashie::Array
   description: "【巨躯】（エルダー）の強襲により、アークスたちは大きな犠牲を払うこととなった。ウルクを探そうとするテオドール、気丈に振る舞いながらも、ゼノを案じるエコー。そしてゲッテムハルトを失い、取り乱すメルフォンシーナは……<br><br>アッシュ:小野大輔／アフィン:下野
     紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
     正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
-    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35944083←前話　第一話→so35755425"
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35944083←前話｜次話→so36017614　第一話→so35755425"
   length_seconds: 1420
   content_id: so35987387
   default_thread_id: 1574404203
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35987387/35987387.63387136
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: アサシンと暴走龍
+  description: 撃破したはずの【巨躯】（エルダー）が生存していたと知り、思い悩むアッシュ。そんな中、ゼノを探すためにナベリウスに降りたアークスが暴走龍に襲われ、捜索が打ち切られたという情報が入り……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so35987387←前話｜次話→so36044025　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36017614
+  default_thread_id: 1574996823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36017614/36017614.81152169
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 最後のさようなら
+  description: ナベリウスでゼノを探すアッシュは、廃墟に住み着いた老人との対話でアークスを喰らうと噂される「暴走龍」の真実に近付くことになる。そして「暴走龍」を探し続けてきたクーナは……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36017614←前話｜次話→so36079716　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36044025
+  default_thread_id: 1575509583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36044025/36044025.88837969
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 改変
+  description: アフィンと共に、惑星ウォパルの調査任務に就いたアッシュ。現地で再会したエコーは、新たな決意を胸に戦いに身を投じようとしていた……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36044025←前話｜次話→so36123533　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36079716
+  default_thread_id: 1576214343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079716/36079716.84117631
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 過去と未来
+  description: ルーサーの野望を阻止するため、シャオたちに協力することを決めたアッシュ。かつて行われた実験の痕跡を追う中、シャオはルーサーの目的と、その鍵となるシオンについて語る……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36079716←前話｜次話→so36132774　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36123533
+  default_thread_id: 1577080203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36123533/36123533.2536176
+- !ruby/hash:EpisodeHash
+  episode_no: 第12.5話(総集編)
+  title: シャオ’ｓリポート
+  description: "『PSO2 エピソード・オラクル』のこれまでを、シャオがリポートする特別編。1話～12話でのアッシュたちの活躍を振り返りながら、シャオと共に彼らの物語の軌跡をたどる。<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36123533←前話｜次話→so36141994　第一話→so35755425"
+  length_seconds: 1420
+  content_id: so36132774
+  default_thread_id: 1577241845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36132774/36132774.80907976
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 絶対令(アビス)
+  description: 突如、管制より全アークスに船団への帰投命令が下る。そして、混乱するアークスたちの間では、とある噂が広まりつつあった。動揺するアッシュの前に姿を現したシオンは語る。「……待っていた。　私と、私たちは、ずっとこの時を……」<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36132774←前話　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36141994
+  default_thread_id: 1577411283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36141994/36141994.56362125
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"

@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: "「おそ松さん　第2期」ショートフィルムシリーズ"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/18/8/23188_1_8_8b.png?1575597825000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 監督：藤田陽一
+  type: staff
+- !ruby/hash:TagHash
+  name: おそ松さんシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2017年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: 夏のおそ松さん こぼれ話「海女ちゃんのトト子」／「骨折したおそ松」／「結局」／「アニメおそ松さん ファン感謝デー 2018」
+  description: 監督:藤田陽一／脚本:松原 秀<br><br>©赤塚不二夫／おそ松さん製作委員会
+  length_seconds: 1100
+  content_id: so36079450
+  default_thread_id: 1576207203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079450/36079450.40377772
+staff: "[スタッフ]<br>監督:藤田陽一／脚本:松原 秀"
+produced_year: "[製作年]<br>2017年"
+copyright: "©赤塚不二夫／おそ松さん製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: おそ松くん
+- !ruby/hash:SeasonHash
+  title: おそ松さん
+- !ruby/hash:SeasonHash
+  title: おそ松さん　第3.5話
+- !ruby/hash:SeasonHash
+  title: "「おそ松さん」おうまでこばなし"
+- !ruby/hash:SeasonHash
+  title: おそ松さん 第2期
+- !ruby/hash:SeasonHash
+  title: "「えいがのおそ松さん」劇場公開記念特番　鈴村健一＆入野自由のおフランスに行くザンス！"
+- !ruby/hash:SeasonHash
+  title: えいがのおそ松さん
+- !ruby/hash:SeasonHash
+  title: おそ松さん on STAGE ～SIX MEN'S SHOW TIME～ 配信版
+- !ruby/hash:SeasonHash
+  title: 舞台『おそ松さん on STAGE ～SIX MEN’S SHOW TIME 2～』
+- !ruby/hash:SeasonHash
+  title: F6 1st LIVEツアー「Satisfaction」
+- !ruby/hash:SeasonHash
+  title: 喜劇「おそ松さん」
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2017
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2018

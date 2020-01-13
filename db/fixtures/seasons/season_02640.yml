@@ -1,0 +1,94 @@
+--- !ruby/hash:SeasonHash
+title: ソング･オブ･ザ･シー　海のうた
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/10/8/23108_1_8_8b.png?1574649330000
+outline: 海ではアザラシ、陸では人間の姿になる妖精・セルキーの母親と、人間の父親との間に生まれたベンとシアーシャの兄妹。妹が生まれた日に母親が姿を消してしまったことから、ベンは妹に優しくできない。やがて６歳の誕生日を迎えたシアーシャは、父が隠していたセルキーのコートを着て、母親が姿を消した海に入ってしまう。心配した祖母は嫌がる兄妹を町へと連れて行くが、セルキーだと気づかれたことで、シアーシャはフクロウ魔女に連れ去られるのだった。ベンは妹を救うため、消えゆく魔法世界へと不思議な旅に出る…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 水内清光
+  type: cast
+- !ruby/hash:TagHash
+  name: 花輪英司
+  type: cast
+- !ruby/hash:TagHash
+  name: 深田愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 本上まなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多川拓郎
+  type: cast
+- !ruby/hash:TagHash
+  name: リリー・フランキー
+  type: cast
+- !ruby/hash:TagHash
+  name: 中納良恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 磯部万沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 高宮武郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：トム・ムーア
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 海ではアザラシ、陸では人間の姿になる妖精・セルキーの母親と、人間の父親との間に生まれたベンとシアーシャの兄妹。妹が生まれた日に母親が姿を消してしまったことから、ベンは妹に優しくできない。やがて６歳の誕生日を迎えたシアーシャは、父が隠していたセルキーのコートを着て、母親が姿を消した海に入ってしまう。心配した祖母は嫌がる兄妹を町へと連れて行くが、セルキーだと気づかれたことで、シアーシャはフクロウ魔女に連れ去られるのだった。ベンは妹を救うため、消えゆく魔法世界へと不思議な旅に出る…。<br><br>ベン:本上まなみ／コナー:リリー・フランキー／ブロナー:中納良恵／シアーシャ、幼いベン:深田愛衣／ダン、シャナキー:喜多川拓郎／ディーナシー:水内清光、高宮武郎、花輪英司／おばあちゃん、マカ:磯部万沙子<br><br>監督:トム・ムーア／脚本:ウィル・コリンズ<br><br>©Cartoon
+    Saloon, Melusine Productions, The Big Farm, Superprod, Nørlum<br><br>次話→so36035923
+  length_seconds: 1558
+  content_id: so36035922
+  default_thread_id: 1575336483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035922/36035922.79844976
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 海ではアザラシ、陸では人間の姿になる妖精・セルキーの母親と、人間の父親との間に生まれたベンとシアーシャの兄妹。妹が生まれた日に母親が姿を消してしまったことから、ベンは妹に優しくできない。やがて６歳の誕生日を迎えたシアーシャは、父が隠していたセルキーのコートを着て、母親が姿を消した海に入ってしまう。心配した祖母は嫌がる兄妹を町へと連れて行くが、セルキーだと気づかれたことで、シアーシャはフクロウ魔女に連れ去られるのだった。ベンは妹を救うため、消えゆく魔法世界へと不思議な旅に出る…。<br><br>ベン:本上まなみ／コナー:リリー・フランキー／ブロナー:中納良恵／シアーシャ、幼いベン:深田愛衣／ダン、シャナキー:喜多川拓郎／ディーナシー:水内清光、高宮武郎、花輪英司／おばあちゃん、マカ:磯部万沙子<br><br>監督:トム・ムーア／脚本:ウィル・コリンズ<br><br>©Cartoon
+    Saloon, Melusine Productions, The Big Farm, Superprod, Nørlum<br><br>so36035922←前話｜次話→so36035924　第一話→so36035922
+  length_seconds: 1288
+  content_id: so36035923
+  default_thread_id: 1575336322
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035923/36035923.2141448
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 海ではアザラシ、陸では人間の姿になる妖精・セルキーの母親と、人間の父親との間に生まれたベンとシアーシャの兄妹。妹が生まれた日に母親が姿を消してしまったことから、ベンは妹に優しくできない。やがて６歳の誕生日を迎えたシアーシャは、父が隠していたセルキーのコートを着て、母親が姿を消した海に入ってしまう。心配した祖母は嫌がる兄妹を町へと連れて行くが、セルキーだと気づかれたことで、シアーシャはフクロウ魔女に連れ去られるのだった。ベンは妹を救うため、消えゆく魔法世界へと不思議な旅に出る…。<br><br>ベン:本上まなみ／コナー:リリー・フランキー／ブロナー:中納良恵／シアーシャ、幼いベン:深田愛衣／ダン、シャナキー:喜多川拓郎／ディーナシー:水内清光、高宮武郎、花輪英司／おばあちゃん、マカ:磯部万沙子<br><br>監督:トム・ムーア／脚本:ウィル・コリンズ<br><br>©Cartoon
+    Saloon, Melusine Productions, The Big Farm, Superprod, Nørlum<br><br>so36035923←前話｜次話→so36035925　第一話→so36035922
+  length_seconds: 1330
+  content_id: so36035924
+  default_thread_id: 1575336308
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035924/36035924.54945843
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 海ではアザラシ、陸では人間の姿になる妖精・セルキーの母親と、人間の父親との間に生まれたベンとシアーシャの兄妹。妹が生まれた日に母親が姿を消してしまったことから、ベンは妹に優しくできない。やがて６歳の誕生日を迎えたシアーシャは、父が隠していたセルキーのコートを着て、母親が姿を消した海に入ってしまう。心配した祖母は嫌がる兄妹を町へと連れて行くが、セルキーだと気づかれたことで、シアーシャはフクロウ魔女に連れ去られるのだった。ベンは妹を救うため、消えゆく魔法世界へと不思議な旅に出る…。<br><br>ベン:本上まなみ／コナー:リリー・フランキー／ブロナー:中納良恵／シアーシャ、幼いベン:深田愛衣／ダン、シャナキー:喜多川拓郎／ディーナシー:水内清光、高宮武郎、花輪英司／おばあちゃん、マカ:磯部万沙子<br><br>監督:トム・ムーア／脚本:ウィル・コリンズ<br><br>©Cartoon
+    Saloon, Melusine Productions, The Big Farm, Superprod, Nørlum<br><br>so36035924←前話　第一話→so36035922
+  length_seconds: 1420
+  content_id: so36035925
+  default_thread_id: 1575336306
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035925/36035925.59111181
+cast: "[キャスト]<br>ベン:本上まなみ／コナー:リリー・フランキー／ブロナー:中納良恵／シアーシャ、幼いベン:深田愛衣／ダン、シャナキー:喜多川拓郎／ディーナシー:水内清光、高宮武郎、花輪英司／おばあちゃん、マカ:磯部万沙子"
+staff: "[スタッフ]<br>監督:トム・ムーア／脚本:ウィル・コリンズ"
+produced_year: "[製作年]<br>2014年"
+copyright: "©Cartoon Saloon, Melusine Productions, The Big Farm, Superprod, Nørlum"
+related_seasons: !ruby/array:Hashie::Array []

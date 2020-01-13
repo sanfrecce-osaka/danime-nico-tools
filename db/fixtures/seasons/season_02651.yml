@@ -1,0 +1,106 @@
+--- !ruby/hash:SeasonHash
+title: ゾンビランドサガLIVE～フランシュシュみんなでおらぼう！～in SAGA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/05/1/23051_1_8_8b.png?1573704008000
+outline: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 本渡楓
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中美海
+  type: cast
+- !ruby/hash:TagHash
+  name: 田野アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 河瀬茉希
+  type: cast
+- !ruby/hash:TagHash
+  name: 衣川里佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: ライブ映像
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！<br><br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他<br><br>©ゾンビランドサガ製作委員会<br><br>次話→so35970110
+  length_seconds: 1141
+  content_id: so35970111
+  default_thread_id: 1574040485
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35970111/35970111.6240273
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！<br><br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他<br><br>©ゾンビランドサガ製作委員会<br><br>so35970111←前話｜次話→so35970109　第一話→so35970111
+  length_seconds: 1480
+  content_id: so35970110
+  default_thread_id: 1574040185
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35970110/35970110.60588884
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！<br><br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他<br><br>©ゾンビランドサガ製作委員会<br><br>so35970110←前話｜次話→so35970108　第一話→so35970111
+  length_seconds: 1005
+  content_id: so35970109
+  default_thread_id: 1574040363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35970109/35970109.3891774
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！<br><br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他<br><br>©ゾンビランドサガ製作委員会<br><br>so35970109←前話｜次話→so35970107　第一話→so35970111
+  length_seconds: 1187
+  content_id: so35970108
+  default_thread_id: 1574040483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35970108/35970108.9372509
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！<br><br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他<br><br>©ゾンビランドサガ製作委員会<br><br>so35970108←前話｜次話→so35970106　第一話→so35970111
+  length_seconds: 1063
+  content_id: so35970107
+  default_thread_id: 1574040003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35970107/35970107.69639923
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: ''
+  description: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！<br><br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他<br><br>©ゾンビランドサガ製作委員会<br><br>so35970107←前話｜次話→so35970115　第一話→so35970111
+  length_seconds: 1136
+  content_id: so35970106
+  default_thread_id: 1574040605
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35970106/35970106.71309888
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.7
+  title: ''
+  description: TVアニメ「ゾンビランドサガ」の最終話の舞台となる佐賀県唐津市ふるさと会館アルピノでのリアル“フランシュシュ"による凱旋LIVE！<br><br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他<br><br>©ゾンビランドサガ製作委員会<br><br>so35970106←前話　第一話→so35970111
+  length_seconds: 1042
+  content_id: so35970115
+  default_thread_id: 1574040127
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35970115/35970115.15313439
+cast: "[キャスト]<br>源さくら役:本渡楓／二階堂サキ役:田野アサミ／水野愛役:種田梨沙／紺野純子:河瀬茉希／ゆうぎり役:衣川里佳／星川リリィ役:田中美海　他"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ゾンビランドサガ製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゾンビランドサガ

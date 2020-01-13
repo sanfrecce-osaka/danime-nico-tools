@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: 星界の断章　誕生
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/29/4/20294_1_8_8b.png?1551267061000
+outline: "「星界の紋章」番外編。現皇帝の息子にしてクリューヴの王、ドビュースとその恋人ブラキアは、交易途中に立ち寄った辺境の領域で正体不明の難破船を発見する。船内に入り、突然動き出した船の軌道修正をするため入った機関室で、二人は多くのアーヴのミイラを見つける。それは、アーヴ創世の悲惨な歴史を物語っていた。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴置洋孝
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 高島雅羅
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作：サンライズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：服部克久
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡部圭祐
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：筱雅律
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：森岡浩之
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作：バンダイビジュアル
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：鍋島修
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：BeSTACK
+  type: staff
+- !ruby/hash:TagHash
+  name: 脚本：村上ヒロアキ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：オーディオ・プランニング・ユー
+  type: staff
+- !ruby/hash:TagHash
+  name: 星界シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 小林克良
+  type: other
+- !ruby/hash:TagHash
+  name: 瀬山武司
+  type: other
+- !ruby/hash:TagHash
+  name: 岡田有章
+  type: other
+- !ruby/hash:TagHash
+  name: 白井久男
+  type: other
+- !ruby/hash:TagHash
+  name: 渡辺繁
+  type: other
+- !ruby/hash:TagHash
+  name: 横山さよ子
+  type: other
+- !ruby/hash:TagHash
+  name: 江田恵一
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: "「星界の紋章」番外編。現皇帝の息子にしてクリューヴの王、ドビュースとその恋人プラキアは、交易途中に立ち寄った辺境の領域で正体不明の難破船を発見する。船内に入り、突然動き出した船の軌道修正をするため入った機関室で、二人は多くのアーヴのミイラを見つける。それは、アーヴ創世の悲惨な歴史を物語っていた。<br><br>プラキア:高島雅羅／ドゥビュース:鈴置洋孝／ジント:今井由香／ラフィール:川澄綾子<br><br>企画:渡辺繁、植田益朗／原作:森岡浩之（ハヤカワ書房刊）／脚本:村上ヒロアキ／ビジュアルコンセプト:赤井孝美、江田恵一（ナインライブス）／キャラクターデザイン:渡部圭祐／メカニックデザイン・作画監督:筱雅律／美術監督:岡田有章／色彩設計:横山さよ子／撮影監督:白井久男／編集:瀬山武司／オープニングテーマ・音楽:服部克久／音響監督:小林克良／音響製作:オーディオ・プランニング・ユー／音楽制作:BeSTACK／プロデューサー:海部正樹、岩田幹宏、杉田敦、積惟文／絵コンテ・演出・監督:鍋島修／監修:長岡康史／製作:サンライズ、WOWOW／製作:バンダイビジュアル<br><br>©森岡浩之・早川書房　©サンライズ"
+  length_seconds: 1508
+  content_id: so36128021
+  default_thread_id: 1577165944
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128021/36128021.48142271
+cast: "[キャスト]<br>プラキア:高島雅羅／ドゥビュース:鈴置洋孝／ジント:今井由香／ラフィール:川澄綾子"
+staff: "[スタッフ]<br>企画:渡辺繁、植田益朗／原作:森岡浩之（ハヤカワ書房刊）／脚本:村上ヒロアキ／ビジュアルコンセプト:赤井孝美、江田恵一（ナインライブス）／キャラクターデザイン:渡部圭祐／メカニックデザイン・作画監督:筱雅律／美術監督:岡田有章／色彩設計:横山さよ子／撮影監督:白井久男／編集:瀬山武司／オープニングテーマ・音楽:服部克久／音響監督:小林克良／音響製作:オーディオ・プランニング・ユー／音楽制作:BeSTACK／プロデューサー:海部正樹、岩田幹宏、杉田敦、積惟文／絵コンテ・演出・監督:鍋島修／監修:長岡康史／製作:サンライズ、WOWOW／製作:バンダイビジュアル"
+produced_year: "[製作年]<br>2000年"
+copyright: "©森岡浩之・早川書房　©サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 星界の紋章
+- !ruby/hash:SeasonHash
+  title: 星界の紋章　特別編
+- !ruby/hash:SeasonHash
+  title: 星界の戦旗
+- !ruby/hash:SeasonHash
+  title: 星界の戦旗　特別編
+- !ruby/hash:SeasonHash
+  title: 星界の戦旗Ⅱ
+- !ruby/hash:SeasonHash
+  title: 星界の戦旗Ⅲ

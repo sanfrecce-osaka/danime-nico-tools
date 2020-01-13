@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: 巨蟲列島　OVA版
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/09/1/23091_1_8_8b.png?1573714835000
+outline: 生徒たちを乗せた旅客機が謎の事故によって墜落し、ヒロインの織部睦美（オリベムツミ）たちはとある島へと流れ着く。生き残った同乗者と合流して救助を待つことにするのだが、その島は巨大な昆虫に支配された島だったのだ！昆虫漫画の鬼才！「ベクター・ケースファイル」の藤見泰高が贈る、心臓炸裂昆虫パニックホラー!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 福圓美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: たかはし智秋
+  type: cast
+- !ruby/hash:TagHash
+  name: 麻倉もも
+  type: cast
+- !ruby/hash:TagHash
+  name: 立花理香
+  type: cast
+- !ruby/hash:TagHash
+  name: 駒田航
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAS
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高橋丈夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Team-MAX
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：パッショーネ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：野口孝行
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：龍輪直征
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：出雲誉明
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：鈴木暁也
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：JohannesNilsson
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 生徒たちを乗せた旅客機が謎の事故によって墜落し、ヒロインの織部睦美（オリベムツミ）たちはとある島へと流れ着く。生き残った同乗者と合流して救助を待つことにするのだが、その島は巨大な昆虫に支配された島だったのだ！昆虫漫画の鬼才！「ベクター・ケースファイル」の藤見泰高が贈る、心臓炸裂昆虫パニックホラー!<br><br>織部睦美:Ｍ・Ａ・Ｏ／成瀬千歳:立花理香／松岡歩美:福圓美里／三浦真美:麻倉もも／神野美鈴:たかはし智秋／甲斐和彦:江口拓也／上條アツシ:駒田航／榎稲穂:井上麻里奈<br><br>総監督:高橋丈夫／監督:龍輪直征／脚本:森田
+    繁／キャラクターデザイン:野口孝行、出雲誉明／プロップデザイン:福島達也／美術監督:宮本実生／色彩設計:小山知子、大谷和也／撮影監督:植村優基、池田健一／CG監督:山田太郎／音楽:鈴木暁也（Team-MAX）、Johannes
+    Nilsson（Team-MAX）／音響監督:立石弥生／アニメーション制作:パッショーネ／制作:NAS<br><br>©藤見泰高・REDICE (秋田書店)／巨蟲列島製作委員会
+  length_seconds: 1317
+  content_id: so35979177
+  default_thread_id: 1574233083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35979177/35979177.51923980
+cast: "[キャスト]<br>織部睦美:Ｍ・Ａ・Ｏ／成瀬千歳:立花理香／松岡歩美:福圓美里／三浦真美:麻倉もも／神野美鈴:たかはし智秋／甲斐和彦:江口拓也／上條アツシ:駒田航／榎稲穂:井上麻里奈"
+staff: "[スタッフ]<br>総監督:高橋丈夫／監督:龍輪直征／脚本:森田 繁／キャラクターデザイン:野口孝行、出雲誉明／プロップデザイン:福島達也／美術監督:宮本実生／色彩設計:小山知子、大谷和也／撮影監督:植村優基、池田健一／CG監督:山田太郎／音楽:鈴木暁也（Team-MAX）、Johannes
+  Nilsson（Team-MAX）／音響監督:立石弥生／アニメーション制作:パッショーネ／制作:NAS"
+produced_year: "[製作年]<br>2019年"
+copyright: "©藤見泰高・REDICE (秋田書店)／巨蟲列島製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

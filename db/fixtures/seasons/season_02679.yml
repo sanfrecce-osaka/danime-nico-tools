@@ -1,0 +1,77 @@
+--- !ruby/hash:SeasonHash
+title: いっしょにすりーぴんぐ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/50/6/10506_1_8_8b.png?1576654255000
+outline: "「いっしょにとれーにんぐ」に続く「いっしょに」シリーズ第2弾。アニメの世界に住んでいるひなこと画面を通じて出会ってしまったあなた。いつのまにか、ひなこはスヤスヤと眠ってしまいます。「あ、先に寝ちゃった。もう、こんな無防備なかっこうで…」"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオ雲雀
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：アミサキリョウコ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村真一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：来兎
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：リサレコ
+  type: staff
+- !ruby/hash:TagHash
+  name: いっしょにシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2010年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: その1
+  title: おやすみなさーい!／すいみん中／さわやかな目覚め
+  description: 企画・脚本・プロデュース:中川宗成／監督:木村真一郎／キャラクターデザイン・作画監督:アミサキリョウコ／美術監督:土師勝弘／色彩設計:津野
+    渉／撮影監督:芹澤直樹／編集:森田清次,大野雄一／エンディング・メニュー音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+    g.d.s.)／製作:プリマステア<br><br>© 2010 PRIMASTEA<br><br>次話→so36100809
+  length_seconds: 1705
+  content_id: so36100810
+  default_thread_id: 1576642449
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100810/36100810.70335773
+- !ruby/hash:EpisodeHash
+  episode_no: その2
+  title: おやすみなさーい!／すいみん中／ちゃんと起きなさい!
+  description: 企画・脚本・プロデュース:中川宗成／監督:木村真一郎／キャラクターデザイン・作画監督:アミサキリョウコ／美術監督:土師勝弘／色彩設計:津野
+    渉／撮影監督:芹澤直樹／編集:森田清次,大野雄一／エンディング・メニュー音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+    g.d.s.)／製作:プリマステア<br><br>© 2010 PRIMASTEA<br><br>so36100810←前話｜次話→so36100808　第一話→so36100810
+  length_seconds: 1744
+  content_id: so36100809
+  default_thread_id: 1576642443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100809/36100809.78014441
+- !ruby/hash:EpisodeHash
+  episode_no: その3
+  title: おやすみなさーい!／すいみん中／すうぃーとモーニング
+  description: 企画・脚本・プロデュース:中川宗成／監督:木村真一郎／キャラクターデザイン・作画監督:アミサキリョウコ／美術監督:土師勝弘／色彩設計:津野
+    渉／撮影監督:芹澤直樹／編集:森田清次,大野雄一／エンディング・メニュー音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+    g.d.s.)／製作:プリマステア<br><br>© 2010 PRIMASTEA<br><br>so36100809←前話　第一話→so36100810
+  length_seconds: 1750
+  content_id: so36100808
+  default_thread_id: 1576642503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36100808/36100808.97410025
+staff: "[スタッフ]<br>企画・脚本・プロデュース:中川宗成／監督:木村真一郎／キャラクターデザイン・作画監督:アミサキリョウコ／美術監督:土師勝弘／色彩設計:津野
+  渉／撮影監督:芹澤直樹／編集:森田清次,大野雄一／エンディング・メニュー音楽:来兎(リサレコ)／アニメーション制作:スタジオ雲雀／アートワーク:ナカムラトシヤ(antenna
+  g.d.s.)／製作:プリマステア"
+produced_year: "[製作年]<br>2010年"
+copyright: "© 2010 PRIMASTEA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: いっしょにとれーにんぐ
+- !ruby/hash:SeasonHash
+  title: いっしょにとれーにんぐ026

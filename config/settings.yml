@@ -532,6 +532,16 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第12話'
           title: "Try to know  everything about Her."
+  - id: 29
+    title: 'NARUTO-ナルト- 疾風伝　忍界大戦編(3)'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第五百三十一話'
+          title: "PROLOGUE OF ROAD TO NINJA (プロローグ　オブ　ロード　トゥ　ニンジャ)"
+        nico_branch:
+          episode_no: '第五百三十一話'
+          title: "PROLOGUE OF ROAD TO  NINJA  (プロローグ　オブ　ロード　トゥ　ニンジャ)"
 
 seasons_with_different_title:
   -

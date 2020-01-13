@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 浦島坂田船の日常
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/99/4/22994_1_6.png?1569313808000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/99/4/22994_1_8_8b.png?1569313808000
 outline: 学校生活ーーそれは誰もが一度は経験するかけがえのない日々。クラスの人気者になれば誰もが羨むハイスクールデイズを送れると相場は決まっていた。転入生であるうらたは高校デビューを華麗に決めようとどきどきしながら教室の扉を開こうとしたーーその時だった。立ち塞がったのは同じく高校生の志麻、坂田、センラ！彼らは敵か味方か、それとも一体……！？わくわくどきどきな転校”青春”ストーリーが今、幕を開けるーー！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -56,13 +56,33 @@ episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第1話～第4話
   title: ''
-  description: うらた:うらたぬき／志麻:志麻／坂田:となりの坂田。／センラ:センラ　他<br><br>原作:浦島坂田船／キャラクター原案:月森フユカ／シリーズ構成・脚本:内田裕基／アニメキャラクターデザイン・作画監督:横山紗弓（アニメアール）／音響監督:飯田里樹／音楽:高田雅史／監督・美術監督:池内翔／アニメーション制作:GAINAX京都<br><br>©2019NBCUniversal
+  description: 浦島坂田船が高校に転入!?わくわく転校❝青春❞ストーリー！<br><br>うらた:うらたぬき／志麻:志麻／坂田:となりの坂田。／センラ:センラ　他<br><br>原作:浦島坂田船／キャラクター原案:月森フユカ／シリーズ構成・脚本:内田裕基／アニメキャラクターデザイン・作画監督:横山紗弓（アニメアール）／音響監督:飯田里樹／音楽:高田雅史／監督・美術監督:池内翔／アニメーション制作:GAINAX京都<br><br>©2019NBCUniversal
     Entertaiment.All Rights Reserved.<br><br>次話→so35974358
   length_seconds: 963
   content_id: so35797785
   default_thread_id: 1570757103
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35797785/35797785.55233317
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第8話
+  title: ''
+  description: 浦島坂田船が高校に転入!?わくわく転校❝青春❞ストーリー！<br><br>うらた:うらたぬき／志麻:志麻／坂田:となりの坂田。／センラ:センラ　他<br><br>原作:浦島坂田船／キャラクター原案:月森フユカ／シリーズ構成・脚本:内田裕基／アニメキャラクターデザイン・作画監督:横山紗弓（アニメアール）／音響監督:飯田里樹／音楽:高田雅史／監督・美術監督:池内翔／アニメーション制作:GAINAX京都<br><br>©2019NBCUniversal
+    Entertaiment.All Rights Reserved.<br><br>so35797785←前話｜次話→so36096831　第一話→so35797785
+  length_seconds: 963
+  content_id: so35974358
+  default_thread_id: 1574125630
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35974358/35974358.89232136
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話～第12話
+  title: ''
+  description: 浦島坂田船が高校に転入!?わくわく転校❝青春❞ストーリー！<br><br>うらた:うらたぬき／志麻:志麻／坂田:となりの坂田。／センラ:センラ　他<br><br>原作:浦島坂田船／キャラクター原案:月森フユカ／シリーズ構成・脚本:内田裕基／アニメキャラクターデザイン・作画監督:横山紗弓（アニメアール）／音響監督:飯田里樹／音楽:高田雅史／監督・美術監督:池内翔／アニメーション制作:GAINAX京都<br><br>©2019NBCUniversal
+    Entertaiment.All Rights Reserved.<br><br>so35974358←前話　第一話→so35797785
+  length_seconds: 963
+  content_id: so36096831
+  default_thread_id: 1576545485
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36096831/36096831.9219191
 cast: "[キャスト]<br>うらた:うらたぬき／志麻:志麻／坂田:となりの坂田。／センラ:センラ　他"
 staff: "[スタッフ]<br>原作:浦島坂田船／キャラクター原案:月森フユカ／シリーズ構成・脚本:内田裕基／アニメキャラクターデザイン・作画監督:横山紗弓（アニメアール）／音響監督:飯田里樹／音楽:高田雅史／監督・美術監督:池内翔／アニメーション制作:GAINAX京都"
 produced_year: "[製作年]<br>2019年"

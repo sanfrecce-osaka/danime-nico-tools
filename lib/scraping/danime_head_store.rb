@@ -146,7 +146,7 @@ module Scraping
             @season.staff = text
           when %r(製作年)
             @season.produced_year = text
-          when %r([©ⓒⒸ]|([(（][cｃCＣ有][)）])|写真提供)
+          when %r([℗©ⓒⒸ]|([(（][cｃCＣ有][)）])|写真提供)
             @season.copyright = text
           when %r(^$)
             next

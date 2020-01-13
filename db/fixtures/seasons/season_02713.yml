@@ -1,0 +1,78 @@
+--- !ruby/hash:SeasonHash
+title: 恋する小惑星（アステロイド）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/17/2/23172_1_8_8b.png?1575597891000
+outline: 幼いころ、キャンプ場で出会った男の子と“小惑星を見つける”という約束をした木ノ幡みら。高校では天文部へ入部しようとしたが、今年から「天文部」と「地質研究会」が合併して「地学部」になっていた……！？地学系女子（ジオジョ）たちと一緒に、いろんなキラキラを探しに行きませんか？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 指出毬亜
+  type: cast
+- !ruby/hash:TagHash
+  name: 高柳知葉
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：フライングドッグ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：動画工房
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：伊賀拓郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山崎淳
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：平牧大輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Quro
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: '01.'
+  title: 二人の約束
+  description: 春。高校に入学した木ノ幡みらは、絶対入ろうと決めていた天文部がなくなっていて大ショック。みらには、幼い頃にある人物と約束した「小惑星を発見する」という夢があったのだ。今年から「天文部」と「地質研」が合併した「地学部」が出来たと聞いてさっそく入部する。部室でみらを待っていたのは個性的な3人の先輩と、そしてもう1人……。<br><br>木ノ幡みら:高柳知葉／真中あお:山口愛／猪瀬舞:指出毬亜／桜井美景:東山奈央／森野真理:上坂すみれ<br><br>原作:Quro(芳文社「まんがタイムきららキャラット」連載)
+    ／監督:平牧大輔／シリーズ構成:山田由香／キャラクターデザイン:山崎淳／プロップデザイン:宮原拓也／総作画監督:山崎淳、松浦麻衣、杉田まるみ／美術監督:中村典史(スタジオなや)／色彩設計:伊藤裕香／撮影監督:杉浦誠一／編集:坪根健太郎（REAL-T）／音響監督:高寺たけし／音楽:伊賀拓郎／音楽制作:フライングドッグ／アニメーション制作:動画工房／製作:星咲高校地学部<br><br>©Quro・芳文社／星咲高校地学部<br><br>次話→so36202377
+  length_seconds: 1420
+  content_id: so36137475
+  default_thread_id: 1577325603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137475/36137475.72380202
+- !ruby/hash:EpisodeHash
+  episode_no: '02.'
+  title: 河原の天の川
+  description: 今日は河原で新入部員歓迎会のバーベキュー！ 石ころハンティングや星空観察会と盛りだくさんの一日を楽しんだ後は、会報「KiRA KiRA」作り。それぞれがテーマを決める中、なかなか記事が書けないみら。なんとかまとめたものの、姉のみさには「みららしさが感じられない」と言われてしまう。
+    そんな時、あおから記事の挿絵を頼まれたみらは…。<br><br>木ノ幡みら:高柳知葉／真中あお:山口愛／猪瀬舞:指出毬亜／桜井美景:東山奈央／森野真理:上坂すみれ<br><br>原作:Quro(芳文社「まんがタイムきららキャラット」連載)
+    ／監督:平牧大輔／シリーズ構成:山田由香／キャラクターデザイン:山崎淳／プロップデザイン:宮原拓也／総作画監督:山崎淳、松浦麻衣、杉田まるみ／美術監督:中村典史(スタジオなや)／色彩設計:伊藤裕香／撮影監督:杉浦誠一／編集:坪根健太郎（REAL-T）／音響監督:高寺たけし／音楽:伊賀拓郎／音楽制作:フライングドッグ／アニメーション制作:動画工房／製作:星咲高校地学部<br><br>©Quro・芳文社／星咲高校地学部<br><br>so36137475←前話　第一話→so36137475
+  length_seconds: 1420
+  content_id: so36202377
+  default_thread_id: 1578534006
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36202377/36202377.77087134
+cast: "[キャスト]<br>木ノ幡みら:高柳知葉／真中あお:山口愛／猪瀬舞:指出毬亜／桜井美景:東山奈央／森野真理:上坂すみれ"
+staff: "[スタッフ]<br>原作:Quro(芳文社「まんがタイムきららキャラット」連載) ／監督:平牧大輔／シリーズ構成:山田由香／キャラクターデザイン:山崎淳／プロップデザイン:宮原拓也／総作画監督:山崎淳、松浦麻衣、杉田まるみ／美術監督:中村典史(スタジオなや)／色彩設計:伊藤裕香／撮影監督:杉浦誠一／編集:坪根健太郎（REAL-T）／音響監督:高寺たけし／音楽:伊賀拓郎／音楽制作:フライングドッグ／アニメーション制作:動画工房／製作:星咲高校地学部"
+produced_year: "[製作年]<br>2020年"
+copyright: "©Quro・芳文社／星咲高校地学部"
+related_seasons: !ruby/array:Hashie::Array []

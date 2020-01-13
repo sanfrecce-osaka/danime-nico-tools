@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: ダーウィンズゲーム
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/16/0/23160_1_8_8b.png?1576474208000
+outline: 平凡な高校生である須藤 要のもとに見知らぬアプリ「ダーウィンズゲーム」の招待メールが届く。アプリを起動させてしまったカナメは、プレイヤー同士が異能(シギル)を駆使して戦うゲームに巻き込まれてしまう。わけもわからぬまま、襲い来る強力なプレイヤーとのバトルを切り抜け、カナメは生き残ることが出来るのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林裕介
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 大森日雅
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：末廣健一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Nexus
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：徳本善信
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：FLIPFLOPs
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中西和也
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話 前編
+  title: 初陣（ファーストゲーム）
+  description: 平凡な日常を送っていた男子高校生のカナメの元に、ある日アプリ「ダーウィンズゲーム」の招待メールが届く。何気なくアプリを開いた事でゲームのプレイヤーになってしまったスドウカナメ。怪しげな雰囲気のゲームを訝しんでいるうちにバトルが始まり、突如パンダの着ぐるみを着た謎の人物が襲い掛かかる。果たして、絶対絶命のバトルにカナメは生き残ることができるのか！？<br><br>カナメ:小林裕介／シュカ:上田麗奈／レイン:大森日雅／リュージ:八代
+    拓／スイ/ソータ:花守ゆみり<br><br>原作:FLIPFLOPs（秋田書店「別冊少年チャンピオン」連載）／監督:徳本善信／シリーズ構成・脚本:深山 秀(FLIPFLOPs)／キャラクターデザイン:中西和也／プロップデザイン・銃器デザイン:北原大地／銃器監修:金子賢一／美術監督:竹内
+    圭／美術監督補佐:李 凡善／色彩設計:田中直人・岡崎順子／撮影監督:廣岡 岳／編集:坪根健太郎／3DCG監督:池田晋治／音楽:末廣健一郎／音響監督:明田川
+    仁／音響制作:マジックカプセル／アニメーションプロデューサー:中村浩士／アニメーション制作:Nexus<br><br>©FLIPFLOPs（秋田書店）／ダーウィンズゲーム製作委員会<br><br>次話→so36132696
+  length_seconds: 1393
+  content_id: so36132697
+  default_thread_id: 1577239997
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36132697/36132697.50420717
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話 後編
+  title: 初陣（ファーストゲーム）
+  description: 平凡な日常を送っていた男子高校生のカナメの元に、ある日アプリ「ダーウィンズゲーム」の招待メールが届く。何気なくアプリを開いた事でゲームのプレイヤーになってしまったスドウカナメ。怪しげな雰囲気のゲームを訝しんでいるうちにバトルが始まり、突如パンダの着ぐるみを着た謎の人物が襲い掛かかる。果たして、絶対絶命のバトルにカナメは生き残ることができるのか！？<br><br>カナメ:小林裕介／シュカ:上田麗奈／レイン:大森日雅／リュージ:八代
+    拓／スイ/ソータ:花守ゆみり<br><br>原作:FLIPFLOPs（秋田書店「別冊少年チャンピオン」連載）／監督:徳本善信／シリーズ構成・脚本:深山 秀(FLIPFLOPs)／キャラクターデザイン:中西和也／プロップデザイン・銃器デザイン:北原大地／銃器監修:金子賢一／美術監督:竹内
+    圭／美術監督補佐:李 凡善／色彩設計:田中直人・岡崎順子／撮影監督:廣岡 岳／編集:坪根健太郎／3DCG監督:池田晋治／音楽:末廣健一郎／音響監督:明田川
+    仁／音響制作:マジックカプセル／アニメーションプロデューサー:中村浩士／アニメーション制作:Nexus<br><br>©FLIPFLOPs（秋田書店）／ダーウィンズゲーム製作委員会<br><br>so36132697←前話　第一話→so36132697
+  length_seconds: 1467
+  content_id: so36132696
+  default_thread_id: 1577240019
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36132696/36132696.18610360
+cast: "[キャスト]<br>カナメ:小林裕介／シュカ:上田麗奈／レイン:大森日雅／リュージ:八代 拓／スイ/ソータ:花守ゆみり"
+staff: "[スタッフ]<br>原作:FLIPFLOPs（秋田書店「別冊少年チャンピオン」連載）／監督:徳本善信／シリーズ構成・脚本:深山 秀(FLIPFLOPs)／キャラクターデザイン:中西和也／プロップデザイン・銃器デザイン:北原大地／銃器監修:金子賢一／美術監督:竹内
+  圭／美術監督補佐:李 凡善／色彩設計:田中直人・岡崎順子／撮影監督:廣岡 岳／編集:坪根健太郎／3DCG監督:池田晋治／音楽:末廣健一郎／音響監督:明田川 仁／音響制作:マジックカプセル／アニメーションプロデューサー:中村浩士／アニメーション制作:Nexus"
+produced_year: "[製作年]<br>2020年"
+copyright: "©FLIPFLOPs（秋田書店）／ダーウィンズゲーム製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

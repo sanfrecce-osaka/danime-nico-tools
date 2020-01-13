@@ -1,0 +1,105 @@
+--- !ruby/hash:SeasonHash
+title: さすらいくん【デジタルリマスター版】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/07/9/23079_1_8_8b.png?1575968461000
+outline: サラリーマン生活に嫌気がさした「さすらいくん」が、日本各地を放浪するギャグアニメ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 野沢那智
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：米たにヨシトモ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤子不二雄Ａ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：クニトシロウ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+- !ruby/hash:TagHash
+  name: 1992年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ある日旅立ち
+  description: さすらいくん:野沢那智<br><br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平<br><br>©藤子スタジオ／シンエイ<br><br>次話→so36070463
+  length_seconds: 908
+  content_id: so36070438
+  default_thread_id: 1576029963
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070438/36070438.82202274
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話～第3話
+  title: 桜散る里／温泉町無情
+  description: さすらいくん:野沢那智<br><br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平<br><br>©藤子スタジオ／シンエイ<br><br>so36070438←前話｜次話→so36070478　第一話→so36070438
+  length_seconds: 1216
+  content_id: so36070463
+  default_thread_id: 1576030939
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070463/36070463.37844601
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話～第5話
+  title: 古都・春風の誘い／恋のマニュアル
+  description: さすらいくん:野沢那智<br><br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平<br><br>©藤子スタジオ／シンエイ<br><br>so36070463←前話｜次話→so36070479　第一話→so36070438
+  length_seconds: 1216
+  content_id: so36070478
+  default_thread_id: 1576031105
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070478/36070478.69623597
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話～第7話
+  title: 色即是空／文明の味
+  description: さすらいくん:野沢那智<br><br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平<br><br>©藤子スタジオ／シンエイ<br><br>so36070478←前話｜次話→so36070480　第一話→so36070438
+  length_seconds: 1216
+  content_id: so36070479
+  default_thread_id: 1576031408
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070479/36070479.88212365
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話～第9話
+  title: 港町純情／田園紀行
+  description: さすらいくん:野沢那智<br><br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平<br><br>©藤子スタジオ／シンエイ<br><br>so36070479←前話｜次話→so36070481　第一話→so36070438
+  length_seconds: 1216
+  content_id: so36070480
+  default_thread_id: 1576031405
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070480/36070480.36751909
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話～第11話
+  title: 旅は道づれ／旅列車つれづれ
+  description: さすらいくん:野沢那智<br><br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平<br><br>©藤子スタジオ／シンエイ<br><br>so36070480←前話｜次話→so36070482　第一話→so36070438
+  length_seconds: 1216
+  content_id: so36070481
+  default_thread_id: 1576031103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070481/36070481.45198188
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話～第13話
+  title: 郷愁／銭湯旅情
+  description: さすらいくん:野沢那智<br><br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平<br><br>©藤子スタジオ／シンエイ<br><br>so36070481←前話　第一話→so36070438
+  length_seconds: 1209
+  content_id: so36070482
+  default_thread_id: 1576031466
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36070482/36070482.44264126
+cast: "[キャスト]<br>さすらいくん:野沢那智"
+staff: "[スタッフ]<br>原作:藤子不二雄Ⓐ／総監督:クニトシロウ／監督:米谷良知／作画監督:岡迫亘弘／音楽:田中公平"
+produced_year: "[製作年]<br>1992年"
+copyright: "©藤子スタジオ／シンエイ"
+related_seasons: !ruby/array:Hashie::Array []

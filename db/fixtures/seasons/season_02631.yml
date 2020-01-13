@@ -1,0 +1,116 @@
+--- !ruby/hash:SeasonHash
+title: 熱烈！アニソン魂『アニたまLive』Vol.1 in AJF 2004
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/10/1/23101_1_8_8b.png?1574044274000
+outline: 懐かしの名曲アニメソングをオリジナルのアーティストたちが熱唱するファン待望のシリーズ。魔法の天使クリィミーマミ「デリケートに好きして」をはじめ、うる星やつら「宇宙は大ヘンだ」他、全27曲を堪能できる。収録曲/1.
+  「魔法の天使クリィミーマミ」~デリケートに好きして(太田貴子)/2. 「うる星やつら」~宇宙は大ヘンだ(松谷祐子)/3. 「機動戦士Vガンダム」~WINNERS
+  FOREVER-勝利者よ-(infix)/4. 「仮面ライダーZO」~愛が止まらない(infix)/5. 「機動戦艦ナデシコ」~YOU GET TO BURNING(まつざわゆみ)/6.
+  「機動戦艦ナデシコ劇場版」~Dearest(まつざわゆみ)/7. 「ドラゴンボール」~ロマンティックあげるよ(橋本潮)/8. 「ドラゴンボール」~摩訶不思議アドベンチャー!(石原慎一)/9.
+  「ドラゴンボール」~夢をおしえて(橋本潮)/10. 「バビル2世」~砂嵐の子守歌(石原慎一)/11. 「バビル2世」~バビル2世(水木一郎)/12. 「がんばれ!!ロボコン」~がんばれロボコン(水木一郎)/13.
+  「美少女戦士セーラームーン」~タキシード・ナイト(アップルパイ)/14. 「美少女戦士セーラームーン」~ルナ!(アップルパイ)/15. 「幽☆遊☆白書」~太陽がまた輝くとき(高橋ひろみ)/16.
+  「幽☆遊☆白書」アンバランスなKissをして(高橋ひろ)/17. 「ワンピース」~キャラヴェルFAREWELL~進め!ゴーイング・メリー号~(きただにひろし)/18.
+  「ワンピース」~ウィーアー!(きただにひろし)/19. 「うる星やつら」~ラムのラブソング(松谷祐子)/20. 「魔法の天使クリィミィーマミ」~BIN・KANルージュ(太田貴子)/21.
+  「勇者王ガオガイガー」~勇者王誕生!(遠藤正明)/22. 「魔装機神サイバスター」~戦士よ,起ち上がれ!(遠藤正明)/23. 「マクロス7」~PLANET DANCE(福山芳樹)/24.
+  「マクロス7」~DYNAMITE EXPROSION(福山芳樹)/25. 「北斗の拳」~ユリア…永遠に(クリスタルキング)/26. 「北斗の拳」~愛をとりもどせ!!(クリスタルキング)/27.
+  「うる星やつら」~宇宙は大ヘンだ(アニたまオールスターズ)
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 太田貴子
+  type: cast
+- !ruby/hash:TagHash
+  name: 熱烈！アニソン魂『アニたまLive』シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: ライブ映像
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：遠藤正明
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：水木一郎
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：福山芳樹
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：きただにひろし
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：infix
+  type: other
+- !ruby/hash:TagHash
+  name: アーティスト：まつざわゆみ
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 出演:クリスタルキング／石原慎一／infix／福山芳樹（Fire Bomber）／高橋ひろ／遠藤正明／きただにひろし／太田貴子／橋本
+    潮／松谷祐子／まつざわゆみ／アップルパイ／水木一郎<br><br>℗©2004 2004 from yellow to orange Inc. Made in
+    Japan Manufactured by from yellow to orange Inc.<br><br>次話→so36035874
+  length_seconds: 1619
+  content_id: so36035882
+  default_thread_id: 1575334805
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035882/36035882.62025715
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 出演:クリスタルキング／石原慎一／infix／福山芳樹（Fire Bomber）／高橋ひろ／遠藤正明／きただにひろし／太田貴子／橋本
+    潮／松谷祐子／まつざわゆみ／アップルパイ／水木一郎<br><br>℗©2004 2004 from yellow to orange Inc. Made in
+    Japan Manufactured by from yellow to orange Inc.<br><br>so36035882←前話｜次話→so36035875　第一話→so36035882
+  length_seconds: 1406
+  content_id: so36035874
+  default_thread_id: 1575334505
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035874/36035874.60136580
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 出演:クリスタルキング／石原慎一／infix／福山芳樹（Fire Bomber）／高橋ひろ／遠藤正明／きただにひろし／太田貴子／橋本
+    潮／松谷祐子／まつざわゆみ／アップルパイ／水木一郎<br><br>℗©2004 2004 from yellow to orange Inc. Made in
+    Japan Manufactured by from yellow to orange Inc.<br><br>so36035874←前話｜次話→so36035876　第一話→so36035882
+  length_seconds: 1509
+  content_id: so36035875
+  default_thread_id: 1575334747
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035875/36035875.37671346
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 出演:クリスタルキング／石原慎一／infix／福山芳樹（Fire Bomber）／高橋ひろ／遠藤正明／きただにひろし／太田貴子／橋本
+    潮／松谷祐子／まつざわゆみ／アップルパイ／水木一郎<br><br>℗©2004 2004 from yellow to orange Inc. Made in
+    Japan Manufactured by from yellow to orange Inc.<br><br>so36035875←前話｜次話→so36035877　第一話→so36035882
+  length_seconds: 1714
+  content_id: so36035876
+  default_thread_id: 1575334985
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035876/36035876.18949486
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 出演:クリスタルキング／石原慎一／infix／福山芳樹（Fire Bomber）／高橋ひろ／遠藤正明／きただにひろし／太田貴子／橋本
+    潮／松谷祐子／まつざわゆみ／アップルパイ／水木一郎<br><br>℗©2004 2004 from yellow to orange Inc. Made in
+    Japan Manufactured by from yellow to orange Inc.<br><br>so36035876←前話　第一話→so36035882
+  length_seconds: 1868
+  content_id: so36035877
+  default_thread_id: 1575334925
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035877/36035877.21968422
+cast: "[キャスト]<br>出演:クリスタルキング／石原慎一／infix／福山芳樹（Fire Bomber）／高橋ひろ／遠藤正明／きただにひろし／太田貴子／橋本
+  潮／松谷祐子／まつざわゆみ／アップルパイ／水木一郎"
+produced_year: "[製作年]<br>2005年"
+copyright: "℗©2004 2004 from yellow to orange Inc. Made in Japan Manufactured by from
+  yellow to orange Inc."
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 熱烈！アニソン魂『アニたまLive』Vol.2 at EAST

@@ -1,0 +1,110 @@
+--- !ruby/hash:SeasonHash
+title: 探偵オペラ ミルキィホームズ　ファンファンパーリーナイト♪
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/07/4/23074_1_8_8b.png?1572310965000
+outline: ある年のクリスマス。クリスマスパーティの計画をしていたミルキィホームズのもとに捜査の依頼が舞い込んでくる。依頼内容は黄金のダチョウの奪還！？同じく依頼を受けたG4、ガチョウを狙う怪盗帝国との三つ巴はいつものようにハチャメチャに―――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村ゆかり
+  type: cast
+- !ruby/hash:TagHash
+  name: 三森すずこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 南條愛乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 岸尾だいすけ
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳井青空
+  type: cast
+- !ruby/hash:TagHash
+  name: 新谷良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 明坂聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 橘田いずみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木未来
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：J.C.STAFF
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：桜井弘明
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：クロノギアクリエイティヴ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：沼田誠也
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：野田康行
+  type: staff
+- !ruby/hash:TagHash
+  name: ミルキィホームズシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: ある年のクリスマス。クリスマスパーティの計画をしていたミルキィホームズのもとに捜査の依頼が舞い込んでくる。依頼内容は黄金のダチョウの奪還！？同じく依頼を受けたG4、ガチョウを狙う怪盗帝国との三つ巴はいつものようにハチャメチャに―――。<br><br>シャーロック・シェリンフォード:三森すずこ／譲崎ネロ:徳井青空／エルキュール・バートン:佐々木未来／コーデリア・グラウカ:橘田いずみ／アルセーヌ:明坂聡美／トゥエンティ:岸尾だいすけ／ストーンリバー:寺島拓篤／ラット:下野紘／明智小衣:南條愛乃／銭形次子:沢城みゆき／長谷川平乃:新谷良子／遠山咲:田村ゆかり<br><br>原案・製作総指揮:木谷高明／企画・原作:ブシロード・クロノギアクリエイティヴ／監督:桜井弘明／脚本:ふでやすかずゆき／キャラクター原案:たにはらなつき・うさはらゆめ／キャラクターデザイン:沼田誠也・野田康行／アニメーション制作:J.C.STAFF<br><br>©ミルキィＦＦＰＮ製作委員会
+  length_seconds: 1389
+  content_id: so36035928
+  default_thread_id: 1575336314
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36035928/36035928.74264940
+cast: "[キャスト]<br>シャーロック・シェリンフォード:三森すずこ／譲崎ネロ:徳井青空／エルキュール・バートン:佐々木未来／コーデリア・グラウカ:橘田いずみ／アルセーヌ:明坂聡美／トゥエンティ:岸尾だいすけ／ストーンリバー:寺島拓篤／ラット:下野紘／明智小衣:南條愛乃／銭形次子:沢城みゆき／長谷川平乃:新谷良子／遠山咲:田村ゆかり"
+staff: "[スタッフ]<br>原案・製作総指揮:木谷高明／企画・原作:ブシロード・クロノギアクリエイティヴ／監督:桜井弘明／脚本:ふでやすかずゆき／キャラクター原案:たにはらなつき・うさはらゆめ／キャラクターデザイン:沼田誠也・野田康行／アニメーション制作:J.C.STAFF"
+produced_year: "[製作年]<br>2017年"
+copyright: "©ミルキィＦＦＰＮ製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 探偵オペラ ミルキィホームズ
+- !ruby/hash:SeasonHash
+  title: 探偵オペラ ミルキィホームズ サマー・スペシャル
+- !ruby/hash:SeasonHash
+  title: 探偵オペラ ミルキィホームズ 第2幕
+- !ruby/hash:SeasonHash
+  title: 探偵オペラ ミルキィホームズ Alternative ONE ～小林オペラと５枚の絵画～
+- !ruby/hash:SeasonHash
+  title: 探偵オペラ ミルキィホームズ Alternative TWO -小林オペラと虚空の大鴉-
+- !ruby/hash:SeasonHash
+  title: ふたりはミルキィホームズ
+- !ruby/hash:SeasonHash
+  title: 探偵歌劇 ミルキィホームズ TD
+- !ruby/hash:SeasonHash
+  title: 劇場版 探偵オペラ ミルキィホームズ　～逆襲のミルキィホームズ～
+- !ruby/hash:SeasonHash
+  title: 探偵オペラ ミルキィホームズ　アルセーヌ 華麗なる欲望
+- !ruby/hash:SeasonHash
+  title: 探偵オペラ ミルキィホームズ　サイコの挨拶

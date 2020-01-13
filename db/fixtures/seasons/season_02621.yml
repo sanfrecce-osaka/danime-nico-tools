@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: 猫のダヤン シーズン4
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/12/4/23124_1_8_8b.png?1573632342000
+outline: 今度の舞台はダヤンの家。わちふぃーるどのいろんな仲間たちが遊びに来ます。仲間たちの紹介やダヤンとの面白おかしいやり取りで、楽しいひとときをお送りします。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 島本須美
+  type: cast
+- !ruby/hash:TagHash
+  name: 平山笑美
+  type: cast
+- !ruby/hash:TagHash
+  name: 上原あかり
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：勝鬨スタジオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：池田あきこ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：池田あきこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：丸山公詳
+  type: staff
+- !ruby/hash:TagHash
+  name: 猫のダヤンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2017年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第15話
+  title: ''
+  description: 第1話 ジタン／ダヤンの家にジタンがやって来ました。早速ジタンがお茶を入れていますが、ここはダヤンの家。…あれ？おもてなしをするのは、どっち！？
+    他、第2話-第15話を収録。<br><br>ダヤン:島本須美／ジタン:平山笑美／マーシィ:上原あかり<br><br>原作・キャラクターデザイン:池田あきこ／監督名:作田ハズム／アニメーション制作:勝鬨スタジオ／音響制作:スペルバウンド／音響監督:鹿志村聡／音楽:丸山公詳<br><br>©Akiko
+    Ikeda/Fushigi Dayan<br><br>次話→so35982454
+  length_seconds: 914
+  content_id: so35982452
+  default_thread_id: 1574298669
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35982452/35982452.88583900
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話～第30話
+  title: ''
+  description: 第16話 郵便局のギブとボーン／郵便局のギブがボーンを連れてダヤンの元に手紙を配達。すると受け取ろうとした手紙がふとした瞬間に飛んでしまってベッドの隙間に落ちてしまいました。なにか細長いもので取ろうとすると、親切なボーンが自らの骨を渡してくれて…。
+    他、第17話-第30話を収録。<br><br>ダヤン:島本須美／ジタン:平山笑美／マーシィ:上原あかり<br><br>原作・キャラクターデザイン:池田あきこ／監督名:作田ハズム／アニメーション制作:勝鬨スタジオ／音響制作:スペルバウンド／音響監督:鹿志村聡／音楽:丸山公詳<br><br>©Akiko
+    Ikeda/Fushigi Dayan<br><br>so35982452←前話　第一話→so35982452
+  length_seconds: 914
+  content_id: so35982454
+  default_thread_id: 1574298483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35982454/35982454.44074129
+cast: "[キャスト]<br>ダヤン:島本須美／ジタン:平山笑美／マーシィ:上原あかり"
+staff: "[スタッフ]<br>原作・キャラクターデザイン:池田あきこ／監督名:作田ハズム／アニメーション制作:勝鬨スタジオ／音響制作:スペルバウンド／音響監督:鹿志村聡／音楽:丸山公詳"
+produced_year: "[製作年]<br>2017年"
+copyright: "©Akiko Ikeda/Fushigi Dayan"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 猫のダヤン
+- !ruby/hash:SeasonHash
+  title: 猫のダヤン　日本へ行く
+- !ruby/hash:SeasonHash
+  title: 猫のダヤン　ふしぎ劇場
+- !ruby/hash:SeasonHash
+  title: ダヤンとタマと飛び猫と　～３つの猫の物語～

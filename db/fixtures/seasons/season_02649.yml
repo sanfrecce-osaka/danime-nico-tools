@@ -1,0 +1,102 @@
+--- !ruby/hash:SeasonHash
+title: みなみけ　夏やすみ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/14/5/23145_1_8_8b.png?1575531035000
+outline: 夏やすみ最後の一週間！天下無敵のおりこうさん・千秋にもできない宿題があった。それは・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤利奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上麻里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅沼晋太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉紗子
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤沙緒里
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：スターチャイルドレコード
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：feel.
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川口敬一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：桜場コハル
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：鈴木豪
+  type: staff
+- !ruby/hash:TagHash
+  name: みなみけシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: 夏やすみ／おまけ
+  description: 夏やすみ最後の一週間！天下無敵のおりこうさん・千秋にもできない宿題があった。それは・・・・。／高校生の女子会@ファミレス！優柔不断なアツコの性格をヒトミが直そうとして・・・・。<br><br>南
+    春香:佐藤利奈／南 夏奈:井上麻里奈／南 千秋:茅原実里／南 冬馬:水樹奈々／マコト＆マコちゃん:森永理科／藤岡:柿原徹也／保坂:小野大輔／マキ:高木礼子／アツコ:小野涼子／速水:千葉紗子／ヒトミ:齋藤彩夏／リコ:高梁碧／タケル:浅沼晋太郎／ケイコ:後藤沙緒里／内田:喜多村英梨／吉野:豊崎愛生／南ハルオ:川田紳司／南ナツキ:吉野裕行／南アキラ:葉山達也<br><br>原作・原案・シナリオ構成・会話指導:桜場コハル／監督:川口敬一郎／脚本:村上桃子／キャラクターデザイン:鈴木豪／音楽制作:スターチャイルドレコード／アニメーション制作:feel.／製作:みなみけ
+    夏やすみ製作委員会<br><br>©桜場コハル・講談社／みなみけ 夏やすみ製作委員会
+  length_seconds: 1679
+  content_id: so36048424
+  default_thread_id: 1575598683
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36048424/36048424.42299679
+cast: "[キャスト]<br>南 春香:佐藤利奈／南 夏奈:井上麻里奈／南 千秋:茅原実里／南 冬馬:水樹奈々／マコト＆マコちゃん:森永理科／藤岡:柿原徹也／保坂:小野大輔／マキ:高木礼子／アツコ:小野涼子／速水:千葉紗子／ヒトミ:齋藤彩夏／リコ:高梁碧／タケル:浅沼晋太郎／ケイコ:後藤沙緒里／内田:喜多村英梨／吉野:豊崎愛生／南ハルオ:川田紳司／南ナツキ:吉野裕行／南アキラ:葉山達也"
+staff: "[スタッフ]<br>原作・原案・シナリオ構成・会話指導:桜場コハル／監督:川口敬一郎／脚本:村上桃子／キャラクターデザイン:鈴木豪／音楽制作:スターチャイルドレコード／アニメーション制作:feel.／製作:みなみけ
+  夏やすみ製作委員会"
+produced_year: "[製作年]<br>2013年"
+copyright: "©桜場コハル・講談社／みなみけ 夏やすみ製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: みなみけ
+- !ruby/hash:SeasonHash
+  title: みなみけ　おかわり
+- !ruby/hash:SeasonHash
+  title: みなみけ　おかえり
+- !ruby/hash:SeasonHash
+  title: みなみけ　べつばら
+- !ruby/hash:SeasonHash
+  title: みなみけ　おまたせ
+- !ruby/hash:SeasonHash
+  title: みなみけ　ただいま

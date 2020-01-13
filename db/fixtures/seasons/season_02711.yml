@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: おーばーふろぉ【通常版】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/17/9/23179_1_8_8b.png?1575598298000
+outline: "「お兄ちゃん、ほんとに一緒にお風呂入るの…？」ひょんなことから始まった禁断の入浴体験！仲良し姉妹と幼馴染のお兄ちゃん、男女3人バスタブに肩まで浸かったら思わず溢れ出したのは…姉妹の秘めたる恋心!?オーバーだなんて言わせない、等身大の青春ラブコメディー！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: たみやすともえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 杏子御津
+  type: cast
+- !ruby/hash:TagHash
+  name: 佃左泥
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡邊義弘
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：studioHōKIBOSHI
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：かいづか
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：石倉礼
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 隣であの子は夢の途中
+  description: お風呂場で琴音と秘密の関係になったその夜、和志は興奮と罪悪感から寝付けなくなってしまう。そんな和志をよそにいつもどおり川の字でスヤスヤと眠る琴音と彩音。布団からチラリと覗く生足に触発された和志は、1度は許してくれたんだから…と雑魚寝中の琴音の身体に再び触れ始める。しかし琴音だと思って手を出した相手はまさかの彩音で――<br><br>白河彩音:民安ともえ／白河琴音:杏子御津／須藤和志:佃左泥<br><br>原作:かいづか／監督:石倉礼／脚本:黒崎エーヨ／キャラクターデザイン:渡邊
+    義弘／総作監:黒田和也・牙威格斗・中本尚／衣装デザイン:那須玲奈／色彩設計:ほしのあみ／美術設定・美術監督:李書九／撮影監督:しらたまあんみつ。／編集:新海コウキ／音響監督:えのもとたかひろ／音響制作:スタジオマウス／アニメーション制作:studio
+    HōKIBOSHI／製作:彗星社<br><br>©かいづか／Suiseisha Inc.
+  length_seconds: 210
+  content_id: so36137432
+  default_thread_id: 1577324643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36137432/36137432.80125040
+cast: "[キャスト]<br>白河彩音:民安ともえ／白河琴音:杏子御津／須藤和志:佃左泥"
+staff: "[スタッフ]<br>原作:かいづか／監督:石倉礼／脚本:黒崎エーヨ／キャラクターデザイン:渡邊 義弘／総作監:黒田和也・牙威格斗・中本尚／衣装デザイン:那須玲奈／色彩設計:ほしのあみ／美術設定・美術監督:李書九／撮影監督:しらたまあんみつ。／編集:新海コウキ／音響監督:えのもとたかひろ／音響制作:スタジオマウス／アニメーション制作:studio
+  HōKIBOSHI／製作:彗星社"
+produced_year: "[製作年]<br>2020年"
+copyright: "©かいづか／Suiseisha Inc."
+related_seasons: !ruby/array:Hashie::Array []

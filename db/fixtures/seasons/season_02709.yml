@@ -1,0 +1,174 @@
+--- !ruby/hash:SeasonHash
+title: えいがのおそ松さん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/18/6/23186_1_8_8b.png?1575598144000
+outline: 初めて描かれる「おそ松くん」と「おそ松さん」をつなぐストーリー！赤塚不二夫の名作ギャグ漫画「おそ松くん」を原作とし、2度にわたって制作・放送されたTVアニメ「おそ松さん」。二十歳を過ぎても“クズ”で“ニート”、しかも、全員“彼女ナシ”で“童貞”。ダメだけど、どこか憎めない大人に成長した松野家6兄弟が主役として描かれた、予測不能なギャグコメディとして、2016年度の流行語大賞にノミネートされるなど、社会現象を巻き起こした。完全新作となる劇場版には、高校生時代の6つ子たちも登場し、「おそ松くん」と「おそ松さん」をつなぐストーリーが、初めて明らかになる…！“笑い”はもちろん、まさかの“青春”や“感動”も詰め込んで贈る「おそ松さん」の新境地。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村悠一
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴村健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田燿司
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎藤桃子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：studioぴえろ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：橋本由香利
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：藤田陽一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：赤塚不二夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：エイベックス・ピクチャーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：浅野直之
+  type: staff
+- !ruby/hash:TagHash
+  name: おそ松さんシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一松～第六松
+  title: えいがのおそ松さん前説劇場
+  description: 第一松『オン・ザ・ムービー』／第二松『オレに任せろ』／第三松『限定商品』／第四松『ストーリー』／第五松『テコ入れ』／第六松『ありがとう』<br><br>おそ松:櫻井
+    孝宏／カラ松:中村 悠一／チョロ松:神谷 浩史／一松:福山 潤／十四松:小野 大輔／トド松:入野 自由／トト子:遠藤 綾／イヤミ:鈴村 健一／チビ太:國立
+    幸／デカパン:上田 燿司／ダヨーン:飛田 展男／ハタ坊:斎藤 桃子／松造:井上 和彦／松代:くじら　ほか<br><br>原作:『おそ松くん』 赤塚不二夫・「週刊少年サンデー」（1962年～1969年）他で連載／監督:藤田
+    陽一／脚本:松原 秀／キャラクターデザイン:浅野 直之／美術監督:田村せいき／色彩設計:垣田由紀子／編集:坂本久美子／撮影監督:福士 享／音楽:橋本由香利／音楽制作:エイベックス・ピクチャーズ／音響監督:菊田
+    浩巳／音響製作:楽音舎／アニメーション制作:studioぴえろ<br><br>次話→so36079388
+  length_seconds: 770
+  content_id: so36079387
+  default_thread_id: 1576206008
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079387/36079387.28346772
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: おそ松:櫻井 孝宏／カラ松:中村 悠一／チョロ松:神谷 浩史／一松:福山 潤／十四松:小野 大輔／トド松:入野 自由／トト子:遠藤 綾／イヤミ:鈴村
+    健一／チビ太:國立 幸／デカパン:上田 燿司／ダヨーン:飛田 展男／ハタ坊:斎藤 桃子／松造:井上 和彦／松代:くじら　ほか<br><br>原作:『おそ松くん』
+    赤塚不二夫・「週刊少年サンデー」（1962年～1969年）他で連載／監督:藤田 陽一／脚本:松原 秀／キャラクターデザイン:浅野 直之／美術監督:田村せいき／色彩設計:垣田由紀子／編集:坂本久美子／撮影監督:福士
+    享／音楽:橋本由香利／音楽制作:エイベックス・ピクチャーズ／音響監督:菊田 浩巳／音響製作:楽音舎／アニメーション制作:studioぴえろ<br><br>so36079387←前話｜次話→so36079389　第一話→so36079387
+  length_seconds: 1132
+  content_id: so36079388
+  default_thread_id: 1576206005
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079388/36079388.87037344
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: おそ松:櫻井 孝宏／カラ松:中村 悠一／チョロ松:神谷 浩史／一松:福山 潤／十四松:小野 大輔／トド松:入野 自由／トト子:遠藤 綾／イヤミ:鈴村
+    健一／チビ太:國立 幸／デカパン:上田 燿司／ダヨーン:飛田 展男／ハタ坊:斎藤 桃子／松造:井上 和彦／松代:くじら　ほか<br><br>原作:『おそ松くん』
+    赤塚不二夫・「週刊少年サンデー」（1962年～1969年）他で連載／監督:藤田 陽一／脚本:松原 秀／キャラクターデザイン:浅野 直之／美術監督:田村せいき／色彩設計:垣田由紀子／編集:坂本久美子／撮影監督:福士
+    享／音楽:橋本由香利／音楽制作:エイベックス・ピクチャーズ／音響監督:菊田 浩巳／音響製作:楽音舎／アニメーション制作:studioぴえろ<br><br>so36079388←前話｜次話→so36079390　第一話→so36079387
+  length_seconds: 1956
+  content_id: so36079389
+  default_thread_id: 1576206791
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079389/36079389.97682419
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: おそ松:櫻井 孝宏／カラ松:中村 悠一／チョロ松:神谷 浩史／一松:福山 潤／十四松:小野 大輔／トド松:入野 自由／トト子:遠藤 綾／イヤミ:鈴村
+    健一／チビ太:國立 幸／デカパン:上田 燿司／ダヨーン:飛田 展男／ハタ坊:斎藤 桃子／松造:井上 和彦／松代:くじら　ほか<br><br>原作:『おそ松くん』
+    赤塚不二夫・「週刊少年サンデー」（1962年～1969年）他で連載／監督:藤田 陽一／脚本:松原 秀／キャラクターデザイン:浅野 直之／美術監督:田村せいき／色彩設計:垣田由紀子／編集:坂本久美子／撮影監督:福士
+    享／音楽:橋本由香利／音楽制作:エイベックス・ピクチャーズ／音響監督:菊田 浩巳／音響製作:楽音舎／アニメーション制作:studioぴえろ<br><br>so36079389←前話｜次話→so36079391　第一話→so36079387
+  length_seconds: 1236
+  content_id: so36079390
+  default_thread_id: 1576206785
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079390/36079390.15250650
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: おそ松:櫻井 孝宏／カラ松:中村 悠一／チョロ松:神谷 浩史／一松:福山 潤／十四松:小野 大輔／トド松:入野 自由／トト子:遠藤 綾／イヤミ:鈴村
+    健一／チビ太:國立 幸／デカパン:上田 燿司／ダヨーン:飛田 展男／ハタ坊:斎藤 桃子／松造:井上 和彦／松代:くじら　ほか<br><br>原作:『おそ松くん』
+    赤塚不二夫・「週刊少年サンデー」（1962年～1969年）他で連載／監督:藤田 陽一／脚本:松原 秀／キャラクターデザイン:浅野 直之／美術監督:田村せいき／色彩設計:垣田由紀子／編集:坂本久美子／撮影監督:福士
+    享／音楽:橋本由香利／音楽制作:エイベックス・ピクチャーズ／音響監督:菊田 浩巳／音響製作:楽音舎／アニメーション制作:studioぴえろ<br><br>so36079390←前話　第一話→so36079387
+  length_seconds: 2165
+  content_id: so36079391
+  default_thread_id: 1576206794
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36079391/36079391.31144371
+cast: "[キャスト]<br>おそ松:櫻井 孝宏／カラ松:中村 悠一／チョロ松:神谷 浩史／一松:福山 潤／十四松:小野 大輔／トド松:入野 自由／トト子:遠藤
+  綾／イヤミ:鈴村 健一／チビ太:國立 幸／デカパン:上田 燿司／ダヨーン:飛田 展男／ハタ坊:斎藤 桃子／松造:井上 和彦／松代:くじら　ほか"
+staff: "[スタッフ]<br>原作:『おそ松くん』 赤塚不二夫・「週刊少年サンデー」（1962年～1969年）他で連載／監督:藤田 陽一／脚本:松原 秀／キャラクターデザイン:浅野
+  直之／美術監督:田村せいき／色彩設計:垣田由紀子／編集:坂本久美子／撮影監督:福士 享／音楽:橋本由香利／音楽制作:エイベックス・ピクチャーズ／音響監督:菊田
+  浩巳／音響製作:楽音舎／アニメーション制作:studioぴえろ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©赤塚不二夫／えいがのおそ松さん製作委員会 2019"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: おそ松くん
+- !ruby/hash:SeasonHash
+  title: おそ松さん
+- !ruby/hash:SeasonHash
+  title: おそ松さん　第3.5話
+- !ruby/hash:SeasonHash
+  title: "「おそ松さん」おうまでこばなし"
+- !ruby/hash:SeasonHash
+  title: おそ松さん 第2期
+- !ruby/hash:SeasonHash
+  title: "「おそ松さん　第2期」ショートフィルムシリーズ"
+- !ruby/hash:SeasonHash
+  title: "「えいがのおそ松さん」劇場公開記念特番　鈴村健一＆入野自由のおフランスに行くザンス！"
+- !ruby/hash:SeasonHash
+  title: おそ松さん on STAGE ～SIX MEN'S SHOW TIME～ 配信版
+- !ruby/hash:SeasonHash
+  title: 舞台『おそ松さん on STAGE ～SIX MEN’S SHOW TIME 2～』
+- !ruby/hash:SeasonHash
+  title: F6 1st LIVEツアー「Satisfaction」
+- !ruby/hash:SeasonHash
+  title: 喜劇「おそ松さん」
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2017
+- !ruby/hash:SeasonHash
+  title: STAGE FES 2018

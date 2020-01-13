@@ -1,0 +1,558 @@
+--- !ruby/hash:SeasonHash
+title: 無敵ロボトライダーG７
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/57/5/22575_1_8_8b.png?1551354604000
+outline: "「竹尾ゼネラルカンパニー」の社長となった小学生・竹尾ワッ太が、地球最強のロボット「トライダーG7」と共に、カバール帝国の地球侵略に立ち向かう。小学生社長が巨大ロボットに乗り込み戦うという破天荒な設定と、民間企業であるがゆえに採算を気にしなければならないというリアリズムの組み合わせが絶妙である。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 潘恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田勝
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤本譲
+  type: cast
+- !ruby/hash:TagHash
+  name: 間嶋里美
+  type: cast
+- !ruby/hash:TagHash
+  name: 村山明
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐々木勝利
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：佐々門信芳
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：茅蔵人
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1980年
+  type: other
+- !ruby/hash:TagHash
+  name: 1980年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: がんばれ若社長！
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>次話→so36129497
+  length_seconds: 1489
+  content_id: so36131583
+  default_thread_id: 1577204283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36131583/36131583.76994589
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 社長はつらいよ
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36131583←前話｜次話→so36129393　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36129497
+  default_thread_id: 1577184483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129497/36129497.94500410
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: お金じゃないよ、心意気
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129497←前話｜次話→so36131584　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36129393
+  default_thread_id: 1577183403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129393/36129393.47392839
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 男・ワッ太の子守唄
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129393←前話｜次話→so36129265　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36131584
+  default_thread_id: 1577204345
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36131584/36131584.55415532
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ああ、宿命のライバル
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36131584←前話｜次話→so36128813　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36129265
+  default_thread_id: 1577182082
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129265/36129265.93486672
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 俺は大好き宇宙塾
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129265←前話｜次話→so36129149　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128813
+  default_thread_id: 1577177229
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128813/36128813.77476679
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 危うし！花の係長
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128813←前話｜次話→so36131706　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36129149
+  default_thread_id: 1577180883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129149/36129149.73278015
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 男と男の花が散る
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129149←前話｜次話→so36128881　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36131706
+  default_thread_id: 1577206757
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36131706/36131706.97901205
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 俺は小さな大社長
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36131706←前話｜次話→so36128880　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128881
+  default_thread_id: 1577177827
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128881/36128881.31586939
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 男・純情！大門先生
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128881←前話｜次話→so36128723　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128880
+  default_thread_id: 1577177764
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128880/36128880.8994580
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ああ、テスト秘(まるひ)作戦
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128880←前話｜次話→so36128879　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128723
+  default_thread_id: 1577176443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128723/36128723.41776057
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 走れ信吉！ゴールをめざせ
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128723←前話｜次話→so36128878　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128879
+  default_thread_id: 1577177766
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128879/36128879.31172333
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 俺は地球のスーパー・スター？！
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128879←前話｜次話→so36128877　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128878
+  default_thread_id: 1577178187
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128878/36128878.14220830
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: どうせ拾った貝だもの
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128878←前話｜次話→so36128876　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128877
+  default_thread_id: 1577178064
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128877/36128877.40900127
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 妹・サチ子は世界一
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128877←前話｜次話→so36128875　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128876
+  default_thread_id: 1577177823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128876/36128876.46759286
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 父兄会は大騒動！
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128876←前話｜次話→so36128823　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128875
+  default_thread_id: 1577177829
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128875/36128875.56617928
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 夢にまで見たデート
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128875←前話｜次話→so36128822　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128823
+  default_thread_id: 1577177597
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128823/36128823.91925787
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: ワッ太は世紀の天文博士
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128823←前話｜次話→so36128814　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128822
+  default_thread_id: 1577177226
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128822/36128822.60612989
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ホットケーキはどんな味？
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128822←前話｜次話→so36128815　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128814
+  default_thread_id: 1577177592
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128814/36128814.46806549
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 感激！ボーナスが出る
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128814←前話｜次話→so36128816　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128815
+  default_thread_id: 1577177223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128815/36128815.54043815
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 親父は宇宙の大工さん
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128815←前話｜次話→so36128817　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128816
+  default_thread_id: 1577177583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128816/36128816.83640915
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 心意気だぜ郁恵ちゃん
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128816←前話｜次話→so36128818　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128817
+  default_thread_id: 1577177586
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128817/36128817.47554834
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 歯なしにならない話
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128817←前話｜次話→so36128724　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128818
+  default_thread_id: 1577177599
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128818/36128818.25209596
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: キャベツがなくなる日
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128818←前話｜次話→so36128725　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128724
+  default_thread_id: 1577176503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128724/36128724.86800453
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 男ならひき受けろ！
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128724←前話｜次話→so36128726　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128725
+  default_thread_id: 1577176325
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128725/36128725.20355156
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: でっかい輪っかだ夏祭り
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128725←前話｜次話→so36128727　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128726
+  default_thread_id: 1577176455
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128726/36128726.25988449
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: ニースからの手紙
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128726←前話｜次話→so36128728　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128727
+  default_thread_id: 1577176383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128727/36128727.71367433
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 星空のキャンプ・ファイヤー
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128727←前話｜次話→so36128729　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128728
+  default_thread_id: 1577176623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128728/36128728.49034669
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: 泣くな男だ！係長
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128728←前話｜次話→so36128730　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128729
+  default_thread_id: 1577176457
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128729/36128729.28274253
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: 大門先生は鬼コーチ
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128729←前話｜次話→so36128731　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36128730
+  default_thread_id: 1577176203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128730/36128730.27828733
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: おかね婆さん奮戦記
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128730←前話｜次話→so36128732　第一話→so36131583
+  length_seconds: 1488
+  content_id: so36128731
+  default_thread_id: 1577176453
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128731/36128731.48254844
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: ああ専務、男・涙のアルバイト
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128731←前話｜次話→so36128819　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36128732
+  default_thread_id: 1577176449
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128732/36128732.78073891
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: 女の子はヤキイモがお好き
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128732←前話｜次話→so36128820　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36128819
+  default_thread_id: 1577177587
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128819/36128819.27278645
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 熱がなんだ情熱だ！
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128819←前話｜次話→so36128821　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36128820
+  default_thread_id: 1577177601
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128820/36128820.96467863
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: 俺たち少年探偵団
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128820←前話｜次話→so36128874　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36128821
+  default_thread_id: 1577177605
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128821/36128821.93476167
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: あの町この町日が暮れて
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128821←前話｜次話→so36128873　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36128874
+  default_thread_id: 1577178069
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128874/36128874.18694384
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: 火星で食べた！？サンマの味
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128874←前話｜次話→so36128872　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128873
+  default_thread_id: 1577178184
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128873/36128873.67987690
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 常務は父親一年生
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128873←前話｜次話→so36129043　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36128872
+  default_thread_id: 1577178065
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36128872/36128872.72086030
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: トライダーの秘密
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36128872←前話｜次話→so36131707　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36129043
+  default_thread_id: 1577179565
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129043/36129043.85417047
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: 台風一過・大騒動！！
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129043←前話｜次話→so36131708　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36131707
+  default_thread_id: 1577206090
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36131707/36131707.47074135
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: がんばれ！ポンコツロボット
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36131707←前話｜次話→so36131709　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36131708
+  default_thread_id: 1577206746
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36131708/36131708.59169437
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 男・アキラよどこへ行く
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36131708←前話｜次話→so36131810　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36131709
+  default_thread_id: 1577206083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36131709/36131709.13084376
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: スーパーロボット大集合
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36131709←前話｜次話→so36130273　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36131810
+  default_thread_id: 1577208665
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36131810/36131810.34466323
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 六年一組・大門先生
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36131810←前話｜次話→so36130063　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36130273
+  default_thread_id: 1577191743
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36130273/36130273.56122762
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: ああ、あこがれのハワイ珍道中
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36130273←前話｜次話→so36129912　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36130063
+  default_thread_id: 1577190065
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36130063/36130063.54510115
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: 三重子先生の決意
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36130063←前話｜次話→so36129853　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36129912
+  default_thread_id: 1577188690
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129912/36129912.23246249
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: ワッ太の誕生日
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129912←前話｜次話→so36129730　第一話→so36131583
+  length_seconds: 1489
+  content_id: so36129853
+  default_thread_id: 1577188385
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129853/36129853.13492070
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: 男・大門ここにあり
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129853←前話｜次話→so36129679　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36129730
+  default_thread_id: 1577187063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129730/36129730.92135281
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: 危険がいっぱい大仕事
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129730←前話｜次話→so36129630　第一話→so36131583
+  length_seconds: 1490
+  content_id: so36129679
+  default_thread_id: 1577186643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129679/36129679.70709837
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: とびだせ！若社長！！
+  description: 竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明<br><br>原作:矢立
+    肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕 裕／音楽:茅 蔵人<br><br>©創通・サンライズ<br><br>so36129679←前話　第一話→so36131583
+  length_seconds: 1460
+  content_id: so36129630
+  default_thread_id: 1577185683
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36129630/36129630.80153074
+cast: "[キャスト]<br>竹尾ワッ太:間嶋里美／柿小路梅麻呂:永井一郎／砂原郁恵:藩 恵子／厚井鉄男:藤本 譲／オンドロン:池田 勝／大門先生:村山 明"
+staff: "[スタッフ]<br>原作:矢立 肇／監督:佐々木勝利／キャラクターデザイン:佐々門信芳／メカニカルデザイン:大河原邦男／メカニカルゲストデザイン:出渕
+  裕／音楽:茅 蔵人"
+produced_year: "[製作年]<br>1980年"
+copyright: "©創通・サンライズ"
+related_seasons: !ruby/array:Hashie::Array []
