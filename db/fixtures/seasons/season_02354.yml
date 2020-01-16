@@ -35,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
   name: 石川界人
   type: cast
 - !ruby/hash:TagHash
   name: 花江夏樹
-  type: cast
-- !ruby/hash:TagHash
-  name: 斉藤壮馬
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：加藤達也
