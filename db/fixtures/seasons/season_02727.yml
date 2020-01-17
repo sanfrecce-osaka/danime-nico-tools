@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: ID:INVADED イド：インヴェイデッド
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/17/3/23173_1_8_8b.png?1576474339000
+outline: 殺意を感知するシステム「ミヅハノメ」を用いて、犯罪事件を捜査する組織、通称「蔵」。そして、「ミヅハノメ」のパイロットとして犯人の深層心理「殺意の世界（イド）」に入り、事件を推理する名探偵・酒井戸。頻発する凶悪かつ謎多き事件と、そこに見え隠れする連続殺人鬼メイカー「ジョンウォーカー」の影を追っていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 細谷佳正
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: M・A・O
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤隆
+  type: cast
+- !ruby/hash:TagHash
+  name: ブリドカットセーラ恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 榎木淳弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹内良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 落合福嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 西凜太朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩瀬周平
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 村治学
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：あおきえい
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：NAZ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：碇谷敦
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：The Detectives United
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 'FILE: 01'
+  title: JIGSAWED
+  description: バラバラの世界<br><br>酒井戸:津田健次郎／百貴:細谷佳正／富久田:竹内良太／本堂町:M・A・O／東郷:ブリドカット セーラ 恵美／早瀬浦:村治
+    学／白岳:近藤 隆／羽二重:岩瀬周平／若鹿:榎木淳弥／国府:加藤 渉／西村:落合福嗣／松岡:西 凜太朗 <br><br>原作:The Detectives
+    United／監督:あおきえい／シリーズ構成・脚本:舞城王太郎／キャラクター原案:小玉有起／キャラクターデザイン・総作画監督:碇谷 敦／美術デザイン:曽野由大、鈴木勘太／プロップデザイン:曽野由大、碇谷
+    敦、浅利歩惟、鈴木勘太／美術監督:三宅昌和／色彩設計:千葉絵美／Graphic Works:大竹俊介(Smith)／メインアニメーター:又賀大介／撮影監督:久野利和／CGディレクター:川原祐介、三田邦彦／編集:右山章太(TROYCA)／副監督:久保田雄大／音響ディレクター:小泉紀介／サウンドエディター:勝俣
+    まさとし／音楽:U/S／アニメーション制作:NAZ／製作・著作:ID：INVADED Society<br><br>©IDDU/ID:INVADED Society
+  length_seconds: 1480
+  content_id: so36142000
+  default_thread_id: 1577411523
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36142000/36142000.75795887
+cast: "[キャスト]<br>酒井戸:津田健次郎／百貴:細谷佳正／富久田:竹内良太／本堂町:M・A・O／東郷:ブリドカット セーラ 恵美／早瀬浦:村治 学／白岳:近藤
+  隆／羽二重:岩瀬周平／若鹿:榎木淳弥／国府:加藤 渉／西村:落合福嗣／松岡:西 凜太朗"
+staff: "[スタッフ]<br>原作:The Detectives United／監督:あおきえい／シリーズ構成・脚本:舞城王太郎／キャラクター原案:小玉有起／キャラクターデザイン・総作画監督:碇谷
+  敦／美術デザイン:曽野由大、鈴木勘太／プロップデザイン:曽野由大、碇谷 敦、浅利歩惟、鈴木勘太／美術監督:三宅昌和／色彩設計:千葉絵美／Graphic Works:大竹俊介(Smith)／メインアニメーター:又賀大介／撮影監督:久野利和／CGディレクター:川原祐介、三田邦彦／編集:右山章太(TROYCA)／副監督:久保田雄大／音響ディレクター:小泉紀介／サウンドエディター:勝俣
+  まさとし／音楽:U/S／アニメーション制作:NAZ／製作・著作:ID：INVADED Society"
+produced_year: "[製作年]<br>2020年"
+copyright: "©IDDU/ID:INVADED Society"
+related_seasons: !ruby/array:Hashie::Array []

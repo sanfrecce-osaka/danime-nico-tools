@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: A3!
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/15/7/23157_1_8_8b.png?1578276008000
+outline: 東京郊外の街・天鵞絨（ビロード）町には『ビロードウェイ』と呼ばれる通りがあり、多くの劇団が拠点にし、劇団員の聖地となっている。そんな街に、一通の手紙を頼りにMANKAIカンパニーを訪れた立花いづみはその劇団は父親が立ち上げたものだと知る。しかし父は不在、くわえてお客はゼロ、借金もあり、劇団員は1名という事実を知る。いづみはそんな劇団を立て直すため、主宰兼『総監督』となり立て直すため奔走することになる。はたして、MANKAIカンパニーの運命はーーー
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅沼晋太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 山谷祥生
+  type: cast
+- !ruby/hash:TagHash
+  name: 白井悠介
+  type: cast
+- !ruby/hash:TagHash
+  name: 西山宏太朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 廣瀬大介
+  type: cast
+- !ruby/hash:TagHash
+  name: 酒井広大
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤廉
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐雅
+  type: cast
+- !ruby/hash:TagHash
+  name: 土岐隼一
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：横山克
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：P.A.WORKS
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Studio 3Hz
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：篠原啓輔
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小松真梨子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：橋口佳奈
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 満開の未来へ
+  description: 立花いづみは父が旗揚げした劇団「MANKAIカンパニー」を守るため、団員の佐久間咲也らと共に新団員を探すことに。<br><br>【春組】佐久間咲也:酒井広大／碓氷真澄:白井悠介／皆木
+    綴:西山宏太朗／茅ヶ崎 至:浅沼晋太郎／シトロン:五十嵐 雅／【夏組】皇 天馬:江口拓也／瑠璃川 幸:土岐隼一／向坂 椋:山谷祥生／斑鳩三角:廣瀬大介／三好一成:小澤
+    廉<br><br>原作:『A3!（エースリー）』(リベル・エンタテインメント)／キャラクター原案:冨士原 良／監督:篠原啓輔／副監督:中園真登／シリーズ構成:ハヤシナオキ／キャラクターデザイン・総作画監督:小松真梨子／美術デザイン:石口
+    十／衣装デザイン:あきづきりょう／美術監督:田辺浩子（草薙）／色彩設計:津守裕子／ＨＯＡ:トライスラッシュ／グラフィックアート:荒木宏文／撮影監督:鈴木麻予（T2
+    Studio）／編集:土居秀充／音響監督:濱野高年／音楽:横山 克・橋口佳奈／オープニング主題歌制作:大石昌良／音楽制作:ポニーキャニオン／プロデュース:インフィニット／アニメーション制作:P.A.WORKS×Studio
+    3Hz<br><br>©A3! ANIMATION PROJECT
+  length_seconds: 1420
+  content_id: so36206615
+  default_thread_id: 1578622686
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36206615/36206615.10144989
+cast: "[キャスト]<br>【春組】佐久間咲也:酒井広大／碓氷真澄:白井悠介／皆木 綴:西山宏太朗／茅ヶ崎 至:浅沼晋太郎／シトロン:五十嵐 雅／【夏組】皇
+  天馬:江口拓也／瑠璃川 幸:土岐隼一／向坂 椋:山谷祥生／斑鳩三角:廣瀬大介／三好一成:小澤 廉"
+staff: "[スタッフ]<br>原作:『A3!（エースリー）』(リベル・エンタテインメント)／キャラクター原案:冨士原 良／監督:篠原啓輔／副監督:中園真登／シリーズ構成:ハヤシナオキ／キャラクターデザイン・総作画監督:小松真梨子／美術デザイン:石口
+  十／衣装デザイン:あきづきりょう／美術監督:田辺浩子（草薙）／色彩設計:津守裕子／ＨＯＡ:トライスラッシュ／グラフィックアート:荒木宏文／撮影監督:鈴木麻予（T2
+  Studio）／編集:土居秀充／音響監督:濱野高年／音楽:横山 克・橋口佳奈／オープニング主題歌制作:大石昌良／音楽制作:ポニーキャニオン／プロデュース:インフィニット／アニメーション制作:P.A.WORKS×Studio
+  3Hz"
+produced_year: "[製作年]<br>2020年"
+copyright: "©A3! ANIMATION PROJECT"
+related_seasons: !ruby/array:Hashie::Array []

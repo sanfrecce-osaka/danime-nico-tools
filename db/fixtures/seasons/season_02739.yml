@@ -1,0 +1,110 @@
+--- !ruby/hash:SeasonHash
+title: SHOW BY ROCK!!ましゅまいれっしゅ!!
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/15/2/23152_1_8_8b.png?1576476362000
+outline: 北国の小さな村で生まれ育った、白っぽいきつね族の女の子『ほわん』。オーディションをきっかけに憧れの都会、Under North Zawa（アンダーノースザワ）へ旅立つ事に。縞々猫族のマシマヒメコ、デビルミント鬼龍族のデルミン、狼娘族のルフユ達と出会い、バンドを組む事になる。のか？きらきらがいっぱいのRockな音楽物語が、いま始まろうとしている。よーし、やるぞ♪
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 芹澤優
+  type: cast
+- !ruby/hash:TagHash
+  name: 白井悠介
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木みのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊東健人
+  type: cast
+- !ruby/hash:TagHash
+  name: 和多田美咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松昌平
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠野ひかる
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏吉ゆうこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 山根綺
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高梨康治
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：キネマシトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サンリオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Funta7
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：孫承希
+  type: staff
+- !ruby/hash:TagHash
+  name: SHOW BY ROCK！！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: まっしろスタートライン
+  description: MIDICITYでブチかますために田舎から出てきたほわんだが、オーディションパスをうっかり落とす。<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M
+  length_seconds: 1420
+  content_id: so36202938
+  default_thread_id: 1578550145
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36202938/36202938.72982672
+cast: "[キャスト]<br>ほわん:遠野 ひかる／マシマヒメコ:夏吉 ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+  優／ういうい:鈴木みのり"
+staff: "[スタッフ]<br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+  Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス"
+produced_year: "[製作年]<br>2020年"
+copyright: Ⓒ2012, 2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK！！
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK!!しょ～と!!
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK!!#
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK！！ MUSICAL～唱え家畜共ッ！深紅色の堕天革命黙示録ッ！！
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」～THE FES Ⅱ-Thousand ⅩⅤⅡ～【Genesis】
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」～THE FES Ⅱ-Thousand ⅩⅤⅡ～【Destiny】（千秋楽公演）
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」―深淵のCrossAmbivalence―

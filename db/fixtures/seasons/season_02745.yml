@@ -1,0 +1,114 @@
+--- !ruby/hash:SeasonHash
+title: 舞台「TRICKSTER～the STAGE～」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/59/9/21599_1_8_8b.png?1551268142000
+outline: "※こちらの映像は、DVD/Blu-rayに収録されている本編映像と同一のものとなります。2016年10月から放送がスタートしたアニメ『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』が舞台となって登場。アニメでは語られなかった怪人二十面相と明智の戦いを描くオリジナルストーリーを、歌・ダンス・アクション、そしてプロジェクションマッピングを取り入れた新感覚エンターテインメントでお届けします。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 鳥越裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤澤遼太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 古谷大和
+  type: cast
+- !ruby/hash:TagHash
+  name: 細貝圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 今川碧海
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口大地
+  type: cast
+- !ruby/hash:TagHash
+  name: 鯨井康介
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤澤燈
+  type: cast
+- !ruby/hash:TagHash
+  name: 輝山立
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎藤准一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：江戸川乱歩
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Jordan森杉
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：松多壱岱
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 2016年10月から放送がスタートしたアニメ『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』が舞台となって登場。アニメでは語られなかった怪人二十面相と明智の戦いを描くオリジナルストーリーを、歌・ダンス・アクション、そしてプロジェクションマッピングを取り入れた新感覚エンターテインメントでお届けします。<br><br>怪人二十面相:細貝
+    圭／小林芳雄:鳥越 裕貴／花崎健介:赤澤 燈／井上了:赤澤 遼太郎／間宮塁斗:輝山 立／大友久:古谷 大和／山根たすく:今川 碧海／勝田雅治:斎藤 准一郎／宮西琢巳:山口
+    大地／明智小五郎:鯨井 康介<br><br>原作:Jordan森杉『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』／脚本・演出:松多壱岱／振付:石岡貢二郎(K-DanceNexus)／制作:オフィスサイン／企画製作:株式会社アルテメイト<br><br>©Jordan森杉
+    / 「TRICKSTER～the STAGE～」製作委員会<br><br>次話→so36229562
+  length_seconds: 2465
+  content_id: so36229563
+  default_thread_id: 1579058201
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229563/36229563.61347717
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 2016年10月から放送がスタートしたアニメ『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』が舞台となって登場。アニメでは語られなかった怪人二十面相と明智の戦いを描くオリジナルストーリーを、歌・ダンス・アクション、そしてプロジェクションマッピングを取り入れた新感覚エンターテインメントでお届けします。<br><br>怪人二十面相:細貝
+    圭／小林芳雄:鳥越 裕貴／花崎健介:赤澤 燈／井上了:赤澤 遼太郎／間宮塁斗:輝山 立／大友久:古谷 大和／山根たすく:今川 碧海／勝田雅治:斎藤 准一郎／宮西琢巳:山口
+    大地／明智小五郎:鯨井 康介<br><br>原作:Jordan森杉『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』／脚本・演出:松多壱岱／振付:石岡貢二郎(K-DanceNexus)／制作:オフィスサイン／企画製作:株式会社アルテメイト<br><br>©Jordan森杉
+    / 「TRICKSTER～the STAGE～」製作委員会<br><br>so36229563←前話｜次話→so36229561　第一話→so36229563
+  length_seconds: 1801
+  content_id: so36229562
+  default_thread_id: 1579058175
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229562/36229562.73746206
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 2016年10月から放送がスタートしたアニメ『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』が舞台となって登場。アニメでは語られなかった怪人二十面相と明智の戦いを描くオリジナルストーリーを、歌・ダンス・アクション、そしてプロジェクションマッピングを取り入れた新感覚エンターテインメントでお届けします。<br><br>怪人二十面相:細貝
+    圭／小林芳雄:鳥越 裕貴／花崎健介:赤澤 燈／井上了:赤澤 遼太郎／間宮塁斗:輝山 立／大友久:古谷 大和／山根たすく:今川 碧海／勝田雅治:斎藤 准一郎／宮西琢巳:山口
+    大地／明智小五郎:鯨井 康介<br><br>原作:Jordan森杉『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』／脚本・演出:松多壱岱／振付:石岡貢二郎(K-DanceNexus)／制作:オフィスサイン／企画製作:株式会社アルテメイト<br><br>©Jordan森杉
+    / 「TRICKSTER～the STAGE～」製作委員会<br><br>so36229562←前話｜次話→so36229560　第一話→so36229563
+  length_seconds: 2034
+  content_id: so36229561
+  default_thread_id: 1579058185
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229561/36229561.27984441
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 2016年10月から放送がスタートしたアニメ『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』が舞台となって登場。アニメでは語られなかった怪人二十面相と明智の戦いを描くオリジナルストーリーを、歌・ダンス・アクション、そしてプロジェクションマッピングを取り入れた新感覚エンターテインメントでお届けします。<br><br>怪人二十面相:細貝
+    圭／小林芳雄:鳥越 裕貴／花崎健介:赤澤 燈／井上了:赤澤 遼太郎／間宮塁斗:輝山 立／大友久:古谷 大和／山根たすく:今川 碧海／勝田雅治:斎藤 准一郎／宮西琢巳:山口
+    大地／明智小五郎:鯨井 康介<br><br>原作:Jordan森杉『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』／脚本・演出:松多壱岱／振付:石岡貢二郎(K-DanceNexus)／制作:オフィスサイン／企画製作:株式会社アルテメイト<br><br>©Jordan森杉
+    / 「TRICKSTER～the STAGE～」製作委員会<br><br>so36229561←前話　第一話→so36229563
+  length_seconds: 3121
+  content_id: so36229560
+  default_thread_id: 1579058205
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229560/36229560.60374719
+cast: "[キャスト]<br>怪人二十面相:細貝 圭／小林芳雄:鳥越 裕貴／花崎健介:赤澤 燈／井上了:赤澤 遼太郎／間宮塁斗:輝山 立／大友久:古谷 大和／山根たすく:今川
+  碧海／勝田雅治:斎藤 准一郎／宮西琢巳:山口 大地／明智小五郎:鯨井 康介"
+staff: "[スタッフ]<br>原作:Jordan森杉『TRICKSTER-江戸川乱歩｢少年探偵団｣より-』／脚本・演出:松多壱岱／振付:石岡貢二郎(K-DanceNexus)／制作:オフィスサイン／企画製作:株式会社アルテメイト"
+produced_year: "[製作年]<br>2017年"
+copyright: "©Jordan森杉 / 「TRICKSTER～the STAGE～」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: TRICKSTER -江戸川乱歩「少年探偵団」より-

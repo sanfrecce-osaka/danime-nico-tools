@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: ぼくのとなりに暗黒破壊神がいます。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/16/9/23169_1_8_8b.png?1576642001000
+outline: 超ツッコミ気質の高校生・小雪芹は、そんな自分の気質のため、ツッコミ待ちな人間が大嫌い！！そんな彼が目をつけられたのは、外見も言動も空気も存在そのものも、全てがツッコミ待ち要素でできている最強中二高校生・花鳥兜。そんな彼には絶対に突っ込まないと誓う「芹」であったが、やはり突っ込んでしまう。そして彼の周りには、ちょっと変わった面々がどんどんと・・・。笑って笑って時々可愛い。男子高校生コメディが今始まる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村良平
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤﨑千夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 立花慎之介
+  type: cast
+- !ruby/hash:TagHash
+  name: 代永翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 増田俊樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 近藤孝行
+  type: cast
+- !ruby/hash:TagHash
+  name: 生田善子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：EMTスクエアード
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：濁川敦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中野裕紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：はらかなこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：亜樹新
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1病
+  title: "『Darlin' from hell』"
+  description: びしょ濡れの愛犬・ケルベロスを抱いて登校してくる自称・暗黒破壊神の花鳥。その姿にツッコみたい衝動に駆られる小雪には「ツッコんだら負け。これは勝負なんだ！」という謎の信念があり、どうにか無心でやり過ごそうとするがーー<br><br>小雪芹:福山潤／花鳥兜:櫻井孝宏／月宮ウツギ:木村良平／君屋ひびき:代永翼／最上君影:立花慎之介／時宗樒:鳥海浩輔／澄楚琴子:茅野愛衣／最上鈴蘭:生田善子／相津:増田俊樹／担任の先生:近藤孝行／ケルベロス:赤﨑千夏<br><br>原作:亜樹新「ぼくのとなりに暗黒破壊神がいます。」(KADOKAWA「月刊コミックジーン」)／監督:濁川敦／シリーズ構成:高橋ナツコ／キャラクターデザイン:中野裕紀／音楽:はらかなこ／アニメーション制作:EMTスクエアード<br><br>©亜樹新・KADOKAWA/ぼくはか製作委員会<br><br>次話→so36237543
+  length_seconds: 1420
+  content_id: so36206613
+  default_thread_id: 1578622683
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36206613/36206613.11881460
+- !ruby/hash:EpisodeHash
+  episode_no: 第2病
+  title: "『Eyes On Me』"
+  description: 花鳥が小雪を風紀委員の活動に誘うが、花鳥は女子に話しかけられなかったり、ゴリ男に絡まれたり、かなりのヘタレっぷり。そんな花鳥をつい殴ってツッコんでしまった小雪は反省文を書くハメになってしまいーー<br><br>小雪芹:福山潤／花鳥兜:櫻井孝宏／月宮ウツギ:木村良平／君屋ひびき:代永翼／最上君影:立花慎之介／時宗樒:鳥海浩輔／澄楚琴子:茅野愛衣／最上鈴蘭:生田善子／相津:増田俊樹／担任の先生:近藤孝行／ケルベロス:赤﨑千夏<br><br>原作:亜樹新「ぼくのとなりに暗黒破壊神がいます。」(KADOKAWA「月刊コミックジーン」)／監督:濁川敦／シリーズ構成:高橋ナツコ／キャラクターデザイン:中野裕紀／音楽:はらかなこ／アニメーション制作:EMTスクエアード<br><br>©亜樹新・KADOKAWA/ぼくはか製作委員会<br><br>so36206613←前話　第一話→so36206613
+  length_seconds: 1420
+  content_id: so36237543
+  default_thread_id: 1579225881
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237543/36237543.36881294
+cast: "[キャスト]<br>小雪芹:福山潤／花鳥兜:櫻井孝宏／月宮ウツギ:木村良平／君屋ひびき:代永翼／最上君影:立花慎之介／時宗樒:鳥海浩輔／澄楚琴子:茅野愛衣／最上鈴蘭:生田善子／相津:増田俊樹／担任の先生:近藤孝行／ケルベロス:赤﨑千夏"
+staff: "[スタッフ]<br>原作:亜樹新「ぼくのとなりに暗黒破壊神がいます。」(KADOKAWA「月刊コミックジーン」)／監督:濁川敦／シリーズ構成:高橋ナツコ／キャラクターデザイン:中野裕紀／音楽:はらかなこ／アニメーション制作:EMTスクエアード"
+produced_year: "[製作年]<br>2020年"
+copyright: "©亜樹新・KADOKAWA/ぼくはか製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

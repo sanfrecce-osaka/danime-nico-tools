@@ -1,0 +1,79 @@
+--- !ruby/hash:SeasonHash
+title: 22/7
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/16/2/23162_1_8_8b.png?1576630839000
+outline: 滝川みうに突然届いた1通の手紙。新プロジェクトのメンバーとして選ばれたという。半信半疑で手紙に書かれた場所へ行くと、そこには同様に集められた7人の少女たちが。彼女たちが目にした巨大な極秘施設。途方に暮れる中、こう告げられる。『あなた方にはアイドルユニットとしてメジャーデビューしていただきます』未だかつてない新しいアイドルが、ここに誕生する――
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 西條和
+  type: cast
+- !ruby/hash:TagHash
+  name: 天城サリー
+  type: cast
+- !ruby/hash:TagHash
+  name: 倉岡水巴
+  type: cast
+- !ruby/hash:TagHash
+  name: 帆風千春
+  type: cast
+- !ruby/hash:TagHash
+  name: 海乃るり
+  type: cast
+- !ruby/hash:TagHash
+  name: 白沢かなえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮瀬玲奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 河瀬詩
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：中山真斗
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：まじろ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：堀口悠紀子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：阿保孝雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: さよなら、私のささやかな世界
+  description: 滝川みうの元に届いた、芸能事務所「G.I.P」からの怪しげな手紙。運命に導かれるように集められたのは、みうを含め８人の少女たち。「あなた方にはアイドルユニットとしてメジャーデビューしていただきます」――合田と名乗る男に導かれ、目の前に現れたのは地下に存在する極秘施設と謎の“壁”。みうたち８人は光と闇の渦巻く運命のステージへと歩き出す……。<br><br>滝川みう:西條
+    和／藤間 桜:天城サリー／河野 都:倉岡水巴／佐藤麗華:帆風千春／戸田ジュン:海乃るり／丸山あかね:白沢かなえ／立川絢香:宮瀬玲奈／斎藤ニコル:河瀬 詩<br><br>総合プロデューサー:秋元
+    康／キャラクターデザイン原案:カントク・岸田メル・QP：flapper（小原トメ太・さくら小春）・黒星紅白・こやまひろかず（TYPE-MOON）・田中将賀・細居美恵子・堀口悠紀子・深崎暮人・渡辺明夫／キャラクター・ネーム原案:宮島礼吏／キャラクターデザイン:堀口悠紀子／監督:阿保孝雄／シリーズ構成:宮島礼吏・永井千晶／アニメーションキャラクターデザイン・総作画監督:まじろ／総作画監督:田村里美／髙田
+    晃／プロップデザイン:山本真夕子／助監督:髙橋さつき／美術監督:岡本穂高(KUSANAGI)／美術設定:綱頭瑛子(KUSANAGI)／色彩設定:中野尚美／撮影監督:村上優作／CG監督:吉田裕行（白組）・工藤菜央／編集:須藤
+    瞳／音響監督:藤田亜紀子／音楽:中山真斗／制作:A-1 Pictures／製作:ANIME 22/7<br><br>©ANIME 22/7
+  length_seconds: 1440
+  content_id: so36206614
+  default_thread_id: 1578622866
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36206614/36206614.66050286
+cast: "[キャスト]<br>滝川みう:西條 和／藤間 桜:天城サリー／河野 都:倉岡水巴／佐藤麗華:帆風千春／戸田ジュン:海乃るり／丸山あかね:白沢かなえ／立川絢香:宮瀬玲奈／斎藤ニコル:河瀬
+  詩"
+staff: "[スタッフ]<br>総合プロデューサー:秋元 康／キャラクターデザイン原案:カントク・岸田メル・QP：flapper（小原トメ太・さくら小春）・黒星紅白・こやまひろかず（TYPE-MOON）・田中将賀・細居美恵子・堀口悠紀子・深崎暮人・渡辺明夫／キャラクター・ネーム原案:宮島礼吏／キャラクターデザイン:堀口悠紀子／監督:阿保孝雄／シリーズ構成:宮島礼吏・永井千晶／アニメーションキャラクターデザイン・総作画監督:まじろ／総作画監督:田村里美／髙田
+  晃／プロップデザイン:山本真夕子／助監督:髙橋さつき／美術監督:岡本穂高(KUSANAGI)／美術設定:綱頭瑛子(KUSANAGI)／色彩設定:中野尚美／撮影監督:村上優作／CG監督:吉田裕行（白組）・工藤菜央／編集:須藤
+  瞳／音響監督:藤田亜紀子／音楽:中山真斗／制作:A-1 Pictures／製作:ANIME 22/7"
+produced_year: "[製作年]<br>2020年"
+copyright: "©ANIME 22/7"
+related_seasons: !ruby/array:Hashie::Array []

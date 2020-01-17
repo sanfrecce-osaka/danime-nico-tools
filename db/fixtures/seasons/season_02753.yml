@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: 魔術士オーフェンはぐれ旅
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/16/8/23168_1_8_8b.png?1577176207000
+outline: 大陸最高峰の魔術士養成機関《牙の塔》で暮らしていたキリランシェロは、大陸最強の魔術士・チャイルドマンの下で、彼の持つ戦闘技術と暗殺術のすべてを受け継ぎサクセサー・オブ・レザー・エッジ《鋼の後継》と称されるエリート魔術士だった。ある実験により異形の姿となって失踪した義姉・アザリーを探すため《牙の塔》を出奔したキリランシェロは過去を捨ててオーフェンと名乗り、トトカンタ市でモグリの金貸業に身をやつしていた。そこで出会ったおしかけお嬢様クリーオウ、弟子の少年マジクという新たな仲間と共にアザリーを救う旅が始まる。いっぽうアザリー討伐に向かうかつての師チャイルドマンやハーティア、コミクロン、学友たちと運命的な再会を果たすも思いは交錯し、再び袂を分かつことになる。旅はフェンリルの森を抜け、タフレムへ。そう、かつてオーフェンが修行を積んだ《牙の塔》が存在する街へとたどり着く。そこでオーフェン達を待ち受けていたのは、想像を絶する巨大な敵だった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉野裕行
+  type: cast
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林裕介
+  type: cast
+- !ruby/hash:TagHash
+  name: 大久保瑠美
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕上舞
+  type: cast
+- !ruby/hash:TagHash
+  name: 水野まりえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：ランティス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：浜名孝行
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：吉田隆彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Shinnosuke
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：秋田禎信
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 追憶の呼び声
+  description: かつてはドラゴン種族が棲息し、現在は人間種族が繁栄する地、キエサルヒマ大陸。魔術士養成機関≪牙の塔≫で暮らしていた少年・キリランシェロは、異形の姿となって失踪した義姉・アザリーを探すために旅に出る。それから五年。男はオーフェンと名乗り、モグリの金貸し業を営んでいた。ある日オーフェンは、地人種族のボルカン・ドーチンとともに、エバーラスティン家の令嬢への結婚詐欺をするはめになる。<br><br>オーフェン:森久保祥太郎／クリーオウ:大久保瑠美／マジク:小林裕介／ボルカン:水野まりえ／ドーチン:渕上
+    舞／チャイルドマン:浪川大輔／アザリー:日笠陽子／レティシャ:伊藤 静／ハーティア:坂 泰斗／コミクロン:安田陸矢／フォルテ:前野智昭／ウオール・カーレン:津田健次郎／ハイドラント:吉野裕行／スエイン:岡本信彦<br><br>原作:秋田禎信（TOブックス刊）／イラスト:草河遊也／監督:浜名孝行／シリーズ構成:吉田玲子／キャラクターデザイン:吉田隆彦／色彩設計:桂木今里／美術監督:荒井和浩／撮影監督:近藤慎与／CG監督:川谷啓介／音響監督:平光琢也／音楽:Shinnosuke／音楽制作:ランティス／編集:小野寺桂子／オープニング主題歌:「Calling
+    U」buzz★Vibes (ランティス)／エンディング主題歌:「予測不能Days」渕上 舞（ランティス）／プロデュース:GENCO／アニメーション制作:スタジオディーン<br><br>©秋田禎信・草河遊也・TOブックス／魔術士オーフェンはぐれ旅製作委員会
+  length_seconds: 1420
+  content_id: so36141999
+  default_thread_id: 1577411348
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36141999/36141999.84530718
+cast: "[キャスト]<br>オーフェン:森久保祥太郎／クリーオウ:大久保瑠美／マジク:小林裕介／ボルカン:水野まりえ／ドーチン:渕上 舞／チャイルドマン:浪川大輔／アザリー:日笠陽子／レティシャ:伊藤
+  静／ハーティア:坂 泰斗／コミクロン:安田陸矢／フォルテ:前野智昭／ウオール・カーレン:津田健次郎／ハイドラント:吉野裕行／スエイン:岡本信彦"
+staff: "[スタッフ]<br>原作:秋田禎信（TOブックス刊）／イラスト:草河遊也／監督:浜名孝行／シリーズ構成:吉田玲子／キャラクターデザイン:吉田隆彦／色彩設計:桂木今里／美術監督:荒井和浩／撮影監督:近藤慎与／CG監督:川谷啓介／音響監督:平光琢也／音楽:Shinnosuke／音楽制作:ランティス／編集:小野寺桂子／オープニング主題歌:「Calling
+  U」buzz★Vibes (ランティス)／エンディング主題歌:「予測不能Days」渕上 舞（ランティス）／プロデュース:GENCO／アニメーション制作:スタジオディーン"
+produced_year: "[製作年]<br>2019年"
+copyright: "©秋田禎信・草河遊也・TOブックス／魔術士オーフェンはぐれ旅製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,58 @@
+--- !ruby/hash:SeasonHash
+title: ARP Backstage Pass
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/17/4/23174_1_8_8b.png?1576544413000
+outline: 次世代ARダンス＆ボーカルグループ「ARP」が待望のドキュメンタリーアニメ化！avexからデビューし横浜を拠点にライブを重ね、着実な人気を獲得してきた彼らは、アーティスト養成校として名高いISM横浜校の生徒でもある。そこに集った4人のメンバー、生粋のエリートでありながら音楽に対する葛藤を抱くシンジ、幼いころから共に施設で育ちアウトロー精神で音楽とともに戦ってきたレベルクロス
+  ダイヤ・レイジ、４オクターブの美声と圧倒的なダンスとルックスで周囲から孤立しながらも音楽を心から愛するレオン。彼らが出会うまでと、デビューしてからこれまでの日々のあらゆる喜びも苦しみも、日常もライブの舞台裏まで！個人ごとに掘り下げながら描き出す。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 駒田航
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：えんどうてつや
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：内田明理
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：アスミック・エース
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ダイナモピクチャーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: The Show Must Go On
+  description: 現在avexからデビューを飾り、横浜を中心にライブやメディアなどで活動するARダンスボーカルグループ、「ARP」。アーティスト養成校として名高いISM横浜校に通うシンジ、横浜のライブハウスを中心にWボーカルバンドを組むダイヤ、レイジ、そして自由に歌い踊ることを夢見て神戸から上京したレオン―これはまだ出会う前の彼らの始まりの話。<br><br>シンジ:シンジ／ダイヤ:ダイヤ／レイジ:レイジ／レオン:レオン／理事長:井上和彦／松本晴臣:駒田航／叶永嗣:浪川大輔／秘書:江口拓也<br><br>原作・プロデュース:内田明理（株式会社ユークス）／監督:えんどうてつや／シリーズ構成:友永コリエ／脚本:浅川美也／制作:アスミック・エース、ダイナモピクチャーズ<br><br>©ARPAP
+  length_seconds: 1420
+  content_id: so36206611
+  default_thread_id: 1578622989
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36206611/36206611.69766295
+cast: "[キャスト]<br>シンジ:シンジ／ダイヤ:ダイヤ／レイジ:レイジ／レオン:レオン／理事長:井上和彦／松本晴臣:駒田航／叶永嗣:浪川大輔／秘書:江口拓也"
+staff: "[スタッフ]<br>原作・プロデュース:内田明理（株式会社ユークス）／監督:えんどうてつや／シリーズ構成:友永コリエ／脚本:浅川美也／制作:アスミック・エース、ダイナモピクチャーズ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ARPAP"
+related_seasons: !ruby/array:Hashie::Array []
