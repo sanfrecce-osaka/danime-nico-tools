@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 関智一
+  name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 小西克幸
+  name: 関智一
   type: cast
 - !ruby/hash:TagHash
   name: 前野智昭
