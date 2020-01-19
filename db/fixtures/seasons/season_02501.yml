@@ -47,13 +47,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：ポニーキャニオン
   type: staff
 - !ruby/hash:TagHash
+  name: 監督：ヤマサキオサム
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：堤博明
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：西田亜沙子
-  type: staff
-- !ruby/hash:TagHash
-  name: 監督：ヤマサキオサム
   type: staff
 - !ruby/hash:TagHash
   name: 音楽：木村秀彬

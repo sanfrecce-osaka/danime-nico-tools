@@ -23,13 +23,13 @@ tags: !ruby/array:Hashie::Array
   name: 早見沙織
   type: cast
 - !ruby/hash:TagHash
-  name: 関智一
+  name: 三木眞一郎
   type: cast
 - !ruby/hash:TagHash
   name: 川澄綾子
   type: cast
 - !ruby/hash:TagHash
-  name: 三木眞一郎
+  name: 関智一
   type: cast
 - !ruby/hash:TagHash
   name: 小林ゆう
