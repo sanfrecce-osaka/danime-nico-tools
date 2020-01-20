@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀川りょう
   type: cast
 - !ruby/hash:TagHash
-  name: 坪井智浩
+  name: 竹内良太
   type: cast
 - !ruby/hash:TagHash
-  name: 竹内良太
+  name: 坪井智浩
   type: cast
 - !ruby/hash:TagHash
   name: 梶原岳人

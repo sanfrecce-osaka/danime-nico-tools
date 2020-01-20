@@ -59,6 +59,9 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：Funta7
   type: staff
 - !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤晋之
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：孫承希
   type: staff
 - !ruby/hash:TagHash
@@ -81,12 +84,25 @@ episodes: !ruby/array:Hashie::Array
     ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
     優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
     Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
-    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>次話→so36237546
   length_seconds: 1420
   content_id: so36202938
   default_thread_id: 1578550145
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36202938/36202938.72982672
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: エールアンドレスポンス
+  description: 寝るためのテントを公園に張ってガチ怒られのほわんに、ヒメコが傘を差しだして……<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36202938←前話　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36237546
+  default_thread_id: 1579225877
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237546/36237546.16501364
 cast: "[キャスト]<br>ほわん:遠野 ひかる／マシマヒメコ:夏吉 ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
   優／ういうい:鈴木みのり"
 staff: "[スタッフ]<br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
