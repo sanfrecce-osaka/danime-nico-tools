@@ -43,10 +43,10 @@ tags: !ruby/array:Hashie::Array
   name: 篠原侑
   type: cast
 - !ruby/hash:TagHash
-  name: 前田佳織里
+  name: 小原莉子
   type: cast
 - !ruby/hash:TagHash
-  name: 小原莉子
+  name: 前田佳織里
   type: cast
 - !ruby/hash:TagHash
   name: ファイルーズあい
