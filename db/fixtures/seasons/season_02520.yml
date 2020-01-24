@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 平川大輔
   type: cast
 - !ruby/hash:TagHash
-  name: 加隈亜衣
+  name: 原由実
   type: cast
 - !ruby/hash:TagHash
-  name: 原由実
+  name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
   name: 種﨑敦美

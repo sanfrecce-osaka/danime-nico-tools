@@ -1,0 +1,282 @@
+--- !ruby/hash:SeasonHash
+title: スティーブン・ユニバース
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/09/5/23095_1_8_8b.png?1575507641000
+outline: 人類を守るマジカル・チーム『クリスタル・ジェムズ』の一員スティーブン。彼はまだチームの中では見習いの身で皆の弟分的存在。強力な力をもつ姉たちのバックアップのもと世界を救う！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: お腹の宝石／レーザー砲
+  description: "＜お腹の宝石＞大好物のアイスサンド、クッキーキャットを食べると、スティーブンのお腹の宝石が光を放ち始めた。彼が、宝石のパワーを使いこなしたい一心で食べ続けると…。／＜レーザー砲＞大きな目玉レッド・アイが、ビーチ・シティ目がけて宇宙から飛んでくる。ガーネット達は衝突を阻止しようとするがうまくいかない。唯一破壊できるという母ローズのレーザー砲を求め、スティーブンは父グレッグの元へと向かう。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>次話→so36237621"
+  length_seconds: 1408
+  content_id: so36237619
+  default_thread_id: 1579227785
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237619/36237619.57357221
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: チーズバーガーリュック／朝ごはんは一緒に
+  description: "＜チーズバーガーリュック＞チーズバーガーの形ををしたリュックサックを買ってゴキゲンのスティーブン。ジェムズに同行を許された彼は、リュックに荷物を一杯に詰め込んで月の海の塔へ出発するが…。／＜朝ごはんは一緒に＞みんなで一緒に朝ごはんを食べたいと思ったスティーブンは、特製ワッフルを作るが、ジェムズは一向に集まらない。待ちきれなくなった彼は、朝ごはんを手に、みんなの元へと向かうが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237619←前話｜次話→so36237622　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237621
+  default_thread_id: 1579227812
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237621/36237621.44181677
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: フライボー／ネコの指
+  description: "＜フライボー＞スティーブンが行方不明のジーパンを探しているとパールがやって来て、危険な宝石の欠片を探しているという。動き回るジーパンの中から欠片を見つけた彼が、彼女を追って町へ向かうと…。／＜ネコの指＞スティーブンはアメジストが色々な生き物に変身出来るのを羨ましく思い、そのコツを教わる。すると指1本をネコの頭にすることに成功。うれしくなった彼は町へ行きみんなに見せ、もっと変身させようとし…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237621←前話｜次話→so36237623　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237622
+  default_thread_id: 1579227808
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237622/36237622.86867844
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: 泡の中でふたりきり／本気のスティーブン
+  description: "＜泡の中でふたりきり＞スティーブンが、海岸で読書をしている少女コニーに話かけようとすると、激しい揺れが起こり岩が落下。彼の宝石パワーが働き、魔法の泡に包まれて助かるが、出れなくなり…。／＜本気のスティーブン＞ジェムズの重要な仕事に初めて同行を許されたスティーブンは、大張り切りで太古の神殿に乗り込む。だが、彼が触れてはいけない物に触れてしまったため、一同は迷路の中へ閉じ込められてしまう…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237622←前話｜次話→so36237624　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237623
+  default_thread_id: 1579227791
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237623/36237623.39540813
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: リッチマン・タイガー／親友はライオン
+  description: "＜リッチマン・タイガー＞ある晩スティーブンは、アメジストが無敵のレスラーに変身してリングで戦うのを目撃する。ガーネット達に小言ばかり言われている２人は意気投合し、タッグを組んで試合に出ることに…。／＜親友はライオン＞ジェムズが砂漠に出向いた時、スティーブンはピンク色の大きなライオンと知り合う。名残惜しく帰宅した彼を、ライオンが訪ねて来た。喜んだスティーブンだったが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237623←前話｜次話→so36237638　第一話→so36237619"
+  length_seconds: 1406
+  content_id: so36237624
+  default_thread_id: 1579227804
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237624/36237624.21722399
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: ゲームに夢中！／ジャイアント・ウーマン
+  description: "＜ゲームに夢中！＞洞窟の怪物を退治したご褒美に、スティーブンはジェムズをゲームセンターに招待する。勝手の分からないガーネットがゲーム機を壊してしまい、慌てて退散するスティーブン達だったが…。／＜ジャイアント・ウーマン＞パールとアメジストが合体するとオパールという大きなジェムになると知り、スティーブンは興味深々。そんな中ガーネットから指令が出たスティーブン達は、空の塔へと向かう…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237624←前話｜次話→so36237675　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237638
+  default_thread_id: 1579228264
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237638/36237638.89102187
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: 最高のバースデーパーティ／ラースとクールな仲間たち
+  description: "＜最高のバースデーパーティ＞長い間生きているジェムズはバースデーパーティの習慣が無く、スティーブンは彼女達のためにパーティを開く。しかし喜んでもらえずがっかり。すると彼の気持ちに合わせて体が変化し始め…。／＜ラースとクールな仲間たち＞ラースはスティーブンのおかげでイケてる町の三人組と友達になり、みんなでドライブすることに。出かけた先は、危険な苔があり、ジェムズが立ち入り禁止にした場所だった…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237638←前話｜次話→so36237676　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237675
+  default_thread_id: 1579229465
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237675/36237675.35541035
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: レンジャーが欲しい！／戻って来て、パール！
+  description: "＜レンジャーが欲しい！＞大事なレンジャーのフィギュアをなくしたスティーブン。新品を買おうとするが、自販機から出てくるのは冴えないデイブばかり。オニオンがレンジャーを持っているのを知り交換を持ちかけるが…。／＜戻って来て、パール！＞サムライ映画に夢中のスティーブンに頼まれたパールは、自分そっくりのホログラム相手に剣の試合を行う。だが油断しホログラムに刺され、体が消えて一粒のパールになってしまう…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237675←前話｜次話→so36237614　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237676
+  default_thread_id: 1579229225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237676/36237676.48814892
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: スティーブンは名コーチ！／映画を観に行こう
+  description: "＜スティーブンは名コーチ！＞電磁波ノイズを出す通信センターを破壊するため、ガーネットとアメジストが合体してスギライトという巨大なジェムに。スティーブンは自分も強くなりたいと願い、マシンでトレーニングを始めるが…。／＜映画を観に行こう＞コニーお気に入りの映画を一緒に見に行くことになったスティーブン。2人はライオンに乗って映画館へ出発するが、ライオンはワームホールを通り2人を魔法の洞穴へ連れて行く…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237676←前話｜次話→so36237613　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237614
+  default_thread_id: 1579227783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237614/36237614.40280095
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: ローズの部屋／ビーチでパーティ
+  description: "＜ローズの部屋＞思い通りにならない事が続いてジェムズに腹を立てたスティーブンは、一人になれる場所が欲しいと口走る。するとお腹のジェムが反応し、母ローズの部屋のドアが開く。制止する３人を振り切り部屋の中に入ると…。／＜ビーチでパーティ＞戦いの最中吹き飛ばされたガーネットが、ピザ店に落下し看板を壊してしまう。店主は激怒するが、ジェムズは全く気にしない。スティーブンは関係修復の為パーティを企画するが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237614←前話｜次話→so36237602　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237613
+  default_thread_id: 1579227816
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237613/36237613.29609231
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: バンドやろうぜ／怪物なんかじゃない
+  description: "＜バンドやろうぜ＞任務で訪れた海の神殿で、小さな砂時計を手に入れたスティーブン。これで過去と未来を行き来できることが分かり、自分を集めてバンドを組もうとするが…。／＜怪物なんかじゃない＞危険な洞窟から逃がすため、ガーネットはスティーブンを神殿へ送る。そこにはバブルに閉じ込められた怪物たちが収容されていて、スティーブンは誤ってその中の１つからセンチピートルを出してしまい…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237613←前話｜次話→so36237603　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237602
+  default_thread_id: 1579227818
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237602/36237602.88844172
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: 癒しのパワー／炎のドーナツ
+  description: "＜癒しのパワー＞崖から落ちてジェムにひびが入ったアメジストは、片目に異常が現れ、言葉もおかしくなる。ジェムズは彼女をローズの癒しの噴水に連れて行き、治そうとするが、噴水は枯れていて…。／＜炎のドーナツ＞スティーブンがこぼした飲み物で滑ったラースは、腰を痛めたとウソをつき早退。スティーブンがセイディを手伝う事に。が、ラースが遊んでいたのを知ったセイディは激怒し、仕返しをしようとする…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237602←前話｜次話→so36237604　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237603
+  default_thread_id: 1579227787
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237603/36237603.27269644
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: 魔法の鏡／海を取り戻せ
+  description: "＜魔法の鏡＞“学校”を知らなかったスティーブンが魔法の鏡で勉強をしようとする。鏡が人間のような反応を示すのが気に入ったスティーブンが、それを持って町に繰り出すと…。／＜海を取り戻せ＞魔法の鏡からラピスというジェムを救い出したスティーブンだったが、海が消えるという大事件が起こる。ビーチシティの大ピンチにスティーブンは、グレッグ、コニー、ライオン、ジェムズ３人と共に、海を取り戻しに出かけるのだが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237603←前話｜次話→so36237605　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237604
+  default_thread_id: 1579227798
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237604/36237604.62122055
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: パパと一緒／宇宙を目指せ
+  description: "＜パパと一緒＞ラピス・ラズリを巡る冒険で足を負傷し車も壊してしまったグレッグは、ジェムズの家に居候することに。スティーブンは、癒しのパワーでグレッグのケガを治そうとするが、うまくいかず…。／＜宇宙を目指せ＞かつてジェムズが宇宙へ行く時に使用していた転送装置は、何千年も前から壊れたままだった。宇宙へ行きたがっているパールの為に、スティーブンは宇宙船を作ることを思いつく。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237604←前話｜次話→so36237606　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237605
+  default_thread_id: 1579227800
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237605/36237605.51372832
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: こっそりチーム／島でサバイバル
+  description: "＜こっそりチーム＞パールとアメジストは、パールが密かに持ち出したローズ作のバブルを割ってしまった。封じ込められていたジェムの欠片は、巨大な手に姿を変えて、神殿のあちこちへ逃げてしまい…。／＜島でサバイバル＞ある島から帰還した際、転送技術を褒められたスティーブンは、セイディとラースを誘って再び訪れる。しかし、転送装置が消えるハプニングが起こり、3人は孤島に取り残されてしまう…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237605←前話｜次話→so36237607　第一話→so36237619"
+  length_seconds: 1406
+  content_id: so36237606
+  default_thread_id: 1579227822
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237606/36237606.36835442
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: ビーチ・シティの不思議／みんなでお食事会
+  description: "＜ビーチ・シティの不思議＞町の超常現象を探し求め、ブログに記事を載せているロナルドは、弟子入りを志願したスティーブンと調査に出る。スネークマンの存在を信じる彼は幾つもの不思議な現象を発見するが…。／＜みんなでお食事会＞コニーの親に自分の両親を引き合わせなければならなくなったスティーブンは、ジェムズに合体を懇願。巨大なアレクサンドライトとなり、グレッグと一緒に約束のレストランに行くが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237606←前話｜次話→so36237608　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237607
+  default_thread_id: 1579227820
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237607/36237607.70496841
+- !ruby/hash:EpisodeHash
+  episode_no: "#17"
+  title: ガーネットの1日／スイカのスティーブン
+  description: "＜ガーネットの１日＞帰宅したガーネットに、どんな１日を過ごしたかと尋ねたスティーブンは、自分が思うところのガーネットの活躍を話して聞かせる。スティーブンの空想の世界でガーネットは…。／＜スイカのスティーブン＞父子でスイカの種飛ばし競争を楽しんだスティーブンが翌朝目覚めると、彼にそっくりなスイカが辺り一面になっていた。スティーブンがスイカの販売を始めると…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237607←前話｜次話→so36237609　第一話→so36237619"
+  length_seconds: 1406
+  content_id: so36237608
+  default_thread_id: 1579227824
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237608/36237608.15549066
+- !ruby/hash:EpisodeHash
+  episode_no: "#18"
+  title: ビデオレター／宇宙からの来訪者
+  description: "＜ビデオレター＞セイディの母親が彼女のために用意したランチをもらったスティーブンは、母ローズの事を知りたいと独り言。それを聞いていたライオンが、スティーブンを自分のたてがみの中へと誘い…。／＜宇宙からの来訪者＞くしゃみをした反動で転送装置の外に顔を出したスティーブンは、別の装置で移動する物体を目撃。しかしジェムズは、その話をまともに取り合ってくれない。そこで、スティーブンは…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237608←前話｜次話→so36237610　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237609
+  default_thread_id: 1579227814
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237609/36237609.35522835
+- !ruby/hash:EpisodeHash
+  episode_no: "#19"
+  title: ふたりでひとり／テスト
+  description: "＜ふたりでひとり＞スティーブンはジェムズに合体の手ほどきを受けるが、うまくいかない。コニーにその話をした後、人前で踊るのが苦手だという彼女と海岸でダンスをする。すると、息が合った瞬間２人の体は…。／＜テスト＞戸棚の中に月の女神の像を見つけたスティーブンは、それを忘れたせいで月の塔を崩壊させてしまった事を思い出し、ジェムズに謝る。彼を慰めるパールは、任務の秘密について思わず口をすべらせ…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237609←前話｜次話→so36237611　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237610
+  default_thread_id: 1579227796
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237610/36237610.11653291
+- !ruby/hash:EpisodeHash
+  episode_no: "#20"
+  title: 僕の未来／旅に出よう
+  description: "＜僕の未来＞ガーネットに予知能力があることを知ったスティーブン。その証拠を見せられているうちに先に待ち受ける危険を恐れるあまり何もできなくなってしまったスティーブンは、嵐の夜パニックを起こし…。／＜旅に出よう＞クリスタルジェムズが地球にいる理由を初めて聞いたスティーブンは、その話と愛読書の主人公たちを重ね合わせ、アメジストと旅に出る。アメジストは自分の生まれ故郷にスティーブンを連れて行き…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237610←前話｜次話→so36237612　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237611
+  default_thread_id: 1579227802
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237611/36237611.9360937
+- !ruby/hash:EpisodeHash
+  episode_no: "#21"
+  title: ホラークラブへようこそ／吹雪の夜に
+  description: "＜ホラークラブへようこそ＞ある晩、スティーブンはロナルド主催のホラー映画パーティーにセイディとラースを連れて行く。会場はロナルドの研究室でもある灯台だったが、映画の上映中にポルタ―ガイスト現象が起こり…。／＜吹雪の夜に＞スティーブンの家に遊びに来ていたコニ―は、母親から電話で帰宅を命じられる。どうやら吹雪になるらしいのだ。ガーネットはスティーブンに正しい判断をしろと忠告するが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237611←前話｜次話→so36237677　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237612
+  default_thread_id: 1579227810
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237612/36237612.44769600
+- !ruby/hash:EpisodeHash
+  episode_no: "#22"
+  title: パパの倉庫／ペリドットの使い魔
+  description: "＜パパの倉庫＞大晦日の前日、倉庫を整理しようと決意したグレッグ。スティーブンとアメジストの助けを借りて荷物の分別を始めるが、懐かしいＴＶシリーズのビデオが出てくると、それを見るのに夢中になってしまい…。／＜ペリドットの使い魔＞ペリドットのロボノイドらしき物体が次々と現れるようになった。ジェムズは訳も分からず破壊し続けていたが、スティーブンはロボノイドの目的を知るために後をつけてみようと提案し…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237612←前話｜次話→so36237538　第一話→so36237619"
+  length_seconds: 1409
+  content_id: so36237677
+  default_thread_id: 1579229464
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237677/36237677.10953848
+- !ruby/hash:EpisodeHash
+  episode_no: "#23"
+  title: ローズの剣／本当の気持ち
+  description: "＜ローズの剣＞武器を回収するため大昔の戦場を訪れたクリスタルジェムズ。スティーブンのライオンはそこでローズの剣の鞘を発見する。帰宅後パールはローズの秘密の武器庫へスティーブンを連れて行くが…。／＜本当の気持ち＞スティーブンはコニ―が大絶賛する小説を借りて読み始める。最終巻を読み終えたスティーブンは、物語の結末に対し不満を抱くコニ―をローズの部屋に連れて行き、新しいストーリーを作ろうとするが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237677←前話｜次話→so36237537　第一話→so36237619"
+  length_seconds: 1408
+  content_id: so36237538
+  default_thread_id: 1579225871
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237538/36237538.32622745
+- !ruby/hash:EpisodeHash
+  episode_no: "#24"
+  title: Ｔシャツを作ろう／パパの青春
+  description: "＜Ｔシャツを作ろう＞グレッグのギター教室を宣伝するため、スティーブンはチラシを作成する。それに目をとめたバックは、そのデザインでＴシャツを作ろうと提案。Ｔシャツバズーカーで完成品をみんなに配ると大人気になったが…。／＜パパの青春＞若き日のグレッグと彼のマネージャーだったマーティーの写真を見つけたスティーブン。グレッグは今まで話していなかった、ローズやジェムズとの運命的な出会いや、マーティーとのコンサートツアーについて、スティーブンに聞かせる。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237538←前話｜次話→so36237536　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237537
+  default_thread_id: 1579225883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237537/36237537.90848767
+- !ruby/hash:EpisodeHash
+  episode_no: "#25"
+  title: メッセージ／動かす力
+  description: "＜メッセージ＞かつてジェムズがメッセージのやりとりに使っていた鐘が大音響を発する。パールたちは音を止めようとするが、うまくいかない。オーディオに詳しいグレッグもどうにも出来ず落ち込むが、スティーブンがある事に気づき…。／＜動かす力＞ジェムズはペリドットの到着に備え、ロボノイドを撃退するための装置をテストするが、実験は失敗。ビーチシティの街中を停電させてしまう。スティーブンは、街の人々を安心させるため説明に回るデューイ市長に同行するが…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237537←前話｜次話→so36237535　第一話→so36237619"
+  length_seconds: 1407
+  content_id: so36237536
+  default_thread_id: 1579225863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237536/36237536.8819856
+- !ruby/hash:EpisodeHash
+  episode_no: "#26"
+  title: 来訪者ふたたび／脱獄／話せない理由
+  description: "＜来訪者ふたたび＞ラピスの言葉通り宇宙船がビーチシティの上空に現れる。市長は街をあげての避難を決行。スティーブンはジェムズと一緒に残るつもりだったが、人々を守れとガーネットに命じられ、グレッグと共に出発するが…。／＜脱獄＞宇宙船の中で意識を取り戻したスティーブンは牢から脱出。同じように捕えられていたルビーを外へと出してあげる。仲間を捜索中スティーブンは、監禁されているラピスを見つけるが、彼女は自由の身になる事を拒み…。／＜話せない理由＞グレッグは、ジャスパー達との戦いでスティーブンが危険な目にあったと聞いてとても動揺する。そんな様子を見て、心配するコニーの留守電に答えるのをためらうスティーブン。しかしコニーからは何度も電話が入り…。<br><br>TM
+    &amp; © 2020 Cartoon Network<br><br>so36237536←前話　第一話→so36237619"
+  length_seconds: 2111
+  content_id: so36237535
+  default_thread_id: 1579226103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237535/36237535.86588738
+produced_year: "[製作年]<br>2013年"
+copyright: TM & © 2020 Cartoon Network
+related_seasons: !ruby/array:Hashie::Array []
