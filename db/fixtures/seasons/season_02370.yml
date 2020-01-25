@@ -44,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤元
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：トムス・エンタテインメント
+  name: 音楽：加藤達也
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：加藤達也
+  name: アニメーション制作：トムス・エンタテインメント
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：岩佐裕子

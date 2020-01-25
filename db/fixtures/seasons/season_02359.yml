@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
+  name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
-  name: 津田健次郎
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
   name: 日野聡
