@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/91/9/21919_1_6.png?1512979205000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/91/9/21919_1_8_8b.png?1551354347000
 outline: 古代に海中に住み、絶滅したと考えられていたドラゴノザウルスが突然、東京を襲った。タンカーや石油タンクを食べてますます巨大化していく。政府は日本中のロボットを集め、強大なロボット軍団を組織して大海獣を迎え撃とうと考えた。その要請にグレンイザー、ゲッターロボG、グレートマジンガー、そして、ボスボロット、ダイアナA、ビーナスAなどが次々と集まった。だが、大海獣はロボットたちの一斉攻撃をあびてもトカゲのように再生し、また襲ってくるのだった…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: アクション/バトル
   type: genre
 - !ruby/hash:TagHash
-  name: 富山敬
+  name: 神谷明
   type: cast
 - !ruby/hash:TagHash
-  name: 神谷明
+  name: 富山敬
   type: cast
 - !ruby/hash:TagHash
   name: 富田耕生
@@ -44,13 +44,13 @@ tags: !ruby/array:Hashie::Array
   name: 原作：石川賢
   type: staff
 - !ruby/hash:TagHash
-  name: 劇場公開作品
-  type: other
-- !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1976年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -68,14 +68,14 @@ produced_year: "[製作年]<br>1976年"
 copyright: "©ダイナミック企画・東映アニメーション"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+  title: マジンガーＺ対デビルマン
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対暗黒大将軍
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボ
 - !ruby/hash:SeasonHash
   title: グレートマジンガー対ゲッターロボＧ　空中大激突
 - !ruby/hash:SeasonHash
   title: 宇宙円盤大戦争
 - !ruby/hash:SeasonHash
-  title: グレートマジンガー対ゲッターロボ
-- !ruby/hash:SeasonHash
-  title: マジンガーＺ対暗黒大将軍
-- !ruby/hash:SeasonHash
-  title: マジンガーＺ対デビルマン
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー

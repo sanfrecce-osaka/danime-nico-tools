@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: グレートマジンガー対ゲッターロボＧ　空中大激突
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/1/21921_1_6.png?1512981005000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/1/21921_1_8_8b.png?1551350774000
 outline: 突如現れた謎の宇宙船の攻撃を受け、リョウ・ムサシ・ハヤトの3人はただちに合体し反撃するが早乙女研究所は損壊。ベアー号とムサシを失ってしまった。早乙女博士は涙にくれるリョウとハヤトに新しいゲッターロボGを与える。一方、羽田空港に着陸した宇宙船は、周囲を手当たり次第に破壊、さらに光波獣・ピグドロンに対し出撃を命じていた。修理を終え、ピグドロンを倒すべく出撃したグレートマジンガーだが、ピグドロンの光の矢攻撃を受けて鉄也が負傷してしまう。駆けつけた新ゲッターロボGは鉄也を助け出すと、宇宙船に立ち向かった。そしてようやくグレートマジンガーの新しい武器・グレートブースターも完成。ゲッターロボGとグレートマジンガーの反撃が開始された。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -44,13 +44,13 @@ tags: !ruby/array:Hashie::Array
   name: 原作：石川賢
   type: staff
 - !ruby/hash:TagHash
-  name: 劇場公開作品
-  type: other
-- !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1975年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -68,14 +68,14 @@ produced_year: "[製作年]<br>1975年"
 copyright: "©ダイナミック企画・東映アニメーション"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
-- !ruby/hash:SeasonHash
-  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
-- !ruby/hash:SeasonHash
-  title: 宇宙円盤大戦争
-- !ruby/hash:SeasonHash
-  title: グレートマジンガー対ゲッターロボ
+  title: マジンガーＺ対デビルマン
 - !ruby/hash:SeasonHash
   title: マジンガーＺ対暗黒大将軍
 - !ruby/hash:SeasonHash
-  title: マジンガーＺ対デビルマン
+  title: グレートマジンガー対ゲッターロボ
+- !ruby/hash:SeasonHash
+  title: 宇宙円盤大戦争
+- !ruby/hash:SeasonHash
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+- !ruby/hash:SeasonHash
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣

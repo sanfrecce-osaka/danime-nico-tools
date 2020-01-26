@@ -44,6 +44,9 @@ tags: !ruby/array:Hashie::Array
   name: 原作：若木民喜
   type: staff
 - !ruby/hash:TagHash
+  name: 神のみぞ知るセカイシリーズ
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
