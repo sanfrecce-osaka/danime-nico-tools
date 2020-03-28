@@ -25,7 +25,7 @@ class DBDataTask
       logger.debug('selecting seasons now...')
       updated_season_titles = YAMLFile.open(FixtureDataTask::RENAMED_SEASON_LIST_PATH)
       target_seasons = Season.where(watchable: false).where.not(title: updated_season_titles)
-      target_seasons.each { |season| create_or_update_data(season.to_h) }
+      target_seasons.map(&:to_h).each(&create_or_update_data_on_specific_update)
     end
 
     def update_to_not_watchable
@@ -39,7 +39,7 @@ class DBDataTask
       initialize_dir(FixtureDataTask::SEASONS_DIR)
       logger.debug('selecting seasons now...')
       target_seasons = Season.where('title LIKE ?', "%#{target_string}%")
-      target_seasons.each { |season| create_or_update_season(season.to_h) }
+      target_seasons.map(&:to_h).each(&create_or_update_data_on_specific_update)
     end
 
     private
@@ -55,6 +55,22 @@ class DBDataTask
       target_season = create_or_update_season(fixture_season)
       create_or_update_episodes(fixture_season, belongs_to_season: target_season)
       finish_log(fixture_season.title)
+    end
+
+    # 下記の理由でrakeタスクがコケるため、一時しのぎで作成したメソッド
+    # 1. 'パタリロ！　スターダスト計画' が本店には存在するがニコニコ支店には存在しない
+    # 2. ニコニコ支店に '舞台「パタリロ！」★スターダスト計画★' があるため、APIの結果が0件にならない
+    def create_or_update_data_on_specific_update
+      -> (fixture_season) do
+        create_or_update_data(fixture_season)
+      rescue StandardError => e
+        if fixture_season.title == 'パタリロ！　スターダスト計画'
+          logger.warn("【WARN】#{fixture_season.title} exists on head store, but doesn't exist on nico branch store")
+          finish_log(fixture_season.title)
+          next
+        end
+        raise e
+      end
     end
 
     def create_or_update_season(fixture_season)

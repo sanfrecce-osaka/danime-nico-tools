@@ -26,7 +26,7 @@ class FixtureDataTask
             .already_created
             .reject(&:watchable)
             .reject { |season| updated_season_titles.include?(season.title) }
-      target_seasons.each { |target_season| create_season(target_season) }
+      target_seasons.each(&create_season_on_specific_update)
     end
 
     def create_season_list(target_path = FixtureDataTask::SEASON_LIST_PATH)
@@ -58,7 +58,7 @@ class FixtureDataTask
       logger.debug('selecting seasons now...')
       target_seasons =
         SeasonHash.already_created.select { |season| season.title =~ %r(#{Regexp.escape(target_string)}) }
-      target_seasons.each { |target_season| create_season(target_season) }
+      target_seasons.each(&create_season_on_specific_update)
     end
 
     def update_on_air_seasons
@@ -111,6 +111,22 @@ class FixtureDataTask
       target_path = path ? path : new_season_path
       YAMLFile.write(target_path, season)
       finish_log(season.title)
+    end
+
+    # 下記の理由でrakeタスクがコケるため、一時しのぎで作成したメソッド
+    # 1. 'パタリロ！　スターダスト計画' が本店には存在するがニコニコ支店には存在しない
+    # 2. ニコニコ支店に '舞台「パタリロ！」★スターダスト計画★' があるため、APIの結果が0件にならない
+    def create_season_on_specific_update
+      -> (season) do
+        create_season(season)
+      rescue StandardError => e
+        if season.title == 'パタリロ！　スターダスト計画'
+          logger.warn("【WARN】#{season.title} exists on head store, but doesn't exist on nico branch store")
+          finish_log(season.title)
+          next
+        end
+        raise e
+      end
     end
 
     def new_season_path
