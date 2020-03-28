@@ -1,0 +1,100 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版『科学忍者隊ガッチャマン』
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/89/4/10894_1_8_8b.png?1580452729000
+outline: 宇宙の彼方から地球へと飛来した謎の侵略者“総裁X”は、その脅威の力によって特殊なミュータントである忠実な僕“ベルクカッツェ”を誕生させる。そしてカッツェを首領として秘密結社ギャラクターを組織し、地球征服作戦を開始した。一方、国際科学技術庁の南部博士はギャラクターに対抗するため、密かに編成していた少年少女による特殊部隊“科学忍者隊”を招集。大鷲の健、コンドルのジョー、白鳥のジュン、燕の甚平、みみずくの竜ら五人のメンバーは南部博士の指令のもと、大型戦闘偵察機“ゴッドフェニックス”に乗り込み出動する。超越した悪魔のような科学力を用い、巨大な鉄獣メカを操って世界の平和を脅かすギャラクター。人類を破滅へと導く“V2計画”、そして“ブラックホール作戦”とは如何なる計略か?
+  地球の命運を賭け、科学忍者隊とギャラクターの戦いの火蓋が切って落とされた。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 森功至
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩屋翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 大平透
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉山佳寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 兼本新吾
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中信夫
+  type: cast
+- !ruby/hash:TagHash
+  name: ささきいさお
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島幹夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：鳥海永行
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：吉田竜夫
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：九里一平
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉田竜夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：すぎやまこういち
+  type: staff
+- !ruby/hash:TagHash
+  name: 科学忍者隊ガッチャマンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1978年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 宇宙の彼方から地球へと飛来した謎の侵略者“総裁X”は、その脅威の力によって特殊なミュータントである忠実な僕“ベルクカッツェ”を誕生させる。そしてカッツェを首領として秘密結社ギャラクターを組織し、地球征服作戦を開始した。一方、国際科学技術庁の南部博士はギャラクターに対抗するため、密かに編成していた少年少女による特殊部隊“科学忍者隊”を招集。大鷲の健、コンドルのジョー、白鳥のジュン、燕の甚平、みみずくの竜ら五人のメンバーは南部博士の指令のもと、大型戦闘偵察機“ゴッドフェニックス”に乗り込み出動する。超越した悪魔のような科学力を用い、巨大な鉄獣メカを操って世界の平和を脅かすギャラクター。人類を破滅へと導く“V2計画”、そして“ブラックホール作戦”とは如何なる計略か?
+    地球の命運を賭け、科学忍者隊とギャラクターの戦いの火蓋が切って落とされた。<br><br>大鷲の健:森 功至／コンドルのジョー:ささきいさお／白鳥のジュン:杉山佳寿子／燕の甚平:塩屋
+    翼／みみずくの竜:兼本 新吾／南部博士:大平 透／ベルク・カッツェ:寺島 幹夫／総裁X:田中 信夫／ナレーター:小林 清志<br><br>製 作:吉田健二／企
+    画:竜の子プロ企画室／原 作:吉田竜夫／構 成:鳥プロ／脚 本:鳥海尽三、陶山 智、鳥海永行／総指揮:岡本喜八／監 督:鳥海永行／音 楽:すぎやまこういち／
+    演 奏:NHK交響楽団／キャラクターデザイン:吉田竜夫、九里一平／メカニックデザイン:中村光毅、大河原邦男／作画監督:宮本貞夫／美術監督:中村光毅／録 音:ザック・プロモーション／録音監督:水本
+    完／効 果:アニメサウンド／撮 影:平山昭夫／編 集:谷口 肇／プロデュサー:九里一平、上野捷己／制作担当:柴田 勝、永井昌嗣、小林正典／現 像:東洋現像所<br><br>©タツノコプロ
+  length_seconds: 6624
+  content_id: so36422828
+  default_thread_id: 1582692603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422828/36422828.27198140
+cast: "[キャスト]<br>大鷲の健:森 功至／コンドルのジョー:ささきいさお／白鳥のジュン:杉山佳寿子／燕の甚平:塩屋 翼／みみずくの竜:兼本 新吾／南部博士:大平
+  透／ベルク・カッツェ:寺島 幹夫／総裁X:田中 信夫／ナレーター:小林 清志"
+staff: "[スタッフ]<br>製 作:吉田健二／企 画:竜の子プロ企画室／原 作:吉田竜夫／構 成:鳥プロ／脚 本:鳥海尽三、陶山 智、鳥海永行／総指揮:岡本喜八／監
+  督:鳥海永行／音 楽:すぎやまこういち／ 演 奏:NHK交響楽団／キャラクターデザイン:吉田竜夫、九里一平／メカニックデザイン:中村光毅、大河原邦男／作画監督:宮本貞夫／美術監督:中村光毅／録
+  音:ザック・プロモーション／録音監督:水本 完／効 果:アニメサウンド／撮 影:平山昭夫／編 集:谷口 肇／プロデュサー:九里一平、上野捷己／制作担当:柴田 勝、永井昌嗣、小林正典／現
+  像:東洋現像所"
+produced_year: "[製作年]<br>1978年"
+copyright: "©タツノコプロ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 科学忍者隊ガッチャマン
+- !ruby/hash:SeasonHash
+  title: 科学忍者隊ガッチャマンⅡ
+- !ruby/hash:SeasonHash
+  title: 科学忍者隊ガッチャマンＦ
+- !ruby/hash:SeasonHash
+  title: ＧＡＴＣＨＡＭＡＮ
+- !ruby/hash:SeasonHash
+  title: ガッチャマン クラウズ
+- !ruby/hash:SeasonHash
+  title: ガッチャマン クラウズ インサイト

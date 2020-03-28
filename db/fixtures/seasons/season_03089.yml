@@ -1,0 +1,110 @@
+--- !ruby/hash:SeasonHash
+title: 元祖 爆れつハンター
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/40/3/10403_1_8_8b.png?1581930102000
+outline: TVアニメ｢爆れつハンター｣の放送後にOVA化されたあかほりさとるの人気小説を原作にした作品。露出度がアップしたショコラやティラのコスチューム、そして彼らの性格もより原作に近くなり、TVシリーズとはひと味違う魅力が満載!
+  パワーアップしたキャロットたちが、新たな騒動を巻き起こす!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 立木文彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 銀河万丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 水谷優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 梁田清之
+  type: cast
+- !ruby/hash:TagHash
+  name: 島本須美
+  type: cast
+- !ruby/hash:TagHash
+  name: 真殿光昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 優希比呂
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：川井憲次
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：XEBEC
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：加戸誉夫
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：後藤圭二
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：あかほりさとる
+  type: staff
+- !ruby/hash:TagHash
+  name: 爆れつハンターシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1997年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 夜這い夜這いと草木もなびく
+  description: 温泉リゾートにやってきたキャロットたち。早速女湯を覗こうとしたキャロットは、女性陣にボコられる。だが実はその温泉、｢夜這いの里｣の異名を取る帝国屈指の?スポットだった!
+    ガトーと妹のエクレアはマッチョポーズに精を出し、ショコラはキャロットを逆ナンし、ポテーとその一行が場を引っ掻き回して…。<br><br>キャロット・グラッセ:古本新之輔／ティラ・ミス:林原めぐみ／ショコラ・ミス:水谷優子／マロン・グラッセ:真殿光昭／ガトー・モカ:梁田清之／ドーター:玉川紗己子／ビッグ・マム:島本須美／ポテー・チップス:伊倉一恵／じい:立木文彦／サラダ・チップス:豊島まさみ／シリウス:結城比呂／ミルフィー・ユ:緒方恵美／オニオン・グラッセ:千葉
+    繁／ナレーション:銀河万丈<br><br>企画:爆れつ委員会／原作:あかほりさとる,臣士れい／キャラクターデザイン:後藤圭二／構成:あかほりさとる／監督:加戸誉夫／美術監督:朝倉千登勢,小山俊久／撮影監督:鳥越一志／色彩設定:小林美代子／編集:正木直幸／音響監督:若林和弘／音楽:川井憲次／録音制作:オムニバスプロモーション／アニメーション制作:XEBEC<br><br>©あかほりさとる・臣士れい/アスキー・メディアワークス・爆れつ委員会<br><br>次話→so36365226
+  length_seconds: 1742
+  content_id: so36365224
+  default_thread_id: 1581673091
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36365224/36365224.56310403
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 死霊使い(ネクロマンサー)の魔導書(ネクロノミコン)
+  description: 全ての市民がゾンビ化させられた街から、マリスという少女がマムに助けを求めてやってきた。死霊使い・デスマスターの呪縛から人々を救うためには、禁断の魔導書・ネクロノミコンの封印を解かねばならない。そこで、かつて魔導書を封じたミルフィー・ユと共に、封印の地である洞窟を目指すキャロットたちだったが…。<br><br>キャロット・グラッセ:古本新之輔／ティラ・ミス:林原めぐみ／ショコラ・ミス:水谷優子／マロン・グラッセ:真殿光昭／ガトー・モカ:梁田清之／ドーター:玉川紗己子／ビッグ・マム:島本須美／ポテー・チップス:伊倉一恵／じい:立木文彦／サラダ・チップス:豊島まさみ／シリウス:結城比呂／ミルフィー・ユ:緒方恵美／オニオン・グラッセ:千葉
+    繁／ナレーション:銀河万丈<br><br>企画:爆れつ委員会／原作:あかほりさとる,臣士れい／キャラクターデザイン:後藤圭二／構成:あかほりさとる／監督:加戸誉夫／美術監督:朝倉千登勢,小山俊久／撮影監督:鳥越一志／色彩設定:小林美代子／編集:正木直幸／音響監督:若林和弘／音楽:川井憲次／録音制作:オムニバスプロモーション／アニメーション制作:XEBEC<br><br>©あかほりさとる・臣士れい/アスキー・メディアワークス・爆れつ委員会<br><br>so36365224←前話｜次話→so36365227　第一話→so36365224
+  length_seconds: 1677
+  content_id: so36365226
+  default_thread_id: 1581673083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36365226/36365226.1805662
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 思い出の樹の下で
+  description: 久々に里帰りしたキャロットたちを待っていたのは花見の大宴会。彼らの故郷である霊峰ホーディックには、十数年に一度だけ花を咲かせる伝説の樹があった。その下で愛を誓った二人は永遠に結ばれるという。そこでのロマンスを期待するショコラとティラは、ナンパしまくるキャロットに大激怒。果たして三人の恋の行方は…?<br><br>キャロット・グラッセ:古本新之輔／ティラ・ミス:林原めぐみ／ショコラ・ミス:水谷優子／マロン・グラッセ:真殿光昭／ガトー・モカ:梁田清之／ドーター:玉川紗己子／ビッグ・マム:島本須美／ポテー・チップス:伊倉一恵／じい:立木文彦／サラダ・チップス:豊島まさみ／シリウス:結城比呂／ミルフィー・ユ:緒方恵美／オニオン・グラッセ:千葉
+    繁／ナレーション:銀河万丈<br><br>企画:爆れつ委員会／原作:あかほりさとる,臣士れい／キャラクターデザイン:後藤圭二／構成:あかほりさとる／監督:加戸誉夫／美術監督:朝倉千登勢,小山俊久／撮影監督:鳥越一志／色彩設定:小林美代子／編集:正木直幸／音響監督:若林和弘／音楽:川井憲次／録音制作:オムニバスプロモーション／アニメーション制作:XEBEC<br><br>©あかほりさとる・臣士れい/アスキー・メディアワークス・爆れつ委員会<br><br>so36365226←前話　第一話→so36365224
+  length_seconds: 1674
+  content_id: so36365227
+  default_thread_id: 1581673263
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36365227/36365227.23842754
+cast: "[キャスト]<br>キャロット・グラッセ:古本新之輔／ティラ・ミス:林原めぐみ／ショコラ・ミス:水谷優子／マロン・グラッセ:真殿光昭／ガトー・モカ:梁田清之／ドーター:玉川紗己子／ビッグ・マム:島本須美／ポテー・チップス:伊倉一恵／じい:立木文彦／サラダ・チップス:豊島まさみ／シリウス:結城比呂／ミルフィー・ユ:緒方恵美／オニオン・グラッセ:千葉
+  繁／ナレーション:銀河万丈"
+staff: "[スタッフ]<br>企画:爆れつ委員会／原作:あかほりさとる,臣士れい／キャラクターデザイン:後藤圭二／構成:あかほりさとる／監督:加戸誉夫／美術監督:朝倉千登勢,小山俊久／撮影監督:鳥越一志／色彩設定:小林美代子／編集:正木直幸／音響監督:若林和弘／音楽:川井憲次／録音制作:オムニバスプロモーション／アニメーション制作:XEBEC"
+produced_year: "[製作年]<br>1997年"
+copyright: "©あかほりさとる・臣士れい/アスキー・メディアワークス・爆れつ委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 爆れつハンター

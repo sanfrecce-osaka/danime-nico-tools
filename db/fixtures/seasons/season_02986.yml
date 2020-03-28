@@ -1,0 +1,183 @@
+--- !ruby/hash:SeasonHash
+title: ストレンジ ドーン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/27/0/23270_1_8_8b.png?1582249015000
+outline: 佐藤順一がおくるファンタスティックアドベンチャー。女子高生ユコとエリは異世界に飛ばされ、その世界に暮らす小人達の国の戦争に巻き込まれてしまう。人気脚本家横手美智子や天才アニメーター山下明彦らの協力を得たハイクオリティテレビシリーズ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 千葉進歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水香里
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤健太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐久間紅美
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 榎本祥子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川本克彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：佐藤順一
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：和田薫
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ハルフィルムメーカー
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山下明彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：河本昇悟
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：佐藤順一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 2000年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 目覚めよと呼ぶ声が聞こえ
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>次話→so36427778
+  length_seconds: 1400
+  content_id: so36427777
+  default_thread_id: 1582781887
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427777/36427777.499409
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: あたりは沈黙に閉ざされ
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427777←前話｜次話→so36427779　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36427778
+  default_thread_id: 1582781898
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427778/36427778.89722244
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: いつかのような暗い夜に
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427778←前話｜次話→so36427780　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36427779
+  default_thread_id: 1582781897
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427779/36427779.76990387
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 空が急にかげったように
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427779←前話｜次話→so36427781　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36427780
+  default_thread_id: 1582781883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427780/36427780.40222744
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 森を過ぎ、野を越えて
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427780←前話｜次話→so36427782　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36427781
+  default_thread_id: 1582781892
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427781/36427781.25870319
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 抜け目のない狩人は
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427781←前話｜次話→so36427783　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36427782
+  default_thread_id: 1582781894
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427782/36427782.22885799
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 誰も寝てはならぬ
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427782←前話｜次話→so36427784　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36427783
+  default_thread_id: 1582781885
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427783/36427783.85873738
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: やさしい夕星よ
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427783←前話｜次話→so36428106　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36427784
+  default_thread_id: 1582781900
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427784/36427784.10053643
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 憐れみも、誉れも、愛も
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36427784←前話｜次話→so36428147　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36428106
+  default_thread_id: 1582787045
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428106/36428106.42855887
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 消え去れ、やさしい面影よ
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36428106←前話｜次話→so36428193　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36428147
+  default_thread_id: 1582787704
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428147/36428147.28863088
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 苦い喜び、甘い責め苦を
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36428147←前話｜次話→so36428238　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36428193
+  default_thread_id: 1582788255
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428193/36428193.52757339
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: さしのぼる太陽よ
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36428193←前話｜次話→so36428271　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36428238
+  default_thread_id: 1582789023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428238/36428238.49345608
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: あなたの声に心はひらく
+  description: 紛争中の異世界、女子高生は魔人（ストレンジドーン）？突然、異世界に召還された女子高生ユコとエリ。その世界に住む三頭身の人間たちは二人を偉大なる魔人とあがめて村を巻き込んだ戦いを鎮めて欲しいと願うが……。<br><br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩<br><br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー<br><br>©佐藤順一・HAL・「ストレンジドーン」制作委員会<br><br>so36428238←前話　第一話→so36427777
+  length_seconds: 1400
+  content_id: so36428271
+  default_thread_id: 1582789511
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428271/36428271.25675756
+cast: "[キャスト]<br>宮部ユコ:清水香里／奈津野エリ:榎本祥子／シャル:伊藤健太郎／レカ:佐久間紅美／マニ:石塚理恵／ヂョーグ:川本克彦／ベレー:岩田光央／ダール:千葉進歩"
+staff: "[スタッフ]<br>原作:佐藤順一･ハルフィルムメーカー／総監督:佐藤順一／監督:河本昇悟／キャラクターデザイン:山下明彦／構成･脚本:横手美智子／美術監督:田尻健一／音楽:和田薫／制作:ハルフィルムメーカー"
+produced_year: "[製作年]<br>2000年"
+copyright: "©佐藤順一・HAL・「ストレンジドーン」制作委員会"
+related_seasons: !ruby/array:Hashie::Array []

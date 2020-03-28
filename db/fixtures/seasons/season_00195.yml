@@ -1,23 +1,26 @@
 --- !ruby/hash:SeasonHash
 title: 王ドロボウJING in Seventh Heaven
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/66/9/21669_1_6.png?1500429602000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/66/9/21669_1_8_8b.png?1551261952000
 outline: ジンとキールは生きては出られぬ地獄の監獄＜セブンス・ヘブン＞にやって来た。狙いは、投獄されている夢玉師カンパリから、世にも不思議なお宝である夢玉を頂戴すること。しかしカンパリの作った夢の牢獄に、ジン達は知らず知らずのうちに閉じこめられてしまう。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 斎賀みつき
-  type: cast
+  name: アクション/バトル
+  type: genre
 - !ruby/hash:TagHash
-  name: 千葉紗子
+  name: 斎賀みつき
   type: cast
 - !ruby/hash:TagHash
   name: 高木渉
   type: cast
 - !ruby/hash:TagHash
-  name: 郷田ほづみ
+  name: 千葉紗子
   type: cast
 - !ruby/hash:TagHash
   name: 中尾隆聖
+  type: cast
+- !ruby/hash:TagHash
+  name: 郷田ほづみ
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：スタジオディーン
@@ -41,42 +44,42 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2004年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2004年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: I
   title: Lost in Seventh Heaven
   description: ジンとキールがやってきたのは、脱獄不可能な地獄の監獄・セブンス・ヘブン。狙いはカンパリという男が作る夢を結晶化させた「夢玉」だ。しかしカンパリは夢を操り、ジンたちを夢の世界に閉じ込めてしまう。そこは脱出困難な“夢の迷宮”だった…。<br><br>ジン:斎賀みつき／キール:中尾隆聖／カンパリ:郷田ほづみ／マラスキーノ:高木
-    渉／ベネディクティン:千葉紗子<br><br>原作:熊倉裕一（講談社「マガジンZ」連載）／監督:わたなべひろし／ストーリー構成:吉田玲子／脚本:吉田玲子、北條千夏、まさきひろ／キャラクターデザイン:岡真里子／音楽:スクーデリア・エレクトロ／アニメーション制作:スタジオディーン／製作:アニプレックス<br><br>次話→so32030288
+    渉／ベネディクティン:千葉紗子<br><br>原作:熊倉裕一（講談社「マガジンZ」連載）／監督:わたなべひろし／ストーリー構成:吉田玲子／脚本:吉田玲子、北條千夏、まさきひろ／キャラクターデザイン:岡真里子／音楽:スクーデリア・エレクトロ／アニメーション制作:スタジオディーン／製作:アニプレックス<br><br>©熊倉裕一・講談社／アニプレックス<br><br>次話→so32030288
   length_seconds: 1620
   content_id: so32030099
   default_thread_id: 1506875767
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32030099
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32030099/32030099.8977530
 - !ruby/hash:EpisodeHash
   episode_no: II
   title: Dream in Seventh Heaven
   description: 極独房に入れられたジンたち。暗闇の中、再びカンパリが姿を現し、ジン達を懐かしい子供の頃の夢へと運んでいく。そこでは子分たちや少女カシスとの楽しい暮らしがあったがこの村には最近ある事件が起こっていた…。<br><br>ジン:斎賀みつき／キール:中尾隆聖／カンパリ:郷田ほづみ／マラスキーノ:高木
-    渉／ベネディクティン:千葉紗子<br><br>原作:熊倉裕一（講談社「マガジンZ」連載）／監督:わたなべひろし／ストーリー構成:吉田玲子／脚本:吉田玲子、北條千夏、まさきひろ／キャラクターデザイン:岡真里子／音楽:スクーデリア・エレクトロ／アニメーション制作:スタジオディーン／製作:アニプレックス<br><br>so32030099←前話｜次話→so32030333　第一話→so32030099
+    渉／ベネディクティン:千葉紗子<br><br>原作:熊倉裕一（講談社「マガジンZ」連載）／監督:わたなべひろし／ストーリー構成:吉田玲子／脚本:吉田玲子、北條千夏、まさきひろ／キャラクターデザイン:岡真里子／音楽:スクーデリア・エレクトロ／アニメーション制作:スタジオディーン／製作:アニプレックス<br><br>©熊倉裕一・講談社／アニプレックス<br><br>so32030099←前話｜次話→so32030333　第一話→so32030099
   length_seconds: 1739
   content_id: so32030288
   default_thread_id: 1506878286
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32030288
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32030288/32030288.96811787
 - !ruby/hash:EpisodeHash
   episode_no: III
   title: Awake in Seventh Heaven
   description: 未だ夢の世界は終わらない。不条理につながる世界の中で、ジンはカンパリが失った過去の風景を甦らせる。夕焼けの麦畑でかつてのカンパリと戯れる少女…それはベネディクティンだった。彼女とカンパリは今再び、手を握り合う。<br><br>ジン:斎賀みつき／キール:中尾隆聖／カンパリ:郷田ほづみ／マラスキーノ:高木
-    渉／ベネディクティン:千葉紗子<br><br>原作:熊倉裕一（講談社「マガジンZ」連載）／監督:わたなべひろし／ストーリー構成:吉田玲子／脚本:吉田玲子、北條千夏、まさきひろ／キャラクターデザイン:岡真里子／音楽:スクーデリア・エレクトロ／アニメーション制作:スタジオディーン／製作:アニプレックス<br><br>so32030288←前話　第一話→so32030099
+    渉／ベネディクティン:千葉紗子<br><br>原作:熊倉裕一（講談社「マガジンZ」連載）／監督:わたなべひろし／ストーリー構成:吉田玲子／脚本:吉田玲子、北條千夏、まさきひろ／キャラクターデザイン:岡真里子／音楽:スクーデリア・エレクトロ／アニメーション制作:スタジオディーン／製作:アニプレックス<br><br>©熊倉裕一・講談社／アニプレックス<br><br>so32030288←前話　第一話→so32030099
   length_seconds: 1680
   content_id: so32030333
   default_thread_id: 1506879325
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32030333
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32030333/32030333.20752943
 cast: "[キャスト]<br>ジン:斎賀みつき／キール:中尾隆聖／カンパリ:郷田ほづみ／マラスキーノ:高木 渉／ベネディクティン:千葉紗子"
 staff: "[スタッフ]<br>原作:熊倉裕一（講談社「マガジンZ」連載）／監督:わたなべひろし／ストーリー構成:吉田玲子／脚本:吉田玲子、北條千夏、まさきひろ／キャラクターデザイン:岡真里子／音楽:スクーデリア・エレクトロ／アニメーション制作:スタジオディーン／製作:アニプレックス"
 produced_year: "[製作年]<br>2004年"

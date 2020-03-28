@@ -1,0 +1,140 @@
+--- !ruby/hash:SeasonHash
+title: 声優コレクション　～ふたりのコーデＳＨＯＷ～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/40/6/23406_1_8_8b.png?1581485407000
+outline: 人気声優ファッションバトル対決！？あなたはどちらのコーディネイトがお好き？お題の「シチュエーション」に合わせたコーディネイトを男性声優2人が自ら考え、実際にお買い物！私服姿、ファッション感、普段どんなものを着ているの？など人気声優達のファッションへのこだわりや好きなスタイルなどをご紹介！買い物しながら語られるプライベートや、素顔は必見！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 森久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤羽根健治
+  type: cast
+- !ruby/hash:TagHash
+  name: 武内駿輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江瞬
+  type: cast
+- !ruby/hash:TagHash
+  name: 西山宏太朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢城千春
+  type: cast
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 森久保祥太郎×八代拓
+  description: 森久保祥太郎と八代拓でお送りする今回のテーマは「夜のBARデート」。COOL？ラフ？はたまたアバンギャルド！？二人はいったいどんなコーディネートを選ぶのか！？<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2018声優コレクション製作委員会<br><br>次話→so36379537
+  length_seconds: 1881
+  content_id: so36379536
+  default_thread_id: 1581912028
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379536/36379536.3442934
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 森久保祥太郎×八代拓
+  description: 森久保祥太郎と八代拓でお送りする今回のテーマは「夜のBARデート」。COOL？ラフ？はたまたアバンギャルド！？二人はいったいどんなコーディネートを選ぶのか！？<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2018声優コレクション製作委員会<br><br>so36379536←前話｜次話→so36379538　第一話→so36379536
+  length_seconds: 2067
+  content_id: so36379537
+  default_thread_id: 1581912026
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379537/36379537.11389466
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 小野友樹×赤羽根健治
+  description: 小野友樹と赤羽根健治でお送りする今回のテーマは「遊園地デート」。ナチュラル？スポーティ？はたまたサプライズ!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2018声優コレクション製作委員会<br><br>so36379537←前話｜次話→so36379539　第一話→so36379536
+  length_seconds: 1905
+  content_id: so36379538
+  default_thread_id: 1581907693
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379538/36379538.71666622
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 小野友樹×赤羽根健治
+  description: 小野友樹と赤羽根健治でお送りする今回のテーマは「遊園地デート」。ナチュラル？スポーティ？はたまたサプライズ!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2018声優コレクション製作委員会<br><br>so36379538←前話｜次話→so36379540　第一話→so36379536
+  length_seconds: 2387
+  content_id: so36379539
+  default_thread_id: 1581912018
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379539/36379539.26240580
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 佐藤拓也×堀江瞬
+  description: 佐藤拓也と堀江瞬でお送りする今回のテーマは「ディナークルーズデート」。カジュアル？モード？はたまたオートクチュール!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2018声優コレクション製作委員会<br><br>so36379539←前話｜次話→so36379541　第一話→so36379536
+  length_seconds: 2220
+  content_id: so36379540
+  default_thread_id: 1581912030
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379540/36379540.73300033
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 佐藤拓也×堀江瞬
+  description: 佐藤拓也と堀江瞬でお送りする今回のテーマは「ディナークルーズデート」。カジュアル？モード？はたまたオートクチュール!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2018声優コレクション製作委員会<br><br>so36379540←前話｜次話→so36379542　第一話→so36379536
+  length_seconds: 1978
+  content_id: so36379541
+  default_thread_id: 1581912020
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379541/36379541.44436277
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 沢城千春×武内駿輔
+  description: 沢城千春と武内駿輔でお送りする今回のテーマは「ミュージアムデート」。フォーマル？ムーディー？はたまたアート!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2019声優コレクション製作委員会<br><br>so36379541←前話｜次話→so36379543　第一話→so36379536
+  length_seconds: 1881
+  content_id: so36379542
+  default_thread_id: 1581912006
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379542/36379542.59340629
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 沢城千春×武内駿輔
+  description: 沢城千春と武内駿輔でお送りする今回のテーマは「ミュージアムデート」。フォーマル？ムーディー？はたまたアート!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2019声優コレクション製作委員会<br><br>so36379542←前話｜次話→so36379544　第一話→so36379536
+  length_seconds: 2033
+  content_id: so36379543
+  default_thread_id: 1581912014
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379543/36379543.44489741
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 花江夏樹×西山宏太朗
+  description: 花江夏樹と西山宏太朗でお送りする今回のテーマは「ライブデート」。ポップ？ロック？はたまたパンク!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2019声優コレクション製作委員会<br><br>so36379543←前話｜次話→so36379900　第一話→so36379536
+  length_seconds: 2244
+  content_id: so36379544
+  default_thread_id: 1581912016
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379544/36379544.83520398
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 花江夏樹×西山宏太朗
+  description: 花江夏樹と西山宏太朗でお送りする今回のテーマは「ライブデート」。ポップ？ロック？はたまたパンク!?二人はいったいどんなコーディネートを選ぶのか!?<br><br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗<br><br>©2019声優コレクション製作委員会<br><br>so36379544←前話　第一話→so36379536
+  length_seconds: 1702
+  content_id: so36379900
+  default_thread_id: 1581920825
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379900/36379900.4425642
+cast: "[キャスト]<br>出演:森久保祥太郎、八代拓、小野友樹、赤羽根健治、佐藤拓也、堀江瞬、沢城千春、武内駿輔、花江夏樹、西山宏太朗"
+produced_year: "[製作年]<br>2018年"
+copyright: "©2018声優コレクション製作委員会　©2019声優コレクション製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

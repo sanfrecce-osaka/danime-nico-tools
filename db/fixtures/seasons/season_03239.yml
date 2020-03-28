@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: 中崎タツヤ　スーパーギャグシアターⅠ【デジタルリマスター版】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/08/2/23082_1_8_8b.png?1579845607000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 小倉久寛
+  type: cast
+- !ruby/hash:TagHash
+  name: 三宅裕司
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：やすみ哲夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：中崎タツヤ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：田中章喜
+  type: staff
+- !ruby/hash:TagHash
+  name: 中崎タツヤ　スーパーギャグシアターシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第12話
+  title: つい／課長の娘／水泳の達人／そば／負け犬／お嫁さん／とんかつを喰う／ちくわと私／定年／男子一生に悔いなし／犬の日常／私はこんなにも悲しい話をいまだかって知らない
+  description: 声の出演:三宅裕司・小倉久寛<br><br>原作:中崎タツヤ／監督:やすみ哲夫／美術監督:古谷彰／撮影監督:古林一太／録音監督:浦上靖夫／音楽:田中章喜<br><br>©中崎タツヤ／シンエイ動画<br><br>次話→so36427772
+  length_seconds: 1842
+  content_id: so36427771
+  default_thread_id: 1582782845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427771/36427771.79176686
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話～第25話
+  title: あなたごめんなさい／他人の車／私の秘密／自分史／本音／あわよくば・・・・・／いるはずよ／バナナ／ツケの清算／一日観光／フミキリ／赤飯／オレのやり方
+  description: 声の出演:三宅裕司・小倉久寛<br><br>原作:中崎タツヤ／監督:やすみ哲夫／美術監督:古谷彰／撮影監督:古林一太／録音監督:浦上靖夫／音楽:田中章喜<br><br>©中崎タツヤ／シンエイ動画<br><br>so36427771←前話　第一話→so36427771
+  length_seconds: 2169
+  content_id: so36427772
+  default_thread_id: 1582783267
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427772/36427772.39460880
+cast: "[キャスト]<br>声の出演:三宅裕司・小倉久寛"
+staff: "[スタッフ]<br>原作:中崎タツヤ／監督:やすみ哲夫／美術監督:古谷彰／撮影監督:古林一太／録音監督:浦上靖夫／音楽:田中章喜"
+produced_year: "[製作年]<br>1994年"
+copyright: "©中崎タツヤ／シンエイ動画"
+related_seasons: !ruby/array:Hashie::Array []

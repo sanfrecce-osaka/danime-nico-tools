@@ -1,0 +1,60 @@
+--- !ruby/hash:SeasonHash
+title: メーテルリンクの青い鳥　チルチルミチルの冒険旅行-総集編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/37/1/10371_1_8_8b.png?1583201080000
+outline: はじめての、“母のいない”クリスマス・イブ。チルチルとミチルの前に突然、仙女が現れました。彼女は不思議な魔法をつぎつぎに使い、2人の幸せの｢青い鳥｣を探すように進めるのです。青い鳥を探すことで2人の悩みも、不幸も、解決するというのですが・・・。テレビ放映版全26話の総集編。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: メーテルリンクの青い鳥 チルチルミチルの冒険旅行シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1980年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: はじめての、“母のいない”クリスマス・イブ。チルチルとミチルの前に突然、仙女が現れました。彼女は不思議な魔法をつぎつぎに使い、2人の幸せの｢青い鳥｣を探すように進めるのです。青い鳥を探すことで2人の悩みも、不幸も、解決するというのですが・・・。テレビ放映版全26話の総集編。<br><br>©東北新社<br><br>次話→so36465202
+  length_seconds: 1380
+  content_id: so36465201
+  default_thread_id: 1583410263
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36465201/36465201.1400479
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: はじめての、“母のいない”クリスマス・イブ。チルチルとミチルの前に突然、仙女が現れました。彼女は不思議な魔法をつぎつぎに使い、2人の幸せの｢青い鳥｣を探すように進めるのです。青い鳥を探すことで2人の悩みも、不幸も、解決するというのですが・・・。テレビ放映版全26話の総集編。<br><br>©東北新社<br><br>so36465201←前話｜次話→so36465319　第一話→so36465201
+  length_seconds: 1428
+  content_id: so36465202
+  default_thread_id: 1583410203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36465202/36465202.8643616
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: はじめての、“母のいない”クリスマス・イブ。チルチルとミチルの前に突然、仙女が現れました。彼女は不思議な魔法をつぎつぎに使い、2人の幸せの｢青い鳥｣を探すように進めるのです。青い鳥を探すことで2人の悩みも、不幸も、解決するというのですが・・・。テレビ放映版全26話の総集編。<br><br>©東北新社<br><br>so36465202←前話｜次話→so36465320　第一話→so36465201
+  length_seconds: 1444
+  content_id: so36465319
+  default_thread_id: 1583411345
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36465319/36465319.50860624
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: はじめての、“母のいない”クリスマス・イブ。チルチルとミチルの前に突然、仙女が現れました。彼女は不思議な魔法をつぎつぎに使い、2人の幸せの｢青い鳥｣を探すように進めるのです。青い鳥を探すことで2人の悩みも、不幸も、解決するというのですが・・・。テレビ放映版全26話の総集編。<br><br>©東北新社<br><br>so36465319←前話　第一話→so36465201
+  length_seconds: 1366
+  content_id: so36465320
+  default_thread_id: 1583411343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36465320/36465320.21521048
+produced_year: "[製作年]<br>1980年"
+copyright: "©東北新社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: メーテルリンクの青い鳥 チルチルミチルの冒険旅行

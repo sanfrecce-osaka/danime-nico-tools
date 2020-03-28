@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: 蟲師 特別篇「日蝕む翳」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/61/0/23610_1_8_8b.png?1582185682000
+outline: およそ遠しとされしもの──下等で奇怪、見慣れた動植物とはまるで違うとおぼしきモノ達。それら異形の一群を、ヒトは古くから畏れを含み、いつしか総じて“蟲”と呼んだ。時に蟲はヒトに妖しき現象をもたらし、そしてヒトは初めてその幽玄なる存在を知る。ヒトと蟲との世を繋ぐ者──それが“蟲師”。すべての生命は、他を脅かすために在るのではない。みな、ただそれぞれが、在るように在るだけ──。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: うえだゆうじ
+  type: cast
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 中野裕斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木りお
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺優奈
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：アートランド
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：馬越嘉彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長濵博史
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：漆原友紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 蟲師シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: およそ遠しとされしもの──下等で奇怪、見慣れた動植物とはまるで違うとおぼしきモノ達。それら異形の一群を、ヒトは古くから畏れを含み、いつしか総じて“蟲”と呼んだ。時に蟲はヒトに妖しき現象をもたらし、そしてヒトは初めてその幽玄なる存在を知る。ヒトと蟲との世を繋ぐ者──それが“蟲師”。すべての生命は、他を脅かすために在るのではない。みな、ただそれぞれが、在るように在るだけ──。<br><br>ギンコ:中野裕斗／ヒヨリ:渡辺優奈／ヒナタ:佐々木りお／化野:うえだゆうじ／淡幽:小林
+    愛／声:土井美加<br><br>原作:漆原友紀(講談社 月刊アフタヌーン 所載)／監督:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇
+    威志／テクニカルアドバイザー:大山佳久／撮影監督:口羽 毅／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>次話→so36427990
+  length_seconds: 1288
+  content_id: so36428022
+  default_thread_id: 1582786329
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428022/36428022.74273101
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: およそ遠しとされしもの──下等で奇怪、見慣れた動植物とはまるで違うとおぼしきモノ達。それら異形の一群を、ヒトは古くから畏れを含み、いつしか総じて“蟲”と呼んだ。時に蟲はヒトに妖しき現象をもたらし、そしてヒトは初めてその幽玄なる存在を知る。ヒトと蟲との世を繋ぐ者──それが“蟲師”。すべての生命は、他を脅かすために在るのではない。みな、ただそれぞれが、在るように在るだけ──。<br><br>ギンコ:中野裕斗／ヒヨリ:渡辺優奈／ヒナタ:佐々木りお／化野:うえだゆうじ／淡幽:小林
+    愛／声:土井美加<br><br>原作:漆原友紀(講談社 月刊アフタヌーン 所載)／監督:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇
+    威志／テクニカルアドバイザー:大山佳久／撮影監督:口羽 毅／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36428022←前話　第一話→so36428022
+  length_seconds: 1371
+  content_id: so36427990
+  default_thread_id: 1582785787
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427990/36427990.87507482
+cast: "[キャスト]<br>ギンコ:中野裕斗／ヒヨリ:渡辺優奈／ヒナタ:佐々木りお／化野:うえだゆうじ／淡幽:小林 愛／声:土井美加"
+staff: "[スタッフ]<br>原作:漆原友紀(講談社 月刊アフタヌーン 所載)／監督:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇 威志／テクニカルアドバイザー:大山佳久／撮影監督:口羽
+  毅／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／アニメーション制作:アニメーションスタジオ・アートランド"
+produced_year: "[製作年]<br>2014年"
+copyright: "©漆原友紀／講談社・アニプレックス"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 蟲師
+- !ruby/hash:SeasonHash
+  title: 蟲師 続章
+- !ruby/hash:SeasonHash
+  title: 蟲師 特別編「鈴の雫」

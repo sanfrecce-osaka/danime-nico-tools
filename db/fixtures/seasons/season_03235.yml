@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: スチームボーイ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/70/6/23706_1_8_8b.png?1584086407000
+outline: ある日、祖父からレイに「スチームボール」が届けられた。スチームボールを持つレイは、そのためにオハラ財団から逃げることになってしまう。そんな中、彼はスチームボールが歴史を塗り変える力を秘めていることとオハラ財団の目的を知る。科学が作りうる未来のため、「スチームボーイ」となったレイは、大空に飛びたつ！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 津嘉山正種
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木杏
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西真奈美
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村嘉葎雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 児玉清
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢村一樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤暁
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島進
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：サンライズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大友克洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：高木真司
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：スティーブ・ジャブロンスキー
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2004年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: ある日、祖父からレイに「スチームボール」が届けられた。スチームボールを持つレイは、そのためにオハラ財団から逃げることになってしまう。そんな中、彼はスチームボールが歴史を塗り変える力を秘めていることとオハラ財団の目的を知る。科学が作りうる未来のため、「スチームボーイ」となったレイは、大空に飛びたつ！<br><br>レイ:鈴木
+    杏／スカーレット:小西真奈美／ロイド:中村嘉葎雄／エディ:津嘉山正種／ロバート:児玉 清／デイビッド:沢村一樹／サイモン:斉藤 暁／アルフレッド:寺島 進<br><br>原案・脚本・監督:大友克洋／脚本:村井さだゆき／総作画監督:外丸達也／エフェクト作画監督:橋本敬史／美術監督:木村真二／CGI監督:安藤裕章／演出:高木真司／テクニカルディレクター:松見真一／デジタルコンポジット:佐藤光洋／編集:瀬山武司／音楽:スティーブ・ジャブロンスキー／音響監督:百瀬慶一／製作:STEAMBOY製作委員会／制作:サンライズ<br><br>©2004大友克洋・マッシュルーム／STEAMBOY製作委員会<br><br>次話→so36571819
+  length_seconds: 1487
+  content_id: so36571818
+  default_thread_id: 1585194903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36571818/36571818.85788623
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: ある日、祖父からレイに「スチームボール」が届けられた。スチームボールを持つレイは、そのためにオハラ財団から逃げることになってしまう。そんな中、彼はスチームボールが歴史を塗り変える力を秘めていることとオハラ財団の目的を知る。科学が作りうる未来のため、「スチームボーイ」となったレイは、大空に飛びたつ！<br><br>レイ:鈴木
+    杏／スカーレット:小西真奈美／ロイド:中村嘉葎雄／エディ:津嘉山正種／ロバート:児玉 清／デイビッド:沢村一樹／サイモン:斉藤 暁／アルフレッド:寺島 進<br><br>原案・脚本・監督:大友克洋／脚本:村井さだゆき／総作画監督:外丸達也／エフェクト作画監督:橋本敬史／美術監督:木村真二／CGI監督:安藤裕章／演出:高木真司／テクニカルディレクター:松見真一／デジタルコンポジット:佐藤光洋／編集:瀬山武司／音楽:スティーブ・ジャブロンスキー／音響監督:百瀬慶一／製作:STEAMBOY製作委員会／制作:サンライズ<br><br>©2004大友克洋・マッシュルーム／STEAMBOY製作委員会<br><br>so36571818←前話｜次話→so36571820　第一話→so36571818
+  length_seconds: 1543
+  content_id: so36571819
+  default_thread_id: 1585194843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36571819/36571819.99681756
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: ある日、祖父からレイに「スチームボール」が届けられた。スチームボールを持つレイは、そのためにオハラ財団から逃げることになってしまう。そんな中、彼はスチームボールが歴史を塗り変える力を秘めていることとオハラ財団の目的を知る。科学が作りうる未来のため、「スチームボーイ」となったレイは、大空に飛びたつ！<br><br>レイ:鈴木
+    杏／スカーレット:小西真奈美／ロイド:中村嘉葎雄／エディ:津嘉山正種／ロバート:児玉 清／デイビッド:沢村一樹／サイモン:斉藤 暁／アルフレッド:寺島 進<br><br>原案・脚本・監督:大友克洋／脚本:村井さだゆき／総作画監督:外丸達也／エフェクト作画監督:橋本敬史／美術監督:木村真二／CGI監督:安藤裕章／演出:高木真司／テクニカルディレクター:松見真一／デジタルコンポジット:佐藤光洋／編集:瀬山武司／音楽:スティーブ・ジャブロンスキー／音響監督:百瀬慶一／製作:STEAMBOY製作委員会／制作:サンライズ<br><br>©2004大友克洋・マッシュルーム／STEAMBOY製作委員会<br><br>so36571819←前話｜次話→so36571821　第一話→so36571818
+  length_seconds: 1498
+  content_id: so36571820
+  default_thread_id: 1585194847
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36571820/36571820.20433566
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: ある日、祖父からレイに「スチームボール」が届けられた。スチームボールを持つレイは、そのためにオハラ財団から逃げることになってしまう。そんな中、彼はスチームボールが歴史を塗り変える力を秘めていることとオハラ財団の目的を知る。科学が作りうる未来のため、「スチームボーイ」となったレイは、大空に飛びたつ！<br><br>レイ:鈴木
+    杏／スカーレット:小西真奈美／ロイド:中村嘉葎雄／エディ:津嘉山正種／ロバート:児玉 清／デイビッド:沢村一樹／サイモン:斉藤 暁／アルフレッド:寺島 進<br><br>原案・脚本・監督:大友克洋／脚本:村井さだゆき／総作画監督:外丸達也／エフェクト作画監督:橋本敬史／美術監督:木村真二／CGI監督:安藤裕章／演出:高木真司／テクニカルディレクター:松見真一／デジタルコンポジット:佐藤光洋／編集:瀬山武司／音楽:スティーブ・ジャブロンスキー／音響監督:百瀬慶一／製作:STEAMBOY製作委員会／制作:サンライズ<br><br>©2004大友克洋・マッシュルーム／STEAMBOY製作委員会<br><br>so36571820←前話｜次話→so36571822　第一話→so36571818
+  length_seconds: 1642
+  content_id: so36571821
+  default_thread_id: 1585194845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36571821/36571821.32139311
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: ある日、祖父からレイに「スチームボール」が届けられた。スチームボールを持つレイは、そのためにオハラ財団から逃げることになってしまう。そんな中、彼はスチームボールが歴史を塗り変える力を秘めていることとオハラ財団の目的を知る。科学が作りうる未来のため、「スチームボーイ」となったレイは、大空に飛びたつ！<br><br>レイ:鈴木
+    杏／スカーレット:小西真奈美／ロイド:中村嘉葎雄／エディ:津嘉山正種／ロバート:児玉 清／デイビッド:沢村一樹／サイモン:斉藤 暁／アルフレッド:寺島 進<br><br>原案・脚本・監督:大友克洋／脚本:村井さだゆき／総作画監督:外丸達也／エフェクト作画監督:橋本敬史／美術監督:木村真二／CGI監督:安藤裕章／演出:高木真司／テクニカルディレクター:松見真一／デジタルコンポジット:佐藤光洋／編集:瀬山武司／音楽:スティーブ・ジャブロンスキー／音響監督:百瀬慶一／製作:STEAMBOY製作委員会／制作:サンライズ<br><br>©2004大友克洋・マッシュルーム／STEAMBOY製作委員会<br><br>so36571821←前話　第一話→so36571818
+  length_seconds: 1419
+  content_id: so36571822
+  default_thread_id: 1585194850
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36571822/36571822.82887402
+cast: "[キャスト]<br>レイ:鈴木 杏／スカーレット:小西真奈美／ロイド:中村嘉葎雄／エディ:津嘉山正種／ロバート:児玉 清／デイビッド:沢村一樹／サイモン:斉藤
+  暁／アルフレッド:寺島 進"
+staff: "[スタッフ]<br>原案・脚本・監督:大友克洋／脚本:村井さだゆき／総作画監督:外丸達也／エフェクト作画監督:橋本敬史／美術監督:木村真二／CGI監督:安藤裕章／演出:高木真司／テクニカルディレクター:松見真一／デジタルコンポジット:佐藤光洋／編集:瀬山武司／音楽:スティーブ・ジャブロンスキー／音響監督:百瀬慶一／製作:STEAMBOY製作委員会／制作:サンライズ"
+produced_year: "[製作年]<br>2004年"
+copyright: "©2004大友克洋・マッシュルーム／STEAMBOY製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

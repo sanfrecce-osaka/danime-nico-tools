@@ -1,0 +1,77 @@
+--- !ruby/hash:SeasonHash
+title: 戦争童話集「凧になったお母さん」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/31/4/23314_1_8_8b.png?1579845893000
+outline: 昭和20年夏、B29が落とした焼夷弾（しょういだん）、街を火の海に変えてしまいました。逃げ惑う人々･･･そんな中、カッちゃんはお母さんに連れられなんとか近くの公園に避難することができました。しかし、火は次第にふたりに忍び寄り、カッちゃんの体は熱さでカラカラに。「熱いよう」と訴えて意識を失うカッちゃん。お母さんは、自分の体から出る汗や涙でカッちゃんの体を潤してあげるのですが、体中の水分をすべて与えきったお母さんは･･･。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 勝生真沙子
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: こおろぎさとみ
+  type: cast
+- !ruby/hash:TagHash
+  name: さとうあい
+  type: cast
+- !ruby/hash:TagHash
+  name: 大久保祥太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 加門良
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シンエイ動画
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：野坂昭如
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：竹内啓雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 戦争童話集シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 昭和20年夏、B29が落とした焼夷弾（しょういだん）、街を火の海に変えてしまいました。逃げ惑う人々･･･そんな中、カッちゃんはお母さんに連れられなんとか近くの公園に避難することができました。しかし、火は次第にふたりに忍び寄り、カッちゃんの体は熱さでカラカラに。「熱いよう」と訴えて意識を失うカッちゃん。お母さんは、自分の体から出る汗や涙でカッちゃんの体を潤してあげるのですが、体中の水分をすべて与えきったお母さんは･･･。<br><br>カッちゃん:大久保祥太郎／お母さん:折笠
+    愛／お父さん:加門 良／一郎:宮本聖也／一郎の母:勝生真沙子／敬子:こおろぎさとみ／ナレーション:さとうあい<br><br>原作:『凧になったお母さん（戦争童話集　ＮＨＫ出版刊）』／作:野坂昭如／絵:黒田征太郎／企画:木村純一・加藤良雄／プロデューサー:太田賢司・増子相二郎・小倉久美／監督:竹内啓雄／作画監督:市来
+    剛／美術監督:西田 稔・岩城万里子／撮影監督:佐々木和広／音響監督:大熊 昭／挿入歌:童謡「あした」歌：尾崎千瑛／制作:テレビ朝日・シンエイ動画<br><br>©ケイツー／シンエイ
+  length_seconds: 2719
+  content_id: so36313799
+  default_thread_id: 1580705975
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36313799/36313799.89496589
+cast: "[キャスト]<br>カッちゃん:大久保祥太郎／お母さん:折笠 愛／お父さん:加門 良／一郎:宮本聖也／一郎の母:勝生真沙子／敬子:こおろぎさとみ／ナレーション:さとうあい"
+staff: "[スタッフ]<br>原作:『凧になったお母さん（戦争童話集　ＮＨＫ出版刊）』／作:野坂昭如／絵:黒田征太郎／企画:木村純一・加藤良雄／プロデューサー:太田賢司・増子相二郎・小倉久美／監督:竹内啓雄／作画監督:市来
+  剛／美術監督:西田 稔・岩城万里子／撮影監督:佐々木和広／音響監督:大熊 昭／挿入歌:童謡「あした」歌：尾崎千瑛／制作:テレビ朝日・シンエイ動画"
+produced_year: "[製作年]<br>2003年"
+copyright: "©ケイツー／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ウミガメと少年」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「小さい潜水艦に恋をしたでかすぎるクジラの話」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ぼくの防空壕」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「焼跡の、お菓子の木」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ふたつの胡桃」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「キクちゃんとオオカミ」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「青い瞳の女の子のお話」

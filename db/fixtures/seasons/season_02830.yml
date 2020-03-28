@@ -1,0 +1,77 @@
+--- !ruby/hash:SeasonHash
+title: エスパー魔美「マイエンジェル魔美ちゃん」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/40/0/23400_1_8_8b.png?1579845871000
+outline: 魔美が散歩をしていると、ブラジルから来た青年、サントスと出会う。どうやら彼は、はるばる日本に蕎麦の修行をしに来たらしい。だが、日本語がうまく伝えられないためと、国柄の違いから、様々なトラブルをひきおこす。ついに客の財布を盗んだと勘違いされたサントスは、修業先の蕎麦屋を追い出されてしまった。すっかり落ち込んだ彼に魔美は再就職の手伝いをするが、外国人の就職差別は根強いようで、どこにも雇ってもらえない。だが、蕎麦屋の主人が自らの勘違いに気づいてくれ、サントスも戻って来ても良いことになった。素直ではないが、蕎麦屋の主人は良い人の様子。ここでならサントスもきっと、立派にやっていける事だろう。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 榊原良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕崎ゆり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 江森浩子
+  type: cast
+- !ruby/hash:TagHash
+  name: よこざわけい子
+  type: cast
+- !ruby/hash:TagHash
+  name: 増岡弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 松尾銀三
+  type: cast
+- !ruby/hash:TagHash
+  name: 仲木隆司
+  type: cast
+- !ruby/hash:TagHash
+  name: 日比野朱里
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂東尚樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴本浩行
+  type: cast
+- !ruby/hash:TagHash
+  name: 達依久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤子・F・不二雄
+  type: staff
+- !ruby/hash:TagHash
+  name: エスパー魔美シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 魔美が散歩をしていると、ブラジルから来た青年、サントスと出会う。どうやら彼は、はるばる日本に蕎麦の修行をしに来たらしい。だが、日本語がうまく伝えられないためと、国柄の違いから、様々なトラブルをひきおこす。ついに客の財布を盗んだと勘違いされたサントスは、修業先の蕎麦屋を追い出されてしまった。すっかり落ち込んだ彼に魔美は再就職の手伝いをするが、外国人の就職差別は根強いようで、どこにも雇ってもらえない。だが、蕎麦屋の主人が自らの勘違いに気づいてくれ、サントスも戻って来ても良いことになった。素直ではないが、蕎麦屋の主人は良い人の様子。ここでならサントスもきっと、立派にやっていける事だろう。<br><br>魔美:横沢啓子／高畑:柴本広之／コンポコ:小粥よう子／パパ:増岡弘／ママ:榊原良子／陰木さん:京田尚之／幸子:江森浩子／ノンちゃん:渕崎ゆり子／サントス:塩沢兼人／松久庵主人:仲木隆司／おかみ:達依久子／ソバ屋:松尾銀三／客:坂東耕一郎<br><br>原作:藤子・Ｆ・不二雄／チーフディレクター:原恵一／シリーズ構成・文芸:桶谷顕／作画監督:高倉佳彦／脚本:桶谷顕／美術監督:川井憲／撮影監督:斉藤秋男／録音監督:浦上靖夫／音楽:田中公平<br><br>©藤子プロ／シンエイ・小学館
+  length_seconds: 1275
+  content_id: so36290396
+  default_thread_id: 1580261946
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36290396/36290396.87682880
+cast: "[キャスト]<br>魔美:横沢啓子／高畑:柴本広之／コンポコ:小粥よう子／パパ:増岡弘／ママ:榊原良子／陰木さん:京田尚之／幸子:江森浩子／ノンちゃん:渕崎ゆり子／サントス:塩沢兼人／松久庵主人:仲木隆司／おかみ:達依久子／ソバ屋:松尾銀三／客:坂東耕一郎"
+staff: "[スタッフ]<br>原作:藤子・Ｆ・不二雄／チーフディレクター:原恵一／シリーズ構成・文芸:桶谷顕／作画監督:高倉佳彦／脚本:桶谷顕／美術監督:川井憲／撮影監督:斉藤秋男／録音監督:浦上靖夫／音楽:田中公平"
+produced_year: "[製作年]<br>1988年"
+copyright: "©藤子プロ／シンエイ・小学館"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: エスパー魔美【デジタルリマスター版】

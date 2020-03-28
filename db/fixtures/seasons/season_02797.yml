@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: アタックNo.1　富士見学園の新星
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/32/5/23325_1_8_8b.png?1580450933000
+outline: 東京の名門中学から転校してきた鮎川こずえは、劣等生ばかりで即席バレー部を作り、レギュラーチームを負かしてしまった。こずえはキャプテンに推薦され、劣等生グループも正式に入部した。しかし、その後転校してきた早川みどりに、一度はその座を奪われてしまう。だが、チームはみどりのワンマンプレーのために最初の試合で惨敗。チームワークの重要性を初めて知ったみどりは、こずえとのアタック・コンビを完成させ、日本一を目指し歩き始めるのだった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 増山江威子
+  type: cast
+- !ruby/hash:TagHash
+  name: 森功至
+  type: cast
+- !ruby/hash:TagHash
+  name: 仲村秀生
+  type: cast
+- !ruby/hash:TagHash
+  name: 栗葉子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小鳩くるみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂井すみ江
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺岳夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：岡部英二
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：浦野千賀子
+  type: staff
+- !ruby/hash:TagHash
+  name: アタックNo.1シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1970年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 東京の名門中学から転校してきた鮎川こずえは、劣等生ばかりで即席バレー部を作り、レギュラーチームを負かしてしまった。こずえはキャプテンに推薦され、劣等生グループも正式に入部した。しかし、その後転校してきた早川みどりに、一度はその座を奪われてしまう。だが、チームはみどりのワンマンプレーのために最初の試合で惨敗。チームワークの重要性を初めて知ったみどりは、こずえとのアタック・コンビを完成させ、日本一を目指し歩き始めるのだった。<br><br>鮎原こずえ:小鳩くるみ／早川みどり:坂井すみえ／一ノ瀬努:森功至／本郷先生:仲村秀生／大沼みゆき:栗葉子／真木村京子:増山江威子<br><br>原作:浦野千賀子／脚本:田村多津夫、辻真先、小沢洋、出崎哲／作画監督:竹内留吉、若林哲弘、吉田茂承／美術監督:池田準／撮影監督:清水達正／音楽:渡辺岳夫／録音監督:山崎あきら／演出:岡部英二<br><br>©浦野千賀子・ＴＭＳ<br><br>次話→so36317964
+  length_seconds: 1714
+  content_id: so36317937
+  default_thread_id: 1580785623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36317937/36317937.60760233
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 東京の名門中学から転校してきた鮎川こずえは、劣等生ばかりで即席バレー部を作り、レギュラーチームを負かしてしまった。こずえはキャプテンに推薦され、劣等生グループも正式に入部した。しかし、その後転校してきた早川みどりに、一度はその座を奪われてしまう。だが、チームはみどりのワンマンプレーのために最初の試合で惨敗。チームワークの重要性を初めて知ったみどりは、こずえとのアタック・コンビを完成させ、日本一を目指し歩き始めるのだった。<br><br>鮎原こずえ:小鳩くるみ／早川みどり:坂井すみえ／一ノ瀬努:森功至／本郷先生:仲村秀生／大沼みゆき:栗葉子／真木村京子:増山江威子<br><br>原作:浦野千賀子／脚本:田村多津夫、辻真先、小沢洋、出崎哲／作画監督:竹内留吉、若林哲弘、吉田茂承／美術監督:池田準／撮影監督:清水達正／音楽:渡辺岳夫／録音監督:山崎あきら／演出:岡部英二<br><br>©浦野千賀子・ＴＭＳ<br><br>so36317937←前話　第一話→so36317937
+  length_seconds: 2020
+  content_id: so36317964
+  default_thread_id: 1580785629
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36317964/36317964.16927726
+cast: "[キャスト]<br>鮎原こずえ:小鳩くるみ／早川みどり:坂井すみえ／一ノ瀬努:森功至／本郷先生:仲村秀生／大沼みゆき:栗葉子／真木村京子:増山江威子"
+staff: "[スタッフ]<br>原作:浦野千賀子／脚本:田村多津夫、辻真先、小沢洋、出崎哲／作画監督:竹内留吉、若林哲弘、吉田茂承／美術監督:池田準／撮影監督:清水達正／音楽:渡辺岳夫／録音監督:山崎あきら／演出:岡部英二"
+produced_year: "[製作年]<br>1970年"
+copyright: "©浦野千賀子・ＴＭＳ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アタックNo.1
+- !ruby/hash:SeasonHash
+  title: アタックNo.1　涙の回転レシーブ
+- !ruby/hash:SeasonHash
+  title: アタックNo.1　涙の世界選手権
+- !ruby/hash:SeasonHash
+  title: アタックNo.1　涙の不死鳥

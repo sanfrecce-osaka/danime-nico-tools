@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: true tears
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/33/1/22331_1_6.png?1532397606000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/33/1/22331_1_8_8b.png?1551350750000
 outline: 幼い頃のトラウマによって涙を流すことが出来なくなった少女・石動乃絵。彼女は高校生になった今も変わってはいなかった。そんなある日、高校で飼っていたニワトリが誰かに殺されてしまう。その時に知り合った同級生の仲上眞一郎と心を通わせる中で、乃絵は過去のトラウマから開放され、変わって行けるのだろうか…？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 石井真
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：P.A.WORKS
+  name: 監督：西村純二
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：西村純二
+  name: アニメーション制作：P.A.WORKS
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：関口可奈味
@@ -49,6 +49,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2008年
   type: other
+- !ruby/hash:TagHash
+  name: 聖地巡礼
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: "#1"
@@ -61,7 +64,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586274
   default_thread_id: 1532569396
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586274
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586274/33586274.96736890
 - !ruby/hash:EpisodeHash
   episode_no: "#2"
   title: 私…何がしたいの…
@@ -73,7 +76,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586273
   default_thread_id: 1532569390
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586273
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586273/33586273.32976735
 - !ruby/hash:EpisodeHash
   episode_no: "#3"
   title: どうなった？ こないだの話
@@ -85,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586272
   default_thread_id: 1532569394
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586272
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586272/33586272.16401289
 - !ruby/hash:EpisodeHash
   episode_no: "#4"
   title: はい、ぱちぱちってして
@@ -97,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586271
   default_thread_id: 1532569507
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586271
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586271/33586271.12754904
 - !ruby/hash:EpisodeHash
   episode_no: "#5"
   title: おせっかいな男の子ってバカみたい
@@ -109,7 +112,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586270
   default_thread_id: 1532569400
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586270
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586270/33586270.12212840
 - !ruby/hash:EpisodeHash
   episode_no: "#6"
   title: それ…なんの冗談？
@@ -121,7 +124,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586269
   default_thread_id: 1532569386
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586269
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586269/33586269.8780572
 - !ruby/hash:EpisodeHash
   episode_no: "#7"
   title: ちゃんと言って、ここに書いて
@@ -133,7 +136,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586268
   default_thread_id: 1532569511
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586268
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586268/33586268.67025577
 - !ruby/hash:EpisodeHash
   episode_no: "#8"
   title: 雪が降っていない街
@@ -145,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586267
   default_thread_id: 1532569392
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586267
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586267/33586267.26780428
 - !ruby/hash:EpisodeHash
   episode_no: "#9"
   title: なかなか飛べないね
@@ -157,7 +160,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586266
   default_thread_id: 1532569384
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586266
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586266/33586266.5260589
 - !ruby/hash:EpisodeHash
   episode_no: "#10"
   title: 全部ちゃんとするから
@@ -169,7 +172,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586265
   default_thread_id: 1532569402
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586265
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586265/33586265.35351683
 - !ruby/hash:EpisodeHash
   episode_no: "#11"
   title: あなたが好きなのは私じゃない
@@ -181,7 +184,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586264
   default_thread_id: 1532569388
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586264
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586264/33586264.81523531
 - !ruby/hash:EpisodeHash
   episode_no: "#12"
   title: 何も見ていない私の瞳から
@@ -193,7 +196,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586263
   default_thread_id: 1532569505
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586263
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586263/33586263.46374240
 - !ruby/hash:EpisodeHash
   episode_no: "#13"
   title: 君の涙を
@@ -205,7 +208,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33586279
   default_thread_id: 1532569398
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33586279
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33586279/33586279.88560353
 cast: "[キャスト]<br>仲上眞一郎:石井 真／石動乃絵:高垣彩陽／湯浅比呂美:名塚佳織／安藤愛子:井口裕香／野伏三代吉:吉野裕行"
 staff: "[スタッフ]<br>原作:La'cryma／監督:西村純二／シリーズ構成:岡田麿里／キャラクター原案:上田夢人／キャラクターデザイン:関口可奈味／美術監督:竹田悠介+篠原理子／撮影監督:福士
   享／色彩設計:井上佳津枝／音楽:菊地 創／音楽制作:ランティス／音響監督:若林和弘／アニメーション制作:P.A.WORKS"

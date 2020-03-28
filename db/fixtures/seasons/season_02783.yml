@@ -1,0 +1,74 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版アイカツスターズ！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/95/9/22959_1_8_8b.png?1566190831000
+outline: 南の島のイベントに出演するため、四ツ星学園の生徒みんなで旅立ちます！ そこの島には伝説のドレスが眠るという噂が…ゆめとローラの友情物語あり、S4が初めて揃いステージに立ち、さらに伝説のドレスをドレスメイクして…わくわくドキドキのアイカツ！物語がこの夏、映画館を席巻！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 富田美憂
+  type: cast
+- !ruby/hash:TagHash
+  name: 朝井彩加
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：愛敬由紀子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：綿田慎也
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 劇場版アイカツスターズ！
+  description: 南の島のイベントに出演するため、四ツ星学園の生徒みんなで旅立ちます！ そこの島には伝説のドレスが眠るという噂が…ゆめとローラの友情物語あり、S4が初めて揃いステージに立ち、さらに伝説のドレスをドレスメイクして…わくわくドキドキのアイカツ！物語がこの夏、映画館を席巻！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:綿田慎也／脚本:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:佐藤照雄・木村隆一／アニメーション制作:BN
+    Pictures<br><br>©2016 BNP/BANDAI, AIKATSU STARS THE MOVIE
+  length_seconds: 3564
+  content_id: so36197693
+  default_thread_id: 1578417488
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197693/36197693.72629152
+cast: "[キャスト]<br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加"
+staff: "[スタッフ]<br>企画・原作:BN Pictures／原案:バンダイ／監督:綿田慎也／脚本:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:佐藤照雄・木村隆一／アニメーション制作:BN
+  Pictures"
+produced_year: "[製作年]<br>2016年"
+copyright: "©2016 BNP/BANDAI, AIKATSU STARS THE MOVIE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（3rdシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（4thシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツフレンズ！
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+- !ruby/hash:SeasonHash
+  title: アイカツ！～ねらわれた魔法のアイカツ！カード～

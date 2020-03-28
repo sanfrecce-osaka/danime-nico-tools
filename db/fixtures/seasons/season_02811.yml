@@ -1,0 +1,215 @@
+--- !ruby/hash:SeasonHash
+title: 異次元の世界エルハザード
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/27/4/23274_1_8_8b.png?1582249262000
+outline: あのエルハザードの地より新たなる冒険活劇、再び……　藤沢先生と結婚・引退したミーズに代わって、新任の水の大神官であるクァウール・タウラスがロシュタリアに到着した。だがそんな時、次元装置のせいで誠たちは異次元の世界へと飛ばされてしまう。果たして、誠たちの運命は……!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井康嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏樹リオ
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩永哲哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢海陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：長岡成貢
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：菊地康仁
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：奥田淳
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：小林利充
+  type: staff
+- !ruby/hash:TagHash
+  name: エルハザードシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1998年
+  type: other
+- !ruby/hash:TagHash
+  name: 1998年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一夜
+  title: 消えた？水の大神官
+  description: 平穏な日々のロシュタリア。今日は結婚により水の大神官を引退するミーズの後任の大神官が着任する日。遺跡で発掘したジャイロの発光する針の指す方向を辿って河の岸辺までやってきた誠は、意識を失ったまま河に流されていた少女の姿を見つける。実は、誠の救った少女こそが、新たな水の大神官クァウールであった。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>次話→so36428148
+  length_seconds: 1476
+  content_id: so36428195
+  default_thread_id: 1582788363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428195/36428195.88613896
+- !ruby/hash:EpisodeHash
+  episode_no: 第二夜
+  title: 開かれる、未知への扉
+  description: クァウールに大神官は役不足、と思い彼女を試すが裏目、裏目に出てしまうシェーラ。そしていよいよ、クァウールの就任式が始まった。だが、シェーラの姿は誠の研究室に。一人研究室で誠の悪態をつくシェーラ。荒れる彼女は周りに当たり散らしその時、偶然次元装置のディスプレイが点滅し、辺りは光に包まれ始めた……。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428195←前話｜次話→so36428149　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428148
+  default_thread_id: 1582787823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428148/36428148.69112294
+- !ruby/hash:EpisodeHash
+  episode_no: 第三夜
+  title: 舞い降りた、二人の天女
+  description: 次元装置の発動によって誠たちは光に吸い込まれ、異次元の世界へ……。そして誠の飛ばされたところは、巨大な城郭を持つ町の周囲がクレーターで囲まれた都市クレタリアであった。クレタリアの装甲兵に取り囲まれてしまった誠と菜々美は、抵抗虚しく城に連れていかれる。その頃、すでに助けられていたクァウールは……。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428148←前話｜次話→so36428107　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428149
+  default_thread_id: 1582787825
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428149/36428149.76078162
+- !ruby/hash:EpisodeHash
+  episode_no: 第四夜
+  title: 迫り来る、白き甘い罠
+  description: 氷の世界へと飛ばされていた陣内とカツオは倒れているシェーラに遭遇する。その時、陣内はシェーラの下に埋もれている次元装置を発見。この世界に飛ばされる直前、誠の部屋で見た光景から強力な武器だと勝手に確信した陣内。シェーラの手元にある次元装置を奪取すべく、あの手この手で奪いにかかるが……。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428149←前話｜次話→so36428108　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428107
+  default_thread_id: 1582787103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428107/36428107.39872899
+- !ruby/hash:EpisodeHash
+  episode_no: 第五夜
+  title: 夢ひらく、天空の楽園
+  description: 空中農園クランドールへと次元移動した藤沢とミーズ。アフラと再会した二人は、人気のある所へと移動する。村はずれの畑にきた三人は農夫のチャービルと出会う。一行が向かった彼の家には、台所で家事をするルーン王女の姿が……。空中農園へと落ちてきたルーン王女はチャービルに助けられ、恋心が芽生えたのだった。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428107←前話｜次話→so36428109　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428108
+  default_thread_id: 1582787115
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428108/36428108.23947036
+- !ruby/hash:EpisodeHash
+  episode_no: 第六夜
+  title: 商売繁盛、恋の使者
+  description: 動力低下を続けるクレタリアの「命の泉」。そんな時、クレタリア王宮で菜々美が出来立てほっかほかのお弁当を城内の兵士たちに売る商売を始めた。さらに菜々美は、クァウールとの仲をとりもって欲しいと頼むダルに交換条件を持ちかけ、ダルの私室を改造した「レストラン東雲クレタリア店」をオープンしてしまい……!!<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428108←前話｜次話→so36428110　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428109
+  default_thread_id: 1582787114
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428109/36428109.904247
+- !ruby/hash:EpisodeHash
+  episode_no: 第七夜
+  title: 禁じられた・迷宮
+  description: クレタリア王宮にたどり着いたファトラ、アレーレ、パルナス。美女好きファトラは、さっそく城内で見かけたギルダに目をつけた。やっとの思いで王宮内に入った三人だったが、兵士に追いかけ回される始末。その時、一人だけはぐれてしまったファトラは、ギルダを発見。空腹もなんのその一路、ギルダを追って……。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428109←前話｜次話→so36428150　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428110
+  default_thread_id: 1582787105
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428110/36428110.7205819
+- !ruby/hash:EpisodeHash
+  episode_no: 第八夜
+  title: 仕掛けられた・妖艶なる罠
+  description: 次元移動の謎が解明できずに悩む誠は、菜々美が何を言ってもウワの空。そんな時、パルナスが武器庫で不思議な光を見たと言い出し、誠は武器庫へ急ぐ。またしても誠にかまってもらえず、菜々美はご機嫌ナナメ。一方、「全宇宙の支配者に…」の殺し文句をアルージャから言われた陣内は、渋々シェーラを助ける羽目に……。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428110←前話｜次話→so36428151　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428150
+  default_thread_id: 1582788183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428150/36428150.83041628
+- !ruby/hash:EpisodeHash
+  episode_no: 第九夜
+  title: 破られた・聖なる掟
+  description: "「命の泉」の謎の解明に奔走する誠。地下近くの武器庫に「命の泉」から漏れる強力な光を発見。何かを気づく誠だが、待ち伏せしていたギルダたち装甲歩兵に捕らわれ晒し牢へと閉じ込められてしまう。実はクレタリア各地の反乱を鎮めるために「命の泉」の秘められた力を今こそ開放しようとギルダは考えていて……。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428150←前話｜次話→so36428070　第一話→so36428195"
+  length_seconds: 1476
+  content_id: so36428151
+  default_thread_id: 1582787705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428151/36428151.9137559
+- !ruby/hash:EpisodeHash
+  episode_no: 第十夜
+  title: 再びまみえる・宿命のライバル
+  description: ついにギルダが謀反を起こす。だが肝心の皇帝・ダル拘束に失敗したギルダ。「命の泉」の制御パスワードはダルのみが知っているのであった。一方、未だ晒し牢に囚われの身の誠。脱出を試みる誠だったが、牢をつるしている鎖がちぎれ、牢ごと真っ逆さまに急降下。だが間一髪クァウールの法力によって救われる。<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428151←前話｜次話→so36428069　第一話→so36428195
+  length_seconds: 1476
+  content_id: so36428070
+  default_thread_id: 1582786443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428070/36428070.50502485
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一夜
+  title: 封印された・あやまち
+  description: "「命の泉」の第一の封印が解かれた。その内部は、「神の目」とまったく同じ構造であった。ついに姿を現したアルージャは、誠の異能力を使って「命の泉」の制御パスワードを解けと命じる。仲間の命を盾にとられた誠は、仕方なく「命の泉」と一体化しパスワードに近づく。そして、封印された最後の扉が今、開かれた!!<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428070←前話｜次話→so36428068　第一話→so36428195"
+  length_seconds: 1476
+  content_id: so36428069
+  default_thread_id: 1582786622
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428069/36428069.45596934
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二夜
+  title: 忌わしき・天空の扉
+  description: クレタリア城の上空を覆う巨大な影。ついに「命の泉」が本当の姿を現した。三神官が協力して行うべき「神の目」の封印を一人で行う決心をしていたクァウール。それを知ったシェーラは急ぎ「神の目」に向かい、上空からはアフラの姿も……。果たして誠たちは無事、「神の目」の発動を止め、元の世界へ帰還できるだろうか？<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428069←前話｜次話→so36428067　第一話→so36428195
+  length_seconds: 1446
+  content_id: so36428068
+  default_thread_id: 1582786628
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428068/36428068.25272798
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三夜
+  title: 魅惑・誘惑・みそぎの夜!!
+  description: 無事に異次元の旅から帰ってきた誠たち一行を待ち受けていたのは、三神官のみそぎの儀式。というと聞こえはいいが、いわゆる温泉旅行だ。美少女好きのファトラがこのチャンスを逃すわけがない。なんとかクァウールに近づくべく、アレーレと二人で練った作戦とは……?!<br><br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+    ほか<br><br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢<br><br>©AIC
+    NBCUniversal Entertainment<br><br>so36428068←前話　第一話→so36428195
+  length_seconds: 1459
+  content_id: so36428067
+  default_thread_id: 1582786630
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428067/36428067.94701439
+cast: "[キャスト]<br>水原誠:岩永哲哉／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢先生:石井康嗣／アレーレ:小桜エツ子／クァウール･タウラス:坂本真綾／ディーバ:沢海陽子／ギルダ:玉川紗己子／ダル:子安武人
+  ほか"
+staff: "[スタッフ]<br>企画:真木太郎、三浦 亨／原案:林 宏樹／監督:菊地康仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳、小林利充／デザインワークス:渡辺浩二／音響監督:本田保則／音楽:長岡成貢"
+produced_year: "[製作年]<br>1998年"
+copyright: "©AIC NBCUniversal Entertainment"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 神秘の世界エルハザード　TV

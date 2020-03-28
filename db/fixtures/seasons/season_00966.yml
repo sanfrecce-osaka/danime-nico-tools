@@ -92,5 +92,3 @@ related_seasons: !ruby/array:Hashie::Array
   title: デジモンテイマーズ 暴走デジモン特急
 - !ruby/hash:SeasonHash
   title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
-- !ruby/hash:SeasonHash
-  title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～

@@ -1,0 +1,62 @@
+--- !ruby/hash:SeasonHash
+title: ムダヅモ無き改革
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/24/6/23246_1_8_8b.png?1581305600000
+outline: 元内閣総理大臣の小泉ジュンイチローが得意の「麻雀外交」で外敵を次々となぎ倒す痛快麻雀アクション活劇。ネットを中心に、ニュース番組でも取り上げられ、爆発的な人気となった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 福山潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 有本欽隆
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：水島努
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ＴＹＯアニメーションズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：高木隆次
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：大和田秀樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話／第2話／第3話
+  title: ''
+  description: 第1話：パパブッシュ立ち会いの下で行われる日朝首脳会談を前に、ジュンイチローは何者かの狙撃に倒れてしまう。太平洋上に浮かぶアメリカ軍第七艦隊の空母の上でジュンイチローの到着を待つタイゾーに、金将軍たちの魔の手が迫る……。／第2話：中国三峡ダムで行われる日中首脳会談。彼の地での麻雀対決に招かれたジュンイチローは、鳩ポッポ首相と共に、コ国家主席、オン首相と卓を囲む。なぜか繰り出される鳩ポッポの妨害に、苦戦を強いられるジュンイチローだったが……。／第3話：ジュンイチローの激闘が、北京故宮の霊廟から、伝説とも言えるあの男――毛沢東を呼び起こしてしまう。天安門広場で繰り広げられる熾烈な戦い。建国の父である毛の豪運に、ジュンイチローは太刀打ち出来るのか……。<br><br>小泉ジュンイチロー:森川智之／タイゾー:福山
+    潤／ゆかりタン:伊藤 静／麻生タロー:有本欽隆／パパブッシュ:玄田哲章／ブッシュJr:飛田展男<br><br>原作:大和田秀樹／連載:近代麻雀（竹書房 刊）／監督:水島
+    努／脚本:大和田秀樹／音響監督:岩浪美和／音楽:高木隆次／制作:TYOアニメーションズ／製作:「ムダヅモ無き改革」製作委員会<br><br>©大和田秀樹／『ムダヅモ無き改革』製作委員会
+  length_seconds: 1614
+  content_id: so36368331
+  default_thread_id: 1581717144
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368331/36368331.95781611
+cast: "[キャスト]<br>小泉ジュンイチロー:森川智之／タイゾー:福山 潤／ゆかりタン:伊藤 静／麻生タロー:有本欽隆／パパブッシュ:玄田哲章／ブッシュJr:飛田展男"
+staff: "[スタッフ]<br>原作:大和田秀樹／連載:近代麻雀（竹書房 刊）／監督:水島 努／脚本:大和田秀樹／音響監督:岩浪美和／音楽:高木隆次／制作:TYOアニメーションズ／製作:「ムダヅモ無き改革」製作委員会"
+produced_year: "[製作年]<br>2009年"
+copyright: "©大和田秀樹／『ムダヅモ無き改革』製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

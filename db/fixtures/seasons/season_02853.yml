@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: 景山民夫のダブルファンタジー「南洋ホテル【デジタルリマスター版】」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/09/7/23097_1_8_8b.png?1575968408000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎たくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 茶風林
+  type: cast
+- !ruby/hash:TagHash
+  name: 広瀬正志
+  type: cast
+- !ruby/hash:TagHash
+  name: 池水通洋
+  type: cast
+- !ruby/hash:TagHash
+  name: 松尾銀三
+  type: cast
+- !ruby/hash:TagHash
+  name: 林玉緒
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田礼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西宏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：景山民夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 景山民夫のダブルファンタジーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: 南洋ホテル
+  description: 羽根沢:池水通洋／吉野:茶風林／運転手:緒方賢一／入国管理官:松尾銀三／税関:広瀬正志／別れた妻:山田礼子／フロント係:山崎たくみ／女の子Ａ:林玉緒／女の子Ｂ:西宏子<br><br>原作:景山民夫<br><br>©景山民夫／シンエイ
+  length_seconds: 801
+  content_id: so36263967
+  default_thread_id: 1579746190
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36263967/36263967.82157811
+cast: "[キャスト]<br>羽根沢:池水通洋／吉野:茶風林／運転手:緒方賢一／入国管理官:松尾銀三／税関:広瀬正志／別れた妻:山田礼子／フロント係:山崎たくみ／女の子Ａ:林玉緒／女の子Ｂ:西宏子"
+staff: "[スタッフ]<br>原作:景山民夫"
+produced_year: "[製作年]<br>1994年"
+copyright: "©景山民夫／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 景山民夫のダブルファンタジー「サイケデリック航空【デジタルリマスター版】」

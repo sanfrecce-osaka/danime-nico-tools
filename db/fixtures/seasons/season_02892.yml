@@ -1,0 +1,308 @@
+--- !ruby/hash:SeasonHash
+title: 紅 三四郎
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/29/9/23299_1_8_8b.png?1581305532000
+outline: 父が創始した新格闘術“紅流”を受け継ぐ青年、紅三四郎。決闘で父を殺害した謎の格闘家を探し出して倒すため、真紅のバイクに跨り旅に出る。彼を慕う少年ケン坊と愛犬のボケと共に、仇の男を探して世界中を巡る三四郎。真っ赤な胴着を身に纏い、次々襲い来る強敵に必殺の紅流が飛ぶ
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 大竹宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 西川幾雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 雷門ケン坊
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：タツノコプロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：越部信義
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉田竜夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：九里一平
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1960年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1969年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 紅の風雲児
+  description: 父が編み出した新格闘術”紅流”を受け継ぐ青年・紅三四郎。父の仇である武術家を探し、謎の男の言葉に従って幽霊船と恐れられる貨物船に忍び込む。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>次話→so36359072
+  length_seconds: 1463
+  content_id: so36359029
+  default_thread_id: 1581563107
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359029/36359029.51258948
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 摩天楼の片目
+  description: ビルの林立する夜の大都会へとやってきた三四郎は、突然何者かに狙撃される。意識を失った彼を助けたのは、車椅子の少女ミリイとその兄だった。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359029←前話｜次話→so36359086　第一話→so36359029
+  length_seconds: 1463
+  content_id: so36359072
+  default_thread_id: 1581564426
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359072/36359072.41089657
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 猫魔族の挑戦
+  description: 父の仇の居場所を探し、暗い森を進む三四郎。その奥深くで、凶暴な山猫の群れとそれを操る謎の集団・猫魔族に襲われる。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359072←前話｜次話→so36359088　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359086
+  default_thread_id: 1581565689
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359086/36359086.11486630
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 燃ゆる大平原
+  description: 馬賊が暴れ回る国へとやってきた三四郎は、悪漢に追われる少女と老人を助ける。しかし、老人は命を落とし、少女を目的地まで送ることとなった。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359086←前話｜次話→so36359109　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359088
+  default_thread_id: 1581564963
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359088/36359088.99000585
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 荒野の暴れん坊
+  description: 仇の男と対決したという人物を訪ねた三四郎であったが、その男は殺されていた。殺害容疑がかけられた三四郎に、男の兄が襲い掛かる。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359088←前話｜次話→so36359133　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359109
+  default_thread_id: 1581564970
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359109/36359109.3524803
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 必殺！紅十字星
+  description: 渓谷を走る列車が、天邪教という集団に襲われた。偶然乗り合わせた三四郎は、病気の姉に薬を届けるという少年と、暴走する列車から脱出する。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359109←前話｜次話→so36359134　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359133
+  default_thread_id: 1581565695
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359133/36359133.53592967
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 海の虎（ハリマオ）
+  description: 殺された船員の言葉から、仇と思わしき男に会うために貨物船に乗り込む三四郎。海に沈んだ金貨を巡り、十年前から続く忌まわしい事件に巻き込まれる。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359133←前話｜次話→so36359164　第一話→so36359029
+  length_seconds: 1463
+  content_id: so36359134
+  default_thread_id: 1581565697
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359134/36359134.7097193
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 魔の超人マシン
+  description: シャドーマンと呼ばれる覆面強盗団に襲われた三四郎。謎の博士によってコントロール装置を埋め込まれ、身体の自由を奪われその仲間にされてしまう。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359134←前話｜次話→so36359165　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359164
+  default_thread_id: 1581566043
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359164/36359164.52600065
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 白銀の対決
+  description: 父を殺したのと同じ技を使う男と出会った三四郎は、その男こそ仇であると確信し後を追う。しかし、返り討ちに合い、谷底に転落してしまう。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359164←前話｜次話→so36359166　第一話→so36359029
+  length_seconds: 1463
+  content_id: so36359165
+  default_thread_id: 1581566343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359165/36359165.39045356
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 幻の独眼帝王
+  description: 占い師の言葉に触発された三四郎は、砂漠の城へと向かう。そこはかつて武術で栄えた古代王国の城で、亡霊たちが三四郎に襲い掛かる。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359165←前話｜次話→so36359112　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359166
+  default_thread_id: 1581565803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359166/36359166.57445499
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: キリマンジャロの戦士
+  description: 旅の途中で出会った兄を探す少女と、キリマンジャロの村を訪れた三四郎。文明人を嫌う村民に捕らわれるが、そのリーダーこそが彼女の兄であった。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359166←前話｜次話→so36359111　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359112
+  default_thread_id: 1581565683
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359112/36359112.26711028
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 夕陽の決闘
+  description: 墓場だらけの村へとやってきた三四郎。静まり返りまるでゴーストタウンのようなその村は、５人のならず者に脅かされていた。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359112←前話｜次話→so36359110　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359111
+  default_thread_id: 1581565691
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359111/36359111.43891692
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 紅脱出作戦
+  description: 突然スパイ容疑を掛けられた三四郎は、要塞のような刑務所に投獄される。裁判もなく死刑を宣告され、隣の独房の女スパイと脱獄を図ることに。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359111←前話｜次話→so36359085　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359110
+  default_thread_id: 1581565687
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359110/36359110.3999582
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 殺し屋オリンピック
+  description: ギャングのボスが集まって殺し屋のオリンピックを開き、大ボスの後継者を決めるという。秘密警察に内偵を依頼された三四郎は、ギャングの会合に潜り込む。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359110←前話｜次話→so36359084　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359085
+  default_thread_id: 1581564971
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359085/36359085.98921166
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 決死の復讐犬
+  description: 野犬の群れに襲われている男を救い、屋敷に招待された三四郎達。そこに住む男の姪である少女に頼まれ、ケン坊は彼女を屋敷から抜け出させる。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359085←前話｜次話→so36359073　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359084
+  default_thread_id: 1581564973
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359084/36359084.9025677
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 地獄の三四郎
+  description: 悪徳高利貸しに騙され、借金に追われる孤児院。偶然通りかかり、暴れる借金取りを追い払った三四郎は、借金返済のために武術大会に出場する。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359084←前話｜次話→so36359074　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359073
+  default_thread_id: 1581564423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359073/36359073.43241982
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 片目の鬼将軍
+  description: 戦車部隊を指揮する将軍を探して、紛争地帯へとやって来た三四郎。銃弾の飛び交う中、ならず者部隊のくせ者たちと共に戦場を進む。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359073←前話｜次話→so36359075　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359074
+  default_thread_id: 1581564427
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359074/36359074.30549943
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 墓場をあばけ
+  description: 森の古城に暮らす父娘を狙う、処刑された提督の亡霊。怪しい使用人たちの徘徊する城で、三四郎は亡霊の正体を暴こうとする。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359074←前話｜次話→so36359076　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359075
+  default_thread_id: 1581564431
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359075/36359075.75203631
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 裏切りの報酬
+  description: 犯罪組織から抜けて恋人と暮らすため、組織の金を持ち出して逃走を図った男。負傷した彼を助けた三四郎であったが、部屋を空けた隙に男は捕らわれてしまった。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359075←前話｜次話→so36359030　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359076
+  default_thread_id: 1581564429
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359076/36359076.61447949
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 片目の白虎　前編
+  description: ついに仇の男と対峙した三四郎であったが、あえなく敗北する。失意の中、紅流を捨てようとするが、自分と同様に白虎を父の仇と狙う少年に出会う。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359076←前話｜次話→so36359031　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359030
+  default_thread_id: 1581563225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359030/36359030.3913659
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 片目の白虎　後編
+  description: 白虎を倒そうとする少年カミールを鍛えるうちに、闘志を取り戻していく三四郎。紅流を学んだカミールと共に、白虎に闘いを挑む。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359030←前話｜次話→so36359032　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359031
+  default_thread_id: 1581562863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359031/36359031.1401046
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 必殺マグマ流
+  description: 険しい岩山を進んでいた三四郎は、貴重な鉱石を探す怪しい一団に襲われる。ケン坊を人質に取られ探索を手伝わされた三四郎は、地底の王国へと迷い込む。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359031←前話｜次話→so36359033　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359032
+  default_thread_id: 1581562865
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359032/36359032.7245206
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 三四郎絶体絶命
+  description: 立ち寄った村で村長の殺害容疑を掛けられ、投獄された三四郎。疑いを晴らす為に脱獄するが、村人たちに追い詰められていく。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359032←前話｜次話→so36359034　第一話→so36359029
+  length_seconds: 1463
+  content_id: so36359033
+  default_thread_id: 1581562805
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359033/36359033.38851241
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 極意 天地崩し
+  description: 突如サーカスに現れ、団長に詰め寄る一人の男。三四郎は団長の娘の手を借り、サーカスに潜り込んで再び男が現れるのを待つことに。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359033←前話｜次話→so36359035　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359034
+  default_thread_id: 1581563102
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359034/36359034.6988860
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 猿人殺法
+  description: ジャングルの村の襲撃者を探し、三四郎は川の上流へと向かう。そこで服を着て道具を使う、巨大な猿の集団に襲われる。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359034←前話｜次話→so36359017　第一話→so36359029
+  length_seconds: 1462
+  content_id: so36359035
+  default_thread_id: 1581563227
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359035/36359035.73964137
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 秘剣 美少女
+  description: 剣術使いの少女マリと出会った三四郎。父親を探しているというマリと途中まで一緒の旅となるが、彼女が向かった街は犯罪者たちの巣窟であった。<br><br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹
+    宏／ナレーター:内海賢二<br><br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ<br><br>©タツノコプロ<br><br>so36359035←前話　第一話→so36359029
+  length_seconds: 1461
+  content_id: so36359017
+  default_thread_id: 1581562568
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36359017/36359017.90766711
+cast: "[キャスト]<br>紅三四郎:西川幾雄／ケン坊:雷門ケン坊／ボケ:大竹 宏／ナレーター:内海賢二"
+staff: "[スタッフ]<br>原作:吉田竜夫／企画:鳥海尽三／音楽:越部信義、音楽企画センター／プロデューサー:吉田健二／総監督:九里一平／制作:タツノコプロ"
+produced_year: "[製作年]<br>1969年"
+copyright: "© タツノコプロ"
+related_seasons: !ruby/array:Hashie::Array []

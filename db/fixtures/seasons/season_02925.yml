@@ -1,0 +1,72 @@
+--- !ruby/hash:SeasonHash
+title: 最終兵器彼女　Another love song
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/36/7/10367_1_8_8b.png?1581930046000
+outline: 原作は小学館ビッグコミックスピリッツで連載された高橋しんの人気コミック。全13話でテレビアニメ化されてから3年後に製作されたスピンオフOVA。テレビシリーズで好評だったメイン・スタッフが再結集!原作にはない“もうひとつの最終兵器”が登場、切ないラブストーリーが展開される。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 三木眞一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 家弓家正
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：香川久
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：加瀬充子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：高橋しん
+  type: staff
+- !ruby/hash:TagHash
+  name: 最終兵器彼女シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: MISSION:1
+  title: ''
+  description: 戦闘機が飛び交う博多上空。福岡ドーム周辺は火の海と化していた。そんな中、上空に一点、謎の光が現れた。敵の攻撃を受けながら、敢然と戦う、その兵器の活躍で敵機は砕かれていく。それは、ちせとは別の“もう一つの最終兵器”だった。一方、自分の意志とは無関係に兵器にされたちせは、シュウジを想い、苦しんでいた。<br><br>ちせ:折笠
+    富美子／テツ:三木 眞一郎／ミズキ:折笠愛／ミナモト:家弓家正<br><br>原作:高橋 しん／監督:加瀬 充子／脚本:江良至／キャラクターデザイン・総作画監督:香川
+    久<br><br>©2005高橋しん/小学館・東映ビデオ・東北新社・中部日本放送<br><br>次話→so36432719
+  length_seconds: 1797
+  content_id: so36432792
+  default_thread_id: 1582873383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36432792/36432792.89232062
+- !ruby/hash:EpisodeHash
+  episode_no: MISSION:2
+  title: ''
+  description: 司令部は東京に向って北上している敵艦隊を発見。その頃、他部隊と合流し東京に向かっていたテツは、唯一信頼した上官ミズキのことを話していた。敵の攻撃によりテツ達の部隊は次第に孤立する。そこへ、ちせが駆けつけ瞬時に敵を撃退。「私は悪魔、私は死神、私は化け物・・・」ちせは苦しんでいた。<br><br>ちせ:折笠
+    富美子／テツ:三木 眞一郎／ミズキ:折笠愛／ミナモト:家弓家正<br><br>原作:高橋 しん／監督:加瀬 充子／脚本:江良至／キャラクターデザイン・総作画監督:香川
+    久<br><br>©2005高橋しん/小学館・東映ビデオ・東北新社・中部日本放送<br><br>so36432792←前話　第一話→so36432792
+  length_seconds: 1770
+  content_id: so36432719
+  default_thread_id: 1582872909
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36432719/36432719.47579067
+cast: "[キャスト]<br>ちせ:折笠 富美子／テツ:三木 眞一郎／ミズキ:折笠愛／ミナモト:家弓家正"
+staff: "[スタッフ]<br>原作:高橋 しん／監督:加瀬 充子／脚本:江良至／キャラクターデザイン・総作画監督:香川 久"
+produced_year: "[製作年]<br>2005年"
+copyright: "©2005高橋しん/小学館・東映ビデオ・東北新社・中部日本放送"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 最終兵器彼女

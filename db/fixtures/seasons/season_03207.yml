@@ -1,0 +1,152 @@
+--- !ruby/hash:SeasonHash
+title: RAY THE ANIMATION
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/22/7/10227_1_8_8b.png?1581930275000
+outline: "『ブラック・ジャック』と名乗る天才外科医に｢物質を透視できる眼｣を移植され、自らも外科医となった美人外科医『零』。彼女は過去に名前も与えられず、ある｢組織｣によって同じ境遇の仲間たちと｢白い部屋｣で飼育されていた。あの運命の日、｢Hの指輪をした男｣に両眼を奪われ、誰かの手によって助けだされるまで。そして10年たった今、零は追い続ける……。自分の眼を奪った相手、｢白い部屋｣の仲間、そして自分自身を……。数々の難病、難事件を解決していきながら、｢組織｣に迫る、RAYの秘密が今ここに解き明かされる!"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 2006年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "｢神の目｣"
+  description: 零は病院に勤務することになったある夜、事故に出くわし、そこで沢病院の看護婦である美里と出会う。患部も見ずに的確な処置をする零に驚く美里。零はブラック・ジャックと名乗る謎の無免許医に移植された｢透視能力を持つ眼｣を使う天才外科医なのだ。零が沢病院へ来た早々、麻薬密売組織の一員であるという重症患者が運び込まれた。臨床実験もしていない新薬を使わないとこの男は救えない。男の口封じの為に麻薬密売組織も動き出した。沢院長は零に手術の依頼をする…。<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>次話→so36423191
+  length_seconds: 1451
+  content_id: so36423190
+  default_thread_id: 1582698543
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423190/36423190.31432874
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "｢パートナー｣"
+  description: 零のよき協力者であり、人工臓器開発のエキスパートである篠山。篠山は完全内蔵型の人工心臓の開発に成功した。しかしまだ大きすぎて実用はできそうにない。そんな折、零は沢病院に入院していた重度の心臓病患者・杏奈の担当になった。杏奈は長い入院生活で荒む一方。姉の環奈はそんな杏奈を励まし続けるのだが、杏奈の手術に必要な心臓のドナーがみつからない。意を決した環奈は、零に｢自分の心臓を使って欲しい｣と頼むのだが…。<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423190←前話｜次話→so36423192　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423191
+  default_thread_id: 1582698130
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423191/36423191.53342128
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "｢ガラス越しの風景｣"
+  description: 篠山の車で海に向かう美里たちと零。海が近づき、浮かれる一同だが、遊びに来た訳ではない。海辺にある水族館の水槽の中に今回の患者はいた!特殊な病原菌に冒され、水中でないと菌に対する抵抗を維持できない為、水中から出られない少年。零は沢病院に長期入院している少年・賢治とその水中の少年の姿を重ね合わせる…賢治は空気感染を避ける為ガラス張りの密室で生活しているのだ。意を決して水中手術に挑む零だが、突然水族館全体が停電した!<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423191←前話｜次話→so36423193　第一話→so36423190
+  length_seconds: 1451
+  content_id: so36423192
+  default_thread_id: 1582698128
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423192/36423192.88152410
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "｢赤いリボン｣"
+  description: 忌まわしくも懐かしい｢白い部屋｣の記憶…。10年前、沢に救い出されるまでそこにいた零は、そこで一緒に育った無痛症(人体実験でそういう身体にされている)の少女と再会する。それぞれ名前もなく愛称で呼び合っていた仲間たち…赤いリボンの少女｢アカリボン｣。再会を喜び、他の仲間たちの消息を知りたがる零だが、アカリボンはすべての記憶を失っていた。そして、アカリボンの体内で何かが起こった!<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423192←前話｜次話→so36423194　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423193
+  default_thread_id: 1582698554
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423193/36423193.79879381
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "｢成り代わり｣"
+  description: 沢病院に担ぎ込まれた緊急患者大山さやかは原因不明の皮膚の裂傷や骨折を繰り返していた。｢何かに憑かれているような｣症状を前に零は、7年前の不思議な体験を回想する。火土(ひと)神社の巫女だった幼馴染の雅(みやび)が封印の儀式を終えた後、腹部から不気味な肉塊のような腫瘍が出来、みるみる巨大化していったのだ。零は雅を救うため、無我夢中で初めての手術に挑んだのだった。それは｢人に成り代わりたい｣火土神の仕業だったのか?そして今、さやかは｢あの人が傷つくと私も傷つく…あの人と私は一心同体｣と語りだす。｢あの人｣の正体とは?<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423193←前話｜次話→so36423195　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423194
+  default_thread_id: 1582698546
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423194/36423194.51585882
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "｢贈りもの｣"
+  description: ある日、零の元に｢ガラスのメス｣が送られてきた。これに呼応するように電気機器が一斉に使えなくなり、金属のメスが使えない状況の患者が運び込まれた。25歳のその患者は体中の細胞機能が低下し、急激な老化が進行していた。そしてその男浅田はかつて零やアカリボンを監禁していた｢組織｣の一員だったのだ。｢組織｣の手掛かりでもあるその男をなんとしても救うべく、零は一連の現象の原因である生体磁石を取り除くため、送られた硬質ガラスのメスでオペを開始する。｢ガラスのメス｣の送り主は誰だったのか?<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423194←前話｜次話→so36423196　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423195
+  default_thread_id: 1582698134
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423195/36423195.51776575
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: "｢想い人｣"
+  description: 美里の友人であるという｢堀内ライフメーカー｣の社長令嬢堀内すみれの誕生パーティに招待される零や篠山たち。しかし、すみれのお目当ては篠山だった。すみれにとって篠山は初恋の相手だった。すみれは10年以上海外で暮らしていたが、その間も篠山の事を想い続けていたのだという。思わぬ告白にたじろぐ篠山。零も篠山とすみれの関係に困惑している自分に気づく。しかし、すみれの身体には重大な秘密が…!<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423195←前話｜次話→so36423197　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423196
+  default_thread_id: 1582698125
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423196/36423196.20185878
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: "｢蠢く過去｣"
+  description: かつて｢白い部屋｣で想い人だったコーイチと篠山の間で揺れる零。原因不明の高熱を出し、｢身体の中に何かいる｣という酒井香織の緊急手術をする事になる。だが、零の透視能力を使っても患部を見極められない。｢精神的な理由じゃない?｣と美里に諭される零。白い部屋の…コーイチの記憶を辿る零。｢恋人同志だよ…二人は…｣とアカリボン。やがて香織の体内に巣食うものの正体『毒性のカビ=フンギ』が明らかになる。そしてそれは零がかつて白い部屋で零の友達だった｢ハナちゃん｣を死に至らせたものでもあった。<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423196←前話｜次話→so36423198　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423197
+  default_thread_id: 1582698123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423197/36423197.74807818
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: "｢現し身｣"
+  description: "『フンギ』事件から｢組織｣への糸口を掴んだ零と篠山は雪に閉ざされた村｢蛍谷｣へ向かう。この村は無人の廃村になった筈なのだが、地主である大守部家の鉄蔵とそのひとり娘だけが暮らしていて、そのひとり娘小枝子は鉄蔵の養女だった。小枝子の同級生だった拓巳は学校に来なくなった小枝子を心配し、見舞おうとするが、鉄蔵の異常な愛情に拒まれていた。大守部家を訪ねる零と篠山もライフルで脅され追い返されようとする。…が、その時、小枝子が発作で苦しみだした。小枝子は鉄蔵の妻であった｢小枝子｣と同じ持病を発生させていた…。<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423197←前話｜次話→so36423199　第一話→so36423190"
+  length_seconds: 1452
+  content_id: so36423198
+  default_thread_id: 1582698845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423198/36423198.15410996
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: "｢再会｣"
+  description: "｢蛍谷｣事件から組織がクローンビジネスを行っている事を知る零たち。しかも零は自分と｢同じ顔｣の女に襲われた。そして最近頻繁に見る｢自分の記憶に無いリアルな夢｣。零はある確信を持った。｢真実がどうであれ、お前の過去に何があっても、俺にとっちゃ何も変わらねぇ｣と篠山。その言葉を支えに｢確信｣について…自分が誰かのクローンであるという事実について、育ての母である春日野に尋ねる零。春日野は語り始める。30年前の事を。春日野と、沢ともうひとりの男…｢組織｣のボスである｢Hリングの男｣が、かつて語り合った夢とは…<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423198←前話｜次話→so36423200　第一話→so36423190"
+  length_seconds: 1452
+  content_id: so36423199
+  default_thread_id: 1582698132
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423199/36423199.24035243
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: "｢哀してる…｣"
+  description: Hリングの男の居場所が判明した。コーイチとの再会に心が揺れる零だが、美里に｢零にとって一番大切なのは何か｣と問われ、｢これが私の答よ｣と、一人でHリングの男のもとに向かう。篠山も｢俺も一番大切なものの為にやってるんだ｣と零に同行する。零と同じ顔をした女ONEに成りすまし、Hリングの男の部屋に着く零。しかし、Hリングの男は｢待っていたよ｣と零を迎え入れる。そして零が一番知りたかった事、そして知らなければ幸せだったかもしれない衝撃の事実を語り始める…。<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423199←前話｜次話→so36423201　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423200
+  default_thread_id: 1582698846
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423200/36423200.27416072
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: "｢嘆きの楽園｣"
+  description: 衝撃の事実を知り消沈している零に、失踪していたアカリボンから電話が…。｢今、とっても素敵なところにいるの。コーイチも一緒だよ｣と。戸惑いながらも篠山と共に指定された場所に向かう零。そこには、広大な炭鉱跡の地下に昔日の町並みが再現されていた。少しずつ、この町の｢記憶｣を思い出していく零。そして、町で待っていたコーイチに案内された零が、その眼で見たものとは…。<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423200←前話｜次話→so36423202　第一話→so36423190
+  length_seconds: 1452
+  content_id: so36423201
+  default_thread_id: 1582698552
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423201/36423201.39883590
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: "｢命｣＜最終話＞"
+  description: 爆発炎上し崩落する昔日の町。瓦礫の中で意識を失った零が目覚めると、｢やっと夢が叶った｣と笑顔のコーイチとアカリボンが。そこは地図にもない小さな島だった。そこで｢すべてを見た｣零は…。そして零の眼は…<br><br>©2005
+    吉富昭仁・秋田書店/RAY PROJECT<br><br>so36423201←前話　第一話→so36423190
+  length_seconds: 1432
+  content_id: so36423202
+  default_thread_id: 1582698550
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423202/36423202.63241844
+produced_year: "[製作年]<br>2005年"
+copyright: "© 2005 吉富昭仁・秋田書店/RAY PROJECT"
+related_seasons: !ruby/array:Hashie::Array []

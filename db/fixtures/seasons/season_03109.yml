@@ -1,0 +1,101 @@
+--- !ruby/hash:SeasonHash
+title: VENUS PROJECT-CLIMAX-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/22/1/20221_1_8_8b.png?1581917912000
+outline: 今より少し未来の日本。情報端末や映像技術が高度に発達している世界。 人々は新たなエンターテイメントに熱狂していた。 ”FORMULA VENUS（フォーミュラ・ヴィーナス）”
+  通称”F-V”と呼ばれるこのエンターテイメントは、選ばれしトップアイドルが己の力と技と、 培ってきたすべての経験を生かしパフォーマンスを競い合うライブバトルである。
+  この物語は『VENUS PROJECT」への切符を手にした少女たちが アイドルの最高峰を目指し、激しい戦いに身を投じ、熱き血潮をたぎらせ、 努力し、友との友情の中、勝利を目指す姿をドラマ化したものである。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 飯田里穂
+  type: cast
+- !ruby/hash:TagHash
+  name: 秦佐和子
+  type: cast
+- !ruby/hash:TagHash
+  name: 早瀬莉花
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ノーマッド
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中山岳洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2015年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "「開幕、クライマックス！」"
+  description: アイドルのパフォーマンス能力をヴァーチャル・リアリティで具現化し、闘わせる新世代型ライブバトル・エンターテイメント、フォーミュラ・ヴィーナス。トップアイドルへの夢を胸に抱く原エリコ、深窓の令嬢・濡羽美烏、そして、故国の未来を背負って優勝を目指す流華・ソバガスキー。エリコ達の熱い闘いが、今、はじまる！<br><br>原エリコ:秦佐和子／流華・ソバガスキー:飯田里穂／濡羽美鳥:早瀬莉花<br><br>監督:中山岳洋／脚本:雑破業／音響監督:平光琢也／アニメ制作:ノーマッド／製作:FormulaVenus実行委員会<br><br>（C）GALAT/FormulaVenus実行委員会<br><br>次話→so36367713
+  length_seconds: 1299
+  content_id: so36367676
+  default_thread_id: 1581700083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367676/36367676.2995037
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: "「そして、今、ここにいる」"
+  description: 幼い頃、母親に置き去りにされた原エリコ。彼女の心に希望の光を灯したのは、霊長類最強のアイドル紅神明日花と、ライバル黒城星との一戦だった。地獄の特訓、濡羽美烏との出会い、流華・ソバガスキーとの因縁のデビュー戦…新人王決定戦を前に様々な思いが胸を去来する。一回戦の相手は浪花のアイドル河藤勇！勝つのは！？<br><br>原エリコ:秦佐和子／流華・ソバガスキー:飯田里穂／濡羽美鳥:早瀬莉花<br><br>監督:中山岳洋／脚本:雑破業／音響監督:平光琢也／アニメ制作:ノーマッド／製作:FormulaVenus実行委員会<br><br>（C）GALAT/FormulaVenus実行委員会<br><br>so36367676←前話｜次話→so36367714　第一話→so36367676
+  length_seconds: 1419
+  content_id: so36367713
+  default_thread_id: 1581701225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367713/36367713.20990612
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: "「光、あれ」"
+  description: フォーミュラ・ヴィーナス新人王決定戦は、注目の第４試合へ。先輩の人気アイドルグループ、ゴシック13の期待を背負い、負けられない思いで試合に臨む路未。一方「北の最終兵器」と称される流華にも、絶対、勝たなければならない理由があった。フォーミュラ・ヴィーナスに賭ける彼女の想いが、今、あきらかに！<br><br>原エリコ:秦佐和子／流華・ソバガスキー:飯田里穂／濡羽美鳥:早瀬莉花<br><br>監督:中山岳洋／脚本:雑破業／音響監督:平光琢也／アニメ制作:ノーマッド／製作:FormulaVenus実行委員会<br><br>（C）GALAT/FormulaVenus実行委員会<br><br>so36367713←前話｜次話→so36367715　第一話→so36367676
+  length_seconds: 1420
+  content_id: so36367714
+  default_thread_id: 1581701236
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367714/36367714.58854561
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: "「夢見る力、見させる力」"
+  description: フォーミュラ・ヴィーナス新人王決定戦準決勝、第１試合は「原エリコＶＳ濡羽美烏」。同期として共に歩んできた二人だが、勝ち残れるのは、どちらか一人だけ。これまでの歩みを振り返った美烏に、アイドルとしてデビューする時、母と交わした約束が重くのしかかる。一方、悩んだエリコはコーチに相談に行くのだが……。<br><br>原エリコ:秦佐和子／流華・ソバガスキー:飯田里穂／濡羽美鳥:早瀬莉花<br><br>監督:中山岳洋／脚本:雑破業／音響監督:平光琢也／アニメ制作:ノーマッド／製作:FormulaVenus実行委員会<br><br>（C）GALAT/FormulaVenus実行委員会<br><br>so36367714←前話｜次話→so36367798　第一話→so36367676
+  length_seconds: 1420
+  content_id: so36367715
+  default_thread_id: 1581701230
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367715/36367715.20402899
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: "「ドキッ、アイドルだらけの水着バカンス！　バトルもあるよ」"
+  description: 美鳥との対戦の後、どこか沈んだ様子のエリコ。社長は気分転換のため、エリコを海へと連れて行く。明るさを取り戻したエリコだが、その夜、さらに意外な出会いが彼女を待っていた。一方、流華・ソバガスキーの強さの秘密を探るため、彼女のもう一つの故郷マズシスタンへと赴いた鶴巻蓮が、そこで見たものは……。<br><br>原エリコ:秦佐和子／流華・ソバガスキー:飯田里穂／濡羽美鳥:早瀬莉花<br><br>監督:中山岳洋／脚本:雑破業／音響監督:平光琢也／アニメ制作:ノーマッド／製作:FormulaVenus実行委員会<br><br>（C）GALAT/FormulaVenus実行委員会<br><br>so36367715←前話｜次話→so36367799　第一話→so36367676
+  length_seconds: 1419
+  content_id: so36367798
+  default_thread_id: 1581701238
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367798/36367798.62983855
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: "「決勝」"
+  description: フォーミュラ・ヴィーナス新人王決定戦も、ついに決勝。美鳥との戦いを経て一層、勝利への決意を固めたエリコ。対する流華も故郷マズシスタンからのエールを受け、絶対に負けられないとの想いを強くしていた。運命のバトルが今、はじまる！　果たして新人王の栄冠を手にするのは原エリコか、流華・ソバガスキーか！？<br><br>原エリコ:秦佐和子／流華・ソバガスキー:飯田里穂／濡羽美鳥:早瀬莉花<br><br>監督:中山岳洋／脚本:雑破業／音響監督:平光琢也／アニメ制作:ノーマッド／製作:FormulaVenus実行委員会<br><br>（C）GALAT/FormulaVenus実行委員会<br><br>so36367798←前話　第一話→so36367676
+  length_seconds: 1419
+  content_id: so36367799
+  default_thread_id: 1581702842
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367799/36367799.49289211
+cast: "[キャスト]<br>原エリコ:秦佐和子／流華・ソバガスキー:飯田里穂／濡羽美鳥:早瀬莉花"
+staff: "[スタッフ]<br>監督:中山岳洋／脚本:雑破業／音響監督:平光琢也／アニメ制作:ノーマッド／製作:FormulaVenus実行委員会"
+produced_year: "[製作年]<br>2015年"
+copyright: "（C）GALAT/FormulaVenus実行委員会"
+related_seasons: !ruby/array:Hashie::Array []

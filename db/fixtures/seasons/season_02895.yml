@@ -1,0 +1,129 @@
+--- !ruby/hash:SeasonHash
+title: 映画｢けいおん!｣
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/44/9/23449_1_8_8b.png?1580720778000
+outline: 卒業を控えた軽音部3年生･唯､澪､律､紬の4人は､いつもどおり部室でお茶したり､バンドの方向性を話し合ったり?とゆるやかな時間を送っていた｡そんなある日､教室で同級生たちが｢卒業旅行｣を企画していることを知り､唯たちも卒業旅行に行こうということになる｡そのことを聞いた梓も参加することになり､各自､候補地の希望を出す｡その後､くじ引きの結果｢ロンドン｣へ行くことに決定!ガイドブック等旅行の準備をしながら､各自､ロンドンへの思いをはせる｡
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤聡美
+  type: cast
+- !ruby/hash:TagHash
+  name: 寿美菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 米澤円
+  type: cast
+- !ruby/hash:TagHash
+  name: 永田依子
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤東知夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：山田尚子
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：かきふらい
+  type: staff
+- !ruby/hash:TagHash
+  name: けいおん！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 卒業を控えた軽音部3年生･唯､澪､律､紬の4人は､いつもどおり部室でお茶したり､バンドの方向性を話し合ったり?とゆるやかな時間を送っていた｡そんなある日､教室で同級生たちが｢卒業旅行｣を企画していることを知り､唯たちも卒業旅行に行こうということになる｡そのことを聞いた梓も参加することになり､各自､候補地の希望を出す｡その後､くじ引きの結果｢ロンドン｣へ行くことに決定!ガイドブック等旅行の準備をしながら､各自､ロンドンへの思いをはせる｡<br><br>平沢
+    唯:豊崎愛生／秋山 澪:日笠陽子／田井中 律:佐藤聡美／琴吹 紬:寿美菜子／中野 梓:竹達彩奈／山中さわ子:真田アサミ／平沢 憂:米澤円／真鍋 和:藤東知夏／鈴木
+    純:永田依子<br><br>原作:かきふらい(芳文社｢まんがタイムきらら｣連載)／監督:山田尚子／プロデューサー:中山佳久／脚本:吉田玲子／音楽:オープニングテーマ：｢いちばんいっぱい｣放課後ティータイム
+    テーマ曲：｢Unmei♪wa♪Endless!｣放課後ティータイム エンディングテーマ：｢Singing!｣放課後ティータイム<br><br>©かきふらい･芳文社/桜高軽音部<br><br>次話→so36358248
+  length_seconds: 1294
+  content_id: so36358278
+  default_thread_id: 1581536649
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358278/36358278.7454989
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 卒業を控えた軽音部3年生･唯､澪､律､紬の4人は､いつもどおり部室でお茶したり､バンドの方向性を話し合ったり?とゆるやかな時間を送っていた｡そんなある日､教室で同級生たちが｢卒業旅行｣を企画していることを知り､唯たちも卒業旅行に行こうということになる｡そのことを聞いた梓も参加することになり､各自､候補地の希望を出す｡その後､くじ引きの結果｢ロンドン｣へ行くことに決定!ガイドブック等旅行の準備をしながら､各自､ロンドンへの思いをはせる｡<br><br>平沢
+    唯:豊崎愛生／秋山 澪:日笠陽子／田井中 律:佐藤聡美／琴吹 紬:寿美菜子／中野 梓:竹達彩奈／山中さわ子:真田アサミ／平沢 憂:米澤円／真鍋 和:藤東知夏／鈴木
+    純:永田依子<br><br>原作:かきふらい(芳文社｢まんがタイムきらら｣連載)／監督:山田尚子／プロデューサー:中山佳久／脚本:吉田玲子／音楽:オープニングテーマ：｢いちばんいっぱい｣放課後ティータイム
+    テーマ曲：｢Unmei♪wa♪Endless!｣放課後ティータイム エンディングテーマ：｢Singing!｣放課後ティータイム<br><br>©かきふらい･芳文社/桜高軽音部<br><br>so36358278←前話｜次話→so36358219　第一話→so36358278
+  length_seconds: 1248
+  content_id: so36358248
+  default_thread_id: 1581535323
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358248/36358248.99287299
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 卒業を控えた軽音部3年生･唯､澪､律､紬の4人は､いつもどおり部室でお茶したり､バンドの方向性を話し合ったり?とゆるやかな時間を送っていた｡そんなある日､教室で同級生たちが｢卒業旅行｣を企画していることを知り､唯たちも卒業旅行に行こうということになる｡そのことを聞いた梓も参加することになり､各自､候補地の希望を出す｡その後､くじ引きの結果｢ロンドン｣へ行くことに決定!ガイドブック等旅行の準備をしながら､各自､ロンドンへの思いをはせる｡<br><br>平沢
+    唯:豊崎愛生／秋山 澪:日笠陽子／田井中 律:佐藤聡美／琴吹 紬:寿美菜子／中野 梓:竹達彩奈／山中さわ子:真田アサミ／平沢 憂:米澤円／真鍋 和:藤東知夏／鈴木
+    純:永田依子<br><br>原作:かきふらい(芳文社｢まんがタイムきらら｣連載)／監督:山田尚子／プロデューサー:中山佳久／脚本:吉田玲子／音楽:オープニングテーマ：｢いちばんいっぱい｣放課後ティータイム
+    テーマ曲：｢Unmei♪wa♪Endless!｣放課後ティータイム エンディングテーマ：｢Singing!｣放課後ティータイム<br><br>©かきふらい･芳文社/桜高軽音部<br><br>so36358248←前話｜次話→so36358204　第一話→so36358278
+  length_seconds: 1298
+  content_id: so36358219
+  default_thread_id: 1581535024
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358219/36358219.56071443
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 卒業を控えた軽音部3年生･唯､澪､律､紬の4人は､いつもどおり部室でお茶したり､バンドの方向性を話し合ったり?とゆるやかな時間を送っていた｡そんなある日､教室で同級生たちが｢卒業旅行｣を企画していることを知り､唯たちも卒業旅行に行こうということになる｡そのことを聞いた梓も参加することになり､各自､候補地の希望を出す｡その後､くじ引きの結果｢ロンドン｣へ行くことに決定!ガイドブック等旅行の準備をしながら､各自､ロンドンへの思いをはせる｡<br><br>平沢
+    唯:豊崎愛生／秋山 澪:日笠陽子／田井中 律:佐藤聡美／琴吹 紬:寿美菜子／中野 梓:竹達彩奈／山中さわ子:真田アサミ／平沢 憂:米澤円／真鍋 和:藤東知夏／鈴木
+    純:永田依子<br><br>原作:かきふらい(芳文社｢まんがタイムきらら｣連載)／監督:山田尚子／プロデューサー:中山佳久／脚本:吉田玲子／音楽:オープニングテーマ：｢いちばんいっぱい｣放課後ティータイム
+    テーマ曲：｢Unmei♪wa♪Endless!｣放課後ティータイム エンディングテーマ：｢Singing!｣放課後ティータイム<br><br>©かきふらい･芳文社/桜高軽音部<br><br>so36358219←前話｜次話→so36358184　第一話→so36358278
+  length_seconds: 1412
+  content_id: so36358204
+  default_thread_id: 1581534250
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358204/36358204.66283970
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 卒業を控えた軽音部3年生･唯､澪､律､紬の4人は､いつもどおり部室でお茶したり､バンドの方向性を話し合ったり?とゆるやかな時間を送っていた｡そんなある日､教室で同級生たちが｢卒業旅行｣を企画していることを知り､唯たちも卒業旅行に行こうということになる｡そのことを聞いた梓も参加することになり､各自､候補地の希望を出す｡その後､くじ引きの結果｢ロンドン｣へ行くことに決定!ガイドブック等旅行の準備をしながら､各自､ロンドンへの思いをはせる｡<br><br>平沢
+    唯:豊崎愛生／秋山 澪:日笠陽子／田井中 律:佐藤聡美／琴吹 紬:寿美菜子／中野 梓:竹達彩奈／山中さわ子:真田アサミ／平沢 憂:米澤円／真鍋 和:藤東知夏／鈴木
+    純:永田依子<br><br>原作:かきふらい(芳文社｢まんがタイムきらら｣連載)／監督:山田尚子／プロデューサー:中山佳久／脚本:吉田玲子／音楽:オープニングテーマ：｢いちばんいっぱい｣放課後ティータイム
+    テーマ曲：｢Unmei♪wa♪Endless!｣放課後ティータイム エンディングテーマ：｢Singing!｣放課後ティータイム<br><br>©かきふらい･芳文社/桜高軽音部<br><br>so36358204←前話　第一話→so36358278
+  length_seconds: 1334
+  content_id: so36358184
+  default_thread_id: 1581533285
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358184/36358184.53521356
+cast: "[キャスト]<br>平沢 唯:豊崎愛生／秋山 澪:日笠陽子／田井中 律:佐藤聡美／琴吹 紬:寿美菜子／中野 梓:竹達彩奈／山中さわ子:真田アサミ／平沢
+  憂:米澤円／真鍋 和:藤東知夏／鈴木 純:永田依子"
+staff: "[スタッフ]<br>原作:かきふらい(芳文社｢まんがタイムきらら｣連載)／監督:山田尚子／プロデューサー:中山佳久／脚本:吉田玲子／音楽:オープニングテーマ：｢いちばんいっぱい｣放課後ティータイム
+  テーマ曲：｢Unmei♪wa♪Endless!｣放課後ティータイム エンディングテーマ：｢Singing!｣放課後ティータイム"
+produced_year: "[製作年]<br>2011年"
+copyright: "©かきふらい･芳文社/桜高軽音部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: けいおん！
+- !ruby/hash:SeasonHash
+  title: けいおん！！

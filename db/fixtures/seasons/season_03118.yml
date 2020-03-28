@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: BLOOD THE LAST VAMPIRE
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/29/0/10290_1_8_8b.png?1581917468000
+outline: 1966年、秋。ベトナム戦争最中の、日本の中のアメリカ―米空軍・横田基地。ファントムF4戦闘機があわただしくスクランブル発進する基地周辺を殺伐とした空気が包む中、街では不審な自殺が相次いでいた。地下鉄・銀座線、浅草行最終電車。殺風景な車両にたたずむひとりの少女。大人をも射すくめる強い眼差しと、堅く結ばれた唇が秘めた意思を物語る―彼女の名は小夜(SAYA)。人間社会に身を潜めた吸血鬼<翼手>を倒すため、<組織>が送り込んだ救世主。セーラー服に身を包んだ小夜は、日本刀を武器に基地内のアメリカンスクールに潜入したが・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 工藤夕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村佐恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：池頼広
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Production I.G
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：北久保弘之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：寺田克也
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：高木真司
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2000年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 1966年、秋。ベトナム戦争最中の、日本の中のアメリカ-米空軍・横田基地。ファントムF4戦闘機があわただしくスクランブル発進する基地周辺を殺伐とした空気が包む中、街では不審な自殺が相次いでいた。地下鉄・銀座線、浅草行最終電車。殺風景な車両にたたずむひとりの少女。大人をも射すくめる強い眼差しと、堅く結ばれた唇が秘めた意思を物語る-彼女の名は小夜(SAYA)。人間社会に身を潜めた吸血鬼&lt;翼手&gt;を倒すため、&lt;組織&gt;が送り込んだ救世主。セーラー服に身を包んだ小夜は、日本刀を武器に基地内のアメリカンスクールに潜入したが・・・。<br><br>小夜:工藤夕貴／保健医:中村佐恵美／デイビッド:JOE
+    ROMERSA／ルイス:STUART ROBINSON／シャロン:REBECCA FORSTADT<br><br>監督:北久保弘之／企画・原作:Production
+    I.G／企画協力:押井守(押井塾)／キャラクターデザイン:寺田克也／脚本:神山健治／演出:高木真司／作画監督:黄瀬和哉／美術監督:竹田悠介／画面設計:江面久／カラーデザイン:井上佳津枝／3
+    D CGI:木船徳光／撮影:佐久間未希／音響監督:百瀬慶一／音楽:池頼広<br><br>©2000 Production I.G／ANX・SCEI・IPA<br><br>次話→so36392601
+  length_seconds: 1404
+  content_id: so36392600
+  default_thread_id: 1582164903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36392600/36392600.41099856
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 1966年、秋。ベトナム戦争最中の、日本の中のアメリカ-米空軍・横田基地。ファントムF4戦闘機があわただしくスクランブル発進する基地周辺を殺伐とした空気が包む中、街では不審な自殺が相次いでいた。地下鉄・銀座線、浅草行最終電車。殺風景な車両にたたずむひとりの少女。大人をも射すくめる強い眼差しと、堅く結ばれた唇が秘めた意思を物語る-彼女の名は小夜(SAYA)。人間社会に身を潜めた吸血鬼&lt;翼手&gt;を倒すため、&lt;組織&gt;が送り込んだ救世主。セーラー服に身を包んだ小夜は、日本刀を武器に基地内のアメリカンスクールに潜入したが・・・。<br><br>小夜:工藤夕貴／保健医:中村佐恵美／デイビッド:JOE
+    ROMERSA／ルイス:STUART ROBINSON／シャロン:REBECCA FORSTADT<br><br>監督:北久保弘之／企画・原作:Production
+    I.G／企画協力:押井守(押井塾)／キャラクターデザイン:寺田克也／脚本:神山健治／演出:高木真司／作画監督:黄瀬和哉／美術監督:竹田悠介／画面設計:江面久／カラーデザイン:井上佳津枝／3
+    D CGI:木船徳光／撮影:佐久間未希／音響監督:百瀬慶一／音楽:池頼広<br><br>©2000 Production I.G／ANX・SCEI・IPA<br><br>so36392600←前話　第一話→so36392600
+  length_seconds: 1485
+  content_id: so36392601
+  default_thread_id: 1582164905
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36392601/36392601.66892241
+cast: "[キャスト]<br>小夜:工藤夕貴／保健医:中村佐恵美／デイビッド:JOE ROMERSA／ルイス:STUART ROBINSON／シャロン:REBECCA
+  FORSTADT"
+staff: "[スタッフ]<br>監督:北久保弘之／企画・原作:Production I.G／企画協力:押井守(押井塾)／キャラクターデザイン:寺田克也／脚本:神山健治／演出:高木真司／作画監督:黄瀬和哉／美術監督:竹田悠介／画面設計:江面久／カラーデザイン:井上佳津枝／3
+  D CGI:木船徳光／撮影:佐久間未希／音響監督:百瀬慶一／音楽:池頼広"
+produced_year: "[製作年]<br>2000年"
+copyright: "©2000 Production I.G／ANX・SCEI・IPA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BLOOD＋
+- !ruby/hash:SeasonHash
+  title: BLOOD-C

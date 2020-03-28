@@ -1,0 +1,68 @@
+--- !ruby/hash:SeasonHash
+title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/02/2/22022_1_8_8b.png?1551354406000
+outline: "「アイカツ！」史上初のオールスター授賞式が開催!! アイカツ！を彩ってきたあの名曲やステージがスクリーンに甦ります。果たして、どんな曲が選ばれ、どんな賞が与えられるのか?!"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アニメーション制作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：やぐちひろこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+  description: "「アイカツ！」史上初のオールスター授賞式が開催!! アイカツ！を彩ってきたあの名曲やステージがスクリーンに甦ります。果たして、どんな曲が選ばれ、どんな賞が与えられるのか?!<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／ディレクター:綿田慎也／スーパーバイザー:木村隆一／ステージ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／アニメーション制作:BN
+    Pictures／製作:「アイカツ！ミュージックアワード」選考委員会／配給:東映<br><br>©2015 BNP/BANDAI, AIKATSU MUSIC
+    AWARD"
+  length_seconds: 3383
+  content_id: so36195320
+  default_thread_id: 1578387252
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195320/36195320.92682464
+staff: "[スタッフ]<br>企画・原作:BN Pictures／原案:バンダイ／ディレクター:綿田慎也／スーパーバイザー:木村隆一／ステージ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／アニメーション制作:BN
+  Pictures／製作:「アイカツ！ミュージックアワード」選考委員会／配給:東映"
+produced_year: "[製作年]<br>2015年"
+copyright: "©2015 BNP/BANDAI, AIKATSU MUSIC AWARD"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（3rdシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（4thシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツフレンズ！
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！～ねらわれた魔法のアイカツ！カード～
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツスターズ！

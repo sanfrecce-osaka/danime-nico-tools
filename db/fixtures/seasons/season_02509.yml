@@ -31,10 +31,10 @@ tags: !ruby/array:Hashie::Array
   name: 田所あずさ
   type: cast
 - !ruby/hash:TagHash
-  name: 安済知佳
+  name: 大空直美
   type: cast
 - !ruby/hash:TagHash
-  name: 大空直美
+  name: 安済知佳
   type: cast
 - !ruby/hash:TagHash
   name: 朝井彩加
@@ -43,10 +43,10 @@ tags: !ruby/array:Hashie::Array
   name: 篠原侑
   type: cast
 - !ruby/hash:TagHash
-  name: 小原莉子
+  name: 前田佳織里
   type: cast
 - !ruby/hash:TagHash
-  name: 前田佳織里
+  name: 小原莉子
   type: cast
 - !ruby/hash:TagHash
   name: ファイルーズあい
@@ -69,6 +69,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 原作：KJG BOOSTERS
   type: staff
+- !ruby/hash:TagHash
+  name: "【第1話無料】神田川JET GIRLSシリーズ"
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
@@ -272,4 +275,6 @@ staff: "[スタッフ]<br>原作:KJG BOOSTERS／原案:高木謙一郎／監督:
   FIRM／アニメーション制作:ティー・エヌ・ケー／製作:KJG PARTNERS"
 produced_year: "[製作年]<br>2019年"
 copyright: "©2019 KJG PARTNERS"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "【第1話限定無料】神田川JET GIRLS"

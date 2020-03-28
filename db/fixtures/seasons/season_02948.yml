@@ -1,0 +1,121 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 紐育レビュウショウ ～歌う♪大紐育♪2～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/43/0/23430_1_8_8b.png?1580450490000
+outline: 前回同様、スピード感溢れるステージが展開される。大型キネマトロンを使った演出では、帝都花組の真宮寺さくら、巴里花組のエリカ・フォンティーヌも登場。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 齋藤彩夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 松谷彼哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 前回同様、スピード感溢れるステージが展開される。大型キネマトロンを使った演出では、帝都花組の真宮寺さくら、巴里花組のエリカ・フォンティーヌも登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318893
+  length_seconds: 2279
+  content_id: so36318882
+  default_thread_id: 1580809083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318882/36318882.69687263
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 前回同様、スピード感溢れるステージが展開される。大型キネマトロンを使った演出では、帝都花組の真宮寺さくら、巴里花組のエリカ・フォンティーヌも登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318882←前話｜次話→so36318894　第一話→so36318882
+  length_seconds: 2005
+  content_id: so36318893
+  default_thread_id: 1580807884
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318893/36318893.74489440
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 前回同様、スピード感溢れるステージが展開される。大型キネマトロンを使った演出では、帝都花組の真宮寺さくら、巴里花組のエリカ・フォンティーヌも登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318893←前話｜次話→so36318905　第一話→so36318882
+  length_seconds: 2013
+  content_id: so36318894
+  default_thread_id: 1580807597
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318894/36318894.99581025
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 前回同様、スピード感溢れるステージが展開される。大型キネマトロンを使った演出では、帝都花組の真宮寺さくら、巴里花組のエリカ・フォンティーヌも登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318894←前話　第一話→so36318882
+  length_seconds: 2155
+  content_id: so36318905
+  default_thread_id: 1580809085
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318905/36318905.63790702
+cast: "[キャスト]<br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2007年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

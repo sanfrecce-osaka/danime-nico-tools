@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: まほらば～Heartful days
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/03/4/22034_1_6.png?1521079206000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/03/4/22034_1_8_8b.png?1551351717000
 outline: 絵本作家を目指す白鳥隆士は東京にあるアパート「鳴滝荘」に住むことになった。管理人をしているのは、隆士のはとこにあたる高校２年生の蒼葉梢。そして、鳴滝荘の住人達はみな個性的で、強者揃い。１号室には梢の大親友、茶ノ畑珠実。３号室にはマイペースなお姉さん、桃乃恵。5号室には母親の黒崎沙夜子と中学2年生の娘の黒崎朝美。そして、６号室には腕人形のジョニーと住む（!?）灰原由起夫がそれぞれ暮らしている。しかし、本当の強者は実は梢だった。彼女は何かでショックを受けると別のキャラに「変身」してしまう秘密の持ち主。そんなこととは露知らず夢を実現させるために鳴滝荘にやってきた隆士。いったいどんな生活が、彼の今後に待ち受けているのだろうか？
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
-  name: 白石涼子
+  name: 新井里美
   type: cast
 - !ruby/hash:TagHash
-  name: 新井里美
+  name: 白石涼子
   type: cast
 - !ruby/hash:TagHash
   name: 堀内賢雄
@@ -35,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：J.C.STAFF
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：藤井昌宏
-  type: staff
-- !ruby/hash:TagHash
   name: 原作：スクウェア・エニックス
   type: staff
 - !ruby/hash:TagHash
   name: 監督：木村真一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：藤井昌宏
   type: staff
 - !ruby/hash:TagHash
   name: 原作：小島あきら
@@ -55,6 +55,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2005年
   type: other
+- !ruby/hash:TagHash
+  name: 2005年冬
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: 第1話
@@ -65,7 +68,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916222
   default_thread_id: 1521540156
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916222
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916222/32916222.62730831
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 大家さんのひみつ
@@ -76,7 +79,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916417
   default_thread_id: 1521541860
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916417
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916417/32916417.58446504
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 大切な場所
@@ -87,7 +90,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916599
   default_thread_id: 1521543701
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916599
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916599/32916599.19522184
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: ぬくぬく
@@ -97,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916799
   default_thread_id: 1521545484
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916799
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916799/32916799.33625725
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: ネガポジ
@@ -107,7 +110,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917013
   default_thread_id: 1521547367
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917013
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917013/32917013.4593365
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 珠チェック
@@ -117,7 +120,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917208
   default_thread_id: 1521549217
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917208
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917208/32917208.70780652
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: かくれんぼ
@@ -127,7 +130,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917380
   default_thread_id: 1521551017
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917380
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917380/32917380.1823933
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: おかいモノ
@@ -137,7 +140,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917381
   default_thread_id: 1521551022
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917381
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917381/32917381.163737
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: これくと
@@ -147,7 +150,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917383
   default_thread_id: 1521550762
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917383
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917383/32917383.89569116
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: スケッチ
@@ -157,7 +160,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32918515
   default_thread_id: 1521562941
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32918515
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32918515/32918515.90913315
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 想い・・・
@@ -167,7 +170,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32918516
   default_thread_id: 1521563072
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32918516
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32918516/32918516.6677681
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 夏だ！水着だ！海水浴だ！
@@ -177,7 +180,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32918517
   default_thread_id: 1521563071
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32918517
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32918517/32918517.83526039
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 鳴滝荘のタカラモノ
@@ -187,7 +190,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32918518
   default_thread_id: 1521562830
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32918518
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32918518/32918518.49060375
 - !ruby/hash:EpisodeHash
   episode_no: 第14話
   title: 夏の終わりに
@@ -197,7 +200,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916600
   default_thread_id: 1521543806
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916600
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916600/32916600.14087950
 - !ruby/hash:EpisodeHash
   episode_no: 第15話
   title: "・・・かも"
@@ -207,7 +210,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916223
   default_thread_id: 1521540058
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916223
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916223/32916223.6505947
 - !ruby/hash:EpisodeHash
   episode_no: 第16話
   title: 千客万来
@@ -217,7 +220,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916224
   default_thread_id: 1521540033
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916224
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916224/32916224.86328305
 - !ruby/hash:EpisodeHash
   episode_no: 第17話
   title: そらのいろ
@@ -227,7 +230,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916418
   default_thread_id: 1521542022
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916418
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916418/32916418.61083401
 - !ruby/hash:EpisodeHash
   episode_no: 第18話
   title: にゃーにゃーにゃー
@@ -237,7 +240,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916419
   default_thread_id: 1521541837
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916419
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916419/32916419.29761750
 - !ruby/hash:EpisodeHash
   episode_no: 第19話
   title: みんなの一日
@@ -247,7 +250,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916601
   default_thread_id: 1521543703
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916601
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916601/32916601.4035948
 - !ruby/hash:EpisodeHash
   episode_no: 第20話
   title: 学園祭にて
@@ -257,9 +260,9 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917210
   default_thread_id: 1521549219
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917210
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917210/32917210.20604525
 - !ruby/hash:EpisodeHash
-  episode_no: ''
+  episode_no: 第21話
   title: 親・子
   description: 枯れ葉をかき集めた隆士たち。そして、内職にはげむ沙夜子と朝美を除いた鳴滝荘の面々は、焼きイモ大会を開催しようとしていた。その時、まひるがタチバナを伴って登場。まひるたちは沙夜子と朝美を拉致して、去ってしまう。まひるの住む大邸宅へと連れて来られた沙夜子と朝美。実は沙夜子はまひるの姉で、かつてはこの家の住人だったという。おどろく朝美。そして2人は、沙夜子の両親・丑三と夕に迎えられるが…。<br><br>蒼葉
     梢:新井里美／白鳥 隆士:白石涼子／桃乃 恵:浅野真澄／茶ノ畑 珠実:堀江由衣／黒崎 沙夜子:藤原美央子／黒崎 朝美:天神有海／灰原 由起夫・ジョニー:堀内賢雄<br><br>原作:小島あきら（「月刊ガンガンWING」スクウェア・エニックス刊）／監督:木村真一郎／シリーズ構成:山田靖智／キャラクターデザイン:藤井昌宏／美術監督:居垣宏／東潤一／色彩設定:安藤智美／撮影監督:黒澤豊／編集:関一彦／音響監督:高橋剛／音楽:アンネ／音響制作:グロービジョン／音楽制作:スターチャイルドレコード／プロデューサー:森山敦（キングレコード）／アニメーション制作:J.C.STAFF／製作:まほらば製作委員会<br><br>©小島あきら／スクウェアエニックス・まほらば製作委員会<br><br>so32917210←前話｜次話→so32917015　第一話→so32916222
@@ -267,7 +270,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917209
   default_thread_id: 1521549102
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917209
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917209/32917209.58395543
 - !ruby/hash:EpisodeHash
   episode_no: 第22話
   title: 大事・・・
@@ -277,7 +280,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917015
   default_thread_id: 1521547404
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917015
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917015/32917015.24412560
 - !ruby/hash:EpisodeHash
   episode_no: 第23話
   title: 紅葉の中で
@@ -287,7 +290,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32917014
   default_thread_id: 1521547388
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32917014
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32917014/32917014.87968784
 - !ruby/hash:EpisodeHash
   episode_no: 第24話
   title: すず
@@ -297,7 +300,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916801
   default_thread_id: 1521545632
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916801
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916801/32916801.41611906
 - !ruby/hash:EpisodeHash
   episode_no: 第25話
   title: "-告げる夜-"
@@ -307,7 +310,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32916800
   default_thread_id: 1521545608
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32916800
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32916800/32916800.26111830
 - !ruby/hash:EpisodeHash
   episode_no: 第26話
   title: まほらば
@@ -317,7 +320,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so32918519
   default_thread_id: 1521563074
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32918519
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32918519/32918519.1747861
 cast: "[キャスト]<br>蒼葉 梢:新井里美／白鳥 隆士:白石涼子／桃乃 恵:浅野真澄／茶ノ畑 珠実:堀江由衣／黒崎 沙夜子:藤原美央子／黒崎 朝美:天神有海／灰原
   由起夫・ジョニー:堀内賢雄"
 staff: "[スタッフ]<br>原作:小島あきら（「月刊ガンガンWING」スクウェア・エニックス刊）／監督:木村真一郎／シリーズ構成:山田靖智／キャラクターデザイン:藤井昌宏／美術監督:居垣宏／東潤一／色彩設定:安藤智美／撮影監督:黒澤豊／編集:関一彦／音響監督:高橋剛／音楽:アンネ／音響制作:グロービジョン／音楽制作:スターチャイルドレコード／プロデューサー:森山敦（キングレコード）／アニメーション制作:J.C.STAFF／製作:まほらば製作委員会"

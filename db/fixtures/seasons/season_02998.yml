@@ -1,0 +1,104 @@
+--- !ruby/hash:SeasonHash
+title: 戦争童話集「キクちゃんとオオカミ」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/30/9/23309_1_8_8b.png?1579846057000
+outline: 昭和20年、満州。敗戦とともに日本人たちの退却が始まりました。日本へ帰る道のりで、幼いキクちゃんは病に侵されてしまいます。家族に置き去りにされ、弱りきっていたキクちゃんを救ったのは、一匹のオオカミでした。オオカミの看病のおかげで元気になったキクちゃん。しかし、次第に食糧はなくなっていきます。オオカミは危険を承知で、人間の町へ連れていくことにしたのですが……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: くまいもとこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 島本須美
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田小南美
+  type: cast
+- !ruby/hash:TagHash
+  name: さとうあい
+  type: cast
+- !ruby/hash:TagHash
+  name: 楠見尚己
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅原淳一
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田小百合
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田安生
+  type: cast
+- !ruby/hash:TagHash
+  name: 華木ミヤ
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂戸こまつな
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：やすみ哲夫
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：シンエイ動画
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：相良まさえ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：野坂昭如
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：平井峰太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 戦争童話集シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 昭和20年、満州。敗戦とともに日本人たちの退却が始まりました。日本へ帰る道のりで、幼いキクちゃんは病に侵されてしまいます。家族に置き去りにされ、弱りきっていたキクちゃんを救ったのは、一匹のオオカミでした。オオカミの看病のおかげで元気になったキクちゃん。しかし、次第に食糧はなくなっていきます。オオカミは危険を承知で、人間の町へ連れていくことにしたのですが……。<br><br>キクちゃん:川澄綾子／お母さん:島本須美／広太郎:吉田小南美／ヨッちゃん:くまいもとこ／吉田のジィ:岩田安生／妻:佐藤しのぶ／橋本:菅原淳一／オオカミ:野沢雅子／父親:楠見尚己／母親:華木ミヤ／子供:坂戸こまつな／子供:吉田小百合／男性:布目貞夫／指揮官:趙
+    正達／中国兵:程 波／中国兵:曹 理／ナレーション:さとうあい<br><br>原作:野坂昭如／画:黒田征太郎（戦争童話集 NHK出版）／企画:杉山 登（テレビ朝日）・加藤良雄／脚本・総監督:やすみ哲夫／絵コンテ・監督:平井峰太郎／キャラクター:関
+    修一／作画監督:大武正枝・山崎タケル／美術監督:西田 稔・田崎万里子／撮影監督:箭内光一／編集:三宅圭貴／音響監督:大熊 昭／音楽:相良まさえ／主題歌:「旅愁」歌
+    高橋麗奈／挿入歌:「浜辺の歌」／効果:武藤晶子（サウンドボックス）／プロデューサー:今川朋美（テレビ朝日）・山田俊秀／制作:テレビ朝日・シンエイ動画<br><br>©ケイツー／シンエイ
+  length_seconds: 2724
+  content_id: so36313804
+  default_thread_id: 1580705950
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36313804/36313804.42812974
+cast: "[キャスト]<br>キクちゃん:川澄綾子／お母さん:島本須美／広太郎:吉田小南美／ヨッちゃん:くまいもとこ／吉田のジィ:岩田安生／妻:佐藤しのぶ／橋本:菅原淳一／オオカミ:野沢雅子／父親:楠見尚己／母親:華木ミヤ／子供:坂戸こまつな／子供:吉田小百合／男性:布目貞夫／指揮官:趙
+  正達／中国兵:程 波／中国兵:曹 理／ナレーション:さとうあい"
+staff: "[スタッフ]<br>原作:野坂昭如／画:黒田征太郎（戦争童話集 NHK出版）／企画:杉山 登（テレビ朝日）・加藤良雄／脚本・総監督:やすみ哲夫／絵コンテ・監督:平井峰太郎／キャラクター:関
+  修一／作画監督:大武正枝・山崎タケル／美術監督:西田 稔・田崎万里子／撮影監督:箭内光一／編集:三宅圭貴／音響監督:大熊 昭／音楽:相良まさえ／主題歌:「旅愁」歌
+  高橋麗奈／挿入歌:「浜辺の歌」／効果:武藤晶子（サウンドボックス）／プロデューサー:今川朋美（テレビ朝日）・山田俊秀／制作:テレビ朝日・シンエイ動画"
+produced_year: "[製作年]<br>2008年"
+copyright: "©ケイツー／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ウミガメと少年」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「凧になったお母さん」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「小さい潜水艦に恋をしたでかすぎるクジラの話」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ぼくの防空壕」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「焼跡の、お菓子の木」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ふたつの胡桃」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「青い瞳の女の子のお話」

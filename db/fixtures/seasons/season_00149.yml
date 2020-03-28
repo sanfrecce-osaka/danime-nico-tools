@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 内海賢二
   type: cast
 - !ruby/hash:TagHash
-  name: 松島みのり
+  name: 小原乃梨子
   type: cast
 - !ruby/hash:TagHash
-  name: 小原乃梨子
+  name: 松島みのり
   type: cast
 - !ruby/hash:TagHash
   name: ささきいさお

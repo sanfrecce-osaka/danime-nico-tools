@@ -26,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 末柄里恵
   type: cast
 - !ruby/hash:TagHash
+  name: 武虎
+  type: cast
+- !ruby/hash:TagHash
   name: 櫻庭有紗
   type: cast
 - !ruby/hash:TagHash
   name: 八木侑紀
-  type: cast
-- !ruby/hash:TagHash
-  name: 武虎
   type: cast
 - !ruby/hash:TagHash
   name: 関根明良

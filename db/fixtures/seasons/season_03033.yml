@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: チンプイ「宇宙的超一流デザイナー」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/40/2/23402_1_8_8b.png?1579846012000
+outline: スネ美が自分の家でエリたち3人に700万円もする高い振袖を見せびらかせてきた。ママに着物を欲しいとせがむが断られてしまい、落ち込むエリの前にエリの服をデザインするという宇宙的ファッションデザイナーのデブラ・ムーが現れる。デブラ・ムーの服を断るエリだったが、できた服をせっかくだからと着てみると…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 林原めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: 青野武
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村大樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 金丸淳一
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀絢子
+  type: cast
+- !ruby/hash:TagHash
+  name: 深雪さなえ
+  type: cast
+- !ruby/hash:TagHash
+  name: 梨羽侑里
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木弘子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤子・F・不二雄
+  type: staff
+- !ruby/hash:TagHash
+  name: チンプイシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1989年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: スネ美が自分の家でエリたち3人に700万円もする高い振袖を見せびらかせてきた。ママに着物を欲しいとせがむが断られてしまい、落ち込むエリの前にエリの服をデザインするという宇宙的ファッションデザイナーのデブラ・ムーが現れる。デブラ・ムーの服を断るエリだったが、できた服をせっかくだからと着てみると…。<br><br>エリ:林原めぐみ／ママ:鈴木弘子／スネ美:梨羽由記子／小政:金丸淳一／秦さやか:伊藤美紀／パパ:津村鷹志／内木:佐々木望／大江山:中村大／ほたる:深雪さなえ／さやか:伊藤美紀／チンプイ:堀絢子／ルルロフ殿下:菊池正美／ワンダユウ:八奈見乗児／デブラムー:青野武<br><br>原作:藤子・Ｆ・不二雄／チーフディレクター:本郷みつる／作画監督:堤規至／シリーズ構成:桶谷顕／美術監督:川井憲／録音監督:浦上靖夫／音楽:田中公平／脚本:志村多穂、桶谷顕／撮影監督:斎藤秋男<br><br>©藤子プロ／シンエイ
+  length_seconds: 656
+  content_id: so36286440
+  default_thread_id: 1580179093
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36286440/36286440.35394128
+cast: "[キャスト]<br>エリ:林原めぐみ／ママ:鈴木弘子／スネ美:梨羽由記子／小政:金丸淳一／秦さやか:伊藤美紀／パパ:津村鷹志／内木:佐々木望／大江山:中村大／ほたる:深雪さなえ／さやか:伊藤美紀／チンプイ:堀絢子／ルルロフ殿下:菊池正美／ワンダユウ:八奈見乗児／デブラムー:青野武"
+staff: "[スタッフ]<br>原作:藤子・Ｆ・不二雄／チーフディレクター:本郷みつる／作画監督:堤規至／シリーズ構成:桶谷顕／美術監督:川井憲／録音監督:浦上靖夫／音楽:田中公平／脚本:志村多穂、桶谷顕／撮影監督:斎藤秋男"
+produced_year: "[製作年]<br>1989年"
+copyright: "©藤子プロ／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: チンプイ【デジタルリマスター版】
+- !ruby/hash:SeasonHash
+  title: チンプイ「エリさまはキョーボー」

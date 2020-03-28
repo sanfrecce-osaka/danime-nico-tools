@@ -1,0 +1,155 @@
+--- !ruby/hash:SeasonHash
+title: '劇場版「ペルソナ３」 #4 Winter of Rebirth'
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/60/7/23607_1_8_8b.png?1581903264000
+outline: "「滅びの時は、確実に迫っている。止める事は出来ない」死を知り、死を見つめ、死と向き合う。さまざまな出会いと別れを繰り返し、その度に、成長を遂げてきた結城
+  理と仲間たち。その戦いは、世界のためではなく、自分自身のためだったのかもしれない。それでも、戦いの先に平穏な日々があると信じて彼らは戦い続けてきた。しかし、滅びは人類が背負うべき運命だと少年は言う。友人だと信じていた少年が、無情にも現実を突きつける。季節は冬へ。その先にある春を迎えるため、理が下す決断とは――。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 中井和哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊口めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡部圭祐
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：アトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：目黒将司
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：小林哲也
+  type: staff
+- !ruby/hash:TagHash
+  name: ペルソナ3シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: "「滅びの時は、確実に迫っている。止める事は出来ない」死を知り、死を見つめ、死と向き合う。さまざまな出会いと別れを繰り返し、その度に、成長を遂げてきた結城
+    理と仲間たち。その戦いは、世界のためではなく、自分自身のためだったのかもしれない。それでも、戦いの先に平穏な日々があると信じて彼らは戦い続けてきた。しかし、滅びは人類が背負うべき運命だと少年は言う。友人だと信じていた少年が、無情にも現実を突きつける。季節は冬へ。その先にある春を迎えるため、理が下す決断とは――。<br><br>結城
+    理:石田 彰／岳羽ゆかり:豊口めぐみ／伊織順平:鳥海浩輔／桐条美鶴:田中理恵／真田明彦:緑川 光／山岸風花:能登麻美子／アイギス:坂本真綾／天田 乾:緒方恵美／荒垣真次郎:中井和哉／イゴール:田の中
+    勇（特別出演）／エリザベス:沢城みゆき<br><br>原作:「ペルソナ３」（アトラス）／脚本:熊谷 純／スーパーバイザー:岸 誠二／キャラクターデザイン:渡部圭祐／ペルソナデザイン:秋
+    恭摩／プロップデザイン:常木志伸／色彩設計:合田沙織／美術監督:谷岡善王（美峰）／美術設定:青木 薫（美峰）／コンポジット＆ビジュアルディレクター:髙津純平／編集:櫻井
+    崇／音楽:目黒将司・小林哲也／音響監督:飯田里樹／第4章監督:田口智久／制作:A-1 Pictures／製作:劇場版「ペルソナ３」製作委員会／配給:アニプレックス<br><br>©ATLUS
+    ©SEGA／劇場版「ペルソナ３」製作委員会<br><br>次話→so36428158"
+  length_seconds: 1496
+  content_id: so36428157
+  default_thread_id: 1582788190
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428157/36428157.72688199
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: "「滅びの時は、確実に迫っている。止める事は出来ない」死を知り、死を見つめ、死と向き合う。さまざまな出会いと別れを繰り返し、その度に、成長を遂げてきた結城
+    理と仲間たち。その戦いは、世界のためではなく、自分自身のためだったのかもしれない。それでも、戦いの先に平穏な日々があると信じて彼らは戦い続けてきた。しかし、滅びは人類が背負うべき運命だと少年は言う。友人だと信じていた少年が、無情にも現実を突きつける。季節は冬へ。その先にある春を迎えるため、理が下す決断とは――。<br><br>結城
+    理:石田 彰／岳羽ゆかり:豊口めぐみ／伊織順平:鳥海浩輔／桐条美鶴:田中理恵／真田明彦:緑川 光／山岸風花:能登麻美子／アイギス:坂本真綾／天田 乾:緒方恵美／荒垣真次郎:中井和哉／イゴール:田の中
+    勇（特別出演）／エリザベス:沢城みゆき<br><br>原作:「ペルソナ３」（アトラス）／脚本:熊谷 純／スーパーバイザー:岸 誠二／キャラクターデザイン:渡部圭祐／ペルソナデザイン:秋
+    恭摩／プロップデザイン:常木志伸／色彩設計:合田沙織／美術監督:谷岡善王（美峰）／美術設定:青木 薫（美峰）／コンポジット＆ビジュアルディレクター:髙津純平／編集:櫻井
+    崇／音楽:目黒将司・小林哲也／音響監督:飯田里樹／第4章監督:田口智久／制作:A-1 Pictures／製作:劇場版「ペルソナ３」製作委員会／配給:アニプレックス<br><br>©ATLUS
+    ©SEGA／劇場版「ペルソナ３」製作委員会<br><br>so36428157←前話｜次話→so36428159　第一話→so36428157"
+  length_seconds: 1865
+  content_id: so36428158
+  default_thread_id: 1582788663
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428158/36428158.76277454
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: "「滅びの時は、確実に迫っている。止める事は出来ない」死を知り、死を見つめ、死と向き合う。さまざまな出会いと別れを繰り返し、その度に、成長を遂げてきた結城
+    理と仲間たち。その戦いは、世界のためではなく、自分自身のためだったのかもしれない。それでも、戦いの先に平穏な日々があると信じて彼らは戦い続けてきた。しかし、滅びは人類が背負うべき運命だと少年は言う。友人だと信じていた少年が、無情にも現実を突きつける。季節は冬へ。その先にある春を迎えるため、理が下す決断とは――。<br><br>結城
+    理:石田 彰／岳羽ゆかり:豊口めぐみ／伊織順平:鳥海浩輔／桐条美鶴:田中理恵／真田明彦:緑川 光／山岸風花:能登麻美子／アイギス:坂本真綾／天田 乾:緒方恵美／荒垣真次郎:中井和哉／イゴール:田の中
+    勇（特別出演）／エリザベス:沢城みゆき<br><br>原作:「ペルソナ３」（アトラス）／脚本:熊谷 純／スーパーバイザー:岸 誠二／キャラクターデザイン:渡部圭祐／ペルソナデザイン:秋
+    恭摩／プロップデザイン:常木志伸／色彩設計:合田沙織／美術監督:谷岡善王（美峰）／美術設定:青木 薫（美峰）／コンポジット＆ビジュアルディレクター:髙津純平／編集:櫻井
+    崇／音楽:目黒将司・小林哲也／音響監督:飯田里樹／第4章監督:田口智久／制作:A-1 Pictures／製作:劇場版「ペルソナ３」製作委員会／配給:アニプレックス<br><br>©ATLUS
+    ©SEGA／劇場版「ペルソナ３」製作委員会<br><br>so36428158←前話｜次話→so36428160　第一話→so36428157"
+  length_seconds: 1666
+  content_id: so36428159
+  default_thread_id: 1582788677
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428159/36428159.73153022
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: "「滅びの時は、確実に迫っている。止める事は出来ない」死を知り、死を見つめ、死と向き合う。さまざまな出会いと別れを繰り返し、その度に、成長を遂げてきた結城
+    理と仲間たち。その戦いは、世界のためではなく、自分自身のためだったのかもしれない。それでも、戦いの先に平穏な日々があると信じて彼らは戦い続けてきた。しかし、滅びは人類が背負うべき運命だと少年は言う。友人だと信じていた少年が、無情にも現実を突きつける。季節は冬へ。その先にある春を迎えるため、理が下す決断とは――。<br><br>結城
+    理:石田 彰／岳羽ゆかり:豊口めぐみ／伊織順平:鳥海浩輔／桐条美鶴:田中理恵／真田明彦:緑川 光／山岸風花:能登麻美子／アイギス:坂本真綾／天田 乾:緒方恵美／荒垣真次郎:中井和哉／イゴール:田の中
+    勇（特別出演）／エリザベス:沢城みゆき<br><br>原作:「ペルソナ３」（アトラス）／脚本:熊谷 純／スーパーバイザー:岸 誠二／キャラクターデザイン:渡部圭祐／ペルソナデザイン:秋
+    恭摩／プロップデザイン:常木志伸／色彩設計:合田沙織／美術監督:谷岡善王（美峰）／美術設定:青木 薫（美峰）／コンポジット＆ビジュアルディレクター:髙津純平／編集:櫻井
+    崇／音楽:目黒将司・小林哲也／音響監督:飯田里樹／第4章監督:田口智久／制作:A-1 Pictures／製作:劇場版「ペルソナ３」製作委員会／配給:アニプレックス<br><br>©ATLUS
+    ©SEGA／劇場版「ペルソナ３」製作委員会<br><br>so36428159←前話　第一話→so36428157"
+  length_seconds: 1300
+  content_id: so36428160
+  default_thread_id: 1582788185
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428160/36428160.15319427
+cast: "[キャスト]<br>結城 理:石田 彰／岳羽ゆかり:豊口めぐみ／伊織順平:鳥海浩輔／桐条美鶴:田中理恵／真田明彦:緑川 光／山岸風花:能登麻美子／アイギス:坂本真綾／天田
+  乾:緒方恵美／荒垣真次郎:中井和哉／イゴール:田の中 勇（特別出演）／エリザベス:沢城みゆき"
+staff: "[スタッフ]<br>原作:「ペルソナ３」（アトラス）／脚本:熊谷 純／スーパーバイザー:岸 誠二／キャラクターデザイン:渡部圭祐／ペルソナデザイン:秋
+  恭摩／プロップデザイン:常木志伸／色彩設計:合田沙織／美術監督:谷岡善王（美峰）／美術設定:青木 薫（美峰）／コンポジット＆ビジュアルディレクター:髙津純平／編集:櫻井
+  崇／音楽:目黒将司・小林哲也／音響監督:飯田里樹／第4章監督:田口智久／制作:A-1 Pictures／製作:劇場版「ペルソナ３」製作委員会／配給:アニプレックス"
+produced_year: "[製作年]<br>2016年"
+copyright: "©ATLUS ©SEGA／劇場版「ペルソナ３」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: PERSONA -trinity soul-
+- !ruby/hash:SeasonHash
+  title: '劇場版「ペルソナ３」 #1 Spring of Birth'
+- !ruby/hash:SeasonHash
+  title: '劇場版「ペルソナ３」 #2 Midsummer Knight''s Dream'
+- !ruby/hash:SeasonHash
+  title: '劇場版「ペルソナ３」 #3 Falling Down'
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ４」
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ４ ザ・ゴールデン」
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ５」
+- !ruby/hash:SeasonHash
+  title: TVアニメ「ペルソナ５」特番アニメーション

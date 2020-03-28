@@ -1,0 +1,116 @@
+--- !ruby/hash:SeasonHash
+title: 舞台 サクラ大戦奏組 ～雅なるハーモニー～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/43/8/23438_1_8_8b.png?1580451027000
+outline: 帝都花組を陰で支える“奏組”の物語。憧れの帝國歌劇団に入れると信じ、帝都へと上京してきた雅音子。その頃、男性のみで編成されたオーケストラ『奏組』のメンバーたちが、
+  新たに下りた辞令に様々な思いを巡らせていた。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 小野健斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 田上真里奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮垣祐也
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺和貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩澤英真
+  type: cast
+- !ruby/hash:TagHash
+  name: 倉本発
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 帝都花組を陰で支える“奏組”の物語。憧れの帝國歌劇団に入れると信じ、帝都へと上京してきた雅音子。その頃、男性のみで編成されたオーケストラ『奏組』のメンバーたちが、
+    新たに下りた辞令に様々な思いを巡らせていた。<br><br>出演:田上真里奈、渡辺和貴、宮垣祐也、倉本発、塩澤英真、小野健斗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36326694
+  length_seconds: 2459
+  content_id: so36326695
+  default_thread_id: 1580973140
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326695/36326695.41402233
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 帝都花組を陰で支える“奏組”の物語。憧れの帝國歌劇団に入れると信じ、帝都へと上京してきた雅音子。その頃、男性のみで編成されたオーケストラ『奏組』のメンバーたちが、
+    新たに下りた辞令に様々な思いを巡らせていた。<br><br>出演:田上真里奈、渡辺和貴、宮垣祐也、倉本発、塩澤英真、小野健斗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36326695←前話｜次話→so36326693　第一話→so36326695
+  length_seconds: 2103
+  content_id: so36326694
+  default_thread_id: 1580973136
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326694/36326694.24883943
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 帝都花組を陰で支える“奏組”の物語。憧れの帝國歌劇団に入れると信じ、帝都へと上京してきた雅音子。その頃、男性のみで編成されたオーケストラ『奏組』のメンバーたちが、
+    新たに下りた辞令に様々な思いを巡らせていた。<br><br>出演:田上真里奈、渡辺和貴、宮垣祐也、倉本発、塩澤英真、小野健斗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36326694←前話　第一話→so36326695
+  length_seconds: 2202
+  content_id: so36326693
+  default_thread_id: 1580973146
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326693/36326693.9109847
+cast: "[キャスト]<br>出演:田上真里奈、渡辺和貴、宮垣祐也、倉本発、塩澤英真、小野健斗、他"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2012年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

@@ -1,0 +1,73 @@
+--- !ruby/hash:SeasonHash
+title: パロルのみらい島
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/00/6/20006_1_8_8b.png?1579845653000
+outline: 遠い海の向こうに浮かぶ小さな島。そこには未だ人間に知られていない不思議な動物達が暮らしていた。その島の子供、パロル・ズーズ・リコットは、ある日人間の世界の写真を拾い、その美しさに魅了され、掟を破って島を飛び出してしまう。初めて見る人間の世界に驚き、興奮するパロル達。ただ、そこには思わぬ落とし穴が待ち受けているのだが…。果たして彼らは無事に旅の目的を達成する事が出来るのか？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤村歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒田崇矢
+  type: cast
+- !ruby/hash:TagHash
+  name: 勝杏里
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮澤正
+  type: cast
+- !ruby/hash:TagHash
+  name: 志賀克也
+  type: cast
+- !ruby/hash:TagHash
+  name: 増岡太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：相良まさえ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：亀田祥倫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：今井一暁
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: パロルのみらい島
+  description: 遠い海の向こうに浮かぶ小さな島。そこには未だ人間に知られていない不思議な動物達が暮らしていた。その島の子供、パロル・ズーズ・リコットは、ある日人間の世界の写真を拾い、その美しさに魅了され、掟を破って島を飛び出してしまう。初めて見る人間の世界に驚き、興奮するパロル達。ただ、そこには思わぬ落とし穴が待ち受けているのだが…。果たして彼らは無事に旅の目的を達成する事が出来るのか？<br><br>パロル:藤村　歩／ズーズ:勝　杏里／リコット:川澄綾子／団長:飯塚昭三／アン:金田朋子／ワシ:黒田崇矢／チビピエロ:志賀克也／ノッポピエロ:増岡太郎／先生:宮澤　正<br><br>プロデューサー:岡田麻衣子／監督:今井一暁／脚本:岡野孝規／キャラクターデザイン・作画監督:亀田祥倫／作画監督補佐:加来哲郎／中堅原画:石橋翔祐、沖田博文／若手原画:河毛雅妃、有賀詩織、小林麻衣子、三田遼子、曽々木安恵、山下　晃、酒井原美樹／動画検査:八木綾乃／色彩設計・色指定・仕上検査:今泉ひろみ／美術監督:秋山健太郎／撮影監督:花井延昌／テーマ曲:伊佐なつき／音楽:相良まさえ／音響監督:大熊　昭<br><br>©今井一暁／シンエイ動画／アニメミライ2014
+  length_seconds: 1561
+  content_id: so36268362
+  default_thread_id: 1579840563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36268362/36268362.75071037
+cast: "[キャスト]<br>パロル:藤村　歩／ズーズ:勝　杏里／リコット:川澄綾子／団長:飯塚昭三／アン:金田朋子／ワシ:黒田崇矢／チビピエロ:志賀克也／ノッポピエロ:増岡太郎／先生:宮澤　正"
+staff: "[スタッフ]<br>プロデューサー:岡田麻衣子／監督:今井一暁／脚本:岡野孝規／キャラクターデザイン・作画監督:亀田祥倫／作画監督補佐:加来哲郎／中堅原画:石橋翔祐、沖田博文／若手原画:河毛雅妃、有賀詩織、小林麻衣子、三田遼子、曽々木安恵、山下　晃、酒井原美樹／動画検査:八木綾乃／色彩設計・色指定・仕上検査:今泉ひろみ／美術監督:秋山健太郎／撮影監督:花井延昌／テーマ曲:伊佐なつき／音楽:相良まさえ／音響監督:大熊　昭"
+produced_year: "[製作年]<br>2014年"
+copyright: "©今井一暁／シンエイ動画／アニメミライ2014"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: たんすわらし。
+- !ruby/hash:SeasonHash
+  title: わすれなぐも

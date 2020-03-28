@@ -1,0 +1,204 @@
+--- !ruby/hash:SeasonHash
+title: 今、そこにいる僕
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/27/1/23271_1_8_8b.png?1582249108000
+outline: 平凡な日々を生きるシュウは不思議な色の瞳を持つ少女、ララ･ルゥに出会う。仲良くなった二人の前に奇怪な機械が現れ、ふたりは50億年後の未来へタイムスリップしてしまう。そこは戦争が日常となっているすさみきった世界だった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡村明美
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井康嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西寛子
+  type: cast
+- !ruby/hash:TagHash
+  name: 安原麗子
+  type: cast
+- !ruby/hash:TagHash
+  name: 仲尾あづさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：岩崎琢
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大地丙太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大泉あつし
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: 1999年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 黄昏を見つめる少女
+  description: 松谷修造、通称シュウは、廃工場の煙突のてっぺんに少女が座っているのを目撃する。好奇心にかられたシュウは、隣の煙突のてっぺんに登り少女に話しかける。だが少女が口にしたのはララ・ルゥという自分の名前だけ。次第に二人が打ち解け始めたその時、謎の女性が現れた。その女性の命令で巨大メカがララ・ルゥを襲う。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>次話→so36428273
+  length_seconds: 1496
+  content_id: so36428272
+  default_thread_id: 1582789563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428272/36428272.53705687
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 少年と狂王と
+  description: 約五十億年後の世界にやって来たシュウは要塞都市ヘリウッドにいた。ララ・ルゥとはぐれたシュウは要塞の中を迷い歩くうち、少年兵ナブカとブゥに遭遇し逃走する。少年兵タブールに捕まり、ヘリウッドの統治者ハムドの部屋に連行されるシュウ。ララ・ルゥのペンダントをシュウが持っていると思い込んでいたハムドは…。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428272←前話｜次話→so36428274　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428273
+  default_thread_id: 1582789503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428273/36428273.47843257
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 闇の中の宴
+  description: シュウは牢獄でララ・ルゥに間違えられ拉致された少女サラと出会うが、すぐに尋問室へ連行される。拷問を受けても、知るはずのないペンダントの在処を白状しようがないシュウは、塔の外に吊るされる。同じ頃、敵国がヘリウッドに攻め入って来た。戦闘態勢に入り、多くの兵が出撃していくが、敵の進攻を停められず…。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428273←前話｜次話→so36428275　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428274
+  default_thread_id: 1582789565
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428274/36428274.80113679
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 不協和音
+  description: ペンダントについて何も知らないと判断されたシュウは、少年兵としてナブカたちの隊に組み込まれた。その夜、シュウはタブールたちに倉庫へ連れ出され、リンチに遭う。気づいたナブカは仲裁に入ろうとするが、その現場を教官に目撃されてしまう。タブールは仲間を傷つけた罰として、ムチ10発の刑に処せられる。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428274←前話｜次話→so36428276　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428275
+  default_thread_id: 1582789516
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428275/36428275.34033362
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ひとごろし
+  description: メインタワーに忍び込み、ハムドの部屋に押し入る二人の暗殺者。ハムドはそのうちの一人を射殺するが、もう一人はハムドの部屋から逃げて行方をくらます。全兵士に捜索命令が下り、捜索にあたっていたシュウたちは、倉庫内で暗殺者にブゥを人質にとられる。ナブカは一瞬のスキを突いて、暗殺者の胸に銃弾を撃ち込む。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428275←前話｜次話→so36428277　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428276
+  default_thread_id: 1582789509
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428276/36428276.69978071
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 砂嵐が消える
+  description: サラは屈辱に耐え切れず、油断を突いて兵士に殴りかかる。兵士は息絶え、ヘリウッドを脱出するサラ。一方、遠征隊に組み込まれた少年兵たちは、ヘリウッド出発後、ある村にたどり着く。大人の兵士とともに作戦行動に入る少年兵たち。ナブカはシュウに対し、これから起こるのは戦いではなくもっと酷いことだ、と告げる。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428276←前話｜次話→so36428278　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428277
+  default_thread_id: 1582789519
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428277/36428277.7971183
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 逃れの夜
+  description: 独房を脱走し、偶然ララ・ルゥのペンダントを手に入れたシュウは、ようやくララ・ルゥのいる部屋にたどり着いた。ハムドの尋問に耐えているララ・ルゥを見つけ、救出に成功したシュウだが、ヘリウッドの兵士に取り囲まれてしまう。その時、ララ・ルゥがペンダントの力を発動させて、二人はヘリウッドから脱出する。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428277←前話｜次話→so36428239　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428278
+  default_thread_id: 1582789515
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428278/36428278.48524674
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ひとりぼっちのふたり
+  description: 砂漠を行くシュウとララ・ルゥに巨大な怪物が襲いかかる。なんとか怪物から逃げ延びた二人は、怪物の触手が届かない岩場に登り一夜を明かすことになった。その夜、ララ・ルゥは、人間のために命を削って水を生み出してきたが、今は人間のために自分の命を使いたくないと話す。だがシュウが怪物との戦いで気を失うと…。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428278←前話｜次話→so36428200　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428239
+  default_thread_id: 1582788903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428239/36428239.25785036
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 狭間にて
+  description: 砂漠を越え谷間に緑豊かな村を発見したシュウとララ・ルゥは、村の入り口にいた少女スーンからここがザリ・バースだと聞かされる。そこで二人はシスという女性に出会う。シュウがヘリウッドから逃げて来たと打ち明けると、自分の家に来いと言うシス。彼女はヘリウッド軍によって孤児となった子供たちを世話していた。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428239←前話｜次話→so36428199　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428200
+  default_thread_id: 1582788368
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428200/36428200.22516155
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 混沌への助走
+  description: ザリ・バースでの生活に溶け込んでいくシュウとララ・ルゥ。しかし、ヘリウッドに闘争心を燃やすエランバ一派は、シュウを戦いの仲間に引き込もうとしていた。そんなある日、ザリ・バースにヘリウッド兵のカザムが流れ着く。カザムの正体はスパイで、その夜のうちにザリ・バースの位置がハムドに知られてしまう。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428200←前話｜次話→so36428198　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428199
+  default_thread_id: 1582788365
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428199/36428199.51097888
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 崩壊前夜
+  description: サラが倒れ、医者の家に担ぎ込まれた。診察した医者によれば、サラは妊娠しているという。ヘリウッド兵に暴行された上での妊娠に、サラは深く落ち込む。その夜、サラは泉で自殺を試みようとするが、後を追って来たシュウに止められる。一方、ララ・ルゥの正体がガザムの密告によって、エランバに知られてしまい…。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428199←前話｜次話→so36428197　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428198
+  default_thread_id: 1582788248
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428198/36428198.22758177
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 殺戮の大地
+  description: ララ・ルゥをヘリウッドとの交渉に利用したいエランバはシスの家に向かった。シスはシュウたちを洞窟に逃がすが、怒ったエランバに足を撃ち抜かれる。一方、洞窟に隠れたシュウたちはエランバの仲間に見つかってしまう。男がシュウやスーンに銃を向け、銃の引き金を引こうとした瞬間、ララ・ルゥが大量の水を発生させる。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428198←前話｜次話→so36428196　第一話→so36428272
+  length_seconds: 1496
+  content_id: so36428197
+  default_thread_id: 1582788665
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428197/36428197.84105675
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 今、そこにいる僕
+  description: アベリアの合図で虐殺が終わり、生き残ったザリ・バースの民とシュウたちはヘリウッド内の牢屋に押し込まれた。そんな中、シスは傷の手当が間に合わず死んでしまう。抵抗の術がないシュウだったが、牢屋の外に現れたナブカから棒を受け取ると、牢を抜け出しララ・ルゥ救出に向かう。要塞ヘリウッドで最後の戦いが始まる。<br><br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子<br><br>監督:大地丙太郎／助監督:宮崎なぎさ、則座
+    誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎 琢<br><br>©1999
+    丙tarty・AIC／NBCUniversal Entertainment.<br><br>so36428197←前話　第一話→so36428272
+  length_seconds: 1476
+  content_id: so36428196
+  default_thread_id: 1582788251
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36428196/36428196.77059514
+cast: "[キャスト]<br>シュウ:岡村明美／ララ･ルゥ:名塚佳織／サラ:仲尾あづさ／ナブカ:今井由香／ブゥ:小西寛子／タブゥール:陶山章央／ハムド:石井康嗣／アベリア:安原麗子"
+staff: "[スタッフ]<br>監督:大地丙太郎／助監督:宮崎なぎさ、則座 誠／構成･脚本:倉田英之／キャラクターデザイン:大泉あつし／美術監督:野村正信／撮影監督:斎藤秋男／音響監督:田中一也／音楽:岩崎
+  琢"
+produced_year: "[製作年]<br>1999年"
+copyright: "©1999 丙tarty・AIC／NBCUniversal Entertainment."
+related_seasons: !ruby/array:Hashie::Array []

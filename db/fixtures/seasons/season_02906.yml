@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版　甲虫王者ムシキング～グレイテストチャンピオンへの道～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/34/3/23343_1_8_8b.png?1580452572000
+outline: "「ムシキング」に夢中になっている少年「未来ケント」の前にある日現れた謎の少年「溝呂木シロー」。シローが操るのは、今までに見たこともない邪悪なオーラと赤く不気味に光る瞳をもつ「ダークサイド・ネプチューンオオカブト」。ムシバトルで勝利するためには手段を選ばないシローのダークサイドの力に対し、「ムシキング」で世界一のグレイテストチャンピオンを目指すケントが立ち向かう。「ケント＆ムシキング」VS「シロー＆ダークサイド・ネプチューンオオカブト」の究極のムシバトルが今、始まる！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林由美子
+  type: cast
+- !ruby/hash:TagHash
+  name: くまいもとこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 神田朱未
+  type: cast
+- !ruby/hash:TagHash
+  name: 福田沙紀
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山中純子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：天野正道
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：須藤昌朋
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：セガ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大賀俊二
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: "「ムシキング」に夢中になっている少年「未来ケント」の前にある日現れた謎の少年「溝呂木シロー」。シローが操るのは、今までに見たこともない邪悪なオーラと赤く不気味に光る瞳をもつ「ダークサイド・ネプチューンオオカブト」。ムシバトルで勝利するためには手段を選ばないシローのダークサイドの力に対し、「ムシキング」で世界一のグレイテストチャンピオンを目指すケントが立ち向かう。「ケント＆ムシキング」VS「シロー＆ダークサイド・ネプチューンオオカブト」の究極のムシバトルが今、始まる！<br><br>未来ケント:くまいもとこ／未来ユウト:小林由美子／夢野アイ:神田朱未／溝呂木シロー:福田沙紀　他<br><br>原案:植村
+    比呂志／原作:セガ／監督:大賀 俊二／脚本:藤田 伸三／音楽:天野正道／キャラクターデザイン・作画監督:須藤 昌朋、山中 純子／美術監督:水谷 利春／メカ・デザイン・アクション作監:清水
+    義治／色彩設計:原田 幸子／撮影監督:森下 成一／音響監督:清水 洋史／プロデューサー:妹尾 眞治／アニメーションプロデューサー:尾﨑 穏道／音楽プロデューサー:柴田
+    文孝<br><br>©SEGA/ムシキング・ザ・ムービー・プロジェクト 2005<br><br>次話→so36321137"
+  length_seconds: 1484
+  content_id: so36321138
+  default_thread_id: 1580833511
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321138/36321138.70440499
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: "「ムシキング」に夢中になっている少年「未来ケント」の前にある日現れた謎の少年「溝呂木シロー」。シローが操るのは、今までに見たこともない邪悪なオーラと赤く不気味に光る瞳をもつ「ダークサイド・ネプチューンオオカブト」。ムシバトルで勝利するためには手段を選ばないシローのダークサイドの力に対し、「ムシキング」で世界一のグレイテストチャンピオンを目指すケントが立ち向かう。「ケント＆ムシキング」VS「シロー＆ダークサイド・ネプチューンオオカブト」の究極のムシバトルが今、始まる！<br><br>未来ケント:くまいもとこ／未来ユウト:小林由美子／夢野アイ:神田朱未／溝呂木シロー:福田沙紀　他<br><br>原案:植村
+    比呂志／原作:セガ／監督:大賀 俊二／脚本:藤田 伸三／音楽:天野正道／キャラクターデザイン・作画監督:須藤 昌朋、山中 純子／美術監督:水谷 利春／メカ・デザイン・アクション作監:清水
+    義治／色彩設計:原田 幸子／撮影監督:森下 成一／音響監督:清水 洋史／プロデューサー:妹尾 眞治／アニメーションプロデューサー:尾﨑 穏道／音楽プロデューサー:柴田
+    文孝<br><br>©SEGA/ムシキング・ザ・ムービー・プロジェクト 2005<br><br>so36321138←前話　第一話→so36321138"
+  length_seconds: 1579
+  content_id: so36321137
+  default_thread_id: 1580833505
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321137/36321137.25531024
+cast: "[キャスト]<br>未来ケント:くまいもとこ／未来ユウト:小林由美子／夢野アイ:神田朱未／溝呂木シロー:福田沙紀　他"
+staff: "[スタッフ]<br>原案:植村 比呂志／原作:セガ／監督:大賀 俊二／脚本:藤田 伸三／音楽:天野正道／キャラクターデザイン・作画監督:須藤 昌朋、山中
+  純子／美術監督:水谷 利春／メカ・デザイン・アクション作監:清水 義治／色彩設計:原田 幸子／撮影監督:森下 成一／音響監督:清水 洋史／プロデューサー:妹尾
+  眞治／アニメーションプロデューサー:尾﨑 穏道／音楽プロデューサー:柴田 文孝"
+produced_year: "[製作年]<br>2006年"
+copyright: "©SEGA/ムシキング・ザ・ムービー・プロジェクト 2005"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 甲虫王者 ムシキング～森の民の伝説～
+- !ruby/hash:SeasonHash
+  title: 甲虫王者ムシキング　スーパーバトルムービー　～闇の改造甲虫～

@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: マジンガーＺ対デビルマン
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/5/21925_1_6.png?1512981074000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/5/21925_1_8_8b.png?1551352865000
 outline: 悪魔の超能力をもつといわれるデーモン族。Dr.ヘルは、地球征服の障害となっているマジンガーＺを倒すべく、テレパシー操作光線を使いデーモン族のザンニンと手を組んだ。一方兜甲児は、デビルマン・不動明に出会い、最初は反目しあうものの、共に戦うことを約束する。しかしデビルマンは機械獣&妖獣連合軍につかまってしまった。明に指摘された゛空からの攻撃に弱い゛という弱点を克服すべく開発された新兵器ジェットスクランダーを装備し救出へ向かうマジンガーZ。機械獣&妖獣連合軍との最後の戦いがはじまる！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -26,10 +26,10 @@ tags: !ruby/array:Hashie::Array
   name: 里見京子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：渡辺宙明
+  name: 原作：永井豪
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：永井豪
+  name: 音楽：渡辺宙明
   type: staff
 - !ruby/hash:TagHash
   name: 原作：ダイナミックプロ
@@ -38,13 +38,13 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：三沢郷
   type: staff
 - !ruby/hash:TagHash
-  name: 劇場公開作品
-  type: other
-- !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1973年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -62,14 +62,14 @@ produced_year: "[製作年]<br>1973年"
 copyright: "©ダイナミック企画・東映アニメーション"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+  title: マジンガーＺ対暗黒大将軍
 - !ruby/hash:SeasonHash
-  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+  title: グレートマジンガー対ゲッターロボ
 - !ruby/hash:SeasonHash
   title: グレートマジンガー対ゲッターロボＧ　空中大激突
 - !ruby/hash:SeasonHash
   title: 宇宙円盤大戦争
 - !ruby/hash:SeasonHash
-  title: グレートマジンガー対ゲッターロボ
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
 - !ruby/hash:SeasonHash
-  title: マジンガーＺ対暗黒大将軍
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣

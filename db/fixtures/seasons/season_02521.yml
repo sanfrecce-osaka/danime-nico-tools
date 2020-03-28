@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 豊永利行
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 豊永利行
   type: cast
 - !ruby/hash:TagHash
   name: 畠中祐

@@ -1,0 +1,122 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 巴里花組ショウ2014 ～ケセラセラ・パリ～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/44/2/23442_1_8_8b.png?1580450870000
+outline: ロベリアに仕返しを画策するシゾーの前に、謎の男「ダス・モルテス」が現れる。「死」を司るというダス・モルテスは、恐ろしい提案をシゾーに持ちかける。一方、ロベリアは自身の体調に違和感を感じていた…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鷹森淑乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 島津冴子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: ロベリアに仕返しを画策するシゾーの前に、謎の男「ダス・モルテス」が現れる。「死」を司るというダス・モルテスは、恐ろしい提案をシゾーに持ちかける。一方、ロベリアは自身の体調に違和感を感じていた…。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36426483
+  length_seconds: 1945
+  content_id: so36426482
+  default_thread_id: 1582747204
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426482/36426482.25211960
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: ロベリアに仕返しを画策するシゾーの前に、謎の男「ダス・モルテス」が現れる。「死」を司るというダス・モルテスは、恐ろしい提案をシゾーに持ちかける。一方、ロベリアは自身の体調に違和感を感じていた…。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36426482←前話｜次話→so36426484　第一話→so36426482
+  length_seconds: 2421
+  content_id: so36426483
+  default_thread_id: 1582747222
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426483/36426483.6885698
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: ロベリアに仕返しを画策するシゾーの前に、謎の男「ダス・モルテス」が現れる。「死」を司るというダス・モルテスは、恐ろしい提案をシゾーに持ちかける。一方、ロベリアは自身の体調に違和感を感じていた…。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36426483←前話｜次話→so36426485　第一話→so36426482
+  length_seconds: 2081
+  content_id: so36426484
+  default_thread_id: 1582747228
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426484/36426484.33138087
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: ロベリアに仕返しを画策するシゾーの前に、謎の男「ダス・モルテス」が現れる。「死」を司るというダス・モルテスは、恐ろしい提案をシゾーに持ちかける。一方、ロベリアは自身の体調に違和感を感じていた…。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36426484←前話　第一話→so36426482
+  length_seconds: 1984
+  content_id: so36426485
+  default_thread_id: 1582747216
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426485/36426485.18298580
+cast: "[キャスト]<br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2014年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

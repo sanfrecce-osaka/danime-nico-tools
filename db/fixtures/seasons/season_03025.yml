@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: "『CHaCK-UP―Episode.0―』"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/40/6/21406_1_8_8b.png?1582799670000
+outline: 天王星第一皇子のエステランサ・レイリンボン・ティターナー7世。戴冠式を間近に控え、落ち着かない日々を送っていたが、式が近づくにつれ、思いがけない事故や事件が起こりだす。次第に彼を狙う影の姿が浮かび上がってきて……
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: KIMERU
+  type: cast
+- !ruby/hash:TagHash
+  name: 崎山つばさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 古谷大和
+  type: cast
+- !ruby/hash:TagHash
+  name: 福島海太
+  type: cast
+- !ruby/hash:TagHash
+  name: 赤澤遼太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 影山達也
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川裕太
+  type: cast
+- !ruby/hash:TagHash
+  name: 井阪郁巳
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田将希
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川正人
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林辰也
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：大石憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：亀田真二郎
+  type: staff
+- !ruby/hash:TagHash
+  name: CHaCK-UPシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: "『CHaCK-UP―Episode.0―』"
+  description: 天王星第一皇子のエステランサ・レイリンボン・ティターナー7世。戴冠式を間近に控え、落ち着かない日々を送っていたが、式が近づくにつれ、思いがけない事故や事件が起こりだす。次第に彼を狙う影の姿が浮かび上がってきて……<br><br>出演:古川裕太　影山達也　崎山つばさ　古谷大和　福島海太
+    ／ 赤澤遼太郎　井阪郁巳　松田将希　石川正人 ／ 小林辰也 ／ Kimeru<br><br>脚本・演出:亀田真二郎(東京パチプロデュース)／作詞:三ツ矢雄二　うえのけいこ／音楽:大石憲一郎／振付:Q-TARO　當間里美　黒田育世<br><br>次話→so36354268
+  length_seconds: 1679
+  content_id: so36354269
+  default_thread_id: 1581475445
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36354269/36354269.22197158
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: "『CHaCK-UP―Episode.0―』"
+  description: 天王星第一皇子のエステランサ・レイリンボン・ティターナー7世。戴冠式を間近に控え、落ち着かない日々を送っていたが、式が近づくにつれ、思いがけない事故や事件が起こりだす。次第に彼を狙う影の姿が浮かび上がってきて……<br><br>出演:古川裕太　影山達也　崎山つばさ　古谷大和　福島海太
+    ／ 赤澤遼太郎　井阪郁巳　松田将希　石川正人 ／ 小林辰也 ／ Kimeru<br><br>脚本・演出:亀田真二郎(東京パチプロデュース)／作詞:三ツ矢雄二　うえのけいこ／音楽:大石憲一郎／振付:Q-TARO　當間里美　黒田育世<br><br>so36354269←前話｜次話→so36354267　第一話→so36354269
+  length_seconds: 2324
+  content_id: so36354268
+  default_thread_id: 1581475383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36354268/36354268.6402252
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: "『CHaCK-UP―Episode.0―』"
+  description: 天王星第一皇子のエステランサ・レイリンボン・ティターナー7世。戴冠式を間近に控え、落ち着かない日々を送っていたが、式が近づくにつれ、思いがけない事故や事件が起こりだす。次第に彼を狙う影の姿が浮かび上がってきて……<br><br>出演:古川裕太　影山達也　崎山つばさ　古谷大和　福島海太
+    ／ 赤澤遼太郎　井阪郁巳　松田将希　石川正人 ／ 小林辰也 ／ Kimeru<br><br>脚本・演出:亀田真二郎(東京パチプロデュース)／作詞:三ツ矢雄二　うえのけいこ／音楽:大石憲一郎／振付:Q-TARO　當間里美　黒田育世<br><br>so36354268←前話｜次話→so36354266　第一話→so36354269
+  length_seconds: 1422
+  content_id: so36354267
+  default_thread_id: 1581475443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36354267/36354267.8138081
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: "『CHaCK-UP―Episode.0―』"
+  description: 天王星第一皇子のエステランサ・レイリンボン・ティターナー7世。戴冠式を間近に控え、落ち着かない日々を送っていたが、式が近づくにつれ、思いがけない事故や事件が起こりだす。次第に彼を狙う影の姿が浮かび上がってきて……<br><br>出演:古川裕太　影山達也　崎山つばさ　古谷大和　福島海太
+    ／ 赤澤遼太郎　井阪郁巳　松田将希　石川正人 ／ 小林辰也 ／ Kimeru<br><br>脚本・演出:亀田真二郎(東京パチプロデュース)／作詞:三ツ矢雄二　うえのけいこ／音楽:大石憲一郎／振付:Q-TARO　當間里美　黒田育世<br><br>so36354267←前話　第一話→so36354269
+  length_seconds: 1520
+  content_id: so36354266
+  default_thread_id: 1581475564
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36354266/36354266.34035949
+cast: "[キャスト]<br>出演:古川裕太　影山達也　崎山つばさ　古谷大和　福島海太 ／ 赤澤遼太郎　井阪郁巳　松田将希　石川正人 ／ 小林辰也 ／ Kimeru"
+staff: "[スタッフ]<br>脚本・演出:亀田真二郎(東京パチプロデュース)／作詞:三ツ矢雄二　うえのけいこ／音楽:大石憲一郎／振付:Q-TARO　當間里美　黒田育世"
+produced_year: "[製作年]<br>2016年"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "『CHaCK-UP』"
+- !ruby/hash:SeasonHash
+  title: "『CHaCK-UP ～ねらわれた惑星～』"
+- !ruby/hash:SeasonHash
+  title: "『CHaCK-CHeCK-CHaRM case001～地球のアイドルというものを勉強したのです！～』"

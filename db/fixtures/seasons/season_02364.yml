@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田雄馬
   type: cast
 - !ruby/hash:TagHash
-  name: 蒼井翔太
+  name: 八代拓
   type: cast
 - !ruby/hash:TagHash
-  name: 八代拓
+  name: 蒼井翔太
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：勝鬨スタジオ

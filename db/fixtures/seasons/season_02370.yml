@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
   name: 上田麗奈

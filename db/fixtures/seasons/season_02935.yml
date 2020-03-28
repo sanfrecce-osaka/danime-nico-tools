@@ -1,0 +1,108 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 巴里花組 特別ミニライブショウ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/41/7/23417_1_8_8b.png?1580451052000
+outline: サクラ大戦3の発売以来、ファンが熱望していた巴里花組によるショウがついに実現。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 鷹森淑乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 島津冴子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: サクラ大戦3の発売以来、ファンが熱望していた巴里花組によるショウがついに実現。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、
+    陶山章央 <br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318276
+  length_seconds: 2089
+  content_id: so36318350
+  default_thread_id: 1580797704
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318350/36318350.48660161
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: サクラ大戦3の発売以来、ファンが熱望していた巴里花組によるショウがついに実現。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、
+    陶山章央 <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318350←前話　第一話→so36318350
+  length_seconds: 2373
+  content_id: so36318276
+  default_thread_id: 1580795766
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318276/36318276.59885343
+cast: "[キャスト]<br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、 陶山章央"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2001年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2004年新春歌謡ショウ「歌え♪花組」

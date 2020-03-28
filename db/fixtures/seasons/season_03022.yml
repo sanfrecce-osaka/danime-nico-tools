@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: ちっちゃな雪使いシュガー特別編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/64/0/23640_1_8_8b.png?1583111827000
+outline: ピッコロやトランペット、ハープなどの楽器を使って季節を操る妖精“季節使い”の見習い・シュガーと、人間の少女サガの交流を描く、マジカル・メルヘン・ファンタジー特別編。サブタイトルは「その胸にあるもの　前・後編」。BS放送の枠で放映された。キャラクター原案はコゲどんぼ。16歳になったサガ。シュガーが家にいたころ、学校でやったお芝居の衣装を見つけた彼女は、そのころのことを思い出す。サガが演じるのは、お姫様の役。つられて、お芝居に出るわけでもないシュガーも大はりきりするのだが…？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 立木文彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 野島健児
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅野真澄
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林由美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本保典
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 福島潤
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：光宗信吉
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村真一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：蒼はるか
+  type: staff
+- !ruby/hash:TagHash
+  name: ちっちゃな雪使いシュガーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: その胸にあるもの
+  description: サガがまだ季節使いたちのことを見えていたころのお話。クラス発表会のお芝居でサガは主役のお姫さまに選ばれてしまった。シュガーたち季節使いは興味津々でお稽古を見学しにくるが、緊張したサガは上手に演技が出来なかった。間近に迫ったお芝居の本番、果たして上手くいくのだろうか…？<br><br>シュガー:川上とも子／サガ:浅野真澄／ソルト:サエキトモ／ペッパー:水橋かおり／グレタ:西村ちなみ／ノーマ:石毛佐和／アンヌ:中川亜紀子／フィル:真田アサミ／長老:立木文彦／ハンナ先生:平松晶子／サガの母:皆口裕子／レジーナ:秋元千賀子／ルキーノ:鈴木清信／ポール:松本保典／ジャン:笹本優子／アラン:福島
+    潤／ジンジャー:三石琴乃／ターメリック:野島健児／バジル:小林由美子／シナモン:平松晶子<br><br>原作:蒼 はるか／監督:木村真一郎／脚本:やまだやすのり／音楽:光宗信吉<br><br>©蒼はるか／シュガー製作委員会<br><br>次話→so36363749
+  length_seconds: 1465
+  content_id: so36363681
+  default_thread_id: 1581648123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36363681/36363681.32050103
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: その胸にあるもの
+  description: サガがまだ季節使いたちのことを見えていたころのお話。クラス発表会のお芝居でサガは主役のお姫さまに選ばれてしまった。シュガーたち季節使いは興味津々でお稽古を見学しにくるが、緊張したサガは上手に演技が出来なかった。間近に迫ったお芝居の本番、果たして上手くいくのだろうか…？<br><br>シュガー:川上とも子／サガ:浅野真澄／ソルト:サエキトモ／ペッパー:水橋かおり／グレタ:西村ちなみ／ノーマ:石毛佐和／アンヌ:中川亜紀子／フィル:真田アサミ／長老:立木文彦／ハンナ先生:平松晶子／サガの母:皆口裕子／レジーナ:秋元千賀子／ルキーノ:鈴木清信／ポール:松本保典／ジャン:笹本優子／アラン:福島
+    潤／ジンジャー:三石琴乃／ターメリック:野島健児／バジル:小林由美子／シナモン:平松晶子<br><br>原作:蒼 はるか／監督:木村真一郎／脚本:やまだやすのり／音楽:光宗信吉<br><br>©蒼はるか／シュガー製作委員会<br><br>so36363681←前話　第一話→so36363681
+  length_seconds: 1435
+  content_id: so36363749
+  default_thread_id: 1581649503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36363749/36363749.90559993
+cast: "[キャスト]<br>シュガー:川上とも子／サガ:浅野真澄／ソルト:サエキトモ／ペッパー:水橋かおり／グレタ:西村ちなみ／ノーマ:石毛佐和／アンヌ:中川亜紀子／フィル:真田アサミ／長老:立木文彦／ハンナ先生:平松晶子／サガの母:皆口裕子／レジーナ:秋元千賀子／ルキーノ:鈴木清信／ポール:松本保典／ジャン:笹本優子／アラン:福島
+  潤／ジンジャー:三石琴乃／ターメリック:野島健児／バジル:小林由美子／シナモン:平松晶子"
+staff: "[スタッフ]<br>原作:蒼 はるか／監督:木村真一郎／脚本:やまだやすのり／音楽:光宗信吉"
+produced_year: "[製作年]<br>2003年"
+copyright: "©蒼はるか／シュガー製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ちっちゃな雪使いシュガー

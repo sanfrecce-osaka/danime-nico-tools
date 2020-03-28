@@ -1,0 +1,373 @@
+--- !ruby/hash:SeasonHash
+title: TVシリーズ　新・天地無用！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/28/0/23280_1_8_8b.png?1581476440000
+outline: 相変わらずノンキな日々を送っていた天地ファミリー。そんなある日、天地は一同を残して修行のために東京へ旅立つ。到着早々、修行先の渋谷天満宮の和尚の代理で地鎮祭を執り行う天地と勝仁。しかし、地鎮祭の最中に邪霊・狗麗稗吐が現れ、人々を襲撃！
+  その瞬間、幻想空間に次元トンネルが口を開け、6人の女性が現れた！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 青野武
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 水谷優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 高田由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林優子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：高本宣弘
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：菊池俊輔
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：中澤一登
+  type: staff
+- !ruby/hash:TagHash
+  name: 天地無用！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1997年
+  type: other
+- !ruby/hash:TagHash
+  name: 1997年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: 桜咲く　華の都で　ウラウララ
+  description: 東京の神社で修行を積むことになった天地。阿重霞や砂沙美たちを説得して東京での一人暮らしを始める。その場に居合わせなかった魎呼は、愛しい天地がいなくなったことを知ると、家族全員を巻き込んでの大激怒！
+    新キャラ美少女・佐久耶も登場して天地ファミリーの新しい物語は賑やかに始まる！<br><br>柾木天地:菊池正美／魎呼:折笠 愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>次話→so36368815
+  length_seconds: 1391
+  content_id: so36368814
+  default_thread_id: 1581727927
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368814/36368814.48479489
+- !ruby/hash:EpisodeHash
+  episode_no: 第二話
+  title: 縁結び　決め手は　小指の赤い糸
+  description: 二人で下校している姿を魎呼と阿重霞に目撃された天地と佐久耶。逃げた二人が入り込んだのは縁結びの神様を奉った神社だった。佐久耶の恋愛成就の祈願によって登場した、狗麗稗吐・鈴木イネは天地と佐久耶のデートをフォローし、相思相愛の印である赤い糸を結び付けようと画策する。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368814←前話｜次話→so36368816　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368815
+  default_thread_id: 1581727511
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368815/36368815.86814411
+- !ruby/hash:EpisodeHash
+  episode_no: 第三話
+  title: 大混戦　伝言ゲームは　ラブゲーム
+  description: 次元トンネルの使用を天地から禁じられた魎呼は、仕方なく鷲羽のメカ「ほーこく君」で天地の姿をみて我慢することに。しかし、愛知県に出現した狗麗稗吐・ズミノヨシアキによって数体の「ほーこく君」が不良化。魎呼の元には次々と偽情報が届けられる。ついに怒りが爆発した魎呼は!!<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368815←前話｜次話→so36368817　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368816
+  default_thread_id: 1581727623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368816/36368816.9135147
+- !ruby/hash:EpisodeHash
+  episode_no: 第四話
+  title: あこがれの　貴方と歩く　バージンロード
+  description: とある日曜日、佐久耶は天地を街に連れ出す。雑踏から外れた裏道、霞に包まれた中で天地達が辿り着いたのは、ここで愛を誓い合ったカップルは永遠の愛を手にすることが出来るという「誓いの館」であった。天地と佐久耶は、幽戯の腹心・秀眞の力に操られて無理矢理結婚式をあげることに！<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368816←前話｜次話→so36368818　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368817
+  default_thread_id: 1581727923
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368817/36368817.7531028
+- !ruby/hash:EpisodeHash
+  episode_no: 第五話
+  title: 金かせげ　さあカネかせげ　金かせげ
+  description: 柾木家の家計が大ピンチ！ 生活費を納められない魎呼、阿重霞、美星、清音はバイトで金を稼ぐために東京へ。しかし、労働には向かない天地ファミリーはバイト先で失敗を重ねあえなくクビになってしまう。そんな時、日給百万円と書かれたチラシが目に入ってきて…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368817←前話｜次話→so36368819　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368818
+  default_thread_id: 1581727503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368818/36368818.63765975
+- !ruby/hash:EpisodeHash
+  episode_no: 第六話
+  title: 誘われて　ふしぎの国の　迷宮(ラビリンス)
+  description: 魎皇鬼と一緒に稼いだお金を魎呼たちに狙われた砂沙美は、魔の手を逃れ泣く泣く天地の部屋へかくまってもらうことに。天地とともに渋谷へ出かけた砂沙美は、目にとまった裏側の雑貨屋へ一人入っていく。しかし、その雑貨屋こそ幽戯の指示によって東日流が作りだした幻の店だった。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368818←前話｜次話→so36368820　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368819
+  default_thread_id: 1581727509
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368819/36368819.30283898
+- !ruby/hash:EpisodeHash
+  episode_no: 第七話
+  title: 恋い恋いと　呼ばれたるかな　宇宙船
+  description: 今日は魎呼や阿重霞らが天地と出会ってからちょうど二年となる「天地様記念日」。阿重霞や砂沙美たちは、御馳走を用意して天地の帰りを待っていた。手伝いをさぼって湖に沈んだ宇宙船を眺めている魎呼もなにやら感慨深げで…。天地とみんなの出会いを描く、天地ファミリー創成の物語。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368819←前話｜次話→so36368821　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368820
+  default_thread_id: 1581727627
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368820/36368820.36628064
+- !ruby/hash:EpisodeHash
+  episode_no: 第八話
+  title: 気がつけば　貴方がずっと　そばにいた
+  description: 柾木家にみんなが集まって、天地様記念日のパーティが始まった。天地との出会いをしみじみと想い浮かべるみんなだったが、そこに佐久耶が現れたことで雰囲気が一変。もともと佐久耶が気に入らない魎呼と阿重霞はネチネチと佐久耶をいじめだす始末。そんな時事件が起こってさらに魎呼の怒りが爆発!!<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368820←前話｜次話→so36368840　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368821
+  default_thread_id: 1581727925
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368821/36368821.32723080
+- !ruby/hash:EpisodeHash
+  episode_no: 第九話
+  title: かの地から　悪夢運びし　地下遺跡
+  description: クラスメートとともに、3500年前のものだとされる遺跡の発見現場を訪れた天地は、尼ヶ崎らとふざけあっている内に遺跡の下の空洞に落ち込んでしまった。周囲を見渡すと、そこは地上のものとは規模が全く違う大遺跡の中。しかも謎のガーディアンが現れていきなり襲いかかってきた!!<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368821←前話｜次話→so36368841　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368840
+  default_thread_id: 1581728109
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368840/36368840.39868052
+- !ruby/hash:EpisodeHash
+  episode_no: 第十話
+  title: くちびるに　想いを託す　ルージュかな
+  description: 天地が学校から帰ると、留守電に魎呼の強引なデートの誘いが。やれやれとデートに出かけた天地だったが、その前に現れたのは、髪をアップにして美しく変身した魎呼であった。楽しい時を過ごす二人。しかし同じように天地をデートに誘っていた佐久耶は、公園で天地を待ち続けていた…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368840←前話｜次話→so36368842　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368841
+  default_thread_id: 1581728168
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368841/36368841.59578622
+- !ruby/hash:EpisodeHash
+  episode_no: 第十一話
+  title: しかられて　宇宙へ家出　ミャミャミャミャミャ
+  description: 魎呼と阿重霞にはめられて仏像壊しの犯人にされた魎皇鬼は、にんじんのつまみ食いをしていたこともあって、砂沙美にひどく叱られてしまう。家を飛び出した魎皇鬼は、全く同じ姿をした狗麗稗吐・雄皇鬼に出会いともに月へ飛ぶ。そこで自分の仲間が沢山いることを知って上機嫌になるが…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368841←前話｜次話→so36368843　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368842
+  default_thread_id: 1581728106
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368842/36368842.99428559
+- !ruby/hash:EpisodeHash
+  episode_no: 第十二話
+  title: ニセオヤジ　ラテンのリズムで　パパいやん
+  description: 風邪でダウンしてしまった砂沙美に代わって家事を務めることになった信幸。しかし、ワガママ放題のみんなに疲れた信幸は東京の天地のもとへ。その信幸を利用して天地と佐久耶の仲を復活させようと企んだ幽戯は、真鳥を使わして信幸の親心から狗麗稗吐・オヤジモドキを作り出すが…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368842←前話｜次話→so36368844　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368843
+  default_thread_id: 1581728223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368843/36368843.47354984
+- !ruby/hash:EpisodeHash
+  episode_no: 第十三話
+  title: 激突の　月と闇夜と　稲妻と
+  description: 幽戯が遂に直接行動を決意した。岡山の柾木家上空に現れた幽戯は、邪悪な巨大クリスタルで天地ファミリーを取り囲み攻撃を開始する。凄まじい攻撃に逃げるしかない魎呼達。その頃砂沙美は、体を二つに分け、女の子の姿になった幽戯と裏山で遊んでいた。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368843←前話｜次話→so36368845　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368844
+  default_thread_id: 1581728111
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368844/36368844.6357980
+- !ruby/hash:EpisodeHash
+  episode_no: 第十四話
+  title: カッとばせ　岡山→東京　無銭旅行
+  description: 阿重霞は、天地と佐久耶の関係を自分の目で見極めるために、砂沙美と魎皇鬼を巻き込んで岡山→東京ヒッチハイクの旅に出る。その阿重霞たちを拾ったのは、愛する男・イサオを探して旅する女性ライダー・マサヨだった。旅先のドライブインで意気投合した阿重霞とマサヨは…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368844←前話｜次話→so36368846　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368845
+  default_thread_id: 1581728163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368845/36368845.1488805
+- !ruby/hash:EpisodeHash
+  episode_no: 第十五話
+  title: 文化祭　愛の始まり　平和の終わり
+  description: 文化祭。佐久耶たちが出店するクレープ屋の手伝いをする天地。なかなかイイ雰囲気の二人だが、ニブイ男・尼ヶ崎が、事あるごとにその雰囲気をぶち壊していた。それを見た幽戯が狗麗稗吐・イカリーヌ定子を差し向ける。女子プロレスラー・イカリーヌ定子VS尼ヶ崎の死闘の幕がきっておとされる。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368845←前話｜次話→so36368847　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368846
+  default_thread_id: 1581728166
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368846/36368846.57879605
+- !ruby/hash:EpisodeHash
+  episode_no: 第十六話
+  title: 桜散る　華の都の　恋模様
+  description: 信幸へのヘソクリを手に入れて天地のいる天満宮高校へやってきた阿重霞たち。しかし、次々と騒ぎを起し、揚げ句の果てに佐久耶たちのクレープ屋も破壊してしまう。遂に怒りが爆発した天地は阿重霞たちにキツイ言葉を。天地の普段自分には見せないその姿を見た佐久耶は、天地への告白を決意する。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368846←前話｜次話→so36368874　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368847
+  default_thread_id: 1581728103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368847/36368847.96137013
+- !ruby/hash:EpisodeHash
+  episode_no: 第十七話
+  title: 彷徨いて　宇宙の彼方に　魎呼たつ
+  description: 天地と佐久耶のキスシーンを目撃してしまった魎呼は、傷心のまま一人東京の街を彷徨っていた。突然襲いかかって来た姿なき者の攻撃をかわしている内に辿り着いた場所は、かつて秀眞と戦ったところだった。魎呼の前に三度姿を現した秀眞は、ともに宇宙で暴れないかと誘いをかける。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368847←前話｜次話→so36368875　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368874
+  default_thread_id: 1581728715
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368874/36368874.57599504
+- !ruby/hash:EpisodeHash
+  episode_no: 第十八話
+  title: 離れゆく　心とこころ　別れの日
+  description: 秀眞に誘われて、宇宙に繰り出した魎呼。銀河連邦銀行の大金庫に狙いを定めた魎呼たちが行き着いた大金庫はなんとマイクロブラックホールであった！
+    一方地球では、第一級犯罪者を逮捕するという大手柄をたてたミホキヨが、阿重霞たちに冥王星への転勤を報告していた。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368874←前話｜次話→so36368876　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368875
+  default_thread_id: 1581728713
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368875/36368875.72168176
+- !ruby/hash:EpisodeHash
+  episode_no: 第十九話
+  title: 友去りて　阿重霞告白　届かぬ想い
+  description: 魎呼、ミホキヨがいなくなり、鷲羽も研究室にこもったきり。静まりかえってしまった柾木家に取り残された阿重霞は、再びみんなの心を一つにしようと宇宙に飛び出す。しかし、ミホキヨも阿重霞の言葉には耳を貸そうとしない。悲しみに暮れた阿重霞は天地のアパートへ電話をかけるが…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368875←前話｜次話→so36368877　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368876
+  default_thread_id: 1581728645
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368876/36368876.79171173
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十話
+  title: 初夏知らず　ミホキヨ、ドタバタ　潜入捜査
+  description: 銀行襲撃に成功し、アジトに帰って祝杯をあげる魎呼一味。そしてその部下の中には潜入捜査のために潜りこんだミホキヨの姿があった。相変わらず騒々しいミホキヨの正体をとうの昔に気づいていた魎呼は、二人に無理難題を押し付ける。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368876←前話｜次話→so36368878　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368877
+  default_thread_id: 1581728707
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368877/36368877.71638092
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十一話
+  title: 蝉時雨　悲しき遊戯　夢の後
+  description: 幽戯は樹雷人だった！ 半月振りに研究室から出てきた鷲羽は、阿重霞にその衝撃の事実を語った。鷲羽の依頼を受け北奥多摩の樹雷封印神殿へと向かう阿重霞。一方、幽戯は少女の姿になって砂沙美のところへ遊びに来ていた。樹雷星にいた頃の自分を思い出す幽戯。その過去には…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368877←前話｜次話→so36368879　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368878
+  default_thread_id: 1581728768
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368878/36368878.63023864
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十二話
+  title: 離れ来て　心寂しき　想い人
+  description: 佐久耶の持っていたカメラが高級品であったことから佐久耶の両親について尋ねる天地。しかし、彼女は何故か答えをはぐらかすのであった。一方、砂沙美と幽戯が友達同士と知った阿重霞はパニック状態。大事な妹を守るため柾木家にトラップを張り巡らす阿重霞。しかし、その最大の犠牲者は…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368878←前話｜次話→so36368881　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368879
+  default_thread_id: 1581728711
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368879/36368879.3568466
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十三話
+  title: 夏本番　あっちこっちで　急展開
+  description: 星々も回り、海賊家業に謹しむ魎呼であったが、どんな宝を手に入れても心のすき間は埋めることが出来ないでいた。そんなとき秀眞の本心を知ってしまった魎呼…。その頃東京では、鷲羽がメカを使い佐久耶を極秘調査していた。そして、そのデータは、鷲羽の仮説が正しかったことを証明していた。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368879←前話｜次話→so36368882　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368881
+  default_thread_id: 1581728766
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368881/36368881.10417584
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十四話
+  title: 陽炎の　如き現(うつつ)の　夢語り
+  description: 佐久耶に起こる様々な異変を知りながら、明るい表情でデートに誘う天地。楽しい一日を終えて帰宅した天地を待っていたのは勝仁と鷲羽であった。そして、すべての謎を説き明かしたという鷲羽の口からでた言葉は、天地を驚愕させる！
+    部屋を飛び出し、佐久耶の部屋へ向かう天地!!<br><br>柾木天地:菊池正美／魎呼:折笠 愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368881←前話｜次話→so36368883　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368882
+  default_thread_id: 1581728703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368882/36368882.57527733
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十五話
+  title: 花散らむ　君去りし後　・・・・・
+  description: 佐久耶を取り込んだ幽戯は、いよいよ霊戯城を現実の世界に出現させた。時が止まり、クリスタルの灰色の世界に呑み込まれてしまった東京。宝玉に守られた天地は、単身幽戯城で乗り込んでいくのだが…。<br><br>柾木天地:菊池正美／魎呼:折笠
+    愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368882←前話｜次話→so36368884　第一話→so36368814
+  length_seconds: 1391
+  content_id: so36368883
+  default_thread_id: 1581728643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368883/36368883.12974912
+- !ruby/hash:EpisodeHash
+  episode_no: 第二十六話
+  title: 大団円！　だって私は　大人だもん
+  description: バラバラになっていた天地ファミリーが宝玉の力によって結集した。みんなで力をあわせて幽戯と戦う天地ファミリーに、巨大なクリスタルの城塞を作ってその中に入り込む幽戯。追う天地。その天地を魎呼が、阿重霞が、ミホキヨが援護する！
+    最終決戦！ 遂に天地は幽戯に相見える!!<br><br>柾木天地:菊池正美／魎呼:折笠 愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一<br><br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻
+    武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則<br><br>©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京<br><br>so36368883←前話　第一話→so36368814
+  length_seconds: 1358
+  content_id: so36368884
+  default_thread_id: 1581728763
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368884/36368884.50964517
+cast: "[キャスト]<br>柾木天地:菊池正美／魎呼:折笠 愛／阿重霞:高田由美／砂沙美:横山智佐／清音:天野由梨／鷲羽:小林優子／美星:水谷優子／柾木信幸･勝仁:青野武／魎皇鬼:小桜エツ子／阿座化:緒方賢一"
+staff: "[スタッフ]<br>監督:高本宣弘／オリジナルキャラクターデザイン:梶島正樹／シリーズ構成･脚本:関島眞頼／キャラクターデザイン:辻 武司／美術監督:朝倉千登勢／音楽:菊池俊輔／音響監督:本田保則"
+produced_year: "[製作年]<br>1997年"
+copyright: "©AIC/NBCUniversal Entertainment・KADOKAWA・SOTSU・テレビ東京"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 天地無用！魎皇鬼／番外篇
+- !ruby/hash:SeasonHash
+  title: 天地無用!
+- !ruby/hash:SeasonHash
+  title: 天地無用！GXP
+- !ruby/hash:SeasonHash
+  title: 天地無用！魎皇鬼 第三期
+- !ruby/hash:SeasonHash
+  title: 愛・天地無用！
+- !ruby/hash:SeasonHash
+  title: 天地無用！魍皇鬼 第四期
+- !ruby/hash:SeasonHash
+  title: 魔法少女プリティサミー　OVA
+- !ruby/hash:SeasonHash
+  title: TVシリーズ　魔法少女プリティサミー

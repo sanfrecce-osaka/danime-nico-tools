@@ -1,10 +1,16 @@
 --- !ruby/hash:SeasonHash
 title: メガロボクス
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/5/22105_1_6.png?1522807218000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/10/5/22105_1_8_8b.png?1551351602000
 outline: 肉体とギア・テクノロジーを融合させた究極の格闘技―「メガロボクス」にすべてを賭ける男たちの熱い闘いがはじまる！ 今日も未認可地区の賭け試合のリングに立つメガロボクサー“ジャンクドッグ”。
   実力はありながらも八百長試合で稼ぐしか生きる術のない自分の“現在（いま）”に苛立っていた。だが、孤高のチャンピオン・勇利と出会い、メガロボクサーとして、男として、自分の“現在（いま）”に挑んでいく――。
 tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
 - !ruby/hash:TagHash
   name: 細谷佳正
   type: cast
@@ -27,13 +33,13 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：トムス・エンタテインメント
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：清水洋
-  type: staff
-- !ruby/hash:TagHash
   name: 原作：ちばてつや
   type: staff
 - !ruby/hash:TagHash
   name: 原作：高森朝雄
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：清水洋
   type: staff
 - !ruby/hash:TagHash
   name: 監督：森山洋
@@ -45,10 +51,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
-  name: 講談社
+  name: 製作年：2018年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2018年
+  name: 講談社
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -61,7 +67,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33004072
   default_thread_id: 1522911865
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33004072
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33004072/33004072.90198333
 - !ruby/hash:EpisodeHash
   episode_no: ROUND2
   title: THE MAN ONLY DIES ONCE
@@ -72,7 +78,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33039209
   default_thread_id: 1523500859
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33039209
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33039209/33039209.74688497
 - !ruby/hash:EpisodeHash
   episode_no: ROUND3
   title: GEAR IS DEAD
@@ -83,7 +89,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33074563
   default_thread_id: 1524101933
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33074563
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33074563/33074563.13948885
 - !ruby/hash:EpisodeHash
   episode_no: ROUND4
   title: LET'S DANCE WITH DEATH
@@ -94,7 +100,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33110335
   default_thread_id: 1524707364
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33110335
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33110335/33110335.36274819
 - !ruby/hash:EpisodeHash
   episode_no: ROUND5
   title: THE MAN FROM DEATH
@@ -105,7 +111,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33138034
   default_thread_id: 1525147717
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33138034.52496
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33138034/33138034.92756174
 - !ruby/hash:EpisodeHash
   episode_no: ROUND6
   title: UNTIL THE LAST DOG DIES
@@ -116,7 +122,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33144236
   default_thread_id: 1525251481
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33144236.21125
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33144236/33144236.91129698
 - !ruby/hash:EpisodeHash
   episode_no: ROUND7
   title: THE ROAD TO DEATH
@@ -128,7 +134,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33221237
   default_thread_id: 1526520358
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33221237
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33221237/33221237.94613781
 - !ruby/hash:EpisodeHash
   episode_no: ROUND8
   title: DEADLINE OF THE DREAM
@@ -139,7 +145,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33252032
   default_thread_id: 1527049554
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33252032
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33252032/33252032.70940036
 - !ruby/hash:EpisodeHash
   episode_no: ROUND9
   title: A DEAD FLOWER SHALL NEVER BLOOM
@@ -150,7 +156,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33291654
   default_thread_id: 1527730087
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33291654.63784
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33291654/33291654.12318488
 - !ruby/hash:EpisodeHash
   episode_no: ROUND10
   title: THE DIE IS CAST
@@ -161,7 +167,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33327322
   default_thread_id: 1528335395
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33327322
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33327322/33327322.83790408
 - !ruby/hash:EpisodeHash
   episode_no: ROUND11
   title: A DEADMARCH
@@ -172,7 +178,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33363435
   default_thread_id: 1528940196
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33363435
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33363435/33363435.35899854
 - !ruby/hash:EpisodeHash
   episode_no: ROUND12
   title: LEAP OVER THE EDGE OF DEATH
@@ -183,7 +189,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33397916
   default_thread_id: 1529543100
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33397916
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33397916/33397916.73815133
 - !ruby/hash:EpisodeHash
   episode_no: ROUND FINAL
   title: BORN TO DIE
@@ -194,7 +200,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33435824
   default_thread_id: 1530178326
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33435824
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33435824/33435824.1334777
 cast: "[キャスト]<br>ジャンクドッグ:細谷佳正／南部贋作:斎藤志郎／勇利:安元洋貴／白都ゆき子:森 なな子／サチオ:村瀬迪与／藤巻:木下浩之　他"
 staff: "[スタッフ]<br>原案:「あしたのジョー」（原作：高森朝雄、ちばてつや／講談社刊）／監督・コンセプトデザイン:森山 洋／脚本:真辺克彦・小嶋健作／音楽:mabanua／キャラクターデザイン:清水
   洋／ギアデザイン:形部一平／プロップデザイン:嶋 謙一／美術監督:河野次郎／色彩設計:茂木孝浩／撮影監督:江間常高／編集:今井大介／音響監督:三好慶一郎／音響効果:倉橋裕宗／アニメーション制作:トムス・エンタテインメント／製作・著作:メガロボクスプロジェクト"

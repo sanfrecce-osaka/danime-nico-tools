@@ -1,0 +1,173 @@
+--- !ruby/hash:SeasonHash
+title: 機甲猟兵メロウリンク
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/23/9/23239_1_8_8b.png?1579482041000
+outline: "『装甲騎兵ボトムズ』と同じく、百年戦争終結後のアストラギウス銀河を舞台にしたもうひとつの物語が『機甲猟兵メロウリンク』である。軍上層部の陰謀により、捨てゴマにされた挙げ句物資強奪事件の汚名を着せられた機甲猟兵部隊の生き残り、メロウリンク。仲間の仇を討つための復讐劇がいま幕を開ける！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本保典
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：乾裕樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：神田武幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：高橋良輔
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：谷口守泰
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ウイルダネス
+  description: 軍事物資強奪事件「プランバンドール・スキャンダル」の真相を追う情報将校キークは、事件への関与が疑われていたドックマンに接触を図った。そんな時、事件のぬれぎぬを着せられて壊滅したシュエップス小隊の生き残り、メロウリンクが仲間との絆と復讐の象徴である対ATライフルを武器にして、単身基地に乗り込んできた。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>次話→so36264160
+  length_seconds: 1464
+  content_id: so36264161
+  default_thread_id: 1579750385
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264161/36264161.62109897
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: コロシアム
+  description: タ・ビングの街でバトリングのチャンピオンとして君臨する「メルキアの銀狐」ことフォックス中尉。彼こそが、メロウリンクが復讐を果たすべき人物のひとりであった。マッチメーカーのボルフにフォックスとの試合の設定を依頼したメロウリンクは、AT同士のバトリングに生身で出場する条件を付けるのだった。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264161←前話｜次話→so36264142　第一話→so36264161
+  length_seconds: 1462
+  content_id: so36264160
+  default_thread_id: 1579750383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264160/36264160.79687559
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ジャングル
+  description: スタブロスと名を変えたスヌーク少佐に復讐するためクメンに来ていたメロウリンクは、スタブロス一派に狩られてゆくゲリラたちの姿を目の当たりにする。それはまるで、生身でATと戦うことを強いられたシュエップス小隊のようであった。目の前でひとりの少女兵がスタブロスのATに射殺されるのを見たメロウリンクは……。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264160←前話｜次話→so36264141　第一話→so36264161
+  length_seconds: 1463
+  content_id: so36264142
+  default_thread_id: 1579749785
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264142/36264142.32359757
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: リーニングタワー
+  description: 宇宙戦艦の残骸、通称「リーニングタワー」に追い込まれ、不利な戦いを強いられるメロウリンク。そこには、メロウリンクを追ってキークもリーニングタワーへと来ていた。キークによると、メロウリンクを狙っているのはゴルフィという男で、彼に復讐するつもりが間違えてメロウリンクを狙っているのだというが……。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264142←前話｜次話→so36264140　第一話→so36264161
+  length_seconds: 1461
+  content_id: so36264141
+  default_thread_id: 1579749423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264141/36264141.89673684
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: バトルフィールド
+  description: メロウリンクは野営中に刺したチェコブの木のトゲのせいで過去のことを夢に見る。終戦直前、プランバンドール大隊は、ヂヂリウムを後方に運ぶため、シュエップス小隊を囮にして撤退しようとしていた。この作戦にシュエップス隊長は抗議するが、軍上層部への反抗と見なされてAT部隊だった小隊は機甲猟兵に改編されて……。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264141←前話｜次話→so36264256　第一話→so36264161
+  length_seconds: 1463
+  content_id: so36264140
+  default_thread_id: 1579749784
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264140/36264140.24643403
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: プリズン
+  description: ドッパー刑務所へ慰問に行くルルシーたちの車に拾われたメロウリンク。この刑務所では、シュエップス小隊を陥れた人物のひとり、バンスが刑務所長をしていた。メロウリンクはルルシーにあることを頼み、囚人として刑務所に入り込む。武器もなく、バンスが君臨する刑務所内で、メロウリンクは復讐を果たすことができるのか？<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264140←前話｜次話→so36264214　第一話→so36264161
+  length_seconds: 1462
+  content_id: so36264256
+  default_thread_id: 1579752843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264256/36264256.31744212
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: レイルウェイ
+  description: ルルシーやキーク、さらには山賊バンデットの警備と称してヘルメシオン准将の部隊が乗り込むバラシュトラ山脈横断鉄道に潜り込んだメロウリンク。そのバンデットの首領ガナードこそが、メロウリンクの標的であった。だが、キークがヘルメシオンに食ってかかるルルシーを目撃したあたりから、事態は意外な方向に動き始める。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264256←前話｜次話→so36264213　第一話→so36264161
+  length_seconds: 1462
+  content_id: so36264214
+  default_thread_id: 1579751890
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264214/36264214.24657319
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ゴーストタウン
+  description: ヘルメシオン准将は、メロウリンクを葬りルルシーを手元に取り戻すため、ボイル少佐率いるAT部隊に出動を命じる。廃墟となったケラマの街に逃げ込み、罠を仕掛けて迎え撃とうとするメロウリンクとルルシー。ボイル少佐の部隊に追いつめられて最下層部に落下、5機のATに囲まれ絶体絶命の状況の中、メロウリンクは……。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264214←前話｜次話→so36264264　第一話→so36264161
+  length_seconds: 1462
+  content_id: so36264213
+  default_thread_id: 1579751163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264213/36264213.21604083
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: フォレスト
+  description: ヘルメシオン准将は、大量のヂヂリウムとヘルメシオン家の財産を使って、PS計画を推進しようとしていた。そのために彼は事故に見せかけてルルシーの父を殺害し、ヘルメシオン家の家督を手に入れようとしたのだ。ルルシーは、財産を准将に譲るよう強要される。その時、ルルシーの前にメロウリンクが助けに現れて……。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264213←前話｜次話→so36264265　第一話→so36264161
+  length_seconds: 1461
+  content_id: so36264264
+  default_thread_id: 1579752666
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264264/36264264.37390982
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: キャッスル
+  description: 自分との決着をつけるため、ボイル少佐は必ず戻ってくる。一流のAT乗りであるボイルに対抗するため、彼はルルシーにヘルメシオン城を譲ってくれと頼み、場内に様々なトラップを仕掛けて待つ。そして、メロウリンク対ボイルという一流の戦士同士による、復讐者の執念と武人の誇りをかけた戦いが始まるのだった！<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264264←前話｜次話→so36264266　第一話→so36264161
+  length_seconds: 1462
+  content_id: so36264265
+  default_thread_id: 1579752668
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264265/36264265.37150645
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ベース
+  description: 准将が居る参謀室を目指して基地内に侵入したメロウリンクとルルシー。そして、参謀室には役者がそろい、ついにスキャンダルの真相が白日の下にさらされる日がやって来たかに思われた。だが、スキャンダルの真の首謀者がメルキア軍のバッテンタイン中将であることを准将がしゃべったとき、キークは意外な行動に出る。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264265←前話｜次話→so36264320　第一話→so36264161
+  length_seconds: 1462
+  content_id: so36264266
+  default_thread_id: 1579754163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264266/36264266.99819939
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ラストステージ(最終回)
+  description: 上層部に抗議したはずのシュエップス隊長が、生還した際にはシルバースター勲章を授与するという条件と引き替えに、無謀な囮役を引き受けたという事実をメロウリンクに教えるキーク。これまでの復讐は単なる自己満足に過ぎないとあざけるキーク。それでもメロウリンクはすべての決着をつけるためにキークとの対決に向かう。<br><br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫<br><br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+    裕樹<br><br>©サンライズ<br><br>so36264266←前話　第一話→so36264161
+  length_seconds: 1431
+  content_id: so36264320
+  default_thread_id: 1579754177
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36264320/36264320.62752215
+cast: "[キャスト]<br>メロウリンク:松本保典／ルルシー:玉川紗己子／キーク:大塚明夫"
+staff: "[スタッフ]<br>原案:江田文行／原作・シリーズ構成:高橋良輔／監督:神田武幸／キャラクターデザイン:谷口守泰／メカニカルデザイン:大河原邦男／音楽:乾
+  裕樹"
+produced_year: "[製作年]<br>1988年"
+copyright: "©サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 装甲騎兵ボトムズ
+- !ruby/hash:SeasonHash
+  title: 装甲騎兵ボトムズ　赫奕たる異端

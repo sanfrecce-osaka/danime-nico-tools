@@ -1,0 +1,301 @@
+--- !ruby/hash:SeasonHash
+title: エッグカー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/88/3/23883_1_8_8b.png?1584338498000
+outline: すべての生き物が車の形をしているエッグアイランド諸島。ダッシュは、その中のひとつブーブーアイランドの科学者、ウサギのおじいさんとおばあさんに拾われて育ちました。ある日、ダッシュの家族が世界支配を企むボゾ王にさらわれてしまいました。ボゾ王に対抗できるのは、ダッシュの変身能力とエレメントの力しかありません。家族を救うため、世界の平和を守るため、ダッシュはエレメントを求めて他の島々を周る旅に出ることにしました。旅の途中で出会う、個性豊かな仲間たち。ボゾ王の手下たちーおっちょこちょいなアイアン一味も現れて、エレメントを集める旅は、大騒動。ダッシュは集めたエレメントの力でエッグアイランドの平和を守れるのでしょうか！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 田村睦心
+  type: cast
+- !ruby/hash:TagHash
+  name: 花倉洸幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 駒形友梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 脚本：岩本晶
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：マツオカヒロタカ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ドッグオンビート
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ブオン！ダッシュはいつも猛ダッシュ！
+  description: すべての生き物が車の形をしているエッグア イランド諸島。 ハリネズミのクリックが森の中を歩いていると、どこからともなく不気味なうめき声が聞こえてくる。次の瞬間叫びながら飛び出してきたのは、オレンジ色の車の男の子ダッシュだった。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>次話→so36562487
+  length_seconds: 735
+  content_id: so36562554
+  default_thread_id: 1585020724
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562554/36562554.69176527
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: キキーッ！来たぜ俺たちゃアイアン一味！
+  description: 吊橋を渡ることが出来たダッシュとクリックの前にダッシュにパワーを与えるエレメントを渡せとアイアン一味が現れる。機転をきかせアイアン一味から逃げることに成功するがクリックの家へ向かう途中クリックの友達、キリンのギララと出会う。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562554←前話｜次話→so36562486　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562487
+  default_thread_id: 1585019526
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562487/36562487.12003505
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ブッブー！ヒロイン登場？私はアエラ
+  description: ダッシュを家へと案内してくれたクリック。しかしクリックの両親は留守のようだった。「明日には帰ってくるみたいだから、泊まってくといいよ」と言ってくれるクリック。そこに勇者を探しているというアエラがやってきた。かわいいアエラにダッシュとクリックはもう夢中！？<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562487←前話｜次話→so36562485　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562486
+  default_thread_id: 1585019703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562486/36562486.45328577
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ギラギラ！ギララ！
+  description: 朝、ダッシュが起きるとクリックの姿が見えない。おならを止める薬草・スッキリ花の蜜を求めてビュービュー谷へ向かったクリックを追ってダッシュとギララはビュービュー谷へと向かう。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562486←前話｜次話→so36562484　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562485
+  default_thread_id: 1585019523
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562485/36562485.38785249
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: ゲッツ！エレメントをいただくぜぇ！
+  description: クリックの家で寝ているダッシュとクリック。寝相の悪いダッシュのせいでクリックはよく眠れないみたい。そんな中、怪しいアイアン一味がエレメントを盗むためにクリックの家に近づいていた。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562485←前話｜次話→so36562483　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562484
+  default_thread_id: 1585019463
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562484/36562484.18129991
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ブッとび！発明一家！
+  description: クリックの両親ダブル夫妻を訪ねてきたというダッシュが語る過去。闇夜に忍び寄る怪しく大きい影に襲われるダッシュの育ての親、ウサギ老夫婦。ダッシュの持つ力とエレメントの秘密が明かされる。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562484←前話｜次話→so36562482　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562483
+  default_thread_id: 1585019645
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562483/36562483.45305075
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ビューンと！アエラを救え！
+  description: エレメントの入った金庫と一緒に飛んで行ってしまったアエラ。ダッシュとクリックが助けに向かうが、飛んで行った先は怖い噂がたくさんあるドンドラの森だった。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562483←前話｜次話→so36562481　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562482
+  default_thread_id: 1585019532
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562482/36562482.29945799
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: バッハッハ！ドンドラの森の主！
+  description: 首飾りが欲しければ力ずくでこいというバッハ。変身できないダッシュはクリックの発明品を駆使して勝負を挑むもあっという間に負けてしまう。一晩過ぎて再チャレンジ、ダッシュ達はエレメントを手にすることができるのか！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562482←前話｜次話→so36562480　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562481
+  default_thread_id: 1585019643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562481/36562481.26972559
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ガラピシャン！ボゾ王がきたぞ！
+  description: ドンドラの森からオレンジ色のエレメントを持ち帰ってきたダッシュは、他のエレメントを探す旅に出る決意をする。みんなでダッシュを送り出すパーティを開くために森に果物を取りに行くと、空がだんだん紫色の雲に覆われて恐ろしいボゾ王が現れた！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562481←前話｜次話→so36562479　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562480
+  default_thread_id: 1585019403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562480/36562480.93550033
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: ビッシャァァン！エレメントが負けた！？
+  description: 散らかったクリックの家を片付けているダッシュ達。荷物を片しているとエレメントを収めるケースを見つける。その頃ボゾ王からダッシュたちをポカポカアイランドに足止めするよう言われたアイアン一味がクリックの家へと迫っていた。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562480←前話｜次話→so36562478　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562479
+  default_thread_id: 1585019293
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562479/36562479.55988598
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ムシムシ！アリ族のアンリ登場
+  description: ムシムシアイランドにやってきたダッシュとクリック。砂漠の暑さですっかりぐったりな二人。やっと見つけたオアシスでは、アリ達がスズメバチ達の言いなりになって蜜を運んでいた。見かねたダッシュが文句を言うがスズメバチが怖くて、アリ達は諦めているみたい。そんな中、スズメバチに歯向かうたった一人のアリ、アンリが現れた！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562479←前話｜次話→so36562477　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562478
+  default_thread_id: 1585019291
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562478/36562478.29493029
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ジャブジャブ！オアシスひみつ大作戦！
+  description: 助けてもらったお礼にアンリ達のしごとを手伝うことになったダッシュとクリック。蜜まみれになりながらアリ塚へ戻るとアンリと女王が言い争いをしていて・・・水場を取り返さないとスズメバチ達に全部取られてしまうと主張するアンリの話を聞いたクリックがある秘策を語りだす。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562478←前話｜次話→so36562488　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562477
+  default_thread_id: 1585019289
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562477/36562477.17463017
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: ルンルン♪アエラのともだち
+  description: きゃぁあああ！クモ～～！目の前にクモが下りてきて慌てて逃げ出すアエラ。アエラはクモが大っ嫌い！クモから逃げて森の中へ向かうと可愛らしいカフェを見つける。出迎えてくれたのはマントを羽織った女の子チュラ。二人はすっかり仲良くなるが・・・・・<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562477←前話｜次話→so36562489　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562488
+  default_thread_id: 1585019531
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562488/36562488.61114528
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: バチバチ！王子とギララ
+  description: 美のひらめきがおりてこない！素敵な砂アートを作りたいのに！と苦悩するギララの砂アートへ誰かがぶつかってきて・・・<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562488←前話｜次話→so36562555　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562489
+  default_thread_id: 1585019585
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562489/36562489.31287705
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: コソコソ！潜入スズメバチ城
+  description: 炎天下の砂漠で、エレメントを探すダッシュ、クリック、アンリ。暑さにやられ、アンリは方向音痴でもうしっちゃかめっちゃか。その頃スズメバチ達は何やらよからぬ事を企んでいた。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562489←前話｜次話→so36562556　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562555
+  default_thread_id: 1585020431
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562555/36562555.5738565
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: グダグダ！脱出スズメバチ城！
+  description: スズメバチに捕まってしまったダッシュ、クリック、アンリの３人。連れていかれた牢獄で思わぬ再会。アリに変装したアエラとギララもスズメバチの巣へ向かいみんなを助けるために踊りまくる！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562555←前話｜次話→so36562557　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562556
+  default_thread_id: 1585020308
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562556/36562556.40133941
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: スパッと！カマキリ爺シュビ ドゥ～バ！
+  description: エレメントを暴走させてしまったダッシュは、カマキリ爺のもとで修業を積む事にする。竹を切ったり、穴を掘ったり、もうへとへと。ちゃらんぽらんなカマキリ爺の修行の成果は実るのか？！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562556←前話｜次話→so36562587　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562557
+  default_thread_id: 1585020426
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562557/36562557.36079608
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: チクチクッ！最終決戦！
+  description: 砂漠の空に浮かび上がる巨大な影。迫りくるスズメバチ達に立ち向かうダッシュとアンリ。一度は逃げだすもその背を見たアリの王子も立ち上がり二人の背を追いかけスズメバチ達に立ち向かう！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562557←前話｜次話→so36562588　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562587
+  default_thread_id: 1585021263
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562587/36562587.15743802
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: ビクビク！お宝探して地下迷宮！
+  description: 平和が訪れたムシムシアイランドでダッシュは自分の使命を思い出しエレメントを探すためアンリの案内で古代アリ塚へと向かう。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562587←前話｜次話→so36562589　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562588
+  default_thread_id: 1585021272
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562588/36562588.35374122
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: ゴーゴー！エレメント争奪レース！
+  description: エレメントをかけてレースで猛ダッシュ！アリ族に伝わるエレメントを求めてアンリと勝負をする事になったダッシュ。方向音痴のアンリと一緒に砂漠のコースを駆け抜ける！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562588←前話｜次話→so36562590　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562589
+  default_thread_id: 1585021270
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562589/36562589.70288431
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: パンパカパーン！サーカスだよ！
+  description: 無人島のパタパタアイランドまでやってきたダッシュとクリック。無人の島のはずなのにどこからともなく聞こえてきた音楽の方へ進むと謎の遊園地に辿り着く。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562589←前話｜次話→so36562591　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562590
+  default_thread_id: 1585020963
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562590/36562590.6236905
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: ギュルルン！めざせエンターテイナー
+  description: サーカスで働くことになってしまったダッシュとクリック。掃除にトレーニング。やる事が多すぎてへとへとになるダッシュを待ち受ける火の輪くぐり、猛ダッシュで駆け抜ける事ができるのか！？<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562590←前話｜次話→so36562593　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562591
+  default_thread_id: 1585021274
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562591/36562591.46624349
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: カタカタカタカタ！不気味な音の正体は！？
+  description: 怪しい行動をするボジェックのあとをつけたダッシュとクリックが見つけたカタカタと音が鳴る鍵付きの扉。鍵穴から中をのぞき込むと見えたのはぎょろっとした目玉だった。<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562591←前話｜次話→so36562659　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562593
+  default_thread_id: 1585021023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562593/36562593.66648929
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: キラキラ！ギララレジェンドサーカス！
+  description: ボジェックサーカス団あらためギララレジェンドサーカス団となったサーカス団。やる気のない団員たちを引き連れ世界に羽ばたこうと妄想をたかぶらさせるギララは宙に花咲く星となる！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562593←前話｜次話→so36562490　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562659
+  default_thread_id: 1585022163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562659/36562659.86173464
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: アエラVSチュラ!おもてなしバトル
+  description: アエラVSチュラ。おもてなし対決！チュラがアエラにライバル宣言！カフェの店員の座をかけておもてなしバトルが開催される！<br><br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸<br><br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート<br><br>©CPM/EGG
+    CAR Film Partnership<br><br>so36562659←前話　第一話→so36562554
+  length_seconds: 735
+  content_id: so36562490
+  default_thread_id: 1585019467
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562490/36562490.26808058
+cast: "[キャスト]<br>ダッシュ:田村睦心／アエラ:駒形友梨／クリック:内山由貴／ギララ:花倉洸幸"
+staff: "[スタッフ]<br>監督:岩本晶／キャラクター原案:新井豊／シリーズ構成:広田光毅／音楽:マツオカヒロタカ／音楽制作:ドッグオンビート"
+produced_year: "[製作年]<br>2019年"
+copyright: "©CPM/EGG CAR Film Partnership"
+related_seasons: !ruby/array:Hashie::Array []

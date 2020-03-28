@@ -20,22 +20,22 @@ tags: !ruby/array:Hashie::Array
   name: 大竹宏
   type: cast
 - !ruby/hash:TagHash
-  name: 沢田和子
+  name: 野田圭一
   type: cast
 - !ruby/hash:TagHash
-  name: 野田圭一
+  name: 沢田和子
   type: cast
 - !ruby/hash:TagHash
   name: 中谷ゆみ
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：渡辺宙明
-  type: staff
-- !ruby/hash:TagHash
   name: 音楽：菊池俊輔
   type: staff
 - !ruby/hash:TagHash
   name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺宙明
   type: staff
 - !ruby/hash:TagHash
   name: 原作：ダイナミックプロ

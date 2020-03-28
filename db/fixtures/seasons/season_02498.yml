@@ -53,6 +53,9 @@ tags: !ruby/array:Hashie::Array
   name: 原作：土日月
   type: staff
 - !ruby/hash:TagHash
+  name: "【第1話無料】慎重勇者～この勇者が俺ＴＵＥＥＥくせに慎重すぎる～シリーズ"
+  type: other
+- !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
 - !ruby/hash:TagHash
@@ -239,4 +242,6 @@ staff: "[スタッフ]<br>原作:土日 月「この勇者が俺ＴＵＥＥＥ�
   FOX／製作:慎重勇者製作委員会"
 produced_year: "[製作年]<br>2019年"
 copyright: "©土日月・とよた瑣織／KADOKAWA／慎重勇者製作委員会"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "【第1話限定無料】慎重勇者～この勇者が俺ＴＵＥＥＥくせに慎重すぎる～"

@@ -1,0 +1,273 @@
+--- !ruby/hash:SeasonHash
+title: 海のトリトン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/36/8/10368_1_8_8b.png?1583200917000
+outline: 13年前、岬で老人に拾われた緑の髪の少年トリトン。ある日、白いイルカのルカーは、トリトンがかつて大洋を治めたアトランティス人・トリトン族の末裔であることを告げる。海の平和を守る為、トリトンは｢オリハルコンの剣｣とイルカ達を味方に、海の独裁者ポセイドン一族と戦うことに。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 海のトリトンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1972年
+  type: other
+- !ruby/hash:TagHash
+  name: 1972年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 海が呼ぶ少年
+  description: 漁師の一平爺さんに育てられた少年トリトン。ある日、白いイルカによってトリトン族の生き残りであることを知らされる。<br><br>©手塚プロダクション・東北新社<br><br>次話→so36423204
+  length_seconds: 1476
+  content_id: so36423203
+  default_thread_id: 1582697830
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423203/36423203.86988658
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: トリトンの秘密
+  description: イルカ達と大海原に旅に出るトリトン。亡きトリトンの両親からほら貝を託されたメドンと出会う。<br><br>©手塚プロダクション・東北新社<br><br>so36423203←前話｜次話→so36423205　第一話→so36423203
+  length_seconds: 1475
+  content_id: so36423204
+  default_thread_id: 1582697823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423204/36423204.93542070
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 輝くオリハルコン
+  description: 大西洋に向かうトリトンを阻止しようと鞭を振るうドリテア。メドンを海底火山へと誘導して・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36423204←前話｜次話→so36423206　第一話→so36423203
+  length_seconds: 1473
+  content_id: so36423205
+  default_thread_id: 1582697834
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423205/36423205.761587
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 北海の果てに
+  description: トリトン族の生き残りを探しに来たの海を訪ねると人魚の姿をした女の子、ピピがいた。<br><br>©手塚プロダクション・東北新社<br><br>so36423205←前話｜次話→so36423207　第一話→so36423203
+  length_seconds: 1476
+  content_id: so36423206
+  default_thread_id: 1582697827
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423206/36423206.3296449
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: さらば北の海
+  description: アザラシの一族と暮らしていたピピは一息ですべてを凍らせてしまうミノータスに捕らわれてしまう!<br><br>©手塚プロダクション・東北新社<br><br>so36423206←前話｜次話→so36423226　第一話→so36423203
+  length_seconds: 1473
+  content_id: so36423207
+  default_thread_id: 1582697825
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423207/36423207.54085473
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 行け、南の島!
+  description: 南太平洋にあるイルカ島へ向かうトリトンの前へ、巨大アンコウが出現し一行の行く手を阻む。<br><br>©手塚プロダクション・東北新社<br><br>so36423207←前話｜次話→so36423227　第一話→so36423203
+  length_seconds: 1471
+  content_id: so36423226
+  default_thread_id: 1582698556
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423226/36423226.75459307
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 南十字星のもとに
+  description: イルカ島に着いたトリトンたち。だが北国育ちのピピは、南の島の生活になじめず、わがままを言って困らせる。<br><br>©手塚プロダクション・東北新社<br><br>so36423226←前話｜次話→so36423228　第一話→so36423203
+  length_seconds: 1473
+  content_id: so36423227
+  default_thread_id: 1582698425
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423227/36423227.45326625
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 消えた島の伝説
+  description: ギンザメから少年プッチャーを助けたトリトン。だがプッチャーの祖父は、トリトンを｢悪魔の子｣とののしる。<br><br>©手塚プロダクション・東北新社<br><br>so36423227←前話｜次話→so36423229　第一話→so36423203
+  length_seconds: 1473
+  content_id: so36423228
+  default_thread_id: 1582698664
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423228/36423228.2604378
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ゆうれい船の謎
+  description: イルカ島の沖合にゆうれい船が現れた。恐れず乗り込むトリトンに、女吸血鬼が襲いかかる!彼女の正体は!?<br><br>©手塚プロダクション・東北新社<br><br>so36423228←前話｜次話→so36423278　第一話→so36423203
+  length_seconds: 1498
+  content_id: so36423229
+  default_thread_id: 1582698548
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423229/36423229.76197318
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: めざめろ、ピピ!
+  description: イルカたちは、ピピとトリトンを仲良くさせようとふたりを"歌う島"に誘い出す。だがピピが帰り道で行方不明に!<br><br>©手塚プロダクション・東北新社<br><br>so36423229←前話｜次話→so36423302　第一話→so36423203
+  length_seconds: 1496
+  content_id: so36423278
+  default_thread_id: 1582699563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423278/36423278.86675775
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 対決・北太平洋
+  description: イルカ島を発見したポリペイモスは、大アンコウと共にトリトンを包囲する。が、そこにドリテアもやってきた。<br><br>©手塚プロダクション・東北新社<br><br>so36423278←前話｜次話→so36423303　第一話→so36423203
+  length_seconds: 1498
+  content_id: so36423302
+  default_thread_id: 1582700225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423302/36423302.3038048
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: イルカ島大爆発
+  description: ドリテアを失ったポセイドンの怒りは遂に頂点に達し、自らの眼光によって、イルカ島を大爆発させてしまう!<br><br>©手塚プロダクション・東北新社<br><br>so36423302←前話｜次話→so36423304　第一話→so36423203
+  length_seconds: 1495
+  content_id: so36423303
+  default_thread_id: 1582700236
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423303/36423303.85445252
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 巨獣バキューラの追撃
+  description: イルカ島が消滅し、みんなと離ればなれになってしまったトリトンとピピ。ふたりの前に怪獣バキューラが現れる。<br><br>©手塚プロダクション・東北新社<br><br>so36423303←前話｜次話→so36423305　第一話→so36423203
+  length_seconds: 1496
+  content_id: so36423304
+  default_thread_id: 1582700244
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423304/36423304.5732567
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 大西洋へ旅立つ
+  description: ルカーたちを追って大西洋に向かうトリトンとピピ。最後のチャンスを狙うポリペイモスがふたりに襲いかかる。<br><br>©手塚プロダクション・東北新社<br><br>so36423304←前話｜次話→so36423306　第一話→so36423203
+  length_seconds: 1497
+  content_id: so36423305
+  default_thread_id: 1582700238
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423305/36423305.6584472
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 霧に泣く恐竜
+  description: 海上に現れた太古の恐竜を目撃したトリトンとピピ。再会したフィンのホラ貝で再び恐竜を呼びだそうとするが・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36423305←前話｜次話→so36423307　第一話→so36423203
+  length_seconds: 1495
+  content_id: so36423306
+  default_thread_id: 1582700240
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423306/36423306.64631916
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 怪人レハールの罠
+  description: 過去の幻を見せて相手を罠にかけるレハール。懐かしい北の海と仲間たちを見たピピは、洞窟に飛び込んでいく・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36423306←前話｜次話→so36423308　第一話→so36423203
+  length_seconds: 1497
+  content_id: so36423307
+  default_thread_id: 1582700234
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423307/36423307.26795937
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 消えたトリトンの遺跡
+  description: 海底火山の爆発で再び隆起したアトランティスの遺跡。失われたトリトン族の記憶が残されているのだろうか?<br><br>©手塚プロダクション・東北新社<br><br>so36423307←前話｜次話→so36423309　第一話→so36423203
+  length_seconds: 1496
+  content_id: so36423308
+  default_thread_id: 1582700228
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423308/36423308.64213136
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 灼熱の巨人タロス
+  description: ペンギンたちの優しい守り神だったタロス。だが彼は、恩人であるポセイドンからトリトンを殺せと命じられていた。<br><br>©手塚プロダクション・東北新社<br><br>so36423308←前話｜次話→so36423310　第一話→so36423203
+  length_seconds: 1495
+  content_id: so36423309
+  default_thread_id: 1582700232
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423309/36423309.28257656
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 甦った白鯨
+  description: トリトンは、漁師ロレンスが殺したはずの巨大な白鯨に遭遇。だが、白鯨は怪人レハールが復活させたものだった!<br><br>©手塚プロダクション・東北新社<br><br>so36423309←前話｜次話→so36423311　第一話→so36423203
+  length_seconds: 1498
+  content_id: so36423310
+  default_thread_id: 1582700242
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423310/36423310.56847749
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 海グモの牢獄
+  description: 海グモの牢獄に閉じこめられてしまったピピとフィン。そこにはポセイドン族の美女ヘプタポーダも幽閉されていた。<br><br>©手塚プロダクション・東北新社<br><br>so36423310←前話｜次話→so36423312　第一話→so36423203
+  length_seconds: 1499
+  content_id: so36423311
+  default_thread_id: 1582700248
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423311/36423311.47142464
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 太平洋の魔海
+  description: ポセイドンを裏切り、トリトンたちの脱出を助けるヘプタポーダ。だが、レハールと半魚人たちが彼らを追撃する。<br><br>©手塚プロダクション・東北新社<br><br>so36423311←前話｜次話→so36423313　第一話→so36423203
+  length_seconds: 1496
+  content_id: so36423312
+  default_thread_id: 1582699747
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423312/36423312.79435637
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 怪奇・アーモンの呪い
+  description: トリトンは、ポセイドンの像を信仰し、生け贄を捧げる人々が暮らしている島に上陸。実はその島は巨大な生物だった!<br><br>©手塚プロダクション・東北新社<br><br>so36423312←前話｜次話→so36423314　第一話→so36423203
+  length_seconds: 1498
+  content_id: so36423313
+  default_thread_id: 1582699745
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423313/36423313.70787010
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 化石の森の闘い
+  description: 不死のシーラカンス、ラカンに出会ったトリトンは、大昔に殺されたトリトン族の人々の化石を目の当たりにする。<br><br>©手塚プロダクション・東北新社<br><br>so36423313←前話｜次話→so36423315　第一話→so36423203
+  length_seconds: 1498
+  content_id: so36423314
+  default_thread_id: 1582699749
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423314/36423314.84207417
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 突撃ゴンドワナ
+  description: 地中海へ抜ける地下水道を探すトリトン一行。近隣に住むジュゴンたちは、ポセイドンの手下ガダルに怯えていた。<br><br>©手塚プロダクション・東北新社<br><br>so36423314←前話｜次話→so36423316　第一話→so36423203
+  length_seconds: 1497
+  content_id: so36423315
+  default_thread_id: 1582700230
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423315/36423315.88397891
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: ゴルセノスの砂地獄
+  description: オリハルコンの光を遮る楯や不死身の砂分身を使って、トリトンを追いつめるゴルセノス。トリトンに勝機はあるか?<br><br>©手塚プロダクション・東北新社<br><br>so36423315←前話｜次話→so36423317　第一話→so36423203
+  length_seconds: 1499
+  content_id: so36423316
+  default_thread_id: 1582700246
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423316/36423316.69398816
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: ポセイドンの魔海
+  description: ポセイドンの大渦で魔の海に運ばれたトリトン一行。そこにあった船にはポセイドン幹部たちと瓜二つの死体が!<br><br>©手塚プロダクション・東北新社<br><br>so36423316←前話｜次話→so36423318　第一話→so36423203
+  length_seconds: 1499
+  content_id: so36423317
+  default_thread_id: 1582700250
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423317/36423317.14148215
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: 大西洋陽はまた昇る
+  description: ついにポセイドンと対面したトリトン!トリトン族とポセイドン族の予想もしなかった因縁が遂に明らかになる!<br><br>©手塚プロダクション・東北新社<br><br>so36423317←前話　第一話→so36423203
+  length_seconds: 1496
+  content_id: so36423318
+  default_thread_id: 1582700252
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423318/36423318.65892408
+produced_year: "[製作年]<br>1972年"
+copyright: "©手塚プロダクション・東北新社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 海のトリトン 劇場版

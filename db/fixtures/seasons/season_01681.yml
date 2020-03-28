@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/0/21920_1_6.png?1512979253000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/0/21920_1_8_8b.png?1551353023000
 outline: ベガ星連合軍のバレンドス親衛隊長が地球を来訪。兜甲児はいつもと様子の違う葉巻型円盤に気付き、単身立ち向かうがバレンドスに捕まり連行されてしまう。甲児を脳波探知機にかけ、グレートマジンガーがロボット博物館に納められていることを探り出したバレンドスは、グレートマジンガーを強奪する。大介はグレンダイザーに乗り込み甲児を救出した円盤に向かったが、バレンドスの乗るグレートマジンガーに行く手を阻まれてしまった。さらに、円盤獣・ジンジン、円盤獣・グビグビも出現し、グレンダイザーに最悪の危機が迫る…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -29,25 +29,25 @@ tags: !ruby/array:Hashie::Array
   name: 沢田和子
   type: cast
 - !ruby/hash:TagHash
-  name: 音楽：渡辺宙明
-  type: staff
-- !ruby/hash:TagHash
   name: 音楽：菊池俊輔
   type: staff
 - !ruby/hash:TagHash
   name: 原作：永井豪
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：ダイナミックプロ
+  name: 音楽：渡辺宙明
   type: staff
 - !ruby/hash:TagHash
-  name: 劇場公開作品
-  type: other
+  name: 原作：ダイナミックプロ
+  type: staff
 - !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1976年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -65,14 +65,14 @@ produced_year: "[製作年]<br>1976年"
 copyright: "©ダイナミック企画・東映アニメーション"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
+  title: マジンガーＺ対デビルマン
+- !ruby/hash:SeasonHash
+  title: マジンガーＺ対暗黒大将軍
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボ
 - !ruby/hash:SeasonHash
   title: グレートマジンガー対ゲッターロボＧ　空中大激突
 - !ruby/hash:SeasonHash
   title: 宇宙円盤大戦争
 - !ruby/hash:SeasonHash
-  title: グレートマジンガー対ゲッターロボ
-- !ruby/hash:SeasonHash
-  title: マジンガーＺ対暗黒大将軍
-- !ruby/hash:SeasonHash
-  title: マジンガーＺ対デビルマン
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣

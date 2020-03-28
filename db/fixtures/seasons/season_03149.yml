@@ -1,0 +1,110 @@
+--- !ruby/hash:SeasonHash
+title: まほろまてぃっく　ただいま◇おかえり
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/74/3/23743_1_8_8b.png?1583111929000
+outline: おかえりなさい。７年の歳月を経て、“まほろさん”が帰ってきました。「メイドアニメ」の先駆けともいえる作品“まほろまてぃっく”。特別編として復活です！まほろさんを始め、みなわちゃん、とりおまてぃっく、そして式条先生が、賑やかな日常を繰り広げます。もちろん、「エッチなのはいけないと思います！」なシーンや、ダイナミックな戦闘シーンと見どころ満載。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 子安武人
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 高田由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 私市淳
+  type: cast
+- !ruby/hash:TagHash
+  name: 荻原秀樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 野田圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 瀧本富士子
+  type: cast
+- !ruby/hash:TagHash
+  name: 水野愛日
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊地由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：GAINAX
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高村和宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ぢたま某
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐伯昭志
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：中山文十郎
+  type: staff
+- !ruby/hash:TagHash
+  name: まほろまてぃっくシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: ただいまの風
+  description: みなわが美里家に同居して間もないある日、近く開催される緋立市創立祭に「ご奉仕カフェ」を出店しようと考えた深雪・凛・千鶴子の3人は、憧れのメイド姿でウエイトレスに挑戦するため、まほろに協力してもらうことに。メイド服を自分たちで作ったり、お菓子を試作したりと騒々しいながらも準備に余念のないまほろたち。だが、そんななか、みなわに迫る影があった……。<br><br>安藤まほろ
+    :川澄綾子／美里優 :瀧本富士子／安藤みなわ :清水愛／佐倉深雪 :菊地由美／等々力凛 :水野愛日／大江千鶴子 :真田アサミ／浜口俊也 :荻原秀樹／川原清巳
+    :私市淳／式条沙織 :高田由美／スラッシュ:野田圭一／リューガ:子安武人／フェルドランス:坂本美里<br><br>原作:中山文十郎・ぢたま（某）／監督:佐伯昭志／脚本:浦畑達彦／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX<br><br>©中山・ぢたま／ワニブックス・まほろ特別編製作委員会<br><br>次話→so36491110
+  length_seconds: 1447
+  content_id: so36491406
+  default_thread_id: 1583835363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36491406/36491406.36338869
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: おかえりの空
+  description: みなわを襲った管理者のロボットはまほろの活躍で撃退ーー。そして迎えた創立祭の当日、まほろ、みなわもメイド姿で参加した「ご奉仕カフェ」は大盛況。お店で働く合間に、深雪たちは優を連れ出してそれぞれにお祭りを楽しむが、カフェの閉店後には気を利かせて優とまほろに二人きりの時間をプレゼント。普段とは違うまほろの姿に、優も胸のドキドキが高まって……。<br><br>安藤まほろ
+    :川澄綾子／美里優 :瀧本富士子／安藤みなわ :清水愛／佐倉深雪 :菊地由美／等々力凛 :水野愛日／大江千鶴子 :真田アサミ／浜口俊也 :荻原秀樹／川原清巳
+    :私市淳／式条沙織 :高田由美／スラッシュ:野田圭一／リューガ:子安武人／フェルドランス:坂本美里<br><br>原作:中山文十郎・ぢたま（某）／監督:佐伯昭志／脚本:浦畑達彦／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX<br><br>©中山・ぢたま／ワニブックス・まほろ特別編製作委員会<br><br>so36491406←前話　第一話→so36491406
+  length_seconds: 1417
+  content_id: so36491110
+  default_thread_id: 1583833563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36491110/36491110.74696833
+cast: "[キャスト]<br>安藤まほろ :川澄綾子／美里優 :瀧本富士子／安藤みなわ :清水愛／佐倉深雪 :菊地由美／等々力凛 :水野愛日／大江千鶴子 :真田アサミ／浜口俊也
+  :荻原秀樹／川原清巳 :私市淳／式条沙織 :高田由美／スラッシュ:野田圭一／リューガ:子安武人／フェルドランス:坂本美里"
+staff: "[スタッフ]<br>原作:中山文十郎・ぢたま（某）／監督:佐伯昭志／脚本:浦畑達彦／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX"
+produced_year: "[製作年]<br>2009年"
+copyright: "©中山・ぢたま／ワニブックス・まほろ特別編製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく～もっと美しいもの～
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく ＴＶスペシャル ～えっちなのはいけないと思います～

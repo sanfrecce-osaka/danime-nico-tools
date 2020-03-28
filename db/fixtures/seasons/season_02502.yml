@@ -29,6 +29,9 @@ tags: !ruby/array:Hashie::Array
   name: 音楽制作：ポニーキャニオン
   type: staff
 - !ruby/hash:TagHash
+  name: 原作：ガム
+  type: staff
+- !ruby/hash:TagHash
   name: 監督：畳谷哲也
   type: staff
 - !ruby/hash:TagHash
@@ -39,9 +42,6 @@ tags: !ruby/array:Hashie::Array
   type: staff
 - !ruby/hash:TagHash
   name: アニメーション制作：HOTZIPANG
-  type: staff
-- !ruby/hash:TagHash
-  name: 原作：ガム
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代

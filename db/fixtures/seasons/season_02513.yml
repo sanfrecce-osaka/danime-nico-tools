@@ -18,10 +18,10 @@ tags: !ruby/array:Hashie::Array
   name: 日高里菜
   type: cast
 - !ruby/hash:TagHash
-  name: 間島淳司
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
   name: 石上静香
@@ -142,7 +142,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35974353
   default_thread_id: 1574125805
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35974353/35974353.63883942
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468540/36468540.60858051
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 司は全てを見通しているようです！
@@ -162,7 +162,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so36036001
   default_thread_id: 1575337743
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36036001/36036001.21680741
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468545/36468545.61662957
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 桂音は悪い子を決して許したりはしないようです！

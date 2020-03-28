@@ -1,0 +1,142 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/41/2/23412_1_8_8b.png?1580450797000
+outline: 帝都を支配する怪盗団のボス「紅蜥蜴」とそれを追う名探偵が織りなす愛憎劇。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 高乃麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕崎ゆり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 西原久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 富沢美智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 帝都を支配する怪盗団のボス「紅蜥蜴」とそれを追う名探偵が織りなす愛憎劇。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318513
+  length_seconds: 2023
+  content_id: so36318531
+  default_thread_id: 1580801163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318531/36318531.62937548
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 帝都を支配する怪盗団のボス「紅蜥蜴」とそれを追う名探偵が織りなす愛憎劇。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318531←前話｜次話→so36318512　第一話→so36318531
+  length_seconds: 1892
+  content_id: so36318513
+  default_thread_id: 1580800803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318513/36318513.74395876
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 帝都を支配する怪盗団のボス「紅蜥蜴」とそれを追う名探偵が織りなす愛憎劇。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318513←前話｜次話→so36318511　第一話→so36318531
+  length_seconds: 2037
+  content_id: so36318512
+  default_thread_id: 1580799671
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318512/36318512.72865057
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 帝都を支配する怪盗団のボス「紅蜥蜴」とそれを追う名探偵が織りなす愛憎劇。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318512←前話｜次話→so36318510　第一話→so36318531
+  length_seconds: 2169
+  content_id: so36318511
+  default_thread_id: 1580800832
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318511/36318511.55320731
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 帝都を支配する怪盗団のボス「紅蜥蜴」とそれを追う名探偵が織りなす愛憎劇。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318511←前話　第一話→so36318531
+  length_seconds: 1738
+  content_id: so36318510
+  default_thread_id: 1580800828
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318510/36318510.80213095
+cast: "[キャスト]<br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>1999年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2004年新春歌謡ショウ「歌え♪花組」

@@ -1,0 +1,95 @@
+--- !ruby/hash:SeasonHash
+title: スペースアドベンチャー　コブラ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/33/9/23339_1_8_8b.png?1580452239000
+outline: ３姉妹をめぐって、コブラとクリスタルボーイが激突　賞金稼ぎのジェーンは、自分に言い寄ってきた男が海賊コブラだと知り、用心棒を依頼。目的は、彼女の３つ子の姉妹キャサリンとドミニクを探すことだった。コブラはジェーンと共に、クリスタルボーイに監禁されているキャサリンを救出に向かう。だが、クリスタルボーイの命令に忠実なキャサリンは、ジェーンを裏切る。コブラはジェーンの残したメッセージに従って、ドミニクに会いに行く。だが、そこへも大軍団を引き連れたクリスタルボーイが現れた！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 榊原良子
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤田淑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 田島令子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松崎しげる
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村晃子
+  type: cast
+- !ruby/hash:TagHash
+  name: 風吹ジュン
+  type: cast
+- !ruby/hash:TagHash
+  name: 睦五郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：出崎統
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：寺沢武一
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：東海林修
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1982年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: ３姉妹をめぐって、コブラとクリスタルボーイが激突　賞金稼ぎのジェーンは、自分に言い寄ってきた男が海賊コブラだと知り、用心棒を依頼。目的は、彼女の３つ子の姉妹キャサリンとドミニクを探すことだった。コブラはジェーンと共に、クリスタルボーイに監禁されているキャサリンを救出に向かう。だが、クリスタルボーイの命令に忠実なキャサリンは、ジェーンを裏切る。コブラはジェーンの残したメッセージに従って、ドミニクに会いに行く。だが、そこへも大軍団を引き連れたクリスタルボーイが現れた！<br><br>コブラ:松崎しげる／ジェーン:中村晃子／ドミニク:風吹ジュン／キャサリン:藤田淑子／クリスタルボーイ:睦　五郎／サンドラ:田島令子／レディ:榊原良子ほか<br><br>原作:寺沢武一／脚本:寺沢武一、山崎晴哉／監督:出崎　統／作画監督:杉野昭夫／美術監督:小林七郎／撮影監督:高橋宏固／録音監督:加藤　敏／音楽:東海林　修<br><br>©BUICHI
+    TERASAWA／A-GIRL RIGHTS・TMS<br><br>次話→so36388748
+  length_seconds: 2010
+  content_id: so36388747
+  default_thread_id: 1582093631
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388747/36388747.87834431
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: ３姉妹をめぐって、コブラとクリスタルボーイが激突　賞金稼ぎのジェーンは、自分に言い寄ってきた男が海賊コブラだと知り、用心棒を依頼。目的は、彼女の３つ子の姉妹キャサリンとドミニクを探すことだった。コブラはジェーンと共に、クリスタルボーイに監禁されているキャサリンを救出に向かう。だが、クリスタルボーイの命令に忠実なキャサリンは、ジェーンを裏切る。コブラはジェーンの残したメッセージに従って、ドミニクに会いに行く。だが、そこへも大軍団を引き連れたクリスタルボーイが現れた！<br><br>コブラ:松崎しげる／ジェーン:中村晃子／ドミニク:風吹ジュン／キャサリン:藤田淑子／クリスタルボーイ:睦　五郎／サンドラ:田島令子／レディ:榊原良子ほか<br><br>原作:寺沢武一／脚本:寺沢武一、山崎晴哉／監督:出崎　統／作画監督:杉野昭夫／美術監督:小林七郎／撮影監督:高橋宏固／録音監督:加藤　敏／音楽:東海林　修<br><br>©BUICHI
+    TERASAWA／A-GIRL RIGHTS・TMS<br><br>so36388747←前話｜次話→so36388749　第一話→so36388747
+  length_seconds: 2187
+  content_id: so36388748
+  default_thread_id: 1582093083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388748/36388748.17009556
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: ３姉妹をめぐって、コブラとクリスタルボーイが激突　賞金稼ぎのジェーンは、自分に言い寄ってきた男が海賊コブラだと知り、用心棒を依頼。目的は、彼女の３つ子の姉妹キャサリンとドミニクを探すことだった。コブラはジェーンと共に、クリスタルボーイに監禁されているキャサリンを救出に向かう。だが、クリスタルボーイの命令に忠実なキャサリンは、ジェーンを裏切る。コブラはジェーンの残したメッセージに従って、ドミニクに会いに行く。だが、そこへも大軍団を引き連れたクリスタルボーイが現れた！<br><br>コブラ:松崎しげる／ジェーン:中村晃子／ドミニク:風吹ジュン／キャサリン:藤田淑子／クリスタルボーイ:睦　五郎／サンドラ:田島令子／レディ:榊原良子ほか<br><br>原作:寺沢武一／脚本:寺沢武一、山崎晴哉／監督:出崎　統／作画監督:杉野昭夫／美術監督:小林七郎／撮影監督:高橋宏固／録音監督:加藤　敏／音楽:東海林　修<br><br>©BUICHI
+    TERASAWA／A-GIRL RIGHTS・TMS<br><br>so36388748←前話　第一話→so36388747
+  length_seconds: 1730
+  content_id: so36388749
+  default_thread_id: 1582093629
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388749/36388749.77632729
+cast: "[キャスト]<br>コブラ:松崎しげる／ジェーン:中村晃子／ドミニク:風吹ジュン／キャサリン:藤田淑子／クリスタルボーイ:睦　五郎／サンドラ:田島令子／レディ:榊原良子ほか"
+staff: "[スタッフ]<br>原作:寺沢武一／脚本:寺沢武一、山崎晴哉／監督:出崎　統／作画監督:杉野昭夫／美術監督:小林七郎／撮影監督:高橋宏固／録音監督:加藤　敏／音楽:東海林　修"
+produced_year: "[製作年]<br>1982年"
+copyright: "©BUICHI TERASAWA／A-GIRL RIGHTS・TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: スペースコブラ
+- !ruby/hash:SeasonHash
+  title: COBRA THE ANIMATION
+- !ruby/hash:SeasonHash
+  title: COBRA THE ANIMATION　ザ・サイコガン
+- !ruby/hash:SeasonHash
+  title: COBRA THE ANIMATION　タイム・ドライブ

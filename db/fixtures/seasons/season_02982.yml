@@ -1,0 +1,81 @@
+--- !ruby/hash:SeasonHash
+title: 姿三四郎
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/33/7/23337_1_8_8b.png?1580452302000
+outline: 明治の東京。武道の師を探すため、夜な夜な辻投げとして世間を騒がせていた姿三四郎は、ついに39人目の男・矢野正五郎に投げられる。柔道を改良した矢野の柔道に魅せられた三四郎は、さっそく弟子入りした。ある日、三四郎は、下駄の鼻緒の結ぶ縁で乙美という娘に出会う。だが乙美の父とは、警視庁柔道師範の村井半助であった。さらに、柔道を憎む柔術家、檜垣源之助との戦いのなかで、三四郎の青春は柔術対柔道の争いへと巻き込まれていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 富山敬
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚周夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田理保子
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢那智
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤治
+  type: cast
+- !ruby/hash:TagHash
+  name: 西城秀樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮川洋一
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩崎良美
+  type: cast
+- !ruby/hash:TagHash
+  name: 三遊亭円丈
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：三家本泰美
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：富田常雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：タリスマン
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：モンキー・パンチ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1981年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 明治の東京。武道の師を探すため、夜な夜な辻投げとして世間を騒がせていた姿三四郎は、ついに39人目の男・矢野正五郎に投げられる。柔道を改良した矢野の柔道に魅せられた三四郎は、さっそく弟子入りした。ある日、三四郎は、下駄の鼻緒の結ぶ縁で乙美という娘に出会う。だが乙美の父とは、警視庁柔道師範の村井半助であった。さらに、柔道を憎む柔術家、檜垣源之助との戦いのなかで、三四郎の青春は柔術対柔道の争いへと巻き込まれていく。<br><br>姿三四郎:西城秀樹／矢野正五郎:野沢那智／村井半助:宮川洋一／乙美:岩崎良美／檜垣源之助:大塚周夫／金之助:富山敬／門馬:加藤修／高子:吉田理保子／ナレーター:三遊亭円丈、他<br><br>原作:富田常雄／製作:藤岡豊／演出:三家本恭美／脚本:神波史男、大原清秀／キャラデザイン:モンキー・パンチ／作画監督:友永和秀／美術監督:松宮清純／編集:鶴渕充寿／音楽:タリスマン<br><br>©富田常雄・TMS<br><br>次話→so36321239
+  length_seconds: 2226
+  content_id: so36321238
+  default_thread_id: 1580835006
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321238/36321238.917324
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 明治の東京。武道の師を探すため、夜な夜な辻投げとして世間を騒がせていた姿三四郎は、ついに39人目の男・矢野正五郎に投げられる。柔道を改良した矢野の柔道に魅せられた三四郎は、さっそく弟子入りした。ある日、三四郎は、下駄の鼻緒の結ぶ縁で乙美という娘に出会う。だが乙美の父とは、警視庁柔道師範の村井半助であった。さらに、柔道を憎む柔術家、檜垣源之助との戦いのなかで、三四郎の青春は柔術対柔道の争いへと巻き込まれていく。<br><br>姿三四郎:西城秀樹／矢野正五郎:野沢那智／村井半助:宮川洋一／乙美:岩崎良美／檜垣源之助:大塚周夫／金之助:富山敬／門馬:加藤修／高子:吉田理保子／ナレーター:三遊亭円丈、他<br><br>原作:富田常雄／製作:藤岡豊／演出:三家本恭美／脚本:神波史男、大原清秀／キャラデザイン:モンキー・パンチ／作画監督:友永和秀／美術監督:松宮清純／編集:鶴渕充寿／音楽:タリスマン<br><br>©富田常雄・TMS<br><br>so36321238←前話　第一話→so36321238
+  length_seconds: 2115
+  content_id: so36321239
+  default_thread_id: 1580834883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321239/36321239.95203119
+cast: "[キャスト]<br>姿三四郎:西城秀樹／矢野正五郎:野沢那智／村井半助:宮川洋一／乙美:岩崎良美／檜垣源之助:大塚周夫／金之助:富山敬／門馬:加藤修／高子:吉田理保子／ナレーター:三遊亭円丈、他"
+staff: "[スタッフ]<br>原作:富田常雄／製作:藤岡豊／演出:三家本恭美／脚本:神波史男、大原清秀／キャラデザイン:モンキー・パンチ／作画監督:友永和秀／美術監督:松宮清純／編集:鶴渕充寿／音楽:タリスマン"
+produced_year: "[製作年]<br>1981年"
+copyright: "©富田常雄・TMS"
+related_seasons: !ruby/array:Hashie::Array []

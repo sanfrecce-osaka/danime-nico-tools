@@ -1,0 +1,112 @@
+--- !ruby/hash:SeasonHash
+title: ANISAVA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/35/2/23352_1_8_8b.png?1580452794000
+outline: ジェイク・ワイルドは、２７歳独身、しがないデザイナー、性格温厚優柔不断、そして野性を心の奥に隠したクマ！ジェイクの彼女、超強気のネコ・ジェニー、バツ１５の子沢山ウサギ・フレッド、マッチョ弁護士のオランウータン・ザック、オフィスを牛耳るお局エレファント・ベス、部下と不倫中のライオン上司・デビッドなど、ジェイクの周りはクセモノアニマルだらけ！仕事、恋、友情、はちみつポット…悩みの尽きないジェイクに幸せは訪れるのか！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 山口勝平
+  type: cast
+- !ruby/hash:TagHash
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 興津和幸
+  type: cast
+- !ruby/hash:TagHash
+  name: たかはし智秋
+  type: cast
+- !ruby/hash:TagHash
+  name: チョー
+  type: cast
+- !ruby/hash:TagHash
+  name: 田所あずさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本梨香
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤ヒロキ
+  type: cast
+- !ruby/hash:TagHash
+  name: 上野アサ
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤奏美
+  type: cast
+- !ruby/hash:TagHash
+  name: 白鳥久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田勝頼
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡部チェル
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：べんぴねこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1～#4"
+  title: Give it your all, Jake!（がんばれジェイク！）／Jenny’s Cat Flap（ジェニーはご機嫌ななめ）／Better off
+    Fred（フレッドの遍歴）／War of the Rosa（ローザは泣かない）
+  description: "#1:恋人のジェニーにプロポーズすることを決めたジェイク。でもジェイクがプロポーズの場所に選んだのは…。／#2 : ジェニーとジェイクの間に大ゲンカが勃発。仲直りするために、お互いの好きなところを言い合うことに。仲直りの結果は…。／#3
+    : バツ15のイケイケセックスマシーン・フレッド。ジェイクたちと訪れた野球場で偶然出会ったのは昔の彼女で…！？／#4: クールで仕事に生きがいを見出すローザの悩みは、男運のなさ。元彼のアンドリューはとんだマザコン男で…。<br><br>ジェイク・ワイルド:興津和幸／ジェニー:たかはし智秋／セレーナ:田所あずさ／フレッド:山口勝平／ザック:安元洋貴／ローザ:上野アサ／べス:松本梨香／デビッド:後藤ヒロキ／クロエ:佐藤奏美／ウィル:チョー／ミシェル:白鳥久美子／ニコラス:柴田勝頼<br><br>監督:べんぴねこ／プロデューサー:戸塚麻美・原田拓朗／脚本:べんぴねこ／音楽:渡部チェル／オリジナルキャラクターデザイン:Kukuxumusu（ククシュムシュ）／英語脚本:Sean
+    McPhillips／作画監督:大宮一仁<br><br>©TMS/DLE All Right Reserved. Original characters designed
+    by Kukuxumusu.<br><br>次話→so36318885"
+  length_seconds: 1211
+  content_id: so36318886
+  default_thread_id: 1580807591
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318886/36318886.1275868
+- !ruby/hash:EpisodeHash
+  episode_no: "#5～#7"
+  title: Nicolas is not so great（あきらめない男 ニコラス）／Selena loves nuts（もてもてセレーナ）／The Book
+    of Zack（ザックの秘密）
+  description: "#5:ジェニーの元カレのニコラスは未だ未練たらたら。そんなニコラスとジェイクがいつものバーでばったり遭遇！トラVSクマ、元カレ今カレ大決戦が今始まる！！／#6:小悪魔アイドルのセレーナはいつもモテモテ。さらに本命彼氏のジャスティンはしっかりキープ！でもまだまだ遊び足りないセレーナは、ジャスティンからの突然のプロポーズに…。／#7:エリート弁護士ザックはジェイクの憧れの存在。順風満帆に見える人生だったが、実はジェイクには言えないせつな～い秘密を抱えていて…。<br><br>ジェイク・ワイルド:興津和幸／ジェニー:たかはし智秋／セレーナ:田所あずさ／フレッド:山口勝平／ザック:安元洋貴／ローザ:上野アサ／べス:松本梨香／デビッド:後藤ヒロキ／クロエ:佐藤奏美／ウィル:チョー／ミシェル:白鳥久美子／ニコラス:柴田勝頼<br><br>監督:べんぴねこ／プロデューサー:戸塚麻美・原田拓朗／脚本:べんぴねこ／音楽:渡部チェル／オリジナルキャラクターデザイン:Kukuxumusu（ククシュムシュ）／英語脚本:Sean
+    McPhillips／作画監督:大宮一仁<br><br>©TMS/DLE All Right Reserved. Original characters designed
+    by Kukuxumusu.<br><br>so36318886←前話｜次話→so36318884　第一話→so36318886"
+  length_seconds: 909
+  content_id: so36318885
+  default_thread_id: 1580807600
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318885/36318885.58378609
+- !ruby/hash:EpisodeHash
+  episode_no: "#8～#10"
+  title: Dear David,Love Chloe（クロエとデビッド）／Apocalypse Beth(狩人ベス) ／My Name is Michelle（夢見るミッシェル）
+  description: "#8:不倫関係にあるライオン上司のデビットとヒツジ秘書のクロエ。ある日デビットの奥さんが会社を訪ねて来たことから、二人のデスドライブはフルスロットルに！！／#9:肉食お局ベスのグアム出張に同行することになった男子社員ご一行。仕事終わりに待ち受けていたのはベスとの一夜！？楽園が地獄に変わった彼らに、朝は訪れるのか…。／#10:「インパクトが大事！」ジェニーから恋愛アドバイスを受けた地味系女子ミシェル(趣味はポエム)が愛しのザックにとった大胆な行動とは…！？もう、恋するパンダは止まらない！<br><br>ジェイク・ワイルド:興津和幸／ジェニー:たかはし智秋／セレーナ:田所あずさ／フレッド:山口勝平／ザック:安元洋貴／ローザ:上野アサ／べス:松本梨香／デビッド:後藤ヒロキ／クロエ:佐藤奏美／ウィル:チョー／ミシェル:白鳥久美子／ニコラス:柴田勝頼<br><br>監督:べんぴねこ／プロデューサー:戸塚麻美・原田拓朗／脚本:べんぴねこ／音楽:渡部チェル／オリジナルキャラクターデザイン:Kukuxumusu（ククシュムシュ）／英語脚本:Sean
+    McPhillips／作画監督:大宮一仁<br><br>©TMS/DLE All Right Reserved. Original characters designed
+    by Kukuxumusu.<br><br>so36318885←前話｜次話→so36318883　第一話→so36318886"
+  length_seconds: 909
+  content_id: so36318884
+  default_thread_id: 1580807617
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318884/36318884.62092263
+- !ruby/hash:EpisodeHash
+  episode_no: "#11～#13"
+  title: Mother Lovin’ Andrew （アンドリューとママ）／WILL’S TESTAMENT（ウィルの記念日）／JAKE ＆ JENNY ONE
+    MORE TIME（ジェイクとジェニーの長い一日）
+  description: "#11:会社のPCがおっぱいウィルスに感染！パニックのローザの前に元カレアンドリューが颯爽と問題を解決する。そのイケメンぶりにローザのやけぼっくいは点火寸前！？その夜、アンドリューはデートの約束をしていて…。／#12:誰にでも記念日がある。呑んだくれ鳥・ウィルの記念日は、バーで出会った理想の女性との約束の日。待ち続けて15年目、いつものバーで奇跡がおきる…！／#13:最高の夜を過ごすため、レストランでジェイクを待つジェニー。停止したエレベーターの中で生命の神秘に触れるジェイク。いったいどうなる？２人の記念日！！<br><br>ジェイク・ワイルド:興津和幸／ジェニー:たかはし智秋／セレーナ:田所あずさ／フレッド:山口勝平／ザック:安元洋貴／ローザ:上野アサ／べス:松本梨香／デビッド:後藤ヒロキ／クロエ:佐藤奏美／ウィル:チョー／ミシェル:白鳥久美子／ニコラス:柴田勝頼<br><br>監督:べんぴねこ／プロデューサー:戸塚麻美・原田拓朗／脚本:べんぴねこ／音楽:渡部チェル／オリジナルキャラクターデザイン:Kukuxumusu（ククシュムシュ）／英語脚本:Sean
+    McPhillips／作画監督:大宮一仁<br><br>©TMS/DLE All Right Reserved. Original characters designed
+    by Kukuxumusu.<br><br>so36318884←前話　第一話→so36318886"
+  length_seconds: 909
+  content_id: so36318883
+  default_thread_id: 1580807601
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318883/36318883.51800414
+cast: "[キャスト]<br>ジェイク・ワイルド:興津和幸／ジェニー:たかはし智秋／セレーナ:田所あずさ／フレッド:山口勝平／ザック:安元洋貴／ローザ:上野アサ／べス:松本梨香／デビッド:後藤ヒロキ／クロエ:佐藤奏美／ウィル:チョー／ミシェル:白鳥久美子／ニコラス:柴田勝頼"
+staff: "[スタッフ]<br>監督:べんぴねこ／プロデューサー:戸塚麻美・原田拓朗／脚本:べんぴねこ／音楽:渡部チェル／オリジナルキャラクターデザイン:Kukuxumusu（ククシュムシュ）／英語脚本:Sean
+  McPhillips／作画監督:大宮一仁"
+produced_year: "[製作年]<br>2013年"
+copyright: "©TMS/DLE All Right Reserved. Original characters designed by Kukuxumusu."
+related_seasons: !ruby/array:Hashie::Array []

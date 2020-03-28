@@ -1,0 +1,138 @@
+--- !ruby/hash:SeasonHash
+title: 舞台「けものフレンズ」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/73/2/21732_1_8_8b.png?1580454008000
+outline: 人気アニメ「けものフレンズ」の声優陣出演。アニメとは違うオリジナルストーリーで舞台化！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 佐々木未来
+  type: cast
+- !ruby/hash:TagHash
+  name: 相羽あいな
+  type: cast
+- !ruby/hash:TagHash
+  name: 尾崎由香
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野早稀
+  type: cast
+- !ruby/hash:TagHash
+  name: 根本流風
+  type: cast
+- !ruby/hash:TagHash
+  name: 田村響華
+  type: cast
+- !ruby/hash:TagHash
+  name: 築田行子
+  type: cast
+- !ruby/hash:TagHash
+  name: 本宮佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 野本ほたる
+  type: cast
+- !ruby/hash:TagHash
+  name: 酒井蘭
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤里保菜
+  type: cast
+- !ruby/hash:TagHash
+  name: 稲村梓
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：村上大樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：けものフレンズプロジェクト
+  type: staff
+- !ruby/hash:TagHash
+  name: 舞台「けものフレンズ」シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: 舞台「けものフレンズ」
+  description: 人気アニメ「けものフレンズ」の声優陣出演。アニメとは違うオリジナルストーリーで舞台化！<br><br>出演:尾崎由香　本宮佳奈　小野早稀／佐々木未来　根本流風　田村響華　相羽あいな　築田行子／野本ほたる　仁藤萌乃　西川美咲　酒井
+    蘭　幸野ゆりあ　加藤里保菜　稲村 梓　石井玲歌　伊藤梨花子／古庄美和／新橋 和／小泉日向<br><br>原作:けものフレンズプロジェクト／脚本・演出:村上大樹<br><br>©けものフレンズプロジェクトS<br><br>次話→so36368247
+  length_seconds: 1138
+  content_id: so36368194
+  default_thread_id: 1581713108
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368194/36368194.79692213
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: 舞台「けものフレンズ」
+  description: 人気アニメ「けものフレンズ」の声優陣出演。アニメとは違うオリジナルストーリーで舞台化！<br><br>出演:尾崎由香　本宮佳奈　小野早稀／佐々木未来　根本流風　田村響華　相羽あいな　築田行子／野本ほたる　仁藤萌乃　西川美咲　酒井
+    蘭　幸野ゆりあ　加藤里保菜　稲村 梓　石井玲歌　伊藤梨花子／古庄美和／新橋 和／小泉日向<br><br>原作:けものフレンズプロジェクト／脚本・演出:村上大樹<br><br>©けものフレンズプロジェクトS<br><br>so36368194←前話｜次話→so36368248　第一話→so36368194
+  length_seconds: 1445
+  content_id: so36368247
+  default_thread_id: 1581715331
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368247/36368247.88542849
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: 舞台「けものフレンズ」
+  description: 人気アニメ「けものフレンズ」の声優陣出演。アニメとは違うオリジナルストーリーで舞台化！<br><br>出演:尾崎由香　本宮佳奈　小野早稀／佐々木未来　根本流風　田村響華　相羽あいな　築田行子／野本ほたる　仁藤萌乃　西川美咲　酒井
+    蘭　幸野ゆりあ　加藤里保菜　稲村 梓　石井玲歌　伊藤梨花子／古庄美和／新橋 和／小泉日向<br><br>原作:けものフレンズプロジェクト／脚本・演出:村上大樹<br><br>©けものフレンズプロジェクトS<br><br>so36368247←前話｜次話→so36368263　第一話→so36368194
+  length_seconds: 1261
+  content_id: so36368248
+  default_thread_id: 1581715325
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368248/36368248.59944729
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: 舞台「けものフレンズ」
+  description: 人気アニメ「けものフレンズ」の声優陣出演。アニメとは違うオリジナルストーリーで舞台化！<br><br>出演:尾崎由香　本宮佳奈　小野早稀／佐々木未来　根本流風　田村響華　相羽あいな　築田行子／野本ほたる　仁藤萌乃　西川美咲　酒井
+    蘭　幸野ゆりあ　加藤里保菜　稲村 梓　石井玲歌　伊藤梨花子／古庄美和／新橋 和／小泉日向<br><br>原作:けものフレンズプロジェクト／脚本・演出:村上大樹<br><br>©けものフレンズプロジェクトS<br><br>so36368248←前話｜次話→so36368265　第一話→so36368194
+  length_seconds: 1278
+  content_id: so36368263
+  default_thread_id: 1581715333
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368263/36368263.33837147
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: 舞台「けものフレンズ」
+  description: 人気アニメ「けものフレンズ」の声優陣出演。アニメとは違うオリジナルストーリーで舞台化！<br><br>出演:尾崎由香　本宮佳奈　小野早稀／佐々木未来　根本流風　田村響華　相羽あいな　築田行子／野本ほたる　仁藤萌乃　西川美咲　酒井
+    蘭　幸野ゆりあ　加藤里保菜　稲村 梓　石井玲歌　伊藤梨花子／古庄美和／新橋 和／小泉日向<br><br>原作:けものフレンズプロジェクト／脚本・演出:村上大樹<br><br>©けものフレンズプロジェクトS<br><br>so36368263←前話｜次話→so36368266　第一話→so36368194
+  length_seconds: 1127
+  content_id: so36368265
+  default_thread_id: 1581715339
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368265/36368265.91822228
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: 舞台「けものフレンズ」
+  description: 人気アニメ「けものフレンズ」の声優陣出演。アニメとは違うオリジナルストーリーで舞台化！<br><br>出演:尾崎由香　本宮佳奈　小野早稀／佐々木未来　根本流風　田村響華　相羽あいな　築田行子／野本ほたる　仁藤萌乃　西川美咲　酒井
+    蘭　幸野ゆりあ　加藤里保菜　稲村 梓　石井玲歌　伊藤梨花子／古庄美和／新橋 和／小泉日向<br><br>原作:けものフレンズプロジェクト／脚本・演出:村上大樹<br><br>©けものフレンズプロジェクトS<br><br>so36368265←前話　第一話→so36368194
+  length_seconds: 1534
+  content_id: so36368266
+  default_thread_id: 1581715569
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368266/36368266.6604702
+cast: "[キャスト]<br>出演:尾崎由香　本宮佳奈　小野早稀／佐々木未来　根本流風　田村響華　相羽あいな　築田行子／野本ほたる　仁藤萌乃　西川美咲　酒井 蘭　幸野ゆりあ　加藤里保菜　稲村
+  梓　石井玲歌　伊藤梨花子／古庄美和／新橋 和／小泉日向"
+staff: "[スタッフ]<br>原作:けものフレンズプロジェクト／脚本・演出:村上大樹"
+produced_year: "[製作年]<br>2017年"
+copyright: "©けものフレンズプロジェクトS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 舞台「けものフレンズ」2～ゆきふるよるのけものたち～
+- !ruby/hash:SeasonHash
+  title: 舞台「けものフレンズ」(再演)
+- !ruby/hash:SeasonHash
+  title: けものフレンズ
+- !ruby/hash:SeasonHash
+  title: けものフレンズ２

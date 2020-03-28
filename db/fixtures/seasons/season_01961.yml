@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: よみがえる空 -RESCUE WINGS-
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/38/1/22381_1_6.png?1537319269000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/38/1/22381_1_8_8b.png?1551349213000
 outline: 新人ヘリパイロットの三等空尉・内田一宏が本当になりたかったのは、花形のファイターパイロット。しかし、現在の彼の職場は人命救助のみを任務とするレスキュー部隊・小松救難隊。本来の希望とは違う職場にくさっていた内田だったが、様々なミッションに関わっていく中でレスキューにやりがいを見出していく…。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -14,10 +14,10 @@ tags: !ruby/array:Hashie::Array
   name: 小山力也
   type: cast
 - !ruby/hash:TagHash
-  name: 飯塚昭三
+  name: 石塚運昇
   type: cast
 - !ruby/hash:TagHash
-  name: 石塚運昇
+  name: 飯塚昭三
   type: cast
 - !ruby/hash:TagHash
   name: 小野坂昌也
@@ -68,7 +68,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886851
   default_thread_id: 1537408447
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886851
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886851/33886851.73476775
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: 困難な仕事
@@ -78,7 +78,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886850
   default_thread_id: 1537408458
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886850
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886850/33886850.61336749
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 苦しい仕事
@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886849
   default_thread_id: 1537408468
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886849
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886849/33886849.65471380
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 大切な人
@@ -98,7 +98,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886848
   default_thread_id: 1537408460
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886848
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886848/33886848.24135043
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 必要なこと
@@ -108,7 +108,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886847
   default_thread_id: 1537408454
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886847
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886847/33886847.36697244
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: Bright Side of Life（前編）
@@ -118,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886846
   default_thread_id: 1537408445
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886846
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886846/33886846.88247959
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: Bright Side of Life（後編）
@@ -128,7 +128,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886845
   default_thread_id: 1537408464
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886845
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886845/33886845.43390628
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 少年の旅路（前編）
@@ -138,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886844
   default_thread_id: 1537408444
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886844
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886844/33886844.24045705
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 少年の旅路（後編）
@@ -148,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886843
   default_thread_id: 1537408449
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886843
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886843/33886843.65569728
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: パーティー
@@ -158,7 +158,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886842
   default_thread_id: 1537408462
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886842
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886842/33886842.21604541
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: ビバーク
@@ -168,7 +168,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886841
   default_thread_id: 1537408566
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886841
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886841/33886841.85684343
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: レスキュー
@@ -178,7 +178,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33886840
   default_thread_id: 1537408456
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33886840
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33886840/33886840.7444620
 cast: "[キャスト]<br>内田一宏:宮崎一成／長谷川めぐみ:能登麻美子／本郷修二郎:石塚運昇／村上龍之介:星野充昭／安田鉄平:小室正幸／田中正勝:石井英明／広沢徹:ヰズミ／西田一美:笠原留美／平田和彦:伊井篤史／二本松大悟:小野坂昌也／黒木淳造:小山力也／白拍子克己:西
   凛太朗／久保功:古澤 徹／鈴木浩徳:喜安浩平／小坂隆:志村知幸／本村:飯塚昭三"
 staff: "[スタッフ]<br>シリーズ構成・脚本:髙山文彦／脚本:水上清資／監督:桜美かつし／メカニックデザイン:橋本敬史／キャラクターデザイン:竹内哲也／美術監督:徳田俊之／音響監督:三間雅文／3D-CGI:サンジゲン／アニメーション制作:J.C.STAFF／協力:航空自衛隊、航空幕僚監部広報室、航空救難団"

@@ -1,0 +1,61 @@
+--- !ruby/hash:SeasonHash
+title: AIR IN SUMMER 特別編 後編 あめつち ～universe～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/54/5/23545_1_8_8b.png?1582684206000
+outline: 月の光の中にたたずむ神奈は、柳也に“あるもの”を見せようとして襟元を大きく開く。あやしい雰囲気を察した柳也があわてて制すると神奈の手にはお手玉が・・・。そして、自らの生い立ちを神奈に語りだす柳也。｢殿方は、好いた女人には必ず昔語りをするもの｣という裏葉の計略は実を結ぶのか。あたかも家族のようなやりとりに彩られ、3人の旅は続く・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 神奈延年
+  type: cast
+- !ruby/hash:TagHash
+  name: 西村ちなみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：石原立也
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Key
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ビジュアルアーツ
+  type: staff
+- !ruby/hash:TagHash
+  name: AIRシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 月の光の中にたたずむ神奈は、柳也に“あるもの”を見せようとして襟元を大きく開く。あやしい雰囲気を察した柳也があわてて制すると神奈の手にはお手玉が・・・。そして、自らの生い立ちを神奈に語りだす柳也。｢殿方は、好いた女人には必ず昔語りをするもの｣という裏葉の計略は実を結ぶのか。あたかも家族のようなやりとりに彩られ、3人の旅は続く・・・。<br><br>神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子<br><br>監督・ディレクター:石原立也／原作:Key/ビジュアルアーツ／主題歌:｢鳥の歌｣Lia／制作:翼人伝承会<br><br>©VisualArt’s/Key/翼人伝承会
+  length_seconds: 1430
+  content_id: so36426507
+  default_thread_id: 1582747214
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426507/36426507.75777901
+cast: "[キャスト]<br>神奈備命:西村ちなみ／柳也:神奈延年／裏葉:井上喜久子"
+staff: "[スタッフ]<br>監督・ディレクター:石原立也／原作:Key/ビジュアルアーツ／主題歌:｢鳥の歌｣Lia／制作:翼人伝承会"
+produced_year: "[製作年]<br>2005年"
+copyright: "©VisualArt’s/Key/翼人伝承会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: AIR
+- !ruby/hash:SeasonHash
+  title: AIR IN SUMMER 特別編 前編 やまみち ～mountain path～

@@ -1,0 +1,90 @@
+--- !ruby/hash:SeasonHash
+title: ガンバとカワウソの冒険
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/33/1/23331_1_8_8b.png?1580452519000
+outline: 町に戻っていたガンバは、かつての仲間たちとひさしぶりに再会する。だがシジンはひとり悲しみに沈んでいた。許嫁のナギサが、南の島に墓参りに行くと言って旅だったきり行方知れずになってしまったのだ。シジンの頼みでナギサを探しに行く決意をしたガンバたちは、船に潜り込み、南の島を目指す。島にたどり着いたガンバたちは、島ネズミの長老であるオバハンネズミにナギサのことを尋ね、ある手がかりを得た。彼女は墓参りをするといって川を上っていったというのだ。さっそく川へ向かおうとするガンバたちに、オバハンは不吉な忠告をした。あのへんには恐ろしい野犬がおり、先日も一匹のカワウソが殺されたばかりだ、と。それを聞いたガクシャは驚喜した。カワウソは絶滅したはずだと思われていたのだ。川辺を上流に向かうガンバたち。途中、キマグレやウキクサといった動物たちと出会いながら、彼らの旅はなおも続く。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 内海賢二
+  type: cast
+- !ruby/hash:TagHash
+  name: 富山敬
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀絢子
+  type: cast
+- !ruby/hash:TagHash
+  name: 南杏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 水城蘭子
+  type: cast
+- !ruby/hash:TagHash
+  name: 島田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：斎藤惇夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大賀俊二
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：近藤浩章
+  type: staff
+- !ruby/hash:TagHash
+  name: ガンバの冒険シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1991年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 町に戻っていたガンバは、かつての仲間たちとひさしぶりに再会する。だがシジンはひとり悲しみに沈んでいた。許嫁のナギサが、南の島に墓参りに行くと言って旅だったきり行方知れずになってしまったのだ。シジンの頼みでナギサを探しに行く決意をしたガンバたちは、船に潜り込み、南の島を目指す。島にたどり着いたガンバたちは、島ネズミの長老であるオバハンネズミにナギサのことを尋ね、ある手がかりを得た。彼女は墓参りをするといって川を上っていったというのだ。さっそく川へ向かおうとするガンバたちに、オバハンは不吉な忠告をした。あのへんには恐ろしい野犬がおり、先日も一匹のカワウソが殺されたばかりだ、と。それを聞いたガクシャは驚喜した。カワウソは絶滅したはずだと思われていたのだ。川辺を上流に向かうガンバたち。途中、キマグレやウキクサといった動物たちと出会いながら、彼らの旅はなおも続く。<br><br>ガンバ:野沢雅子／ボーボ:水城蘭子／ヨイショ:内海賢二／ガクシャ:富山敬／イカサマ:堀絢子／シジン:島田彰／ナギサ:南杏子／カワモ:三石琴乃／カモク:折笠愛、他<br><br>原作:斎藤惇夫(岩波書店刊)／監督:大賀俊二／作画監督:鈴木伸一／脚本:岸間信明／美術監督:田村智博／撮影監督:長谷川肇／音楽:近藤浩章<br><br>©斎藤惇夫／岩波書店・ＴＭＳ<br><br>次話→so36319356
+  length_seconds: 2393
+  content_id: so36319239
+  default_thread_id: 1580810707
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36319239/36319239.93872923
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 町に戻っていたガンバは、かつての仲間たちとひさしぶりに再会する。だがシジンはひとり悲しみに沈んでいた。許嫁のナギサが、南の島に墓参りに行くと言って旅だったきり行方知れずになってしまったのだ。シジンの頼みでナギサを探しに行く決意をしたガンバたちは、船に潜り込み、南の島を目指す。島にたどり着いたガンバたちは、島ネズミの長老であるオバハンネズミにナギサのことを尋ね、ある手がかりを得た。彼女は墓参りをするといって川を上っていったというのだ。さっそく川へ向かおうとするガンバたちに、オバハンは不吉な忠告をした。あのへんには恐ろしい野犬がおり、先日も一匹のカワウソが殺されたばかりだ、と。それを聞いたガクシャは驚喜した。カワウソは絶滅したはずだと思われていたのだ。川辺を上流に向かうガンバたち。途中、キマグレやウキクサといった動物たちと出会いながら、彼らの旅はなおも続く。<br><br>ガンバ:野沢雅子／ボーボ:水城蘭子／ヨイショ:内海賢二／ガクシャ:富山敬／イカサマ:堀絢子／シジン:島田彰／ナギサ:南杏子／カワモ:三石琴乃／カモク:折笠愛、他<br><br>原作:斎藤惇夫(岩波書店刊)／監督:大賀俊二／作画監督:鈴木伸一／脚本:岸間信明／美術監督:田村智博／撮影監督:長谷川肇／音楽:近藤浩章<br><br>©斎藤惇夫／岩波書店・ＴＭＳ<br><br>so36319239←前話　第一話→so36319239
+  length_seconds: 2400
+  content_id: so36319356
+  default_thread_id: 1580814663
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36319356/36319356.99245117
+cast: "[キャスト]<br>ガンバ:野沢雅子／ボーボ:水城蘭子／ヨイショ:内海賢二／ガクシャ:富山敬／イカサマ:堀絢子／シジン:島田彰／ナギサ:南杏子／カワモ:三石琴乃／カモク:折笠愛、他"
+staff: "[スタッフ]<br>原作:斎藤惇夫(岩波書店刊)／監督:大賀俊二／作画監督:鈴木伸一／脚本:岸間信明／美術監督:田村智博／撮影監督:長谷川肇／音楽:近藤浩章"
+produced_year: "[製作年]<br>1991年"
+copyright: "©斎藤惇夫／岩波書店・ＴＭＳ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ガンバの冒険
+- !ruby/hash:SeasonHash
+  title: ベビーガンバ
+- !ruby/hash:SeasonHash
+  title: GAMBA ガンバと仲間たち

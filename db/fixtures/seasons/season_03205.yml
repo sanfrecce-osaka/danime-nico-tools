@@ -1,0 +1,104 @@
+--- !ruby/hash:SeasonHash
+title: るろうに剣心 ‐明治剣客浪漫譚‐星霜編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/72/7/21727_1_8_8b.png?1551354286000
+outline: 薫の追想譚を基軸に、剣心のその後の姿が描かれる!!和月伸宏の同名の人気剣客漫画を原作にしたOVA。激闘の日々から15年。剣心は山県有朋に懇望され、戦が勃発した大陸へ渡っていた。剣客生命はすでに絶たれ、そのうえ不治の病に苦悶する剣心。最後の力をふり絞り、最愛の妻である薫の待つ日本へ…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: うえだゆうじ
+  type: cast
+- !ruby/hash:TagHash
+  name: 白鳥由里
+  type: cast
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 冨永みーな
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田秀一
+  type: cast
+- !ruby/hash:TagHash
+  name: 涼風真世
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤谷美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 金子はりい
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：岩崎琢
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松島晃
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：古橋一浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：和月伸宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：古橋一浩
+  type: staff
+- !ruby/hash:TagHash
+  name: るろうに剣心シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 上巻
+  title: ''
+  description: 激闘の日々から15年過ぎた明治26年。剣心は山県有朋に懇望され、戦が勃発した大陸へ渡っていた。剣心の帰りを待ち続ける薫は、病の床で、剣心と出会ってから結婚するまでの数々の事件を夢に見る。<br><br>緋村剣心:涼風真世／神谷　薫:藤谷美紀／明神弥彦:冨永み～な／相楽左之助:上田祐司／高荷　恵:土井美加／三条　燕:白鳥由里／比古清十郎:池田秀一／雪代　縁:佐々木　望／鵜堂刃衛:大塚明夫／山県有朋:金子はりい
+    他<br><br>原作:和月伸宏（集英社 ジャンプ･コミックス）／監督:古橋一浩／絵コンテ･演出:古橋一浩／キャラクターデザイン:松島　晃／脚本:吉田玲子／音楽:岩崎　琢／アフレコ演出:三ツ矢雄二／アニメーション制作:スタジオディーン／企画協力:フジテレビ／制作著作:SME･ビジュアルワークス<br><br>©和月伸宏／集英社・フジテレビ・アニプレックス<br><br>次話→so36388610
+  length_seconds: 2286
+  content_id: so36388609
+  default_thread_id: 1582091823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388609/36388609.94254486
+- !ruby/hash:EpisodeHash
+  episode_no: 下巻
+  title: ''
+  description: 剣心に姉を殺された雪代縁の復讐劇、そして剣心と一緒に生きることを誓った日の出来事が、薫の脳裏に甦る。大陸で不治の病に苦悶する剣心は、最後の力をふり絞り、最愛の妻である薫の待つ日本へ…。<br><br>緋村剣心:涼風真世／神谷　薫:藤谷美紀／明神弥彦:冨永み～な／相楽左之助:上田祐司／高荷　恵:土井美加／三条　燕:白鳥由里／比古清十郎:池田秀一／雪代　縁:佐々木　望／鵜堂刃衛:大塚明夫／山県有朋:金子はりい
+    他<br><br>原作:和月伸宏（集英社 ジャンプ･コミックス）／監督:古橋一浩／絵コンテ･演出:古橋一浩／キャラクターデザイン:松島　晃／脚本:吉田玲子／音楽:岩崎　琢／アフレコ演出:三ツ矢雄二／アニメーション制作:スタジオディーン／企画協力:フジテレビ／制作著作:SME･ビジュアルワークス<br><br>©和月伸宏／集英社・フジテレビ・アニプレックス<br><br>so36388609←前話　第一話→so36388609
+  length_seconds: 2755
+  content_id: so36388610
+  default_thread_id: 1582092493
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388610/36388610.21902697
+cast: "[キャスト]<br>緋村剣心:涼風真世／神谷　薫:藤谷美紀／明神弥彦:冨永み～な／相楽左之助:上田祐司／高荷　恵:土井美加／三条　燕:白鳥由里／比古清十郎:池田秀一／雪代　縁:佐々木　望／鵜堂刃衛:大塚明夫／山県有朋:金子はりい
+  他"
+staff: "[スタッフ]<br>原作:和月伸宏（集英社 ジャンプ･コミックス）／監督:古橋一浩／絵コンテ･演出:古橋一浩／キャラクターデザイン:松島　晃／脚本:吉田玲子／音楽:岩崎　琢／アフレコ演出:三ツ矢雄二／アニメーション制作:スタジオディーン／企画協力:フジテレビ／制作著作:SME･ビジュアルワークス"
+produced_year: "[製作年]<br>2001年"
+copyright: "©和月伸宏／集英社・フジテレビ・アニプレックス"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐維新志士への鎮魂歌
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐追憶編
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐新京都編

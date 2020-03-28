@@ -1,0 +1,202 @@
+--- !ruby/hash:SeasonHash
+title: ゆゆ式
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/21/0/23210_1_8_8b.png?1578647201000
+outline: この春、女子高生になった、ゆずこ、唯(ゆい)、縁(ゆかり)の3人組はいつもいっしょの学園生活。放課後は部員3人、パソコン2台とホワイトボード1台の『情報処理部』で、てきとうに決めた単語をググってその結果でまたおしゃべり。なんでもない日常は、たまにイベントも発生するけど、やっぱり女の子がいちゃいちゃするだけ。でもなぜか目が離せない新世代女子高生コミュニケーション。ゆとりかわいい学園生活は、遊びと部活とところより百合要素。ノーイベント・グッドライフ！それがこの三人の"ゆゆ式(ルール)"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 潘めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 大久保瑠美
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水茉菜
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：キネマシトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：かおり
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：エグジットチューンズ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田畑壽之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：sakai asuka
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：三上小又
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆゆ式シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 2013年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第１話
+  title: 高校生になりました
+  description: 高校に入学したゆずこ、唯、縁の仲良し3人はゆるゆるまったりとしたスクールライフを送っていた。ある日お母さん先生こと頼子が顧問を務める情報処理部のことを知り、3人はその部室で思いつくままに調べものをしたり、おしゃべりをし始める。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>次話→so36255738
+  length_seconds: 1420
+  content_id: so36255737
+  default_thread_id: 1579574589
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255737/36255737.49511301
+- !ruby/hash:EpisodeHash
+  episode_no: 第２話
+  title: 情報処理部
+  description: 放課後は部室で雑談をするようになった3人は、ある日ムネが大きい人はどうして大きくなったのかを話していた。そんな時部室に入ってきた頼子の大きいムネを触ろうと試みるゆずこと縁だが…。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255737←前話｜次話→so36255739　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255738
+  default_thread_id: 1579574593
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255738/36255738.69962377
+- !ruby/hash:EpisodeHash
+  episode_no: 第３話
+  title: 夏休みじゃーい！
+  description: 学校も夏休みに入りテンションの上がるゆずこと縁。夏の暑さにも負けず3人でプールに行ってはしゃいだり、唯の家で元気に遊んだりと、夏休みになって3人の気温も上昇中！？<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255738←前話｜次話→so36255740　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255739
+  default_thread_id: 1579574583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255739/36255739.83650599
+- !ruby/hash:EpisodeHash
+  episode_no: 第４話
+  title: いいんちょう
+  description: ゆずこたちのクラス委員長である相川千穂は、入学式の時から唯のことが気になっていた。夏休みの間に唯たちと少し仲良くなれた千穂は、ある日寝不足でいつもとテンションの違う唯を目撃する。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255739←前話｜次話→so36255725　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255740
+  default_thread_id: 1579574591
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255740/36255740.90341895
+- !ruby/hash:EpisodeHash
+  episode_no: 第５話
+  title: 唯と縁　とゆずこ
+  description: 中庭でランチをしている3人は、ひょんなことから小学校時代の唯と縁の話になる。唯と縁は幼なじみで、当時の2人の印象や仲良くなったきっかけを話し始める。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255740←前話｜次話→so36255724　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255725
+  default_thread_id: 1579573872
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255725/36255725.18968143
+- !ruby/hash:EpisodeHash
+  episode_no: 第６話
+  title: 初雪なべ
+  description: 冬になり寒くなってきたある日、3人は部室で鍋がしたいと話していた。そこにやってきた頼子に部室での鍋を却下されたが、家なら構わないということで頼子の家で鍋をすることになる。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255725←前話｜次話→so36255723　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255724
+  default_thread_id: 1579573878
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255724/36255724.69218651
+- !ruby/hash:EpisodeHash
+  episode_no: 第７話
+  title: 3学期っ！
+  description: 年明け早々に唯の家に遊びにやってきたゆずこと縁。ゆずこは唯の部屋の暖かさに眠気を誘われて、爆睡して過ごしてしまったり、縁は久しぶりに唯に会えた喜びでいつも以上にはしゃいだりと、にぎやかな冬休みを過ごしながら３学期を迎える。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255724←前話｜次話→so36255722　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255723
+  default_thread_id: 1579573874
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255723/36255723.38366464
+- !ruby/hash:EpisodeHash
+  episode_no: 第８話
+  title: 2年生になりました
+  description: ２年生になったゆずこたちは、せっかく進級をしたということで何か晴れやかなことをしようとする。１年生のころの思い出を振り返ったり、何をしようかなど話すが、なんだかんだで１年生の頃と同じようにとりとめのない話をしながら過ごしていく。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255723←前話｜次話→so36255721　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255722
+  default_thread_id: 1579573866
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255722/36255722.57724018
+- !ruby/hash:EpisodeHash
+  episode_no: 第９話
+  title: まじゃりんこ
+  description: ある日の放課後、いつも通り部室に向かっていた３人は委員長の仕事中の千穂と出会う。ゆずこの突然の誘いから千穂が情報処理部の部室にくることになる。そして部室で唯と二人きりになった千穂は唯にあるお願いをする。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255722←前話｜次話→so36255720　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255721
+  default_thread_id: 1579573876
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255721/36255721.77073949
+- !ruby/hash:EpisodeHash
+  episode_no: 第１０話
+  title: 楽しいから
+  description: ある日の放課後、ゆずこが突然けいおん部から借りたギターを持って部室に入ってくる。さらに今度は美術部から借りてきたという人形を持ってきて、いろいろなポーズをとらせたりと人形で遊び始める。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255721←前話｜次話→so36255719　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255720
+  default_thread_id: 1579573870
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255720/36255720.51055564
+- !ruby/hash:EpisodeHash
+  episode_no: 第１１話
+  title: こーゆー時間
+  description: ある日唯が廊下でジュースを飲んでいると千穂が手を振りながらやってくるが、階段で躓きジュースをこぼしてしまう。唯はムネが大きいから足下が見にくいのか、と思いながら千穂と一緒に水道に行くが…。<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255720←前話｜次話→so36255718　第一話→so36255737
+  length_seconds: 1420
+  content_id: so36255719
+  default_thread_id: 1579573868
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255719/36255719.41378978
+- !ruby/hash:EpisodeHash
+  episode_no: 第１２話
+  title: ノーイベント グッドライフ
+  description: ２年生の夏休みを迎えたゆずこたちは、いつも通り唯の家でとりとめのない話をして盛り上がっていた。そこで今まであまり遠くへ出かけていないことに気付き、せっかくの夏休みということで海へ出かけようといやがる唯を説得しようとする<br><br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜<br><br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+    asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+    Morinaga)<br><br>©三上小又・芳文社/ゆゆ式情報処理部<br><br>so36255719←前話　第一話→so36255737
+  length_seconds: 1410
+  content_id: so36255718
+  default_thread_id: 1579573863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255718/36255718.70645397
+cast: "[キャスト]<br>野々原ゆずこ:大久保瑠美／櫟井唯:津田美波／日向縁:種田梨沙／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜"
+staff: "[スタッフ]<br>原作:三上小又『ゆゆ式』／監督:かおり／シリーズ構成:高橋ナツコ／キャラクターデザイン:田畑壽之／音響監督:明田川仁／音楽:sakai
+  asuka／美術監督:加藤浩／色彩設計:水田信子／撮影監督:若林優／音楽制作:EXIT TUNES／アニメーション制作:キネマシトラス／OPテーマ:「せーのっ！」(情報処理部)／EDテーマ:「Affection」(Mayumi
+  Morinaga)"
+produced_year: "[製作年]<br>2013年"
+copyright: "©三上小又・芳文社/ゆゆ式情報処理部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆゆ式OVA　「困らせたり、困らされたり」

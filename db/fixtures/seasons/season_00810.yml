@@ -1,20 +1,26 @@
 --- !ruby/hash:SeasonHash
 title: 天体のメソッド
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/6/11516_1_6.png?1505268046000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/51/6/11516_1_8_8b.png?1581642102000
 outline: |-
   ｢願いをかなえるために、ここにいる――｣
   霧弥湖上空に現れた謎の円盤。出現当時は世界中を大混乱に陥れたが、そこに留まるだけの円盤への恐怖心は消え、次第に観光地となり、徐々に人々の興味も薄れて行った…
   二人の少女が出会うとき、それは止まっていた時間が動き出す兆し。想いが人を変えて行き新しい物語を刻む。中学校生活最後の年。それは一生忘れられない時間(とき)。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
   name: 豊崎愛生
   type: cast
 - !ruby/hash:TagHash
-  name: 小松未可子
+  name: 石川界人
   type: cast
 - !ruby/hash:TagHash
-  name: 石川界人
+  name: 小松未可子
   type: cast
 - !ruby/hash:TagHash
   name: 水瀬いのり
@@ -32,16 +38,16 @@ tags: !ruby/array:Hashie::Array
   name: 監督：迫井政行
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：久弥直樹
-  type: staff
-- !ruby/hash:TagHash
-  name: キャラクターデザイン：QP：flapper
+  name: アニメーション制作：Studio 3Hz
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：秋谷有紀恵
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：Studio 3Hz
+  name: 原作：久弥直樹
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：QP：flapper
   type: staff
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
@@ -61,7 +67,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105522
   default_thread_id: 1524618651
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105522
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105522/33105522.85529590
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: ふたりの約束
@@ -73,7 +79,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105534
   default_thread_id: 1524618205
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105534
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105534/33105534.25948933
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 記憶のありか
@@ -85,7 +91,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105532
   default_thread_id: 1524618450
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105532
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105532/33105532.80693172
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 思いのかけら
@@ -98,7 +104,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105531
   default_thread_id: 1524618677
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105531
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105531/33105531.83356186
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 光の花
@@ -110,7 +116,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105530
   default_thread_id: 1524618456
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105530
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105530/33105530.34135624
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 本当の友達
@@ -122,7 +128,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105529
   default_thread_id: 1524618626
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105529
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105529/33105529.80828878
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 私のなくしたもの
@@ -134,7 +140,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105528
   default_thread_id: 1524618457
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105528
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105528/33105528.27630813
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 彼女の信じること
@@ -146,7 +152,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105527
   default_thread_id: 1524618628
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105527
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105527/33105527.75307454
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: さよならの意味
@@ -158,7 +164,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105526
   default_thread_id: 1524618653
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105526
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105526/33105526.4528605
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 願いの行方
@@ -170,7 +176,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105525
   default_thread_id: 1524618473
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105525
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105525/33105525.92512375
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 流星群の夜
@@ -182,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105524
   default_thread_id: 1524618679
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105524
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105524/33105524.54495429
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 円盤のない街
@@ -194,7 +200,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105523
   default_thread_id: 1524618478
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105523
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105523/33105523.45030484
 - !ruby/hash:EpisodeHash
   episode_no: 最終話
   title: はじまりのそらから
@@ -206,7 +212,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33105535
   default_thread_id: 1524618460
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33105535
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33105535/33105535.50746948
 cast: "[キャスト]<br>古宮乃々香:夏川椎菜／水坂柚季:豊崎愛生／椎原こはる:佳村はるか／戸川汐音:小松未可子／水坂湊太:石川界人／ノエル:水瀬いのり"
 staff: "[スタッフ]<br>監督:迫井政行／原案・脚本:久弥直樹／キャラクター原案:QP：flapper／キャラクターデザイン・総作画監督:秋谷有紀恵／大道具:りぱ／小道具:古澤祐紀子／美術設定:金平和茂(KUSANAGI)／美術監督:伊藤
   弘(KUSANAGI)／色彩設計:加藤里恵／撮影監督:出水田和人(T2 studio)／編集:定松 剛(サテライト)／音響監督:明田川仁／音楽:加藤達也／音楽制作:ランティス／イメージソング:Larval

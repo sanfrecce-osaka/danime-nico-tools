@@ -1,0 +1,194 @@
+--- !ruby/hash:SeasonHash
+title: Soul Link
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/25/9/23259_1_8_8b.png?1582248995000
+outline: 西暦2045年。中央士官学校予科3年に所属する相澤涼太は、先輩の森崎七央、同級生の永瀬沙佳や新田和彦らとともに訓練のため、周遊型スペースステーション・アリエスに向かった。そこへ、武装テロリスト・ハララクスの襲撃が・・・。涼太たちは、無事脱出し、地球へ戻ることができるのか?
+  原作は2004年12月に発売されたPCゲーム「Soul Link」。 TVアニメ化された前作「SHUFFLE！」にて高い評価を受けた美少女ゲーム業界屈指の人気ソフトブランド“Navel”が手掛け、キャラクターデザインを気鋭のイラストレーター“鈴平ひろ”が担当した大ヒット作品。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 伊藤健太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 荻原秀樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐久間紅美
+  type: cast
+- !ruby/hash:TagHash
+  name: 増田ゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 大野まりな
+  type: cast
+- !ruby/hash:TagHash
+  name: 嶋方淳子
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡邊義弘
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ピクチャーマジック
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：所俊克
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：Navel
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: 2006年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ENCOUNTER －出会い－
+  description: 西暦2045年。宇宙研修のため、衛星軌道上のステーションホテル「アリエス」に到着した中央士官学校予科の生徒達。予科3年所属「相澤涼太」は、厳しい訓練と寮生活とは違う宇宙体験にドキドキだった。そして数日後、1通のメッセージが届く。それは尊敬する兄「相澤秀平」が本科研修でアリエスにくるというもので…。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>次話→so36384010
+  length_seconds: 1525
+  content_id: so36383986
+  default_thread_id: 1581995584
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36383986/36383986.77611981
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: CONTACT －接触－
+  description: "「研修中は民間人との接触禁止」の命令に動揺する沙佳。理由を尋ねる涼太に対して、沙佳は親友の亜弥とアリエスで会う約束をしたと話す。それを聞いた涼太は、無重力模擬戦闘の時間を使って沙佳と亜弥を会わせるための作戦を思いつく。だが、その模擬戦闘中、突然アリエス全館にエマージェンシーコールが鳴り響き…。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36383986←前話｜次話→so36384030　第一話→so36383986"
+  length_seconds: 1525
+  content_id: so36384010
+  default_thread_id: 1581996309
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384010/36384010.50817111
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: OUTBREAK －勃発－
+  description: 正体不明の宇宙船がアリエスに迫ってきた。宇宙船の中には「ゲイル＝ランティス」が率いる武装テロ集団「ハララクス」の精鋭が潜んでいた。「カレン＝タチバナ」を先頭に突撃隊がアリエスへ突入し、一瞬のうちにアリエスは主要部を占拠されてしまう。涼太達は全館制圧を阻止するため、ハララクスに立ち向かう。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384010←前話｜次話→so36384072　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384030
+  default_thread_id: 1581996850
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384030/36384030.77858733
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: BREATHING SPACE －休息－
+  description: ハララクスによる攻撃をくい止めた涼太達。カレンとの闘いで秀平は軽傷を負ってしまう。そんな中、沙佳は亜弥が脱出に成功したかを心配していた。その亜弥はハララクスに捕らえられていた…。一方、新たな作戦を考えるゲイル。撃退された悔しさに復讐を誓うカレン。そんなとき無人のはずのブロックから救難メールが届き…。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384030←前話｜次話→so36384131　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384072
+  default_thread_id: 1581997387
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384072/36384072.22922290
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: WATERSHED －分岐点－
+  description: 森本と共に合流した亜希は、兄・和彦をしのぐコンピュータの天才だった。アリエスのコントロールを次々に取り戻していく亜希。そんな中ハララクスによる新たな侵攻が始まる。ゲイル自身による直接攻撃だ！
+    迎え撃つ秀平、涼太。だが、圧倒的なゲイルの戦闘力に押される。そして戦闘の最中、セラリア先生が…!?<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384072←前話｜次話→so36384132　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384131
+  default_thread_id: 1581998417
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384131/36384131.14186418
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: FAREWELL －別れ－
+  description: ハララクスの侵攻を防いだ秀平達。しかし、セラリア先生は敵側に取り残されてしまった。戦いの最中、重傷を負った秀平は不思議な夢を見ていた。自分が七央達を…さらにハララクスのメンバー達も…。目覚めたとき、自分の身体に異変が起こっていることを気づいた秀平は、ハララクスの占拠スペースへの単独侵入を決意する。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384131←前話｜次話→so36384133　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384132
+  default_thread_id: 1581998415
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384132/36384132.12686248
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: FLUX －流転－
+  description: 秀平がいなくなり、涼太がリーダーに…。不安がる涼太を励ます森本。すると突然、館内放送が秀平の言葉を伝え始める。語られる驚愕の事実、そして銃声！
+    たまらず七央が駆け出したとき、隔壁が爆破され敵の侵攻が始まる。そのせいで瀕死の重症を負う七央。そんな中、涼太は食料庫に隠れていた幼い少女を発見する。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384132←前話｜次話→so36384134　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384133
+  default_thread_id: 1581998405
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384133/36384133.76316999
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: DESIRE －願い－
+  description: 1台の作業機が敵側から涼太達のもとへ逃げ出してきた。秀平の帰還か？ と迎え入れる涼太達の前に現れたのは、カレンだった。カレンが語るハララクスの壊滅、亜弥の生存。激しく動揺する沙佳。亜弥を心配する沙佳は、密かに作業機へ乗り込もうとするが涼太に止められる。一方、ユウは涼太との約束を胸に、敵陣へと赴く。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384133←前話｜次話→so36384107　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384134
+  default_thread_id: 1581998411
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384134/36384134.59530392
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ROUSE －覚醒－
+  description: 敵陣に潜入したユウは、戦闘を繰り広げながら中枢へ向かう。残された涼太達は、追い詰められていく閉塞感から苛立ちがつのり始める。そんな涼太達は、時に「ななみ」の無邪気な言動に癒されながらも、その驚異的な学習能力に目を見張っていた。一方、なんとか敵中枢にたどり着いたユウは、過酷な現実と敵の正体を知り…。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384134←前話｜次話→so36384105　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384107
+  default_thread_id: 1581998421
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384107/36384107.47238689
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: STRAY －迷走－
+  description: 必死に脱出を図るユウとシン。しかしついに追い詰められ、シンのスキュラ化も進行し始める。そして、ついに明かされるシンとセラリアの驚愕の過去、スキュラ細胞の秘密。一方コンピュータを見つめる亜希が大変な事態を発見。アリエスが徐々に高度を下げ、落下し始めている！
+    涼太達は唯一の脱出方法を発見するが…。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384107←前話｜次話→so36384104　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384105
+  default_thread_id: 1581998413
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384105/36384105.63347294
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: MOURNING －哀悼－
+  description: アリエスを脱出する前に沙佳の想いに応え、亜弥の救助に向かうことを決意する涼太。しかし、涼太達を戸惑わせる事件がまた起こった。ななみの姿が見えない…。不安に陥る涼太達だが、脱出計画に中断は許されない。作業機で亜弥の救助に向かう涼太と沙佳。そんな中、セラリアは計画の最終段階として、一斉攻撃を開始する。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384105←前話｜次話→so36384103　第一話→so36383986
+  length_seconds: 1525
+  content_id: so36384104
+  default_thread_id: 1581998409
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384104/36384104.94887605
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: JOURNEY －旅路－
+  description: 亜弥の救出に成功した涼太と沙佳。喜びに浸る2人にスキュラ兵の集団が襲いかかる。そのとき、沙佳を守るため身を挺して1つの想いが散っていく…。セラリアの狂笑の中、降下速度を高めるアリエス。大気圏突入寸前、ついにアリエスからの脱出準備が完了する。涼太達は様々な想いを抱きながら脱出のゲートに向かうが…。<br><br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+    他<br><br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック<br><br>©Omegavision,Inc.／Soul
+    Link Media Project 2006<br><br>so36384104←前話　第一話→so36383986
+  length_seconds: 1495
+  content_id: so36384103
+  default_thread_id: 1581998407
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384103/36384103.51348607
+cast: "[キャスト]<br>相澤涼太:荻原秀樹／永瀬沙佳:増田ゆき／相澤秀平:伊藤健太郎／森崎七央:佐久間紅美／新田亜希:大野まりな／ユウ＝ヤマナミ:嶋方淳子
+  他"
+staff: "[スタッフ]<br>原作:Navel／キャラクター原案:鈴平ひろ／監督・シリーズ構成:所俊克／脚本:長谷川勝己、静谷伊佐夫／キャラクターデザイン:渡辺義弘／総作画監督:渡辺義弘、早川ナオミ／美術監督:宮前光春／色彩設計:のぼりはるこ／アニメーション制作:ピクチャーマジック"
+produced_year: "[製作年]<br>2006年"
+copyright: "©Omegavision,Inc.／Soul Link Media Project 2006"
+related_seasons: !ruby/array:Hashie::Array []

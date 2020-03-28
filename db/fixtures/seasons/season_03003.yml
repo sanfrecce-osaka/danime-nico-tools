@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: '009‐1 Mission.Extra R＆B'
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/63/3/23633_1_8_8b.png?1583111721000
+outline: 二重スパイの容疑がかけられたミュージシャンのサムに近づいたミレーヌ。いつもの様に着実に任務を遂行しようとアジトに潜入するミレーヌであったが、 サムにいつもの手は通用せず、すぐにミレーヌは正体を見破られてしまう。自分を探りにきたウエストのスパイを目の前にしながらも、たじろぐ様子もないサム。
+  ミレーヌはサムの暖かな優しさと彼が奏でる音楽に身を委ねるうちに、次第に心を奪われていく･･･。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 森川智之
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山力也
+  type: cast
+- !ruby/hash:TagHash
+  name: ゆきのさつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚芳忠
+  type: cast
+- !ruby/hash:TagHash
+  name: 釈由美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：三澤康広
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：石ノ森章太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：紺野直幸
+  type: staff
+- !ruby/hash:TagHash
+  name: '009ノ1シリーズ'
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 二重スパイの容疑がかけられたミュージシャンのサムに近づいたミレーヌ。いつもの様に着実に任務を遂行しようとアジトに潜入するミレーヌであったが、
+    サムにいつもの手は通用せず、すぐにミレーヌは正体を見破られてしまう。自分を探りにきたウエストのスパイを目の前にしながらも、たじろぐ様子もないサム。 ミレーヌはサムの暖かな優しさと彼が奏でる音楽に身を委ねるうちに、次第に心を奪われていく･･･。<br><br>009-1
+    【ミレーヌ・ホフマン】:釈由美子／ナンバーゼロ:大塚芳忠／ロキ:森川智之／サム:小山力也／009-3 【ヴァネッサ・イベール】:雪野五月<br><br>原作:石ノ森章太郎『009ノ1』／監督:紺野直幸／プロデューサー:岩上敦宏、瀧川正靖、宮田人司、吉田雅尋、高野貴志／脚本:石田真弓／音楽:三澤康広／制作会社:Project
+    009-1、TBS<br><br>©石森エンタテインメント／Project 009-1
+  length_seconds: 1465
+  content_id: so36379506
+  default_thread_id: 1581907683
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379506/36379506.60947382
+cast: "[キャスト]<br>009-1 【ミレーヌ・ホフマン】:釈由美子／ナンバーゼロ:大塚芳忠／ロキ:森川智之／サム:小山力也／009-3 【ヴァネッサ・イベール】:雪野五月"
+staff: "[スタッフ]<br>原作:石ノ森章太郎『009ノ1』／監督:紺野直幸／プロデューサー:岩上敦宏、瀧川正靖、宮田人司、吉田雅尋、高野貴志／脚本:石田真弓／音楽:三澤康広／制作会社:Project
+  009-1、TBS"
+produced_year: "[製作年]<br>2006年"
+copyright: "©石森エンタテインメント／Project 009-1"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: '009‐1'

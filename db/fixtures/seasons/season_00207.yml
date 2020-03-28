@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: Occultic;Nine -オカルティック・ナイン-
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/17/1/21171_1_6.png?1475821803000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/17/1/21171_1_8_8b.png?1551261757000
 outline: 我聞悠太は高校2年生。一攫千金狙いのオカルト板まとめ系アフィブログ“キリキリバサラ”を運営し、世に数多存在する超常現象を科学的に｢バッサリと斬り斬りしちゃう！｣べく、日夜オカルトに挑んでいた。ところが、そんな彼のブログをきっかけに、徹底的にマニアックでおかしな同志たちが大集結。自己矛盾型自称救世主　神癒霊能媒介者　全否定型超理論派大学生　萌え系占い大先生　死後の世界案内人　未来予知型同人漫画家姉さん　黒魔術代行屋　リア充系雑誌記者　残念系コスプレオタク刑事　出会うはずのなかった彼らの運命が不思議と交差してしまう。そして、彼らの周囲で巻き起こり始める、小さな小さな“違和感”の数々。それらは次第に大きなうねりとなり、やがて想像を絶する大事件へと発展していく──
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -26,13 +26,13 @@ tags: !ruby/array:Hashie::Array
   name: 伊藤静
   type: cast
 - !ruby/hash:TagHash
-  name: 柿原徹也
-  type: cast
-- !ruby/hash:TagHash
   name: 佐倉綾音
   type: cast
 - !ruby/hash:TagHash
   name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
   name: 石川界人
@@ -75,12 +75,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>次話→so32225454
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>次話→so32225454
   length_seconds: 1440
   content_id: so32225425
   default_thread_id: 1509936142
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225425
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225425/32225425.85507745
 - !ruby/hash:EpisodeHash
   episode_no: Site 02
   title: "｢運命を変える力なんて無いから｣"
@@ -88,12 +88,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225425←前話｜次話→so32225455　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225425←前話｜次話→so32225455　第一話→so32225425
   length_seconds: 1440
   content_id: so32225454
   default_thread_id: 1509937471
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225454
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225454/32225454.62442346
 - !ruby/hash:EpisodeHash
   episode_no: Site 03
   title: "｢妄想だったのだろうか｣"
@@ -101,12 +101,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225454←前話｜次話→so32225485　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225454←前話｜次話→so32225485　第一話→so32225425
   length_seconds: 1440
   content_id: so32225455
   default_thread_id: 1509937473
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225455
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225455/32225455.75934566
 - !ruby/hash:EpisodeHash
   episode_no: Site 04
   title: "｢犯人は我聞悠太だ｣"
@@ -114,12 +114,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225455←前話｜次話→so32225509　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225455←前話｜次話→so32225509　第一話→so32225425
   length_seconds: 1440
   content_id: so32225485
   default_thread_id: 1509937469
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225485
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225485/32225485.31171195
 - !ruby/hash:EpisodeHash
   episode_no: Site 05
   title: "「ここが新しい世界なのね」"
@@ -127,12 +127,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225485←前話｜次話→so32225510　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225485←前話｜次話→so32225510　第一話→so32225425
   length_seconds: 1440
   content_id: so32225509
   default_thread_id: 1509938782
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225509
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225509/32225509.56269887
 - !ruby/hash:EpisodeHash
   episode_no: Site 06
   title: "「アンタの方だったんだね」"
@@ -140,12 +140,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225509←前話｜次話→so32225511　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225509←前話｜次話→so32225511　第一話→so32225425
   length_seconds: 1440
   content_id: so32225510
   default_thread_id: 1509938542
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225510
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225510/32225510.5970385
 - !ruby/hash:EpisodeHash
   episode_no: Site 07
   title: "「上映開始」"
@@ -153,12 +153,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225510←前話｜次話→so32225512　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225510←前話｜次話→so32225512　第一話→so32225425
   length_seconds: 1440
   content_id: so32225511
   default_thread_id: 1509938437
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225511
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225511/32225511.8357408
 - !ruby/hash:EpisodeHash
   episode_no: Site 08
   title: "「我々のたどり着いた究極の医療なのだ」"
@@ -166,12 +166,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225511←前話｜次話→so32225513　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225511←前話｜次話→so32225513　第一話→so32225425
   length_seconds: 1440
   content_id: so32225512
   default_thread_id: 1509938453
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225512
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225512/32225512.22885301
 - !ruby/hash:EpisodeHash
   episode_no: Site 09
   title: "｢きっと世界は終わるね｣"
@@ -179,12 +179,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225512←前話｜次話→so32225514　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225512←前話｜次話→so32225514　第一話→so32225425
   length_seconds: 1440
   content_id: so32225513
   default_thread_id: 1509938400
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225513
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225513/32225513.99927019
 - !ruby/hash:EpisodeHash
   episode_no: Site 10
   title: "｢本当のワタシ｣"
@@ -192,12 +192,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225513←前話｜次話→so32225515　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225513←前話｜次話→so32225515　第一話→so32225425
   length_seconds: 1440
   content_id: so32225514
   default_thread_id: 1509938460
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225514
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225514/32225514.58302131
 - !ruby/hash:EpisodeHash
   episode_no: Site 11
   title: "｢大いなる目的のためよ｣"
@@ -205,12 +205,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225514←前話｜次話→so32225516　第一話→so32225425
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225514←前話｜次話→so32225516　第一話→so32225425
   length_seconds: 1440
   content_id: so32225515
   default_thread_id: 1509938464
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225515
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225515/32225515.3900475
 - !ruby/hash:EpisodeHash
   episode_no: One Of The Last
   title: "「オカルティック・ナイン」"
@@ -218,12 +218,12 @@ episodes: !ruby/array:Hashie::Array
     裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
     駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ<br><br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES.
     / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山
-    克／制作:A-1 Pictures／製作:Project OC9<br><br>so32225515←前話　第一話→so32225425"
+    克／制作:A-1 Pictures／製作:Project OC9<br><br>©Project OC9／Chiyo st.inc.<br><br>so32225515←前話　第一話→so32225425"
   length_seconds: 1440
   content_id: so32225516
   default_thread_id: 1509938421
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32225516
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32225516/32225516.2568823
 cast: "[キャスト]<br>我聞悠太:梶 裕貴／成沢稜歌:佐倉綾音／橋上サライ:石川界人／相川実優羽:吉田仁美／澄風桐子:伊藤 静／紅ノ亞里亞:沢城みゆき／日下部吉柳:谷山紀章／西園梨々花:能登麻美子／森塚
   駿:柿原徹也／鬼崎あすな:明坂聡美／和泉公平:津田健次郎／川畑千津:長縄まりあ"
 staff: "[スタッフ]<br>原作:志倉千代丸(オーバーラップ文庫刊)／原作イラスト:pako／監督:イシグロキョウヘイ／シリーズ構成:MAGES. / 森田と純平／キャラクターデザイン:高瀬智章／助監督:黒木美幸／プロップデザイン:道下康太／美術設定:塩澤良憲／美術監督:薄井久代／色彩設計:中島和子／撮影監督:関谷能弘／3Dディレクター:小野竜太／編集:三嶋章紀／音響監督:明田川仁／音楽:横山

@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: Ｍｒ.ペンペン
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/31/6/23316_1_8_8b.png?1579845761000
+outline: ミカの家に突然送り付けられた荷物の中には、人間の言葉をしゃべるペンギンが入っていた！ペンギン王国の王子、ペンペンだと名乗り、人間界で修行するよう王様に言われたのだと言って、勝手に居候になってしまう。だが、何と言っても王子様。態度はデカいし、常識はないし、ミカたち一家は迷惑するばかり。追い出されそうとするたび、ご機嫌を取ろうと見当はずれのことばかりして、かえって大騒動を巻き起こす。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 一龍斎春水
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩屋翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 三ツ矢雄二
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺岳夫
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：金沢比呂司
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：室山まゆみ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：馬場健
+  type: staff
+- !ruby/hash:TagHash
+  name: Ｍｒ.ペンペンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1986年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: ミカの家に突然送り付けられた荷物の中には、人間の言葉をしゃべるペンギンが入っていた！ペンギン王国の王子、ペンペンだと名乗り、人間界で修行するよう王様に言われたのだと言って、勝手に居候になってしまう。だが、何と言っても王子様。態度はデカいし、常識はないし、ミカたち一家は迷惑するばかり。追い出されそうとするたび、ご機嫌を取ろうと見当はずれのことばかりして、かえって大騒動を巻き起こす。<br><br>ペンペン:三ツ矢雄二／ミカちゃん:麻上洋子／イワちゃん:八奈見乗児／フレディー:塩屋
+    翼<br><br>原作:室山 まゆみ／監督:馬場 健／脚本:寺田憲史／作画監督:一川孝久／キャラクターデザイン:金沢比呂司／美術監督:河野次郎／撮影監督:斉藤
+    秋／録音監督:浦上靖夫／音楽:渡辺岳夫<br><br>©室山まゆみ／シンエイ
+  length_seconds: 2868
+  content_id: so36426387
+  default_thread_id: 1582744282
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426387/36426387.33763197
+cast: "[キャスト]<br>ペンペン:三ツ矢雄二／ミカちゃん:麻上洋子／イワちゃん:八奈見乗児／フレディー:塩屋 翼"
+staff: "[スタッフ]<br>原作:室山 まゆみ／監督:馬場 健／脚本:寺田憲史／作画監督:一川孝久／キャラクターデザイン:金沢比呂司／美術監督:河野次郎／撮影監督:斉藤
+  秋／録音監督:浦上靖夫／音楽:渡辺岳夫"
+produced_year: "[製作年]<br>1986年"
+copyright: "©室山まゆみ／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: Ｍｒ.ペンペンⅡ

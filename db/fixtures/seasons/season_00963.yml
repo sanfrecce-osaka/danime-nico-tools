@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 荒木香衣
   type: cast
 - !ruby/hash:TagHash
-  name: 脚本：吉田玲子
+  name: 音楽：有澤孝紀
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：有澤孝紀
+  name: 脚本：吉田玲子
   type: staff
 - !ruby/hash:TagHash
   name: 監督：細田守
@@ -74,5 +74,3 @@ related_seasons: !ruby/array:Hashie::Array
   title: デジモンテイマーズ 暴走デジモン特急
 - !ruby/hash:SeasonHash
   title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
-- !ruby/hash:SeasonHash
-  title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～

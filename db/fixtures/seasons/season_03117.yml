@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: 武装神姫 Episode13 Install x Dream
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/62/4/23624_1_8_8b.png?1583303508000
+outline: "「はーい、それじゃ、これから電流を流しますね～」フロントライン社の定期メンテナンスを受けに来たアン。付き添いのアイネスとレーネが待ちくたびれる中、セクシーナースの身体検査や、ゲップ禁止のバリウムヂェリカンなど、カラダの隅々まで精密に検査されてしまって、もう大変！　ところが、ようやく検査が終わって出てきたアンは、なにやら様子がおかしくて……？　初めての、プログラムされてない胸のざわめきの物語――「Install
+  x Dream 」！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 水島大宙
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：菊地康仁
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：織田哲郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 武装神姫シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: "「はーい、それじゃ、これから電流を流しますね～」フロントライン社の定期メンテナンスを受けに来たアン。付き添いのアイネスとレーネが待ちくたびれる中、セクシーナースの身体検査や、ゲップ禁止のバリウムヂェリカンなど、カラダの隅々まで精密に検査されてしまって、もう大変！　ところが、ようやく検査が終わって出てきたアンは、なにやら様子がおかしくて……？　初めての、プログラムされてない胸のざわめきの物語――「Install
+    x Dream 」！<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島愛／クララ:加藤英美里／理人:水島大宙<br><br>原作:コナミデジタルエンタテインメント／監督:菊地康仁／プロデューサー:田中豪、高取昌史、浦城義明／脚本:横谷昌宏／音楽:織田哲郎／製作会社:エイトビット<br><br>©Konami
+    Digital Entertainment／武装神姫プロジェクト"
+  length_seconds: 1479
+  content_id: so36379503
+  default_thread_id: 1581907689
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36379503/36379503.53244404
+cast: "[キャスト]<br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島愛／クララ:加藤英美里／理人:水島大宙"
+staff: "[スタッフ]<br>原作:コナミデジタルエンタテインメント／監督:菊地康仁／プロデューサー:田中豪、高取昌史、浦城義明／脚本:横谷昌宏／音楽:織田哲郎／製作会社:エイトビット"
+produced_year: "[製作年]<br>2012年"
+copyright: "©Konami Digital Entertainment／武装神姫プロジェクト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 武装神姫

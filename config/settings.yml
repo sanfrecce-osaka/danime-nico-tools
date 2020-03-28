@@ -542,6 +542,121 @@ seasons_including_different_title_episodes:
         nico_branch:
           episode_no: '第五百三十一話'
           title: "PROLOGUE OF ROAD TO  NINJA  (プロローグ　オブ　ロード　トゥ　ニンジャ)"
+  - id: 30
+    title: 'アイカツ！'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第30話'
+          title: '真心のコール&レスポンス'
+        nico_branch:
+          episode_no: '第30話'
+          title: '真心のコール＆レスポンス'
+      - id: 2
+        head:
+          episode_no: '第33話'
+          title: 'チャンス&トライ☆'
+        nico_branch:
+          episode_no: '第33話'
+          title: 'チャンス＆トライ☆'
+  - id: 31
+    title: 'ANISAVA'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '#11～#13'
+          title: "Mother Lovin' Andrew （アンドリューとママ）／WILL'S TESTAMENT（ウィルの記念日）／JAKE & JENNY ONE MORE TIME（ジェイクとジェニーの長い一日）"
+        nico_branch:
+          episode_no: '#11～#13'
+          title: 'Mother Lovin’ Andrew （アンドリューとママ）／WILL’S TESTAMENT（ウィルの記念日）／JAKE ＆ JENNY ONE MORE TIME（ジェイクとジェニーの長い一日）'
+  - id: 32
+    title: 'キテレツ大百科'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第93話'
+          title: '仰天告白! ウチの二階のかわいいポニー'
+        nico_branch:
+          episode_no: '第93話'
+          title: '仰天告白!  ウチの二階のかわいいポニー'
+      - id: 2
+        head:
+          episode_no: '第94話'
+          title: 'どすこい! 犬型神隠し発見器で力士捜し'
+        nico_branch:
+          episode_no: '第94話'
+          title: 'どすこい!  犬型神隠し発見器で力士捜し'
+      - id: 3
+        head:
+          episode_no: '第133話'
+          title: '究極のずる休みグッズ! 仮病マクラ'
+        nico_branch:
+          episode_no: '第133話'
+          title: '究極のずる休みグッズ!  仮病マクラ'
+      - id: 4
+        head:
+          episode_no: '第139話'
+          title: 'のぞかないで!! トンガリの夢の新婚生活'
+        nico_branch:
+          episode_no: '第139話'
+          title: 'のぞかないで!!  トンガリの夢の新婚生活'
+      - id: 5
+        head:
+          episode_no: '第150話'
+          title: '遠足のアイテム! ブタゴリラ七品セット'
+        nico_branch:
+          episode_no: '第150話'
+          title: '遠足のアイテム!  ブタゴリラ七品セット'
+  - id: 33
+    title: 'けろっこデメタン'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第28話'
+          title: 'ひびけ! 愛のケロケロ笛'
+        nico_branch:
+          episode_no: '第28話'
+          title: 'ひびけ!   愛のケロケロ笛'
+  - id: 34
+    title: '逮捕しちゃうぞ SECOND SEASON'
+    episodes:
+      - id: 1
+        head:
+          episode_no: 'FILE.16'
+          title: '正しいメル友の作り方（^<>^：）'
+        nico_branch:
+          episode_no: 'FILE.16'
+          title: '正しいメル友の作り方（^＜＞^：）'
+  - id: 35
+    title: 'ビーストサーガ'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第25話'
+          title: '『悪の神官バンダ&ライズ』'
+        nico_branch:
+          episode_no: '第25話'
+          title: '『悪の神官バンダ＆ライズ』'
+  - id: 36
+    title: 'ライブオン　CARDLIVER翔'
+    episodes:
+      - id: 1
+        head:
+          episode_no: 'LIVE 50'
+          title: '決戦！ 光る黄金の牙！！'
+        nico_branch:
+          episode_no: 'LIVE 50'
+          title: '決戦！  光る黄金の牙！！'
+  - id: 37
+    title: 'RAY THE ANIMATION'
+    episodes:
+      - id: 1
+        head:
+          episode_no: '第13話'
+          title: '｢命｣<最終話>'
+        nico_branch:
+          episode_no: '第13話'
+          title: '｢命｣＜最終話＞'
 
 seasons_with_different_title:
   -
@@ -568,3 +683,9 @@ seasons_with_different_title:
     different_titles:
       lineup:
       episode: '血界戦線 ＆ BEYOND'
+  -
+    id: 5
+    title: 'ひなろじ ～from Luck & Logic～'
+    different_titles:
+      lineup:
+      episode: 'ひなろじ ～from Luck ＆ Logic～'

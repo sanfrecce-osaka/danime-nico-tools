@@ -1,0 +1,639 @@
+--- !ruby/hash:SeasonHash
+title: アイカツ！（3rdシーズン）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/99/3/21993_1_8_8b.png?1551353099000
+outline: 個性豊かなアイドルたちが、活躍しているアイカツ！の世界！ 中でも『スターライト学園』の星宮いちご、霧矢あおい、紫吹蘭は、切磋琢磨しながら成長し、いまやあらゆる場所で才能を発揮するアイドルとなった。そんな華やかな先輩たちに憧れる新人アイドル??『スターライト学園』の大空あかり。これからあかりを待ち受けるのは、新しい仲間やライバルとの出会い、そして様々なピンチとチャンス！
+  今ここに、あかりの汗と涙のアイカツ！がスタートする！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 石川由依
+  type: cast
+- !ruby/hash:TagHash
+  name: 諸星すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 下地紫野
+  type: cast
+- !ruby/hash:TagHash
+  name: 和久井優
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：MONACA
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村隆一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：やぐちひろこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サンライズ
+  type: staff
+- !ruby/hash:TagHash
+  name: アイカツ！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 2012年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第102話
+  title: アイカツしよう☆Ready Go!!
+  description: アイカツ！に励むある日、あかりは一人の美少女に出会う。この美少女が持つタロットカードによると、あかりにもたらされる運命は、「アクシデントの到来」や「別れ」。一体、これからあかりに何が起こるというのか…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>次話→so36194987
+  length_seconds: 1472
+  content_id: so36194986
+  default_thread_id: 1578380834
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194986/36194986.60500516
+- !ruby/hash:EpisodeHash
+  episode_no: 第103話
+  title: いいこと占い
+  description: あかりの先輩・星宮いちごの1日マネージャーをすることになった、スターライト学園の中学1年生・氷上スミレ。それを羨ましがるあかりも、いちごの計らいで同行できることに。いちごの仕事ぶりを見せてもらい、大喜びのあかり。しかし一方、スミレはなぜか不安顔で…。<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194986←前話｜次話→so36194988　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194987
+  default_thread_id: 1578381309
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194987/36194987.3392792
+- !ruby/hash:EpisodeHash
+  episode_no: 第104話
+  title: アイカツダッシュ！
+  description: スターライト学園の大空あかりは、ポンポンクレープガールオーディションを受けることになりやる気満々。そんなあかりは、同学年のアイドル新条ひなきと知り合う。あかりに興味津々なひなきは、子役時代から芸能界で活躍するしっかり者。あかりとひなきは、ポンポンクレープガールオーディションで対決することになった。<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194987←前話｜次話→so36194989　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194988
+  default_thread_id: 1578380830
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194988/36194988.62099232
+- !ruby/hash:EpisodeHash
+  episode_no: 第105話
+  title: はじけるヒラメキ☆
+  description: 一生懸命アイカツ！を頑張るあかりを、眩しそうに見つめるひなき。ひなきは、芸歴こそあるものの、ある大きな悩みを抱えているらしい。意外に思うあかりだったが、どうやらひなきの悩みには、過去の失敗が関係しているようで…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194988←前話｜次話→so36194991　第一話→so36194986
+  length_seconds: 1473
+  content_id: so36194989
+  default_thread_id: 1578380828
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194989/36194989.47992609
+- !ruby/hash:EpisodeHash
+  episode_no: 第106話
+  title: アイドル☆ハロウィン
+  description: スターライト学園のハロウィンイベントで、スペシャルライブが開催されるという。しかし、そのステージに上がれるのはお菓子を一番多くもらえたアイドルのみ。というわけで、可愛い仮装をしたアイドルたちのお菓子争奪戦がスタートする！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194989←前話｜次話→so36194992　第一話→so36194986
+  length_seconds: 1473
+  content_id: so36194991
+  default_thread_id: 1578381313
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194991/36194991.45880747
+- !ruby/hash:EpisodeHash
+  episode_no: 第107話
+  title: 2人のドリーマー
+  description: 先輩の霧矢あおいの「アイドルにはハズせないステージというものがあり、それはいつやって来るかわからない」という言葉に、身を引き締めるあかりたち。すると、なんとあかりに単独ステージの話が舞い込んでくる。あかりは喜びつつ、そのステージでプレミアムドレスを着たいと思い至るが…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194991←前話｜次話→so36194993　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194992
+  default_thread_id: 1578381306
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194992/36194992.89990000
+- !ruby/hash:EpisodeHash
+  episode_no: 第108話
+  title: 想いはリンゴにこめて
+  description: スターライト学園の氷上スミレはロリゴシックが大好きで、プレミアムドレスに憧れを抱くようになった。しかし、プレミアムドレスはデザイナーに認めてもらわねば手に入れることはできない。果たしてスミレは、ロリゴシックのデザイナー、夢小路魔夜の試練を乗り越えることができるのか…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194992←前話｜次話→so36194994　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194993
+  default_thread_id: 1578380826
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194993/36194993.73429301
+- !ruby/hash:EpisodeHash
+  episode_no: 第109話
+  title: アイカツのアツい風！
+  description: 新ドラマ『アイカツ先生』のオーディションの話が舞い込み、スターライト学園の大空あかり達はやる気満々。そんな中、突然現れた一人のアイドルが、スターライト学園にアツい風を巻き起こす――！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194993←前話｜次話→so36194995　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194994
+  default_thread_id: 1578380832
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194994/36194994.82416474
+- !ruby/hash:EpisodeHash
+  episode_no: 第110話
+  title: 情熱のサングリアロッサ
+  description: アツいアイドル・紅林珠璃が、なぜだか「寒い」。アツさを取り戻すためには、大好きなブランド『サングリアロッサ』のプレミアムドレスを着るしかないと、デザイナーの元に訪れる珠璃だが…?!<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194994←前話｜次話→so36194996　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194995
+  default_thread_id: 1578381311
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194995/36194995.74012126
+- !ruby/hash:EpisodeHash
+  episode_no: 第111話
+  title: ディア マイ ファン！
+  description: 大空あかりと氷上スミレが、合同で握手会を開催できることに。初めての握手会を楽しみする一方で、どうやってファンの人と触れ合えば良いか分からない2人。ひなきとの特訓や、先輩の霧矢あおいのアドバイスを受け、2人が行きついた答えとは…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194995←前話｜次話→so36194997　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194996
+  default_thread_id: 1578380823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194996/36194996.48267956
+- !ruby/hash:EpisodeHash
+  episode_no: 第112話
+  title: GOGO！いちご応援隊
+  description: 星宮いちご単独スペシャルライブ『大スター宮いちご祭り』の開催が発表され、アイカツ界は大盛り上がり。そんな中、なんとあかりがプロモーションの盛り上げ役に任命されて――！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194996←前話｜次話→so36195029　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36194997
+  default_thread_id: 1578381303
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194997/36194997.89749431
+- !ruby/hash:EpisodeHash
+  episode_no: 第113話
+  title: オシャレ☆ヴィヴィッドガール
+  description: "『スターライト学園クリスマスパーティ』の『アイカツ！クリスマスステージ』に出演することになった大空あかり、氷上スミレ、新条ひなき。ひなきは、このステージのためにヴィヴィッドキスのプレミアムレアドレスをゲットしようと意気込むが…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36194997←前話｜次話→so36195030　第一話→so36194986"
+  length_seconds: 1472
+  content_id: so36195029
+  default_thread_id: 1578381728
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195029/36195029.79140916
+- !ruby/hash:EpisodeHash
+  episode_no: 第114話
+  title: ハッピーツリークリスマス☆
+  description: "『スターライト学園クリスマスパーティ』当日。あかり達アイドルは、楽しいパーティにしようと準備に励んでいた。そんな中、アツいアイドル・紅林珠璃から、クリスマスには欠かせないあるモノについて“むちゃぶり”が。やる気満々のあかりが向かった先とは…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195029←前話｜次話→so36195031　第一話→so36194986"
+  length_seconds: 1472
+  content_id: so36195030
+  default_thread_id: 1578381723
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195030/36195030.82270173
+- !ruby/hash:EpisodeHash
+  episode_no: 第115話
+  title: ほっこり☆和正月
+  description: 珠璃は、新年早々ファッションショーの仕事が入っているため、学園の寮に一人で残るという。そんな珠璃を、あかりは一緒にお正月を過ごさないかと誘う。あかり家で楽しくお正月を過ごしつつ、珠璃が知った、あかりの秘めたるアツさのヒミツとは…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195030←前話｜次話→so36195032　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195031
+  default_thread_id: 1578381732
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195031/36195031.87735655
+- !ruby/hash:EpisodeHash
+  episode_no: 第116話
+  title: 大空JUMP!!
+  description: 年も明け新学期が始まったとあって、スターライト学園の大空あかりは、今年の目標を決めようと意気込む。やってみたいアイカツ！はあるものの、自分の得意なことはなんだろう…？
+    答えが出ないあかりのもとに、『お天気キャスター』オーディションの話が舞い込んで…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195031←前話｜次話→so36195033　第一話→so36194986
+  length_seconds: 1473
+  content_id: so36195032
+  default_thread_id: 1578381725
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195032/36195032.14906740
+- !ruby/hash:EpisodeHash
+  episode_no: 第117話
+  title: 歌声はスミレ色
+  description: スターライト学園の氷上スミレも、あかりと同じく自分の得意なことについて模索していた。ある日、違うジャンルのオーディションが重なり、どちらを選べば良いのか悩んでしまうスミレ。『どんなアイドルになるか』、スミレが出した答えとは…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195032←前話｜次話→so36195054　第一話→so36194986
+  length_seconds: 1473
+  content_id: so36195033
+  default_thread_id: 1578381733
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195033/36195033.31598834
+- !ruby/hash:EpisodeHash
+  episode_no: 第118話
+  title: みやびなアイカツ！
+  description: 交換留学アイドルとして、京都の姫桜女学院からスターライト学園にやってきた藤原みやび。容姿端麗で特技は薙刀と、まさに大和撫子。そんな彼女にスターライトのアイドルたちは興味津々だが、どうやらみやびは大きな悩みを抱えているようで…。<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195033←前話｜次話→so36195055　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195054
+  default_thread_id: 1578382024
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195054/36195054.27851184
+- !ruby/hash:EpisodeHash
+  episode_no: 第119話
+  title: ナデシコの舞い！
+  description: スターライト学園に交換留学中の藤原みやびは、ファンの少女からの相談に頭を悩ませていた。どうにか解決してあげたいと頑張るも、いいアドバイスが見つからない。そんな中みやびは、スターライトの北大路さくらと共に『ヤマトナデシコ・アイドルフェス』に出演することになり…！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195054←前話｜次話→so36195056　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195055
+  default_thread_id: 1578382449
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195055/36195055.3648762
+- !ruby/hash:EpisodeHash
+  episode_no: 第120話
+  title: スター☆バレンタイン
+  description: バレンタインの季節になり、沢山のチョコが届いているスターライト学園。織姫学園長の発案で、今年から新しいイベントが開催されるらしい。その名も、「サンクスバレンタインパーティー」。シェフの四ツ葉春と共に、アイドルたちが作り上げるものとは…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195055←前話｜次話→so36195057　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195056
+  default_thread_id: 1578382451
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195056/36195056.58661925
+- !ruby/hash:EpisodeHash
+  episode_no: 第121話
+  title: 未来に約束！
+  description: 京都のアイドル学校・姫桜女学園からの交換留学アイドル、藤原みやびが京都へ帰ってしまう日が近づいてきた。最終日に行うスペシャルステージで、みやびはあるアイドルと対決したいという…。果たして、みやびが選んだ対決相手とは…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195056←前話｜次話→so36195058　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195057
+  default_thread_id: 1578382443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195057/36195057.99111922
+- !ruby/hash:EpisodeHash
+  episode_no: 第122話
+  title: ヴァンパイアミステリー
+  description: スターライト学園の大空あかりたちは、自分たちが出演したドラマ、『ヴァンパイアミステリー』を鑑賞することに。それは、スターライト学園で起きる恐ろしい事件のお話。その事件の裏には、美しいヴァンパイアが…？
+    あかり演じる、あかりサンシャインは、果たしてスターライトの平和を取り戻すことが出来るのか!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195057←前話｜次話→so36195059　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195058
+  default_thread_id: 1578381965
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195058/36195058.27269103
+- !ruby/hash:EpisodeHash
+  episode_no: 第123話
+  title: 春のブーケ
+  description: ドリーミークラウンのデザイナー瀬名翼は、次なるプレミアムドレスの制作を進めているという。その話を聞いたあかりは、「自分が着られたらいいな」と楽しみにしていた。だが瀬名が着てほしいと願うアイドルは、あかりではない別のアイドルのようで…！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195058←前話｜次話→so36195060　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195059
+  default_thread_id: 1578382025
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195059/36195059.74418887
+- !ruby/hash:EpisodeHash
+  episode_no: 第124話
+  title: クイーンの花
+  description: スターライト学園の織姫学園長から、アイドルたちにビッグニュースが発表される。なんとこの春、学園のトップを決める『スターライトクイーンカップ』を開催するという。大空あかりも出場を決意し、いつにも増して激しい特訓を開始する。果たして、今回のスターライトクイーンの座は、一体誰の手に…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195059←前話｜次話→so36195090　第一話→so36194986
+  length_seconds: 1473
+  content_id: so36195060
+  default_thread_id: 1578382445
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195060/36195060.5936670
+- !ruby/hash:EpisodeHash
+  episode_no: 第125話
+  title: あこがれの向こう側
+  description: 星宮いちご、霧矢あおい、紫吹蘭のユニット、ソレイユが、この春からの全国ツアー敢行を大発表！ あかり達はもちろんのこと、アイカツ界は大盛り上がり。しかしソレイユは、全国ツアーはもっと大きな夢への入り口だという。その大きな夢とは、一体…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195060←前話｜次話→so36195091　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195090
+  default_thread_id: 1578382818
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195090/36195090.15443365
+- !ruby/hash:EpisodeHash
+  episode_no: 第126話
+  title: ぽっかぽか♪オフタイム
+  description: 大空あかり、氷上スミレ、新条ひなきは、久しぶりの三人一緒のオフに大喜び。どこへ行こうか色々と考えた末、山の中にある湖・ドリーミーレイクで日帰りキャンプしよう！ということに。楽しくてぽぽかなオフタイムを過ごす中で、三人が気づいたある事とは…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195090←前話｜次話→so36195092　第一話→so36194986
+  length_seconds: 1472
+  content_id: so36195091
+  default_thread_id: 1578382812
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195091/36195091.96905055
+- !ruby/hash:EpisodeHash
+  episode_no: 第127話
+  title: 星空エントランス☆
+  description: この春、あかり達は中学二年生に！ そして今日はスターライト学園の入学式。可愛い新入生が沢山いる中、ひときわ目立っているのは、『踊るイナズマ』の異名を持つ黒沢凜と、ふんわり笑顔が超絶に可愛い天羽まどか。新たな仲間が加わり、先輩になったあかり達のアイカツ！も、アツくなりそうな予感で――！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195091←前話｜次話→so36195093　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195092
+  default_thread_id: 1578382623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195092/36195092.88489573
+- !ruby/hash:EpisodeHash
+  episode_no: 第128話
+  title: 夢のショータイム
+  description: "『踊るイナズマ』こと、ダンスが得意な新入生・黒沢凛に、入学早々ステージのオファーが舞い込んだ。自分至上最高のステージにしたいと意気込む凛は、ぜひとも「ダンス・フュージョン」のプレミアムドレスが着たいという。そしてそのブランドのトップデザイナーは、なんとジョニーの元パートナーで…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195092←前話｜次話→so36195094　第一話→so36194986"
+  length_seconds: 1468
+  content_id: so36195093
+  default_thread_id: 1578382808
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195093/36195093.84294881
+- !ruby/hash:EpisodeHash
+  episode_no: 第129話
+  title: トークの花道
+  description: スターライト学園の大空あかり、氷上スミレ、新条ひなきは、超有名なトーク番組『踊る！まぐろ御殿』に出演することになった。大喜びの3人だったが、司会者のまぐろさんは“トークの鬼”だと呼ばれていることを知り、一気に不安になってしまう。3人は、この大きなチャンスをモノにすることができるのか…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195093←前話｜次話→so36195095　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195094
+  default_thread_id: 1578382820
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195094/36195094.91225758
+- !ruby/hash:EpisodeHash
+  episode_no: 第130話
+  title: ユニットの魔法
+  description: スミレのソロデビューCD『タルト・タタン』の売り上げが好調ということで、なんとセカンドシングルの発売が決定となった。そして織姫学園長曰く、このCDはユニットでリリースさせたいという。果たして、スミレが選ぶユニットの相手とは…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195094←前話｜次話→so36195096　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195095
+  default_thread_id: 1578382803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195095/36195095.12318314
+- !ruby/hash:EpisodeHash
+  episode_no: 第131話
+  title: 輝きのダンシングディーヴァ
+  description: スミレのユニット『ダンシングディーヴァ』は、CMタイアップやサイン会など、次々と大きな仕事をこなし、ユニットお披露目ライブも行われることになった。果たして、この記念すべきイベントを、彼女たちは成功させることが出来るのか…！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195095←前話｜次話→so36195097　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195096
+  default_thread_id: 1578382810
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195096/36195096.17796705
+- !ruby/hash:EpisodeHash
+  episode_no: 第132話
+  title: 灼熱の情熱ハラペーニョ！
+  description: スミレがユニットを組んだことに影響され、紅林珠璃もユニットを組むためパートナーを探し始める。珠璃のアツい情熱を感じたあかりたちは、パートナー探しを手伝うことに。選挙運動さながらに色々なアイドルに声をかける珠璃だったが、ふと、あかりがあることを思いつく。<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195096←前話｜次話→so36195100　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195097
+  default_thread_id: 1578383225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195097/36195097.63779328
+- !ruby/hash:EpisodeHash
+  episode_no: 第133話
+  title: ハローニューワールド
+  description: スターライト学園の天羽まどかの元に『新人アイドルスーパーライブ』出演のオファーが舞い込む。まどかは、おばあちゃんがデザイナーを務める「エンジェリーシュガー」のプレミアムドレスを着たいと思いながらも、なぜか「おばあちゃんには頼めない」と言い出して…。<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195097←前話｜次話→so36195101　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195100
+  default_thread_id: 1578382816
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195100/36195100.10526957
+- !ruby/hash:EpisodeHash
+  episode_no: 第134話
+  title: おもわずスキップス♪
+  description: スターライト学園の氷上スミレと黒沢凛のユニット『ダンシングディーヴァ』の活躍は、まさに飛ぶ鳥を落とす勢い。まどかは、そんな2人を間近で見ているうちに、「お互いを輝かせ合うユニットはステキ」と憧れを持ち始める。そして、何かを思い立ったまどかが向かった先とは…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195100←前話｜次話→so36195102　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195101
+  default_thread_id: 1578382863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195101/36195101.85272669
+- !ruby/hash:EpisodeHash
+  episode_no: 第135話
+  title: 世界の中心はここね！
+  description: 神戸のアイドル学校・エトワール学院から、スターライト学園に交換留学アイドルがやってきた！ 彼女の名前は、栗栖ここね。地元神戸の大人気アイドルである彼女が、スターライトに強烈な風を巻き起こす！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195101←前話｜次話→so36195139　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195102
+  default_thread_id: 1578382814
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195102/36195102.76976677
+- !ruby/hash:EpisodeHash
+  episode_no: 第136話
+  title: その名も、あまふわ☆なでしこ
+  description: スターライト学園中等部の生徒であればだれでも参加できる、『ユニットカップ』の開催が発表された。この面白そうなイベントに、交換留学アイドルである栗栖ここねも出場する気満々。そんな彼女が、パートナーに選んだ相手は意外な人物だった…！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195102←前話｜次話→so36195140　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195139
+  default_thread_id: 1578383709
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195139/36195139.68351759
+- !ruby/hash:EpisodeHash
+  episode_no: 第137話
+  title: ワクワク☆ユニットカップ
+  description: ユニットカップへの出場が決まり、やる気満々のユニット8組。今回は、アイドル同士が舞台裏の素顔をレポートし合う、このイベントならではのコーナーもあるという。アイドルたちがいつにも増してアツくぶつかり合う!?
+    今ここに、ユニットカップが幕を開ける！<br><br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195139←前話｜次話→so36195141　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195140
+  default_thread_id: 1578383703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195140/36195140.83572331
+- !ruby/hash:EpisodeHash
+  episode_no: 第138話
+  title: 素顔の輝き☆
+  description: ユニットカップ中に、大空あかりに降りかかったまさかのハプニング！それを乗り越えようと奮闘するあかりだが、刻々とあかりとまどかのユニット『スキップス』の出番は近づいて来て…！
+    果たして、スキップスはステージを成功させることはできるのか…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195140←前話｜次話→so36195142　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195141
+  default_thread_id: 1578383705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195141/36195141.96484757
+- !ruby/hash:EpisodeHash
+  episode_no: 第139話
+  title: ジョニーと花嫁
+  description: 6月といえばジューンブライド！と、結婚式への憧れを語り合う中、あかりとスミレにウェディングコレクションのステージオファーが舞い込む。そしてジョニーにも、なんと「一生に一度の大事な日」が近づいているという…！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195141←前話｜次話→so36195143　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195142
+  default_thread_id: 1578383711
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195142/36195142.36754444
+- !ruby/hash:EpisodeHash
+  episode_no: 第140話
+  title: アイカツレストラン
+  description: 大空あかりや氷上スミレらが初共演する舞台が開幕！ その記念すべき作品のタイトルは、『アイカツレストラン』。潰れかけのレストランを舞台に、あかりら扮する個性派キャラが繰り広げる感動（？）ストーリーとは…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195142←前話｜次話→so36195144　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195143
+  default_thread_id: 1578383224
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195143/36195143.67873009
+- !ruby/hash:EpisodeHash
+  episode_no: 第141話
+  title: ホットスパイシー・ガールズ！
+  description: 紅林珠璃と新条ひなきのユニット『情熱★ハラペーニョ』に、『世界激辛フェス』の仕事が舞い込んだ！ メキシコブースのイメージガールを務めることになり、持ち前のアツさと刺激的なアイディアで、会場を盛り上げる2人――！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195143←前話｜次話→so36195176　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195144
+  default_thread_id: 1578383707
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195144/36195144.50078143
+- !ruby/hash:EpisodeHash
+  episode_no: 第142話
+  title: ありがとうが言いたくて
+  description: スターライト学園にやってきた交換留学アイドル・栗栖ここねが、神戸に帰ってしまう日が近づいてきた。大空あかりは、「ここねちゃんを送る会」実行委員長として意気込むが、肝心のここねは「送られたりなんかしない」と言い始めてしまって…。<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195144←前話｜次話→so36195177　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195176
+  default_thread_id: 1578384208
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195176/36195176.46959335
+- !ruby/hash:EpisodeHash
+  episode_no: 第143話
+  title: 戦慄!?サマーアイランド
+  description: 織姫学園長のはからいで、みんな一緒に夏休みが取れたと喜ぶあかりたち。悩んだ末、無人島のビーチへ遊びに行こうということになる。無人島に到着し、綺麗な海や青い空を満喫する一同。だがそんな彼女たちに、『無人島原人チュパチュパチュルボメガ』が襲いかかる…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195176←前話｜次話→so36195178　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195177
+  default_thread_id: 1578384206
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195177/36195177.23455293
+- !ruby/hash:EpisodeHash
+  episode_no: 第144話
+  title: ドッキリアイドル大作戦！
+  description: スターライト学園の氷上スミレをターゲットにしたドッキリ番組、『スミレちゃんビックリドッキリ作戦』の制作が決定！ スミレにドッキリを仕掛けるのは、友人である大空あかりと新条ひなき。あの手この手で、スミレをドッキリさせようと奮闘する2人だが…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195177←前話｜次話→so36195179　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195178
+  default_thread_id: 1578384363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195178/36195178.93427415
+- !ruby/hash:EpisodeHash
+  episode_no: 第145話
+  title: アツい夏祭り
+  description: スターライト学園の黒沢凛と天羽まどかは、浴衣を着て夏祭りに行くとあってルンルン気分。先輩の紅林珠璃とともに、金魚すくいをしたり屋台のスイーツを食べたりして、夏祭りを楽しんでいると、珠璃のアイカツフォンに「デート相手」なる人物から電話がかかって来て…！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195178←前話｜次話→so36195181　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195179
+  default_thread_id: 1578384204
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195179/36195179.55754041
+- !ruby/hash:EpisodeHash
+  episode_no: 第146話
+  title: もういちど三人で
+  description: 人気アイドルのトップ8人が決まる、『アイカツ8大投票』の結果がついに発表されることに！ 今年は誰が選ばれるのか？ そして、新たな世代のアイドルは選ばれるのか？
+    アイカツ界を牽引するアツいアイドルたちが、今ここに並び立つ――！<br><br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195179←前話｜次話→so36195183　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195181
+  default_thread_id: 1578384191
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195181/36195181.63044189
+- !ruby/hash:EpisodeHash
+  episode_no: 第147話
+  title: 輝きのルミナス
+  description: 星宮いちご、霧矢あおい、紫吹蘭のユニット、ソレイユから開催が発表された『大スターライト学園祭』。その参加条件は、3人組のユニットであること。大空あかりはすぐに、氷上スミレと新条ひなきの2人を誘うのだが…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195181←前話｜次話→so36195184　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195183
+  default_thread_id: 1578384192
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195183/36195183.2971619
+- !ruby/hash:EpisodeHash
+  episode_no: 第148話
+  title: 開幕、大スターライト学園祭☆
+  description: 有栖川おとめ、北大路さくら、神谷しおんのユニット、ぽわぽわプリリンが、『大スターライト学園祭』に出演するという。だがなんと、しおんの初主演映画の撮影日がステージの日と重なってしまった！
+    心配するおとめとさくらに、しおんは「ステージには必ず立つ」と言い切るが…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195183←前話｜次話→so36195185　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195184
+  default_thread_id: 1578384183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195184/36195184.24829372
+- !ruby/hash:EpisodeHash
+  episode_no: 第149話
+  title: ふぞろいのカラーたち
+  description: 黒沢凛と天羽まどかも『大スターライト学園祭』出演のため、3人組ユニットを結成しようと決意する。「あと一人は、あの人しかいない！」と見初めたのは、スターライト学園一、アツいあの人。ステキなユニットになるに違いないと、やる気満々の3人だが…!?<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195184←前話｜次話→so36195186　第一話→so36194986
+  length_seconds: 1468
+  content_id: so36195185
+  default_thread_id: 1578384188
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195185/36195185.54292565
+- !ruby/hash:EpisodeHash
+  episode_no: 第150話
+  title: 星の絆
+  description: "『大スターライト学園祭』に出演しようと意気込むスターライト学園のアイドル、一ノ瀬かえで。彼女は、共に学園祭へ出ようと、吸血鬼アイドル・藤堂ユリカを誘う。かえでがユリカに声をかけた理由はただ一つ。それに気づき、心が揺れるユリカだったが…？<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195185←前話｜次話→so36195187　第一話→so36194986"
+  length_seconds: 1468
+  content_id: so36195186
+  default_thread_id: 1578384200
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195186/36195186.60073355
+- !ruby/hash:EpisodeHash
+  episode_no: 第151話
+  title: ステージの光
+  description: "『大スターライト学園祭』最終日の出演アイドルが発表される。そのユニットとは、大空あかり、氷上スミレ、新条ひなきのルミナスと、星宮いちご、霧矢あおい、紫吹蘭のソレイユ。憧れの存在であるソレイユと競うステージに、あかりは今までとは違う想いを抱く自分に気付いて…。<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195186←前話｜次話→so36195188　第一話→so36194986"
+  length_seconds: 1468
+  content_id: so36195187
+  default_thread_id: 1578384196
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195187/36195187.79924676
+- !ruby/hash:EpisodeHash
+  episode_no: 第152話
+  title: 出会いに続く道
+  description: "『大スターライト学園祭』という大きなイベントが終了し、これからの目標について考えるルミナスの三人は、“出会い”の大切さに改めて気づく。そんな彼女たちは、自分たちのアイカツ！を広げる、壮大なチャレンジを決意する――！<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／星宮いちご:諸星すみれ<br><br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195187←前話　第一話→so36194986"
+  length_seconds: 1468
+  content_id: so36195188
+  default_thread_id: 1578384202
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195188/36195188.27218068
+cast: "[キャスト]<br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／星宮いちご:諸星すみれ"
+staff: "[スタッフ]<br>企画・原作:サンライズ／原案:バンダイ／監督:木村隆一／シリーズ構成:加藤陽一／キャラクターデザイン:やぐちひろこ／音響監督:菊田浩巳／音楽:MONACA／制作:サンライズ"
+produced_year: "[製作年]<br>2014年"
+copyright: "©BNP/BANDAI, DENTSU, TV TOKYO"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（4thシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツフレンズ！
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+- !ruby/hash:SeasonHash
+  title: アイカツ！～ねらわれた魔法のアイカツ！カード～
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツスターズ！

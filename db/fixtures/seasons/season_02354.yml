@@ -17,13 +17,13 @@ tags: !ruby/array:Hashie::Array
   name: 鳥海浩輔
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
-  type: cast
-- !ruby/hash:TagHash
   name: 柿原徹也
   type: cast
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 前野智昭
+  type: cast
+- !ruby/hash:TagHash
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
   name: 逢坂良太
@@ -32,7 +32,7 @@ tags: !ruby/array:Hashie::Array
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 森久保祥太郎
@@ -41,7 +41,7 @@ tags: !ruby/array:Hashie::Array
   name: 石川界人
   type: cast
 - !ruby/hash:TagHash
-  name: 村瀬歩
+  name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
   name: 音楽：加藤達也

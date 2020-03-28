@@ -1,0 +1,186 @@
+--- !ruby/hash:SeasonHash
+title: 通霊姫
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/22/2/23222_1_8_8b.png?1579593683000
+outline: 妹の代わりに主人公・夜王に嫁ぐことになったヒロイン・千雲兮。最初はお互い苦手意識があったものの、やがて両思いになるまでの物語です。宮廷の権力争いや派閥勢力の暗闘などが、絡みゆく二人の関係にさらなる波乱を呼び込み、誤解をのりこえ芽生えてゆく恋心がロマンを奏でる･･･。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 監督：李豪凌
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: ''
+  description: 姉妹の千雲裳（センウシャン）に代わって、夜王府（ヤオウフ）に嫁いだ千雲兮（センウキ）が夜王から冷遇を受けて、清幽閣（セイユウガク）に蔵入りされた。変装して夜中に食べ物を探しに行く途中に夜王と遭遇…<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>次話→so36294599
+  length_seconds: 1258
+  content_id: so36294587
+  default_thread_id: 1580349747
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294587/36294587.4115549
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: ''
+  description: ブランコで遊んでいた雲兮が玉子墨（ギョクシボク）と出会い、また調馬場にて玄月魄（ゲンゲツハク）と初対面した。さらに、夜に清幽閣に帰ったら、霊であるごまちゃんとも遭遇した…<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294587←前話｜次話→so36294598　第一話→so36294587
+  length_seconds: 1151
+  content_id: so36294599
+  default_thread_id: 1580349725
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294599/36294599.28885389
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: ''
+  description: 男装した雲兮が町に出たら、泥棒の被害に受けた南晴婉（ナンセイエン）を助けた。それを目にした夜幽冥（ヤユウメイ）は千雲兮が先日の夜中に遭遇した刺客と気付き、二人が少し腕を交わした後、雲兮が逃げ切った。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294599←前話｜次話→so36294597　第一話→so36294587
+  length_seconds: 1109
+  content_id: so36294598
+  default_thread_id: 1580349745
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294598/36294598.37597501
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: ''
+  description: 酒楼で食事する雲兮が太子と揉めたあげくに喧嘩となり、2階から落ちた雲兮が酒楼に入りかけた夜幽冥に引き受け、助けてもらった。落下の影響で髪を散り、女子である身分がバレてしまった。その後、雲兮は玉子墨に連れ去られ、また玉王府で太子に拉致された。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294598←前話｜次話→so36294596　第一話→so36294587
+  length_seconds: 1106
+  content_id: so36294597
+  default_thread_id: 1580349741
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294597/36294597.91533040
+- !ruby/hash:EpisodeHash
+  episode_no: "#5"
+  title: ''
+  description: 夜幽冥は雲兮が自分の嫁であることを知り、玉子墨と一緒に太子府まで雲兮を迎えに行った。ただ、その時、雲兮はすでに自力で脱出し、実家の丞相府に向かっている。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294597←前話｜次話→so36294595　第一話→so36294587
+  length_seconds: 1108
+  content_id: so36294596
+  default_thread_id: 1580349735
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294596/36294596.60185090
+- !ruby/hash:EpisodeHash
+  episode_no: "#6"
+  title: ''
+  description: 丞相府では、貴客である北堂烈（ホクドウレツ）を盛大に招待する中、雲兮は侍女に装って宴会に潜み込んだ。北堂烈は影で雲兮のことを観察していた。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294596←前話｜次話→so36294594　第一話→so36294587
+  length_seconds: 1212
+  content_id: so36294595
+  default_thread_id: 1580349743
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294595/36294595.28290378
+- !ruby/hash:EpisodeHash
+  episode_no: "#7"
+  title: ''
+  description: 雲兮が丞相府で雲裳とばったり会って、二人は口喧嘩をしたところに、千傲天と奥様が現れた。雲裳は猫を被って、自分が雲兮にいじめられたと嘘をついた。それを聞き、千傲天は雲兮に杖刑を下す瀬戸際に、夜幽冥が駆けつき、雲兮を助けた。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294595←前話｜次話→so36294593　第一話→so36294587
+  length_seconds: 1088
+  content_id: so36294594
+  default_thread_id: 1580349729
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294594/36294594.84657550
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: ''
+  description: 雲兮は侍女である雀と王府内ではしゃいでたところに、以前夜幽冥に可愛がっていた妾である楚嬌児が喧嘩を売りに駆けつけてきた。双方が膠着していた時に、夜幽冥と玄月魄が仲裁に入った。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294594←前話｜次話→so36294592　第一話→so36294587
+  length_seconds: 1175
+  content_id: so36294593
+  default_thread_id: 1580349727
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294593/36294593.59751515
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: ''
+  description: 夜幽冥が千雲兮を連れて、藍霜姫の誕生日祝宴に参加した。夜王府が進呈したプレゼントに雲兮の分が入ってなかったことに、千夫人から難癖を付けられた、空気がピリピリとなった。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294593←前話｜次話→so36294552　第一話→so36294587
+  length_seconds: 1108
+  content_id: so36294592
+  default_thread_id: 1580349740
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294592/36294592.43122622
+- !ruby/hash:EpisodeHash
+  episode_no: "#10"
+  title: ''
+  description: 雲兮は花の精霊と出会った、精霊の力を借りて、藍霜姫への誕生日プレゼントを貴重な花輪にした。雨の影響で、宴会はやむを得ない中止になった。雲兮が石と長い布を使って、雨宿りできる屋上を作り、宴会を再開した。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294592←前話｜次話→so36294553　第一話→so36294587
+  length_seconds: 1099
+  content_id: so36294552
+  default_thread_id: 1580348288
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294552/36294552.70880511
+- !ruby/hash:EpisodeHash
+  episode_no: "#11"
+  title: ''
+  description: 雲兮は清幽閣で藍霜姫からもらった鞭を試しながら夜幽冥の愚痴を言っていたら、通りすがりの夜幽冥の耳に入った。夜幽冥はそれを機に罰と言い聞かせ、雲兮に柴刈りや水を満タンまでに汲むことを命じた。楚嬌児（ソキョウジ）と他の侍妃達は風の噂で崇徳殿に集まってきた。夜幽冥が雲兮と口論した。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294552←前話｜次話→so36294591　第一話→so36294587
+  length_seconds: 1110
+  content_id: so36294553
+  default_thread_id: 1580348290
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294553/36294553.29289430
+- !ruby/hash:EpisodeHash
+  episode_no: "#12"
+  title: ''
+  description: 夜幽冥は雲兮を自分に仕えるように命じた。雲兮は庭で樹の妖精慕青（ボショウ）、杏樹仙人と出会い、枯れ尽きた清幽閣を再び春にめぐった。楚嬌児はこの件を聞き、侍女に一番有名な道士を呼んでもらうように命じた。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294553←前話｜次話→so36294590　第一話→so36294587
+  length_seconds: 1113
+  content_id: so36294591
+  default_thread_id: 1580349731
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294591/36294591.35777828
+- !ruby/hash:EpisodeHash
+  episode_no: "#13"
+  title: ''
+  description: もっちゃんに頼まれて、夜幽冥が持つある指輪を探すため、雲兮は夜幽冥の部屋と身回りを近づいて捜索をし始めた。夜幽冥は強引に雲兮をキスし、その後、雲兮は泣きながら清幽閣に戻った。翌日、仮病した雲兮は夜幽冥の仕えをサボった。その後、玉子墨は清幽閣に訪れた、夜幽冥も雲兮の本当の身分を知り、清幽閣に向かった。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294591←前話｜次話→so36294589　第一話→so36294587
+  length_seconds: 1098
+  content_id: so36294590
+  default_thread_id: 1580349737
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294590/36294590.37514760
+- !ruby/hash:EpisodeHash
+  episode_no: "#14"
+  title: ''
+  description: 雲兮は自分の身分について上手弁解できず、夜幽冥はそれを機に毎日崇徳殿に来るように雲兮に要求した。日々の行いの中、二人の感情がどんどん深くなり、雲兮が廊下で妖に襲われた時、夜幽冥が駆けつけて雲兮の代わりに攻撃を受け、傷を負った。二人の前世の記憶が一瞬浮かび上がった。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294590←前話｜次話→so36294588　第一話→so36294587
+  length_seconds: 1096
+  content_id: so36294589
+  default_thread_id: 1580349733
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294589/36294589.48603084
+- !ruby/hash:EpisodeHash
+  episode_no: "#15"
+  title: ''
+  description: 妖に襲われた時、雲兮は夜幽冥の指に嵌めた指輪を見つけた。指輪は二人を守った後、再び形を消した。杏樹仙人が夜幽冥の傷口を手当てした。目が覚めた夜幽冥はもっちゃん達を見れるようになった。雲兮が夜幽冥の看病をして行くうち、二人の仲がさらに深くなった。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294589←前話｜次話→so36294618　第一話→so36294587
+  length_seconds: 1097
+  content_id: so36294588
+  default_thread_id: 1580349723
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294588/36294588.34461113
+- !ruby/hash:EpisodeHash
+  episode_no: "#16"
+  title: ''
+  description: 楚嬌児は道士さんを府内に呼び込んで、侍女達を連れて清幽閣で法事を行った。楚嬌児は雀に平打ちをするよう秋竹に命じた。道士は式神を召喚してごまちゃんと対戦。雲兮が清幽閣に戻って、ごちゃごちゃにされた清幽閣の様子を見て、すぐ道士の作法を阻止した。夜幽冥も清幽閣にやってきて、楚嬌児達は清幽閣から撤退した。翌日、夜幽冥は清幽閣に移住することを決めた。<br><br>原作:肉肉／監督:李豪凌<br><br>©Tencent
+    Inc./通霊姫製作委員会<br><br>so36294588←前話　第一話→so36294587
+  length_seconds: 1111
+  content_id: so36294618
+  default_thread_id: 1580350143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294618/36294618.7345295
+staff: "[スタッフ]<br>原作:肉肉／監督:李豪凌"
+produced_year: "[製作年]<br>2018年"
+copyright: "©Tencent Inc./通霊姫製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

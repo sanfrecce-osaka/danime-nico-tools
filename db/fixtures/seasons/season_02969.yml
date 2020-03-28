@@ -1,0 +1,204 @@
+--- !ruby/hash:SeasonHash
+title: serial experiments lain
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/27/2/23272_1_8_8b.png?1582249452000
+outline: ネット端末「NAVI」が普及する世界。中学生の岩倉玲音は、死んだはずの四方田千砂からのメールを受け取ったことをきっかけにNAVIへとのめりこんでいく。それ以来彼女は奇怪な事件に巻き込まれ…。物理世界と電脳世界、2つの世界の果てにあるものとは？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水香里
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 大林隆介
+  type: cast
+- !ruby/hash:TagHash
+  name: 水野愛日
+  type: cast
+- !ruby/hash:TagHash
+  name: 浅田葉子
+  type: cast
+- !ruby/hash:TagHash
+  name: 武藤寿美
+  type: cast
+- !ruby/hash:TagHash
+  name: 手塚ちはる
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：岸田隆宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中村隆太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：トライアングルスタッフ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1998年
+  type: other
+- !ruby/hash:TagHash
+  name: 1998年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: layer:01
+  title: ＷＥＩＲＤ
+  description: 自殺した生徒からメールが届く。面白半分・恐さ半分で学校中の話題になっていた。人づきあいが苦手な玲音はこの日初めて数少ない友人・ありす達から聞かされ、それを知った。帰宅後、玲音は自分の部屋にある、まれにしか開くことのないNAVIを立ち上げる。はたして、そこには自殺した生徒・千砂からのメールが来ていた。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>次話→so36422929
+  length_seconds: 1432
+  content_id: so36422928
+  default_thread_id: 1582692664
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422928/36422928.85112347
+- !ruby/hash:EpisodeHash
+  episode_no: layer:02
+  title: ＧＩＲＬＳ
+  description: 最先端の若者達でにぎわうクラブ・サイベリア。気が進まないものの、ありすの誘いを断れずにやってきた玲音。ドアの向こうに広がるこの場所は、明らかに玲音にはなじまない。しかし、前の晩に初めてサイベリアに来た3人は、そこで言葉遣いも、服装も全く違う、玲音によく似た子を見かけたと言われ……。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36422928←前話｜次話→so36423011　第一話→so36422928
+  length_seconds: 1432
+  content_id: so36422929
+  default_thread_id: 1582692662
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422929/36422929.92198881
+- !ruby/hash:EpisodeHash
+  episode_no: layer:03
+  title: ＰＳＹＣＨＥ
+  description: 翌日の学校ではサイベリアの事件が話題になっていた。そこにやってきた玲音。昨晩、玲音を1人残して帰ってしまったありすは、玲音に話しかけようとするが、話を聞きたがるクラスメイトに囲まれて身動きがとれなかった。下校時、玲音は下駄箱の中に小さな封筒を見つける。中には、1センチ四方の集積回路が入っていて……。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36422929←前話｜次話→so36423012　第一話→so36422928
+  length_seconds: 1432
+  content_id: so36423011
+  default_thread_id: 1582693995
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423011/36423011.47002097
+- !ruby/hash:EpisodeHash
+  episode_no: layer:04
+  title: ＲＥＬＩＧＩＯＮ
+  description: プシューケーを手にいれた玲音は、ネットを使って情報を手に入れることができるようになっていた。今まで感情表現に乏しかった玲音が楽しそうにNAVIのことを語る様子に違和感を感じるありす。玲音はいまやワイヤードで情報を集めるだけでなく、ワイヤードとリアル・ワールドを自由に行き交うようになりつつあった。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423011←前話｜次話→so36423013　第一話→so36422928
+  length_seconds: 1435
+  content_id: so36423012
+  default_thread_id: 1582693633
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423012/36423012.53183755
+- !ruby/hash:EpisodeHash
+  episode_no: layer:05
+  title: ＤＩＳＴＯＲＴＩＯＮ
+  description: 渋谷の繁華街。美香は、受け取ってしまったポケットティッシュの中に入っていた不気味なメッセージや小学生のナンパにうんざりしながら歩いていた。と、車が行き交う交差点のど真ん中にたたずむ少女を見つけた。美香が振り返り、玲音が見上げている巨大画面を見上げた。そのノイズまじりの巨大画面に玲音の顔が映り……。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423012←前話｜次話→so36423014　第一話→so36422928
+  length_seconds: 1434
+  content_id: so36423013
+  default_thread_id: 1582693625
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423013/36423013.37663641
+- !ruby/hash:EpisodeHash
+  episode_no: layer:06
+  title: ＫＩＤＳ
+  description: ありすや樹里たちと街に遊びに出かけた玲音。ふと気がつくと、小学生の兄弟が空を仰いで手を広げている。青空に浮かぶ雲。その雲が動きだし、雲の合間からは、こちらを見下ろす人影らしきものが現れた。早速ワイヤードの中でその情報を集め始めた玲音は、一度抹消されたプロジェクト、キッズ・システムをつきとめる。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423013←前話｜次話→so36423015　第一話→so36422928
+  length_seconds: 1432
+  content_id: so36423014
+  default_thread_id: 1582694007
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423014/36423014.90839437
+- !ruby/hash:EpisodeHash
+  episode_no: layer:07
+  title: ＳＯＣＩＥＴＹ
+  description: 先生の話よりも、デスクのかげに潜ませたNAVIに夢中の玲音。その玲音の様子を心配そうに見つめているありす。下校途中の玲音の前に現れたのは、玲音を監視してきた黒服の男2人、そして林と名乗る1人の男。連れていかれた先で、男は玲音に近頃ワイヤードとリアルワールドを騒がしているナイツについて語り始めた。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423014←前話｜次話→so36423016　第一話→so36422928
+  length_seconds: 1433
+  content_id: so36423015
+  default_thread_id: 1582693637
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423015/36423015.92651432
+- !ruby/hash:EpisodeHash
+  episode_no: layer:08
+  title: ＲＵＭＯＲＳ
+  description: 自分がなにものなのか、自信をなくしつつある玲音。恐る恐る父と母に尋ねる玲音。「ほんとの家族だよね…？」が、その問いに対する答えは何も返ってこない。追いつめられた玲音がたどり着いた学校。ありすたちの声にふりかえる玲音。そこにはいつもとは違う、なぜか怒った様子のありすがいた。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423015←前話｜次話→so36423017　第一話→so36422928
+  length_seconds: 1433
+  content_id: so36423016
+  default_thread_id: 1582693985
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423016/36423016.96068594
+- !ruby/hash:EpisodeHash
+  episode_no: layer:09
+  title: ＰＲＯＴＯＣＯＬ
+  description: lainの出現により、玲音も、そしてレインも、自分を失い始めている。ありすの目にはもはや玲音は映っていないようだ。lainがなぜ記憶を消す力を持っているのか、ワイヤードでつぶやくレイン。一方、玲音はクラブ・サイベリアに向かい、タロウを家に連れて帰る。自分に敵意を持つナイツの正体を知るために……。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423016←前話｜次話→so36423018　第一話→so36422928
+  length_seconds: 1431
+  content_id: so36423017
+  default_thread_id: 1582693999
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423017/36423017.50359119
+- !ruby/hash:EpisodeHash
+  episode_no: layer:10
+  title: ＬＯＶＥ
+  description: 玲音の前に現れたのは、デウスと名乗る男。すでに自殺してこの世界にはいないはずの男だ。彼は、自分が肉体を捨ててもワイヤードに偏在できる不変の存在になったことを玲音に語り始める。家に帰った玲音。家には父親が1人その帰りを待っていた。荷物が無くなった家の中で父親は玲音に話しかける。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423017←前話｜次話→so36423019　第一話→so36422928
+  length_seconds: 1433
+  content_id: so36423018
+  default_thread_id: 1582693987
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423018/36423018.90541162
+- !ruby/hash:EpisodeHash
+  episode_no: layer:11
+  title: ＩＮＦＯＲＮＯＧＲＡＰＨＹ
+  description: ワイヤードに先生との噂をふりまかれたありす。部屋で考えこむありすの前に、玲音が現れた。驚くありすに語りかける玲音。自分ではない、もう1人のlainがやったことだと。しかし、ありすは信じようとしない。そのありすに玲音が言う。「なかったことにしてあげる」。明朝、登校したありすは、玲音の言葉の意味を知る。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423018←前話｜次話→so36423020　第一話→so36422928
+  length_seconds: 1434
+  content_id: so36423019
+  default_thread_id: 1582694001
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423019/36423019.94675523
+- !ruby/hash:EpisodeHash
+  episode_no: layer:12
+  title: ＬＡＮＤＳＣＡＰＥ
+  description: 玲音の家にやってきたありす。部屋のドアを開けたありすの目に映ったのは、部屋を埋め尽くすNAVIの本体やパイプ、コード類。その中から玲音はゆっくりと姿を見せた。ありすは自分の気持ちを玲音にぶつける。どうして自分の記憶だけそのままに残したのか、つらい思いをさせるのか。泣きながら怒るありすに玲音は……。<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423019←前話｜次話→so36423021　第一話→so36422928
+  length_seconds: 1431
+  content_id: so36423020
+  default_thread_id: 1582693983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423020/36423020.18235395
+- !ruby/hash:EpisodeHash
+  episode_no: layer:13
+  title: ＥＧＯ
+  description: 化け物と化した英利の姿に泣きわめくありすの耳には、すでに玲音の声は届かなかった。完全に我を失ったありすに、玲音は完全に拒絶されてしまう……。「あたしがありすのためにすることって_______いつも間違えちゃうね。__ホントに、あたしって……」ありすを失った玲音はどこへ行くのか……？<br><br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美<br><br>企画・原案:Production
+    2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+    ENTERTAINMENT<br><br>©NBCUniversal Entertainment Japan<br><br>so36423020←前話　第一話→so36422928
+  length_seconds: 1418
+  content_id: so36423021
+  default_thread_id: 1582694005
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423021/36423021.87393504
+cast: "[キャスト]<br>岩倉玲音:清水香里／父・岩倉康雄:大林隆之介／母・岩倉美穂:五十嵐麗／姉・岩倉美香:川澄綾子／瑞城ありす:浅田葉子／山本麗華:手塚ちはる／加藤樹莉:水野愛日／四方田千砂:武藤寿美"
+staff: "[スタッフ]<br>企画・原案:Production 2nd／オリジナルキャラクターデザイン:安倍吉俊／監督:中村隆太郎／脚本:小中千昭／キャラクターデザイン:岸田隆宏／アニメーション制作:トライアングルスタッフ／制作協力:GENCO／製作:GENEON
+  ENTERTAINMENT"
+produced_year: "[製作年]<br>1998年"
+copyright: "©NBCUniversal Entertainment Japan"
+related_seasons: !ruby/array:Hashie::Array []

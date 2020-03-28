@@ -1,0 +1,97 @@
+--- !ruby/hash:SeasonHash
+title: アイカツ！～ねらわれた魔法のアイカツ！カード～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/96/0/22960_1_8_8b.png?1566190823000
+outline: スターライトクイーンになったあかりをメインに、いちごが映画を撮る事に！ 1枚のアイカツ！カードを巡ってドタバタストーリー。最後は25人のアイドルステージも♥
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 田所あずさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 石川由依
+  type: cast
+- !ruby/hash:TagHash
+  name: 諸星すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 高田憂希
+  type: cast
+- !ruby/hash:TagHash
+  name: 下地紫野
+  type: cast
+- !ruby/hash:TagHash
+  name: 和久井優
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上千尋
+  type: cast
+- !ruby/hash:TagHash
+  name: 齋藤綾
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木村隆一
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：やぐちひろこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: アイカツ！～ねらわれた魔法のアイカツ！カード～
+  description: スターライトクイーンになったあかりをメインに、いちごが映画を撮る事に！ 1枚のアイカツ！カードを巡ってドタバタストーリー。最後は25人のアイドルステージも♥<br><br>大空あかり:下地紫野／氷上スミレ:和久井
+    優／新条ひなき:石川由依／紅林珠璃:齋藤 綾／黒沢 凛:高田憂希／天羽まどか:川上千尋／星宮いちご:諸星すみれ／霧矢あおい:田所あずさ／紫吹 蘭:大橋彩香<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:木村隆一／脚本:加藤陽一／キャラクターデザイン:やぐちひろこ／アニメーション制作:BN Pictures<br><br>©2016
+    BNP/BANDAI, AIKATSU STARS THE MOVIE
+  length_seconds: 1678
+  content_id: so36197694
+  default_thread_id: 1578416117
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197694/36197694.90146428
+cast: "[キャスト]<br>大空あかり:下地紫野／氷上スミレ:和久井 優／新条ひなき:石川由依／紅林珠璃:齋藤 綾／黒沢 凛:高田憂希／天羽まどか:川上千尋／星宮いちご:諸星すみれ／霧矢あおい:田所あずさ／紫吹
+  蘭:大橋彩香"
+staff: "[スタッフ]<br>企画・原作:BN Pictures／原案:バンダイ／監督:木村隆一／脚本:加藤陽一／キャラクターデザイン:やぐちひろこ／アニメーション制作:BN
+  Pictures"
+produced_year: "[製作年]<br>2016年"
+copyright: "©2016 BNP/BANDAI, AIKATSU STARS THE MOVIE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（3rdシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（4thシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツフレンズ！
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツスターズ！

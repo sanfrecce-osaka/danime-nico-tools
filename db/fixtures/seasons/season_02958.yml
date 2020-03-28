@@ -1,0 +1,121 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 紐育星組ショウ2013 ～ワイルド・ウエスト・希望～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/44/0/23440_1_8_8b.png?1580451370000
+outline: リトルリップ・シアターの新作ショウの舞台は西部開拓時代。ところが希望に満ち溢れたステージの裏では、ゲストのオペラ歌手・エマとスターファイブが一触即発の雰囲気に。そこへ謎の秘薬まで持ち込まれ、本番中のシアターは大混乱!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 齋藤彩夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 松谷彼哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: リトルリップ・シアターの新作ショウの舞台は西部開拓時代。ところが希望に満ち溢れたステージの裏では、ゲストのオペラ歌手・エマとスターファイブが一触即発の雰囲気に。そこへ謎の秘薬まで持ち込まれ、本番中のシアターは大混乱!<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36426478
+  length_seconds: 2372
+  content_id: so36426477
+  default_thread_id: 1582747212
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426477/36426477.86241774
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: リトルリップ・シアターの新作ショウの舞台は西部開拓時代。ところが希望に満ち溢れたステージの裏では、ゲストのオペラ歌手・エマとスターファイブが一触即発の雰囲気に。そこへ謎の秘薬まで持ち込まれ、本番中のシアターは大混乱!<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36426477←前話｜次話→so36426479　第一話→so36426477
+  length_seconds: 1883
+  content_id: so36426478
+  default_thread_id: 1582747220
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426478/36426478.49601073
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: リトルリップ・シアターの新作ショウの舞台は西部開拓時代。ところが希望に満ち溢れたステージの裏では、ゲストのオペラ歌手・エマとスターファイブが一触即発の雰囲気に。そこへ謎の秘薬まで持ち込まれ、本番中のシアターは大混乱!<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36426478←前話｜次話→so36426480　第一話→so36426477
+  length_seconds: 2782
+  content_id: so36426479
+  default_thread_id: 1582747234
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426479/36426479.10942807
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: リトルリップ・シアターの新作ショウの舞台は西部開拓時代。ところが希望に満ち溢れたステージの裏では、ゲストのオペラ歌手・エマとスターファイブが一触即発の雰囲気に。そこへ謎の秘薬まで持ち込まれ、本番中のシアターは大混乱!<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36426479←前話　第一話→so36426477
+  length_seconds: 2205
+  content_id: so36426480
+  default_thread_id: 1582747206
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36426480/36426480.2164002
+cast: "[キャスト]<br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2013年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

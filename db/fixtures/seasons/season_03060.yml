@@ -1,0 +1,76 @@
+--- !ruby/hash:SeasonHash
+title: 新・ど根性ガエル　ど根性夢枕
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/32/9/23329_1_8_8b.png?1583460421000
+outline: 授業中の居眠りで、お城の京子姫と丁稚ひろどんの甘い夢を見たひろしは、目覚めても調子に乗りすぎて京子ちゃんとけんかになってしまう。そのいい加減さには、さすがのピョン吉も呆れ果て、ひろしはひとり残されるが、そんなひろしのもとに子分の五郎がやって来て、京子ちゃんのピンチが告げられる！さぁ、どうするひろし…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中秀幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸田恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀絢子
+  type: cast
+- !ruby/hash:TagHash
+  name: 千々松幸子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原田一夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 黒須薫
+  type: cast
+- !ruby/hash:TagHash
+  name: 斉藤昌
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：芝山努
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉沢やすみ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：小六禮次郎
+  type: staff
+- !ruby/hash:TagHash
+  name: ど根性ガエルシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1982年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 居眠り中に、お城の京子姫と丁稚ひろどんの甘い夢を見たひろしは、目覚めても調子に乗りすぎて京子ちゃんとけんかになってしまう。さすがのピョン吉にも呆れられ、孤軍奮闘すうひろしだったが、そんなひろしのもとに子分の五郎がやって来て、京子ちゃんのピンチを告げる！　さぁ、どうするひろし……!?<br><br>ひろし:野沢雅子／ピョン吉:千々松幸子／母ちゃん:斉藤昌／五郎:堀駒子／京子:黒須薫／南先生:田中秀幸／ヨシ子先生:戸田恵子／町田先生:永井一郎／梅三郎:原田一夫　他<br><br>原作:吉沢やすみ／企画:吉川斌／プロデューサー:高橋靖二・加藤俊三／監督:芝山努／作画監督:小林治／脚本:川島あきら／美術監督:水谷利春／音楽:小六禮次郎<br><br>©吉沢やすみ／オフィス安井・TMS
+  length_seconds: 2222
+  content_id: so36484160
+  default_thread_id: 1583722922
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36484160/36484160.23957884
+cast: "[キャスト]<br>ひろし:野沢雅子／ピョン吉:千々松幸子／母ちゃん:斉藤昌／五郎:堀駒子／京子:黒須薫／南先生:田中秀幸／ヨシ子先生:戸田恵子／町田先生:永井一郎／梅三郎:原田一夫　他"
+staff: "[スタッフ]<br>原作:吉沢やすみ／企画:吉川斌／プロデューサー:高橋靖二・加藤俊三／監督:芝山努／作画監督:小林治／脚本:川島あきら／美術監督:水谷利春／音楽:小六禮次郎"
+produced_year: "[製作年]<br>1982年"
+copyright: "©吉沢やすみ／オフィス安井・TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ど根性ガエル
+- !ruby/hash:SeasonHash
+  title: 新・ど根性ガエル

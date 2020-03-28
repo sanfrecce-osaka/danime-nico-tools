@@ -1,0 +1,84 @@
+--- !ruby/hash:SeasonHash
+title: 海のトリトン 劇場版
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/36/9/10369_1_8_8b.png?1583200956000
+outline: 少年の名は、トリトン。そしてトリトンは一平爺さんが岬の洞窟から見つけた捨て子でした。それから13年・・・いつかはどこかへ帰っていく運命の子だとしりつつも、一平は少年を育てたのです。ある日、トリトンは海中で不思議なモノをみます。白い大きなイルカが、トリトンに近づいて来たのです。いま、トリトンとイルカのルカーの冒険の旅が始まろうとしていた・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 海のトリトンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1979年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編 Chapter.1
+  title: ''
+  description: 少年の名は、トリトン。そしてトリトンは一平爺さんが岬の洞窟から見つけた捨て子でした。それから13年・・・いつかはどこかへ帰っていく運命の子だとしりつつも、一平は少年を育てたのです。ある日、トリトンは海中で不思議なモノをみます。白い大きなイルカが、トリトンに近づいて来たのです。いま、トリトンとイルカのルカーの冒険の旅が始まろうとしていた・・・。<br><br>©手塚プロダクション・東北新社<br><br>次話→so36464942
+  length_seconds: 1499
+  content_id: so36464891
+  default_thread_id: 1583406603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36464891/36464891.71220845
+- !ruby/hash:EpisodeHash
+  episode_no: 前編 Chapter.2
+  title: ''
+  description: 少年の名は、トリトン。そしてトリトンは一平爺さんが岬の洞窟から見つけた捨て子でした。それから13年・・・いつかはどこかへ帰っていく運命の子だとしりつつも、一平は少年を育てたのです。ある日、トリトンは海中で不思議なモノをみます。白い大きなイルカが、トリトンに近づいて来たのです。いま、トリトンとイルカのルカーの冒険の旅が始まろうとしていた・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36464891←前話｜次話→so36464987　第一話→so36464891
+  length_seconds: 1483
+  content_id: so36464942
+  default_thread_id: 1583407383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36464942/36464942.61829803
+- !ruby/hash:EpisodeHash
+  episode_no: 前編 Chapter.3
+  title: ''
+  description: 少年の名は、トリトン。そしてトリトンは一平爺さんが岬の洞窟から見つけた捨て子でした。それから13年・・・いつかはどこかへ帰っていく運命の子だとしりつつも、一平は少年を育てたのです。ある日、トリトンは海中で不思議なモノをみます。白い大きなイルカが、トリトンに近づいて来たのです。いま、トリトンとイルカのルカーの冒険の旅が始まろうとしていた・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36464942←前話｜次話→so36465034　第一話→so36464891
+  length_seconds: 1408
+  content_id: so36464987
+  default_thread_id: 1583408164
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36464987/36464987.37859505
+- !ruby/hash:EpisodeHash
+  episode_no: 後編 Chapter.1
+  title: ''
+  description: 少年の名は、トリトン。そしてトリトンは一平爺さんが岬の洞窟から見つけた捨て子でした。それから13年・・・いつかはどこかへ帰っていく運命の子だとしりつつも、一平は少年を育てたのです。ある日、トリトンは海中で不思議なモノをみます。白い大きなイルカが、トリトンに近づいて来たのです。いま、トリトンとイルカのルカーの冒険の旅が始まろうとしていた・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36464987←前話｜次話→so36465091　第一話→so36464891
+  length_seconds: 1436
+  content_id: so36465034
+  default_thread_id: 1583408464
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36465034/36465034.75620771
+- !ruby/hash:EpisodeHash
+  episode_no: 後編 Chapter.2
+  title: ''
+  description: 少年の名は、トリトン。そしてトリトンは一平爺さんが岬の洞窟から見つけた捨て子でした。それから13年・・・いつかはどこかへ帰っていく運命の子だとしりつつも、一平は少年を育てたのです。ある日、トリトンは海中で不思議なモノをみます。白い大きなイルカが、トリトンに近づいて来たのです。いま、トリトンとイルカのルカーの冒険の旅が始まろうとしていた・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36465034←前話｜次話→so36465150　第一話→so36464891
+  length_seconds: 1433
+  content_id: so36465091
+  default_thread_id: 1583408823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36465091/36465091.94728102
+- !ruby/hash:EpisodeHash
+  episode_no: 後編 Chapter.3
+  title: ''
+  description: 少年の名は、トリトン。そしてトリトンは一平爺さんが岬の洞窟から見つけた捨て子でした。それから13年・・・いつかはどこかへ帰っていく運命の子だとしりつつも、一平は少年を育てたのです。ある日、トリトンは海中で不思議なモノをみます。白い大きなイルカが、トリトンに近づいて来たのです。いま、トリトンとイルカのルカーの冒険の旅が始まろうとしていた・・・。<br><br>©手塚プロダクション・東北新社<br><br>so36465091←前話　第一話→so36464891
+  length_seconds: 1521
+  content_id: so36465150
+  default_thread_id: 1583409723
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36465150/36465150.27101664
+produced_year: "[製作年]<br>1979年"
+copyright: "©手塚プロダクション・東北新社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 海のトリトン
