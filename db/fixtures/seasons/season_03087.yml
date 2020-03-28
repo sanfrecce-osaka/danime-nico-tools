@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: ばくおん!!こーひー!!
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/34/7/23347_1_8_8b.png?1581904901000
+outline: ひょんなことからバイクに興味を持った高校生の佐倉羽音は、一念発起して二輪免許を取得。念願のオートバイも購入して仲間たちと一緒にバイク部で楽しく活動する毎日♪　そんなある日、バイク部メンバーは恩紗の提案で、"600マイル・ブレンド"ならぬ"100マイル・ブレンド"を目指してツーリングに出発したのだが……？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 東山奈央
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山夕実
+  type: cast
+- !ruby/hash:TagHash
+  name: 石塚運昇
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田麗奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口立花子
+  type: cast
+- !ruby/hash:TagHash
+  name: 酒井俊輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：西村純二
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：中西亮輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：原田奈奈
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: ひょんなことからバイクに興味を持った高校生の佐倉羽音は、一念発起して二輪免許を取得。念願のオートバイも購入して仲間たちと一緒にバイク部で楽しく活動する毎日♪　そんなある日、バイク部メンバーは恩紗の提案で、"600マイル・ブレンド"ならぬ"100マイル・ブレンド"を目指してツーリングに出発したのだが……？<br><br>佐倉羽音:上田麗奈／鈴乃木凛:東山奈央／天野恩紗:内山夕実／三ノ輪聖:山口立花子／早川:石塚運昇／たづ子:日笠陽子／恩紗の父:岩田光央／コンビニ店員:酒井俊輔<br><br>監督・絵コンテ:西村純二／脚本:砂山蔵澄／演出:原田奈奈／総作画監督:杉本功／作画監督:仁井学、村谷貴志／メカ作監:水村良男／色彩設定:中尾総子／美術監督:吉原俊一郎／美術設定:青木薫／CG監督:籠屋大志／撮影監督:野上大地／編集:小峰博美／音響監督:高寺たけし／音楽:中西亮輔<br><br>©おりもとみまな（ヤングチャンピオン烈）／OADばくおん!!製作委員会
+  length_seconds: 1424
+  content_id: so36318892
+  default_thread_id: 1580807613
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318892/36318892.95134294
+cast: "[キャスト]<br>佐倉羽音:上田麗奈／鈴乃木凛:東山奈央／天野恩紗:内山夕実／三ノ輪聖:山口立花子／早川:石塚運昇／たづ子:日笠陽子／恩紗の父:岩田光央／コンビニ店員:酒井俊輔"
+staff: "[スタッフ]<br>監督・絵コンテ:西村純二／脚本:砂山蔵澄／演出:原田奈奈／総作画監督:杉本功／作画監督:仁井学、村谷貴志／メカ作監:水村良男／色彩設定:中尾総子／美術監督:吉原俊一郎／美術設定:青木薫／CG監督:籠屋大志／撮影監督:野上大地／編集:小峰博美／音響監督:高寺たけし／音楽:中西亮輔"
+produced_year: "[製作年]<br>2016年"
+copyright: "©おりもとみまな（ヤングチャンピオン烈）／OADばくおん!!製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

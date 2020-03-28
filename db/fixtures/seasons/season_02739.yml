@@ -1,0 +1,243 @@
+--- !ruby/hash:SeasonHash
+title: SHOW BY ROCK!!ましゅまいれっしゅ!!
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/15/2/23152_1_8_8b.png?1576476362000
+outline: 北国の小さな村で生まれ育った、白っぽいきつね族の女の子『ほわん』。オーディションをきっかけに憧れの都会、Under North Zawa（アンダーノースザワ）へ旅立つ事に。縞々猫族のマシマヒメコ、デビルミント鬼龍族のデルミン、狼娘族のルフユ達と出会い、バンドを組む事になる。のか？きらきらがいっぱいのRockな音楽物語が、いま始まろうとしている。よーし、やるぞ♪
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 小野友樹
+  type: cast
+- !ruby/hash:TagHash
+  name: Lynn
+  type: cast
+- !ruby/hash:TagHash
+  name: 芹澤優
+  type: cast
+- !ruby/hash:TagHash
+  name: 白井悠介
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木みのり
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊東健人
+  type: cast
+- !ruby/hash:TagHash
+  name: 和多田美咲
+  type: cast
+- !ruby/hash:TagHash
+  name: 小松昌平
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠野ひかる
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏吉ゆうこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 山根綺
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：高梨康治
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：ポニーキャニオン
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：キネマシトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：サンリオ
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：Funta7
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤晋之
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：孫承希
+  type: staff
+- !ruby/hash:TagHash
+  name: SHOW BY ROCK！！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: まっしろスタートライン
+  description: MIDICITYでブチかますために田舎から出てきたほわんだが、オーディションパスをうっかり落とす。<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>次話→so36237546
+  length_seconds: 1420
+  content_id: so36202938
+  default_thread_id: 1578550145
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36202938/36202938.72982672
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: エールアンドレスポンス
+  description: 寝るためのテントを公園に張ってガチ怒られのほわんに、ヒメコが傘を差しだして……<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36202938←前話｜次話→so36263851　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36237546
+  default_thread_id: 1579225877
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36237546/36237546.16501364
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 移動手段はバイクです
+  description: 学園最凶の四天王、ヤス、ハッチン、ジョウ、双循は、なぜかバンドを組むよう校長に命令される。<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36237546←前話｜次話→so36294542　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36263851
+  default_thread_id: 1579742703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36263851/36263851.67606941
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: No problem!!
+  description: ちょっとアレな設定を書きためていたノートをうっかり落とすルフユ。拾ってしまったのはデルミン！<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36263851←前話｜次話→so36326244　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36294542
+  default_thread_id: 1580348343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294542/36294542.92343222
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: Parallelism Crown
+  description: REIJINGSIGNALのライブを見に行ったほわんは、彼女達の『ごちそう』に選ばれる。<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36294542←前話｜次話→so36358844　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36326244
+  default_thread_id: 1580954645
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326244/36326244.36763387
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: ヒロメネス
+  description: そっけない態度のヒメコ。仲良くなるためにあれこれと作戦を立てるほわん。だが……<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36326244←前話｜次話→so36388104　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36358844
+  default_thread_id: 1581558423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358844/36358844.30837636
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ど根性と深紅色の翼閃くEndlessなWaltz
+  description: くじ引きで当てた常夏のワイハハ旅行に浮かれるヤス達。だが、着いたのは極寒のアリャスカだった。<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36358844←前話｜次話→so36431820　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36388104
+  default_thread_id: 1582079047
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388104/36388104.56612259
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ネオンテトラの空
+  description: REIJINGSIGNAL vs Mashumairesh!! 対バン勝負！！（商品はほわん）<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36388104←前話｜次話→so36462949　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36431820
+  default_thread_id: 1582855865
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36431820/36431820.73440481
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: カバンには鉄板です
+  description: バンドが楽しくなってきつつも、他メンバーとの温度差でくすぶるヤス。そこにソロデビューの話が。<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36431820←前話｜次話→so36499477　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36462949
+  default_thread_id: 1583375405
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36462949/36462949.91589548
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: プラットホーム
+  description: フェスに出るための新曲作りが難航しているヒメコに、ほわん「うちの家族と会ってほしい」と突然の告白！<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36462949←前話｜次話→so36535690　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36499477
+  default_thread_id: 1583980642
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36499477/36499477.96082437
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: キミのラプソディー
+  description: 各バンド、悩んだり、準備したり、弁当作ったりと、フェス前日をそれぞれ過ごす。<br><br>ほわん:遠野 ひかる／マシマヒメコ:夏吉
+    ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+    優／ういうい:鈴木みのり<br><br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+    Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス<br><br>Ⓒ2012,
+    2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M<br><br>so36499477←前話　第一話→so36202938
+  length_seconds: 1420
+  content_id: so36535690
+  default_thread_id: 1584586804
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36535690/36535690.25924071
+cast: "[キャスト]<br>ほわん:遠野 ひかる／マシマヒメコ:夏吉 ゆうこ／デルミン:和多田 美咲／ルフユ:山根 綺／ヤス:伊東健人／ハッチン:小松昌平／ジョウ:小野友樹／双循:白井悠介／ララリン:Lynn／スモモネ:芹澤
+  優／ういうい:鈴木みのり"
+staff: "[スタッフ]<br>原作:サンリオ／監督:孫承希／シリーズ構成:田沢大典／キャラクターデザイン・総作画監督:伊藤晋之／アドバイザー:小島正幸／美術設定:菱沼由典／色彩設計:宮脇裕美／撮影監督:岩崎敦／CG
+  Director:上本雅之／CG Producer:細江 加奈子／CG Production:ポリゴン・ピクチュアズ／編集:髙橋歩／音響監督:郷文裕貴／音楽:高梨康治／Funta7／音楽制作:ポニーキャニオン／アニメーション制作:キネマシトラス"
+produced_year: "[製作年]<br>2020年"
+copyright: Ⓒ2012, 2020 SANRIO CO., LTD.　　SHOWBYROCK!!製作委員会M
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK！！
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK!!しょ～と!!
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK!!#
+- !ruby/hash:SeasonHash
+  title: SHOW BY ROCK！！ MUSICAL～唱え家畜共ッ！深紅色の堕天革命黙示録ッ！！
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」～THE FES Ⅱ-Thousand ⅩⅤⅡ～【Genesis】
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」～THE FES Ⅱ-Thousand ⅩⅤⅡ～【Destiny】（千秋楽公演）
+- !ruby/hash:SeasonHash
+  title: Live Musical「SHOW BY ROCK!!」―深淵のCrossAmbivalence―

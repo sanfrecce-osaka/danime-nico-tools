@@ -1,0 +1,504 @@
+--- !ruby/hash:SeasonHash
+title: 珍豪ムチャ兵衛
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/35/4/23354_1_8_8b.png?1580452597000
+outline: 西暦１７世紀。徳川家が平定し、江戸時代が始まったばかりの頃、江戸城下の長屋にひっそりと暮らす中年浪人がいた。男は細々と傘貼りの内職をしながら、男児を一人育てていた。しかし、その男児こそ徳川に倒された豊臣の忘れ形見・若殿のボケ丸であった。浪人の名はムチャ兵衛。元豊臣家の家臣で、豊臣家を再興させようと計画を立て、密かに機会をうかがっていた。しかし、いくら盛り立てようとボケ丸は頼りなく、徳川方の隠密・カブレズキンは周辺をうろつき始め、苦労は尽きない。果たしてムチャ兵衛の願いは叶えられるのか・・・。※本作には、原版の経年劣化に起因する音声不良がございますことをご了承願います。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 滝口順平
+  type: cast
+- !ruby/hash:TagHash
+  name: 田の中勇
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨森雅司
+  type: cast
+- !ruby/hash:TagHash
+  name: 上田敏也
+  type: cast
+- !ruby/hash:TagHash
+  name: 曽我町子
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：長浜忠夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：広瀬健次郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：森田拳次
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1971年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ああ忠臣ムチャ兵衛の巻
+  description: 豊臣家の忠臣だったムチャ兵衛は、今は豊臣家の末裔であるボケ丸と長屋「江戸マンション」で暮らしていた。貧乏ながらも、ムチャ兵衛の念願は、豊臣家の復興であった……。※原版の経年劣化に起因する音声不良がございます。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>次話→so36326441
+  length_seconds: 859
+  content_id: so36326440
+  default_thread_id: 1580959278
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326440/36326440.11597040
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 無責忍者カブレ頭巾の巻
+  description: 三代将軍・家光は、今や夢に見てしまうほど、ムチャ兵衛とボケ丸の存在を恐れていた。そこで家老の大久保彦左は、ふたりを亡き者にしようと、ある忍者を呼び寄せた。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326440←前話｜次話→so36326443　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326441
+  default_thread_id: 1580960169
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326441/36326441.89660104
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 国際的ブジョクの巻
+  description: どうすれば、ムチャ兵衛とボケ丸を倒せるのか？カブレ頭巾がひらめいた「国際的なアイデア」は、なんと将軍・家光をタヌキに化けさせるという奇策だった。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326441←前話｜次話→so36326444　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326443
+  default_thread_id: 1580960177
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326443/36326443.14762702
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 珍説 桃太郎の巻
+  description: ムチャ兵衛とボケ丸の前に突然、流れてきた大きな桃。その中からは、人の声が。どう考えても「桃太郎」に違いないと思ったボケ丸だったが、桃の中から出てきたのは……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326443←前話｜次話→so36326445　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326444
+  default_thread_id: 1580960351
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326444/36326444.65552651
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: イザ！合戦でござるの巻
+  description: 家光と彦左たちによる、ムチャ兵衛とボケ丸を倒すための作戦は続く。いつでも受けて立つ覚悟のムチャ兵衛だったが、ひとつ問題があった。鎧と兜を質屋に入れていたのだ。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326444←前話｜次話→so36326446　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326445
+  default_thread_id: 1580960463
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326445/36326445.83552883
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 母恋い珍道中の巻
+  description: 岡山にいるボケ丸の乳母から、手紙が届いた。ボケ丸の中で、乳母に会ってみたいという思いが沸き上がる。やがてボケ丸は、ムチャ兵衛が外出している間に、行動を起こした。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326445←前話｜次話→so36326447　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326446
+  default_thread_id: 1580960163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326446/36326446.54552582
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ご先祖さま作戦の巻
+  description: 20年前に死んだはずの豊臣秀吉が天国から戻ってきた。驚くムチャ兵衛。秀吉の目的はボケ丸を育ててるムチャ兵衛への感謝を伝えるためだというが、果たして本物なのか？<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326446←前話｜次話→so36326448　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326447
+  default_thread_id: 1580960345
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326447/36326447.89260472
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ボケ犬将軍の巻
+  description: ボケ丸が一匹の犬と友達になり、マンションで飼いたいと言い出した。ムチャ兵衛は反対したが、ボケ丸は諦めない。そこでムチャ兵衛は「明日の朝までなら」と伝えたが……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326447←前話｜次話→so36326449　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326448
+  default_thread_id: 1580960167
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326448/36326448.86557228
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: あっぱれカブレ頭巾の巻
+  description: ムチャ兵衛の強さに、カブレ頭巾はどうしても敵わない。そこでカブレ頭巾は一から忍法を学び直すことにした。新しく開校した「忍術学院」の門を叩いたカブレ頭巾だが……。※原版の経年劣化に起因する音声不良がございます。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326448←前話｜次話→so36326450　第一話→so36326440
+  length_seconds: 855
+  content_id: so36326449
+  default_thread_id: 1580960343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326449/36326449.88701869
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: カブレ名誉の戦死の巻
+  description: またまたカブレ頭巾と対決するムチャ兵衛。だがカブレ頭巾は川に落ちたまま、行方不明となった。心配するムチャ兵衛たち。だがカブレ頭巾は、美しい人魚に助けられていた。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326449←前話｜次話→so36326452　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326450
+  default_thread_id: 1580960175
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326450/36326450.85978814
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 眠豪ボケ丸の巻
+  description: どうしたことか、おねしょもせず、目覚めたボケ丸。その見違えるような姿と言動に、ムチャ兵衛は喜んだ。だが残念なことに、ボケ丸は単に「寝ぼけて」いただけだった。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326450←前話｜次話→so36326713　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326452
+  default_thread_id: 1580960583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326452/36326452.91637165
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: とび出した将軍の巻
+  description: 江戸城から江戸の町の様子を見ていた家光は、焼き芋があまりにもおいしそうだったので、江戸城を飛び出してしまった。ついには「焼き芋」食べたさに、くず屋に雇われて働くことに……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326452←前話｜次話→so36327164　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326713
+  default_thread_id: 1580973843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326713/36326713.58383843
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: カミナリさんこんにちわの巻
+  description: ボケ丸は毎朝、布団を濡らすのに、江戸には連続100日も雨が降っていなかった。これではムチャ兵衛の傘も売れない。そこでボケ丸が考えた、ある妙案とは？※原版の経年劣化に起因する音声不良がございます。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326713←前話｜次話→so36327210　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327164
+  default_thread_id: 1580982183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327164/36327164.10436339
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: ムチャ兵衛の最後の巻
+  description: ムチャ兵衛の周囲で、極端に不吉な現象が続いていた。そこでムチャ兵衛は易者・面倒九斉のもとへ。すると九斉は、ムチャ兵衛が「明日の夜明けとともに死ぬ」と占った……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327164←前話｜次話→so36327752　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327210
+  default_thread_id: 1580982007
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327210/36327210.40873113
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: カブレ大学生の巻
+  description: 口ばかり達者で結果を残さないカブレ頭巾は、彦左から「月給泥棒」と罵倒される始末。そこでカブレ頭巾は江戸大学へ通い、「大学出の忍者」となることを目指したのだが。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327210←前話｜次話→so36327895　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327752
+  default_thread_id: 1580984043
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327752/36327752.93767514
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: ひとりぼっちのカブレの巻
+  description: わがまま放題の家光を目にして嘆く彦左はついにムチャ兵衛との連携を考え始める。ムチャ兵衛がいれば家光も成長できると考えたのだ。だが、そうなるとカブレ頭巾の立場は？<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327752←前話｜次話→so36327896　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327895
+  default_thread_id: 1580985606
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327895/36327895.6620834
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: ねずみ小僧チュー吉の巻
+  description: 島流しされていた「ねずみ小僧チュー吉」が、江戸へ舞い戻ってきた。自分が盗んで隠しておいた金を、改めて手に入れるためだ。その金の隠し場所は、実に意外で……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327895←前話｜次話→so36327992　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327896
+  default_thread_id: 1580986023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327896/36327896.71737585
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: カブレ浪士の巻(前編)
+  description: 失敗続きのカブレ頭巾は、ついにクビを言い渡された。自分なりに忠義を尽くしてきた家光や彦左とも、これでお別れ。明日からは「サラリーマン」じゃなく、浪人暮らしだ……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327896←前話｜次話→so36328042　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327992
+  default_thread_id: 1580986864
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327992/36327992.80629103
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: カブレ浪士の巻(後編)
+  description: 物乞いにまで落ちぶれてしまったカブレ頭巾に同情した彦左は、家光に再びカブレ頭巾を雇ってはどうかと進言。だが家光の怒りは収まっておらず、彦左がカブレ頭巾の代わりにボケ丸の監視をする羽目に……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327992←前話｜次話→so36328145　第一話→so36326440
+  length_seconds: 859
+  content_id: so36328042
+  default_thread_id: 1580987283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36328042/36328042.74771108
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 魔法のほうきの巻
+  description: 馬小屋での馬の世話、そして城内の掃除。これらに対して不満ばかり言っていたカブレ頭巾は彦左から「役立たず」と叱責される。だが、そんなカブレ頭巾に幸運が舞い降りた！？<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36328042←前話｜次話→so36328146　第一話→so36326440
+  length_seconds: 859
+  content_id: so36328145
+  default_thread_id: 1580988726
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36328145/36328145.10139808
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 太平洋ふたりボッチの巻
+  description: 豊臣家の家臣として共に戦ったムチャ兵衛の親友は今、アメリカでラーメン屋を開いて大成功していた。聞けば、アメリカには徳川家を攻めるのに有効な武器がたくさんあるという。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36328145←前話｜次話→so36328255　第一話→so36326440
+  length_seconds: 859
+  content_id: so36328146
+  default_thread_id: 1580988544
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36328146/36328146.41257732
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: かわいい転校生の巻
+  description: 今朝も寝坊し、遅刻するから学校を休むと言い出すボケ丸を、無理矢理に登校させたムチャ兵衛は、そのまま授業を見学することに。当日はちょうど、転校生が来る日だった。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36328146←前話｜次話→so36327753　第一話→so36326440
+  length_seconds: 859
+  content_id: so36328255
+  default_thread_id: 1580989623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36328255/36328255.47257469
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 将軍になりたいゾヨの巻
+  description: 魔女から差し出された草履を履いてみたボケ丸。気がつくと自分の前に多くの侍たちがひれ伏していた。ついに自分は将軍になったのか!?喜ぶボケ丸に対し、ムチャ兵衛が……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36328255←前話｜次話→so36327213　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327753
+  default_thread_id: 1580984103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327753/36327753.19874112
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 大江戸の決闘の巻(前編)
+  description: 江戸の義賊・風小僧が御用金を奪った！カッコいい風小僧の活躍をテレビのニュースで観ていた家光は拍手喝采。だが、そんな家光の姿に、またしても彦左は嘆くのだった。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327753←前話｜次話→so36327212　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327213
+  default_thread_id: 1580982011
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327213/36327213.45651297
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 大江戸の決闘の巻(後編)
+  description: カブレ頭巾が風小僧を誘き出した。さすがの風小僧も、カブレ頭巾の卑怯な作戦のためにピンチに陥る。だが、そこへ颯爽と現れたムチャ兵衛が、カブレ頭巾とその部下たちの前に立ち塞がった！<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327213←前話｜次話→so36327211　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327212
+  default_thread_id: 1580982009
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327212/36327212.922806
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: わたしがママよの巻
+  description: 何をやってもうまくいかない日々の中、田舎にいる母親を思うカブレ頭巾。そこでハタとひらめいたカブレ頭巾は、すでに死んだはずの、ボケ丸の母に化けることにしたが……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327212←前話｜次話→so36327126　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327211
+  default_thread_id: 1580982483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327211/36327211.29882956
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: 宝くじ騒動の巻
+  description: 家光は財力にものをいわせて宝くじを買いまくったが、すべて外れ。一等の賞金一千万を手に入れることはできなかった。当たったのは、他でもなくムチャ兵衛だったのだ！<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327211←前話｜次話→so36327125　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327126
+  default_thread_id: 1580980958
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327126/36327126.48492944
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: ボケ猿のツボの巻
+  description: 強くなるために「剣豪にカブレる」ことにしたカブレ頭巾は、付け焼き刃で剣豪の生きざまを勉強し始めた。やがてカブレ頭巾は「丹下右膳」のもとを訪ねて……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327126←前話｜次話→so36327124　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327125
+  default_thread_id: 1580980946
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327125/36327125.36493249
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: さらばマンションよの巻
+  description: ムチャ兵衛が、文化アパートの抽選に当たった。この文化アパートは、江戸一番の豪華仕様。だが、ムチャ兵衛とボケ丸には、そんな暮らしは似合わない！？<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327125←前話｜次話→so36327123　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327124
+  default_thread_id: 1580980954
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327124/36327124.83371986
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: カブレ捕物帖の巻
+  description: 今度は事件を次々と解決する十手持ちにカブレたカブレ頭巾。最近、江戸マンションで連続して起こっている盗難事件の解決にあたるも、そんなにうまくいくはずもなく……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327124←前話｜次話→so36327122　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327123
+  default_thread_id: 1580980960
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327123/36327123.79709769
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: 江戸城カキ騒動の巻
+  description: 家光が原因不明の高熱でうなされていた。医者も頼りにならず、彦左は面倒九斉いに占わせることにする。九斉は家光はカキの実が全て落ちたら死ぬと彦左に伝えたが……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327123←前話｜次話→so36327127　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327122
+  default_thread_id: 1580980952
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327122/36327122.81052048
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: ボケ丸決闘にいくの巻
+  description: ムチャ兵衛が熱を出した。いつも自分を世話してくれるムチャ兵衛のため、ボケ丸は必死で看病しつつ、薬を買いに行く。だが、その途中でカブレ頭巾に見つかってしまい……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327122←前話｜次話→so36327128　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327127
+  default_thread_id: 1580980956
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327127/36327127.82992324
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: 江戸城売りますの巻
+  description: 江戸城がアドバルーンを出しているのを、ボケ丸が見つけた。そこには「江戸城、売ります」と書かれてあった。家光の贅沢三昧のせいで、城を維持できなくなったのだという。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327127←前話｜次話→so36327129　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327128
+  default_thread_id: 1580980944
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327128/36327128.1459340
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: ボケ丸城の巻
+  description: 小さくても良いから、ボケ丸のために城を建ててあげたい――そんなムチャ兵衛の思いにカブレ頭巾がつけこんだ。騙されているとも知らず、ムチャ兵衛は城を建て始める。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327128←前話｜次話→so36327130　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327129
+  default_thread_id: 1580980940
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327129/36327129.16914838
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: ムチャ兵衛土俵入りの巻
+  description: 無敵を誇る横綱・川風。しかしボケ丸は、ムチャ兵衛なら勝てると思っていた。そこで家光とカブレ頭巾は、ボケ丸の首を賭けた川風とムチャ兵衛の相撲対決を提案する……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327129←前話｜次話→so36327131　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327130
+  default_thread_id: 1580980962
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327130/36327130.53928201
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: 江戸のガンマンの巻
+  description: カブレ頭巾はムチャ兵衛打倒のため、アメリカの西部から殺し屋・ビリビリキッドを招聘した。だが、このビリビリキッドは気分屋で、気が乗らないと仕事をしない男だった。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327130←前話｜次話→so36327132　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327131
+  default_thread_id: 1580980950
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327131/36327131.41770412
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: 百万両の地図の巻
+  description: カブレ頭巾は、ムチャ兵衛とボケ丸が豊臣秀吉の遺した埋蔵金の地図を持っていることを発見した。喜ぶ家光たちは、この地図を奪って金を手に入れようと動き出したが……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327131←前話｜次話→so36326687　第一話→so36326440
+  length_seconds: 859
+  content_id: so36327132
+  default_thread_id: 1580980948
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36327132/36327132.69196426
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: テレビが見たいゾヨの巻(前編)
+  description: ボケ丸は最近、「街頭テレビ」に夢中だった。当初はテレビを否定していたムチャ兵衛も、テレビスターの小百合の美貌に惹かれ、ふたりは「江戸テレビ」を訪ねてみることに。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36327132←前話｜次話→so36326686　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326687
+  default_thread_id: 1580973156
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326687/36326687.67309609
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: テレビが見たいゾヨの巻(後編)
+  description: ボケ丸が楽しみにしていたテレビ紙芝居「ちびっ子ご前試合」が始まった。ムチャ兵衛はボケ丸にテレビを見せないため、江戸タワーから送られてくる電波を遮断しようとする。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326687←前話｜次話→so36326685　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326686
+  default_thread_id: 1580973132
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326686/36326686.31284865
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: ガードマンムチャ兵衛の巻
+  description: 歴史の研究をしているという男が、ムチャ兵衛を捜していた。自分のための「ガードマン」になってほしいというのだ。金の匂いを嗅ぎつけたカブレ頭巾は早速、ムチャ兵衛に変装して……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326686←前話｜次話→so36326684　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326685
+  default_thread_id: 1580973144
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326685/36326685.21716707
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: 道場破りの巻
+  description: 豊臣家再興の日を夢見て、鍛錬を続けるムチャ兵衛。だが経済的な苦労は避けられず、家賃滞納が続いていた。やむなくムチャ兵衛は、傘張りより儲かる「道場破り」に手を出すことに……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326685←前話｜次話→so36326683　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326684
+  default_thread_id: 1580973158
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326684/36326684.53146802
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: 寄らば斬るぞよの巻
+  description: 家光はボケ丸のクラスメートであるカヨに一目惚れ。将軍という立場を利用して、なんとかカヨに気に入られようとする。だがカヨには家光もよく知るボーイフレンドがいた。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326684←前話｜次話→so36326682　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326683
+  default_thread_id: 1580973150
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326683/36326683.69522694
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: 怪盗ベンケイ組の巻
+  description: 千本の刀を手に入れることを目的に、盗みを続けていた怪盗ベンケイとその一味。ムチャ兵衛が傘を売りに行くためマンションを空けた隙に、ベンケイたちがボケ丸を誘拐する。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326683←前話｜次話→so36326681　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326682
+  default_thread_id: 1580973154
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326682/36326682.80943805
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: ボケ丸子守唄の巻
+  description: またもや0点の答案用紙を持って帰ってきたボケ丸を、外の静かな場所で勉強させていたムチャ兵衛。たが、帰宅したボケ丸は、なぜか生まれたばかりの赤ん坊を連れていた。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326682←前話｜次話→so36326680　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326681
+  default_thread_id: 1580973138
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326681/36326681.22449354
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: お医者さんヤーイの巻
+  description: ボケ丸が熱を出した。ムチャ兵衛は医者を呼ぼうとするが、彦左の策略で、江戸中の医者はすべて、江戸城へ呼びつけられてしまう。このままではボケ丸の命が危ない！<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326681←前話｜次話→so36326679　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326680
+  default_thread_id: 1580973152
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326680/36326680.81606122
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: ボケ丸コック長の巻
+  description: 鮮やかに料理を作るコックの姿に憧れたボケ丸は、レストラン「ガタガタ軒」を営むガタガタ牛菜という料理人に弟子入り。すると「ガタガタ軒」に、江戸城から注文が入る。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326680←前話｜次話→so36326615　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326679
+  default_thread_id: 1580973148
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326679/36326679.44489707
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: 怪盗ムチャ兵衛の巻
+  description: ムチャ兵衛の偽者が江戸の各地に出没し、悪事をはたらいた。このため新聞も号外を出し、テレビもニュース速報を出すほどの騒ぎに。潔白を証明したいムチャ兵衛だったが……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326679←前話｜次話→so36326614　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326615
+  default_thread_id: 1580963528
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326615/36326615.4787075
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: ちょんまげ騒動の巻
+  description: カブレ頭巾が「ドライ屋」を始めた。しかし、乱暴なヘアセットを行ったために、家光の髷が遥か彼方の江戸マンションへと飛んで行き、ボケ丸の頭にくっついてしまった。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326615←前話｜次話→so36326613　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326614
+  default_thread_id: 1580963542
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326614/36326614.16454257
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: 教育おやじの巻
+  description: いよいよボケ丸に、将軍として相応しい教育を施さなければならないと考えたムチャ兵衛は、勉強に力を入れ始めた。この事態を知ったカブレ頭巾からの報告に、彦左も対抗して……。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326614←前話｜次話→so36326612　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326613
+  default_thread_id: 1580963885
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326613/36326613.17096703
+- !ruby/hash:EpisodeHash
+  episode_no: 第51話
+  title: 怪獣ウズラの巻
+  description: 宇宙から江戸マンションに落ちた隕石の中にはウズラのような卵が入っていた。やがて卵から、何でも食べて大きくなる怪獣が誕生する。ボケ丸は怪獣に「ウズラ」と名づけた。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326613←前話｜次話→so36326611　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326612
+  default_thread_id: 1580963532
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326612/36326612.38338501
+- !ruby/hash:EpisodeHash
+  episode_no: 第52話
+  title: 天下泰平の巻
+  description: 江戸マンションを舞台にした合戦の最中、ムチャ兵衛とボケ丸は仙人によって助けられ、仙人部落で束の間の安らぎを味わった。だが、その間に現実世界では数百年が過ぎていた。<br><br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也<br><br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎<br><br>©森田拳次／大広・ＴＭＳ<br><br>so36326612←前話　第一話→so36326440
+  length_seconds: 859
+  content_id: so36326611
+  default_thread_id: 1580963525
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36326611/36326611.79344723
+cast: "[キャスト]<br>ムチャ兵衛:雨森雅司／ボケ丸:曽我町子／カブレ頭巾:滝口順平／徳川家光:田の中勇／大久保彦左:上田敏也"
+staff: "[スタッフ]<br>原作:森田拳次／企画:河島治之／演出:長浜忠夫／脚本:辻真先、岡本欣三、松本力、吉田秀子ほか／作画監督:楠部大吉郎／音楽:広瀬健次郎"
+produced_year: "[製作年]<br>1971年"
+copyright: "©森田拳次／大広・ＴＭＳ"
+related_seasons: !ruby/array:Hashie::Array []

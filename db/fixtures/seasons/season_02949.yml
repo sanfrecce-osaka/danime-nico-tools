@@ -1,0 +1,130 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 紐育レビュウショウ ～歌う♪大紐育♪3～ ラストショウ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/43/1/23431_1_8_8b.png?1580450574000
+outline: "「ラストショウ」にふさわしい豪華ゲストが登場。特別出演のラチェット・アルタイル、そしてスペシャルゲストとして帝都から真宮寺さくら、巴里からエリカ・フォンティーヌが登場。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 皆川純子
+  type: cast
+- !ruby/hash:TagHash
+  name: 菅沼久義
+  type: cast
+- !ruby/hash:TagHash
+  name: 園崎未恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 齋藤彩夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 松谷彼哉
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: "「ラストショウ」にふさわしい豪華ゲストが登場。特別出演のラチェット・アルタイル、そしてスペシャルゲストとして帝都から真宮寺さくら、巴里からエリカ・フォンティーヌが登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318903"
+  length_seconds: 2069
+  content_id: so36318904
+  default_thread_id: 1580807823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318904/36318904.69508553
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: "「ラストショウ」にふさわしい豪華ゲストが登場。特別出演のラチェット・アルタイル、そしてスペシャルゲストとして帝都から真宮寺さくら、巴里からエリカ・フォンティーヌが登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318904←前話｜次話→so36318902　第一話→so36318904"
+  length_seconds: 1999
+  content_id: so36318903
+  default_thread_id: 1580807615
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318903/36318903.85230781
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: "「ラストショウ」にふさわしい豪華ゲストが登場。特別出演のラチェット・アルタイル、そしてスペシャルゲストとして帝都から真宮寺さくら、巴里からエリカ・フォンティーヌが登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318903←前話｜次話→so36318900　第一話→so36318904"
+  length_seconds: 2005
+  content_id: so36318902
+  default_thread_id: 1580807643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318902/36318902.71220489
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: "「ラストショウ」にふさわしい豪華ゲストが登場。特別出演のラチェット・アルタイル、そしてスペシャルゲストとして帝都から真宮寺さくら、巴里からエリカ・フォンティーヌが登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318902←前話｜次話→so36318899　第一話→so36318904"
+  length_seconds: 2107
+  content_id: so36318900
+  default_thread_id: 1580807585
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318900/36318900.29947193
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: "「ラストショウ」にふさわしい豪華ゲストが登場。特別出演のラチェット・アルタイル、そしてスペシャルゲストとして帝都から真宮寺さくら、巴里からエリカ・フォンティーヌが登場。<br><br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318900←前話　第一話→so36318904"
+  length_seconds: 2022
+  content_id: so36318899
+  default_thread_id: 1580808003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318899/36318899.35616516
+cast: "[キャスト]<br>出演:小林沙苗、皆川純子、齋藤彩夏、松谷彼哉、園崎未恵、菅沼久義、他"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2008年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

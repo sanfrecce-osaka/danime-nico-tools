@@ -1,0 +1,133 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/41/5/23415_1_8_8b.png?1580450682000
+outline: 2001年1月3日に行われた新世紀初の“新春歌謡ショウ”。「花組祝い太鼓」や、持ち歌交換が新鮮な「花組ヒットパレード」などバラエティー豊かな内容。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 高乃麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕崎ゆり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 西原久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 富沢美智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 2001年1月3日に行われた新世紀初の“新春歌謡ショウ”。「花組祝い太鼓」や、持ち歌交換が新鮮な「花組ヒットパレード」などバラエティー豊かな内容。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318499
+  length_seconds: 1907
+  content_id: so36318500
+  default_thread_id: 1580799663
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318500/36318500.81002021
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 2001年1月3日に行われた新世紀初の“新春歌謡ショウ”。「花組祝い太鼓」や、持ち歌交換が新鮮な「花組ヒットパレード」などバラエティー豊かな内容。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318500←前話｜次話→so36318498　第一話→so36318500
+  length_seconds: 2314
+  content_id: so36318499
+  default_thread_id: 1580800821
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318499/36318499.96877936
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 2001年1月3日に行われた新世紀初の“新春歌謡ショウ”。「花組祝い太鼓」や、持ち歌交換が新鮮な「花組ヒットパレード」などバラエティー豊かな内容。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318499←前話｜次話→so36318367　第一話→so36318500
+  length_seconds: 2191
+  content_id: so36318498
+  default_thread_id: 1580800809
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318498/36318498.48352457
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 2001年1月3日に行われた新世紀初の“新春歌謡ショウ”。「花組祝い太鼓」や、持ち歌交換が新鮮な「花組ヒットパレード」などバラエティー豊かな内容。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318498←前話　第一話→so36318500
+  length_seconds: 1782
+  content_id: so36318367
+  default_thread_id: 1580797690
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318367/36318367.93843664
+cast: "[キャスト]<br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2001年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2004年新春歌謡ショウ「歌え♪花組」

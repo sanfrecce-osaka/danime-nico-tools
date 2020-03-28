@@ -1,0 +1,187 @@
+--- !ruby/hash:SeasonHash
+title: まほろまてぃっく
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/21/3/23213_1_8_8b.png?1579588232000
+outline: 私は残された時間のすべてをあなたに捧げます　かつて、戦士がいた－－。外宇宙からやってきた謎の侵略者に立ち向かう、地球最強のアンドロイド。その名はまほろ。数々の武勲を立て、残り稼働時間をすり減らした彼女は、その代償としてある日任務を解かれる。「残り1年の命、自分の好きなように生きてみてはどうかな?」そしてまほろが選んだ残りの命の使いみちとは……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 高田由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 瀧本富士子
+  type: cast
+- !ruby/hash:TagHash
+  name: 水野愛日
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊地由美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：GAINAX
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高村和宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ぢたま某
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：中山文十郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山賀博之
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ガム
+  type: staff
+- !ruby/hash:TagHash
+  name: まほろまてぃっくシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 2001年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 紫陽花の咲く庭で
+  description: 両親を亡くし、一人暮らしの中学生の優は、家政婦が面接にくる日に、偶然バスジャックに遭遇してしまう。果敢に犯人に立ち向かおうとする優をかばって戦ってくれたのは、メイド服に身を包む美少女。彼女は自らを「戦闘用アンドロイド」と名乗る。狐につままれた気分で帰りついた優は、自宅の庭でその美少女と再会して…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>次話→so36358222
+  length_seconds: 1453
+  content_id: so36358224
+  default_thread_id: 1581535031
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358224/36358224.30121033
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 女教師沙織二十五歳
+  description: ある日、優のお弁当にデザートを入れ忘れ、学校まで届けに行くまほろさん。その頃、学校では優の家政婦さんがどんな人なのか話題になっていた。家政婦さんは「普通のおばさん」という優の前に、まほろさんがやってきたものだから、クラスは騒然。特に、優を気に入っている担任の式条沙織が彼女に対抗心を燃やして…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358224←前話｜次話→so36358163　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358222
+  default_thread_id: 1581535032
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358222/36358222.98302072
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 墓ありて儚く
+  description: まほろさんが、優の家にやってきて初めて迎える7月20日。「まほろさん、手伝って欲しいことがあるんだ」と彼女を誘う優。そして、まほろさんが連れてこられた場所は、彼の父の墓。「夏休み初日が父親の命日だなんて、毎年気が重くて…」、毎年父の墓参りをかかさない優に、そんな言葉を聞かされたまほろの心中は…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358222←前話｜次話→so36358221　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358163
+  default_thread_id: 1581533055
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358163/36358163.43562870
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ハート撃ち抜きます
+  description: 毎日家事で働くまほろさんを気遣い、海水浴に誘った優だが、働き者のまほろさんに遠慮されてしまった。クラスメイトたちにも声をかけ、優は何とかまほろさんを海に連れ出すことができた。だが、優たちが楽しく過ごす海水浴場は、突然現れた“異星人の対アンドロイド用カニ型機甲鋼兵”によってパニックになり…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358163←前話｜次話→so36358220　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358221
+  default_thread_id: 1581535036
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358221/36358221.50097517
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 8ノ634ハ元気デス
+  description: 先日浜辺で起こった騒動について報告がなされていたヴェスパー本部に、まほろさんからの手紙が届いた。「暑中お見舞い申し上げます」。その手紙によると、ある日まほろさんは優のクラスメイトたちと、夏休みのグループ研究“緋立市立第四中学校の九不思議を検証せよ！”をすべく、夜の学校で幽霊探索に行ったらしく…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358221←前話｜次話→so36358139　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358220
+  default_thread_id: 1581535026
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358220/36358220.86816633
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 月花愁色
+  description: 町内会長から、盆踊り会場中央のお立ち台で踊ってくれるよう頼まれたまほろさん。そんな彼女に優が渡したのは、自分の母が着ていた浴衣であった。お祭り当日、愛犬ぐりと一緒に、お留守番としてサポートメカ“スラッシュ”を残し、2人でお出かけ。初めての盆踊り。夜店ではしゃぐまほろさんと優、そして深雪だったが…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358220←前話｜次話→so36358208　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358139
+  default_thread_id: 1581532447
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358139/36358139.10730285
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 過去に追われるメイドさん
+  description: 脱獄囚が運転する自動車にはねられそうになった千鶴子を助けた青年“流河”が、新任教師として優の学校にやってきた。家に帰った優は友人たちと流河の話題をしていたが、その話に対するまほろの反応が妙である。流河という名前は、彼女がヴァスパーの戦士として戦ったセイント最強の戦士“リューガ”と同じだったのだ…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358139←前話｜次話→so36358207　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358208
+  default_thread_id: 1581534246
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358208/36358208.43305384
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 完璧な心の持ち主
+  description: 優の学校に“流河濤”が赴任してきてからというもの、落ち着かない様子のまほろさん。流河の正体を勘ぐる優は、バーベキューパーティを開き、友人や式条先生とともに彼を招待した。優の推測どおり、流河の正体は、セイントの戦士“リューガ”であった。一方、式条は、彼を気にする優をみて、とんでもない誤解を…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358208←前話｜次話→so36358118　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358207
+  default_thread_id: 1581534243
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358207/36358207.84348755
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ライムライト～Limelight～
+  description: "「優さん、デートしましょう！」まほろの提案に驚きながらも勢いに押されて承諾してしまった優は、2人で楽しげに出かけた。だが、そこへ現れた式条先生は、まほろが放った言葉にあらぬ妄想を抱き、必死に優たちのあとを追いかけていく。そんな彼女の思惑とは裏腹に優たちは遊園地や中華街で楽しい一時を過ごすが…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358207←前話｜次話→so36358072　第一話→so36358224"
+  length_seconds: 1453
+  content_id: so36358118
+  default_thread_id: 1581531846
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358118/36358118.87246259
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 戦士としての宿命
+  description: 私がこの世界に生み出されたのは九年と五ヶ月前。戦闘用アンドロイド“V1046RーMAHORO”。それが私の正式名称…。現在は武装解除を施して、美里家のメイドとして働いているまほろさんだが、ヴェスパーでの暮らしぶりはどんな感じだったのだろうか？
+    戦士として誕生したまほろさんの過去が明らかにされる…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358118←前話｜次話→so36358192　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358072
+  default_thread_id: 1581531847
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358072/36358072.42523165
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ぼくの大切な人間
+  description: 夜のとばりに包まれた山中に立つ白い廃虚。それは、今はもう使われていない緋立病院跡地だ。そこに対峙する2つの影。ついにヴェスパーの戦士まほろと、セイントの戦士リューガとの戦闘が始まろうとしていた。2人はそれぞれ、自分の思いを胸に抱きつつ戦闘に突入した。その頃、優はまほろが自宅に残した手紙に気づき…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358072←前話｜次話→so36358191　第一話→so36358224
+  length_seconds: 1453
+  content_id: so36358192
+  default_thread_id: 1581533651
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358192/36358192.91671541
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: いつか夢見た風景に
+  description: 優たちとの日常を続けたいと願う想いとは裏腹に、まほろさんの形勢は不利であった。一方、勝利を目前としているはずのリューガはこの闘いに苛立ちを感じ、互いの最終兵器で決着をつけることを望む。だが、それは彼女にとって自らの生命を削る諸刃の剣であった。まほろさんは優のいる世界へ帰ることが出来るのだろうか…。<br><br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ<br><br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所<br><br>so36358192←前話　第一話→so36358224
+  length_seconds: 1421
+  content_id: so36358191
+  default_thread_id: 1581533647
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358191/36358191.96388986
+cast: "[キャスト]<br>まほろ:川澄綾子／美里優:瀧本富士子／式条沙織:高田由美／佐倉深雪:菊地由美／等々力凛:水野愛日／大江千鶴子:真田アサミ"
+staff: "[スタッフ]<br>原作:中山文十郎+ぢたま某（「COMICガム」ワニブックス刊）／監督・脚本・シリーズ構成:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音響監督:岩浪美和／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト"
+produced_year: "[製作年]<br>2001年"
+copyright: "©中山・ぢたま／ワニブックス・まほろば家政婦斡旋所"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく～もっと美しいもの～
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく ＴＶスペシャル ～えっちなのはいけないと思います～
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく　ただいま◇おかえり

@@ -1,0 +1,685 @@
+--- !ruby/hash:SeasonHash
+title: アイカツスターズ！（2ndシーズン）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/65/0/22650_1_8_8b.png?1551925808000
+outline: 虹野ゆめ、ピンチです!? 突如現れた豪華客船型アイドル学園、その名もヴィーナスアーク！ 船を率いているのは、パーフェクトアイドル「エルザ フォルテ」!!
+  彼女は世界中を旅して周りながら、優秀なアイドルやブランドを集めていた。そして新たなターゲットとして見つけたのが、四ツ星学園の虹野ゆめ――。歌にダンス、モデルやお芝居とヴィーナスアークでのアイカツ！は超一流で、まさに新時代の夜明け！
+  オーナー兼トップアイドルとして活躍するエルザに加え、ふわふわKAWAIIアイドル「花園きらら」や、クールなエルザの秘書「騎咲レイ」など、新たなライバルも続々登場！
+  「絶対アイドルの一番星になる！ まだまだ、ワクワクが止まんないっ！」
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 日笠陽子
+  type: cast
+- !ruby/hash:TagHash
+  name: 富田美憂
+  type: cast
+- !ruby/hash:TagHash
+  name: 朝井彩加
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮本侑芽
+  type: cast
+- !ruby/hash:TagHash
+  name: 江口菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：愛敬由紀子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐藤照雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：onetrap
+  type: staff
+- !ruby/hash:TagHash
+  name: アイカツ！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2016年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第51話
+  title: パーフェクトアイドル エルザ
+  description: きらきら市の港に、突如豪華客船がやってきた。その船は、アイドルスクール『ヴィーナスアーク』。オーナー兼トップアイドルのエルザ フォルテがまとうスタープレミアムレアコーデの美しさに、四ツ星学園の虹野ゆめは目を奪われて――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>次話→so36195405
+  length_seconds: 1469
+  content_id: so36195365
+  default_thread_id: 1578386705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195365/36195365.97607738
+- !ruby/hash:EpisodeHash
+  episode_no: 第52話
+  title: 狙われたアイドル!?
+  description: エルザがはるばる海を越えやってきた目的は、四ツ星学園の白鳥ひめを手に入れること。そして、そのひめが見込んだゆめもまた、エルザの目に留まるのだった。そんな中、ゆめは新1年生にアイカツ！の楽しさを伝える為、歌組幹部の桜庭ローラとステージをやろうと思いつく。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195365←前話｜次話→so36195406　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36195405
+  default_thread_id: 1578387245
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195405/36195405.49424317
+- !ruby/hash:EpisodeHash
+  episode_no: 第53話
+  title: オープンセサミ！星のツバサを手に入れろ！
+  description: スタープレミアムレアコーデ――星のツバサこそ、パーフェクトの証。四ツ星学園・歌組幹部の白銀リリィは、エルザがまとうコーデに魅入られていた。そして、リリィは決意する。心に決めていたプレミアムレアドレス作りの封印を解き、必ずや星のツバサを手に入れてみせると――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195405←前話｜次話→so36195407　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36195406
+  default_thread_id: 1578387552
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195406/36195406.32268294
+- !ruby/hash:EpisodeHash
+  episode_no: 第54話
+  title: きらら☆フワフワ～なアイドル
+  description: ゆめや早乙女あこ達の元に、ヴィーナスアークのアイドル・花園きららから招待状が届く。その内容とはなんと、あこがきららにミューズの座を奪われた『フワフワドリーム』のお披露目ステージ。怒り心頭のあこは、ステージの前にその座を奪い返そうと、ある作戦を立てる。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195406←前話｜次話→so36195408　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36195407
+  default_thread_id: 1578387247
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195407/36195407.56987717
+- !ruby/hash:EpisodeHash
+  episode_no: 第55話
+  title: 行っちゃお☆ヴィーナスアーク！
+  description: ゆめ、ローラ、真昼の3人は、スタープレミアムレアコーデについて学ぶため、ヴィーナスアークへ留学することになった。緊張と期待を胸に、船へ乗り込む3人。そんな彼女達を待っていたのは、思いがけない人物との出逢いで――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195407←前話｜次話→so36195409　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36195408
+  default_thread_id: 1578387243
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195408/36195408.87147010
+- !ruby/hash:EpisodeHash
+  episode_no: 第56話
+  title: キャッ！と注意報
+  description: アイドルスクール・ヴィーナスアークの騎咲レイは、剣道の達人。「剣道を超える武道は存在しない」と言うレイに、四ツ星学園の香澄真昼は「空手が最高の武道だ」と異論を唱える。皆がハラハラ見守る中、一歩も譲らない両者は直接対決することに――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195408←前話｜次話→so36195410　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36195409
+  default_thread_id: 1578387250
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195409/36195409.47315730
+- !ruby/hash:EpisodeHash
+  episode_no: 第57話
+  title: キラキラ☆お散歩びより
+  description: 四ツ星学園の虹野ゆめ・桜庭ローラと、ヴィーナスアークの花園きららは、バラエティ番組で共演することに。ロケ先のきらきら公園では、如月ツバサがプロデュースするイベントが開催される予定だったのだが、突如、緊急事態が発生して――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195409←前話｜次話→so36195411　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36195410
+  default_thread_id: 1578387554
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195410/36195410.80297520
+- !ruby/hash:EpisodeHash
+  episode_no: 第58話
+  title: ミラクルオーディション!!
+  description: 幸花堂が新たに展開する『KoCafe』キャンペーンガールオーディションに、ヴィーナスアークのエルザ フォルテと花園きららが出場するという。それに対して、四ツ星学園代表として出場するのは虹野ゆめと白銀リリィ。いま明かされる、パーフェクトエルザ”の実力とは――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195410←前話｜次話→so36197659　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36195411
+  default_thread_id: 1578387254
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195411/36195411.8897667
+- !ruby/hash:EpisodeHash
+  episode_no: 第59話
+  title: あなたにも輝きを
+  description: 虹野ゆめは、自分のブランド『ベリーパルフェ』のプレミアムレアドレスをデザインしようと猛勉強中。しかし、考えすぎてなかなか答えに辿り着けない。そんなゆめにリフレッシュしてもらおうと、七倉小春はフィッシング大会を企画するのだが…。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195411←前話｜次話→so36197685　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197659
+  default_thread_id: 1578415623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197659/36197659.57934799
+- !ruby/hash:EpisodeHash
+  episode_no: 第60話
+  title: 密着！エルザフォルテの世界
+  description: 虹野ゆめは、S4の番組でエルザを取材することに。その中で、ヴィーナスアークのオーナーとしてのエルザの厳しさを目の当たりにする。なぜヴィーナスアークの生徒達は、こんなにも厳しいエルザに着いていくのだろう…？エルザへの興味を、ますます隠せないゆめで――。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197659←前話｜次話→so36197719　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197685
+  default_thread_id: 1578416113
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197685/36197685.96248008
+- !ruby/hash:EpisodeHash
+  episode_no: 第61話
+  title: 好き！って気持ち
+  description: 四ツ星学園S4の早乙女あこが主演する連続ドラマに、M4の結城すばるがゲスト出演することに。嬉しすぎて大興奮のあこは、緊張のあまりすばるとのシーンで台詞が言えなくなってしまう。そんなあこのために、歌組S4の虹野ゆめが考えた作戦とは…？<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197685←前話｜次話→so36197764　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197719
+  default_thread_id: 1578416643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197719/36197719.61824160
+- !ruby/hash:EpisodeHash
+  episode_no: 第62話
+  title: ゴーイング・マイウェイで♪
+  description: 四ツ星学園の桜庭ローラは、自分がブランドを持っていないことを気にしていた。少しでも成長できるよう、小春とドレスの勉強をするローラ。そんな彼女に、『スパイスコード』のミューズである如月ツバサから連絡がある。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197719←前話｜次話→so36197778　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197764
+  default_thread_id: 1578418033
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197764/36197764.23811230
+- !ruby/hash:EpisodeHash
+  episode_no: 第63話
+  title: ツンドラから吹く熱い風
+  description: 季節は初夏。今年も療養すると思われた白銀リリィは、療養せずにファン感謝ツアーを開催するという。しかし、出発するや否やアクシデントが次々と発生！果たしてリリィ率いるファン達は、目的地である涼風高原に辿り着くことが出来るのか――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197764←前話｜次話→so36197779　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197778
+  default_thread_id: 1578418262
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197778/36197778.40826763
+- !ruby/hash:EpisodeHash
+  episode_no: 第64話
+  title: 星に願いを
+  description: ヴィーナスアーク3年生の騎咲レイは、エルザフォルテのサポート役に徹していた。しかし、エルザのある言葉を受け、レイは覚悟を決める。一方、活動休止中だったトップモデル『シューティングスター』が活動再開したというニュースが流れて――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197778←前話｜次話→so36197780　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197779
+  default_thread_id: 1578419283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197779/36197779.73732239
+- !ruby/hash:EpisodeHash
+  episode_no: 第65話
+  title: 乗ってこ♪ヴィーナスウェーブ
+  description: エルザに指名されたアイドルだけが出場できるという、世界的アイドルイベント『ヴィーナスウェーブ』に、ゆめとローラが出場することに！なんとしても、プレミアムレアドレスで臨みたいというローラが渾身のステージを魅せる――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197779←前話｜次話→so36197802　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197780
+  default_thread_id: 1578418503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197780/36197780.3070351
+- !ruby/hash:EpisodeHash
+  episode_no: 第66話
+  title: エールを送ろう
+  description: 盛り上がりを見せる世界的アイドルイベント『ヴィーナスウェーブ』。四ツ星学園・桜庭ローラのステージを見終え闘志を燃やすのは、ヴィーナスアークの花園きらら。そんな中、会場の一角で、ゆめ・ローラ・きららファンの少女達が喧嘩を始めてしまい…。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197780←前話｜次話→so36197842　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197802
+  default_thread_id: 1578418445
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197802/36197802.3466859
+- !ruby/hash:EpisodeHash
+  episode_no: 第67話
+  title: 夏だ！プールだ！宝探しだゾ☆
+  description: 四ツ星学園S4の二階堂ゆずが、自身のブランド『シャイニースマイル』のプレミアムレアドレスお披露目イベントを開催するという。そのイベントとは、なんとプールで宝探し！それにこぞって参加するS4の虹野ゆめ達。ゆずが用意した、とびっきりの宝物とは――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197802←前話｜次話→so36197843　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197842
+  default_thread_id: 1578419943
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197842/36197842.34799376
+- !ruby/hash:EpisodeHash
+  episode_no: 第68話
+  title: ヴィーナスアークのこわ～いウワサ！
+  description: ヴィーナスアークで実施される学力テスト。留学中のゆめ達も当然受けることになるのだが、きらら曰く、テストに合格しないと地下にある『あかずの間』に閉じ込められてしまうという。その『あかずの間』には、なんとオバケがいるという噂で…!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197842←前話｜次話→so36197844　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197843
+  default_thread_id: 1578419763
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197843/36197843.13738154
+- !ruby/hash:EpisodeHash
+  episode_no: 第69話
+  title: 広げよう、アイカツの「WA」！
+  description: 南の島がまるごとテーマパークとなる『アイカツアイランド』が、今年も開催されることに！今回のテーマは、「みんなで広げよう、アイカツの『WA』」ということで、色んなアイドル学園も参加するという。活気溢れるこの島でゆめが偶然出会うアイドルとは、なんと――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197843←前話｜次話→so36197845　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197844
+  default_thread_id: 1578419705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197844/36197844.65214253
+- !ruby/hash:EpisodeHash
+  episode_no: 第70話
+  title: ジャングルカツドウ！
+  description: "『アイカツアイランド』後、1日オフをもらったゆめ・ローラ・小春はボートで近くの海に遊びに行くことに。しかしその途中、霧が発生し沖に流されてしまう。無人島に辿り着くのだが、手元にはほとんど食料がない。途方に暮れる3人に、とある冒険家が手を差し伸べる。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197844←前話｜次話→so36197846　第一話→so36195365"
+  length_seconds: 1478
+  content_id: so36197845
+  default_thread_id: 1578419703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197845/36197845.9155699
+- !ruby/hash:EpisodeHash
+  episode_no: 第71話
+  title: さよなら、小春ちゃん!?
+  description: ヴィーナスアークは、しばらくの間日本を離れ、太平洋を巡る『クルージング・ライブツアー』へ出発するという。留学中の虹野ゆめ達は船を降りることになるのか、せっかく再会した七倉小春とお別れになってしまうのか……!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197845←前話｜次話→so36197847　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197846
+  default_thread_id: 1578419462
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197846/36197846.16047210
+- !ruby/hash:EpisodeHash
+  episode_no: 第72話
+  title: 二人の一番星☆
+  description: 小春にはひそかに、ゆめと一緒に『ベリーパルフェ』のドレスをデザインしたいという想いがあった。しかし、S4として遥かに成長したゆめに対し、自分にその資格があるのだろうか…と、なかなか言い出すことができなくて……。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197846←前話｜次話→so36197777　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197847
+  default_thread_id: 1578419523
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197847/36197847.37712944
+- !ruby/hash:EpisodeHash
+  episode_no: 第73話
+  title: 虹のドレス
+  description: ゆめと小春――2人の空気がすごく悪い。喧嘩をしたようで、ローラ達も心配な様子。本人達は喧嘩をしてしまったことに後悔しつつも、どうやって仲直りしたら良いかわからず、会っても気まずいまま。2人の友情が、復活することはあるのだろうか――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197847←前話｜次話→so36197776　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197777
+  default_thread_id: 1578418563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197777/36197777.2679680
+- !ruby/hash:EpisodeHash
+  episode_no: 第74話
+  title: ふわもこ☆フレンズ
+  description: 早乙女あこの子供向け動物番組の収録日。そこに現れたのは、なんと海外に行っているはずの花園きららと、ヒツジのキャロライン。しかし本番直前、キャロラインが行方不明に。キャロラインを見つけ出すまで、なんとか時間を稼がねば…！
+    そこで、きららが思いついた名案とは――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197777←前話｜次話→so36197765　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197776
+  default_thread_id: 1578418269
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197776/36197776.53325656
+- !ruby/hash:EpisodeHash
+  episode_no: 第75話
+  title: 香澄家の休日
+  description: 香澄真昼は、「仕事で忙しい両親が、久しぶりに帰って来るんだ」と嬉しそう。大人気モデルの姉の夜空、そしてM4である兄の朝陽も、それに合わせて家に帰って来るのだった。しかし、夜空と朝陽は急きょ仕事で呼び出されてしまう。そんな中、何やら慌てた様子のゆめから電話があり――。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197776←前話｜次話→so36197766　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197765
+  default_thread_id: 1578418029
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197765/36197765.36283867
+- !ruby/hash:EpisodeHash
+  episode_no: 第76話
+  title: 妖精アイドル 双葉アリア♪
+  description: 白鳥ひめがミューズを務めるブランド『マイリトルハート』が、この度ミューズを交代するという。新たなミューズは、ひめがフィンランドから連れてきたアイドル、双葉アリア。虹野ゆめ達は、妖精のように純粋なアリアに目を奪われる。果たして、アリアの実力とは――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197765←前話｜次話→so36197767　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197766
+  default_thread_id: 1578418027
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197766/36197766.53766578
+- !ruby/hash:EpisodeHash
+  episode_no: 第77話
+  title: 花言葉にのせて♪
+  description: 単独ライブを開催することになった双葉アリアは、ひょんなことからヴィーナスアークを見学することに。フィンランドにはない、びっくりするようなアイカツを経験し、大興奮のアリア。そんなアリアに、エルザ
+    フォルテがかける言葉とは――？<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197766←前話｜次話→so36197768　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197767
+  default_thread_id: 1578418023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197767/36197767.315090
+- !ruby/hash:EpisodeHash
+  episode_no: 第78話
+  title: ようこそ パーフェクトマザー！
+  description: エルザ フォルテの母――ユキエ グレース フォルテ。かつては世界的トップアイドルであり、美しく、太陽のような、完璧な女性である彼女に、エルザは幼い頃から憧れていた。そんな母が、急きょ来日することになり――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197767←前話｜次話→so36197686　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197768
+  default_thread_id: 1578418031
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197768/36197768.15252166
+- !ruby/hash:EpisodeHash
+  episode_no: 第79話
+  title: ハロウィン サプライズ☆
+  description: 四ツ星学園で開催する『ハロウィンナイト』に、なぜかヴィーナスアークのアイドル達も参加することになり、てんやわんや！ 最後に行われるパーティーで、皆を驚かせようとなにやら作戦を立てているゆめと小春なのだが…!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197768←前話｜次話→so36197687　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197686
+  default_thread_id: 1578416223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197686/36197686.5037802
+- !ruby/hash:EpisodeHash
+  episode_no: 第80話
+  title: 騎咲レイの誓い！
+  description: 伝説のモデル『シューティングスター』であり、常にエルザをサポートしている騎咲レイが、新ブランドの発表会を行うという。かなりのブランクを抱えつつも、またアイカツを再開するレイの想いはただ一つ。そのアツく、偽りない想いとは――？<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197686←前話｜次話→so36197688　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197687
+  default_thread_id: 1578416115
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197687/36197687.34413904
+- !ruby/hash:EpisodeHash
+  episode_no: 第81話
+  title: ステキなSを探して
+  description: 四ツ星学園の虹野ゆめ達が出演する番組の収録がスタートする。制限時間内に、『S』の頭文字で始まる物の名前が書かれたカードを見つけ出すという番組なのだが、それが出来ない者には壮絶な罰ゲーム“こちょこちょ”が待っているという…！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197687←前話｜次話→so36197689　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197688
+  default_thread_id: 1578416103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197688/36197688.18895341
+- !ruby/hash:EpisodeHash
+  episode_no: 第82話
+  title: 恋するアイカツ♪
+  description: 最近のゆめは、太陽のドレスを手に入れるという新しい目標もでき、気合十分。休む間もなくアイカツをする姿はカッコいいのだが、どこか頑張りすぎている…？
+    そんな中、白鳥ひめの番組で、双葉アリアと共演することになり…。<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197688←前話｜次話→so36197690　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197689
+  default_thread_id: 1578416163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197689/36197689.69299073
+- !ruby/hash:EpisodeHash
+  episode_no: 第83話
+  title: リリィと王子様
+  description: 楽しい学園祭の季節がやって来た！ 今年は、S4達が中心となって芝居を上演することになっているという。その演目は、四ツ星学園版 『ロミオとジュリエット』。ヴィーナスアークの騎咲レイや花園きらら達も遊びに来て楽しんでいると、まさかのアクシデントが起こって――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197689←前話｜次話→so36197691　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197690
+  default_thread_id: 1578416105
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197690/36197690.84401786
+- !ruby/hash:EpisodeHash
+  episode_no: 第84話
+  title: 夢は一緒に
+  description: きららは、アイカツランキングの順位を上げるため、ポイントの高いユニットイベントに四ツ星学園の早乙女あこと一緒に出場することに。相変わらず、
+    「大好きなエルザ様のためにアイカツを頑張る！」 と張り切るきらら。だがそんな彼女に対し、エルザが思いがけない言葉を口にする…！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197690←前話｜次話→so36197592　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197691
+  default_thread_id: 1578416109
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197691/36197691.2573238
+- !ruby/hash:EpisodeHash
+  episode_no: 第85話
+  title: 輝きを渡そう
+  description: アイカツランキングの上位を狙うためには、これからどのステージに出て、ポイントを獲得していくかが重要になる。そんな中ゆめは、沢山のオファーが来ているにも関わらず、とあるオーディションに出ることを決意する。そのステージで手に入れる、大切なものとは――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197691←前話｜次話→so36197591　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197592
+  default_thread_id: 1578414319
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197592/36197592.81732570
+- !ruby/hash:EpisodeHash
+  episode_no: 第86話
+  title: 涙の数だけ
+  description: 桜庭ローラは、大きな決意をする。それは、今年最後の大きなライブ『アメージングアイドルフェス』に出場すること。アイカツランキングの決勝トーナメントに残るにはこのライブで優勝するしかないとすべてを賭けるローラの前に、ヴィーナスアークのエルザ
+    フォルテが立ちはだかる――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197592←前話｜次話→so36197590　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197591
+  default_thread_id: 1578414663
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197591/36197591.89034354
+- !ruby/hash:EpisodeHash
+  episode_no: 第87話
+  title: ありがとう♪メリクリ！
+  description: 虹野ゆめ達が、きらきら市主催のクリスマスイベントをプロデュースすることに！イベント名はズバリ、『きらきらアイドルクリスマスナイト』。ヴィーナスアークのアイドル達の協力もあり、街はクリスマス色に染められていく。聖なる夜に届けたい、ゆめ達の想いとは――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197591←前話｜次話→so36197589　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197590
+  default_thread_id: 1578414305
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197590/36197590.73401412
+- !ruby/hash:EpisodeHash
+  episode_no: 第88話
+  title: お正月だゾ☆全員集合！
+  description: 二階堂ゆずは、お正月番組にひっぱりだこ。そんな中、さすがのゆずにも体力の限界が来たのか、ダウンしてしまう。放送に穴を開ける訳にはいかないと、ゆずの親友である白銀リリィやゆめ達は、ぶっつけ本番、
+    『アイドル隠し芸カーニバル』 に出演することになり――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197590←前話｜次話→so36197588　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197589
+  default_thread_id: 1578414303
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197589/36197589.27398490
+- !ruby/hash:EpisodeHash
+  episode_no: 第89話
+  title: 星々のダイアリー
+  description: 今夜は、 『冬のきらきら湾 花火大会』。アイカツランキングの決勝トーナメントを控えたアイドル達は、学校や立場は違っても、もっと輝きたいという気持ちは同じ。きらきらと美しい花火と共に、それぞれの想いが夜空に打ち上がる――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197589←前話｜次話→so36197587　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36197588
+  default_thread_id: 1578414428
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197588/36197588.48985339
+- !ruby/hash:EpisodeHash
+  episode_no: 第90話
+  title: ヴィーナス クライシス！
+  description: エルザの重大発表により、アイカツ界に衝撃が走る。突然の話に驚いたレイ達はエルザを問い詰めるが、 「進路は私が決める」 と聞く耳を持たない。エルザの本当の気持ちが知りたい…そのために、レイ達が下す決断とは――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197588←前話｜次話→so36197586　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197587
+  default_thread_id: 1578414422
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197587/36197587.57318727
+- !ruby/hash:EpisodeHash
+  episode_no: 第91話
+  title: ハッスル♪ アイドル修行☆
+  description: 香澄真昼は、これが決勝トーナメントに進む最後のチャンスだと、とあるライブに出場することを決める。一方、双葉アリアは、頑張る真昼を見て
+    『本気』 という言葉に興味を持ち始めるのだった。そんな2人が、なんと一緒に山籠もり修行をすることになり――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197587←前話｜次話→so36197585　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197586
+  default_thread_id: 1578414313
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197586/36197586.11399287
+- !ruby/hash:EpisodeHash
+  episode_no: 第92話
+  title: 私たちのエピソード ソロ
+  description: ついに、『アイカツ！ランキング決勝トーナメント』に進出する上位4人が発表される。結果を受け、様々な想いを抱くアイドル達。そんな中、二階堂ゆずの発案で、四ツ星学園S4による『アイカツ！武道館ライブ』を開催することに。いきなりのことに驚くゆめ達の前に、とあるアイドルが現れて――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197586←前話｜次話→so36197584　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197585
+  default_thread_id: 1578414183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197585/36197585.45875480
+- !ruby/hash:EpisodeHash
+  episode_no: 第93話
+  title: 光の剣
+  description: ヴィーナスアークに漂う不穏な空気。なんと、ヴィーナスアークを辞めようとしている生徒がいるという。そうはさせないと、必死に生徒達を説得するレイにきらら、そしてアリア。しかし、想いはなかなか届かない。生徒達の心を取り戻すため、レイが取る行動とは――？<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197585←前話｜次話→so36197583　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197584
+  default_thread_id: 1578414317
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197584/36197584.49649816
+- !ruby/hash:EpisodeHash
+  episode_no: 第94話
+  title: 真昼の輝き
+  description: "『アイカツ！ランキング決勝ステージ』に進むための、最後の戦い。エルザとの戦いに臨む真昼の目には、迷いの色が浮かんでいた。そんな真昼を励まそうと頑張る、あこや小春達。真昼は迷いを断ち切り、ステージに立つことができるのだろうか――？<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197584←前話｜次話→so36197593　第一話→so36195365"
+  length_seconds: 1468
+  content_id: so36197583
+  default_thread_id: 1578414315
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197583/36197583.30174507
+- !ruby/hash:EpisodeHash
+  episode_no: 第95話
+  title: 孤独な太陽
+  description: いよいよ始まる、決勝ステージ。ぶつかり合うのは、虹野ゆめとエルザ　フォルテ。ステージを前に、エルザはレイに宣言をする。アイカツ！ランキングで頂点に立ち、世界一のアイドルになった時、“ある事”を実行すると。その衝撃的な内容に、動揺を隠せないレイで――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197583←前話｜次話→so36197594　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197593
+  default_thread_id: 1578414431
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197593/36197593.87212648
+- !ruby/hash:EpisodeHash
+  episode_no: 第96話
+  title: みんなで輝く！
+  description: "『アイカツ！ランキング決勝ステージ』――ついに、虹野ゆめの出番がやってくる。エルザの圧倒的なパフォーマンスを目の当たりにした、ゆめの“想い”。それは、アイドルみんなで光り輝き、周りの人全ての心を輝かせたい、ということ。この“想い”は、エルザの心にも届けたい。そう決意し、ゆめがステージに上がる――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197593←前話｜次話→so36196575　第一話→so36195365"
+  length_seconds: 1468
+  content_id: so36197594
+  default_thread_id: 1578414426
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197594/36197594.65595474
+- !ruby/hash:EpisodeHash
+  episode_no: 第97話
+  title: Bon Bon Voyage！
+  description: エルザにより宣言された、ヴィーナスアークの解散。ついに、その時期が来てしまった。誰しもが解散してほしくないとエルザにお願いするが、エルザは聞く耳を持たない。ヴィーナスアークの生徒達の運命は、果たして――!?<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197594←前話｜次話→so36197692　第一話→so36195365
+  length_seconds: 1468
+  content_id: so36196575
+  default_thread_id: 1578401705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196575/36196575.79985156
+- !ruby/hash:EpisodeHash
+  episode_no: 第98話
+  title: ゆずっとリリィ☆
+  description: 季節は3月。つまり、中等部3年生の白銀リリィと二階堂ゆずの卒業の時期。四ツ星学園の高等部に進学する予定のリリィに対し、ゆずは世界中の事務所からスカウトを受け、どこに行こうか悩んでいる様子。今までずっと一緒だった2人の道は、4月から別々になってしまうのか…？<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36196575←前話｜次話→so36196406　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36197692
+  default_thread_id: 1578416112
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197692/36197692.27917452
+- !ruby/hash:EpisodeHash
+  episode_no: 第99話
+  title: ふたりの忘れ物
+  description: 4月からは、新しい1年が始まる。それなのに、ゆめとローラは、ずっと何か足りないような――大事な“忘れ物”をしているような気分になっていた。これがすっきりするまで、前には進めない。そんな時、ゆめの前に現れたのは――？<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36197692←前話｜次話→so36196302　第一話→so36195365
+  length_seconds: 1469
+  content_id: so36196406
+  default_thread_id: 1578399843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196406/36196406.97022141
+- !ruby/hash:EpisodeHash
+  episode_no: 第100話
+  title: まだ見ぬ未来へ☆
+  description: これからも続いていく、それぞれのアイカツ！。自分を信じ、前に進んでいけば、未来は無限に広がって行く。そしてその未来で――いつかまた、一緒にアイカツ！しよう。夢は見るものじゃない、叶えるものだから――！<br><br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ
+    フォルテ:日笠陽子／花園きらら:江口菜子<br><br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+    from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36196406←前話　第一話→so36195365
+  length_seconds: 1438
+  content_id: so36196302
+  default_thread_id: 1578399183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196302/36196302.97501133
+cast: "[キャスト]<br>虹野ゆめ:富田美憂／桜庭ローラ:朝井彩加／香澄真昼:宮本侑芽／エルザ フォルテ:日笠陽子／花園きらら:江口菜子"
+staff: "[スタッフ]<br>企画・原作:BN Pictures／原案:バンダイ／監督:佐藤照雄／シリーズ構成:柿原優子／キャラクターデザイン:愛敬由紀子／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:onetrap／OPテーマ:「STARDOM！」うた：せな、りえ、みき、かな
+  from AIKATSU☆STARS！／EDテーマ:「Bon Bon Voyage！」うた：りさ、みほ from AIKATSU☆STARS！"
+produced_year: "[製作年]<br>2017年"
+copyright: "©BNP/BANDAI, DENTSU, TV TOKYO"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（3rdシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（4thシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！
+- !ruby/hash:SeasonHash
+  title: アイカツフレンズ！
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+- !ruby/hash:SeasonHash
+  title: アイカツ！～ねらわれた魔法のアイカツ！カード～
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツスターズ！

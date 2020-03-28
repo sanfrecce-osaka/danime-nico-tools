@@ -1,0 +1,189 @@
+--- !ruby/hash:SeasonHash
+title: AMNESIA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/85/4/21854_1_8_8b.png?1581305675000
+outline: 見知らぬ場所で意識を取り戻した主人公の少女は、突如として8月1日以前の記憶を全て失ってしまっていた…。戸惑う彼女の前に現れたのは、自身を『精霊』と名乗るオリオンという少年だった。オリオンの導きにより、彼女は記憶喪失を悟られぬよう手探りで行動することとなる。次第に浮かび上がる周囲の人間関係…。名前も顔も知らない“幼馴染”や“先輩”、そして“恋人”との出会い。記憶のない彼女は、彼らの想いを痛切に感じつつも、それに応えることができずにいた…。失った記憶の先にある『答え』とは…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 柿原徹也
+  type: cast
+- !ruby/hash:TagHash
+  name: 名塚佳織
+  type: cast
+- !ruby/hash:TagHash
+  name: 谷山紀章
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐裕美
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮田幸季
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ブレインズ・ベース
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：オトメイト
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：アイディアファクトリー
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：デザインファクトリー
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：出羽良彰
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：大橋誉志光
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：吉川真帆
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 2013年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅰ
+  title: ''
+  description: ある日――突如として見知らぬカフェで目を覚ました主人公。心配そうに声をかけてくれる人々の顔を、彼女は誰1人知らなかった。そして眼前に突然現れた精霊・オリオンから、自分が8月1日以前の記憶を全て失ってしまったことを告げられる。失った記憶を巡り、今彼女の新たな物語の幕があがる――。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>次話→so36368274
+  length_seconds: 1420
+  content_id: so36368273
+  default_thread_id: 1581715329
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368273/36368273.85912565
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅱ
+  title: ''
+  description: 強烈な記憶のフラッシュバックとともに、気を失った主人公。彼女を「裏切り者」と呼ぶ女性たちにも心当たりはなく、記憶喪失の状況にますます不安は募ってゆく。そして迎えたバイト仲間との信濃旅行。皆が和やかに過ごす一時の中、シンだけは1人訝しげな視線を主人公に向けていた…。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368273←前話｜次話→so36368275　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368274
+  default_thread_id: 1581715341
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368274/36368274.99004916
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅲ
+  title: ''
+  description: 旅行先で崖から転落した主人公は、目を覚ました病室で突然シンにキスをされる。傍にいたオリオンも消えてしまい、状況を飲み込めずに戸惑う主人公。そんな彼女の不審な様子を見て、シンは彼女が記憶喪失であることをあっさり見抜き、改めて説明する。自分たちは恋人同士だ、と――。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368274←前話｜次話→so36368276　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368275
+  default_thread_id: 1581715349
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368275/36368275.59767385
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅳ
+  title: ''
+  description: 主人公の記憶を取り戻そうと、親身になって協力してくれるシン。しかし一方で、恋人同士だった頃の記憶を持たない主人公への接し方に迷い、葛藤していた。それでも再び彼女と向き合うことを決めたシンは、口を閉ざしていた転落事故の背景、そして自身の心の内を静かに語り出す…。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368275←前話｜次話→so36368277　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368276
+  default_thread_id: 1581715323
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368276/36368276.76894588
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅴ
+  title: ''
+  description: これまでとは異なる雰囲気で主人公に迫るイッキ。そして明かされた、イッキが自分の恋人だという事実は、主人公を一層混乱させる。さらにサワやケントから「イッキは決まって3ヶ月で恋人と別れる」と聞かされて困惑する主人公。その「3ヶ月」に秘められた意味とは…。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368276←前話｜次話→so36368278　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368277
+  default_thread_id: 1581715343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368277/36368277.77688919
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅵ
+  title: ''
+  description: 恋人と必ず3ヶ月で別れるというイッキに対して、疑念を拭い切れない主人公。しかし体調を崩した主人公を見舞いに来たイッキは、心底心配そうな様子で優しく看病をしてくれた。イッキの本当の想いを掴めないまま参加したビリヤード合宿の夜、主人公はイッキからついに真実を告げられる。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368277←前話｜次話→so36368279　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368278
+  default_thread_id: 1581715345
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368278/36368278.65112637
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅶ
+  title: ''
+  description: 合宿先のボート事故で湖に落ちた主人公。だが、気がつくと1人で自宅マンションの前に立っていた。戸惑う主人公のもとに、ケントからメールが入る。そしてケントとの会話の中で、自分たちが付き合っていることを知った主人公は、また新たな局面に立たされていることに気付くのだった。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368278←前話｜次話→so36368280　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368279
+  default_thread_id: 1581715337
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368279/36368279.58675395
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅷ
+  title: ''
+  description: オリオンから並行世界を移動していると聞かされた主人公。直後に世界はまたその形を変え、気つけば隣には心配そうに覗き込むトーマの顔があった。甲斐甲斐しく自分の身を気にかけてくれるトーマに、主人公は互いの関係について尋ねる。トーマが笑顔で告げた答えは…。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368279←前話｜次話→so36368294　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368280
+  default_thread_id: 1581715327
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368280/36368280.48540801
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅸ
+  title: ''
+  description: ショッピングセンターでの買い物中に、主人公は突然背後から髪を切られてしまう。彼女の身を案じるトーマは、家から出ないよう強く言い渡すが、その想いは徐々にエスカレートしてゆき…。そんなトーマの行動に疑問を抱き始める主人公。そして混乱する彼女の前に、シンが姿を現す…。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368280←前話｜次話→so36368295　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368294
+  default_thread_id: 1581716043
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368294/36368294.92233714
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅹ
+  title: ''
+  description: 主人公は、軟禁されていたトーマの部屋を飛び出し、自宅へ向かう。自分の元を逃げ出した主人公に対し、怒りと悲しみの感情をぶつけるトーマだったが、差し出された彼女の日記帳を読んで衝撃を受ける。そこには、記憶を失う前の主人公の想い――トーマへの本当の気持ちが綴られていた。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368294←前話｜次話→so36368296　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368295
+  default_thread_id: 1581715983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368295/36368295.45922108
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅺ
+  title: ''
+  description: 自らを主人公の恋人だと語る青年は、ウキョウと名乗った。さらに「世界は君を殺そうとしている」と告げる口ぶりは、まるで先々のことを知っているかのようで、ウキョウもまた並行世界を移動しているのではないかとオリオンは疑うが…。そして主人公の前に、“もう1人のウキョウ”が現れる。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368295←前話｜次話→so36368324　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368296
+  default_thread_id: 1581716045
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368296/36368296.66030889
+- !ruby/hash:EpisodeHash
+  episode_no: Ⅻ
+  title: ''
+  description: 8月25日――主人公はウキョウを追って大学にいた。そこでウキョウから語られたのは、この世界では主人公とウキョウ、どちらかしか生きられないという悲しき死の運命だった。崩れ落ちる大学、迫るタイムリミット――入れ替わるウキョウの人格から、それぞれの想いを受け止めた主人公は…。<br><br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田
+    彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美<br><br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会<br><br>©IF・DF／「AMNESIA」製作委員会<br><br>so36368296←前話　第一話→so36368273
+  length_seconds: 1420
+  content_id: so36368324
+  default_thread_id: 1581717142
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368324/36368324.46537797
+cast: "[キャスト]<br>主人公:名塚佳織／シン:柿原徹也／イッキ:谷山紀章／ケント:石田 彰／トーマ:日野 聡／ウキョウ:宮田幸季／オリオン:五十嵐 裕美"
+staff: "[スタッフ]<br>原作:オトメイト（アイディアファクトリー／デザインファクトリー）／監督:大橋誉志光／キャラクターデザイン:吉川真帆／シリーズ構成:待田堂子／音楽:出羽良彰／音響監督:飯田里樹／アニメーション制作:ブレインズ・ベース／製作:「AMNESIA」製作委員会"
+produced_year: "[製作年]<br>2012年"
+copyright: "©IF・DF／「AMNESIA」製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

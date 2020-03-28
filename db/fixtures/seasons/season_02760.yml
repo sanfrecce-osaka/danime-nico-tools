@@ -1,0 +1,117 @@
+--- !ruby/hash:SeasonHash
+title: テイルズ オブ シンフォニア THE ANIMATION　シルヴァラント編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/95/2/20952_1_8_8b.png?1551266490000
+outline: 4000年前……。古代戦争の終結を期に、人々は苦しみから解放された。それは、戦乱の元凶――ディザイアンの封印という形で得られた平穏であった。時は流れ現代……。ディザイアンは復活を果たす。その邪悪な影は、世界を支える命の源｢マナ｣を搾取してゆく。世界は、衰退の一途を辿っていた。絶望の中、人々は一人の少女に希望を託す。神託を受けた｢神子｣。少女の名はコレット。選ばれし少女は世界再生の旅へ。その時、少年は…。世界再生の旅は始まろうとしている。相反していく世界の中で、それぞれの想いを響かせ合いながら…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 水樹奈々
+  type: cast
+- !ruby/hash:TagHash
+  name: 小西克幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 立木文彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：ufotable
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：バンダイナムコエンターテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：松島晃
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：外崎春雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ZIZZ STUDIO
+  type: staff
+- !ruby/hash:TagHash
+  name: テイルズ　オブ　シンフォニアシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#1"
+  title: ''
+  description: ここは滅びの道を歩む世界。永きにわたる衰退の末、神託が下る。「神子」に選ばれた少女の名はコレット。世界を救う唯一の方法―――天使となるため、救いの塔を目指す旅の任が与えられた。旅の出発前夜、幼なじみの少年ロイドは自分の想いを告白する。コレットは、ただ微笑むのであった…。そして陽は昇り、出発の朝を迎える。<br><br>ロイド・アーヴィング:小西
+    克幸／コレット・ブルーネル:水樹 奈々／ジーニアス・セイジ:折笠 愛／リフィル・セイジ:冬馬 由美／クラトス・アウリオン:立木 文彦<br><br>原作:株式会社バンダイナムコエンターテインメント(家庭用ビデオゲーム｢テイルズ
+    オブ シンフォニア｣)／シリーズ構成:金月龍之介／キャラクター原案:藤島康介／キャラクターデザイン:松島晃／音楽:ZIZZ STUDIO／アニメーション制作:ufotable／製作:株式会社フロンティアワークス、ジェネオン
+    エンタテインメント株式会社／監督:外崎春雄／監修:株式会社バンダイナムコエンターテインメント<br><br>©藤島康介 ©BNEI ©T.O.S.製作委員会<br><br>次話→so36229830
+  length_seconds: 1935
+  content_id: so36229829
+  default_thread_id: 1579063526
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229829/36229829.50300278
+- !ruby/hash:EpisodeHash
+  episode_no: "#2"
+  title: ''
+  description: 世界は、徐々にそして着実に滅びつつある。ディザイアンの手により朽ち果てた村を目の当たりにし、世界再生の決意を再確認するコレット。しかし、旅の試練はコレットの身体に変化を生んでいった。―――天使の痛み。そして、ロイド達の困惑を他所に、コレットを狙う謎の刺客。その裏にはもう一人の「神子」の存在が見え隠れしていた。果たして、世界再生の真意とは……。<br><br>ロイド・アーヴィング:小西
+    克幸／コレット・ブルーネル:水樹 奈々／ジーニアス・セイジ:折笠 愛／リフィル・セイジ:冬馬 由美／クラトス・アウリオン:立木 文彦<br><br>原作:株式会社バンダイナムコエンターテインメント(家庭用ビデオゲーム｢テイルズ
+    オブ シンフォニア｣)／シリーズ構成:金月龍之介／キャラクター原案:藤島康介／キャラクターデザイン:松島晃／音楽:ZIZZ STUDIO／アニメーション制作:ufotable／製作:株式会社フロンティアワークス、ジェネオン
+    エンタテインメント株式会社／監督:外崎春雄／監修:株式会社バンダイナムコエンターテインメント<br><br>©藤島康介 ©BNEI ©T.O.S.製作委員会<br><br>so36229829←前話｜次話→so36229831　第一話→so36229829
+  length_seconds: 1958
+  content_id: so36229830
+  default_thread_id: 1579063533
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229830/36229830.96079612
+- !ruby/hash:EpisodeHash
+  episode_no: "#3"
+  title: ''
+  description: 天使疾患は、コレットの人間性を侵していく。ロイドは苦悩しながらも、世界再生の旅を続けてゆくしかなかった。目指すは、最後の封印……。その旅の途中、ディザイアン五聖刃のひとり・クヴァルの統べるアスカードベースに潜入した一行。そこでは、輝石エクスフィアの培養実験が行われていた。クヴァルと対峙したロイドは、母の形見であるエクスフィアにまつわる、衝撃の真相を知らされる……。<br><br>ロイド・アーヴィング:小西
+    克幸／コレット・ブルーネル:水樹 奈々／ジーニアス・セイジ:折笠 愛／リフィル・セイジ:冬馬 由美／クラトス・アウリオン:立木 文彦<br><br>原作:株式会社バンダイナムコエンターテインメント(家庭用ビデオゲーム｢テイルズ
+    オブ シンフォニア｣)／シリーズ構成:金月龍之介／キャラクター原案:藤島康介／キャラクターデザイン:松島晃／音楽:ZIZZ STUDIO／アニメーション制作:ufotable／製作:株式会社フロンティアワークス、ジェネオン
+    エンタテインメント株式会社／監督:外崎春雄／監修:株式会社バンダイナムコエンターテインメント<br><br>©藤島康介 ©BNEI ©T.O.S.製作委員会<br><br>so36229830←前話｜次話→so36229832　第一話→so36229829
+  length_seconds: 1938
+  content_id: so36229831
+  default_thread_id: 1579063541
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229831/36229831.45203396
+- !ruby/hash:EpisodeHash
+  episode_no: "#4"
+  title: ''
+  description: 世界再生の旅は、終着地点・救いの塔へと臨む。既に感覚の殆どを失ったコレットは、最後に残された「心」と「記憶」を捧げる決意をする。天使に生まれ変わることはすなわち、人としての死を意味していた。非情ともいえるこの世界の法則――衰退世界シルヴァラントは、神子の死を以って救われる…。世界再生という大儀と、コレットへの想いの間で選択を迫られるロイド達。そんな中、地下組織レネゲードを名乗る男・ユアンが現れ、神子の天使化を阻止するという……。<br><br>ロイド・アーヴィング:小西
+    克幸／コレット・ブルーネル:水樹 奈々／ジーニアス・セイジ:折笠 愛／リフィル・セイジ:冬馬 由美／クラトス・アウリオン:立木 文彦<br><br>原作:株式会社バンダイナムコエンターテインメント(家庭用ビデオゲーム｢テイルズ
+    オブ シンフォニア｣)／シリーズ構成:金月龍之介／キャラクター原案:藤島康介／キャラクターデザイン:松島晃／音楽:ZIZZ STUDIO／アニメーション制作:ufotable／製作:株式会社フロンティアワークス、ジェネオン
+    エンタテインメント株式会社／監督:外崎春雄／監修:株式会社バンダイナムコエンターテインメント<br><br>©藤島康介 ©BNEI ©T.O.S.製作委員会<br><br>so36229831←前話　第一話→so36229829
+  length_seconds: 2029
+  content_id: so36229832
+  default_thread_id: 1579063523
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229832/36229832.25915819
+cast: "[キャスト]<br>ロイド・アーヴィング:小西 克幸／コレット・ブルーネル:水樹 奈々／ジーニアス・セイジ:折笠 愛／リフィル・セイジ:冬馬 由美／クラトス・アウリオン:立木
+  文彦"
+staff: "[スタッフ]<br>原作:株式会社バンダイナムコエンターテインメント(家庭用ビデオゲーム｢テイルズ オブ シンフォニア｣)／シリーズ構成:金月龍之介／キャラクター原案:藤島康介／キャラクターデザイン:松島晃／音楽:ZIZZ
+  STUDIO／アニメーション制作:ufotable／製作:株式会社フロンティアワークス、ジェネオン エンタテインメント株式会社／監督:外崎春雄／監修:株式会社バンダイナムコエンターテインメント"
+produced_year: "[製作年]<br>2007年"
+copyright: "©藤島康介 ©BNEI ©T.O.S.製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: テイルズ オブ ファンタジア THE ANIMATION
+- !ruby/hash:SeasonHash
+  title: テイルズ オブ エターニア　THE ANIMATION
+- !ruby/hash:SeasonHash
+  title: テイルズ オブ シンフォニア THE ANIMATION　テセアラ編
+- !ruby/hash:SeasonHash
+  title: テイルズ オブ シンフォニア THE ANIMATION　世界統合編
+- !ruby/hash:SeasonHash
+  title: テイルズ オブ ジ アビス

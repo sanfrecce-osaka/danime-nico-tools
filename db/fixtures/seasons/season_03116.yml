@@ -1,0 +1,173 @@
+--- !ruby/hash:SeasonHash
+title: 武装神姫
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/62/3/23623_1_8_8b.png?1582248861000
+outline: 人気アクションフィギュアシリーズ｢武装神姫｣をTVアニメ化!自分の意思を持った全高15cmの女性型ロボット"神姫"たちの活躍を描くバトルストーリー。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 阿澄佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 水橋かおり
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 水島大宙
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：織田哲郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 武装神姫シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 2012年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 大切なもの見つけました。
+  description: 海外生活から帰国した理人は高校入学初日､アーンヴァル型の神姫･アンに起こされて慌しい朝を迎えた｡大量の引越し荷物の中から出てきたのは･･･｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>次話→so36393364
+  length_seconds: 1449
+  content_id: so36393363
+  default_thread_id: 1582178891
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393363/36393363.70118221
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 隠し味は硝煙の香り
+  description: 理人家にストラーフ型の神姫･ヒナが加わった｡新たな仲間に喜ぶアンたちだったが､好戦的な性格のヒナはバトルに興味の無い一同になじめず､ひとり距離を置いてしまう｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393363←前話｜次話→so36393365　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393364
+  default_thread_id: 1582178889
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393364/36393364.76402209
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 激突!バトルトライク
+  description: 閉店後の神姫ショップから売り物の神姫が盗まれるという連続事件が発生｡これを受けて､ご近所のエウクランテ型の神姫･クララが､アンたちを自警団に誘う｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393364←前話｜次話→so36393334　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393365
+  default_thread_id: 1582178893
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393365/36393365.26465406
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: レースだョ!公園一周
+  description: レーネの行動を疑うアイネスが尾行すると､そこでは年に1度の公園レース"神姫1グランプリ"が行われていた｡ゲスト神姫も入り乱れ､各々の思惑と激走が公園を駆け巡る!<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393365←前話｜次話→so36393335　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393334
+  default_thread_id: 1582178043
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393334/36393334.50341327
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 渚の水着アーマー
+  description: 商店街の福引で沖縄旅行が当たる｡大喜びのアンたちは水着アーマーを装着し､スイカ割りにビーチバレーと､完ぺきな装備で沖縄の海を堪能する｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393334←前話｜次話→so36393336　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393335
+  default_thread_id: 1582178166
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393335/36393335.55102056
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: アテンションプリーズ!当機は地獄へ参ります
+  description: 楽しかった思い出に浸りつつ､東京への飛行機を待つ空港で､キャビンアテンダントの神姫を見かける｡職業神姫にあこがれを抱いた一同はそれぞれの将来の夢に思いをはせる｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393335←前話｜次話→so36393337　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393336
+  default_thread_id: 1582178163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393336/36393336.50002484
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 訪問者は雨音と共に…
+  description: 真夏のある日｡厳しい猛暑の中､熱暴走寸前のアン達はなんとかして涼しさを得るべく､納涼企画を開催する｡無数のロウソクに囲まれ､静かに語られる物語｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393336←前話｜次話→so36393338　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393337
+  default_thread_id: 1582178053
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393337/36393337.37422998
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ある日どこかで
+  description: 公園の木々の葉も落ち始め､赤とんぼが舞う季節｡アンたちがいつものように遊んでいると､アイネスがどこからか怪しいラベルが貼られた小瓶を手に入れてくる｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393337←前話｜次話→so36393366　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393338
+  default_thread_id: 1582178048
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393338/36393338.21628279
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: レーネの地下帝国ウォーズ
+  description: その伝説は1人の少年のささいな忘却から始まった｡突如､回り始める運命の歯車｡それは導かれるように､戦う者たちの祈りにこたえるかのように､やがて歴史を揺り動かす｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393338←前話｜次話→so36393367　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393366
+  default_thread_id: 1582178527
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393366/36393366.66499010
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: クリスマスソングを君に
+  description: クリスマスシーズンが到来｡雪がちらつく寒いこの季節にアンたちは理人にプレゼントを買うべく､神姫用のバイトを始める｡それぞれが選んだ仕事とは､意外なものだった｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393366←前話｜次話→so36393368　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393367
+  default_thread_id: 1582178523
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393367/36393367.2409944
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 今夜決定!最強神姫は誰だ!?
+  description: ヒナが理人の家に来てからまもなく1年が経とうとしていた｡アンたちはサプライズ誕生日パーティを計画する｡そんな中､年に1度の神姫公式バトル大会が開催される｡<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393367←前話｜次話→so36393369　第一話→so36393363
+  length_seconds: 1449
+  content_id: so36393368
+  default_thread_id: 1582179183
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393368/36393368.33466945
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: さよならは言わないで
+  description: ヒナの誕生日当日､そこにヒナの姿はなかった｡ヒナの身の危険を感じたアンたちは､神堂邸へと向かう｡仲間のため､マスターのため､神姫たちの戦いが幕を開ける!<br><br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島
+    愛／クララ:加藤英美里／理人:水島大宙<br><br>脚本:横谷昌宏／音楽:織田哲郎<br><br>©Konami Digital Entertainment/武装神姫プロジェクト<br><br>so36393368←前話　第一話→so36393363
+  length_seconds: 1419
+  content_id: so36393369
+  default_thread_id: 1582178887
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36393369/36393369.22213198
+cast: "[キャスト]<br>アン:阿澄佳奈／ヒナ:茅原実里／アイネス:水橋かおり／レーネ:中島 愛／クララ:加藤英美里／理人:水島大宙"
+staff: "[スタッフ]<br>脚本:横谷昌宏／音楽:織田哲郎"
+produced_year: "[製作年]<br>2012年"
+copyright: "©Konami Digital Entertainment/武装神姫プロジェクト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 武装神姫 Episode13 Install x Dream

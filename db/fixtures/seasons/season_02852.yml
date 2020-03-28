@@ -1,0 +1,65 @@
+--- !ruby/hash:SeasonHash
+title: 景山民夫のダブルファンタジー「サイケデリック航空【デジタルリマスター版】」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/09/6/23096_1_8_8b.png?1575968441000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 山崎たくみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀川りょう
+  type: cast
+- !ruby/hash:TagHash
+  name: 広瀬正志
+  type: cast
+- !ruby/hash:TagHash
+  name: 松尾銀三
+  type: cast
+- !ruby/hash:TagHash
+  name: 林玉緒
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田礼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 西宏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 相原勇
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：景山民夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 景山民夫のダブルファンタジーシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: サイケデリック航空
+  description: 由利恵:相原勇／僕:堀川亮／岩女:山田礼子／ダフ屋:広瀬正志／なじみの客:緒方賢一／ラジオアナ:山崎たくみ／係りの女:林玉緒／三十女:西宏子／男Ａ:松尾銀三<br><br>原作:景山民夫<br><br>©景山民夫／シンエイ
+  length_seconds: 778
+  content_id: so36263966
+  default_thread_id: 1579746186
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36263966/36263966.20487915
+cast: "[キャスト]<br>由利恵:相原勇／僕:堀川亮／岩女:山田礼子／ダフ屋:広瀬正志／なじみの客:緒方賢一／ラジオアナ:山崎たくみ／係りの女:林玉緒／三十女:西宏子／男Ａ:松尾銀三"
+staff: "[スタッフ]<br>原作:景山民夫"
+produced_year: "[製作年]<br>1994年"
+copyright: "©景山民夫／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 景山民夫のダブルファンタジー「南洋ホテル【デジタルリマスター版】」

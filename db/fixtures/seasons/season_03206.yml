@@ -1,0 +1,97 @@
+--- !ruby/hash:SeasonHash
+title: るろうに剣心 ‐明治剣客浪漫譚‐新京都編
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/72/8/21728_1_8_8b.png?1551348593000
+outline: 原作でも人気の高い、主人公・緋村剣心と志々雄真実との死闘を描いたエピソード「京都編」を大胆にリメイク。御庭番衆・巻町操の視点で描く、15年を経た現在ならではの“新たな”「京都編」をお届け致します。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: うえだゆうじ
+  type: cast
+- !ruby/hash:TagHash
+  name: 冨永みーな
+  type: cast
+- !ruby/hash:TagHash
+  name: 成田剣
+  type: cast
+- !ruby/hash:TagHash
+  name: 安原義人
+  type: cast
+- !ruby/hash:TagHash
+  name: 櫻井智
+  type: cast
+- !ruby/hash:TagHash
+  name: 涼風真世
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤谷美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田政典
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：古橋一浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：朝倉紀行
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：和月伸宏
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：萩原弘光
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：鏑木ひろ
+  type: staff
+- !ruby/hash:TagHash
+  name: るろうに剣心シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: "「焔の獄」"
+  description: 明治11年初夏。大久保卿暗殺の黒幕である志々雄真実が企む「京都破壊計画」を阻止する為に、京都御庭番衆の頭・翁は先代の遺児・巻町 操に一つの任を与えた。かつて人斬り抜刀斎と呼ばれ明治維新を裏で支えた男、緋村剣心の探索である。操は東海道を登り、想い人・蒼紫の消息を知るかもしれないその男を見つける。<br><br>緋村剣心:涼風真世／神谷薫:藤谷美紀／明神弥彦:冨永みーな／相楽左之助:うえだゆうじ／巻町操:櫻井智／四乃森蒼紫:安原義人／志々雄真実:池田政典／斎藤一:成田剣<br><br>原作:和月伸宏（集英社
+    ジャンプ・コミックス）／監督:古橋一浩／脚本:岡田麿里／キャラクターデザイン:萩原弘光／演出:鏑木ひろ／音楽:朝倉紀行／アニメーション制作:スタジオディーン<br><br>©和月伸宏／集英社・アニプレックス<br><br>次話→so36388612
+  length_seconds: 2769
+  content_id: so36388611
+  default_thread_id: 1582090983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388611/36388611.41800032
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: "「光の囀」"
+  description: 翁が斬られるのを目のあたりにした操は、もはや自分は蒼紫を追い求めてはならないと心に決め、京都御庭番衆御頭となることを宣言し、蒼紫を倒すことを剣心に依頼する。京都大火を阻止し、さらにその奥にある志々雄の策略を未然に防がなければ。京都の防衛は薫や弥彦、そして操たち御庭番衆に任せられた。斎藤と左之助、剣心は大阪港に向かう。そこには巨大な船が停泊していた─。<br><br>緋村剣心:涼風真世／神谷薫:藤谷美紀／明神弥彦:冨永みーな／相楽左之助:うえだゆうじ／巻町操:櫻井智／四乃森蒼紫:安原義人／志々雄真実:池田政典／斎藤一:成田剣<br><br>原作:和月伸宏（集英社
+    ジャンプ・コミックス）／監督:古橋一浩／脚本:岡田麿里／キャラクターデザイン:萩原弘光／演出:鏑木ひろ／音楽:朝倉紀行／アニメーション制作:スタジオディーン<br><br>©和月伸宏／集英社・アニプレックス<br><br>so36388611←前話　第一話→so36388611
+  length_seconds: 2713
+  content_id: so36388612
+  default_thread_id: 1582090827
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36388612/36388612.44144249
+cast: "[キャスト]<br>緋村剣心:涼風真世／神谷薫:藤谷美紀／明神弥彦:冨永みーな／相楽左之助:うえだゆうじ／巻町操:櫻井智／四乃森蒼紫:安原義人／志々雄真実:池田政典／斎藤一:成田剣"
+staff: "[スタッフ]<br>原作:和月伸宏（集英社 ジャンプ・コミックス）／監督:古橋一浩／脚本:岡田麿里／キャラクターデザイン:萩原弘光／演出:鏑木ひろ／音楽:朝倉紀行／アニメーション制作:スタジオディーン"
+produced_year: "[製作年]<br>2012年"
+copyright: "©和月伸宏／集英社・アニプレックス"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐維新志士への鎮魂歌
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐追憶編
+- !ruby/hash:SeasonHash
+  title: るろうに剣心 ‐明治剣客浪漫譚‐星霜編

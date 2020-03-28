@@ -1,0 +1,105 @@
+--- !ruby/hash:SeasonHash
+title: BLACKFOX
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/65/9/23659_1_8_8b.png?1583111148000
+outline: 近未来の大都市の一角に佇む忍者屋敷。そこで暮らす忍者一族である石動家の長女・律花は研究者である父親に憧れていた。平凡で幸せな生活が続くと思っていたとある日、突然何者かによって屋敷が襲撃を受けてしまう。絶体絶命の危機に果敢に立ち向かう律花だが――。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 鳥海浩輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸松遥
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊崎愛生
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原啓治
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山力也
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 東地宏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 大地葉
+  type: cast
+- !ruby/hash:TagHash
+  name: 土田大
+  type: cast
+- !ruby/hash:TagHash
+  name: 七瀬彩夏
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田英三
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：野村和也
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Studio 3Hz
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：篠原啓輔
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：斎藤敦史
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 近未来、大都市の一角に佇む忍者屋敷。忍者一族である石動家の長女・律花は、当主の祖父・兵衛、アニマルドローンの研究者である父・アレンと暮らしていた。16歳の誕生日。律花が久々に帰省すると、屋敷は何者かの襲撃を受けていた。瀕死の重傷を負いながら敵に立ち向かう兵衛。そしてアレンは、命をかけてアニマルドローンの未来を律花に託すのだった。<br><br>石動律花・リリィ:七瀬彩夏／ミア:戸松
+    遥／メリッサ:大地 葉／アレン:土田 大／兵衛:津田英三／オボロ:藤原啓治／マダラ:豊崎愛生／カスミ:鳥海浩輔／ローレン:飛田展男／ブラッド:東地宏樹／ハロルド:小山力也<br><br>総監督:野村和也／監督:篠原啓輔／キャラクターデザイン:斎藤敦史／脚本:ハヤシナオキ／アニメーション制作:Studio
+    3Hz<br><br>© PROJECT BLACKFOX<br><br>次話→so36488753
+  length_seconds: 1451
+  content_id: so36488771
+  default_thread_id: 1583781248
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36488771/36488771.91817952
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 屋敷が襲撃されてから数ヵ月後。古いアパートが密集している街の中心からは外れた地域。律花は「リリィ」と名を変え、同居人の少女メリッサと暮らしていた。リリィは探偵の助手をしながら、３体のアニマルドローンとともに父と祖父の仇を探していた。ある日、街の中心企業グラズヘイムの施設を監視中。リリィはミアという名の少女と出会う。<br><br>石動律花・リリィ:七瀬彩夏／ミア:戸松
+    遥／メリッサ:大地 葉／アレン:土田 大／兵衛:津田英三／オボロ:藤原啓治／マダラ:豊崎愛生／カスミ:鳥海浩輔／ローレン:飛田展男／ブラッド:東地宏樹／ハロルド:小山力也<br><br>総監督:野村和也／監督:篠原啓輔／キャラクターデザイン:斎藤敦史／脚本:ハヤシナオキ／アニメーション制作:Studio
+    3Hz<br><br>© PROJECT BLACKFOX<br><br>so36488771←前話｜次話→so36488723　第一話→so36488771
+  length_seconds: 1667
+  content_id: so36488753
+  default_thread_id: 1583781483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36488753/36488753.16788785
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: グラズヘイムの試作兵器がリリィたちの住むアパートを襲撃。リリィは街の人を巻き込まないよう忍者屋敷に誘導し、これを向い撃つ。ミアの協力もあり試作兵器を撃退するが、リリィたちは新たな敵に襲われる。敵の圧倒的な力に傷つくリリィ、ミアそしてアニマルドローンたち。絶体絶命のとき、父と祖父が16歳の誕生日に用意していた忍者装束がリリィの前に現れる。<br><br>石動律花・リリィ:七瀬彩夏／ミア:戸松
+    遥／メリッサ:大地 葉／アレン:土田 大／兵衛:津田英三／オボロ:藤原啓治／マダラ:豊崎愛生／カスミ:鳥海浩輔／ローレン:飛田展男／ブラッド:東地宏樹／ハロルド:小山力也<br><br>総監督:野村和也／監督:篠原啓輔／キャラクターデザイン:斎藤敦史／脚本:ハヤシナオキ／アニメーション制作:Studio
+    3Hz<br><br>© PROJECT BLACKFOX<br><br>so36488753←前話　第一話→so36488771
+  length_seconds: 1794
+  content_id: so36488723
+  default_thread_id: 1583780103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36488723/36488723.94388925
+cast: "[キャスト]<br>石動律花・リリィ:七瀬彩夏／ミア:戸松 遥／メリッサ:大地 葉／アレン:土田 大／兵衛:津田英三／オボロ:藤原啓治／マダラ:豊崎愛生／カスミ:鳥海浩輔／ローレン:飛田展男／ブラッド:東地宏樹／ハロルド:小山力也"
+staff: "[スタッフ]<br>総監督:野村和也／監督:篠原啓輔／キャラクターデザイン:斎藤敦史／脚本:ハヤシナオキ／アニメーション制作:Studio 3Hz"
+produced_year: "[製作年]<br>2019年"
+copyright: "© PROJECT BLACKFOX"
+related_seasons: !ruby/array:Hashie::Array []

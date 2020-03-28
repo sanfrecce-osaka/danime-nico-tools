@@ -32,13 +32,13 @@ tags: !ruby/array:Hashie::Array
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
-  name: 遠藤綾
-  type: cast
-- !ruby/hash:TagHash
   name: 飛田展男
   type: cast
 - !ruby/hash:TagHash
   name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 遠藤綾
   type: cast
 - !ruby/hash:TagHash
   name: 上田燿司
@@ -53,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 音楽：橋本由香利
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：藤田陽一
+  name: 原作：赤塚不二夫
   type: staff
 - !ruby/hash:TagHash
-  name: 原作：赤塚不二夫
+  name: 監督：藤田陽一
   type: staff
 - !ruby/hash:TagHash
   name: 音楽制作：エイベックス・ピクチャーズ

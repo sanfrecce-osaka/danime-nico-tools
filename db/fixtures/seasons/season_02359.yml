@@ -17,10 +17,10 @@ tags: !ruby/array:Hashie::Array
   name: 宮野真守
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
   name: 関智一
@@ -29,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 小西克幸
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
-  type: cast
-- !ruby/hash:TagHash
   name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
   name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
   name: M・A・O

@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: 苺ましまろ OVA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/24/7/23247_1_8_8b.png?1581305578000
+outline: TVシリーズの制作メンバーが再結集して制作されたOVA版。短大生の伸恵、その妹で小学6年生の千佳、千佳の幼馴染で同じく小学6年生の美羽、伸恵と千佳のご近所で小学5年生の茉莉、そして茉莉の同級生でイギリス人のアナ。短大生のお姉ちゃんと小学生4人の女の子たちの何気ない、でもどこかユニークな日常を描く。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉紗子
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：坂井久太
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺剛
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐藤卓哉
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：童夢
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ばらスィー
+  type: staff
+- !ruby/hash:TagHash
+  name: 苺ましまろシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: けしき。
+  description: 桜の花びらが散る春先。伸恵はバイトの面接の電話をする。そこに美羽がやってきて電話口に向かって「フンガーッ」。学校へ行こうとする千佳の額には“発射”の一言がマジックで。授業中に居眠りをするアナ、起こそうとする先生に「起こさないで！」と茉莉。いつものメンバーの、いつもながらの日常です。<br><br>伊藤伸恵:生天目仁美／伊藤千佳:千葉紗子／松岡美羽:折笠富美子／桜木茉莉:川澄綾子／アナ・コッポラ:能登麻美子<br><br>原作:「苺ましまろ」
+    byばらスィー（メディアワークス刊「月刊コミック電撃大王」連載）／監督・構成:佐藤卓哉／キャラクターデザイン・総作画監督:坂井久太／脚本:花田十輝、平見 瞠、佐藤卓哉／音楽:渡辺剛／アニメーション制作:童夢／製作:苺ましまろOVAパートナーズ<br><br>©ばらスィー／アスキー・メディアワークス／苺ましまろOVAパートナーズ<br><br>次話→so36368333
+  length_seconds: 1488
+  content_id: so36368332
+  default_thread_id: 1581717138
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368332/36368332.82566015
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: いつも。
+  description: 相変わらずすき放題の美羽。姉を心配するしっかりものの妹、千佳。のんびりマイペースの茉莉。その茉莉のよきパートナー、アナ。そして、茉莉になごみ萌えする伸恵。いつものメンバーのいつもながらの1日が、まったりと過ぎていく…。<br><br>伊藤伸恵:生天目仁美／伊藤千佳:千葉紗子／松岡美羽:折笠富美子／桜木茉莉:川澄綾子／アナ・コッポラ:能登麻美子<br><br>原作:「苺ましまろ」
+    byばらスィー（メディアワークス刊「月刊コミック電撃大王」連載）／監督・構成:佐藤卓哉／キャラクターデザイン・総作画監督:坂井久太／脚本:花田十輝、平見 瞠、佐藤卓哉／音楽:渡辺剛／アニメーション制作:童夢／製作:苺ましまろOVAパートナーズ<br><br>©ばらスィー／アスキー・メディアワークス／苺ましまろOVAパートナーズ<br><br>so36368332←前話｜次話→so36368334　第一話→so36368332
+  length_seconds: 1537
+  content_id: so36368333
+  default_thread_id: 1581717140
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368333/36368333.34823420
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: まいにち。
+  description: 代わり映えのない毎日をすごしていた面々が、何と連休に泊りがけで出かけることに。到着するまで8時間もかかったり、宿についてもいつもと同じように過ごしてしまったり…。シリーズ初の遠出エピソード、いったい何が起こるのか！
+    起こらないのか？<br><br>伊藤伸恵:生天目仁美／伊藤千佳:千葉紗子／松岡美羽:折笠富美子／桜木茉莉:川澄綾子／アナ・コッポラ:能登麻美子<br><br>原作:「苺ましまろ」
+    byばらスィー（メディアワークス刊「月刊コミック電撃大王」連載）／監督・構成:佐藤卓哉／キャラクターデザイン・総作画監督:坂井久太／脚本:花田十輝、平見 瞠、佐藤卓哉／音楽:渡辺剛／アニメーション制作:童夢／製作:苺ましまろOVAパートナーズ<br><br>©ばらスィー／アスキー・メディアワークス／苺ましまろOVAパートナーズ<br><br>so36368333←前話　第一話→so36368332
+  length_seconds: 1559
+  content_id: so36368334
+  default_thread_id: 1581717128
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368334/36368334.26980084
+cast: "[キャスト]<br>伊藤伸恵:生天目仁美／伊藤千佳:千葉紗子／松岡美羽:折笠富美子／桜木茉莉:川澄綾子／アナ・コッポラ:能登麻美子"
+staff: "[スタッフ]<br>原作:「苺ましまろ」 byばらスィー（メディアワークス刊「月刊コミック電撃大王」連載）／監督・構成:佐藤卓哉／キャラクターデザイン・総作画監督:坂井久太／脚本:花田十輝、平見
+  瞠、佐藤卓哉／音楽:渡辺剛／アニメーション制作:童夢／製作:苺ましまろOVAパートナーズ"
+produced_year: "[製作年]<br>2006年"
+copyright: "©ばらスィー／アスキー・メディアワークス／苺ましまろOVAパートナーズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 苺ましまろ 2005 TV ANIMATION SERIES
+- !ruby/hash:SeasonHash
+  title: OVA苺ましまろencore

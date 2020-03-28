@@ -1,0 +1,147 @@
+--- !ruby/hash:SeasonHash
+title: BanG Dream! 3rd Season
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/17/7/23177_1_8_8b.png?1577151042000
+outline: ポピパ主催ライブから4ヶ月。楽しい夏休みを経て、季節は秋。蔵練、バイト、生徒会――いつもの日々を過ごす香澄たちPoppin'Partyは、ライブハウスGalaxy
+  で、あるポスターを見つける。一方、運命のバンドメンバーを探す六花の元に、一通の招待状が届いて……再びはじまるキラキラドキドキなステージ！みんなと一緒なら、どんな夢だって撃ち抜ける！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美来
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤彩沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 相羽あいな
+  type: cast
+- !ruby/hash:TagHash
+  name: 西本りみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚紗英
+  type: cast
+- !ruby/hash:TagHash
+  name: 前島亜美
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：ブシロード
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：柿本広大
+  type: staff
+- !ruby/hash:TagHash
+  name: BanG Dream!シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: "#01"
+  title: 最高の夢――ですよね！
+  description: ポピパ主催ライブから４ヶ月。楽しい夏休みを経て、季節は秋。蔵練、バイト、生徒会ーーいつもの日々を過ごす香澄たちがGalaxyで見つけたものとは？<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>次話→so36317884
+  length_seconds: 1420
+  content_id: so36290393
+  default_thread_id: 1580261943
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36290393/36290393.48162048
+- !ruby/hash:EpisodeHash
+  episode_no: "#02"
+  title: おびえてるじゃない
+  description: "「ロッカ・アサヒ、あなたをスカウトする！」チュチュから大胆なスカウトを受けた六花。困惑する彼女の返事は……？<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36290393←前話｜次話→so36354145　第一話→so36290393"
+  length_seconds: 1420
+  content_id: so36317884
+  default_thread_id: 1580783463
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36317884/36317884.10455204
+- !ruby/hash:EpisodeHash
+  episode_no: "#03"
+  title: 帰らん！
+  description: 不合格を告げられ、複雑な心境の六花。事情を知った沙綾は、自分がPoppin'Partyに加入した時のことを思い出す。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36317884←前話｜次話→so36422482　第一話→so36290393
+  length_seconds: 1420
+  content_id: so36354145
+  default_thread_id: 1581471733
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36354145/36354145.23539162
+- !ruby/hash:EpisodeHash
+  episode_no: "#04"
+  title: タコさんウィンナーだぎゃあ
+  description: RAISE A SUILENに、「RASのギター（仮）」として加入した六花。慣れない環境に戸惑う六花を尻目に、MVの撮影がはじまる。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36354145←前話｜次話→so36453018　第一話→so36290393
+  length_seconds: 1420
+  content_id: so36422482
+  default_thread_id: 1582683250
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422482/36422482.80666150
+- !ruby/hash:EpisodeHash
+  episode_no: "#05"
+  title: ポピブイ！
+  description: RAISE A SUILENのMVに感銘を受けたPoppin'Party。自分たちもやろう！と意気込むが……？<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36422482←前話｜次話→so36489279　第一話→so36290393
+  length_seconds: 1420
+  content_id: so36453018
+  default_thread_id: 1583203865
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36453018/36453018.9122485
+- !ruby/hash:EpisodeHash
+  episode_no: "#06"
+  title: This is it.
+  description: チュチュの思惑通り、同じ予選ライブに出場することになったRoselia。紗夜は友希那の予想外の返事に困惑し、友希那を問いただす。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36453018←前話｜次話→so36526430　第一話→so36290393
+  length_seconds: 1420
+  content_id: so36489279
+  default_thread_id: 1583802844
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36489279/36489279.80334367
+- !ruby/hash:EpisodeHash
+  episode_no: "#07"
+  title: 音に残しておきたくて
+  description: Roseliaに勝利し、RASメンバーのために祝勝パーティを開くチュチュ。しかし、レイヤやマスキングは浮かない表情で……。そのころ、Roseliaはーー。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36489279←前話｜次話→so36562476　第一話→so36290393
+  length_seconds: 1420
+  content_id: so36526430
+  default_thread_id: 1584412985
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36526430/36526430.21687582
+- !ruby/hash:EpisodeHash
+  episode_no: "#8"
+  title: のんびりしていてよいのでしょうか
+  description: Afterglowが、いつも通りの放課後を過ごしていると、突然、つぐみのスマホが鳴る。「えっ、長老さん達が！？！」<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36526430←前話　第一話→so36290393
+  length_seconds: 1420
+  content_id: so36562476
+  default_thread_id: 1585019465
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562476/36562476.59712935
+cast: "[キャスト]<br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか"
+staff: "[スタッフ]<br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©BanG Dream! Project"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: BanG Dream!
+- !ruby/hash:SeasonHash
+  title: BanG Dream! 2nd Season
+- !ruby/hash:SeasonHash
+  title: BanG Dream! ガルパ☆ピコ

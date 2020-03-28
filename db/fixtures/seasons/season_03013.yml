@@ -1,0 +1,73 @@
+--- !ruby/hash:SeasonHash
+title: YOU'RE UNDER ARREST ～逮捕しちゃうぞ～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/62/0/23620_1_8_8b.png?1582795859000
+outline: 墨東署の名物婦警コンビ・辻本夏実と小早川美幸に命じられた海外での特別研修。彼女たちがアメリカ西海岸に着任すると、待ち受けていたのは墨東署の面々と瓜二つな署員たちであった。その後、夏実と美幸は盗難車を改造した暴走行為に遭遇。暴走を繰り返す組織に対し、夏海と美幸は怒涛のカーチェイスを展開。いつものように犯人を追い詰めてゆくが……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 平松晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 玉川砂記子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本梨香
+  type: cast
+- !ruby/hash:TagHash
+  name: 島田敏
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオディーン
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大谷幸
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤島康介
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：河本昇悟
+  type: staff
+- !ruby/hash:TagHash
+  name: 逮捕しちゃうぞシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 墨東署の名物婦警コンビ・辻本夏実と小早川美幸に命じられた海外での特別研修。彼女たちがアメリカ西海岸に着任すると、待ち受けていたのは墨東署の面々と瓜二つな署員たちであった。その後、夏実と美幸は盗難車を改造した暴走行為に遭遇。暴走を繰り返す組織に対し、夏海と美幸は怒涛のカーチェイスを展開。いつものように犯人を追い詰めてゆくが……。<br><br>辻本夏実:玉川紗己子／小早川美幸:平松晶子／ケイン:島田敏／リコ:小桜エツ子／アオイ:松本梨香／ショウ:関智一<br><br>原作:藤島康介「逮捕しちゃうぞ」／監督:河本昇悟／脚本:玉井☆豪／音楽:大谷
+    幸／制作会社:スタジオディーン<br><br>©KOSUKE FUJISHIMA／“YOU'RE UNDER ARREST”PARTNERSHIP
+  length_seconds: 1419
+  content_id: so36432765
+  default_thread_id: 1582872362
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36432765/36432765.17536194
+cast: "[キャスト]<br>辻本夏実:玉川紗己子／小早川美幸:平松晶子／ケイン:島田敏／リコ:小桜エツ子／アオイ:松本梨香／ショウ:関智一"
+staff: "[スタッフ]<br>原作:藤島康介「逮捕しちゃうぞ」／監督:河本昇悟／脚本:玉井☆豪／音楽:大谷 幸／制作会社:スタジオディーン"
+produced_year: "[製作年]<br>2002年"
+copyright: "©KOSUKE FUJISHIMA／“YOU'RE UNDER ARREST”PARTNERSHIP"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: TVA　逮捕しちゃうぞ
+- !ruby/hash:SeasonHash
+  title: 逮捕しちゃうぞ SECOND SEASON
+- !ruby/hash:SeasonHash
+  title: 逮捕しちゃうぞ　フルスロットル

@@ -1,0 +1,151 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/41/6/23416_1_8_8b.png?1580451213000
+outline: 名作「海神別荘」を原作に、サクラ大戦ならではの脚色を加えた超大作。第一部では、花組のメンバーの休暇の日に起こる珍事件を巡るドタバタ劇。第二部では、花組のメンバーが「海神別荘」を熱演。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 高乃麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕崎ゆり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 西原久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 富沢美智恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2001年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 名作「海神別荘」を原作に、サクラ大戦ならではの脚色を加えた超大作。第一部では、花組のメンバーの休暇の日に起こる珍事件を巡るドタバタ劇。第二部では、花組のメンバーが「海神別荘」を熱演。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318369
+  length_seconds: 1872
+  content_id: so36318368
+  default_thread_id: 1580797708
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318368/36318368.40028547
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 名作「海神別荘」を原作に、サクラ大戦ならではの脚色を加えた超大作。第一部では、花組のメンバーの休暇の日に起こる珍事件を巡るドタバタ劇。第二部では、花組のメンバーが「海神別荘」を熱演。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318368←前話｜次話→so36318370　第一話→so36318368
+  length_seconds: 1927
+  content_id: so36318369
+  default_thread_id: 1580797688
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318369/36318369.78700246
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 名作「海神別荘」を原作に、サクラ大戦ならではの脚色を加えた超大作。第一部では、花組のメンバーの休暇の日に起こる珍事件を巡るドタバタ劇。第二部では、花組のメンバーが「海神別荘」を熱演。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318369←前話｜次話→so36318371　第一話→so36318368
+  length_seconds: 2306
+  content_id: so36318370
+  default_thread_id: 1580799669
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318370/36318370.58920042
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 名作「海神別荘」を原作に、サクラ大戦ならではの脚色を加えた超大作。第一部では、花組のメンバーの休暇の日に起こる珍事件を巡るドタバタ劇。第二部では、花組のメンバーが「海神別荘」を熱演。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318370←前話｜次話→so36318372　第一話→so36318368
+  length_seconds: 1838
+  content_id: so36318371
+  default_thread_id: 1580797710
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318371/36318371.535921
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 名作「海神別荘」を原作に、サクラ大戦ならではの脚色を加えた超大作。第一部では、花組のメンバーの休暇の日に起こる珍事件を巡るドタバタ劇。第二部では、花組のメンバーが「海神別荘」を熱演。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318371←前話｜次話→so36318351　第一話→so36318368
+  length_seconds: 1804
+  content_id: so36318372
+  default_thread_id: 1580797698
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318372/36318372.41082056
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: ''
+  description: 名作「海神別荘」を原作に、サクラ大戦ならではの脚色を加えた超大作。第一部では、花組のメンバーの休暇の日に起こる珍事件を巡るドタバタ劇。第二部では、花組のメンバーが「海神別荘」を熱演。<br><br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318372←前話　第一話→so36318368
+  length_seconds: 1883
+  content_id: so36318351
+  default_thread_id: 1580797696
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318351/36318351.36380510
+cast: "[キャスト]<br>出演:横山智佐、富沢美智恵、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2001年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2004年新春歌謡ショウ「歌え♪花組」

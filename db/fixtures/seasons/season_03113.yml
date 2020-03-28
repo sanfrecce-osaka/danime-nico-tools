@@ -1,0 +1,126 @@
+--- !ruby/hash:SeasonHash
+title: ライブ・ファンタジー「FAIRY TAIL」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/34/3/21343_1_8_8b.png?1582799556000
+outline: "【ライブ・ファンタジー「FAIRY TAIL」】06年より講談社「週刊少年マガジン」で連載が開始され、現在も連載中の真島ヒロ著「FAIRY TAIL」。　09年にTVアニメが放映開始、以来、劇場版アニメ・ゲームなど様々なメディアミックス化がなされ、現在世界の主要約70か国でTVアニメが放送・配信されている大人気作品の舞台化。ナツの炎をはじめ、魔導士たちの魔法や戦いのシーンなどを、ビジュアルポイやシースルースクリーンといった最新鋭の映像技術で表現。ノンストップで展開されるアクションは必見。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野健斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮崎秋人
+  type: cast
+- !ruby/hash:TagHash
+  name: 郷本直也
+  type: cast
+- !ruby/hash:TagHash
+  name: 古谷大和
+  type: cast
+- !ruby/hash:TagHash
+  name: 荒木宏文
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤廉
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊波杏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 山本一慶
+  type: cast
+- !ruby/hash:TagHash
+  name: 富岡晃一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 佃井皆美
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：真島ヒロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：児玉明子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：和田俊輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ライブ・ファンタジー「FAIRY TAIL」
+  description: ある日、「妖精の尻尾（フェアリーテイル）」のマスター、マカロフより『闇ギルドの最大勢力「六魔将軍（オラシオンセイス）」を討て』という指令が告げられる。強大すぎる敵の討伐の為、炎を自在に操る滅竜魔導士（ドラゴンスレイヤー）のナツが所属する「妖精の尻尾」と「青い天馬（ブルーペガサス）」、「蛇姫の鱗（ラミアスケイル）」、そして「化猫の宿（ケット・シェルター）」による連合を組むことに。果たして、封印された破壊魔法
+    ”超反転魔法ニルヴァーナ” とは…？ 「六魔将軍」が、その封印を解こうと目論んでいる目的とは…？各ギルドから選ばれた精鋭たちの連合軍は、連携を取って試練に立ち向かえるのだろうか…？<br><br>出演:宮崎秋人／愛加あゆ　白又
+    敦　佃井皆美　桃瀬美咲／郷本直也　古谷大和　山本一慶　伊波杏樹　伊藤千秋　クリス・マッコームス／富岡晃一郎　小野健斗　熊野利哉　小澤 廉／荒木宏文【声の出演】釘宮理恵　堀江由衣<br><br>原作:真島ヒロ「FAIRY
+    TAIL」（講談社「週刊少年マガジン」連載）／脚本・演出:児玉明子／音楽:和田俊輔<br><br>©真島ヒロ／講談社　©「FAIRY TAIL」舞台製作委員会2016<br><br>次話→so36367832
+  length_seconds: 1919
+  content_id: so36367831
+  default_thread_id: 1581702852
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367831/36367831.82544654
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ライブ・ファンタジー「FAIRY TAIL」
+  description: ある日、「妖精の尻尾（フェアリーテイル）」のマスター、マカロフより『闇ギルドの最大勢力「六魔将軍（オラシオンセイス）」を討て』という指令が告げられる。強大すぎる敵の討伐の為、炎を自在に操る滅竜魔導士（ドラゴンスレイヤー）のナツが所属する「妖精の尻尾」と「青い天馬（ブルーペガサス）」、「蛇姫の鱗（ラミアスケイル）」、そして「化猫の宿（ケット・シェルター）」による連合を組むことに。果たして、封印された破壊魔法
+    ”超反転魔法ニルヴァーナ” とは…？ 「六魔将軍」が、その封印を解こうと目論んでいる目的とは…？各ギルドから選ばれた精鋭たちの連合軍は、連携を取って試練に立ち向かえるのだろうか…？<br><br>出演:宮崎秋人／愛加あゆ　白又
+    敦　佃井皆美　桃瀬美咲／郷本直也　古谷大和　山本一慶　伊波杏樹　伊藤千秋　クリス・マッコームス／富岡晃一郎　小野健斗　熊野利哉　小澤 廉／荒木宏文【声の出演】釘宮理恵　堀江由衣<br><br>原作:真島ヒロ「FAIRY
+    TAIL」（講談社「週刊少年マガジン」連載）／脚本・演出:児玉明子／音楽:和田俊輔<br><br>©真島ヒロ／講談社　©「FAIRY TAIL」舞台製作委員会2016<br><br>so36367831←前話｜次話→so36367833　第一話→so36367831
+  length_seconds: 2070
+  content_id: so36367832
+  default_thread_id: 1581705321
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367832/36367832.21708403
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ライブ・ファンタジー「FAIRY TAIL」
+  description: ある日、「妖精の尻尾（フェアリーテイル）」のマスター、マカロフより『闇ギルドの最大勢力「六魔将軍（オラシオンセイス）」を討て』という指令が告げられる。強大すぎる敵の討伐の為、炎を自在に操る滅竜魔導士（ドラゴンスレイヤー）のナツが所属する「妖精の尻尾」と「青い天馬（ブルーペガサス）」、「蛇姫の鱗（ラミアスケイル）」、そして「化猫の宿（ケット・シェルター）」による連合を組むことに。果たして、封印された破壊魔法
+    ”超反転魔法ニルヴァーナ” とは…？ 「六魔将軍」が、その封印を解こうと目論んでいる目的とは…？各ギルドから選ばれた精鋭たちの連合軍は、連携を取って試練に立ち向かえるのだろうか…？<br><br>出演:宮崎秋人／愛加あゆ　白又
+    敦　佃井皆美　桃瀬美咲／郷本直也　古谷大和　山本一慶　伊波杏樹　伊藤千秋　クリス・マッコームス／富岡晃一郎　小野健斗　熊野利哉　小澤 廉／荒木宏文【声の出演】釘宮理恵　堀江由衣<br><br>原作:真島ヒロ「FAIRY
+    TAIL」（講談社「週刊少年マガジン」連載）／脚本・演出:児玉明子／音楽:和田俊輔<br><br>©真島ヒロ／講談社　©「FAIRY TAIL」舞台製作委員会2016<br><br>so36367832←前話　第一話→so36367831
+  length_seconds: 1965
+  content_id: so36367833
+  default_thread_id: 1581705319
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36367833/36367833.24383382
+cast: "[キャスト]<br>出演:宮崎秋人／愛加あゆ　白又 敦　佃井皆美　桃瀬美咲／郷本直也　古谷大和　山本一慶　伊波杏樹　伊藤千秋　クリス・マッコームス／富岡晃一郎　小野健斗　熊野利哉　小澤
+  廉／荒木宏文【声の出演】釘宮理恵　堀江由衣"
+staff: "[スタッフ]<br>原作:真島ヒロ「FAIRY TAIL」（講談社「週刊少年マガジン」連載）／脚本・演出:児玉明子／音楽:和田俊輔"
+produced_year: "[製作年]<br>2016年"
+copyright: "©真島ヒロ／講談社　©「FAIRY TAIL」舞台製作委員会2016"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL　第1話～第48話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL　第49話～第72話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL　第73話～第98話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL　第99話～第124話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL　第125話～第150話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL　第151話～第175話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL　第176話～第277話
+- !ruby/hash:SeasonHash
+  title: FAIRY TAIL ファイナルシリーズ
+- !ruby/hash:SeasonHash
+  title: 劇場版FAIRY TAIL -鳳凰の巫女-
+- !ruby/hash:SeasonHash
+  title: 劇場版 FAIRY TAIL -DRAGON CRY-

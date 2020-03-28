@@ -1,0 +1,101 @@
+--- !ruby/hash:SeasonHash
+title: サカサマのパテマ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/21/8/23218_1_8_8b.png?1578465030000
+outline: かつて、大異変が人類を襲った。そして、時は流れ…。夜明け直前の‘空’を見上げる少年、エイジ。彼の住むアイガでは、「かつて、多くの罪びとが空に落ちた」と‘空’を忌み嫌う世界であった。そこに、突然現れた‘サカサマの少女’。彼女は、必死にフェンスにしがみつき、今にも‘空’に落ちそうである。彼女の名まえはパテマ。地下世界から降ってきた。エイジが彼女を助けようと手を握った時、彼女に引っ張られるように二人は空へ飛び出した。恐怖に慄くパテマと、想像を超える体験に驚愕するエイジ。この奇妙な出会いこそ、封じられた<真逆の世界>の謎を解く、禁断の事件であった。その頃、アイガの君主イザムラの元には、「サカサマ人」があらわれたとの報告が届く。イザムラは、治安警察のジャクに捜索を命じるのだった…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 安元洋貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 土師孝也
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤井ゆきよ
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤将之
+  type: cast
+- !ruby/hash:TagHash
+  name: 大畑伸太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: ふくまつ進紗
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：大島ミチル
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：吉浦康裕
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：吉浦康裕
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：茶山隆介
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2013年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: パテマ:藤井ゆきよ／ポルタ:大畑伸太郎／ラゴス:加藤将之／カホ:内田真礼／エイジ:岡本信彦／ジィ:ふくまつ進紗／ジャク:安元洋貴／イザムラ:土師孝也<br><br>原作・脚本・監督:吉浦康裕／アニメーションキャラクターデザイン・作画監督:茶山隆介／コスチュームデザイン:杏仁豆腐／作画監督:又賀大介／美術監督:金子雄司／CG監督:安喰秀一／動画監督:大谷久美子／色彩設計:井上あきこ／制作プロデューサー:稲垣亮祐／音響監督:山岡晃／音楽:大島ミチル／歌:Estelle
+    Micheau<br><br>©Yasuhiro YOSHIURA/Sakasama Film Committee 2013<br><br>次話→so36255636
+  length_seconds: 1552
+  content_id: so36255635
+  default_thread_id: 1579572076
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255635/36255635.63774898
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: パテマ:藤井ゆきよ／ポルタ:大畑伸太郎／ラゴス:加藤将之／カホ:内田真礼／エイジ:岡本信彦／ジィ:ふくまつ進紗／ジャク:安元洋貴／イザムラ:土師孝也<br><br>原作・脚本・監督:吉浦康裕／アニメーションキャラクターデザイン・作画監督:茶山隆介／コスチュームデザイン:杏仁豆腐／作画監督:又賀大介／美術監督:金子雄司／CG監督:安喰秀一／動画監督:大谷久美子／色彩設計:井上あきこ／制作プロデューサー:稲垣亮祐／音響監督:山岡晃／音楽:大島ミチル／歌:Estelle
+    Micheau<br><br>©Yasuhiro YOSHIURA/Sakasama Film Committee 2013<br><br>so36255635←前話｜次話→so36255637　第一話→so36255635
+  length_seconds: 1582
+  content_id: so36255636
+  default_thread_id: 1579572080
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255636/36255636.95187834
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: パテマ:藤井ゆきよ／ポルタ:大畑伸太郎／ラゴス:加藤将之／カホ:内田真礼／エイジ:岡本信彦／ジィ:ふくまつ進紗／ジャク:安元洋貴／イザムラ:土師孝也<br><br>原作・脚本・監督:吉浦康裕／アニメーションキャラクターデザイン・作画監督:茶山隆介／コスチュームデザイン:杏仁豆腐／作画監督:又賀大介／美術監督:金子雄司／CG監督:安喰秀一／動画監督:大谷久美子／色彩設計:井上あきこ／制作プロデューサー:稲垣亮祐／音響監督:山岡晃／音楽:大島ミチル／歌:Estelle
+    Micheau<br><br>©Yasuhiro YOSHIURA/Sakasama Film Committee 2013<br><br>so36255636←前話｜次話→so36255638　第一話→so36255635
+  length_seconds: 1574
+  content_id: so36255637
+  default_thread_id: 1579572082
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255637/36255637.24574710
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: パテマ:藤井ゆきよ／ポルタ:大畑伸太郎／ラゴス:加藤将之／カホ:内田真礼／エイジ:岡本信彦／ジィ:ふくまつ進紗／ジャク:安元洋貴／イザムラ:土師孝也<br><br>原作・脚本・監督:吉浦康裕／アニメーションキャラクターデザイン・作画監督:茶山隆介／コスチュームデザイン:杏仁豆腐／作画監督:又賀大介／美術監督:金子雄司／CG監督:安喰秀一／動画監督:大谷久美子／色彩設計:井上あきこ／制作プロデューサー:稲垣亮祐／音響監督:山岡晃／音楽:大島ミチル／歌:Estelle
+    Micheau<br><br>©Yasuhiro YOSHIURA/Sakasama Film Committee 2013<br><br>so36255637←前話　第一話→so36255635
+  length_seconds: 1220
+  content_id: so36255638
+  default_thread_id: 1579572067
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255638/36255638.60988376
+cast: "[キャスト]<br>パテマ:藤井ゆきよ／ポルタ:大畑伸太郎／ラゴス:加藤将之／カホ:内田真礼／エイジ:岡本信彦／ジィ:ふくまつ進紗／ジャク:安元洋貴／イザムラ:土師孝也"
+staff: "[スタッフ]<br>原作・脚本・監督:吉浦康裕／アニメーションキャラクターデザイン・作画監督:茶山隆介／コスチュームデザイン:杏仁豆腐／作画監督:又賀大介／美術監督:金子雄司／CG監督:安喰秀一／動画監督:大谷久美子／色彩設計:井上あきこ／制作プロデューサー:稲垣亮祐／音響監督:山岡晃／音楽:大島ミチル／歌:Estelle
+  Micheau"
+produced_year: "[製作年]<br>2013年"
+copyright: "©Yasuhiro YOSHIURA/Sakasama Film Committee 2013"
+related_seasons: !ruby/array:Hashie::Array []

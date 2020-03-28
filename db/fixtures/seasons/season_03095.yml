@@ -1,0 +1,67 @@
+--- !ruby/hash:SeasonHash
+title: パンダコパンダ　雨ふりサーカスの巻
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/33/0/23330_1_8_8b.png?1580452274000
+outline: 竹やぶの一軒屋にたった一人で住んでいた少女ミミ子。小学生ながらしっかり者のミミ子が買い物から帰ってくると小さな子パンダのパンちゃんが庭にいた。さらにその親のパパンダも現れる。ミミ子に父親がいないことを知ったパパンダは自分が父親代わりになると言い、ミミ子はパンちゃんの母親になると決める。こうして２頭はそのままミミ子と暮らすことになり、奇妙で楽しい新生活が始まった。原案は宮崎　駿によるもので、後の宮崎名作アニメの源流と位置づけられる。ユーモラスで愛くるしい２頭のパンダは今なお人気。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 杉山佳寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田康雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 太田淑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 熊倉一雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 和田文夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：宮崎駿
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：佐藤允彦
+  type: staff
+- !ruby/hash:TagHash
+  name: パンダコパンダシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1973年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: ミミ子ちゃんとパンちゃんとパパンダは、毎日楽しく暮らしていました。そんなある日、ミミ子ちゃんたちの留守に怪しい二人組が……。そこへ帰って来たミミ子ちゃんは「どろぼうさんを見るのは初めて！」と喜びますが、二人組は一目散に逃げ帰ってしまいました。せっかくの面白そうなお客さんがいなくなって、ちょっとがっかりのミミ子ちゃんですが、パンちゃんは自分のご飯が食べられていることに気付きました。パンちゃんが鼻をクンクンさせて家中を探します。パンちゃんのベッドにもぐりこみ、スヤスヤと眠っていたのは……なんとトラの子供でした！　二人ともびっくりして家中を走り回って大騒ぎです……。<br><br>ミミ子:杉山
+    佳寿子／パパンダ:熊倉 一雄／コパンダ:太田 淑子／団員:山田 康雄／サーカスの団長さん:和田 文雄<br><br>原作・脚本・美術設定・画面構成:宮崎 駿／作画監督:大塚
+    康生、小田部 羊一／美術監督:小林　七郎／撮影監督:清水 達正／音楽:佐藤 允彦／原画:河内 日出夫、中村 英一、近藤 喜文、竹内 留吉、青木 雄三、本多
+    敏行、本木 久年、大塚 康生、村田 耕一、才田 俊次、小田部 羊一、矢沢 則夫、金沢 比呂司、宮崎 駿<br><br>©TMS
+  length_seconds: 2276
+  content_id: so36319124
+  default_thread_id: 1580810223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36319124/36319124.11531449
+cast: "[キャスト]<br>ミミ子:杉山 佳寿子／パパンダ:熊倉 一雄／コパンダ:太田 淑子／団員:山田 康雄／サーカスの団長さん:和田 文雄"
+staff: "[スタッフ]<br>原作・脚本・美術設定・画面構成:宮崎 駿／作画監督:大塚 康生、小田部 羊一／美術監督:小林　七郎／撮影監督:清水 達正／音楽:佐藤
+  允彦／原画:河内 日出夫、中村 英一、近藤 喜文、竹内 留吉、青木 雄三、本多 敏行、本木 久年、大塚 康生、村田 耕一、才田 俊次、小田部 羊一、矢沢 則夫、金沢
+  比呂司、宮崎 駿"
+produced_year: "[製作年]<br>1973年"
+copyright: "©TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: パンダコパンダ

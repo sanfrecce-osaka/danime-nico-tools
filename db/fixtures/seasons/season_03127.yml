@@ -1,0 +1,85 @@
+--- !ruby/hash:SeasonHash
+title: ペットショップ　オブ　ホラーズ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/64/4/23644_1_8_8b.png?1582795807000
+outline: チャイナタウンにある、客の求めるいかなるペットをも入手するというペットショップ。そのオーナーの美青年カウントＤと、彼が依頼人に用意する様々なペットの織りなす不可思議な物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ゆきのさつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野坂昌也
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田みほ
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡部猛
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：平田敏夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：秋乃茉莉
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: Daughter
+  description: チャイナタウンにある、客の求めるいかなるペットをも入手するというペットショップ。そのオーナーの美青年カウントＤと、彼が依頼人に用意する様々なペットの織りなす不可思議な物語。<br><br>Ｄ伯爵:関
+    俊彦／レオン・オルロット:小野坂昌也／部長:渡部 猛／ジル:雪乃五月／Qちゃん:山田みほ<br><br>原作:秋乃茉莉／監督:平田敏夫／プロデューサー:落合芳行・源生哲雄／脚本:今川泰宏、浦畑達彦、井上茜／テーマ音楽:山口一久<br><br>©秋乃茉莉／ポリグラム・TBS・マッドハウス<br><br>次話→so36448078
+  length_seconds: 1384
+  content_id: so36448077
+  default_thread_id: 1583114105
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36448077/36448077.19448863
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: Delicious
+  description: チャイナタウンにある、客の求めるいかなるペットをも入手するというペットショップ。そのオーナーの美青年カウントＤと、彼が依頼人に用意する様々なペットの織りなす不可思議な物語。<br><br>Ｄ伯爵:関
+    俊彦／レオン・オルロット:小野坂昌也／部長:渡部 猛／ジル:雪乃五月／Qちゃん:山田みほ<br><br>原作:秋乃茉莉／監督:平田敏夫／プロデューサー:落合芳行・源生哲雄／脚本:今川泰宏、浦畑達彦、井上茜／テーマ音楽:山口一久<br><br>©秋乃茉莉／ポリグラム・TBS・マッドハウス<br><br>so36448077←前話｜次話→so36448079　第一話→so36448077
+  length_seconds: 1383
+  content_id: so36448078
+  default_thread_id: 1583114283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36448078/36448078.65760302
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: Despair
+  description: チャイナタウンにある、客の求めるいかなるペットをも入手するというペットショップ。そのオーナーの美青年カウントＤと、彼が依頼人に用意する様々なペットの織りなす不可思議な物語。<br><br>Ｄ伯爵:関
+    俊彦／レオン・オルロット:小野坂昌也／部長:渡部 猛／ジル:雪乃五月／Qちゃん:山田みほ<br><br>原作:秋乃茉莉／監督:平田敏夫／プロデューサー:落合芳行・源生哲雄／脚本:今川泰宏、浦畑達彦、井上茜／テーマ音楽:山口一久<br><br>©秋乃茉莉／ポリグラム・TBS・マッドハウス<br><br>so36448078←前話｜次話→so36448091　第一話→so36448077
+  length_seconds: 1384
+  content_id: so36448079
+  default_thread_id: 1583114103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36448079/36448079.59993153
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: Dual
+  description: チャイナタウンにある、客の求めるいかなるペットをも入手するというペットショップ。そのオーナーの美青年カウントＤと、彼が依頼人に用意する様々なペットの織りなす不可思議な物語。<br><br>Ｄ伯爵:関
+    俊彦／レオン・オルロット:小野坂昌也／部長:渡部 猛／ジル:雪乃五月／Qちゃん:山田みほ<br><br>原作:秋乃茉莉／監督:平田敏夫／プロデューサー:落合芳行・源生哲雄／脚本:今川泰宏、浦畑達彦、井上茜／テーマ音楽:山口一久<br><br>©秋乃茉莉／ポリグラム・TBS・マッドハウス<br><br>so36448079←前話　第一話→so36448077
+  length_seconds: 1383
+  content_id: so36448091
+  default_thread_id: 1583114469
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36448091/36448091.82613001
+cast: "[キャスト]<br>Ｄ伯爵:関 俊彦／レオン・オルロット:小野坂昌也／部長:渡部 猛／ジル:雪乃五月／Qちゃん:山田みほ"
+staff: "[スタッフ]<br>原作:秋乃茉莉／監督:平田敏夫／プロデューサー:落合芳行・源生哲雄／脚本:今川泰宏、浦畑達彦、井上茜／テーマ音楽:山口一久"
+produced_year: "[製作年]<br>1999年"
+copyright: "©秋乃茉莉／ポリグラム・TBS・マッドハウス"
+related_seasons: !ruby/array:Hashie::Array []

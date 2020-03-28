@@ -1,0 +1,89 @@
+--- !ruby/hash:SeasonHash
+title: 蟲師 特別編「鈴の雫」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/61/1/23611_1_8_8b.png?1582185662000
+outline: ヒトから生まれ、ヒトとは成れぬ事を定められたモノが在った。摩滅しゆく心に灯るは無数の光──己を取り巻く総ての生命という輝き。往くべき処を悟るモノ、還るべき温もりを示す者。其々が其々の“生”を全うする刻、かの地に鳴り渡るのは──幽寂なる調べ。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 土井美加
+  type: cast
+- !ruby/hash:TagHash
+  name: 中野裕斗
+  type: cast
+- !ruby/hash:TagHash
+  name: 齋藤智美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小川ゲン
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：アートランド
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：馬越嘉彦
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長濵博史
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：漆原友紀
+  type: staff
+- !ruby/hash:TagHash
+  name: 蟲師シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: ヒトから生まれ、ヒトとは成れぬ事を定められたモノが在った。摩滅しゆく心に灯るは無数の光──己を取り巻く総ての生命という輝き。往くべき処を悟るモノ、還るべき温もりを示す者。其々が其々の“生”を全うする刻、かの地に鳴り渡るのは──幽寂なる調べ。<br><br>ギンコ:中野裕斗／声:土井美加／カヤ:齋藤智美／葦朗:小川ゲン<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    By Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>次話→so36427917
+  length_seconds: 1405
+  content_id: so36427953
+  default_thread_id: 1582785302
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427953/36427953.26159717
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: ヒトから生まれ、ヒトとは成れぬ事を定められたモノが在った。摩滅しゆく心に灯るは無数の光──己を取り巻く総ての生命という輝き。往くべき処を悟るモノ、還るべき温もりを示す者。其々が其々の“生”を全うする刻、かの地に鳴り渡るのは──幽寂なる調べ。<br><br>ギンコ:中野裕斗／声:土井美加／カヤ:齋藤智美／葦朗:小川ゲン<br><br>原作:漆原友紀(講談社
+    月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+    By Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド<br><br>©漆原友紀／講談社・アニプレックス<br><br>so36427953←前話　第一話→so36427953
+  length_seconds: 1388
+  content_id: so36427917
+  default_thread_id: 1582784583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427917/36427917.87199824
+cast: "[キャスト]<br>ギンコ:中野裕斗／声:土井美加／カヤ:齋藤智美／葦朗:小川ゲン"
+staff: "[スタッフ]<br>原作:漆原友紀(講談社 月刊アフタヌーン 所載)／監督・シリーズ構成:長濵博史／キャラクターデザイン・総作画監督:馬越嘉彦／美術監督:脇威志／テクニカルアドバイザー:大山佳久／撮影監督:中村雄太／編集:松村正宏／音楽:増田俊郎／音響監督:たなかかずや／主題歌:「SHIVER」Song
+  By Lucy Rose(Sony Music Japan International)／アニメーション制作:アニメーションスタジオ・アートランド"
+produced_year: "[製作年]<br>2015年"
+copyright: "©漆原友紀／講談社・アニプレックス"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 蟲師
+- !ruby/hash:SeasonHash
+  title: 蟲師 特別篇「日蝕む翳」
+- !ruby/hash:SeasonHash
+  title: 蟲師 続章

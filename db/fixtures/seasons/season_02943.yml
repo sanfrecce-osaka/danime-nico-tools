@@ -1,0 +1,145 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新・青い鳥」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/42/5/23425_1_8_8b.png?1580451083000
+outline: 突如花組の前に現れた忍者軍団“根来衆”。彼らは帝都の破壊を目論んでいた。花組は、帝都に平和を取り戻すことができるのか？　そして無事に「青い鳥」の幕を開けることができるのか？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 高乃麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 西原久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2005年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 突如花組の前に現れた忍者軍団“根来衆”。彼らは帝都の破壊を目論んでいた。花組は、帝都に平和を取り戻すことができるのか？　そして無事に「青い鳥」の幕を開けることができるのか？<br><br>出演:横山智佐、高乃麗、西原久美子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318104
+  length_seconds: 2106
+  content_id: so36318105
+  default_thread_id: 1580790910
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318105/36318105.32859938
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 突如花組の前に現れた忍者軍団“根来衆”。彼らは帝都の破壊を目論んでいた。花組は、帝都に平和を取り戻すことができるのか？　そして無事に「青い鳥」の幕を開けることができるのか？<br><br>出演:横山智佐、高乃麗、西原久美子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318105←前話｜次話→so36318103　第一話→so36318105
+  length_seconds: 1718
+  content_id: so36318104
+  default_thread_id: 1580790926
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318104/36318104.36028516
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 突如花組の前に現れた忍者軍団“根来衆”。彼らは帝都の破壊を目論んでいた。花組は、帝都に平和を取り戻すことができるのか？　そして無事に「青い鳥」の幕を開けることができるのか？<br><br>出演:横山智佐、高乃麗、西原久美子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318104←前話｜次話→so36318102　第一話→so36318105
+  length_seconds: 2059
+  content_id: so36318103
+  default_thread_id: 1580790924
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318103/36318103.48478094
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 突如花組の前に現れた忍者軍団“根来衆”。彼らは帝都の破壊を目論んでいた。花組は、帝都に平和を取り戻すことができるのか？　そして無事に「青い鳥」の幕を開けることができるのか？<br><br>出演:横山智佐、高乃麗、西原久美子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318103←前話｜次話→so36318196　第一話→so36318105
+  length_seconds: 2057
+  content_id: so36318102
+  default_thread_id: 1580790903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318102/36318102.28884389
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 突如花組の前に現れた忍者軍団“根来衆”。彼らは帝都の破壊を目論んでいた。花組は、帝都に平和を取り戻すことができるのか？　そして無事に「青い鳥」の幕を開けることができるのか？<br><br>出演:横山智佐、高乃麗、西原久美子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318102←前話｜次話→so36318266　第一話→so36318105
+  length_seconds: 2077
+  content_id: so36318196
+  default_thread_id: 1580792525
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318196/36318196.19870979
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: ''
+  description: 突如花組の前に現れた忍者軍団“根来衆”。彼らは帝都の破壊を目論んでいた。花組は、帝都に平和を取り戻すことができるのか？　そして無事に「青い鳥」の幕を開けることができるのか？<br><br>出演:横山智佐、高乃麗、西原久美子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318196←前話　第一話→so36318105
+  length_seconds: 1998
+  content_id: so36318266
+  default_thread_id: 1580793972
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318266/36318266.29691543
+cast: "[キャスト]<br>出演:横山智佐、高乃麗、西原久美子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2005年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

@@ -1,0 +1,71 @@
+--- !ruby/hash:SeasonHash
+title: たんすわらし。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/61/9/11619_1_8_8b.png?1580364144000
+outline: のえるはアパートに一人で暮らすＯＬ。ある日、母親から彼女の元に和だんすが恩着せがましく送りつけられてきた。仕事から疲れて帰ってくると、たんすの中から子どもが現れた。食いしん坊、板前、和服の子など、次々と個性的な子どもたちが出てくる。彼らは「たんすわらし」だった。大騒動が巻き起こり、最初は戸惑っていたのえるだったが、ともに暮らすうちにかつて経験したことのない感情がわきあがる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 植田佳奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 今野宏美
+  type: cast
+- !ruby/hash:TagHash
+  name: 高戸靖広
+  type: cast
+- !ruby/hash:TagHash
+  name: 松元惠
+  type: cast
+- !ruby/hash:TagHash
+  name: 大浦冬華
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：杉林恭雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：黄瀬和哉
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: たんすわらし。
+  description: のえるはアパートに一人で暮らすＯＬ。ある日、母親から彼女の元に和だんすが恩着せがましく送りつけられてきた。仕事から疲れて帰ってくると、たんすの中から子どもが現れた。食いしん坊、板前、和服の子など、次々と個性的な子どもたちが出てくる。彼らは「たんすわらし」だった。大騒動が巻き起こり、最初は戸惑っていたのえるだったが、ともに暮らすうちにかつて経験したことのない感情がわきあがる。<br><br>のえる:能登
+    麻美子／マサ:大浦 冬華／ダイゴロー:松元 惠／ジロキチ:高戸 靖広／タエ:植田 佳奈／ユキ:今野 宏美／ハンペイ:小桜 エツコ<br><br>プロデューサー:寺川
+    英和／監督・原案:黄瀬 和哉／キャラクター原案:ヒラタ リョウ／脚本:谷村 大四郎／作画監督:海谷 敏久／作画監督補:片桐 貴悠／中堅原画:黒岩 裕美、京極
+    義昭、吉川 真帆／若手原画:瀬口 泉、橋本 高明、清池 奈保、本田 真之、大導寺 美穂、沼田 くみ子、藤城 香菜、飯山 菜保子、溝呂木 理恵／動画検査:金
+    允智、鈴木 明日香／美術監督:小倉 宏昌／色彩設計:渡辺 陽子／撮影監督:古川 文男／コンポジットスーパーバイザー:田中 宏侍／音響監督:小泉 紀介（神南スタジオ）／音楽:杉林
+    恭雄／主題歌:くじら／編集:植松 淳一／制作担当:本多 史典<br><br>©黄瀬和哉／Production I.G／文化庁平成22年度若手アニメーター育成プロジェクト
+  length_seconds: 1441
+  content_id: so36252312
+  default_thread_id: 1579505223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36252312/36252312.71175033
+cast: "[キャスト]<br>のえる:能登 麻美子／マサ:大浦 冬華／ダイゴロー:松元 惠／ジロキチ:高戸 靖広／タエ:植田 佳奈／ユキ:今野 宏美／ハンペイ:小桜
+  エツコ"
+staff: "[スタッフ]<br>プロデューサー:寺川 英和／監督・原案:黄瀬 和哉／キャラクター原案:ヒラタ リョウ／脚本:谷村 大四郎／作画監督:海谷 敏久／作画監督補:片桐
+  貴悠／中堅原画:黒岩 裕美、京極 義昭、吉川 真帆／若手原画:瀬口 泉、橋本 高明、清池 奈保、本田 真之、大導寺 美穂、沼田 くみ子、藤城 香菜、飯山 菜保子、溝呂木
+  理恵／動画検査:金 允智、鈴木 明日香／美術監督:小倉 宏昌／色彩設計:渡辺 陽子／撮影監督:古川 文男／コンポジットスーパーバイザー:田中 宏侍／音響監督:小泉
+  紀介（神南スタジオ）／音楽:杉林 恭雄／主題歌:くじら／編集:植松 淳一／制作担当:本多 史典"
+produced_year: "[製作年]<br>2011年"
+copyright: "©黄瀬和哉／Production I.G／文化庁平成22年度若手アニメーター育成プロジェクト"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: わすれなぐも

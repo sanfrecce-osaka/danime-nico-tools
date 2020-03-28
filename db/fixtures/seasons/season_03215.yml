@@ -1,0 +1,735 @@
+--- !ruby/hash:SeasonHash
+title: アイカツフレンズ！
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/96/1/22961_1_8_8b.png?1566190807000
+outline: アイドル活動“アイカツ！”にはげむアイドルたちの努力と友情の成長物語『アイカツフレンズ！』。スターハーモニー学園の普通科に通う「友希あいね」は、友達を作るのが大得意な女の子。学園のトップアイドル「湊みお」と友達になって、一緒に“アイカツ！”のステージに出ることに!?
+  待っていたのは「蝶乃舞花」や「日向エマ」など、個性豊かなアイドルたちとの出会いや芸能界のお仕事、学園生活と大忙しの毎日！ 2人組の『フレンズ』を組んで、目指すのはトップアイドル、キラキラ輝く『ダイヤモンドフレンズ』！
+  「神城カレン」「明日香ミライ」の２人がまとうドレスの輝きは、まさにダイヤモンド級！ 集めた数だけドラマがあるっ！ 『アイカツ！カード』でドレスアップ！ ファンも友達、カードも友達！
+  友達いっぱい、夢いっぱい！ 『アイカツフレンズ！』はじまります！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 田所あずさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 諸星すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 木戸衣吹
+  type: cast
+- !ruby/hash:TagHash
+  name: 美山加恋
+  type: cast
+- !ruby/hash:TagHash
+  name: 松永あかね
+  type: cast
+- !ruby/hash:TagHash
+  name: 二ノ宮ゆい
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：五十嵐達也
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：渡部里美
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：DIGZ MOTION SOUNDS
+  type: staff
+- !ruby/hash:TagHash
+  name: アイカツ！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2018年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ハロー フレンズ！
+  description: 友希あいねはスターハーモニー学園の普通科に通う女の子。中学2年生に進級する春休み、学園のトップアイドル・湊みおに出会う。友達を作るのが大得意なあいねは、すぐにみおとも仲良くなるが、みおからのお願いを引き受けたら、なんと一緒にアイカツ！のステージに立つことに…!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>次話→so36197695
+  length_seconds: 1469
+  content_id: so36196194
+  default_thread_id: 1578397143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196194/36196194.55406412
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 無敵のラブミーティア☆
+  description: 本格的にアイカツ！を始めたあいね。学園のアイドル科に転入し、みおと同じ“プロダクション”に所属することに。マネージャーのたまきから初仕事をもらってワクワクしていた。お仕事現場で待っていたのは、アイカツ界の頂点に君臨するトップアイドルユニットであり、ダイヤモンドフレンズと呼ばれる「ラブミーティア」の神城カレンと明日香ミライの2人だった！<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196194←前話｜次話→so36196043　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36197695
+  default_thread_id: 1578415627
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197695/36197695.52131962
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ビビっとインスピレーション
+  description: ドレスのデザインもこなすみおは、自身のブランド「マテリアルカラー」のプレミアムレアドレスの発表を１週間後に控えていた。しかし「何か足りない」とドレスのデザインに納得できておらず――そんな時、あいねがみおの“一日限定の付き人”をすることに。みおは納得のいくプレミアムレアドレスを完成できるのか!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197695←前話｜次話→so36195450　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36196043
+  default_thread_id: 1578395284
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196043/36196043.80479283
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 憧れのマイブランド
+  description: アイドルは、自分のブランドを持って一人前。プロダクション所属のスタイリスト・千春からのアドバイスを受け、まだ新人アイドルのあいねは、自分に合うブランドを探すことに。いろんなブランドをあたるも、中々うまくいかない。そんなとき、あいねは運命の出会いを果たす！<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196043←前話｜次話→so36195463　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195450
+  default_thread_id: 1578387738
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195450/36195450.73323962
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 蝶のように 舞花！
+  description: 自分だけのブランド「シュガーメロディ」をたくさんの人に知ってもらいたいあいねは、無謀にも「ラブミーティア」のイベントMCオーディションに応募する。そこで出会ったのは、お祭り好きなアイドル・蝶乃舞花！
+    あいねは舞花とも友達になれるのか――!?<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195450←前話｜次話→so36195929　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36195463
+  default_thread_id: 1578388083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195463/36195463.98380805
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 日向エマージェンシー!?
+  description: 日向エマは、同じプロダクション所属でひとつ年上の頼れるお姉さん。みんなで行くキャンプでも、リーダーシップを発揮する。一方、みおは中々周囲と打ち解けられず、戸惑いの連続。どうやら気になっていることがあるみたいで……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195463←前話｜次話→so36195928　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195929
+  default_thread_id: 1578394263
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195929/36195929.90109461
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ミライへ続く道★
+  description: ラブミーティアのミライからの指名で、あいねはドラマ『アイドルは魔女！』のゲスト出演が決まった。練習を重ね、完璧にセリフを覚えたはずなのに、ミスを連発してしまう。そんなあいねを外に連れ出すミライ。ミライ流の励ましとは!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195929←前話｜次話→so36195839　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195928
+  default_thread_id: 1578394023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195928/36195928.17134721
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: みおのCM大作戦！
+  description: トップアイドルとして、世間から注目が集まっているみお。世界的に有名なクリエイターから声がかかり、マカロンのCMに抜擢される。しかし、いざ撮影がはじまるとびっくり！CMの楽曲は、マカロンのイメージとはかけ離れた「音頭」!?
+    みおは期待された通り、このCMで「ビックバン」を起こすことができるのか？<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195928←前話｜次話→so36195838　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36195839
+  default_thread_id: 1578392943
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195839/36195839.20761602
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 勇気のメロディ♪
+  description: プレミアムレアドレスに憧れるあいね。アイカツナビのココに質問すると「すごーいアイドル」になれば、それも夢じゃないとのこと。あいねは、ファンにもっと自分のことを知ってもらおうと、ファンミーティングを自ら企画する。張り切るあいねだが――!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195839←前話｜次話→so36197770　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36195838
+  default_thread_id: 1578393003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195838/36195838.5596754
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: プリティー☆セクシー★ハニーキャット！
+  description: フレンズの相手を探しているエマと舞花。はたから見れば完全にお似合いの2人だが、本人たちの思惑は全く違っていた。性格も好みも真逆なのに、どう見ても相性ぴったりなのだが……。2人の選んだ相手は一体誰!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195838←前話｜次話→so36195761　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36197770
+  default_thread_id: 1578417483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197770/36197770.25266215
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 告白はドラマチック！
+  description: 遂にみおはあいねとフレンズ結成のための行動に出る。憧れは、もはや伝説となっている『ラブミーティア』結成秘話のようなドラマチックすぎるシチュエーション。あいねに話すタイミングをうかがっていると、名古屋から来たアイドル海老原なこと何やら親密そうにしており――？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197770←前話｜次話→so36195760　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195761
+  default_thread_id: 1578391623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195761/36195761.74279368
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: トマト、どーんとコイ☆
+  description: あいねと毎日一緒に登校したいみおだが、なかなか言い出せないでいた。そんな時、ペンギンカフェに大量のトマトが届く。居合わせたみおもなぜか一緒にカフェイベントの手伝いをすることに。友希家総出のイベントの末、みおはあいねに気持ちを伝えられるのか？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195761←前話｜次話→so36195674　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195760
+  default_thread_id: 1578391743
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195760/36195760.65771825
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: How to カレンさん
+  description: "『ピュアパレット』の名前をもっと広めるため、あいねとみおはTV番組「達人バトル決定戦！」に出場する。しかし番組には達人の絶対女王として君臨する神城カレンがいる。憧れであり、超えるべき目標でもあるラブミーティアに立ち向かうみおは、カレンからアイカツ！の極意を聞く。<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195760←前話｜次話→so36195462　第一話→so36196194"
+  length_seconds: 1468
+  content_id: so36195674
+  default_thread_id: 1578390606
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195674/36195674.20365691
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: ゴーゴーフレンズ！
+  description: エマは、『ハニーキャット』のベストフレンズレアドレスをデザインすることに。2人のドレスデザインをまとめようとするが、そもそもエマと舞花の好みが真逆で、それぞれの個性を活かしたデザインにたどり着かない。そんな2人が行き着く答えとは――？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195674←前話｜次話→so36195461　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195462
+  default_thread_id: 1578387784
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195462/36195462.43105751
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: アイチューブ☆シンデレラ
+  description: あいねはアイカツ！を始めて4カ月が経とうとしていた。しかしみおに比べて知名度も、実力もまだまだ……みおにならってアイチューブに「やってみた動画」を投稿するも、なかなか再生数が伸びない。その様子を見ていたみおは、あいねの一番の才能を見抜いていて――？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195462←前話｜次話→so36195460　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195461
+  default_thread_id: 1578387734
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195461/36195461.27060160
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: みお、勇者になる
+  description: みおは『ピュアパレット』のベストフレンズレアドレスを作ろうと奮起する。デザインに行き詰ったみおを、あいねは自分で企画したミステリーツアーに誘う。森を歩いてたどり着いたのは「勇者の橋」。この橋はあいねが子供の頃の思い出の場所だと言うが――？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195461←前話｜次話→so36195451　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36195460
+  default_thread_id: 1578387543
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195460/36195460.66535027
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 運命の出会いは月の導き
+  description: ある日、ペンギンカフェに不思議な占い師の少女・白百合さくやが訪ねてくる。必ず当たると評判のさくやに、あいねとみおは参加予定の映画の主題歌オーディションについて占ってもらう。占いの結果通り、二人はオーディションでビッグバンを起こせるのか？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195460←前話｜次話→so36195452　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195451
+  default_thread_id: 1578387550
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195451/36195451.40886864
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: わずかなチャンスさえも
+  description: 学園の夏の一大イベント、スターハーモニーカップが始まる。優勝候補のハニーキャットは、ドレスにふさわしいフレンズアピールを出すため、体育館に泊まりこみ合宿していた。忙しい仕事の合間もレッスンをする2人。特訓の成果をスターハーモニーカップで出せるのか？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195451←前話｜次話→so36195453　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36195452
+  default_thread_id: 1578387730
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195452/36195452.49013093
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 届け！ トモダチカラ
+  description: ピュアパレットがスターハーモニーカップで勝つため、あいねは実力の底上げをはかる。珍しく友達や家族とも離れ、一人猛特訓するあいね。その結果、ダンスや歌は上達はしたものの、みおに「大切な何かが足りない」と言われてしまい……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195452←前話｜次話→so36195454　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195453
+  default_thread_id: 1578387732
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195453/36195453.91282748
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: ラクロスorフレンズ！
+  description: ピュアパレットに負けたことが悔しいエマと舞花。敗因がファンと向き合えていなかった事だと感じ、ファンミーティングツアーを企画する。しかしイベントの日がエマの所属するラクロス部の合宿日と重なってしまう。エマ、部活をとる？
+    それともハニーキャットをとる!?<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195453←前話｜次話→so36195455　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195454
+  default_thread_id: 1578387843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195454/36195454.56286220
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 広がるハーモニー♪
+  description: 学園のオープンキャンパスで、見学者を案内することになったあいねたち。全国から来た強力な見学者たち（男子も!?）と一緒に校内を見て回る。中には、フレンズなんていらない！という参加者もいて、あいねのトモダチカラも効かない事態に!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195454←前話｜次話→so36195456　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195455
+  default_thread_id: 1578387736
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195455/36195455.67120870
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 満月の予感
+  description: さくやの双子の妹、かぐやは外見がそっくり。アクシデントがあり、イベントでさくやの代わりに歌声を披露することになってしまう。それをきっかけに、さくやは以前から胸に秘めていたある思いを伝える。かぐやの出した答えとは……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195455←前話｜次話→so36195457　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195456
+  default_thread_id: 1578387549
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195456/36195456.80824684
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 叫ぶ、瞬間
+  description: スターハーモニーカップで負けた事が悔しい舞花。ダンシングミラージュのミューズを目指し、張り切って仕事をするが、デザイナーのノアから厳しい評価を受けてしまう。そんな時、あるお祭りが開催されることを聞く。普段なら二つ返事で参加する舞花だが……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195456←前話｜次話→so36195458　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195457
+  default_thread_id: 1578387723
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195457/36195457.775700
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: ライバルはフレンズ！
+  description: ラブミーティアと一緒にバラエティ番組に出演することになった、ピュアパレットとリフレクトムーン。初挑戦となるバラエティ番組の仕事に緊張するさくやと、ラブミーティアの凄さにピンと来ていないかぐやだったが、収録を通して大事なことに気が付いて……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195457←前話｜次話→so36195459　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195458
+  default_thread_id: 1578387725
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195458/36195458.38228059
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: ラブミーティアをこえろ！
+  description: 日本屈指の文化人たちが集う特別なトーク番組に、急遽ラブミーティアの代役として出演することになったみお。一筋縄ではいかない相手とトークを繰り広げていくが、そこへアイドル嫌いで超・気難しいスーパー文化人が立ちはだかる！<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195458←前話｜次話→so36195673　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36195459
+  default_thread_id: 1578387545
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195459/36195459.29876908
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: フレンズ集合♪ アイカツの秋☆
+  description: ダイヤモンドフレンズカップの出場権を懸けて、ブリリアントフレンズカップが開幕！ 全国から集まった強力なライバルフレンズを前に、張り切るピュアパレット。しかしそんな気持ちとは裏腹に、あいねとみおの心に微妙なすれ違いが生まれていく……。<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195459←前話｜次話→so36195582　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195673
+  default_thread_id: 1578390603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195673/36195673.98539664
+- !ruby/hash:EpisodeHash
+  episode_no: 第27話
+  title: フルムーンの輝き
+  description: "「ステージに立てば、かぐやに災いが起こる」――。さくやは自ら導き出した占い結果を恐れ、楽屋に引きこもって出てこない。占いでは「今夜が満月なら、その災いもはらえる」と言うが、空に浮かぶ月は半月……。果たしてリフレクトムーンは出場できるのか!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195673←前話｜次話→so36195581　第一話→so36196194"
+  length_seconds: 1469
+  content_id: so36195582
+  default_thread_id: 1578389403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195582/36195582.59853900
+- !ruby/hash:EpisodeHash
+  episode_no: 第28話
+  title: ひとりでもフレンズ
+  description: みおは珍しく熱を出してしまう。アイカツを休むことに対しての焦りもありながら、母・玲子の看病の下、家で休むことに。玲子の仕事ぶりを見て、自らの欠点を認識したみおは、ピュアパレットの今後のために、ある重大な決断をする――。<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195582←前話｜次話→so36197771　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195581
+  default_thread_id: 1578389406
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195581/36195581.67430994
+- !ruby/hash:EpisodeHash
+  episode_no: 第29話
+  title: あいねのハロウィンパニック！
+  description: あいねは、ミライが主演するドラマ「アイドルは魔女」に再びゲスト出演することに。お芝居をする中で、ミライから無茶なオーダーを連発されたあいねは勢い余ってあることを宣言。それは、ミライとの対決ステージのためにも必要な心構えだったようで……!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195581←前話｜次話→so36197772　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36197771
+  default_thread_id: 1578418025
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197771/36197771.50043810
+- !ruby/hash:EpisodeHash
+  episode_no: 第30話
+  title: アフレコチャレンジ★みお
+  description: みおとかぐやは、アニメ映画で声優の仕事に初挑戦する。台本にないセリフをうまく言えないみおと、初の一人仕事でも上手にこなしていくかぐや。悩むみおに、かぐやは自分がアイカツを頑張る理由を話す。かぐやの話を聞いて、みおが気付いた大切な事とは――？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197771←前話｜次話→so36197773　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36197772
+  default_thread_id: 1578418267
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197772/36197772.58077213
+- !ruby/hash:EpisodeHash
+  episode_no: 第31話
+  title: 伝説の101番勝負！
+  description: ベストフレンズカップ出場へのエントリー締め切りまで、残り1日。フレンズとしての活動をお休みしているあいねとみおは、中途半端な気持ちで再始動はできないと考えていた。そこで2人は、ラブミーティア物語からヒントを得て真剣勝負をすることに！<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197772←前話｜次話→so36197774　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36197773
+  default_thread_id: 1578418203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197773/36197773.88094895
+- !ruby/hash:EpisodeHash
+  episode_no: 第32話
+  title: ドキドキ☆冒険カレン島！
+  description: ダイヤモンドフレンズカップに出場できる最後のチャンス、ベストフレンズカップが始まる。その舞台となるのは、神城家所有のカレン島。集まったフレンズ達に発表された今年のテーマは「サバイバル」――!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197773←前話｜次話→so36197775　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36197774
+  default_thread_id: 1578418083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197774/36197774.66291370
+- !ruby/hash:EpisodeHash
+  episode_no: 第33話
+  title: ドッカ～ン★冒険カザン島！
+  description: 火山が爆発し、島にいるフレンズたちは大混乱。次の試練のテーマ「幸せの証」をタイムリミットまでに探し出さないとステージまでたどり着くことができない。ダイヤモンドフレンズカップへの出場権を手にするのは、果たしてどのフレンズ!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197774←前話｜次話→so36197848　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36197775
+  default_thread_id: 1578418443
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197775/36197775.21578490
+- !ruby/hash:EpisodeHash
+  episode_no: 第34話
+  title: みんなにハピネス♪
+  description: シュガーメロディの新作プレミアムレアドレスの発表ライブが急遽、三日後に決まった。嬉しい反面、肝心のドレスがまだ何もできていない！ 焦るあいね。デザインのアイデアやテーマも浮かばない。こんな時、ぴったりの解決策と言えば……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197775←前話｜次話→so36197582　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36197848
+  default_thread_id: 1578419343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197848/36197848.33857656
+- !ruby/hash:EpisodeHash
+  episode_no: 第35話
+  title: トレジャーハンター注意報！
+  description: 番組の企画で、自宅をビデオカメラで撮ってくることになったさくやとかぐや。偶然見つかったのは、謎のお宝の地図。どうやら2人がタイムカプセルを埋めた場所を示す地図らしいが……。さくやとかぐやの衝撃のお宝とは――!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197848←前話｜次話→so36196666　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36197582
+  default_thread_id: 1578413943
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36197582/36197582.44225960
+- !ruby/hash:EpisodeHash
+  episode_no: 第36話
+  title: 波乱のランウェイ！
+  description: みおは、自らプロデュースするファッションショーの準備を順調に進めていた。しかしショー当日、あいねの妹・ももねが「ショーに出たい」と押し掛けて来る。ももねは初めて見るファッションショーの裏側に大興奮。何も問題が起きなければ良いのだが……!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36197582←前話｜次話→so36196574　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36196666
+  default_thread_id: 1578402783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196666/36196666.67847652
+- !ruby/hash:EpisodeHash
+  episode_no: 第37話
+  title: メリーフレンズクリスマス
+  description: ダイヤモンドフレンズカップの組み合わせも決まり、一層気合の入るアイドル達。でもその前の「お楽しみ」と言えば、クリスマス！ みんなで集まって、フレンズ同士でプレゼント交換をする。それぞれが用意した、スペシャルなプレゼントとは？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196666←前話｜次話→so36196517　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36196574
+  default_thread_id: 1578401463
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196574/36196574.69557416
+- !ruby/hash:EpisodeHash
+  episode_no: 第38話
+  title: ココだよ！ アイカツ歌合戦
+  description: 紅白2チームに分かれて、アイドルがステージを披露する『アイカツ歌合戦』。ラブミーティアの司会のもと、豪華ステージに沸く会場。だがその裏で、事件が発生！
+    なぜかココちゃんが行方不明に。いつもはアイカツモバイルの中にいるはずなのだが……？<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196574←前話｜次話→so36196404　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36196517
+  default_thread_id: 1578401043
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196517/36196517.47002715
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話
+  title: 開幕！ ダイヤモンドフレンズカップ
+  description: いよいよ全フレンズの頂点を決める、ダイヤモンドフレンズカップが始まる！ 初戦はハニーキャットVSピュアパレット。その真剣勝負に向けて、エマと舞花は、あいねとみおに驚くべき提案をする。果たして決勝に進むのは、どちらのフレンズ!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196517←前話｜次話→so36196300　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36196404
+  default_thread_id: 1578399848
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196404/36196404.77219045
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話
+  title: Believe it
+  description: ダイヤモンドフレンズカップ二戦目は、リフレクトムーンVSラブミーティア。さくやが勝敗を占ってみると「リフレクトムーンの勝利」と出る。さくやの占いは必ず当たるというのに、かぐやはまだ自分の実力への不安が残っているようで……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196404←前話｜次話→so36196250　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36196300
+  default_thread_id: 1578398343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196300/36196300.98746726
+- !ruby/hash:EpisodeHash
+  episode_no: 第41話
+  title: ラブミーゾーンを解き放て！
+  description: ダイヤモンドフレンズカップ、決勝戦。カレンはある理由から、ステージで本気を出すことを恐れていた。全力のラブミーティアと戦いたいあいねとみおは、自分達をもっと知ってもらおうと考える。そして決戦前夜、前代未聞のパジャマパーティーが始まった！<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196300←前話｜次話→so36196193　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36196250
+  default_thread_id: 1578398345
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196250/36196250.76589783
+- !ruby/hash:EpisodeHash
+  episode_no: 第42話
+  title: トモダチカラのキセキ
+  description: 先攻のラブミーティアのステージは、ドレスもアピールも完璧。あいねとみおは、今までにないほど追い詰められていた。緊張とプレッシャーの中、2人はラブミーティアを超えることができるのか？
+    ダイヤモンドフレンズの栄冠に輝くのは、果たして――!?<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196250←前話｜次話→so36196098　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36196193
+  default_thread_id: 1578397148
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196193/36196193.10005921
+- !ruby/hash:EpisodeHash
+  episode_no: 第43話
+  title: ありがとうの景色
+  description: 念願のダイヤモンドドレスお披露目ステージの開催が決まって、張り切るあいねとみお。そんな時、海外からみおのお父さんが帰って来る。実はお父さんは、世界的に有名なデザイナーだった！
+    そして、ドレスにまつわる意外な事実も明らかに!?<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196193←前話｜次話→so36196042　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36196098
+  default_thread_id: 1578396063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196098/36196098.12520268
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話
+  title: チョコっとミントな告白
+  description: チョコミントマカロンのバレンタインCMに出演することになったみお。みおが、ディレクターのザックに提案したテーマは『マカロン男子の告白』。みお達自ら、身近な男子をスカウトしに行くことに。一体、どんなCMが出来上がるのか!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196098←前話｜次話→so36195927　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36196042
+  default_thread_id: 1578395583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36196042/36196042.23732950
+- !ruby/hash:EpisodeHash
+  episode_no: 第45話
+  title: 友達はパパラッチ!?
+  description: トップアイドルの仲間入りを果たし、大活躍のあいねとみお。そんな2人のスクープを撮ろうと、新人記者の羽原真実子が狙っていた！ しかしあいねは、パパラッチが相手でもお構いなしにトモダチカラを発揮する。その中で2人が気付いた、大切な真実とは……？<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36196042←前話｜次話→so36195837　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195927
+  default_thread_id: 1578394143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195927/36195927.4269531
+- !ruby/hash:EpisodeHash
+  episode_no: 第46話
+  title: 月から来たプリンセス
+  description: "“月から来たアイドル”と称して活動していたリフレクトムーン。しかし、実際の世間のイメージは全く違っていた。なんとか元のイメージを取り戻したいかぐや。そこへファンの少女・ミカがやって来て「自分も月に連れて行って欲しい」と言い出して……!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195927←前話｜次話→so36195759　第一話→so36196194"
+  length_seconds: 1468
+  content_id: so36195837
+  default_thread_id: 1578393005
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195837/36195837.81744909
+- !ruby/hash:EpisodeHash
+  episode_no: 第47話
+  title: アイドルのココろえ★
+  description: これまでアイドルをサポートしてきたココだが、いつしか「アイカツをしてみたい」という夢を持つようになった。協力を買って出たあいね達は、特別な装置を使ってココのいる世界へ……。みんなで一緒にアイカツ！
+    しかしその後、とんでもない事態に!?<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195837←前話｜次話→so36195672　第一話→so36196194
+  length_seconds: 1468
+  content_id: so36195759
+  default_thread_id: 1578391803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195759/36195759.41169136
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話
+  title: キャットたちのハニーなお仕事
+  description: "「ハニーキャット地球横断ツアー」を大々的に宣伝したエマと舞花。しかしいざ予定を立て始めると、資金のことを全く考えていないと気が付く。張り切って仕事に励む2人。果たしてエマと舞花は、海外のファンにハッピーを届けることはできるのか!?<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195759←前話｜次話→so36195580　第一話→so36196194"
+  length_seconds: 1468
+  content_id: so36195672
+  default_thread_id: 1578390483
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195672/36195672.39991740
+- !ruby/hash:EpisodeHash
+  episode_no: 第49話
+  title: 伝説の最終章
+  description: ラブミーティアのカレンとミライは、新たな一歩を踏み出そうとしていた。今後2人は、離ればなれでの活動となることが発表された。さらに、みおは偶然『ラブミーティア物語
+    最終章』と書かれた資料を見てしまう。2人の物語の結末とは――!?<br><br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195672←前話｜次話→so36195502　第一話→so36196194
+  length_seconds: 1469
+  content_id: so36195580
+  default_thread_id: 1578389223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195580/36195580.88457614
+- !ruby/hash:EpisodeHash
+  episode_no: 第50話
+  title: そこにしかない未来
+  description: あいねとみおの間でケンカが勃発！ 今まで一度もケンカをしたことがない2人に、ミライが、その昔ラブミーティアも行ったという『仲直り式』を提案する。家族やスタッフ、ライバルフレンズ達……みんなが見守る中、幸せの鐘が鳴り響く！<br><br>友希あいね:松永あかね／湊
+    みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ<br><br>企画・原作:BN
+    Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+    MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+    うた：カレン・ミライ from BEST FRIENDS！<br><br>©BNP/BANDAI, DENTSU, TV TOKYO<br><br>so36195580←前話　第一話→so36196194
+  length_seconds: 1454
+  content_id: so36195502
+  default_thread_id: 1578388143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195502/36195502.81475392
+cast: "[キャスト]<br>友希あいね:松永あかね／湊 みお:木戸衣吹／蝶乃舞花:美山加恋／日向エマ:二ノ宮ゆい／神城カレン:田所あずさ／明日香ミライ:大橋彩香／ココ:諸星すみれ"
+staff: "[スタッフ]<br>企画・原作:BN Pictures／原案:バンダイ／監督:五十嵐達也／シリーズ構成:柿原優子／キャラクターデザイン:渡部里美／スーパーバイザー:木村隆一／音響監督:菊田浩巳／音楽:DIGZ
+  MOTION SOUNDS／OPテーマ:「ありがと ? 大丈夫」 うた：あいね・みお from BEST FRIENDS！／EDテーマ:「Believe it」
+  うた：カレン・ミライ from BEST FRIENDS！"
+produced_year: "[製作年]<br>2018年"
+copyright: "©BNP/BANDAI, DENTSU, TV TOKYO"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（3rdシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（4thシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+- !ruby/hash:SeasonHash
+  title: アイカツ！～ねらわれた魔法のアイカツ！カード～
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツスターズ！

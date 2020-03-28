@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: アクション/バトル
   type: genre
 - !ruby/hash:TagHash
-  name: 小倉唯
+  name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash
-  name: 水瀬いのり
+  name: 小倉唯
   type: cast
 - !ruby/hash:TagHash
   name: 内田彩

@@ -1,0 +1,48 @@
+--- !ruby/hash:SeasonHash
+title: 呪いのワンピース【デジタルリマスター版】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/08/1/23081_1_8_8b.png?1579845695000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 國府田マリ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 森口博子
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：内田春菊
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：木上益治
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：寅峰啓之
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: 祐子／香穂里／美智代
+  description: 祐子:国府田マリ子／香穂理:森口博子／美智子:横山智佐<br><br>原作:内田春菊／監督:木上益治／作画監督:木上益治／美術監督:古谷彰／撮影監督:刑部徹／録音監督:大熊昭／音楽:寅峰啓之<br><br>©内田春菊／シンエイ
+  length_seconds: 1433
+  content_id: so36282190
+  default_thread_id: 1580091783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36282190/36282190.41975275
+cast: "[キャスト]<br>祐子:国府田マリ子／香穂理:森口博子／美智子:横山智佐"
+staff: "[スタッフ]<br>原作:内田春菊／監督:木上益治／作画監督:木上益治／美術監督:古谷彰／撮影監督:刑部徹／録音監督:大熊昭／音楽:寅峰啓之"
+produced_year: "[製作年]<br>1992年"
+copyright: "©内田春菊／シンエイ"
+related_seasons: !ruby/array:Hashie::Array []

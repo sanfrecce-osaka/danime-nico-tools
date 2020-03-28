@@ -1,0 +1,111 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版 境界の彼方 -I'LL BE HERE- 過去篇
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/44/5/23445_1_8_8b.png?1580720625000
+outline: "｢ある一族｣たった1人生き残った少女と存在しないはずの｢半妖｣の少年｡2人の物語｡半妖の少年､神原秋人はある日の放課後､屋上から今にも飛び降りそうな少女と出会う｡彼女の名前は栗山未来｡異界士の中でも特異な呪われた血を持つ一族の最後の生き残りだった｡変わらない部室｡変わらない日々｡変わらない世界｡そんな毎日を過ごすはずだった｡だが､1人生き残った少女と半妖の少年が出会った時､世界が一変する｡"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木達央
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺明乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅原実里
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: KENN
+  type: cast
+- !ruby/hash:TagHash
+  name: 松風雅也
+  type: cast
+- !ruby/hash:TagHash
+  name: 進藤尚美
+  type: cast
+- !ruby/hash:TagHash
+  name: 山岡ゆり
+  type: cast
+- !ruby/hash:TagHash
+  name: 豊田萌絵
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：石立太一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：鳥居なごむ
+  type: staff
+- !ruby/hash:TagHash
+  name: 境界の彼方シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: "｢ある一族｣たった1人生き残った少女と存在しないはずの｢半妖｣の少年｡2人の物語｡半妖の少年､神原秋人はある日の放課後､屋上から今にも飛び降りそうな少女と出会う｡彼女の名前は栗山未来｡異界士の中でも特異な呪われた血を持つ一族の最後の生き残りだった｡変わらない部室｡変わらない日々｡変わらない世界｡そんな毎日を過ごすはずだった｡だが､1人生き残った少女と半妖の少年が出会った時､世界が一変する｡<br><br>栗山未来:種田梨沙／神原秋人:KENN／名瀬美月:茅原実里／名瀬博臣:鈴木達央／名瀬
+    泉:川澄綾子／藤真弥勒:松風雅也／二ノ宮 雫:渡辺明乃／新堂彩華:進藤尚美／新堂 愛:山岡ゆり／伊波 桜:豊田萌絵<br><br>原作:｢境界の彼方｣鳥居なごむ(KAエスマ文庫/京都アニメーション)／監督:石立太一／脚本:花田十輝／オープニングテーマ:｢境界の彼方｣茅原実里<br><br>©鳥居なごむ･京都アニメーション/境界の彼方製作委員会<br><br>次話→so36358206"
+  length_seconds: 1575
+  content_id: so36358185
+  default_thread_id: 1581533705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358185/36358185.45163026
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: "｢ある一族｣たった1人生き残った少女と存在しないはずの｢半妖｣の少年｡2人の物語｡半妖の少年､神原秋人はある日の放課後､屋上から今にも飛び降りそうな少女と出会う｡彼女の名前は栗山未来｡異界士の中でも特異な呪われた血を持つ一族の最後の生き残りだった｡変わらない部室｡変わらない日々｡変わらない世界｡そんな毎日を過ごすはずだった｡だが､1人生き残った少女と半妖の少年が出会った時､世界が一変する｡<br><br>栗山未来:種田梨沙／神原秋人:KENN／名瀬美月:茅原実里／名瀬博臣:鈴木達央／名瀬
+    泉:川澄綾子／藤真弥勒:松風雅也／二ノ宮 雫:渡辺明乃／新堂彩華:進藤尚美／新堂 愛:山岡ゆり／伊波 桜:豊田萌絵<br><br>原作:｢境界の彼方｣鳥居なごむ(KAエスマ文庫/京都アニメーション)／監督:石立太一／脚本:花田十輝／オープニングテーマ:｢境界の彼方｣茅原実里<br><br>©鳥居なごむ･京都アニメーション/境界の彼方製作委員会<br><br>so36358185←前話｜次話→so36358205　第一話→so36358185"
+  length_seconds: 1116
+  content_id: so36358206
+  default_thread_id: 1581534247
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358206/36358206.27608654
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: "｢ある一族｣たった1人生き残った少女と存在しないはずの｢半妖｣の少年｡2人の物語｡半妖の少年､神原秋人はある日の放課後､屋上から今にも飛び降りそうな少女と出会う｡彼女の名前は栗山未来｡異界士の中でも特異な呪われた血を持つ一族の最後の生き残りだった｡変わらない部室｡変わらない日々｡変わらない世界｡そんな毎日を過ごすはずだった｡だが､1人生き残った少女と半妖の少年が出会った時､世界が一変する｡<br><br>栗山未来:種田梨沙／神原秋人:KENN／名瀬美月:茅原実里／名瀬博臣:鈴木達央／名瀬
+    泉:川澄綾子／藤真弥勒:松風雅也／二ノ宮 雫:渡辺明乃／新堂彩華:進藤尚美／新堂 愛:山岡ゆり／伊波 桜:豊田萌絵<br><br>原作:｢境界の彼方｣鳥居なごむ(KAエスマ文庫/京都アニメーション)／監督:石立太一／脚本:花田十輝／オープニングテーマ:｢境界の彼方｣茅原実里<br><br>©鳥居なごむ･京都アニメーション/境界の彼方製作委員会<br><br>so36358206←前話｜次話→so36358250　第一話→so36358185"
+  length_seconds: 1145
+  content_id: so36358205
+  default_thread_id: 1581533822
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358205/36358205.44280495
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: "｢ある一族｣たった1人生き残った少女と存在しないはずの｢半妖｣の少年｡2人の物語｡半妖の少年､神原秋人はある日の放課後､屋上から今にも飛び降りそうな少女と出会う｡彼女の名前は栗山未来｡異界士の中でも特異な呪われた血を持つ一族の最後の生き残りだった｡変わらない部室｡変わらない日々｡変わらない世界｡そんな毎日を過ごすはずだった｡だが､1人生き残った少女と半妖の少年が出会った時､世界が一変する｡<br><br>栗山未来:種田梨沙／神原秋人:KENN／名瀬美月:茅原実里／名瀬博臣:鈴木達央／名瀬
+    泉:川澄綾子／藤真弥勒:松風雅也／二ノ宮 雫:渡辺明乃／新堂彩華:進藤尚美／新堂 愛:山岡ゆり／伊波 桜:豊田萌絵<br><br>原作:｢境界の彼方｣鳥居なごむ(KAエスマ文庫/京都アニメーション)／監督:石立太一／脚本:花田十輝／オープニングテーマ:｢境界の彼方｣茅原実里<br><br>©鳥居なごむ･京都アニメーション/境界の彼方製作委員会<br><br>so36358205←前話　第一話→so36358185"
+  length_seconds: 1348
+  content_id: so36358250
+  default_thread_id: 1581535564
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358250/36358250.78651633
+cast: "[キャスト]<br>栗山未来:種田梨沙／神原秋人:KENN／名瀬美月:茅原実里／名瀬博臣:鈴木達央／名瀬 泉:川澄綾子／藤真弥勒:松風雅也／二ノ宮 雫:渡辺明乃／新堂彩華:進藤尚美／新堂
+  愛:山岡ゆり／伊波 桜:豊田萌絵"
+staff: "[スタッフ]<br>原作:｢境界の彼方｣鳥居なごむ(KAエスマ文庫/京都アニメーション)／監督:石立太一／脚本:花田十輝／オープニングテーマ:｢境界の彼方｣茅原実里"
+produced_year: "[製作年]<br>2015年"
+copyright: "©鳥居なごむ･京都アニメーション/境界の彼方製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 境界の彼方
+- !ruby/hash:SeasonHash
+  title: 劇場版 境界の彼方 -I'LL BE HERE- 未来篇

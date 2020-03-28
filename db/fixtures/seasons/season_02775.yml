@@ -1,0 +1,81 @@
+--- !ruby/hash:SeasonHash
+title: ああっ女神さまっ　闘う翼
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/63/0/23630_1_8_8b.png?1582249309000
+outline: 藤島康介の人気コミックを原作にしたTVシリーズの特別編。女神の天使を喰ってしまう「天使喰い」が何者かによって天上界から地上に放たれた。女神たちの天敵「天使喰い」を追って、戦闘専門の女神であるリンドが天上界からやってくる。そして次々と襲われる女神たち。実はこの事件は、ヒルドとマーラーによるもので…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 久川綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池正美
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐久間レイ
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：浜口史郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤島康介
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：合田浩章
+  type: staff
+- !ruby/hash:TagHash
+  name: ああっ女神さまっシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 2008年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: ああっ片翼の天使降臨っ
+  description: 螢一たちのもとに、天上界から戦闘神リンドがやってくる。女神たちの天敵、女神の天使を喰ってしまう「天使喰い」が何者かの手によって天上界から地上に放たれ、それを追ってきたとのことだった。天使さえ出さなければ、天使を喰われることはないと女神たちはあまり気に留めなかったが…。<br><br>森里螢一:菊池正美／ベルダンディー:井上喜久子／ウ
+    ル ド:冬馬由美／スクルド:久川 綾／ペイオース:佐久間レイ／リンド:伊藤美紀<br><br>原作:藤島康介「ああっ女神さまっ」／監督:合田浩章／脚本:渡辺陽／音楽:浜口史郎<br><br>©藤島康介・講談社／「ああっ女神さまっ」製作委員会<br><br>次話→so36384041
+  length_seconds: 1449
+  content_id: so36384040
+  default_thread_id: 1581996364
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384040/36384040.69987370
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: ああっ悦びを二人で共にっ
+  description: 今回の事件は、ヒルドとマーラーによるものだった。リンドはその二人に襲われ、辛くもその場から逃げ出すことに成功するも、残されたのが、リンドと螢一、スクルドの三人だけという絶望的な状況になってしまった。そこでリンドは女神たちを救出するために、ある方法を実行に移す…。<br><br>森里螢一:菊池正美／ベルダンディー:井上喜久子／ウ
+    ル ド:冬馬由美／スクルド:久川 綾／ペイオース:佐久間レイ／リンド:伊藤美紀<br><br>原作:藤島康介「ああっ女神さまっ」／監督:合田浩章／脚本:渡辺陽／音楽:浜口史郎<br><br>©藤島康介・講談社／「ああっ女神さまっ」製作委員会<br><br>so36384040←前話　第一話→so36384040
+  length_seconds: 1419
+  content_id: so36384041
+  default_thread_id: 1581996848
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384041/36384041.77103235
+cast: "[キャスト]<br>森里螢一:菊池正美／ベルダンディー:井上喜久子／ウ ル ド:冬馬由美／スクルド:久川 綾／ペイオース:佐久間レイ／リンド:伊藤美紀"
+staff: "[スタッフ]<br>原作:藤島康介「ああっ女神さまっ」／監督:合田浩章／脚本:渡辺陽／音楽:浜口史郎"
+produced_year: "[製作年]<br>2007年"
+copyright: "©藤島康介・講談社／「ああっ女神さまっ」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ああっ女神さまっ
+- !ruby/hash:SeasonHash
+  title: ああっ女神さまっ　それぞれの翼

@@ -16,10 +16,10 @@ tags: !ruby/array:Hashie::Array
   name: ホラー/サスペンス/推理
   type: genre
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 森川智之
   type: cast
 - !ruby/hash:TagHash
-  name: 森川智之
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
@@ -63,6 +63,12 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: アニメーション制作：アニマ＆カンパニー
   type: staff
+- !ruby/hash:TagHash
+  name: "【第1話無料】警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-シリーズ"
+  type: other
+- !ruby/hash:TagHash
+  name: 警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-シリーズ
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
@@ -249,4 +255,8 @@ staff: "[スタッフ]<br>総監督:栗山貴行／監督:小坂春女／シリ�
   Fever」OLDCODEX／ED主題歌:「One Wish」SCREEN mode／音響監督:えびなやすのり／音響制作:Ai Addiction／アニメーション制作:アニマ＆カンパニー"
 produced_year: "[製作年]<br>2019年"
 copyright: "©特殊凶悪犯対策室 第七課"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "【第1話限定無料】警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-"
+- !ruby/hash:SeasonHash
+  title: 警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-（OVA）

@@ -1,0 +1,139 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/42/1/23421_1_8_8b.png?1580451145000
+outline: "「子供はいつ大人になるのか？」という疑問を解明するために奔走するダンディ団。その疑問はいつしか、花組や町中の人々を悩ませることに…"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: 田中真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 高乃麗
+  type: cast
+- !ruby/hash:TagHash
+  name: 陶山章央
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本麻弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 渕崎ゆり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊倉一恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 西原久美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: "「子供はいつ大人になるのか？」という疑問を解明するために奔走するダンディ団。その疑問はいつしか、花組や町中の人々を悩ませることに…<br><br>出演:横山智佐、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318197"
+  length_seconds: 2296
+  content_id: so36317997
+  default_thread_id: 1580787246
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36317997/36317997.43788203
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: "「子供はいつ大人になるのか？」という疑問を解明するために奔走するダンディ団。その疑問はいつしか、花組や町中の人々を悩ませることに…<br><br>出演:横山智佐、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36317997←前話｜次話→so36318114　第一話→so36317997"
+  length_seconds: 2243
+  content_id: so36318197
+  default_thread_id: 1580793975
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318197/36318197.81686538
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: "「子供はいつ大人になるのか？」という疑問を解明するために奔走するダンディ団。その疑問はいつしか、花組や町中の人々を悩ませることに…<br><br>出演:横山智佐、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318197←前話｜次話→so36318113　第一話→so36317997"
+  length_seconds: 2233
+  content_id: so36318114
+  default_thread_id: 1580790920
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318114/36318114.30732871
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: "「子供はいつ大人になるのか？」という疑問を解明するために奔走するダンディ団。その疑問はいつしか、花組や町中の人々を悩ませることに…<br><br>出演:横山智佐、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318114←前話｜次話→so36318112　第一話→so36317997"
+  length_seconds: 2341
+  content_id: so36318113
+  default_thread_id: 1580790914
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318113/36318113.72204030
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: "「子供はいつ大人になるのか？」という疑問を解明するために奔走するダンディ団。その疑問はいつしか、花組や町中の人々を悩ませることに…<br><br>出演:横山智佐、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318113←前話　第一話→so36317997"
+  length_seconds: 2291
+  content_id: so36318112
+  default_thread_id: 1580790918
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318112/36318112.53141219
+cast: "[キャスト]<br>出演:横山智佐、高乃麗、西原久美子、渕崎ゆり子、田中真弓、岡本麻弥、伊倉一恵、折笠愛、陶山章央"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2003年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2004年新春歌謡ショウ「歌え♪花組」

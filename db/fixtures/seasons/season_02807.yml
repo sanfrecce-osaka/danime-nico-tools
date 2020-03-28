@@ -1,0 +1,104 @@
+--- !ruby/hash:SeasonHash
+title: "『アンプラネット ―Back to the Past！―』"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/55/5/23555_1_8_8b.png?1580706071000
+outline: 日音（かのん）の中に眠る姉・ポミィの魂をすくい上げるべく、日々奔走するセシィら弟たち。ある日、目の前の男の腕に見覚えのある石が！？考えたセシィたちは秘蔵のオーパーツを使って強奪を試みるが、気づくと見知らぬ異国の地に降り立っていた！何故か絡んでくる三人組や顔の濃い外国人をどうにかして、セシィたちは石を奪還できるのか！？そして無事に元の場所に戻ることができるのか！？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: KIMERU
+  type: cast
+- !ruby/hash:TagHash
+  name: 福島海太
+  type: cast
+- !ruby/hash:TagHash
+  name: 畠山遼
+  type: cast
+- !ruby/hash:TagHash
+  name: 井阪郁巳
+  type: cast
+- !ruby/hash:TagHash
+  name: 松田将希
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上将大
+  type: cast
+- !ruby/hash:TagHash
+  name: 川村玲央
+  type: cast
+- !ruby/hash:TagHash
+  name: 大野紘幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉高志音
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：大石憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：亀田真二郎
+  type: staff
+- !ruby/hash:TagHash
+  name: "『アンプラネット』シリーズ"
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 日音（かのん）の中に眠る姉・ポミィの魂をすくい上げるべく、日々奔走するセシィら弟たち。ある日、目の前の男の腕に見覚えのある石が！？考えたセシィたちは秘蔵のオーパーツを使って強奪を試みるが、気づくと見知らぬ異国の地に降り立っていた！何故か絡んでくる三人組や顔の濃い外国人をどうにかして、セシィたちは石を奪還できるのか！？そして無事に元の場所に戻ることができるのか！？<br><br>【アンプラネット】冥王星人☆ポミィ:福島海太／準惑星ケレス人☆セシィ:井阪郁巳／準惑星マケマケ人☆マーニィ:松田将希／準惑星ハウメア人☆サティ:Ibu／【プライムーン】赤河
+    望:川村玲央／青羽 朔:大野紘幸／浅黄 宵:吉高志音／【三日月】青羽 要:畠山 遼　川上将大、KIMERU<br><br>脚本・演出:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ<br><br>　<br><br>次話→so36370507
+  length_seconds: 1557
+  content_id: so36370506
+  default_thread_id: 1581755713
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36370506/36370506.81957646
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 日音（かのん）の中に眠る姉・ポミィの魂をすくい上げるべく、日々奔走するセシィら弟たち。ある日、目の前の男の腕に見覚えのある石が！？考えたセシィたちは秘蔵のオーパーツを使って強奪を試みるが、気づくと見知らぬ異国の地に降り立っていた！何故か絡んでくる三人組や顔の濃い外国人をどうにかして、セシィたちは石を奪還できるのか！？そして無事に元の場所に戻ることができるのか！？<br><br>【アンプラネット】冥王星人☆ポミィ:福島海太／準惑星ケレス人☆セシィ:井阪郁巳／準惑星マケマケ人☆マーニィ:松田将希／準惑星ハウメア人☆サティ:Ibu／【プライムーン】赤河
+    望:川村玲央／青羽 朔:大野紘幸／浅黄 宵:吉高志音／【三日月】青羽 要:畠山 遼　川上将大、KIMERU<br><br>脚本・演出:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ<br><br>　<br><br>so36370506←前話｜次話→so36370663　第一話→so36370506
+  length_seconds: 1394
+  content_id: so36370507
+  default_thread_id: 1581755703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36370507/36370507.63067397
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 日音（かのん）の中に眠る姉・ポミィの魂をすくい上げるべく、日々奔走するセシィら弟たち。ある日、目の前の男の腕に見覚えのある石が！？考えたセシィたちは秘蔵のオーパーツを使って強奪を試みるが、気づくと見知らぬ異国の地に降り立っていた！何故か絡んでくる三人組や顔の濃い外国人をどうにかして、セシィたちは石を奪還できるのか！？そして無事に元の場所に戻ることができるのか！？<br><br>【アンプラネット】冥王星人☆ポミィ:福島海太／準惑星ケレス人☆セシィ:井阪郁巳／準惑星マケマケ人☆マーニィ:松田将希／準惑星ハウメア人☆サティ:Ibu／【プライムーン】赤河
+    望:川村玲央／青羽 朔:大野紘幸／浅黄 宵:吉高志音／【三日月】青羽 要:畠山 遼　川上将大、KIMERU<br><br>脚本・演出:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ<br><br>　<br><br>so36370507←前話｜次話→so36370662　第一話→so36370506
+  length_seconds: 1640
+  content_id: so36370663
+  default_thread_id: 1581756363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36370663/36370663.79066611
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 日音（かのん）の中に眠る姉・ポミィの魂をすくい上げるべく、日々奔走するセシィら弟たち。ある日、目の前の男の腕に見覚えのある石が！？考えたセシィたちは秘蔵のオーパーツを使って強奪を試みるが、気づくと見知らぬ異国の地に降り立っていた！何故か絡んでくる三人組や顔の濃い外国人をどうにかして、セシィたちは石を奪還できるのか！？そして無事に元の場所に戻ることができるのか！？<br><br>【アンプラネット】冥王星人☆ポミィ:福島海太／準惑星ケレス人☆セシィ:井阪郁巳／準惑星マケマケ人☆マーニィ:松田将希／準惑星ハウメア人☆サティ:Ibu／【プライムーン】赤河
+    望:川村玲央／青羽 朔:大野紘幸／浅黄 宵:吉高志音／【三日月】青羽 要:畠山 遼　川上将大、KIMERU<br><br>脚本・演出:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ<br><br>　<br><br>so36370663←前話　第一話→so36370506
+  length_seconds: 1776
+  content_id: so36370662
+  default_thread_id: 1581756123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36370662/36370662.53693975
+cast: "[キャスト]<br>【アンプラネット】冥王星人☆ポミィ:福島海太／準惑星ケレス人☆セシィ:井阪郁巳／準惑星マケマケ人☆マーニィ:松田将希／準惑星ハウメア人☆サティ:Ibu／【プライムーン】赤河
+  望:川村玲央／青羽 朔:大野紘幸／浅黄 宵:吉高志音／【三日月】青羽 要:畠山 遼　川上将大、KIMERU"
+staff: "[スタッフ]<br>脚本・演出:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ"
+produced_year: "[製作年]<br>2018年"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "『アンプラネット』"
+- !ruby/hash:SeasonHash
+  title: ミュージカライブ『アンプラネット―ボクの名は―』

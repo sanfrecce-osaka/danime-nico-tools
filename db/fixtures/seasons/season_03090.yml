@@ -1,0 +1,149 @@
+--- !ruby/hash:SeasonHash
+title: OVA バトルアスリーテス大運動会
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/26/7/23267_1_8_8b.png?1581305495000
+outline: 時は西暦4999年。伝説の「宇宙撫子」を母にもつ少女・神崎あかりは、念願の大学衛星への入学を果たす。目指すは宇宙一のアスリートを決める「大運動会」。ライバルたちを相手に、努力と根性、そしてルームメイトとの友情を糧にあかりは成長していく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 折笠愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤美紀
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢島晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡村明美
+  type: cast
+- !ruby/hash:TagHash
+  name: 山口由里子
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏樹リオ
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田浩二
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪口あや
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：服部隆之
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：牧野竜一
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：小沢一浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：八谷賢一
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：外山九市
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：星川孝文
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1997年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Mission:1
+  title: Chronicle Beginning 〜年代記の始まり〜
+  description: 西暦4999年。伝説の「宇宙撫子」を母に持つ神崎あかりは念願の大学衛星に入学を果たす。全宇宙から集まった少女たちを相手に、母のように宇宙最強の少女に与えられる称号を勝ち取るため、あかりの戦いの日々が始まる。<br><br>あかり:夏樹リオ／クリス:川上とも子／アンナ:矢島晶子／ターニャ:阪口あや／ミランダ:岡村明美／ラーリ:山口由香子／校長グラン・オールドマン:中田浩二／ジェシー:伊藤美紀／ジョアン・ウー:折笠
+    愛<br><br>原案・監修:林 宏樹／監督:小沢一浩／構成・脚本:倉田英之／キャラクターデザイン:牧野竜一／コンセプチュアルデザイン:神宮司訓之／デザインワークス:渡辺浩二／美術監督:脇
+    威志／演出:八谷賢一+外山九市+星川孝文／撮影監督:鈴木秀男／音響監督:本田保則／音楽:服部隆之／企画協力:GENCO／制作協力:童夢／制作:AIC／製作:ジェネオンエンタテインメント／製作:WE’VE・テレビ東京<br><br>©AIC・iPC/NBCUniversal
+    Entertainment・テレビ東京・WE'VE<br><br>次話→so36368633
+  length_seconds: 2792
+  content_id: so36368632
+  default_thread_id: 1581724863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368632/36368632.11268770
+- !ruby/hash:EpisodeHash
+  episode_no: Mission:2
+  title: Oath Entrant 〜誓いの新入生〜
+  description: 優しくておかしなルームメイト達、恐い先輩。数々の期待と不安をよそに、あかりの大学衛星での生活が始まった。最初の競技はバトルラクロス。あかり、クリス、アンナの3名は、慣れない競技に苦戦するが…。<br><br>あかり:夏樹リオ／クリス:川上とも子／アンナ:矢島晶子／ターニャ:阪口あや／ミランダ:岡村明美／ラーリ:山口由香子／校長グラン・オールドマン:中田浩二／ジェシー:伊藤美紀／ジョアン・ウー:折笠
+    愛<br><br>原案・監修:林 宏樹／監督:小沢一浩／構成・脚本:倉田英之／キャラクターデザイン:牧野竜一／コンセプチュアルデザイン:神宮司訓之／デザインワークス:渡辺浩二／美術監督:脇
+    威志／演出:八谷賢一+外山九市+星川孝文／撮影監督:鈴木秀男／音響監督:本田保則／音楽:服部隆之／企画協力:GENCO／制作協力:童夢／制作:AIC／製作:ジェネオンエンタテインメント／製作:WE’VE・テレビ東京<br><br>©AIC・iPC/NBCUniversal
+    Entertainment・テレビ東京・WE'VE<br><br>so36368632←前話｜次話→so36368648　第一話→so36368632
+  length_seconds: 1764
+  content_id: so36368633
+  default_thread_id: 1581724503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368633/36368633.22155284
+- !ruby/hash:EpisodeHash
+  episode_no: Mission:3
+  title: Screaming Advance 〜驚きの進歩〜
+  description: 早くも迎えた中間試験。課目は軌道エレベータを舞台にしたオリエンテーリング。バトルラクロスで培ったチームワークを発揮し、あかりはクリスやアンナとともに関門をひとつひとつクリアーにしていく。が、そこで最悪のトラブル発生!!
+    3人に迫る危機とは!?<br><br>あかり:夏樹リオ／クリス:川上とも子／アンナ:矢島晶子／ターニャ:阪口あや／ミランダ:岡村明美／ラーリ:山口由香子／校長グラン・オールドマン:中田浩二／ジェシー:伊藤美紀／ジョアン・ウー:折笠
+    愛<br><br>原案・監修:林 宏樹／監督:小沢一浩／構成・脚本:倉田英之／キャラクターデザイン:牧野竜一／コンセプチュアルデザイン:神宮司訓之／デザインワークス:渡辺浩二／美術監督:脇
+    威志／演出:八谷賢一+外山九市+星川孝文／撮影監督:鈴木秀男／音響監督:本田保則／音楽:服部隆之／企画協力:GENCO／制作協力:童夢／制作:AIC／製作:ジェネオンエンタテインメント／製作:WE’VE・テレビ東京<br><br>©AIC・iPC/NBCUniversal
+    Entertainment・テレビ東京・WE'VE<br><br>so36368633←前話｜次話→so36368649　第一話→so36368632
+  length_seconds: 1790
+  content_id: so36368648
+  default_thread_id: 1581724806
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368648/36368648.5288930
+- !ruby/hash:EpisodeHash
+  episode_no: Mission:4
+  title: Match Unexpected 〜思いがけない好敵手〜
+  description: 大学衛星と男子校衛星による年に一度の親善試合「七夕」の日が迫る。今年の種目はアクロスパイク。代表選手に選ばれたあかり、ターニャ、ミランダの3名は、校長による特別メニューのもと訓練を続けた。そして試合当日、あかりの対戦相手は、なんと…！<br><br>あかり:夏樹リオ／クリス:川上とも子／アンナ:矢島晶子／ターニャ:阪口あや／ミランダ:岡村明美／ラーリ:山口由香子／校長グラン・オールドマン:中田浩二／ジェシー:伊藤美紀／ジョアン・ウー:折笠
+    愛<br><br>原案・監修:林 宏樹／監督:小沢一浩／構成・脚本:倉田英之／キャラクターデザイン:牧野竜一／コンセプチュアルデザイン:神宮司訓之／デザインワークス:渡辺浩二／美術監督:脇
+    威志／演出:八谷賢一+外山九市+星川孝文／撮影監督:鈴木秀男／音響監督:本田保則／音楽:服部隆之／企画協力:GENCO／制作協力:童夢／制作:AIC／製作:ジェネオンエンタテインメント／製作:WE’VE・テレビ東京<br><br>©AIC・iPC/NBCUniversal
+    Entertainment・テレビ東京・WE'VE<br><br>so36368648←前話｜次話→so36368650　第一話→so36368632
+  length_seconds: 1800
+  content_id: so36368649
+  default_thread_id: 1581724563
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368649/36368649.36336401
+- !ruby/hash:EpisodeHash
+  episode_no: Mission:5
+  title: Objective Tension 〜目標への努力〜
+  description: 遂に、今年のコスモビューティーをきめる大運動会が始まった！第一競技・障害物走。勝負に徹しきれずクリスに勝ちをゆずったあかりは、クリスに諌められる。気を引き締め直すあかりは、第二競技のスーパーハイジャンプで無謀な記録に挑む。そして続く死闘のはてに、最終競技に残ったのは、ラーリ、クリス、あかりだった…。<br><br>あかり:夏樹リオ／クリス:川上とも子／アンナ:矢島晶子／ターニャ:阪口あや／ミランダ:岡村明美／ラーリ:山口由香子／校長グラン・オールドマン:中田浩二／ジェシー:伊藤美紀／ジョアン・ウー:折笠
+    愛<br><br>原案・監修:林 宏樹／監督:小沢一浩／構成・脚本:倉田英之／キャラクターデザイン:牧野竜一／コンセプチュアルデザイン:神宮司訓之／デザインワークス:渡辺浩二／美術監督:脇
+    威志／演出:八谷賢一+外山九市+星川孝文／撮影監督:鈴木秀男／音響監督:本田保則／音楽:服部隆之／企画協力:GENCO／制作協力:童夢／制作:AIC／製作:ジェネオンエンタテインメント／製作:WE’VE・テレビ東京<br><br>©AIC・iPC/NBCUniversal
+    Entertainment・テレビ東京・WE'VE<br><br>so36368649←前話｜次話→so36368651　第一話→so36368632
+  length_seconds: 1698
+  content_id: so36368650
+  default_thread_id: 1581724803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368650/36368650.44438860
+- !ruby/hash:EpisodeHash
+  episode_no: Mission:6
+  title: Stage Yonder 〜舞台の向こうに…〜
+  description: 遂に迎えた最終競技は100メートル走。だが、あかりに負けて自暴自棄になったミランダによる思わぬ妨害が入って、競技は中断。その事故のためにクリスは棄権することになる。やり直しになった100メートル走は、あかりとラーリの一騎討ちに…。勝利の女神はどちらに微笑むのか?!<br><br>あかり:夏樹リオ／クリス:川上とも子／アンナ:矢島晶子／ターニャ:阪口あや／ミランダ:岡村明美／ラーリ:山口由香子／校長グラン・オールドマン:中田浩二／ジェシー:伊藤美紀／ジョアン・ウー:折笠
+    愛<br><br>原案・監修:林 宏樹／監督:小沢一浩／構成・脚本:倉田英之／キャラクターデザイン:牧野竜一／コンセプチュアルデザイン:神宮司訓之／デザインワークス:渡辺浩二／美術監督:脇
+    威志／演出:八谷賢一+外山九市+星川孝文／撮影監督:鈴木秀男／音響監督:本田保則／音楽:服部隆之／企画協力:GENCO／制作協力:童夢／制作:AIC／製作:ジェネオンエンタテインメント／製作:WE’VE・テレビ東京<br><br>©AIC・iPC/NBCUniversal
+    Entertainment・テレビ東京・WE'VE<br><br>so36368650←前話　第一話→so36368632
+  length_seconds: 1768
+  content_id: so36368651
+  default_thread_id: 1581724505
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368651/36368651.59802358
+cast: "[キャスト]<br>あかり:夏樹リオ／クリス:川上とも子／アンナ:矢島晶子／ターニャ:阪口あや／ミランダ:岡村明美／ラーリ:山口由香子／校長グラン・オールドマン:中田浩二／ジェシー:伊藤美紀／ジョアン・ウー:折笠
+  愛"
+staff: "[スタッフ]<br>原案・監修:林 宏樹／監督:小沢一浩／構成・脚本:倉田英之／キャラクターデザイン:牧野竜一／コンセプチュアルデザイン:神宮司訓之／デザインワークス:渡辺浩二／美術監督:脇
+  威志／演出:八谷賢一+外山九市+星川孝文／撮影監督:鈴木秀男／音響監督:本田保則／音楽:服部隆之／企画協力:GENCO／制作協力:童夢／制作:AIC／製作:ジェネオンエンタテインメント／製作:WE’VE・テレビ東京"
+produced_year: "[製作年]<br>1997年"
+copyright: "©AIC・iPC/NBCUniversal Entertainment・テレビ東京・WE'VE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: バトルアスリーテス大運動会　TV

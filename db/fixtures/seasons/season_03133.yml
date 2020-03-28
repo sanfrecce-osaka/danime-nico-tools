@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: 坊っちゃん
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/33/5/23335_1_8_8b.png?1580452400000
+outline: 親譲りの無鉄砲で、いつも損ばかりしている。小説と同じ出だしで始まる、おなじみ夏目漱石の名作「坊っちゃん」のアニメ版。日生ファミリースペシャルの特番として放送された。キャラクターの原画は「ルパン三世」のモンキーパンチ。キャラクター・デザインは杉野昭夫が担当した。マドンナのキャラが、いかにも杉野らしい色っぽい美女に描かれている。また、要所要所に日本画風のイラストが挿入されている。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 納谷悟朗
+  type: cast
+- !ruby/hash:TagHash
+  name: 永井一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田康雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 田の中勇
+  type: cast
+- !ruby/hash:TagHash
+  name: 麻生美代子
+  type: cast
+- !ruby/hash:TagHash
+  name: 久米明
+  type: cast
+- !ruby/hash:TagHash
+  name: 西城秀樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺岳夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：竹内啓雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：夏目漱石
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1980年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 親譲りの無鉄砲で、いつも損ばかりしている。小説と同じ出だしで始まる、おなじみ夏目漱石の名作「坊っちゃん」のアニメ版。日生ファミリースペシャルの特番として放送された。キャラクターの原画は「ルパン三世」のモンキーパンチ。キャラクター・デザインは杉野昭夫が担当した。マドンナのキャラが、いかにも杉野らしい色っぽい美女に描かれている。また、要所要所に日本画風のイラストが挿入されている。<br><br>坊ちゃん:西城秀樹／山嵐:納谷悟朗／タヌキ:永井一郎／チビ:野沢雅子／清:麻生美代子／赤シャツ:八奈見乗児／野だいこ:田の中勇／うらなり:山田康雄／ナレーター:久米明、他<br><br>原作:夏目漱石／監修:出崎統／脚本:福田善之／演出・絵コンテ:竹内啓雄／キャラクター原画:モンキー・パンチ／キャラクター設定・作画:杉野昭夫／音響監督:左近充洋／撮影監督:吉坂研一／美術:小林七郎／音楽:渡辺岳夫<br><br>©TMS<br><br>次話→so36485600
+  length_seconds: 2056
+  content_id: so36485599
+  default_thread_id: 1583744222
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36485599/36485599.94419527
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 親譲りの無鉄砲で、いつも損ばかりしている。小説と同じ出だしで始まる、おなじみ夏目漱石の名作「坊っちゃん」のアニメ版。日生ファミリースペシャルの特番として放送された。キャラクターの原画は「ルパン三世」のモンキーパンチ。キャラクター・デザインは杉野昭夫が担当した。マドンナのキャラが、いかにも杉野らしい色っぽい美女に描かれている。また、要所要所に日本画風のイラストが挿入されている。<br><br>坊ちゃん:西城秀樹／山嵐:納谷悟朗／タヌキ:永井一郎／チビ:野沢雅子／清:麻生美代子／赤シャツ:八奈見乗児／野だいこ:田の中勇／うらなり:山田康雄／ナレーター:久米明、他<br><br>原作:夏目漱石／監修:出崎統／脚本:福田善之／演出・絵コンテ:竹内啓雄／キャラクター原画:モンキー・パンチ／キャラクター設定・作画:杉野昭夫／音響監督:左近充洋／撮影監督:吉坂研一／美術:小林七郎／音楽:渡辺岳夫<br><br>©TMS<br><br>so36485599←前話　第一話→so36485599
+  length_seconds: 2258
+  content_id: so36485600
+  default_thread_id: 1583744163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36485600/36485600.76851681
+cast: "[キャスト]<br>坊ちゃん:西城秀樹／山嵐:納谷悟朗／タヌキ:永井一郎／チビ:野沢雅子／清:麻生美代子／赤シャツ:八奈見乗児／野だいこ:田の中勇／うらなり:山田康雄／ナレーター:久米明、他"
+staff: "[スタッフ]<br>原作:夏目漱石／監修:出崎統／脚本:福田善之／演出・絵コンテ:竹内啓雄／キャラクター原画:モンキー・パンチ／キャラクター設定・作画:杉野昭夫／音響監督:左近充洋／撮影監督:吉坂研一／美術:小林七郎／音楽:渡辺岳夫"
+produced_year: "[製作年]<br>1980年"
+copyright: "©TMS"
+related_seasons: !ruby/array:Hashie::Array []

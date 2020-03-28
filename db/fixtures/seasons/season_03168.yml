@@ -1,0 +1,258 @@
+--- !ruby/hash:SeasonHash
+title: メーテルリンクの青い鳥 チルチルミチルの冒険旅行
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/37/0/10370_1_8_8b.png?1583200871000
+outline: はじめての、“母のいない”クリスマス・イブ。チルチルとミチルの前に突然、仙女が現れました。彼女は不思議な魔法をつぎつぎに使い、２人の幸せの「青い鳥」を探すように勧めるのです。青い鳥を探すことで２人の悩みも、不幸も、解決するというのですが…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: メーテルリンクの青い鳥 チルチルミチルの冒険旅行シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1980年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 陽気な夜の訪問者
+  description: "©東北新社<br><br>次話→so36423321"
+  length_seconds: 1479
+  content_id: so36423319
+  default_thread_id: 1582700226
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423319/36423319.98322657
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ゆかいな妖精たち
+  description: "©東北新社<br><br>so36423319←前話｜次話→so36423355　第一話→so36423319"
+  length_seconds: 1480
+  content_id: so36423321
+  default_thread_id: 1582700343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423321/36423321.9847948
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 暗黒林は謎がいっぱい
+  description: "©東北新社<br><br>so36423321←前話｜次話→so36423356　第一話→so36423319"
+  length_seconds: 1480
+  content_id: so36423355
+  default_thread_id: 1582700764
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423355/36423355.50758359
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 闇の番人・夜の女王
+  description: "©東北新社<br><br>so36423355←前話｜次話→so36423358　第一話→so36423319"
+  length_seconds: 1480
+  content_id: so36423356
+  default_thread_id: 1582700646
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423356/36423356.72987227
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: こんばんは幽霊
+  description: "©東北新社<br><br>so36423356←前話｜次話→so36423385　第一話→so36423319"
+  length_seconds: 1479
+  content_id: so36423358
+  default_thread_id: 1582700463
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423358/36423358.73310136
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 銃をにぎった鳥たち
+  description: "©東北新社<br><br>so36423358←前話｜次話→so36423419　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423385
+  default_thread_id: 1582701363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423385/36423385.9380492
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: ようこそ!病気の国へ
+  description: "©東北新社<br><br>so36423385←前話｜次話→so36423420　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423419
+  default_thread_id: 1582701964
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423419/36423419.80633667
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 時間が止まっている国
+  description: "©東北新社<br><br>so36423419←前話｜次話→so36423421　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423420
+  default_thread_id: 1582701747
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423420/36423420.90537263
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ふとりすぎたしあわせ
+  description: "©東北新社<br><br>so36423420←前話｜次話→so36423422　第一話→so36423319"
+  length_seconds: 1478
+  content_id: so36423421
+  default_thread_id: 1582701728
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423421/36423421.58276030
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: はじめまして 母の愛
+  description: "©東北新社<br><br>so36423421←前話｜次話→so36423423　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423422
+  default_thread_id: 1582701744
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423422/36423422.16727760
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 夜の宮殿の秘密
+  description: "©東北新社<br><br>so36423422←前話｜次話→so36423424　第一話→so36423319"
+  length_seconds: 1478
+  content_id: so36423423
+  default_thread_id: 1582701730
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423423/36423423.23780244
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: オアシスのない砂漠
+  description: "©東北新社<br><br>so36423423←前話｜次話→so36423425　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423424
+  default_thread_id: 1582701734
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423424/36423424.63796339
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 時計じかけの青い鳥
+  description: "©東北新社<br><br>so36423424←前話｜次話→so36423426　第一話→so36423319"
+  length_seconds: 1468
+  content_id: so36423425
+  default_thread_id: 1582701748
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423425/36423425.27159867
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 墓場への招待状
+  description: "©東北新社<br><br>so36423425←前話｜次話→so36423427　第一話→so36423319"
+  length_seconds: 1478
+  content_id: so36423426
+  default_thread_id: 1582701754
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423426/36423426.68235721
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 動物たちの反乱
+  description: "©東北新社<br><br>so36423426←前話｜次話→so36423428　第一話→so36423319"
+  length_seconds: 1478
+  content_id: so36423427
+  default_thread_id: 1582701738
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423427/36423427.58022653
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 未来の国 生まれる前の子供たち
+  description: "©東北新社<br><br>so36423427←前話｜次話→so36423430　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423428
+  default_thread_id: 1582701724
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423428/36423428.86149201
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 未来の国(2) 生まれていくんだ、今…
+  description: "©東北新社<br><br>so36423428←前話｜次話→so36423431　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423430
+  default_thread_id: 1582701732
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423430/36423430.87419949
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 黄金の国は夢でいっぱい!
+  description: "©東北新社<br><br>so36423430←前話｜次話→so36423432　第一話→so36423319"
+  length_seconds: 1478
+  content_id: so36423431
+  default_thread_id: 1582701736
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423431/36423431.75606185
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: あべこべ島の巨人
+  description: "©東北新社<br><br>so36423431←前話｜次話→so36423433　第一話→so36423319"
+  length_seconds: 1477
+  content_id: so36423432
+  default_thread_id: 1582701742
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423432/36423432.87862606
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 深海は悪魔の集会所
+  description: "©東北新社<br><br>so36423432←前話｜次話→so36423434　第一話→so36423319"
+  length_seconds: 1478
+  content_id: so36423433
+  default_thread_id: 1582701740
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423433/36423433.82410763
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 悪魔の棲む屋敷
+  description: "©東北新社<br><br>so36423433←前話｜次話→so36423435　第一話→so36423319"
+  length_seconds: 1476
+  content_id: so36423434
+  default_thread_id: 1582701752
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423434/36423434.59430990
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 夜の女王との対決
+  description: "©東北新社<br><br>so36423434←前話｜次話→so36423436　第一話→so36423319"
+  length_seconds: 1476
+  content_id: so36423435
+  default_thread_id: 1582701750
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423435/36423435.71353439
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 魔獣と戦え!母の命を賭けて
+  description: "©東北新社<br><br>so36423435←前話｜次話→so36423437　第一話→so36423319"
+  length_seconds: 1449
+  content_id: so36423436
+  default_thread_id: 1582701756
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423436/36423436.29329739
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 悪魔の罠を突破せよ!
+  description: "©東北新社<br><br>so36423436←前話｜次話→so36423438　第一話→so36423319"
+  length_seconds: 1448
+  content_id: so36423437
+  default_thread_id: 1582701845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423437/36423437.70113502
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 夜の女王 闇に死す!
+  description: "©東北新社<br><br>so36423437←前話｜次話→so36423479　第一話→so36423319"
+  length_seconds: 1447
+  content_id: so36423438
+  default_thread_id: 1582701726
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423438/36423438.73766736
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 何処へ、青い鳥…
+  description: "©東北新社<br><br>so36423438←前話　第一話→so36423319"
+  length_seconds: 1445
+  content_id: so36423479
+  default_thread_id: 1582702386
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36423479/36423479.62653523
+produced_year: "[製作年]<br>1980年"
+copyright: "©東北新社"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: メーテルリンクの青い鳥　チルチルミチルの冒険旅行-総集編

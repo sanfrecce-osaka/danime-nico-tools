@@ -1,0 +1,77 @@
+--- !ruby/hash:SeasonHash
+title: パンダコパンダ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/71/8/10718_1_8_8b.png?1580175145000
+outline: 竹やぶの一軒屋にたった一人で住んでいた少女ミミ子。小学生ながらしっかり者のミミ子が買い物から帰ってくると小さな子パンダのパンちゃんが庭にいた。さらにその親のパパンダも現れる。ミミ子に父親がいないことを知ったパパンダは自分が父親代わりになると言い、ミミ子はパンちゃんの母親になると決める。こうして2頭はそのままミミ子と暮らすことになり、奇妙で楽しい新生活が始まった。原案は宮崎
+  駿によるもので、後の宮崎名作アニメの源流と位置づけられる。ユーモラスで愛くるしい2頭のパンダは今なお人気。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 杉山佳寿子
+  type: cast
+- !ruby/hash:TagHash
+  name: 山田康雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 太田淑子
+  type: cast
+- !ruby/hash:TagHash
+  name: 熊倉一雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 瀬能礼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 和田文夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：高畑勲
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：宮崎駿
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：佐藤允彦
+  type: staff
+- !ruby/hash:TagHash
+  name: パンダコパンダシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1972年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 竹やぶの一軒屋にたった一人で住んでいた少女ミミ子。小学生ながらしっかり者のミミ子が買い物から帰ってくると小さな子パンダのパンちゃんが庭にいた。さらにその親のパパンダも現れる。ミミ子に父親がいないことを知ったパパンダは自分が父親代わりになると言い、ミミ子はパンちゃんの母親になると決める。こうして2頭はそのままミミ子と暮らすことになり、奇妙で楽しい新生活が始まった。原案は宮崎
+    駿によるもので、後の宮崎名作アニメの源流と位置づけられる。ユーモラスで愛くるしい2頭のパンダは今なお人気。<br><br>ミミ子:杉山 佳寿子／パパンダ:熊倉
+    一雄／コパンダ:太田 淑子／おまわりさん:山田 康雄／おばあちゃん:瀬能 礼子／動物園の園長さん:和田 文雄<br><br>原作・原案・脚本・画面設定:宮崎
+    駿／演出:高畑 勲／作画監督:大塚 康生、小田部 羊一／美術監督:福田 尚郎／撮影監督:清水 達正／音楽:佐藤 允彦／原画:河内 日出夫、中村 英一、近藤
+    喜文、田中 勉、青木 雄三、本多 敏行、本木 久年、北原 健二、鈴木 基司、香西 隆男、小泉 謙三、村田 耕一、荒木 伸吾、才田 俊次、山口 泰弘、我妻 宏、宮崎
+    駿<br><br>©TMS
+  length_seconds: 2000
+  content_id: so36268360
+  default_thread_id: 1579840503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36268360/36268360.31026069
+cast: "[キャスト]<br>ミミ子:杉山 佳寿子／パパンダ:熊倉 一雄／コパンダ:太田 淑子／おまわりさん:山田 康雄／おばあちゃん:瀬能 礼子／動物園の園長さん:和田
+  文雄"
+staff: "[スタッフ]<br>原作・原案・脚本・画面設定:宮崎 駿／演出:高畑 勲／作画監督:大塚 康生、小田部 羊一／美術監督:福田 尚郎／撮影監督:清水
+  達正／音楽:佐藤 允彦／原画:河内 日出夫、中村 英一、近藤 喜文、田中 勉、青木 雄三、本多 敏行、本木 久年、北原 健二、鈴木 基司、香西 隆男、小泉 謙三、村田
+  耕一、荒木 伸吾、才田 俊次、山口 泰弘、我妻 宏、宮崎 駿"
+produced_year: "[製作年]<br>1972年"
+copyright: "©TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: パンダコパンダ　雨ふりサーカスの巻

@@ -1,0 +1,349 @@
+--- !ruby/hash:SeasonHash
+title: 神秘の世界エルハザード　TV
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/26/6/23266_1_8_8b.png?1581476408000
+outline: エルハザードは、異次元の世界。この世界では、ルーン・ヴェーナス姫の王国を中心とした同盟諸国と、女王ディーバ率いる昆虫人種バグロムが覇を競って鋭く対立していた。主人公、水原誠は県立東雲高校に在学する高校３年生。
+  ある日、誠たちは突然、異世界エルハザードへ飛ばされてしまう。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 置鮎龍太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツ子
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井康嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 夏樹リオ
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩永哲哉
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：AIC
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：長岡成貢
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：秋山勝仁
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：奥田淳
+  type: staff
+- !ruby/hash:TagHash
+  name: エルハザードシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+- !ruby/hash:TagHash
+  name: 1995年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 冒険の大地へ！
+  description: 文化祭を数日後に控えたある日、陣内は誠の足を引っ張るため実験装置に妨害工作を計ろうとするが、過剰な電流によって機械が暴走を始める。もの凄い閃光が校舎を包み、誠、陣内、菜々美そして担任教師・藤沢先生の四人は光の奔流に飲み込まれてしまう。気がつくと、今まで見たこともない異質な風景の中に誠は立っていた。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>次話→so36368555
+  length_seconds: 1359
+  content_id: so36368554
+  default_thread_id: 1581722704
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368554/36368554.13133272
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 神秘の王国へ！
+  description: 見知らぬ世界に飛ばされた誠と藤沢先生。二人はそこで昆虫型モンスターのバグロムに追われていたロシュタリア王国の王女ルーン・ヴェーナスを助け、王宮へ招待される。そして、王宮の中庭でルーンが誠から地球の話を聞いている時に、誠の手が「王の印」と呼ばれるモニュメントに触れた途端、美しいメロディが流れ始める。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368554←前話｜次話→so36368556　第一話→so36368554
+  length_seconds: 1359
+  content_id: so36368555
+  default_thread_id: 1581722708
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368555/36368555.60286795
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 魅惑の王女へ！
+  description: エルハザードへ迷い込んだ陣内は、バグロム帝国を支配する女王ディーバと対面し意気投合してしまう。そして陣内はバグロム軍の陣頭に立ち、ナースの村の川をせき止め、水を枯らしてから火攻めにしようとする。その上、陣内は法外な値段で水を売りに水不足のナースの村にやってくる。そこで誠と陣内は宿命の再会を果たす。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368555←前話｜次話→so36368557　第一話→so36368554
+  length_seconds: 1358
+  content_id: so36368556
+  default_thread_id: 1581723072
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368556/36368556.4823459
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 乙女の宮殿へ！
+  description: ルーンから「古の力」を使う三神官であれば、元の世界へ戻る方法を知っているかもしれないと聞かされ、誠たちは三神官のうちの一人、ミーズのもとを目指す。その途中、陣内とバグロムの妨害に遭うが、無事「水の神殿」に到着。そこの大神官ミーズが藤沢先生に一目惚れしてしまい、おかしな異世界カップルが誕生!?<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368556←前話｜次話→so36368558　第一話→so36368554
+  length_seconds: 1357
+  content_id: so36368557
+  default_thread_id: 1581722705
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368557/36368557.18607501
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 疾風の大空へ！
+  description: 地球帰還の方法を求め、誠と藤沢先生とアレーレは「風の神殿」の大神官アフラ・マーンを訪ねる。誠たちがアフラのもとに到着すると、「風の神殿」は増築工事中だった。誠たちはアフラに大工職人と勘違いされ、東屋増築の大工仕事を手伝う羽目に。藤沢先生の超人パワーで、誠たちはあっという間に東屋を完成させてしまう。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368557←前話｜次話→so36368559　第一話→so36368554
+  length_seconds: 1357
+  content_id: so36368558
+  default_thread_id: 1581722713
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368558/36368558.8855966
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 熱血の勝負へ！
+  description: 誠たちは三神官最後の一人、シェーラ・シェーラのいる「炎の神殿」へ向かう旅の途中、行き倒れの少女と知り合う。聞けば彼女が炎の神官シェーラ・シェーラだった。彼女は賭けに負け、神殿までもが差し押さえられていた。それを聞いた誠たちは賭けの相手と交渉しに行くが、その相手が陣内と知って二度びっくりする。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368558←前話｜次話→so36368579　第一話→so36368554
+  length_seconds: 1356
+  content_id: so36368559
+  default_thread_id: 1581722711
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368559/36368559.76863331
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 金脈の屋台へ！
+  description: 菜々美は海の家「鉄人」で厨房を任されるコックとなっていた。彼女は地球から持ってきた醤油を料理に使ってみたところ、これが大ウケとなってしまう。さらに屋台を出して一儲けした後も、持ち前の商売根性を発揮する菜々美は「水の神殿」で商売をするが、ひょんなことからミーズの代理をする羽目になって……。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368559←前話｜次話→so36368580　第一話→so36368554
+  length_seconds: 1357
+  content_id: so36368579
+  default_thread_id: 1581723665
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368579/36368579.52040358
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 運命の再会へ！
+  description: ロシュタリアの宮殿に戻ってきた誠たちのもとに、藤沢先生を訪ねてミーズがやってきた。彼女の突然の来訪に戸惑う藤沢先生は、ミーズの熱意に心を動かされたルーンの頼みで、ミーズとデートする羽目になる。一方、ミーズの留守を預かった菜々美は、「水の神殿」を勝手に一大レジャーランドに改造して商売を始めていた。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368579←前話｜次話→so36368581　第一話→so36368554
+  length_seconds: 1356
+  content_id: so36368580
+  default_thread_id: 1581723068
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368580/36368580.9594873
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 盗賊の巣窟へ！
+  description: 水の神殿で誠たちに再会できた菜々美は、ロシュタリアの王宮でも食堂のバイトに励んでいた。誠は自分も何かの役に立ちたいと実験の手伝いをかって出るが、失敗してばかりで落ち込んでしまう。そんな時、ロシュタリアの畑から野菜が大量に盗まれる事件が発生する。誠と菜々美は野菜泥棒を見つけるために捜査を開始する。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368580←前話｜次話→so36368582　第一話→so36368554
+  length_seconds: 1357
+  content_id: so36368581
+  default_thread_id: 1581723667
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368581/36368581.36633822
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 幻獣の密林へ！
+  description: 古代の遺跡を訪れた誠たちは、その帰り道、ある村で田畑や家畜小屋を荒し回る怪物の話を聞き、成りゆきでその怪物を捕まえることに。そして密林に乗り込んだ誠たちは、猫のような姿をした可愛らしい動物と知り合う。誠たちはそのネコをウーラと名付け、ウーラと協力して怪物を捕まえるための罠を仕掛けようとするが……。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368581←前話｜次話→so36368583　第一話→so36368554
+  length_seconds: 1357
+  content_id: so36368582
+  default_thread_id: 1581723070
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368582/36368582.1870348
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 童心の花園へ！
+  description: 保母さんたちが休みの間、誠たちは孤児を保護する施設で子供たちの面倒を見ることになった。誠も藤沢先生もルーンの頼みとあっては断れなかった。その翌日、子どもたちのリーダーであるミリィの姿が見当たらない。誠とルーンはミリィを探しに、昔ミリィの住んでいた村に向かう。そこで誠はミリィに兄と間違えられて……。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368582←前話｜次話→so36368584　第一話→so36368554
+  length_seconds: 1355
+  content_id: so36368583
+  default_thread_id: 1581723063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368583/36368583.18828344
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: 最悪の展開へ！
+  description: エルハザードでは異常高温が発生すると、魔人を封印している天空の城、そして魔人の柩が出現するという伝説があった。そして伝説どおり天空の城が現れた。強力な兵器である魔人を再び封印するため、誠たちは城を目指して出発する。城にたどり着いた誠たちが封印の剣を刺そうとした時、扉の中から少女が現れた。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368583←前話｜次話→so36368600　第一話→so36368554
+  length_seconds: 1355
+  content_id: so36368584
+  default_thread_id: 1581723663
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368584/36368584.99554522
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 究極の悪人へ！
+  description: 伝説の兵器イフリータを手に入れた陣内は、同盟に戦争か降伏かを迫ってきた。ルーンが降伏を受け入れるはずはなく、全面戦争に突入することに。同盟の町を攻撃するために出かけたイフリータは、攻撃を外してしまうが、無意識のうちに町のあちこちを破壊していく。そんな中、イフリータはアフラに勝負を挑まれる。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368584←前話｜次話→so36368601　第一話→so36368554
+  length_seconds: 1356
+  content_id: so36368600
+  default_thread_id: 1581724387
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368600/36368600.35765717
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 伝説の雪原へ！
+  description: 何千年に一度エルハザードに降るという「伝説の雪」。その正体を突き止める調査隊に加わり、旅に出る誠とルーン。そうして誠たちがたどり着いたのはミラージュの湖。そこに雪を超パワーと勘違いした陣内たちが現れ、雪を横取りしようと誠たちに襲いかかる。彼らの襲撃で起きた波に巻き込まれ、ルーンは流されてしまう。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368600←前話｜次話→so36368602　第一話→so36368554
+  length_seconds: 1355
+  content_id: so36368601
+  default_thread_id: 1581724393
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368601/36368601.92014828
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 神官の物語へ！
+  description: 8歳の時に神修道院の門をたたいたシェーラは、時を同じくして入門した7才の少女アフラと出会う。お嬢様育ちのアフラは、がさつで不真面目なシェーラと馬が合わなかった。そして、アフラ14歳。シェーラと入門以来のくされ縁は続いており、二人は同時に大修道院に進んだ。だがそんな二人にもついに別れの時がきて……。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368601←前話｜次話→so36368603　第一話→so36368554
+  length_seconds: 1357
+  content_id: so36368602
+  default_thread_id: 1581724383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368602/36368602.35924859
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 旋風の攻防へ！
+  description: 巨大な竜巻がロシュタリアの都に近づいていた。そこに駆けつけた風の神官アフラは竜巻を止めようとして竜巻の中に飛び込むが、その中で竜巻の進路を操るのに四苦八苦しているイフリータを発見する。イフリータにプライドを傷つけられた過去を持つアフラは怒りを爆発させるが、竜巻に弾き飛ばされて大怪我をしてしまう。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368602←前話｜次話→so36368604　第一話→so36368554
+  length_seconds: 1357
+  content_id: so36368603
+  default_thread_id: 1581724030
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368603/36368603.25455487
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 天空の瞳へ！
+  description: ルーンから聞いて「契約の間」と呼ばれる古の王室の存在を知った誠は、さっそくルーンとともに「契約の間」へ向かう。二人が洞窟を進むと、洞窟内にはびっしりと古代文字が刻まれていた。夢中になってその文字を読む誠。だが道を進む内、突然それぞれの背後に水晶玉が出現し、二人は別々の光に包み込まれて消えた。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368603←前話｜次話→so36368605　第一話→so36368554
+  length_seconds: 1370
+  content_id: so36368604
+  default_thread_id: 1581724027
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368604/36368604.21478874
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 誘拐の陰謀へ！
+  description: これまでに数々の作戦を失敗している陣内は、ついに究極の大作戦を思いついた。それはルーン王女の誘拐。さっそく陣内はイフリータとともにバーン王国に向かう。その建国記念日の式典に出席する王女を狙おうというのだ。王宮に入り込んだ二人は、式典でルーンのスピーチが始まった途端、ルーンをステージから誘拐する。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368604←前話｜次話→so36368606　第一話→so36368554
+  length_seconds: 1371
+  content_id: so36368605
+  default_thread_id: 1581724025
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368605/36368605.15426994
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 暗黒の宮殿へ！
+  description: 誠はルーン誘拐の犯人である陣内たちを発見したが、ルーンを助け出すことができず、聖大河と呼ばれる大河を越えていく陣内たちを見送るしかなかった。一方、ルーンと菜々美はバグロム帝国の牢に幽閉されていた。不気味な虫たちに囲まれて不安なルーンであったが、そこでバグロム帝国の女王ディーバと初対面を果たす。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368605←前話｜次話→so36368607　第一話→so36368554
+  length_seconds: 1365
+  content_id: so36368606
+  default_thread_id: 1581724023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368606/36368606.54237546
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 兄妹の抗争へ！
+  description: 城の中を動き回っていた菜々美は、持ち前の明るい性格と異能力でバグロムたちと仲良くなる。菜々美が彼らから陣内の話を聞いて憤慨すると、彼女に影響されたバグロムたちの間で反・陣内ムードが高まる。その頃、菜々美と仲良くするバグロムたちの様子を目の当たりにした陣内は、彼女をクーデター分子呼ばわりして……。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368606←前話｜次話→so36368608　第一話→so36368554
+  length_seconds: 1365
+  content_id: so36368607
+  default_thread_id: 1581724392
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368607/36368607.70709169
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 激闘の航路へ！
+  description: 誘拐されたルーンと菜々美を救出するため、誠たちはバグロム領に向かうことになった。輿に乗って聖大河を目指す誠たちは、バグロムに襲われたりと、早くも困難にぶちあたっていた。誠の心意気に同感して救出隊に参加したシェーラは、敵と闘い、誠を助けながらも、出発前にミーズに言われたことが頭から離れなかった。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368607←前話｜次話→so36368609　第一話→so36368554
+  length_seconds: 1365
+  content_id: so36368608
+  default_thread_id: 1581724032
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368608/36368608.15554469
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 決死の救出へ！
+  description: 聖大河を渡ってバグロム領に乗り込んだ誠たち。だが途中で藤沢先生からはぐれてしまう誠とシェーラ。ルーンたちのいる城を目指す二人はなんとか城内に入り込むが、そんな二人の前にイフリータが現れる。シェーラは足止め役にまわり、誠を先に急がせる。ルーンのいる塔に向かう誠は、柱に縛り付けられた彼女を発見する。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368608←前話｜次話→so36368610　第一話→so36368554
+  length_seconds: 1365
+  content_id: so36368609
+  default_thread_id: 1581724395
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368609/36368609.92081538
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 逃亡の旅路へ！
+  description: ルーンと菜々美は密林の中をさまよいながら、バグロム領から脱出しようとしていた。ハードな逃亡が続く中、ルーンは明るく前向きに行動する菜々美を見て、誠をめぐる彼女へのわだかまりもなくなり、彼女と仲良くなっていく。聖大河を目の前にしてバグロム軍に追われる二人だが、そんな二人の前にアフラ・マーンが現れる。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368609←前話｜次話→so36368629　第一話→so36368554
+  length_seconds: 1365
+  content_id: so36368610
+  default_thread_id: 1581724034
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368610/36368610.20649003
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: 運命の主役へ！
+  description: 陣内とイフリータの手により「神の目」の軌道がずれ始め、ロシュタリア各地で大地震や津波などの天変地異が発生した。「神の目」をコントロールするイフリータの能力に喜ぶ陣内は、王宮にバグロム軍総攻撃の予告をして同盟に降伏を迫る。その直後、王宮に未だかつてない規模の大波と大吹雪の報告が飛び込んできた。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368610←前話｜次話→so36368630　第一話→so36368554
+  length_seconds: 1365
+  content_id: so36368629
+  default_thread_id: 1581724870
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368629/36368629.78200851
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: 終末の世界へ！
+  description: "「神の目」を作動させて世界を消滅させようとする、イフリータ本来の性格が目を覚ました。やがてイフリータにより「神の目」が発動。ロシュタリア上空に浮かぶ「神の目」は、その周囲に次々と亜空間を作り出す。その異様な光景の空の下、ルーンが王宮に到着。契約の間にやってきたルーンは誠との再会を果たす。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368629←前話｜次話→so36368631　第一話→so36368554"
+  length_seconds: 1366
+  content_id: so36368630
+  default_thread_id: 1581724389
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368630/36368630.59735815
+- !ruby/hash:EpisodeHash
+  episode_no: 第26話
+  title: 無限の彼方へ！
+  description: 刻々と地上に落下しつつある「神の目」。自らを触媒として、「神の目」のエネルギーを別の世界に飛ばすことになった誠は、ルーンの手を握り締めながら、動力炉を目指して「神の目」の通路を進む。動力炉にたどり着き、手のひらを合わせて「神の目」をコントロールする誠とルーンの前に、地球の光景が浮かぶ……。<br><br>水原
+    誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子<br><br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田
+    淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC<br><br>©AIC/NBCUniversal Entertainment・テレビ東京メディアネット<br><br>so36368630←前話　第一話→so36368554
+  length_seconds: 1347
+  content_id: so36368631
+  default_thread_id: 1581724867
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368631/36368631.89731165
+cast: "[キャスト]<br>水原 誠:岩永哲哉／イフリータ:天野由梨／陣内克彦:置鮎龍太郎／陣内菜々美:夏樹リオ／藤沢真理:石井康嗣／アレーレ:小桜エツ子"
+staff: "[スタッフ]<br>原案:林 宏樹、月村了衛／監督:秋山勝仁／キャラクター原案:中沢一登／キャラクターデザイン:奥田 淳／デザインワークス:渡辺浩二／音楽:長岡成貢／制作:AIC"
+produced_year: "[製作年]<br>1995年"
+copyright: "©AIC/NBCUniversal Entertainment・テレビ東京メディアネット"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 異次元の世界エルハザード

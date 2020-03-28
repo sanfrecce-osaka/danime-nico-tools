@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: 映画ドライブヘッド〜トミカハイパーレスキュー 機動救急警察〜
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/45/0/23450_1_8_8b.png?1580720468000
+outline: ある日、機動救急警察が謎の少年・テラに襲われる。その正体は、悪の人工知能が乗りうつったアンドロイドだった！テラの強力なエネルギーにより、ゴウたちはドライブヘッドを操縦できなくなってしまう。さらに巨大化したテラが周囲を飲みこみ地球が大ピンチ！かつてない緊急事態に、チームドライブヘッドが再び走り出す！はたして、ゴウたちは大切なものを守ることができるのか
+  !?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 真堂圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 三澤紗千香
+  type: cast
+- !ruby/hash:TagHash
+  name: 國立幸
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤原夏海
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：OLM
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：平野義久
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：加戸誉夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：タカラトミー
+  type: staff
+- !ruby/hash:TagHash
+  name: トミカハイパーレスキュードライブヘッド 機動救急警察シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2018年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: ある日、機動救急警察が謎の少年・テラに襲われる。その正体は、悪の人工知能が乗りうつったアンドロイドだった！テラの強力なエネルギーにより、ゴウたちはドライブヘッドを操縦できなくなってしまう。さらに巨大化したテラが周囲を飲みこみ地球が大ピンチ！かつてない緊急事態に、チームドライブヘッドが再び走り出す！はたして、ゴウたちは大切なものを守ることができるのか
+    !?<br><br>車田ゴウ:藤原夏海／ 矢倉タイガ:國立幸／石野ジン:真堂圭／石野ミコト:三澤紗千香／ユウスケ:トレンディエンジェル（斎藤司）／アキラ:トレンディエンジェル（たかし）／テラ:内田真礼、
+    伊藤健太郎<br><br>原作:タカラトミー／監督:加戸誉夫／プロデューサー:渡辺信也、斎藤智之、小嶋慶也、古市直彦／脚本:荒木憲一／音楽:平野義久／特別協力:日産自動車株式会社／制作会社:OLM<br><br>©
+    ＴＯＭＹ／ドライブヘッド2018・ＴＢＳ, ©プロジェクト シンカリオン・JR-HECWK/超進化研究所・TBS<br><br>次話→so36370258
+  length_seconds: 1830
+  content_id: so36370393
+  default_thread_id: 1581753604
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36370393/36370393.95327453
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: ある日、機動救急警察が謎の少年・テラに襲われる。その正体は、悪の人工知能が乗りうつったアンドロイドだった！テラの強力なエネルギーにより、ゴウたちはドライブヘッドを操縦できなくなってしまう。さらに巨大化したテラが周囲を飲みこみ地球が大ピンチ！かつてない緊急事態に、チームドライブヘッドが再び走り出す！はたして、ゴウたちは大切なものを守ることができるのか
+    !?<br><br>車田ゴウ:藤原夏海／ 矢倉タイガ:國立幸／石野ジン:真堂圭／石野ミコト:三澤紗千香／ユウスケ:トレンディエンジェル（斎藤司）／アキラ:トレンディエンジェル（たかし）／テラ:内田真礼、
+    伊藤健太郎<br><br>原作:タカラトミー／監督:加戸誉夫／プロデューサー:渡辺信也、斎藤智之、小嶋慶也、古市直彦／脚本:荒木憲一／音楽:平野義久／特別協力:日産自動車株式会社／制作会社:OLM<br><br>©
+    ＴＯＭＹ／ドライブヘッド2018・ＴＢＳ, ©プロジェクト シンカリオン・JR-HECWK/超進化研究所・TBS<br><br>so36370393←前話　第一話→so36370393
+  length_seconds: 1632
+  content_id: so36370258
+  default_thread_id: 1581751630
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36370258/36370258.76342384
+cast: "[キャスト]<br>車田ゴウ:藤原夏海／ 矢倉タイガ:國立幸／石野ジン:真堂圭／石野ミコト:三澤紗千香／ユウスケ:トレンディエンジェル（斎藤司）／アキラ:トレンディエンジェル（たかし）／テラ:内田真礼、
+  伊藤健太郎"
+staff: "[スタッフ]<br>原作:タカラトミー／監督:加戸誉夫／プロデューサー:渡辺信也、斎藤智之、小嶋慶也、古市直彦／脚本:荒木憲一／音楽:平野義久／特別協力:日産自動車株式会社／制作会社:OLM"
+produced_year: "[製作年]<br>2018年"
+copyright: "© ＴＯＭＹ／ドライブヘッド2018・ＴＢＳ, ©プロジェクト シンカリオン・JR-HECWK/超進化研究所・TBS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: トミカハイパーレスキュードライブヘッド 機動救急警察

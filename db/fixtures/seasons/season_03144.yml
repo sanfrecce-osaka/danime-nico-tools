@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: 魔法使いの嫁 星待つひと：中篇
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/40/7/23407_1_8_8b.png?1579744861000
+outline: 倫敦（ロンドン）から届いた思わぬ贈り物によって、チセは奥底に沈めた記憶を思い出す――。幼き頃、ひとに見えざるものとひとの無理解に怯えた日々を。それらから逃げた先に存在していた不思議な図書館と、管理者たる森の魔法使いを。『君が気にいる本が、何かあればいいんだけど』何も訊かず、そう言って優しく受け容れてくれた彼や書物との交わりの中、チセはある時、カウンターに於かれた1
+  冊の本に目を留める。それは、森の魔法使いにとって特別なものとなる本であった……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 種﨑敦美
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹内良太
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽制作：フライングドッグ
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：WIT STUDIO
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤寛崇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：松本淳一
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ヤマザキコレ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：長沼範裕
+  type: staff
+- !ruby/hash:TagHash
+  name: 魔法使いの嫁シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 倫敦（ロンドン）から届いた思わぬ贈り物によって、チセは奥底に沈めた記憶を思い出す――。幼き頃、ひとに見えざるものとひとの無理解に怯えた日々を。それらから逃げた先に存在していた不思議な図書館と、管理者たる森の魔法使いを。『君が気にいる本が、何かあればいいんだけど』何も訊かず、そう言って優しく受け容れてくれた彼や書物との交わりの中、チセはある時、カウンターに於かれた1
+    冊の本に目を留める。それは、森の魔法使いにとって特別なものとなる本であった……。<br><br>羽鳥チセ:種﨑敦美／エリアス:竹内良太／ルツ:内山昂輝／三浦理一:櫻井孝宏<br><br>原作:ヤマザキコレ(マッグガーデン刊)／シリーズ構成/監督:長沼
+    範裕／脚本:高羽 彩／キャラクターデザイン:加藤 寛崇／色彩設計:小針 裕子／美術監督:竹田 悠介／撮影監督:鈴木 麻予／CGI ディレクター:須貝 真也／2D
+    ワークス:西谷 知恵／編集:今井 大介／音楽:松本 淳一／音楽制作:フライングドッグ／音楽制作協力:BASiLiCA／音響監督:はた しょう二／アニメーション制作:WIT
+    STUDIO／配給:松竹メディア事業部／企画・製作:Production I.G<br><br>©ヤマザキコレ/マッグガーデン
+  length_seconds: 1441
+  content_id: so36268885
+  default_thread_id: 1579850229
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36268885/36268885.30509278
+cast: "[キャスト]<br>羽鳥チセ:種﨑敦美／エリアス:竹内良太／ルツ:内山昂輝／三浦理一:櫻井孝宏"
+staff: "[スタッフ]<br>原作:ヤマザキコレ(マッグガーデン刊)／シリーズ構成/監督:長沼 範裕／脚本:高羽 彩／キャラクターデザイン:加藤 寛崇／色彩設計:小針
+  裕子／美術監督:竹田 悠介／撮影監督:鈴木 麻予／CGI ディレクター:須貝 真也／2D ワークス:西谷 知恵／編集:今井 大介／音楽:松本 淳一／音楽制作:フライングドッグ／音楽制作協力:BASiLiCA／音響監督:はた
+  しょう二／アニメーション制作:WIT STUDIO／配給:松竹メディア事業部／企画・製作:Production I.G"
+produced_year: "[製作年]<br>2016年"
+copyright: "©ヤマザキコレ/マッグガーデン"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 魔法使いの嫁
+- !ruby/hash:SeasonHash
+  title: 魔法使いの嫁 星待つひと：前篇
+- !ruby/hash:SeasonHash
+  title: 魔法使いの嫁 星待つひと：後篇

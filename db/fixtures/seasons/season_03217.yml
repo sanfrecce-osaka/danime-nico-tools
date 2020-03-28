@@ -1,0 +1,292 @@
+--- !ruby/hash:SeasonHash
+title: テレビアニメいとしのムーコ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/78/3/23783_1_8_8b.png?1583915610000
+outline: 緑豊かな大自然に囲まれたガラス工房を舞台に、純情乙女犬“ムーコ”と“吹きガラス職人”こまつさんとのラブリーな毎日！こまつさんのことが好きすぎてたまーに怒られちゃうこともあるけど、それでもムーコの愛は変わらない!「こまつさん、はやくイヌになればいいのに!」個性豊かな友達も加わって、おはなつやつやムーコの楽しい毎日をあなたにお届け！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 間島淳司
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：DLE
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：みずしな孝之
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：ロマのフ比嘉
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2015年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 1話
+  title: おはなつやつやムーコはこまつさんが大好き！
+  description: ムーコはこまつさんが大好き。この日もタオルをピーっ！ムーコにとってはガラス吹きをするこまつさんのまねをしているのだ！そんなある日、うしこうさんがやってきて…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>次話→so36504970
+  length_seconds: 750
+  content_id: so36504971
+  default_thread_id: 1584077906
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504971/36504971.39991767
+- !ruby/hash:EpisodeHash
+  episode_no: 2話
+  title: 車でお出かけ！　ムーコ、風になる
+  description: こまつさんが工房奥の部屋に入れてくれてムーコは大興奮！だが彼の表情が一瞬悲しそうに見えたムーコは思わず…！その後こまつさんが車で買い物に行くのを知ったムーコは…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504971←前話｜次話→so36504969　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504970
+  default_thread_id: 1584077898
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504970/36504970.88575035
+- !ruby/hash:EpisodeHash
+  episode_no: 3話
+  title: お客さんがやってきた！ムーコは嫉妬でおなかぐるぐる
+  description: こまつさんはガラス工房のホームページを立ち上げたが一向にお客が来る気配なし。心配するもつかの間、お客さんがやってきて大喜び！そのやり取りを見てムーコはなぜか…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504970←前話｜次話→so36504968　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504969
+  default_thread_id: 1584077910
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504969/36504969.99046331
+- !ruby/hash:EpisodeHash
+  episode_no: 4話
+  title: 待て！
+  description: こまつさんの工房のホームページを充実させるため、ムーコの特技を載せようと考えたうしこうさん。しかしムーコができるのは「待て」だけ！大好物を前にしてムーコは…！<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504969←前話｜次話→so36504967　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504968
+  default_thread_id: 1584077890
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504968/36504968.86976787
+- !ruby/hash:EpisodeHash
+  episode_no: 5話
+  title: おさんぽだいすき！今日はいつもと違う道
+  description: 大好きなこまつさんとのお散歩で上機嫌のムーコ。いつもと違う道にさらにテンションＭＡＸで足取りも軽やか！しかしその道の先には恐怖の…!?<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504968←前話｜次話→so36504985　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504967
+  default_thread_id: 1584077904
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504967/36504967.95927840
+- !ruby/hash:EpisodeHash
+  episode_no: 6話
+  title: 夏が来た！台風、花火、ひえぴったん
+  description: 猛暑でゲッソリのこまつさんの家にうしこうさんが額にアレを貼ってやってきた。不思議そうなムーコは…？その夜、台風が接近し大荒れの天候そして停電！どうするムーコ！？<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504967←前話｜次話→so36504986　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504985
+  default_thread_id: 1584077917
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504985/36504985.52508934
+- !ruby/hash:EpisodeHash
+  episode_no: 7話
+  title: この夏一番暑い日！
+  description: エサがなくなりいつもと違うエサを出されて戸惑うムーコ。さてそのお味は…？エサを買いにこまつさんと出かけるムーコは店の外でお留守番。そこに女の子がやってきて…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504985←前話｜次話→so36505099　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504986
+  default_thread_id: 1584077883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504986/36504986.63275342
+- !ruby/hash:EpisodeHash
+  episode_no: 8話
+  title: 棒
+  description: 最近雨が多くてムーコはちょっと憂鬱。こまつさんがすぐに散歩を切り上げるからだ。その日も雨、しかし今回は何かが違う！なんとムーコにも犬用レインコートが用意されて…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504986←前話｜次話→so36505100　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505099
+  default_thread_id: 1584079937
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505099/36505099.49836512
+- !ruby/hash:EpisodeHash
+  episode_no: 9話
+  title: うしこい。
+  description: スーパーの買い物がてらこまつさんの代わりにムーコを散歩させるうしこうさん。たい焼きをほおばりながら、店先で待つムーコのもとに戻ってきた彼に千載一遇のチャンスが！<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505099←前話｜次話→so36505361　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505100
+  default_thread_id: 1584079941
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505100/36505100.51102252
+- !ruby/hash:EpisodeHash
+  episode_no: 10話
+  title: 玲奈のガラス体験記
+  description: 棒田さんのお店を手伝っていた玲奈ちゃんが誤ってガラスの器を割ってしまう。うしこうさんは落ち込む棒田さんを見て、こまつさんに直してもらおうと工房に二人を連れてくる。<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505100←前話｜次話→so36505362　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505361
+  default_thread_id: 1584084385
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505361/36505361.11683284
+- !ruby/hash:EpisodeHash
+  episode_no: 11話
+  title: うしこう、留守を頼む
+  description: こまつさんが出かけるためムーコはうしこうさんとお留守番。戸惑いを感じながらも遊んでくれるうしこうさんに満足するムーコ。やがてうしこうさんのおなかが空きはじめ…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505361←前話｜次話→so36505363　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505362
+  default_thread_id: 1584084393
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505362/36505362.77635934
+- !ruby/hash:EpisodeHash
+  episode_no: 12話
+  title: 雪にまつわるエトセトラ
+  description: いよいよ冬も本番！今日もムーコは雪遊び。こまつさんが「カッコいい」と憧れるアレのモノマネに余念がない。一方、雪が降り積もり屋根に上るこまつさんを見てムーコは…？<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505362←前話｜次話→so36505364　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505363
+  default_thread_id: 1584084363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505363/36505363.46912207
+- !ruby/hash:EpisodeHash
+  episode_no: 13話
+  title: 篠原さんとクリスマスデート！
+  description: ムーコはいつもと違う散歩道でとある店の前に。中ではクリスマスの格好でうしこうさんたちが待っていて大盛り上がり！不思議そうなムーコをよそにうしこうさんがなにやら…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505363←前話｜次話→so36505365　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505364
+  default_thread_id: 1584084381
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505364/36505364.54681992
+- !ruby/hash:EpisodeHash
+  episode_no: 14話
+  title: 初日の出
+  description: いつもと違って未明にムーコは目が覚めると、なんと体が巨大になっていた！見下ろすと小さいこまつさんが、これまた巨大なエサを運んでくれた。ムーコに一体何が起きた？<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505364←前話｜次話→so36505366　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505365
+  default_thread_id: 1584084395
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505365/36505365.16227305
+- !ruby/hash:EpisodeHash
+  episode_no: 15話
+  title: 除雪車は憂鬱を運んでくる
+  description: 雪遊びが大好きなムーコはいつも大はしゃぎ。一方、こまつさんは大きなくしゃみをして以来元気がない。最初はこまつさんが犬に変身すると期待したムーコだったが…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505365←前話｜次話→so36505367　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505366
+  default_thread_id: 1584084375
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505366/36505366.8227251
+- !ruby/hash:EpisodeHash
+  episode_no: 16話
+  title: 雪解けの季節
+  description: 最近雪が少ないことに気づいたムーコは「雪たべ虫」のしわざだと考えていた。そこにうしこうさんが花粉症のこまつさんのためにあるものを買ってきたことで驚愕の事実を知る<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505366←前話｜次話→so36505673　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505367
+  default_thread_id: 1584084383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505367/36505367.27718749
+- !ruby/hash:EpisodeHash
+  episode_no: 17話
+  title: 芸の道はイバラの道！？
+  description: 最近こまつさんの「待て」状態が長くて我慢がつらいムーコ。そこにうしこうさんがムーコが初めて見る「あるもの」を持ってやってきた。芸がないと言われたムーコどうする！<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505367←前話｜次話→so36505103　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505673
+  default_thread_id: 1584087797
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505673/36505673.43978573
+- !ruby/hash:EpisodeHash
+  episode_no: 18話
+  title: 負けられない戦い
+  description: 自転車カゴに乗って上機嫌のムーコ。しかしその行先は…一方、こまつさんと棒田さんに意外な共通の趣味があった。その道を極めし男たちの譲れない意地の対決が今始まる！<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505673←前話｜次話→so36505102　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505103
+  default_thread_id: 1584079931
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505103/36505103.6940117
+- !ruby/hash:EpisodeHash
+  episode_no: 19話
+  title: ムーコのぐるぐるが止まらない！
+  description: うしこうさんが工房にやってきた。なぜかムーコが家の外に出されている。こまつさんに聞くと「どうも機嫌が悪いから」らしい。「？」と思って振り返るとそこにはあの人が…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505103←前話｜次話→so36505101　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505102
+  default_thread_id: 1584079939
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505102/36505102.28570678
+- !ruby/hash:EpisodeHash
+  episode_no: 20話
+  title: こまつさん、朝顔が咲いてますよ！
+  description: 雨が降り続き、外遊びできないムーコはフラストレーション満タン状態。そんな中こまつさんが散歩に連れだす。レインコート無しでも雨に濡れていないことに気づくムーコ…！<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505102←前話｜次話→so36505086　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505101
+  default_thread_id: 1584079934
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505101/36505101.14083415
+- !ruby/hash:EpisodeHash
+  episode_no: 21話
+  title: 花火だいすき！
+  description: いよいよ夏がやってきた。うしこうさんが花火大会しようとをたくさんの花火をもってやってきた。玲奈ちゃんも大喜び。しかしムーコはそのケムリで大パニック。そして…<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505101←前話｜次話→so36504989　第一話→so36504971
+  length_seconds: 750
+  content_id: so36505086
+  default_thread_id: 1584079927
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505086/36505086.27022245
+- !ruby/hash:EpisodeHash
+  episode_no: 22話
+  title: 運命の出会い。うしこうとこまつとサラダボウル
+  description: いつものようにこまつさんの工房にやってきたうしこうさん。ふとムーコのエサ入れ用のお皿に目をやると、その皿は見覚えがあった。それは今から10年前の…！？<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36505086←前話｜次話→so36504988　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504989
+  default_thread_id: 1584077918
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504989/36504989.97948512
+- !ruby/hash:EpisodeHash
+  episode_no: 23話
+  title: 覚醒！池に入ってもバレないチカラ
+  description: うだる暑さにぐったりのムーコ。庭の池に入りたいがこまつさんに怒られるから我慢の日々。しかしついに我慢できずこっそり池に…。しかし出てみたら濡れた足あとだらけで<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504989←前話｜次話→so36504987　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504988
+  default_thread_id: 1584077902
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504988/36504988.76795020
+- !ruby/hash:EpisodeHash
+  episode_no: 24話
+  title: たまき君登場！うしこう涙の理由
+  description: 展示会でこまつさんの作品を見て弟子入り志願のたまき君がやってきた。しかしムーコを紹介され、たまき君はなぜか緊張気味。一方ムーコも、なぜかぐるぐるが。彼は一体？<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504988←前話｜次話→so36504966　第一話→so36504971
+  length_seconds: 750
+  content_id: so36504987
+  default_thread_id: 1584077900
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504987/36504987.78994008
+- !ruby/hash:EpisodeHash
+  episode_no: 25話
+  title: ムーコとコマツオトメ
+  description: また春がやってきた。みんなそれぞれ花見を楽しんでいる。こまつさんもムーコを連れて花見散歩。ある樹の前に来るとこまつさんはムーコの木だと教えてくれる。その訳は？<br><br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司<br><br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE<br><br>©
+    みずしな孝之・講談社/いとしのムーコ製作委員会<br><br>so36504987←前話　第一話→so36504971
+  length_seconds: 735
+  content_id: so36504966
+  default_thread_id: 1584077885
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36504966/36504966.91810640
+cast: "[キャスト]<br>ムーコ:吉田仁美／こまつさん:日野聡／うしこうさん:間島淳司"
+staff: "[スタッフ]<br>原作:みずしな孝之『いとしのムーコ』（講談社「イブニング」連載）／監督:ロマのフ比嘉／アニメーション制作:DLE"
+produced_year: "[製作年]<br>2015年"
+copyright: "© みずしな孝之・講談社/いとしのムーコ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

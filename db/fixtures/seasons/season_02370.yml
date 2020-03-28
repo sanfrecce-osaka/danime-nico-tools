@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 沼倉愛美
   type: cast
 - !ruby/hash:TagHash
-  name: 麦人
+  name: 小林裕介
   type: cast
 - !ruby/hash:TagHash
-  name: 小林裕介
+  name: 麦人
   type: cast
 - !ruby/hash:TagHash
   name: 上田麗奈
@@ -44,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 佐藤元
   type: cast
 - !ruby/hash:TagHash
-  name: アニメーション制作：トムス・エンタテインメント
+  name: 音楽：加藤達也
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：加藤達也
+  name: アニメーション制作：トムス・エンタテインメント
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：岩佐裕子

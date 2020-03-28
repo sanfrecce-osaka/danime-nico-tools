@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: パーマン「コピーワールドの謎」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/39/8/23398_1_8_8b.png?1579846099000
+outline: １号がパトロールから帰宅すると、コピーがいなくなっていた。窓の外を見ると、何故か１号の姿が。そこへ他のパーマンたちからコピーが行方不明になっていると連絡が入った。その夜ミツ夫は、謎のパーマン４人が宴会を開いているのを見て駆けつける。コピーがパーマンになっているのを確認したミツ夫は三人を呼んでパー着する。しかしあっけなくやられた上に、コピーと間違えられて住民たちに責められる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 千葉繁
+  type: cast
+- !ruby/hash:TagHash
+  name: 増山江威子
+  type: cast
+- !ruby/hash:TagHash
+  name: 肝付兼太
+  type: cast
+- !ruby/hash:TagHash
+  name: 安原義人
+  type: cast
+- !ruby/hash:TagHash
+  name: 大竹宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳丸完
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴木清信
+  type: cast
+- !ruby/hash:TagHash
+  name: 三輪勝恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 三浦雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 梨羽雪子
+  type: cast
+- !ruby/hash:TagHash
+  name: 坪井章子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：笹川ひろし
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：シンエイ動画
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：藤子・F・不二雄
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：たかしまあきひこ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：原田益次
+  type: staff
+- !ruby/hash:TagHash
+  name: パーマンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1984年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: １号がパトロールから帰宅すると、コピーがいなくなっていた。窓の外を見ると、何故か１号の姿が。そこへ他のパーマンたちからコピーが行方不明になっていると連絡が入った。その夜ミツ夫は、謎のパーマン４人が宴会を開いているのを見て駆けつける。コピーがパーマンになっているのを確認したミツ夫は三人を呼んでパー着する。しかしあっけなくやられた上に、コピーと間違えられて住民たちに責められる。<br><br>パーマン(ミツ夫):三輪勝恵／ブービー:大竹
+    宏／パー子:増山江威子／パーヤン:肝付兼太／バードマン:安原義人／ガン子:梨羽雪子／パパ:徳丸 完／ママ:坪井 章／ミチ子:三浦雅子／カバオ:鈴木清信／サブ:千葉
+    繁<br><br>原作:藤子・Ｆ・不二雄／総監督:笹川ひろし／監修:鈴木伸一／監督:原田益次／シリーズ構成:桜井正明／作画監督:富永貞義／美術監督:川井 憲、今林美紀／撮影監督:金子
+    仁／録音監督:浦上靖夫、大熊 昭／音楽:たかしまあきひこ／制作:シンエイ動画・テレビ朝日<br><br>©藤子プロ／シンエイ・小学館
+  length_seconds: 1157
+  content_id: so36286431
+  default_thread_id: 1580179503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36286431/36286431.36668153
+cast: "[キャスト]<br>パーマン(ミツ夫):三輪勝恵／ブービー:大竹 宏／パー子:増山江威子／パーヤン:肝付兼太／バードマン:安原義人／ガン子:梨羽雪子／パパ:徳丸
+  完／ママ:坪井 章／ミチ子:三浦雅子／カバオ:鈴木清信／サブ:千葉 繁"
+staff: "[スタッフ]<br>原作:藤子・Ｆ・不二雄／総監督:笹川ひろし／監修:鈴木伸一／監督:原田益次／シリーズ構成:桜井正明／作画監督:富永貞義／美術監督:川井
+  憲、今林美紀／撮影監督:金子 仁／録音監督:浦上靖夫、大熊 昭／音楽:たかしまあきひこ／制作:シンエイ動画・テレビ朝日"
+produced_year: "[製作年]<br>1984年"
+copyright: "©藤子プロ／シンエイ・小学館"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: パーマン
+- !ruby/hash:SeasonHash
+  title: パーマン「バード星への道」

@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
-  name: 小野大輔
+  name: 日笠陽子
   type: cast
 - !ruby/hash:TagHash
-  name: 日笠陽子
+  name: 小野大輔
   type: cast
 - !ruby/hash:TagHash
   name: 下野紘
@@ -224,12 +224,144 @@ episodes: !ruby/array:Hashie::Array
   description: 突如、管制より全アークスに船団への帰投命令が下る。そして、混乱するアークスたちの間では、とある噂が広まりつつあった。動揺するアッシュの前に姿を現したシオンは語る。「……待っていた。　私と、私たちは、ずっとこの時を……」<br><br>アッシュ:小野大輔／アフィン:下野
     紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
     正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
-    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36132774←前話　第一話→so35755425
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36132774←前話｜次話→so36206747　第一話→so35755425
   length_seconds: 1420
   content_id: so36141994
   default_thread_id: 1577411283
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36141994/36141994.56362125
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: 六芒均衡
+  description: シオンを導かれ、マザーシップの中心部を目指す、アッシュとマトイ。しかし、その行く手を阻もうとするアークス最強の番人たちが現れる……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36141994←前話｜次話→so36238408　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36206747
+  default_thread_id: 1578626403
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36206747/36206747.55804389
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 再誕の日
+  description: 六芒均衡の協力を得て、マトイと共にシオンの元へ向かうアッシュ。シオンを救うため先を急ぐ彼らの前に立ちふさがるのは……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36206747←前話｜次話→so36268167　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36238408
+  default_thread_id: 1579248243
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36238408/36238408.15662372
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 果てしなき跋扈の終わり
+  description: ダークファルス【敗者】（ルーサー）としての姿を解放したルーサーは、怒りのままにアッシュに襲い掛かる。圧倒的な力を持つ【敗者】（ルーサー）に、結束して立ち向かうアークスたち。戦いの行く末は……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36238408←前話｜次話→so36299325　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36268167
+  default_thread_id: 1579836843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36268167/36268167.38380701
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: 十年前の、わたし
+  description: シャオに呼び出されたアッシュは、残されたシオンの記録から「マトイに関するデータ」と「十年前のある時期の事象の記録」が完全に抹消されていることを知らされる。時間遡行で真実を探ることを決めたアッシュを待っていたのは……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36268167←前話｜次話→so36330967　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36299325
+  default_thread_id: 1580450343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36299325/36299325.57328595
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: わたしが生まれたその理由
+  description: 報復のため、アークスシップを襲撃する【若人】（アプレンティス）。クラリッサを手放した二代目クラリスクレイスを、【若人】（アプレンティス）は残酷な手段で追い詰める。アッシュは二代目クラリスクレイスを救うため、彼女の元へ走るが……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36299325←前話｜次話→so36363551　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36330967
+  default_thread_id: 1581054245
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36330967/36330967.88406561
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: 消された記録、残された記憶
+  description: 二代目クラリスクレイスの辿った結末を目にし、帰還したアッシュ。一方アフィンは、【若人】（アプレンティス）と出会ってから、独自にダークファルスについての調査を進めていた……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36330967←前話｜次話→so36418765　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36363551
+  default_thread_id: 1581645131
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36363551/36363551.43662883
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: 歴史を騙し、現在を喰らう
+  description: 惑星リリーパがダーカーの大群に強襲され全アークスに緊急招集がかかる。【若人】（アプレンティス）が現れるかもしれないと考え、リリーパに向かうアッシュたち。ユクリータを探すアフィンと接しながら、【巨躯】（エルダー）と再び遭遇したとき、どうすべきか、揺れるメルフォンシーナだったが……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36363551←前話｜次話→so36431816　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36418765
+  default_thread_id: 1582614243
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36418765/36418765.65287303
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: サラとクラリスクレイス
+  description: 偶然サラに出会ったアッシュとマトイ。出合い頭、マトイを目の前にしたサラは、急に動揺し逃げ出してしまう。追いかけた先で、アッシュはマリアに出会い、サラの抱える「罪」を知ることになる……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36418765←前話｜次話→so36468999　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36431816
+  default_thread_id: 1582854965
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36431816/36431816.85462049
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: フォトナーが生み出したもの
+  description: マトイを刺した仮面のダークファルスの正体を、ついに知ることになったアッシュ。自らとマトイの運命に直面したアッシュは、マトイを救うためにどうすべきかを思い悩み、ある人物の元を訪れる……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36431816←前話｜次話→so36505660　第一話→so35755425
+  length_seconds: 1420
+  content_id: so36468999
+  default_thread_id: 1583482085
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468999/36468999.45040556
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: 出来損ないの最高傑作
+  description: "【双子】（ダブル）の内的空間に囚われてしまったアッシュとマトイは、そこで【双子】（ダブル）の一部になっていたルーサーと再会する。ルーサーは、空白だったアッシュの記憶の真実について語りだす……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36468999←前話｜次話→so36547195　第一話→so35755425"
+  length_seconds: 1420
+  content_id: so36505660
+  default_thread_id: 1584087786
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505660/36505660.4449831
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: "【深遠なる闇】"
+  description: "【深遠なる闇】が復活した。レギアス、そしてシャオは【深遠なる闇】を倒すため、非情な決断を下す。そんな中、マトイを想うアッシュは……<br><br>アッシュ:小野大輔／アフィン:下野
+    紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他<br><br>原作:セガゲームス／監督:橘
+    正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
+    Film／制作:PHANTASY STAR PARTNERS 2019<br><br>©SEGA/PHANTASY STAR PARTNERS 2019<br><br>so36505660←前話　第一話→so35755425"
+  length_seconds: 1420
+  content_id: so36547195
+  default_thread_id: 1584769323
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36547195/36547195.13998793
 cast: "[キャスト]<br>アッシュ:小野大輔／アフィン:下野 紘／マトイ:佐藤聡美／シオン:緒方恵美／ルーサー:櫻井孝宏／ゼノ:木村良平／エコー:日笠陽子／ゲッテムハルト:飛田展男／メルフォンシーナ:花澤香菜　他"
 staff: "[スタッフ]<br>原作:セガゲームス／監督:橘 正紀／シリーズ構成:大野木 寛／脚本:大野木 寛、森田 繁、浅沼文生／キャラクターデザイン:鯉川慎平／音響監督:木村絵理子／アニメーション制作:GONZO／3DCG制作:Felix
   Film／制作:PHANTASY STAR PARTNERS 2019"

@@ -1,0 +1,76 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版　名探偵ホームズミセス・ハドソン人質事件の巻／ドーバー海峡の大空中戦の巻
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/34/2/23342_1_8_8b.png?1581904965000
+outline: コナン・ドイルの有名推理小説に一味加えてアニメ化。霧の都ロンドンのベーカー街にいるのは、パイプがトレードマークの、その名も高き名探偵ホームズ。助手のワトソンとともに、難解な事件を明晰な頭脳で推理・解決する。悪の天才科学者モリアーティ教授やスコットランドヤードのレストレード警部といった原作でもお馴染みのキャラも大活躍。推理劇の魅力にアクションやコメディの要素も加わり、楽しく斬新な作品に仕上がっている。登場人物が全て犬に擬人化され、その表情もかなりユニークな「名探偵ホームズ」テレビシリーズのうち、宮崎駿監督作品を抜粋した特別編集版第二弾。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 富田耕生
+  type: cast
+- !ruby/hash:TagHash
+  name: 一龍斎春水
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚周夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 広川太一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：宮崎駿
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：近藤喜文
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：コナン・ドイル
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：村松邦男
+  type: staff
+- !ruby/hash:TagHash
+  name: 名探偵ホームズシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1986年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: ミセス・ハドソン人質事件の巻
+  description: 最近ホームズのせいで失敗続きのモリアーティ。ホームズの弱点を探るうち、ハドソン夫人の誘拐を思いつく。まんまとハドソン夫人をアジトに監禁したモリアーティは、ハドソン夫人のあまりのマイペースさにすっかり調子をくるわせながらも、ホームズに挑戦状をたたきつける。モリアーティのハドソン夫人返還の条件は、美術館からホームズが名画を盗み出すこと。ホームズを逮捕させることがねらいだった。ホームズたちはハドソン夫人救出に乗り出すが……。<br><br>ホームズ:広川太一郎／ワトソン:富田耕生／ハドソン夫人:麻上洋子／モリアーティ教授:大塚周夫、他<br><br>原作:コナン・ドイル／オリジナルアイデア:マルコ・パゴット／監督:宮崎駿／脚本:片淵須直／作画監督:友永和秀／キャラクターデザイン:近藤喜文／美術監督:山本二三／撮影監督:高橋宏固／録音監督:斯波重治／音楽:村松邦男<br><br>©RAI・TMS<br><br>次話→so36321139
+  length_seconds: 1432
+  content_id: so36321140
+  default_thread_id: 1580833804
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321140/36321140.82174079
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ドーバー海峡の大空中戦！の巻
+  description: 朝、ホームズたちが庭のハドソン婦人をながめていると、平和な空気をやぶる大轟音と共に飛行機が落ちてきた!?　ホームズたちを追い抜いて真っ先にかけつけ、操縦士を救うハドソン婦人を、操縦士は「マリー！」と懐かしがる。実はハドソン夫人と死んだ夫は、彼の飛行機仲間だったのだ。ロンドン－パリ間の航空便開設を間近に控えて、なぜか飛行機が次々と故障するという。事件のにおいをかぎとったホームズは、飛行場に張り込んで犯人を捕まえようとするが……。<br><br>ホームズ:広川太一郎／ワトソン:富田耕生／ハドソン夫人:麻上洋子／モリアーティ教授:大塚周夫、他<br><br>原作:コナン・ドイル／オリジナルアイデア:マルコ・パゴット／監督:宮崎駿／脚本:片淵須直／作画監督:友永和秀／キャラクターデザイン:近藤喜文／美術監督:山本二三／撮影監督:高橋宏固／録音監督:斯波重治／音楽:村松邦男<br><br>©RAI・TMS<br><br>so36321140←前話　第一話→so36321140
+  length_seconds: 1340
+  content_id: so36321139
+  default_thread_id: 1580833509
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321139/36321139.79708396
+cast: "[キャスト]<br>ホームズ:広川太一郎／ワトソン:富田耕生／ハドソン夫人:麻上洋子／モリアーティ教授:大塚周夫、他"
+staff: "[スタッフ]<br>原作:コナン・ドイル／オリジナルアイデア:マルコ・パゴット／監督:宮崎駿／脚本:片淵須直／作画監督:友永和秀／キャラクターデザイン:近藤喜文／美術監督:山本二三／撮影監督:高橋宏固／録音監督:斯波重治／音楽:村松邦男"
+produced_year: "[製作年]<br>1986年"
+copyright: "©RAI・TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 劇場版　名探偵ホームズ　青い紅玉（ルビー）の巻／海底の財宝の巻
+- !ruby/hash:SeasonHash
+  title: 名探偵ホームズ

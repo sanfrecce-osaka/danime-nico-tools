@@ -11,6 +11,9 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
   name: 土井美加
   type: cast
 - !ruby/hash:TagHash
@@ -20,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：アートランド
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：馬越嘉彦
+  name: 音楽：増田俊郎
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：増田俊郎
+  name: キャラクターデザイン：馬越嘉彦
   type: staff
 - !ruby/hash:TagHash
   name: 監督：長濵博史
@@ -294,3 +297,7 @@ copyright: "©漆原友紀／講談社・アニプレックス"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: 蟲師
+- !ruby/hash:SeasonHash
+  title: 蟲師 特別篇「日蝕む翳」
+- !ruby/hash:SeasonHash
+  title: 蟲師 特別編「鈴の雫」

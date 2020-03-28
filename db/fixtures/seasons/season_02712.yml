@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: 花澤香菜
   type: cast
 - !ruby/hash:TagHash
-  name: 下野紘
+  name: 悠木碧
   type: cast
 - !ruby/hash:TagHash
-  name: 悠木碧
+  name: 下野紘
   type: cast
 - !ruby/hash:TagHash
   name: 東山奈央
@@ -32,17 +32,20 @@ tags: !ruby/array:Hashie::Array
   name: キャラクターデザイン：渡辺明夫
   type: staff
 - !ruby/hash:TagHash
+  name: アニメーション制作：manglobe
+  type: staff
+- !ruby/hash:TagHash
   name: 音楽：松尾早人
   type: staff
 - !ruby/hash:TagHash
   name: 監督：高柳滋仁
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：manglobe
-  type: staff
-- !ruby/hash:TagHash
   name: 原作：若木民喜
   type: staff
+- !ruby/hash:TagHash
+  name: 神のみぞ知るセカイシリーズ
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
@@ -182,4 +185,8 @@ cast: "[キャスト]<br>桂木桂馬:下野 紘／エルシィ:伊藤かな恵�
 staff: "[スタッフ]<br>原作:若木民喜／掲載:「週刊少年サンデー」／発行:小学館／監督:高柳滋仁／シリーズ構成:倉田英之／キャラクターデザイン:渡辺明夫／色彩設計:久保木裕一／美術監督:佐藤歩／都甲佳代子／撮影監督:山田和弘／編集:長坂智樹／音響監督:岩浪美和／音楽:松尾早人／アニメーション制作:マングローブ"
 produced_year: "[製作年]<br>2010年"
 copyright: "©若木民喜／小学館・落とし神駆け魂隊・テレビ東京"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 神のみぞ知るセカイ Ⅱ
+- !ruby/hash:SeasonHash
+  title: 神のみぞ知るセカイ 女神篇

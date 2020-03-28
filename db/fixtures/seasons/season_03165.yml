@@ -1,0 +1,73 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版　名探偵ホームズ　青い紅玉（ルビー）の巻／海底の財宝の巻
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/34/1/23341_1_8_8b.png?1581904846000
+outline: コナン・ドイルの有名推理小説に一味加えてアニメ化。霧の都ロンドンのベーカー街にいるのは、パイプがトレードマークの、その名も高き名探偵ホームズ。助手のワトソンとともに、難解な事件を明晰な頭脳で推理・解決する。悪の天才科学者モロアッチ教授やスコットランドヤードのレストレード警部といった原作でもお馴染みのキャラも大活躍。推理劇の魅力にアクションやコメディの要素も加わり、楽しく斬新な作品に仕上がっている。登場人物が全て犬に擬人化され、その表情もかなりユニークな「名探偵ホームズ」テレビシリーズのうち、宮崎駿監督作品を抜粋した特別編集版第一弾。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 富田耕生
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚周夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 柴田侊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：宮崎駿
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：近藤喜文
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：コナン・ドイル
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：村松邦男
+  type: staff
+- !ruby/hash:TagHash
+  name: 名探偵ホームズシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1984年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 青い紅玉（ルビー）の巻
+  description: 上空を真っ赤な怪鳥が奇声をあげて飛び回り、ロンドンの街は騒然とする。そのスキに宝石店から“青い紅玉”と呼ばれる宝石が消えてしまう。もちろん、犯人はモロアッチ。しかしモロアッチのポケットから、その宝石を盗み取ったスリの少年がいた。モロアッチに追われる身となった少年。しかし、少年がワトソンの財布をねらったことから、ホームズはモロアッチから少年を守ることになる。ポリーと名乗る少年、実は女の子だった。宝石店の店主から宝石奪回の依頼を受けたホームズ、モロアッチからポリーを守り、宝石を店に返すことができるのか!?<br><br>ホームズ:柴田侊彦／ワトソン:富田耕生／モロアッチ:大塚周夫、他<br><br>原作:コナン・ドイル／オリジナルアイデア:マルコ・パゴット／監督:宮崎駿／脚本:片淵須直／作画監督:近藤喜文、丹内司、友永和秀／キャラクターデザイン:近藤喜文／美術監督:山本二三／撮影監督:高橋宏固／録音監督:斯波重治／音楽:村松邦男<br><br>©RAI・TMS<br><br>次話→so36321141
+  length_seconds: 1314
+  content_id: so36321142
+  default_thread_id: 1580833507
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321142/36321142.4298422
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 海底の財宝の巻
+  description: 冒険家ライサンダー大佐が海底のナポレオンの財宝を発見した、というニュースがロンドンに伝わった頃、ホームズとワトソンは軍の司令官の元に強引に連れてこられる。極秘で製造中の潜航艇を盗まれたというのだ。ホームズがすんなりと犯人のアジトを割り出すと、興奮した司令官は軍艦で出撃していく。犯人はもちろん、モロアッチだ。司令官に反感を持つワトソンとやる気の起きないホームズを乗せて、軍艦はモロアッチの盗んだ潜航艇を追うが……。<br><br>ホームズ:柴田侊彦／ワトソン:富田耕生／モロアッチ:大塚周夫、他<br><br>原作:コナン・ドイル／オリジナルアイデア:マルコ・パゴット／監督:宮崎駿／脚本:片淵須直／作画監督:近藤喜文、丹内司、友永和秀／キャラクターデザイン:近藤喜文／美術監督:山本二三／撮影監督:高橋宏固／録音監督:斯波重治／音楽:村松邦男<br><br>©RAI・TMS<br><br>so36321142←前話　第一話→so36321142
+  length_seconds: 1414
+  content_id: so36321141
+  default_thread_id: 1580833513
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36321141/36321141.61823672
+cast: "[キャスト]<br>ホームズ:柴田侊彦／ワトソン:富田耕生／モロアッチ:大塚周夫、他"
+staff: "[スタッフ]<br>原作:コナン・ドイル／オリジナルアイデア:マルコ・パゴット／監督:宮崎駿／脚本:片淵須直／作画監督:近藤喜文、丹内司、友永和秀／キャラクターデザイン:近藤喜文／美術監督:山本二三／撮影監督:高橋宏固／録音監督:斯波重治／音楽:村松邦男"
+produced_year: "[製作年]<br>1984年"
+copyright: "©RAI・TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 名探偵ホームズ
+- !ruby/hash:SeasonHash
+  title: 劇場版　名探偵ホームズミセス・ハドソン人質事件の巻／ドーバー海峡の大空中戦の巻

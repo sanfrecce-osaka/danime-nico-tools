@@ -1,0 +1,45 @@
+--- !ruby/hash:SeasonHash
+title: 夢魔子【デジタルリマスター版】
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/08/0/23080_1_8_8b.png?1579845851000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 川村万梨阿
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：藤子不二雄Ａ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：クニトシロウ
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：北川正人
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1990年
+  type: other
+- !ruby/hash:TagHash
+  name: 1990年夏
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: 城／変身／脱皮
+  description: 夢魔子:川村万梨阿<br><br>原作:藤子不二雄Ⓐ／脚本:梅野かおる／監修:鈴木伸一／監督:クニトシロウ／演出:北川正人<br><br>©藤子スタジオ／シンエイ
+  length_seconds: 1801
+  content_id: so36282189
+  default_thread_id: 1580092203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36282189/36282189.19695530
+cast: "[キャスト]<br>夢魔子:川村万梨阿"
+staff: "[スタッフ]<br>原作:藤子不二雄Ⓐ／脚本:梅野かおる／監修:鈴木伸一／監督:クニトシロウ／演出:北川正人"
+produced_year: "[製作年]<br>1990年"
+copyright: "©藤子スタジオ／シンエイ"
+related_seasons: !ruby/array:Hashie::Array []

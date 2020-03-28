@@ -1,0 +1,340 @@
+--- !ruby/hash:SeasonHash
+title: THE ビッグオー
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/39/0/11390_1_8_8b.png?1552445982000
+outline: 40年以上前のメモリー（記憶）がすべて失われた街「パラダイムシティ」。そこには様々なトラブルの解決を仕事とする男がいた。彼の名はロジャー・スミス。日々発生するさまざまなトラブルを解決するプロのネゴシエイター（交渉人）だ。ロジャーは巨大ロボット「ビッグオー」を操り、数々の事件を解決してゆく……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢島晶子
+  type: cast
+- !ruby/hash:TagHash
+  name: 篠原恵美
+  type: cast
+- !ruby/hash:TagHash
+  name: 宮本充
+  type: cast
+- !ruby/hash:TagHash
+  name: 清川元夢
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：佐橋俊彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：さとうけいいち
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：片山一良
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+- !ruby/hash:TagHash
+  name: 1999年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Act：01
+  title: Roger The Negotiator
+  description: 記憶喪失の街パラダイムシティ……。この街でネゴシエイター（交渉屋）を営むロジャー・スミスはソルダーノ重工の社長から、誘拐された令嬢ドロシーの救出交渉を依頼される。誘拐犯ベックとの交渉の末、令嬢を取り戻したかに見えたが、彼女には思わぬ秘密が隠されていた…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>次話→so36194648
+  length_seconds: 1428
+  content_id: so36194647
+  default_thread_id: 1578374305
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194647/36194647.71862407
+- !ruby/hash:EpisodeHash
+  episode_no: Act：02
+  title: Dorothy Dorothy
+  description: ソルダーノの言葉とビッグイヤーの情報を頼りに高級クラブを訪れたロジャーは、行方不明になっていたドロシーと、彼女を孫だと言う老紳士ウェインライトと出会う。が、物語は意外な展開を見せる。誘拐事件の黒幕ベックがウェインライトを殺害しドロシーを連れ去ったのだ！<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194647←前話｜次話→so36194649　第一話→so36194647
+  length_seconds: 1428
+  content_id: so36194648
+  default_thread_id: 1578374343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194648/36194648.88312429
+- !ruby/hash:EpisodeHash
+  episode_no: Act：03
+  title: Electric City
+  description: ミス・ケイシーと名乗る女性の依頼でエレクトリックシティにある、閉鎖された水力発電所再開に反対する住民達との交渉を依頼されたロジャーだが、交渉は決裂。そんな時、森で一人暮らしをする老人と出会う。彼の山荘には、立入り禁止の湖の発電施設へと続く地下通路があった…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194648←前話｜次話→so36194650　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194649
+  default_thread_id: 1578374102
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194649/36194649.41584806
+- !ruby/hash:EpisodeHash
+  episode_no: Act：04
+  title: Ｕｎｄｅｒｇｒｏｕｎｄ　Ｔｅｒｒｏｒ
+  description: 3ヶ月前に消息を絶った新聞記者マイクル・ゼーバッハを探し出し、彼の取材原稿を高額の退職金と引き換えに引き渡させる――。そんな交渉を引き受けたロジャーは、捜索の過程で彼自身のメモリーの闇と対峙する羽目に陥る。新聞記者が過去を捨て消息を絶った理由とは一体…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194649←前話｜次話→so36194651　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194650
+  default_thread_id: 1578374285
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194650/36194650.23116181
+- !ruby/hash:EpisodeHash
+  episode_no: Act：05
+  title: Bring Back My Ghost
+  description: ロジャーは“メリッサ・フレイザー”という老女から、明日の自分の誕生日に息子を連れてきて欲しいと依頼を受ける。だが息子のボニーは暴動により昨年死亡したとされている。そんな時、霧の中から現れた巨大な亡霊によって、ある共通項を兼ね備えた人々が次々と殺害される…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194650←前話｜次話→so36194652　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194651
+  default_thread_id: 1578374106
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194651/36194651.10757175
+- !ruby/hash:EpisodeHash
+  episode_no: Act：06
+  title: A Legacy of Amadeus
+  description: 穏やかな寝覚めをドロシーの極端すぎるピアノの音色に妨げられたロジャーは、ビストロ「アマデウス」で働く、昔なじみのピアニスト・ロボット“インストル”に彼女のピアノの指導を依頼する。繊細なタッチで鍵盤を弾く彼の指…。だが、その指には悲しい思い出が詰まっていた…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194651←前話｜次話→so36194653　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194652
+  default_thread_id: 1578374297
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194652/36194652.13143855
+- !ruby/hash:EpisodeHash
+  episode_no: Act：07
+  title: The Call from The Past
+  description: 異常な高騰が続く魚の価格交渉のため漁港を訪れたロジャーは、漁師達が“深海の怒り”を恐れて仕事をしないという奇妙な話に興味を抱く。深海のメモリー発掘で一攫千金を目論むエンジェルと成り行きで共同探索に乗り出すが、漁師達が“海神の使い”と畏怖する男達に襲われてしまう。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194652←前話｜次話→so36194654　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194653
+  default_thread_id: 1578374293
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194653/36194653.76010782
+- !ruby/hash:EpisodeHash
+  episode_no: Act：08
+  title: Missing Cat
+  description: 大半の小動物が絶滅…富める者だけがペットを飼えるこのご時世、ドロシーが街で子猫を拾ってきた。彼女は子猫を“ペロ”と呼んで可愛がるが、やがて事務所を訪ねてきた飼い主夫妻に猫の譲渡交渉をすることに。そんな時、ドロシーはペロからあるメッセージを感じ取る…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194653←前話｜次話→so36194655　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194654
+  default_thread_id: 1578374283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194654/36194654.21871496
+- !ruby/hash:EpisodeHash
+  episode_no: Act：09
+  title: Beck Comes Back
+  description: ワイズカンパニーの次期総裁と噂される“フランシス・ワイズ”が誘拐され人質解放の交渉を引き受けたロジャー。ところが要求に従い山荘に身代金を届けに行った彼が見たのは瀕死のフランシス――。犯人の罠に填まり、ロジャーは誘拐致傷の容疑者として軍警察に追われてしまう…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194654←前話｜次話→so36194656　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194655
+  default_thread_id: 1578374303
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194655/36194655.73268428
+- !ruby/hash:EpisodeHash
+  episode_no: Act：10
+  title: Winter Night Phantom
+  description: 連続爆破テロ事件を捜査していたダストンは、現場で見かけたひとりの女性に記憶の残照を揺さぶられる…。題名や物語は思い出せないのに、なぜか彼の心に刻み込まれ続けている古い映画の一場面で、微笑みながら男の腕の中で死んでいく女優シベール・ロアンと瓜二つだったのだ！<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194655←前話｜次話→so36194657　第一話→so36194647
+  length_seconds: 1432
+  content_id: so36194656
+  default_thread_id: 1578374289
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194656/36194656.81224818
+- !ruby/hash:EpisodeHash
+  episode_no: Act：11
+  title: Daemonseed
+  description: あのパラダイム社の社長がロジャーに仕事を依頼してきた。社の設立を祝うヘブンズディの前日に「世界は生まれ変わる」という奇怪な脅迫状を送ってきた老学者を探して欲しいというのだ。その頃、老学者は街のサックス吹きのオリバーに厄の種となる“蒼い結晶”を手渡していた…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194656←前話｜次話→so36194658　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194657
+  default_thread_id: 1578374299
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194657/36194657.9296292
+- !ruby/hash:EpisodeHash
+  episode_no: Act：12
+  title: Enemy as Another Big！
+  description: 全身を包帯で覆ったメガデウスの挑戦を受けたビッグオーは意外な苦戦を強いられた。敵の正体はシュバルツバルトの手で掘り出されたビッグオーの同系機“ビッグデュオ”であった。これはお披露目だと言わんばかりに、ビッグオーを翻弄した挙げ句、忽然と姿を消してしまう…。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194657←前話｜次話→so36194659　第一話→so36194647
+  length_seconds: 1433
+  content_id: so36194658
+  default_thread_id: 1578374291
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194658/36194658.83330742
+- !ruby/hash:EpisodeHash
+  episode_no: Act：13
+  title: R・D　（First Season 最終回）
+  description: 次々と発生する通り魔による女性や青年の殺害事件。その現場には『我、神の名においてこれを鋳造する。汝らに罪無し』という文字が記されていた…。ビッグオー起動時、モニターに映る文字と同じ文面を残す惨殺者。その影に自分とビッグオーを繋ぐ“何か”をロジャーは感じる。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194658←前話｜次話→so36194660　第一話→so36194647
+  length_seconds: 1418
+  content_id: so36194659
+  default_thread_id: 1578374301
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194659/36194659.60772628
+- !ruby/hash:EpisodeHash
+  episode_no: Act：14
+  title: Roger the Wanderer　（Second Season 第1話）
+  description: 3体のメガデウスと交戦していたロジャーは、ふと気がつくと様変わりしてしまった世界にいた。いや、変わってしまったのは彼のメモリーなのだろうか？迷宮を彷徨うロジャーに微笑みかけるエンジェルは、救いの女神かそれとも…？　謎を秘めたシリーズ再会のプレリュード！<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194659←前話｜次話→so36194661　第一話→so36194647
+  length_seconds: 1428
+  content_id: so36194660
+  default_thread_id: 1578374104
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194660/36194660.3983663
+- !ruby/hash:EpisodeHash
+  episode_no: Act：15
+  title: Negotiation with the Dead
+  description: 殺された元老員議員ロスコーの妻ケリーから、夫の命を守護という不可解な依頼を受けたロジャーは、調査を進める過程で40年前のメモリーを失っていないある存在に行きつく。それに呼応して出現した女性型メガデウス・グリンダの狙いは？　ビッグオーのオーサンダーが炸裂する！<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194660←前話｜次話→so36194662　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194661
+  default_thread_id: 1578374163
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194661/36194661.65479933
+- !ruby/hash:EpisodeHash
+  episode_no: Act：16
+  title: Day of the Advent
+  description: アウト・オブ・ドームに拡がる“天使降臨”の噂。明日の見えない人々の願いで、未来の記憶の調査を開始したロジャー。だが熱望する人々のもとに降臨するものの正体は、天使などではなかったのだ。刻々と迫る降臨の瞬間。ビッグオーは、街に迫る未曾有の危機を回避できるのか？<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194661←前話｜次話→so36194663　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194662
+  default_thread_id: 1578374287
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194662/36194662.99808477
+- !ruby/hash:EpisodeHash
+  episode_no: Act：17
+  title: Leviathan
+  description: シティに大量にばら撒かれた不吉なチラシ。その署名は、ロジャーとの戦いで命を落とした筈のシュバルツ・バルト。調査をはじめたロジャーが、パラダイム社の地下工場で遭遇した白いメガデウスの正体とは？　そしてシティを砂状化し蹂躙するリヴァイアサンは、何人の創造物なのか？<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194662←前話｜次話→so36194664　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194663
+  default_thread_id: 1578374170
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194663/36194663.73417662
+- !ruby/hash:EpisodeHash
+  episode_no: Act：18
+  title: The Greatest Villain
+  description: 刑務所から脱走したベックは、宿敵ロジャーとビッグオーへの復讐を果たすため、大胆にもロジャーの誘拐を決行した。ネゴシエイターとなったドロシーとの、虚々実々の駆け引きの行方は？そして、ビッグオーの前に立ち塞がる三体合体メカベック・ザ・グレートRX3の実力は？<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194663←前話｜次話→so36194665　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194664
+  default_thread_id: 1578374295
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194664/36194664.82810424
+- !ruby/hash:EpisodeHash
+  episode_no: Act：19
+  title: Eyewitness
+  description: 頻発するアンドロイド連続破壊事件。パラダイム社より軍警察に派遣された査察官は、アンドロイドのR・フレデリック・オライリーだった。互いに相容れぬ存在でありながら、共同捜査を余儀なくされるダンとフレデリック。だが二人の間には、捜査の過程で奇妙な連帯感が育まれ…<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194664←前話｜次話→so36194666　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194665
+  default_thread_id: 1578374174
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194665/36194665.74684115
+- !ruby/hash:EpisodeHash
+  episode_no: Act：20
+  title: Stripes
+  description: 異国の歌声が響きくパラダイムシティに、立ち上がった異形のメガデウス・ボナパルト。摩天楼を分割飛行する6つのパーツが合体し、強烈なプラズマ放電を発する魔神の勇姿は、アニメファンのみならず特撮ファンも必見だ。そして、突如活動停止したビッグオーの真意は何か？<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194665←前話｜次話→so36194667　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194666
+  default_thread_id: 1578374172
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194666/36194666.76468341
+- !ruby/hash:EpisodeHash
+  episode_no: Act：21
+  title: The Third Big
+  description: ボナパルトはパラダイム本社へと歩を進めるが、アレックスが駆る“白いビッグ”ビッグファウがその前に立ち塞がった！　本当の自分に思い悩むロジャー、メモリーを巡り暗躍するユニオンの影、そして第三のビッグの登場は、世界を何処へと導いて行くのか？謎に満ちた物語は佳境へ。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194666←前話｜次話→so36194668　第一話→so36194647
+  length_seconds: 1428
+  content_id: so36194667
+  default_thread_id: 1578374109
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194667/36194667.43787410
+- !ruby/hash:EpisodeHash
+  episode_no: Act：22
+  title: Hydra
+  description: よりパワフルに改造・再生されたヒドラ・イールが、シティに解き放たれた。三つ首の三位一体攻撃が発する超高圧電撃の猛威に、為す術のないロジャアーとビッグオー。だがその衝撃は、朦朧として行くロジャーの意識の中から、ビッグオーが持つ知られざる武装の記憶を覚醒させた！<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194667←前話｜次話→so36194669　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194668
+  default_thread_id: 1578374167
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194668/36194668.9778487
+- !ruby/hash:EpisodeHash
+  episode_no: Act：23
+  title: Twisted Memories
+  description: ドロシーを奪取せよ！コアメモリーを欠いた不完全なビッグファウを完璧なものにするために、パラダイム社はドロシーのメモリーディスクを代用することにしたのだった。ロジャー邸を急襲する、無数のウォーマシン。さらに駆けつけたロジャーの前に、赤い魔神が立ち塞がった！<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194668←前話｜次話→so36194703　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194669
+  default_thread_id: 1578374111
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194669/36194669.82254891
+- !ruby/hash:EpisodeHash
+  episode_no: Act：24
+  title: The Big Fight
+  description: かつてロジャーを苦しめたビッグデュオは、半機械であるアランと半身で直結し、より凶暴なビッグデュオ・インフェルノとして復活した。強大なパワーを放ちぶつかりあう、真紅と漆黒のメガデウスの勝敗の行方は？そして世界の存亡を揺るがす陰謀のベールが、引き上げられて行く。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194669←前話｜次話→so36194704　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194703
+  default_thread_id: 1578375615
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194703/36194703.82388268
+- !ruby/hash:EpisodeHash
+  episode_no: Act：25
+  title: The War of the Paradigm City
+  description: 空爆により炎に包まれるシティに、完全復活したビッグファウ。その威容こそが、新たな世界の支配者なのか？　その頃ロジャーたちは、迷宮のような地下にあった記憶のステージで、メモリーとこの世界、そして彼に課されたネゴシエーションに関する驚くべき真実と対峙していた。<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194703←前話｜次話→so36194705　第一話→so36194647
+  length_seconds: 1435
+  content_id: so36194704
+  default_thread_id: 1578375617
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194704/36194704.6825089
+- !ruby/hash:EpisodeHash
+  episode_no: Act：26
+  title: The Show Must Go On　（Second Season 最終回）
+  description: いよいよ世界の命運を賭けて、ビッグオーとビッグファウの最終戦が始まった。満身創痍となりながらも、究極兵器ビッグオー・ファイナルステージを放つビッグオー。それでも倒れぬビッグファウ。だがその時、世界の全てをリセットするために、第4のビッグ、ビッグヴィヌス覚醒す！<br><br>ロジャー・スミス:宮本
+    充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章<br><br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦<br><br>©SUNRISE
+    INC.<br><br>so36194704←前話　第一話→so36194647
+  length_seconds: 1428
+  content_id: so36194705
+  default_thread_id: 1578375608
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36194705/36194705.61667094
+cast: "[キャスト]<br>ロジャー・スミス:宮本 充／R・ドロシー・ウェインライト:矢島晶子／ノーマン・バーグ:清川元夢／エンジェル:篠原恵美／ダン・ダストン:玄田哲章"
+staff: "[スタッフ]<br>原作:矢立肇／監督:片山一良／コンセプトワーク・スーパーバイザー:さとうけいいち／シリーズ構成:小中千昭、片山一良／キャラクターデザイン:さとうけいいち／メカデザイン:さとうけいいち／音楽:佐橋俊彦"
+produced_year: "[製作年]<br>1999年"
+copyright: "©SUNRISE INC."
+related_seasons: !ruby/array:Hashie::Array []

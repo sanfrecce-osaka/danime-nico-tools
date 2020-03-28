@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: Winter Garden from デ･ジ･キャラット
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/63/4/23634_1_8_8b.png?1583111092000
+outline: デ・ジ・キャラットこと、でじこは、妹のぷちこと二人暮らし。ケーキ屋さんでバイトに励む彼女は、雪の降りしきるクリスマスの日、バイトの帰り道に 一人の青年と出会う。でじこは、その青年・仙波拓郎に恋心を抱くようになり……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 入野自由
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: ささきのぞみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：桜井弘明
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ブロッコリー
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：instant cytron
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: ''
+  description: デ・ジ・キャラットこと、でじこは、妹のぷちこと二人暮らし。ケーキ屋さんでバイトに励む彼女は、雪の降りしきるクリスマスの日、バイトの帰り道に
+    一人の青年と出会う。でじこは、その青年・仙波拓郎に恋心を抱くようになり……。<br><br>デ・ジ・キャラット:真田アサミ／プチ・キャラット:沢城みゆき／仙波拓郎:入野自由／愛子:ささきのぞみ<br><br>原作:ブロッコリー／監督:桜井弘明／脚本:桜井弘明／音楽:instant
+    cytron<br><br>©ブロッコリー/TBS・ポニーキャニオン<br><br>次話→so36363683
+  length_seconds: 1485
+  content_id: so36363748
+  default_thread_id: 1581649023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36363748/36363748.10852581
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: ''
+  description: 偶然何度が出会ううちに、親密さを増していったでじこと拓郎。一方ぷちこは、ソフトボール部を辞めて、アルバイトを始める。そんなある日、でじこはバイト仲間から拓郎が女性と一緒にいたと聞かされて……。<br><br>デ・ジ・キャラット:真田アサミ／プチ・キャラット:沢城みゆき／仙波拓郎:入野自由／愛子:ささきのぞみ<br><br>原作:ブロッコリー／監督:桜井弘明／脚本:桜井弘明／音楽:instant
+    cytron<br><br>©ブロッコリー/TBS・ポニーキャニオン<br><br>so36363748←前話　第一話→so36363748
+  length_seconds: 1470
+  content_id: so36363683
+  default_thread_id: 1581647883
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36363683/36363683.91392349
+cast: "[キャスト]<br>デ・ジ・キャラット:真田アサミ／プチ・キャラット:沢城みゆき／仙波拓郎:入野自由／愛子:ささきのぞみ"
+staff: "[スタッフ]<br>原作:ブロッコリー／監督:桜井弘明／脚本:桜井弘明／音楽:instant cytron"
+produced_year: "[製作年]<br>2006年"
+copyright: "©ブロッコリー/TBS・ポニーキャニオン"
+related_seasons: !ruby/array:Hashie::Array []

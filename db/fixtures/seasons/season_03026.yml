@@ -1,0 +1,100 @@
+--- !ruby/hash:SeasonHash
+title: "『CHaCK-CHeCK-CHaRM case001～地球のアイドルというものを勉強したのです！～』"
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/39/3/21393_1_8_8b.png?1582799642000
+outline: 惑星アイドル「CHaCK-UP」が、これまでの感謝を込めて、ファンミーティングを開催！ゲームで盛り上がったり、みんなの知ってるあの歌を歌っちゃいます！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: KIMERU
+  type: cast
+- !ruby/hash:TagHash
+  name: 崎山つばさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 古谷大和
+  type: cast
+- !ruby/hash:TagHash
+  name: 福島海太
+  type: cast
+- !ruby/hash:TagHash
+  name: 影山達也
+  type: cast
+- !ruby/hash:TagHash
+  name: 古川裕太
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤真央
+  type: cast
+- !ruby/hash:TagHash
+  name: 中尾暢樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：大石憲一郎
+  type: staff
+- !ruby/hash:TagHash
+  name: CHaCK-UPシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: "『CHaCK-CHeCK-CHaRM case001～地球のアイドルというものを勉強したのです！～』"
+  description: 惑星アイドル「CHaCK-UP」が、これまでの感謝を込めて、ファンミーティングを開催！ゲームで盛り上がったり、みんなの知ってるあの歌を歌っちゃいます！<br><br>出演:火星人★マル（中尾暢樹）　金星人★ヴィー（古川裕太）　木星人★ジュジュ（影山達也）土星人★ドット（崎山つばさ）　天王星人★レイ（古谷大和）　／　冥王星人★ポミィ（福島海太）　／　深大衛太（加藤真央）　／　西園寺
+    巌（Kimeru）<br><br>演出協力:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ／振付:黒田育世　當間里美　深大衛太＆CHaCK-UP<br><br>次話→so36314403
+  length_seconds: 1664
+  content_id: so36314404
+  default_thread_id: 1580722041
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36314404/36314404.96891661
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: "『CHaCK-CHeCK-CHaRM case001～地球のアイドルというものを勉強したのです！～』"
+  description: 惑星アイドル「CHaCK-UP」が、これまでの感謝を込めて、ファンミーティングを開催！ゲームで盛り上がったり、みんなの知ってるあの歌を歌っちゃいます！<br><br>出演:火星人★マル（中尾暢樹）　金星人★ヴィー（古川裕太）　木星人★ジュジュ（影山達也）土星人★ドット（崎山つばさ）　天王星人★レイ（古谷大和）　／　冥王星人★ポミィ（福島海太）　／　深大衛太（加藤真央）　／　西園寺
+    巌（Kimeru）<br><br>演出協力:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ／振付:黒田育世　當間里美　深大衛太＆CHaCK-UP<br><br>so36314404←前話｜次話→so36314402　第一話→so36314404
+  length_seconds: 1735
+  content_id: so36314403
+  default_thread_id: 1580722051
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36314403/36314403.90798897
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: "『CHaCK-CHeCK-CHaRM case001～地球のアイドルというものを勉強したのです！～』"
+  description: 惑星アイドル「CHaCK-UP」が、これまでの感謝を込めて、ファンミーティングを開催！ゲームで盛り上がったり、みんなの知ってるあの歌を歌っちゃいます！<br><br>出演:火星人★マル（中尾暢樹）　金星人★ヴィー（古川裕太）　木星人★ジュジュ（影山達也）土星人★ドット（崎山つばさ）　天王星人★レイ（古谷大和）　／　冥王星人★ポミィ（福島海太）　／　深大衛太（加藤真央）　／　西園寺
+    巌（Kimeru）<br><br>演出協力:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ／振付:黒田育世　當間里美　深大衛太＆CHaCK-UP<br><br>so36314403←前話｜次話→so36314401　第一話→so36314404
+  length_seconds: 1564
+  content_id: so36314402
+  default_thread_id: 1580722039
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36314402/36314402.24177964
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: "『CHaCK-CHeCK-CHaRM case001～地球のアイドルというものを勉強したのです！～』"
+  description: 惑星アイドル「CHaCK-UP」が、これまでの感謝を込めて、ファンミーティングを開催！ゲームで盛り上がったり、みんなの知ってるあの歌を歌っちゃいます！<br><br>出演:火星人★マル（中尾暢樹）　金星人★ヴィー（古川裕太）　木星人★ジュジュ（影山達也）土星人★ドット（崎山つばさ）　天王星人★レイ（古谷大和）　／　冥王星人★ポミィ（福島海太）　／　深大衛太（加藤真央）　／　西園寺
+    巌（Kimeru）<br><br>演出協力:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ／振付:黒田育世　當間里美　深大衛太＆CHaCK-UP<br><br>so36314402←前話　第一話→so36314404
+  length_seconds: 1741
+  content_id: so36314401
+  default_thread_id: 1580715490
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36314401/36314401.20087017
+cast: "[キャスト]<br>出演:火星人★マル（中尾暢樹）　金星人★ヴィー（古川裕太）　木星人★ジュジュ（影山達也）土星人★ドット（崎山つばさ）　天王星人★レイ（古谷大和）　／　冥王星人★ポミィ（福島海太）　／　深大衛太（加藤真央）　／　西園寺
+  巌（Kimeru）"
+staff: "[スタッフ]<br>演出協力:亀田真二郎（東京パチプロデュース）／音楽:大石憲一郎／作詞:うえのけいこ／振付:黒田育世　當間里美　深大衛太＆CHaCK-UP"
+produced_year: "[製作年]<br>2015年"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "『CHaCK-UP』"
+- !ruby/hash:SeasonHash
+  title: "『CHaCK-UP ～ねらわれた惑星～』"
+- !ruby/hash:SeasonHash
+  title: "『CHaCK-UP―Episode.0―』"

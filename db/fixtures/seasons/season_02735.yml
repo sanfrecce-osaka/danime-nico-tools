@@ -1,0 +1,81 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版シンカリオン公開記念！冬休みは映画館で新幹線がチェンジ！シンカリオンＳＰ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/21/6/23216_1_8_8b.png?1579066379000
+outline: ''
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 釘宮理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 杉田智和
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
+  type: cast
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: 雨宮天
+  type: cast
+- !ruby/hash:TagHash
+  name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 村川梨衣
+  type: cast
+- !ruby/hash:TagHash
+  name: うえだゆうじ
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤健太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 真堂圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉田鋼太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺俊幸
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：あおのゆか
+  type: staff
+- !ruby/hash:TagHash
+  name: 新幹線変形ロボ シンカリオンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 速杉ハヤト:佐倉綾音／男鹿アキタ:沼倉愛美／大門山ツラヌキ:村川梨衣／セイリュウ:真堂圭／上田アズサ:竹達彩奈／速杉ホクト:杉田智和／三原フタバ:雨宮天／シャショット:うえだゆうじ／東スバル:山寺宏一／少年ホクト:釘宮理恵／ナハネ:伊藤健太郎／オハネフ:吉田鋼太郎<br><br>監督：池添隆博／脚本:下山健人／キャラクターデザイン:あおのゆか／メカニックデザイン:服部恵大／音楽:渡辺俊幸／音響監督:三間雅文<br><br>©プロジェクト
+    シンカリオン・JR-HECWK/超進化研究所・The Movie 2019
+  length_seconds: 1380
+  content_id: so36229558
+  default_thread_id: 1579058199
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36229558/36229558.19327439
+cast: "[キャスト]<br>速杉ハヤト:佐倉綾音／男鹿アキタ:沼倉愛美／大門山ツラヌキ:村川梨衣／セイリュウ:真堂圭／上田アズサ:竹達彩奈／速杉ホクト:杉田智和／三原フタバ:雨宮天／シャショット:うえだゆうじ／東スバル:山寺宏一／少年ホクト:釘宮理恵／ナハネ:伊藤健太郎／オハネフ:吉田鋼太郎"
+staff: "[スタッフ]<br>監督：池添隆博／脚本:下山健人／キャラクターデザイン:あおのゆか／メカニックデザイン:服部恵大／音楽:渡辺俊幸／音響監督:三間雅文"
+produced_year: "[製作年]<br>2019年"
+copyright: "©プロジェクト シンカリオン・JR-HECWK/超進化研究所・The Movie 2019"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 新幹線変形ロボ シンカリオン

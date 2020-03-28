@@ -1,0 +1,83 @@
+--- !ruby/hash:SeasonHash
+title: 映画かいけつゾロリ　ZZ（ダブルゼット）のひみつ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/24/1/23241_1_8_8b.png?1579482014000
+outline: 朝一番にドーナツ屋さんに並ぶため、“目覚まし時計”型のゾロリ庵で寝ていたゾロリとイシシ＆ノシシ。3人はひょんなことから異空間に吸い込まれてしまった！
+  行きついた先は見知らぬ町。そこで出会ったすてきなレディにゾロリが恋心を抱いたのもつかの間、「ゾロリーヌ」と名乗った彼女は、なんと若き日のゾロリママだった！ ゾロリたちは過去にタイムスリップしてしまったのだ!!
+  突然あらわれた謎のかいじゅうに飲み込まれてしまったゾロリーヌを取り戻すため、宝探しから帰ってきたトレジャーハンターのゾロンド・ロンとともに奮闘するゾロリたち。はたして、ゾロリたちは、無事、ゾロリーヌを助けることができるのか？
+  そして、「ZZ(ダブルゼット)」マークにかくされたひみつとは？ かいけつゾロリ誕生のひみつが、今、ここに明かされる!!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 山寺宏一
+  type: cast
+- !ruby/hash:TagHash
+  name: くまいもとこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 愛河里花子
+  type: cast
+- !ruby/hash:TagHash
+  name: 百田夏菜子
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：田中公平
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：亜細亜堂
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：BN Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：原ゆたか
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：藤森雅也
+  type: staff
+- !ruby/hash:TagHash
+  name: まじめにふまじめ かいけつゾロリシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 朝一番にドーナツ屋さんに並ぶため、“目覚まし時計”型のゾロリ庵で寝ていたゾロリとイシシ＆ノシシ。3人はひょんなことから異空間に吸い込まれてしまった！
+    行きついた先は見知らぬ町。そこで出会ったすてきなレディにゾロリが恋心を抱いたのもつかの間、「ゾロリーヌ」と名乗った彼女は、なんと若き日のゾロリママだった！
+    ゾロリたちは過去にタイムスリップしてしまったのだ!! 突然あらわれた謎のかいじゅうに飲み込まれてしまったゾロリーヌを取り戻すため、宝探しから帰ってきたトレジャーハンターのゾロンド・ロンとともに奮闘するゾロリたち。はたして、ゾロリたちは、無事、ゾロリーヌを助けることができるのか？
+    そして、「ZZ(ダブルゼット)」マークにかくされたひみつとは？ かいけつゾロリ誕生のひみつが、今、ここに明かされる!!<br><br>ゾロリ:山寺宏一／イシシ:愛河里花子／ノシシ:くまいもとこ／ゾロリーヌ:百田夏菜子<br><br>原作:原ゆたか（「かいけつゾロリ」シリーズ/ポプラ社刊）／監督:藤森雅也／脚本:吉田玲子／音楽:田中公平／アニメーション制作:BN
+    Pictures・亜細亜堂／配給:東京テアトル／配給協力:イオンエンターテイメント<br><br>©2017原ゆたか／ポプラ社, 映画かいけつゾロリ製作委員会
+  length_seconds: 4187
+  content_id: so36260577
+  default_thread_id: 1579680003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36260577/36260577.42553095
+cast: "[キャスト]<br>ゾロリ:山寺宏一／イシシ:愛河里花子／ノシシ:くまいもとこ／ゾロリーヌ:百田夏菜子"
+staff: "[スタッフ]<br>原作:原ゆたか（「かいけつゾロリ」シリーズ/ポプラ社刊）／監督:藤森雅也／脚本:吉田玲子／音楽:田中公平／アニメーション制作:BN
+  Pictures・亜細亜堂／配給:東京テアトル／配給協力:イオンエンターテイメント"
+produced_year: "[製作年]<br>2017年"
+copyright: "©2017原ゆたか／ポプラ社, 映画かいけつゾロリ製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: まじめにふまじめ かいけつゾロリ
+- !ruby/hash:SeasonHash
+  title: まじめにふまじめ かいけつゾロリ ゼッコーチョー編
+- !ruby/hash:SeasonHash
+  title: まじめにふまじめ かいけつゾロリ　なぞのお宝大さくせん
+- !ruby/hash:SeasonHash
+  title: 映画かいけつゾロリ だ・だ・だ・だいぼうけん！
+- !ruby/hash:SeasonHash
+  title: 映画かいけつゾロリ まもるぜ！きょうりゅうのたまご
+- !ruby/hash:SeasonHash
+  title: 映画かいけつゾロリ うちゅうの勇者たち

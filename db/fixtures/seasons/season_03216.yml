@@ -1,0 +1,120 @@
+--- !ruby/hash:SeasonHash
+title: ＡＫＩＲＡ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/08/8/11088_1_8_8b.png?1582266666000
+outline: 2019年のネオ東京。ある夜、金田をリーダーとするバイクの一団のメンバー・鉄雄が負傷した。彼は突如現れた軍用へリでラボに運ばれ、不思議な力に覚醒する。一方、街ではゲリラたちの銃撃戦が始まる中、謎の軍用兵器｢アキラ｣の覚醒が予言される。暴走する鉄雄と、鉄雄を取り戻そうとする金田の戦いが始まった!
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: 玄田哲章
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐々木望
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山茉美
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩田光央
+  type: cast
+- !ruby/hash:TagHash
+  name: 石田太郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村龍彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 伊藤福恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 神藤一弘
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：大友克洋
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：大友克洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：大友克洋
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1980年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1988年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+- !ruby/hash:TagHash
+  name: 講談社
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 2019年のネオ東京。ある夜、金田をリーダーとするバイクの一団のメンバー・鉄雄が負傷した。彼は突如現れた軍用へリでラボに運ばれ、不思議な力に覚醒する。一方、街ではゲリラたちの銃撃戦が始まる中、謎の軍用兵器｢アキラ｣の覚醒が予言される。暴走する鉄雄と、鉄雄を取り戻そうとする金田の戦いが始まった!<br><br>金田:岩田光央／鉄雄:佐々木望／ケイ:小山茉美／大佐:石田太郎／竜:玄田哲章／タカシ(26号):中村龍彦／キヨコ(25号):伊藤福恵／マサル(27号):神藤一弘<br><br>原作・監督:大友克洋(講談社・ヤングマガジン連載)／脚本:大友克洋、橋本以蔵／キャラクターデザイン:大友克洋／作画監督:なかむらたかし／作画監督補:森本晃司<br><br>©1988マッシュルーム／アキラ製作委員会<br><br>次話→so36505352
+  length_seconds: 1289
+  content_id: so36505138
+  default_thread_id: 1584084366
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505138/36505138.66840153
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 2019年のネオ東京。ある夜、金田をリーダーとするバイクの一団のメンバー・鉄雄が負傷した。彼は突如現れた軍用へリでラボに運ばれ、不思議な力に覚醒する。一方、街ではゲリラたちの銃撃戦が始まる中、謎の軍用兵器｢アキラ｣の覚醒が予言される。暴走する鉄雄と、鉄雄を取り戻そうとする金田の戦いが始まった!<br><br>金田:岩田光央／鉄雄:佐々木望／ケイ:小山茉美／大佐:石田太郎／竜:玄田哲章／タカシ(26号):中村龍彦／キヨコ(25号):伊藤福恵／マサル(27号):神藤一弘<br><br>原作・監督:大友克洋(講談社・ヤングマガジン連載)／脚本:大友克洋、橋本以蔵／キャラクターデザイン:大友克洋／作画監督:なかむらたかし／作画監督補:森本晃司<br><br>©1988マッシュルーム／アキラ製作委員会<br><br>so36505138←前話｜次話→so36505370　第一話→so36505138
+  length_seconds: 1197
+  content_id: so36505352
+  default_thread_id: 1584084387
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505352/36505352.31399126
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 2019年のネオ東京。ある夜、金田をリーダーとするバイクの一団のメンバー・鉄雄が負傷した。彼は突如現れた軍用へリでラボに運ばれ、不思議な力に覚醒する。一方、街ではゲリラたちの銃撃戦が始まる中、謎の軍用兵器｢アキラ｣の覚醒が予言される。暴走する鉄雄と、鉄雄を取り戻そうとする金田の戦いが始まった!<br><br>金田:岩田光央／鉄雄:佐々木望／ケイ:小山茉美／大佐:石田太郎／竜:玄田哲章／タカシ(26号):中村龍彦／キヨコ(25号):伊藤福恵／マサル(27号):神藤一弘<br><br>原作・監督:大友克洋(講談社・ヤングマガジン連載)／脚本:大友克洋、橋本以蔵／キャラクターデザイン:大友克洋／作画監督:なかむらたかし／作画監督補:森本晃司<br><br>©1988マッシュルーム／アキラ製作委員会<br><br>so36505352←前話｜次話→so36505371　第一話→so36505138
+  length_seconds: 1347
+  content_id: so36505370
+  default_thread_id: 1584084373
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505370/36505370.24729781
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 2019年のネオ東京。ある夜、金田をリーダーとするバイクの一団のメンバー・鉄雄が負傷した。彼は突如現れた軍用へリでラボに運ばれ、不思議な力に覚醒する。一方、街ではゲリラたちの銃撃戦が始まる中、謎の軍用兵器｢アキラ｣の覚醒が予言される。暴走する鉄雄と、鉄雄を取り戻そうとする金田の戦いが始まった!<br><br>金田:岩田光央／鉄雄:佐々木望／ケイ:小山茉美／大佐:石田太郎／竜:玄田哲章／タカシ(26号):中村龍彦／キヨコ(25号):伊藤福恵／マサル(27号):神藤一弘<br><br>原作・監督:大友克洋(講談社・ヤングマガジン連載)／脚本:大友克洋、橋本以蔵／キャラクターデザイン:大友克洋／作画監督:なかむらたかし／作画監督補:森本晃司<br><br>©1988マッシュルーム／アキラ製作委員会<br><br>so36505370←前話｜次話→so36505372　第一話→so36505138
+  length_seconds: 1179
+  content_id: so36505371
+  default_thread_id: 1584087792
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505371/36505371.21493446
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 2019年のネオ東京。ある夜、金田をリーダーとするバイクの一団のメンバー・鉄雄が負傷した。彼は突如現れた軍用へリでラボに運ばれ、不思議な力に覚醒する。一方、街ではゲリラたちの銃撃戦が始まる中、謎の軍用兵器｢アキラ｣の覚醒が予言される。暴走する鉄雄と、鉄雄を取り戻そうとする金田の戦いが始まった!<br><br>金田:岩田光央／鉄雄:佐々木望／ケイ:小山茉美／大佐:石田太郎／竜:玄田哲章／タカシ(26号):中村龍彦／キヨコ(25号):伊藤福恵／マサル(27号):神藤一弘<br><br>原作・監督:大友克洋(講談社・ヤングマガジン連載)／脚本:大友克洋、橋本以蔵／キャラクターデザイン:大友克洋／作画監督:なかむらたかし／作画監督補:森本晃司<br><br>©1988マッシュルーム／アキラ製作委員会<br><br>so36505371←前話｜次話→so36505373　第一話→so36505138
+  length_seconds: 1147
+  content_id: so36505372
+  default_thread_id: 1584085803
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505372/36505372.45366106
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.6
+  title: ''
+  description: 2019年のネオ東京。ある夜、金田をリーダーとするバイクの一団のメンバー・鉄雄が負傷した。彼は突如現れた軍用へリでラボに運ばれ、不思議な力に覚醒する。一方、街ではゲリラたちの銃撃戦が始まる中、謎の軍用兵器｢アキラ｣の覚醒が予言される。暴走する鉄雄と、鉄雄を取り戻そうとする金田の戦いが始まった!<br><br>金田:岩田光央／鉄雄:佐々木望／ケイ:小山茉美／大佐:石田太郎／竜:玄田哲章／タカシ(26号):中村龍彦／キヨコ(25号):伊藤福恵／マサル(27号):神藤一弘<br><br>原作・監督:大友克洋(講談社・ヤングマガジン連載)／脚本:大友克洋、橋本以蔵／キャラクターデザイン:大友克洋／作画監督:なかむらたかし／作画監督補:森本晃司<br><br>©1988マッシュルーム／アキラ製作委員会<br><br>so36505372←前話　第一話→so36505138
+  length_seconds: 1307
+  content_id: so36505373
+  default_thread_id: 1584085753
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36505373/36505373.96815915
+cast: "[キャスト]<br>金田:岩田光央／鉄雄:佐々木望／ケイ:小山茉美／大佐:石田太郎／竜:玄田哲章／タカシ(26号):中村龍彦／キヨコ(25号):伊藤福恵／マサル(27号):神藤一弘"
+staff: "[スタッフ]<br>原作・監督:大友克洋(講談社・ヤングマガジン連載)／脚本:大友克洋、橋本以蔵／キャラクターデザイン:大友克洋／作画監督:なかむらたかし／作画監督補:森本晃司"
+produced_year: "[製作年]<br>1988年"
+copyright: "©1988マッシュルーム／アキラ製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

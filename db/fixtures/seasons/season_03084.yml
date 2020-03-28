@@ -1,0 +1,66 @@
+--- !ruby/hash:SeasonHash
+title: ハルのふえ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/34/6/23346_1_8_8b.png?1582680866000
+outline: タヌキのハルは宙返りと草笛が上手な森の人気者。ある日、森で人間の赤ちゃんを拾います。人間のお母さんに化けたハルは、赤ちゃんをパルと名付けて育て始めました。赤ちゃんはすくすくと大きくなり、ハルにならって草笛を吹く姿を、通りがかりの著名な音楽家に才能を見いだされ、音楽の勉強をするために都会へ出かけます。ハルは別れの寂しさをこらえ、パルの幸せを祈って見送ります。そしてパルがいつ、傷ついて戻ってきてもいいように自分は人間の姿のままで暮らす決意をします。やがて、あることをきっかけにハルは姿を消してしまいます。フルートの名演奏家となったパルがハルを探して森へ戻ってきたとき、奇跡がおきました。。。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 野沢雅子
+  type: cast
+- !ruby/hash:TagHash
+  name: 戸田恵子
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：トムス・エンタテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：小学館
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：小森昭宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：やなせたかし
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：川又浩
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2012年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: タヌキのハルは宙返りと草笛が上手な森の人気者。ある日、森で人間の赤ちゃんを拾います。人間のお母さんに化けたハルは、赤ちゃんをパルと名付けて育て始めました。赤ちゃんはすくすくと大きくなり、ハルにならって草笛を吹く姿を、通りがかりの著名な音楽家に才能を見いだされ、音楽の勉強をするために都会へ出かけます。ハルは別れの寂しさをこらえ、パルの幸せを祈って見送ります。そしてパルがいつ、傷ついて戻ってきてもいいように自分は人間の姿のままで暮らす決意をします。やがて、あることをきっかけにハルは姿を消してしまいます。フルートの名演奏家となったパルがハルを探して森へ戻ってきたとき、奇跡がおきました。。。<br><br>パル:戸田恵子／ハル:野沢雅子<br><br>原作:やなせたかし（小学館刊）／監督:川又
+    浩／脚本:島田 満／作画監督:千葉源太／撮影監督:小堤勝哉／美術監督:水谷利春／音楽:小森昭宏／音響監督:大熊 昭／編集:瀬山武司／アニメーション制作:トムス・エンタテインメント<br><br>©やなせたかし／TMS<br><br>次話→so36453116
+  length_seconds: 1613
+  content_id: so36453115
+  default_thread_id: 1583206623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36453115/36453115.40721897
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: タヌキのハルは宙返りと草笛が上手な森の人気者。ある日、森で人間の赤ちゃんを拾います。人間のお母さんに化けたハルは、赤ちゃんをパルと名付けて育て始めました。赤ちゃんはすくすくと大きくなり、ハルにならって草笛を吹く姿を、通りがかりの著名な音楽家に才能を見いだされ、音楽の勉強をするために都会へ出かけます。ハルは別れの寂しさをこらえ、パルの幸せを祈って見送ります。そしてパルがいつ、傷ついて戻ってきてもいいように自分は人間の姿のままで暮らす決意をします。やがて、あることをきっかけにハルは姿を消してしまいます。フルートの名演奏家となったパルがハルを探して森へ戻ってきたとき、奇跡がおきました。。。<br><br>パル:戸田恵子／ハル:野沢雅子<br><br>原作:やなせたかし（小学館刊）／監督:川又
+    浩／脚本:島田 満／作画監督:千葉源太／撮影監督:小堤勝哉／美術監督:水谷利春／音楽:小森昭宏／音響監督:大熊 昭／編集:瀬山武司／アニメーション制作:トムス・エンタテインメント<br><br>©やなせたかし／TMS<br><br>so36453115←前話　第一話→so36453115
+  length_seconds: 1317
+  content_id: so36453116
+  default_thread_id: 1583206383
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36453116/36453116.43270401
+cast: "[キャスト]<br>パル:戸田恵子／ハル:野沢雅子"
+staff: "[スタッフ]<br>原作:やなせたかし（小学館刊）／監督:川又 浩／脚本:島田 満／作画監督:千葉源太／撮影監督:小堤勝哉／美術監督:水谷利春／音楽:小森昭宏／音響監督:大熊
+  昭／編集:瀬山武司／アニメーション制作:トムス・エンタテインメント"
+produced_year: "[製作年]<br>2012年"
+copyright: "©やなせたかし／TMS"
+related_seasons: !ruby/array:Hashie::Array []

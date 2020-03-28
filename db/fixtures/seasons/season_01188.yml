@@ -1,14 +1,20 @@
 --- !ruby/hash:SeasonHash
 title: 初恋モンスター
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/99/1/20991_1_6.png?1467198003000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/99/1/20991_1_8_8b.png?1551267247000
 outline: "｢で…俺、小学生だけど、どうする？｣ちょっぴり小さめの女子高生(※超お金持ちのご令嬢。恐ろしいほどのネガティブ思考)が、成長期にも程がある小学5年生(※身長173センチ。ただし、精神年齢は小5以下)に恋をした！？人を好きになるってどういうことなんだろう？恋愛ってどうやってするんだろう？初恋同士が織りなす、ピュアで胸キュンで、縦笛で、砂場遊びで、ヘンタイで、ドーテーで、ち○こな(？)、ノンストップ・ハイテンション・下宿ラブコメディ！(困った隣人たちの群像劇付き)。"
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
-  name: 堀江由衣
-  type: cast
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
 - !ruby/hash:TagHash
   name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江由衣
   type: cast
 - !ruby/hash:TagHash
   name: 杉田智和
@@ -23,13 +29,13 @@ tags: !ruby/array:Hashie::Array
   name: 岡本信彦
   type: cast
 - !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
   name: 緑川光
   type: cast
 - !ruby/hash:TagHash
   name: 大塚明夫
-  type: cast
-- !ruby/hash:TagHash
-  name: 津田健次郎
   type: cast
 - !ruby/hash:TagHash
   name: 森久保祥太郎
@@ -44,16 +50,16 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：スタジオディーン
   type: staff
 - !ruby/hash:TagHash
-  name: 脚本：赤尾でこ
+  name: キャラクターデザイン：岡真里子
   type: staff
 - !ruby/hash:TagHash
   name: 監督：稲垣隆行
   type: staff
 - !ruby/hash:TagHash
-  name: キャラクターデザイン：岡真里子
+  name: 音楽：坂部剛
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：坂部剛
+  name: 脚本：赤尾でこ
   type: staff
 - !ruby/hash:TagHash
   name: 脚本：あおしまたかし
@@ -88,12 +94,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>次話→so32051283
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>次話→so32051283
   length_seconds: 1420
   content_id: so32051282
   default_thread_id: 1507239569
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051282
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051282/32051282.93760300
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: あゝ華すみ荘
@@ -102,12 +108,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051282←前話｜次話→so32051319　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051282←前話｜次話→so32051319　第一話→so32051282
   length_seconds: 1420
   content_id: so32051283
   default_thread_id: 1507239571
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051283
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051283/32051283.7579800
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 初めての(ハート)
@@ -116,12 +122,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051283←前話｜次話→so32051320　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051283←前話｜次話→so32051320　第一話→so32051282
   length_seconds: 1420
   content_id: so32051319
   default_thread_id: 1507239683
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051319
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051319/32051319.81858211
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: ねらわれたパンツ
@@ -130,12 +136,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051319←前話｜次話→so32051334　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051319←前話｜次話→so32051334　第一話→so32051282
   length_seconds: 1420
   content_id: so32051320
   default_thread_id: 1507239701
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051320
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051320/32051320.78204926
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: そうだ、銭湯いこう
@@ -144,12 +150,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051320←前話｜次話→so32051335　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051320←前話｜次話→so32051335　第一話→so32051282
   length_seconds: 1420
   content_id: so32051334
   default_thread_id: 1507241042
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051334
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051334/32051334.28078819
 - !ruby/hash:EpisodeHash
   episode_no: 第6話
   title: 振ってフラフラフラフープ
@@ -158,12 +164,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051334←前話｜次話→so32051336　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051334←前話｜次話→so32051336　第一話→so32051282
   length_seconds: 1420
   content_id: so32051335
   default_thread_id: 1507241022
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051335
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051335/32051335.85130207
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: 届けたい思い・・・・・(トイレに)
@@ -172,12 +178,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051335←前話｜次話→so32051337　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051335←前話｜次話→so32051337　第一話→so32051282
   length_seconds: 1420
   content_id: so32051336
   default_thread_id: 1507241016
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051336
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051336/32051336.35672512
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 奏電話相談室
@@ -186,12 +192,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051336←前話｜次話→so32051338　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051336←前話｜次話→so32051338　第一話→so32051282
   length_seconds: 1420
   content_id: so32051337
   default_thread_id: 1507241024
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051337
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051337/32051337.29958498
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: ひそやカニ　ラブソング
@@ -200,12 +206,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051337←前話｜次話→so32051339　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051337←前話｜次話→so32051339　第一話→so32051282
   length_seconds: 1420
   content_id: so32051338
   default_thread_id: 1507241020
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051338
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051338/32051338.10618688
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: たまにはまっとうなラブコメでも
@@ -214,12 +220,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051338←前話｜次話→so32051363　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051338←前話｜次話→so32051363　第一話→so32051282
   length_seconds: 1420
   content_id: so32051339
   default_thread_id: 1507241039
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051339
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051339/32051339.8634337
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 見ちゃダメ！奏の秘密日記
@@ -228,12 +234,12 @@ episodes: !ruby/array:Hashie::Array
     界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野
     愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸 晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡
     真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾 でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井
-    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051339←前話｜次話→so32051364　第一話→so32051282
+    淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051339←前話｜次話→so32051364　第一話→so32051282
   length_seconds: 1420
   content_id: so32051363
   default_thread_id: 1507241784
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051363
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051363/32051363.20414102
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: ラブノーマル×アブノーマル
@@ -242,12 +248,12 @@ episodes: !ruby/array:Hashie::Array
     祥太郎／野口 一男:村瀬 歩／篠原 耕太:岡本 信彦／多賀 敦史:石川 界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎
     宗光:江口 拓也／レンレン:蒼井 翔太／横内 千秋:和井 みずき／林 真冬:茅野 愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫<br><br>原作:日吉丸
     晃(講談社｢ARIA｣連載)／監督:稲垣 隆行／キャラクターデザイン:岡 真里子／シリーズ構成:金杉 弘子／シナリオ:大場 小ゆり、あおしま たかし、赤尾
-    でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井 淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>so32051363←前話　第一話→so32051282
+    でこ／美術監督:三宅 昌和／美術設定:佐南 友理／色彩設計:吉田 沙織／撮影監督:酒井 淳子／編集:松原 理恵／音楽:坂部 剛／主題歌:蒼井 翔太／アニメーション制作:スタジオディーン／製作:竹小学校PTA<br><br>©日吉丸晃・講談社／竹小学校PTA<br><br>so32051363←前話　第一話→so32051282
   length_seconds: 1420
   content_id: so32051364
   default_thread_id: 1507241964
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=32051364
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32051364/32051364.27295661
 cast: "[キャスト]<br>高橋 奏:櫻井 孝宏／二階堂 夏歩:堀江 由衣／三宮 銀次郎:杉田 智和／金子 十六:森久保 祥太郎／野口 一男:村瀬 歩／篠原
   耕太:岡本 信彦／多賀 敦史:石川 界人／長澤 嵐:津田 健次郎／高橋 譲二:鈴村 健一／二階堂 大谷:緑川 光／枕崎 宗光:江口 拓也／レンレン:蒼井 翔太／横内
   千秋:和井 みずき／林 真冬:茅野 愛衣／高橋 修吾:武内 駿輔／深谷 雪:野水 伊織／ナレーション:大塚 明夫"

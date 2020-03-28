@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: 戦争童話集「ウミガメと少年」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/30/8/23308_1_8_8b.png?1579845672000
+outline: 平和だった沖縄が激戦地となったため、テツオは疎開することになりました。疎開先で友達になったノリオと花子と楽しい日々を過ごしていたある日。米軍の空襲が激しくなり、テツオの目の前で二人は命を奪われてしまったのです。一人でガマ（自然壕）に逃れたテツオ。ふと浜辺を見ると、砲撃の中、産卵するウミガメが・・・。ノリオと花子と「いつか一緒に見よう」と約束したウミガメの産卵。その卵を砲撃の犠牲にならないようにとガマへ移し、孵化するよう大事に育てていくテツオでしたが・・・。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: さとうあい
+  type: cast
+- !ruby/hash:TagHash
+  name: 三村ゆうな
+  type: cast
+- !ruby/hash:TagHash
+  name: 常盤裕貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 生田目研人
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：やすみ哲夫
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：シンエイ動画
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：野坂昭如
+  type: staff
+- !ruby/hash:TagHash
+  name: 戦争童話集シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2002年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 平和だった沖縄が激戦地となったため、テツオは疎開することになりました。疎開先で友達になったノリオと花子と楽しい日々を過ごしていたある日。米軍の空襲が激しくなり、テツオの目の前で二人は命を奪われてしまったのです。一人でガマ（自然壕）に逃れたテツオ。ふと浜辺を見ると、砲撃の中、産卵するウミガメが・・・。ノリオと花子と「いつか一緒に見よう」と約束したウミガメの産卵。その卵を砲撃の犠牲にならないようにとガマへ移し、孵化するよう大事に育てていくテツオでしたが・・・。<br><br>テツオ:常盤裕貴／ノリオ:生田目研人／花子:三村ゆうな／ナレーション:さとうあい<br><br>原作:『ウミガメと少年（戦争童話集　沖縄編　講談社刊）』・作／野坂昭如・絵／黒田征太郎／企画:木村純一・加藤良雄／プロデューサー:岩本太郎・増子相二郎・小倉久美／監督:やすみ哲夫／作画監督:丸山宏一／美術監督:西田
+    稔／撮影監督:佐々木和広／音響監督:大熊 昭／挿入歌:「花～すべての人の心に花を」「花のカジマヤ」歌・喜納昌吉＆チャンプルーズ／制作:テレビ朝日・シンエイ動画<br><br>©ケイツー／シンエイ
+  length_seconds: 2719
+  content_id: so36313805
+  default_thread_id: 1580705973
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36313805/36313805.70251638
+cast: "[キャスト]<br>テツオ:常盤裕貴／ノリオ:生田目研人／花子:三村ゆうな／ナレーション:さとうあい"
+staff: "[スタッフ]<br>原作:『ウミガメと少年（戦争童話集　沖縄編　講談社刊）』・作／野坂昭如・絵／黒田征太郎／企画:木村純一・加藤良雄／プロデューサー:岩本太郎・増子相二郎・小倉久美／監督:やすみ哲夫／作画監督:丸山宏一／美術監督:西田
+  稔／撮影監督:佐々木和広／音響監督:大熊 昭／挿入歌:「花～すべての人の心に花を」「花のカジマヤ」歌・喜納昌吉＆チャンプルーズ／制作:テレビ朝日・シンエイ動画"
+produced_year: "[製作年]<br>2002年"
+copyright: "©ケイツー／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「凧になったお母さん」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「小さい潜水艦に恋をしたでかすぎるクジラの話」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ぼくの防空壕」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「焼跡の、お菓子の木」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ふたつの胡桃」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「キクちゃんとオオカミ」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「青い瞳の女の子のお話」

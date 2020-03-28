@@ -1,0 +1,313 @@
+--- !ruby/hash:SeasonHash
+title: アイカツ！（4thシーズン）
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/99/4/21994_1_8_8b.png?1551346914000
+outline: スターライト学園のユニット・ルミナスの大空あかり、氷上スミレ、新条ひなきは、『ルミナス☆ジャパンツアー』に出発！ アイカツワゴンに乗って日本中を駆け巡る彼女たちを待っているのは、ファンの笑顔や声援、そして、各地の魅力的なアイドルたち！
+  学園を飛び出したルミナスのアイカツ！は、新たな出会いと共に、さらにアツく盛り上がります！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: アイカツ！シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2012年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 長いアニメ
+  type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第153話
+  title: とびだそう、広がる世界！
+  description: "『ルミナス☆ジャパンツアー』に出発した、ルミナスの三人。最初のツアー先は、北の大地、北海道。自然溢れるこの地で出会ったのは、歌とダンスが好きな“大地のの“と“白樺リサ”。ルミナスとの出会いをきっかけに、今ここに２人のアイカツ！の幕が開ける――！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>次話→so36195190"
+  length_seconds: 1468
+  content_id: so36195189
+  default_thread_id: 1578384198
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195189/36195189.530420
+- !ruby/hash:EpisodeHash
+  episode_no: 第154話
+  title: ジャガイモをマイクにもちかえて
+  description: ののとリサは、ルミナスと出会ってから、ドキドキが止まらない。それはアイドルに憧れる強い気持ちによるものだった。そして、2人はこの想いをぶつけるため、スターライト学園の入学オーディションを受けることを決意する――！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195189←前話｜次話→so36195191　第一話→so36195189
+  length_seconds: 1469
+  content_id: so36195190
+  default_thread_id: 1578384186
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195190/36195190.70303703
+- !ruby/hash:EpisodeHash
+  episode_no: 第155話
+  title: トキメキカラット☆
+  description: いま大注目のジュエリーブランド、『トキメキカラット』のCMオーディションを受けることになった大空あかり、氷上スミレ、新条ひなき。合格のためにジュエリーの勉強をする3人は、他の仕事で忙しいにも関わらずとても楽しそう。そんな3人に影響され、ののとリサも一緒に勉強することとなり…！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195190←前話｜次話→so36195192　第一話→so36195189
+  length_seconds: 1469
+  content_id: so36195191
+  default_thread_id: 1578383823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195191/36195191.34159197
+- !ruby/hash:EpisodeHash
+  episode_no: 第156話
+  title: YOU！GO！KYOTO!!
+  description: あかりの元ルームメイトの服部ユウは、いまや“旅アイドル”として大人気！ そんなユウとあかりたちルミナスは、共に京都に行くことに。ユウが企画した京都の番組に出演するなど、思わぬ機会に恵まれるルミナス。今ユウがこんなにも輝いているのは、あかりとのある約束があったからこそだった。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195191←前話｜次話→so36195214　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195192
+  default_thread_id: 1578384194
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195192/36195192.44578225
+- !ruby/hash:EpisodeHash
+  episode_no: 第157話
+  title: 小悪魔ハプニング
+  description: ののとリサに、今もっとも注目を集めるファッションイベント『アーバンガールズコレクション』からステージライブのオファーが舞い込んだ！ 嬉しすぎる2人は、大好きなドーリーデビルのプレミアムレアドレスをゲットしようと決意。トップデザイナーの如月ルーシーに会うため、大都会に繰り出すのであった！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195192←前話｜次話→so36195259　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195214
+  default_thread_id: 1578384783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195214/36195214.69092465
+- !ruby/hash:EpisodeHash
+  episode_no: 第158話
+  title: 会いたくて、沖縄
+  description: ルミナスの三人は、全国ツアーの次なる目的地、沖縄に到着！ そこで、美ら海ビートアカデミーに通う波照間みなみに出会う。みなみはなんと凛の友達で、凛との再会を強く願っていた。スターライトから遠く離れた沖縄の地で、みなみと凛が再びダンスすることはできるのだろうか…!?<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195214←前話｜次話→so36195261　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195259
+  default_thread_id: 1578385625
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195259/36195259.60168817
+- !ruby/hash:EpisodeHash
+  episode_no: 第159話
+  title: ギャラクシー☆スターライト
+  description: スターライト学園のオールスターアイドルが出演するスペシャルドラマ、『アイドル宇宙戦記オオゾラッコーン』。宇宙アイドル学園ギャラクシー☆スターライトを舞台にいま、華麗なるアイドルたちの壮絶な物語が幕を開ける――！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195259←前話｜次話→so36195262　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195261
+  default_thread_id: 1578385622
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195261/36195261.96425947
+- !ruby/hash:EpisodeHash
+  episode_no: 第160話
+  title: 夢はパーフェクトアイドル！
+  description: 物陰から、大空あかりのことを羨ましげにじーっと見つめる少女、西園寺つばき。スターライト学園のアイドルであり、自称『パーフェクトレディ』。ドリーミークラウンのプレミアムドレスを作ってもらうため、トップデザイナー・瀬名翼に会いたいと言うのだが…！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195261←前話｜次話→so36195263　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195262
+  default_thread_id: 1578385627
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195262/36195262.64256385
+- !ruby/hash:EpisodeHash
+  episode_no: 第161話
+  title: 大阪アイドルものがたり
+  description: "「ルミナス☆ジャパンツアー」の次なる目的地は大阪！ そこで大空あかりらルミナスの3人が出会ったのは、大阪が誇るお笑い学校『なにわ天下一学園』のアイドルコースに通う堂島ニーナ。頭につけたクマ耳がトレードマークのニーナは、可愛くも強烈なキャラクターで…！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195262←前話｜次話→so36195264　第一話→so36195189"
+  length_seconds: 1468
+  content_id: so36195263
+  default_thread_id: 1578385629
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195263/36195263.33352688
+- !ruby/hash:EpisodeHash
+  episode_no: 第162話
+  title: "☆めちゃパニック☆"
+  description: 大阪に来たルミナス3人は、お笑いアイドル・堂島ニーナと地元番組で共演することに！ 番組のテーマは、「色々な場所を回り、子どもから大人まで様々な観客に笑いを届けること」。ロケを共にこなす中で見えてくる、ニーナのお笑い論、そして本当の姿とは――！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195263←前話｜次話→so36195265　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195264
+  default_thread_id: 1578385631
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195264/36195264.61072264
+- !ruby/hash:EpisodeHash
+  episode_no: 第163話
+  title: ハピネスパーティー♪
+  description: あかりたちスターライト学園のアイドルに、大手おもちゃメーカーが新たに立ち上げるおもちゃブランド『ハピネストイズ』のCMのオファーが舞い込んだ！
+    またそれだけでなく、ブランド成功の鍵を握るとされる“最初の商品”の企画段階から協力することになり…！<br><br>©BNP/BANDAI, DENTSU,
+    TV TOKYO<br><br>so36195264←前話｜次話→so36195266　第一話→so36195189
+  length_seconds: 1469
+  content_id: so36195265
+  default_thread_id: 1578385023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195265/36195265.28061560
+- !ruby/hash:EpisodeHash
+  episode_no: 第164話
+  title: さきどりニューイヤー！
+  description: 12月に入ると、TV局はお正月番組の収録にてんやわんや。大空あかりをはじめ出演するスターライト学園のアイドルたちは、忙殺されながらもそれぞれの仕事を楽しみ、華麗にこなしていく。そんな皆の様子に、大地ののと白樺リサは、アイカツ！への想いをますます昂ぶらせる。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195265←前話｜次話→so36195306　第一話→so36195189
+  length_seconds: 1469
+  content_id: so36195266
+  default_thread_id: 1578385633
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195266/36195266.20450368
+- !ruby/hash:EpisodeHash
+  episode_no: 第165話
+  title: ルミナス☆クリスマス
+  description: ついに、ルミナス☆ジャパンツアーもファイナルステージを迎える。その日はちょうどクリスマス・イブであり、開催場所はスターライト学園。ホワイトクリスマスを期待するあかりらルミナス三人のために、なんと全国の雪をスターライトに届ける「スノーリレー」なるものがスタートして…！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195266←前話｜次話→so36195307　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195306
+  default_thread_id: 1578385863
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195306/36195306.79478762
+- !ruby/hash:EpisodeHash
+  episode_no: 第166話
+  title: 私が見つけた最初の風
+  description: 年が明け、織姫学園長より『スターライトクイーンカップ』の開催が発表される。皆がエントリーし始める中、スミレは「どんなクイーンになりたいか」について想いを決められないでいた。あかりとひなきの明確な想いに焦りを感じつつも、スミレが導き出した答えとは…？<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195306←前話｜次話→so36195308　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195307
+  default_thread_id: 1578385884
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195307/36195307.57256137
+- !ruby/hash:EpisodeHash
+  episode_no: 第167話
+  title: 夢のスケッチブック
+  description: "「スターライトクイーンカップ」で、どんなステージにすれば観客に喜んでもらうことが出来るのだろうと毎日考えているあかりは、デザイナーとアイドルはチームだと言っていた瀬名の元へ相談に行くことに。しかし瀬名は風邪を引いていて……?!<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195307←前話｜次話→so36195309　第一話→so36195189"
+  length_seconds: 1468
+  content_id: so36195308
+  default_thread_id: 1578385989
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195308/36195308.6424224
+- !ruby/hash:EpisodeHash
+  episode_no: 第168話
+  title: ひとつの道と、別れ道
+  description: 日々特訓に励むあかりたちを見て、自分たちも「スターライトクイーンカップ」に向けて頑張ろうと、勢いづくののとリサ。そんな時、ののは「メークインカップ」という北海道のジャガイモをPRする大会にリサと二人分のエントリーをするが、なぜかリサは浮かない顔をしていて…。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195308←前話｜次話→so36195310　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195309
+  default_thread_id: 1578385881
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195309/36195309.47988100
+- !ruby/hash:EpisodeHash
+  episode_no: 第169話
+  title: ひなきミラクル！
+  description: 少しでもスターライトクイーンに近づくために、ヴィヴィッドキスの新たなプレミアムレアドレスの制作をお願いすることにしたひなき。とびっきりのドレスを作るためのアイデアを求めて向かった先は、あるアイドルのライブ会場だった！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195309←前話｜次話→so36195311　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195310
+  default_thread_id: 1578385870
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195310/36195310.49029083
+- !ruby/hash:EpisodeHash
+  episode_no: 第170話
+  title: アイドルのチカラ
+  description: "「スターライトクイーンカップ」までおよそ1か月。スミレとひなきはステージで披露するプレミアムドレスが完成した一方で、あかりのドレスはまだできていない。デザイナーの瀬名は最高のドレスを目指して制作を続けていた。それを見て、自分も力になりたいと考えたあかりは……。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195310←前話｜次話→so36195312　第一話→so36195189"
+  length_seconds: 1468
+  content_id: so36195311
+  default_thread_id: 1578385869
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195311/36195311.47215456
+- !ruby/hash:EpisodeHash
+  episode_no: 第171話
+  title: ベストフレンド
+  description: 入学してからずっと一緒の凛とまどか。しかし最近は、スターライトクイーンカップに向けての練習や毎日のお仕事で、すれ違いばかり。再び凛と一緒にライブがしたいまどかは、思い切って自分でライブハウスを予約して……?!<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195311←前話｜次話→so36195313　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195312
+  default_thread_id: 1578385991
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195312/36195312.13038509
+- !ruby/hash:EpisodeHash
+  episode_no: 第172話
+  title: 春のドリアカーニバル！
+  description: ドリームアカデミー主催のお祭りイベント、「ドリアカーニバル」開催！ セイラたちに案内され、屋台やドリアカのトレーニング体験などを楽しむあかり、スミレ、ひなきの3人。そんな中、あるアイドルを紹介してもらうことに……！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195312←前話｜次話→so36195314　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195313
+  default_thread_id: 1578385865
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195313/36195313.82724634
+- !ruby/hash:EpisodeHash
+  episode_no: 第173話
+  title: ダブルミラクル☆
+  description: スターライトクイーンカップ本番を前に、開幕記念ステージが開かれると発表された！ とんでもなくアツいゲストが出るらしいが、誰なのかはトップシークレットのためジョニーですら知らない。ジョニーはゲストを突き止めようとするのだが……。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195313←前話｜次話→so36195315　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195314
+  default_thread_id: 1578385876
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195314/36195314.71514557
+- !ruby/hash:EpisodeHash
+  episode_no: 第174話
+  title: 私のMove on now!
+  description: いよいよスターライトクイーンカップが開幕！ リサは、ずっと憧れていた美月の代表曲である『Move on now!』を歌うことを決意する。そんな中、スターライトクイーンカップの実況解説に美月が来るという情報が入る。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195314←前話｜次話→so36195316　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195315
+  default_thread_id: 1578385983
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195315/36195315.76377783
+- !ruby/hash:EpisodeHash
+  episode_no: 第175話
+  title: 叶えたい未来たち
+  description: 全力のステージを見せた珠璃とリサの姿に、思いをあらたにするのの、そして凛とまどか。関西からここね、みやびも応援に駆けつけ、大盛り上がりの中スターライトクイーンカップ第2日目が開幕する――。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195315←前話｜次話→so36195317　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195316
+  default_thread_id: 1578385923
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195316/36195316.4301487
+- !ruby/hash:EpisodeHash
+  episode_no: 第176話
+  title: いばらの女王
+  description: スターライトクイーンカップも遂に最終日！ 残るメンバーはあかり、スミレ、ひなきの3人。アツいステージが続くクイーンカップの勝敗を決めるのはわずかな差。ひなき、スミレも自分の力の全てをステージにぶつけるのだった。<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195316←前話｜次話→so36195318　第一話→so36195189
+  length_seconds: 1468
+  content_id: so36195317
+  default_thread_id: 1578385872
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195317/36195317.17196963
+- !ruby/hash:EpisodeHash
+  episode_no: 第177話
+  title: 未来向きの今
+  description: 3日間の熱戦が繰り広げられてきたスターライトクイーンカップもついに最後、あかりのステージを残すのみとなった。果たしてスターライトクイーンの射止めるのは誰なのか。様々な思いを胸に大空あかりのステージが今、はじまる！<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195317←前話｜次話→so36195319　第一話→so36195189
+  length_seconds: 1478
+  content_id: so36195318
+  default_thread_id: 1578385882
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195318/36195318.56857228
+- !ruby/hash:EpisodeHash
+  episode_no: 第178話
+  title: 最高のプレゼント
+  description: "『大空お天気』の生放送を終えたあかりに、いちごから突然の電話が！ 腕によりをかけたスペシャルのり弁を作ってくれるという。感激したあかりは、思い切っていちごにもうひとつのお願いを…?!<br><br>©BNP/BANDAI,
+    DENTSU, TV TOKYO<br><br>so36195318←前話　第一話→so36195189"
+  length_seconds: 1469
+  content_id: so36195319
+  default_thread_id: 1578385878
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36195319/36195319.7766579
+produced_year: "[製作年]<br>2015年"
+copyright: "©BNP/BANDAI, DENTSU, TV TOKYO"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツ！（3rdシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！
+- !ruby/hash:SeasonHash
+  title: アイカツスターズ！（2ndシーズン）
+- !ruby/hash:SeasonHash
+  title: アイカツフレンズ！
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツ！
+- !ruby/hash:SeasonHash
+  title: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいまSHOW！
+- !ruby/hash:SeasonHash
+  title: アイカツ！～ねらわれた魔法のアイカツ！カード～
+- !ruby/hash:SeasonHash
+  title: 劇場版アイカツスターズ！

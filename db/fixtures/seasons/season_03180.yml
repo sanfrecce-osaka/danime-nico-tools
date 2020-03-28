@@ -1,0 +1,75 @@
+--- !ruby/hash:SeasonHash
+title: ゆゆ式OVA　「困らせたり、困らされたり」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/21/1/23211_1_8_8b.png?1578647241000
+outline: ノーイベント・グッドライフ！あの情報処理部が帰ってくる！2013年TVシリーズを放映し大好評を得た『まんがタイムきらら』の人気作、「ゆゆ式」OVA
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 堀江由衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 茅野愛衣
+  type: cast
+- !ruby/hash:TagHash
+  name: 種田梨沙
+  type: cast
+- !ruby/hash:TagHash
+  name: 潘めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 大久保瑠美
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水茉菜
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：キネマシトラス
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：かおり
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：sakai asuka
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：三上小又
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：伊藤晋之
+  type: staff
+- !ruby/hash:TagHash
+  name: ゆゆ式シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2016年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: ノーイベント・グッドライフ！あの情報処理部が帰ってくる！2013年TVシリーズを放映し大好評を得た『まんがタイムきらら』の人気作、「ゆゆ式」OVA<br><br>野々原ゆずこ:大久保瑠美／日向縁:種田梨沙／櫟井唯:津田美波／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜
+    ほか<br><br>原作:三上小又（芳文社「まんがタイムきらら」連載）／監督:かおり／脚本:ゆゆ式文芸部・高橋ナツコ・渡邊大輔・かおり・小倉充俊／キャラクターデザイン:伊藤晋之／色彩設計:水田信子／美術監督:菱沼由典／撮影監督:若林優（T2studio）／編集:須藤瞳（REAL-T）／音響監督:明田川仁／音楽:sakai
+    asuka／アニメーション制作:キネマシトラス<br><br>©三上小又・芳文社／ゆゆ式SP情報処理部
+  length_seconds: 1666
+  content_id: so36255664
+  default_thread_id: 1579572845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36255664/36255664.32032459
+cast: "[キャスト]<br>野々原ゆずこ:大久保瑠美／日向縁:種田梨沙／櫟井唯:津田美波／松本頼子:堀江由衣／相川千穂:茅野愛衣／岡野佳:潘めぐみ／長谷川ふみ:清水茉菜
+  ほか"
+staff: "[スタッフ]<br>原作:三上小又（芳文社「まんがタイムきらら」連載）／監督:かおり／脚本:ゆゆ式文芸部・高橋ナツコ・渡邊大輔・かおり・小倉充俊／キャラクターデザイン:伊藤晋之／色彩設計:水田信子／美術監督:菱沼由典／撮影監督:若林優（T2studio）／編集:須藤瞳（REAL-T）／音響監督:明田川仁／音楽:sakai
+  asuka／アニメーション制作:キネマシトラス"
+produced_year: "[製作年]<br>2016年"
+copyright: "©三上小又・芳文社／ゆゆ式SP情報処理部"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ゆゆ式

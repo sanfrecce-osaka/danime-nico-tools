@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: デジモンアドベンチャー　ぼくらのウォーゲーム
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/59/9/20599_1_6.png?1453771534000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/59/9/20599_1_8_8b.png?1579232035000
 outline: デジタルワールドでの冒険から太一たちが帰ってきて半年後、あの冒険が信じられないほど穏やかな日々を太一たちは送っていた。ところがある日、インターネット上で不気味なタマゴが誕生し、凶悪なデジモンへと進化し、インターネットを通じて世界中を混乱に陥れた！ネットの中で暴れまくる邪悪なデジモンに、究極体・ウォーグレイモンと究極体・メタルガルルモンの合体デジモンが立ち向かう！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 坂本千夏
   type: cast
 - !ruby/hash:TagHash
-  name: 前田愛
+  name: 荒木香衣
   type: cast
 - !ruby/hash:TagHash
-  name: 荒木香恵
+  name: 前田愛
   type: cast
 - !ruby/hash:TagHash
   name: 小西寛子
@@ -53,10 +53,10 @@ tags: !ruby/array:Hashie::Array
   name: 製作年代：2000年代
   type: other
 - !ruby/hash:TagHash
-  name: 劇場公開作品
+  name: 製作年：2000年
   type: other
 - !ruby/hash:TagHash
-  name: 製作年：2000年
+  name: 劇場公開作品
   type: other
 - !ruby/hash:TagHash
   name: アーティスト：和田光司
@@ -79,9 +79,9 @@ related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: デジモンアドベンチャー
 - !ruby/hash:SeasonHash
-  title: デジモンアドベンチャー02
-- !ruby/hash:SeasonHash
   title: 劇場版 デジモンアドベンチャー
+- !ruby/hash:SeasonHash
+  title: デジモンアドベンチャー02
 - !ruby/hash:SeasonHash
   title: デジモンアドベンチャー02 前編 デジモンハリケーン上陸！！ 後編 超絶進化！！黄金のデジメンタル
 - !ruby/hash:SeasonHash
@@ -92,7 +92,3 @@ related_seasons: !ruby/array:Hashie::Array
   title: デジモンテイマーズ 暴走デジモン特急
 - !ruby/hash:SeasonHash
   title: デジモンフロンティア 古代デジモン(オニスモン)復活！！
-- !ruby/hash:SeasonHash
-  title: デジモンユニバース アプリモンスターズ
-- !ruby/hash:SeasonHash
-  title: 超進化ステージ「デジモンアドベンチャー tri.」～８月１日の冒険～

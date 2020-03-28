@@ -14,19 +14,19 @@ tags: !ruby/array:Hashie::Array
   name: 子安武人
   type: cast
 - !ruby/hash:TagHash
-  name: 前野智昭
-  type: cast
-- !ruby/hash:TagHash
   name: 井口裕香
   type: cast
 - !ruby/hash:TagHash
   name: 日野聡
   type: cast
 - !ruby/hash:TagHash
-  name: 速水奨
+  name: 前野智昭
   type: cast
 - !ruby/hash:TagHash
   name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
   type: cast
 - !ruby/hash:TagHash
   name: 田村睦心
@@ -35,10 +35,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田彩
   type: cast
 - !ruby/hash:TagHash
-  name: 中博史
+  name: 中島愛
   type: cast
 - !ruby/hash:TagHash
-  name: 中島愛
+  name: 中博史
   type: cast
 - !ruby/hash:TagHash
   name: 小山剛志
@@ -64,6 +64,9 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: キャラクターデザイン：海谷敏久
   type: staff
+- !ruby/hash:TagHash
+  name: 本好きの下剋上シリーズ
+  type: other
 - !ruby/hash:TagHash
   name: 製作年代：2010年代
   type: other
@@ -249,4 +252,6 @@ staff: "[スタッフ]<br>原作:著者：香月美夜／イラスト：椎名�
   淳／音響効果:倉橋 裕宗／録音調整:榊枝 一也／音響制作:JTB Next Creation／音楽:未知瑠／音楽制作:フライングドッグ／プロデュース:ジェンコ／アニメーション制作:亜細亜堂／オープニングテーマ:「真っ白」歌：諸星すみれ／エンディングテーマ:「髪飾りの天使」歌：中島愛"
 produced_year: "[製作年]<br>2019年"
 copyright: "©香月美夜・TOブックス／本好きの下剋上製作委員会"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 本好きの下剋上 第14.5章（外伝）

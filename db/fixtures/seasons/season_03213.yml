@@ -1,0 +1,95 @@
+--- !ruby/hash:SeasonHash
+title: ローゼンメイデン オーベルテューレ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/63/6/23636_1_8_8b.png?1583111747000
+outline: "「究極の少女アリス」を目指す、「ローゼンメイデン」と呼ばれる7体の美しき生きたアンティークドールたちによる争い。ひきこもりの少年・桜田ジュンは、7体のうちの1体、第5ドールの「真紅」の家来として契約してしまったため、その不可思議な争いに巻き込まれてしまうのであった。争いは一段落しており、桜田家では、相も変わらず、真紅の仲間となった雛苺、翠星石、蒼星石といったドールたちが賑やかに過ごしていた。そんな中、ふとしたことで、真紅の衣装の薔薇の飾りが取れてしまう。ジュンは衣装を直すよう言われ、赤い糸を買いに出かける。その際、ブローチを真紅のためにと買ってやり、衣装につけてやったのだが、なぜか真紅は引きちぎってしまう。"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 桑谷夏子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 後藤沙緒里
+  type: cast
+- !ruby/hash:TagHash
+  name: 野川さくら
+  type: cast
+- !ruby/hash:TagHash
+  name: 倉田雅世
+  type: cast
+- !ruby/hash:TagHash
+  name: 森永理科
+  type: cast
+- !ruby/hash:TagHash
+  name: 力丸乃りこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 志村由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 津久井教生
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：松尾衡
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：PEACH-PIT
+  type: staff
+- !ruby/hash:TagHash
+  name: ローゼンメイデンシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: 2007年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: 悠久
+  description: 真紅・雛苺・翠星石・蒼星石、４体のドールで今日も賑やかな桜田家。 そんな中、ふとした事で真紅の衣装の薔薇の飾りが取れてしまう。 ジュンは真紅に衣装を直すように言われ、赤い糸を買いに行くこととなる。
+    糸を買いに行った先で、一つのブローチが目に止まり一緒に買って帰ったジュン。 家に帰り衣装に買ってきたブローチを付け真紅に渡したジュンだが、 真紅はそのブローチを引きちぎってしまう……。<br><br>水銀燈:田中理恵／真紅:沢城みゆき／ジュン:真田アサミ／翠星石:桑谷夏子／蒼星石:森永理科／雛苺:野川さくら／金糸雀:志村由美／薔薇水晶:後藤沙緒里／桜田のり:力丸乃りこ／柏葉巴:倉田雅世／くんくん:津久井教正<br><br>原作:PEACH-PIT／監督:松尾 衡／
+    脚本:花田十輝／ 音楽:光宗信吉<br><br>©PEACH-PIT/薔薇乙女製作委員会<br><br>次話→so36384043
+  length_seconds: 1449
+  content_id: so36384042
+  default_thread_id: 1581996856
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384042/36384042.88075648
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: 虚飾
+  description: 真紅の元に、自らを「ローゼンメイデン第１ドール」と名乗る水銀燈が現れる。 しかし、水銀燈は立つ事も出来ない程衰弱していた。 その後、サラに反対されながらも水銀燈の歩行練習を手伝う真紅。
+    ある日真紅の元に蒼星石の人工精霊レンピカがやって来て、 真紅と蒼星石との戦いを告げる。 蒼星石と闘う為に出て行く真紅。 それを見た水銀燈は……<br><br>水銀燈:田中理恵／真紅:沢城みゆき／ジュン:真田アサミ／翠星石:桑谷夏子／蒼星石:森永理科／雛苺:野川さくら／金糸雀:志村由美／薔薇水晶:後藤沙緒里／桜田のり:力丸乃りこ／柏葉巴:倉田雅世／くんくん:津久井教正<br><br>原作:PEACH-PIT／監督:松尾 衡／
+    脚本:花田十輝／ 音楽:光宗信吉<br><br>©PEACH-PIT/薔薇乙女製作委員会<br><br>so36384042←前話　第一話→so36384042
+  length_seconds: 1419
+  content_id: so36384043
+  default_thread_id: 1581996860
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36384043/36384043.44118631
+cast: "[キャスト]<br>水銀燈:田中理恵／真紅:沢城みゆき／ジュン:真田アサミ／翠星石:桑谷夏子／蒼星石:森永理科／雛苺:野川さくら／金糸雀:志村由美／薔薇水晶:後藤沙緒里／桜田のり:力丸乃りこ／柏葉巴:倉田雅世／くんくん:津久井教正"
+staff: "[スタッフ]<br>原作:PEACH-PIT／監督:松尾 衡／ 脚本:花田十輝／ 音楽:光宗信吉"
+produced_year: "[製作年]<br>2006年"
+copyright: "©PEACH-PIT/薔薇乙女製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: ローゼンメイデン
+- !ruby/hash:SeasonHash
+  title: ローゼンメイデン・トロイメント

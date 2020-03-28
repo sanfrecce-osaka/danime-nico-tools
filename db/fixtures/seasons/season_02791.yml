@@ -1,0 +1,70 @@
+--- !ruby/hash:SeasonHash
+title: アキンド星のリトル・ペソ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/54/0/21540_1_8_8b.png?1551265946000
+outline: 先祖代々、宇宙で一番お金儲けのうまい星、アキンド星。でも、その星の王子であるペソは、毎日、ケータイゲームで課金三昧のグータラ生活。そんなある日、いよいよ王様がブチ切れて、｢全宇宙の金をここに集めてこい！｣とか言い出しちゃって、ペソは子分共々、宇宙に放り出されてしまう。行く先々で出会う個性豊かな星人たちとの商売合戦。ペソは持ち前のヒラメキを活かして奮闘するが・・。笑えて、そこそこタメになる、宇宙のお金の物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 江口拓也
+  type: cast
+- !ruby/hash:TagHash
+  name: 桜井敏治
+  type: cast
+- !ruby/hash:TagHash
+  name: 原涼子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：青池良輔
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ファンワークス
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：Fever Creations
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: アキンド星の王子。ペソ！／ポンコツ星でドライブ／風吹く星の桶屋／宇宙海賊ピラット
+  description: 贅沢三昧、ぐーたら生活を送っていたアキンド星の王子、ペソ。ある日、いよいよ王様がブチ切れて、子分共々、宇宙に放り出されることに・・・。／車のディーラーで働くことになったペソたち。飛ぶように車が売れて浮かれていたのも束の間、この星の製品は全てポンコツだった。その理由は！？／次に辿り着いたのは、水気の無い砂嵐の星。商売のやり方を巡り、地元星人たちとのイザコザ勃発。あれよあれよという間に、とんでもない事に・・・。／ペソたちを乗せたロケットに近づく怪しい宇宙船。宇宙海賊ピラット登場。海賊ですけど、結構いい奴らです。<br><br>ペソ役:原涼子／ルーブル役:江口拓也／マルク役:桜井敏治<br><br>監督・脚本:青池良輔／原案・キャラクターデザイン:So
+    What, Inc.／プロデュース:イマジニア株式会社／アニメーション制作:株式会社ファンワークス / Fever Creations<br><br>次話→so32005689
+  length_seconds: 843
+  content_id: so32005688
+  default_thread_id: 1506554962
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32005688/32005688.37821995
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第8話
+  title: イッショ星の巨人／シアワセ星の退屈／ユーレー星で大爆笑／ゲキヤス星の秘密
+  description: 平等であることが何よりも大事な星、イッショ星。｢個性｣や｢差別化｣なんて概念を外から持ち込むと、まぁ、こうなりますよね・・・。／宇宙で1番シアワセな星、シアワセ星。でも、シアワセ過ぎると退屈になるものなんですね。そんなシアワセ星人の様子を見て、ペソがひらめいた商売とは！？／成仏出来ずにいたユーレイが、笑うとお金に姿を変えて成仏することに気がついたペソたち。あの手この手でユーレイたちを笑わせるが・・・。／あらゆる商品が激安な星、ゲキヤス星。宇宙海賊ピラットがゲキヤス王を誘拐したニュースを見たペソは・・・。<br><br>ペソ役:原涼子／ルーブル役:江口拓也／マルク役:桜井敏治<br><br>監督・脚本:青池良輔／原案・キャラクターデザイン:So
+    What, Inc.／プロデュース:イマジニア株式会社／アニメーション制作:株式会社ファンワークス / Fever Creations<br><br>so32005688←前話｜次話→so32005690　第一話→so32005688
+  length_seconds: 843
+  content_id: so32005689
+  default_thread_id: 1506555023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32005689/32005689.35924300
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話～第12話
+  title: オンリー星のリンゴ／バブル星でデスマッチ／キンキラ星のくいしんぼう／ただいま！アキンド星
+  description: "”オンリーワン”である事が何にも代え難い価値であると信じるオンリー星人。ヒョンなことから逮捕されてしまったルーブルがピンチを切り抜けるために取った作戦は!?／ファイター同士の闘いに熱狂するバブル星。どうやら、この星のファイターは、人気が出れば膨らんで大きくなり、人気が無いとしぼんでいくようですが・・・。／金塊がゴロゴロ転がっているキンピカ星。喜んで高級食材を売るペソたちだったが、あまりにも食欲旺盛な星人たちが食べまくった結果・・・。／アキンド星に戻ったペソたち。王様はシュセンドに取り憑かれたまま、むしろ悪化しておりまして。困ったペソを助けたのは・・・。<br><br>ペソ役:原涼子／ルーブル役:江口拓也／マルク役:桜井敏治<br><br>監督・脚本:青池良輔／原案・キャラクターデザイン:So
+    What, Inc.／プロデュース:イマジニア株式会社／アニメーション制作:株式会社ファンワークス / Fever Creations<br><br>so32005689←前話　第一話→so32005688"
+  length_seconds: 843
+  content_id: so32005690
+  default_thread_id: 1506555006
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/32005690/32005690.88180888
+cast: "[キャスト]<br>ペソ役:原涼子／ルーブル役:江口拓也／マルク役:桜井敏治"
+staff: "[スタッフ]<br>監督・脚本:青池良輔／原案・キャラクターデザイン:So What, Inc.／プロデュース:イマジニア株式会社／アニメーション制作:株式会社ファンワークス
+  / Fever Creations"
+produced_year: "[製作年]<br>2017年"
+copyright: "©SoWhat, Inc. / ©Imagineer Co., Ltd. / ©Fanworks Inc."
+related_seasons: !ruby/array:Hashie::Array []

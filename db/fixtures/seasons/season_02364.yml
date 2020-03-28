@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田雄馬
   type: cast
 - !ruby/hash:TagHash
-  name: 蒼井翔太
+  name: 八代拓
   type: cast
 - !ruby/hash:TagHash
-  name: 八代拓
+  name: 蒼井翔太
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：勝鬨スタジオ
@@ -77,12 +77,24 @@ episodes: !ruby/array:Hashie::Array
   description: とっきおきのやつだったのに／とりあえずあしたは休もうとおもう／めざせぶろーどうぇい／魚人（ひと）には向き不向きがある／後世に語りつがれるもの／やめられない悪魔のれしぴ／編集でいかようにでも／かのスピーカー直撃弾にはならず／かわいいでしょ／とにかくヤバい／ことばでは言いあらわせない／しゃるうぃーだんす？／たいちょうはすこぶるよい<br><br>ツノガエル:八代
     拓／ネッシー:斉藤壮馬／モコザラシ:石川界人／エビフライ:内田雄馬／魚人:蒼井翔太／ナレーション・効果音:堀江由衣　他<br><br>原作・脚本:STUDY優作／原案:STUDY
     YU-SAKU/MMDGP／アニメーション制作:勝鬨スタジオ／アニメーション監督:尾中たけし／音響制作:チャンスイン／音響監督:サイトウ ユウ／音楽:黒田賢一<br><br>©STUDY
-    YU-SAKU／MMDGP<br><br>so35507423←前話　第一話→so35384462
+    YU-SAKU／MMDGP<br><br>so35507423←前話｜次話→so36294546　第一話→so35384462
   length_seconds: 780
   content_id: so35916179
   default_thread_id: 1573002363
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35916179/35916179.2462341
+- !ruby/hash:EpisodeHash
+  episode_no: 第39話～第50話
+  title: おことわり／知らざれる生態／弟／くしゃみ／そんな日もある／自慢の弟／さいごのさいごで／ものろーぐ／台なし／冒険ガエル／おとしもの／いめちぇん
+  description: さすがにちょっとしつこい／まるでホタルイカのよう／また日をあらためてにしようか／そんなに見つめないで／今日はきんちょうしてるみたい／兄としても鼻がたかいよ／そのままめしあがれ／おもったことは言わないタイプ／めでたしめでたし／最低往復4じかんはみておかないと／せつめいはさいごまできかないタイプ／これにはみんなもにっこり<br><br>ツノガエル:八代
+    拓／ネッシー:斉藤壮馬／モコザラシ:石川界人／エビフライ:内田雄馬／魚人:蒼井翔太／ナレーション・効果音:堀江由衣　他<br><br>原作・脚本:STUDY優作／原案:STUDY
+    YU-SAKU/MMDGP／アニメーション制作:勝鬨スタジオ／アニメーション監督:尾中たけし／音響制作:チャンスイン／音響監督:サイトウ ユウ／音楽:黒田賢一<br><br>©STUDY
+    YU-SAKU／MMDGP<br><br>so35916179←前話　第一話→so35384462
+  length_seconds: 720
+  content_id: so36294546
+  default_thread_id: 1580348107
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36294546/36294546.74869587
 cast: "[キャスト]<br>ツノガエル:八代 拓／ネッシー:斉藤壮馬／モコザラシ:石川界人／エビフライ:内田雄馬／魚人:蒼井翔太／ナレーション・効果音:堀江由衣　他"
 staff: "[スタッフ]<br>原作・脚本:STUDY優作／原案:STUDY YU-SAKU/MMDGP／アニメーション制作:勝鬨スタジオ／アニメーション監督:尾中たけし／音響制作:チャンスイン／音響監督:サイトウ
   ユウ／音楽:黒田賢一"

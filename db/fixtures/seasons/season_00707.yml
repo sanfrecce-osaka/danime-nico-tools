@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: スパイラル-推理の絆-
-watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/13/4/22134_1_6.png?1522991113000
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/13/4/22134_1_8_8b.png?1551347818000
 outline: 警視庁で「神の頭脳」と謳われながら、突如姿を消した兄。主人公･鳴海歩は、兄にも負けない頭脳を生かし、周囲で起こる事件に挑んでゆく。しかしそれは、「ブレード･チルドレン」と呼ばれる少年少女達と、そして、兄･鳴海清隆をめぐる謎の序章にすぎなかった…。スクウェア･エニックス「ガンガンコミックス」の大人気推理サスペンスをアニメ化。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -17,16 +17,16 @@ tags: !ruby/array:Hashie::Array
   name: 石田彰
   type: cast
 - !ruby/hash:TagHash
-  name: 鈴村健一
-  type: cast
-- !ruby/hash:TagHash
   name: 井上和彦
   type: cast
 - !ruby/hash:TagHash
-  name: 草尾毅
+  name: 鈴村健一
   type: cast
 - !ruby/hash:TagHash
   name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 草尾毅
   type: cast
 - !ruby/hash:TagHash
   name: 浅野真澄
@@ -52,6 +52,12 @@ tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
   name: 製作年：2002年
   type: other
+- !ruby/hash:TagHash
+  name: 2002年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 探偵
+  type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
   episode_no: "#1"
@@ -62,7 +68,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065373
   default_thread_id: 1523930429
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065373
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065373/33065373.18354468
 - !ruby/hash:EpisodeHash
   episode_no: "#2"
   title: 死の聖樹館
@@ -72,7 +78,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065374
   default_thread_id: 1523930681
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065374
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065374/33065374.14656350
 - !ruby/hash:EpisodeHash
   episode_no: "#3"
   title: 呪われた子供たち
@@ -82,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065375
   default_thread_id: 1523930685
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065375
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065375/33065375.67103178
 - !ruby/hash:EpisodeHash
   episode_no: "#4"
   title: 信じる者の幸福
@@ -92,7 +98,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065376
   default_thread_id: 1523930447
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065376
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065376/33065376.64072891
 - !ruby/hash:EpisodeHash
   episode_no: "#5"
   title: 霧の死刑台
@@ -102,7 +108,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065377
   default_thread_id: 1523930550
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065377
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065377/33065377.57329980
 - !ruby/hash:EpisodeHash
   episode_no: "#6"
   title: 包囲網の死角
@@ -112,7 +118,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065378
   default_thread_id: 1523930551
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065378
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065378/33065378.89837904
 - !ruby/hash:EpisodeHash
   episode_no: "#7"
   title: 信じぬ者の選択
@@ -122,7 +128,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065379
   default_thread_id: 1523930427
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065379
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065379/33065379.79472288
 - !ruby/hash:EpisodeHash
   episode_no: "#8"
   title: 敗者ばかりの日
@@ -132,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065380
   default_thread_id: 1523930683
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065380
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065380/33065380.15644445
 - !ruby/hash:EpisodeHash
   episode_no: "#9"
   title: きみにできるあらゆること
@@ -142,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065321
   default_thread_id: 1523928773
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065321
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065321/33065321.16868306
 - !ruby/hash:EpisodeHash
   episode_no: "#10"
   title: たった一つの冴えたやり方
@@ -152,7 +158,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065320
   default_thread_id: 1523928870
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065320
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065320/33065320.37833127
 - !ruby/hash:EpisodeHash
   episode_no: "#11"
   title: グッドナイト　スイートハーツ
@@ -162,7 +168,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065306
   default_thread_id: 1523928990
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065306
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065306/33065306.41533284
 - !ruby/hash:EpisodeHash
   episode_no: "#12"
   title: 乾いた瞳
@@ -172,7 +178,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065307
   default_thread_id: 1523928748
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065307
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065307/33065307.33541224
 - !ruby/hash:EpisodeHash
   episode_no: "#13"
   title: Overture～序曲～
@@ -182,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065308
   default_thread_id: 1523928796
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065308
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065308/33065308.25119410
 - !ruby/hash:EpisodeHash
   episode_no: "#14"
   title: 甘き香り陽炎に似て
@@ -192,7 +198,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065309
   default_thread_id: 1523928798
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065309
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065309/33065309.31563259
 - !ruby/hash:EpisodeHash
   episode_no: "#15"
   title: ライク ア スワン
@@ -202,7 +208,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065310
   default_thread_id: 1523928846
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065310
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065310/33065310.40886588
 - !ruby/hash:EpisodeHash
   episode_no: "#16"
   title: まねかれざる訪問者
@@ -212,7 +218,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33101201
   default_thread_id: 1524546772
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33101201
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33101201/33101201.70620362
 - !ruby/hash:EpisodeHash
   episode_no: "#17"
   title: 暗闇のスキャナー
@@ -222,7 +228,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065312
   default_thread_id: 1523928854
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065312
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065312/33065312.30433155
 - !ruby/hash:EpisodeHash
   episode_no: "#18"
   title: 嘆きの天使
@@ -232,7 +238,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065313
   default_thread_id: 1523928822
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065313
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065313/33065313.28921611
 - !ruby/hash:EpisodeHash
   episode_no: "#19"
   title: 心の鏡
@@ -242,7 +248,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065314
   default_thread_id: 1523928868
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065314
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065314/33065314.2898414
 - !ruby/hash:EpisodeHash
   episode_no: "#20"
   title: ささやく影
@@ -252,7 +258,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065315
   default_thread_id: 1523928802
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065315
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065315/33065315.44567218
 - !ruby/hash:EpisodeHash
   episode_no: "#21"
   title: 心の砕ける音
@@ -262,7 +268,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065316
   default_thread_id: 1523928826
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065316
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065316/33065316.71681588
 - !ruby/hash:EpisodeHash
   episode_no: "#22"
   title: 仮面の告白
@@ -272,7 +278,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065317
   default_thread_id: 1523928746
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065317
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065317/33065317.70817476
 - !ruby/hash:EpisodeHash
   episode_no: "#23"
   title: 止まない雨
@@ -282,7 +288,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065318
   default_thread_id: 1523928852
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065318
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065318/33065318.62915445
 - !ruby/hash:EpisodeHash
   episode_no: "#24"
   title: 高い城の男
@@ -292,7 +298,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065319
   default_thread_id: 1523928824
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065319
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065319/33065319.97912737
 - !ruby/hash:EpisodeHash
   episode_no: "#25"
   title: アヤメの凍て解く音
@@ -302,7 +308,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so33065381
   default_thread_id: 1523930687
   channel_id: 2632720
-  thumbnail_url: http://tn.smilevideo.jp/smile?i=33065381
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/33065381/33065381.35440315
 cast: "[キャスト]<br>鳴海 歩:鈴村健一／結崎ひよの:浅野真澄／アイズ・ラザフォード:石田 彰／竹内理緒:堀江由衣／浅月香介:草尾 毅／鳴海まどか:三石琴乃／鳴海清隆:井上和彦"
 staff: "[スタッフ]<br>原作:「スパイラル～推理の絆～」作：城平京、画：水野英多／監督:金子伸吾／シリーズ構成:高橋ナツコ／脚本:高橋ナツコ、北条千夏、田中哲生、堺三保、小出克彦／キャラクターデザイン・総作画監督:中山由美／音楽:見岳章"
 produced_year: "[製作年]<br>2002年"

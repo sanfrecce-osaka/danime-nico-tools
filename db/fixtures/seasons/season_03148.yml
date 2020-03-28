@@ -1,0 +1,88 @@
+--- !ruby/hash:SeasonHash
+title: まほろまてぃっく ＴＶスペシャル ～えっちなのはいけないと思います～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/21/5/23215_1_8_8b.png?1578976297000
+outline: 第2シリーズまでアニメ化された人気作のTVスペシャル。優たちが隠し持っている、男の子にとって大切なお宝「えっちな本」の存在に気づいたまほろは、お宝の撲滅を決意。これに気づいた優たちもおとなしく没収されるわけにはいかない。逃げる優たち。追うまほろさん。えっちな本をめぐる大攻防戦の行方はどうなる？
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 真田アサミ
+  type: cast
+- !ruby/hash:TagHash
+  name: 清水愛
+  type: cast
+- !ruby/hash:TagHash
+  name: 高田由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 野田圭一
+  type: cast
+- !ruby/hash:TagHash
+  name: 瀧本富士子
+  type: cast
+- !ruby/hash:TagHash
+  name: 水野愛日
+  type: cast
+- !ruby/hash:TagHash
+  name: 菊池由美
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：シャフト
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：増田俊郎
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：GAINAX
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高村和宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ぢたま某
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐伯昭志
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：中山文十郎
+  type: staff
+- !ruby/hash:TagHash
+  name: まほろまてぃっくシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2003年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 第2シリーズまでアニメ化された人気作のTVスペシャル。優たちが隠し持っている、男の子にとって大切なお宝「えっちな本」の存在に気づいたまほろは、お宝の撲滅を決意。これに気づいた優たちもおとなしく没収されるわけにはいかない。逃げる優たち。追うまほろさん。えっちな本をめぐる大攻防戦の行方はどうなる？<br><br>まほろ:川澄綾子／美里優:瀧本富士子／みなわ:清水愛／式条沙織:高田由美／佐倉深雪:菊池由美／等々力凛:水野愛日／大江千鶴子:真田アサミ／スラッシュ:野田圭一<br><br>原作:中山文十郎＋ぢたま(某)／監督:佐伯昭志／監修:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト<br><br>©
+    中山・ぢたま／ワニブックス・まほろば家政婦斡旋所
+  length_seconds: 1419
+  content_id: so36358121
+  default_thread_id: 1581531854
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36358121/36358121.96308703
+cast: "[キャスト]<br>まほろ:川澄綾子／美里優:瀧本富士子／みなわ:清水愛／式条沙織:高田由美／佐倉深雪:菊池由美／等々力凛:水野愛日／大江千鶴子:真田アサミ／スラッシュ:野田圭一"
+staff: "[スタッフ]<br>原作:中山文十郎＋ぢたま(某)／監督:佐伯昭志／監修:山賀博之／キャラクターデザイン・総作画監督:高村和宏／音楽:増田俊郎／アニメーション制作:GAINAX・シャフト"
+produced_year: "[製作年]<br>2003年"
+copyright: "© 中山・ぢたま／ワニブックス・まほろば家政婦斡旋所"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく～もっと美しいもの～
+- !ruby/hash:SeasonHash
+  title: まほろまてぃっく　ただいま◇おかえり

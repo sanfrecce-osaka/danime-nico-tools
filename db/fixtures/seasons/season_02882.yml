@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版 新 巨人の星
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/32/4/23324_1_8_8b.png?1580450726000
+outline: 飛雄馬は5年前の試合で左腕を壊して以来消息を絶っていた。しかし、彼は密かに山奥で打撃練習をしていたのだ。投手として再起不能となっても、野球から離れる事はできず、残された道は打者転向……。それしかなかった。しかし、ひょんな事から右手で投げたボールに目を止められ、再び念願のマウンドに立つ。果たして飛雄馬は、球団史上初の最下位に低迷した長嶋巨人軍を救うことができるのか……。王貞治選手の756号が日本中の話題をさらった1977年に放映されたテレビシリーズ「新
+  巨人の星」の1～5話の再編集版。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上真樹夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 古谷徹
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤精三
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石冬美
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺岳夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：今沢哲男
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：岡崎稔
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：出崎哲
+  type: staff
+- !ruby/hash:TagHash
+  name: 巨人の星シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1977年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 飛雄馬は5年前の試合で左腕を壊して以来消息を絶っていた。しかし、彼は密かに山奥で打撃練習をしていたのだ。投手として再起不能となっても、野球から離れる事はできず、残された道は打者転向……。それしかなかった。しかし、ひょんな事から右手で投げたボールに目を止められ、再び念願のマウンドに立つ。果たして飛雄馬は、球団史上初の最下位に低迷した長嶋巨人軍を救うことができるのか……。王貞治選手の756号が日本中の話題をさらった1977年に放映されたテレビシリーズ「新
+    巨人の星」の1～5話の再編集版。<br><br>星飛雄馬:古谷徹／星一徹:加藤精三／花形明子:白石冬美／花形満:井上真樹夫／伴宙太:八奈見乗児　他<br><br>演出:今沢哲男、岡崎稔、出崎哲／脚本:金子裕、城山昇、荒木芳久、出崎哲／作画監督:香西隆男／撮影:高橋宏固／美術:小林七郎／音楽:渡辺岳夫／録音:山崎あきら／協力:読売巨人軍／製作・著作:トムス・エンタテインメント<br><br>©梶原一騎・川崎のぼる/講談社・TMS<br><br>次話→so36317916
+  length_seconds: 2318
+  content_id: so36317915
+  default_thread_id: 1580784246
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36317915/36317915.17185114
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 飛雄馬は5年前の試合で左腕を壊して以来消息を絶っていた。しかし、彼は密かに山奥で打撃練習をしていたのだ。投手として再起不能となっても、野球から離れる事はできず、残された道は打者転向……。それしかなかった。しかし、ひょんな事から右手で投げたボールに目を止められ、再び念願のマウンドに立つ。果たして飛雄馬は、球団史上初の最下位に低迷した長嶋巨人軍を救うことができるのか……。王貞治選手の756号が日本中の話題をさらった1977年に放映されたテレビシリーズ「新
+    巨人の星」の1～5話の再編集版。<br><br>星飛雄馬:古谷徹／星一徹:加藤精三／花形明子:白石冬美／花形満:井上真樹夫／伴宙太:八奈見乗児　他<br><br>演出:今沢哲男、岡崎稔、出崎哲／脚本:金子裕、城山昇、荒木芳久、出崎哲／作画監督:香西隆男／撮影:高橋宏固／美術:小林七郎／音楽:渡辺岳夫／録音:山崎あきら／協力:読売巨人軍／製作・著作:トムス・エンタテインメント<br><br>©梶原一騎・川崎のぼる/講談社・TMS<br><br>so36317915←前話　第一話→so36317915
+  length_seconds: 2256
+  content_id: so36317916
+  default_thread_id: 1580784363
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36317916/36317916.29500544
+cast: "[キャスト]<br>星飛雄馬:古谷徹／星一徹:加藤精三／花形明子:白石冬美／花形満:井上真樹夫／伴宙太:八奈見乗児　他"
+staff: "[スタッフ]<br>演出:今沢哲男、岡崎稔、出崎哲／脚本:金子裕、城山昇、荒木芳久、出崎哲／作画監督:香西隆男／撮影:高橋宏固／美術:小林七郎／音楽:渡辺岳夫／録音:山崎あきら／協力:読売巨人軍／製作・著作:トムス・エンタテインメント"
+produced_year: "[製作年]<br>1977年"
+copyright: "©梶原一騎・川崎のぼる/講談社・TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 巨人の星
+- !ruby/hash:SeasonHash
+  title: 劇場版　巨人の星　行け行け飛雄馬
+- !ruby/hash:SeasonHash
+  title: 劇場版　巨人の星　大リーグボール
+- !ruby/hash:SeasonHash
+  title: 劇場版　巨人の星　宿命の対決
+- !ruby/hash:SeasonHash
+  title: 新・巨人の星
+- !ruby/hash:SeasonHash
+  title: 新・巨人の星Ⅱ
+- !ruby/hash:SeasonHash
+  title: 巨人の星【特別篇】猛虎　花形満

@@ -1,0 +1,340 @@
+--- !ruby/hash:SeasonHash
+title: GO!GO!アトム
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/88/2/23882_1_8_8b.png?1584338638000
+outline: "「GO!GO!アトム」は地球環境がテーマのコメディ＆アクションシリーズ！アトム、スズ、アトニャン、３人の“チームアトム” が力を合わせて地球環境に起こる様々な問題を解決するミッションに挑みます！チームアトムは時にケンカや失敗を重ねながらも、ミッションを通して自然のメカニズムを知り、命の多様性を発見していきます。毎回どこかでおこるミッションは彼等にとってハラハラワクワクの大冒険なのです！"
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: 朴璐美
+  type: cast
+- !ruby/hash:TagHash
+  name: 沖佳苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 前田剛
+  type: cast
+- !ruby/hash:TagHash
+  name: 野村真悠華
+  type: cast
+- !ruby/hash:TagHash
+  name: 多田野曜平
+  type: cast
+- !ruby/hash:TagHash
+  name: 木村香央里
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：手塚治虫
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: イチかバチかのミツバチミッション
+  description: 幼稚園の子どもたちがハチの大群に襲われてパニックに！その原因をつきとめて問題を解決するためアトムたちはミッションを開始します。アトニャンはハチを退治しようと言うけれど、お茶の水博士からは「ハチのことも考えてあげるんじゃ」とアドバイスが。チームアトムはミニロボモードを使ってハチの女王と話してみることにしますが…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>次話→so36562582
+  length_seconds: 765
+  content_id: so36562547
+  default_thread_id: 1585020726
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562547/36562547.14269382
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ザラおばあちゃんの願い（ねがい）
+  description: ビーチでミッション発生！でもコンピューターＯＴ２が映し出したのはおばあちゃんが大暴れしている姿。チームアトムがかけつけると、そのザラおばあちゃんは生まれたばかりのウミガメの赤ちゃんを守るため、リゾート施設の工事に抗議中だという。さらにビーチにはカモメやカニという天敵もいっぱい。そんな中、沖では座礁したタンカーから油が漏れ始めた！はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562547←前話｜次話→so36562629　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562582
+  default_thread_id: 1585020966
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562582/36562582.52872617
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: ギャラクシー・ミートボール
+  description: 謎の小惑星が地球に猛スピードで近づいています！このまま衝突すると人類が滅亡するほどの大きさです…。残された時間はあと２時間２０分。チームアトムは、小惑星が地球にぶつからないようにするため宇宙に飛び立ちます。アトムたちが小惑星の進む方向を変えようと横から力いっぱいに押すと、回転して逆にスピードが上がってしまい、地球衝突まであと６分に！？　はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562582←前話｜次話→so36562652　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562629
+  default_thread_id: 1585021628
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562629/36562629.65163141
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ミニロボ・アドベンチャー
+  description: セレナ博士が発明した植物の成長剤でアストロラボがツタだらけになってしまい、ミニロボモードでアトムとアトニャンは小さくなってツタ掃除をすることに。するとミッション発生の警報が！オリーのお庭のバラが枯れています。どうやらアブラムシが原因みたい。オリ―のお父さんは殺虫剤を使ってアブラムシを退治しようというけれど・・・。チームアトムは自然に優しい解決方法を探るため、オリ―の庭に向かいます。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562629←前話｜次話→so36562653　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562652
+  default_thread_id: 1585022103
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562652/36562652.28386680
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: はらぺこグマとビーバーのダム
+  description: 川にかかるビーバーのダムをハイイログマがおそっている！？チームアトムが現地につくと、お母さんグマのボニーがすごく怒っていて、そばにいる子グマたちも泣いています。ボニーが言うには冬眠前にいっぱい食べなきゃいけないサケが川をのぼって来ず、その原因がビーバーのダムにあるとのこと。アトムとスズが本当の原因を調べると、下流に水力発電用の巨大なダムが…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562652←前話｜次話→so36562654　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562653
+  default_thread_id: 1585022107
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562653/36562653.15240655
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: アチアチ・アトニャン
+  description: 街のすぐそばにある火山が今にも噴火しそう！もし噴火したら街は大変なことに…。街のピンチをすくうためチームアトムがかけつけると、既に噴火が始まっています。アトニャンは宇宙ゴミを拾ってきて噴火口に栓をしようとしますが、かえって噴火を激しくしてしまうことに。溶岩はどんどん流れ出し、街のみんなは大パニック！！はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562653←前話｜次話→so36562655　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562654
+  default_thread_id: 1585022283
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562654/36562654.46532999
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: オペラハウスのふしぎな音（おと）
+  description: 幽霊騒ぎのせいで修理工事が進まない古いオペラハウス。作業員たちを怖がらせる不気味な音の原因は本当に幽霊なのか、チームアトムは調査を開始します。オペラハウスでは悪魔のような笑い声がしたり、建物の中なのにヘリコプターの音がしたり、突然電話が鳴りだしたり…。アトムたち３人は怖い思いをしながらも、ついに原因を突き止めます。彼らの前に現れたのはなんと…！はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562654←前話｜次話→so36562656　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562655
+  default_thread_id: 1585022285
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562655/36562655.84270764
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 迷子（まいご）のクジラ
+  description: 波打ち際に打ち上げられた子どものクジラ・ルル。ルルを助けるため、そして打ち上げられてしまった原因を突き止めるためにチームアトムは海へ。ルルを海に帰すことには成功したけれど、なぜかルルは再びビーチに向かって戻ってきてしまいます。調査を進めると海の中ではルルが聞いている音と同じ周波数で騒音が！？この騒音のせいでルルはママの声も聞こえないし、自分の声も届かず迷子に…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562655←前話｜次話→so36562657　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562656
+  default_thread_id: 1585022343
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562656/36562656.22575453
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: ファンダンゴ博士（はかせ）の野望（やぼう）
+  description: 携帯電話の電波が妨害されて世界中がパニック！どうやらある古い博物館から妨害電波が出ているようです。チームアトムが原因を突き止めるためにその博物館を訪れると、３人はそこで捕らわれの身に。博物館の主、かつて天才科学者とよばれたファンダンゴ博士の罠でした。博士にはどうやら野望があるようですが、その本当の狙いは何か？はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562656←前話｜次話→so36562658　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562657
+  default_thread_id: 1585022105
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562657/36562657.11467657
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: チームアトムは名探偵
+  description: ある日の朝、自分とそっくりのロボットを残してお茶の水博士が失踪！　…とそのとき、OT2のモニターにうつしだされたのはイスに縛られた博士の姿。「誘拐されてしまった！」と叫んでいます。博士を助け出すために捜索を開始したアトムたちは、犯人が博士を連れ出すときに使ったと思われるボートの中に、謎の羊毛を見つけます。DNA分析の結果、どうやらメリー島の羊のものらしい…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562657←前話｜次話→so36562633　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562658
+  default_thread_id: 1585022165
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562658/36562658.11986213
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: ミクロの世界へＧＯ！
+  description: 実験のためにミクロスーツを着たアトムとアトニャン。ミクロの姿は小さすぎて電子顕微鏡でしかみることができません。2人はビーカーにはいった実験用の水の中をすいすい泳いでいます。すると風邪をひいてくしゃみ連発のブラント博士がやってきて薬と一緒にそのビーカーの水をのみほしてしまった！　ビーカーからブラント博士の体の中に飲み込まれてしまった二人。早く脱出しないとブラント博士の中で大爆発を起こしてしまうと知り…。はたしてアトムとアトニャンは無事に脱出することができるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562658←前話｜次話→so36562632　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562633
+  default_thread_id: 1585021503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562633/36562633.42545173
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: スモッグをふっとばせ！
+  description: アルプス山脈のある街で子供たちがスモッグに苦しんでいます！　チームアトムが現地に向かうと、どうやら街から遠く離れた所にある工場の煙が原因のようです。その汚れた煙が風に流されて山にぶつかり、山に囲まれるこの街に溜まってしまっていたのでした。街の人たちを困らせるスモッグをどかすには…。アトム達は子供達と一緒に解決するためのなにかを作ることを思いつきます。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562633←前話｜次話→so36562631　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562632
+  default_thread_id: 1585021564
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562632/36562632.24203415
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: 南極救出ミッション
+  description: 皇帝ペンギンの群れが助けを求めている！地球気温の上昇が原因で、住みかである氷山がくずれ海から上がれなくなっている皇帝ペンギンたち。そんな彼らをアザラシが狙っています。スズが立てた作戦はアトニャンがおとりになってアザラシたちの気をそらし、その間にゴムボートでペンギンたちを安全な場所に避難させること。作戦がうまくいったと思った矢先、新たなＳＯＳが発生！はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562632←前話｜次話→so36562630　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562631
+  default_thread_id: 1585021624
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562631/36562631.11518996
+- !ruby/hash:EpisodeHash
+  episode_no: 第14話
+  title: ライオンはともだち？
+  description: ライオンたちの様子がおかしい！？アフリカのサバンナで、獣医のダカライと娘のアクアが凶暴になったライオンから避難し身動きがとれなくなっています。助けにいったチームアトムはなぜライオンたちがおかしくなったのか原因をつきとめることに。ライオンと同じネコ科のアトニャンははりきって自ら追跡することをかってでますが…。やがてその原因は、干ばつによるストレスだと分かります。そこでスズが近くに川を発見しますが、その水は汚染されていることがわかり…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562631←前話｜次話→so36562594　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562630
+  default_thread_id: 1585021565
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562630/36562630.38827094
+- !ruby/hash:EpisodeHash
+  episode_no: 第15話
+  title: 砂嵐（すなあらし）と対決（たいけつ）
+  description: 最近、ある農場の周辺で砂嵐が頻繁に発生。そんな場所じゃなかったはずなのに…。原因の解明と農場の人たちを助けるため、チームアトムが現場に向かい調査すると、ヤシノ木の森が牧草を育てるために伐採され、草も木も生えていない土地になっていました！　この伐採が原因で土が乾燥し、作物も育たなくなり、砂嵐が起きてしまっていたようです。そんなとき、接近する砂嵐をスズがキャッチ。すごごい勢いで農場に迫っています！！　はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562630←前話｜次話→so36562583　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562594
+  default_thread_id: 1585020903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562594/36562594.13580891
+- !ruby/hash:EpisodeHash
+  episode_no: 第16話
+  title: 深海（しんかい）のかいじゅう
+  description: 新しい研究のためブラント博士が向かった先は太平洋のマリアナ海溝。そこでは最近２隻のボートがの沈没しいて、原因が分かっていません。もしかすると、博士が探している海の巨大な生物の仕業では…？　急がないと博士があぶない！チームアトムは博士を助けるために現場へ向かいましたが、博士は喜ぶどころか研究の邪魔するなとご機嫌斜め。そんな中、巨大生物が住んでいると考えられる深海へと向かうとそこには…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562594←前話｜次話→so36562584　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562583
+  default_thread_id: 1585021266
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562583/36562583.10741397
+- !ruby/hash:EpisodeHash
+  episode_no: 第17話
+  title: みどり色の湖（みずうみ）
+  description: コウノトリのお母さんがヒナにあげるエサがなくて困っています。かつては魚がたくさんいた湖がなぜか今、全然いなくなってしまったからです…。緑のウキクサでぎっしりと覆われてしまった湖、これでは魚に必要な光や空気が遮られてしまいます。でもどうしてこんなことになってしまったのか？その原因を突き止めようとアトムたちは湖の中の調査を開始します。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562583←前話｜次話→so36562585　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562584
+  default_thread_id: 1585021276
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562584/36562584.35162644
+- !ruby/hash:EpisodeHash
+  episode_no: 第18話
+  title: 暗闇（くらやみ）をぬけだせ！
+  description: 地質学者のマテオが地下の洞窟に閉じ込められてしまった！　地下の水を調べている途中で岩が崩れてきたみたい。救出に向かったアトムたちは溺れかかったマテオを間一髪で助けます。マテオによると洞窟の水が酸性になったせいで、酸性に弱い石灰岩でできた地下を削り続けているようです。良く調べると近くのビルの地下も石灰岩でできていて、ビルの地面が陥没するかもしれない！　はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562584←前話｜次話→so36562586　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562585
+  default_thread_id: 1585020909
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562585/36562585.74833592
+- !ruby/hash:EpisodeHash
+  episode_no: 第19話
+  title: オーマイベイビー
+  description: 希少動物保護園のマウンテンゴリラのボボが、人間の女の子ミリーをさらって脱走しました！。ボボを傷つけず無事にミリーを助けなければ！現場に到着したチームアトムはあの手この手で救出を試みますが、ボボは言うことをきいてくれません。しかも驚いたことにミリーはボボと楽しそうに遊んでいます。アトムたちは説得しようと四苦八苦。そんな中、スズは意外な解決策を思いつきます。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562585←前話｜次話→so36562548　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562586
+  default_thread_id: 1585020905
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562586/36562586.67282950
+- !ruby/hash:EpisodeHash
+  episode_no: 第20話
+  title: ガスにご注意（ちゅうい）
+  description: 科学者のユーリとエレナがシベリアで、地球温暖化が永久凍土に与える影響を調査していると、突然地面が爆発しエレナが地下の空洞に閉じ込められてしまいました！　どうやら有毒で燃えやすく直ぐに爆発するメタンガスが原因のようです。地下は空気も少なく、メタンガスもたまっているかもしれない。今回のエレナの救出は、細心の注意が必要な緊急ミッションです！はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562586←前話｜次話→so36562549　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562548
+  default_thread_id: 1585020305
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562548/36562548.46340695
+- !ruby/hash:EpisodeHash
+  episode_no: 第21話
+  title: 万事解決（ばんじかいけつ）ガラクタン
+  description: アトニャンが大好きなアニメキャラのガラクタン。宇宙で起きるどんな事件もむしゃむしゃ食べて解決するゴミ箱ロボットです。このロボットのテーマパーク・ガラクタンランドに遊びに来たチームアトムとお茶の水博士たち。パークにいるガラクタン型のゴミ収集ロボにアトニャンがいたずらをすると、ガラクタンが暴走し始めちゃった！　パーク内の物を何でも食べだし、ついにはお茶の水博士も…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562548←前話｜次話→so36562550　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562549
+  default_thread_id: 1585020429
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562549/36562549.10980981
+- !ruby/hash:EpisodeHash
+  episode_no: 第22話
+  title: 竜巻（たつまき）に立（た）ち向（む）かえ
+  description: 広い草原に巨大な竜巻が発生。大木から枝がもぎ取られ、渦の中にのみ込まれていきます。チームアトムは竜巻被害の拡大を止められるようミッションに挑みます。協力しあい草原の動物たちを安全な場所に避難させます。なんとか竜巻の近くにいたシカたちを避難させることができましたが、まだ子ジカが取り残されていた！助けに向かったアトムとアトニャンは竜巻にのまれてしまい、さらに竜巻はどんどん街の方に…。はたしてチームアトムはミッションコンプリートできるかな？<br><br>アトム:朴
+    璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562549←前話｜次話→so36562551　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562550
+  default_thread_id: 1585020423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562550/36562550.80047296
+- !ruby/hash:EpisodeHash
+  episode_no: 第23話
+  title: GO!GO!アトム
+  description: アトム:朴 璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562550←前話｜次話→so36562552　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562551
+  default_thread_id: 1585020304
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562551/36562551.45076440
+- !ruby/hash:EpisodeHash
+  episode_no: 第24話
+  title: GO!GO!アトム
+  description: アトム:朴 璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562551←前話｜次話→so36562553　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562552
+  default_thread_id: 1585020314
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562552/36562552.15512450
+- !ruby/hash:EpisodeHash
+  episode_no: 第25話
+  title: GO!GO!アトム
+  description: アトム:朴 璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村 香央里<br><br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾
+    でこ、小山 真、若松 遼<br><br>©Tezuka Productions/Planet Nemo Animation<br><br>so36562552←前話　第一話→so36562547
+  length_seconds: 765
+  content_id: so36562553
+  default_thread_id: 1585020312
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562553/36562553.50009393
+cast: "[キャスト]<br>アトム:朴 璐美／アトニャン:沖 佳苗／スズ:野村 真悠華／お茶の水博士:多田野 曜平／ブラント博士:前田 剛／セレナ博士:木村
+  香央里"
+staff: "[スタッフ]<br>原作:手塚治虫／企画:手塚プロダクション／セリフ翻訳:赤尾 でこ、小山 真、若松 遼"
+produced_year: "[製作年]<br>2019年"
+copyright: "©Tezuka Productions/Planet Nemo Animation"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム（1980）
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム 特別編：輝ける地球 ～あなたは青く、美しい…～
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム ～特別編：アトム誕生の秘密～
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム ～地球最後の日～
+- !ruby/hash:SeasonHash
+  title: ASTROBOY 鉄腕アトム 特別編：イワンの惑星 ～ロボットと人間の友情～
+- !ruby/hash:SeasonHash
+  title: 鉄腕アトム 青騎士の巻
+- !ruby/hash:SeasonHash
+  title: アトム ザ・ビギニング

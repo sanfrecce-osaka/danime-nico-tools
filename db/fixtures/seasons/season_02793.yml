@@ -1,0 +1,174 @@
+--- !ruby/hash:SeasonHash
+title: あさっての方向。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/63/5/23635_1_8_8b.png?1582249241000
+outline: 兄の尋に負担をかけていると感じ、大人になりたいと願っていた小学生六年生の五百川からだ。一方、尋のかつての恋人・野上椒子は、彼への想いを忘れられず、過去にとらわれた日々を送っていた。そんなある日、からだが大人の姿に、椒子が子供の姿に変わってしまう…。果たして、彼女たちは元の姿に戻れるのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 伊藤静
+  type: cast
+- !ruby/hash:TagHash
+  name: 日野聡
+  type: cast
+- !ruby/hash:TagHash
+  name: 小清水亜美
+  type: cast
+- !ruby/hash:TagHash
+  name: 渡辺明乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤村歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 野村勝人
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：光宗信吉
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：桜美かつし
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：山田J太
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: 2006年秋
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 願い石
+  description: 小学六年生の五百川からだは四年前に両親を亡くし、兄の尋と二人暮らし。尋に迷惑をかけていると感じていたからだは、早く大人になりたいと願っていた。そんなある日、からだと尋は偶然二人の住む叶町に越してきた尋の昔の恋人・野上椒子と出会う。何も知らないからだは、椒子を一緒に海水浴へ行こうと誘い…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>次話→so36422635
+  length_seconds: 1449
+  content_id: so36422634
+  default_thread_id: 1582686071
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422634/36422634.1650096
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: すれちがい
+  description: 大人の姿になってしまったからだと子供の姿になってしまった椒子は、混乱しつつも椒子のアパートへ向かった。取り乱すからだを落ちつかせながらも現実に戸惑い、うち震える椒子。一方、からだが戻らず不安な夜を過ごした尋と登校日に欠席したからだを心配したクラスメイトであるテツは、からだを探していて…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422634←前話｜次話→so36422636　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422635
+  default_thread_id: 1582686069
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422635/36422635.34888885
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: あたらしい生活
+  description: 尋に助けてもらいたい、でもどう説明していいか分からない…。ジレンマの中で新生活をスタートするからだと椒子。現実を受け入れようと時に失敗しながらも奮闘する中で、二人の間にほのかな絆が芽生えはじめる。一方、椒子のマンションをつきとめた尋。突然の尋の訪問に、椒子は“野上椒子の妹”としてふるまうが…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422635←前話｜次話→so36422637　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422636
+  default_thread_id: 1582686073
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422636/36422636.89061718
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 信じてほしい
+  description: からだが大人の姿になってしまったことが、にわかに信じられない尋。そして、そんな尋の反応にからだは深く傷つく。椒子は何とか尋にからだを受け入れさせようとするが…。一年前、兄妹で仲良く歩いた河川公園。祭り太鼓、屋台の灯り、そして二人で見上げた打ち上げ花火―恒例の夏祭りが、今年も近づいてきた…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422636←前話｜次話→so36422638　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422637
+  default_thread_id: 1582686065
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422637/36422637.48814834
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 帰るところ
+  description: 尋、からだ、椒子の三人は、五百川家でしばらく一緒に暮らすことになった。ようやく家に帰れたもののいまだ心細いからだ。一度は受け入れたものの大人になった妹とどう接していいか分からない尋。二人に頼られる椒子は、どこか所在なさを感じていた。そんな椒子が散歩している時、突然一人の少女が声をかけてきて…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422637←前話｜次話→so36422611　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422638
+  default_thread_id: 1582686063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422638/36422638.47087603
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 夏の永遠
+  description: "「親戚の家に行った」という尋の話を信じることができず、からだ探しを続けるテツ。五百川家を訪ねた彼は大人の姿のからだと会うが、もちろん気づくことはない。戸惑いつつも自分のことを心配してくれているテツに後ろめたさと興味を覚えたからだは、その後を追う。そして、彼女とテツの「からだ探し」がはじまった…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422638←前話｜次話→so36422612　第一話→so36422634"
+  length_seconds: 1449
+  content_id: so36422611
+  default_thread_id: 1582685529
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422611/36422611.68022771
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 二人のつかのま
+  description: 今日は尋の誕生日。からだと椒子は、尋のためにバースデーケーキを作ろうと椒子のマンションへ向かった。椒子の服を譲り受けてはしゃぐからだ。慣れないケーキ作りにドジを踏みつつ楽しむ椒子。ひと時の満ち足りた時間の中で、椒子はかつてアメリカで迎えた尋の誕生日のことを思い出していた…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422611←前話｜次話→so36422613　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422612
+  default_thread_id: 1582685223
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422612/36422612.79209475
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: あさっての方向
+  description: からだは家を出て一人で生活をはじめようとしていた。だが外見は大人でも中身は子供だったため、住まいはもちろん仕事探しもままならず、彼女は大人の世界のきびしさをはじめて体験する。それでも前へ進もうとしながら、からだは尋とのこれまでを思い出していた。からだが家を出た理由、そして胸に秘めていたものとは…？<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422612←前話｜次話→so36422614　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422613
+  default_thread_id: 1582685545
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422613/36422613.45002149
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: みちしるべ
+  description: からだの絵葉書を不審に思ったテツが、尋を問いただしにきた。もはや尋には正直に答えることしかできない。からだは家を出て行った、この町にもいない、と。ショックを受けたテツだったが、一念発起してからだ探しの旅に出る。そんなテツの前に偶然現われる琴美。彼女は、事情を聞いて一緒に探してあげると申し出るが…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422613←前話｜次話→so36422615　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422614
+  default_thread_id: 1582685541
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422614/36422614.23261870
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 本当の名前
+  description: 磯貝正、由香夫妻が営むペンション「いそか」で再会をはたすからだとテツ。磯貝夫妻や琴美とのふれあいの中、からだはテツが自分を探し続けてくれていることに心動かされる。テツもまた「佐藤さん」と名乗る大人の姿をしたからだの中にからだらしさを見出していく。そして、二人はいつしか訪れたあの砂浜で…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422614←前話｜次話→so36422616　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422615
+  default_thread_id: 1582685535
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422615/36422615.89661807
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: そこにある現在
+  description: からだの献身的な看病のおかげで、テツはほどなく回復した。すぐさま「からだ探し」に出かけようとするテツを、からだは引き止める。テツの言葉が、からだの心の中に何かを芽生えさせていたのだ。夕日に映える砂浜を歩きながら、からだはついにテツに打ち明ける。自分が「五百川からだ」だと…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422615←前話｜次話→so36422617　第一話→so36422634
+  length_seconds: 1449
+  content_id: so36422616
+  default_thread_id: 1582685531
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422616/36422616.43050722
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: ここにいること
+  description: ついにからだの居場所をつきとめ、迎えに行く尋と椒子。尋は今まで逃げてきたことのすべてと向きあうために、椒子はあることをからだに伝えるために。しかし、折りしもからだとテツの気持ちはすれ違ったままだった。たがいを思うあまり、もつれてしまった心の糸がほどけようとするころ、夏もまた終わろうとしていた…。<br><br>五百川からだ:藤村
+    歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美<br><br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉<br><br>©山田J太・マッグガーデン／あさって製作委員会<br><br>so36422616←前話　第一話→so36422634
+  length_seconds: 1419
+  content_id: so36422617
+  default_thread_id: 1582685537
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36422617/36422617.32500690
+cast: "[キャスト]<br>五百川からだ:藤村 歩／野上椒子:伊藤 静／五百川尋:日野 聡／網野徹允:野村勝人／網野透子:渡辺明乃／汐崎琴美:小清水亜美"
+staff: "[スタッフ]<br>原作:山田J太「あさっての方向。」／監督:桜美かつし／脚本:水上清資、浦畑達彦／音楽:光宗信吉"
+produced_year: "[製作年]<br>2006年"
+copyright: "©山田J太・マッグガーデン／あさって製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

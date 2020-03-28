@@ -1,0 +1,135 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 巴里花組ライブ2009 ～燃え上がれ自由の翼～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/43/2/23432_1_8_8b.png?1580450984000
+outline: クリスマスのひと時、名前をシャノワールへと変え、巴里花組が華麗なるライブをお届けします。巴里花組に加え、メル&シー、シゾー、それに大神一郎も登場！華やかなライブは巴里花組ならではです。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 井上喜久子
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鷹森淑乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 島津冴子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小桜エツコ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2009年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: クリスマスのひと時、名前をシャノワールへと変え、巴里花組が華麗なるライブをお届けします。巴里花組に加え、メル&amp;シー、シゾー、それに大神一郎も登場！華やかなライブは巴里花組ならではです。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318897
+  length_seconds: 2006
+  content_id: so36318898
+  default_thread_id: 1580807645
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318898/36318898.66512301
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: クリスマスのひと時、名前をシャノワールへと変え、巴里花組が華麗なるライブをお届けします。巴里花組に加え、メル&amp;シー、シゾー、それに大神一郎も登場！華やかなライブは巴里花組ならではです。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318898←前話｜次話→so36318896　第一話→so36318898
+  length_seconds: 2136
+  content_id: so36318897
+  default_thread_id: 1580807583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318897/36318897.31166343
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: クリスマスのひと時、名前をシャノワールへと変え、巴里花組が華麗なるライブをお届けします。巴里花組に加え、メル&amp;シー、シゾー、それに大神一郎も登場！華やかなライブは巴里花組ならではです。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318897←前話｜次話→so36318895　第一話→so36318898
+  length_seconds: 2077
+  content_id: so36318896
+  default_thread_id: 1580807607
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318896/36318896.16665217
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: クリスマスのひと時、名前をシャノワールへと変え、巴里花組が華麗なるライブをお届けします。巴里花組に加え、メル&amp;シー、シゾー、それに大神一郎も登場！華やかなライブは巴里花組ならではです。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318896←前話｜次話→so36318881　第一話→so36318898
+  length_seconds: 1887
+  content_id: so36318895
+  default_thread_id: 1580807603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318895/36318895.27913094
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: クリスマスのひと時、名前をシャノワールへと変え、巴里花組が華麗なるライブをお届けします。巴里花組に加え、メル&amp;シー、シゾー、それに大神一郎も登場！華やかなライブは巴里花組ならではです。<br><br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他
+    <br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318895←前話　第一話→so36318898
+  length_seconds: 2058
+  content_id: so36318881
+  default_thread_id: 1580807763
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318881/36318881.38648908
+cast: "[キャスト]<br>出演:日髙のり子、島津冴子、小桜エツコ、井上喜久子、鷹森淑乃、他"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2009年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

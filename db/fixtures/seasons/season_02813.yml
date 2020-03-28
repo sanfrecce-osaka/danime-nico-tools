@@ -1,0 +1,77 @@
+--- !ruby/hash:SeasonHash
+title: OVA苺ましまろencore
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/24/5/23245_1_8_8b.png?1581305513000
+outline: とってもキュートで個性的な４人の小学生と １人の二十歳の短大生の女の子が繰り広げる、 一見どこでもありそうなゆる～い日常をコミカルに描いた2005年の大ヒットTVアニメ「苺ましまろ」がファンの熱い要望にこたえてまたまたOVAになって帰ってきました。
+  短大生のお姉ちゃんと小学生4人の何気ない、ほのぼのとした、でもどこかユニークな日常を描いた作品。OVAになっても「かわいいは正義！」
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 日常/ほのぼの
+  type: genre
+- !ruby/hash:TagHash
+  name: 能登麻美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 川澄綾子
+  type: cast
+- !ruby/hash:TagHash
+  name: 生天目仁美
+  type: cast
+- !ruby/hash:TagHash
+  name: 折笠富美子
+  type: cast
+- !ruby/hash:TagHash
+  name: 千葉紗子
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：坂井久太
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：渡辺剛
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐藤卓哉
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：ばらスィー
+  type: staff
+- !ruby/hash:TagHash
+  name: 苺ましまろシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2008年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: こんにちは
+  description: いつものように伊藤家に集まって駄弁っていると、美羽が「アイドルになりたい！」とすっとんきょうなことを言い出しました。はいはいまたかと思っていると突然バク転に挑戦し始め・・・。美羽が次に気づいたときにはあの世でした。伸恵お姉ちゃんそっくりの閻魔さまには地獄に落とされて、友達そっくりなあの世の住人たちを手玉に取っていつものようにボケ倒します。地獄でも手に負えないから天国へ。天国では羽を奪ってとんずらしたら、タライを落とされて現世に戻りました。よかったね。<br><br>伊藤伸恵:生天目仁美／伊藤千佳:千葉紗子／松岡美羽:折笠富美子／桜木茉莉:川澄綾子／アナ・コッポラ:能登麻美子　ほか<br><br>原作:ばらスィー（連載「月刊電撃大王」メディアワークス刊）／監督・構成:佐藤卓哉／キャラクターデザイン・総作画監督:坂井久太／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／OPテーマ:「苺すぷらっしゅ」（千葉紗子、折笠富美子、川澄綾子、能登麻美子、生天目仁美）／EDテーマ:「ずっと、ずっと」(折笠富美子)<br><br>©ばらスィー／アスキー・メディアワークス／苺ましまろOVA2パートナーズ<br><br>次話→so36368330
+  length_seconds: 1596
+  content_id: so36368329
+  default_thread_id: 1581717126
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368329/36368329.87086792
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: またあした
+  description: 仲良し4人組と女子短大生のなんでもない日常が、今回ものんべんだらりと繰り広げられます。なんやかんやで一緒にいることが多い美羽と千佳だけど、美羽は「友達か親友か」が気になる様子。茉莉とアナはすっかり仲良しで、メールの内容もかわいらしい。大して千佳と美羽はボケとツッコミのよう。こういう関係っていったい何と言えばいいの？信恵お姉ちゃんは「友達」というよりは「ボス」って感じだし。人間関係ってむつかしいのね。あまり深く考えないほうがいいんじゃない？<br><br>伊藤伸恵:生天目仁美／伊藤千佳:千葉紗子／松岡美羽:折笠富美子／桜木茉莉:川澄綾子／アナ・コッポラ:能登麻美子　ほか<br><br>原作:ばらスィー（連載「月刊電撃大王」メディアワークス刊）／監督・構成:佐藤卓哉／キャラクターデザイン・総作画監督:坂井久太／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／OPテーマ:「苺すぷらっしゅ」（千葉紗子、折笠富美子、川澄綾子、能登麻美子、生天目仁美）／EDテーマ:「ずっと、ずっと」(折笠富美子)<br><br>©ばらスィー／アスキー・メディアワークス／苺ましまろOVA2パートナーズ<br><br>so36368329←前話　第一話→so36368329
+  length_seconds: 1639
+  content_id: so36368330
+  default_thread_id: 1581717146
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36368330/36368330.2987000
+cast: "[キャスト]<br>伊藤伸恵:生天目仁美／伊藤千佳:千葉紗子／松岡美羽:折笠富美子／桜木茉莉:川澄綾子／アナ・コッポラ:能登麻美子　ほか"
+staff: "[スタッフ]<br>原作:ばらスィー（連載「月刊電撃大王」メディアワークス刊）／監督・構成:佐藤卓哉／キャラクターデザイン・総作画監督:坂井久太／音響監督:明田川仁／音響制作:マジックカプセル／音楽:渡辺剛／OPテーマ:「苺すぷらっしゅ」（千葉紗子、折笠富美子、川澄綾子、能登麻美子、生天目仁美）／EDテーマ:「ずっと、ずっと」(折笠富美子)"
+produced_year: "[製作年]<br>2008年"
+copyright: "©ばらスィー／アスキー・メディアワークス／苺ましまろOVA2パートナーズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 苺ましまろ 2005 TV ANIMATION SERIES
+- !ruby/hash:SeasonHash
+  title: 苺ましまろ OVA

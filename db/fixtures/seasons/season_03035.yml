@@ -1,0 +1,97 @@
+--- !ruby/hash:SeasonHash
+title: 沈黙の艦隊
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/65/5/22655_1_8_8b.png?1552287607000
+outline: 日米共謀により極秘裏に建造された日本初の原子力潜水艦「シーバット」。しかし、シーバットは試験航海中に海江田四郎艦長指揮の下、突如反乱逃亡。米軍はシーバット撃沈を決定する。追撃してきた米海軍の前に出現したシーバットは、全世界に向けて独立国「やまと」を宣言、米艦隊の包囲網を突破し、同盟締結のため日本へ向かった。苦悩する日本政府は、「やまと」を護衛するために海上自衛隊護衛艦隊の出動を決定。日米は一触即発の状態に入る。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 麦人
+  type: cast
+- !ruby/hash:TagHash
+  name: 小林清志
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩屋翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚周夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田和宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪脩
+  type: cast
+- !ruby/hash:TagHash
+  name: 津嘉山正種
+  type: cast
+- !ruby/hash:TagHash
+  name: 秋元羊介
+  type: cast
+- !ruby/hash:TagHash
+  name: 藤本譲
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：千住明
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高橋良輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：かわぐちかいじ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：加藤茂
+  type: staff
+- !ruby/hash:TagHash
+  name: 沈黙の艦隊シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1995年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 沈黙の艦隊
+  description: 日米共謀により極秘裏に建造された日本初の原子力潜水艦「シーバット」。しかし、シーバットは試験航海中に海江田四郎艦長指揮の下、突如反乱逃亡。米軍はシーバット撃沈を決定する。追撃してきた米海軍の前に出現したシーバットは、全世界に向けて独立国「やまと」を宣言、米艦隊の包囲網を突破し、同盟締結のため日本へ向かった。苦悩する日本政府は、「やまと」を護衛するために海上自衛隊護衛艦隊の出動を決定。日米は一触即発の状態に入る。<br><br>海江田四郎:津嘉山正種／デビット・ライアン:徳丸
+    完／山中栄治:麦人／溝口:中 博史／内海:稲葉 実／速水健次:飛田展男／渡瀬吾郎:塩屋 翼／南波栄一:中村大樹／赤垣三郎:秋元洋介／田所 進:緒方賢一／沼田徳治:加藤
+    治／竹上登志雄:阪 脩／曽根崎 登:田中康郎／海原大悟:渡部 猛／海原 渉:若本規夫／天津航一郎:村山 明／影山誠二:仲木隆司／ニコラス・J・ベネット:上田敏也／テレンス・B・カーバー:筈見
+    純／マードック:藤本 譲／ハロルド・D・ベイカー:中田和宏／リチャード・ボイス:小村哲生／アラン・B・ランシング:小林清志／カーネル・スタイガー:大塚周夫<br><br>企画:中村重喜、矢立
+    肇／原作:かわぐちかいじ／掲載:週刊モーニング／発行:講談社／脚本:吉川惣司／キャラクターデザイン・総作画監督:加藤 茂／メカニカルデザイン・作画監督補:山根公利／美術監督:池田繁美／色彩設計:加瀬結起／レイアウト作画監督:横山彰利／撮影監督:長谷川洋一／編集:鶴渕友彰／音響監督:浦上靖夫／音楽:千住
+    明／監督:高橋良輔<br><br>© かわぐちかいじ／講談社・サンライズ
+  length_seconds: 6022
+  content_id: so36051725
+  default_thread_id: 1575650703
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36051725/36051725.18129047
+cast: "[キャスト]<br>海江田四郎:津嘉山正種／デビット・ライアン:徳丸 完／山中栄治:麦人／溝口:中 博史／内海:稲葉 実／速水健次:飛田展男／渡瀬吾郎:塩屋
+  翼／南波栄一:中村大樹／赤垣三郎:秋元洋介／田所 進:緒方賢一／沼田徳治:加藤 治／竹上登志雄:阪 脩／曽根崎 登:田中康郎／海原大悟:渡部 猛／海原 渉:若本規夫／天津航一郎:村山
+  明／影山誠二:仲木隆司／ニコラス・J・ベネット:上田敏也／テレンス・B・カーバー:筈見 純／マードック:藤本 譲／ハロルド・D・ベイカー:中田和宏／リチャード・ボイス:小村哲生／アラン・B・ランシング:小林清志／カーネル・スタイガー:大塚周夫"
+staff: "[スタッフ]<br>企画:中村重喜、矢立 肇／原作:かわぐちかいじ／掲載:週刊モーニング／発行:講談社／脚本:吉川惣司／キャラクターデザイン・総作画監督:加藤
+  茂／メカニカルデザイン・作画監督補:山根公利／美術監督:池田繁美／色彩設計:加瀬結起／レイアウト作画監督:横山彰利／撮影監督:長谷川洋一／編集:鶴渕友彰／音響監督:浦上靖夫／音楽:千住
+  明／監督:高橋良輔"
+produced_year: "[製作年]<br>1995年"
+copyright: "© かわぐちかいじ／講談社・サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 沈黙の艦隊 VOYAGE2
+- !ruby/hash:SeasonHash
+  title: 沈黙の艦隊 VOYAGE3

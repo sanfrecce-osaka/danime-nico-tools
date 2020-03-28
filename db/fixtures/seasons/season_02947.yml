@@ -1,0 +1,124 @@
+--- !ruby/hash:SeasonHash
+title: サクラ大戦 武道館ライブ ～帝都・巴里・紐育～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/42/9/23429_1_8_8b.png?1580451167000
+outline: 日本武道館に帝都花組・巴里花組・紐育星組が集結。豪華キャストによる夢のライブイベント。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: genre
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林沙苗
+  type: cast
+- !ruby/hash:TagHash
+  name: 横山智佐
+  type: cast
+- !ruby/hash:TagHash
+  name: 日髙のり子
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：セガゲームス
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 日本武道館に帝都花組・巴里花組・紐育星組が集結。豪華キャストによる夢のライブイベント。<br><br>出演:横山智佐、日髙のり子、小林沙苗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>次話→so36318195
+  length_seconds: 1932
+  content_id: so36318241
+  default_thread_id: 1580793978
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318241/36318241.90856299
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 日本武道館に帝都花組・巴里花組・紐育星組が集結。豪華キャストによる夢のライブイベント。<br><br>出演:横山智佐、日髙のり子、小林沙苗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318241←前話｜次話→so36318149　第一話→so36318241
+  length_seconds: 1645
+  content_id: so36318195
+  default_thread_id: 1580792523
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318195/36318195.31394196
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: ''
+  description: 日本武道館に帝都花組・巴里花組・紐育星組が集結。豪華キャストによる夢のライブイベント。<br><br>出演:横山智佐、日髙のり子、小林沙苗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318195←前話｜次話→so36318101　第一話→so36318241
+  length_seconds: 2061
+  content_id: so36318149
+  default_thread_id: 1580792528
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318149/36318149.19353774
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: ''
+  description: 日本武道館に帝都花組・巴里花組・紐育星組が集結。豪華キャストによる夢のライブイベント。<br><br>出演:横山智佐、日髙のり子、小林沙苗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318149←前話｜次話→so36318086　第一話→so36318241
+  length_seconds: 2182
+  content_id: so36318101
+  default_thread_id: 1580790922
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318101/36318101.45771318
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: ''
+  description: 日本武道館に帝都花組・巴里花組・紐育星組が集結。豪華キャストによる夢のライブイベント。<br><br>出演:横山智佐、日髙のり子、小林沙苗、他<br><br>監督:セガゲームス<br><br>©SEGA<br><br>so36318101←前話　第一話→so36318241
+  length_seconds: 1687
+  content_id: so36318086
+  default_thread_id: 1580789769
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36318086/36318086.81771410
+cast: "[キャスト]<br>出演:横山智佐、日髙のり子、小林沙苗、他"
+staff: "[スタッフ]<br>監督:セガゲームス"
+produced_year: "[製作年]<br>2007年"
+copyright: "©SEGA"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～桜華絢爛～
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 ～轟華絢爛～
+- !ruby/hash:SeasonHash
+  title: TV版 サクラ大戦
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 活動写真
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 エコール・ド・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ル・ヌーヴォー・巴里
+- !ruby/hash:SeasonHash
+  title: サクラ大戦　ニューヨーク・紐育
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・花組特別公演「愛ゆえに」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第2回花組特別公演「つばさ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 花組クリスマス 奇跡の鐘コンサート
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第3回花組特別公演「紅蜥蜴」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 帝国歌劇団・第4回花組特別公演「アラビアのバラ」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団 新世紀カウントダウン 花組ライブ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 新春歌謡ショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 歌謡ショウ 五周年記念公演「海神別荘」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 巴里花組 特別ミニライブショウ
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 新春歌謡ショウ 神崎すみれ引退記念公演「春恋紫花夢惜別」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 スーパー歌謡ショウ「新編 八犬伝」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 2003年新春歌謡ショウ「初笑い七福神」
+- !ruby/hash:SeasonHash
+  title: サクラ大戦 帝国歌劇団・花組 スーパー歌謡ショウ「新宝島」

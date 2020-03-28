@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 宇宙円盤大戦争
 watchable: false
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/2/21922_1_6.png?1512981043000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/92/2/21922_1_8_8b.png?1551350400000
 outline: 地球を守る宇宙人と攻撃をかける宇宙人との対決を中心に、ガッタイガーという無敵のマシーン、そして宇宙の悲劇的なロマンスを幻想的な世界に描く。
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -35,13 +35,13 @@ tags: !ruby/array:Hashie::Array
   name: 監督：芹川有吾
   type: staff
 - !ruby/hash:TagHash
-  name: 劇場公開作品
-  type: other
-- !ruby/hash:TagHash
   name: 製作年代：1970年代
   type: other
 - !ruby/hash:TagHash
   name: 製作年：1975年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
   type: other
 episodes: !ruby/array:Hashie::Array
 - !ruby/hash:EpisodeHash
@@ -59,14 +59,14 @@ produced_year: "[製作年]<br>1975年"
 copyright: "©ダイナミック企画・東映アニメーション"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
-  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣
-- !ruby/hash:SeasonHash
-  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
-- !ruby/hash:SeasonHash
-  title: グレートマジンガー対ゲッターロボＧ　空中大激突
-- !ruby/hash:SeasonHash
-  title: グレートマジンガー対ゲッターロボ
+  title: マジンガーＺ対デビルマン
 - !ruby/hash:SeasonHash
   title: マジンガーＺ対暗黒大将軍
 - !ruby/hash:SeasonHash
-  title: マジンガーＺ対デビルマン
+  title: グレートマジンガー対ゲッターロボ
+- !ruby/hash:SeasonHash
+  title: グレートマジンガー対ゲッターロボＧ　空中大激突
+- !ruby/hash:SeasonHash
+  title: ＵＦＯロボ　グレンダイザー対グレートマジンガー
+- !ruby/hash:SeasonHash
+  title: グレンダイザーゲッターロボＧグレートマジンガー　決戦！大海獣

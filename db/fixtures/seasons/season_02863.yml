@@ -1,0 +1,114 @@
+--- !ruby/hash:SeasonHash
+title: ＧＡＴＣＨＡＭＡＮ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/88/9/10889_1_8_8b.png?1582799784000
+outline: 歴史の裏に暗躍してきた謎の組織ギャラクターが、世界征服を企て活動を開始した。その存在をいち早く察知した国際科学技術庁の南部博士は、密かに作り上げていた特殊部隊・科学忍者隊を招集。南部博士の指令の元、科学忍者隊はギャラクターと熾烈な戦いを繰り広げる。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 立木文彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩沢兼人
+  type: cast
+- !ruby/hash:TagHash
+  name: 根谷美智子
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野坂昌也
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本梨香
+  type: cast
+- !ruby/hash:TagHash
+  name: 石井康嗣
+  type: cast
+- !ruby/hash:TagHash
+  name: 沢木郁也
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中信夫
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：タツノコプロ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：タツノコプロ
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：梅津泰臣
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：福島宏之
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：モーリス・ホワイト
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：ビル・メイヤーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Vol.1
+  title: ガッチャマンVSタートルキング
+  description: 地球エネルギー統括計画｢マントルプラン｣の重要研究施設が次々と破壊され、科学者が誘拐される事件が発生。これが歴史の裏に暗躍する謎の組織｢ギャラクター｣の仕業だと気づいた国際科学技術庁の南部博士は、自らが編制した特殊部隊｢科学忍者隊｣に出動命令を下す。出動した彼らは巨大な雲の中に、ギャラクターのメカ鉄獣タートルキングがいることを発見する。<br><br>G-1・健:小野坂昌也／G-2・ジョー:石井康嗣／G-3・ジュン:根谷美智子／G-4・甚平:松本梨香／G-5・竜:立木文彦／南部博士:沢木郁也／ベルク・カッツェ:塩沢兼人／総裁X:田中信夫<br><br>エグゼクティブ・プロデューサー:吉田
+    稔、九里一平／企画:成嶋弘毅、鈴木敏充／スーパーバイザー:齋藤博志／プロデューサー:吉田隆、大倉宏俊／構成・脚本:ARTMIC／音楽:モーリス・ホワイト、ビル・メイヤーズ／キャラクターデザイン・作画監督:梅津泰臣／メカニックデザイン:山根公利／美術監督:河野次郎／撮影監督:高橋明彦(Vol.1)、中條豊光(Vol.2～3)／音響監督:三間雅文／制作協力:ARTMIC、ARTLAND／監督:福島宏之／原作・制作:タツノコプロ<br><br>原作、製作
+    竜の子プロダクション Ⓒ1993 日本コロムビア株式会社<br><br>次話→so36365362
+  length_seconds: 2912
+  content_id: so36365361
+  default_thread_id: 1581675123
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36365361/36365361.92636117
+- !ruby/hash:EpisodeHash
+  episode_no: Vol.2
+  title: 謎のレッドインパルス
+  description: ギャラクター基地の一つではないかと思われる場所が判明し、南部博士はその捜索を科学忍者隊に命じる。海底を捜索していたゴッドフェニックスを謎の光が襲い、空へと脱出したゴッドフェニックスをギャラクターの戦闘機が襲撃する。健はG-1号機でこれを迎え撃つが、危うくギャラクターにやられそうになった彼を謎の戦闘機隊レッドインパルスが救う。<br><br>G-1・健:小野坂昌也／G-2・ジョー:石井康嗣／G-3・ジュン:根谷美智子／G-4・甚平:松本梨香／G-5・竜:立木文彦／南部博士:沢木郁也／ベルク・カッツェ:塩沢兼人／総裁X:田中信夫<br><br>エグゼクティブ・プロデューサー:吉田
+    稔、九里一平／企画:成嶋弘毅、鈴木敏充／スーパーバイザー:齋藤博志／プロデューサー:吉田隆、大倉宏俊／構成・脚本:ARTMIC／音楽:モーリス・ホワイト、ビル・メイヤーズ／キャラクターデザイン・作画監督:梅津泰臣／メカニックデザイン:山根公利／美術監督:河野次郎／撮影監督:高橋明彦(Vol.1)、中條豊光(Vol.2～3)／音響監督:三間雅文／制作協力:ARTMIC、ARTLAND／監督:福島宏之／原作・制作:タツノコプロ<br><br>原作、製作
+    竜の子プロダクション Ⓒ1993 日本コロムビア株式会社<br><br>so36365361←前話｜次話→so36365426　第一話→so36365361
+  length_seconds: 2682
+  content_id: so36365362
+  default_thread_id: 1581674822
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36365362/36365362.38825781
+- !ruby/hash:EpisodeHash
+  episode_no: Vol.3
+  title: ファイナルカウント0002
+  description: いよいよギャラクターの最終作戦が始まった。世界各国のギャラクター基地に設置された巨大メカが地球内部に食い込み、各地で天変地異が続発する。ギャラクターに降伏しなければ、地球が崩壊する。これを止めるためには、ギャラクター本部を破壊する以外ない。<br><br>G-1・健:小野坂昌也／G-2・ジョー:石井康嗣／G-3・ジュン:根谷美智子／G-4・甚平:松本梨香／G-5・竜:立木文彦／南部博士:沢木郁也／ベルク・カッツェ:塩沢兼人／総裁X:田中信夫<br><br>エグゼクティブ・プロデューサー:吉田
+    稔、九里一平／企画:成嶋弘毅、鈴木敏充／スーパーバイザー:齋藤博志／プロデューサー:吉田隆、大倉宏俊／構成・脚本:ARTMIC／音楽:モーリス・ホワイト、ビル・メイヤーズ／キャラクターデザイン・作画監督:梅津泰臣／メカニックデザイン:山根公利／美術監督:河野次郎／撮影監督:高橋明彦(Vol.1)、中條豊光(Vol.2～3)／音響監督:三間雅文／制作協力:ARTMIC、ARTLAND／監督:福島宏之／原作・制作:タツノコプロ<br><br>原作、製作
+    竜の子プロダクション Ⓒ1993 日本コロムビア株式会社<br><br>so36365362←前話　第一話→so36365361
+  length_seconds: 2836
+  content_id: so36365426
+  default_thread_id: 1581675724
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36365426/36365426.5555654
+cast: "[キャスト]<br>G-1・健:小野坂昌也／G-2・ジョー:石井康嗣／G-3・ジュン:根谷美智子／G-4・甚平:松本梨香／G-5・竜:立木文彦／南部博士:沢木郁也／ベルク・カッツェ:塩沢兼人／総裁X:田中信夫"
+staff: "[スタッフ]<br>エグゼクティブ・プロデューサー:吉田 稔、九里一平／企画:成嶋弘毅、鈴木敏充／スーパーバイザー:齋藤博志／プロデューサー:吉田隆、大倉宏俊／構成・脚本:ARTMIC／音楽:モーリス・ホワイト、ビル・メイヤーズ／キャラクターデザイン・作画監督:梅津泰臣／メカニックデザイン:山根公利／美術監督:河野次郎／撮影監督:高橋明彦(Vol.1)、中條豊光(Vol.2～3)／音響監督:三間雅文／制作協力:ARTMIC、ARTLAND／監督:福島宏之／原作・制作:タツノコプロ"
+produced_year: "[製作年]<br>1994年"
+copyright: 原作、製作 竜の子プロダクション Ⓒ1993 日本コロムビア株式会社
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 科学忍者隊ガッチャマン
+- !ruby/hash:SeasonHash
+  title: 劇場版『科学忍者隊ガッチャマン』
+- !ruby/hash:SeasonHash
+  title: 科学忍者隊ガッチャマンⅡ
+- !ruby/hash:SeasonHash
+  title: 科学忍者隊ガッチャマンＦ
+- !ruby/hash:SeasonHash
+  title: ガッチャマン クラウズ
+- !ruby/hash:SeasonHash
+  title: ガッチャマン クラウズ インサイト

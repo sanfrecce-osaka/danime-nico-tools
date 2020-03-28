@@ -1,0 +1,126 @@
+--- !ruby/hash:SeasonHash
+title: もっかい！いち！「ママと僕たち」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/39/4/21394_1_8_8b.png?1582799847000
+outline: その夜、ヨチヨチ歩きの赤ちゃんたちに奇跡がおきた！気がつくと、ボクたちは、オトナの姿になっていた!?大好きなママのピンチを救おうと決意するベイビーたち。果たして、ボクたちは、ママを助けることができるのか!?
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: 新谷真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 鯨井康介
+  type: cast
+- !ruby/hash:TagHash
+  name: 原嶋元久
+  type: cast
+- !ruby/hash:TagHash
+  name: 安川純平
+  type: cast
+- !ruby/hash:TagHash
+  name: 味方良介
+  type: cast
+- !ruby/hash:TagHash
+  name: 平野良
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢田悠祐
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐藤真弓
+  type: cast
+- !ruby/hash:TagHash
+  name: 千代田信一
+  type: cast
+- !ruby/hash:TagHash
+  name: 今井ゆうぞう
+  type: cast
+- !ruby/hash:TagHash
+  name: 大村彩子
+  type: cast
+- !ruby/hash:TagHash
+  name: 中野咲希
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：村上大樹
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：楠瀬タクヤ
+  type: staff
+- !ruby/hash:TagHash
+  name: "「ママと僕たち」シリーズ"
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2015年
+  type: other
+- !ruby/hash:TagHash
+  name: 2.5次元舞台
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: もっかい！いち！「ママと僕たち」
+  description: その夜、ヨチヨチ歩きの赤ちゃんたちに奇跡がおきた！気がつくと、ボクたちは、オトナの姿になっていた!?大好きなママのピンチを救おうと決意するベイビーたち。果たして、ボクたちは、ママを助けることができるのか!?<br><br>出演:鯨井康介　平野良　味方良介　安川純平　原嶋元久　矢田悠祐
+    ／ 佐藤真弓　新谷真弓　大村彩子　千代田信一 ／中野咲希　小林煌真　杉浦樹子　茂木拓也　今井ゆうぞう ／ 廣川三憲<br><br>脚本・演出:村上大樹（拙者ムニエル）／音楽:楠瀬拓哉（OVERCOME
+    MUSIC）／振付:EBATO<br><br>次話→so36427424
+  length_seconds: 1787
+  content_id: so36427423
+  default_thread_id: 1582776743
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427423/36427423.28561524
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: もっかい！いち！「ママと僕たち」
+  description: その夜、ヨチヨチ歩きの赤ちゃんたちに奇跡がおきた！気がつくと、ボクたちは、オトナの姿になっていた!?大好きなママのピンチを救おうと決意するベイビーたち。果たして、ボクたちは、ママを助けることができるのか!?<br><br>出演:鯨井康介　平野良　味方良介　安川純平　原嶋元久　矢田悠祐
+    ／ 佐藤真弓　新谷真弓　大村彩子　千代田信一 ／中野咲希　小林煌真　杉浦樹子　茂木拓也　今井ゆうぞう ／ 廣川三憲<br><br>脚本・演出:村上大樹（拙者ムニエル）／音楽:楠瀬拓哉（OVERCOME
+    MUSIC）／振付:EBATO<br><br>so36427423←前話｜次話→so36427425　第一話→so36427423
+  length_seconds: 1864
+  content_id: so36427424
+  default_thread_id: 1582779310
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427424/36427424.86813399
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.3
+  title: もっかい！いち！「ママと僕たち」
+  description: その夜、ヨチヨチ歩きの赤ちゃんたちに奇跡がおきた！気がつくと、ボクたちは、オトナの姿になっていた!?大好きなママのピンチを救おうと決意するベイビーたち。果たして、ボクたちは、ママを助けることができるのか!?<br><br>出演:鯨井康介　平野良　味方良介　安川純平　原嶋元久　矢田悠祐
+    ／ 佐藤真弓　新谷真弓　大村彩子　千代田信一 ／中野咲希　小林煌真　杉浦樹子　茂木拓也　今井ゆうぞう ／ 廣川三憲<br><br>脚本・演出:村上大樹（拙者ムニエル）／音楽:楠瀬拓哉（OVERCOME
+    MUSIC）／振付:EBATO<br><br>so36427424←前話｜次話→so36427426　第一話→so36427423
+  length_seconds: 1616
+  content_id: so36427425
+  default_thread_id: 1582776741
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427425/36427425.86074363
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.4
+  title: もっかい！いち！「ママと僕たち」
+  description: その夜、ヨチヨチ歩きの赤ちゃんたちに奇跡がおきた！気がつくと、ボクたちは、オトナの姿になっていた!?大好きなママのピンチを救おうと決意するベイビーたち。果たして、ボクたちは、ママを助けることができるのか!?<br><br>出演:鯨井康介　平野良　味方良介　安川純平　原嶋元久　矢田悠祐
+    ／ 佐藤真弓　新谷真弓　大村彩子　千代田信一 ／中野咲希　小林煌真　杉浦樹子　茂木拓也　今井ゆうぞう ／ 廣川三憲<br><br>脚本・演出:村上大樹（拙者ムニエル）／音楽:楠瀬拓哉（OVERCOME
+    MUSIC）／振付:EBATO<br><br>so36427425←前話｜次話→so36427427　第一話→so36427423
+  length_seconds: 1606
+  content_id: so36427426
+  default_thread_id: 1582777263
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427426/36427426.28818358
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.5
+  title: もっかい！いち！「ママと僕たち」
+  description: その夜、ヨチヨチ歩きの赤ちゃんたちに奇跡がおきた！気がつくと、ボクたちは、オトナの姿になっていた!?大好きなママのピンチを救おうと決意するベイビーたち。果たして、ボクたちは、ママを助けることができるのか!?<br><br>出演:鯨井康介　平野良　味方良介　安川純平　原嶋元久　矢田悠祐
+    ／ 佐藤真弓　新谷真弓　大村彩子　千代田信一 ／中野咲希　小林煌真　杉浦樹子　茂木拓也　今井ゆうぞう ／ 廣川三憲<br><br>脚本・演出:村上大樹（拙者ムニエル）／音楽:楠瀬拓哉（OVERCOME
+    MUSIC）／振付:EBATO<br><br>so36427426←前話　第一話→so36427423
+  length_seconds: 1570
+  content_id: so36427427
+  default_thread_id: 1582777623
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36427427/36427427.69515367
+cast: "[キャスト]<br>出演:鯨井康介　平野良　味方良介　安川純平　原嶋元久　矢田悠祐 ／ 佐藤真弓　新谷真弓　大村彩子　千代田信一 ／中野咲希　小林煌真　杉浦樹子　茂木拓也　今井ゆうぞう
+  ／ 廣川三憲"
+staff: "[スタッフ]<br>脚本・演出:村上大樹（拙者ムニエル）／音楽:楠瀬拓哉（OVERCOME MUSIC）／振付:EBATO"
+produced_year: "[製作年]<br>2015年"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: もっかい！に！「ママと僕たち」～おべんきょイヤイヤ BABYS～

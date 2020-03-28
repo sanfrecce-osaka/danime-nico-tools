@@ -1,0 +1,92 @@
+--- !ruby/hash:SeasonHash
+title: 劇場版　巨人の星　宿命の対決
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/32/3/23323_1_8_8b.png?1580451311000
+outline: 魔球・大リーグボールを完成させた飛雄馬と、宿命のライバル・花形満。この二人の対決。つまり、伝統の巨人対阪神戦……。この勝負の行方、そして、飛雄馬の大リーグボールの運命は……。また、「最後に恐ろしい事が起こる。」という川上監督の予言とはいったい！！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 八奈見乗児
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上真樹夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 古谷徹
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤精三
+  type: cast
+- !ruby/hash:TagHash
+  name: 白石冬美
+  type: cast
+- !ruby/hash:TagHash
+  name: 羽佐間道夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村正
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：渡辺岳夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：長浜忠夫
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：根来昭
+  type: staff
+- !ruby/hash:TagHash
+  name: 巨人の星シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1970年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1970年
+  type: other
+- !ruby/hash:TagHash
+  name: 劇場公開作品
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 魔球・大リーグボールを完成させた飛雄馬と、宿命のライバル・花形満。この二人の対決。つまり、伝統の巨人対阪神戦……。この勝負の行方、そして、飛雄馬の大リーグボールの運命は……。また、「最後に恐ろしい事が起こる。」という川上監督の予言とはいったい！！<br><br>星飛雄馬:古谷徹／星一徹:加藤精三／星明子:白石冬美／伴宙太:八奈見乗児／花形満:井上真樹夫／川上哲治:中村正／速水譲次:羽佐間道夫　他<br><br>協力:読売テレビ、読売巨人軍／脚本:山崎晴哉、伊藤恒久、辻真先、さわさきとおる／作画監督:楠部大吉郎／美術デザイン:小山礼司／美術監督:影山勇／撮影監督:清水達正／録音監督:山崎あきら／音楽:渡辺岳夫／演出:長浜忠夫、根来昭<br><br>©梶原一騎・川崎のぼる／講談社・TMS<br><br>次話→so36485598
+  length_seconds: 1841
+  content_id: so36485545
+  default_thread_id: 1583744106
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36485545/36485545.20051310
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 魔球・大リーグボールを完成させた飛雄馬と、宿命のライバル・花形満。この二人の対決。つまり、伝統の巨人対阪神戦……。この勝負の行方、そして、飛雄馬の大リーグボールの運命は……。また、「最後に恐ろしい事が起こる。」という川上監督の予言とはいったい！！<br><br>星飛雄馬:古谷徹／星一徹:加藤精三／星明子:白石冬美／伴宙太:八奈見乗児／花形満:井上真樹夫／川上哲治:中村正／速水譲次:羽佐間道夫　他<br><br>協力:読売テレビ、読売巨人軍／脚本:山崎晴哉、伊藤恒久、辻真先、さわさきとおる／作画監督:楠部大吉郎／美術デザイン:小山礼司／美術監督:影山勇／撮影監督:清水達正／録音監督:山崎あきら／音楽:渡辺岳夫／演出:長浜忠夫、根来昭<br><br>©梶原一騎・川崎のぼる／講談社・TMS<br><br>so36485545←前話　第一話→so36485545
+  length_seconds: 1849
+  content_id: so36485598
+  default_thread_id: 1583744528
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36485598/36485598.6356897
+cast: "[キャスト]<br>星飛雄馬:古谷徹／星一徹:加藤精三／星明子:白石冬美／伴宙太:八奈見乗児／花形満:井上真樹夫／川上哲治:中村正／速水譲次:羽佐間道夫　他"
+staff: "[スタッフ]<br>協力:読売テレビ、読売巨人軍／脚本:山崎晴哉、伊藤恒久、辻真先、さわさきとおる／作画監督:楠部大吉郎／美術デザイン:小山礼司／美術監督:影山勇／撮影監督:清水達正／録音監督:山崎あきら／音楽:渡辺岳夫／演出:長浜忠夫、根来昭"
+produced_year: "[製作年]<br>1970年"
+copyright: "©梶原一騎・川崎のぼる／講談社・TMS"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 巨人の星
+- !ruby/hash:SeasonHash
+  title: 劇場版　巨人の星　行け行け飛雄馬
+- !ruby/hash:SeasonHash
+  title: 劇場版　巨人の星　大リーグボール
+- !ruby/hash:SeasonHash
+  title: 新・巨人の星
+- !ruby/hash:SeasonHash
+  title: 劇場版 新 巨人の星
+- !ruby/hash:SeasonHash
+  title: 新・巨人の星Ⅱ
+- !ruby/hash:SeasonHash
+  title: 巨人の星【特別篇】猛虎　花形満

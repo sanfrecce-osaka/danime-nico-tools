@@ -1,0 +1,82 @@
+--- !ruby/hash:SeasonHash
+title: AMON デビルマン黙示録
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/10/28/9/10289_1_8_8b.png?1581917590000
+outline: 原作コミックの「牧村美樹惨殺」から「最終章・デビルマン軍団VSデーモン軍団」の間の時間軸を基にしたオリジナルストーリー。牧村美樹を惨殺され、人類に絶望する不動明。その内面に勇者アモンの意識が復活、明の意識と肉体を乗っ取ってしまう…。※内容の一部に過激な描写・表現があります。ご了承下さい。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 関智一
+  type: cast
+- !ruby/hash:TagHash
+  name: 田中理恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 斎賀みつき
+  type: cast
+- !ruby/hash:TagHash
+  name: 川上とも子
+  type: cast
+- !ruby/hash:TagHash
+  name: 鈴置洋孝
+  type: cast
+- !ruby/hash:TagHash
+  name: くまいもとこ
+  type: cast
+- !ruby/hash:TagHash
+  name: 矢尾一樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 榎本温子
+  type: cast
+- !ruby/hash:TagHash
+  name: 武田真治
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：永井豪
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：スタジオライブ
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：竹下健一
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1999年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.1
+  title: ''
+  description: 原作コミックの「牧村美樹惨殺」から「最終章・デビルマン軍団VSデーモン軍団」の間の時間軸を基にしたオリジナルストーリー。牧村美樹を惨殺され、人類に絶望する不動明。その内面に勇者アモンの意識が復活、明の意識と肉体を乗っ取ってしまう…。※内容の一部に過激な描写・表現があります。ご了承下さい。<br><br>不動明:武田真治／牧村美樹:榎本温子／飛鳥了:関智一／アモン:大塚明夫／セーロス:矢尾一樹／ミーコ:田中理恵／ユミ:川上とも子／タレ:くまいもとこ／サイコジェニー:斎賀みつき／ズーボ:鈴置洋孝<br><br>原作:永井
+    豪／総監修:芦田豊雄／監督:竹下健一／作画監督:神志那弘志,竹内浩志／脚本:早坂律子／クリチャーデザイン:韮沢靖／絵コンテ:竹下健一,竹内浩志／色彩設定:江夏由結／製作:アニプレックス／アニメーション制作:スタジオライブ<br><br>©1999
+    永井豪／ダイナミック企画・アニプレックス<br><br>次話→so36392599
+  length_seconds: 1368
+  content_id: so36392598
+  default_thread_id: 1582165632
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36392598/36392598.73093802
+- !ruby/hash:EpisodeHash
+  episode_no: Chapter.2
+  title: ''
+  description: 原作コミックの「牧村美樹惨殺」から「最終章・デビルマン軍団VSデーモン軍団」の間の時間軸を基にしたオリジナルストーリー。牧村美樹を惨殺され、人類に絶望する不動明。その内面に勇者アモンの意識が復活、明の意識と肉体を乗っ取ってしまう…。※内容の一部に過激な描写・表現があります。ご了承下さい。<br><br>不動明:武田真治／牧村美樹:榎本温子／飛鳥了:関智一／アモン:大塚明夫／セーロス:矢尾一樹／ミーコ:田中理恵／ユミ:川上とも子／タレ:くまいもとこ／サイコジェニー:斎賀みつき／ズーボ:鈴置洋孝<br><br>原作:永井
+    豪／総監修:芦田豊雄／監督:竹下健一／作画監督:神志那弘志,竹内浩志／脚本:早坂律子／クリチャーデザイン:韮沢靖／絵コンテ:竹下健一,竹内浩志／色彩設定:江夏由結／製作:アニプレックス／アニメーション制作:スタジオライブ<br><br>©1999
+    永井豪／ダイナミック企画・アニプレックス<br><br>so36392598←前話　第一話→so36392598
+  length_seconds: 1331
+  content_id: so36392599
+  default_thread_id: 1582165635
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36392599/36392599.76338397
+cast: "[キャスト]<br>不動明:武田真治／牧村美樹:榎本温子／飛鳥了:関智一／アモン:大塚明夫／セーロス:矢尾一樹／ミーコ:田中理恵／ユミ:川上とも子／タレ:くまいもとこ／サイコジェニー:斎賀みつき／ズーボ:鈴置洋孝"
+staff: "[スタッフ]<br>原作:永井 豪／総監修:芦田豊雄／監督:竹下健一／作画監督:神志那弘志,竹内浩志／脚本:早坂律子／クリチャーデザイン:韮沢靖／絵コンテ:竹下健一,竹内浩志／色彩設定:江夏由結／製作:アニプレックス／アニメーション制作:スタジオライブ"
+produced_year: "[製作年]<br>1999年"
+copyright: "©1999 永井豪／ダイナミック企画・アニプレックス"
+related_seasons: !ruby/array:Hashie::Array []

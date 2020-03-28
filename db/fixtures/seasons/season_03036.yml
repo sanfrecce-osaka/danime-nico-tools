@@ -1,0 +1,98 @@
+--- !ruby/hash:SeasonHash
+title: 沈黙の艦隊 VOYAGE2
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/66/3/22663_1_8_8b.png?1552287639000
+outline: 独立国家を宣言した原子力潜水艦「やまと」は、海上自衛隊の護衛艦隊に守られて東京湾へ入港する。通常魚雷を使い果たした「やまと」に残るのは核魚雷のみ。日本との友好条約を打診し、竹上首相との直接交渉に臨んだ海江田は、全世界のプレスを通じて、独立国家の目的が世界規模の超国家軍隊の創設にあることを明らかにする。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 歴史/戦記
+  type: genre
+- !ruby/hash:TagHash
+  name: 大塚明夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 若本規夫
+  type: cast
+- !ruby/hash:TagHash
+  name: 飛田展男
+  type: cast
+- !ruby/hash:TagHash
+  name: 緒方賢一
+  type: cast
+- !ruby/hash:TagHash
+  name: 塩屋翼
+  type: cast
+- !ruby/hash:TagHash
+  name: 中田和宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 阪脩
+  type: cast
+- !ruby/hash:TagHash
+  name: 津嘉山正種
+  type: cast
+- !ruby/hash:TagHash
+  name: 秋元羊介
+  type: cast
+- !ruby/hash:TagHash
+  name: 中村大樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 中博史
+  type: cast
+- !ruby/hash:TagHash
+  name: 徳丸完
+  type: cast
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：平井久司
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：千住明
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：高橋良輔
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：かわぐちかいじ
+  type: staff
+- !ruby/hash:TagHash
+  name: 演出：日高政光
+  type: staff
+- !ruby/hash:TagHash
+  name: 沈黙の艦隊シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1997年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ''
+  title: 沈黙の艦隊 VOYAGE2
+  description: 独立国家を宣言した原子力潜水艦「やまと」は、海上自衛隊の護衛艦隊に守られて東京湾へ入港する。通常魚雷を使い果たした「やまと」に残るのは核魚雷のみ。日本との友好条約を打診し、竹上首相との直接交渉に臨んだ海江田は、全世界のプレスを通じて、独立国家の目的が世界規模の超国家軍隊の創設にあることを明らかにする。<br><br>海江田四郎:津嘉山正種／溝口:中
+    博史／深町 洋:大塚明夫／速水健次:飛田展男／渡瀬吾郎:塩屋 翼／南波栄一:中村大樹／田所 進:緒方賢一／沼田徳治:加藤 治／沖田政志:秋元洋介／竹上登志雄:阪
+    脩／海原 渉:若本規夫／天津航一郎:村山 明／影山誠二:仲木隆司／白石:掛川裕彦／ニコラス・J・ベネット:上田敏也／ハロルド・D・ベイカー:中田和宏／デビット・ライアン:徳丸
+    完<br><br>企画:矢立 肇／原作:かわぐちかいじ／掲載:週刊モーニング／発行:講談社／脚本:吉川惣司／キャラクターデザイン・作画監督:平井久司／メカニカルデザイン:山根公利、平井久司／メカニカル作監:内田順久／美術監督:池田繁美／色彩設計:歌川律子／撮影監督:土岐浩司／編集:鶴渕友彰／音響監督:浦上靖夫／音楽:千住
+    明／演出・絵コンテ:日高政光／監督:高橋良輔<br><br>© かわぐちかいじ／講談社・サンライズ
+  length_seconds: 3406
+  content_id: so36051724
+  default_thread_id: 1575649323
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36051724/36051724.2617703
+cast: "[キャスト]<br>海江田四郎:津嘉山正種／溝口:中 博史／深町 洋:大塚明夫／速水健次:飛田展男／渡瀬吾郎:塩屋 翼／南波栄一:中村大樹／田所 進:緒方賢一／沼田徳治:加藤
+  治／沖田政志:秋元洋介／竹上登志雄:阪 脩／海原 渉:若本規夫／天津航一郎:村山 明／影山誠二:仲木隆司／白石:掛川裕彦／ニコラス・J・ベネット:上田敏也／ハロルド・D・ベイカー:中田和宏／デビット・ライアン:徳丸
+  完"
+staff: "[スタッフ]<br>企画:矢立 肇／原作:かわぐちかいじ／掲載:週刊モーニング／発行:講談社／脚本:吉川惣司／キャラクターデザイン・作画監督:平井久司／メカニカルデザイン:山根公利、平井久司／メカニカル作監:内田順久／美術監督:池田繁美／色彩設計:歌川律子／撮影監督:土岐浩司／編集:鶴渕友彰／音響監督:浦上靖夫／音楽:千住
+  明／演出・絵コンテ:日高政光／監督:高橋良輔"
+produced_year: "[製作年]<br>1997年"
+copyright: "© かわぐちかいじ／講談社・サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 沈黙の艦隊
+- !ruby/hash:SeasonHash
+  title: 沈黙の艦隊 VOYAGE3

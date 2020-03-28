@@ -1,0 +1,93 @@
+--- !ruby/hash:SeasonHash
+title: 戦争童話集「ふたつの胡桃」
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/31/0/23310_1_8_8b.png?1579845712000
+outline: 中西彩花はごく普通の小学生。飼い犬ライアンとの散歩の最中に、東京大空襲の3日前の世界にタイムスリップしてしまいます。行き場のない彩花とライアンを助けたのは同い年の少女、友子でした。早く元の世界に戻れるようにと、対になった胡桃の鈴を一つ彩花にくれる友子。それは、戦死したお父さんが作ってくれたものでした。しかし、その願いも叶わぬまま、彩花は運命の昭和20年3月10日を迎えるのです……。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: 戦争/ミリタリー
+  type: genre
+- !ruby/hash:TagHash
+  name: 喜多村英梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡由貴
+  type: cast
+- !ruby/hash:TagHash
+  name: 金田朋子
+  type: cast
+- !ruby/hash:TagHash
+  name: チョー
+  type: cast
+- !ruby/hash:TagHash
+  name: 松本梨香
+  type: cast
+- !ruby/hash:TagHash
+  name: 永島由子
+  type: cast
+- !ruby/hash:TagHash
+  name: さとうあい
+  type: cast
+- !ruby/hash:TagHash
+  name: 摩味
+  type: cast
+- !ruby/hash:TagHash
+  name: 那須めぐみ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：やすみ哲夫
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：シンエイ動画
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：相良まさえ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：野坂昭如
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：平井峰太郎
+  type: staff
+- !ruby/hash:TagHash
+  name: 戦争童話集シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2007年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 本編
+  title: ''
+  description: 中西彩花はごく普通の小学生。飼い犬ライアンとの散歩の最中に、東京大空襲の3日前の世界にタイムスリップしてしまいます。行き場のない彩花とライアンを助けたのは同い年の少女、友子でした。早く元の世界に戻れるようにと、対になった胡桃の鈴を一つ彩花にくれる友子。それは、戦死したお父さんが作ってくれたものでした。しかし、その願いも叶わぬまま、彩花は運命の昭和20年3月10日を迎えるのです……。<br><br>彩花:喜多村英梨／友子:那須めぐみ／将吉:松本梨香／健太:金田朋子／麗奈:松岡由貴／とし子:摩味／源さん:チョー／洋子:永島由子／富子:さとうあい<br><br>原作:野坂昭如／脚本・総監督:やすみ哲夫／絵コンテ・監督:平井峰太郎／企画:梅澤道彦（テレビ朝日）・加藤良雄／キャラクター:関
+    修一／作画監督:大武正枝／美術監督:河合伸治／撮影監督:箭内光一／編集:岡安 肇／音響監督:大熊 昭／音楽:相良まさえ／「故郷の廃家」歌:高橋麗奈／効果:武藤晶子（サウンドボックス）／プロデューサー:杉山
+    登（テレビ朝日）・山田俊秀／制作:テレビ朝日・シンエイ動画<br><br>©ケイツー／シンエイ
+  length_seconds: 2745
+  content_id: so36313803
+  default_thread_id: 1580705979
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36313803/36313803.81346396
+cast: "[キャスト]<br>彩花:喜多村英梨／友子:那須めぐみ／将吉:松本梨香／健太:金田朋子／麗奈:松岡由貴／とし子:摩味／源さん:チョー／洋子:永島由子／富子:さとうあい"
+staff: "[スタッフ]<br>原作:野坂昭如／脚本・総監督:やすみ哲夫／絵コンテ・監督:平井峰太郎／企画:梅澤道彦（テレビ朝日）・加藤良雄／キャラクター:関
+  修一／作画監督:大武正枝／美術監督:河合伸治／撮影監督:箭内光一／編集:岡安 肇／音響監督:大熊 昭／音楽:相良まさえ／「故郷の廃家」歌:高橋麗奈／効果:武藤晶子（サウンドボックス）／プロデューサー:杉山
+  登（テレビ朝日）・山田俊秀／制作:テレビ朝日・シンエイ動画"
+produced_year: "[製作年]<br>2007年"
+copyright: "©ケイツー／シンエイ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ウミガメと少年」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「凧になったお母さん」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「小さい潜水艦に恋をしたでかすぎるクジラの話」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「ぼくの防空壕」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「焼跡の、お菓子の木」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「キクちゃんとオオカミ」
+- !ruby/hash:SeasonHash
+  title: 戦争童話集「青い瞳の女の子のお話」

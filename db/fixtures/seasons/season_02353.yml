@@ -64,11 +64,11 @@ episodes: !ruby/array:Hashie::Array
   title: 奈落の底の化け物
   description: クラスメイトと共に異世界へ召喚された”いじめられっ子”の少年・南雲ハジメはクラスメイトの裏切りにより、迷宮の奈落へ突き落とされてしまう。奈落に潜む魔物に襲われ、必死に逃げるハジメ。しかし、錬成師という地味な能力では太刀打ちできるはずもなく、重傷を負ってしまう。異世界でも最弱の彼は心身共に絶望の淵に立たされ――。<br><br>南雲ハジメ:深町寿成／ユエ:桑原由気／シア・ハウリア:高橋未奈美／ティオ・クラルス:日笠陽子／白崎香織:大西沙織／八重樫雫:花守ゆみり／天之河光輝:柿原徹也／畑山愛子:加隈亜衣<br><br>原作:白米良（オーバーラップ文庫刊）／イラスト:たかやKi／監督:よしもときんじ／シリーズ構成・脚本:佐藤勝一・※本欣司（※「土」が上の「吉」）／キャラクターデザイン・総作画監督:小島智加／音楽:高橋諒／アニメーション制作:asread.×WHITE
     FOX<br><br>©白米良・オーバーラップ/ありふれた製作委員会<br><br>次話→so35389389
-  length_seconds: 1415
+  length_seconds: 1757
   content_id: so35356495
   default_thread_id: 1562292004
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35385097/35385097.21413660
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558441/36558441.58188529
 - !ruby/hash:EpisodeHash
   episode_no: 第2話
   title: パンドラの箱
@@ -78,7 +78,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35389389
   default_thread_id: 1562912284
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35389389/35389389.484156
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558447/36558447.18017238
 - !ruby/hash:EpisodeHash
   episode_no: 第3話
   title: 黄金の吸血姫
@@ -88,7 +88,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35416591
   default_thread_id: 1563413345
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35416591/35416591.30281080
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558453/36558453.82601953
 - !ruby/hash:EpisodeHash
   episode_no: 第4話
   title: 最奥のガーディアン
@@ -98,7 +98,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35464301
   default_thread_id: 1564363383
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35464301/35464301.19091003
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558463/36558463.47628897
 - !ruby/hash:EpisodeHash
   episode_no: 第5話
   title: 反逆者の住処
@@ -108,7 +108,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35481402
   default_thread_id: 1564708085
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35481402/35481402.51278042
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558471/36558471.54387128
 - !ruby/hash:EpisodeHash
   episode_no: 総集編
   title: オルクス大迷宮
@@ -128,7 +128,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35546004
   default_thread_id: 1565928243
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35546004/35546004.30025778
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558479/36558479.23776229
 - !ruby/hash:EpisodeHash
   episode_no: 第7話
   title: ライセン大迷宮
@@ -138,7 +138,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35593342
   default_thread_id: 1566782405
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35593342/35593342.94431224
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558487/36558487.89543667
 - !ruby/hash:EpisodeHash
   episode_no: 第8話
   title: 過去との再会
@@ -148,7 +148,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35607872
   default_thread_id: 1567064346
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35607872/35607872.99368656
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558494/36558494.66650334
 - !ruby/hash:EpisodeHash
   episode_no: 第9話
   title: 黒竜を穿つ者
@@ -158,7 +158,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35658254
   default_thread_id: 1567991704
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35658254/35658254.33504356
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558504/36558504.84852824
 - !ruby/hash:EpisodeHash
   episode_no: 第10話
   title: 女神の剣
@@ -168,7 +168,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35674434
   default_thread_id: 1568338149
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35674434/35674434.13781362
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558511/36558511.88790560
 - !ruby/hash:EpisodeHash
   episode_no: 第11話
   title: 化け物たちの休日
@@ -178,7 +178,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35705841
   default_thread_id: 1568944324
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35705841/35705841.41216942
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558518/36558518.50286706
 - !ruby/hash:EpisodeHash
   episode_no: 第12話
   title: 忍び寄る影
@@ -188,7 +188,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35751129
   default_thread_id: 1569807609
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35751129/35751129.53895028
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558522/36558522.66616554
 - !ruby/hash:EpisodeHash
   episode_no: 第13話
   title: 無能の無双
@@ -198,7 +198,7 @@ episodes: !ruby/array:Hashie::Array
   content_id: so35782026
   default_thread_id: 1570410483
   channel_id: 2632720
-  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/35782026/35782026.42197556
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558530/36558530.17055087
 cast: "[キャスト]<br>南雲ハジメ:深町寿成／ユエ:桑原由気／シア・ハウリア:高橋未奈美／ティオ・クラルス:日笠陽子／白崎香織:大西沙織／八重樫雫:花守ゆみり／天之河光輝:柿原徹也／畑山愛子:加隈亜衣"
 staff: "[スタッフ]<br>原作:白米良（オーバーラップ文庫刊）／イラスト:たかやKi／監督:よしもときんじ／シリーズ構成・脚本:佐藤勝一・※本欣司（※「土」が上の「吉」）／キャラクターデザイン・総作画監督:小島智加／音楽:高橋諒／アニメーション制作:asread.×WHITE
   FOX"
