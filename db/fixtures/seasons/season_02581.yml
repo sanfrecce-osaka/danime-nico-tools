@@ -1,7 +1,7 @@
 --- !ruby/hash:SeasonHash
 title: 舞台「パタリロ！」★スターダスト計画★
 watchable: true
-thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/14/5/22145_1_6.png?1551422595000
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/14/5/22145_1_8_8b.png?1551422595000
 outline: 1978年より連載中の魔夜峰央氏の人気作品「パタリロ！」。40年に渡って愛される本作の舞台化第2弾新作公演！持ち前の"美しさ"と唯一無二のキャラクターで殿下を体現した加藤諒はじめ、美少年かつ実力派の俳優が全員続投。さらに新たな美少年たちも登場。抜群のギャグセンスとダンス、歌で魅せる耽美な世界を、ゴ堪能アレ！
 tags: !ruby/array:Hashie::Array
 - !ruby/hash:TagHash
@@ -11,37 +11,37 @@ tags: !ruby/array:Hashie::Array
   name: 大塚明夫
   type: cast
 - !ruby/hash:TagHash
+  name: 小林亮太
+  type: cast
+- !ruby/hash:TagHash
+  name: 細貝圭
+  type: cast
+- !ruby/hash:TagHash
+  name: 吉川純広
+  type: cast
+- !ruby/hash:TagHash
+  name: 三津谷亮
+  type: cast
+- !ruby/hash:TagHash
+  name: 掛川僚太
+  type: cast
+- !ruby/hash:TagHash
+  name: 大堀こういち
+  type: cast
+- !ruby/hash:TagHash
   name: 佐奈宏紀
   type: cast
 - !ruby/hash:TagHash
   name: 佐藤銀平
   type: cast
 - !ruby/hash:TagHash
-  name: 細貝圭
-  type: cast
-- !ruby/hash:TagHash
-  name: 三津谷亮
+  name: 富岡晃一郎
   type: cast
 - !ruby/hash:TagHash
   name: 加藤諒
   type: cast
 - !ruby/hash:TagHash
   name: 石田隼
-  type: cast
-- !ruby/hash:TagHash
-  name: 吉本恒生
-  type: cast
-- !ruby/hash:TagHash
-  name: 吉川純広
-  type: cast
-- !ruby/hash:TagHash
-  name: 三上陽永
-  type: cast
-- !ruby/hash:TagHash
-  name: 柴一平
-  type: cast
-- !ruby/hash:TagHash
-  name: 香取直登
   type: cast
 - !ruby/hash:TagHash
   name: 原作：魔夜峰央
@@ -119,5 +119,7 @@ copyright: "©魔夜峰央／白泉社"
 related_seasons: !ruby/array:Hashie::Array
 - !ruby/hash:SeasonHash
   title: パタリロ！
+- !ruby/hash:SeasonHash
+  title: パタリロ！　スターダスト計画
 - !ruby/hash:SeasonHash
   title: 舞台「パタリロ！」
