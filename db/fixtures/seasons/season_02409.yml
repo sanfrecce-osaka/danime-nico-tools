@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
-  name: 小林ゆう
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長

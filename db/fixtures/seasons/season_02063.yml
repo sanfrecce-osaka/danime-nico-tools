@@ -11,10 +11,10 @@ tags: !ruby/array:Hashie::Array
   name: ショート
   type: genre
 - !ruby/hash:TagHash
-  name: 羽多野渉
+  name: 寺島拓篤
   type: cast
 - !ruby/hash:TagHash
-  name: 寺島拓篤
+  name: 羽多野渉
   type: cast
 - !ruby/hash:TagHash
   name: 久保ユリカ

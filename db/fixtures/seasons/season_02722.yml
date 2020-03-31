@@ -33,10 +33,10 @@ tags: !ruby/array:Hashie::Array
   name: 石谷春貴
   type: cast
 - !ruby/hash:TagHash
-  name: 木野日菜
+  name: 宮本侑芽
   type: cast
 - !ruby/hash:TagHash
-  name: 宮本侑芽
+  name: 木野日菜
   type: cast
 - !ruby/hash:TagHash
   name: 青山吉能

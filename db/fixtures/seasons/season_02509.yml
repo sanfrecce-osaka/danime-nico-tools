@@ -19,10 +19,10 @@ tags: !ruby/array:Hashie::Array
   name: 内田彩
   type: cast
 - !ruby/hash:TagHash
-  name: 大久保瑠美
+  name: 洲崎綾
   type: cast
 - !ruby/hash:TagHash
-  name: 洲崎綾
+  name: 大久保瑠美
   type: cast
 - !ruby/hash:TagHash
   name: Lynn
