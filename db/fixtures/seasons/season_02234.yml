@@ -12,10 +12,10 @@ tags: !ruby/array:Hashie::Array
   name: 間島淳司
   type: cast
 - !ruby/hash:TagHash
-  name: 石上静香
+  name: 園崎未恵
   type: cast
 - !ruby/hash:TagHash
-  name: 園崎未恵
+  name: 石上静香
   type: cast
 - !ruby/hash:TagHash
   name: 白石晴香

@@ -1,0 +1,96 @@
+--- !ruby/hash:SeasonHash
+title: バディ・コンプレックス 完結編 -あの空に還る未来で-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/20/00/9/20009_1_8_8b.png?1552444705000
+outline: TVシリーズのその後を描く完結編。ディオと共にヒナを運命の鎖から解き放ち、新たな未来に生きることを選んだ青葉。その頃ゾギリアでは、青葉に恨みを抱く謎の男が密かに動き始め——。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 内山昂輝
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：稲吉智重
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：稲吉朝子
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：田辺泰裕
+  type: staff
+- !ruby/hash:TagHash
+  name: バディ・コンプレックスシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2014年
+  type: other
+- !ruby/hash:TagHash
+  name: 2014年秋
+  type: other
+- !ruby/hash:TagHash
+  name: 川原智弘
+  type: other
+- !ruby/hash:TagHash
+  name: サンライズ
+  type: other
+- !ruby/hash:TagHash
+  name: 大河広行
+  type: other
+- !ruby/hash:TagHash
+  name: 稲吉智重
+  type: other
+- !ruby/hash:TagHash
+  name: 稲吉朝子
+  type: other
+- !ruby/hash:TagHash
+  name: 加藤達也
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前編
+  title: ''
+  description: シグナスへ降り立ったヒナは、青葉と共に過ごすため、そして自分の記憶にない過去を知るために、連合への亡命を希望する。その頃ゾギリアでは突如クーデターが勃発し、新たに臨時最高会議議長が就任。その男、エフゲニー・ケダールこそ、過去へ飛ばされ名を変えたビゾンであった。そんな中、ガラプーシカを超える超弩級ネクター砲がゾギリアの軍事衛星に隠されていたことが発覚。シグナスはその破壊命令を受け、宇宙へと向かう。<br><br>渡瀬青葉:松岡禎丞／隼鷹・ディオ・ウェインバーグ:内山昂輝／ヒナ・リャザン:早見沙織<br><br>原作:矢立
+    肇／監督:田辺泰裕／シリーズ構成:BCプロジェクト／キャラクターデザイン:稲吉智重、稲吉朝子／アニメーションディレクター:稲吉智重、稲吉朝子／メカデザイン:鈴木勘太、徳田大貴、川原智弘、大河広行／音楽:加藤達也／アニメーション制作:サンライズ<br><br>(C)SUNRISE/BUDDY
+    COMPLEX COMMITTEE<br><br>次話→so36580369
+  length_seconds: 1428
+  content_id: so36580368
+  default_thread_id: 1585326063
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36580368/36580368.98000158
+- !ruby/hash:EpisodeHash
+  episode_no: 後編
+  title: ''
+  description: 単体でカップリング機並みの能力を発揮可能な巨大ヴァリアンサー・カルキノスを駆り、ルクシオンネクストの前に現れたビゾン。その圧倒的なパワーと、周囲のカップリングを無効化するジャミング能力に、青葉たちは苦戦を強いられることに。しかしカルキノスの能力を見抜いたエルヴィラがシステム内に疑似人格を用意し、青葉は単独でのカップリングに成功。さらに青葉とディオ、そしてヒナが三人同時にカップリングを果たし、形勢を一気に逆転する！<br><br>渡瀬青葉:松岡禎丞／隼鷹・ディオ・ウェインバーグ:内山昂輝／ヒナ・リャザン:早見沙織<br><br>原作:矢立
+    肇／監督:田辺泰裕／シリーズ構成:BCプロジェクト／キャラクターデザイン:稲吉智重、稲吉朝子／アニメーションディレクター:稲吉智重、稲吉朝子／メカデザイン:鈴木勘太、徳田大貴、川原智弘、大河広行／音楽:加藤達也／アニメーション制作:サンライズ<br><br>(C)SUNRISE/BUDDY
+    COMPLEX COMMITTEE<br><br>so36580368←前話　第一話→so36580368
+  length_seconds: 1428
+  content_id: so36580369
+  default_thread_id: 1585326303
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36580369/36580369.48900296
+cast: "[キャスト]<br>渡瀬青葉:松岡禎丞／隼鷹・ディオ・ウェインバーグ:内山昂輝／ヒナ・リャザン:早見沙織"
+staff: "[スタッフ]<br>原作:矢立 肇／監督:田辺泰裕／シリーズ構成:BCプロジェクト／キャラクターデザイン:稲吉智重、稲吉朝子／アニメーションディレクター:稲吉智重、稲吉朝子／メカデザイン:鈴木勘太、徳田大貴、川原智弘、大河広行／音楽:加藤達也／アニメーション制作:サンライズ"
+produced_year: "[製作年]<br>2014年"
+copyright: "(C)SUNRISE/BUDDY COMPLEX COMMITTEE"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: バディ・コンプレックス

@@ -1,0 +1,137 @@
+--- !ruby/hash:SeasonHash
+title: アイドルマスター シンデレラガールズ劇場
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/55/5/21555_1_8_8b.png?1551259936000
+outline: おなじみのアイドルたちが、今日もひと騒動！?普段は描かれることがないようなアイドル達の休日の過ごし方や、アイドル同士のコミカル劇など多彩にお送りするハイテンションショートアニメ
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 上坂すみれ
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 五十嵐裕美
+  type: cast
+- !ruby/hash:TagHash
+  name: 洲崎綾
+  type: cast
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: 牧野由依
+  type: cast
+- !ruby/hash:TagHash
+  name: 花守ゆみり
+  type: cast
+- !ruby/hash:TagHash
+  name: 高森奈津美
+  type: cast
+- !ruby/hash:TagHash
+  name: 松井恵理子
+  type: cast
+- !ruby/hash:TagHash
+  name: 大坪由佳
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：バンダイナムコエンターテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：まんきゅう
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ギャザリング
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高津智子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：日本コロムビア
+  type: staff
+- !ruby/hash:TagHash
+  name: アイドルマスター シンデレラガールズ劇場シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2017年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話～第4話
+  title: ネコミミの回／水着の回／ラジオの回／ウェディング回
+  description: 第1話：記念すべき1話目はネコ耳！お仕事の間は｢にゃ｣をつけなきゃだめなのにゃ！／第2話：夏といえば海！海といえば水着！水着に着替えたアイドルたちが…／第3話：今日はラジオのお仕事！と、はりきってみたところ…／第4話：ウエディングドレスを着てのお仕事に膨らむ妄想？！アイドルだって女の子<br><br>島村卯月:大橋彩香／渋谷
+    凛:福原綾香／本田未央:原 紗友里／相葉夕美:木村珠莉／アナスタシア:上坂すみれ／緒方智絵里:大空直美／上條春菜:長島光那／神谷奈緒:松井恵理子／神崎蘭子:内田真礼／小早川紗枝:立花理香／小日向美穂:津田美波／佐久間まゆ:牧野由依／佐藤
+    心:花守ゆみり／椎名法子:都丸ちよ／十時愛梨:原田ひとみ／城ヶ崎美嘉:佳村はるか／星 輝子:松田颯水／高垣 楓:早見沙織／高森藍子:金子有希／新田美波:洲崎
+    綾／日野 茜:赤崎千夏／双葉 杏:五十嵐裕美／前川みく:高森奈津美／三村かな子:大坪由佳／向井拓海:原 優子／森久保乃々:高橋花林／諸星きらり:松嵜 麗<br><br>原作:バンダイナムコエンターテインメント／監督・シリーズ構成:まんきゅう／キャラクターデザイン:高津智子／音響監督:藤田亜紀子／音響制作:ハーフHPスタジオ／音楽:日本コロムビア／アニメーション制作:ギャザリング／製作:しんげき製作委員会<br><br>©BNEI／しんげき<br><br>次話→so36581110
+  length_seconds: 747
+  content_id: so36581054
+  default_thread_id: 1585344003
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581054/36581054.79552035
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話～第8話
+  title: 花見回／温泉回／部屋着回／メイド回
+  description: 第5話：薫はお花見に行けなかったと残念そう。紗枝はそんな薫を気遣って…／第6話：みんなで温泉！ちょっぴり息抜きできるかな…／第7話：部屋着に着替えて過ごす夜。でもアイドルたちは相変わらず…／第8話：メイドも色々！でも先生はやっぱり大事??<br><br>島村卯月:大橋彩香／渋谷
+    凛:福原綾香／本田未央:原 紗友里／相葉夕美:木村珠莉／アナスタシア:上坂すみれ／緒方智絵里:大空直美／上條春菜:長島光那／神谷奈緒:松井恵理子／神崎蘭子:内田真礼／小早川紗枝:立花理香／小日向美穂:津田美波／佐久間まゆ:牧野由依／佐藤
+    心:花守ゆみり／椎名法子:都丸ちよ／十時愛梨:原田ひとみ／城ヶ崎美嘉:佳村はるか／星 輝子:松田颯水／高垣 楓:早見沙織／高森藍子:金子有希／新田美波:洲崎
+    綾／日野 茜:赤崎千夏／双葉 杏:五十嵐裕美／前川みく:高森奈津美／三村かな子:大坪由佳／向井拓海:原 優子／森久保乃々:高橋花林／諸星きらり:松嵜 麗<br><br>原作:バンダイナムコエンターテインメント／監督・シリーズ構成:まんきゅう／キャラクターデザイン:高津智子／音響監督:藤田亜紀子／音響制作:ハーフHPスタジオ／音楽:日本コロムビア／アニメーション制作:ギャザリング／製作:しんげき製作委員会<br><br>©BNEI／しんげき<br><br>so36581054←前話｜次話→so36581111　第一話→so36581054
+  length_seconds: 747
+  content_id: so36581110
+  default_thread_id: 1585345809
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581110/36581110.2522050
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話～第13話
+  title: 刑事回／温泉の回②、大人になったら／ロボ回／水着回②／無限の可能性
+  description: 第9話：リップス公国第一公女が誘拐?!『三姉妹刑事！第4話セクシー＆ギルティ』乞うご期待！／第10話：再び温泉。若さあふれるピチピチの肌と大人の魅力…最後はやっぱり／第11話：悪に狙われた地球！その危機に立ち向かうのは?!
+    『決戦!!グラッシィー帝国』ちぇーんじ きらりーん!／第12話：またまた水着回！カワイイところは隠せない??／第13話：共に語らい紡ぎし壮大なる物語！禁断の書を人目に晒そうとも新たなる扉が開けるのなら…<br><br>島村卯月:大橋彩香／渋谷
+    凛:福原綾香／本田未央:原 紗友里／相葉夕美:木村珠莉／アナスタシア:上坂すみれ／緒方智絵里:大空直美／上條春菜:長島光那／神谷奈緒:松井恵理子／神崎蘭子:内田真礼／小早川紗枝:立花理香／小日向美穂:津田美波／佐久間まゆ:牧野由依／佐藤
+    心:花守ゆみり／椎名法子:都丸ちよ／十時愛梨:原田ひとみ／城ヶ崎美嘉:佳村はるか／星 輝子:松田颯水／高垣 楓:早見沙織／高森藍子:金子有希／新田美波:洲崎
+    綾／日野 茜:赤崎千夏／双葉 杏:五十嵐裕美／前川みく:高森奈津美／三村かな子:大坪由佳／向井拓海:原 優子／森久保乃々:高橋花林／諸星きらり:松嵜 麗<br><br>原作:バンダイナムコエンターテインメント／監督・シリーズ構成:まんきゅう／キャラクターデザイン:高津智子／音響監督:藤田亜紀子／音響制作:ハーフHPスタジオ／音楽:日本コロムビア／アニメーション制作:ギャザリング／製作:しんげき製作委員会<br><br>©BNEI／しんげき<br><br>so36581110←前話　第一話→so36581054
+  length_seconds: 934
+  content_id: so36581111
+  default_thread_id: 1585345811
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581111/36581111.79248806
+cast: "[キャスト]<br>島村卯月:大橋彩香／渋谷 凛:福原綾香／本田未央:原 紗友里／相葉夕美:木村珠莉／アナスタシア:上坂すみれ／緒方智絵里:大空直美／上條春菜:長島光那／神谷奈緒:松井恵理子／神崎蘭子:内田真礼／小早川紗枝:立花理香／小日向美穂:津田美波／佐久間まゆ:牧野由依／佐藤
+  心:花守ゆみり／椎名法子:都丸ちよ／十時愛梨:原田ひとみ／城ヶ崎美嘉:佳村はるか／星 輝子:松田颯水／高垣 楓:早見沙織／高森藍子:金子有希／新田美波:洲崎 綾／日野
+  茜:赤崎千夏／双葉 杏:五十嵐裕美／前川みく:高森奈津美／三村かな子:大坪由佳／向井拓海:原 優子／森久保乃々:高橋花林／諸星きらり:松嵜 麗"
+staff: "[スタッフ]<br>原作:バンダイナムコエンターテインメント／監督・シリーズ構成:まんきゅう／キャラクターデザイン:高津智子／音響監督:藤田亜紀子／音響制作:ハーフHPスタジオ／音楽:日本コロムビア／アニメーション制作:ギャザリング／製作:しんげき製作委員会"
+produced_year: "[製作年]<br>2017年"
+copyright: "©BNEI／しんげき"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　2期
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　3rd SEASON
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　CLIMAX SEASON
+- !ruby/hash:SeasonHash
+  title: アイドルマスター
+- !ruby/hash:SeasonHash
+  title: アイドルマスター XENOGLOSSIA
+- !ruby/hash:SeasonHash
+  title: ぷちます！ -プチ・アイドルマスター-
+- !ruby/hash:SeasonHash
+  title: ぷちます！！ -プチプチ・アイドルマスター-
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ
+- !ruby/hash:SeasonHash
+  title: アイドルマスター SideM
+- !ruby/hash:SeasonHash
+  title: アイドルマスター SideM 理由あってMini！

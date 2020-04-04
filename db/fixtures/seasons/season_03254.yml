@@ -1,0 +1,106 @@
+--- !ruby/hash:SeasonHash
+title: アイドルマスター シンデレラガールズ劇場　CLIMAX SEASON
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/68/4/22684_1_8_8b.png?1553763607000
+outline: 好評配信中のゲーム「アイドルマスター シンデレラガールズ」でおなじみのあのアイドルたちが、今回もまたまたひと騒動を巻き起こす!? アイドルたちの休日のひと時や、アイドル同士が起こすコミカルな会話劇など、普段は見られない彼女たちの素顔や生活を再びお届け！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 大橋彩香
+  type: cast
+- !ruby/hash:TagHash
+  name: 原紗友里
+  type: cast
+- !ruby/hash:TagHash
+  name: 福原綾香
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：バンダイナムコエンターテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：まんきゅう
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ギャザリング
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：高津智子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：日本コロムビア
+  type: staff
+- !ruby/hash:TagHash
+  name: アイドルマスター シンデレラガールズ劇場シリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第40話～第43話
+  title: 屋上の回／春の回／スポーツの回／仕事の回
+  description: 事務所の屋上で繰り広げられる、アイドルたちの日常はいかに…？／春の訪れと共に、アイドルたちにも笑顔の花がたくさん咲きます！／身体はアイドルの基本!?
+    みんなで汗を流しましょう♪／リリイベに漫才に？ アイドルのお仕事は無限大！ 日々、新たな可能性を磨き続けています♪<br><br>島村卯月:大橋彩香／渋谷
+    凛:福原綾香／本田未央:原 紗友里<br><br>原作:バンダイナムコエンターテインメント／監督・脚本:まんきゅう／キャラクターデザイン:高津智子／音楽:日本コロムビア／アニメーション制作:ギャザリング<br><br>©BNEI／しんげき<br><br>次話→so36581735
+  length_seconds: 747
+  content_id: so36581736
+  default_thread_id: 1585359621
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581736/36581736.88242562
+- !ruby/hash:EpisodeHash
+  episode_no: 第44話～第47話
+  title: フットネイルの回／劇場版の回／動物の回／勉強の回
+  description: アイドルたちに流行中のフットネイル、ぜひお試しあれ♪／CINGEKI THEATER PRESENTS “MUNAKATOR”／かわいい動物×かわいいアイドル＝かわいさCLIMAX！／アイドル活動だけでなく、勉強もしっかり頑張っています♪<br><br>島村卯月:大橋彩香／渋谷
+    凛:福原綾香／本田未央:原 紗友里<br><br>原作:バンダイナムコエンターテインメント／監督・脚本:まんきゅう／キャラクターデザイン:高津智子／音楽:日本コロムビア／アニメーション制作:ギャザリング<br><br>©BNEI／しんげき<br><br>so36581736←前話｜次話→so36581734　第一話→so36581736
+  length_seconds: 747
+  content_id: so36581735
+  default_thread_id: 1585359617
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581735/36581735.62787079
+- !ruby/hash:EpisodeHash
+  episode_no: 第48話～第52話
+  title: 雨の回／メイドの回(2)／日常の回／水着の回／いらっしゃいの回
+  description: 雨音にのせて、素直な気持ちを伝えましょう／メイド・イン・しんげきのアイドルたちが個性豊かにおもてなし♪／たまにはこんな日常も…無くてはならない時間です／しんげき恒例の水着回！
+    今回も思いっきりはしゃぎましょう☆／クライマックスを迎えても、新たな仲間と共に、アイドルたちの日常はまだまだ続きます！ GO TO NEXT PRODUCE！<br><br>島村卯月:大橋彩香／渋谷
+    凛:福原綾香／本田未央:原 紗友里<br><br>原作:バンダイナムコエンターテインメント／監督・脚本:まんきゅう／キャラクターデザイン:高津智子／音楽:日本コロムビア／アニメーション制作:ギャザリング<br><br>©BNEI／しんげき<br><br>so36581735←前話　第一話→so36581736
+  length_seconds: 934
+  content_id: so36581734
+  default_thread_id: 1585359607
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581734/36581734.61023786
+cast: "[キャスト]<br>島村卯月:大橋彩香／渋谷 凛:福原綾香／本田未央:原 紗友里"
+staff: "[スタッフ]<br>原作:バンダイナムコエンターテインメント／監督・脚本:まんきゅう／キャラクターデザイン:高津智子／音楽:日本コロムビア／アニメーション制作:ギャザリング"
+produced_year: "[製作年]<br>2019年"
+copyright: "©BNEI／しんげき"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　2期
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　3rd SEASON
+- !ruby/hash:SeasonHash
+  title: アイドルマスター
+- !ruby/hash:SeasonHash
+  title: アイドルマスター XENOGLOSSIA
+- !ruby/hash:SeasonHash
+  title: ぷちます！ -プチ・アイドルマスター-
+- !ruby/hash:SeasonHash
+  title: ぷちます！！ -プチプチ・アイドルマスター-
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ
+- !ruby/hash:SeasonHash
+  title: アイドルマスター SideM
+- !ruby/hash:SeasonHash
+  title: アイドルマスター SideM 理由あってMini！

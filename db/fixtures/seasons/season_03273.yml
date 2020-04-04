@@ -1,0 +1,67 @@
+--- !ruby/hash:SeasonHash
+title: 神之塔 -Tower of God-
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/75/7/23757_1_8_8b.png?1584005438000
+outline: 塔を登れば、全てが手に入る。塔の頂上にはこの世のすべてがあり、この世界を手に入れる……神になれる。これは、ただ星空を見たくて塔を登る少女・ラヘルと、そんな彼女がいれば何もいらない少年・夜の、始まりと終わりの物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 早見沙織
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 三宅健太
+  type: cast
+- !ruby/hash:TagHash
+  name: 大塚芳忠
+  type: cast
+- !ruby/hash:TagHash
+  name: 末柄里恵
+  type: cast
+- !ruby/hash:TagHash
+  name: 本多真梨子
+  type: cast
+- !ruby/hash:TagHash
+  name: 市川太一
+  type: cast
+- !ruby/hash:TagHash
+  name: 関根明良
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：Kevin Penkin
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：佐野隆史
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：SIU
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第一話
+  title: BALL
+  description: 少女は、星が見たいと願った。少年は、彼女と一緒に居たいと願った。全てと引き換えにしてでも、望むものとは何か。生き残る力を持つ者だけが、塔の頂上でそれを手にする。<br><br>夜:市川太一／ラヘル:早見沙織／クン・アゲロ・アグネス:岡本信彦／ラーク・レクインシャー:三宅健太／ユリ・ザハード:本多真梨子／アナク・ザハード:関根良明／エンドロシ・ザハード:末柄里恵／ヘドン:大塚芳忠<br><br>原作:『神之塔』SIU/LINEマンガ／監督:佐野
+    隆史／音楽:Kevin Penkin<br><br>©Tower of God Animation Partners
+  length_seconds: 1510
+  content_id: so36598569
+  default_thread_id: 1585629963
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36598569/36598569.3253291
+cast: "[キャスト]<br>夜:市川太一／ラヘル:早見沙織／クン・アゲロ・アグネス:岡本信彦／ラーク・レクインシャー:三宅健太／ユリ・ザハード:本多真梨子／アナク・ザハード:関根良明／エンドロシ・ザハード:末柄里恵／ヘドン:大塚芳忠"
+staff: "[スタッフ]<br>原作:『神之塔』SIU/LINEマンガ／監督:佐野 隆史／音楽:Kevin Penkin"
+produced_year: "[製作年]<br>2020年"
+copyright: "©Tower of God Animation Partners"
+related_seasons: !ruby/array:Hashie::Array []

@@ -1,0 +1,143 @@
+--- !ruby/hash:SeasonHash
+title: 新世紀GPX　サイバーフォーミュラ11
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/33/3/11333_1_8_8b.png?1551182693000
+outline: 第11回サイバーフォーミュラWGPX開幕！前年度チャンピオンのハヤトは、ライバルのニューマシンやチャンピオンであることのプレッシャーに悩まされる。また、突然復帰を果たしたシューマッハ、新参加クルーのクレアに自分の存在意義を見失うみきと、波乱含みの展開を見せていく。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 飯塚昭三
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 金丸淳一
+  type: cast
+- !ruby/hash:TagHash
+  name: 松岡洋子
+  type: cast
+- !ruby/hash:TagHash
+  name: 安達忍
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大谷幸
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：吉松孝博
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：福田己津央
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：小西真理
+  type: staff
+- !ruby/hash:TagHash
+  name: 新世紀GPXサイバーフォーミュラシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1992年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND1
+  title: 栄光のカーナンバー
+  description: 2年連続チャンピオンだけに贈られる栄冠“11－ダブルワン－”。第11回WGPXに於いて最年少でその栄冠を狙える立場にあったハヤトは、その重圧とニューマシンを投入してきたライバル陣の躍進で、惨憺たる有様に陥ってしまう。復活なるか?!
+    白熱の新章開幕！<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／車田鉄一郎:飯塚昭三／城之内みき:安達　忍／クレア:冬馬由美／新条直輝:縁川　光／ナイト・シューマッハ:速水　奨／カール・リヒター・フォン・ランドル:松岡洋子／ブリード・加賀:　／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・監督:福田己津央／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博（スタジオライブ）／マシンデザイン:河森正治(スタジオぬえ)
+    ／コンセプトデザイン:中沢数宣(レッドカンパニー)／音楽:大谷　幸、小西真理<br><br>©サンライズ<br><br>次話→so36577549
+  length_seconds: 1687
+  content_id: so36577548
+  default_thread_id: 1585296423
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577548/36577548.69868000
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND2
+  title: 復活！超音速の騎士
+  description: 復調したハヤト。スゴウチームも新クルー、クレアを迎え、波乱と躍進の予感が…。しかし突然の復帰を果たしたシューマッハが、サイバーフォーミュラ全ドライバーに対して宣戦布告！
+    狡猾でハードなラフプレーで、ライバルドライバーを翻弄するシューマッハの真意は？<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／車田鉄一郎:飯塚昭三／城之内みき:安達　忍／クレア:冬馬由美／新条直輝:縁川　光／ナイト・シューマッハ:速水　奨／カール・リヒター・フォン・ランドル:松岡洋子／ブリード・加賀:　／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・監督:福田己津央／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博（スタジオライブ）／マシンデザイン:河森正治(スタジオぬえ)
+    ／コンセプトデザイン:中沢数宣(レッドカンパニー)／音楽:大谷　幸、小西真理<br><br>©サンライズ<br><br>so36577548←前話｜次話→so36577550　第一話→so36577548
+  length_seconds: 1621
+  content_id: so36577549
+  default_thread_id: 1585295320
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577549/36577549.97120442
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND3
+  title: 新(ニュー)アスラーダ誕生
+  description: ついに完成したニューアスラダー“AKF-11”。だがハヤトは、テスト走行で思いどおりのタイムを出せず思い悩む。しかし加賀のアドバイスにより、アスラーダのサポートを切り、荒馬のようなマシンに再挑戦したハヤトは、必殺のコーナリングをものにできるか！<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／車田鉄一郎:飯塚昭三／城之内みき:安達　忍／クレア:冬馬由美／新条直輝:縁川　光／ナイト・シューマッハ:速水　奨／カール・リヒター・フォン・ランドル:松岡洋子／ブリード・加賀:　／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・監督:福田己津央／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博（スタジオライブ）／マシンデザイン:河森正治(スタジオぬえ)
+    ／コンセプトデザイン:中沢数宣(レッドカンパニー)／音楽:大谷　幸、小西真理<br><br>©サンライズ<br><br>so36577549←前話｜次話→so36577551　第一話→so36577548
+  length_seconds: 1594
+  content_id: so36577550
+  default_thread_id: 1585295294
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577550/36577550.20454264
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND4
+  title: 全開！イナーシャルドリフト
+  description: スゴウがニューマシンで臨む第6戦。ハヤトはイナーシャルドリフトを駆使し絶好調な予戦スタートを切るが、その一方で、シューマッハとドライバーの対立、居場所を無くしチームを離脱したみきと、周囲のドラマは波乱含み。そして熾烈なる本戦がスタートした！<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／車田鉄一郎:飯塚昭三／城之内みき:安達　忍／クレア:冬馬由美／新条直輝:縁川　光／ナイト・シューマッハ:速水　奨／カール・リヒター・フォン・ランドル:松岡洋子／ブリード・加賀:　／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・監督:福田己津央／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博（スタジオライブ）／マシンデザイン:河森正治(スタジオぬえ)
+    ／コンセプトデザイン:中沢数宣(レッドカンパニー)／音楽:大谷　幸、小西真理<br><br>©サンライズ<br><br>so36577550←前話｜次話→so36577552　第一話→so36577548
+  length_seconds: 1700
+  content_id: so36577551
+  default_thread_id: 1585295316
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577551/36577551.20132541
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND5
+  title: 決戦の朝
+  description: 最終戦を目前に控えたハヤトとあすかは、ようやくシューマッハ参戦の真意を知ることになった。その真意故に、シューマッハを乗り越え、勝利を勝ち取る決意を新たにするハヤト。そして思いを同じくする、全てのドライバーたちの意地をかけた、戦いが始まろうとしている。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／車田鉄一郎:飯塚昭三／城之内みき:安達　忍／クレア:冬馬由美／新条直輝:縁川　光／ナイト・シューマッハ:速水　奨／カール・リヒター・フォン・ランドル:松岡洋子／ブリード・加賀:　／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・監督:福田己津央／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博（スタジオライブ）／マシンデザイン:河森正治(スタジオぬえ)
+    ／コンセプトデザイン:中沢数宣(レッドカンパニー)／音楽:大谷　幸、小西真理<br><br>©サンライズ<br><br>so36577551←前話｜次話→so36577586　第一話→so36577548
+  length_seconds: 1729
+  content_id: so36577552
+  default_thread_id: 1585296425
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577552/36577552.89461783
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND6
+  title: この瞬間よ永遠に…
+  description: スタート直後の接触トラブルに見舞われながら、驚異的な巻き返しをみせるシューマッハとハヤト。しかし、シューマッハの視神経は、最早限界に達しようとしていた…。頂点を目指し、熾烈なバトルを繰り返すドライバーたちに訪れる至高の瞬間。それを征する勝者は誰だ!?<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／車田鉄一郎:飯塚昭三／城之内みき:安達　忍／クレア:冬馬由美／新条直輝:縁川　光／ナイト・シューマッハ:速水　奨／カール・リヒター・フォン・ランドル:松岡洋子／ブリード・加賀:　／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・監督:福田己津央／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博（スタジオライブ）／マシンデザイン:河森正治(スタジオぬえ)
+    ／コンセプトデザイン:中沢数宣(レッドカンパニー)／音楽:大谷　幸、小西真理<br><br>©サンライズ<br><br>so36577552←前話　第一話→so36577548
+  length_seconds: 1716
+  content_id: so36577586
+  default_thread_id: 1585298361
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577586/36577586.8748489
+cast: "[キャスト]<br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／車田鉄一郎:飯塚昭三／城之内みき:安達　忍／クレア:冬馬由美／新条直輝:縁川　光／ナイト・シューマッハ:速水　奨／カール・リヒター・フォン・ランドル:松岡洋子／ブリード・加賀:　／アスラーダ:小野健一"
+staff: "[スタッフ]<br>原作:矢立肇／ストーリー原案・監督:福田己津央／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博（スタジオライブ）／マシンデザイン:河森正治(スタジオぬえ)
+  ／コンセプトデザイン:中沢数宣(レッドカンパニー)／音楽:大谷　幸、小西真理"
+produced_year: "[製作年]<br>1992年"
+copyright: "©サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 新世紀GPXサイバーフォーミュラ
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX サイバーフォーミュラZERO
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX　サイバーフォーミュラSAGA
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX　サイバーフォーミュラSIN

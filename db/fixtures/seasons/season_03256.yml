@@ -1,0 +1,192 @@
+--- !ruby/hash:SeasonHash
+title: 怪～ayakashi～
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/20/3/11203_1_8_8b.png?1552444405000
+outline: 江戸怪奇文学の傑作鶴屋南北の『四谷怪談』、明治の文豪泉鏡花の幻想文学『天守物語』、怪奇日本映画の定番『化猫』。その妖しくも美しく、おぞましくも哀しい世界を、最新のアニメーション技術と本格派クリエーターによる演出で表現。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ホラー/サスペンス/推理
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 櫻井孝宏
+  type: cast
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 平田広明
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：東映アニメーション
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：中村健治
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：今沢哲男
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：永山耕三
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：泉鏡花
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：鶴屋南北
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2000年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2006年
+  type: other
+- !ruby/hash:TagHash
+  name: 2006年冬
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 横手美智子
+  type: other
+- !ruby/hash:TagHash
+  name: 小中千昭
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 東海道四谷怪談 序の幕
+  description: 伊右衛門とお岩は互いに惹かれあいながらも 、お岩の父・四谷左門によって夫婦の仲を引き裂かれていた。だが、どうしても寄りを戻したい伊右衛門は、左門の命を奪ってしまう。それとは知らずに再び伊右衛門と契りを交わしたお岩であったが…。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>次話→so36577170
+  length_seconds: 1379
+  content_id: so36577169
+  default_thread_id: 1585290680
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577169/36577169.40061827
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: 東海道四谷怪談 二幕目
+  description: 産後の肥立ちが悪いお岩にと、 伊藤家のお槙から薬を受け取った伊右衛門であったが、 実はお岩の顔を醜くするための毒薬であった。 そうとは知らずに薬の礼に伊藤家へ出向いた伊右衛門は、
+    そこで孫娘のお梅との縁談を持ちかけられ、 それを受け入れたのだった。 その一方、お岩は毒薬を飲み激しい苦しみに見舞われていた。 美しい顔はみるみると醜く、恐ろしいものへと変貌していった…。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577169←前話｜次話→so36577171　第一話→so36577169
+  length_seconds: 1380
+  content_id: so36577170
+  default_thread_id: 1585290676
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577170/36577170.66978991
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 東海道四谷怪談 三幕目
+  description: お岩の祟りによって次第に追い詰められていく伊右衛門。 だが、お岩の妹であるお袖は未だにお岩の死を知らずにいた…。 そこへ偶然とめぐり会った宅悦によって事実を聞かされ、
+    伊右衛門への仇を胸に誓うのであった。 そのために、直助と本当の夫婦となるべく寝床をともにすることを決意したお袖だったが、 死んだはずのかつての許婚である与茂七が訪ねて来たのだった…。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577170←前話｜次話→so36577172　第一話→so36577169
+  length_seconds: 1380
+  content_id: so36577171
+  default_thread_id: 1585290678
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577171/36577171.60405774
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 東海道四谷怪談 大詰め
+  description: 伊右衛門ばかりでなく、伊右衛門を取り巻く人間たちにもお岩の祟りが広がっていく。 浪人仲間の長兵衛、伊右衛門の母・お熊、伊右衛門の父・源四郎…
+    伊右衛門も、もはや正気を保っていることはできなかった。 そこへ、お袖の代わりに仇討ちをするべく与茂七が現われる。 剣を交える二人の間に突如、猫程の大きさの鼠が伊右衛門に飛び掛かり、
+    その隙をついた与茂七の刀が、伊右衛門の体を貫くのであった。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川 光／男(薬売り):櫻井孝宏<br><br>監督:1～4話
+    今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577171←前話｜次話→so36577173　第一話→so36577169
+  length_seconds: 1379
+  content_id: so36577172
+  default_thread_id: 1585290666
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577172/36577172.15817307
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 天守物語 序の幕
+  description: 人を食らう忘れ神が住むという白鷺城。 ある日、武田播磨守の鷹匠であった姫川図書之助は、 森に迷い込んだ鷹の小次郎を連れ戻すため森に入り、そこでこの世のものとは思えないような美しい娘に出逢うのだった。
+    物の怪の奇々丸・怪々丸にその娘こそが白鷺城の忘れ神であることを知らされたが、富姫と図書之助は互いに惹かれはじめていた・・・<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577172←前話｜次話→so36577174　第一話→so36577169
+  length_seconds: 1380
+  content_id: so36577173
+  default_thread_id: 1585290682
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577173/36577173.85198346
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 天守物語 二幕目
+  description: 小次郎を連れ戻すために再び白鷺城を訪れた図書之助。門の前で出くわした奇々丸と怪々丸たちとともに天守閣へ向かうこととなるが、忘れ神たちの襲撃に成すすべもなく囚われてしまう。そんな図書之助たちは、意外にも富姫の手によって牢屋から助けられる。そして富姫は、｢アグリ｣と呼ぶ鷹の小次郎には、かつて人間に恋をして人里に降り、人として死んでいった母の魂が宿っていることを図書之助に語るのだった…。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577173←前話｜次話→so36577175　第一話→so36577169
+  length_seconds: 1380
+  content_id: so36577174
+  default_thread_id: 1585290688
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577174/36577174.30812105
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 天守物語 三幕目
+  description: 白鷺城を後にし、町に逃げ込んだ図書之助と富姫。 図書之助は富姫に人として一緒に生きようと伝えた矢先、舌長姥が富姫を迎えに来るのだった。
+    一度は人として暮らすことに心が揺れた富姫だが、不死身であるはずの忘れ神・(侍女のひとりである)薄の死をきっかけに図書之助を拒んでしまう。 人里に戻った図書之助は待っていた静と夫婦になり、何事もなく暮らしていた。
+    だが、偶然富姫の髪飾りを見つけてしまった静は鷹の小次郎が白鷺城にいることを播磨守に告げてしまう。 そして、人と忘れ神の戦さがはじまろうとしていた…。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577174←前話｜次話→so36577176　第一話→so36577169
+  length_seconds: 1380
+  content_id: so36577175
+  default_thread_id: 1585290672
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577175/36577175.53208827
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 天守物語 大詰め
+  description: 白鷺城に住まう忘れ神を根絶やしにするために播磨守が挙兵した。図書之助は富姫に戦いをやめるように諭すが富姫は聞き入れない。大軍の勢いにおされ、忘れ神たちは次第に劣勢になっていき、ついに富姫たちは城の天守閣に追い詰められる。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577175←前話｜次話→so36577177　第一話→so36577169
+  length_seconds: 1380
+  content_id: so36577176
+  default_thread_id: 1585290668
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577176/36577176.13443262
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 化猫 序の幕
+  description: ある武家屋敷で行われた婚礼の最中に、花嫁が怪死した。混乱する家中に怪しい薬売りが現れる。薬売りは｢花嫁の死は物の怪の仕業である｣と言う。武家の者たちはその言葉を初めは信じなかったが、薬売りの言葉通りに次々と怪事件は起こっていく・・・。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577176←前話｜次話→so36577178　第一話→so36577169
+  length_seconds: 1375
+  content_id: so36577177
+  default_thread_id: 1585290674
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577177/36577177.3870929
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 化猫 二幕目
+  description: 物の怪の脅威から逃れるため、薬売りが作った結界の中に集められた一同。しかし、閉鎖空間に閉じこめられた緊張と、忍び寄る物の怪に対する恐怖のあまり家の者たちは冷静さを失い、いがみ合いを始める。そして、物の怪が真の姿を現し襲いかかる。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577177←前話｜次話→so36577205　第一話→so36577169
+  length_seconds: 1375
+  content_id: so36577178
+  default_thread_id: 1585290690
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577178/36577178.54181221
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 化猫 大詰め
+  description: 真の姿を現し、次々と家人を殺める化猫。化猫を斬る為に、化け猫が化け猫となった因縁を解き明かそうとする薬売り。過去の因縁を紐解く内に、一人の少女と武家屋敷の者たちの奇怪な人間関係が明らかになっていく。悲劇の根源は意外な人物の欲望にあった。<br><br>民谷伊右衛門:平田広明／姫川図書之助:緑川
+    光／男(薬売り):櫻井孝宏<br><br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+    原作：鶴屋南北、5～8話  原作：泉鏡花<br><br>(C) 怪～ayakashi～製作委員会<br><br>so36577178←前話　第一話→so36577169
+  length_seconds: 1375
+  content_id: so36577205
+  default_thread_id: 1585291203
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577205/36577205.40726574
+cast: "[キャスト]<br>民谷伊右衛門:平田広明／姫川図書之助:緑川 光／男(薬売り):櫻井孝宏"
+staff: "[スタッフ]<br>監督:1～4話 今沢哲男、5～8話 永山耕三、9～11話 中村健治／シナリオ(シリーズ構成):小中千昭、坂元裕二、横手美智子／スタジオ:東映アニメーション／原作:1～4話
+  原作：鶴屋南北、5～8話 原作：泉鏡花"
+produced_year: "[製作年]<br>2006年"
+copyright: "(C) 怪～ayakashi～製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

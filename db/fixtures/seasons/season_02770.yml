@@ -128,12 +128,22 @@ episodes: !ruby/array:Hashie::Array
   episode_no: "#8"
   title: のんびりしていてよいのでしょうか
   description: Afterglowが、いつも通りの放課後を過ごしていると、突然、つぐみのスマホが鳴る。「えっ、長老さん達が！？！」<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
-    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36526430←前話　第一話→so36290393
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36526430←前話｜次話→so36598572　第一話→so36290393
   length_seconds: 1420
   content_id: so36562476
   default_thread_id: 1585019465
   channel_id: 2632720
   thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36562476/36562476.59712935
+- !ruby/hash:EpisodeHash
+  episode_no: "#9"
+  title: いくぞポピパ
+  description: 3weeksライブに励み、ポピブイの再生回数も増え、順調なPoppin'Party。もっと大きな会場でライブしようという声を聞きつけ、マスキングが声をかけて来る。<br><br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか<br><br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村
+    航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ<br><br>©BanG Dream! Project<br><br>so36562476←前話　第一話→so36290393
+  length_seconds: 1420
+  content_id: so36598572
+  default_thread_id: 1585629783
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36598572/36598572.37573726
 cast: "[キャスト]<br>戸山香澄:愛美／花園たえ:大塚紗英／牛込りみ:西本りみ／山吹沙綾:大橋彩香／市ヶ谷有咲:伊藤彩沙／美竹蘭:佐倉綾音／丸山彩:前島亜美／湊友希那:相羽あいな／弦巻こころ:伊藤美来　ほか"
 staff: "[スタッフ]<br>原作:ブシロード／製作総指揮:木谷高明／ストーリー原案:中村 航／監督:柿本広大／シリーズ構成・脚本:綾奈ゆにこ"
 produced_year: "[製作年]<br>2019年"

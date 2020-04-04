@@ -1,0 +1,159 @@
+--- !ruby/hash:SeasonHash
+title: 今宵、アフレコブースで。
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/22/73/3/22733_1_8_8b.png?1554174007000
+outline: とあるアフレコブースにやってきた声優・津田健次郎。しかし、事前に何も聞かされておらず、様子がおかしい。同様に呼び出された高木渉、内田雄馬も不安げな表情。そんな３人の前にいかにも怪しいディレクターのコッシー（演：岩井勇気）が現れ、「斬新な企業CMのナレーション収録をしたい」と切り出すが、それは大混乱の始まりだった…！CM収録やサンプルボイス収録、乙女ゲームやソーシャルゲームなど様々な題材を舞台に声優陣が次々と翻弄されていく！井上和彦、大河元気、岡本信彦、下野紘、堀内賢雄らゲストも続々と登場。そして…天の声を務める浪川大輔には、ある秘密が…？アフレコブースを舞台に繰り広げられるノンストップシチュエーションコメディが幕を開ける！
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ライブ/ラジオ/etc.
+  type: genre
+- !ruby/hash:TagHash
+  name: ショート
+  type: genre
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 下野紘
+  type: cast
+- !ruby/hash:TagHash
+  name: 井上和彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 岡本信彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田健次郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 高木渉
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀内賢雄
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 大河元気
+  type: cast
+- !ruby/hash:TagHash
+  name: 岩井勇気
+  type: cast
+- !ruby/hash:TagHash
+  name: 演出：岡宗秀吾
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 混乱のアフレコブースへようこそ
+  description: とあるアフレコブースにやってきた声優・津田健次郎。しかし、事前に何も聞かされておらず、様子がおかしい。同様に呼び出された高木渉、内田雄馬も不安げな表情。そんな３人の前にいかにも怪しいディレクターのコッシー（演：岩井勇気）が現れ、「斬新な企業CMのナレーション収録をしたい」と切り出すが、それは大混乱の始まりだった…！アフレコブースを舞台に繰り広げられるノンストップシチュエーションコメディの第1話！<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>次話→so36557887
+  length_seconds: 900
+  content_id: so36558157
+  default_thread_id: 1584938225
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36558157/36558157.97429831
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ソーシャルゲームをぶちかませ
+  description: 前回の収録では、ディレクターのコッシーによって散々な目に遭った津田健次郎、内田雄馬、高木渉ら。大河元気の緊急参加によって難を逃れたが、今回もアフレコブースには嫌な予感が漂っていた…。再び現れたコッシーは「新感覚のソーシャルゲームに登場するキャラクターボイスを収録したい」と依頼を持ちかける。しかし登場するゲームは「れじぇんどスターズ！」や「銅像乱舞」など危険なニオイのするタイトルばかりで…？<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36558157←前話｜次話→so36557886　第一話→so36558157
+  length_seconds: 895
+  content_id: so36557887
+  default_thread_id: 1584932837
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557887/36557887.48366917
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 海外セレブと王子とサンプルボイス
+  description: アフレコブースで収録開始を待つ津田健次郎。そこへ下野紘と岡本信彦がやってくる。この日行われるのはボイスサンプルの収録だ。ディレクターのコッシーによるとそれぞれの事務所から「仕事の幅を広げるために新しいキャラクターの可能性を見出したい」のだという。渋々、取り組むことになった一同だったが「ホラーテイスト」「叫び声」、さらには「変なおじさん」とハチャメチャなサンプルボイス収録が待っていた！<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557887←前話｜次話→so36557885　第一話→so36558157
+  length_seconds: 900
+  content_id: so36557886
+  default_thread_id: 1584932828
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557886/36557886.77474693
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 禁じられた恋
+  description: 前回のセレブ姿と王子姿から一転。“いつも”の格好に戻った下野紘と岡本信彦を迎えて行う収録は「乙女ゲーム」。今回のクライアントはコッシー。自ら考案したゲームのキャラクターの声を3人にお願いしたいと頼み込む。コンセプトは「絶対に恋愛に発展しないキャラクターとの恋」。アクションモノ、歴史モノと聞くとお馴染みの設定のような気もするが、いざ収録に臨んでみると、強烈キャラクターのオンパレードだった。<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557886←前話｜次話→so36557884　第一話→so36558157
+  length_seconds: 900
+  content_id: so36557885
+  default_thread_id: 1584932652
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557885/36557885.3858846
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 大脱出
+  description: コッシーがアフレコブースに＜音声認証セキュリティ＞を導入した。設定した合言葉を言うと扉のロックが解除されるシステムだという。ところが「合言葉を忘れてしまった」と言い放つコッシー。津田健次郎、下野紘、岡本信彦の3名はアフレコブースに閉じ込められてしまった…。警備員が来るのは2日後。携帯電話はブースの外。飲み物すら無い危機的状況のアフレコブースから無事に脱出することはできるのか！？<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557885←前話｜次話→so36557883　第一話→so36558157
+  length_seconds: 900
+  content_id: so36557884
+  default_thread_id: 1584932824
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557884/36557884.85913039
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 地方を狙って録れ！
+  description: 前回、見事アフレコブースからの脱出に成功した津田健次郎、下野紘、岡本信彦の3名のもとにコッシーがやってくる。今回の仕事は、以前収録した「新感覚の地方CM」の第2弾だという。「断ったらどうするんですか？」と尋ねる声優陣を「違約金は3億円だ！」と脅し、無理やり参加させていくコッシー。順調に収録が進んでいると思った矢先、以前のクライアントから「CMが炎上した」とクレームの電話がかかってきて…？<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557884←前話｜次話→so36557882　第一話→so36558157
+  length_seconds: 900
+  content_id: so36557883
+  default_thread_id: 1584932645
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557883/36557883.90724451
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: アフレコブースであるあるを
+  description: アフレコ前に、浪川大輔と電話で話す津田健次郎。しかし、電話を切った矢先、不思議な出来事が起こる…。この奇妙な現象の真相を確かめるべくアフレコブースに飛び込んだ津田だったが、そこで待ち受けていたのは大ベテランの声優・井上和彦と堀内賢雄の二人だった。やがてコッシーが登場し「声優あるあるの本を出版したいので、皆さんにあるあるを教えて欲しい」と急な相談を持ちかける。果たして大御所二人の反応は…？<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557883←前話｜次話→so36557881　第一話→so36558157
+  length_seconds: 900
+  content_id: so36557882
+  default_thread_id: 1584932649
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557882/36557882.71699602
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: ふたりは先輩
+  description: どこからか浪川大輔の声が聞こえる…津田健次郎は不思議な現象に悩まされていた。そんな津田の様子に、声優界の大先輩である井上和彦と堀内賢雄もやや困惑している模様。この日はコッシーが「斬新な企業CM第3弾のナレーション収録をしたい」と持ちかける。この仕事のヤバさを力説し、参加を止めようとする津田の懸命な努力もむなしく収録はスタート。しかし、なぜかベテラン二人はノリノリで…！？<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557882←前話｜次話→so36557880　第一話→so36558157
+  length_seconds: 825
+  content_id: so36557881
+  default_thread_id: 1584933074
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557881/36557881.24204529
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 一人の怒れる男
+  description: 遂にスタジオに姿を現した、声優・浪川大輔！どこからこのアフレコブースを見ていたのか？どうやってスタジオにやってきたのか？謎を残しつつ、今宵もアフレコがスタートする。浪川のラッパー風ボイスサンプルをテンポ良く収録していくコッシー。続いて挑むのは、ハリウッドの大作アニメーションの予告編収録。しかし、この収録をきっかけに、津田健次郎のコッシーに対する不信感が一気に爆発してしまい、事態は急変する。<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557881←前話｜次話→so36557863　第一話→so36558157
+  length_seconds: 900
+  content_id: so36557880
+  default_thread_id: 1584932835
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557880/36557880.84439457
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 最後のアフレコ
+  description: "「今宵、アフレコブースで。」が遂に最終回を迎える。アフレコブースを舞台に繰り広げられたこれまでのムチャブリの奇妙な事件の数々は一体何だったのか？津田健次郎と浪川大輔による新ユニット・超電導dB（デシベルズ）は一体どのように番組に関係しているのか？“9月のアレ”とは果たして何だったのか？そして二人はアフレコブースを飛び出し…。番組に仕掛けられた全ての謎が、明らかになる。<br><br>出演:津田
+    健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）<br><br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP<br><br>©「今宵、アフレコブースで。」製作委員会<br><br>so36557880←前話　第一話→so36558157"
+  length_seconds: 875
+  content_id: so36557863
+  default_thread_id: 1584932643
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36557863/36557863.40986224
+cast: "[キャスト]<br>出演:津田 健次郎　浪川大輔（※声の出演）　井上和彦　内田雄馬　大河元気　岡本信彦　下野 紘　高木 渉　堀内賢雄　岩井勇気（ハライチ）"
+staff: "[スタッフ]<br>演出:岡宗秀吾／構成:鮫肌文殊、田中淳也、水野守啓／制作:NEXTEP"
+produced_year: "[製作年]<br>2019年"
+copyright: "©「今宵、アフレコブースで。」製作委員会"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: "「SHOW MUST GO ON」（9月21日 夜・大阪公演）"

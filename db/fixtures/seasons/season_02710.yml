@@ -68,3 +68,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: STAGE FES 2017
 - !ruby/hash:SeasonHash
   title: STAGE FES 2018
+- !ruby/hash:SeasonHash
+  title: 舞台「おそ松さん on STAGE～SIX MEN'S SHOW TIME 3～」

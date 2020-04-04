@@ -1,0 +1,91 @@
+--- !ruby/hash:SeasonHash
+title: かくしごと
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/65/5/23655_1_8_8b.png?1583128877000
+outline: ちょっと下品な漫画を描いてる漫画家の後藤可久士。一人娘の小学4年生の姫。可久士は、何においても、愛娘・姫が最優先。親バカ・可久士が娘・姫に知られたくないこと。それは……自分の仕事が『漫画家』であること。自分の“かくしごと”が知られたら娘に嫌われるのでは！？“愛と笑い、ちょっと感動のファミリー劇場がはじまる――”
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: コメディ/ギャグ
+  type: genre
+- !ruby/hash:TagHash
+  name: 浪川大輔
+  type: cast
+- !ruby/hash:TagHash
+  name: 神谷浩史
+  type: cast
+- !ruby/hash:TagHash
+  name: 佐倉綾音
+  type: cast
+- !ruby/hash:TagHash
+  name: 加藤英美里
+  type: cast
+- !ruby/hash:TagHash
+  name: 小山力也
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田真礼
+  type: cast
+- !ruby/hash:TagHash
+  name: 花江夏樹
+  type: cast
+- !ruby/hash:TagHash
+  name: 村瀬歩
+  type: cast
+- !ruby/hash:TagHash
+  name: 沼倉愛美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小澤亜李
+  type: cast
+- !ruby/hash:TagHash
+  name: 原由実
+  type: cast
+- !ruby/hash:TagHash
+  name: 高橋李依
+  type: cast
+- !ruby/hash:TagHash
+  name: 音楽：橋本由香利
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：亜細亜堂
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽制作：エイベックス・ピクチャーズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：久米田康治
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：村野佑太
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：山本周平
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2020年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2020年
+  type: other
+- !ruby/hash:TagHash
+  name: 2020年春
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: "「かくしごと」「ねがいごと」"
+  description: ちょっと下品な漫画を連載中の後藤可久士は、娘の後藤姫にバレるのを恐れ、「漫画家であること」を隠し続けていた。ある日、連載する「週刊少年マンガジン」の新しい担当編集者・十丸院五月から打ち合わせの連絡が入る。しかし、一向に十丸院は仕事場にあらわれない。なんと十丸院は間違えて自宅へ訪問していたのだった!?「姫が留守番している家に編集者が来たら、漫画家だとバレてしまう！」と、可久士は自宅めがけて飛び出していく。<br><br>後藤可久士:神谷浩史／後藤
+    姫:高橋李依／十丸院五月:花江夏樹／志治 仰:八代 拓／墨田羅砂:安野希世乃／筧 亜美:佐倉綾音／芥子 駆:村瀬 歩／六條一子:内田真礼／ナディラ:加藤英美里／マリオ:浪川大輔／古武シルビア:小澤亜李／東御ひな:本渡
+    楓／橘地莉子:和氣あず未／千田奈留:逢田梨香子／汐越 羊:古城門志帆／城路久美:原 由実／大和力郎:小山力也／内木理佐:沼倉愛美<br><br>原作:久米田康治（講談社「月刊少年マガジン」連載）／監督:村野佑太／シリーズ構成・脚本:あおしまたかし／キャラクターデザイン:山本周平／総作画監督:西岡夕樹、遠藤江美子、山本周平／プロップデザイン:ヒラタリョウ／美術監督:本田光平／美術設定:岩澤美翠／美術:草薙／色彩設計:のぼりはるこ／撮影監督:佐藤哲平／撮影:旭プロダクション白石スタジオ／編集:白石あかね／音楽:橋本由香利／音響監督:納谷僚介／音響制作:スタジオマウス／音楽制作:エイベックス・ピクチャーズ／アニメーション制作:亜細亜堂／製作:かくしごと製作委員会<br><br>©久米田康治・講談社／かくしごと製作委員会
+  length_seconds: 1420
+  content_id: so36603805
+  default_thread_id: 1585711923
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36603805/36603805.63561609
+cast: "[キャスト]<br>後藤可久士:神谷浩史／後藤 姫:高橋李依／十丸院五月:花江夏樹／志治 仰:八代 拓／墨田羅砂:安野希世乃／筧 亜美:佐倉綾音／芥子
+  駆:村瀬 歩／六條一子:内田真礼／ナディラ:加藤英美里／マリオ:浪川大輔／古武シルビア:小澤亜李／東御ひな:本渡 楓／橘地莉子:和氣あず未／千田奈留:逢田梨香子／汐越
+  羊:古城門志帆／城路久美:原 由実／大和力郎:小山力也／内木理佐:沼倉愛美"
+staff: "[スタッフ]<br>原作:久米田康治（講談社「月刊少年マガジン」連載）／監督:村野佑太／シリーズ構成・脚本:あおしまたかし／キャラクターデザイン:山本周平／総作画監督:西岡夕樹、遠藤江美子、山本周平／プロップデザイン:ヒラタリョウ／美術監督:本田光平／美術設定:岩澤美翠／美術:草薙／色彩設計:のぼりはるこ／撮影監督:佐藤哲平／撮影:旭プロダクション白石スタジオ／編集:白石あかね／音楽:橋本由香利／音響監督:納谷僚介／音響制作:スタジオマウス／音楽制作:エイベックス・ピクチャーズ／アニメーション制作:亜細亜堂／製作:かくしごと製作委員会"
+produced_year: "[製作年]<br>2020年"
+copyright: "©久米田康治・講談社／かくしごと製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

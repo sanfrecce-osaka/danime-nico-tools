@@ -1,0 +1,162 @@
+--- !ruby/hash:SeasonHash
+title: フラクタル
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/20/0/11200_1_8_8b.png?1552447521000
+outline: 世界を管理する“フラクタルシステム”が完成し、人類は史上初めて、もはや働かなくても生きていくことができる圧倒的な楽園に足を踏み入れた。それから千年-システムはいまだに生き残り稼働し続けていたが、もはや誰もそのシステムを解析できなかった。多くの人々が、その維持こそが、人類の幸せの条件だと信じて疑っていなかった。
+  物語は、そんな｢フラクタル｣が崩壊し始めた、ある大陸の片隅の島で始まる―漫然と日々を生きる少年・クレインは、ある日何者かに追われ崖の下に転落した少女・フリュネを助ける。少女との出会いに心躍らせるクレイン。だが、フリュネはブローチを残しクレインの前から姿を消した。ブローチに残されたデータには、少女の姿をしたアバター、ネッサが閉じ込められていた。ネッサとともにフリュネを探し旅にでるクレイン。そこで彼は“システム”の秘密を知ることになる―
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: 恋愛/ラブコメ
+  type: genre
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 小林ゆう
+  type: cast
+- !ruby/hash:TagHash
+  name: 津田美波
+  type: cast
+- !ruby/hash:TagHash
+  name: アニメーション制作：A-1 Pictures
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：山本寛
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：マンデルブロ・エンジン
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2011年
+  type: other
+- !ruby/hash:TagHash
+  name: 2011年冬
+  type: other
+- !ruby/hash:TagHash
+  name: ノイタミナ
+  type: other
+- !ruby/hash:TagHash
+  name: 岡田麿里
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 出会い
+  description: フラクタルシステムがかつての勢いを失ってから千年。人々はその恩恵による究極の個人主義的生活を送っていた。主人公クレインはそんな世界に生きる14歳の少年。古い機械の収集や解析が趣味で、第二の自分・通称｢ドッペル｣を持たないちょっと変だけど、ごく普通の男の子。ある日クレインは謎の飛行船に追われる一人の少女を助ける。シスター服を着たその少女はフリュネと名乗った。初めて触れ合う生身のニンゲン、女の子―、彼女との出会いがクレインの日常を変えてゆく。<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>次話→so36577159
+  length_seconds: 1380
+  content_id: so36577158
+  default_thread_id: 1585291329
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577158/36577158.90146795
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: ネッサ
+  description: どーーーん!フリュネが残したブローチから出てきたのは幼い女の子ドッペル・ネッサだった。普通のドッペルとは違う触れるドッペルに戸惑うクレイン。一方天真爛漫・無邪気なネッサは行く先々で問題を起こしてしまい…。初めて他人に振り回されるわずらわしさに苛立つクレインはネッサを｢忘れ物｣としてセキュリティに預けてしまう。クレインを自分の居場所だと言ったネッサは一体どうなってしまうのか…!?<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577158←前話｜次話→so36577160　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577159
+  default_thread_id: 1585290684
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577159/36577159.26482272
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: グラニッツの村
+  description: フリュネを追っていたエンリにネッサと共に捕らわれてしまったクレイン!連れてこられたのはフラクタルシステムに頼らない生活を送るロストミレニアムの人々が住むグラニッツ村だった―。旧時代のものがあふれるその村にビンテージ好きなクレインは興味津々、好奇心を抑えきれない。自分が今まで知らなかった世界がクレインの前に広がってゆく。リーダーのスンダはどうやらクレインがフリュネの行方を知っていると考えているよう。そんな中スンダ達はフラクタルシステムに大きく関係のある｢星祭り｣襲撃を企てていて…。<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577159←前話｜次話→so36577161　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577160
+  default_thread_id: 1585291323
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577160/36577160.88401800
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: 出発
+  description: 星祭り会場に突然現れたフリュネ。スンダは襲撃を諦め、｢世界の鍵｣・フリュネを僧院側から誘拐する。それにより僧院から指名手配されてしまったグラニッツ一家は、フリュネを連れて村から離れる決断をする。フリュネとの再会を喜ぶクレイン。もともとはフリュネの物だとネッサを返そうとするがフリュネはそれを拒絶してしまう。自分は嫌われているから……と。そんなクレインに腹を立てるネッサ。フリュネの事が気になるクレインはネッサよりもフリュネを優先してしまって……。<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577160←前話｜次話→so36577162　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577161
+  default_thread_id: 1585291147
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577161/36577161.33702044
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 旅路
+  description: グラニッツ一家と共にダナンに乗る事になったクレインとフリュネ。フリュネは人質としてだが、付録扱いのクレインにはイマイチ居場所がない。ただ乗りするわけにもいかず、艦の手伝いをするクレインだが初めての肉体労働に戸惑うばかり。興味のあるヴィンテージの機械にも触らせてもらえないし、気配はあるものの姿を現さないネッサやはっきりしないフリュネにもやもやするクレイン。そんな中ダナンに異常事態発生!?<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577161←前話｜次話→so36577163　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577162
+  default_thread_id: 1585290686
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577162/36577162.35003906
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 最果ての町
+  description: ぎこちなくもネッサと分かり合えたフリュネ。クレインも大爺になんとか認められ、ダナンに触ることが許された。そんな中ダナンのメンテナンスの為立ち寄った場所は、バルーンが落ちフラクタルの加護を失った圏外難民たちがさまよう土地だった。フラクタルシステムの現状を目の当たりにしたクレインは、ヴィンテージカメラを持った怪しげな男と知り合う。友達になりたいというクレインに男は｢とっておきの物｣を見せてやると言い―<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577162←前話｜次話→so36577164　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577163
+  default_thread_id: 1585290845
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577163/36577163.74953244
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 虚飾の街
+  description: 水探しの途中ではぐれてしまったクレインとネッサ。ミーガンというドッペルに助けられたクレインは完全都市｢ザナドゥ｣へとやってくる。ザナドゥはフラクタルシステムがまだ完全に機能している街。そこでクレインは何者かから妨害を受け高熱にうなされるネッサを発見する。エンリ達はゲイルという人物に出会いクレイン達を探してもらうが……。<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577163←前話｜次話→so36577165　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577164
+  default_thread_id: 1585291331
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577164/36577164.51498602
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 地下の秘密
+  description: バローに捕らわれてしまったクレインとフリュネ。重傷を負ったクレインを人質に取られ、フリュネはバローの仕打ちに耐えるしかない状況に。一方クレインはネッサと同じ容姿の女の子に出会う。フリュネの居場所を尋ねるが、彼女は自分の名前もフリュネだと言いなんだか会話がかみ合わない。そんな中クレインは自分が捕らわれた施設の全貌を知ることになる。<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577164←前話｜次話→so36577166　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577165
+  default_thread_id: 1585290903
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577165/36577165.77559453
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: 追いつめられて
+  description: 地下施設からなんとか生還したクレインとフリュネはグラニッツのメンバーと合流する。フリュネとネッサの秘密……そして｢鍵｣の秘密をを知るクレイン。フリュネもネッサも自分にとって大切な人だとクレインは二人を守る決意を固める。そんな中ロスミレ派の村が僧院により次々に攻撃されグラニッツの村も襲撃されてしまう。ロスミレ派はこれを機に僧院に総攻撃をかける事に。スンダはフリュネとネッサを守るようにとクレインに言うが……。<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577165←前話｜次話→so36577167　第一話→so36577158
+  length_seconds: 1379
+  content_id: so36577166
+  default_thread_id: 1585291565
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577166/36577166.25292735
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: 僧院へ
+  description: ついにロスミレ派と僧院の全面戦争が始まってしまった。僧院を急襲するロスミレ艦隊、応戦する僧院、そのさなかに、飛行船に乗ったクレインとネッサがやってきて、グラニッツと合流する事に……!?<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577166←前話｜次話→so36577168　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577167
+  default_thread_id: 1585290843
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577167/36577167.96438944
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 楽園
+  description: フラクタル・システムを巡った激しい攻防。システムの再起動を強行するモーラン、阻止しようとするディアス、混乱の渦に巻き込まれたクレインは、ある重大な選択を託される……。<br><br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)<br><br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1
+    Pictures／原作:マンデルブロ・エンジン<br><br>（C)フラクタル製作委員会<br><br>so36577167←前話　第一話→so36577158
+  length_seconds: 1380
+  content_id: so36577168
+  default_thread_id: 1585291143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577168/36577168.17269429
+cast: "[キャスト]<br>キャスト:クレイン(CV：小林ゆう)、フリュネ(CV：津田美波)"
+staff: "[スタッフ]<br>監督:山本寛／シナリオ(シリーズ構成):岡田麿里／スタジオ:A-1 Pictures／原作:マンデルブロ・エンジン"
+produced_year: "[製作年]<br>2011年"
+copyright: "（C)フラクタル製作委員会"
+related_seasons: !ruby/array:Hashie::Array []

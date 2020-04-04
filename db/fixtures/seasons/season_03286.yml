@@ -1,0 +1,164 @@
+--- !ruby/hash:SeasonHash
+title: 新世紀GPX　サイバーフォーミュラSAGA
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/58/0/11580_1_8_8b.png?1551346891000
+outline: アオイの新オーナーに就任した名雲がもたらしたニューマシン「アルザード」が15回大会を席巻する。ガーランドで挑んだハヤトはまともな勝負すらできず自暴自棄に陥るが、新生「νアスラーダ」でアルザードに立ち向かう。だがアルザードには、非人道的な秘密とアスラーダとの因縁が隠されていたのであった。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 天野由梨
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 池田秀一
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 金丸淳一
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：佐橋俊彦
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：久行宏和
+  type: staff
+- !ruby/hash:TagHash
+  name: 新世紀GPXサイバーフォーミュラシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1996年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND1
+  title: NO TITLE
+  description: 第14回WGPX最終戦、自分の指示にアスラーダが異を唱えたことをきっかけに、ハヤトは第16回大会では、自分の意思だけで操作できるガーランドをニューマシンとして使いたいと修に打ち明ける。機会と人間、それぞれの在り方とその関係を問う新章のスタートだ！<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>次話→so36577943
+  length_seconds: 1704
+  content_id: so36577793
+  default_thread_id: 1585298765
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577793/36577793.52636389
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND2
+  title: FIRED！
+  description: 葵今日子が突然オーナーから解任された！後任は、謎のニューマシン“アルザード”とそのドライバー、フィルを連れた、何処か得体の知れない男、南雲京志郎。しかし、そのニューマシンの驚異の走りは、今日子のみならず、新条の、そして加賀の運命をも変えていく…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>so36577793←前話｜次話→so36577944　第一話→so36577793
+  length_seconds: 1747
+  content_id: so36577943
+  default_thread_id: 1585300143
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577943/36577943.61082511
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND3
+  title: CRITICAL DAYS
+  description: 第15回WGPX開幕。快進撃を続けるアルザードに対し、ガーランドで参戦したハヤトは思い通りの成績をあげられず、深刻なスランプに陥っていた。途中でレースを投げ出し、強いマシンを求め荒れるハヤトに、あすかの慰めも届かない。一方その頃、フィルの運転に異常の兆が…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>so36577943←前話｜次話→so36577945　第一話→so36577793
+  length_seconds: 1730
+  content_id: so36577944
+  default_thread_id: 1585300503
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577944/36577944.96264345
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND4
+  title: EVENING CALM
+  description: 力強い走りで、観客を沸かせるストックカー・レーサー。彼こそ、アオイを去りアメリカで自分との戦いをはじめた新条直樹その人だった。新条と久しぶりの再会を果たしたハヤトは、「走るのは俺だから」と気負うことなく語る新条の言葉に、我が身の不明に気づかされ…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>so36577944←前話｜次話→so36577946　第一話→so36577793
+  length_seconds: 1728
+  content_id: so36577945
+  default_thread_id: 1585300083
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577945/36577945.85918126
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND5
+  title: BURNING!!
+  description: アルザードの完璧な走りは、人間をマシンが操ることによって実現されたもの？それでいいのか？αニューロによりボロボロになりつつあるフィルに、ハヤトは問いかける。そしてマシンと人間のあり方について、自身も考えさせられたハヤトは、修に重大な頼みごとを持ちかけて…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>so36577945←前話｜次話→so36577948　第一話→so36577793
+  length_seconds: 1742
+  content_id: so36577946
+  default_thread_id: 1585300148
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577946/36577946.40826043
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND6
+  title: LIFTING TURN
+  description: 新生“νアスラーダ”と深い信頼で結ばれたハヤトは、超加速を実現するスパイラルブーストや、新たに生み出したリフティングターンを武器に大躍進。シューマッハ以来の伝統に則り、ユニオンから復活した新条も加えレース後半戦はますますヒートアップして行くが…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>so36577946←前話｜次話→so36577949　第一話→so36577793
+  length_seconds: 1710
+  content_id: so36577948
+  default_thread_id: 1585299791
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577948/36577948.66139413
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND7
+  title: LOSE HIS WAY
+  description: 優勝されることを恐れた南雲の手で、拉致されてしまったハヤト。その計画を偶然耳にしていたフィルは、前夜に投げかけられて以来、心の中に響きわたり続けるハヤトの声に応えるかのように、知る限りの事実を加賀に伝えると、自らもハヤトの捜索に加わっていくが…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>so36577948←前話｜次話→so36577950　第一話→so36577793
+  length_seconds: 1637
+  content_id: so36577949
+  default_thread_id: 1585299785
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577949/36577949.87078606
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND8
+  title: NEVER
+  description: 薬物により右腕が動かないため、あすかのスカーフでハンドルに固定してまで決勝レースを続けるハヤト。いびつな設計思想の兄弟マシンに、アスラーダで決着をつけるためだ。だが南雲の指示をインプットされたアルザードに、フィルの意思無視の体当たりを仕掛けられ絶体絶命！<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生
+    修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵 今日子:天野由梨／アスラーダ:小野健一<br><br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+    ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦<br><br>©サンライズ<br><br>so36577949←前話　第一話→so36577793
+  length_seconds: 1723
+  content_id: so36577950
+  default_thread_id: 1585300150
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577950/36577950.25581252
+cast: "[キャスト]<br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／菅生 修:遠水 奨／クレア:冬馬由美／ブリード・加賀:関俊彦／新条直輝:縁川 光／名雲京志郎:池田秀一／葵
+  今日子:天野由梨／アスラーダ:小野健一"
+staff: "[スタッフ]<br>原作:矢立肇／ストーリー原案・総監督:福田己津央／脚本:両澤千晶／キャラクター原案:いのまたむつみ／キャラクターデザイン・総作画監督:久行宏和(中村プロダクション)
+  ／マシンデザイン:河森正治(スタジオぬえ) ／デザイン協カ:吉松孝博(スタジオライブ)、中沢数宣／音楽:佐橋俊彦"
+produced_year: "[製作年]<br>1996年"
+copyright: "©サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 新世紀GPXサイバーフォーミュラ
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX　サイバーフォーミュラ11
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX サイバーフォーミュラZERO
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX　サイバーフォーミュラSIN

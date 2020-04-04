@@ -121,4 +121,8 @@ staff: "[スタッフ]<br>原作:『A3!（エースリー）』(リベル・エ�
   3Hz"
 produced_year: "[製作年]<br>2020年"
 copyright: "©A3! ANIMATION PROJECT"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: MANKAI STAGE『A3!』～SPRING & SUMMER 2018～
+- !ruby/hash:SeasonHash
+  title: MANKAI STAGE『A3!』～AUTUMN & WINTER 2019～

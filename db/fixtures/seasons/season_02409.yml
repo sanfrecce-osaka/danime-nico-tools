@@ -32,10 +32,10 @@ tags: !ruby/array:Hashie::Array
   name: 関智一
   type: cast
 - !ruby/hash:TagHash
-  name: 坂本真綾
+  name: 小林ゆう
   type: cast
 - !ruby/hash:TagHash
-  name: 小林ゆう
+  name: 坂本真綾
   type: cast
 - !ruby/hash:TagHash
   name: 島﨑信長
@@ -47,7 +47,7 @@ tags: !ruby/array:Hashie::Array
   name: 内山夕実
   type: cast
 - !ruby/hash:TagHash
-  name: 稲田徹
+  name: 浅川悠
   type: cast
 - !ruby/hash:TagHash
   name: 原作：TYPE-MOON
@@ -59,10 +59,10 @@ tags: !ruby/array:Hashie::Array
   name: 原作：奈須きのこ
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：川﨑龍
+  name: アニメーション制作：CloverWorks
   type: staff
 - !ruby/hash:TagHash
-  name: アニメーション制作：CloverWorks
+  name: 音楽：川﨑龍
   type: staff
 - !ruby/hash:TagHash
   name: 監督：赤井俊文
@@ -325,3 +325,5 @@ related_seasons: !ruby/array:Hashie::Array
   title: 劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い
 - !ruby/hash:SeasonHash
   title: 衛宮さんちの今日のごはん
+- !ruby/hash:SeasonHash
+  title: ロード・エルメロイⅡ世の事件簿　-魔眼蒐集列車 Grace note-

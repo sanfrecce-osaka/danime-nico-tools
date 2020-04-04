@@ -50,10 +50,10 @@ tags: !ruby/array:Hashie::Array
   name: アニメーション制作：studioぴえろ
   type: staff
 - !ruby/hash:TagHash
-  name: 監督：吉原達矢
+  name: 音楽：関美奈子
   type: staff
 - !ruby/hash:TagHash
-  name: 音楽：関美奈子
+  name: 監督：吉原達矢
   type: staff
 - !ruby/hash:TagHash
   name: キャラクターデザイン：竹田逸子

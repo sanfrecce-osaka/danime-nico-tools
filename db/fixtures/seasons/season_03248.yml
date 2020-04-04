@@ -1,0 +1,322 @@
+--- !ruby/hash:SeasonHash
+title: アイドルマスター SideM
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/21/80/5/21805_1_8_8b.png?1552445693000
+outline: できたばかりの小さな芸能事務所「315プロダクション」。そこにスカウトされて集まってきた男性アイドルたち。元弁護士、元外科医、元パイロット――様々な前職を持ち、それぞれの想いを胸にアイドルに転職した彼らが、トップアイドルを目指し、夢に向かって紡ぐ新たな物語。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: ドラマ/青春
+  type: genre
+- !ruby/hash:TagHash
+  name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 寺島拓篤
+  type: cast
+- !ruby/hash:TagHash
+  name: 立木文彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 梅原裕一郎
+  type: cast
+- !ruby/hash:TagHash
+  name: 内田雄馬
+  type: cast
+- !ruby/hash:TagHash
+  name: 八代拓
+  type: cast
+- !ruby/hash:TagHash
+  name: 河西健吾
+  type: cast
+- !ruby/hash:TagHash
+  name: 榎木淳弥
+  type: cast
+- !ruby/hash:TagHash
+  name: 堀江瞬
+  type: cast
+- !ruby/hash:TagHash
+  name: 山谷祥生
+  type: cast
+- !ruby/hash:TagHash
+  name: 白井悠介
+  type: cast
+- !ruby/hash:TagHash
+  name: 中島ヨシキ
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：バンダイナムコエンターテインメント
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：飯塚晴子
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：EFFY
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：原田孝宏
+  type: staff
+- !ruby/hash:TagHash
+  name: 監督：黒木美幸
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：田中裕介
+  type: staff
+- !ruby/hash:TagHash
+  name: アイドルマスター SideMシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2017年
+  type: other
+- !ruby/hash:TagHash
+  name: 2017年秋
+  type: other
+- !ruby/hash:TagHash
+  name: アイドル＆スター
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: 前日譚
+  title: THE IDOLM@STER Prologue SideM -Episode of Jupiter-
+  description: トップアイドルとして活躍していた男性アイドル“Jupiter”。しかし、所属する961プロダクションの裏工作を知った彼ら、事務所を辞め、自分たちだけの力でアイドル活動を始める。協力してくれるスタッフに助けられながら、忙しくも充実した毎日を送っていた3人。しかし、そこに現れた315プロダクション社長・齋藤から投げかけられた言葉は意外なもの――!?
+    Jupiterと315プロダクションとの出会いを描いた「アイドルマスター SideM」のプロローグ。<br><br>天道 輝(DRAMATIC STARS):仲村宗悟／桜庭
+    薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>次話→so36581221
+  length_seconds: 2064
+  content_id: so36581220
+  default_thread_id: 1585348812
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581220/36581220.50648505
+- !ruby/hash:EpisodeHash
+  episode_no: 第1話
+  title: 理由あって、アイドル！
+  description: 弁護士の仕事に行き詰まりを感じていた天道輝は、酔った勢いでアイドルになる契約を交わしてしまう。身に覚えのない契約書と名刺の住所を頼りに315プロダクションを訪れた天道。そこで新人アイドルとして同じくスカウトされた元外科医・桜庭薫と元パイロット・柏木翼に出会う。アイドルになるつもりはなかった天道だが、プロデューサーの提案で、桜庭、柏木とともにライブハウスへと赴くことに。そこでアイドルグループ・Jupiterのライブを目の当たりにした天道は、あることに気づく…。<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581220←前話｜次話→so36581222　第一話→so36581220
+  length_seconds: 1448
+  content_id: so36581221
+  default_thread_id: 1585348820
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581221/36581221.38022213
+- !ruby/hash:EpisodeHash
+  episode_no: 第2話
+  title: それぞれの輝き
+  description: 商店街で働く仲間、教師、高校生バンド…と、様々な前職を持つアイドル達が、続々と集まってきた315プロダクション。しかし、彼らはアイドルとしてはまだまだ前途多難のようす。そんな中、勉強のため、アイドルの先輩であるJupiterのライブを全員で見学することに。ところが、悪天候からライブは中止の危機に追い込まれてしまう。果たしてJupiterのライブは無事開催されるのか、そして新人アイドル達は――!?<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581221←前話｜次話→so36581223　第一話→so36581220
+  length_seconds: 1445
+  content_id: so36581222
+  default_thread_id: 1585348814
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581222/36581222.76930981
+- !ruby/hash:EpisodeHash
+  episode_no: 第3話
+  title: 飛び立つ勇気
+  description: ついにアイドルとして正式にデビューすることが決まったDRAMATIC STARS。メンバーそれぞれの思いが交錯するなか、営業に取材に忙しい日々を送っていた。デビューを目前にして少しずつと距離が縮まってきた3人。そしていよいよ、音楽番組の公開収録でデビュー曲を披露する日がやってくる。しかし、リハーサルの最中、柏木に異変が――!?<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581222←前話｜次話→so36581245　第一話→so36581220
+  length_seconds: 1445
+  content_id: so36581223
+  default_thread_id: 1585348810
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581223/36581223.9313419
+- !ruby/hash:EpisodeHash
+  episode_no: 第4話
+  title: ハッピースマイル
+  description: 商店街の紹介ムービーを撮影することになったBeit。そこはBeitのメンバーが出会うきっかけとなった、思い出の場所だった。しかし、近くに大型ショッピングモールの建設が決まり、商店街の人々は客足が遠のくのではないかと危惧していた。Beitの3人は商店街を盛り上げるために、お祭りでライブを開催することになったが…。<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581223←前話｜次話→so36581292　第一話→so36581220
+  length_seconds: 1445
+  content_id: so36581245
+  default_thread_id: 1585349645
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581245/36581245.27313038
+- !ruby/hash:EpisodeHash
+  episode_no: 第5話
+  title: 先生よ、大志を抱け！
+  description: 予備校主催の受験生応援ステージに出演することになったS.E.M。ステージで初披露する振付けを完璧なものにするために、トレーニングとして早朝ランニングを取り入れることに。S.E.Mだけでなく、DRAMATIC
+    STARS、Beit、High×Jokerのメンバーも加わり、一丸となってトレーニングに励むアイドル達。果たしてS.E.Mのステージは成功するのか――!?<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581245←前話｜次話→so36581293　第一話→so36581220
+  length_seconds: 1446
+  content_id: so36581292
+  default_thread_id: 1585350849
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581292/36581292.55488908
+- !ruby/hash:EpisodeHash
+  episode_no: 第6話
+  title: 二人が選ぶVictory
+  description: 盲腸のため、緊急入院となってしまったプロデューサー。入院先の病院で蒼井享介・悠介の双子の兄弟に出会う。二人はプロのサッカー選手として活躍しており、兄の悠介は試合中に負傷して入院をしていた。コンビネーションばっちりの蒼井兄弟。交流を深めるうち、二人にアイドルとしての素質を感じたプロデューサーは、315プロダクションにスカウトすることを決める。そんな折、悠介の引退報道が出て――!?<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581292←前話｜次話→so36581294　第一話→so36581220
+  length_seconds: 1446
+  content_id: so36581293
+  default_thread_id: 1585350606
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581293/36581293.82766100
+- !ruby/hash:EpisodeHash
+  episode_no: 第7話
+  title: 青春のリミット
+  description: ついにメジャーデビューが決定したHigh×Joker。知名度アップのために自作のプロモーションビデオを撮影することに。密着取材を続けていくうちに、お互いに知らなかった一面や、胸に秘めた本音が明らかになっていく。四季が軽音部に入部した理由、そしてHigh×Joker結成の経緯とは――？<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581293←前話｜次話→so36581295　第一話→so36581220
+  length_seconds: 1445
+  content_id: so36581294
+  default_thread_id: 1585350608
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581294/36581294.90061995
+- !ruby/hash:EpisodeHash
+  episode_no: 第8話
+  title: 海・合宿・315の夏！
+  description: 合同ライブの準備のため、海辺の宿舎で合宿をすることになった315プロダクションのメンバー。弱点を克服するためにチームに分かれてトレーニングをすることに。練習も食事の準備も自分たちの力でこなしていくうち、メンバー同士の絆も深まっていく。果たして合宿の成果は――？<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581294←前話｜次話→so36581296　第一話→so36581220
+  length_seconds: 1445
+  content_id: so36581295
+  default_thread_id: 1585350723
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581295/36581295.25871375
+- !ruby/hash:EpisodeHash
+  episode_no: 第9話
+  title: Over AGAIN…
+  description: アイドルとしての活動が少しずつ軌道に乗り始め、名指しの仕事も増えてきた315プロダクションのメンバー。Jupiterの面々も先輩としてメンバーをフォローしながら、ますます熱心に練習へ打ち込んでいく。さらなる高みを目指すJupiterの胸の内には、自分たちの運命を変えたプロデューサーの言葉が強く焼き付いていた…。<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581295←前話｜次話→so36581297　第一話→so36581220
+  length_seconds: 1445
+  content_id: so36581296
+  default_thread_id: 1585350603
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581296/36581296.86894542
+- !ruby/hash:EpisodeHash
+  episode_no: 第10話
+  title: sunset of youth
+  description: 自分たちの高校の文化祭でライブを行うことになったHigh×Joker。新曲を披露しようと盛り上がるメンバーの中で旬だけがどこか思いつめた様子で…。
+    完璧な演奏を披露したいと願う旬は次第に焦る気持ちを露わにする。果たして文化祭ライブは成功するのか――？<br><br>天道 輝(DRAMATIC STARS):仲村宗悟／桜庭
+    薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581296←前話｜次話→so36581298　第一話→so36581220
+  length_seconds: 1445
+  content_id: so36581297
+  default_thread_id: 1585350727
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581297/36581297.75178036
+- !ruby/hash:EpisodeHash
+  episode_no: 第11話
+  title: 風薫る日の決意
+  description: 315プロダクションのメンバーが一丸となって開催する合同ライブが決定し、告知活動に追われるメンバーたち。そんな中、桜庭がソロ活動をしたいとプロデューサーに申し出る。突然の申し出に驚く天道と柏木だが、それぞれのやり方でライブの準備に取りかかることに。そんな折、突然桜庭のもとに天道から連絡が入り――。<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581297←前話｜次話→so36581299　第一話→so36581220
+  length_seconds: 1446
+  content_id: so36581298
+  default_thread_id: 1585350548
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581298/36581298.90060289
+- !ruby/hash:EpisodeHash
+  episode_no: 第12話
+  title: どんな理由も、どんな夢も、、、
+  description: 事務所に相談せずソロの仕事を決めた桜庭。プロデューサーやDRAMATIC STARSのメンバーが心配するなか、桜庭はひとり仕事をこなしていく。心身の疲労もかえりみず、完璧を目指してひたすら仕事とレッスンに打ち込む桜庭だが、とうとう倒れてしまう。その時、315プロダクションのメンバーは――。<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581298←前話｜次話→so36581300　第一話→so36581220
+  length_seconds: 1446
+  content_id: so36581299
+  default_thread_id: 1585350610
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581299/36581299.71744619
+- !ruby/hash:EpisodeHash
+  episode_no: 第13話
+  title: ずっと、ずっと、その先へ
+  description: いよいよ315プロダクション合同ライブ当日。大勢のファンが見守るなか、ライブが幕を開ける。それぞれの思いを胸に最高のパフォーマンスを繰り広げるアイドルたちと、ステージに立つ彼らを見守るプロデューサー。果たしてライブの行方は、そして315プロダクションの未来は――？<br><br>天道
+    輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江
+    瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田 類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上
+    翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美 旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺
+    紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+    賢:河西健吾／齋藤孝司:立木文彦<br><br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+    陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures<br><br>© BNEI／PROJECT SideM<br><br>so36581299←前話　第一話→so36581220
+  length_seconds: 1446
+  content_id: so36581300
+  default_thread_id: 1585350785
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36581300/36581300.46429727
+cast: "[キャスト]<br>天道 輝(DRAMATIC STARS):仲村宗悟／桜庭 薫(DRAMATIC STARS):内田雄馬／柏木 翼(DRAMATIC
+  STARS):八代 拓／鷹城恭二(Beit):梅原裕一郎／ピエール(Beit):堀江 瞬／渡辺みのり(Beit):高塚智人／硲 道夫(S.E.M):伊東健人／舞田
+  類(S.E.M):榎木淳弥／山下次郎(S.E.M):中島ヨシキ／伊瀬谷四季(High×Joker):野上 翔／秋山隼人(High×Joker):千葉翔也／若里春名(High×Joker):白井悠介／冬美
+  旬(High×Joker):永塚拓馬／榊 夏来(High×Joker):渡辺 紘／蒼井享介(W):山谷祥生／蒼井悠介(W):菊池勇成／天ヶ瀬冬馬(Jupiter):寺島拓篤／伊集院北斗(Jupiter):神原大地／御手洗翔太(Jupiter):松岡禎丞／山村
+  賢:河西健吾／齋藤孝司:立木文彦"
+staff: "[スタッフ]<br>原作:バンダイナムコエンターテインメント／監督:原田孝宏、黒木美幸／シリーズ構成:綾奈ゆにこ、菅原雪絵／キャラクターデザイン:田中裕介、飯塚晴子／総作画監督:田中裕介、吉川真帆／色彩設計:横田明日香／美術設定:藤井一志／美術監督:薄井久代／3Dディレクター:福田
+  陽／撮影監督:長瀬由起子／編集:三嶋章紀／音楽:EFFY／音響監督:濱野高年／制作:A-1 Pictures"
+produced_year: "[製作年]<br>2017年"
+copyright: "© BNEI／PROJECT SideM"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: アイドルマスター SideM 理由あってMini！
+- !ruby/hash:SeasonHash
+  title: アイドルマスター
+- !ruby/hash:SeasonHash
+  title: アイドルマスター XENOGLOSSIA
+- !ruby/hash:SeasonHash
+  title: ぷちます！ -プチ・アイドルマスター-
+- !ruby/hash:SeasonHash
+  title: ぷちます！！ -プチプチ・アイドルマスター-
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　2期
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　3rd SEASON
+- !ruby/hash:SeasonHash
+  title: アイドルマスター シンデレラガールズ劇場　CLIMAX SEASON

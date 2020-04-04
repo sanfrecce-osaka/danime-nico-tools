@@ -1,0 +1,153 @@
+--- !ruby/hash:SeasonHash
+title: ケムリクサ
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/23/61/4/23614_1_8_8b.png?1583287784000
+outline: 赤い霧に包まれた、荒廃した建造物に囲まれた人気の無い世界を舞台に3人の姉妹が生き抜く物語。物語の中心的人物でまとめ髪の特徴的なりん、猫耳でいつもおっとりしているお姉さんキャラのりつ、メイド調の服に身を包み天真爛漫なムードメーカーりな。謎多き世界でこの姉妹が目指すものは一体…
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: アクション/バトル
+  type: genre
+- !ruby/hash:TagHash
+  name: 小松未可子
+  type: cast
+- !ruby/hash:TagHash
+  name: 清都ありさ
+  type: cast
+- !ruby/hash:TagHash
+  name: 鷲見友美ジェナ
+  type: cast
+- !ruby/hash:TagHash
+  name: 監督：たつき
+  type: staff
+- !ruby/hash:TagHash
+  name: アニメーション制作：ヤオヨロズ
+  type: staff
+- !ruby/hash:TagHash
+  name: 原作：たつき
+  type: staff
+- !ruby/hash:TagHash
+  name: 製作年代：2010年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：2019年
+  type: other
+- !ruby/hash:TagHash
+  name: 2019年冬
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.1
+  title: ''
+  description: 赤い霧に包まれた世界。荒廃した建造物の中、水を求め探索しているまとめ髪の少女りんとツインテールが特徴的な少女りな。二人が、離れた場所にいるもう一人の少女りつに水を見つけた事を報告しようとしたその矢先…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>次話→so36468523
+  length_seconds: 1421
+  content_id: so36468522
+  default_thread_id: 1583474165
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468522/36468522.56518266
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.2
+  title: ''
+  description: わかばの機転で窮地から脱したりん、りつ、りなの姉妹一行。まだ正体のわからないわかばではあるが、りんはわかばを探索に同行させる<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468522←前話｜次話→so36468524　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468523
+  default_thread_id: 1583474177
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468523/36468523.64381530
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.3
+  title: ''
+  description: 水を求めて移動している一行。好奇心旺盛なわかばは道中で新しい景色と色々な物に興味を持ち、その都度りなが説明をする。そんな一行が目にしたものは<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468523←前話｜次話→so36468577　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468524
+  default_thread_id: 1583474173
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468524/36468524.84824886
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.4
+  title: ''
+  description: ケムリクサに対して人並みならない興味を抱くわかば。りつから譲り受けたケムリクサをはじめこの世界には様々な種類のケムリクサがある事を知る。そして一同は空橋へ向かう<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468524←前話｜次話→so36468576　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468577
+  default_thread_id: 1583474585
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468577/36468577.88970406
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.5
+  title: ''
+  description: 引き続き水を求めて移動する一行、途中徒歩での移動を余儀なくされミドリに対して水の補給を行うことに、その一行の元に…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468577←前話｜次話→so36468575　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468576
+  default_thread_id: 1583474465
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468576/36468576.95511971
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.6
+  title: ''
+  description: 体力の温存の為に車中で睡眠をとる姉妹たち、一人ケムリクサを求めて歩きまわるわかばは、夢中になりすぎるあまり迷子になってしまうがその建物の奥深くで…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468576←前話｜次話→so36468653　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468575
+  default_thread_id: 1583474348
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468575/36468575.94196478
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.7
+  title: ''
+  description: 遂に未踏の島に上陸した一行、トンネルの先は今までとは明らかに雰囲気が異なる。期待を込めて根を辿っていくが…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468575←前話｜次話→so36468652　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468653
+  default_thread_id: 1583476023
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468653/36468653.11295337
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.8
+  title: ''
+  description: 前へと進む事を決めた一行、今までになく濃い赤霧の中、次々と襲い掛かってくる赤虫に立ち向かうりん、りつ、りな。一行は過酷な現実を前に…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468653←前話｜次話→so36468665　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468652
+  default_thread_id: 1583476049
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468652/36468652.42948225
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.9
+  title: ''
+  description: 新たな島に到達したりん、りつ、りな、そしてわかば。目的地までの道中は困難であり一行はどのようにして進めばよいのか策を練る事に…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468652←前話｜次話→so36468666　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468665
+  default_thread_id: 1583476031
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468665/36468665.21831648
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.10
+  title: ''
+  description: りん、りつ、りな、わかば、一行はそれぞれの個性を生かしつつ全力で赤虫に立ち向かう、そしてついに…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468665←前話｜次話→so36468820　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468666
+  default_thread_id: 1583476043
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468666/36468666.47778412
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.11
+  title: ''
+  description: 赤い木に向かうりんとわかばは葉の記憶を見る、そこには最初の人と…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468666←前話｜次話→so36468821　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468820
+  default_thread_id: 1583479397
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468820/36468820.75474927
+- !ruby/hash:EpisodeHash
+  episode_no: Episode.12
+  title: ''
+  description: 持てる力を全て使い根に立ち向かう一同。りん、りつ、りな、わかば、その旅の結末は…<br><br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ<br><br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ<br><br>©ヤオヨロズケムリクサプロジェクト<br><br>so36468820←前話　第一話→so36468522
+  length_seconds: 1421
+  content_id: so36468821
+  default_thread_id: 1583479398
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36468821/36468821.82912520
+cast: "[キャスト]<br>りん:小松未可子／りつ:清都ありさ／りな:鷲見友美ジェナ"
+staff: "[スタッフ]<br>原作・脚本・監督:たつき／作画監督:伊佐佳久／美術監督:白水優子／アニメプロデューサー:福原慶匡／アニメーション制作:ヤオヨロズ"
+produced_year: "[製作年]<br>2019年"
+copyright: "©ヤオヨロズケムリクサプロジェクト"
+related_seasons: !ruby/array:Hashie::Array []

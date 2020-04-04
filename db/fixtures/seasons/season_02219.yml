@@ -676,4 +676,6 @@ staff: "[スタッフ]<br>原作:SPIN MASTER／原案:杉本 道俊／監督:市
   佑希／音響監督:はた しょう二／音楽: 高梨 康治 (Team－MAX)／アニメーション制作:トムス・エンタテインメント／アニメーション制作協力:スタジオ雲雀"
 produced_year: "[製作年]<br>2019年"
 copyright: "©S/T/N/BBP PROJECT, TV TOKYO"
-related_seasons: !ruby/array:Hashie::Array []
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 爆丸アーマードアライアンス

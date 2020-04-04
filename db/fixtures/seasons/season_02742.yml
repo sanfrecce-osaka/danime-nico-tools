@@ -29,10 +29,10 @@ tags: !ruby/array:Hashie::Array
   name: 速水奨
   type: cast
 - !ruby/hash:TagHash
-  name: 水瀬いのり
+  name: 高垣彩陽
   type: cast
 - !ruby/hash:TagHash
-  name: 高垣彩陽
+  name: 水瀬いのり
   type: cast
 - !ruby/hash:TagHash
   name: 小野友樹
