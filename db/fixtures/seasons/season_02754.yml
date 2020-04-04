@@ -20,10 +20,10 @@ tags: !ruby/array:Hashie::Array
   name: 花江夏樹
   type: cast
 - !ruby/hash:TagHash
-  name: 花守ゆみり
+  name: 牧野由依
   type: cast
 - !ruby/hash:TagHash
-  name: 牧野由依
+  name: 花守ゆみり
   type: cast
 - !ruby/hash:TagHash
   name: 石川由依

@@ -23,10 +23,10 @@ tags: !ruby/array:Hashie::Array
   name: 富田美憂
   type: cast
 - !ruby/hash:TagHash
-  name: 白井悠介
+  name: 長縄まりあ
   type: cast
 - !ruby/hash:TagHash
-  name: 長縄まりあ
+  name: 白井悠介
   type: cast
 - !ruby/hash:TagHash
   name: 鈴木愛奈

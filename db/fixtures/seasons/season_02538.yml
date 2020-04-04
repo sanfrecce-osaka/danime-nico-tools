@@ -15,6 +15,12 @@ tags: !ruby/array:Hashie::Array
   name: ドラマ/青春
   type: genre
 - !ruby/hash:TagHash
+  name: 沢城みゆき
+  type: cast
+- !ruby/hash:TagHash
+  name: 石田彰
+  type: cast
+- !ruby/hash:TagHash
   name: 茅野愛衣
   type: cast
 - !ruby/hash:TagHash
@@ -22,6 +28,9 @@ tags: !ruby/array:Hashie::Array
   type: cast
 - !ruby/hash:TagHash
   name: 松岡禎丞
+  type: cast
+- !ruby/hash:TagHash
+  name: 竹達彩奈
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：A-1 Pictures

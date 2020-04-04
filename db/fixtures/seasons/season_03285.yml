@@ -1,0 +1,164 @@
+--- !ruby/hash:SeasonHash
+title: 新世紀GPX サイバーフォーミュラZERO
+watchable: true
+thumbnail_url: https://cs1.anime.dmkt-sp.jp/anime_kv/img/11/48/6/11486_1_8_8b.png?1551174403000
+outline: 第5戦の最中、｢ZEROの領域｣に達したハヤトはクラッシュしてしまう。事故のトラウマから逃げるため、一度は引退しあすかと生活を始めたハヤトだったが、レースへの思いは消し去れず、再びサーキットへ復帰する。そしてハヤトは、｢ZEROの領域｣への挑戦を続けていく。その地平の先に待つものは…。
+tags: !ruby/array:Hashie::Array
+- !ruby/hash:TagHash
+  name: SF/ファンタジー
+  type: genre
+- !ruby/hash:TagHash
+  name: ロボット/メカ
+  type: genre
+- !ruby/hash:TagHash
+  name: スポーツ/競技
+  type: genre
+- !ruby/hash:TagHash
+  name: 緑川光
+  type: cast
+- !ruby/hash:TagHash
+  name: 速水奨
+  type: cast
+- !ruby/hash:TagHash
+  name: 三石琴乃
+  type: cast
+- !ruby/hash:TagHash
+  name: 関俊彦
+  type: cast
+- !ruby/hash:TagHash
+  name: 冬馬由美
+  type: cast
+- !ruby/hash:TagHash
+  name: 小野健一
+  type: cast
+- !ruby/hash:TagHash
+  name: 金丸淳一
+  type: cast
+- !ruby/hash:TagHash
+  name: 優希比呂
+  type: cast
+- !ruby/hash:TagHash
+  name: 安達忍
+  type: cast
+- !ruby/hash:TagHash
+  name: 原作：矢立肇
+  type: staff
+- !ruby/hash:TagHash
+  name: 音楽：大谷幸
+  type: staff
+- !ruby/hash:TagHash
+  name: キャラクターデザイン：吉松孝博
+  type: staff
+- !ruby/hash:TagHash
+  name: 新世紀GPXサイバーフォーミュラシリーズ
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年代：1990年代
+  type: other
+- !ruby/hash:TagHash
+  name: 製作年：1994年
+  type: other
+episodes: !ruby/array:Hashie::Array
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND1
+  title: 悪夢の限界領域
+  description: 第12回WGPXでも絶好調のハヤトだが、第5戦の走行中奇妙な感覚に捕らわれて、ランドルを巻き込んでまさかの大事故を起してしまった。生死の境を彷徨った後、意識を取り戻すも今期の復帰を絶たれたハヤトは、そのトラウマからレースを離れ安穏な生活を送ることを夢み…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>次話→so36577786
+  length_seconds: 1716
+  content_id: so36577785
+  default_thread_id: 1585298583
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577785/36577785.5988427
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND2
+  title: 陽だまりの中で…
+  description: 修の心配をよそに、アスカと婚約し平凡だが穏やかな新生活をはじめたハヤト。しかし、新生活を楽しみながらも、ドライビングへの渇望と、事故の、そしてZEROの領域へのトラウマと恐怖という相反する感情に、その思いはかき乱される…。結論を見出せるのか、ハヤトよ。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>so36577785←前話｜次話→so36577787　第一話→so36577785
+  length_seconds: 1723
+  content_id: so36577786
+  default_thread_id: 1585298763
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577786/36577786.77870883
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND3
+  title: 再びサーキットへ
+  description: レースへの復帰を決意したハヤトだが、一昨年来のアスラーダのスペックは、既に競争力を失いつつあった。そうした中で、ZEROの領域へのチャレンジを試みようと思うも、加賀から決してそれに近づかぬよう激しく詰め寄られたハヤトに、事故のトラウマが情容赦無く襲いかかる!<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>so36577786←前話｜次話→so36578937　第一話→so36577785
+  length_seconds: 1665
+  content_id: so36577787
+  default_thread_id: 1585298769
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577787/36577787.50570961
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND4
+  title: 天馬(ペガサス)の翔くとき
+  description: ブースト・レバーを引けず、苦戦を強いられるハヤト。しかしそれでもハヤトを許すことができず、思い悩むあすか。そんなあすかに、クレアは自分と修のかつての経験を聞かせチームへの復帰を促がすのだった。そうして迎える7戦決勝。インカムに響くアスカの叫びにハヤトは…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>so36577787←前話｜次話→so36577789　第一話→so36577785
+  length_seconds: 1657
+  content_id: so36578937
+  default_thread_id: 1585309742
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36578937/36578937.78437543
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND5
+  title: 閉ざされた明日
+  description: 加賀の忠告も聞かずにZEROの領域での走りを続け、消耗しボロボロになっていくハヤト。さらにハヤトに憎しみを抱くアンリの策謀が、謂れの無いパッシングの嵐を巻き起こす。しかしハヤトは挫けず、果敢なチャレンジに挑んで行く。アンリに本当の走りを知らしめるために…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>so36578937←前話｜次話→so36577790　第一話→so36577785
+  length_seconds: 1712
+  content_id: so36577789
+  default_thread_id: 1585299794
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577789/36577789.19485932
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND6
+  title: ただ勝利のために…
+  description: みきとの不仲。振わない成績とそれによる解雇動議と、公私を問わずに押し寄せる試練に、自暴自棄になる新条。しかし、そんなライバルを許せない加賀の痛打と、それでも彼を包み込むみきの愛情でようやく奮起した新条。そして進退をかけた第7戦が、今スタートを切る!<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>so36577789←前話｜次話→so36577791　第一話→so36577785
+  length_seconds: 1666
+  content_id: so36577790
+  default_thread_id: 1585298523
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577790/36577790.12732548
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND7
+  title: 死闘への序曲
+  description: アオイへの移籍を決めたみき。医師を目差し留学を決意したアスカ。ハヤトと決着をつけるため、ついに自らも封印していたZEROの領域に挑む加賀。走ることの意味を理解しようとしないアンリにけじめをつけることを誓うハヤト。それぞれの新たなる旅立ちを控えた最終戦が迫る。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>so36577790←前話｜次話→so36577792　第一話→so36577785
+  length_seconds: 1730
+  content_id: so36577791
+  default_thread_id: 1585298823
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577791/36577791.50199611
+- !ruby/hash:EpisodeHash
+  episode_no: ROUND8
+  title: それぞれの未来へ
+  description: ついに迎えた最終戦。リタイア続出の過酷なレースが展開される中、ハヤトと加賀は共に知覚の限界を超えた領域で、マシンと肉体と精神を最大限に駆使する壮絶なバトルを繰り広げる。そしてその戦いは、彼らが走るということの意味をも明らかにするものになって行く…。<br><br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達
+    忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川 光／ブリード加賀:関 俊彦／アスラーダ:小野健一<br><br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+    幸<br><br>©サンライズ<br><br>so36577791←前話　第一話→so36577785
+  length_seconds: 1676
+  content_id: so36577792
+  default_thread_id: 1585299795
+  channel_id: 2632720
+  thumbnail_url: https://nicovideo.cdn.nimg.jp/thumbnails/36577792/36577792.39975839
+cast: "[キャスト]<br>風見ハヤト:金丸淳一／菅生あすか:三石琴乃／城之内みき:安達 忍／クレア:冬馬由美／菅生 修:速水 奨／アンリ:結城比呂／新条直輝:縁川
+  光／ブリード加賀:関 俊彦／アスラーダ:小野健一"
+staff: "[スタッフ]<br>原作:矢立肇／総監督:福田己津央／シリーズ構成:星山博之／キャラクター原案:いのまたむつみ／キャラクターデザイン:吉松孝博(スタジオライブ)／マシンデザイン:河森正治(スタジオぬえ)／総作画監督:吉松孝博(スタジオライブ)／音楽:大谷
+  幸"
+produced_year: "[製作年]<br>1994年"
+copyright: "©サンライズ"
+related_seasons: !ruby/array:Hashie::Array
+- !ruby/hash:SeasonHash
+  title: 新世紀GPXサイバーフォーミュラ
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX　サイバーフォーミュラ11
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX　サイバーフォーミュラSAGA
+- !ruby/hash:SeasonHash
+  title: 新世紀GPX　サイバーフォーミュラSIN

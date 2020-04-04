@@ -44,10 +44,10 @@ tags: !ruby/array:Hashie::Array
   name: 加隈亜衣
   type: cast
 - !ruby/hash:TagHash
-  name: 神奈延年
+  name: 本渡楓
   type: cast
 - !ruby/hash:TagHash
-  name: 本渡楓
+  name: 神奈延年
   type: cast
 - !ruby/hash:TagHash
   name: アニメーション制作：SILVER LINK.
